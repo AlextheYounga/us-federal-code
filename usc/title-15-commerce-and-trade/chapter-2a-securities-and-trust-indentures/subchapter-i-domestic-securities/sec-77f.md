@@ -8,7 +8,7 @@ Any security may be registered with the Commission under the terms and condition
 
 #### (1) Fee payment required ####
 
-At the time of filing a registration statement, the applicant shall pay to the Commission a fee at a rate that shall be equal to $92 per $1,000,000 of the maximum aggregate price at which such securities are proposed to be offered, except that during fiscal year 2003 and any succeeding fiscal year such fee shall be adjusted pursuant to paragraph (2).
+At the time of filing a registration statement, the applicant shall pay to the Commission a fee at a rate that shall be equal to $92 <sup><a href="#77f_1_target" name="77f_1">1</a></sup> per $1,000,000 of the maximum aggregate price at which such securities are proposed to be offered, except that during fiscal year 2003 and any succeeding fiscal year such fee shall be adjusted pursuant to paragraph (2).
 
 #### (2) Annual adjustment ####
 
@@ -80,10 +80,6 @@ Any emerging growth company, prior to its initial public offering date, may conf
 Notwithstanding any other provision of this subchapter, the Commission shall not be compelled to disclose any information provided to or obtained by the Commission pursuant to this subsection. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552. Information described in or obtained pursuant to this subsection shall be deemed to constitute confidential information for purposes of section 78x(b)(2) of this title.
 
 (May 27, 1933, ch. 38, title I, §6, 48 Stat. 78; Pub. L. 89–289, §1, Oct. 22, 1965, 79 Stat. 1051; Pub. L. 100–181, title II, §205, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 104–290, title IV, §404, Oct. 11, 1996, 110 Stat. 3441; Pub. L. 107–123, §4, Jan. 16, 2002, 115 Stat. 2393; Pub. L. 111–203, title IX, §991(b)(1), July 21, 2010, 124 Stat. 1951; Pub. L. 112–106, title I, §106(a), Apr. 5, 2012, 126 Stat. 312; Pub. L. 114–94, div. G, title LXXI, §§71001, 71002, Dec. 4, 2015, 129 Stat. 1783.)
-
-#### Adjustment of Fee Amount ####
-
-For adjustment of certain fee amounts specified in this section, that is not reflected in text, see Adjustment of Registration Fee Rate notes below.
 
 #### References in Text ####
 
@@ -174,5 +170,7 @@ By order dated Aug. 30, 2013, the Securities and Exchange Commission adjusted th
 By order dated Aug. 31, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $136.40 per $1,000,000, effective Oct. 1, 2012, see 77 F.R. 55240.
 
 By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
+
+[<sup>1</sup> See Adjustment of Registration Fee Rate notes below.](#77f_1)
 
 [<sup>1</sup> See References in Text note below.](#77f_1)

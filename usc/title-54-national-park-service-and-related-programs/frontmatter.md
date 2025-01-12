@@ -120,6 +120,8 @@ Subtitle III—National Preservation Programs
 
 3083. National Underground Railroad Network to Freedom 308301
 
+3084 2 U.S. Civil Rights Network 308401
+
 3085. National Women's Rights History Project 308501
 
 3087. National Maritime Heritage 308701
@@ -147,6 +149,8 @@ Subtitle III—National Preservation Programs
 3203. Monuments, Ruins, Sites, and Objects of Antiquity 320301
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–104, §3(b), Jan. 8, 2018, 131 Stat. 2261, added item for chapter 3084.
 
 **2016**—Pub. L. 114–289, title I, §101(b), title III, §301(b), Dec. 16, 2016, 130 Stat. 1484, 1487, added items for chapters 1008 and 1035.
 
@@ -684,4 +688,6 @@ Pub. L. 113–287, §6, Dec. 19, 2014, 128 Stat. 3272, provided that:
 
 Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272, repealed specified laws relating to the National Park System, except with respect to rights and duties that matured, penalties that were incurred, or proceedings that were begun before Dec. 19, 2014.
 
-[<sup>1</sup> So in original.](#_1)
+[<sup>1</sup> Item for chapter 1035 added by Pub. L. 114–289 without corresponding amendment of item for reserved chapters.](#_1)
+
+[<sup>2</sup> So in original. Probably should be followed by a period.](#_2)

@@ -56,15 +56,15 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 (1)(A) At the time of filing such preliminary proxy solicitation material as the Commission may require by rule pursuant to subsection (a) of this section that concerns an acquisition, merger, consolidation, or proposed sale or other disposition of substantially all the assets of a company, the person making such filing, other than a company registered under the Investment Company Act of 1940 [15 U.S.C. 80a–1 et seq.], shall pay to the Commission the following fees:
 
-(i) for preliminary proxy solicitation material involving an acquisition, merger, or consolidation, if there is a proposed payment of cash or transfer of securities or property to shareholders, a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of such proposed payment, or of the value of such securities or other property proposed to be transferred; and
+(i) for preliminary proxy solicitation material involving an acquisition, merger, or consolidation, if there is a proposed payment of cash or transfer of securities or property to shareholders, a fee at a rate that, subject to paragraph (4), is equal to $92 <sup><a href="#78n_1_target" name="78n_1">1</a></sup> per $1,000,000 of such proposed payment, or of the value of such securities or other property proposed to be transferred; and
 
-(ii) for preliminary proxy solicitation material involving a proposed sale or other disposition of substantially all of the assets of a company, a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of the cash or of the value of any securities or other property proposed to be received upon such sale or disposition.
+(ii) for preliminary proxy solicitation material involving a proposed sale or other disposition of substantially all of the assets of a company, a fee at a rate that, subject to paragraph (4), is equal to $92 <sup><a href="#78n_1_target" name="78n_1">1</a></sup> per $1,000,000 of the cash or of the value of any securities or other property proposed to be received upon such sale or disposition.
 
 (B) The fee imposed under subparagraph (A) shall be reduced with respect to securities in an amount equal to any fee paid to the Commission with respect to such securities in connection with the proposed transaction under section 77f(b) of this title, or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection. Where two or more companies involved in an acquisition, merger, consolidation, sale, or other disposition of substantially all the assets of a company must file such proxy material with the Commission, each shall pay a proportionate share of such fee.
 
 (2) At the time of filing such preliminary information statement as the Commission may require by rule pursuant to subsection (c) of this section, the issuer shall pay to the Commission the same fee as required for preliminary proxy solicitation material under paragraph (1) of this subsection.
 
-(3) At the time of filing such statement as the Commission may require by rule pursuant to subsection (d)(1) of this section, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of the aggregate amount of cash or of the value of securities or other property proposed to be offered. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to such securities in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)), or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection.
+(3) At the time of filing such statement as the Commission may require by rule pursuant to subsection (d)(1) of this section, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraph (4), is equal to $92 <sup><a href="#78n_1_target" name="78n_1">1</a></sup> per $1,000,000 of the aggregate amount of cash or of the value of securities or other property proposed to be offered. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to such securities in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)), or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this subsection.
 
 (4) Annual adjustment.—For each fiscal year, the Commission shall by order adjust the rate required by paragraphs (1) and (3) for such fiscal year to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 (15 U.S.C. 77f(b)) for such fiscal year.
 
@@ -191,10 +191,6 @@ The Commission shall, by rule, require each issuer to disclose in any proxy or c
 (2) held, directly or indirectly, by the employee or member of the board of directors.
 
 (June 6, 1934, ch. 404, title I, §14, 48 Stat. 895; Pub. L. 88–467, §5, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §3, July 29, 1968, 82 Stat. 455; Pub. L. 91–567, §§3–5, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 98–38, §2(b), June 6, 1983, 97 Stat. 205; Pub. L. 99–222, §2, Dec. 28, 1985, 99 Stat. 1737; Pub. L. 101–550, title III, §302, Nov. 15, 1990, 104 Stat. 2721; Pub. L. 103–202, title III, §302(a), Dec. 17, 1993, 107 Stat. 2359; Pub. L. 105–353, title III, §301(b)(7), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 107–123, §6, Jan. 16, 2002, 115 Stat. 2396; Pub. L. 111–203, title IX, §§953(a), 955, 971(a), 991(b)(3), July 21, 2010, 124 Stat. 1903, 1904, 1915, 1953; Pub. L. 112–106, title I, §102(a)(2), Apr. 5, 2012, 126 Stat. 309.)
-
-#### Adjustment of Fee Amount ####
-
-For adjustment of certain fee amounts specified in this section, that is not reflected in text, see Adjustment of Registration Fee Rate notes below.
 
 #### References in Text ####
 
@@ -341,3 +337,5 @@ By order dated Aug. 30, 2013, the Securities and Exchange Commission adjusted th
 By order dated Aug. 31, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $136.40 per $1,000,000, effective Oct. 1, 2012, see 77 F.R. 55240.
 
 By order dated Aug. 31, 2011, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $114.60 per $1,000,000, effective Oct. 1, 2011, see 76 F.R. 55139.
+
+[<sup>1</sup> See Adjustment of Registration Fee Rate notes below.](#78n_1)

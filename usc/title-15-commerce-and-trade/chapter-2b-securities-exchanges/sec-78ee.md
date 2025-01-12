@@ -6,11 +6,11 @@ The Commission shall, in accordance with this section, collect transaction fees 
 
 #### (b) Exchange-traded securities ####
 
-Subject to subsection (j), each national securities exchange shall pay to the Commission a fee at a rate equal to $15 per $1,000,000 of the aggregate dollar amount of sales of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) transacted on such national securities exchange.
+Subject to subsection (j), each national securities exchange shall pay to the Commission a fee at a rate equal to $15 <sup><a href="#78ee_1_target" name="78ee_1">1</a></sup> per $1,000,000 of the aggregate dollar amount of sales of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) transacted on such national securities exchange.
 
 #### (c) Off-exchange trades of exchange registered and last-sale-reported securities ####
 
-Subject to subsection (j), each national securities association shall pay to the Commission a fee at a rate equal to $15 per $1,000,000 of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) registered on a national securities exchange or subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association.
+Subject to subsection (j), each national securities association shall pay to the Commission a fee at a rate equal to $15 <sup><a href="#78ee_1_target" name="78ee_1">1</a></sup> per $1,000,000 of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange of securities (other than bonds, debentures, other evidences of indebtedness, security futures products, and options on securities indexes (excluding a narrow-based security index)) registered on a national securities exchange or subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association.
 
 #### (d) Assessments on security futures transactions ####
 
@@ -107,10 +107,6 @@ The Commission shall include in each budget submitted under paragraph (1)—
 (C) a designation of any activities of the Commission for which multi-year budget authority would be suitable.
 
 (June 6, 1934, ch. 404, title I, §31, 48 Stat. 904; Mar. 17, 1944, ch. 101, 58 Stat. 117; Pub. L. 94–29, §22, June 4, 1975, 89 Stat. 162; Pub. L. 104–290, title IV, §405(a), Oct. 11, 1996, 110 Stat. 3442; Pub. L. 105–353, title III, §301(b)(14), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) [title II, §206(f)], Dec. 21, 2000, 114 Stat. 2763, 2763A–432; Pub. L. 107–123, §§2, 3, Jan. 16, 2002, 115 Stat. 2390; Pub. L. 111–203, title IX, §991(a)(1), (d)(1), July 21, 2010, 124 Stat. 1950, 1954.)
-
-#### Adjustment of Fee Amount ####
-
-For adjustment of certain fee amounts specified in this section, that is not reflected in text, see Adjustment of Transaction Fee Rate notes below.
 
 #### Amendments ####
 
@@ -261,3 +257,5 @@ By order dated Apr. 25, 2013, the Securities and Exchange Commission adjusted th
 By order dated Mar. 1, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.40 per $1,000,000, effective Apr. 1, 2012, see 77 F.R. 13663.
 
 By order dated Jan. 20, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $18.00 per $1,000,000, effective Feb. 21, 2012, see 77 F.R. 3818.
+
+[<sup>1</sup> See Adjustment of Transaction Fee Rate notes below.](#78ee_1)

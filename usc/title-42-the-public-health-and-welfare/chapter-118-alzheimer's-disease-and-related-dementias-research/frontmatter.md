@@ -59,3 +59,7 @@ Sec.
 11293. Education programs for safety and transportation personnel.
 
 11294. Authorization of appropriations.
+
+#### Codification ####
+
+Pub. L. 102–507, §2(b), Oct. 24, 1992, 106 Stat. 3281, struck out "SERVICES" before "RESEARCH" in chapter heading.

@@ -72,11 +72,15 @@ Sec.
 
 3558. Effect on existing law.
 
+3559. Federal websites required to be mobile friendly.
+
 #### Codification ####
 
 This chapter was originally added by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302, which act enacted this title, and was based on act Dec. 24, 1942, ch. 811, 56 Stat. 1078, known as the Federal Reports Act of 1942, which was classified to sections 139 to 139f of former Title 5, transferred to chapter 12 (§421 et seq.) of former Title 44, and repealed by Pub. L. 90–620 upon the enactment of this title. Subsequent to its original enactment by Pub. L. 90–620, this chapter was amended generally by Pub. L. 96–511 and again by Pub. L. 104–13. As a result, this chapter is shown herein as having been added beginning with Pub. L. 104–13 without reference to earlier amendatory laws. See Prior Provisions notes throughout this chapter.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–114, §2(b), Jan. 10, 2018, 131 Stat. 2278, added item 3559.
 
 **2014**—Pub. L. 113–283, §2(e)(1), Dec. 18, 2014, 128 Stat. 3086, added heading for subchapter II and items 3551 to 3558 and struck out heading for former subchapter II and items 3531 to 3538 and heading for subchapter III and items 3541 to 3549. Prior to amendment, headings for both subchapters II and III read "INFORMATION SECURITY" and items under each subchapter were substantially similar to items 3551 to 3558.
 

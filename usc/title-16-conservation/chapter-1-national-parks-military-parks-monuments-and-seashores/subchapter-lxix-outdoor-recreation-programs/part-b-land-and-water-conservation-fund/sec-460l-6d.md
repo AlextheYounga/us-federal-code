@@ -56,10 +56,6 @@ The Secretary shall establish a process to ensure that the Secretary responds in
 
 (Pub. L. 106–206, §1, May 26, 2000, 114 Stat. 314; Pub. L. 113–287, §§4(c), 7, Dec. 19, 2014, 128 Stat. 3261, 3272.)
 
-#### Repeals ####
-
-Section repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272, insofar as applicable to the National Park System. See section 100905 of Title 54, National Park Service and Related Programs.
-
 #### Codification ####
 
 Section was not enacted as part of the Land and Water Conservation Fund Act of 1965.
@@ -67,3 +63,7 @@ Section was not enacted as part of the Land and Water Conservation Fund Act of 1
 #### Amendments ####
 
 **2014**—Pub. L. 113–287, §4(c), amended section generally. Prior to amendment, section related to commercial filming with respect to lands under the jurisdiction of the Secretaries of the Interior and Agriculture.
+
+#### Repeals ####
+
+Section repealed by Pub. L. 113–287, §7, Dec. 19, 2014, 128 Stat. 3272, insofar as applicable to the National Park System. See section 100905 of Title 54, National Park Service and Related Programs.

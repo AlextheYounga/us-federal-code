@@ -44,7 +44,7 @@ The park shall not be established until the date on which the Secretary determin
 
 (A) the Secretary has acquired by donation sufficient land or an interest in land within the boundary of the park to constitute a manageable unit;
 
-(B) the State, city, or private property owner, as appropriate, has entered into a written agreement with the Secretary to donate at least 10,000 square feet of space in the East Armory which would include facilities for park administration and visitor services; and
+(B) the State, city, or private property owner, as appropriate, has entered into a written agreement with the Secretary to donate at least 10,000 square feet of space in the Colt Armory Complex which would include facilities for park administration and visitor services; and
 
 (C) the Secretary has entered into a written agreement with the State, city, or other public entity, as appropriate, providing that land owned by the State, city, or other public entity within the Coltsville Historic District shall be managed consistent with this section.
 
@@ -298,7 +298,7 @@ Eight years after December 19, 2014, the Commission shall make a recommendation 
 
 If, based on a recommendation under clause (i), the Secretary determines that the Commission is still necessary, the Secretary may extend the life of the Commission for not more than 10 years.
 
-(Pub. L. 113–291, div. B, title XXX, §3032, Dec. 19, 2014, 128 Stat. 3770.)
+(Pub. L. 113–291, div. B, title XXX, §3032, Dec. 19, 2014, 128 Stat. 3770; Pub. L. 115–111, §1, Jan. 10, 2018, 131 Stat. 2273.)
 
 #### References in Text ####
 
@@ -311,5 +311,9 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (k)(9),
 #### Codification ####
 
 In subsec. (j)(1)(A), "section 100502 of title 54" substituted for "section 12(b) of Public Law 91–383 (commonly known as the 'National Park Service General Authorities Act') (16 U.S.C. 1a–7(b))" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
+
+#### Amendments ####
+
+**2018**—Subsec. (b)(2)(B). Pub. L. 115–111 substituted "Colt Armory Complex" for "East Armory".
 
 [<sup>1</sup> See References in Text note below.](#410qqq_1)

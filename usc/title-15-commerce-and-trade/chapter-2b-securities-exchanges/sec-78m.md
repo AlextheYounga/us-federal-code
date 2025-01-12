@@ -84,7 +84,7 @@ If in the judgment of the Commission any report required under subsection (a) is
 
 (2) For the purpose of this subsection, a purchase by or for the issuer or any person controlling, controlled by, or under common control with the issuer, or a purchase subject to control of the issuer or any such person, shall be deemed to be a purchase by the issuer. The Commission shall have power to make rules and regulations implementing this paragraph in the public interest and for the protection of investors, including exemptive rules and regulations covering situations in which the Commission deems it unnecessary or inappropriate that a purchase of the type described in this paragraph shall be deemed to be a purchase by the issuer for purposes of some or all of the provisions of paragraph (1) of this subsection.
 
-(3) At the time of filing such statement as the Commission may require by rule pursuant to paragraph (1) of this subsection, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraph (4), is equal to $92 per $1,000,000 of the value of securities proposed to be purchased. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to any securities issued in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 [15 U.S.C. 77f(b)], or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this paragraph.
+(3) At the time of filing such statement as the Commission may require by rule pursuant to paragraph (1) of this subsection, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraph (4), is equal to $92 <sup><a href="#78m_1_target" name="78m_1">1</a></sup> per $1,000,000 of the value of securities proposed to be purchased. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to any securities issued in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 [15 U.S.C. 77f(b)], or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this paragraph.
 
 (4) Annual adjustment.—For each fiscal year, the Commission shall by order adjust the rate required by paragraph (3) for such fiscal year to a rate that is equal to the rate (expressed in dollars per million) that is applicable under section 6(b) of the Securities Act of 1933 [15 U.S.C. 77f(b)] for such fiscal year.
 
@@ -136,7 +136,7 @@ If in the judgment of the Commission any report required under subsection (a) is
 
 (6)(A) For purposes of this subsection the term "institutional investment manager" includes any person, other than a natural person, investing in or buying and selling securities for its own account, and any person exercising investment discretion with respect to the account of any other person.
 
-(B) The Commission shall adopt such rules as it deems necessary or appropriate to prevent duplicative reporting pursuant to this subsection by two or more institutional investment managers exercising investment discretion with respect to the same amount.<sup><a href="#78m_1_target" name="78m_1">1</a></sup>
+(B) The Commission shall adopt such rules as it deems necessary or appropriate to prevent duplicative reporting pursuant to this subsection by two or more institutional investment managers exercising investment discretion with respect to the same amount.<sup><a href="#78m_2_target" name="78m_2">2</a></sup>
 
 #### (g) Statement of equity security ownership ####
 
@@ -262,7 +262,7 @@ The Commission is authorized to provide by rule for the public availability of s
 
 (ii) With respect to those security-based swaps that are not subject to the mandatory clearing requirement described in section 78c–3(a)(1) of this title, but are cleared at a registered clearing agency, the Commission shall require real-time public reporting for such transactions.
 
-(iii) With respect to security-based swaps that are not cleared at a registered clearing agency and which are reported to a security-based swap data repository or the Commission under section 78c–3(a)(6) of this title,<sup><a href="#78m_2_target" name="78m_2">2</a></sup> the Commission shall require real-time public reporting for such transactions, in a manner that does not disclose the business transactions and market positions of any person.
+(iii) With respect to security-based swaps that are not cleared at a registered clearing agency and which are reported to a security-based swap data repository or the Commission under section 78c–3(a)(6) of this title,<sup><a href="#78m_3_target" name="78m_3">3</a></sup> the Commission shall require real-time public reporting for such transactions, in a manner that does not disclose the business transactions and market positions of any person.
 
 (iv) With respect to security-based swaps that are determined to be required to be cleared under section 78c–3(b) of this title but are not cleared, the Commission shall require real-time public reporting for such transactions.
 
@@ -486,7 +486,7 @@ The Commission may develop 1 or more additional duties applicable to security-ba
 
 #### (ii) Consideration of evolving standards ####
 
-In developing additional duties under subparagraph (A),<sup><a href="#78m_3_target" name="78m_3">3</a></sup> the Commission may take into consideration any evolving standard of the United States or the international community.
+In developing additional duties under subparagraph (A),<sup><a href="#78m_4_target" name="78m_4">4</a></sup> the Commission may take into consideration any evolving standard of the United States or the international community.
 
 #### (iii) Additional duties for Commission designees ####
 
@@ -584,7 +584,7 @@ In this subsection—
 
 (E) the term "interactive data format" means an electronic data format in which pieces of information are identified using an interactive data standard; and
 
-(F) the term "interactive data standard" means <sup><a href="#78m_4_target" name="78m_4">4</a></sup> standardized list of electronic tags that mark information included in the annual report of a resource extraction issuer.
+(F) the term "interactive data standard" means <sup><a href="#78m_5_target" name="78m_5">5</a></sup> standardized list of electronic tags that mark information included in the annual report of a resource extraction issuer.
 
 #### (2) Disclosure ####
 
@@ -711,10 +711,6 @@ Upon receiving a report under paragraph (4) that includes a disclosure of an act
 The provisions of this subsection shall terminate on the date that is 30 days after the date on which the President makes the certification described in section 8551(a) of title 22.
 
 (June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964; Pub. L. 107–123, §5, Jan. 16, 2002, 115 Stat. 2395; Pub. L. 107–204, title I, §109(i), formerly §109(h), title IV, §§401(a), 402(a), 409, July 30, 2002, 116 Stat. 771, 785, 787, 791, renumbered §109(i), Pub. L. 111–203, title IX, §982(h)(3), July 21, 2010, 124 Stat. 1930; Pub. L. 111–203, title VII, §§763(i), 766(b), (c), (e), title IX, §§929R(a), 929X(a), 985(b)(4), 991(b)(2), title XV, §§1502(b), 1504, July 21, 2010, 124 Stat. 1779, 1799, 1866, 1870, 1933, 1952, 2213, 2220; Pub. L. 112–106, title I, §102(b)(2), Apr. 5, 2012, 126 Stat. 309; Pub. L. 112–158, title II, §219(a), Aug. 10, 2012, 126 Stat. 1235; Pub. L. 114–94, div. G, title LXXXVI, §86001(c), Dec. 4, 2015, 129 Stat. 1798.)
-
-#### Adjustment of Fee Amount ####
-
-For adjustment of certain fee amounts specified in this section, that is not reflected in text, see Adjustment of Registration Fee Rate notes below.
 
 #### Amendment of Section ####
 
@@ -1018,10 +1014,12 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George W. Bush.
 
-[<sup>1</sup> So in original. Probably should be "account."](#78m_1)
+[<sup>1</sup> See Adjustment of Registration Fee Rate notes below.](#78m_1)
 
-[<sup>2</sup> So in original. Section 78c–3(a) of this title does not contain a par. (6).](#78m_2)
+[<sup>2</sup> So in original. Probably should be "account."](#78m_2)
 
-[<sup>3</sup> So in original. Probably should be "clause (i),".](#78m_3)
+[<sup>3</sup> So in original. Section 78c–3(a) of this title does not contain a par. (6).](#78m_3)
 
-[<sup>4</sup> So in original. The word "a" probably should appear.](#78m_4)
+[<sup>4</sup> So in original. Probably should be "clause (i),".](#78m_4)
+
+[<sup>5</sup> So in original. The word "a" probably should appear.](#78m_5)

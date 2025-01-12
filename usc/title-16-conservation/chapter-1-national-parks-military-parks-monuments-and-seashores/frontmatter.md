@@ -4653,3 +4653,21 @@ Sec.
 #### SUBCHAPTER CXXXVIII—NELLIS DUNES OFF-HIGHWAY VEHICLE RECREATION AREA ####
 
 460aaaa. Nellis Dunes Off-Highway Vehicle Recreation Area.
+
+#### SUBCHAPTER CXXXIX—MARTIN LUTHER KING, JR. NATIONAL HISTORICAL PARK ####
+
+460bbbb. Establishment of Martin Luther King, Jr. National Historical Park.
+
+460bbbb–1. Administration.
+
+460bbbb–2. Authority of Secretary regarding property and concessions.
+
+460bbbb–3. Establishment of Advisory Commission.
+
+460bbbb–4. Entrance or admission fees prohibited.
+
+460bbbb–5. Authorization of appropriations; limitation on authority.
+
+460bbbb–6. Minimizing adverse impacts on preservation district.
+
+460bbbb–7. Submission of comprehensive general management plan.
