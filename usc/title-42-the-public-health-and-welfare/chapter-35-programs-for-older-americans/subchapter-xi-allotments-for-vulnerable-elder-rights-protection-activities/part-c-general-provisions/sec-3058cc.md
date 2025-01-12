@@ -19,3 +19,7 @@ A State agency may carry out vulnerable elder rights protection activities eithe
 #### Amendments ####
 
 **2000**—Pub. L. 106–501 struck out "or an entity described in section 3058aa(c) of this title" after "A State agency" in introductory provisions.
+
+#### Effective Date ####
+
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.

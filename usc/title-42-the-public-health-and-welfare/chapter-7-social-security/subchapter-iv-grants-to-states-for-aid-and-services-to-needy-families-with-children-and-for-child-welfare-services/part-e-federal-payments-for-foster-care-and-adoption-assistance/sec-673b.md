@@ -366,7 +366,7 @@ Subsec. (c)(2). Pub. L. 108–145, §3(a)(2), added par. (2) and struck out head
 
 Subsec. (d)(1). Pub. L. 108–145, §3(a)(3), inserted "that are not older child adoptions" after "adoptions" in two places in subpar. (B) and added subpar. (C).
 
-**2003**—Subsec. (g)(3)(A), (B). Pub. L. 108–145, §3(a)(4)(A), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (g)(3)(A), (B). Pub. L. 108–145, §3(a)(4)(A), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
 "(A) with respect to fiscal year 1998, the average number of foster child adoptions in the State in fiscal years 1995, 1996, and 1997; and
 

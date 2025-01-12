@@ -15,3 +15,7 @@ The term "vulnerable elder rights protection activity" means an activity funded 
 #### Amendments ####
 
 **2000**—Par. (2). Pub. L. 106–501 substituted "part A" for "subpart II, III, IV, or V of this subchapter".
+
+#### Effective Date ####
+
+Section inapplicable with respect to fiscal year 1992, see section 905(b)(6) of Pub. L. 102–375, set out as an Effective Date of 1992 Amendment note under section 3001 of this title.

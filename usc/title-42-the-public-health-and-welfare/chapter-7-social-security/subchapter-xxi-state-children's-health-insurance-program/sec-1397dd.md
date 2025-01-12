@@ -260,13 +260,37 @@ For purposes of paragraph (1), with respect to a fiscal year, a shortfall State 
 
 (iii) the amount of the State's allotment for the fiscal year.
 
-#### (B) Proration rule ####
+#### (B) Determination of redistributed amounts if insufficient amounts available ####
 
-If the amounts available for redistribution under paragraph (1) for a fiscal year are less than the total amounts of the estimated shortfalls determined for the year under subparagraph (A), the amount to be redistributed under such paragraph for each shortfall State shall be reduced proportionally.
+#### (i) Proration rule ####
+
+Subject to clause (ii), if the amounts available for redistribution under paragraph (1) for a fiscal year are less than the total amounts of the estimated shortfalls determined for the year under subparagraph (A), the amount to be redistributed under such paragraph for each shortfall State shall be reduced proportionally.
+
+#### (ii) Special rule for first quarter of fiscal year 2018 ####
+
+#### (I) In general ####
+
+For the period beginning on October 1, 2017, and ending December 31, 2017, with respect to any amounts available for redistribution under paragraph (1) for fiscal year 2018, the Secretary shall redistribute under such paragraph such amounts to each emergency shortfall State (as defined in subclause (II)) in such amount as is equal to the amount of the shortfall described in subclause (II) for such State and period (as may be adjusted under subparagraph (C)) before the Secretary may redistribute such amounts to any shortfall State that is not an emergency shortfall State. In the case of any amounts redistributed under this subclause to a State that is not an emergency shortfall State, such amounts shall be determined in accordance with clause (i).
+
+#### (II) Emergency shortfall State defined ####
+
+For purposes of this clause, the term "emergency shortfall State" means, with respect to the period beginning October 1, 2017, and ending December 31, 2017, a shortfall State for which the Secretary estimates, in accordance with subparagraph (A) (unless otherwise specified in this subclause), that the projected expenditures under the State child health plan and under section 1397ee(g) of this title (calculated as if the reference under section 1397ee(g)(4)(A) of this title to "2017" were a reference to "2018" and insofar as the allotments are available to the State under this subsection or subsection (e) or (m)) for such period will exceed the sum of the amounts described in clauses (i) through (iii) of subparagraph (A) for such period, including after application of any amount redistributed under paragraph (1) before such date of enactment <sup><a href="#1397dd_3_target" name="1397dd_3">3</a></sup> to such State. A shortfall State may be an emergency shortfall State under the previous sentence without regard to whether any amounts were redistributed before such date of enactment <sup><a href="#1397dd_3_target" name="1397dd_3">3</a></sup> to such State under paragraph (1) for fiscal year 2018.
+
+#### (III) Application of qualifying State option ####
+
+During the period described in subclause (I), section 1397ee(g)(4) of this title shall apply to a qualifying State (as defined in section 1397ee(g)(2) of this title) as if under section 1397ee(g)(4) of this title—
+
+(aa) the reference to "2017" were a reference to "2018"; and
+
+(bb) the reference to "under subsections (e) and (m) of such section" were a reference to "under subsections (e), (f), and (m) of such section".
 
 #### (C) Retrospective adjustment ####
 
 The Secretary may adjust the estimates and determinations made under paragraph (1) and this paragraph with respect to a fiscal year as necessary on the basis of the amounts reported by States not later than November 30 of the succeeding fiscal year, as approved by the Secretary.
+
+#### (D) Rule of construction ####
+
+Nothing in this paragraph may be construed as preventing a commonwealth or territory described in subsection (c)(3) from being treated as a shortfall State or an emergency shortfall State.
 
 #### (g) Rule for redistribution and extended availability of fiscal years 1998, 1999, 2000, and 2001 allotments ####
 
@@ -870,7 +894,7 @@ For purposes of this paragraph and subsection (f), the State shall submit to the
 
 No payment shall be made under this paragraph to a commonwealth or territory described in subsection (c)(3) until such time as the Secretary determines that there are in effect methods, satisfactory to the Secretary, for the collection and reporting of reliable data regarding the enrollment of children described in subparagraphs (A) and (B) in order to accurately determine the commonwealth's or territory's eligibility for, and amount of payment, under this paragraph.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) [title VII, §706], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) [title VII, §§701(a), 702, 705(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) [title VIII, §§801(a), 802(b), (d)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930; Pub. L. 114–10, title III, §301(a)–(b)(2)(C), (d)(1), Apr. 16, 2015, 129 Stat. 154–158.)
+(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) [title VII, §706], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) [title VII, §§701(a), 702, 705(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) [title VIII, §§801(a), 802(b), (d)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930; Pub. L. 114–10, title III, §301(a)–(b)(2)(C), (d)(1), Apr. 16, 2015, 129 Stat. 154–158; Pub. L. 115–90, div. B, §201, Dec. 8, 2017, 131 Stat. 1280.)
 
 #### References in Text ####
 
@@ -881,6 +905,10 @@ Section 108 of the Children's Health Insurance Program Reauthorization Act of 20
 Section 301(b)(3) of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (m)(4)(A), (D)(i)(II), is section 301(b)(3) of Pub. L. 114–10, title III, Apr. 16, 2015, 129 Stat. 157, which relates to a one-time appropriation for fiscal year 2017 and is not classified to the Code.
 
 #### Amendments ####
+
+**2017**—Subsec. (f)(2)(B). Pub. L. 115–90, §201(1), amended subpar. (B) generally. Prior to amendment, text read as follows: "If the amounts available for redistribution under paragraph (1) for a fiscal year are less than the total amounts of the estimated shortfalls determined for the year under subparagraph (A), the amount to be redistributed under such paragraph for each shortfall State shall be reduced proportionally."
+
+Subsec. (f)(2)(D). Pub. L. 115–90, §201(2), added subpar. (D).
 
 **2015**—Subsec. (a)(19), (20). Pub. L. 114–10, §301(a), added pars. (19) and (20).
 
