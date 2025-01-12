@@ -44,9 +44,9 @@ In any State having an approved plan for vocational rehabilitation pursuant to t
 
 For the date of the enactment of the Randolph-Sheppard Act Amendments of 1974, referred to in subsec. (a)(1), see Codification note below.
 
-The Vocational Rehabilitation Act, referred to in subsec. (e), is act June 2, 1920, ch. 219, 41 Stat. 735, as amended, which was classified to chapter 4 (§31 et seq.) of Title 29, Labor, and was repealed by Pub. L. 93–112, title V, §500(a), Sept. 26, 1973, 87 Stat. 357. Such section 500, classified to section 790 of Title 29, provides in part that references to the Vocational Rehabilitation Act in any other provision of law shall be deemed to be references to the Rehabilitation Act of 1973.
+The Vocational Rehabilitation Act, referred to in subsec. (e), is act June 2, 1920, ch. 219, 41 Stat. 735, which was classified to chapter 4 (§31 et seq.) of Title 29, Labor, and was repealed by Pub. L. 93–112, title V, §500(a), Sept. 26, 1973, 87 Stat. 357. Such section 500, classified to section 790 of Title 29, provides in part that references to the Vocational Rehabilitation Act in any other provision of law shall be deemed to be references to the Rehabilitation Act of 1973.
 
-The Rehabilitation Act of 1973, referred to in subsec. (e), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (e), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 #### Codification ####
 

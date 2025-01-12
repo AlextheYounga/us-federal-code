@@ -18,7 +18,7 @@ For purposes of this subchapter—
 
 #### References in Text ####
 
-Act of March 2, 1867, referred to in par. (5), is act Mar. 2, 1867, ch. 162, 14 Stat. 438, as amended. Section 8 of this Act is classified to section 123 of this title. For complete classification of this Act to the Code, see Tables.
+Act of March 2, 1867, referred to in par. (5), is act Mar. 2, 1867, ch. 162, 14 Stat. 438. Section 8 of this Act is classified to section 123 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

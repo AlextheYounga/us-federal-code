@@ -21,7 +21,7 @@ Chapter Sec.
 
 65. Research planning 6501
 
-67. Multimodal Infrastructure Investments 6701 3
+67. Multimodal infrastructure investments 6701 3
 
 #### **Editorial Notes** ####
 

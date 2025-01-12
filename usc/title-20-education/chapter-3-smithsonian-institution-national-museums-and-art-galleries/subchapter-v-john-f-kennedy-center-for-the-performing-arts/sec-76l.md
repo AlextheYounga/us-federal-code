@@ -34,7 +34,7 @@ For the purposes of chapter 171 of title 28, an employee of the Board shall be c
 
 Section 76r of this title, referred to in subsec. (d), was in the original a reference to section 12 of Pub. L. 85–874. Section 12 of Pub. L. 85–874 was renumbered as section 13, and a new section 12 was added, by Pub. L. 107–224, §2, Sept. 18, 2002, 116 Stat. 1340. Sections 12 and 13 are classified to sections 76q–1 and 76r, respectively, of this title.
 
-The Inspector General Act of 1978, referred to in subsec. (d), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (d), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments ####
 
