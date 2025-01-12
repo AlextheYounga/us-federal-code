@@ -1,14 +1,30 @@
 ### **CHAPTER 36—ADMINISTRATION OF EDUCATIONAL BENEFITS** ###
 
-#### SUBCHAPTER I—STATE APPROVING AGENCIES ####
+#### SUBCHAPTER I–EMERGENCY SITUATIONS ####
 
-Sec.
+3601. 1
+
+Definition of emergency situation.
+
+3602. Continuation of educational assistance benefits during emergency situations.
+
+3603. Continuation of educational assistance benefits for certain programs of education converted to distance learning by reason of emergency situations.
+
+3604. Effects of closure of educational institution and modification of courses by reason of emergency situation.
+
+3605. Payment of educational assistance in cases of withdrawal.
+
+#### SUBCHAPTER II–STATE APPROVING AGENCIES ####
+
+Sec. 2
 
 3670. Scope of approval.
 
 3671. Designation.
 
 3672. Approval of courses.
+
+3672A. Uniform application.
 
 3673. Approval activities: cooperation and coordination of activities.
 
@@ -28,7 +44,7 @@ Sec.
 
 3679. Disapproval of courses.
 
-#### SUBCHAPTER II—MISCELLANEOUS PROVISIONS ####
+#### SUBCHAPTER III–MISCELLANEOUS PROVISIONS ####
 
 3680. Payment of educational assistance or subsistence allowances.
 
@@ -86,6 +102,8 @@ Sec.
 
 #### Amendments ####
 
+**2023**—Pub. L. 117–333, §§2(b), 11(b), Jan. 5, 2023, 136 Stat. 6125, 6134, redesignated items for subchapter I and subchapter II as subchapter II and subchapter III, respectively, and added item for subchapter I and items 3601 to 3605 and 3672A.
+
 **2021**—Pub. L. 116–315, title I, §§1013(a)(2), 1020(a)(2), 1022(b), Jan. 5, 2021, 134 Stat. 4943, 4958, 4959, added items 3673A, 3696, and 3699B and struck out former item 3696 "Limitation on certain advertising, sales, and enrollment practices".
 
 **2017**—Pub. L. 115–48, title I, §109(a)(2), title III, §§307(b), 308(b), Aug. 16, 2017, 131 Stat. 980, 993, 994, added items 3697B, 3699, and 3699A.
@@ -133,3 +151,7 @@ Pub. L. 100–323, §13(b)(1)(B), May 20, 1988, 102 Stat. 573, added item 1774A.
 **1967**—Pub. L. 90–77, title III, §§304(e), 308(b), Aug. 31, 1967, 81 Stat. 188, 189, added item 1777 and renumbered former items 1777 and 1778 as 1778 and 1779, respectively, and provided for the reporting fee in item 1784.
 
 **1966**—Pub. L. 89–358, §3(a)(4), Mar. 3, 1966, 80 Stat. 20, substituted "CHAPTER 36—ADMINISTRATION OF EDUCATIONAL BENEFITS" heading, including Subchapter I and II analyses, preceding section 1770 of this title for "SUBCHAPTER VII—STATE APPROVING AGENCIES" heading preceding section 1771 of this title, Subchapter VII heading being redesignated Subchapter I.
+
+[<sup>1</sup> So in original. Probably should be preceded by "Sec.".](#CHAPTER36_1)
+
+[<sup>2</sup> So in original. "Sec." probably should not appear.](#CHAPTER36_2)

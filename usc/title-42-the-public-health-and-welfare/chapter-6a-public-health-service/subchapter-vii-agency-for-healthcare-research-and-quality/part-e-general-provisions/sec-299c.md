@@ -108,6 +108,6 @@ Another prior section 299c, act July 1, 1944, ch. 373, title IX, §903, as added
 
 #### Amendments ####
 
-**2022**—Subsec. (j). Pub. L. 117–286 which directed amendment of "Section 942(j) of the Public Health Service Act" by substituting "section 1013(a) of title 5," for "section 14(a) of the Federal Advisory Committee Act,", was executed to this section, which is section 941 of the Public Health Service Act, to reflect the probable intent of Congress.
+**2022**—Subsec. (j). Pub. L. 117–286, which directed amendment of "Section 942(j) of the Public Health Service Act" by substituting "section 1013(a) of title 5," for "section 14(a) of the Federal Advisory Committee Act,", was executed to this section, which is section 941 of the Public Health Service Act, to reflect the probable intent of Congress.
 
 **2003**—Subsec. (c)(3)(A). Pub. L. 108–173 substituted "Centers for Medicare & Medicaid Services" for "Health Care Financing Administration".

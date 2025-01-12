@@ -376,7 +376,7 @@ A prior section 501 of act July 1, 1944, which was classified to section 219 of 
 
 #### Amendments ####
 
-**2022**—Subsec. (i). Pub. L. 117–286 which directed amendment of subsec. (h) by substituting "Chapter 10 of title 5" for "The Federal Advisory Committee Act", was executed by making the substitution in subsec. (i) to reflect the probable intent of Congress and the prior amendment by Pub. L. 114–255, §6003(1). See 2016 Amendment note below.
+**2022**—Subsec. (i). Pub. L. 117–286, which directed amendment of subsec. (h) by substituting "Chapter 10 of title 5" for "The Federal Advisory Committee Act", was executed by making the substitution in subsec. (i) to reflect the probable intent of Congress and the prior amendment by Pub. L. 114–255, §6003(1). See 2016 Amendment note below.
 
 **2016**—Subsec. (b). Pub. L. 114–255, §6002(1), substituted "Centers" for "Agencies" in heading and "Centers" for "entities" in introductory provisions.
 

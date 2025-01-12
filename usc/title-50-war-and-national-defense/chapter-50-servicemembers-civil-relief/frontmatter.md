@@ -60,7 +60,7 @@ Sec.
 
 3955. Termination of residential or motor vehicle leases.
 
-3956. Termination of telephone, multichannel video programming, and internet access service contracts.
+3956. Termination of certain consumer contracts.
 
 3957. Protection of life insurance policy.
 
@@ -131,6 +131,8 @@ Sec.
 4024. Health insurance reinstatement.
 
 4025. Guarantee of residency for military personnel and spouses of military personnel.
+
+4025a. Portability of professional licenses of servicemembers and their spouses.
 
 4026. Business or trade obligations.
 
