@@ -12,7 +12,7 @@ If the Secretary has reason to believe that a drug for which a request is made u
 
 #### (b) Regulations ####
 
-The Secretary shall by regulation promulgate procedures for the implementation of subsection (a) of this section.
+The Secretary shall by regulation promulgate procedures for the implementation of subsection (a).
 
 (June 25, 1938, ch. 675, §525, as added Pub. L. 97–414, §2(a), Jan. 4, 1983, 96 Stat. 2049; amended Pub. L. 99–91, §3(a)(1), Aug. 15, 1985, 99 Stat. 387; Pub. L. 105–115, title I, §125(b)(2)(F), (G), Nov. 21, 1997, 111 Stat. 2325, 2326.)
 

@@ -10,7 +10,7 @@ Beginning in fiscal year 2013, the Secretary shall assess and collect fees in ac
 
 #### (A) In general ####
 
-Except as provided in subparagraph (B) and subsections (d), (e), and (f) of this section, each person who submits any of the following, on or after October 1, 2012, shall be subject to a fee established under subsection (c) of this section for the fiscal year involved in accordance with the following:
+Except as provided in subparagraph (B) and subsections (d), (e), and (f), each person who submits any of the following, on or after October 1, 2012, shall be subject to a fee established under subsection (c) for the fiscal year involved in accordance with the following:
 
 (i) A premarket application.
 
@@ -205,7 +205,7 @@ Not later than 14 days before the Secretary anticipates the use of funds describ
 
 #### (1) In general ####
 
-The Secretary shall grant a waiver of the fee required under subsection (a) of this section for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. For the purposes of this paragraph, the term "small business" means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (v) and clauses (vii), (ix), and (x) of subsection (a)(2)(A) may be paid at a reduced rate in accordance with paragraph (2)(C).
+The Secretary shall grant a waiver of the fee required under subsection (a) for one premarket application, or one premarket report, where the Secretary finds that the applicant involved is a small business submitting its first premarket application to the Secretary, or its first premarket report, respectively, for review. For the purposes of this paragraph, the term "small business" means an entity that reported $30,000,000 or less of gross receipts or sales in its most recent Federal income tax return for a taxable year, including such returns of all of its affiliates. In addition, for subsequent premarket applications, premarket reports, and supplements where the Secretary finds that the applicant involved is a small business, the fees specified in clauses (i) through (v) and clauses (vii), (ix), and (x) of subsection (a)(2)(A) may be paid at a reduced rate in accordance with paragraph (2)(C).
 
 #### (2) Rules relating to premarket approval fees ####
 
@@ -237,13 +237,13 @@ Where the Secretary finds that the applicant involved meets the definition under
 
 #### (D) Request for fee waiver or reduction ####
 
-An applicant seeking a fee waiver or reduction under this subsection shall submit supporting information to the Secretary at least 60 days before the fee is required pursuant to subsection (a) of this section. The decision of the Secretary regarding whether an entity qualifies for such a waiver or reduction is not reviewable.
+An applicant seeking a fee waiver or reduction under this subsection shall submit supporting information to the Secretary at least 60 days before the fee is required pursuant to subsection (a). The decision of the Secretary regarding whether an entity qualifies for such a waiver or reduction is not reviewable.
 
 #### (e) Small businesses; fee reduction regarding premarket notification submissions ####
 
 #### (1) In general ####
 
-For fiscal year 2008 and each subsequent fiscal year, where the Secretary finds that the applicant involved is a small business, the fee specified in subsection (a)(2)(A)(viii) of this section may be paid at a reduced rate in accordance with paragraph (2)(C).
+For fiscal year 2008 and each subsequent fiscal year, where the Secretary finds that the applicant involved is a small business, the fee specified in subsection (a)(2)(A)(viii) may be paid at a reduced rate in accordance with paragraph (2)(C).
 
 #### (2) Rules relating to premarket notification submissions ####
 
@@ -271,7 +271,7 @@ For fiscal year 2008 and each subsequent fiscal year, where the Secretary finds 
 
 #### (D) Request for reduction ####
 
-An applicant seeking a fee reduction under this subsection shall submit supporting information to the Secretary at least 60 days before the fee is required pursuant to subsection (a) of this section. The decision of the Secretary regarding whether an entity qualifies for such a reduction is not reviewable.
+An applicant seeking a fee reduction under this subsection shall submit supporting information to the Secretary at least 60 days before the fee is required pursuant to subsection (a). The decision of the Secretary regarding whether an entity qualifies for such a reduction is not reviewable.
 
 #### (f) Fee waiver or reduction ####
 
@@ -315,7 +315,7 @@ If the Secretary does not assess fees under subsection (a) during any portion of
 
 #### (1) In general ####
 
-Subject to paragraph (2)(C), fees authorized under subsection (a) of this section shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of device applications.
+Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriation Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of device applications.
 
 #### (2) Collections and appropriation acts ####
 
@@ -357,11 +357,11 @@ If the cumulative amount of fees collected during fiscal years 2013, 2014, and 2
 
 #### (j) Collection of unpaid fees ####
 
-In any case where the Secretary does not receive payment of a fee assessed under subsection (a) of this section within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
+In any case where the Secretary does not receive payment of a fee assessed under subsection (a) within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to subchapter II of chapter 37 of title 31.
 
 #### (k) Written requests for refunds ####
 
-To qualify for consideration for a refund under subsection (a)(2)(D) of this section, a person shall submit to the Secretary a written request for such refund not later than 180 days after such fee is due.
+To qualify for consideration for a refund under subsection (a)(2)(D), a person shall submit to the Secretary a written request for such refund not later than 180 days after such fee is due.
 
 #### (l) Construction ####
 

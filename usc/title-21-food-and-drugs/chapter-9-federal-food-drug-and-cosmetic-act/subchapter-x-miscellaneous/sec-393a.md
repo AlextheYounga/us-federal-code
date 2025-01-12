@@ -18,7 +18,7 @@ The staff of the Office of Pediatric Therapeutics shall coordinate with employee
 
 (3) one or more additional individuals with expertise in pediatric epidemiology; and
 
-(4) one or more additional individuals with expertise in pediatrics as may be necessary to perform the activities described in subsection (b) of this section.
+(4) one or more additional individuals with expertise in pediatrics as may be necessary to perform the activities described in subsection (b).
 
 #### (d) Neonatology expertise ####
 

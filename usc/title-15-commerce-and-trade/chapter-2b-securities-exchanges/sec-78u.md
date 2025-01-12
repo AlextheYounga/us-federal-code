@@ -160,7 +160,7 @@ Section 21(h) of the Securities Exchange Act of 1934, referred to in the paragra
 
 #### Amendments ####
 
-**2015**—Subsec. (h)(6). Pub. L. 114–113 struck out par. (6) which read as follows: "The Commission shall compile an annual tabulation of the occasions on which the Commission used each separate subparagraph or clause of paragraph (2) of this subsection or the provisions of the Right to Financial Privacy Act of 1978 [12 U.S.C. 3401 et seq.] to obtain access to financial records of a customer and include it in its annual report to the Congress. Section 1121(b) of the Right to Financial Privacy Act of 1978 shall not apply with respect to the Commission."
+**2015**—Subsec. (h)(6). Pub. L. 114–113 struck out par. (6) which read as follows: "The Commission shall compile an annual tabulation of the occasions on which the Commission used each separate subparagraph or clause of paragraph (2) of this subsection or the provisions of the Right to Financial Privacy Act of 1978 to obtain access to financial records of a customer and include it in its annual report to the Congress. Section 1121(b) of the Right to Financial Privacy Act of 1978 shall not apply with respect to the Commission."
 
 **2010**—Subsec. (a)(1). Pub. L. 111–203, §929F(g)(2), in first sentence, substituted ", a person associated with such a firm, or, as to any act, practice, or omission to act, while associated with such firm, a person formerly associated with such a firm" for "or a person associated with such a firm".
 

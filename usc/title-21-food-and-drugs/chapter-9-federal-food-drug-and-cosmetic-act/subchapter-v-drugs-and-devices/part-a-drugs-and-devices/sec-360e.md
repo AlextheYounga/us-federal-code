@@ -8,7 +8,7 @@ A class III device—
 
 (2) which is a class III device because of section 360c(f) of this title,
 
-is required to have, unless exempt under section 360j(g) of this title, an approval under this section of an application for premarket approval or, as applicable, an approval under subsection (c)(2) of this section of a report seeking premarket approval.
+is required to have, unless exempt under section 360j(g) of this title, an approval under this section of an application for premarket approval or, as applicable, an approval under subsection (c)(2) of a report seeking premarket approval.
 
 #### (b) Order to require premarket approval ####
 
@@ -52,7 +52,7 @@ the Secretary shall by administrative order following publication of a proposed 
 
 (H) such other information relevant to the subject matter of the application as the Secretary, with the concurrence of the appropriate panel under section 360c of this title, may require.
 
-(2)(A) Any person may file with the Secretary a report seeking premarket approval for a class III device referred to in subsection (a) of this section that is a reprocessed single-use device. Such a report shall contain the following:
+(2)(A) Any person may file with the Secretary a report seeking premarket approval for a class III device referred to in subsection (a) that is a reprocessed single-use device. Such a report shall contain the following:
 
 (i) The device name, including both the trade or proprietary name and the common or usual name.
 
@@ -78,7 +78,7 @@ the Secretary shall by administrative order following publication of a proposed 
 
 (xii) Validation data described in section 360(o)(1)(A) of this title that demonstrates that the reasonable assurance of the safety or effectiveness of the device will remain after the maximum number of times the device is reprocessed as intended by the person submitting such report.
 
-(B) In the case of a class III device referred to in subsection (a) of this section that is a reprocessed single-use device:
+(B) In the case of a class III device referred to in subsection (a) that is a reprocessed single-use device:
 
 (i) Subparagraph (A) of this paragraph applies in lieu of paragraph (1).
 
@@ -104,7 +104,7 @@ refer such application to the appropriate panel under section 360c of this title
 
 #### (d) Action on application for premarket approval ####
 
-(1)(A) As promptly as possible, but in no event later than one hundred and eighty days after the receipt of an application under subsection (c) of this section (except as provided in section 360j(l)(3)(D)(ii) of this title or unless, in accordance with subparagraph (B)(i), an additional period as agreed upon by the Secretary and the applicant), the Secretary, after considering the report and recommendation submitted under paragraph (2) of such subsection, shall—
+(1)(A) As promptly as possible, but in no event later than one hundred and eighty days after the receipt of an application under subsection (c) (except as provided in section 360j(l)(3)(D)(ii) of this title or unless, in accordance with subparagraph (B)(i), an additional period as agreed upon by the Secretary and the applicant), the Secretary, after considering the report and recommendation submitted under paragraph (2) of such subsection, shall—
 
 (i) issue an order approving the application if he finds that none of the grounds for denying approval specified in paragraph (2) of this subsection applies; or
 
@@ -112,13 +112,13 @@ refer such application to the appropriate panel under section 360c of this title
 
 In making the determination whether to approve or deny the application, the Secretary shall rely on the conditions of use included in the proposed labeling as the basis for determining whether or not there is a reasonable assurance of safety and effectiveness, if the proposed labeling is neither false nor misleading. In determining whether or not such labeling is false or misleading, the Secretary shall fairly evaluate all material facts pertinent to the proposed labeling.
 
-(B)(i) The Secretary may not enter into an agreement to extend the period in which to take action with respect to an application submitted for a device subject to a regulation promulgated under subsection (b) of this section unless he finds that the continued availability of the device is necessary for the public health.
+(B)(i) The Secretary may not enter into an agreement to extend the period in which to take action with respect to an application submitted for a device subject to a regulation promulgated under subsection (b) unless he finds that the continued availability of the device is necessary for the public health.
 
 (ii) An order approving an application for a device may require as a condition to such approval that the sale and distribution of the device be restricted but only to the extent that the sale and distribution of a device may be restricted under a regulation under section 360j(e) of this title.
 
 (iii) The Secretary shall accept and review statistically valid and reliable data and any other information from investigations conducted under the authority of regulations required by section 360j(g) of this title to make a determination of whether there is a reasonable assurance of safety and effectiveness of a device subject to a pending application under this section if—
 
-(I) the data or information is derived from investigations of an earlier version of the device, the device has been modified during or after the investigations (but prior to submission of an application under subsection (c) of this section) and such a modification of the device does not constitute a significant change in the design or in the basic principles of operation of the device that would invalidate the data or information; or
+(I) the data or information is derived from investigations of an earlier version of the device, the device has been modified during or after the investigations (but prior to submission of an application under subsection (c)) and such a modification of the device does not constitute a significant change in the design or in the basic principles of operation of the device that would invalidate the data or information; or
 
 (II) the data or information relates to a device approved under this section, is available for use under this chapter, and is relevant to the design and intended use of the device for which the application is pending.
 
@@ -136,7 +136,7 @@ In making the determination whether to approve or deny the application, the Secr
 
 Any denial of an application shall, insofar as the Secretary determines to be practicable, be accompanied by a statement informing the applicant of the measures required to place such application in approvable form (which measures may include further research by the applicant in accordance with one or more protocols prescribed by the Secretary).
 
-(3)(A)(i) The Secretary shall, upon the written request of an applicant, meet with the applicant, not later than 100 days after the receipt of an application that has been filed as complete under subsection (c) of this section, to discuss the review status of the application.
+(3)(A)(i) The Secretary shall, upon the written request of an applicant, meet with the applicant, not later than 100 days after the receipt of an application that has been filed as complete under subsection (c), to discuss the review status of the application.
 
 (ii) The Secretary shall, in writing and prior to the meeting, provide to the applicant a description of any deficiencies in the application that, at that point, have been identified by the Secretary based on an interim review of the entire application and identify the information that is required to correct those deficiencies.
 
@@ -150,7 +150,7 @@ that was not described as a deficiency in the written description provided by th
 
 (B) The Secretary and the applicant may, by mutual consent, establish a different schedule for a meeting required under this paragraph.
 
-(4) An applicant whose application has been denied approval may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such denial, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g) of this section, and any interested person may obtain review, in accordance with paragraph (1) or (2) of subsection (g) of this section, of an order of the Secretary approving an application.
+(4) An applicant whose application has been denied approval may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such denial, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g), and any interested person may obtain review, in accordance with paragraph (1) or (2) of subsection (g), of an order of the Secretary approving an application.
 
 (5) In order to provide for more effective treatment or diagnosis of life-threatening or irreversibly debilitating human diseases or conditions, the Secretary shall provide review priority for devices—
 
@@ -192,13 +192,13 @@ that was not described as a deficiency in the written description provided by th
 
 (G) on the basis of new information before him, evaluated together with the evidence before him when the application was approved, that such device is not shown to conform in all respects to a performance standard which is in effect under section 360d of this title compliance with which was a condition to approval of the application and that there is a lack of adequate information to justify the deviation from such standard.
 
-(2) The holder of an application subject to an order issued under paragraph (1) withdrawing approval of the application may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such withdrawal, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g) of this section.
+(2) The holder of an application subject to an order issued under paragraph (1) withdrawing approval of the application may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such withdrawal, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g).
 
 (3) If, after providing an opportunity for an informal hearing, the Secretary determines there is reasonable probability that the continuation of distribution of a device under an approved application would cause serious, adverse health consequences or death, the Secretary shall by order temporarily suspend the approval of the application approved under this section. If the Secretary issues such an order, the Secretary shall proceed expeditiously under paragraph (1) to withdraw such application.
 
 #### (f) Product development protocol ####
 
-(1) In the case of a class III device which is required to have an approval of an application submitted under subsection (c) of this section, such device shall be considered as having such an approval if a notice of completion of testing conducted in accordance with a product development protocol approved under paragraph (4) has been declared completed under paragraph (6).
+(1) In the case of a class III device which is required to have an approval of an application submitted under subsection (c), such device shall be considered as having such an approval if a notice of completion of testing conducted in accordance with a product development protocol approved under paragraph (4) has been declared completed under paragraph (6).
 
 (2) Any person may submit to the Secretary a proposed product development protocol with respect to a device. Such a protocol shall be accompanied by data supporting it. If, within thirty days of the receipt of such a protocol, the Secretary determines that it appears to be appropriate to apply the requirements of this subsection to the device with respect to which the protocol is submitted, the Secretary—
 
@@ -208,7 +208,7 @@ that was not described as a deficiency in the written description provided by th
 
 (3) A proposed product development protocol for a device may be approved only if—
 
-(A) the Secretary determines that it is appropriate to apply the requirements of this subsection to the device in lieu of the requirement of approval of an application submitted under subsection (c) of this section; and
+(A) the Secretary determines that it is appropriate to apply the requirements of this subsection to the device in lieu of the requirement of approval of an application submitted under subsection (c); and
 
 (B) the Secretary determines that the proposed protocol provides—
 
@@ -234,7 +234,7 @@ that was not described as a deficiency in the written description provided by th
 
 (A) stating (i) his determination that the requirements of the protocol have been fulfilled and that, to the best of his knowledge, there is no reason bearing on safety or effectiveness why the notice of completion should not become effective, and (ii) the data and other information upon which such determination was made, and
 
-(B) setting forth the results of the trials required by the protocol and all the information required by subsection (c)(1) of this section.
+(B) setting forth the results of the trials required by the protocol and all the information required by subsection (c)(1).
 
 (6)(A) The Secretary may, after providing the person who has an approved protocol and opportunity for an informal hearing and at any time prior to receipt of notice of completion of such protocol, issue a final order to revoke such protocol if he finds that—
 
@@ -256,23 +256,23 @@ that was not described as a deficiency in the written description provided by th
 
 (7) At any time after a notice of completion has become effective, the Secretary may issue an order (after due notice and opportunity for an informal hearing to the person for whom the notice is effective) revoking the approval of a device provided by a notice of completion which has become effective as provided in subparagraph (B) if he finds that any of the grounds listed in subparagraphs (A) through (G) of subsection (e)(1) of this section apply. Each reference in such subparagraphs to an application shall be considered for purposes of this paragraph as a reference to a protocol and the notice of completion of such protocol, and each reference to the time when an application was approved shall be considered for purposes of this paragraph as a reference to the time when a notice of completion took effect.
 
-(8) A person who has an approved protocol subject to an order issued under paragraph (6)(A) revoking such protocol, a person who has an approved protocol with respect to which an order under paragraph (6)(B) was issued declaring that the protocol had not been completed, or a person subject to an order issued under paragraph (7) revoking the approval of a device may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such order, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g) of this section.
+(8) A person who has an approved protocol subject to an order issued under paragraph (6)(A) revoking such protocol, a person who has an approved protocol with respect to which an order under paragraph (6)(B) was issued declaring that the protocol had not been completed, or a person subject to an order issued under paragraph (7) revoking the approval of a device may, by petition filed on or before the thirtieth day after the date upon which he receives notice of such order, obtain review thereof in accordance with either paragraph (1) or (2) of subsection (g).
 
 #### (g) Review ####
 
 (1) Upon petition for review of—
 
-(A) an order under subsection (d) of this section approving or denying approval of an application or an order under subsection (e) of this section withdrawing approval of an application, or
+(A) an order under subsection (d) approving or denying approval of an application or an order under subsection (e) withdrawing approval of an application, or
 
-(B) an order under subsection (f)(6)(A) of this section revoking an approved protocol, under subsection (f)(6)(B) of this section declaring that an approved protocol has not been completed, or under subsection (f)(7) of this section revoking the approval of a device,
+(B) an order under subsection (f)(6)(A) revoking an approved protocol, under subsection (f)(6)(B) declaring that an approved protocol has not been completed, or under subsection (f)(7) revoking the approval of a device,
 
 the Secretary shall, unless he finds the petition to be without good cause or unless a petition for review of such order has been submitted under paragraph (2), hold a hearing, in accordance with section 554 of title 5, on the order. The panel or panels which considered the application, protocol, or device subject to such order shall designate a member to appear and testify at any such hearing upon request of the Secretary, the petitioner, or the officer conducting the hearing, but this requirement does not preclude any other member of the panel or panels from appearing and testifying at any such hearing. Upon completion of such hearing and after considering the record established in such hearing, the Secretary shall issue an order either affirming the order subject to the hearing or reversing such order and, as appropriate, approving or denying approval of the application, reinstating the application's approval, approving the protocol, or placing in effect a notice of completion.
 
 (2)(A) Upon petition for review of—
 
-(i) an order under subsection (d) of this section approving or denying approval of an application or an order under subsection (e) of this section withdrawing approval of an application, or
+(i) an order under subsection (d) approving or denying approval of an application or an order under subsection (e) withdrawing approval of an application, or
 
-(ii) an order under subsection (f)(6)(A) of this section revoking an approved protocol, under subsection (f)(6)(B) of this section declaring that an approved protocol has not been completed, or under subsection (f)(7) of this section revoking the approval of a device,
+(ii) an order under subsection (f)(6)(A) revoking an approved protocol, under subsection (f)(6)(B) declaring that an approved protocol has not been completed, or under subsection (f)(7) revoking the approval of a device,
 
 the Secretary shall refer the application or protocol subject to the order and the basis for the order to an advisory committee of experts established pursuant to subparagraph (B) for a report and recommendation with respect to the order. The advisory committee shall, after independent study of the data and information furnished to it by the Secretary and other data and information before it, submit to the Secretary a report and recommendation, together with all underlying data and information and a statement of the reasons or basis for the recommendation. A copy of such report shall be promptly supplied by the Secretary to any person who petitioned for such referral to the advisory committee.
 
@@ -334,7 +334,7 @@ Pub. L. 108–214, §2(d)(1)(A)(i), redesignated par. (3) relating to acceptance
 
 Subsec. (c)(4). Pub. L. 108–214, §2(d)(1)(A), redesignated par. (3) relating to acceptance and review of any portion of the application prior to submission as (4) and substituted "unless a significant issue of safety" for "unless an issue of safety" in subpar. (B).
 
-**2002**—Subsec. (a). Pub. L. 107–250, §302(c)(1), inserted "or, as applicable, an approval under subsection (c)(2) of this section of a report seeking premarket approval" before period in concluding provisions.
+**2002**—Subsec. (a). Pub. L. 107–250, §302(c)(1), inserted "or, as applicable, an approval under subsection (c)(2) of a report seeking premarket approval" before period in concluding provisions.
 
 Subsec. (c)(2). Pub. L. 107–250, §302(c)(2)(B), added par. (2). Former par. (2) redesignated (3).
 

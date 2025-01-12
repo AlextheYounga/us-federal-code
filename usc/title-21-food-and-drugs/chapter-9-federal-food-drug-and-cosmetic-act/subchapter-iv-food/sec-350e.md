@@ -18,7 +18,7 @@ The Secretary shall by regulation require shippers, carriers by motor vehicle or
 
 #### (c) Contents ####
 
-The regulations under subsection (b) of this section shall—
+The regulations under subsection (b) shall—
 
 (1) prescribe such practices as the Secretary determines to be appropriate relating to—
 
@@ -72,7 +72,7 @@ A requirement of a State or political subdivision of a State that concerns the t
 
 #### (2) Applicability ####
 
-This subsection applies to transportation that occurs on or after the effective date of the regulations promulgated under subsection (b) of this section.
+This subsection applies to transportation that occurs on or after the effective date of the regulations promulgated under subsection (b).
 
 #### (f) Assistance of other agencies ####
 

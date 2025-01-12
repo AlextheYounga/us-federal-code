@@ -36,7 +36,7 @@ Any person intending to file a request under this section shall be entitled to o
 
 (A) the same drug in the same dosage form for the same intended use is not approved or conditionally approved;
 
-(B) the proposed use of the drug meets the conditions of subparagraph (A) or (B) of subsection (a)(1) of this section, as appropriate;
+(B) the proposed use of the drug meets the conditions of subparagraph (A) or (B) of subsection (a)(1), as appropriate;
 
 (C) the person requesting the determination has established appropriate specifications for the manufacture and control of the new animal drug and has demonstrated an understanding of the requirements of current good manufacturing practices;
 
@@ -48,9 +48,9 @@ If the Secretary denies the request, the Secretary shall thereafter provide due 
 
 #### (d) Request for addition to index ####
 
-(1) With respect to a new animal drug for which the Secretary has made a determination of eligibility under subsection (c) of this section, the person who made such a request may ask that the Secretary add the new animal drug to the index established under subsection (a) of this section. The request for addition to the index shall include—
+(1) With respect to a new animal drug for which the Secretary has made a determination of eligibility under subsection (c), the person who made such a request may ask that the Secretary add the new animal drug to the index established under subsection (a). The request for addition to the index shall include—
 
-(A) a copy of the Secretary's determination of eligibility issued under subsection (c) of this section;
+(A) a copy of the Secretary's determination of eligibility issued under subsection (c);
 
 (B) a written report that meets the requirements in subsection (d)(2) of this section;
 
@@ -90,11 +90,11 @@ If the Secretary denies the request, the Secretary shall thereafter provide due 
 
 The Secretary shall define the criteria for selection of a qualified expert panel and the procedures for the operation of the panel by regulation.
 
-(4) Within 180 days after the receipt of a request for listing a new animal drug in the index, the Secretary shall grant or deny the request. The Secretary shall grant the request if the request for indexing continues to meet the eligibility criteria in subsection (a) of this section and the Secretary finds, on the basis of the report of the qualified expert panel and other information available to the Secretary, that the benefits of using the new animal drug for the proposed use in a minor species outweigh its risks to the target animal, taking into account the harm caused by the absence of an approved or conditionally-approved new animal drug for the minor species in question. If the Secretary denies the request, the Secretary shall thereafter provide due notice and the opportunity for an informal conference. The decision of the Secretary following an informal conference shall constitute final agency action subject to judicial review.
+(4) Within 180 days after the receipt of a request for listing a new animal drug in the index, the Secretary shall grant or deny the request. The Secretary shall grant the request if the request for indexing continues to meet the eligibility criteria in subsection (a) and the Secretary finds, on the basis of the report of the qualified expert panel and other information available to the Secretary, that the benefits of using the new animal drug for the proposed use in a minor species outweigh its risks to the target animal, taking into account the harm caused by the absence of an approved or conditionally-approved new animal drug for the minor species in question. If the Secretary denies the request, the Secretary shall thereafter provide due notice and the opportunity for an informal conference. The decision of the Secretary following an informal conference shall constitute final agency action subject to judicial review.
 
 #### (e) Index contents; publication ####
 
-(1) The index established under subsection (a) of this section shall include the following information for each listed drug—
+(1) The index established under subsection (a) shall include the following information for each listed drug—
 
 (A) the name and address of the person who holds the index listing;
 
@@ -154,7 +154,7 @@ The labeling of a new animal drug that is the subject of an index listing shall 
 
 #### (i) Records and reports ####
 
-(1) In the case of any new animal drug for which an index listing pursuant to subsection (a) of this section is in effect, the person who has an index listing shall establish and maintain such records, and make such reports to the Secretary, of data relating to experience, and other data or information, received or otherwise obtained by such person with respect to such drug, or with respect to animal feeds bearing or containing such drug, as the Secretary may by general regulation, or by order with respect to such listing, prescribe on the basis of a finding that such records and reports are necessary in order to enable the Secretary to determine, or facilitate a determination, whether there is or may be ground for invoking subsection (f) of this section. Such regulation or order shall provide, where the Secretary deems it to be appropriate, for the examination, upon request, by the persons to whom such regulation or order is applicable, of similar information received or otherwise obtained by the Secretary.
+(1) In the case of any new animal drug for which an index listing pursuant to subsection (a) is in effect, the person who has an index listing shall establish and maintain such records, and make such reports to the Secretary, of data relating to experience, and other data or information, received or otherwise obtained by such person with respect to such drug, or with respect to animal feeds bearing or containing such drug, as the Secretary may by general regulation, or by order with respect to such listing, prescribe on the basis of a finding that such records and reports are necessary in order to enable the Secretary to determine, or facilitate a determination, whether there is or may be ground for invoking subsection (f). Such regulation or order shall provide, where the Secretary deems it to be appropriate, for the examination, upon request, by the persons to whom such regulation or order is applicable, of similar information received or otherwise obtained by the Secretary.
 
 (2) Every person required under this subsection to maintain records, and every person in charge or custody thereof, shall, upon request of an officer or employee designated by the Secretary, permit such officer or employee at all reasonable times to have access to and copy and verify such records.
 

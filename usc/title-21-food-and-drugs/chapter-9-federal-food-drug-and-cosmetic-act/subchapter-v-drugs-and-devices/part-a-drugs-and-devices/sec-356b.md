@@ -12,11 +12,11 @@ Any agreement entered into between the Secretary and a sponsor of a drug, prior 
 
 #### (b) Consideration of information as public information ####
 
-Any information pertaining to a report described in subsection (a) of this section shall be considered to be public information to the extent that the information is necessary—
+Any information pertaining to a report described in subsection (a) shall be considered to be public information to the extent that the information is necessary—
 
 (1) to identify the sponsor; and
 
-(2) to establish the status of a study described in subsection (a) of this section and the reasons, if any, for any failure to carry out the study.
+(2) to establish the status of a study described in subsection (a) and the reasons, if any, for any failure to carry out the study.
 
 #### (c) Status of studies and reports ####
 
@@ -24,7 +24,7 @@ The Secretary shall annually develop and publish in the Federal Register a repor
 
 (1) that sponsors have entered into agreements to conduct; and
 
-(2) for which reports have been submitted under subsection (a)(1) of this section.
+(2) for which reports have been submitted under subsection (a)(1).
 
 #### (d) Disclosure ####
 

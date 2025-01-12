@@ -4,7 +4,7 @@
 
 #### (1) Emergency uses ####
 
-Notwithstanding any provision of this chapter and section 351 of the Public Health Service Act [42 U.S.C. 262], and subject to the provisions of this section, the Secretary may authorize the introduction into interstate commerce, during the effective period of a declaration under subsection (b) of this section, of a drug, device, or biological product intended for use in an actual or potential emergency (referred to in this section as an "emergency use").
+Notwithstanding any provision of this chapter and section 351 of the Public Health Service Act [42 U.S.C. 262], and subject to the provisions of this section, the Secretary may authorize the introduction into interstate commerce, during the effective period of a declaration under subsection (b), of a drug, device, or biological product intended for use in an actual or potential emergency (referred to in this section as an "emergency use").
 
 #### (2) Approval status of product ####
 
@@ -64,9 +64,9 @@ If an authorization under this section with respect to an unapproved product cea
 
 The Secretary shall provide advance notice that a declaration under this subsection will be terminated. The period of advance notice shall be a period reasonably determined to provide—
 
-(A) in the case of an unapproved product, a sufficient period for disposition of the product, including the return of such product (except such quantities of product as are necessary to provide for continued use consistent with subsection (f)(2) of this section) to the manufacturer (in the case of a manufacturer that chooses to have such product returned); and
+(A) in the case of an unapproved product, a sufficient period for disposition of the product, including the return of such product (except such quantities of product as are necessary to provide for continued use consistent with subsection (f)(2)) to the manufacturer (in the case of a manufacturer that chooses to have such product returned); and
 
-(B) in the case of an unapproved use of an approved product, a sufficient period for the disposition of any labeling, or any information under subsection (e)(2)(B)(ii) of this section, as the case may be, that was provided with respect to the emergency use involved.
+(B) in the case of an unapproved use of an approved product, a sufficient period for the disposition of any labeling, or any information under subsection (e)(2)(B)(ii), as the case may be, that was provided with respect to the emergency use involved.
 
 #### (4) Publication ####
 
@@ -80,7 +80,7 @@ If an authorization under this section with respect to an unapproved product or 
 
 The Secretary may issue an authorization under this section with respect to the emergency use of a product only if, after consultation with the Assistant Secretary for Preparedness and Response, the Director of the National Institutes of Health, and the Director of the Centers for Disease Control and Prevention (to the extent feasible and appropriate given the applicable circumstances described in subsection (b)(1)), the Secretary concludes—
 
-(1) that an agent referred to in a declaration under subsection (b) of this section can cause a serious or life-threatening disease or condition;
+(1) that an agent referred to in a declaration under subsection (b) can cause a serious or life-threatening disease or condition;
 
 (2) that, based on the totality of scientific evidence available to the Secretary, including data from adequate and well-controlled clinical trials, if available, it is reasonable to believe that—
 
@@ -102,9 +102,9 @@ An authorization of a product under this section shall state—
 
 (1) each disease or condition that the product may be used to diagnose, prevent, or treat within the scope of the authorization;
 
-(2) the Secretary's conclusions, made under subsection (c)(2)(B) of this section, that the known and potential benefits of the product, when used to diagnose, prevent, or treat such disease or condition, outweigh the known and potential risks of the product; and
+(2) the Secretary's conclusions, made under subsection (c)(2)(B), that the known and potential benefits of the product, when used to diagnose, prevent, or treat such disease or condition, outweigh the known and potential risks of the product; and
 
-(3) the Secretary's conclusions, made under subsection (c) of this section, concerning the safety and potential effectiveness of the product in diagnosing, preventing, or treating such diseases or conditions, including, to the extent practicable given the circumstances of the emergency, an assessment of the available scientific evidence.
+(3) the Secretary's conclusions, made under subsection (c), concerning the safety and potential effectiveness of the product in diagnosing, preventing, or treating such diseases or conditions, including, to the extent practicable given the circumstances of the emergency, an assessment of the available scientific evidence.
 
 #### (e) Conditions of authorization ####
 
@@ -180,11 +180,11 @@ The Secretary may establish conditions on advertisements and other promotional d
 
 #### (1) In general ####
 
-Except as provided in paragraph (2), an authorization under this section shall be effective until the earlier of the termination of the declaration under subsection (b) of this section or a revocation under subsection (g) of this section.
+Except as provided in paragraph (2), an authorization under this section shall be effective until the earlier of the termination of the declaration under subsection (b) or a revocation under subsection (g).
 
 #### (2) Continued use after end of effective period ####
 
-Notwithstanding the termination of the declaration under subsection (b) of this section or a revocation under subsection (g) of this section, an authorization shall continue to be effective to provide for continued use of an unapproved product with respect to a patient to whom it was administered during the period described by paragraph (1), to the extent found necessary by such patient's attending physician.
+Notwithstanding the termination of the declaration under subsection (b) or a revocation under subsection (g), an authorization shall continue to be effective to provide for continued use of an unapproved product with respect to a patient to whom it was administered during the period described by paragraph (1), to the extent found necessary by such patient's attending physician.
 
 #### (g) Review and revocation of authorization ####
 

@@ -34,7 +34,7 @@ Each report of the panel to the Secretary shall be published in the Federal Regi
 
 #### (c) Secretarial response ####
 
-Not later than 90 days after the publication of a panel report under subsection (b)(2)(C) of this section, the Secretary shall publish in the Federal Register any response required of the Secretary to the report.
+Not later than 90 days after the publication of a panel report under subsection (b)(2)(C), the Secretary shall publish in the Federal Register any response required of the Secretary to the report.
 
 #### (d) Composition of panel ####
 

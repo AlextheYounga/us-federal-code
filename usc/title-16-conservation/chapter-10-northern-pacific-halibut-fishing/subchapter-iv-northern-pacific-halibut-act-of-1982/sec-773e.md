@@ -22,7 +22,7 @@ It is unlawful—
 
 #### Amendment of Paragraph (2) ####
 
-Pub. L. 102–251, title III, §§302(b), 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, paragraph (2), formerly subsection (b), is amended by substituting "exclusive economic zone or special areas" for "fishery conservation zone".
+Pub. L. 102–251, title III, §§302(b), 308, Mar. 9, 1992, 106 Stat. 65, 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, paragraph (2), formerly subsection (b), of this section is amended by substituting "exclusive economic zone or special areas" for "fishery conservation zone".
 
 #### Effective Date of 1992 Amendment ####
 

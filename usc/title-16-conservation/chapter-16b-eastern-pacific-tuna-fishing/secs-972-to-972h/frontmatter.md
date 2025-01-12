@@ -20,4 +20,4 @@ Section 972h, Pub. L. 98–445, §10, Oct. 4, 1984, 98 Stat. 1719, authorized ap
 
 #### Short Title ####
 
-Pub. L. 98–445, §1, Oct. 4, 1984, 98 Stat. 1715, which provided that this Act [enacting this chapter] could be cited as the "Eastern Pacific Tuna Licensing Act of 1984", was repealed by Pub. L. 114–81, title II, §210, Nov. 5, 2015, 129 Stat. 664.
+Pub. L. 98–445, §1, Oct. 4, 1984, 98 Stat. 1715, which provided that Pub. L. 98–445 could be cited as the "Eastern Pacific Tuna Licensing Act of 1984", was repealed by Pub. L. 114–81, title II, §210, Nov. 5, 2015, 129 Stat. 664.

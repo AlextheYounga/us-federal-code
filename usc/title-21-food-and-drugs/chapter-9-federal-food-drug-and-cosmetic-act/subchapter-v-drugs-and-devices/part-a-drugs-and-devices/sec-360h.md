@@ -20,7 +20,7 @@ the Secretary may issue such order as may be necessary to assure that adequate n
 
 (iii) there are reasonable grounds to believe that the unreasonable risk was not caused by failure of a person other than a manufacturer, importer, distributor, or retailer of the device to exercise due care in the installation, maintenance, repair, or use of the device, and
 
-(iv) the notification authorized by subsection (a) of this section would not by itself be sufficient to eliminate the unreasonable risk and action described in paragraph (2) of this subsection is necessary to eliminate such risk,
+(iv) the notification authorized by subsection (a) would not by itself be sufficient to eliminate the unreasonable risk and action described in paragraph (2) of this subsection is necessary to eliminate such risk,
 
 the Secretary may order the manufacturer, importer, or any distributor of such device, or any combination of such persons, to submit to him within a reasonable time a plan for taking one or more of the actions described in paragraph (2). An order issued under the preceding sentence which is directed to more than one person shall specify which person may decide which action shall be taken under such plan and the person specified shall be the person who the Secretary determines bears the principal, ultimate financial responsibility for action taken under the plan unless the Secretary cannot determine who bears such responsibility or the Secretary determines that the protection of the public health requires that such decision be made by a person (including a device user or health professional) other than the person he determines bears such responsibility.
 
@@ -34,7 +34,7 @@ the Secretary may order the manufacturer, importer, or any distributor of such d
 
 (C) To refund the purchase price of the device (less a reasonable allowance for use if such device has been in the possession of the device user for one year or more—
 
-(i) at the time of notification ordered under subsection (a) of this section, or
+(i) at the time of notification ordered under subsection (a), or
 
 (ii) at the time the device user receives actual notice of the unreasonable risk with respect to which the order was issued under paragraph (1),
 
@@ -44,7 +44,7 @@ whichever first occurs).
 
 #### (c) Reimbursement ####
 
-An order issued under subsection (b) of this section with respect to a device may require any person who is a manufacturer, importer, distributor, or retailer of the device to reimburse any other person who is a manufacturer, importer, distributor, or retailer of such device for such other person's expenses actually incurred in connection with carrying out the order if the Secretary determines such reimbursement is required for the protection of the public health. Any such requirement shall not affect any rights or obligations under any contract to which the person receiving reimbursement or the person making such reimbursement is a party.
+An order issued under subsection (b) with respect to a device may require any person who is a manufacturer, importer, distributor, or retailer of the device to reimburse any other person who is a manufacturer, importer, distributor, or retailer of such device for such other person's expenses actually incurred in connection with carrying out the order if the Secretary determines such reimbursement is required for the protection of the public health. Any such requirement shall not affect any rights or obligations under any contract to which the person receiving reimbursement or the person making such reimbursement is a party.
 
 #### (d) Effect on other liability ####
 
@@ -74,7 +74,7 @@ The order shall provide the person subject to the order with an opportunity for 
 
 In providing the notice required by clause (ii), the Secretary may use the assistance of health professionals who prescribed or used such a device for individuals. If a significant number of such individuals cannot be identified, the Secretary shall notify such individuals pursuant to section 375(b) of this title.
 
-(3) The remedy provided by this subsection shall be in addition to remedies provided by subsections (a), (b), and (c) of this section.
+(3) The remedy provided by this subsection shall be in addition to remedies provided by subsections (a), (b), and (c).
 
 (June 25, 1938, ch. 675, §518, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 562; amended Pub. L. 101–629, §8, Nov. 28, 1990, 104 Stat. 4520; Pub. L. 102–300, §4, June 16, 1992, 106 Stat. 239.)
 

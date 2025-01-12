@@ -108,7 +108,7 @@ Sec.
 
 3030g–22. Payment requirement.
 
-#### Part D—Disease Prevention and Health Promotion Services ####
+#### Part D—Evidence-Based Disease Prevention and Health Promotion Services ####
 
 3030m. Program authorized.
 
@@ -116,17 +116,11 @@ Sec.
 
 #### Part E—National Family Caregiver Support Program ####
 
-#### subpart i—caregiver support program ####
-
 3030s. Definitions.
 
 3030s–1. Program authorized.
 
 3030s–2. Maintenance of effort.
-
-#### subpart ii—national innovation programs ####
-
-3030s–11, 3030s–12. Repealed.
 
 #### SUBCHAPTER IV—ACTIVITIES FOR HEALTH, INDEPENDENCE, AND LONGEVITY ####
 
@@ -142,7 +136,7 @@ Sec.
 
 3032c. Health care service demonstration projects in rural areas.
 
-3032d. Computer training.
+3032d. Repealed.
 
 3032e. Technical assistance and innovation to improve transportation for older individuals.
 
@@ -150,11 +144,11 @@ Sec.
 
 3032g. Native American programs.
 
-3032h. Multidisciplinary centers and multidisciplinary systems.
+3032h. Repealed.
 
 3032i. Demonstration and support projects for legal assistance for older individuals.
 
-3032j. Ombudsman and advocacy demonstration projects.
+3032j. Repealed.
 
 3032k. Community innovations for aging in place.
 

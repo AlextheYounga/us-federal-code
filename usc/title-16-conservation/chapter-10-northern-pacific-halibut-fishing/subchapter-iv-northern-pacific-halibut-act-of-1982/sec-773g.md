@@ -16,7 +16,7 @@ There is Federal jurisdiction over any offense described in this section.
 
 #### References in Text ####
 
-Subsec. (a) and pars. (2), (3), (4), and (6) of section 773e of this title, referred to in subsec. (a), was renumbered par. (1) and subpars. (B), (C), (D), and (F), respectively, of par. (1) of section 773e of this title by Pub. L. 114–81, title I, §110(1), (2), Nov. 5, 2015, 129 Stat. 659.
+Subsec. (a) and pars. (2), (3), (4), and (6) of subsec. (a) of section 773e of this title, referred to in subsec. (a), were renumbered par. (1) and subpars. (B), (C), (D), and (F), respectively, of par. (1) of section 773e of this title by Pub. L. 114–81, title I, §110(1), (2), Nov. 5, 2015, 129 Stat. 659.
 
 Subsec. (b) of section 773e of this title, referred to in subsec. (a), was renumbered par. (2) of section 773e of this title by Pub. L. 114–81, title I, §110(2), Nov. 5, 2015, 129 Stat. 659.
 

@@ -18,7 +18,7 @@
 
 (C) the sponsor of an approved designated new animal drug shall notify the Secretary of any discontinuance of the manufacture of such new animal drug at least one year before discontinuance. The Secretary shall terminate the designation upon such notification; and
 
-(D) the designation shall terminate upon the expiration of any applicable exclusivity period under subsection (c) of this section.
+(D) the designation shall terminate upon the expiration of any applicable exclusivity period under subsection (c).
 
 (4) Notice respecting the designation or termination of designation of a new animal drug shall be made available to the public.
 
@@ -38,7 +38,7 @@
 
 #### (c) Exclusivity for designated new animal drugs ####
 
-(1) Except as provided in subsection (c)(2) of this section, if the Secretary approves or conditionally approves an application for a designated new animal drug, the Secretary may not approve or conditionally approve another application submitted for such new animal drug with the same intended use as the designated new animal drug for another applicant before the expiration of seven years from the date of approval or conditional approval of the application.
+(1) Except as provided in subsection (c)(2), if the Secretary approves or conditionally approves an application for a designated new animal drug, the Secretary may not approve or conditionally approve another application submitted for such new animal drug with the same intended use as the designated new animal drug for another applicant before the expiration of seven years from the date of approval or conditional approval of the application.
 
 (2) If an application filed pursuant to section 360b of this title or section 360ccc of this title is approved for a designated new animal drug, the Secretary may, during the 7-year exclusivity period beginning on the date of the application approval or conditional approval, approve or conditionally approve another application under section 360b of this title or section 360ccc of this title for such drug for such minor use or minor species for another applicant if—
 

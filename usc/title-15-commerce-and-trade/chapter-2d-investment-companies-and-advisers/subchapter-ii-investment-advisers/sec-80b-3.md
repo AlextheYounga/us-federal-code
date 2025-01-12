@@ -14,15 +14,15 @@ The provisions of subsection (a) shall not apply to—
 
 (3) any investment adviser that is a foreign private adviser;
 
-(4) any investment adviser that is a charitable organization, as defined in section 3(c)(10)(D) of the Investment Company Act of 1940 [15 U.S.C. 80a–3(c)(10)(D)], or is a trustee, director, officer, employee, or volunteer of such a charitable organization acting within the scope of such person's employment or duties with such organization, whose advice, analyses, or reports are provided only to one or more of the following:
+(4) any investment adviser that is a charitable organization, as defined in section 80a–3(c)(10)(D) of this title, or is a trustee, director, officer, employee, or volunteer of such a charitable organization acting within the scope of such person's employment or duties with such organization, whose advice, analyses, or reports are provided only to one or more of the following:
 
 (A) any such charitable organization;
 
-(B) a fund that is excluded from the definition of an investment company under section 3(c)(10)(B) of the Investment Company Act of 1940 [15 U.S.C. 80a–3(c)(10)(B)]; or
+(B) a fund that is excluded from the definition of an investment company under section 80a–3(c)(10)(B) of this title; or
 
-(C) a trust or other donative instrument described in section 3(c)(10)(B) of the Investment Company Act of 1940 [15 U.S.C. 80a–3(c)(10)(B)], or the trustees, administrators, settlors (or potential settlors), or beneficiaries of any such trust or other instrument;
+(C) a trust or other donative instrument described in section 80a–3(c)(10)(B) of this title, or the trustees, administrators, settlors (or potential settlors), or beneficiaries of any such trust or other instrument;
 
-(5) any plan described in section 414(e) of title 26, any person or entity eligible to establish and maintain such a plan under title 26, or any trustee, director, officer, or employee of or volunteer for any such plan or person, if such person or entity, acting in such capacity, provides investment advice exclusively to, or with respect to, any plan, person, or entity or any company, account, or fund that is excluded from the definition of an investment company under section 3(c)(14) of the Investment Company Act of 1940 [15 U.S.C. 80a–3(c)(14)];
+(5) any plan described in section 414(e) of title 26, any person or entity eligible to establish and maintain such a plan under title 26, or any trustee, director, officer, or employee of or volunteer for any such plan or person, if such person or entity, acting in such capacity, provides investment advice exclusively to, or with respect to, any plan, person, or entity or any company, account, or fund that is excluded from the definition of an investment company under section 80a–3(c)(14) of this title;
 
 (6)(A) any investment adviser that is registered with the Commodity Futures Trading Commission as a commodity trading advisor whose business does not consist primarily of acting as an investment adviser, as defined in section 80b–2(a)(11) of this title, and that does not act as an investment adviser to—
 
@@ -32,7 +32,7 @@ The provisions of subsection (a) shall not apply to—
 
 (B) any investment adviser that is registered with the Commodity Futures Trading Commission as a commodity trading advisor and advises a private fund, provided that, if after July 21, 2010, the business of the advisor should become predominately the provision of securities-related advice, then such adviser shall register with the Commission.<sup><a href="#80b-3_1_target" name="80b-3_1">1</a></sup>
 
-(7) any investment adviser, other than any entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940 [15 U.S.C. 80a–53], who solely advises—
+(7) any investment adviser, other than any entity that has elected to be regulated or is regulated as a business development company pursuant to section 80a–53 of this title, who solely advises—
 
 (A) small business investment companies that are licensees under the Small Business Investment Act of 1958 [15 U.S.C. 661 et seq.];
 
@@ -96,9 +96,9 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 (4) is permanently or temporarily enjoined by order, judgment, or decree of any court of competent jurisdiction, including any foreign court of competent jurisdiction, from acting as an investment adviser, underwriter, broker, dealer, municipal securities dealer, government securities broker, government securities dealer, transfer agent, credit rating agency, foreign person performing a function substantially equivalent to any of the above, or entity or person required to be registered under the Commodity Exchange Act [7 U.S.C. 1 et seq.] or any substantially equivalent statute or regulation, or as an affiliated person or employee of any investment company, bank, insurance company, foreign entity substantially equivalent to any of the above, or entity or person required to be registered under the Commodity Exchange Act or any substantially equivalent statute or regulation, or from engaging in or continuing any conduct or practice in connection with any such activity, or in connection with the purchase or sale of any security.
 
-(5) has willfully violated any provision of the Securities Act of 1933 [15 U.S.C. 77a et seq.], the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], the Investment Company Act of 1940 [15 U.S.C. 80a–1 et seq.], this subchapter, the Commodity Exchange Act [7 U.S.C. 1 et seq.], or the rules or regulations under any such statutes or any rule of the Municipal Securities Rulemaking Board, or is unable to comply with any such provision.
+(5) has willfully violated any provision of the Securities Act of 1933 [15 U.S.C. 77a et seq.], the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], subchapter I of this chapter, this subchapter, the Commodity Exchange Act [7 U.S.C. 1 et seq.], or the rules or regulations under any such statutes or any rule of the Municipal Securities Rulemaking Board, or is unable to comply with any such provision.
 
-(6) has willfully aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any provision of the Securities Act of 1933 [15 U.S.C. 77a et seq.], the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], the Investment Company Act of 1940 [15 U.S.C. 80a–1 et seq.], this subchapter, the Commodity Exchange Act [7 U.S.C. 1 et seq.], the rules or regulations under any of such statutes, or the rules of the Municipal Securities Rulemaking Board, or has failed reasonably to supervise, with a view to preventing violations of the provisions of such statutes, rules and regulations, another person who commits such a violation, if such other person is subject to his supervision. For the purposes of this paragraph no person shall be deemed to have failed reasonably to supervise any person, if—
+(6) has willfully aided, abetted, counseled, commanded, induced, or procured the violation by any other person of any provision of the Securities Act of 1933 [15 U.S.C. 77a et seq.], the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], subchapter I of this chapter, this subchapter, the Commodity Exchange Act [7 U.S.C. 1 et seq.], the rules or regulations under any of such statutes, or the rules of the Municipal Securities Rulemaking Board, or has failed reasonably to supervise, with a view to preventing violations of the provisions of such statutes, rules and regulations, another person who commits such a violation, if such other person is subject to his supervision. For the purposes of this paragraph no person shall be deemed to have failed reasonably to supervise any person, if—
 
 (A) there have been established procedures, and a system for applying such procedures, which would reasonably be expected to prevent and detect, insofar as practicable, any such violation by such other person, and
 
@@ -140,7 +140,7 @@ Any person registered under this section may, upon such terms and conditions as 
 
 In any proceeding instituted pursuant to subsection (e) or (f) against any person, the Commission may impose a civil penalty if it finds, on the record after notice and opportunity for hearing, that such penalty is in the public interest and that such person—
 
-(i) has willfully violated any provision of the Securities Act of 1933 [15 U.S.C. 77a et seq.], the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], the Investment Company Act of 1940 [15 U.S.C. 80a–1 et seq.], or this subchapter, or the rules or regulations thereunder;
+(i) has willfully violated any provision of the Securities Act of 1933 [15 U.S.C. 77a et seq.], the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], subchapter I of this chapter, or this subchapter, or the rules or regulations thereunder;
 
 (ii) has willfully aided, abetted, counseled, commanded, induced, or procured such a violation by any other person;
 
@@ -254,7 +254,7 @@ No investment adviser that acts as an investment adviser solely to 1 or more ven
 
 #### (2) Advisers of SBICS ####
 
-For purposes of this subsection, a venture capital fund includes an entity described in subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940 [15 U.S.C. 80a–53]).
+For purposes of this subsection, a venture capital fund includes an entity described in subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 80a–53 of this title).
 
 #### (m) Exemption of and reporting by certain private fund advisers ####
 
@@ -268,7 +268,7 @@ The Commission shall require investment advisers exempted by reason of this subs
 
 #### (3) Advisers of SBICS ####
 
-For purposes of this subsection, the assets under management of a private fund that is an entity described in subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 54 of the Investment Company Act of 1940 [15 U.S.C. 80–53]) shall be excluded from the limit set forth in paragraph (1).
+For purposes of this subsection, the assets under management of a private fund that is an entity described in subparagraph (A), (B), or (C) of subsection (b)(7) (other than an entity that has elected to be regulated or is regulated as a business development company pursuant to section 80a–53 of this title) shall be excluded from the limit set forth in paragraph (1).
 
 #### (n) Registration and examination of mid-sized private fund advisers ####
 
@@ -285,8 +285,6 @@ The Commodity Exchange Act, referred to in subsec. (e)(2)(B), (4)–(6), is act 
 The Securities Act of 1933, referred to in subsecs. (e)(5), (6) and (i)(1)(A)(i), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
 The Securities Exchange Act of 1934, referred to in subsecs. (e)(5), (6) and (i)(1)(A)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
-
-The Investment Company Act of 1940, referred to in subsecs. (e)(5), (6) and (i)(1)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 #### Amendments ####
 
@@ -400,7 +398,7 @@ Subsec. (c)(1)(F). Pub. L. 91–547, §24(b), substituted "any person associated
 
 Subsecs. (d), (e). Pub. L. 91–547, §24(c), (d), added subsec. (d), redesignated former subsec. (d) as (e), and in amending its provisions, inserted reference to "censure" in two places and substituted "such investment adviser or any person associated with such investment adviser" for "(1) such investment adviser, whether prior or subsequent to becoming such, or (2) any partner, officer, or director thereof, or any person performing similar functions, or (3) any person directly or indirectly controlling or controlled by such investment adviser, whether prior or subsequent to becoming such," in introductory text preceding par. (1), formerly cl. (A), redesignated as pars. (1) to (5) former cls. (A) to (E), redesignated as items (A) to (D) of par. (2) former items (i) to (iv), striking out ", as heretofore or hereafter amended" after "Title 18", substituted in par. (3) "an affiliated person" for "as an affiliated person", in par. (4) included reference to subchapter I of this chapter and struck out "as any of such statutes heretofore have been or hereafter may be amended" after "this subchapter", in par. (5) included reference to subchapter I of this chapter, struck out "as any of such statutes heretofore have been or hereafter may be amended" after "this subchapter", inserted provision respecting disciplining an investment adviser for failure reasonably to supervise, with a view to preventing violations of statutes, rules, and regulations, another person who commits such a violation if such other person is subject to his supervision, including subpars. (A) and (B) respecting failure to supervise a person, and inserted par. (6). Former subsec. (e) redesignated (g).
 
-Subsec. (f). Pub. L. 91–547, §24(e), inserted subsec. (f). Former subsec. (f) redesignated (h).
+Subsec. (f). Pub. L. 91–547, §24(e), added subsec. (f). Former subsec. (f) redesignated (h).
 
 Subsec. (g). Pub. L. 91–547, §24(c), redesignated former subsec. (e) as (g). Former subsec. (g) redesignated (i).
 

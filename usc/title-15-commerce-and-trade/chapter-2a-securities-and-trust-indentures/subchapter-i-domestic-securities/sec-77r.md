@@ -152,7 +152,7 @@ Section 77d(1), (2), (3), (4), and (6) of this title, referred to in subsecs. (b
 
 #### Amendments ####
 
-**2015**—Subsec. (b)(4)(E). Pub. L. 114–94, §76001(b)(1), which directed amendment of subsec. (b)(4) by redesignating "the second subparagraph (D)" as (E), was executed by making the redesignation for the subpar. (D) relating to section 77c(a) of this title to reflect the probable intent of Congress. Former subpar. (E) redesignated (F)
+**2015**—Subsec. (b)(4)(E). Pub. L. 114–94, §76001(b)(1), which directed amendment of subsec. (b)(4) by redesignating "the second subparagraph (D)" as (E), was executed by making the redesignation for the subpar. (D) relating to section 77c(a) of this title to reflect the probable intent of Congress. Former subpar. (E) redesignated (F).
 
 Subsec. (b)(4)(F). Pub. L. 114–94, §76001(b)(1), redesignated subpar. (E) as (F).
 
@@ -208,7 +208,7 @@ Pub. L. 104–290, title I, §102(b), Oct. 11, 1996, 110 Stat. 3420, provided th
 
 [<sup>1</sup> See References in Text note below.](#77r_1)
 
-[<sup>2</sup> So in original. The words "in connection with securities or securities transactions" probably should be part of subpar. (A).](#77r_2)
+[<sup>2</sup> So in original. The comma after "enforcement actions" probably should be a hyphen and the words "in connection with securities or securities transactions" probably should be part of subpar. (A).](#77r_2)
 
 [<sup>3</sup> So in original. Probably should be "with".](#77r_3)
 

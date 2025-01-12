@@ -428,11 +428,11 @@ William J. Clinton.
 
 #### Continuance of Certain Federal Advisory Committees ####
 
-Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, provided:
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, provided:
 
 By the authority vested in me as President, by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
 
-Section 1. Each advisory committee listed below is continued until September 30, 2015.
+Section 1. Each advisory committee listed below is continued or, to the extent necessary, reestablished until September 30, 2017.
 
 (a) Committee for the Preservation of the White House; Executive Order 11145, as amended (Department of the Interior).
 
@@ -440,7 +440,7 @@ Section 1. Each advisory committee listed below is continued until September 30,
 
 (c) President's Committee on the National Medal of Science; Executive Order 11287, as amended (National Science Foundation).
 
-(d) Federal Advisory Council on Occupational Safety and Health; Executive Order 11612 [12196], as amended (Department of Labor).
+(d) Federal Advisory Council on Occupational Safety and Health; Executive Order 11612, as amended (Department of Labor).
 
 (e) President's Export Council; Executive Order 12131, as amended (Department of Commerce).
 
@@ -452,59 +452,81 @@ Section 1. Each advisory committee listed below is continued until September 30,
 
 (i) National Industrial Security Program Policy Advisory Committee; Executive Order 12829, as amended (National Archives and Records Administration).
 
-(j) Trade and Environment Policy Advisory Committee; Executive Order 12905, as amended (Office of the United States Trade Representative).
+(j) Trade and Environment Policy Advisory Committee; Executive Order 12905 (Office of the United States Trade Representative).
 
-(k) President's Committee for People with Intellectual Disabilities; Executive Order 12994, as amended (Department of Health and Human Services).
+(k) Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation; Executive Order 12915 (Environmental Protection Agency).
 
-(l) National Infrastructure Advisory Council; Executive Order 13231, as amended (Department of Homeland Security).
+(l) National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation; Executive Order 12915 (Environmental Protection Agency).
 
-(m) President's Council on Fitness, Sports, and Nutrition; Executive Order 13265, as amended (Department of Health and Human Services).
+(m) Good Neighbor Environmental Board; Executive Order 12916 (Environmental Protection Agency).
 
-(n) President's Advisory Council on Faith-Based and Neighborhood Partnerships; Executive Order 13498, re-established by Executive Order 13569, and continued by Executive Order 13640 (Department of Health and Human Services).
+(n) Presidential Advisory Council on HIV/AIDS; Executive Order 12963, as amended (Department of Health and Human Services).
 
-(o) President's Advisory Commission on Asian Americans and Pacific Islanders; Executive Order 13515, as amended (Department of Education).
+(o) President's Committee for People with Intellectual Disabilities; Executive Order 12994, as amended (Department of Health and Human Services).
 
-(p) Presidential Commission for the Study of Bioethical Issues; Executive Order 13521 (Department of Health and Human Services).
+(p) Invasive Species Advisory Committee; Executive Order 13112, as amended (Department of the Interior).
 
-(q) National Council on Federal Labor-Management Relations; Executive Order 13522 (Office of Personnel Management).
+(q) Marine Protected Areas Federal Advisory Committee; Executive Order 13158 (Department of Commerce).
 
-(r) President's Board of Advisors on Historically Black Colleges and Universities; Executive Order 13532, as amended (Department of Education).
+(r) Advisory Board on Radiation and Worker Health; Executive Order 13179 (Department of Health and Human Services).
 
-(s) President's Management Advisory Board; Executive Order 13538 (General Services Administration).
+(s) National Infrastructure Advisory Council; Executive Order 13231, as amended (Department of Homeland Security).
 
-(t) President's Council of Advisors on Science and Technology; Executive Order 13539, as amended (Department of Energy).
+(t) President's Council on Fitness, Sports, and Nutrition; Executive Order 13265, as amended (Department of Health and Human Services).
 
-(u) Interagency Task Force on Veterans Small Business Development; Executive Order 13540 (Small Business Administration).
+(u) President's Advisory Council on Faith-Based and Neighborhood Partnerships; Executive Order 13498 (Department of Health and Human Services).
 
-(v) Advisory Group on Prevention, Health Promotion, and Integrative and Public Health; Executive Order 13544, re-established by Executive Order 13631 (Department of Health and Human Services).
+(v) President's Advisory Commission on Asian Americans and Pacific Islanders; Executive Order 13515, as amended (Department of Education).
 
-(w) State, Local, Tribal, and Private Sector (SLTPS) Policy Advisory Committee; Executive Order 13549, as amended (National Archives and Records Administration).
+(w) Presidential Commission for the Study of Bioethical Issues; Executive Order 13521 (Department of Health and Human Services).
 
-(x) President's Advisory Commission on Educational Excellence for Hispanics; Executive Order 13555, re-established by Executive Order 13634 (Department of Education).
+(x) National Council on Federal Labor-Management Relations; Executive Order 13522 (Office of Personnel Management).
 
-(y) President's Global Development Council; Executive Order 13600 (United States Agency for International Development).
+(y) U.S. General Services Administration Labor-Management Relations Council; Executive Order 13522 (General Services Administration).
 
-(z) President's Advisory Commission on Educational Excellence for African Americans; Executive Order 13621 (Department of Education).
+(z) President's Board of Advisors on Historically Black Colleges and Universities; Executive Order 13532, as amended (Department of Education).
+
+(aa) President's Management Advisory Board; Executive Order 13538, as amended (General Services Administration).
+
+(bb) President's Council of Advisors on Science and Technology; Executive Order 13539, as amended (Department of Energy).
+
+(cc) Interagency Task Force on Veterans Small Business Development; Executive Order 13540 (Small Business Administration).
+
+(dd) Advisory Group on Prevention, Health Promotion, and Integrative and Public Health; Executive Order 13544 (Department of Health and Human Services).
+
+(ee) State, Local, Tribal, and Private Sector (SLTPS) Policy Advisory Committee; Executive Order 13549 (National Archives and Records Administration).
+
+(ff) President's Advisory Commission on Educational Excellence for Hispanics; Executive Order 13555, re-established by Executive Order 13634 (Department of Education).
+
+(gg) President's Global Development Council; Executive Order 13600, as amended (United States Agency for International Development).
+
+(hh) President's Advisory Commission on Educational Excellence for African Americans; Executive Order 13621 (Department of Education).
+
+(ii) President's Advisory Council on Doing Business in Africa; Executive Order 13675 (Department of Commerce).
+
+(jj) Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria; Executive Order 13676 (Department of Health and Human Services).
+
+(kk) Advisory Council on Wildlife Trafficking; Executive Order 13648 (Department of the Interior).
+
+(ll) Commerce Spectrum Management Advisory Committee; initially established pursuant to Presidential Memorandum on Improving Spectrum Management for the 21st Century (November 30, 2004) (Department of Commerce).
+
+(mm) National Space-Based Positioning, Navigation, and Timing Advisory Board; National Security Policy Directive–39, "U.S. National Space-Based Position, Navigation, and Timing Policy" (December 8, 2004) (National Aeronautics and Space Administration).
+
+(nn) San Juan Islands National Monument Advisory Committee; Proclamation 8947 of March 25, 2013 (Department of the Interior).
 
 Sec. 2. Notwithstanding the provisions of any other Executive Order, the functions of the President under the Federal Advisory Committee Act that are applicable to the committees listed in section 1 of this order shall be performed by the head of the department or agency designated after each committee, in accordance with the regulations, guidelines, and procedures established by the Administrator of General Services.
 
-Sec. 3. Sections 1 and 2 of Executive Order 13585 of September 30, 2011, and sections 1, 2, and 4 of Executive Order 13591 of November 23, 2011, are superseded by sections 1 and 2 of this order.
+Sec. 3. Sections 1 and 2 of Executive Order 13652 of September 30, 2013, are superseded by sections 1 and 2 of this order.
 
-Sec. 4. [Amended Ex. Ord. No. 13538, set out as a note under section 301 of Title 40, Public Buildings, Property, and Works.]
+Sec. 4. [Amended Ex. Ord. No. 12829, set out as a note under section 3161 of Title 50, War and National Defense]
 
-Sec. 5. [Amended Ex. Ord. No. 13043, set out as a note under section 402 of Title 23, Highways.]
-
-Sec. 6. [Amended Ex. Ord. No. 13231, set out as a note under section 121 of Title 6, Domestic Security.]
-
-Sec. 7. [Amended Ex. Ord. No. 13600, set out as a note under section 2151 of Title 22, Foreign Relations and Intercourse.]
-
-Sec. 8. [Amended Ex. Ord. No. 13515, set out as a note under section 1501 of Title 15, Commerce and Trade.]
-
-Sec. 9. This order shall be effective September 30, 2013.
+Sec. 5. This order shall be effective September 30, 2015.
 
 Barack Obama.
 
 Provisions providing for the continuance of certain Federal advisory committees were contained in the following:
+
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, partially superseded by Ex. Ord. No. 13708, §3, Sept. 30, 2015, 80 F.R. 60273.
 
 Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, partially superseded by Ex. Ord. No. 13652, §3, Sept. 30, 2013, 78 F.R. 61818.
 
@@ -613,7 +635,7 @@ Except as provided in section 7(b), this Act shall become effective upon the exp
 INSPECTOR GENERAL ACT OF 1978
 ==========
 
-Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, title V, §508(n), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1)–(3), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)–(c), Sept. 8, 1982, 96 Stat. 750–752; Pub. L. 99–93, title I, §150(a), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §§102(a)–(d), (f), (g), 104(a), 105–107, 109, 110, Oct. 18, 1988, 102 Stat. 2515–2529; Pub. L. 100–527, §13(h), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), title VII, §702(c), Aug. 9, 1989, 103 Stat. 393, 415; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(1), (2)(A), (3)(A), (4), (5), Sept. 21, 1993, 107 Stat. 889, 890; Pub. L. 103–204, §23(a), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–106, div. A, title XV, §1502(f)(6), div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 510, 677; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b), title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, 3009–393; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–206, title I, §1103(a)–(c)(1), (e)(1)–(3), July 22, 1998, 112 Stat. 705, 708, 709; Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 105–277, div. G, title XIII, §1314(b), title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–792; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–113, div. B, §1000(a)(7) [title II, §205], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 106–422, §1(b), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–189, §22(a), (c), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 107–296, title VIII, §§811(e), 812(a), title XI, §1112(a), title XVII, §1701, Nov. 25, 2002, 116 Stat. 2221, 2222, 2275, 2313; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 108–7, div. L, §104(b), (c)(2), Feb. 20, 2003, 117 Stat. 529, 531; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1078, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3695, 3868; Pub. L. 109–177, title VI, §605(e)(3), (4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–234, title XIV, §14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, §1105(c), July 30, 2008, 122 Stat. 2668; Pub. L. 110–409, §§2–4(a)(1), 5, 6(a), (b), 7(a), (d)(1), 8, 9, 11–13(a), 14, Oct. 14, 2008, 122 Stat. 4302, 4305, 4313–4316; Pub. L. 110–417, [div. A], title IX, §§907, 931(b)(2), Oct. 14, 2008, 122 Stat. 4569, 4575; Pub. L. 111–13, title IV, §4101, Apr. 21, 2009, 123 Stat. 1597; Pub. L. 111–84, div. A, title X, §1042, Oct. 28, 2009, 123 Stat. 2455; Pub. L. 111–203, title IX, §§989B–989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §§405(d), 431, Oct. 7, 2010, 124 Stat. 2719, 2731; Pub. L. 112–199, title I, §117(a), (b), Nov. 27, 2012, 126 Stat. 1474, 1475; Pub. L. 112–239, div. A, title VIII, §848, title XVI, §1614, Jan. 2, 2013, 126 Stat. 1851, 2066; Pub. L. 113–126, title III, §310, title IV, §§402, 412, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1408, 1409, 1420; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. M, title III, §304, Dec. 18, 2015, 129 Stat. 2913
+Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, title V, §508(n), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1)–(3), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)–(c), Sept. 8, 1982, 96 Stat. 750–752; Pub. L. 99–93, title I, §150(a), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §§102(a)–(d), (f), (g), 104(a), 105–107, 109, 110, Oct. 18, 1988, 102 Stat. 2515–2529; Pub. L. 100–527, §13(h), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), title VII, §702(c), Aug. 9, 1989, 103 Stat. 393, 415; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(1), (2)(A), (3)(A), (4), (5), Sept. 21, 1993, 107 Stat. 889, 890; Pub. L. 103–204, §23(a), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–106, div. A, title XV, §1502(f)(6), div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 510, 677; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b), title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, 3009–393; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–206, title I, §1103(a)–(c)(1), (e)(1)–(3), July 22, 1998, 112 Stat. 705, 708, 709; Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 105–277, div. G, title XIII, §1314(b), title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–792; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–113, div. B, §1000(a)(7) [title II, §205], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 106–422, §1(b), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–189, §22(a), (c), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 107–296, title VIII, §§811(e), 812(a), title XI, §1112(a), title XVII, §1701, Nov. 25, 2002, 116 Stat. 2221, 2222, 2275, 2313; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 108–7, div. L, §104(b), (c)(2), Feb. 20, 2003, 117 Stat. 529, 531; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1078, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3695, 3868; Pub. L. 109–177, title VI, §605(e)(3), (4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–234, title XIV, §14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, §1105(c), July 30, 2008, 122 Stat. 2668; Pub. L. 110–409, §§2–4(a)(1), 5, 6(a), (b), 7(a), (d)(1), 8, 9, 11–13(a), 14, Oct. 14, 2008, 122 Stat. 4302, 4305, 4313–4316; Pub. L. 110–417, [div. A], title IX, §§907, 931(b)(2), Oct. 14, 2008, 122 Stat. 4569, 4575; Pub. L. 111–13, title IV, §4101, Apr. 21, 2009, 123 Stat. 1597; Pub. L. 111–84, div. A, title X, §1042, Oct. 28, 2009, 123 Stat. 2455; Pub. L. 111–203, title IX, §§989B–989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §§405(d), 431, Oct. 7, 2010, 124 Stat. 2719, 2731; Pub. L. 112–199, title I, §117(a), (b), Nov. 27, 2012, 126 Stat. 1474, 1475; Pub. L. 112–239, div. A, title VIII, §848, title XVI, §1614, Jan. 2, 2013, 126 Stat. 1851, 2066; Pub. L. 113–126, title III, §310, title IV, §§402, 412, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1408, 1409, 1420; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. H, title IV, §401(a), div. M, title III, §304, Dec. 18, 2015, 129 Stat. 2639, 2913
 
 ### §1. Short title ###
 
@@ -2029,6 +2051,8 @@ Pub. L. 114–113, div. H, title IV, §401(a), (c), Dec. 18, 2015, 129 Stat. 263
 
 (B) by striking "board or commission", the second place it appears, and inserting "board, committee, or commission".
 
+See 2015 Amendment notes below.
+
 #### Amendment of Subsection (a)(2) ####
 
 Pub. L. 105–134, title IV, §409(a), Dec. 2, 1997, 111 Stat. 2586, provided that effective at beginning of first fiscal year after fiscal year for which Amtrak receives no Federal subsidy, subsection (a)(2) of this section is amended by striking "Amtrak,".
@@ -2047,7 +2071,7 @@ A prior section 8G of the Inspector General Act of 1978 was renumbered section 8
 
 Subsec. (a)(4)(D) to (I). Pub. L. 114–113, §401(a)(1)(B), added subpar. (D) and redesignated former subpars. (D) to (H) as (E) to (I), respectively.
 
-Subsec. (e)(1). Pub. L. 114–113, §401(a)(2), substituted "board, chairman of a committee, or commission" for "board or commission" first time appearing and "board, committee, or commission" for "board or commission" second time appearing.
+Subsec. (e)(1). Pub. L. 114–113, §401(a)(2), substituted "board, chairman of a committee, or commission" for "board or commission" the first time appearing and "board, committee, or commission" for "board or commission" the second time appearing.
 
 **2014**—Subsec. (a)(2). Pub. L. 113–126, §412(1), struck out "the National Reconnaissance Office," after "the National Labor Relations Board,".
 
@@ -13967,7 +13991,7 @@ Prepared by the President and transmitted to the Senate and House of Representat
 
 (14) Section 3(b)(1) of the Woodrow Wilson Memorial Act of 1968 (20 U.S.C. 80f(b)(1));
 
-(15) Section 201 of Public Law 89–665, as amended by section 201(5) of Public Law 94–422 (16 U.S.C. 470i(a)(9)) [see 54 U.S.C. 304101(a)(9)];
+(15) Section 201 of Public Law 89–665, as amended by section 201(5) of Public Law 94–422 ([former] 16 U.S.C. 470i(a)(9)) [see 54 U.S.C. 304101(a)(9)];
 
 (16) The third proviso in the twenty-third unnumbered paragraph of title V of Public Law 95–86 (headed "UNITED STATES INFORMATION AGENCY, SALARIES AND EXPENSES"), 91 Stat. 440–41 [Aug. 2, 1977];
 
@@ -14724,9 +14748,9 @@ Subject to the provisions of Sections 201, 202, and 203 of this Plan, all functi
 
 (d) Such enforcement functions of the Secretary or other appropriate officer or entity in the Department of Energy and such enforcement functions of the Commission, Commissioners, or other appropriate officer or entity in the Federal Energy Regulatory Commission related to compliance with: the certificates of public convenience and necessity, issued under Section 7 of the Natural Gas Act, as amended (15 U.S.C. 717f); and authorizations for importation of natural gas from Alberta as predeliveries of Alaskan gas issued under Section 3 of the Natural Gas Act, as amended (15 U.S.C. 717b);
 
-(e) Such enforcement functions of the Secretary or other appropriate officer or entity in the Department of the Interior related to compliance with: grants of rights-of-way and temporary use permits for Federal land, issued under Section 28 of the Mineral Leasing Act of 1920 (30 U.S.C. 185); land use permits for temporary use of public lands and other associated land uses, issued under Sections 302, 501, and 503–511 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1732, 1761, and 1763–1771); materials sales contracts under the Materials Act of 1947 (30 U.S.C. 601–603); rights-of-way across Indian lands, issued under the Rights of Way Through Indian Lands Act (25 U.S.C. 321, et seq.); removal permits issued under the Materials Act of 1947 (30 U.S.C. 601–603); approval to cross national wildlife refuges, National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd–668jj) and the Upper Mississippi River Wildlife and Fish Refuge Act (16 U.S.C. 721–731); wildlife consultation in the Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.); protection of certain birds in the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.); Bald and Golden Eagles Protection Act (16 U.S.C. 668–668d); review of Corps of Engineers dredged and fill material permits issued under Section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344); rights-of-way across recreation lands issued under the Land and Water Conservation Fund Act of 1965, as amended (16 U.S.C. 4601–4—4601–11) [see 54 U.S.C. 200301 et seq.]; historic preservation under the National Historic Preservation Act of 1966 as amended (16 U.S.C. 470–470f) [see 54 U.S.C. 300101 et seq.]; permits issued under the Antiquities Act of 1906 (16 U.S.C. 432, 433) [see 18 U.S.C. 1866(b), 54 U.S.C. 320302, 320303]; and system activities requiring coordination and approval under general authorities of the National Trails System Act, as amended (16 U.S.C. 1241–1249), the Wilderness Act, as amended (16 U.S.C. 1131–1136), the Wild and Scenic Rivers Act, as amended (16 U.S.C. 1271–1287), the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), the Act of April 27, 1935 (prevention of soil erosion) (16 U.S.C. 590a–f), and an Act to Provide for the Preservation of Historical and Archeological Data, as amended (16 U.S.C. 469–469c) [see 54 U.S.C. 312501 et seq.];
+(e) Such enforcement functions of the Secretary or other appropriate officer or entity in the Department of the Interior related to compliance with: grants of rights-of-way and temporary use permits for Federal land, issued under Section 28 of the Mineral Leasing Act of 1920 (30 U.S.C. 185); land use permits for temporary use of public lands and other associated land uses, issued under Sections 302, 501, and 503–511 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1732, 1761, and 1763–1771); materials sales contracts under the Materials Act of 1947 (30 U.S.C. 601–603); rights-of-way across Indian lands, issued under the Rights of Way Through Indian Lands Act (25 U.S.C. 321, et seq.); removal permits issued under the Materials Act of 1947 (30 U.S.C. 601–603); approval to cross national wildlife refuges, National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd–668jj) and the Upper Mississippi River Wildlife and Fish Refuge Act (16 U.S.C. 721–731); wildlife consultation in the Fish and Wildlife Coordination Act (16 U.S.C. 661 et seq.); protection of certain birds in the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.); Bald and Golden Eagles Protection Act (16 U.S.C. 668–668d); review of Corps of Engineers dredged and fill material permits issued under Section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344); rights-of-way across recreation lands issued under the Land and Water Conservation Fund Act of 1965, as amended (16 U.S.C. 4601–4—4601–11) [see 54 U.S.C. 200301 et seq.]; historic preservation under the National Historic Preservation Act of 1966 as amended (16 U.S.C. 470–470f) [see 54 U.S.C. 300101 et seq.]; permits issued under the Antiquities Act of 1906 ([former] 16 U.S.C. 432, 433) [see 18 U.S.C. 1866(b), 54 U.S.C. 320301(a) to (c), 320302, 320303]; and system activities requiring coordination and approval under general authorities of the National Trails System Act, as amended (16 U.S.C. 1241–1249), the Wilderness Act, as amended (16 U.S.C. 1131–1136), the Wild and Scenic Rivers Act, as amended (16 U.S.C. 1271–1287), the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), the Act of April 27, 1935 (prevention of soil erosion) (16 U.S.C. 590a–f), and an Act to Provide for the Preservation of Historical and Archeological Data, as amended (16 U.S.C. 469–469c) [see 54 U.S.C. 312501 et seq.];
 
-(f) Such enforcement functions of the Secretary or other appropriate officer or entity in the Department of Agriculture, insofar as they involve lands and programs under the jurisdiction of that Department, related to compliance with: associated land use permits authorized for and in conjunction with grants of rights-of-way across Federal lands issued under Section 28 of the Mineral Leasing Act of 1920 (30 U.S.C. 185); land use permits for other associated land uses issued under Sections 501 and 503–511 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1761, 1763–1771), under the Organic Administration Act of June 4, 1897, as amended (16 U.S.C. 473, 474–482, 551), and under Title III of the Bankhead-Jones Farm Tenant Act of 1937, as amended (7 U.S.C. 1010–1012); removal of materials under the Materials Act of 1947 (30 U.S.C. 601–603) and objects of antiquity under the Antiquities Act of 1906 (16 U.S.C. 432, 433) [see 18 U.S.C. 1866(b), 54 U.S.C. 320302, 320303]; construction and utilization of national forest roads under the Roads and Trails System Act of 1964 (16 U.S.C. 532–538); and system activities requiring coordination and approval under general authorities of the National Forest Management Act of 1976 (16 U.S.C. 1600 et seq.); the Multiple Use-Sustained-Yield Act of 1960 (16 U.S.C. 528–531); the Forest and Rangelands Renewable Resources Planning Act of 1974 (16 U.S.C. 1601–1610); the National Trails System Act, as amended (16 U.S.C. 1241–1249); the Wilderness Act, as amended (16 U.S.C. 1131–1136); the Wild and Scenic Rivers Act, as amended (16 U.S.C. 1271–1287); the Land and Water Conservation Fund Act of 1965, as amended (16 U.S.C. 460 et seq.) [see 54 U.S.C. 200301 et seq.]; the Federal Water Pollution Control Act of 1972 (33 U.S.C. 1151 et seq.) [33 U.S.C. 1251 et seq.]; the Fish and Wildlife Coordination Act and Fish and Game Sanctuaries Act (16 U.S.C. 661 et seq. and 694, 694a–b, respectively); the National Historic Preservation Act of 1966, as amended (16 U.S.C. 470–470f) [see 54 U.S.C. 300101 et seq.]; an Act to Provide for the Preservation of Historical and Archeological Data, as amended (16 U.S.C. 469–469c) [see 54 U.S.C. 312501 et seq.]; the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); the Watershed Protection and Flood Prevention Act, as amended (16 U.S.C. 1001 et seq.); the Soil and Water [Resources] Conservation Act of 1977 (16 U.S.C. 2001 et seq.); and the Act of April 27, 1935 (prevention of soil erosion) (16 U.S.C. 590a–f);
+(f) Such enforcement functions of the Secretary or other appropriate officer or entity in the Department of Agriculture, insofar as they involve lands and programs under the jurisdiction of that Department, related to compliance with: associated land use permits authorized for and in conjunction with grants of rights-of-way across Federal lands issued under Section 28 of the Mineral Leasing Act of 1920 (30 U.S.C. 185); land use permits for other associated land uses issued under Sections 501 and 503–511 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1761, 1763–1771), under the Organic Administration Act of June 4, 1897, as amended (16 U.S.C. 473, 474–482, 551), and under Title III of the Bankhead-Jones Farm Tenant Act of 1937, as amended (7 U.S.C. 1010–1012); removal of materials under the Materials Act of 1947 (30 U.S.C. 601–603) and objects of antiquity under the Antiquities Act of 1906 ([former] 16 U.S.C. 432, 433) [see 18 U.S.C. 1866(b), 54 U.S.C. 320301(a) to (c), 320302, 320303]; construction and utilization of national forest roads under the Roads and Trails System Act of 1964 (16 U.S.C. 532–538); and system activities requiring coordination and approval under general authorities of the National Forest Management Act of 1976 (16 U.S.C. 1600 et seq.); the Multiple Use-Sustained-Yield Act of 1960 (16 U.S.C. 528–531); the Forest and Rangelands Renewable Resources Planning Act of 1974 (16 U.S.C. 1601–1610); the National Trails System Act, as amended (16 U.S.C. 1241–1249); the Wilderness Act, as amended (16 U.S.C. 1131–1136); the Wild and Scenic Rivers Act, as amended (16 U.S.C. 1271–1287); the Land and Water Conservation Fund Act of 1965, as amended (16 U.S.C. 460 et seq.) [see 54 U.S.C. 200301 et seq.]; the Federal Water Pollution Control Act of 1972 (33 U.S.C. 1151 et seq.) [33 U.S.C. 1251 et seq.]; the Fish and Wildlife Coordination Act and Fish and Game Sanctuaries Act (16 U.S.C. 661 et seq. and 694, 694a–b, respectively); the National Historic Preservation Act of 1966, as amended (16 U.S.C. 470–470f) [see 54 U.S.C. 300101 et seq.]; an Act to Provide for the Preservation of Historical and Archeological Data, as amended (16 U.S.C. 469–469c) [see 54 U.S.C. 312501 et seq.]; the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); the Watershed Protection and Flood Prevention Act, as amended (16 U.S.C. 1001 et seq.); the Soil and Water [Resources] Conservation Act of 1977 (16 U.S.C. 2001 et seq.); and the Act of April 27, 1935 (prevention of soil erosion) (16 U.S.C. 590a–f);
 
 (g) Such enforcement functions of the Secretary or other appropriate officer or entity in the Department of the Treasury related to compliance with permits for interstate transport of explosives and compliance with regulations for the storage of explosives, Title XI of the Organized Crime Control Act of 1970 (18 U.S.C. 841–848);
 

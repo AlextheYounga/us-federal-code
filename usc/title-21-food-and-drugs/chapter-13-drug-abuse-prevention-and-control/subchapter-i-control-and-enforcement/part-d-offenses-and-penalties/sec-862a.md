@@ -12,15 +12,15 @@ An individual convicted (under Federal or State law) of any offense which is cla
 
 #### (1) Program of temporary assistance for needy families ####
 
-The amount of assistance otherwise required to be provided under a State program funded under part A of title IV of the Social Security Act [42 U.S.C. 601 et seq.] to the family members of an individual to whom subsection (a) of this section applies shall be reduced by the amount which would have otherwise been made available to the individual under such part.
+The amount of assistance otherwise required to be provided under a State program funded under part A of title IV of the Social Security Act [42 U.S.C. 601 et seq.] to the family members of an individual to whom subsection (a) applies shall be reduced by the amount which would have otherwise been made available to the individual under such part.
 
 #### (2) Benefits under the Food and Nutrition Act of 2008 ####
 
-The amount of benefits otherwise required to be provided to a household under the supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012)), or any State program carried out under that Act [7 U.S.C. 2011 et seq.], shall be determined by considering the individual to whom subsection (a) of this section applies not to be a member of such household, except that the income and resources of the individual shall be considered to be income and resources of the household.
+The amount of benefits otherwise required to be provided to a household under the supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012)), or any State program carried out under that Act [7 U.S.C. 2011 et seq.], shall be determined by considering the individual to whom subsection (a) applies not to be a member of such household, except that the income and resources of the individual shall be considered to be income and resources of the household.
 
 #### (c) Enforcement ####
 
-A State that has not exercised its authority under subsection (d)(1)(A) of this section shall require each individual applying for assistance or benefits referred to in subsection (a) of this section, during the application process, to state, in writing, whether the individual, or any member of the household of the individual, has been convicted of a crime described in subsection (a) of this section.
+A State that has not exercised its authority under subsection (d)(1)(A) shall require each individual applying for assistance or benefits referred to in subsection (a), during the application process, to state, in writing, whether the individual, or any member of the household of the individual, has been convicted of a crime described in subsection (a).
 
 #### (d) Limitations ####
 
@@ -28,15 +28,15 @@ A State that has not exercised its authority under subsection (d)(1)(A) of this 
 
 #### (A) Opt out ####
 
-A State may, by specific reference in a law enacted after August 22, 1996, exempt any or all individuals domiciled in the State from the application of subsection (a) of this section.
+A State may, by specific reference in a law enacted after August 22, 1996, exempt any or all individuals domiciled in the State from the application of subsection (a).
 
 #### (B) Limit period of prohibition ####
 
-A State may, by law enacted after August 22, 1996, limit the period for which subsection (a) of this section shall apply to any or all individuals domiciled in the State.
+A State may, by law enacted after August 22, 1996, limit the period for which subsection (a) shall apply to any or all individuals domiciled in the State.
 
 #### (2) Inapplicability to convictions occurring on or before August 22, 1996 ####
 
-Subsection (a) of this section shall not apply to a conviction if the conviction is for conduct occurring on or before August 22, 1996.
+Subsection (a) shall not apply to a conviction if the conviction is for conduct occurring on or before August 22, 1996.
 
 #### (e) "State" defined ####
 

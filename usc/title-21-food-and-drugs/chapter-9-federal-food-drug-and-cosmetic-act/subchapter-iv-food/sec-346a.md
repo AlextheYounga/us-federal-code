@@ -44,9 +44,9 @@ While a tolerance or exemption from the requirement for a tolerance is in effect
 
 The Administrator may issue regulations establishing, modifying, or revoking a tolerance for a pesticide chemical residue in or on a food—
 
-(A) in response to a petition filed under subsection (d) of this section; or
+(A) in response to a petition filed under subsection (d); or
 
-(B) on the Administrator's own initiative under subsection (e) of this section.
+(B) on the Administrator's own initiative under subsection (e).
 
 As used in this section, the term "modify" shall not mean expanding the tolerance to cover additional foods.
 
@@ -104,7 +104,7 @@ For purposes of clause (ii), the conditions described in this clause with respec
 
 #### (v) Review ####
 
-Five years after the date on which the Administrator makes a determination to leave in effect or modify a tolerance under this subparagraph, and thereafter as the Administrator deems appropriate, the Administrator shall determine, after notice and opportunity for comment, whether it has been demonstrated to the Administrator that a condition described in clause (iii)(I) or clause (iii)(II) continues to exist with respect to the tolerance and that the yearly and lifetime risks from aggregate exposure to such residue continue to comply with the limits specified in clause (iv). If the Administrator determines by such date that such demonstration has not been made, the Administrator shall, not later than 180 days after the date of such determination, issue a regulation under subsection (e)(1) of this section to modify or revoke the tolerance.
+Five years after the date on which the Administrator makes a determination to leave in effect or modify a tolerance under this subparagraph, and thereafter as the Administrator deems appropriate, the Administrator shall determine, after notice and opportunity for comment, whether it has been demonstrated to the Administrator that a condition described in clause (iii)(I) or clause (iii)(II) continues to exist with respect to the tolerance and that the yearly and lifetime risks from aggregate exposure to such residue continue to comply with the limits specified in clause (iv). If the Administrator determines by such date that such demonstration has not been made, the Administrator shall, not later than 180 days after the date of such determination, issue a regulation under subsection (e)(1) to modify or revoke the tolerance.
 
 #### (vi) Infants and children ####
 
@@ -160,7 +160,7 @@ In establishing, modifying, leaving in effect, or revoking a tolerance for a pes
 
 #### (ii) Requirement ####
 
-If the Administrator relies on anticipated or actual residue levels in establishing, modifying, or leaving in effect a tolerance, the Administrator shall pursuant to subsection (f)(1) of this section require that data be provided five years after the date on which the tolerance is established, modified, or left in effect, and thereafter as the Administrator deems appropriate, demonstrating that such residue levels are not above the levels so relied on. If such data are not so provided, or if the data do not demonstrate that the residue levels are not above the levels so relied on, the Administrator shall, not later than 180 days after the date on which the data were required to be provided, issue a regulation under subsection (e)(1) of this section, or an order under subsection (f)(2) of this section, as appropriate, to modify or revoke the tolerance.
+If the Administrator relies on anticipated or actual residue levels in establishing, modifying, or leaving in effect a tolerance, the Administrator shall pursuant to subsection (f)(1) require that data be provided five years after the date on which the tolerance is established, modified, or left in effect, and thereafter as the Administrator deems appropriate, demonstrating that such residue levels are not above the levels so relied on. If such data are not so provided, or if the data do not demonstrate that the residue levels are not above the levels so relied on, the Administrator shall, not later than 180 days after the date on which the data were required to be provided, issue a regulation under subsection (e)(1), or an order under subsection (f)(2), as appropriate, to modify or revoke the tolerance.
 
 #### (F) Percent of food actually treated ####
 
@@ -194,9 +194,9 @@ In establishing a tolerance for a pesticide chemical residue in or on a food, th
 
 The Administrator may issue a regulation establishing, modifying, or revoking an exemption from the requirement for a tolerance for a pesticide chemical residue in or on food—
 
-(A) in response to a petition filed under subsection (d) of this section; or
+(A) in response to a petition filed under subsection (d); or
 
-(B) on the Administrator's initiative under subsection (e) of this section.
+(B) on the Administrator's initiative under subsection (e).
 
 #### (2) Standard ####
 
@@ -212,7 +212,7 @@ The term "safe", with respect to an exemption for a pesticide chemical residue, 
 
 #### (B) Factors ####
 
-In making a determination under this paragraph, the Administrator shall take into account, among other relevant considerations, the considerations set forth in subparagraphs (C) and (D) of subsection (b)(2) of this section.
+In making a determination under this paragraph, the Administrator shall take into account, among other relevant considerations, the considerations set forth in subparagraphs (C) and (D) of subsection (b)(2).
 
 #### (3) Limitation ####
 
@@ -256,7 +256,7 @@ A petition under paragraph (1) to establish a tolerance or exemption for a pesti
 
 (viii) if the petition relates to a tolerance for a processed food, reports of investigations conducted using the processing method(s) used to produce that food;
 
-(ix) such information as the Administrator may require to make the determination under subsection (b)(2)(C) of this section;
+(ix) such information as the Administrator may require to make the determination under subsection (b)(2)(C);
 
 (x) such information as the Administrator may require on whether the pesticide chemical may have an effect in humans that is similar to an effect produced by a naturally occurring estrogen or other endocrine effects;
 
@@ -284,7 +284,7 @@ The Administrator shall, after giving due consideration to a petition filed unde
 
 (i) issue a final regulation (which may vary from that sought by the petition) establishing, modifying, or revoking a tolerance for the pesticide chemical residue or an exemption of the pesticide chemical residue from the requirement of a tolerance (which final regulation shall be issued without further notice and without further period for public comment);
 
-(ii) issue a proposed regulation under subsection (e) of this section, and thereafter issue a final regulation under such subsection; or
+(ii) issue a proposed regulation under subsection (e), and thereafter issue a final regulation under such subsection; or
 
 (iii) issue an order denying the petition.
 
@@ -296,11 +296,11 @@ The Administrator shall give priority to petitions for the establishment or modi
 
 #### (i) Date certain for review ####
 
-If a person files a complete petition with the Administrator proposing the issuance of a regulation establishing a tolerance or exemption for a pesticide chemical residue that presents a lower risk to human health than a pesticide chemical residue for which a tolerance has been left in effect or modified under subsection (b)(2)(B) of this section, the Administrator shall complete action on such petition under this paragraph within 1 year.
+If a person files a complete petition with the Administrator proposing the issuance of a regulation establishing a tolerance or exemption for a pesticide chemical residue that presents a lower risk to human health than a pesticide chemical residue for which a tolerance has been left in effect or modified under subsection (b)(2)(B), the Administrator shall complete action on such petition under this paragraph within 1 year.
 
 #### (ii) Required determinations ####
 
-If the Administrator issues a final regulation establishing a tolerance or exemption for a safer pesticide chemical residue under clause (i), the Administrator shall, not later than 180 days after the date on which the regulation is issued, determine whether a condition described in subclause (I) or (II) of subsection (b)(2)(B)(iii) of this section continues to exist with respect to a tolerance that has been left in effect or modified under subsection (b)(2)(B) of this section. If such condition does not continue to exist, the Administrator shall, not later than 180 days after the date on which the determination under the preceding sentence is made, issue a regulation under subsection (e)(1) of this section to modify or revoke the tolerance.
+If the Administrator issues a final regulation establishing a tolerance or exemption for a safer pesticide chemical residue under clause (i), the Administrator shall, not later than 180 days after the date on which the regulation is issued, determine whether a condition described in subclause (I) or (II) of subsection (b)(2)(B)(iii) continues to exist with respect to a tolerance that has been left in effect or modified under subsection (b)(2)(B). If such condition does not continue to exist, the Administrator shall, not later than 180 days after the date on which the determination under the preceding sentence is made, issue a regulation under subsection (e)(1) to modify or revoke the tolerance.
 
 #### (e) Action on Administrator's own initiative ####
 
@@ -308,9 +308,9 @@ If the Administrator issues a final regulation establishing a tolerance or exemp
 
 The Administrator may issue a regulation—
 
-(A) establishing, modifying, suspending under subsection (l)(3) of this section, or revoking a tolerance for a pesticide chemical or a pesticide chemical residue;
+(A) establishing, modifying, suspending under subsection (l)(3), or revoking a tolerance for a pesticide chemical or a pesticide chemical residue;
 
-(B) establishing, modifying, suspending under subsection (l)(3) of this section, or revoking an exemption of a pesticide chemical residue from the requirement of a tolerance; or
+(B) establishing, modifying, suspending under subsection (l)(3), or revoking an exemption of a pesticide chemical residue from the requirement of a tolerance; or
 
 (C) establishing general procedures and requirements to implement this section.
 
@@ -344,19 +344,19 @@ The Administrator may under subparagraph (C) revise any such order to correct an
 
 #### (2) Noncompliance ####
 
-If a submission required by a notice issued in accordance with paragraph (1)(A), a rule issued under paragraph (1)(B), or an order issued under paragraph (1)(C) is not made by the time specified in such notice, rule, or order, the Administrator may by order published in the Federal Register modify or revoke the tolerance or exemption in question. In any review of such an order under subsection (g)(2) of this section, the only material issue shall be whether a submission required under paragraph (1) was not made by the time specified.
+If a submission required by a notice issued in accordance with paragraph (1)(A), a rule issued under paragraph (1)(B), or an order issued under paragraph (1)(C) is not made by the time specified in such notice, rule, or order, the Administrator may by order published in the Federal Register modify or revoke the tolerance or exemption in question. In any review of such an order under subsection (g)(2), the only material issue shall be whether a submission required under paragraph (1) was not made by the time specified.
 
 #### (g) Effective date, objections, hearings, and administrative review ####
 
 #### (1) Effective date ####
 
-A regulation or order issued under subsection (d)(4), (e)(1), or (f)(2) of this section shall take effect upon publication unless the regulation or order specifies otherwise. The Administrator may stay the effectiveness of the regulation or order if, after issuance of such regulation or order, objections are filed with respect to such regulation or order pursuant to paragraph (2).
+A regulation or order issued under subsection (d)(4), (e)(1), or (f)(2) shall take effect upon publication unless the regulation or order specifies otherwise. The Administrator may stay the effectiveness of the regulation or order if, after issuance of such regulation or order, objections are filed with respect to such regulation or order pursuant to paragraph (2).
 
 #### (2) Further proceedings ####
 
 #### (A) Objections ####
 
-Within 60 days after a regulation or order is issued under subsection (d)(4), (e)(1)(A), (e)(1)(B), (f)(2), (n)(3), or (n)(5)(C) of this section, any person may file objections thereto with the Administrator, specifying with particularity the provisions of the regulation or order deemed objectionable and stating reasonable grounds therefor. If the regulation or order was issued in response to a petition under subsection (d)(1) of this section, a copy of each objection filed by a person other than the petitioner shall be served by the Administrator on the petitioner.
+Within 60 days after a regulation or order is issued under subsection (d)(4), (e)(1)(A), (e)(1)(B), (f)(2), (n)(3), or (n)(5)(C), any person may file objections thereto with the Administrator, specifying with particularity the provisions of the regulation or order deemed objectionable and stating reasonable grounds therefor. If the regulation or order was issued in response to a petition under subsection (d)(1), a copy of each objection filed by a person other than the petitioner shall be served by the Administrator on the petitioner.
 
 #### (B) Hearing ####
 
@@ -370,7 +370,7 @@ As soon as practicable after receiving the arguments of the parties, the Adminis
 
 #### (1) Petition ####
 
-In a case of actual controversy as to the validity of any regulation issued under subsection (e)(1)(C) of this section, or any order issued under subsection (f)(1)(C) or (g)(2)(C) of this section, or any regulation that is the subject of such an order, any person who will be adversely affected by such order or regulation may obtain judicial review by filing in the United States Court of Appeals for the circuit wherein that person resides or has its principal place of business, or in the United States Court of Appeals for the District of Columbia Circuit, within 60 days after publication of such order or regulation, a petition praying that the order or regulation be set aside in whole or in part.
+In a case of actual controversy as to the validity of any regulation issued under subsection (e)(1)(C), or any order issued under subsection (f)(1)(C) or (g)(2)(C), or any regulation that is the subject of such an order, any person who will be adversely affected by such order or regulation may obtain judicial review by filing in the United States Court of Appeals for the circuit wherein that person resides or has its principal place of business, or in the United States Court of Appeals for the District of Columbia Circuit, within 60 days after publication of such order or regulation, a petition praying that the order or regulation be set aside in whole or in part.
 
 #### (2) Record and jurisdiction ####
 
@@ -410,21 +410,21 @@ This subsection does not authorize the withholding of data or information from e
 
 #### (3) Summaries ####
 
-Notwithstanding any provision of this subsection or other law, the Administrator may publish the informative summary required by subsection (d)(2)(A)(i) of this section and may, in issuing a proposed or final regulation or order under this section, publish an informative summary of the data relating to the regulation or order.
+Notwithstanding any provision of this subsection or other law, the Administrator may publish the informative summary required by subsection (d)(2)(A)(i) and may, in issuing a proposed or final regulation or order under this section, publish an informative summary of the data relating to the regulation or order.
 
 #### (j) Status of previously issued regulations ####
 
 #### (1) Regulations under section 346 ####
 
-Regulations affecting pesticide chemical residues in or on raw agricultural commodities promulgated, in accordance with section 371(e) of this title, under the authority of section 346(a) <sup><a href="#346a_1_target" name="346a_1">1</a></sup> of this title upon the basis of public hearings instituted before January 1, 1953, shall be deemed to be regulations issued under this section and shall be subject to modification or revocation under subsections (d) and (e) of this section, and shall be subject to review under subsection (q) of this section.
+Regulations affecting pesticide chemical residues in or on raw agricultural commodities promulgated, in accordance with section 371(e) of this title, under the authority of section 346(a) <sup><a href="#346a_1_target" name="346a_1">1</a></sup> of this title upon the basis of public hearings instituted before January 1, 1953, shall be deemed to be regulations issued under this section and shall be subject to modification or revocation under subsections (d) and (e), and shall be subject to review under subsection (q).
 
 #### (2) Regulations under section 348 ####
 
-Regulations that established tolerances for substances that are pesticide chemical residues in or on processed food, or that otherwise stated the conditions under which such pesticide chemicals could be safely used, and that were issued under section 348 of this title on or before August 3, 1996, shall be deemed to be regulations issued under this section and shall be subject to modification or revocation under subsection (d) or (e) of this section, and shall be subject to review under subsection (q) of this section.
+Regulations that established tolerances for substances that are pesticide chemical residues in or on processed food, or that otherwise stated the conditions under which such pesticide chemicals could be safely used, and that were issued under section 348 of this title on or before August 3, 1996, shall be deemed to be regulations issued under this section and shall be subject to modification or revocation under subsection (d) or (e), and shall be subject to review under subsection (q).
 
 #### (3) Regulations under section 346a ####
 
-Regulations that established tolerances or exemptions under this section that were issued on or before August 3, 1996, shall remain in effect unless modified or revoked under subsection (d) or (e) of this section, and shall be subject to review under subsection (q) of this section.
+Regulations that established tolerances or exemptions under this section that were issued on or before August 3, 1996, shall remain in effect unless modified or revoked under subsection (d) or (e), and shall be subject to review under subsection (q).
 
 #### (4) Certain substances ####
 
@@ -438,21 +438,21 @@ With respect to a substance that is not included in the definition of the term "
 
 If, on the day before August 3, 1996, a substance that is a pesticide chemical was, with respect to a particular pesticidal use of the substance and any resulting pesticide chemical residue in or on a particular food—
 
-(1) regarded by the Administrator or the Secretary as generally recognized as safe for use within the meaning of the provisions of subsection (a) of this section or section 321(s) of this title as then in effect; or
+(1) regarded by the Administrator or the Secretary as generally recognized as safe for use within the meaning of the provisions of subsection (a) or section 321(s) of this title as then in effect; or
 
 (2) regarded by the Secretary as a substance described by section 321(s)(4) of this title;
 
-such a pesticide chemical residue shall be regarded as exempt from the requirement for a tolerance, as of August 3, 1996. The Administrator shall by regulation indicate which substances are described by this subsection. Any exemption under this subsection may be modified or revoked as if it had been issued under subsection (c) of this section.
+such a pesticide chemical residue shall be regarded as exempt from the requirement for a tolerance, as of August 3, 1996. The Administrator shall by regulation indicate which substances are described by this subsection. Any exemption under this subsection may be modified or revoked as if it had been issued under subsection (c).
 
 #### (l) Harmonization with action under other laws ####
 
 #### (1) Coordination with FIFRA ####
 
-To the extent practicable and consistent with the review deadlines in subsection (q) of this section, in issuing a final rule under this subsection that suspends or revokes a tolerance or exemption for a pesticide chemical residue in or on food, the Administrator shall coordinate such action with any related necessary action under the Federal Insecticide, Fungicide, and Rodenticide Act [7 U.S.C. 136 et seq.].
+To the extent practicable and consistent with the review deadlines in subsection (q), in issuing a final rule under this subsection that suspends or revokes a tolerance or exemption for a pesticide chemical residue in or on food, the Administrator shall coordinate such action with any related necessary action under the Federal Insecticide, Fungicide, and Rodenticide Act [7 U.S.C. 136 et seq.].
 
 #### (2) Revocation of tolerance or exemption following cancellation of associated registrations ####
 
-If the Administrator, acting under the Federal Insecticide, Fungicide, and Rodenticide Act, cancels the registration of each pesticide that contains a particular pesticide chemical and that is labeled for use on a particular food, or requires that the registration of each such pesticide be modified to prohibit its use in connection with the production, storage, or transportation of such food, due in whole or in part to dietary risks to humans posed by residues of that pesticide chemical on that food, the Administrator shall revoke any tolerance or exemption that allows the presence of the pesticide chemical, or any pesticide chemical residue that results from its use, in or on that food. Subsection (e) of this section shall apply to actions taken under this paragraph. A revocation under this paragraph shall become effective not later than 180 days after—
+If the Administrator, acting under the Federal Insecticide, Fungicide, and Rodenticide Act, cancels the registration of each pesticide that contains a particular pesticide chemical and that is labeled for use on a particular food, or requires that the registration of each such pesticide be modified to prohibit its use in connection with the production, storage, or transportation of such food, due in whole or in part to dietary risks to humans posed by residues of that pesticide chemical on that food, the Administrator shall revoke any tolerance or exemption that allows the presence of the pesticide chemical, or any pesticide chemical residue that results from its use, in or on that food. Subsection (e) shall apply to actions taken under this paragraph. A revocation under this paragraph shall become effective not later than 180 days after—
 
 (A) the date by which each such cancellation of a registration has become effective; or
 
@@ -462,7 +462,7 @@ If the Administrator, acting under the Federal Insecticide, Fungicide, and Roden
 
 #### (A) Suspension ####
 
-If the Administrator, acting under the Federal Insecticide, Fungicide, and Rodenticide Act, suspends the use of each registered pesticide that contains a particular pesticide chemical and that is labeled for use on a particular food, due in whole or in part to dietary risks to humans posed by residues of that pesticide chemical on that food, the Administrator shall suspend any tolerance or exemption that allows the presence of the pesticide chemical, or any pesticide chemical residue that results from its use, in or on that food. Subsection (e) of this section shall apply to actions taken under this paragraph. A suspension under this paragraph shall become effective not later than 60 days after the date by which each such suspension of use has become effective.
+If the Administrator, acting under the Federal Insecticide, Fungicide, and Rodenticide Act, suspends the use of each registered pesticide that contains a particular pesticide chemical and that is labeled for use on a particular food, due in whole or in part to dietary risks to humans posed by residues of that pesticide chemical on that food, the Administrator shall suspend any tolerance or exemption that allows the presence of the pesticide chemical, or any pesticide chemical residue that results from its use, in or on that food. Subsection (e) shall apply to actions taken under this paragraph. A suspension under this paragraph shall become effective not later than 60 days after the date by which each such suspension of use has become effective.
 
 #### (B) Effect of suspension ####
 
@@ -470,7 +470,7 @@ The suspension of a tolerance or exemption under subparagraph (A) shall be effec
 
 #### (4) Tolerances for unavoidable residues ####
 
-In connection with action taken under paragraph (2) or (3), or with respect to pesticides whose registrations were suspended or canceled prior to August 3, 1996, under the Federal Insecticide, Fungicide, and Rodenticide Act, if the Administrator determines that a residue of the canceled or suspended pesticide chemical will unavoidably persist in the environment and thereby be present in or on a food, the Administrator may establish a tolerance for the pesticide chemical residue. In establishing such a tolerance, the Administrator shall take into account both the factors set forth in subsection (b)(2) of this section and the unavoidability of the residue. Subsection (e) of this section shall apply to the establishment of such tolerance. The Administrator shall review any such tolerance periodically and modify it as necessary so that it allows no greater level of the pesticide chemical residue than is unavoidable.
+In connection with action taken under paragraph (2) or (3), or with respect to pesticides whose registrations were suspended or canceled prior to August 3, 1996, under the Federal Insecticide, Fungicide, and Rodenticide Act, if the Administrator determines that a residue of the canceled or suspended pesticide chemical will unavoidably persist in the environment and thereby be present in or on a food, the Administrator may establish a tolerance for the pesticide chemical residue. In establishing such a tolerance, the Administrator shall take into account both the factors set forth in subsection (b)(2) and the unavoidability of the residue. Subsection (e) shall apply to the establishment of such tolerance. The Administrator shall review any such tolerance periodically and modify it as necessary so that it allows no greater level of the pesticide chemical residue than is unavoidable.
 
 #### (5) Pesticide residues resulting from lawful application of pesticide ####
 
@@ -480,11 +480,11 @@ Notwithstanding any other provision of this chapter, if a tolerance or exemption
 
 (B) the residue does not exceed a level that was authorized at the time of that application or use to be present on the food under a tolerance, exemption, food additive regulation, or other sanction then in effect under this chapter;
 
-unless, in the case of any tolerance or exemption revoked, suspended, or modified under this subsection or subsection (d) or (e) of this section, the Administrator has issued a determination that consumption of the legally treated food during the period of its likely availability in commerce will pose an unreasonable dietary risk.
+unless, in the case of any tolerance or exemption revoked, suspended, or modified under this subsection or subsection (d) or (e), the Administrator has issued a determination that consumption of the legally treated food during the period of its likely availability in commerce will pose an unreasonable dietary risk.
 
 #### (6) Tolerance for use of pesticides under an emergency exemption ####
 
-If the Administrator grants an exemption under section 18 of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136p) for a pesticide chemical, the Administrator shall establish a tolerance or exemption from the requirement for a tolerance for the pesticide chemical residue. Such a tolerance or exemption from a tolerance shall have an expiration date. The Administrator may establish such a tolerance or exemption without providing notice or a period for comment on the tolerance or exemption. The Administrator shall promulgate regulations within 365 days after August 3, 1996, governing the establishment of tolerances and exemptions under this paragraph. Such regulations shall be consistent with the safety standard under subsections (b)(2) and (c)(2) of this section and with section 18 of the Federal Insecticide, Fungicide, and Rodenticide Act.
+If the Administrator grants an exemption under section 18 of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136p) for a pesticide chemical, the Administrator shall establish a tolerance or exemption from the requirement for a tolerance for the pesticide chemical residue. Such a tolerance or exemption from a tolerance shall have an expiration date. The Administrator may establish such a tolerance or exemption without providing notice or a period for comment on the tolerance or exemption. The Administrator shall promulgate regulations within 365 days after August 3, 1996, governing the establishment of tolerances and exemptions under this paragraph. Such regulations shall be consistent with the safety standard under subsections (b)(2) and (c)(2) and with section 18 of the Federal Insecticide, Fungicide, and Rodenticide Act.
 
 #### (m) Fees ####
 
@@ -492,13 +492,13 @@ If the Administrator grants an exemption under section 18 of the Federal Insecti
 
 The Administrator shall by regulation require the payment of such fees as will in the aggregate, in the judgment of the Administrator, be sufficient over a reasonable term to provide, equip, and maintain an adequate service for the performance of the Administrator's functions under this section. Under the regulations, the performance of the Administrator's services or other functions under this section, including—
 
-(A) the acceptance for filing of a petition submitted under subsection (d) of this section;
+(A) the acceptance for filing of a petition submitted under subsection (d);
 
 (B) establishing, modifying, leaving in effect, or revoking a tolerance or establishing, modifying, leaving in effect, or revoking an exemption from the requirement for a tolerance under this section;
 
-(C) the acceptance for filing of objections under subsection (g) of this section; or
+(C) the acceptance for filing of objections under subsection (g); or
 
-(D) the certification and filing in court of a transcript of the proceedings and the record under subsection (h) of this section;
+(D) the certification and filing in court of a transcript of the proceedings and the record under subsection (h);
 
 may be conditioned upon the payment of such fees. The regulations may further provide for waiver or refund of fees in whole or in part when in the judgment of the Administrator such a waiver or refund is equitable and not contrary to the purposes of this subsection.
 
@@ -524,15 +524,15 @@ For purposes of this subsection, the term "qualifying pesticide chemical residue
 
 For purposes of this subsection, the term "qualifying Federal determination" means a tolerance or exemption from the requirement for a tolerance for a qualifying pesticide chemical residue that—
 
-(A) is issued under this section after August 3, 1996, and determined by the Administrator to meet the standard under subsection (b)(2)(A) (in the case of a tolerance) or (c)(2) (in the case of an exemption) of this section; or
+(A) is issued under this section after August 3, 1996, and determined by the Administrator to meet the standard under subsection (b)(2)(A) (in the case of a tolerance) or (c)(2) (in the case of an exemption); or
 
-(B)(i) pursuant to subsection (j) of this section is remaining in effect or is deemed to have been issued under this section, or is regarded under subsection (k) of this section as exempt from the requirement for a tolerance; and
+(B)(i) pursuant to subsection (j) is remaining in effect or is deemed to have been issued under this section, or is regarded under subsection (k) as exempt from the requirement for a tolerance; and
 
-(ii) is determined by the Administrator to meet the standard under subsection (b)(2)(A) (in the case of a tolerance) or (c)(2) (in the case of an exemption) of this section.
+(ii) is determined by the Administrator to meet the standard under subsection (b)(2)(A) (in the case of a tolerance) or (c)(2) (in the case of an exemption).
 
 #### (3) Limitation ####
 
-The Administrator may make the determination described in paragraph (2)(B)(ii) only by issuing a rule in accordance with the procedure set forth in subsection (d) or (e) of this section and only if the Administrator issues a proposed rule and allows a period of not less than 30 days for comment on the proposed rule. Any such rule shall be reviewable in accordance with subsections (g) and (h) of this section.
+The Administrator may make the determination described in paragraph (2)(B)(ii) only by issuing a rule in accordance with the procedure set forth in subsection (d) or (e) and only if the Administrator issues a proposed rule and allows a period of not less than 30 days for comment on the proposed rule. Any such rule shall be reviewable in accordance with subsections (g) and (h).
 
 #### (4) State authority ####
 
@@ -562,11 +562,11 @@ The Administrator may, by order, grant the authorization described in subparagra
 
 #### (D) Treatment ####
 
-In lieu of any action authorized under subparagraph (C), the Administrator may treat a petition under this paragraph as a petition under subsection (d) of this section to modify or revoke a tolerance or an exemption. If the Administrator determines to treat a petition under this paragraph as a petition under subsection (d) of this section, the Administrator shall thereafter act on the petition pursuant to subsection (d) of this section.
+In lieu of any action authorized under subparagraph (C), the Administrator may treat a petition under this paragraph as a petition under subsection (d) to modify or revoke a tolerance or an exemption. If the Administrator determines to treat a petition under this paragraph as a petition under subsection (d), the Administrator shall thereafter act on the petition pursuant to subsection (d).
 
 #### (E) Review ####
 
-Any order of the Administrator granting or denying the authorization described in subparagraph (A) shall be subject to review in the manner described in subsections (g) and (h) of this section.
+Any order of the Administrator granting or denying the authorization described in subparagraph (A) shall be subject to review in the manner described in subsections (g) and (h).
 
 #### (6) Urgent petition procedure ####
 
@@ -586,7 +586,7 @@ Not later than 2 years after August 3, 1996, and annually thereafter, the Admini
 
 (1) A discussion of the risks and benefits of pesticide chemical residues in or on food purchased by consumers.
 
-(2) A listing of actions taken under subparagraph (B) of subsection (b)(2) of this section that may result in pesticide chemical residues in or on food that present a yearly or lifetime risk above the risk allowed under subparagraph (A) of such subsection, and the food on which the pesticide chemicals producing the residues are used.
+(2) A listing of actions taken under subparagraph (B) of subsection (b)(2) that may result in pesticide chemical residues in or on food that present a yearly or lifetime risk above the risk allowed under subparagraph (A) of such subsection, and the food on which the pesticide chemicals producing the residues are used.
 
 (3) Recommendations to consumers for reducing dietary exposure to pesticide chemical residues in a manner consistent with maintaining a healthy diet, including a list of food that may reasonably substitute for food listed under paragraph (2).
 
@@ -668,7 +668,7 @@ The Administrator shall review tolerances and exemptions for pesticide chemical 
 
 (C) 100 percent of such tolerances and exemptions are reviewed within 10 years of August 3, 1996.
 
-In conducting a review of a tolerance or exemption, the Administrator shall determine whether the tolerance or exemption meets the requirements of subsections <sup><a href="#346a_3_target" name="346a_3">3</a></sup> (b)(2) or (c)(2) of this section and shall, by the deadline for the review of the tolerance or exemption, issue a regulation under subsection (d)(4) or (e)(1) of this section to modify or revoke the tolerance or exemption if the tolerance or exemption does not meet such requirements.
+In conducting a review of a tolerance or exemption, the Administrator shall determine whether the tolerance or exemption meets the requirements of subsections <sup><a href="#346a_3_target" name="346a_3">3</a></sup> (b)(2) or (c)(2) and shall, by the deadline for the review of the tolerance or exemption, issue a regulation under subsection (d)(4) or (e)(1) to modify or revoke the tolerance or exemption if the tolerance or exemption does not meet such requirements.
 
 #### (2) Priorities ####
 
@@ -680,7 +680,7 @@ Not later than 12 months after August 3, 1996, the Administrator shall publish a
 
 #### (r) Temporary tolerance or exemption ####
 
-The Administrator may, upon the request of any person who has obtained an experimental permit for a pesticide chemical under the Federal Insecticide, Fungicide, and Rodenticide Act [7 U.S.C. 136 et seq.] or upon the Administrator's own initiative, establish a temporary tolerance or exemption for the pesticide chemical residue for the uses covered by the permit. Subsections (b)(2), (c)(2), (d), and (e) of this section shall apply to actions taken under this subsection.
+The Administrator may, upon the request of any person who has obtained an experimental permit for a pesticide chemical under the Federal Insecticide, Fungicide, and Rodenticide Act [7 U.S.C. 136 et seq.] or upon the Administrator's own initiative, establish a temporary tolerance or exemption for the pesticide chemical residue for the uses covered by the permit. Subsections (b)(2), (c)(2), (d), and (e) shall apply to actions taken under this subsection.
 
 #### (s) Savings clause ####
 

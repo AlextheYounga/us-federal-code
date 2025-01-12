@@ -48,9 +48,11 @@ The term "tropical disease" means any of the following:
 
 (P) Yaws.
 
-(Q) Filoviruses.
+(Q) Filovirus Diseases.
 
-(R) Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by order of the Secretary.
+(R) Zika Virus Disease.
+
+(S) Any other infectious disease for which there is no significant market in developed nations and that disproportionately affects poor and marginalized populations, designated by order of the Secretary.
 
 #### (4) Tropical disease product application ####
 
@@ -126,13 +128,17 @@ Fees collected pursuant to this subsection for any fiscal year—
 
 (B) shall not be collected for any fiscal year except to the extent provided in advance in appropriation Acts.
 
-(June 25, 1938, ch. 675, §524, as added Pub. L. 110–85, title XI, §1102, Sept. 27, 2007, 121 Stat. 972; amended Pub. L. 113–233, §2, Dec. 16, 2014, 128 Stat. 2127.)
+(June 25, 1938, ch. 675, §524, as added Pub. L. 110–85, title XI, §1102, Sept. 27, 2007, 121 Stat. 972; amended Pub. L. 113–233, §2, Dec. 16, 2014, 128 Stat. 2127; Pub. L. 114–146, §2, Apr. 19, 2016, 130 Stat. 357.)
 
 #### References in Text ####
 
 Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), is section 101(c) of Pub. L. 110–85, which is set out as a note under section 379g of this title.
 
 #### Amendments ####
+
+**2016**—Subsec. (a)(3)(Q). Pub. L. 114–146, §2(2), substituted "Filovirus Diseases" for "Filoviruses".
+
+Subsec. (a)(3)(R), (S). Pub. L. 114–146, §2(1), (3), added subpar. (R) and redesignated former subpar. (R) as (S).
 
 **2014**—Subsec. (a)(3)(Q), (R). Pub. L. 113–233, §2(1), added subpar. (Q), redesignated former subpar. (Q) as (R), and in subpar. (R) substituted "order of" for "regulation by".
 

@@ -136,9 +136,7 @@ A prior section 901a, Pub. L. 99–177, title II, §251A, as added Pub. L. 103�
 
 Par. (6)(B). Pub. L. 114–74, §101(c)(1), in introductory provisions, substituted "for fiscal year 2024, and for fiscal year 2025" for "and for fiscal year 2024".
 
-Par. (6)(C), (D). Pub. L. 114–74, §101(c)(2), (3), redesignated subpar. (D) as (C), substituted "fiscal year 2025" for "fiscal year 2024", and struck out former subpar. (C) which read as follows:
-
-"Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2023 shall be applied to such payments so that—
+Par. (6)(C), (D). Pub. L. 114–74, §101(c)(2), (3), redesignated subpar. (D) as (C), substituted "fiscal year 2025" for "fiscal year 2024" in introductory provisions, and struck out former subpar. (C) which read as follows: "Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2023 shall be applied to such payments so that—
 
 "(i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 2.90 percent; and
 

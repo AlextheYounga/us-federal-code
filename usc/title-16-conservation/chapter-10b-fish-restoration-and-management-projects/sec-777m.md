@@ -112,9 +112,9 @@ The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–
 
 **2015**—Subsec. (a)(1). Pub. L. 114–94, §10001(f)(1), struck out "of each annual appropriation made in accordance with the provisions of section 777b of this title" after "$3,000,000".
 
-Subsec. (e). Pub. L. 114–94, §10001(f)(2)(A), substituted "Not more than $1,200,000 of each annual appropriation made in accordance with the provisions of section 777b of this title shall be distributed to the Secretary of the Interior for use as follows:" for "Of amounts made available under section 777c(b) of this title for each fiscal year—".
+Subsec. (e). Pub. L. 114–94, §10001(f)(2)(A), in introductory provisions, substituted "Not more than $1,200,000 of each annual appropriation made in accordance with the provisions of section 777b of this title shall be distributed to the Secretary of the Interior for use as follows:" for "Of amounts made available under section 777c(b) of this title for each fiscal year—".
 
-Subsec. (e)(1)(D). Pub. L. 114–94, §10001(f)(2)(B), substituted a period for "; and".
+Subsec. (e)(1)(D). Pub. L. 114–94, §10001(f)(2)(B), substituted period at end for "; and".
 
 **2010**—Subsec. (a)(1). Pub. L. 111–281 made technical correction to directory language of Pub. L. 109–241, §901(r)(2). See 2006 Amendment note below.
 

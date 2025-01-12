@@ -18,7 +18,7 @@ The Secretary shall establish and carry out an electronic product radiation cont
 
 #### (b) Powers of Secretary ####
 
-In carrying out the purposes of subsection (a) of this section, the Secretary is authorized to—
+In carrying out the purposes of subsection (a), the Secretary is authorized to—
 
 (1)(A) collect and make available, through publications and other appropriate means, the results of, and other information concerning, research and studies relating to the nature and extent of the hazards and control of electronic product radiation; and (B) make such recommendations relating to such hazards and control as he considers appropriate;
 

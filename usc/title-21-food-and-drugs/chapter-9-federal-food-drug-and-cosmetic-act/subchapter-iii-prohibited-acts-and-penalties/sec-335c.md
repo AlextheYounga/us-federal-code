@@ -10,15 +10,15 @@ The Secretary—
 
 #### (b) Procedure ####
 
-The Secretary may not take any action under subsection (a) of this section with respect to any person unless the Secretary has issued an order for such action made on the record after opportunity for an agency hearing on disputed issues of material fact. In the course of any investigation or hearing under this subsection, the Secretary may administer oaths and affirmations, examine witnesses, receive evidence, and issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
+The Secretary may not take any action under subsection (a) with respect to any person unless the Secretary has issued an order for such action made on the record after opportunity for an agency hearing on disputed issues of material fact. In the course of any investigation or hearing under this subsection, the Secretary may administer oaths and affirmations, examine witnesses, receive evidence, and issue subpoenas requiring the attendance and testimony of witnesses and the production of evidence that relates to the matter under investigation.
 
 #### (c) Applicability ####
 
-Subsection (a) of this section shall apply with respect to offenses or acts regardless of when such offenses or acts occurred.
+Subsection (a) shall apply with respect to offenses or acts regardless of when such offenses or acts occurred.
 
 #### (d) Judicial review ####
 
-Any person that is the subject of an adverse decision under subsection (a) of this section may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary's decision) a petition requesting that the decision be modified or set aside.
+Any person that is the subject of an adverse decision under subsection (a) may obtain a review of such decision by the United States Court of Appeals for the District of Columbia or for the circuit in which the person resides, by filing in such court (within 60 days following the date the person is notified of the Secretary's decision) a petition requesting that the decision be modified or set aside.
 
 (June 25, 1938, ch. 675, §308, as added Pub. L. 102–282, §4, May 13, 1992, 106 Stat. 160.)
 

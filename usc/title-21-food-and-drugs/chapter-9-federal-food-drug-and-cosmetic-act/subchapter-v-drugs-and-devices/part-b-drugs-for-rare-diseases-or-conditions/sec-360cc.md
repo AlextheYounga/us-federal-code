@@ -2,7 +2,7 @@
 
 #### (a) Exclusive approval, certification, or license ####
 
-Except as provided in subsection (b) of this section, if the Secretary—
+Except as provided in subsection (b), if the Secretary—
 
 (1) approves an application filed pursuant to section 355 of this title, or
 

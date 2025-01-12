@@ -2,9 +2,9 @@
 
 #### (a) Reasonable assurance of safe and effective performance; periodic evaluation ####
 
-(1) The special controls required by section 360c(a)(1)(B) of this title shall include performance standards for a class II device if the Secretary determines that a performance standard is necessary to provide reasonable assurance of the safety and effectiveness of the device. A class III device may also be considered a class II device for purposes of establishing a standard for the device under subsection (b) of this section if the device has been reclassified as a class II device under an administrative order under section 360c(e) of this title (or a regulation promulgated under such section prior to July 9, 2012) but such order (or regulation) provides that the reclassification is not to take effect until the effective date of such a standard for the device.
+(1) The special controls required by section 360c(a)(1)(B) of this title shall include performance standards for a class II device if the Secretary determines that a performance standard is necessary to provide reasonable assurance of the safety and effectiveness of the device. A class III device may also be considered a class II device for purposes of establishing a standard for the device under subsection (b) if the device has been reclassified as a class II device under an administrative order under section 360c(e) of this title (or a regulation promulgated under such section prior to July 9, 2012) but such order (or regulation) provides that the reclassification is not to take effect until the effective date of such a standard for the device.
 
-(2) A performance standard established under subsection (b) of this section for a device—
+(2) A performance standard established under subsection (b) for a device—
 
 (A) shall include provisions to provide reasonable assurance of its safe and effective performance;
 
@@ -22,9 +22,9 @@
 
 (C) shall, where appropriate, require the use and prescribe the form and content of labeling for the proper installation, maintenance, operation, and use of the device.
 
-(3) The Secretary shall provide for periodic evaluation of performance standards established under subsection (b) of this section to determine if such standards should be changed to reflect new medical, scientific, or other technological data.
+(3) The Secretary shall provide for periodic evaluation of performance standards established under subsection (b) to determine if such standards should be changed to reflect new medical, scientific, or other technological data.
 
-(4) In carrying out his duties under this subsection and subsection (b) of this section, the Secretary shall, to the maximum extent practicable—
+(4) In carrying out his duties under this subsection and subsection (b), the Secretary shall, to the maximum extent practicable—
 
 (A) use personnel, facilities, and other technical support available in other Federal agencies,
 
@@ -94,13 +94,13 @@ to an advisory committee of experts, established pursuant to subparagraph (B), f
 
 **2012**—Subsec. (a)(1). Pub. L. 112–144 substituted "under an administrative order under section 360c(e) of this title (or a regulation promulgated under such section prior to July 9, 2012) but such order (or regulation)" for "under a regulation under section 360c(e) of this title but such regulation".
 
-**1997**—Subsec. (a)(1). Pub. L. 105–115, §204(d)(1), substituted "under subsection (b) of this section" for "under this section".
+**1997**—Subsec. (a)(1). Pub. L. 105–115, §204(d)(1), substituted "under subsection (b)" for "under this section".
 
-Subsec. (a)(2). Pub. L. 105–115, §204(d)(2), substituted "under subsection (b) of this section" for "under this section" in introductory provisions.
+Subsec. (a)(2). Pub. L. 105–115, §204(d)(2), substituted "under subsection (b)" for "under this section" in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 105–115, §204(d)(3), substituted "under subsection (b) of this section" for "under this section".
+Subsec. (a)(3). Pub. L. 105–115, §204(d)(3), substituted "under subsection (b)" for "under this section".
 
-Subsec. (a)(4). Pub. L. 105–115, §204(d)(4), substituted "this subsection and subsection (b) of this section" for "this section" in introductory provisions.
+Subsec. (a)(4). Pub. L. 105–115, §204(d)(4), substituted "this subsection and subsection (b)" for "this section" in introductory provisions.
 
 Subsec. (c). Pub. L. 105–115, §204(a), added subsec. (c).
 

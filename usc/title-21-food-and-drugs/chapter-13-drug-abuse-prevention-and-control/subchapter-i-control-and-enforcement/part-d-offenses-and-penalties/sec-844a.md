@@ -26,15 +26,15 @@ The Attorney General may compromise, modify, or remit, with or without condition
 
 #### (g) Judicial review ####
 
-If the Attorney General issues an order pursuant to subsection (e) of this section after a hearing described in such subsection, the individual who is the subject of the order may, before the expiration of the 30-day period beginning on the date the order is issued, bring a civil action in the appropriate district court of the United States. In such action, the law and the facts of the violation and the assessment of the civil penalty shall be determined de novo, and shall include the right of a trial by jury, the right to counsel, and the right to confront witnesses. The facts of the violation shall be proved beyond a reasonable doubt.
+If the Attorney General issues an order pursuant to subsection (e) after a hearing described in such subsection, the individual who is the subject of the order may, before the expiration of the 30-day period beginning on the date the order is issued, bring a civil action in the appropriate district court of the United States. In such action, the law and the facts of the violation and the assessment of the civil penalty shall be determined de novo, and shall include the right of a trial by jury, the right to counsel, and the right to confront witnesses. The facts of the violation shall be proved beyond a reasonable doubt.
 
 #### (h) Civil action ####
 
-If an individual does not request a hearing pursuant to subsection (e) of this section and the Attorney General issues an order pursuant to such subsection, or if an individual does not under subsection (g) of this section seek judicial review of such an order, the Attorney General may commence a civil action in any appropriate district court of the United States for the purpose of recovering the amount assessed and an amount representing interest at a rate computed in accordance with section 1961 of title 28. Such interest shall accrue from the expiration of the 30-day period described in subsection (g) of this section. In such an action, the decision of the Attorney General to issue the order, and the amount of the penalty assessed by the Attorney General, shall not be subject to review.
+If an individual does not request a hearing pursuant to subsection (e) and the Attorney General issues an order pursuant to such subsection, or if an individual does not under subsection (g) seek judicial review of such an order, the Attorney General may commence a civil action in any appropriate district court of the United States for the purpose of recovering the amount assessed and an amount representing interest at a rate computed in accordance with section 1961 of title 28. Such interest shall accrue from the expiration of the 30-day period described in subsection (g). In such an action, the decision of the Attorney General to issue the order, and the amount of the penalty assessed by the Attorney General, shall not be subject to review.
 
 #### (i) Limitation ####
 
-The Attorney General may not under this subsection <sup><a href="#844a_1_target" name="844a_1">1</a></sup> commence proceeding against an individual after the expiration of the 5-year period beginning on the date on which the individual allegedly violated subsection (a) of this section.
+The Attorney General may not under this subsection <sup><a href="#844a_1_target" name="844a_1">1</a></sup> commence proceeding against an individual after the expiration of the 5-year period beginning on the date on which the individual allegedly violated subsection (a).
 
 #### (j) Expungement procedures ####
 

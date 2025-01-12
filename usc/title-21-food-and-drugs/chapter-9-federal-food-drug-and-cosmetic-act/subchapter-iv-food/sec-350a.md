@@ -4,21 +4,21 @@
 
 An infant formula, including an infant formula powder, shall be deemed to be adulterated if—
 
-(1) such infant formula does not provide nutrients as required by subsection (i) of this section,
+(1) such infant formula does not provide nutrients as required by subsection (i),
 
-(2) such infant formula does not meet the quality factor requirements prescribed by the Secretary under subsection (b)(1) of this section, or
+(2) such infant formula does not meet the quality factor requirements prescribed by the Secretary under subsection (b)(1), or
 
-(3) the processing of such infant formula is not in compliance with the good manufacturing practices and the quality control procedures prescribed by the Secretary under subsection (b)(2) of this section.
+(3) the processing of such infant formula is not in compliance with the good manufacturing practices and the quality control procedures prescribed by the Secretary under subsection (b)(2).
 
 #### (b) Requirements for quality factors, good manufacturing practices, and retention of records ####
 
-(1) The Secretary shall by regulation establish requirements for quality factors for infant formulas to the extent possible consistent with current scientific knowledge, including quality factor requirements for the nutrients required by subsection (i) of this section.
+(1) The Secretary shall by regulation establish requirements for quality factors for infant formulas to the extent possible consistent with current scientific knowledge, including quality factor requirements for the nutrients required by subsection (i).
 
-(2)(A) The Secretary shall by regulation establish good manufacturing practices for infant formulas, including quality control procedures that the Secretary determines are necessary to assure that an infant formula provides nutrients in accordance with this subsection and subsection (i) of this section and is manufactured in a manner designed to prevent adulteration of the infant formula.
+(2)(A) The Secretary shall by regulation establish good manufacturing practices for infant formulas, including quality control procedures that the Secretary determines are necessary to assure that an infant formula provides nutrients in accordance with this subsection and subsection (i) and is manufactured in a manner designed to prevent adulteration of the infant formula.
 
 (B) The good manufacturing practices and quality control procedures prescribed by the Secretary under subparagraph (A) shall include requirements for—
 
-(i) the testing, in accordance with paragraph (3) and by the manufacturer of an infant formula or an agent of such manufacturer, of each batch of infant formula for each nutrient required by subsection (i) of this section before the distribution of such batch,
+(i) the testing, in accordance with paragraph (3) and by the manufacturer of an infant formula or an agent of such manufacturer, of each batch of infant formula for each nutrient required by subsection (i) before the distribution of such batch,
 
 (ii) regularly scheduled testing, by the manufacturer of an infant formula or an agent of such manufacturer, of samples of infant formulas during the shelf life of such formulas to ensure that such formulas are in compliance with this section,
 
@@ -28,17 +28,17 @@ An infant formula, including an infant formula powder, shall be deemed to be adu
 
 In prescribing requirements for audits under clause (iv), the Secretary shall provide that such audits be conducted by appropriately trained individuals who do not have any direct responsibility for the manufacture or production of infant formula.
 
-(3)(A) At the final product stage, each batch of infant formula shall be tested for vitamin A, vitamin B1, vitamin C, and vitamin E to ensure that such infant formula is in compliance with the requirements of this subsection and subsection (i) of this section relating to such vitamins.
+(3)(A) At the final product stage, each batch of infant formula shall be tested for vitamin A, vitamin B1, vitamin C, and vitamin E to ensure that such infant formula is in compliance with the requirements of this subsection and subsection (i) relating to such vitamins.
 
-(B) Each nutrient premix used in the manufacture of an infant formula shall be tested for each relied upon nutrient required by subsection (i) of this section which is contained in such premix to ensure that such premix is in compliance with its specifications or certifications by a premix supplier.
+(B) Each nutrient premix used in the manufacture of an infant formula shall be tested for each relied upon nutrient required by subsection (i) which is contained in such premix to ensure that such premix is in compliance with its specifications or certifications by a premix supplier.
 
-(C) During the manufacturing process or at the final product stage and before distribution of an infant formula, an infant formula shall be tested for all nutrients required to be included in such formula by subsection (i) of this section for which testing has not been conducted pursuant to subparagraph (A) or (B). Testing under this subparagraph shall be conducted to—
+(C) During the manufacturing process or at the final product stage and before distribution of an infant formula, an infant formula shall be tested for all nutrients required to be included in such formula by subsection (i) for which testing has not been conducted pursuant to subparagraph (A) or (B). Testing under this subparagraph shall be conducted to—
 
-(i) ensure that each batch of such infant formula is in compliance with the requirements of subsection (i) of this section relating to such nutrients, and
+(i) ensure that each batch of such infant formula is in compliance with the requirements of subsection (i) relating to such nutrients, and
 
 (ii) confirm that nutrients contained in any nutrient premix used in such infant formula are present in each batch of such infant formula in the proper concentration.
 
-(D) If the Secretary adds a nutrient to the list of nutrients in the table in subsection (i) of this section, the Secretary shall by regulation require that the manufacturer of an infant formula test each batch of such formula for such new nutrient in accordance with subparagraph (A), (B), or (C).
+(D) If the Secretary adds a nutrient to the list of nutrients in the table in subsection (i), the Secretary shall by regulation require that the manufacturer of an infant formula test each batch of such formula for such new nutrient in accordance with subparagraph (A), (B), or (C).
 
 (E) For purposes of this paragraph, the term "final product stage" means the point in the manufacturing process, before distribution of an infant formula, at which an infant formula is homogenous and is not subject to further degradation.
 
@@ -70,7 +70,7 @@ In prescribing requirements for audits under clause (iv), the Secretary shall pr
 
 (A) such person has, before introducing such new infant formula, or delivering such new infant formula for introduction, into interstate commerce, registered with the Secretary the name of such person, the place of business of such person, and all establishments at which such person intends to manufacture such new infant formula, and
 
-(B) such person has at least 90 days before marketing such new infant formula, made the submission to the Secretary required by subsection (c)(1) of this section.
+(B) such person has at least 90 days before marketing such new infant formula, made the submission to the Secretary required by subsection (c)(1).
 
 (2) For purposes of paragraph (1), the term "new infant formula" includes—
 
@@ -82,25 +82,25 @@ For purposes of this paragraph, the term "major change" has the meaning given to
 
 #### (d) Submission of information about new infant formula required ####
 
-(1) A person shall, with respect to any infant formula subject to subsection (c) of this section, make a submission to the Secretary which shall include—
+(1) A person shall, with respect to any infant formula subject to subsection (c), make a submission to the Secretary which shall include—
 
 (A) the quantitative formulation of the infant formula,
 
 (B) a description of any reformulation of the formula or change in processing of the infant formula,
 
-(C) assurances that the infant formula will not be marketed unless it meets the requirements of subsections (b)(1) and (i) of this section, as demonstrated by the testing required under subsection (b)(3) of this section, and
+(C) assurances that the infant formula will not be marketed unless it meets the requirements of subsections (b)(1) and (i), as demonstrated by the testing required under subsection (b)(3), and
 
-(D) assurances that the processing of the infant formula complies with subsection (b)(2) of this section.
+(D) assurances that the processing of the infant formula complies with subsection (b)(2).
 
-(2) After the first production of an infant formula subject to subsection (c) of this section, and before the introduction into interstate commerce of such formula, the manufacturer of such formula shall submit to the Secretary, in such form as may be prescribed by the Secretary, a written verification which summarizes test results and records demonstrating that such formula complies with the requirements of subsections (b)(1), (b)(2)(A), (b)(2)(B)(i), (b)(2)(B)(iii), (b)(3)(A), (b)(3)(C), and (i) of this section.
+(2) After the first production of an infant formula subject to subsection (c), and before the introduction into interstate commerce of such formula, the manufacturer of such formula shall submit to the Secretary, in such form as may be prescribed by the Secretary, a written verification which summarizes test results and records demonstrating that such formula complies with the requirements of subsections (b)(1), (b)(2)(A), (b)(2)(B)(i), (b)(2)(B)(iii), (b)(3)(A), (b)(3)(C), and (i).
 
-(3) If the manufacturer of an infant formula for commercial or charitable distribution for human consumption determines that a change in the formulation of the formula or a change in the processing of the formula may affect whether the formula is adulterated under subsection (a) of this section, the manufacturer shall, before the first processing of such formula, make the submission to the Secretary required by paragraph (1).
+(3) If the manufacturer of an infant formula for commercial or charitable distribution for human consumption determines that a change in the formulation of the formula or a change in the processing of the formula may affect whether the formula is adulterated under subsection (a), the manufacturer shall, before the first processing of such formula, make the submission to the Secretary required by paragraph (1).
 
 #### (e) Additional notice requirements for manufacturer ####
 
 (1) If the manufacturer of an infant formula has knowledge which reasonably supports the conclusion that an infant formula which has been processed by the manufacturer and which has left an establishment subject to the control of the manufacturer—
 
-(A) may not provide the nutrients required by subsection (i) of this section, or
+(A) may not provide the nutrients required by subsection (i), or
 
 (B) may be otherwise adulterated or misbranded,
 
@@ -134,9 +134,9 @@ the manufacturer shall promptly notify the Secretary of such knowledge. If the S
 
 (B) who otherwise has an unusual medical or dietary problem,
 
-is exempt from the requirements of subsections (a), (b), and (c) of this section. The manufacturer of an infant formula exempt under this paragraph shall, in the case of the exempt formula, be required to provide the notice required by subsection (e)(1) of this section only with respect to adulteration or misbranding described in subsection (e)(1)(B) of this section and to comply with the regulations prescribed by the Secretary under paragraph (2).
+is exempt from the requirements of subsections (a), (b), and (c). The manufacturer of an infant formula exempt under this paragraph shall, in the case of the exempt formula, be required to provide the notice required by subsection (e)(1) only with respect to adulteration or misbranding described in subsection (e)(1)(B) and to comply with the regulations prescribed by the Secretary under paragraph (2).
 
-(2) The Secretary may by regulation establish terms and conditions for the exemption of an infant formula from the requirements of subsections (a), (b), and (c) of this section. An exemption of an infant formula under paragraph (1) may be withdrawn by the Secretary if such formula is not in compliance with applicable terms and conditions prescribed under this paragraph.
+(2) The Secretary may by regulation establish terms and conditions for the exemption of an infant formula from the requirements of subsections (a), (b), and (c). An exemption of an infant formula under paragraph (1) may be withdrawn by the Secretary if such formula is not in compliance with applicable terms and conditions prescribed under this paragraph.
 
 #### (i) Nutrient requirements ####
 
@@ -200,7 +200,7 @@ is exempt from the requirements of subsections (a), (b), and (c) of this section
 
 #### Amendments ####
 
-**1993**—Subsec. (h)(1). Pub. L. 103–80 substituted "(e)(1)(B) of this section" for "(c)(1)(B) of this section," in concluding provisions.
+**1993**—Subsec. (h)(1). Pub. L. 103–80 substituted "(e)(1)(B)" for "(c)(1)(B)," in concluding provisions.
 
 **1986**—Subsecs. (a) to (d). Pub. L. 99–570, §4014(a)(7), added subsecs. (a) to (d) and struck out former subsecs. (a) relating to adulteration and regulatory oversight, (b) relating to notice to the Secretary by a manufacturer and requirements and scope of that notice, (c) relating to additional notice requirements for the manufacturer, and (d) relating to procedures applicable to recalls by a manufacturer.
 
