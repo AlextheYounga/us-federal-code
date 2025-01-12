@@ -194,7 +194,7 @@ The Controlled Substances Act, referred to in subsec. (k), is title II of Pub. L
 
 #### Amendments ####
 
-**2018**—Subsec. (h)(1). Pub. L. 115–234, §302(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: " 'Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label use is prohibited.';"
+**2018**—Subsec. (h)(1). Pub. L. 115–234, §302(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: " 'Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label use is prohibited.';".
 
 Subsec. (h)(2). Pub. L. 115–234, §302(2), substituted "or food-producing animals" for "or other animals".
 

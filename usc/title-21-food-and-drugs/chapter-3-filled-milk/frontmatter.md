@@ -10,7 +10,7 @@ Sec.
 
 64. Regulations for enforcement.
 
-#### **Editorial Notes** ####
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Federal Food, Drug, and Cosmetic Act ####
 

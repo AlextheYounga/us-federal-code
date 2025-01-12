@@ -266,7 +266,7 @@ Pub. L. 102–571, title I, §102, Oct. 29, 1992, 106 Stat. 4491, provided that:
 
 "(2) the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for review of human drug applications; and
 
-"(3) the fees authorized by this title [see Short Title of 1992 Amendment note, set out under section 301 of this title] will be dedicated toward expediting the review of human drug applications as set forth in the goals identified in the letters of September 14, 1992, and September 21, 1992, from the Commissioner of Food and Drugs to the Chairman of the Energy and Commerce Committee of the House of Representatives and the Chairman of the Labor and Human Resources Committee of the Senate, as set forth at 138 Cong. Rec. H9099–H9100 (daily ed. September 22, 1992)."
+"(3) the fees authorized by this title [see Short Title of 1992 Amendment note, set out under section 301 of this title] will be dedicated toward expediting the review of human drug applications as set forth in the goals identified in the letters of September 14, 1992, and September 21, 1992, from the Commissioner of Food and Drugs to the Chairman of the Energy and Commerce Committee of the House of Representatives and the Chairman of the Labor and Human Resources Committee of the Senate, as set forth at 138 Cong. Rec. H9099–H9100 (daily ed. September 22, 1992) [Cong. Rec., vol. 138, pt. 18, p. 26928, Sept. 22, 1992]."
 
 #### Annual Reports ####
 
