@@ -68,7 +68,7 @@ Sec.
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–328, div. A, title X, §1022(a)(2), (b), Dec. 23, 2016, 130 Stat. 2388, added item 7318, effective the later of the date of enactment of the National Defense Authorization for Fiscal Year 2018 or Sept. 30, 2017.
+**2016**—Pub. L. 114–328, div. A, title X, §1022(a)(2), (b), Dec. 23, 2016, 130 Stat. 2388, added item 7318, effective on the later of the date of enactment of the National Defense Authorization for Fiscal Year 2018 or Sept. 30, 2017.
 
 Pub. L. 114–328, div. A, title I, §121(a)(2), Dec. 23, 2016, 130 Stat. 2030, added item 7301.
 

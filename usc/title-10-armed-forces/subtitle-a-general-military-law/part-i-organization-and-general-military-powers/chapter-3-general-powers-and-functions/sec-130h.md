@@ -22,8 +22,8 @@
 
 Subsec. (c). Pub. L. 114–328, §1081(a)(1), substituted "subsections (a) and (b)" for "subsection (a) and (b)".
 
-Subsec. (d). Pub. L. 114–328, §1682(a)(1)(A), (B), added subsec. (d). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 114–328, §1682(a)(1)(B), added subsec. (d). Former subsec. (d) redesignated (e).
 
 Pub. L. 114–328, §1081(a)(1), substituted "subsections (a) and (b)" for "subsection (a) and (b)".
 
-Subsec. (e). Pub. L. 114–328, §1682(a)(1)(A), (b), redesignated subsec. (d) as (e) and amended subsec. (e) generally. Text read as follows: "The prohibitions in subsections (a) and (b) shall expire on January 1, 2017."
+Subsec. (e). Pub. L. 114–328, §1682(a)(1)(A), (b), redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, text read as follows: "The prohibitions in subsections (a) and (b) shall expire on January 1, 2017."

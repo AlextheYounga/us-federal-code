@@ -26,7 +26,7 @@ Sec.
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–328, div. A, title IX, §952(c)(2), Dec. 23, 2016, 130 Stat. 2375, added item 714 at end.
+**2016**—Pub. L. 114–328, div. A, title IX, §952(c)(2), Dec. 23, 2016, 130 Stat. 2375, added item 714 at the end of this analysis.
 
 Pub. L. 114–328, div. A, title V, §502(g)(2), (h)(2), Dec. 23, 2016, 130 Stat. 2103, struck out items 720 "Chief of Staff to President: appointment" and 722 "Attending Physician to the Congress: grade".
 

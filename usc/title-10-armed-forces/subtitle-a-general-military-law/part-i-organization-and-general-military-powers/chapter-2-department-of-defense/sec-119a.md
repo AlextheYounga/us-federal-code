@@ -1,6 +1,6 @@
 ### §119a. Programs managed under alternative compensatory control measures: congressional oversight ###
 
-(a) Annual Report on Current Programs Under AACMS.—
+(a) Annual Report on Current Programs Under AACMS.— <sup><a href="#119a_1_target" name="119a_1">1</a></sup>
 
 (1) In general.—Not later than March 1 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the programs being managed under alternative compensatory control measures in the Department of Defense.
 
@@ -30,7 +30,7 @@
 
 (B) for each program that is a program being managed under alternative compensatory control measures in the Department, the information specified in paragraph (2)(B).
 
-(b) Annual Report on New Programs Under AACMS.—
+(b) Annual Report on New Programs Under AACMS.— <sup><a href="#119a_1_target" name="119a_1">1</a></sup>
 
 (1) In general.—Not later than February 1 each year, the Secretary shall submit to the congressional defense committees a report that, with respect to each new program being managed under alternative compensatory control measures in the Department, provides—
 
@@ -73,3 +73,5 @@
 (2) Exception.—If the Secretary determines that waiting for the regular notification process before initiating a program as described in paragraph (1) would cause exceptionally grave damage to the national security, the Secretary may begin a program to be managed under alternative compensatory control measures in the Department before such waiting period elapses. The Secretary shall notify the congressional defense committees within 10 days of initiating a program under this paragraph, including a justification for the determination of the Secretary that waiting for the regular notification process would cause exceptionally grave damage to the national security.
 
 (Added Pub. L. 114–328, div. A, title X, §1062(a), Dec. 23, 2016, 130 Stat. 2405.)
+
+[<sup>1</sup> So in original. Probably should be "ACCMS.—".](#119a_1)

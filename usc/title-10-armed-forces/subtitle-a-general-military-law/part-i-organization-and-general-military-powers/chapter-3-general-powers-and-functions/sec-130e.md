@@ -24,6 +24,6 @@
 
 #### Amendments ####
 
-**2016**—Subsecs. (b), (c), (f). Pub. L. 114–328 added subsecs. (b) and (c), redesignated former subsec. (c) as (f), and struck out former subsec. (b). Text of subsec. (b) read as follows: "Department of Defense critical infrastructure security information covered by a written determination under subsection (a) that is provided to a State or local government shall remain under the control of the Department of Defense."
+**2016**—Subsecs. (b), (c), (f). Pub. L. 114–328 added subsecs. (b) and (c), redesignated former subsec. (c) as (f), and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "Department of Defense critical infrastructure security information covered by a written determination under subsection (a) that is provided to a State or local government shall remain under the control of the Department of Defense."
 
 **2015**—Pub. L. 114–92 substituted "Treatment under Freedom of Information Act of certain critical infrastructure security information" for "Treatment under Freedom of Information Act of critical infrastructure security information" in section catchline.

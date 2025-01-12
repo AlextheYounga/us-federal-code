@@ -12,7 +12,7 @@
 
 **2016**—Pub. L. 114–328, §901(d), repealed Pub. L. 113–291, §901(a)(1). See 2014 Amendment note below.
 
-**2014**—Pub. L. 113–291, §901(a)(1), amended section generally, substituting provisions relating to Under Secretary of Defense for Business Management and Information for provisions which related to Deputy Chief Management Officer, prior to repeal by Pub. L. 114–328, §901(d).
+**2014**—Pub. L. 113–291, §901(a)(1), which directed the general amendment of this section, substituting provisions relating to Under Secretary of Defense for Business Management and Information for provisions which related to Deputy Chief Management Officer, was repealed by Pub. L. 114–328, §901(d).
 
 #### Effective Date of 2014 Amendment ####
 

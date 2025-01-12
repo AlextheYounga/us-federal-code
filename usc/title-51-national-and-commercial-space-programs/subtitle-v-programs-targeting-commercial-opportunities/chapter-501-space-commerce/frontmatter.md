@@ -26,6 +26,10 @@ Sec.
 
 50132. Acquisition of commercial space transportation services.
 
-50133. Shuttle privatization.
+[50133. Repealed.]
 
 50134. Use of excess intercontinental ballistic missiles.
+
+#### Amendments ####
+
+**2017**—Pub. L. 115–10, title IV, §416(c), Mar. 21, 2017, 131 Stat. 35, struck out item 50133 "Shuttle privatization".

@@ -80,7 +80,7 @@ Subtitle VII—Access to Space
 
 701. Use of space launch system or alternatives 2 70101
 
-703. Shuttle Pricing Policy for Commercial and Foreign Users 70301
+[703. Repealed.]
 
 705. Exploration Initiatives 70501
 
@@ -93,6 +93,8 @@ Subtitle VII—Access to Space
 713. Cooperation for Safety Among Spacefaring Nations 71301
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–10, title IV, §416(b), Mar. 21, 2017, 131 Stat. 35, struck out item for chapter 703 "Shuttle Pricing Policy for Commercial and Foreign Users".
 
 **2015**—Pub. L. 114–90, title I, §117(b)(1), title III, §301(a)(2), title IV, §402(b), Nov. 25, 2015, 129 Stat. 718, 720, 722, added item 513 and substituted "Commerce" for "Commercialization" in item 507 and "Use of space launch system or alternatives" for "Use of Space Shuttle or Alternatives" in item 701.
 

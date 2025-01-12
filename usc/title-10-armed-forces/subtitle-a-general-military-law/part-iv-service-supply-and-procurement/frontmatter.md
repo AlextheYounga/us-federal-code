@@ -73,11 +73,15 @@ Chap. Sec.
 
 173. Energy Security 2911
 
+#### Amendment of Analysis ####
+
+Pub. L. 114–328, div. A, title VIII, §846, Dec. 23, 2016, 130 Stat. 2292, provided that, effective Sept. 30, 2017, this analysis is amended by striking the item for chapter 144A. See 2016 Amendment note below.
+
 #### Amendments ####
 
-**2016**—Pub. L. 114–328, div. A, title VIII, §805(a)(2), Dec. 23, 2016, 130 Stat. 2255, added item for chapter 144B.
+**2016**—Pub. L. 114–328, div. A, title VIII, §846, Dec. 23, 2016, 130 Stat. 2292, effective Sept. 30, 2017, struck out item for chapter 144A "Major Automated Information System Programs".
 
-Pub. L. 114–328, div. A, title VIII, §846, Dec. 23, 2016, 130 Stat. 2292, effective Sept. 30, 2017, struck out item 144A "Major Automated Information System Programs".
+Pub. L. 114–328, div. A, title VIII, §805(a)(2), Dec. 23, 2016, 130 Stat. 2255, added item for chapter 144B.
 
 **2011**—Pub. L. 111–383, div. A, title VIII, §861(b), Jan. 7, 2011, 124 Stat. 4292, added item for chapter 149.
 

@@ -69,7 +69,7 @@ Chap. Sec.
 
 903. United States Air Force Academy 9331
 
-[905. Repealed.] 9381
+[905. Repealed.]
 
 907. Schools and Camps 9411
 

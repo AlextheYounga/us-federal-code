@@ -64,7 +64,7 @@ Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 34
 
 **2016**—Pub. L. 114–328, div. A, title IX, §901(g)(2), Dec. 23, 2016, 130 Stat. 2342, effective on Feb. 1, 2018, added items 133a and 133b.
 
-Pub. L. 114–328, div. A, title IX, §§901(g)(1), 922(b)(2), Dec. 23, 2016, 130 Stat. 2342, 2356, added item 139b and struck out former item 139b "Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems Engineering: joint guidance" and item 139c "Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy."
+Pub. L. 114–328, div. A, title IX, §§901(g)(1), 922(b)(2), Dec. 23, 2016, 130 Stat. 2342, 2356, added item 139b and struck out former item 139b "Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems Engineering: joint guidance" and item 139c "Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy".
 
 **2014**—Pub. L. 113–291, div. A, title IX, §901(l)(1)(B), (C), Dec. 19, 2014, 128 Stat. 3468, added item 142 and struck out items 138a "Assistant Secretary of Defense for Logistics and Materiel Readiness", 138b "Assistant Secretary of Defense for Research and Engineering", 138c "Assistant Secretary of Defense for Operational Energy Plans and Programs", and 138d "Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs".
 
@@ -140,4 +140,4 @@ Pub. L. 114–328, div. A, title IX, §901(g)(2), Dec. 23, 2016, 130 Stat. 2342,
 
 #### Effective Date of 2014 Amendment ####
 
-Pub. L. 113–291, div. A, title IX, §901(l)(1), Dec. 19, 2014, 128 Stat. 3468, provided that the amendment made by section 901(l)(1) is effective on the effective date specified in section 901(a)(1), which was on Feb. 1, 2017, prior to repeal of section 901(a) of Pub. L. 113–291 by Pub. L. 114–328, div. A, §901(d), Dec. 23, 2016, 130 Stat. 2342.
+Pub. L. 113–291, div. A, title IX, §901(l)(1), Dec. 19, 2014, 128 Stat. 3468, provided that the amendment made by section 901(l)(1) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, prior to repeal of section 901(a) of Pub. L. 113–291 by Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342.

@@ -12,7 +12,7 @@ Sec.
 
 #### George E. Brown, Jr. Near-Earth Object Survey ####
 
-Pub. L. 109–155, title III, §321, Dec. 30, 2005, 119 Stat. 2922, provided that:
+Pub. L. 109–155, title III, §321, Dec. 30, 2005, 119 Stat. 2922, as amended by Pub. L. 115–10, title V, §511, Mar. 21, 2017, 131 Stat. 51, provided that:
 
 "(a) Short Title.—This section may be cited as the 'George E. Brown, Jr. Near-Earth Object Survey Act'.
 
@@ -46,4 +46,26 @@ Pub. L. 109–155, title III, §321, Dec. 30, 2005, 119 Stat. 2922, provided tha
 
 "(B) A recommended option and proposed budget to carry out the Survey program pursuant to the recommended option.
 
-"(C) Analysis of possible alternatives that NASA could employ to divert an object on a likely collision course with Earth."
+"(C) Analysis of possible alternatives that NASA could employ to divert an object on a likely collision course with Earth.
+
+"(e) Program Report.—The Director of the Office of Science and Technology Policy and the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives, not later than 1 year after the date of enactment of the National Aeronautics and Space Administration Transition Authorization Act of 2017 [Mar. 21, 2017], an initial report that provides—
+
+"(1) recommendations for carrying out the Survey program and an associated proposed budget;
+
+"(2) an analysis of possible options that the Administration could employ to divert an object on a likely collision course with Earth; and
+
+"(3) a description of the status of efforts to coordinate and cooperate with other countries to discover hazardous asteroids and comets, plan a mitigation strategy, and implement that strategy in the event of the discovery of an object on a likely collision course with Earth.
+
+"(f) Annual Reports.—After the initial report under subsection (e), the Administrator shall annually transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that includes—
+
+"(1) a summary of all activities carried out under subsection (d) since the date of enactment of the National Aeronautics and Space Administration Transition Authorization Act of 2017 [Mar. 21, 2017], including the progress toward achieving 90 percent completion of the survey described in subsection (d); and
+
+"(2) a summary of expenditures for all activities carried out under subsection (d) since the date of enactment of the National Aeronautics and Space Administration Transition Authorization Act of 2017.
+
+"(g) Assessment.—The Administrator, in collaboration with other relevant Federal agencies, shall carry out a technical and scientific assessment of the capabilities and resources—
+
+"(1) to accelerate the survey described in subsection (d); and
+
+"(2) to expand the Administration's Near-Earth Object Program to include the detection, tracking, cataloguing, and characterization of potentially hazardous near-Earth objects less than 140 meters in diameter.
+
+"(h) Transmittal.—Not later than 270 days after the date of enactment of the National Aeronautics and Space Administration Transition Authorization Act of 2017 [Mar. 21, 2017], the Administrator shall transmit the results of the assessment under subsection (g) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives."

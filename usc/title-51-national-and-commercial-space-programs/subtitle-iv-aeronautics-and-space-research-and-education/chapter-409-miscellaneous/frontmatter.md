@@ -20,6 +20,28 @@ Sec.
 
 40909. Compliance with title IX of Education Amendments of 1972.
 
+#### Education and Outreach ####
+
+Pub. L. 115–10, title VIII, §824, Mar. 21, 2017, 131 Stat. 64, provided that:
+
+"(a) Sense of Congress.—It is the sense of Congress that—
+
+"(1) United States competitiveness in the 21st century requires engaging the science, technology, engineering, and mathematics (referred to in this section as 'STEM') talent in all States;
+
+"(2) the [National Aeronautics and Space] Administration is uniquely positioned to educate and inspire students and the broader public on STEM subjects and careers;
+
+"(3) the Administration's Education and Communication Offices, Mission Directorates, and Centers have been effective in delivering educational content because of the strong engagement of Administration scientists and engineers in the Administration's education and outreach activities;
+
+"(4) the Administration's education and outreach programs, including the Experimental Program to Stimulate Competitive Research (EPSCoR) and the Space Grant College and Fellowship Program, reflect the Administration's successful commitment to growing and diversifying the national science and engineering workforce; and
+
+"(5) in order to grow and diversify the Nation's engineering workforce, it is vital for the Administration to bolster programs, such as High Schools United with NASA to Create Hardware (HUNCH) program, that conduct outreach activities to underserved rural communities, vocational schools, and tribal colleges and universities and encourage new participation in the STEM workforce.
+
+"(b) Continuation of Education and Outreach Activities and Programs.—
+
+"(1) In general.—The Administrator [of the National Aeronautics and Space Administration] shall continue engagement with the public and education opportunities for students via all the Administration's mission directorates to the maximum extent practicable.
+
+"(2) Report.—Not later than 60 days after the date of enactment of this Act [Mar. 21, 2017], the Administrator shall submit to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Science, Space, and Technology of the House of Representatives] a report on the Administration's near-term outreach plans for advancing space law education."
+
 #### Inspiring the Next Space Pioneers, Innovators, Researchers, and Explorers (INSPIRE) Women ####
 
 Pub. L. 115–7, Feb. 28, 2017, 131 Stat. 13, provided that:

@@ -30,7 +30,7 @@
 
 #### Amendment of Subsection (c) ####
 
-Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, §5233, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2915, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (c) is amended by striking ", or the president of a court-martial without a military judge,". See 2016 Amendment note below.
+Pub. L. 114–328, div. E, title LVII, §5233, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2915, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (c) is amended by striking ", or the president of a court-martial without a military judge,". See 2016 Amendment note below.
 
 #### Amendments ####
 

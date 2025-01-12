@@ -40,8 +40,10 @@
 
 (3) would have been recommended for funding through the budget referred to in paragraph (1) by the officer submitting the report required by subsection (a) in connection with the budget if—
 
-(A) additional resources been available for the budget to fund the program, activity, or mission requirement; or
+(A) additional resources been <sup><a href="#222a_1_target" name="222a_1">1</a></sup> available for the budget to fund the program, activity, or mission requirement; or
 
 (B) the program, activity, or mission requirement has emerged since the budget was formulated.
 
 (Added Pub. L. 114–328, div. A, title X, §1064(a)(1), Dec. 23, 2016, 130 Stat. 2408.)
+
+[<sup>1</sup> So in original. Probably should be preceded by "had".](#222a_1)

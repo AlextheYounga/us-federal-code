@@ -4,7 +4,7 @@ Sec.
 
 341. Department of Defense State Partnership Program.
 
-342. Regional centers for security studies.
+342. Regional centers for security studies. 1
 
 343. Western Hemisphere Institute for Security Cooperation.
 
@@ -21,3 +21,5 @@ Sec.
 349. Inter-American Air Forces Academy.
 
 350. Inter-European Air Forces Academy.
+
+[<sup>1</sup> So in original. Does not conform to section catchline.](#I_1)

@@ -184,15 +184,15 @@ Sec.
 
 #### Amendment of Analysis ####
 
-Pub. L. 114–328, div. A, title VII, §§701(j)(2), (k), Dec. 23, 2016, 130 Stat. 2192, 2193, provided that, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, this analysis is amended as follows:
+Pub. L. 114–328, div. A, title VII, §701(j)(2), (k), Dec. 23, 2016, 130 Stat. 2192, 2193, provided that, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, this analysis is amended as follows:
 
-(A) in the item relating to section 1076d, by striking "TRICARE Standard" and inserting "TRICARE Reserve Select";
+(1) in the item relating to section 1076d, by striking "TRICARE Standard" and inserting "TRICARE Reserve Select";
 
-(B) in the item relating to section 1076e, by striking "TRICARE Standard" and inserting "TRICARE Retired Reserve";
+(2) in the item relating to section 1076e, by striking "TRICARE Standard" and inserting "TRICARE Retired Reserve";
 
-(C) in the item relating to section 1079a, by striking "CHAMPUS" and inserting "TRICARE program"; and
+(3) in the item relating to section 1079a, by striking "CHAMPUS" and inserting "TRICARE program"; and
 
-(D) in the item relating to section 1095f, by striking "for specialty health care" and inserting "and preauthorizations under TRICARE Prime".
+(4) in the item relating to section 1095f, by striking "for specialty health care" and inserting "and preauthorizations under TRICARE Prime".
 
 See 2016 Amendment note below.
 

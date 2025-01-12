@@ -1,6 +1,6 @@
 ### [§2225. Repealed. Pub. L. 114–328, div. A, title VIII, §833(b)(2)(A), Dec. 23, 2016, 130 Stat. 2284] ###
 
-Section, added Pub. L. 106–398, §1 [[div. A], title VIII, §812(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–212; amended Pub. L. 108–178, §4(b)(2), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 111–350, §5(b)(6), Jan. 4, 2011, 124 Stat. 3842, related to information technology purchases: tracking and management.
+Section, added Pub. L. 106–398, §1 [[div. A], title VIII, §812(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–212; amended Pub. L. 108–178, §4(b)(2), Dec. 15, 2003, 117 Stat. 2640; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 111–350, §5(b)(6), Jan. 4, 2011, 124 Stat. 3842, related to tracking and management of information technology purchases.
 
 #### Time for Implementation; Applicability ####
 

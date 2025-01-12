@@ -1,6 +1,6 @@
 ### [§1050. Repealed. Pub. L. 114–328, div. A, title XII, §1243(b)(1), Dec. 23, 2016, 130 Stat. 2516] ###
 
-Section 1050, added Pub. L. 98–525, title XIV, §1401(d)(1), Oct. 19, 1984, 98 Stat. 2616; amended Pub. L. 105–261, div. A, title IX, §905(b), Oct. 17, 1998, 112 Stat. 2093, related to the payment of personnel expenses for Latin American cooperation.
+Section, added Pub. L. 98–525, title XIV, §1401(d)(1), Oct. 19, 1984, 98 Stat. 2616; amended Pub. L. 105–261, div. A, title IX, §905(b), Oct. 17, 1998, 112 Stat. 2093, related to the payment of personnel expenses for Latin American cooperation.
 
 #### Prior Provisions ####
 

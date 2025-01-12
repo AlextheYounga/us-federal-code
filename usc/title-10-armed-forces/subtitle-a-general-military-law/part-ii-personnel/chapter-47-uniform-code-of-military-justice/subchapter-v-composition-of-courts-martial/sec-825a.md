@@ -6,7 +6,7 @@ In a case in which the accused may be sentenced to a penalty of death, the numbe
 
 #### Amendment of Section ####
 
-Pub. L. 114–328, div. E, title LV, §5183, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2900, 2967,provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
+Pub. L. 114–328, div. E, title LV, §5183, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2900, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended to read as follows:
 
 #### §825a. Art. 25a. Number of court-martial members in capital cases ####
 

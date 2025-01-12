@@ -36,7 +36,7 @@ Sec.
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–328, div. A, title IX, §941(b)(2), title X, §1062(b), title XI, §1102(b), Dec. 23, 2016, 130 Stat. 2365, 2408, 2444, added item 119a and struck out items 115b "Biennial strategic workforce plan" and 118 "Defense strategy review".
+**2016**—Pub. L. 114–328, div. A, title IX, §941(b)(2), title X, §1062(b), title XI, §1102(b), Dec. 23, 2016, 130 Stat. 2367, 2408, 2444, added item 119a and struck out items 115b "Biennial strategic workforce plan" and 118 "Defense strategy review".
 
 **2015**—Pub. L. 114–92, div. A, title X, §1081(b)(3), Nov. 25, 2015, 129 Stat. 1001, amended directory language of Pub. L. 113–291, §1072(a)(2). See 2014 Amendment note below.
 

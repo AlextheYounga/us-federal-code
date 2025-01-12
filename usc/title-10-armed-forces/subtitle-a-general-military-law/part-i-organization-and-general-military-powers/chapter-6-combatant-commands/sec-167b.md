@@ -58,4 +58,4 @@
 
 The National Security Act of 1947, referred to in subsec. (f), is act July 26, 1947, ch. 343, 61 Stat. 495, which is classified principally to chapter 44 (§3001 et seq.) of this title. Title V of the Act is classified generally to subchapter III (§3091 et seq.) of chapter 44 of this title. For complete classification of this Act to the Code, see Tables.
 
-[<sup>1</sup> So in original. Should be "2016".](#167b_1)
+[<sup>1</sup> So in original. Probably should be "2016".](#167b_1)

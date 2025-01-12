@@ -30,7 +30,7 @@
 
 (J) The United States Special Operations Command.
 
-(K) Such other officials or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate
+(K) Such other officials or Agencies, elements, or components of the Department of Defense as the Secretary of Defense considers appropriate <sup><a href="#139b_1_target" name="139b_1">1</a></sup>
 
 (d) Operation.—The Council shall operate continuously.
 
@@ -43,3 +43,5 @@ A prior section 139b, added Pub. L. 111–23, title I, §102(a)(1), May 22, 2009
 Another prior section 139b was renumbered section 138c of this title.
 
 Another prior section 139b was renumbered section 2433 of this title.
+
+[<sup>1</sup> So in original. Probably should be followed by a period.](#139b_1)
