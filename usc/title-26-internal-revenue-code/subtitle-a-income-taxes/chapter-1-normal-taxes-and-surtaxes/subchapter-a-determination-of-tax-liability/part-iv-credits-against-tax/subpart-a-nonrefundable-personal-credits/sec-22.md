@@ -106,6 +106,8 @@ No credit shall be allowed under this section to any nonresident alien.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 15, §37; Aug. 9, 1955, ch. 659, §1, 69 Stat. 591; Jan. 28, 1956, ch. 17, §1, 70 Stat. 8; Pub. L. 87–792, §7(a), Oct. 10, 1962, 76 Stat. 828; Pub. L. 87–876, §1, Oct. 24, 1962, 76 Stat. 1199; Pub. L. 88–272, title I, §113(a), title II, §§201(d)(3), 202(a), Feb. 26, 1964, 78 Stat. 24, 32, 33; Pub. L. 93–406, title II, §2002(g)(1), Sept. 2, 1974, 88 Stat. 968; Pub. L. 94–455, title V, §503(a), title XIX, §1901(c)(1), Oct. 4, 1976, 90 Stat. 1559, 1803; Pub. L. 95–600, title VII, §§701(a)(1)–(3), 703(j)(11), Nov. 6, 1978, 92 Stat. 2897, 2942; Pub. L. 96–222, title I, §107(a)(1)(E)(i), Apr. 1, 1980, 94 Stat. 222; Pub. L. 97–34, title I, §111(b)(4), Aug. 13, 1981, 95 Stat. 194; Pub. L. 98–21, title I, §122(a), Apr. 20, 1983, 97 Stat. 85; renumbered §22 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(d), July 18, 1984, 98 Stat. 826, 830; Pub. L. 99–514, title XIII, §1301(j)(8), Oct. 22, 1986, 100 Stat. 2658; Pub. L. 115–141, div. U, title IV, §401(a)(2)(A), Mar. 23, 2018, 132 Stat. 1184.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -169,6 +171,8 @@ Subsec. (d). Pub. L. 87–876 increased the limit on retirement income from $1,2
 **1956**—Subsec. (d)(2). Act Jan. 28, 1956, reduced from 75 to 72 the age at which there will be no limitation on earned income and increased from $900 to $1,200 the amount that an individual over 65 can earn without reducing the $1,200 on which the retirement credit is computed.
 
 **1955**—Subsec. (f). Act Aug. 9, 1955, extended the retirement income tax credit to members of the Armed Forces.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1986 Amendment ####
 

@@ -46,6 +46,8 @@ Subsection (a) shall not apply to the amount of any qualified Indian health care
 
 (Added Pub. L. 111–148, title IX, §9021(a), Mar. 23, 2010, 124 Stat. 873.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 4(l) of the Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2), is classified to section 5304(l) of Title 25, Indians.
@@ -53,6 +55,8 @@ Section 4(l) of the Indian Self-Determination and Education Assistance Act, refe
 #### Codification ####
 
 Another section 139D, added Pub. L. 111–148, title X, §10108(f)(1), Mar. 23, 2010, 124 Stat. 913, related to free choice vouchers, prior to repeal by Pub. L. 112–10, div. B, title VIII, §1858(b)(2)(A), Apr. 15, 2011, 125 Stat. 168, effective as if included in the provisions of, and the amendments made by, the provisions of Pub. L. 111–148 to which it relates, see section 1858(d) of Pub. L. 112–10, set out as an Effective Date of 2011 Amendment note under section 36B of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

@@ -1,5 +1,7 @@
 ### §16. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, which was from the Interior Department Appropriation Act, 1950, act Oct. 12, 1949, ch. 680, title I, 63 Stat. 791, was not repeated in the General Appropriation Act, 1951, act Sept. 6, 1950, ch. 896, 64 Stat. 595. It related to detail of Public Health medical officers to the Bureau of Mines. For provisions for details to executive departments, see section 215 of this title.
@@ -61,6 +63,8 @@ June 5, 1920, ch. 235, 41 Stat. 911.
 July 19, 1919, ch. 24, 41 Stat. 199.
 
 July 1, 1918, ch. 113, 40 Stat. 671.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeals ####
 

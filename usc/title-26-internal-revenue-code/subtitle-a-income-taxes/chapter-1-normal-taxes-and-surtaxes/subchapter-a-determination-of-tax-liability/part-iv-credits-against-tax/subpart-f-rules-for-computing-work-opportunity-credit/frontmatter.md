@@ -8,6 +8,8 @@ Sec.
 
 52. Special rules.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–432, div. A, title I, §105(e)(4)(B), Dec. 20, 2006, 120 Stat. 2937, struck out item 51A "Temporary incentives for employing long-term family assistance recipients".

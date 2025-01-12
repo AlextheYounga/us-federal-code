@@ -1526,6 +1526,8 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of this paragraph, referred to in subsec. (b)(2)(A), is the date of enactment of Pub. L. 110–289, which was approved July 30, 2008.
@@ -2061,6 +2063,8 @@ Subsec. (n). Pub. L. 100–647, §4003(b)(3), amended subsec. (n) generally, sub
 Subsec. (n)(1). Pub. L. 100–647, §1002(l)(25), inserted ", and, except for any building described in paragraph (2)(B), subsection (h)(4) shall not apply to any building placed in service after 1989" after "year after 1989".
 
 **1986**—Subsec. (k)(1). Pub. L. 99–509 substituted "subparagraphs (D)(ii)(II) and (D)(iv)(I)" for "subparagraph (D)(iv)(I)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

@@ -411,6 +411,8 @@ A determination described in this subparagraph with respect to any calendar year
 
 (Added Pub. L. 96–223, title II, §232(b)(1), Apr. 2, 1980, 94 Stat. 273, §44E; amended Pub. L. 97–34, title II §207(c)(3), Aug. 13, 1981, 95 Stat. 225; Pub. L. 97–354, §5(a)(2), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–424, title V, §511(b)(2), (d)(3), Jan. 6, 1983, 96 Stat. 2170, 2171; renumbered §40 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(k), title IX, §§912(c), (f), 913(b), July 18, 1984, 98 Stat. 826, 832, 1007, 1008; Pub. L. 100–203, title X, §10502(d)(1), Dec. 22, 1987, 101 Stat. 1330–444; Pub. L. 101–508, title XI, §11502(a)–(f), Nov. 5, 1990, 104 Stat. 1388–480 to 1388–482; Pub. L. 104–188, title I, §1703(j), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–178, title IX, §9003(a)(3), (b)(1), June 9, 1998, 112 Stat. 502; Pub. L. 108–357, title III, §§301(c)(1)–(4), 313(a), Oct. 22, 2004, 118 Stat. 1461, 1467; Pub. L. 109–58, title XIII, §1347(a), (b), Aug. 8, 2005, 119 Stat. 1056; Pub. L. 110–234, title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), May 22, 2008, 122 Stat. 1512–1516; Pub. L. 110–246, §4(a), title XV, §§15321(a)–(b)(2), (3)(B), (c)–(e), 15331(a), 15332(a), June 18, 2008, 122 Stat. 1664, 2274–2278; Pub. L. 110–343, div. B, title II, §203(a), Oct. 3, 2008, 122 Stat. 3833; Pub. L. 111–152, title I, §1408(a), Mar. 30, 2010, 124 Stat. 1067; Pub. L. 111–240, title II, §2121(a), Sept. 27, 2010, 124 Stat. 2567; Pub. L. 111–312, title VII, §708(a)(1), (2), Dec. 17, 2010, 124 Stat. 3312; Pub. L. 112–240, title IV, §404(a)(1), (2), (b)(1)–(3)(B), Jan. 2, 2013, 126 Stat. 2338, 2339; Pub. L. 113–295, div. A, title I, §152(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §184(a), Dec. 18, 2015, 129 Stat. 3073; Pub. L. 115–123, div. D, title I, §40406(a), Feb. 9, 2018, 132 Stat. 149; Pub. L. 115–141, div. U, title IV, §401(a)(9), Mar. 23, 2018, 132 Stat. 1184; Pub. L. 116–94, div. Q, title I, §122(a), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §140(a), Dec. 27, 2020, 134 Stat. 3054.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -596,6 +598,8 @@ Subsec. (d)(3)(A), (B). Pub. L. 97–424, §511(d)(3), substituted "50 cents" fo
 **1982**—Subsec. (d)(5). Pub. L. 97–354 substituted "Pass-thru in the case of estates and trusts" for "Pass-through in the case of subchapter S corporations, etc." in par. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
 **1981**—Subsec. (e)(2)(A). Pub. L. 97–34 substituted "15" for "7" in two places, and "14" for "6" in one place.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

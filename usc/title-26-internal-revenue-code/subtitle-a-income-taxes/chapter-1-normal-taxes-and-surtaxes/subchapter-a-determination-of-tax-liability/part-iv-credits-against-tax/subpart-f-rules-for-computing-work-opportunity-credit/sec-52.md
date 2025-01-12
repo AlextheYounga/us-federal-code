@@ -48,6 +48,8 @@ rules similar to the rules provided in subsections (e) and (h) of section 46 (as
 
 (Added Pub. L. 95–30, title II, §202(b), May 23, 1977, 91 Stat. 143; amended Pub. L. 95–600, title III, §321(c)(1), Nov. 6, 1978, 92 Stat. 2835; Pub. L. 96–222, title I, §103(a)(5), Apr. 1, 1980, 94 Stat. 209; Pub. L. 97–354, §5(a)(11), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §474(p)(4)–(7), July 18, 1984, 98 Stat. 838; Pub. L. 101–508, title XI, §11813(b)(4), Nov. 5, 1990, 104 Stat. 1388–551; Pub. L. 104–188, title I, §1616(b)(2), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title XVI, §1601(b), Aug. 5, 1997, 111 Stat. 1087; Pub. L. 112–56, title II, §261(e)(1), Nov. 21, 2011, 125 Stat. 730.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (e), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
@@ -85,6 +87,8 @@ Subsecs. (f) to (h). Pub. L. 95–600, §321(c)(1)(A), redesignated subsecs. (f)
 Subsec. (i). Pub. L. 95–600, §321(c)(1)(A)(i), struck out subsec. (i) which related to a $50,000 limitation in the case of married individuals filing separate returns.
 
 Subsec. (j). Pub. L. 95–600, §321(c)(1)(A)(i), struck out subsec. (j) which related to certain short taxable years.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2011 Amendment ####
 

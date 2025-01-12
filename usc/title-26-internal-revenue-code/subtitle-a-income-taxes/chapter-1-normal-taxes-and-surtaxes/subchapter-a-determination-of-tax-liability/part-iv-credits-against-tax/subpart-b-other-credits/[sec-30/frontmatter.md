@@ -4,6 +4,8 @@ Section, added Pub. L. 102–486, title XIX, §1913(b)(1), Oct. 24, 1992, 106 St
 
 A prior section 30 was renumbered section 41 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under section 1 of this title.

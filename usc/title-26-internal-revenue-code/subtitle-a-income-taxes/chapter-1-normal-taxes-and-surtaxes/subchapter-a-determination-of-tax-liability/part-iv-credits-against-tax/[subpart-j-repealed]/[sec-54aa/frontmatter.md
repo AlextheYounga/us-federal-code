@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 111–5, div. B, title I, §1531(a), Feb. 17, 2009, 123 Stat. 358, related to build America bonds.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to bonds issued after Dec. 31, 2017, see section 13404(d) of Pub. L. 115–97, set out as a note under former section 54 of this title.

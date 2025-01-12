@@ -12,6 +12,8 @@ Subsequent to repeal, Pub. L. 101–239, title VII, §7644(a), Dec. 19, 1989, 10
 
 "(b) Effective Date.—The amendment made by subsection (a) shall apply for purposes of credits first claimed after March 11, 1987."
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years, see section 475(a) of Pub. L. 98–369, set out as an Effective Date of 1984 Amendment note under section 21 of this title.

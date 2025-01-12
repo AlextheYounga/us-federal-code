@@ -808,6 +808,8 @@ Pub. L. 115–97, title I, §13206(d)(1), (e), Dec. 22, 2017, 131 Stat. 2112, 21
 
 See 2017 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of the Energy Tax Incentives Act of 2005, referred to in subsec. (b)(3)(D)(iv), is the date of enactment of title XIII of Pub. L. 109–58, which was approved Aug. 8, 2005.
@@ -1033,6 +1035,8 @@ Pub. L. 98–369, §474(i)(1)(B), amended subpar. (A) generally, substituting "s
 **1982**—Subsec. (f)(2)(A). Pub. L. 97–354, §5(a)(3)(A), substituted "Pass-thru in the case of estates and trusts" for "Pass-through in the case of subchapter S corporations, etc." in subpar. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
 Subsec. (g)(1)(B)(iv). Pub. L. 97–354, §5(a)(3)(B), substituted "an S corporation" for "an electing small business corporation (within the meaning of section 1371(b))".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2018 Amendment ####
 

@@ -212,6 +212,8 @@ In the case of any individual who serves on qualified official extended duty ser
 
 (Added Pub. L. 110–289, div. C, title I, §3011(a), July 30, 2008, 122 Stat. 2888; amended Pub. L. 111–5, div. B, title I, §1006(a)–(c), (d)(2), (e), Feb. 17, 2009, 123 Stat. 316, 317; Pub. L. 111–92, §§11(a)–(g), 12(a)–(c), Nov. 6, 2009, 123 Stat. 2989–2992; Pub. L. 111–198, §2(a), (b), July 2, 2010, 124 Stat. 1356.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 36 was renumbered section 37 of this title.
@@ -269,6 +271,8 @@ Subsec. (h). Pub. L. 111–92, §11(a)(1), substituted "May 1, 2010" for "Decemb
 Pub. L. 111–5, §1006(a)(1), substituted "December 1, 2009" for "July 1, 2009".
 
 Subsec. (h)(3). Pub. L. 111–92, §11(f), added par. (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

@@ -24,6 +24,8 @@ For purposes of this section, the term "covered offense" means any criminal offe
 
 (Added Pub. L. 114–113, div. Q, title III, §304(a), Dec. 18, 2015, 129 Stat. 3087.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 114–113, div. Q, title III, §304(c), Dec. 18, 2015, 129 Stat. 3088, provided that: "The amendments made by this section [enacting this section] shall apply to taxable years beginning before, on, or after the date of the enactment of this Act [Dec. 18, 2015]."

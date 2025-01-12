@@ -218,6 +218,8 @@ The Secretary may prescribe such regulations as may be necessary or appropriate 
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of this section, referred to in subsecs. (b)(3)(A) and (f)(2)(A), is the date of enactment of Pub. L. 105–34 which was approved Aug. 5, 1997.
@@ -226,9 +228,9 @@ The Higher Education Act of 1965, referred to in subsec. (f)(2)(B), is Pub. L. 8
 
 #### Amendments ####
 
-**2020**—Subsec. (d). Pub. L. 116–260, §104(a)(1), added par. (1), struck out former pars. (1) and (2), and redesignated former par. (3) as (2). Prior to amendment, pars. (1) and (2) related to American Opportunity Tax Credit and Lifetime Learning Credit, respectively.
+**2020**—Subsec. (d). Pub. L. 116–260, §104(a)(1), added par. (1), redesignated par. (3) as (2), and struck out former pars. (1) and (2) which provided income limitations for the American Opportunity Tax Credit and Lifetime Learning Credit, respectively.
 
-Subsec. (h). Pub. L. 116–260, §104(a)(2), struck out subsec. (h) which related to inflation adjustments for taxable years beginning after 2001.
+Subsec. (h). Pub. L. 116–260, §104(a)(2), struck out subsec. (h) which related to inflation adjustments for the Lifetime Learning Credit for taxable years beginning after 2001.
 
 **2018**—Pub. L. 115–141, §101(l)(14), substituted "American Opportunity Tax Credit" for "Hope Scholarship Credit" wherever appearing in text.
 
@@ -294,9 +296,11 @@ Subsec. (i)(5)(B). Pub. L. 111–148, §10909(b)(2)(C), (c), as amended by Pub. 
 
 "(2) Coordination with exclusions.—An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2)."
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2020 Amendment ####
 
-Pub. L. 116–260, div. EE, title I, §104(c), Dec. 27, 2020, 134 Stat. 3041, provided that: "The amendments made by this section [repealing section 222 of this title and amending this section and section 62, 74, 86, 135, 137, 219, 221, and 469 of this title] shall apply to taxable years beginning after December 31, 2020."
+Pub. L. 116–260, div. EE, title I, §104(c), Dec. 27, 2020, 134 Stat. 3041, provided that: "The amendments made by this section [amending this section and sections 62, 74, 86, 135, 137, 219, 221, and 469 of this title and repealing section 222 of this title] shall apply to taxable years beginning after December 31, 2020."
 
 #### Effective Date of 2018 Amendment ####
 

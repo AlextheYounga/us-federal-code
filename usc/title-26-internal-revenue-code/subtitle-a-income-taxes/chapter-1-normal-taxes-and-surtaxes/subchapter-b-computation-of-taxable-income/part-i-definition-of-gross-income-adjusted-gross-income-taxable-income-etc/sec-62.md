@@ -244,6 +244,8 @@ For purposes of subsection (a)(20), the term "unlawful discrimination" means an 
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 208 of the Congressional Accountability Act of 1995, referred to in subsec. (e)(2), was formerly section 207 of the Act prior to renumbering by Pub. L. 116–92, and is classified to section 1317 of Title 2, The Congress. A new section 207 of the Act was enacted by Pub. L. 116–92 and is classified to section 1316b of Title 2. Pub. L. 116–92 amended list of Act sections in subsec. (e)(2) of this section without corresponding amendment of Code citations, see 2019 Amendment note below.
@@ -405,6 +407,8 @@ Par. (11). Pub. L. 93–483 added par. (11) relating to penalties forfeited beca
 **1964**—Par. (8). Pub. L. 88–272 added par. (8).
 
 **1962**—Par. (7). Pub. L. 87–792 added par. (7).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

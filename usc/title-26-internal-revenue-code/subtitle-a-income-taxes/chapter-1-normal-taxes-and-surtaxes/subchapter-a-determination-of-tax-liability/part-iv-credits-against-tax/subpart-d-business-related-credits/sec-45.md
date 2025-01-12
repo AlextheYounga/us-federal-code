@@ -582,6 +582,8 @@ For purposes of this section the term "eligible cooperative" means a cooperative
 
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of this paragraph, the date of the enactment of this clause, the date of the enactment of this subclause, and the date of the enactment of the American Jobs Creation Act of 2004, referred to in subsecs. (b)(4)(B)(ii) and (d)(2)(C)(i), (3)(A)(i), (4) to (8), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
@@ -850,6 +852,8 @@ Subsec. (c)(4). Pub. L. 106–170, §507(b)(2), added par. (4).
 
 Subsec. (d)(6), (7). Pub. L. 106–170, §507(c), added pars. (6) and (7).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2020 Amendment ####
 
 Pub. L. 116–260, div. EE, title I, §131(d), Dec. 27, 2020, 134 Stat. 3052, provided that: "The amendments made by this section [amending this section and section 48 of this title] shall take effect on January 1, 2021."
@@ -985,6 +989,10 @@ Section applicable to taxable years ending after Dec. 31, 1992, see section 1914
 #### Inflation Adjusted Items for Certain Years ####
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+2021–Internal Revenue Notice 2021–32.
+
+**2020**—Internal Revenue Notice 2020–38.
 
 **2019**—Internal Revenue Notice 2019–41, Internal Revenue Notice 2020–9.
 

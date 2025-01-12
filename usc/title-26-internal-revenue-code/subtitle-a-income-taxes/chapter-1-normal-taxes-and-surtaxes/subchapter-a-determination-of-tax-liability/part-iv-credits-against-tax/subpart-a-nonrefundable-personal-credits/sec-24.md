@@ -346,6 +346,8 @@ For purposes of section 1324 of title 31, United States Code, the payments under
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 205(c)(2)(B)(i) of the Social Security Act, referred to in subsec. (h)(7)(A), is classified to section 405(c)(2)(B)(i) of Title 42, The Public Health and Welfare.
@@ -523,6 +525,8 @@ Subsec. (d)(3). Pub. L. 105–206, §6003(a)(1)(A), (B), (2), redesignated par. 
 Subsec. (d)(4). Pub. L. 105–206, §6003(a)(1)(A), struck out heading and text of par. (4). Text read as follows: "If the amount of the credit under paragraph (1)(B) exceeds the amount of the credit under paragraph (1)(A), such excess shall be treated as a credit to which subpart C applies. The rule of section 32(h) shall apply to such excess."
 
 Subsec. (d)(5). Pub. L. 105–206, §6003(a)(1)(B), redesignated par. (5) as (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2021 Amendment ####
 

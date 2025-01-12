@@ -10,6 +10,8 @@ If a taxpayer exercises the election provided for in subsection (a) for any taxa
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 25; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Subsec. (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".

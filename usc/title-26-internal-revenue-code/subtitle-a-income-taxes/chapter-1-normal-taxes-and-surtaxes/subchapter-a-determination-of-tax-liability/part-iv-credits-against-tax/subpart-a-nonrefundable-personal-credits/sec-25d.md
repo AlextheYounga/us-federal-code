@@ -164,6 +164,8 @@ The credit allowed under this section shall not apply to property placed in serv
 
 (Added Pub. L. 109–58, title XIII, §1335(a), Aug. 8, 2005, 119 Stat. 1033; amended Pub. L. 109–135, title IV, §402(i)(1), (2), (3)(E), Dec. 21, 2005, 119 Stat. 2612, 2614; Pub. L. 109–432, div. A, title II, §206, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title I, §106(a)–(c)(3)(A), (c)(4)–(e)(1), Oct. 3, 2008, 122 Stat. 3814–3816; Pub. L. 111–5, div. B, title I, §§1103(b)(2)(B), 1122(a), Feb. 17, 2009, 123 Stat. 320, 324; Pub. L. 112–240, title I, §104(c)(2)(F), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 114–113, div. P, title III, §304(a), Dec. 18, 2015, 129 Stat. 3039; Pub. L. 115–123, div. D, title I, §40402(a), (b), Feb. 9, 2018, 132 Stat. 148; Pub. L. 116–260, div. EE, title I, §148(a)–(b)(2), Dec. 27, 2020, 134 Stat. 3055.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Subsec. (a)(6). Pub. L. 116–260, §148(b)(1), added par. (6).
@@ -253,6 +255,8 @@ Subsec. (e)(4)(A), (B). Pub. L. 109–135, §402(i)(2), amended subpars. (A) and
 "(A) The amount of the credit allowable, under subsection (a) by reason of expenditures (as the case may be) made during such calendar year by any of such individuals with respect to such dwelling unit shall be determined by treating all of such individuals as 1 taxpayer whose taxable year is such calendar year.
 
 "(B) There shall be allowable, with respect to such expenditures to each of such individuals, a credit under subsection (a) for the taxable year in which such calendar year ends in an amount which bears the same ratio to the amount determined under subparagraph (A) as the amount of such expenditures made by such individual during such calendar year bears to the aggregate of such expenditures made by all of such individuals during such calendar year."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

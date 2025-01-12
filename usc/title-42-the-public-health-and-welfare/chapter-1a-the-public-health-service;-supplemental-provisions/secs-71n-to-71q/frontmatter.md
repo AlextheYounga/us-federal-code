@@ -1,5 +1,7 @@
 ### §§71n to 71q. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 71n, act Apr. 9, 1930, ch. 125, §10(b), 46 Stat. 152, which provided for pay and allowances of Surgeon General and for reversion in grade on expiration of term, was transferred to section 11a of this title.

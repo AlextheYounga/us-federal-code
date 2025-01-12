@@ -50,6 +50,8 @@ V. Title 11 cases 1398
 
 Z. Opportunity zones 1400Z–1
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(1), (d)(4)(A), (5)(A), (6)(A), Mar. 23, 2018, 132 Stat. 1184, 1209–1211, transferred subchapter R to follow subchapter Q and struck out subchapter W "District of Columbia Enterprise Zone", subchapter X "Renewal Communities", and subchapter Y "Short-Term Regional Benefits".

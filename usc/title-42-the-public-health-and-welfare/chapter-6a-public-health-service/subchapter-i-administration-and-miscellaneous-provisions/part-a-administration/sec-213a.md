@@ -52,6 +52,8 @@
 
 (July 1, 1944, ch. 373, title II, §221, as added Aug. 10, 1956, ch. 1041, §4, 70A Stat. 619; amended Pub. L. 85–861, §4, Sept. 2, 1958, 72 Stat. 1547; Pub. L. 86–160, §3, Aug. 14, 1959, 73 Stat. 359; Pub. L. 87–555, §2, July 27, 1962, 76 Stat. 244; Pub. L. 88–132, §5(k), Oct. 2, 1963, 77 Stat. 214; Pub. L. 88–431, §1(d), Aug. 14, 1964, 78 Stat. 440; Pub. L. 89–538, §3(b), Aug. 14, 1966, 80 Stat. 348; Pub. L. 92–425, §5, Sept. 21, 1972, 86 Stat. 713; Pub. L. 96–76, title III, §312, Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–513, title V, §507(f)(2), Dec. 12, 1980, 94 Stat. 2920; Pub. L. 99–117, §4, Oct. 7, 1985, 99 Stat. 492; Pub. L. 105–85, div. A, title VI, §653(a), Nov. 18, 1997, 111 Stat. 1804; Pub. L. 107–107, div. A, title VI, §653(a), Dec. 28, 2001, 115 Stat. 1153; Pub. L. 112–144, title XI, §1129, July 9, 2012, 126 Stat. 1118; Pub. L. 116–136, div. A, title III, §3214(d), Mar. 27, 2020, 134 Stat. 373.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 1370 of title 10, referred to in subsec. (a)(3), was repealed and new sections 1370 and 1370a of Title 10, Armed Forces, were enacted by Pub. L. 116–283, div. A, title V, §508(a)(1), Jan. 1, 2021, 134 Stat. 3580. For provisions stating that in determining retired grade of certain commissioned officers of the Armed Forces who retire after Jan. 1, 2021, any reference to section 1370 of Title 10 in such determination with respect to such officers is deemed to be a reference to section 1370a of Title 10, see section 508(c) of Pub. L. 116–283, set out as a note under section 1370 of Title 10.
@@ -100,6 +102,8 @@ Subsec. (b). Pub. L. 112–144, §1129(b), inserted at end "For purposes of para
 
 **1958**—Subsec. (a). Pub. L. 85–861 substituted "provisions" for "chapters" in opening clause, struck out former cl. (1) which related to chapter 55 of title 10, renumbered former cls. (2) to (6) as (1) to (5), amended cl. (1), as renumbered, to make sections 1201 to 1203 of title 10, inapplicable to commissioned officers of the Public Health Service who have been ordered to active duty for training for a period of more than 30 days, inserted a reference to section 1374 of title 10 in cl. (2), as renumbered, struck out "Care of the Dead" after "Benefits" in cl. (5), as renumbered, and added cl. (6).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1997 Amendment ####
 
 Pub. L. 105–85, div. A, title VI, §653(c), Nov. 18, 1997, 111 Stat. 1804, provided that: "The amendments made by this section [amending this section and former section 857a of Title 33, Navigation and Navigable Waters] shall apply only to adoptions that are completed on or after the date of the enactment of this Act [Nov. 18, 1997]."
@@ -114,7 +118,7 @@ Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 
 
 #### Transfer of Functions ####
 
-Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Rules and Regulations; Savings Deposit Benefits ####
 
@@ -123,5 +127,11 @@ Regulations prescribed by the Secretary of Health, Education, and Welfare [now H
 #### Designation of Beneficiary Made Before January 1, 1956 ####
 
 Designation of beneficiary made before Jan. 1, 1956, considered as the designation of a beneficiary for the purposes of section 4 of Pub. L. 85–861, which amended this section, see section 31 of Pub. L. 85–861, set out as a note under section 2771 of Title 10, Armed Forces.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title.
 
 [<sup>1</sup> See References in Text note below.](#213a_1)

@@ -226,6 +226,8 @@ No credit shall be allowed with respect to any coke or coke gas which is produce
 
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 503 of the Natural Gas Policy Act of 1978 (as in effect before the repeal of such section), referred to in subsec. (c)(2)(A), was classified to section 3413 of Title 15, Commerce and Trade, prior to repeal by Pub. L. 101–60, §3(b)(5), July 26, 1989, 103 Stat. 159, effective Jan. 1, 1993.
@@ -350,6 +352,8 @@ Pub. L. 98–369, §474(h), amended par. (5) generally, substituting "shall not 
 
 **1981**—Subsec. (e). Pub. L. 97–34 substituted provisions respecting application with the Natural Gas Policy Act of 1978 for prior provision reading "If the taxpayer makes an election under section 107(d) of the Natural Gas Policy Act of 1978 to have subsections (a) and (b) of section 107 of that Act, and subtitle B of title I of that Act, apply with respect to gas described in subsection (c)(1)(B)(i) produced from any well on a property, then the credit allowable by subsection (a) shall not be allowed with respect to any gas produced on that property."
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2014 Amendment ####
 
 Amendment by Pub. L. 113–295 effective as if included in the provisions of the Energy Improvement and Extension Act of 2008, Pub. L. 110–343, div. B, to which such amendment relates, see section 210(h) of Pub. L. 113–295, set out as a note under section 45 of this title.
@@ -457,6 +461,12 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Inflation Adjusted Items and Reference Price for Certain Years ####
 
 Provisions relating to inflation adjustment of items in this section and reference price for certain years were contained in the following:
+
+**2020**—Internal Revenue Notice 2021–29.
+
+**2019**—Internal Revenue Notice 2020–28.
+
+**2018**—Internal Revenue Notice 2019–28.
 
 **2017**—Internal Revenue Notice 2018–32.
 

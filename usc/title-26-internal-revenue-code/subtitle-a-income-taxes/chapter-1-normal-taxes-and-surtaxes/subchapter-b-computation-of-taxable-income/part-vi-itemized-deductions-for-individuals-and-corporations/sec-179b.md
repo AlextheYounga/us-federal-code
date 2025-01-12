@@ -44,11 +44,15 @@ If any portion of the deduction available under subsection (a) is allocated to o
 
 (Added Pub. L. 108–357, title III, §338(a), Oct. 22, 2004, 118 Stat. 1480; amended Pub. L. 109–58, title XIII, §1324(a), Aug. 8, 2005, 119 Stat. 1015; Pub. L. 110–172, §7(a)(3)(A), (C), Dec. 29, 2007, 121 Stat. 2482.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2007**—Subsec. (a). Pub. L. 110–172 substituted "qualified costs" for "qualified capital costs" and inserted "and which are properly chargeable to capital account" before period at end.
 
 **2005**—Subsec. (e). Pub. L. 109–58 added subsec. (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

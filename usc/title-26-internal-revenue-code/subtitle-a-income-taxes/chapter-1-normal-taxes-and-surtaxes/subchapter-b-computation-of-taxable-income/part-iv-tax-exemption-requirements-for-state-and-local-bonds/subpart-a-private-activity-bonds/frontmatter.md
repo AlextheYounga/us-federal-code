@@ -16,6 +16,8 @@ Sec.
 
 147. Other requirements applicable to certain private activity bonds.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(a)(46), Mar. 23, 2018, 132 Stat. 1186, substituted "Mortgage revenue bonds; qualified mortgage bond and qualified veterans' mortgage bond" for "Mortgage revenue bonds: qualified mortgage and qualified veterans' mortgage bond" in item 143.

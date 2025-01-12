@@ -26,9 +26,13 @@ No deduction shall be allowed under this subtitle by reason of any inclusion in 
 
 (Added Pub. L. 100–203, title X, §10611(a), Dec. 22, 1987, 101 Stat. 1330–451.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 202 of the Reclamation Reform Act of 1982, referred to in subsec. (b)(2), is classified to section 390bb of Title 43, Public Lands.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

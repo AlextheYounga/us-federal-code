@@ -26,6 +26,8 @@ For purposes of this section, the term "eligible employer" has the meaning given
 
 (Added Pub. L. 116–94, div. O, title I, §105(a), Dec. 20, 2019, 133 Stat. 3148.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section applicable to taxable years beginning after Dec. 31, 2019, see section 105(d) of Pub. L. 116–94, set out as an Effective Date of 2019 Amendment note under section 38 of this title.

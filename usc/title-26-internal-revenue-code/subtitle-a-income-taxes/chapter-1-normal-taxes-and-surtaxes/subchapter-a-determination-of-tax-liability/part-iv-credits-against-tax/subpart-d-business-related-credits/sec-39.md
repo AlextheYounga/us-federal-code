@@ -54,6 +54,8 @@ No portion of the unused business credit for any taxable year which is attributa
 
 (Added Pub. L. 98–369, div. A, title IV, §473, July 18, 1984, 98 Stat. 828; amended Pub. L. 99–514, title II, §231(d)(3)(C)(i), title XVIII, §1846, Oct. 22, 1986, 100 Stat. 2179, 2856; Pub. L. 100–647, title I, §1002(l)(26), Nov. 10, 1988, 102 Stat. 3381; Pub. L. 101–508, title XI, §§11511(b)(2), 11611(b)(2), 11801(a)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–520; Pub. L. 102–486, title XIX, §1914(c), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(2), 13322(d), 13443(b)(2), Aug. 10, 1993, 107 Stat. 555, 563, 569; Pub. L. 104–188, title I, §§1205(c), 1703(n)(1), Aug. 20, 1996, 110 Stat. 1775, 1877; Pub. L. 105–34, title VII, §701(b)(1), title X, §1083(a), Aug. 5, 1997, 111 Stat. 869, 951; Pub. L. 105–206, title VI, §6010(n), July 22, 1998, 112 Stat. 816; Pub. L. 106–554, §1(a)(7) [title I, §121(b)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–610; Pub. L. 107–16, title VI, §619(c)(1), June 7, 2001, 115 Stat. 110; Pub. L. 108–357, title II, §245(b)(1), title III, §341(c), Oct. 22, 2004, 118 Stat. 1447, 1487; Pub. L. 109–135, title IV, §412(g), Dec. 21, 2005, 119 Stat. 2637; Pub. L. 111–240, title II, §2012(a), (b), Sept. 27, 2010, 124 Stat. 2554; Pub. L. 115–141, div. U, title IV, §401(b)(5)(E), (F), Mar. 23, 2018, 132 Stat. 1202.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 39 was renumbered section 34 of this title.
@@ -117,6 +119,8 @@ Pub. L. 101–508, §11511(b)(2), added par. (5) relating to carryback of enhanc
 Subsec. (d)(2)(B). Pub. L. 99–514, §1846(2), substituted "as defined in section 26(b)" for "as so defined in section 25(b)".
 
 Subsec. (d)(3). Pub. L. 99–514, §231(d)(3)(C)(i), added par. (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

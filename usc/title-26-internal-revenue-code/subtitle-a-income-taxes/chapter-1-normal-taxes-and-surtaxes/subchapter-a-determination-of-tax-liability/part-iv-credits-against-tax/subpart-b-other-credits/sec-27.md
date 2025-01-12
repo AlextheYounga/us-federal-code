@@ -4,6 +4,8 @@ The amount of taxes imposed by foreign countries and possessions of the United S
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 13, §33; Pub. L. 94–455, title X, §1051(a), Oct. 4, 1976, 90 Stat. 1643; renumbered §27, Pub. L. 98–369, div. A, title IV, §471(c), July 18, 1984, 98 Stat. 826; Pub. L. 115–141, div. U, title IV, §401(d)(1)(A), Mar. 23, 2018, 132 Stat. 1206.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) relating to the foreign tax credit under section 901 and the tax credit under section 936, respectively.
@@ -11,6 +13,8 @@ The amount of taxes imposed by foreign countries and possessions of the United S
 **1984**—Pub. L. 98–369, §471(c), renumbered section 33 of this title as this section.
 
 **1976**—Pub. L. 94–455 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

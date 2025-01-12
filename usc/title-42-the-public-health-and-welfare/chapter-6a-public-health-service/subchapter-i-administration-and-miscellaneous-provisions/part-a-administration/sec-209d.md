@@ -4,6 +4,8 @@ Graduates of colleges of osteopathy whose graduates are eligible for licensure t
 
 (Feb. 28, 1948, ch. 83, §5(b), 62 Stat. 40; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is act Feb. 28, 1948, ch. 83, 62 Stat. 38. For complete classification of this Act to the Code, see Tables.
@@ -11,6 +13,8 @@ This Act, referred to in text, is act Feb. 28, 1948, ch. 83, 62 Stat. 38. For co
 #### Codification ####
 
 Section was not enacted as a part of the Public Health Service Act which comprises this chapter.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

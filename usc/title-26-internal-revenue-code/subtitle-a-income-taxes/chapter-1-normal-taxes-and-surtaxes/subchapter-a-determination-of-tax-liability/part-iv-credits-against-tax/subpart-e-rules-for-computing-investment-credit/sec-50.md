@@ -192,6 +192,8 @@ Paragraphs (1)(A), (2)(A), and (4) of the section 46(e) referred to in paragraph
 
 (Added Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–546; amended Pub. L. 104–188, title I, §§1616(b)(1), 1702(h)(11), 1704(t)(29), Aug. 20, 1996, 110 Stat. 1856, 1874, 1889; Pub. L. 105–206, title VI, §6004(g)(7), July 22, 1998, 112 Stat. 796; Pub. L. 108–357, title III, §322(d)(2)(D), Oct. 22, 2004, 118 Stat. 1475; Pub. L. 109–135, title IV, §412(o), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 113–295, div. A, title II, §220(d), Dec. 19, 2014, 128 Stat. 4036; Pub. L. 115–141, div. U, title IV, §401(a)(25), (d)(3)(B)(ii), Mar. 23, 2018, 132 Stat. 1185, 1209.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (d), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
@@ -219,6 +221,8 @@ Subsec. (b)(2)(A). Pub. L. 115–141, §401(a)(25), substituted semicolon for pe
 Subsec. (a)(2)(E). Pub. L. 104–188, §1702(h)(11), substituted "48(a)(5)" for "48(a)(5)(A)".
 
 Subsec. (d). Pub. L. 104–188, §1616(b)(1), inserted closing provisions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2004 Amendment ####
 

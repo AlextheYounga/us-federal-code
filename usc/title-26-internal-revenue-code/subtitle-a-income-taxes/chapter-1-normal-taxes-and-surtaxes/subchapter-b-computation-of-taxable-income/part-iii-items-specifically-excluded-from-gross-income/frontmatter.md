@@ -100,6 +100,8 @@ Sec.
 
 140. Cross references to other Acts.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 117–2, title IX, §9501(b)(4)(B), Mar. 11, 2021, 135 Stat. 137, added item 139I.
@@ -177,6 +179,8 @@ Pub. L. 95–600, title I, §§134(b), 164(c), title IV, §404(c)(3), title V, �
 **1964**—Pub. L. 88–272, title II, §206(b)(2), Feb. 26, 1964, 78 Stat. 40, redesignated former item 121 as 122, and added item 121.
 
 **1958**—Pub. L. 85–866, title I, §3(b), Sept. 2, 1958, 72 Stat. 1607, struck out item 120 "Statutory subsistence allowance received by police".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Exclusion From Gross Income of Certain Clean Coal Power Grants to Non-Corporate Taxpayers ####
 

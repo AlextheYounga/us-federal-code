@@ -856,11 +856,7 @@ Pub. L. 106–554, §1(a)(6) [title IV, §422(c)], Dec. 21, 2000, 114 Stat. 2763
 
 #### GAO Study on Access to Services ####
 
-Pub. L. 106–554, §1(a)(6) [title IV, §422(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–517, provided that:
-
-"(1) Study.—The Comptroller General of the United States shall study access of medicare beneficiaries to renal dialysis services. Such study shall include whether there is a sufficient supply of facilities to furnish needed renal dialysis services, whether medicare payment levels are appropriate, taking into account audited costs of facilities for all services furnished, to ensure continued access to such services, and improvements in access (and quality of care) that may result in the increased use of long nightly and short daily hemodialysis modalities.
-
-"(2) Report.—Not later than January 1, 2003, the Comptroller General shall submit to Congress a report on the study conducted under paragraph (1)."
+Pub. L. 106–554, §1(a)(6) [title IV, §422(d)], Dec. 21, 2000, 114 Stat. 2763, 2763A–517, directed the Comptroller General of the United States to study access of medicare beneficiaries to renal dialysis services and required the Comptroller General to submit to Congress a report on the study by not later than Jan. 1, 2003.
 
 #### Special Rule for Payment for 2001 ####
 
@@ -872,7 +868,7 @@ Pub. L. 106–554, §1(a)(6) [title IV, §422(e)], Dec. 21, 2000, 114 Stat. 2763
 
 #### Study on Payment Level for Home Hemodialysis ####
 
-Pub. L. 106–113, div. B, §1000(a)(6) [title II, §222(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–352, provided that: "The Medicare Payment Advisory Commission shall conduct a study on the appropriateness of the differential in payment under the medicare program for hemodialysis services furnished in a facility and such services furnished in a home. Not later than 18 months after the date of the enactment of this Act [Nov. 29, 1999], the Commission shall submit to Congress a report on such study and shall include recommendations regarding changes in medicare payment policy in response to the study."
+Pub. L. 106–113, div. B, §1000(a)(6) [title II, §222(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–352, required the Medicare Payment Advisory Commission to conduct a study on the appropriateness of a differential in payment level for home hemodialysis and to submit a report to Congress no later than 18 months after Nov. 29, 1999.
 
 #### Renal Dialysis-Related Services ####
 

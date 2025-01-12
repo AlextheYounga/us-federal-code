@@ -4,6 +4,8 @@ Section, added Pub. L. 106–519, §3(a), Nov. 15, 2000, 114 Stat. 2423, related
 
 A prior section 114, act Aug. 16, 1954, ch. 736, 68A Stat. 35, related to sports programs conducted for American National Red Cross, prior to repeal by Pub. L. 101–508, title XI, §11801(a)(8), Nov. 5, 1990, 104 Stat. 1388–520.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to transactions after Dec. 31, 2004, see section 101(c) of Pub. L. 108–357, set out as an Effective Date of 2004 Amendments note under section 56 of this title.

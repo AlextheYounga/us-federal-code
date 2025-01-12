@@ -262,6 +262,8 @@ The Secretary may prescribe such regulations and other guidance as may be necess
 
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of the Bipartisan Budget Act of 2018 and the date of the enactment of such Act, referred to in text, is the date of enactment of Pub. L. 115–123, which was approved Feb. 9, 2018.
@@ -282,6 +284,8 @@ Subsec. (d)(2). Pub. L. 111–5, §1131(b)(1), inserted "the Secretary of Energy
 
 Subsec. (e). Pub. L. 111–5, §1131(b)(3), substituted "taken into account in accordance with subsection (a)" for "captured and disposed of or used as a tertiary injectant".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2018 Amendment ####
 
 Pub. L. 115–123, div. D, title II, §41119(b), Feb. 9, 2018, 132 Stat. 168, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017."
@@ -301,6 +305,8 @@ Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 11
 #### Inflation Adjusted Items for Certain Years ####
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+**2020**—Internal Revenue Notice 2020–40.
 
 **2019**—Internal Revenue Notice 2019–31.
 

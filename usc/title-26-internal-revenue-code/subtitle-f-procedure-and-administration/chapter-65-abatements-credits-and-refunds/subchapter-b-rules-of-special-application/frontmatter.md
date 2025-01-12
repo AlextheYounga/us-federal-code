@@ -34,7 +34,7 @@ Sec.
 
 6427. Fuels not used for taxable purposes.
 
-6428. 2020 Recovery rebates for individuals.
+6428. 2020 recovery rebates for individuals.
 
 6428A. Additional 2020 recovery rebates for individuals.
 

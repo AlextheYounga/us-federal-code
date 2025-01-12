@@ -174,6 +174,8 @@ For purposes of this section, marital status shall be determined under section 7
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Another section 212(b) of div. EE of Pub. L. 116–260 amended sections 6662 and 6751 of this title.
@@ -359,6 +361,8 @@ Subsec. (i). Pub. L. 97–34, §121(b)(2), added subsec. (i).
 **1978**—Pub. L. 95–600 substituted "$3,400" for "$3,200" in par. (1), "$2,300" for "$2,200" in par. (2), and "$1,700" for "$1,600" in par. (3).
 
 **1977**—Pub. L. 95–30 completely revised definition of taxable income from one using the concept of a standard deduction and consisting of subsecs. (a) and (b) entitled, respectively, "General rule" and "Individuals electing standard deduction" to definition using the concepts of zero bracket amounts and excess itemized deductions and consisting of subsecs. (a) to (h) entitled, respectively, "Corporations", "Individuals", "Excess itemized deductions", "Zero bracket amount", "Unused zero bracket amount", "Itemized deductions", "Election to itemize", and "Marital status".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

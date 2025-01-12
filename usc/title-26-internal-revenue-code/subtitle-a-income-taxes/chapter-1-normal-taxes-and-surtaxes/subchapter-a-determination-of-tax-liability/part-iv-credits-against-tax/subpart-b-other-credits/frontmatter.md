@@ -14,6 +14,8 @@ Sec.
 
 30D. New qualified plug-in electric drive motor vehicles.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(d)(1)(D)(i), Mar. 23, 2018, 132 Stat. 1206, substituted "Taxes of foreign countries and possessions of the United States" for "Taxes of foreign countries and possessions of the United States; possession tax credit" in item 27.

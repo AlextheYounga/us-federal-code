@@ -1,5 +1,7 @@
 ### §§71 to 71*l*. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 71, act Apr. 9, 1930, ch. 125, §1, 46 Stat. 150, which provided for a detail for duty with executive and independent departments carrying on public health activities, was transferred to section 17a of this title.

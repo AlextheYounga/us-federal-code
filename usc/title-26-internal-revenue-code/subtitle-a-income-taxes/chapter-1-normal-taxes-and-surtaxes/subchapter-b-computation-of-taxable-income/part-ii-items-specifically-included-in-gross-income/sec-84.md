@@ -20,9 +20,13 @@ For purposes of this section, the term "political organization" has the meaning 
 
 (Added Pub. L. 93–625, §13(a)(1), Jan. 3, 1975, 88 Stat. 2120; amended Pub. L. 115–141, div. U, title IV, §401(a)(35), Mar. 23, 2018, 132 Stat. 1186.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–141 substituted "political organizations" for "political organization" in section catchline.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

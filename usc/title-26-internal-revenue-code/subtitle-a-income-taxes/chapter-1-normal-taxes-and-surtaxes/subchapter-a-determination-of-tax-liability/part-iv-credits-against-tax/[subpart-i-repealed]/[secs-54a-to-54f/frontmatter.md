@@ -12,6 +12,8 @@ Section 54E, added Pub. L. 110–343, div. C, title III, §313(a), Oct. 3, 2008,
 
 Section 54F, added Pub. L. 111–5, div. B, title I, §1521(a), Feb. 17, 2009, 123 Stat. 355; amended Pub. L. 111–147, title III, §301(b), Mar. 18, 2010, 124 Stat. 78, related to qualified school construction bonds.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable to bonds issued after Dec. 31, 2017, see section 13404(d) of Pub. L. 115–97, set out as a note under former section 54 of this title.

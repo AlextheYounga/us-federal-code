@@ -38,6 +38,8 @@ Except as otherwise provided in this subtitle, gross income means all income fro
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 98–369, div. A, title V, §531(c), July 18, 1984, 98 Stat. 884; Pub. L. 115–97, title I, §11051(b)(1)(A), Dec. 22, 2017, 131 Stat. 2089.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (a)(8) to (15). Pub. L. 115–97 redesignated pars. (9) to (15) as (8) to (14), respectively, and struck out former par. (8) which read as follows: "Alimony and separate maintenance payments;".

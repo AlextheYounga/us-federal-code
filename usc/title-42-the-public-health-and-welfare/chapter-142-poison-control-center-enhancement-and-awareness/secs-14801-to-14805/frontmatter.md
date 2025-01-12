@@ -10,6 +10,8 @@ Section 14804, Pub. L. 106–174, §5, Feb. 25, 2000, 114 Stat. 19, established 
 
 Section 14805, Pub. L. 106–174, §6, Feb. 25, 2000, 114 Stat. 19, related to the award of grants to certified regional poison control centers. See section 300d–73 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 106–174, §1, Feb. 25, 2000, 114 Stat. 18, which provided that Pub. L. 106–174, enacting this chapter, could be cited as the "Poison Control Center Enhancement and Awareness Act", was repealed by Pub. L. 108–194, §4, Dec. 19, 2003, 117 Stat. 2891.

@@ -80,11 +80,15 @@ This section shall not apply to a taxpayer for any taxable year if such taxpayer
 
 (Added Pub. L. 107–16, title VI, §619(a), June 7, 2001, 115 Stat. 108; amended Pub. L. 107–147, title IV, §411(n)(1), Mar. 9, 2002, 116 Stat. 48; Pub. L. 116–94, div. O, title I, §104(a), Dec. 20, 2019, 133 Stat. 3147.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Subsec. (b)(1). Pub. L. 116–94 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "$500 for the first credit year and each of the 2 taxable years immediately following the first credit year, and".
 
 **2002**—Subsec. (e)(1). Pub. L. 107–147 substituted "subsection (m)" for "subsection (n)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2019 Amendment ####
 

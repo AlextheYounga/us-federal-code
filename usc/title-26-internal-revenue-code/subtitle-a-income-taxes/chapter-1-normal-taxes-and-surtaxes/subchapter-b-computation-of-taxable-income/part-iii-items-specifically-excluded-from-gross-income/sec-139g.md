@@ -34,9 +34,13 @@ For purposes of this section, the terms "Native Corporation" and "Settlement Tru
 
 (Added Pub. L. 115–97, title I, §13821(a)(1), Dec. 22, 2017, 131 Stat. 2178.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (a), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

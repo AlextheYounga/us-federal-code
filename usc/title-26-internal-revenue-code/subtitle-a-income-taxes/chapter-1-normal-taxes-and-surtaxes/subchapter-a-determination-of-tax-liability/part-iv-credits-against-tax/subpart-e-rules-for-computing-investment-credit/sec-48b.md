@@ -142,6 +142,8 @@ The Secretary shall provide for recapturing the benefit of any credit allowable 
 
 (Added Pub. L. 109–58, title XIII, §1307(b), Aug. 8, 2005, 119 Stat. 1004; amended Pub. L. 110–343, div. B, title I, §112(a)–(e), Oct. 3, 2008, 122 Stat. 3824; Pub. L. 111–5, div. B, title I, §1103(b)(2)(D), Feb. 17, 2009, 123 Stat. 321.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (b)(3), is the date of enactment of title XI of Pub. L. 101–508, which was approved Nov. 5, 1990.
@@ -161,6 +163,8 @@ Subsec. (d)(1). Pub. L. 110–343, §112(b), substituted "shall not exceed—" f
 Subsec. (d)(4). Pub. L. 110–343, §112(d), added par. (4).
 
 Subsec. (f). Pub. L. 110–343, §112(c), added subsec. (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2009 Amendment ####
 

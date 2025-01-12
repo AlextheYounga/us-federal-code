@@ -158,6 +158,8 @@ If any increase determined under the preceding sentence is not a multiple of $50
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (a)(1). Pub. L. 115–141 substituted "27" for "27(a)" in introductory provisions.
@@ -253,6 +255,8 @@ Subsec. (h). Pub. L. 100–647, §1007(e)(2), substituted "taxable year with the
 Subsec. (i). Pub. L. 100–647, §1007(e)(4), inserted "(other than this part)" after "of this subtitle" and substituted "subtitle" for "title" before "solely".
 
 Subsec. (j). Pub. L. 100–647, §1014(e)(5)(A), added subsec. (j).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

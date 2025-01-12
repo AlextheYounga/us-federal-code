@@ -292,6 +292,8 @@ The Secretary is authorized to enter into contracts with any person to provide s
 
 (Added Pub. L. 98–369, div. A, title VI, §612(a), July 18, 1984, 98 Stat. 905; amended Pub. L. 99–514, title XIII, §1301(f), title XVIII, §§1862(a)–(d)(1), 1899A(1), Oct. 22, 1986, 100 Stat. 2655, 2883, 2884, 2958; Pub. L. 100–647, title I, §1013(a)(25), (26), title IV, §4005(a)(2), (g)(7), Nov. 10, 1988, 102 Stat. 3543, 3645, 3651; Pub. L. 101–239, title VII, §7104(b), Dec. 19, 1989, 103 Stat. 2305; Pub. L. 101–508, title XI, §11408(b), Nov. 5, 1990, 104 Stat. 1388–477; Pub. L. 102–227, title I, §108(b), Dec. 11, 1991, 105 Stat. 1688; Pub. L. 103–66, title XIII, §13141(b), Aug. 10, 1993, 107 Stat. 436; Pub. L. 104–188, title I, §1807(c)(1), Aug. 20, 1996, 110 Stat. 1902; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6008(d)(7), July 22, 1998, 112 Stat. 812; Pub. L. 107–16, title II, §201(b)(2)(F), title VI, §618(b)(2)(B), June 7, 2001, 115 Stat. 46, 108; Pub. L. 109–58, title XIII, §1335(b)(2), Aug. 8, 2005, 119 Stat. 1036; Pub. L. 109–135, title IV, §402(i)(3)(C), (4), Dec. 21, 2005, 119 Stat. 2613, 2615; Pub. L. 110–343, div. B, title II, §205(d)(1)(B), Oct. 3, 2008, 122 Stat. 3838; Pub. L. 111–5, div. B, title I, §§1004(b)(2), 1142(b)(1)(B), 1144(b)(1)(B), Feb. 17, 2009, 123 Stat. 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(B), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(C), Jan. 2, 2013, 126 Stat. 2322; Pub. L. 115–141, div. U, title IV, §401(d)(4)(B)(ii), Mar. 23, 2018, 132 Stat. 1209.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 25 was renumbered section 26 of this title.
@@ -411,6 +413,8 @@ Subsec. (f)(2)(A). Pub. L. 99–514, §1301(f)(1)(B), substituted "0.25" for "0.
 Subsec. (f)(3). Pub. L. 99–514, §1301(f)(2)(O), substituted "section 146(d)(3)(C)" for "section 103A(g)(5)(C)".
 
 Subsec. (f)(4). Pub. L. 99–514, §1899A(1), substituted "ensure" for "insure".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2013 Amendment ####
 

@@ -42,13 +42,15 @@ Whenever it is necessary to determine the taxable income of an individual to who
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 8; Pub. L. 88–272, title III, §301(a), Feb. 26, 1964, 78 Stat. 129; Pub. L. 91–172, title VIII, §803(c), Dec. 30, 1969, 83 Stat. 684; Pub. L. 94–12, title II, §201(c), Mar. 29, 1975, 89 Stat. 29; Pub. L. 94–455, title V, §501(a), Oct. 4, 1976, 90 Stat. 1558; Pub. L. 95–30, title I, §101(b), May 23, 1977, 91 Stat. 131; Pub. L. 95–600, title IV, §401(b)(1), Nov. 6, 1978, 92 Stat. 2867; Pub. L. 95–615, title II, §202(f), as added Pub. L. 96–222, title I, §108(a)(1)(A), Apr. 1, 1980, 94 Stat. 223; Pub. L. 96–222, title I, §108(a)(1)(E), Apr. 1, 1980, 94 Stat. 225; Pub. L. 97–34, title I, §§101(b)(2)(B), (C), (c)(2)(A), 121(c)(3), Aug. 13, 1981, 95 Stat. 183, 197; Pub. L. 99–514, title I, §§102(b), 141(b)(1), Oct. 22, 1986, 100 Stat. 2102, 2117.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Subsec. (a). Pub. L. 99–514, §102(b), substituted subsec. (a) for former subsec. (a) which read as follows:
 
 "(1) In general.—In lieu of the tax imposed by section 1, there is hereby imposed for each taxable year on the tax table income of every individual whose tax table income for such year does not exceed the ceiling amount, a tax determined under tables, applicable to such taxable year, which shall be prescribed by the Secretary and which shall be in such form as he determines appropriate. In the tables so prescribed, the amounts of tax shall be computed on the basis of the rates prescribed by section 1.
 
-"(2) Ceiling amount defined.—For purposes of paragraph (1), the term "ceiling amount" means, with respect to any taxpayer, the amount (not less than $20,000) determined by the Secretary for the tax rate category in which such taxpayer falls.
+"(2) Ceiling amount defined.—For purposes of paragraph (1), the term 'ceiling amount' means, with respect to any taxpayer, the amount (not less than $20,000) determined by the Secretary for the tax rate category in which such taxpayer falls.
 
 "(3) Certain taxpayers with large number of exemptions.—The Secretary may exclude from the application of this section taxpayers in any tax rate category having more than the number of exemptions for that category determined by the Secretary.
 
@@ -93,6 +95,8 @@ Subsecs. (b) to (e). Pub. L. 95–30 added subsec. (b), redesignated former subs
 **1969**—Pub. L. 91–172 raised the individual gross income limit of $5,000 to $10,000 for exercising the option and substituted provision that the tax has to be determined under tables to be prescribed by the Secretary or his delegate for tables of tax rates for single persons, heads of household, married persons filing joint returns, married persons filing separate returns with 10 per cent standard deduction and married persons filing separate returns with minimum standard deduction.
 
 **1964**—Pub. L. 88–272 substituted optional tax tables covering five categories for taxable years beginning on or after Jan. 1, 1964, and before Jan. 1, 1965, and for years beginning after Dec. 31, 1964, for a single general table.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1986 Amendment ####
 

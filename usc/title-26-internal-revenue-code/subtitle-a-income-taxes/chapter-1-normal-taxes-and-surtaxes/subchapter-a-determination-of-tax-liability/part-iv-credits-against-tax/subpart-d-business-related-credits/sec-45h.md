@@ -110,6 +110,8 @@ No credit shall be determined under subsection (a) for the taxable year if the t
 
 (Added Pub. L. 108–357, title III, §339(a), Oct. 22, 2004, 118 Stat. 1481; amended Pub. L. 110–172, §7(a)(1)(A), (2)(A), (3)(A), (B), Dec. 29, 2007, 121 Stat. 2481, 2482; Pub. L. 115–141, div. U, title IV, §401(a)(19), Mar. 23, 2018, 132 Stat. 1185.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (d). Pub. L. 115–141 substituted "purposes of this" for "purposes this".
@@ -129,6 +131,8 @@ Subsec. (e)(1), (2). Pub. L. 110–172, §7(a)(3)(A), substituted "qualified cos
 Subsec. (f). Pub. L. 110–172, §7(a)(1)(A), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
 Subsec. (g). Pub. L. 110–172, §7(a)(2)(A), added subsec. (g). Former subsec. (g) redesignated (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

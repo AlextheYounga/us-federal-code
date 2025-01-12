@@ -56,6 +56,8 @@ For purposes of sections 85(c), 86, 135, 137, 219, 221, and 469, adjusted gross 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 24; Pub. L. 99–514, title I, §§122(a)(1), 123(b)(1), Oct. 22, 1986, 100 Stat. 2109, 2113; Pub. L. 114–239, §2(a), Oct. 7, 2016, 130 Stat. 973; Pub. L. 115–97, title I, §13305(b)(1), Dec. 22, 2017, 131 Stat. 2126; Pub. L. 116–260, div. EE, title I, §104(b)(2)(B), Dec. 27, 2020, 134 Stat. 3041; Pub. L. 117–2, title IX, §9042(b)(1), Mar. 11, 2021, 135 Stat. 122.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Subsec. (d)(2)(B). Pub. L. 117–2 inserted "85(c)," before "86".
@@ -73,6 +75,8 @@ Pub. L. 99–514, §122(a)(1)(A), substituted "Except as otherwise provided in t
 Subsec. (b). Pub. L. 99–514, §122(a)(1)(B), (C), inserted "for certain prizes and awards transferred to charities" in heading and added par. (3).
 
 Subsec. (c). Pub. L. 99–514, §122(a)(1)(D), added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

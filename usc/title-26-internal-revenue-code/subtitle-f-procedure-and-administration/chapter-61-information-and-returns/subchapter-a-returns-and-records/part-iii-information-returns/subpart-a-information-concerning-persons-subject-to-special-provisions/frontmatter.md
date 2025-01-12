@@ -112,7 +112,7 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. 
 
 **1958**—Pub. L. 85–866, title I, §64(d)(4), Sept. 2, 1958, 72 Stat. 1657, added item 6037 and redesignated former item 6037 as 6038.
 
-#### Authority to Waive Certain Information Reporting Requirements ####
+#### Authority To Waive Certain Information Reporting Requirements ####
 
 Pub. L. 116–260, div. N, title II, §279, Dec. 27, 2020, 134 Stat. 1982, provided that: "The Secretary of the Treasury (or the Secretary's delegate) may provide an exception from any requirement to file an information return otherwise required by chapter 61 of the Internal Revenue Code of 1986 [26 U.S.C. 6001 et seq.] with respect to any amount excluded from gross income by reason of section 7A(i) of the Small Business Act [15 U.S.C. 636m(i)] or section 276(b) [15 U.S.C. 636 note], 277 [20 U.S.C. 1001 note], or 278 [15 U.S.C. 9008 note] of this subtitle [subtitle B of title II of div. N of Pub. L. 116–260]."
 

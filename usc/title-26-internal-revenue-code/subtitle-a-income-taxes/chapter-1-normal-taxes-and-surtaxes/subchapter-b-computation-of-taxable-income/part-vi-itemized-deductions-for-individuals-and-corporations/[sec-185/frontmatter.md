@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 91–172, title VII, §705(a), Dec. 30, 1969, 83 Stat. 672; amended Pub. L. 94–455, title XVII, §1702, title XIX, §1906(b) (13)(A), Oct. 4, 1976, 90 Stat. 1760, 1834; Pub. L. 95–473, §2(a)(2)(B), Oct. 17, 1978, 92 Stat. 1464, related to amortization of railroad grading and tunnel bores.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 99–514, title II, §242(c), Oct. 22, 1986, 100 Stat. 2181, provided that:

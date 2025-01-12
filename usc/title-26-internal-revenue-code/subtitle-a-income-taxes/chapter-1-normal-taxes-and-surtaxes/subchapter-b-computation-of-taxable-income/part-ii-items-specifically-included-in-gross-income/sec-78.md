@@ -4,11 +4,15 @@ If a domestic corporation chooses to have the benefits of subpart A of part III 
 
 (Added Pub. L. 87–834, §9(b), Oct. 16, 1962, 76 Stat. 1001; amended Pub. L. 94–455, title X, §1033(b)(1), Oct. 4, 1976, 90 Stat. 1628; Pub. L. 115–97, title I, §14301(c)(1), Dec. 22, 2017, 131 Stat. 2222.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Pub. L. 115–97 amended section generally. Prior to amendment, text read as follows: "If a domestic corporation chooses to have the benefits of subpart A of part III of subchapter N (relating to foreign tax credit) for any taxable year, an amount equal to the taxes deemed to be paid by such corporation under section 902(a) (relating to credit for corporate stockholder in foreign corporation) or under section 960(a)(1) (relating to taxes paid by foreign corporation) for such taxable year shall be treated for purposes of this title (other than section 245) as a dividend received by such domestic corporation from the foreign corporation."
 
 **1976**—Pub. L. 94–455 substituted "section 902(a)" for "section 902(a)(1)" and "section 960(a)(1)" for "section 960(a)(1)(C)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

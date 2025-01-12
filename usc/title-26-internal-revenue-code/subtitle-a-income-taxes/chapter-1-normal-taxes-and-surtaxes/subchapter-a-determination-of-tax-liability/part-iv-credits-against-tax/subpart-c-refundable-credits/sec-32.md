@@ -347,6 +347,8 @@ Subsection (j) shall not apply to any dollar amount specified in this paragraph.
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsecs. (c)(2)(B)(v), (m), and (n)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A, B and E of title IV of the Act are classified generally to parts A (§601 et seq.), B (§620 et seq.), and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Sections 205(c)(2)(B)(i) and 407(d)(4), (7) of the Act are classified to sections 405(c)(2)(B)(i) and 607(d)(4), (7), respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -728,6 +730,8 @@ Subsec. (c)(1)(A). Pub. L. 94–455, §401(c)(2), among other changes, substitut
 **1975**—Subsec. (a). Pub. L. 94–164 designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (b). Pub. L. 94–164 designated existing provisions as par. (1) and added par. (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2021 Amendment ####
 

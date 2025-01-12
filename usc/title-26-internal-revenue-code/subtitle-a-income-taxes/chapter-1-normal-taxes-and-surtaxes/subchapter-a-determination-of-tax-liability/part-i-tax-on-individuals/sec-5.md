@@ -18,6 +18,8 @@
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 10; Pub. L. 88–272, title II, §232(f)(2), Feb. 26, 1964, 78 Stat. 111; Pub. L. 91–172, title III, §301(b)(2), title VIII, §803(d)(6), Dec. 30, 1969, 83 Stat. 585, 684; Pub. L. 94–455, title XIX, §§1901(b)(22)(B), 1951(c)(3)(A), Oct. 4, 1976, 90 Stat. 1798, 1841; Pub. L. 95–600, title IV, §§401(b)(2), 421(e)(1), Nov. 6, 1978, 92 Stat. 2867, 2875; Pub. L. 96–222, title I, §104(a)(4)(H)(vii), Apr. 1, 1980, 94 Stat. 218; Pub. L. 97–248, title II, §201(d)(4), formerly §201(c)(4), Sept. 3, 1982, 96 Stat. 419, renumbered §201(d)(4), Pub. L. 97–448, title III, §306(a)(1)(A)(i), Jan. 12, 1983, 96 Stat. 2400; Pub. L. 99–514, title I, §141(b)(2), title VII, §701(e)(4)(A), Oct. 22, 1986, 100 Stat. 2117, 2343; Pub. L. 107–134, title I, §101(b)(1), Jan. 23, 2002, 115 Stat. 2428; Pub. L. 108–121, title I, §110(a)(2)(A), Nov. 11, 2003, 117 Stat. 1342.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2003**—Subsec. (b)(1). Pub. L. 108–121 inserted ", astronauts," after "Forces".
@@ -43,6 +45,8 @@ Subsec. (a)(4), (5). Pub. L. 95–600, §§401(b)(2), 421(e)(1), redesignated pa
 Subsec. (b). Pub. L. 91–172, §803(d)(6), substituted "tax" for "surtax" in pars. (1) and (5).
 
 **1964**—Subsec. (b). Pub. L. 88–272 redesignated pars. (2), (3), (4), (7) and (8) as pars. (1) to (5), respectively, substituted "where an individual chooses the benefits of income averaging" for "with respect to compensation for longterm services" in par. (3), and struck out former pars. (1), (5) and (6) which referred to tax attributable to receipt of lump sum under annuity, endowment, or life insurance contract, to income from artistic work or inventions, and to back pay, respectively.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2003 Amendment ####
 

@@ -3913,9 +3913,13 @@ The Internal Revenue Title referred to in subsection (a)(1) is as follows: \* \
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 3; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Subsecs. (a)(1), (c). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Redesignation of Internal Revenue Code of 1954; References ####
 
@@ -3955,6 +3959,8 @@ I. Trust Fund Code.
 J. Coal industry health benefits. 1
 
 K. Group health plan requirements.
+
+#### **Editorial Notes** ####
 
 #### Amendments ####
 

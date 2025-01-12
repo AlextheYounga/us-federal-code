@@ -134,6 +134,8 @@ An election under paragraph (1) (or revocation thereof) shall be made in such ma
 
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 43 was renumbered section 32 of this title.
@@ -160,6 +162,8 @@ Subsec. (c)(5). Pub. L. 108–357, §707(b), added par. (5).
 
 **2000**—Subsec. (c)(1)(C). Pub. L. 106–554 inserted "(as defined in section 193(b))" after "expenses" and struck out "under section 193" after "allowable".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2005 Amendment ####
 
 Amendment by Pub. L. 109–58 applicable to credits determined under the Internal Revenue Code of 1986 for taxable years ending after Dec. 31, 2005, see section 1322(c)(1) of Pub. L. 109–58, set out as a note under section 45K of this title.
@@ -183,6 +187,8 @@ Pub. L. 101–508, title XI, §11511(d), Nov. 5, 1990, 104 Stat. 1388–485, pro
 #### Inflation Adjusted Items for Certain Years ####
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+**2020**—Internal Revenue Notice 2020–31.
 
 **2019**—Internal Revenue Notice 2019–36.
 

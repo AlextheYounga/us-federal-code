@@ -4,6 +4,8 @@ Section, added Pub. L. 94–455, title XXI, §2134(a), Oct. 4, 1976, 90 Stat. 19
 
 A prior section 120, act Aug. 16, 1954, ch. 736, 68A Stat. 39, related to statutory subsistence allowance received by police, prior to repeal by Pub. L. 85–866, title I, §3(a), (c), Sept. 2, 1958, 72 Stat. 1607, effective with respect to taxable years ending after Sept. 30, 1958, but only with respect to amounts received as a statutory subsistence allowance for any day after Sept. 30, 1958.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under section 1 of this title.

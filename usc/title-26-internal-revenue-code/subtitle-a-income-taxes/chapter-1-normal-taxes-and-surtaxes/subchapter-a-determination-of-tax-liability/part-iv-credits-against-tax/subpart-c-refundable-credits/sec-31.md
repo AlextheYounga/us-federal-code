@@ -26,6 +26,8 @@ Any credit allowed by subsection (a) for any amount withheld under section 3406 
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 12; Pub. L. 94–455, title XIX, §1906(b)(13)(D), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §§302(a), 308(a), Sept. 3, 1982, 96 Stat. 585, 591; Pub. L. 97–354, §3(i)(4), Oct. 19, 1982, 96 Stat. 1691; Pub. L. 97–448, title III, §306(b)(1), Jan. 12, 1983, 96 Stat. 2405; Pub. L. 98–67, title I, §§102(a), 104(d)(2), Aug. 5, 1983, 97 Stat. 369, 379; Pub. L. 98–369, div. A, title IV, §471(c), title VII, §714(j)(2), July 18, 1984, 98 Stat. 826, 962.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Subsec. (a)(1). Pub. L. 98–369, §714(j)(2), substituted "as tax under chapter 24" for "under section 3402 as tax on the wages of any individual".
@@ -37,6 +39,8 @@ Pub. L. 97–448 amended subsec. (d) generally. See 1982 Amendment note below.
 **1982**—Pub. L. 97–248, as amended by Pub. L. 97–354 and Pub. L. 97–448, amended section generally, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 [now 1986] [this title] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
 **1976**—Subsec. (b)(1). Pub. L. 94–455 struck out "or his delegate" after "The Secretary" and "(or his delegate)" after "taxpayer or the Secretary".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1984 Amendment ####
 

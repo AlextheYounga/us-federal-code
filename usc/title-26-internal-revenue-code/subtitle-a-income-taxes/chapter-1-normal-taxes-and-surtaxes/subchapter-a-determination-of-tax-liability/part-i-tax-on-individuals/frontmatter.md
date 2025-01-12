@@ -12,6 +12,8 @@ Sec.
 
 5. Cross references relating to tax on individuals.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–455, title V, §501(c)(1), Oct. 4, 1976, 90 Stat. 1559, substituted "Tax tables for individuals having taxable income of less than $20,000" for "Optional tax tables for individuals" in item 3 and struck out item 4 relating to rules for optional tax.

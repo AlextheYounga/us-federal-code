@@ -162,6 +162,8 @@ This section shall not apply to taxable years beginning after December 31, 2021.
 
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under section 401 of this title.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
@@ -199,6 +201,8 @@ Subsec. (f). Pub. L. 108–311, §315, substituted "December 31, 2005" for "Dece
 **1998**—Subsec. (b)(1)(B). Pub. L. 105–206 substituted "work opportunity credit" for "targeted jobs credit" in heading.
 
 **1996**—Subsec. (b)(1)(B). Pub. L. 104–188, which directed that subsec. (b)(1)(B) of this section be amended in the text by substituting "work opportunity credit" for "targeted jobs credit", could not be executed because the words "targeted jobs credit" did not appear in the text.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

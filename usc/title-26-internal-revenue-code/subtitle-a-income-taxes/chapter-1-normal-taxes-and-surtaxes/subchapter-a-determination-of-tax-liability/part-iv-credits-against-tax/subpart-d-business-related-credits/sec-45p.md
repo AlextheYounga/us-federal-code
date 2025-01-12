@@ -38,6 +38,8 @@ For purposes of this section, rules similar to the rules of subsections (c), (d)
 
 (Added Pub. L. 110–245, title I, §111(a), June 17, 2008, 122 Stat. 1634; amended Pub. L. 111–312, title VII, §736(a), Dec. 17, 2010, 124 Stat. 3318; Pub. L. 112–240, title III, §308(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §118(a), Dec. 19, 2014, 128 Stat. 4015; Pub. L. 114–113, div. Q, title I, §122(a), (b), Dec. 18, 2015, 129 Stat. 3052.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of this section, referred to in subsec. (d)(1), is the date of the enactment of Pub. L. 110–245, which was approved June 17, 2008.
@@ -55,6 +57,8 @@ Subsec. (f). Pub. L. 114–113, §122(a), struck out subsec. (f). Text read as f
 **2013**—Subsec. (f). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011".
 
 **2010**—Subsec. (f). Pub. L. 111–312 substituted "December 31, 2011" for "December 31, 2009".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2015 Amendment ####
 

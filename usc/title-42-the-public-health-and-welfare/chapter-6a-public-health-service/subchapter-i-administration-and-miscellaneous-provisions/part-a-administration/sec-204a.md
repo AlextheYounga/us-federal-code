@@ -68,6 +68,8 @@ For purposes of pay, allowances, and benefits of a Commissioned Corps officer wh
 
 (July 1, 1944, ch. 373, title II, §203A, as added Pub. L. 109–417, title II, §206(b), Dec. 19, 2006, 120 Stat. 2851; amended Pub. L. 116–136, div. A, title III, §3214(b), Mar. 27, 2020, 134 Stat. 373.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Emergencies Act, referred to in subsec. (a)(5)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
@@ -77,6 +79,8 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 #### Amendments ####
 
 **2020**—Subsec. (a)(1)(B). Pub. L. 116–136 substituted "Ready Reserve Corps" for "Active Reserves".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Purpose ####
 

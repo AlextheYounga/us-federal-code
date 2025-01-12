@@ -146,6 +146,8 @@ any social security benefit shall be treated as an amount received as a pension 
 
 (Added and amended Pub. L. 98–21, title I, §121(a), title III, §335(b)(2)(A), Apr. 20, 1983, 97 Stat. 80, 130; Pub. L. 98–76, title II, §224(d), Aug. 12, 1983, 97 Stat. 424; Pub. L. 98–369, div. A, title IV, §474(r)(2), div. B, title VI, §2661(o)(1), July 18, 1984, 98 Stat. 839, 1158; Pub. L. 99–272, title XII, §12111(b), title XIII, §13204(a), Apr. 7, 1986, 100 Stat. 287, 313; Pub. L. 99–514, title I, §131(b)(2), title XIII, §1301(j)(8), title XVIII, §1847(b)(2), Oct. 22, 1986, 100 Stat. 2113, 2658, 2856; Pub. L. 100–647, title I, §1001(e), title VI, §6009(c)(1), Nov. 10, 1988, 102 Stat. 3351, 3690; Pub. L. 103–66, title XIII, §13215(a), (b), Aug. 10, 1993, 107 Stat. 475, 476; Pub. L. 103–296, title III, §309(d), Aug. 15, 1994, 108 Stat. 1523; Pub. L. 104–188, title I, §§1704(t)(3), 1807(c)(2), Aug. 20, 1996, 110 Stat. 1887, 1902; Pub. L. 105–277, div. J, title IV, §4003(a)(2)(B), Oct. 21, 1998, 112 Stat. 2681–908; Pub. L. 107–16, title IV, §431(c)(1), June 7, 2001, 115 Stat. 68; Pub. L. 108–357, title I, §102(d)(1), Oct. 22, 2004, 118 Stat. 1428; Pub. L. 115–97, title I, §13305(b)(1), Dec. 22, 2017, 131 Stat. 2126; Pub. L. 116–260, div. EE, title I, §104(b)(2)(C), Dec. 27, 2020, 134 Stat. 3041; Pub. L. 117–2, title IX, §9042(b)(2), Mar. 11, 2021, 135 Stat. 122.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsecs. (a)(1) and (d)(1)(A), (3), (4)(A), (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§401 et seq.) of Title 42. Sections 207, 224, and 708 of the Act are classified to sections 407, 424a, and 909 of Title 42, respectively. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -213,6 +215,8 @@ Subsec. (f)(2)–(5). Pub. L. 98–369, §2661(o)(1), redesignated pars. (1) to 
 **1983**—Subsec. (a). Pub. L. 98–21, §335(b)(2)(A), inserted "(notwithstanding section 207 of the Social Security Act)".
 
 Subsec. (d)(4). Pub. L. 98–76 inserted "3(f)(3)," after "3(a),".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2021 Amendment ####
 

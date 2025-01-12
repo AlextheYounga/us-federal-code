@@ -44,6 +44,8 @@ The term "qualified volunteer emergency response organization" means any volunte
 
 (Added Pub. L. 110–142, §5(a), Dec. 20, 2007, 121 Stat. 1805; amended Pub. L. 116–94, div. O, title III, §301(a), (b), Dec. 20, 2019, 133 Stat. 3175; Pub. L. 116–260, div. EE, title I, §103(a), Dec. 27, 2020, 134 Stat. 3040.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Subsec. (d). Pub. L. 116–260 struck out subsec. (d). Text read as follows: "This section shall not apply with respect to taxable years beginning—
@@ -55,6 +57,8 @@ The term "qualified volunteer emergency response organization" means any volunte
 **2019**—Subsec. (c)(2). Pub. L. 116–94, §301(a), substituted "$50" for "$30".
 
 Subsec. (d). Pub. L. 116–94, §301(b), substituted "beginning—" for "beginning after December 31, 2010." and added pars. (1) and (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

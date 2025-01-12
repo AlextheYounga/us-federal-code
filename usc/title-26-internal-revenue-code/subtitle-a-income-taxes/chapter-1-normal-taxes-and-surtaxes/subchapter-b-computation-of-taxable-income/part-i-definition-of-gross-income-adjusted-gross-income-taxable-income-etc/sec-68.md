@@ -62,6 +62,8 @@ This section shall not apply to any taxable year beginning after December 31, 20
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (b)(2). Pub. L. 115–141 substituted "shall be" for "shall be shall be" in introductory provisions.
@@ -89,6 +91,8 @@ Subsecs. (f), (g). Pub. L. 112–240, §101(b)(2)(A)(ii), struck out subsecs. (f
 **1993**—Subsec. (b)(2)(B). Pub. L. 103–66, §13201(b)(3)(E), substituted "1992" for "1989".
 
 Subsec. (f). Pub. L. 103–66, §13204, struck out heading and text of subsec. (f). Text read as follows: "This section shall not apply to any taxable year beginning after December 31, 1995."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

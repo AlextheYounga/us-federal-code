@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 100–360, title I, §111(a), July 1, 1988, 102 Stat. 690, provided for imposition of a supplemental medicare premium.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 101–234, title I, §102(d), Dec. 13, 1989, 103 Stat. 1981, provided that:

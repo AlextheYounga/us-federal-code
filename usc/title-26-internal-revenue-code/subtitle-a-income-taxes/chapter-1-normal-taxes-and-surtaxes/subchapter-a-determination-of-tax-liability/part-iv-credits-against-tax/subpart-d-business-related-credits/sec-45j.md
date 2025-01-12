@@ -164,6 +164,8 @@ Rules similar to the rules of paragraphs (1), (3), (4), and (5) of section 45(e)
 
 (Added Pub. L. 109–58, title XIII, §1306(a), Aug. 8, 2005, 119 Stat. 997; amended Pub. L. 109–135, title IV, §402(d), Dec. 21, 2005, 119 Stat. 2610; Pub. L. 110–172, §6(a), Dec. 29, 2007, 121 Stat. 2479; Pub. L. 115–123, div. D, title I, §40501(a), (b)(1), Feb. 9, 2018, 132 Stat. 153.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of this section and the date of the enactment of this paragraph, referred to in subsecs. (b)(4) and (d)(1)(B), are the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
@@ -183,6 +185,8 @@ Subsecs. (e), (f). Pub. L. 115–123, §40501(b)(1), added subsec. (e) and redes
 **2005**—Subsec. (c)(2). Pub. L. 109–135, §402(d)(1), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "Rules similar to the rules of section 45(b)(1) shall apply for purposes of this section."
 
 Subsec. (e). Pub. L. 109–135, §402(d)(2), struck out "(2)," after "(1),".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2018 Amendment ####
 

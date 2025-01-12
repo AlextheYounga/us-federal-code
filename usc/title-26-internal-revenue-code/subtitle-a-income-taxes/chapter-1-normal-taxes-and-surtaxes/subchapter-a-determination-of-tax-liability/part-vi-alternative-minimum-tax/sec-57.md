@@ -136,6 +136,8 @@ If the taxpayer elects with respect to the intangible drilling and development c
 
 (Added Pub. L. 99–514, title VII, §701(a), Oct. 22, 1986, 100 Stat. 2333; amended Pub. L. 100–647, title I, §1007(b)(14)(B), (c), Nov. 10, 1988, 102 Stat. 3430, 3432; Pub. L. 101–508, title XI, §§11344, 11801(c)(12)(A), 11815(b)(3), Nov. 5, 1990, 104 Stat. 1388–472, 1388–527, 1388–558; Pub. L. 102–227, title I, §112, Dec. 11, 1991, 105 Stat. 1689; Pub. L. 102–486, title XIX, §1915(a)(1), (b)(1), Oct. 24, 1992, 106 Stat. 3023, 3024; Pub. L. 103–66, title XIII, §§13113(b)(1), 13171(a), Aug. 10, 1993, 107 Stat. 429, 454; Pub. L. 104–188, title I, §1616(b)(3), Aug. 20, 1996, 110 Stat. 1856; Pub. L. 105–34, title III, §311(b)(2)(B), Aug. 5, 1997, 111 Stat. 835; Pub. L. 105–206, title VI, §6005(d)(3), July 22, 1998, 112 Stat. 805; Pub. L. 108–27, title III, §301(b)(3), May 28, 2003, 117 Stat. 759; Pub. L. 110–289, div. C, title I, §3022(a)(1), July 30, 2008, 122 Stat. 2893; Pub. L. 111–5, div. B, title I, §1503(a), Feb. 17, 2009, 123 Stat. 354; Pub. L. 113–295, div. A, title II, §221(a)(10), (11), Dec. 19, 2014, 128 Stat. 4038.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of this clause, referred to in subsec. (a)(5)(C)(iii), is the date of enactment of Pub. L. 110–289, which was approved July 30, 2008.
@@ -195,6 +197,8 @@ Subsec. (a)(5)(C)(i). Pub. L. 100–647, §1007(c)(2), amended cl. (i) generally
 Subsec. (a)(5)(C)(iii). Pub. L. 100–647, §1007(c)(1), inserted "(whether a current or advance refunding)" after "any refunding bond".
 
 Subsec. (a)(6)(A). Pub. L. 100–647, §1007(c)(3), inserted "or 642(c)" after "section 170".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2014 Amendment ####
 

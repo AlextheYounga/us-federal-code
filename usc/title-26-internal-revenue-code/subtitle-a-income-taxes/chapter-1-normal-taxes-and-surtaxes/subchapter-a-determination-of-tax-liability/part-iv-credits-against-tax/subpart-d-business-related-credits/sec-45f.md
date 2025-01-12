@@ -171,9 +171,13 @@ No deduction or credit shall be allowed under any other provision of this chapte
 
 (Added Pub. L. 107–16, title II, §205(a), June 7, 2001, 115 Stat. 50; amended Pub. L. 107–147, title IV, §411(d)(1), Mar. 9, 2002, 116 Stat. 46.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Subsec. (d)(4)(B). Pub. L. 107–147 substituted "this chapter or for purposes of section 55" for "subpart A, B, or D of this part".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2002 Amendment ####
 

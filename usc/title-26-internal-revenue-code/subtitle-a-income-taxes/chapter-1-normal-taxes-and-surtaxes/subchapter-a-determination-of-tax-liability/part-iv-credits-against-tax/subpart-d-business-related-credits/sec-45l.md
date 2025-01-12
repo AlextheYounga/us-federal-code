@@ -94,6 +94,8 @@ This section shall not apply to any qualified new energy efficient home acquired
 
 (Added Pub. L. 109–58, title XIII, §1332(a), Aug. 8, 2005, 119 Stat. 1024; amended Pub. L. 109–432, div. A, title II, §205, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–172, §11(a)(7), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–343, div. B, title III, §304, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 111–312, title VII, §703(a), Dec. 17, 2010, 124 Stat. 3311; Pub. L. 112–240, title IV, §408(a), (b), Jan. 2, 2013, 126 Stat. 2342; Pub. L. 113–295, div. A, title I, §156(a), Dec. 19, 2014, 128 Stat. 4021; Pub. L. 114–113, div. Q, title I, §188(a), Dec. 18, 2015, 129 Stat. 3074; Pub. L. 115–123, div. D, title I, §40410(a), Feb. 9, 2018, 132 Stat. 150; Pub. L. 116–94, div. Q, title I, §129(a), Dec. 20, 2019, 133 Stat. 3232; Pub. L. 116–260, div. EE, title I, §146(a), Dec. 27, 2020, 134 Stat. 3055.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of this section, referred to in subsec. (b)(2)(B), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
@@ -123,6 +125,8 @@ Subsec. (g). Pub. L. 112–240, §408(a), substituted "December 31, 2013" for "D
 **2007**—Subsec. (c)(2), (3). Pub. L. 110–172 substituted "part 3280" for "section 3280" in par. (2) and in introductory provisions of par. (3).
 
 **2006**—Subsec. (g). Pub. L. 109–432 substituted "2008" for "2007".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2020 Amendment ####
 

@@ -26,6 +26,8 @@ Whenever a vacancy exists in any grade in a category the Surgeon General may inc
 
 (July 1, 1944, ch. 373, title II, §209, as added Feb. 28, 1948, ch. 83, §5(i), 62 Stat. 41; amended 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 96–76, title III, §306, Sept. 29, 1979, 93 Stat. 585.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 209 of act July 1, 1944, was renumbered section 208 and is classified to section 210 of this title.
@@ -34,9 +36,13 @@ A prior section 209 of act July 1, 1944, was renumbered section 208 and is class
 
 **1979**—Subsec. (c). Pub. L. 96–76 substituted "warrant officer (W–1)" for "assistant".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1979 Amendment ####
 
 Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 96–76, set out as a note under section 206 of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

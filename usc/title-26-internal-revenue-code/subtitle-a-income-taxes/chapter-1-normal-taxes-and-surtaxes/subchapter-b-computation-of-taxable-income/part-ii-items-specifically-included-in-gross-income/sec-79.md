@@ -122,6 +122,8 @@ Subsection (b)(3) and section 72(m)(3) shall not apply in the case of any cost p
 
 (Added Pub. L. 88–272, title II, §204(a)(1), Feb. 26, 1964, 78 Stat. 36; amended Pub. L. 89–97, title I, §106(d)(3), July 30, 1965, 79 Stat. 337; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title II, §244(a), Sept. 3, 1982, 96 Stat. 523; Pub. L. 98–369, div. A, title II, §223(a), (b), July 18, 1984, 98 Stat. 775; Pub. L. 99–514, title XI, §1151(c)(1), title XVIII, §1827(a)(1), (c), (d), Oct. 22, 1986, 100 Stat. 2503, 2850, 2851; Pub. L. 100–647, title V, §5013(a), Nov. 10, 1988, 102 Stat. 3666; Pub. L. 101–140, title II, §203(a)(1), (b)(1)(A), Nov. 8, 1989, 103 Stat. 830, 831; Pub. L. 101–508, title XI, §11703(e)(1), Nov. 5, 1990, 104 Stat. 1388–517; Pub. L. 112–141, div. D, title II, §40242(d), July 6, 2012, 126 Stat. 861.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Subsec. (f). Pub. L. 112–141 added subsec. (f).
@@ -153,6 +155,8 @@ Subsec. (e). Pub. L. 98–369, §223(a)(1), added subsec. (e).
 **1976**—Subsec. (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 **1965**—Subsec. (b)(1). Pub. L. 89–97 substituted "section 72(m)(7)" for "paragraph (3) of section 213(g), determined without regard to paragraph (4) thereof".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2012 Amendment ####
 

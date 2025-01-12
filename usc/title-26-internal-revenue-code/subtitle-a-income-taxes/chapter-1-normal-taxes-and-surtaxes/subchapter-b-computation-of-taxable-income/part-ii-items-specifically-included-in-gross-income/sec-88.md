@@ -4,9 +4,13 @@ In the case of any taxpayer who is required to include the amount of any nuclear
 
 (Added Pub. L. 98–369, div. A, title I, §91(f)(1), July 18, 1984, 98 Stat. 607; amended Pub. L. 99–514, title XVIII, §1807(a)(4)(E)(vii), Oct. 22, 1986, 100 Stat. 2813.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1986**—Pub. L. 99–514 substituted "for ratemaking purposes" for "of ratemaking purposes".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1986 Amendment ####
 

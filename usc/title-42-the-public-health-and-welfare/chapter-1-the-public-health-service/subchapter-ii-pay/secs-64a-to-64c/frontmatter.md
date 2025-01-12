@@ -1,5 +1,7 @@
 ### §§64a to 64c. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 64a, act Feb. 21, 1929, ch. 288, 45 Stat. 1254, defined child and children as used in section 64 of this title, and was superseded by section 401 of Title 37, Pay and Allowances of the Uniformed Services.

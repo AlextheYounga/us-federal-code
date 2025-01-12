@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 99–514, title XI, §1151(a), Oct. 22, 1986, 100 Stat. 2494; amended Pub. L. 100–647, title I, §1011B(a)(1)–(9), (21), (28), (29), (34), title III, §3021(a)(1)(A), (B), (2)(A), (3)–(9), (11)–(13)(A), (b)(2)(B), (3), title VI, §6051(a), Nov. 10, 1988, 102 Stat. 3483–3485, 3487, 3488, 3625–3632, 3695, related to nondiscrimination rules regarding benefits provided under employee benefit plans.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 101–140, title II, §202(c), Nov. 8, 1989, 103 Stat. 830, provided that: "The amendments made by this section [repealing this section] shall take effect as if included in section 1151 of the Tax Reform Act of 1986 [Pub. L. 99–514, see section 1151(k) set out as a note under section 79 of this title]."

@@ -322,6 +322,8 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
 (Added Pub. L. 115–97, title I, §14401(a), Dec. 22, 2017, 131 Stat. 2226.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 15(a) of the Securities Exchange Act of 1934, referred to in subsec. (b)(3)(B)(ii), is classified to section 78o(a) of Title 15, Commerce and Trade.
@@ -331,6 +333,8 @@ The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (
 #### Prior Provisions ####
 
 A prior section 59A, added Pub. L. 99–499, title V, §516(a), Oct. 17, 1986, 100 Stat. 1770; amended Pub. L. 100–647, title II, §2001(c)(1), (3)(B), Nov. 10, 1988, 102 Stat. 3594; Pub. L. 101–508, title XI, §§11231(a)(1)(A), 11531(b)(3), 11801(c)(2)(E), Nov. 5, 1990, 104 Stat. 1388–444, 1388–490, 1388–523; Pub. L. 102–486, title XIX, §1915(c)(4), Oct. 24, 1992, 106 Stat. 3024, related to environmental tax, prior to repeal by Pub. L. 113–295, div. A, title II, §221(a)(12)(A), Dec. 19, 2014, 128 Stat. 4038.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

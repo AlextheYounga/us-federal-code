@@ -38,6 +38,8 @@ This section shall not apply to any change in rates under subsection (i) of sect
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 12, §21; Pub. L. 88–272, title I, §132, Feb. 26, 1964, 78 Stat. 30; Pub. L. 91–172, title VIII, §803(e), Dec. 30, 1969, 83 Stat. 685; Pub. L. 92–178, title II, §205, Dec. 10, 1971, 85 Stat. 511; Pub. L. 94–12, title III, §305(b)(2), Mar. 29, 1975, 89 Stat. 45; Pub. L. 94–164, §4(d)(2), Dec. 23, 1975, 89 Stat. 975; Pub. L. 94–455, title IX, §901(c)(2), Oct. 4, 1976, 90 Stat. 1607; Pub. L. 95–30, title I, §101(d)(2), May 23, 1977, 91 Stat. 133; Pub. L. 95–600, title I, §106, Nov. 6, 1978, 92 Stat. 2776; Pub. L. 97–34, title I, §101(d)(3), Aug. 13, 1981, 95 Stat. 184; renumbered §15, Pub. L. 98–369, div. A, title IV, §474(b)(1), July 18, 1984, 98 Stat. 830; Pub. L. 99–514, title I, §101(b), Oct. 22, 1986, 100 Stat. 2099; Pub. L. 100–647, title I, §1006(a), Nov. 10, 1988, 102 Stat. 3393; Pub. L. 107–16, title I, §101(c)(3), June 7, 2001, 115 Stat. 43.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2001**—Subsec. (f). Pub. L. 107–16, §101(c)(3), added subsec. (f).
@@ -71,6 +73,8 @@ Pub. L. 94–12 added subsec. (f).
 **1969**—Subsec. (d). Pub. L. 91–172 substituted provisions covering changes made by the Tax Reform Act of 1969 in case of individuals for provisions covering changes made by Revenue Act of 1964.
 
 **1964**—Subsec. (d). Pub. L. 88–272 amended subsection generally by substituting provisions relating to changes made by the Revenue Act of 1964, for provisions relating to taxable years beginning before Jan. 1, 1954, and ending after Dec. 31, 1953.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2001 Amendment ####
 

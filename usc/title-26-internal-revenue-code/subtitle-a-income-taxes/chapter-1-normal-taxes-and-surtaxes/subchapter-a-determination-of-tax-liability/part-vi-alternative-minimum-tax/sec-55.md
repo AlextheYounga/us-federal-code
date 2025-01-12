@@ -196,6 +196,8 @@ In the case of any taxable year to which subparagraph (A) applies, no adjustment
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 27, referred to in subsec. (c)(1), was amended generally by Pub. L. 115–141, div. U, title IV, §401(d)(1)(A), Mar. 23, 2018, 132 Stat. 1206, and as so amended, no longer contains a subsec. (a) designation. Text of section 27 as amended by Pub. L. 115–141 is identical to that of former section 27(a).
@@ -409,6 +411,8 @@ Pub. L. 100–647, §1002(l)(27), substituted "subsection (j) or (k) of section 
 Subsec. (d)(3). Pub. L. 100–647, §1007(a)(3), inserted at end "In the case of a taxpayer described in paragraph (1)(C)(i), alternative minimum taxable income shall be increased by the lesser of (i) 25 percent of the excess of alternative minimum taxable income (determined without regard to this sentence) over $155,000, or (ii) $20,000."
 
 **1986**—Subsec. (c)(1). Pub. L. 99–514, §252(c), inserted "or section 42(j)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2019 Amendment ####
 

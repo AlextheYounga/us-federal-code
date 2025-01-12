@@ -402,6 +402,8 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 1251, 1301, 1302, 1311, 1321, 1402, and 1412 of the Patient Protection and Affordable Care Act, referred to in text, are classified to sections 18011, 18021, 18022, 18031, 18041, 18071, and 18082, respectively, of Title 42, The Public Health and Welfare.
@@ -471,6 +473,8 @@ Subsec. (f)(2)(B). Pub. L. 111–309, §208(a), amended generally subpar. headin
 Subsec. (f)(2)(B)(ii). Pub. L. 111–309, §208(b), inserted "in the table contained" after "each of the dollar amounts" in introductory provisions.
 
 Subsec. (f)(3). Pub. L. 111–152, §1004(c), added par. (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2021 Amendment ####
 

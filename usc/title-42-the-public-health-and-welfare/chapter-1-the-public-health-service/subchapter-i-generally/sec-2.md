@@ -1,8 +1,12 @@
 ### §2. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, acts Feb. 3, 1905, ch. 297, 33 Stat. 650; Aug. 14, 1912, ch. 288, §1, 37 Stat. 309; 1939 Reorg. Plan No. I, eff. July 1, 1939, §201, 4 F.R. 2728, 53 Stat. 1424, which provided for jurisdiction of Federal Security Agency over the Service, was superseded by section 202 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repeals ####
 

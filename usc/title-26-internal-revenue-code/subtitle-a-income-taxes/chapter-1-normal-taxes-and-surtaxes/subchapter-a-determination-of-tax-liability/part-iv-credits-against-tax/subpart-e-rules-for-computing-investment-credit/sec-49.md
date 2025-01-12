@@ -146,6 +146,8 @@ Any increase in tax under paragraph (1) shall not be treated as tax imposed by t
 
 (Added Pub. L. 99–514, title II, §211(a), Oct. 22, 1986, 100 Stat. 2166; amended Pub. L. 100–647, title I, §1002(e)(1)–(3), (8)(B), Nov. 10, 1988, 102 Stat. 3367, 3369; Pub. L. 101–508, title XI, §11813(a), Nov. 5, 1990, 104 Stat. 1388–543; Pub. L. 105–206, title VI, §6004(g)(6), July 22, 1998, 112 Stat. 796; Pub. L. 109–58, title XIII, §1307(c)(1), Aug. 8, 2005, 119 Stat. 1006; Pub. L. 111–5, div. B, title I, §1302(c)(1), Feb. 17, 2009, 123 Stat. 347; Pub. L. 111–148, title IX, §9023(c)(1), Mar. 23, 2010, 124 Stat. 880; Pub. L. 115–141, div. U, title IV, §401(a)(24), (d)(3)(B)(i), Mar. 23, 2018, 132 Stat. 1185, 1209.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsecs. (a)(1)(F) and (b)(3), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
@@ -185,6 +187,8 @@ Subsec. (d)(1). Pub. L. 100–647, §1002(e)(1), amended par. (1) generally. Pri
 "(A) by substituting '100 percent' for '50 percent' in paragraph (1), and
 
 "(B) without regard to paragraph (4) thereof (relating to election of reduced credit in lieu of basis adjustment)."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2010 Amendment ####
 

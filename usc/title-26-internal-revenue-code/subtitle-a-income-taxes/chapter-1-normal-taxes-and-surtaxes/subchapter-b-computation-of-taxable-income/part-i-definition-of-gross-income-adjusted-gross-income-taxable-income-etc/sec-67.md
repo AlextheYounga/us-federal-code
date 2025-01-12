@@ -98,6 +98,8 @@ Notwithstanding subsection (a), no miscellaneous itemized deduction shall be all
 
 (Added Pub. L. 99–514, title I, §132(a), Oct. 22, 1986, 100 Stat. 2113; amended Pub. L. 100–647, title I, §1001(f), title IV, §4011(a), Nov. 10, 1988, 102 Stat. 3351, 3655; Pub. L. 101–239, title VII, §7814(f), Dec. 19, 1989, 103 Stat. 2414; Pub. L. 103–66, title XIII, §13213(c)(2), Aug. 10, 1993, 107 Stat. 474; Pub. L. 105–277, div. J, title IV, §4004(b)(1), Oct. 21, 1998, 112 Stat. 2681–910; Pub. L. 106–554, §1(a)(7) [title III, §319(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–646; Pub. L. 115–97, title I, §11045(a), Dec. 22, 2017, 131 Stat. 2088.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 4 of the Securities Act of 1933, referred to in subsec. (c)(2)(B)(i)(I), is classified to section 77d of Title 15, Commerce and Trade.
@@ -127,6 +129,8 @@ Pub. L. 100–647, §1001(f)(4), amended last sentence generally. Prior to amend
 Subsec. (e). Pub. L. 100–647, §1001(f)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "For purposes of this section, the adjusted gross income of an estate or trust shall be computed in the same manner as in the case of an individual, except that the deductions for costs which are paid or incurred in connection with the administration of the estate or trust and would not have been incurred if the property were not held in such trust or estate shall be treated as allowable in arriving at adjusted gross income."
 
 Subsec. (f). Pub. L. 100–647, §1001(f)(1), added subsec. (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

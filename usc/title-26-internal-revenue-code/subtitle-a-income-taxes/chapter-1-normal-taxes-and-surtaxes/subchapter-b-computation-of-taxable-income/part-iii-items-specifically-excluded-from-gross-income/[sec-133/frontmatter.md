@@ -152,9 +152,13 @@ If the term of an original securities acquisition loan described in subsection (
 
 For the purposes of this subsection, the term "original securities acquisition loan" means a securities acquisition loan described in subparagraph (A) or (B) of subsection (b)(1).
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 133 was renumbered section 140 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of Repeal ####
 

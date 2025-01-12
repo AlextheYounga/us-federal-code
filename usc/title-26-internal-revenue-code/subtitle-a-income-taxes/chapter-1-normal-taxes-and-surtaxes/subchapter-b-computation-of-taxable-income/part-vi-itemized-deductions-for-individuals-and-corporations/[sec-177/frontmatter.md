@@ -2,6 +2,8 @@
 
 Section, added June 29, 1956, ch. 464, §4(a), 70 Stat. 406; amended Oct. 4, 1976, Pub. L. 94–455, title XIX, §1906(b)(13)(A), 90 Stat. 1834, related to deductions for trademark and trade name expenditures.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 99–514, title II, §241(c), Oct. 22, 1986, 100 Stat. 2181, provided that:

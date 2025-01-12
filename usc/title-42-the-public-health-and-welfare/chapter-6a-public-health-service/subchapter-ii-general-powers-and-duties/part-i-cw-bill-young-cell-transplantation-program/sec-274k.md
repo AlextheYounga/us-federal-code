@@ -484,11 +484,7 @@ Pub. L. 109–129, §2, Dec. 20, 2005, 119 Stat. 2550, as amended by Pub. L. 111
 
 "(4) The term 'qualified cord blood bank' has the meaning given to that term in section 379(d)(4) of the Public Health Service Act [42 U.S.C. 274k(d)(4)], as amended by this Act.
 
-"(5) The term 'Secretary' means the Secretary of Health and Human Services.
-
-#### "(g) Authorization of Appropriations ####
-
-"To carry out this section, there is authorized to be appropriated $23,000,000 for each of fiscal years 2022 through 2026."
+"(5) The term 'Secretary' means the Secretary of Health and Human Services.121"(g) Authorization of Appropriations.—To carry out this section, there is authorized to be appropriated $23,000,000 for each of fiscal years 2022 through 2026."
 
 #### Report of Inspector General; Plan Regarding Relationship Between Registry and Donor Centers ####
 

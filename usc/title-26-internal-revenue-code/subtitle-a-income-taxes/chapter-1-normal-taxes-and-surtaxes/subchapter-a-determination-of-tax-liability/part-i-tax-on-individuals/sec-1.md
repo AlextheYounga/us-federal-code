@@ -733,6 +733,8 @@ Section 15 shall not apply to any change in a rate of tax by reason of this subs
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of this subclause, referred to in subsec. (h)(11)(C)(iii)(II), is the date of enactment of Pub. L. 115–97, which was approved Dec. 22, 2017.
@@ -1129,6 +1131,8 @@ Subsec. (e). Pub. L. 91–172 struck out cross reference to section 63. See sect
 
 **1964**—Pub. L. 88–272 amended section generally by splitting the former first bracket which started at $2,000 into four new brackets, the 14 percent bracket representing a 30 percent reduction, the 15 percent bracket a 25 percent cut, and the 16 percent bracket a 20 percent cut, and reducing all other brackets by cuts averaging about 20 percent and effectuated these cuts in two steps, one in 1964, and one in 1965.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2019 Amendment ####
 
 Pub. L. 116–94, div. O, title V, §501(c), Dec. 20, 2019, 133 Stat. 3181, provided that:
@@ -1371,7 +1375,7 @@ Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that
 
 Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title [amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title] shall apply with respect to taxable years beginning after December 31, 1963."
 
-Short Title of 2020 Amendment
+#### Short Title of 2020 Amendment ####
 
 Pub. L. 116–260, div. N, title II, §271(a), Dec. 27, 2020, 134 Stat. 1964, provided that: "This subtitle [subtitle B (§§271–288) of title II of div. N of Pub. L. 116–260, see Tables for classification] may be cited as the 'COVID-related Tax Relief Act of 2020'."
 
@@ -1383,7 +1387,7 @@ Pub. L. 116–94, div. O, §1(a), Dec. 20, 2019, 133 Stat. 3137, provided that: 
 
 Pub. L. 116–94, div. P, title XIII, §1301, Dec. 20, 2019, 133 Stat. 3204, provided that: "This title [amending section 4975 of this title and section 1108 of Title 29, Labor, and enacting provisions set out as a note under section 4975 of this title] may be cited as the 'Temporary Relief from Certain ERISA Requirements Act of 2020'."
 
-Pub. L. 116–94, div. Q, §1(a), Dec. 20, 2019, 133 Stat. 3226, provided that: "This division [div. Q of Pub. L. 116–94, see Tables for classification] may be cited as the 'Taxpayer Certainty and Disaster Tax Relief Act of 2019'."
+Pub. L. 116–94, div. Q, §1(a), Dec. 20, 2019, 133 Stat. 3226, provided that: "This division [see Tables for classification] may be cited as the 'Taxpayer Certainty and Disaster Tax Relief Act of 2019'."
 
 Pub. L. 116–25, §1(a), July 1, 2019, 133 Stat. 981, provided that: "This Act [see Tables for classification] may be cited as the 'Taxpayer First Act'."
 
@@ -2196,6 +2200,8 @@ Pub. L. 88–272, §1, Feb. 26, 1964, 78 Stat. 19, provided that: "It is the sen
 #### Inflation Adjusted Items for Certain Years ####
 
 Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 148, 151, 152, 179, 199A, 213, 219, 220, 221, 223, 408A, 448, 461, 512, 513, 642, 685, 831, 877, 877A, 911, 1274A, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 5000A, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, 7702B, and 9831 of this title for certain years were contained in the following:
+
+**2021**—Revenue Procedure 2020–45.
 
 **2020**—Revenue Procedure 2019–44.
 

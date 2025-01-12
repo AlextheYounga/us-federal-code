@@ -28,4 +28,4 @@ A prior part II consisted of sections 5411 to 5416, prior to the general revisio
 
 **1971**—Pub. L. 91–673, §4(b), Jan. 12, 1971, 84 Stat. 2058, substituted "Definitions of package and packaging" for "Definitions of bottle and bottling" in item 5416 and added item 5417.
 
-[<sup>1</sup> So in original. Does not conform to section catchline.](#I_1)
+[<sup>1</sup> So in original. Section catchline amended by Pub. L. 116–260 without corresponding amendment of part analysis.](#I_1)

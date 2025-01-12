@@ -1,5 +1,7 @@
 ### §§17701, 17702. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 17701, Pub. L. 110–422, §2, Oct. 15, 2008, 122 Stat. 4781, which related to congressional findings on the 50th anniversary of the establishment of the National Aeronautics and Space Administration, was transferred and is set out as a note under section 20102 of Title 51, National and Commercial Space Programs.

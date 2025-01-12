@@ -24,6 +24,8 @@ For purposes of paragraph (1), the adjusted gross income of the taxpayer shall b
 
 (Added Pub. L. 95–600, title I, §112(a), Nov. 6, 1978, 92 Stat. 2777; amended Pub. L. 97–34, title I, §103(c)(1), Aug. 13, 1981, 95 Stat. 188; Pub. L. 97–248, title VI, §611(a), Sept. 3, 1982, 96 Stat. 706; Pub. L. 98–21, title I, §§121(f)(1), 122(c)(2), Apr. 20, 1983, 97 Stat. 84, 87; Pub. L. 99–514, title I, §121, Oct. 22, 1986, 100 Stat. 2109; Pub. L. 111–5, div. B, title I, §1007(a), Feb. 17, 2009, 123 Stat. 317; Pub. L. 113–295, div. A, title II, §221(a)(15), Dec. 19, 2014, 128 Stat. 4039; Pub. L. 117–2, title IX, §9042(a), Mar. 11, 2021, 135 Stat. 122.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Subsec. (c). Pub. L. 117–2 added subsec. (c).
@@ -59,6 +61,8 @@ Pub. L. 98–21, §121(f)(1), inserted "section 86," after "this section,".
 Subsec. (b)(2). Pub. L. 97–248, §611(a)(2), substituted "$18,000" for "$25,000".
 
 **1981**—Subsec. (a). Pub. L. 97–34 substituted "this section, section 105(d), and section 221" for "this section and without regard to section 105(d)" in parenthetical provision preceding par. (1).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2021 Amendment ####
 

@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 104–188, title I, §1601(b)(1), Aug. 20, 1996, 110 Stat. 1830; amended Pub. L. 105–34, title XVI, §1601(f)(1)(A), Aug. 5, 1997, 111 Stat. 1090; Pub. L. 106–554, §1(a)(7) [title III, §311(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A–640; Pub. L. 113–295, div. A, title II, §221(a)(12)(C), Dec. 19, 2014, 128 Stat. 4038, related to Puerto Rico economic activity credit. Repeal was executed to this section, which is in subpart B of part IV of subchapter A of chapter 1, to reflect the probable intent of Congress, notwithstanding directory language of Pub. L. 115–141, which repealed section 30A in subpart C of part IV of subchapter A of chapter 1.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Savings Provision ####
 
 For provisions that nothing in repeal by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.

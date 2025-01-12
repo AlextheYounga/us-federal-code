@@ -38,11 +38,15 @@ Determinations under subparagraph (B) shall be exclusive of interest.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 25; Pub. L. 85–866, title I, §2(a), Sept. 2, 1958, 72 Stat. 1606.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1958**—Subsec. (a). Pub. L. 85–866, §2(a)(2), (3), struck out "short-term" each place it appeared, and inserted sentence to provide that no reduction to cost of securities sold during taxable year shall be made in respect of subsec. (b)(1)(A)(ii) obligations held at close of year, and to permit reduction in cost of securities sold in taxable year sold if obligation is municipal bond.
 
 Subsec. (b)(1). Pub. L. 85–866, §2(a)(1), substituted "municipal bond" for "short-term municipal bond", designated former subpars. (A) and (B) as (A)(i) and (ii), respectively, and added subpar. (B).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1958 Amendment ####
 

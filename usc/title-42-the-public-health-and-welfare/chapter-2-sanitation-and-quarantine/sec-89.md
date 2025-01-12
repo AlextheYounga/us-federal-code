@@ -4,6 +4,8 @@ There shall be purchased or erected, under the orders of the President, suitable
 
 (R.S. §4794.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 R.S. §4794 derived from act Feb. 23, 1799, ch. 12, §3, 1 Stat. 620.

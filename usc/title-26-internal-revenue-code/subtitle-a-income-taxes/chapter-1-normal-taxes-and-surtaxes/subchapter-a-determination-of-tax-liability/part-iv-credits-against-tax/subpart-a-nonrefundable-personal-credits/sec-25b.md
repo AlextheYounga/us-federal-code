@@ -116,6 +116,8 @@ Notwithstanding any other provision of law, a qualified retirement savings contr
 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under section 1 of this title and Revenue Notices listed in a table under section 401 of this title.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (b)(3)(B). Pub. L. 115–97, §11002(d)(1)(C), substituted "for 'calendar year 2016' in subparagraph (A)(ii)" for "for 'calendar year 1992' in subparagraph (B)".
@@ -157,6 +159,8 @@ Subsec. (h). Pub. L. 109–280, §812, struck out heading and text of subsec. (h
 Subsecs. (g), (h). Pub. L. 107–147, §417(1), redesignated subsec. (g), relating to termination, as (h).
 
 **2001**—Subsec. (g). Pub. L. 107–16, §618(b)(1), added subsec. (g) relating to limitation based on amount of tax.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2013 Amendment ####
 

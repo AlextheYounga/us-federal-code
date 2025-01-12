@@ -10,9 +10,13 @@ shall be credited with one year for purposes of promotion and seniority in grade
 
 (July 1, 1944, ch. 373, title II, §220, as added Apr. 30, 1956, ch. 223, §3, 70 Stat. 121.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For "the effective date of this section", referred to in text, see section 7 of act Apr. 30, 1956, which provided in part that this section shall become effective the first day of the month following the day of enactment, Apr. 30, 1956.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

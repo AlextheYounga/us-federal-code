@@ -4,6 +4,8 @@ Gross income shall not include any interest received from the Federal Government
 
 (Added Pub. L. 116–25, title I, §1202(a), July 1, 2019, 133 Stat. 987.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 116–25, title I, §1202(c), July 1, 2019, 133 Stat. 988, provided that: "The amendments made by this section [enacting this section] shall apply to interest received on or after the date of the enactment of this Act [July 1, 2019]."

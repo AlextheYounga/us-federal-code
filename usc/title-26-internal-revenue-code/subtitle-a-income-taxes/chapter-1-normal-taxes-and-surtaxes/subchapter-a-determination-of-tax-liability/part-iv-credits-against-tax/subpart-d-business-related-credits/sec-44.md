@@ -100,6 +100,8 @@ The Secretary shall prescribe regulations necessary to carry out the purposes of
 
 (Added Pub. L. 101–508, title XI, §11611(a), Nov. 5, 1990, 104 Stat. 1388–501.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Americans With Disabilities Act of 1990, referred to in subsecs. (c)(1) and (d)(1) is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
@@ -111,6 +113,8 @@ The date of the enactment of this section, referred to in subsecs. (c)(1), (4) a
 A prior section 44, added Pub. L. 94–12, title II, §208(a), Mar. 29, 1975, 89 Stat. 32; amended Pub. L. 94–45, title IV, §401(a), June 30, 1975, 89 Stat. 243; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834, related to purchase of new principal residence, prior to repeal by Pub. L. 98–369, div. A, title IV, §474(m)(1), July 18, 1984, 98 Stat. 833, applicable to taxable years beginning after Dec. 31, 1983, and to carrybacks from such years.
 
 Another prior section 44 was renumbered section 37 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

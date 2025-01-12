@@ -96,6 +96,8 @@ No deduction shall be allowed under subsection (a) to any taxpayer for any taxab
 
 (Added Pub. L. 109–58, title XIII, §1323(a), Aug. 8, 2005, 119 Stat. 1013; amended Pub. L. 110–343, div. B, title II, §209(a), (b), Oct. 3, 2008, 122 Stat. 3840.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of this section, referred to in subsec. (c)(1)(B), (2)(A), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
@@ -111,6 +113,8 @@ Subsec. (c)(1)(F). Pub. L. 110–343, §209(a)(2), substituted "January 1, 2010"
 Subsec. (d). Pub. L. 110–343, §209(b)(1), inserted ", or directly from shale or tar sands" after "(as defined in section 45K(c))".
 
 Subsec. (e)(2). Pub. L. 110–343, §209(b)(2), inserted "shale, tar sands, or" before "qualified fuels".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 
