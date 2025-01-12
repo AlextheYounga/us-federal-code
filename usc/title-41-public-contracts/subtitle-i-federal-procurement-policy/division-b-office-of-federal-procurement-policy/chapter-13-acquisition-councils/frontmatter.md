@@ -20,8 +20,6 @@ Sec.
 
 #### SUBCHAPTER III—FEDERAL ACQUISITION SUPPLY CHAIN SECURITY ####
 
-Sec.
-
 1321. Definitions.
 
 1322. Federal Acquisition Security Council establishment and membership.

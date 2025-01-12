@@ -58,11 +58,11 @@ Pub. L. 115–232, div. A, title VIII, §889, Aug. 13, 2018, 132 Stat. 1917, pro
 
 "(f) Definitions.—In this section:
 
-"(1) Appropriate congressional committees.—The term 'appropriate congressional committees' ' means—
+"(1) Appropriate congressional committees.—The term 'appropriate congressional committees' ' [sic] means—
 
 "(A) the Committee on Banking, Housing, and Urban Affairs, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
-"(B) the Committee on Financial Services, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform of the House of Representatives.
+"(B) the Committee on Financial Services, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives.
 
 "(2) Covered foreign country.—The term 'covered foreign country' means the People's Republic of China.
 

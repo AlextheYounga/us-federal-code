@@ -28,7 +28,7 @@ Beginning on December 16, 2016, in any case in which the Secretary implements a 
 
 #### Amendments ####
 
-**2018**—Subsec. (c). Pub. L. 115–270 substituted "$12,500,000" for '$10,000,000".
+**2018**—Subsec. (c). Pub. L. 115–270 substituted "$12,500,000" for "$10,000,000".
 
 **2016**—Subsec. (b). Pub. L. 114–322, §1169(1), substituted "measures, including a study, shall be cost-shared in the same proportion as the cost-sharing provisions applicable to construction of the project" for "measures under this section shall be cost-shared in the same proportion as the cost-sharing provisions applicable to the project".
 

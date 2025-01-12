@@ -38,9 +38,9 @@ For purposes of this subchapter, the term "child health assistance" means paymen
 
 (17) Dental services.
 
-(18) Inpatient substance abuse treatment services and residential substance abuse treatment services.
+(18) Inpatient substance use treatment services and residential substance use treatment services.
 
-(19) Outpatient substance abuse treatment services.
+(19) Outpatient substance use treatment services.
 
 (20) Case management services.
 
@@ -110,7 +110,7 @@ The term "medicaid applicable income level" means, with respect to a child, the 
 
 Subject to subparagraphs (B) and (C), in the case of any child who is enrolled in a group health plan or health insurance coverage offered through an employer who would, but for the application of paragraph (1)(C), satisfy the requirements for being a targeted low-income child under a State child health plan that is implemented under this subchapter, a State may waive the application of such paragraph to the child in order to provide—
 
-(i) dental coverage consistent with the requirements of subsection (c)(5) of section 1397cc of this title; or
+(i) dental coverage consistent with the requirements of subsection (c)(6) of section 1397cc of this title; or
 
 (ii) cost-sharing protection for dental coverage consistent with such requirements and the requirements of subsection (e)(3)(B) of such section.
 
@@ -223,20 +223,6 @@ For purposes of subparagraph (A)(iii), the term "sponsoring facility" includes a
 (vi) A program administered by the Indian Health Service or the Bureau of Indian Affairs or operated by an Indian tribe or a tribal organization.
 
 (Aug. 14, 1935, ch. 531, title XXI, §2110, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 567; amended Pub. L. 105–100, title I, §162(3), (9), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 106–554, §1(a)(6) [title VIII, §802(d)(5)], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 111–3, title V, §§501(b)(1), 505(b), Feb. 4, 2009, 123 Stat. 85, 90; Pub. L. 111–148, title II, §§2102(a)(7), 2302(b), title X, §10203(d)(2)(D), Mar. 23, 2010, 124 Stat. 288, 293, 930; Pub. L. 111–309, title II, §205(d), Dec. 15, 2010, 124 Stat. 3290; Pub. L. 114–95, title IX, §9215(qqq)(2), Dec. 10, 2015, 129 Stat. 2189; Pub. L. 115–271, title V, §5022(b)(2)(B), (C), Oct. 24, 2018, 132 Stat. 3964.)
-
-#### Amendment of Section ####
-
-Pub. L. 115–271, title V, §5022(b)(2)(B), (C), (e), Oct. 24, 2018, 132 Stat. 3964, 3965, provided that, effective with respect to child health assistance provided on or after the date that is 1 year after Oct. 24, 2018, with exception if State legislation required, this section is amended:
-
-(1) in subsection (a)—
-
-(A) in paragraph (18), by striking "substance abuse" each place it appears and inserting "substance use"; and
-
-(B) in paragraph (19), by striking "substance abuse" and inserting "substance use"; and
-
-(2) in subsection (b)(5)(A)(i), by striking "subsection (c)(5)" and inserting "subsection (c)(6)".
-
-See 2018 Amendment notes below.
 
 #### References in Text ####
 

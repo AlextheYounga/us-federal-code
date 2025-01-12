@@ -8,7 +8,7 @@ The Secretary shall, to the maximum extent practicable, include in the future wo
 
 (2) for which a final report by the Director of Civil Works has been completed.
 
-#### (b) Notification to Committees ####
+#### (b) Notification to committees ####
 
 Upon completion of a final report referred to in subsection (a), the Secretary shall transmit a copy of the report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate.
 

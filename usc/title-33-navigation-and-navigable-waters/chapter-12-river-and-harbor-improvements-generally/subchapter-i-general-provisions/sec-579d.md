@@ -1,4 +1,4 @@
-### §579d. Deauthorization of inactive projects ###
+### §579d. Deauthorization of inactive projects as of Public Law 114–322 ###
 
 #### (a) Purposes ####
 

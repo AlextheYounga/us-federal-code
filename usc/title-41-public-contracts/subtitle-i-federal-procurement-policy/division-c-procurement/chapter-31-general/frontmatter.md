@@ -44,7 +44,7 @@ Pub. L. 115–254, div. B, title V, §555, Oct. 5, 2018, 132 Stat. 3381, provide
 
 "(3) when otherwise authorized by law.
 
-"(e) Study of Agency Analyses.—Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a comprehensive report on the decisions made by the executive agencies with the highest levels of acquisition spending, and a sample of executive agencies with lower levels of acquisition spending, to acquire high-value equipment by lease, rental, or purchase pursuant to subpart 7.4 of the Federal Acquisition Regulation.
+"(e) Study of Agency Analyses.—Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a comprehensive report on the decisions made by the executive agencies with the highest levels of acquisition spending, and a sample of executive agencies with lower levels of acquisition spending, to acquire high-value equipment by lease, rental, or purchase pursuant to subpart 7.4 of the Federal Acquisition Regulation.
 
 "(f) Definitions.—In this section:
 

@@ -2,7 +2,7 @@
 
 #### (a) Required scope of health insurance coverage ####
 
-The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), and (7) of subsection (c), of any of the following:
+The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), (7), and (8) of subsection (c), of any of the following:
 
 #### (1) Benchmark coverage ####
 
@@ -66,6 +66,8 @@ For purposes of this section, the categories of basic services described in this
 
 (D) Well-baby and well-child care, including age-appropriate immunizations.
 
+(E) Mental health and substance use disorder services (as defined in paragraph (5)).
+
 #### (2) Categories of additional services ####
 
 For purposes of this section, the categories of additional services described in this paragraph are as follows:
@@ -100,7 +102,15 @@ The actuarial value of coverage of benchmark benefit packages, coverage offered 
 
 The actuary preparing the opinion shall select and specify in the memorandum the standardized set and population to be used under subparagraphs (C) and (D).
 
-#### (5) Dental benefits ####
+#### (5) Mental health and substance use disorder services ####
+
+Regardless of the type of coverage elected by a State under subsection (a), child health assistance provided under such coverage for targeted low-income children and, in the case that the State elects to provide pregnancy-related assistance under such coverage pursuant to section 1397ll of this title, such pregnancy-related assistance for targeted low-income pregnant women (as defined in section 1397ll(d) of this title) shall—
+
+(A) include coverage of mental health services (including behavioral health treatment) necessary to prevent, diagnose, and treat a broad range of mental health symptoms and disorders, including substance use disorders; and
+
+(B) be delivered in a culturally and linguistically appropriate manner.
+
+#### (6) Dental benefits ####
 
 #### (A) In general ####
 
@@ -126,21 +136,21 @@ A dental benefits plan that is offered and generally available to State employee
 
 A dental benefits plan that has the largest insured commercial, non-medicaid enrollment of dependent covered lives of such plans that is offered in the State involved.
 
-#### (6) Mental health services parity ####
+#### (7) Mental health services parity ####
 
 #### (A) In general ####
 
-In the case of a State child health plan that provides both medical and surgical benefits and mental health or substance use disorder benefits, such plan shall ensure that the financial requirements and treatment limitations applicable to such mental health or substance use disorder benefits comply with the requirements of section 2705(a) of the Public Health Service Act <sup><a href="#1397cc_1_target" name="1397cc_1">1</a></sup> in the same manner as such requirements apply to a group health plan.
+A State child health plan shall ensure that the financial requirements and treatment limitations applicable to mental health and substance use disorder services (as described in paragraph (5)) provided under such plan comply with the requirements of section 300gg–26(a) of this title in the same manner as such requirements or limitations apply to a group health plan under such section.
 
 #### (B) Deemed compliance ####
 
 To the extent that a State child health plan includes coverage with respect to an individual described in section 1396d(a)(4)(B) of this title and covered under the State plan under section 1396a(a)(10)(A) of this title of the services described in section 1396d(a)(4)(B) of this title (relating to early and periodic screening, diagnostic, and treatment services defined in section 1396d(r) of this title) and provided in accordance with section 1396a(a)(43) of this title, such plan shall be deemed to satisfy the requirements of subparagraph (A).
 
-#### (7) Construction on prohibited coverage ####
+#### (8) Construction on prohibited coverage ####
 
 Nothing in this section shall be construed as requiring any health benefits coverage offered under the plan to provide coverage for items or services for which payment is prohibited under this subchapter, notwithstanding that any benchmark benefit package includes coverage for such an item or service.
 
-#### (8) Availability of coverage for items and services furnished through school-based health centers ####
+#### (9) Availability of coverage for items and services furnished through school-based health centers ####
 
 Nothing in this subchapter shall be construed as limiting a State's ability to provide child health assistance for covered items and services that are furnished through school-based health centers (as defined in section 1397jj(c)(9) of this title).
 
@@ -238,41 +248,7 @@ The State child health plan shall provide for the application of subsections (a)
 
 (Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90; Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), Oct. 24, 2018, 132 Stat. 3964, 3965.)
 
-#### Amendment of Section ####
-
-Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), (e), Oct. 24, 2018, 132 Stat. 3964, 3965, provided that, effective with respect to child health assistance provided on or after the date that is 1 year after Oct. 24, 2018, with exception if State legislation required, this section is amended:
-
-(1) in subsection (a), in the matter before paragraph (1), by striking "paragraphs (5), (6), and (7)" and inserting "paragraphs (5), (6), (7), and (8)"; and
-
-(2) in subsection (c)—
-
-(A) in paragraph (1), by adding at the end the following new subparagraph:
-
-*"(E) Mental health and substance use disorder services (as defined in paragraph (5))."*
-
-(B) by redesignating paragraphs (5), (6), (7), and (8) as paragraphs (6), (7), (8), and (9), respectively;
-
-(C) by inserting after paragraph (4) the following new paragraph:
-
-#### *"(5) Mental health and substance use disorder services* ####
-
-*"Regardless of the type of coverage elected by a State under subsection (a), child health assistance provided under such coverage for targeted low-income children and, in the case that the State elects to provide pregnancy-related assistance under such coverage pursuant to section 1397*ll of this title, such pregnancy-related assistance for targeted low-income pregnant women (as defined in section 1397ll(d) of this title) shall—
-
-*"(A) include coverage of mental health services (including behavioral health treatment) necessary to prevent, diagnose, and treat a broad range of mental health symptoms and disorders, including substance use disorders; and*
-
-*"(B) be delivered in a culturally and linguistically appropriate manner."; and*
-
-by amending paragraph (7)(A) to read as follows:
-
-#### *"(A) In general* ####
-
-*"A State child health plan shall ensure that the financial requirements and treatment limitations applicable to mental health and substance use disorder services (as described in paragraph (5)) provided under such plan comply with the requirements of section 300gg–26(a) of this title in the same manner as such requirements or limitations apply to a group health plan under such section."*
-
-See 2018 Amendment notes below.
-
 #### References in Text ####
-
-Section 2705 of the Public Health Service Act, referred to in subsec. (c)(6)(A), is section 2705 of act July 1, 1944, which was classified to section 300gg–5 of this title, was renumbered section 2726 and amended by Pub. L. 111–148, title I, §§1001(2), 1563(c)(4), formerly §1562(c)(4), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 911, and was transferred to section 300gg–26 of this title. A new section 2705 of act July 1, 1944, related to prohibiting discrimination against individual participants and beneficiaries based on health status, was added, effective for plan years beginning on or after Jan. 1, 2014, and amended by Pub. L. 111–148, title I, §1201(3), (4), Mar. 23, 2010, 124 Stat. 154, 156, and is classified to section 300gg–4 of this title.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
@@ -325,5 +301,3 @@ Pub. L. 111–3, title IV, §403(b), Feb. 4, 2009, 123 Stat. 84, provided that: 
 Amendment by section 501(a)(1) of Pub. L. 111–3 applicable to coverage of items and services furnished on or after Oct. 1, 2009, see section 501(a)(3) of Pub. L. 111–3, set out as a note under section 1397bb of this title.
 
 Pub. L. 111–3, title V, §504(b), Feb. 4, 2009, 123 Stat. 90, provided that: "The amendment made by subsection (a) [amending this section] shall apply to new coverage periods beginning on or after the date of the enactment of this Act [Feb. 4, 2009]."
-
-[<sup>1</sup> See References in Text note below.](#1397cc_1)
