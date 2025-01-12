@@ -84,7 +84,7 @@ Pub. L. 116–92, div. A, title V, §540, Dec. 20, 2019, 133 Stat. 1364, provide
 
 "(c) Rule of Construction.—Nothing in this section shall be construed to create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person."
 
-#### Enhancing the Capability of Military Criminal Investigative Organizations to Prevent and Combat Child Sexual Exploitation ####
+#### Enhancing the Capability of Military Criminal Investigative Organizations To Prevent and Combat Child Sexual Exploitation ####
 
 Pub. L. 116–92, div. A, title V, §550D, Dec. 20, 2019, 133 Stat. 1383, provided that:
 

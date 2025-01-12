@@ -186,7 +186,7 @@ Sec.
 
 #### Amendment of Analysis ####
 
-Pub. L. 116–92, div. A, title VII, §702(b)(3), (c), Dec. 20, 2019, 133 Stat. 1436, 1427, provided that, applicable to health care coverage beginning on or after Jan. 1, 2021, this analysis is amended by adding items 1097a and 1099 and by striking out former items 1097a "TRICARE Prime: automatic enrollments; payment options" and 1099 "Health care enrollment system". See 2019 Amendment note below.
+Pub. L. 116–92, div. A, title VII, §702(b)(3), (c), Dec. 20, 2019, 133 Stat. 1436, 1437, provided that, applicable to health care coverage beginning on or after Jan. 1, 2021, this analysis is amended by adding items 1097a "TRICARE Prime: automatic enrollments" and 1099 "Health care enrollment system and payment options" and by striking out former items 1097a "TRICARE Prime: automatic enrollments; payment options" and 1099 "Health care enrollment system". See 2019 Amendment note below.
 
 #### Amendments ####
 

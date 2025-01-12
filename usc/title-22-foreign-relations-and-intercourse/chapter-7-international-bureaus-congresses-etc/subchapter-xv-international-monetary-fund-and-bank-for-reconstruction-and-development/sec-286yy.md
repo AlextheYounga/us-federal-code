@@ -31,3 +31,49 @@ Another section 73 of the Bretton Woods Agreements Act was enacted by Pub. L. 11
 #### Effective Date of Repeal ####
 
 Pub. L. 116–92, div. F, title LXXI, §7124(b), Dec. 20, 2019, 133 Stat. 2249, provided that: "Effective on the date that is 10 years after the date of the enactment of this Act [Dec. 20, 2019], section 73 of the Bretton Woods Agreements Act [this section], as added by subsection (a), is repealed."
+
+#### Delegation of Certain Functions and Authorities Under the National Defense Authorization Act for Fiscal Year 2020 ####
+
+Memorandum of President of the United States, Feb. 21, 2020, 85 F.R. 13717, provided:
+
+Memorandum for the Secretary of State[,] the Secretary of the Treasury[,] the Secretary of Defense[,] the Secretary of Commerce[, and] the Director of National Intelligence
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby order as follows:
+
+Section 1. (a) I hereby delegate to the Secretary of State, in consultation with the Secretary of the Treasury, the functions and authorities vested in the President by the following provisions of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) (the "Act"):
+
+(i) section 7503(d) [22 U.S.C. 9526 note];
+
+(ii) section 7503(f) [22 U.S.C. 9526 note];
+
+(iii) section 7503(h) [22 U.S.C. 9526 note];
+
+(iv) section 7124, with respect to section 73 of the Bretton Woods Agreements Act (22 U.S.C. 286 et seq.) [22 U.S.C. 286yy], as amended by the Act;
+
+(v) section 7131 [22 U.S.C. 9265]; and
+
+(vi) section 7143, with respect to section 208 of the North Korea Sanctions and Policy Enhancement Act of 2016 (Public Law 114–122) (NKSPEA) [22 U.S.C. 9228], as amended by the Act.
+
+(b) I hereby delegate to the Secretary of the Treasury, in consultation with the Secretary of State, the functions and authorities vested in the President by the following provisions of the Act:
+
+(i) section 7503(c) [22 U.S.C. 9526 note];
+
+(ii) section 7503(g) [22 U.S.C. 9526 note];
+
+(iii) section 7121, with respect to section 201B of NKSPEA [22 U.S.C. 9221b], as amended by the Act; and
+
+(iv) section 7122, with respect to section 104(g) of NKSPEA [22 U.S.C. 9214(g)], as amended by the Act.
+
+(c) I hereby delegate to the Secretary of the Treasury and the Secretary of Commerce the functions and authorities vested in the President by section 7132 of the Act [22 U.S.C. 9265a].
+
+(d) I hereby delegate to the Secretary of the Treasury the functions and authorities vested in the President by section 7141 of the Act [22 U.S.C. 9269].
+
+(e) I hereby delegate to the Director of National Intelligence, in consultation with the Secretary of State and the Secretary of the Treasury, the functions and authorities vested in the President by section 7133 of the Act [133 Stat. 2253].
+
+(f) I hereby delegate to the Secretary of State, in consultation with the Secretary of Defense, the functions and authorities vested in the President by section 1227 of the Act [133 Stat. 1646].
+
+Sec. 2. The delegations in this memorandum shall apply to any provisions of any future public laws that are the same or substantially the same as those provisions referenced in this memorandum.
+
+Sec. 3. The Secretary of State is authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.

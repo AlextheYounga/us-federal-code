@@ -12,4 +12,4 @@ The following provisions of this title shall apply to officers in competitive ca
 
 #### Amendments ####
 
-**2019**—Subsec. (a). Pub. L. 116–92 struck out "(a) In General.—" before "The".
+**2019**—Pub. L. 116–92 struck out "(a) In General.—" before "The" in introductory provisions.

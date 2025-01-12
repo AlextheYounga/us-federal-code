@@ -10,4 +10,4 @@ III. Cost, Schedule, and Performance of Major Defense Acquisition Programs 2448a
 
 #### Amendments ####
 
-**2019**—Pub. L. 116–92, div. A, title XVII, §1731(a)(50), Dec. 20, 2019, 133 Stat. 1551, amended item relating to subchapter II generally. Prior to amendment, item relating to subchapter II read as follows: "Development, Prototyping, and Deployment of Weapon System Components and Technology".
+**2019**—Pub. L. 116–92, div. A, title XVII, §1731(a)(50), Dec. 20, 2019, 133 Stat. 1815, substituted "or Technology" for "and Technology" in item for subchapter II.

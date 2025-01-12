@@ -13,7 +13,7 @@ Chap. Sec.
 
 907. The Air Force 9061
 
-908. The Space Force 9081
+908. The Space Force 9081. 1
 
 ### **PART II—PERSONNEL** ###
 
@@ -118,3 +118,5 @@ Pub. L. 90–235, §8(6), Jan. 2, 1968, 81 Stat. 764, struck out item for chapte
 **1960**—Pub. L. 86–616, §§7(b), 8(b), July 12, 1960, 74 Stat. 393, 395, substituted "Substandard Performance of Duty" for "Failure to Meet Standards" in item for chapter 859 and added item for chapter 860.
 
 **1958**—Pub. L. 85–861, §1(193), Sept. 2, 1958, 72 Stat. 1538, substituted "8841" for "[No present sections]" in item for chapter 863.
+
+[<sup>1</sup> So in original. The period probably should not appear.](#PARTIanalysis_1)

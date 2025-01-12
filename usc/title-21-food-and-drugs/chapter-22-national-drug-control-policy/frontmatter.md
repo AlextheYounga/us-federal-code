@@ -18,7 +18,7 @@ Sec.
 
 1708. Emerging Threats Committee, plan, and media campaign.
 
-1708a. Annual report requirement.
+1708a. Repealed.
 
 1709. Repealed.
 

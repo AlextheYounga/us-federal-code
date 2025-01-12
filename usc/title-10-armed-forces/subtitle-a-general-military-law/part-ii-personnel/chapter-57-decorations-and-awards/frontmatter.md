@@ -76,7 +76,7 @@ Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
 **1965**—Pub. L. 89–198, §1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
 
-#### Development of Guidelines for Use of Unofficial Sources of Information to Determine Eligibility of Members and Former Members of the Armed Forces for Decorations When the Service Records Are Incomplete Because of Damage to the Official Record ####
+#### Development of Guidelines for Use of Unofficial Sources of Information To Determine Eligibility of Members and Former Members of the Armed Forces for Decorations When the Service Records Are Incomplete Because of Damage to the Official Record ####
 
 Pub. L. 116–92, div. A, title V, §528, Dec. 20, 2019, 133 Stat. 1357, provided that:
 

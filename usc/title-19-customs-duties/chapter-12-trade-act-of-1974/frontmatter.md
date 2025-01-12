@@ -16,7 +16,7 @@ Sec.
 
 2113. Overall negotiating objective.
 
-2114. Sector negotiating objectives.
+2114. Sector negotiating objective.
 
 2114a. Negotiating objectives with respect to trade in services, foreign direct investment, and high technology products.
 

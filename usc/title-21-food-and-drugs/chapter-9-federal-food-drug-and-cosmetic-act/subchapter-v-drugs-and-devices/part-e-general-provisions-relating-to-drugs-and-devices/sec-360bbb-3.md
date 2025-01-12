@@ -354,4 +354,20 @@ Subsec. (m). Pub. L. 113–5, §302(a)(9), added subsec. (m).
 
 **2004**—Pub. L. 108–276 amended section generally, substituting provisions of subsecs. (a) to (l) for similar former provisions, except for additional provisions in subsec. (b)(1) allowing Secretary to authorize use of medical products in actual or potential domestic and public health emergencies in addition to actual or potential military emergencies.
 
+#### Making General Use Respirators Available ####
+
+Memorandum of President of the United States, Mar. 11, 2020, 85 F.R. 15049, provided:
+
+Memorandum for the Secretary of Health and Human Services [and] the Secretary of Labor
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+It is the policy of the United States to take proactive measures to prepare for and respond to public health threats, including the public health emergency involving Coronavirus Disease 2019 (COVID–19), which was declared by the Secretary of Health and Human Services on February 4, 2020, pursuant to section 564 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb–3). We must ensure that our healthcare providers have full access to the products they need. On March 10, 2020, the Secretary of Health and Human Services took action by issuing a declaration pursuant to section 319F–3 of the Public Health Service Act (42 U.S.C. 247d–6d), which will help bring products necessary for addressing the epidemic to healthcare providers across the Nation. Unfortunately, at present, public health experts anticipate shortages in the supply of personal respiratory devices (respirators) available for use by healthcare workers in mitigating further transmission of COVID–19.
+
+To help prevent the spread of COVID–19, the Secretary of Health and Human Services shall take all appropriate and necessary steps with respect to general use respirators to facilitate their emergency use by healthcare personnel in healthcare facilities and elsewhere, including under the authorities granted by section 319F–3 of the Public Health Service Act (42 U.S.C. 247d–6d) and section 564 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb–3). Additionally, the Secretary of Labor shall consider all appropriate and necessary steps to increase the availability of respirators.
+
+The Secretary of Health and Human Services is authorized and directed to publish this memorandum in the Federal Register.
+
+Donald J. Trump.
+
 [<sup>1</sup> So in original. Probably should be followed by a comma.](#360bbb-3_1)

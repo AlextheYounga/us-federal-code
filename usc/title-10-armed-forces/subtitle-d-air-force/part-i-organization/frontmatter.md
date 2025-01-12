@@ -11,7 +11,7 @@ Chap. Sec.
 
 907. The Air Force 9061
 
-908. The Space Force 9081
+908. The Space Force 9081. 1
 
 #### Amendments ####
 
@@ -22,3 +22,5 @@ Chap. Sec.
 **1987**—Pub. L. 100–26, §7(j)(10)(B), Apr. 21, 1987, 101 Stat. 283, substituted "8011" for "8010" in item for chapter 803.
 
 **1980**—Pub. L. 96–513, title V, §514(1), Dec. 12, 1980, 94 Stat. 2935, substituted "8010" for "8011" in item for chapter 803.
+
+[<sup>1</sup> So in original. The period probably should not appear.](#PARTI_1)

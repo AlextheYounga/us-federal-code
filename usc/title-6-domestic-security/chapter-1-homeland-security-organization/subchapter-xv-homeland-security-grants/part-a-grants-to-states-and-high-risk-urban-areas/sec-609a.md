@@ -6,7 +6,7 @@ There is established in the Department a program to be known as the "Nonprofit S
 
 #### (b) Eligible recipients ####
 
-Eligible nonprofit organizations described in this subsection (a) are organizations that are—
+Eligible nonprofit organizations described in this <sup><a href="#609a_1_target" name="609a_1">1</a></sup> subsection (a) are organizations that are—
 
 (1) described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title; and
 
@@ -45,3 +45,5 @@ Of the amounts authorized to be appropriated pursuant to paragraph (1)—
 (B) $25 million is authorized for eligible recipients in jurisdictions not receiving funding under section 604 of this title.
 
 (Pub. L. 107–296, title XX, §2009, as added Pub. L. 116–108, §2(a), Jan. 24, 2020, 133 Stat. 3294.)
+
+[<sup>1</sup> So in original. The word "this" probably should not appear.](#609a_1)

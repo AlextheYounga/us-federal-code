@@ -58,16 +58,14 @@
 
 (2) not later than 180 days after the date on which such report under subsection (a) is submitted, submit to the congressional defense committees a summary of each such review.
 
-(As added and amended Pub. L. 116–92, div. A, title XVI, §1665(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1773, 1774.)
+(Added and amended Pub. L. 116–92, div. A, title XVI, §1665(c)(1), Dec. 20, 2019, 133 Stat. 1773.)
 
 #### Codification ####
 
-Section, as added and amended by Pub. L. 116–92, is based on Pub. L. 112–81, div. A, title X, §1043, Dec. 31, 2011, 125 Stat. 1576, as amended by Pub. L. 112–239, div. A, title X, §1041(a), Jan. 2, 2013, 126 Stat. 1931; Pub. L. 113–66, div. A, title X, §1054, Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title XVI, §1643, Dec. 19, 2014, 128 Stat. 3650; Pub. L. 115–91, div. A, title XVI, §1665, Dec. 12, 2017, 131 Stat. 1767; Pub. L. 115–232, div. A, title XVI, §1670, Aug. 13, 2018, 132 Stat. 2157, which was transferred to this chapter and renumbered as this section.
+Section, as added and amended by Pub. L. 116–92, is based on Pub. L. 112–81, div. A, title X, §1043, Dec. 31, 2011, 125 Stat. 1576, as amended by Pub. L. 112–239, div. A, title X, §1041(a), Jan. 2, 2013, 126 Stat. 1931; Pub. L. 113–66, div. A, title X, §1054, Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title XVI, §1643, Dec. 19, 2014, 128 Stat. 3650; Pub. L. 115–91, div. A, title XVI, §1665, Dec. 12, 2017, 131 Stat. 1767; Pub. L. 115–232, div. A, title XVI, §1670, Aug. 13, 2018, 132 Stat. 2157; Pub. L. 116–92, div. A, title XVI, §1665(a), (b), Dec. 20, 2019, 133 Stat. 1773, which was transferred to this chapter and renumbered as this section.
 
 #### Amendments ####
 
-**2019**—Pub. L. 116–92, §1665(c)(1), transferred section 1043 of Pub. L. 112–81, as amended, to this chapter and renumbered it as this section. See Codification note above.
+**2019**—Pub. L. 116–92, §1665(c)(1)(D), conformed section designation and catchline to the style of this title.
 
-Subsec. (a)(1). Pub. L. 116–92, §1665(a), substituted "2024" for "2023".
-
-Subsec. (b)(1)(B) to (D). Pub. L. 116–92, §1665(b), in subpar. (B) substituted ", including an estimate of the acquisition costs during such period for programs relating to such life extension, modernization, or replacement;" for "; and" at end, in subpar. (C) substituted "; and" for period at end, and added subpar. (D).
+Pub. L. 116–92, §1665(c)(1)(A)–(C), transferred section 1043 of Pub. L. 112–81, as amended, to this chapter and renumbered it as this section. See Codification note above.

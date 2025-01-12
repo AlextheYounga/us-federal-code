@@ -1,4 +1,4 @@
-### **CHAPTER 1 <sup><a href="#CHAPTER1&nbsp;_1_target" name="CHAPTER1&nbsp;_1">1</a></sup>**—COAST GUARD RESERVE ###
+### **CHAPTER 1—COAST GUARD RESERVE <sup><a href="#CHAPTER1_1_target" name="CHAPTER1_1">1</a></sup>** ###
 
 #### SUBCHAPTER I—ADMINISTRATION ####
 
@@ -92,4 +92,4 @@ Sec.
 
 **2018**—Pub. L. 115–282, title I, §118(a), Dec. 4, 2018, 132 Stat. 4232, inserted chapter 1 designation and heading and added items 3701 to 3757.
 
-[<sup>1</sup> So in original. Probably should be "37". Another chapter 1 is set out in subtitle I of this title.](#CHAPTER1 _1)
+[<sup>1</sup> So in original. Chapter probably should be numbered 37. Another chapter 1 is set out in subtitle I of this title.](#CHAPTER1_1)

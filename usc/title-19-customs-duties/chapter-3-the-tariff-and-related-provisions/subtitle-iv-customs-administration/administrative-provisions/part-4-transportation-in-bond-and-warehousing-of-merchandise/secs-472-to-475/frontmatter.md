@@ -10,4 +10,4 @@ The exception "except as otherwise specifically provided for" apparently refers 
 
 #### Savings Provision ####
 
-Act Aug. 8, 1953, ch. 397, §23, 67 Stat. 521, provided: "Except as may be otherwise provided for in this Act, the repeal of existing law or modifications thereof embraced in this Act shall not affect any act done, or any right accruing or accrued, or any suit or proceeding had or commenced in any civil or criminal case prior to such repeal or modification, but all liabilities under such laws shall continue, except as otherwise specifically provided in this Act, and may be enforced in the same manner as if such repeal, or modification had not been made."
+For savings provision generally providing that the repeal or modification of existing law by act Aug. 8, 1953, ch. 397, would not affect acts, rights, or civil or criminal proceedings commenced prior to such act, see section 23 of act Aug. 8, 1953, ch. 397, set out as a note under section 1304 of this title.

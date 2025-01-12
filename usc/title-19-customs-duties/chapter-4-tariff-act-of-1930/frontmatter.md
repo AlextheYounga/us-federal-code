@@ -232,7 +232,7 @@ Sec.
 
 1485. Declaration.
 
-1486. Administration of oaths.
+1486. Administration of oaths; verification of documents.
 
 1487. Value in entry; amendment.
 
@@ -322,7 +322,7 @@ Sec.
 
 #### Part IV—Transportation in Bond and Warehousing of Merchandise ####
 
-1551. Designation as carrier of bonded merchandise.
+1551. Bonding of carriers.
 
 1551a. Bonded cartmen or lightermen.
 
@@ -352,7 +352,7 @@ Sec.
 
 1562. Manipulation in warehouse.
 
-1563. Allowance for loss, abandonment of warehouse goods.
+1563. Allowance for loss; abandonment of warehouse goods.
 
 1564. Liens.
 
@@ -534,15 +534,15 @@ Sec.
 
 1671e. Assessment of duty.
 
-1671f. Treatment of difference between deposit of estimated countervailing duty and final assessed duty under countervailing duty orders.
+1671f. Treatment of difference between deposit of estimated countervailing duty and final assessed duty under countervailing duty order.
 
 1671g. Effect of derogation of Export-Import Bank financing.
 
-1671h. Conditional payment of countervailing duties.
+1671h. Conditional payment of countervailing duty.
 
 #### Part II—Imposition of Antidumping Duties ####
 
-1673. Imposition of antidumping duties.
+1673. Antidumping duties imposed.
 
 1673a. Procedures for initiating an antidumping duty investigation.
 

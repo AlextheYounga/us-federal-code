@@ -12,7 +12,7 @@
 
 #### Amendments ####
 
-**2019**—Subsec. (a). Pub. L. 116–92 inserted "separation or retirement" after "provided for the".
+**2019**—Subsec. (a). Pub. L. 116–92 inserted "separation or" after "provided for the".
 
 **2018**—Subsec. (a). Pub. L. 115–232, §506, substituted "grade O–2" for "grade O–4" and inserted "632," before "633,".
 

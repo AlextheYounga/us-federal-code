@@ -212,10 +212,6 @@ A prior section 247d, act July 1, 1944, ch. 373, title III, §319, as added Pub.
 
 Another prior section 247d, act July 1, 1944, ch. 373, title III, §319, formerly §310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592, and amended and renumbered, which related to migrant health centers, was renumbered section 329 of act July 1, 1944, by Pub. L. 95–626, title I, §102(a), Nov. 10, 1978, 92 Stat. 3551, and transferred to section 254b of this title, prior to being omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2.
 
-#### Change of Name ####
-
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
 #### Amendments ####
 
 **2019**—Subsec. (b)(1). Pub. L. 116–22, §206(1)(A), substituted "under such subsection or if the Secretary determines there is the significant potential for a public health emergency, to allow the Secretary to rapidly respond to the immediate needs resulting from such public health emergency or potential public health emergency. The Secretary shall plan for the expedited distribution of funds to appropriate agencies and entities." for "under such subsection."
@@ -237,6 +233,10 @@ Subsec. (e)(8). Pub. L. 116–22, §701(c), substituted "2023" for "2018".
 Pub. L. 107–188, §144(a), inserted at end of concluding provisions "Any such determination of a public health emergency terminates upon the Secretary declaring that the emergency no longer exists, or upon the expiration of the 90-day period beginning on the date on which the determination is made by the Secretary, whichever occurs first. Determinations that terminate under the preceding sentence may be renewed by the Secretary (on the basis of the same or additional facts), and the preceding sentence applies to each such renewal. Not later than 48 hours after making a determination under this subsection of a public health emergency (including a renewal), the Secretary shall submit to the Congress written notification of the determination."
 
 Subsec. (d). Pub. L. 107–188, §141, added subsec. (d).
+
+#### Change of Name ####
+
+Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 2002 Amendment ####
 

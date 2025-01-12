@@ -234,17 +234,19 @@ Pub. L. 112–240, title IX, §901(e), Jan. 2, 2013, 126 Stat. 2370, provided th
 
 " '(B) for the nonsecurity category, $499,000,000,000 in budget authority;'."
 
-#### Sequestration Order for Fiscal Year 2020 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended ####
+#### Sequestration Order for Fiscal Year 2021 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended ####
 
-Order of President of the United States, dated Mar. 18, 2019, 84 F.R. 10401, provided:
+Order of President of the United States, dated Feb. 10, 2020, 85 F.R. 8129, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2019, direct spending budgetary resources for fiscal year 2020 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 18, 2019.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2020, direct spending budgetary resources for fiscal year 2021 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of February 10, 2020.
 
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of March 18, 2019, prepared pursuant to section 251A(9) of the Act.
+All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of February 10, 2020, prepared pursuant to section 251A(9) of the Act.
 
 Donald J. Trump.
 
 Sequestration orders pursuant to this section for prior fiscal years were contained in the following:
+
+**2020**—Order of President of the United States, dated Mar. 18, 2019, 84 F.R. 10401.
 
 **2019**—Order of President of the United States, dated Feb. 12, 2018, 83 F.R. 6789.
 

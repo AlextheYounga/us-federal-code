@@ -118,7 +118,7 @@ Amendment by section 1081(c)(1)(B) of Pub. L. 115–91 effective immediately aft
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-#### Notice to Victims of Alleged Sexual Assault of Pendency of Further Administrative Action Following a Determination Not to Refer to Trial by Court-Martial ####
+#### Notice to Victims of Alleged Sexual Assault of Pendency of Further Administrative Action Following a Determination Not To Refer to Trial by Court-Martial ####
 
 Pub. L. 116–92, div. A, title V, §549, Dec. 20, 2019, 133 Stat. 1379, provided that: "Under regulations prescribed by the Secretary of Defense, upon a determination not to refer a case of alleged sexual assault for trial by court-martial under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), the commander making such determination shall periodically notify the victim of the status of a final determination on further action on such case, whether non-judicial punishment under section 815 of such title (article 15 of the Uniform Code of Military Justice), other administrative action, or no further action. Such notifications shall continue not less frequently than monthly until such final determination."
 
