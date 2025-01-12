@@ -64,7 +64,7 @@ Pursuant to the requirements under paragraph (1) of this subsection, a highest S
 
 #### (1) In general ####
 
-With respect to each of subparagraphs (A), (B), and (C) of subsection (b)(2) that refers to 1 or more grant purposes for which an application of a highest State court is approved under this section, the court shall be entitled to payment, for each of fiscal years 2017 through 2021, from the amount allocated under paragraph (3) of this subsection for grants for the purpose or purposes, of an amount equal to $85,000 plus the amount described in paragraph (2) of this subsection with respect to the purpose or purposes.
+With respect to each of subparagraphs (A), (B), and (C) of subsection (b)(2) that refers to 1 or more grant purposes for which an application of a highest State court is approved under this section, the court shall be entitled to payment, for each of fiscal years 2017 through 2022, from the amount allocated under paragraph (3) of this subsection for grants for the purpose or purposes, of an amount equal to $85,000 plus the amount described in paragraph (2) of this subsection with respect to the purpose or purposes.
 
 #### (2) Amount described ####
 
@@ -98,7 +98,75 @@ The Secretary shall allocate all of the amounts reserved under section 629g(b)(2
 
 Each highest State court which receives funds paid under this section may use such funds to pay not more than 75 percent of the cost of activities under this section in each of fiscal years 2017 through 2021.
 
-(Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §104, Sept. 30, 2011, 125 Stat. 374; Pub. L. 115–123, div. E, title VII, §§50741(c), 50752(d), (e), Feb. 9, 2018, 132 Stat. 256, 263.)
+(Aug. 14, 1935, ch. 531, title IV, §438, formerly Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; renumbered §438 of act Aug. 14, 1935, and amended Pub. L. 107–133, title I, §107, Jan. 17, 2002, 115 Stat. 2418; Pub. L. 109–171, title VII, §7401(a), Feb. 8, 2006, 120 Stat. 148; Pub. L. 109–239, §§8(b), 9, July 3, 2006, 120 Stat. 513; Pub. L. 109–288, §9, Sept. 28, 2006, 120 Stat. 1255; Pub. L. 111–242, §133(2), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §104, Sept. 30, 2011, 125 Stat. 374; Pub. L. 115–123, div. E, title VII, §§50741(c), 50752(d), (e), Feb. 9, 2018, 132 Stat. 256, 263; Pub. L. 116–260, div. X, §7(d), div. CC, title III, §305(b), Dec. 27, 2020, 134 Stat. 2414, 2994.)
+
+#### Amendment of Section ####
+
+Pub. L. 116–260, div. CC, title III, §305(b), (c), Dec. 27, 2020, 134 Stat. 2994, 2995, provided that, effective Oct. 1, 2021, this section is amended as follows:
+
+(1) in subsection (a)—
+
+(A) in paragraph (2)—
+
+(i) in subparagraph (A), by inserting "in a timely and complete manner" before ", as set forth";
+
+(ii) in subparagraph (C), by striking the semicolon and inserting ", including by training judges, attorneys, and other legal personnel."; and
+
+(B) by striking paragraphs (3) and (4);
+
+(2) in subsection (b)—
+
+(A) by striking paragraph (2);
+
+(B) by striking all that precedes "be eligible to receive" and inserting the following:
+
+#### *(b) Applications* ####
+
+*In order to; and*
+
+(C) in the matter preceding paragraph (2)—
+
+(i) by moving the matter 2 ems to the left;
+
+(ii) in subparagraph (A)—
+
+(I) by striking "(A) in the case of a grant for the purpose described in subsection (a)(3)," and inserting "(1)"; and
+
+ (II) by inserting "use not less than 30 percent of grant funds to" before "collaborate";
+
+(iii) in subparagraph (B), by striking "(B) in the case of a grant for the purpose described in subsection (a)(4)," and inserting "(2)"; and
+
+(iv) in subparagraph (C), by striking "(C) in the case of a grant for the purpose described in subsection (a)," and inserting "(3)";
+
+(3) by striking subsection (c) and inserting the following:
+
+#### *(c) Amount of grant* ####
+
+#### *(1) In general* ####
+
+*From the amounts reserved under sections 629f(b)(2) and 629g(b)(2) of this title for a fiscal year, each highest State court that has an application approved under this section for the fiscal year shall be entitled to payment of an amount equal to the sum of—*
+
+*(A) $255,000; and*
+
+*(B) the amount described in paragraph (2) with respect to the court and the fiscal year.*
+
+#### *(2) Amount described* ####
+
+*The amount described in this paragraph with respect to a court and a fiscal year is the amount that bears the same ratio to the total of the amounts reserved under sections 629f(b)(2) and 629g(b)(2) of this title for grants under this section for the fiscal year (after applying paragraphs (1)(A) and (3) of this subsection) as the number of individuals in the State in which the court is located who have not attained 21 years of age bears to the total number of such individuals in all States with a highest State court that has an approved application under this section for the fiscal year.*
+
+#### *(3) Indian tribes* ####
+
+*From the amounts reserved under section 629f(b)(2) of this title for a fiscal year, the Secretary shall, before applying paragraph (1) of this subsection, allocate $1,000,000 for grants to be awarded on a competitive basis among the highest courts of Indian tribes or tribal consortia that—*
+
+*(A) are operating a program under part E, in accordance with section 679c of this title;*
+
+*(B) are seeking to operate a program under part E and have received an implementation grant under section 676 of this title; or*
+
+*(C) have a court responsible for proceedings related to foster care or adoption.*
+
+(4) in subsection (d), by striking "2017 through 2021" and inserting "2018 through 2022".
+
+See 2020 Amendment notes below.
 
 #### References in Text ####
 
@@ -113,6 +181,28 @@ Section was formerly set out as a note under section 670 of this title prior to 
 A prior section 438 of act Aug. 14, 1935, was classified to section 638 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments ####
+
+**2020**—Subsec. (a)(2)(A). Pub. L. 116–260, §305(b)(1)(A)(i), inserted "in a timely and complete manner" before ", as set forth".
+
+Subsec. (a)(2)(C). Pub. L. 116–260, §305(b)(1)(A)(ii), substituted ", including by training judges, attorneys, and other legal personnel." for semicolon at end.
+
+Subsec. (a)(3), (4). Pub. L. 116–260, §305(b)(1)(B), struck out pars. (3) and (4) which read as follows:
+
+"(3) to ensure that the safety, permanence, and well-being needs of children are met in a timely and complete manner; and
+
+"(4)(A) to provide for the training of judges, attorneys and other legal personnel in child welfare cases; and
+
+(B) to increase and improve engagement of the entire family in court processes relating to child welfare, family preservation, family reunification, and adoption.".
+
+Subsec. (b). Pub. L. 116–260, §305(b)(2), designated par. (1) as text of section and struck out par. (1) heading "In general", redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and realigned margins, in par. (1), struck out "in the case of a grant for the purpose described in subsection (a)(3)," before "a description" and, inserted "use not less than 30 percent of grant funds to" before "collaborate", in par. (2), struck out "in the case of a grant for the purpose described in subsection (a)(4)," before "a demonstration", in par. (3), struck out "in the case of a grant for any purpose described in subsection (a)," before "a demonstration", and struck out former par. (2) which related to single grant application.
+
+Subsec. (c). Pub. L. 116–260, §305(b)(3), added subsec. (c) and struck out former subsec. (c) which related to amount of grant and allocation of mandatory and discretionary funds.
+
+Subsec. (c)(1). Pub. L. 116–260, §7(d), substituted "2022" for "2021".
+
+Subsec. (d). Pub. L. 116–260, §305(b)(4), substituted "2018 through 2022" for "2017 through 2021".
+
+Pub. L. 116–260, §7(d), which directed substitution of "2022" for "2021", was not executed in view of the amendment by Pub. L. 116–260, §305(b)(4), to reflect the probable intent of Congress. See above.
 
 **2018**—Subsec. (b)(1). Pub. L. 115–123, §50741(c), in introductory provisions, inserted "shall provide for the training of judges, attorneys, and other legal personnel in child welfare cases on Federal child welfare policies and payment limitations with respect to children in foster care who are placed in settings that are not a foster family home," after "with respect to the child,".
 
@@ -192,6 +282,10 @@ Subsec. (d). Pub. L. 107–133, §107(c), in heading substituted "Federal share"
 
 Subsec. (d)(2). Pub. L. 105–89, §305(a)(3)(B), substituted "1998, 1999, 2000, and 2001" for "and 1998".
 
+#### Effective Date of 2020 Amendment ####
+
+Amendment by section 305(b) of Pub. L. 116–260 effective Oct. 1, 2021, see section 305(c) of Pub. L. 116–260, set out as a note under section 629f of this title.
+
 #### Effective Date of 2018 Amendment ####
 
 Amendment by section 50741(c) of Pub. L. 115–123 effective as if enacted on Jan. 1, 2018, subject to transition rule and State waiver provisions, see section 50746 of Pub. L. 115–123, set out as a note under section 622 of this title.
@@ -221,6 +315,60 @@ Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if 
 #### Effective Date of 1997 Amendment ####
 
 Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
+
+#### Court Improvement Program ####
+
+Pub. L. 116–260, div. X, §7(a)–(c), Dec. 27, 2020, 134 Stat. 2413, 2414, provided that:
+
+"(a) Reservation of Funds.—Of the additional amounts made available by reason of section 6 of this Act [section 6 of div. X of Pub. L. 116–260, set out as a note under section 629d of this title], the Secretary shall reserve $10,000,000 for grants under subsection (b) of this section for fiscal year 2021, which shall be considered to be made under section 438 of the Social Security Act [42 U.S.C. 629h].
+
+"(b) Distribution of Funds.—
+
+"(1) In general.—From the amounts reserved under subsection (a) of this section, the Secretary shall—
+
+"(A) reserve not more than $500,000 for Tribal court improvement activities; and
+
+"(B) from the amount remaining after the application of subparagraph (A), make a grant to each highest State court that is approved to receive a grant under section 438 of the Social Security Act for the purpose described in section 438(a)(3) of such Act, for fiscal year 2021.
+
+"(2) Amount.—The amount of the grant awarded to a highest State court under this subsection shall be the sum of—
+
+"(A) $85,000; and
+
+"(B) the amount that bears the same ratio to the amount reserved under subsection (a) that remains after the application of paragraph (1)(A) and subparagraph (A) of this paragraph, as the number of individuals in the State in which the court is located who have not attained 21 years of age bears to the total number of such individuals in all States the highest courts of which were awarded a grant under this subsection (based on the most recent year for which data are available from the Bureau of the Census).
+
+"(3) Other rules.—
+
+"(A) In general.—The grants awarded to the highest State courts under this subsection shall be in addition to any grants made to the courts under section 438 of the Social Security Act for any fiscal year.
+
+"(B) No additional application.—The Secretary shall award grants to the highest State courts under this subsection without requiring the courts to submit an additional application.
+
+"(C) Reports.—The Secretary may establish reporting criteria specific to the grants awarded under this subsection.
+
+"(D) Redistribution of funds.—If a highest State court does not accept a grant awarded under this subsection, or does not agree to comply with any reporting requirements imposed under subparagraph (C) or the use of funds requirements specified in subsection (c), the Secretary shall redistribute the grant funds that would have been awarded to that court under this subsection among the other highest State courts that are awarded grants under this subsection and agree to comply with the reporting and use of funds requirements.
+
+"(E) No matching requirement.—The limitation on the use of funds specified in section 438(d) of such Act shall not apply to the grants awarded under this section.
+
+"(c) Use of Funds.—A highest State court awarded a grant under subsection (b) shall use the grant funds to address needs stemming from the COVID–19 public health emergency, which may include any of the following:
+
+"(1) Technology investments to facilitate the transition to remote hearings for dependency courts when necessary as a direct result of the COVID–19 public health emergency.
+
+"(2) Training for judges, attorneys, and caseworkers on facilitating and participating in remote hearings that comply with due process and all applicable law, ensure child safety and well-being, and help inform judicial decision-making.
+
+"(3) Programs to help families address aspects of the case plan to avoid delays in legal proceedings that would occur as a direct result of the COVID–19 public health emergency.
+
+"(4) Other purposes to assist courts, court personnel, or related staff related to the COVID–19 public health emergency."
+
+[For definitions of "COVID–19 public health emergency" and "Secretary" as used in section 7(a)–(c) of div. X of Pub. L. 116–260, set out above, see section 2 of div. X of Pub. L. 116–260, set out as a note below.]
+
+#### Definitions ####
+
+Pub. L. 116–260, div. X, §2, Dec. 27, 2020, 134 Stat. 2409, provided that: "In this Act [div. X of Pub. L. 116–260, see Short Title of 2020 Amendment note set out under section 1305 of this title]:
+
+"(1) COVID–19 public health emergency.—The term 'COVID–19 public health emergency' means the public health emergency declared by the Secretary pursuant to section 319 of the Public Health Service Act [42 U.S.C. 247d], entitled 'Determination that a Public Health Emergency Exists Nationwide as the Result of the 2019 Novel Coronavirus'.
+
+"(2) COVID–19 public health emergency period.—The term 'COVID–19 public health emergency period' means the period beginning on April 1, 2020 and ending with September 30, 2021.
+
+"(3) Secretary.—The term 'Secretary' means the Secretary of Health and Human Services."
 
 [<sup>1</sup> So in original. Probably should be followed by "and".](#629h_1)
 

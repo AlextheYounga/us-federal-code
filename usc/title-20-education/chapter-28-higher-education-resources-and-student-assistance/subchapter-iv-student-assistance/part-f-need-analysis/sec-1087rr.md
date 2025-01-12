@@ -74,9 +74,85 @@ For each award year after award year 1993–1994, the Secretary shall publish in
 
 For each award year after award year 1993–1994, the Secretary shall publish in the Federal Register a revised table of employment expense allowances for the purpose of sections 1087oo(c)(5), 1087pp(b)(4), and 1087qq(b)(5) of this title. Such revised table shall be developed by increasing the dollar amount specified in sections 1087oo(c)(5)(A), 1087oo(c)(5)(B), 1087pp(b)(4)(A), 1087qq (b)(5)(A), and 1087qq(b)(5)(B) of this title to reflect increases in the amount and percent of the Bureau of Labor Statistics budget of the marginal costs for food away from home, apparel, transportation, and household furnishings and operations for a two-worker versus one-worker family.
 
-(Pub. L. 89–329, title IV, §478, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1470; amended Pub. L. 100–50, §14(20)–(22), June 3, 1987, 101 Stat. 351, 352; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 602; Pub. L. 103–208, §2(g)(8), (9), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §476, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(d), (e), Feb. 8, 2006, 120 Stat. 173, 174; Pub. L. 110–84, title VI, §601(d), Sept. 27, 2007, 121 Stat. 803.)
+(Pub. L. 89–329, title IV, §478, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1470; amended Pub. L. 100–50, §14(20)–(22), June 3, 1987, 101 Stat. 351, 352; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 602; Pub. L. 103–208, §2(g)(8), (9), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §476, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(d), (e), Feb. 8, 2006, 120 Stat. 173, 174; Pub. L. 110–84, title VI, §601(d), Sept. 27, 2007, 121 Stat. 803; Pub. L. 116–260, div. FF, title VII, §702(g), Dec. 27, 2020, 134 Stat. 3150.)
+
+#### Amendment of Section ####
+
+Pub. L. 116–260, div. FF, title VII, §§701(b), 702(g), Dec. 27, 2020, 134 Stat. 3137, 3150, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+
+#### §1087rr. Regulations; updated tables ####
+
+#### *(a) Authority to prescribe regulations restricted* ####
+
+*Notwithstanding any other provision of law, the Secretary shall not have the authority to prescribe regulations to carry out this part except—*
+
+*(1) to prescribe updated tables in accordance with subsections (b) through (g); and*
+
+*(2) with respect to the definition of cost of attendance under section 1087ll of this title, excluding section 1087ll(a)(1) of this title.*
+
+#### *(b) Income protection allowance adjustments* ####
+
+*For award year 2023–2024 and each subsequent award year, the Secretary shall publish in the Federal Register revised income protection allowances for the purposes of subsections (c)(3) and (g)(2)(C) of section 1087oo of this title, subclauses (I) and (II) of section 1087pp(b)(1)(A)(iii) of this title, and section 1087qq(b)(3) of this title, by increasing the income protection allowances in each of such provisions, by a percentage equal to the percentage increase in the Consumer Price Index, as defined in subsection (f), between April 2020 and the April in the year prior to the beginning of the award year and rounding the result to the nearest $10.*
+
+#### *(c) Adjusted net worth of a farm or business* ####
+
+#### *(1) Table* ####
+
+*The table of the net worth of a farm or business for purposes of making determinations of assets as defined under section 1087vv(f) of this title is the following:*
+
+|If the net worth of a farm or business is—|      Then the adjusted net worth is—      |
+|------------------------------------------|-------------------------------------------|
+|               Less than $1               |                    $0                     |
+|              $1 to $140,000              |     40% of net worth of farm/business     |
+|           $140,001 to $415,000           | $56,000 + 50% of net worth over $140,000  |
+|           $415,001 to $695,000           | $193,500 + 60% of net worth over $415,000 |
+|             $695,001 or more             |$361,500 + 100% of net worth over $695,000.|
+
+#### *(2) Revised tables* ####
+
+*For award year 2023–2024 and each subsequent award year, the Secretary shall publish in the Federal Register a revised table of the adjusted net worth of a farm or business for purposes of section 1087vv(f) of this title. Such revised table shall be developed—*
+
+*(A) by increasing each dollar amount that refers to net worth of a farm or business by a percentage equal to the percentage increase in the Consumer Price Index between April 2020 and the April in the year prior to the beginning of such award year, and rounding the result to the nearest $5,000; and*
+
+*(B) by adjusting the dollar amounts in the column referring to the adjusted net worth to reflect the changes made pursuant to subparagraph (A).*
+
+#### *(d) Asset protection allowance* ####
+
+*For award year 2023–2024 and each subsequent award year, the Secretary shall publish in the Federal Register a revised table of allowances for the purpose of sections 1087oo(d)(2), 1087pp(c)(2), and 1087qq(c)(2) of this title. Such revised table shall be developed by determining the present value cost, rounded to the nearest $100, of an annuity that would provide, for each age cohort of 40 and above, a supplemental income at age 65 (adjusted for inflation) equal to the difference between the moderate family income (as most recently determined by the Bureau of Labor Statistics), and the current average social security retirement benefits. For each age cohort below 40, the allowance shall be computed by decreasing the allowance for age 40, as updated, by one-fifteenth for each year of age below age 40 and rounding the result to the nearest $100. In making such determinations—*
+
+*(1) the tables of allowances specified in sections 1087oo(d)(2), 1087pp(c)(2), and 1087qq(c)(2) of this title shall be considered to be for award year 2021–2022 for the purposes of calculating inflation;*
+
+*(2) inflation shall be presumed to be 6 percent per year;*
+
+*(3) the rate of return of an annuity shall be presumed to be 8 percent; and*
+
+*(4) the sales commission on an annuity shall be presumed to be 6 percent.*
+
+#### *(e) Assessment schedules and rates* ####
+
+*For award year 2023–2024 and each subsequent award year, the Secretary shall publish in the Federal Register a revised table of assessments from adjusted available income for the purpose of sections 1087oo(e) and 1087qq(d) of this title. Such revised table shall be developed—*
+
+*(1) by increasing each dollar amount that refers to adjusted available income by a percentage equal to the percentage increase in the Consumer Price Index between April 2020 and the April in the year prior to the beginning of such academic year, rounded to the nearest $100; and*
+
+*(2) by adjusting the other dollar amounts to reflect the changes made pursuant to paragraph (1).*
+
+#### *(f) Consumer price index defined* ####
+
+*In this section, the term "Consumer Price Index" means the Consumer Price Index for All Urban Consumers published by the Department of Labor. Each annual update of tables to reflect changes in the Consumer Price Index shall be corrected for misestimation of actual changes in such Index in previous years.*
+
+#### *(g) Employment expense allowance* ####
+
+*For award year 2023–2024 and each succeeding award year, the Secretary shall publish in the Federal Register a revised table of employment expense allowances for the purpose of sections 1087oo(c)(4), 1087pp(b)(3), and 1087qq(b)(4) of this title. Such revised table shall be developed by increasing the dollar amount specified in sections 1087oo(c)(4), 1087pp(b)(3), and 1087qq(b)(4) of this title by a percentage equal to the percentage increase in the Consumer Price Index, as defined in subsection (f), between April 2020 and the April in the year prior to the beginning of the award year and rounding the result to the nearest $10.*
+
+#### *(h) Clarification for award year 2023–2024* ####
+
+*For award year 2023–2024, the Secretary shall determine adjusted amounts and prescribe revised tables with respect to the income protection, employment expense, and asset protection allowances and the assessment schedules under sections 1087oo, 1087pp, and 1087qq of this title, pursuant to this section. The amounts and tables specified in sections 1087oo, 1087pp, and 1087qq of this title with respect to such allowances and schedules shall only be used by the Secretary as a baseline for adjustments and table revisions prescribed in accordance with this section.*
+
+See 2020 Amendment note below.
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–260 amended section generally. Prior to amendment, section related to authority to update certain tables, including a revised table of State and other tax allowances, and authority to propose modifications in need analysis methodology.
 
 **2007**—Subsec. (b)(1). Pub. L. 110–84, §601(d)(1), added par. (1) and struck out former par. (1). Prior to amendment, par. (1) required the Secretary to publish in the Federal Register, for each academic year after academic year 1993–1994, a revised table of income protection allowances for the purpose of sections 1087oo(c)(4) and 1087qq(b)(4) of this title.
 
@@ -105,6 +181,10 @@ Subsec. (h). Pub. L. 103–208, §2(g)(8)(A), (9), substituted "1993–1994" for
 Subsec. (d). Pub. L. 100–50, §14(20), inserted ", rounded to the nearest $100," after "present value cost" and "of 40 and above" after "each age cohort" in second sentence and, after second sentence, inserted "For each age cohort below 40, the asset protection allowance shall be computed by decreasing the asset protection allowance for age 40, as updated, by one-fifteenth for each year of age below age 40 and rounding the result to the nearest $100."
 
 Subsec. (f). Pub. L. 100–50, §14(22), substituted "Consumer Price Index for All Urban Consumers" for "Consumer Price Index for Wage Earners and Clerical Workers".
+
+#### Effective Date of 2020 Amendment ####
+
+Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2007 Amendment ####
 

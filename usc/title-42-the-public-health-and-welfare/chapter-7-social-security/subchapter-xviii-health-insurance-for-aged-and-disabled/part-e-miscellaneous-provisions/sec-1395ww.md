@@ -768,7 +768,7 @@ The Secretary may from time to time revise (through addition or deletion of code
 
 (II) Effective for discharges occurring on or after July 1, 2010, all the time spent by an intern or resident in patient care activities in a nonprovider setting shall be counted towards the determination of full-time equivalency if a hospital incurs the costs of the stipends and fringe benefits of the intern or resident during the time the intern or resident spends in that setting. If more than one hospital incurs these costs, either directly or through a third party, such hospitals shall count a proportional share of the time, as determined by written agreement between the hospitals, that a resident spends training in that setting.
 
-(v) In determining the adjustment with respect to a hospital for discharges occurring on or after October 1, 1997, the total number of full-time equivalent interns and residents in the fields of allopathic and osteopathic medicine in either a hospital or nonhospital setting may not exceed the number (or, 130 percent of such number in the case of a hospital located in a rural area) of such full-time equivalent interns and residents in the hospital with respect to the hospital's most recent cost reporting period ending on or before December 31, 1996. Rules similar to the rules of subsection (h)(4)(F)(ii) shall apply for purposes of this clause. The provisions of subsections (h)(4)(H)(vi), (h)(7), and (h)(8) shall apply with respect to the first sentence of this clause in the same manner as they apply with respect to subsection (h)(4)(F)(i).
+(v) In determining the adjustment with respect to a hospital for discharges occurring on or after October 1, 1997, the total number of full-time equivalent interns and residents in the fields of allopathic and osteopathic medicine in either a hospital or nonhospital setting may not exceed the number (or, 130 percent of such number in the case of a hospital located in a rural area) of such full-time equivalent interns and residents in the hospital with respect to the hospital's most recent cost reporting period ending on or before December 31, 1996. Rules similar to the rules of subsection (h)(4)(F)(ii) shall apply for purposes of this clause. The provisions of subsections (h)(4)(H)(vi), (h)(7), (h)(8), and (h)(9) shall apply with respect to the first sentence of this clause in the same manner as they apply with respect to subsection (h)(4)(F)(i).
 
 (vi) For purposes of clause (ii)—
 
@@ -780,13 +780,13 @@ In the case of the first cost reporting period beginning on or after October 1, 
 
 (vii) If any cost reporting period beginning on or after October 1, 1997, is not equal to twelve months, the Secretary shall make appropriate modifications to ensure that the average full-time equivalent residency count pursuant to subclause (II) of clause (vi) is based on the equivalent of full twelve-month cost reporting periods.
 
-(viii) Rules similar to the rules of subsection (h)(4)(H) shall apply for purposes of clauses (v) and (vi).
+(viii) Rules similar to the rules of paragraphs (2)(F)(iv) and (4)(H) of subsection (h) shall apply for purposes of clauses (v) and (vi).
 
 (ix) For discharges occurring on or after July 1, 2005, insofar as an additional payment amount under this subparagraph is attributable to resident positions redistributed to a hospital under subsection (h)(7)(B), in computing the indirect teaching adjustment factor under clause (ii) the adjustment shall be computed in a manner as if "c" were equal to 0.66 with respect to such resident positions.
 
-(x) <sup><a href="#1395ww_5_target" name="1395ww_5">5</a></sup> For discharges occurring on or after July 1, 2011, insofar as an additional payment amount under this subparagraph is attributable to resident positions distributed to a hospital under subsection (h)(8)(B), the indirect teaching adjustment factor shall be computed in the same manner as provided under clause (ii) with respect to such resident positions.
+(x)For discharges occurring on or after July 1, 2011, insofar as an additional payment amount under this subparagraph is attributable to resident positions distributed to a hospital under subsection (h)(8)(B), the indirect teaching adjustment factor shall be computed in the same manner as provided under clause (ii) with respect to such resident positions.
 
-(x)(I) <sup><a href="#1395ww_5_target" name="1395ww_5">5</a></sup> The provisions of subparagraph (K) of subsection (h)(4) shall apply under this subparagraph in the same manner as they apply under such subsection.
+(xi)(I) The provisions of subparagraph (K) of subsection (h)(4) shall apply under this subparagraph in the same manner as they apply under such subsection.
 
 (II) In determining the hospital's number of full-time equivalent residents for purposes of this subparagraph, all the time spent by an intern or resident in an approved medical residency training program in non-patient care activities, such as didactic conferences and seminars, as such time and activities are defined by the Secretary, that occurs in the hospital shall be counted toward the determination of full-time equivalency if the hospital—
 
@@ -799,6 +799,8 @@ In the case of the first cost reporting period beginning on or after October 1, 
 (dd) is a provider-based hospital outpatient department.
 
 (III) In determining the hospital's number of full-time equivalent residents for purposes of this subparagraph, all the time spent by an intern or resident in an approved medical residency training program in research activities that are not associated with the treatment or diagnosis of a particular patient, as such time and activities are defined by the Secretary, shall not be counted toward the determination of full-time equivalency.
+
+(xii) For discharges occurring on or after July 1, 2023, insofar as an additional payment amount under this subparagraph is attributable to resident positions distributed to a hospital under subsection (h)(9), the indirect teaching adjustment factor shall be computed in the same manner as provided under clause (ii) with respect to such resident positions.
 
 (C)(i) The Secretary shall provide for such exceptions and adjustments to the payment amounts established under this subsection (other than under paragraph (9)) as the Secretary deems appropriate to take into account the special needs of regional and national referral centers (including those hospitals of 275 or more beds located in rural areas). A hospital which is classified as a rural hospital may appeal to the Secretary to be classified as a rural referral center under this clause on the basis of criteria (established by the Secretary) which shall allow the hospital to demonstrate that it should be so reclassified by reason of certain of its operating characteristics being similar to those of a typical urban hospital located in the same census region and which shall not require a rural osteopathic hospital to have more than 3,000 discharges in a year in order to be classified as a rural referral center. Such characteristics may include wages, scope of services, service area, and the mix of medical specialties. The Secretary shall publish the criteria not later than August 17, 1984, for implementation by October 1, 1984. An appeal allowed under this clause must be submitted to the Secretary (in such form and manner as the Secretary may prescribe) during the quarter before the first quarter of the hospital's cost reporting period (or, in the case of a cost reporting period beginning during October 1984, during the first quarter of that period), and the Secretary must make a final determination with respect to such appeal within 60 days after the date the appeal was submitted. Any payment adjustments necessitated by a reclassification based upon the appeal shall be effective at the beginning of such cost reporting period.
 
@@ -890,7 +892,7 @@ In determining under subclause (II) the number of the hospital's patient days fo
 
 (a) for discharges occurring on or after April 1, 1990, and on or before December 31, 1990, (P−15)(.6) + 2.5,
 
-(b) for discharges occurring on or after January 1, 1991, and on or before September 30, 1993, (P−15)(.6) + 2.5,<sup><a href="#1395ww_6_target" name="1395ww_6">6</a></sup>
+(b) for discharges occurring on or after January 1, 1991, and on or before September 30, 1993, (P−15)(.6) + 2.5,<sup><a href="#1395ww_5_target" name="1395ww_5">5</a></sup>
 
 (c) for discharges occurring on or after October 1, 1993, (P−15)(.65) + 2.5,
 
@@ -1226,7 +1228,7 @@ As used in this section, the term "subsection (d) Puerto Rico hospital" means a 
 
 (iii)(I) The Board shall render a decision on an application submitted under clause (i) not later than 180 days after the deadline referred to in clause (ii).
 
-(II) Appeal of decisions of the Board shall be subject to the provisions of section 557b <sup><a href="#1395ww_7_target" name="1395ww_7">7</a></sup> of title 5. The Secretary shall issue a decision on such an appeal not later than 90 days after the date on which the appeal is filed. The decision of the Secretary shall be final and shall not be subject to judicial review.
+(II) Appeal of decisions of the Board shall be subject to the provisions of section 557b <sup><a href="#1395ww_6_target" name="1395ww_6">6</a></sup> of title 5. The Secretary shall issue a decision on such an appeal not later than 90 days after the date on which the appeal is filed. The decision of the Secretary shall be final and shall not be subject to judicial review.
 
 (D)(i) The Secretary shall publish guidelines to be utilized by the Board in rendering decisions on applications submitted under this paragraph, and shall include in such guidelines the following:
 
@@ -1300,11 +1302,11 @@ As used in this section, the term "subsection (d) Puerto Rico hospital" means a 
 
 (I) a subsection (d) hospital of the Indian Health Service (whether operated by such Service or by an Indian tribe or tribal organization (as those terms are defined in section 1603 of title 25)), or
 
-(II) a subsection (d) hospital other than a hospital of the Indian Health Service meets the mileage criterion under clause (i) with respect to fiscal year 2011 or a succeeding fiscal year, the Secretary shall apply the policy described in the regulation at part <sup><a href="#1395ww_8_target" name="1395ww_8">8</a></sup> 412.101(e) of title 42, Code of Federal Regulations (as in effect on March 23, 2018).
+(II) a subsection (d) hospital other than a hospital of the Indian Health Service meets the mileage criterion under clause (i) with respect to fiscal year 2011 or a succeeding fiscal year, the Secretary shall apply the policy described in the regulation at part <sup><a href="#1395ww_7_target" name="1395ww_7">7</a></sup> 412.101(e) of title 42, Code of Federal Regulations (as in effect on March 23, 2018).
 
 (D) Temporary applicable percentage increase.—For discharges occurring in fiscal years 2011 through 2022, the Secretary shall determine an applicable percentage increase for purposes of subparagraph (A) using a continuous linear sliding scale ranging from 25 percent for low-volume hospitals—
 
-(i) with respect to each of fiscal years 2011 through 2018, with 200 or fewer discharges of individuals entitled to, or enrolled for, benefits under part A in the fiscal year or the portion of fiscal year to 0 percent for low-volume hospitals with greater than 1,600 discharges of such individuals in the fiscal year or the portion of fiscal year or portion of fiscal year; <sup><a href="#1395ww_9_target" name="1395ww_9">9</a></sup> and
+(i) with respect to each of fiscal years 2011 through 2018, with 200 or fewer discharges of individuals entitled to, or enrolled for, benefits under part A in the fiscal year or the portion of fiscal year to 0 percent for low-volume hospitals with greater than 1,600 discharges of such individuals in the fiscal year or the portion of fiscal year or portion of fiscal year; <sup><a href="#1395ww_8_target" name="1395ww_8">8</a></sup> and
 
 (ii) with respect to each of fiscal years 2019 through 2022, with 500 or fewer discharges in the fiscal year to 0 percent for low-volume hospitals with greater than 3,800 discharges in the fiscal year.
 
@@ -1542,7 +1544,21 @@ The locality adjusted national per resident amount for a hospital for—
 
 #### (F) Treatment of certain hospitals ####
 
-In the case of a hospital that did not have an approved medical residency training program or was not participating in the program under this subchapter for a cost reporting period beginning during fiscal year 1984, the Secretary shall, for the first such period for which it has such a residency training program and is participating under this subchapter, provide for such approved FTE resident amount as the Secretary determines to be appropriate, based on approved FTE resident amounts for comparable programs.
+(i) In the case of a hospital that did not have an approved medical residency training program or was not participating in the program under this subchapter for a cost reporting period beginning during fiscal year 1984, the Secretary shall, for the first such period for which it has such a residency training program and is participating under this subchapter, provide for such approved FTE resident amount as the Secretary determines to be appropriate, based on approved FTE resident amounts for comparable programs.
+
+(ii) In applying this subparagraph in the case of a hospital that trains residents and has not entered into a GME affiliation agreement (as defined by the Secretary for purposes of paragraph (4)(H)(ii)), on or after December 27, 2020, the Secretary shall not establish an FTE resident amount until such time as the Secretary determines that the hospital has trained at least 1.0 full-time-equivalent resident in an approved medical residency training program in a cost reporting period.
+
+(iii) In applying this subparagraph for cost reporting periods beginning on or after December 27, 2020, in the case of a hospital that, as of such date, has an approved FTE resident amount based on the training in an approved medical residency program or programs of—
+
+(I) less than 1.0 full-time-equivalent resident in any cost reporting period beginning before October 1, 1997, as determined by the Secretary; or
+
+(II) no more than 3.0 full-time-equivalent residents in any cost reporting period beginning on or after October 1, 1997, and before December 27, 2020, as determined by the Secretary,
+
+in lieu of such FTE resident amount the Secretary shall, in accordance with the methodology described in section 413.77(e) of title 42 of the Code of Federal Regulations (or any successor regulation), establish a new FTE resident amount if the hospital trains at least 1.0 full-time-equivalent resident (in the case of a hospital described in subclause (I)) or more than 3.0 full-time-equivalent residents (in the case of a hospital described in subclause (II)) in a cost reporting period beginning on or after such date and before the date that is 5 years after such date.
+
+(iv) For purposes of carrying out this subparagraph for cost reporting periods beginning on or after December 27, 2020, a hospital shall report full-time-equivalent residents on its cost report for a cost reporting period if the hospital trains at least 1.0 full-time-equivalent residents in an approved medical residency training program or programs in such period.
+
+(v) As appropriate, the Secretary may consider information from any cost reporting period necessary to establish a new FTE resident amount as described in clause (iii).
 
 #### (3) Hospital payment amount per resident ####
 
@@ -1646,7 +1662,7 @@ On or after July 1, 1986, but before July 1, 1987, in the case of a foreign medi
 
 Subject to subparagraphs (J) and (K), such rules shall provide that only time spent in activities relating to patient care shall be counted and that—
 
-(i) effective for cost reporting periods beginning before July 1, 2010, all the time; <sup><a href="#1395ww_10_target" name="1395ww_10">10</a></sup> so spent by a resident under an approved medical residency training program shall be counted towards the determination of full-time equivalency, without regard to the setting in which the activities are performed, if the hospital incurs all, or substantially all, of the costs for the training program in that setting; and
+(i) effective for cost reporting periods beginning before July 1, 2010, all the time; <sup><a href="#1395ww_9_target" name="1395ww_9">9</a></sup> so spent by a resident under an approved medical residency training program shall be counted towards the determination of full-time equivalency, without regard to the setting in which the activities are performed, if the hospital incurs all, or substantially all, of the costs for the training program in that setting; and
 
 (ii) effective for cost reporting periods beginning on or after July 1, 2010, all the time so spent by a resident shall be counted towards the determination of full-time equivalency, without regard to the setting in which the activities are performed, if a hospital incurs the costs of the stipends and fringe benefits of the resident during the time the resident spends in that setting. If more than one hospital incurs these costs, either directly or through a third party, such hospitals shall count a proportional share of the time, as determined by written agreement between the hospitals, that a resident spends training in that setting.
 
@@ -1656,7 +1672,7 @@ Any hospital claiming under this subparagraph for time spent in a nonprovider se
 
 #### (i) In general ####
 
-Such rules shall provide that for purposes of a cost reporting period beginning on or after October 1, 1997, subject to paragraphs (7) and (8), the total number of full-time equivalent residents before application of weighting factors (as determined under this paragraph) with respect to a hospital's approved medical residency training program in the fields of allopathic medicine and osteopathic medicine may not exceed the number (or, 130 percent of such number in the case of a hospital located in a rural area) of such full-time equivalent residents for the hospital's most recent cost reporting period ending on or before December 31, 1996.
+Such rules shall provide that for purposes of a cost reporting period beginning on or after October 1, 1997, subject to paragraphs (7), (8), and (9), the total number of full-time equivalent residents before application of weighting factors (as determined under this paragraph) with respect to a hospital's approved medical residency training program in the fields of allopathic medicine and osteopathic medicine may not exceed the number (or, 130 percent of such number in the case of a hospital located in a rural area) of such full-time equivalent residents for the hospital's most recent cost reporting period ending on or before December 31, 1996.
 
 #### (ii) Counting primary care residents on certain approved leaves of absence in base year FTE count ####
 
@@ -1686,7 +1702,15 @@ In the case of a hospital's first cost reporting period beginning on or after Oc
 
 #### (i) New facilities ####
 
-The Secretary shall, consistent with the principles of subparagraphs (F) and (G) and subject to paragraphs (7) and (8), prescribe rules for the application of such subparagraphs in the case of medical residency training programs established on or after January 1, 1995. In promulgating such rules for purposes of subparagraph (F), the Secretary shall give special consideration to facilities that meet the needs of underserved rural areas.
+(I) The Secretary shall, consistent with the principles of subparagraphs (F) and (G) and subject to paragraphs (7), (8), and (9), prescribe rules for the application of such subparagraphs in the case of medical residency training programs established on or after January 1, 1995. In promulgating such rules for purposes of subparagraph (F), the Secretary shall give special consideration to facilities that meet the needs of underserved rural areas.
+
+(II) In applying this clause in the case of a hospital that, on or after December 27, 2020, begins training residents in a new approved medical residency training program or programs (as defined by the Secretary), the Secretary shall not determine a limitation applicable to the hospital under subparagraph (F) until such time as the Secretary determines that the hospital has trained at least 1.0 full-time-equivalent resident in such new approved medical residency training program or programs in a cost reporting period.
+
+(III) In applying this clause in the case of a hospital that, as of December 27, 2020, has a limitation under subparagraph (F), based on a cost reporting period beginning before October 1, 1997, of less than 1.0 full-time-equivalent resident, the Secretary shall adjust the limitation in the manner applicable to a new approved medical residency training program if the Secretary determines the hospital begins training at least 1.0 full-time-equivalent residents in a program year beginning on or after such date and before the date that is 5 years after such date.
+
+(IV) In applying this clause in the case of a hospital that, as of December 27, 2020, has a limitation under subparagraph (F), based on a cost reporting period beginning on or after October 1, 1997, and before such date, of no more than 3.0 full-time-equivalent residents, the Secretary shall adjust the limitation in the manner applicable to a new approved medical residency training program if the Secretary determines the hospital begins training more than 3.0 full-time-equivalent residents in a program year beginning on or after such date and before the date that is 5 years after such date.
+
+(V) An adjustment to the limitation applicable to a hospital made pursuant to subclause (III) or (IV) shall be made in a manner consistent with the methodology, as appropriate, in section 413.79(e) of title 42, Code of Federal Regulations (or any successor regulation). As appropriate, the Secretary may consider information from any cost reporting periods necessary to make such an adjustment to the limitation.
 
 #### (ii) Aggregation ####
 
@@ -1696,9 +1720,15 @@ The Secretary may prescribe rules which allow institutions which are members of 
 
 The Secretary may require any entity that operates a medical residency training program and to which subparagraphs (F) and (G) apply to submit to the Secretary such additional information as the Secretary considers necessary to carry out such subparagraphs.
 
-#### (iv) Nonrural hospitals operating training programs in rural areas ####
+#### (iv) Training programs in rural areas ####
 
-In the case of a hospital that is not located in a rural area but establishes separately accredited approved medical residency training programs (or rural tracks) in an <sup><a href="#1395ww_11_target" name="1395ww_11">11</a></sup> rural area or has an accredited training program with an integrated rural track, the Secretary shall adjust the limitation under subparagraph (F) in an appropriate manner insofar as it applies to such programs in such rural areas in order to encourage the training of physicians in rural areas.
+#### (I) Cost reporting periods beginning before October 1, 2022 ####
+
+For cost reporting periods beginning before October 1, 2022, in the case of a hospital that is not located in a rural area but establishes separately accredited approved medical residency training programs (or rural tracks) in a rural area or has an accredited training program with an integrated rural track, the Secretary shall adjust the limitation under subparagraph (F) in an appropriate manner insofar as it applies to such programs in such rural areas in order to encourage the training of physicians in rural areas.
+
+#### (II) Cost reporting periods beginning on or after October 1, 2022 ####
+
+For cost reporting periods beginning on or after October 1, 2022, in the case of a hospital not located in a rural area that established or establishes a medical residency training program (or rural tracks) in a rural area or establishes an accredited program where greater than 50 percent of the program occurs in a rural area, the Secretary shall <sup><a href="#1395ww_10_target" name="1395ww_10">10</a></sup> consistent with the principles of subparagraphs (F) and (G) and subject to paragraphs (7) and (8), prescribe rules for the application of such subparagraphs with respect to such a program and, in accordance with such rules, adjust in an appropriate manner the limitation under subparagraph (F) for such hospital and each such hospital located in a rural area that participates in such a training.
 
 #### (v) Special provider agreement ####
 
@@ -1738,7 +1768,7 @@ The aggregate number of increases in the otherwise applicable resident limits fo
 
 Chapter 35 of title 44 shall not apply to the implementation of this clause.
 
-#### (J) <sup><a href="#1395ww_12_target" name="1395ww_12">12</a></sup> Treatment of certain nonprovider and didactic activities ####
+#### (J) <sup><a href="#1395ww_11_target" name="1395ww_11">11</a></sup> Treatment of certain nonprovider and didactic activities ####
 
 Such rules shall provide that all time spent by an intern or resident in an approved medical residency training program in a nonprovider setting that is primarily engaged in furnishing patient care (as defined in paragraph (5)(K)) in non-patient care activities, such as didactic conferences and seminars, but not including research not associated with the treatment or diagnosis of a particular patient, as such time and activities are defined by the Secretary, shall be counted toward the determination of full-time equivalency.
 
@@ -1866,7 +1896,7 @@ The determination of the amounts under clauses (i) and (ii) for any year shall b
 
 The Secretary may not approve the application of an qualifying entity unless—
 
-(i) the application is submitted in a form and manner specified by the Secretary and by not later than November 1, 1999,<sup><a href="#1395ww_13_target" name="1395ww_13">13</a></sup>
+(i) the application is submitted in a form and manner specified by the Secretary and by not later than November 1, 1999,<sup><a href="#1395ww_12_target" name="1395ww_12">12</a></sup>
 
 (ii) the application provides for the operation of a plan for the reduction in the number of full-time equivalent residents in the approved medical residency training programs of the entity consistent with the requirements of subparagraph (D);
 
@@ -2046,7 +2076,7 @@ the Secretary shall apply subparagraph (A)(i)(I) using the higher resident refer
 
 #### (E) Judicial review ####
 
-There shall be no administrative or judicial review under section 1395ff of this title, 1395oo of this title, or otherwise, with respect to determinations made under this this <sup><a href="#1395ww_9_target" name="1395ww_9">9</a></sup> paragraph, paragraph (8), or paragraph (4)(H)(vi).
+There shall be no administrative or judicial review under section 1395ff of this title, 1395oo of this title, or otherwise, with respect to determinations made under this paragraph, paragraph (8),<sup><a href="#1395ww_13_target" name="1395ww_13">13</a></sup> clause (i), (ii), (iii), or (v) of paragraph (2)(F), or clause (i) or (vi) of paragraph (4)(H).
 
 #### (8) Distribution of additional residency positions ####
 
@@ -2153,6 +2183,96 @@ The term "otherwise applicable resident limit" means, with respect to a hospital
 #### (I) Affiliation ####
 
 The provisions of this paragraph shall be applied to hospitals which are members of the same affiliated group (as defined by the Secretary under paragraph (4)(H)(ii)) and the reference resident level for each such hospital shall be the reference resident level with respect to the cost reporting period that results in the smallest difference between the reference resident level and the otherwise applicable resident limit.
+
+#### (9) Distribution of additional residency positions ####
+
+#### (A) Additional residency positions ####
+
+#### (i) In general ####
+
+For fiscal year 2023, and for each succeeding fiscal year until the aggregate number of full-time equivalent residency positions distributed under this paragraph is equal to the aggregate number of such positions made available (as specified in clause (ii)(I)), the Secretary shall, subject to the succeeding provisions of this paragraph, increase the otherwise applicable resident limit for each qualifying hospital (as defined in subparagraph (F)) that submits a timely application under this subparagraph by such number as the Secretary may approve effective beginning July 1 of the fiscal year of the increase.
+
+#### (ii) Number available for distribution ####
+
+#### (I) Total number available ####
+
+The aggregate number of such positions made available under this paragraph shall be equal to 1,000.
+
+#### (II) Annual limit ####
+
+The aggregate number of such positions so made available shall not exceed 200 for a fiscal year.
+
+#### (iii) Process for distributing positions ####
+
+#### (I) Rounds of applications ####
+
+The Secretary shall initiate a separate round of applications for an increase under clause (i) for each fiscal year for which such an increase is to be provided.
+
+#### (II) Timing ####
+
+The Secretary shall notify hospitals of the number of positions distributed to the hospital under this paragraph as a result of an increase in the otherwise applicable resident limit by January 31 of the fiscal year of the increase. Such increase shall be effective beginning July 1 of such fiscal year.
+
+#### (B) Distribution ####
+
+For purposes of providing an increase in the otherwise applicable resident limit under subparagraph (A), the following shall apply:
+
+#### (i) Considerations in distribution ####
+
+In determining for which qualifying hospitals such an increase is provided under subparagraph (A), the Secretary shall take into account the demonstrated likelihood of the hospital filling the positions made available under this paragraph within the first 5 training years beginning after the date the increase would be effective, as determined by the Secretary.
+
+#### (ii) Minimum distribution for certain categories of hospitals ####
+
+With respect to the aggregate number of such positions available for distribution under this paragraph, the Secretary shall distribute not less than 10 percent of such aggregate number to each of the following categories of hospitals:
+
+(I) Hospitals that are located in a rural area (as defined in subsection (d)(2)(D)) or are treated as being located in a rural area pursuant to subsection (d)(8)(E).
+
+(II) Hospitals in which the reference resident level of the hospital (as specified in subparagraph (F)(iii)) is greater than the otherwise applicable resident limit.
+
+(III) Hospitals in States with—
+
+(aa) new medical schools that received "Candidate School" status from the Liaison Committee on Medical Education or that received "Pre-Accreditation" status from the American Osteopathic Association Commission on Osteopathic College Accreditation on or after January 1, 2000, and that have achieved or continue to progress toward "Full Accreditation" status (as such term is defined by the Liaison Committee on Medical Education) or toward "Accreditation" status (as such term is defined by the American Osteopathic Association Commission on Osteopathic College Accreditation); or
+
+(bb) additional locations and branch campuses established on or after January 1, 2000, by medical schools with "Full Accreditation" status (as such term is defined by the Liaison Committee on Medical Education) or "Accreditation" status (as such term is defined by the American Osteopathic Association Commission on Osteopathic College Accreditation).
+
+(IV) Hospitals that serve areas designated as health professional shortage areas under section 254e(a)(1)(A) of this title, as determined by the Secretary.
+
+#### (C) Limitations ####
+
+#### (i) In general ####
+
+A hospital may not receive more than 25 additional full-time equivalent residency positions under this paragraph.
+
+#### (ii) Prohibition on distribution to hospitals without an increase agreement ####
+
+No increase in the otherwise applicable resident limit of a hospital may be made under this paragraph unless such hospital agrees to increase the total number of full-time equivalent residency positions under the approved medical residency training program of such hospital by the number of such positions made available by such increase under this paragraph.
+
+#### (D) Application of per resident amounts for primary care and nonprimary care ####
+
+With respect to additional residency positions in a hospital attributable to the increase provided under this paragraph, the approved FTE per resident amounts are deemed to be equal to the hospital per resident amounts for primary care and nonprimary care computed under paragraph (2)(D) for that hospital.
+
+#### (E) Permitting facilities to apply aggregation rules ####
+
+The Secretary shall permit hospitals receiving additional residency positions attributable to the increase provided under this paragraph to, beginning in the fifth year after the effective date of such increase, apply such positions to the limitation amount under paragraph (4)(F) that may be aggregated pursuant to paragraph (4)(H) among members of the same affiliated group.
+
+#### (F) Definitions ####
+
+In this paragraph:
+
+#### (i) Otherwise applicable resident limit ####
+
+The term "otherwise applicable resident limit" means, with respect to a hospital, the limit otherwise applicable under subparagraphs (F)(i) and (H) of paragraph (4) on the resident level for the hospital determined without regard to this paragraph but taking into account paragraphs (7)(A), (7)(B), (8)(A), and (8)(B).
+
+#### (ii) Qualifying hospital ####
+
+The term "qualifying hospital" means a hospital described in any of subclauses (I) through (IV) of subparagraph (B)(ii).
+
+#### (iii) Reference resident level ####
+
+The term "reference resident level" means, with respect to a hospital, the resident level for the most recent cost reporting period of the hospital ending on or before December 27, 2020, for which a cost report has been settled (or, if not, submitted (subject to audit)), as determined by the Secretary.
+
+#### (iv) Resident level ####
+
+The term "resident level" has the meaning given such term in paragraph (7)(C)(i).
 
 #### (i) Avoiding duplicative payments to hospitals participating in rural demonstration programs ####
 
@@ -3604,7 +3724,7 @@ The term "HCPCS" means, with respect to hospital items and services, the code un
 
 The term "ICD–10–PCS" means the International Classification of Diseases, 10th Revision, Procedure Coding System, and includes any subsequent revision of such International Classification of Diseases, Procedure Coding System.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1886, as added and amended Pub. L. 97–248, title I, §§101(a)(1), 110, Sept. 3, 1982, 96 Stat. 331, 339; Pub. L. 97–448, title III, §309(b)(13)–(15), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §601(a)(1), (2), (b), (c), (d)(2), (e), Apr. 20, 1983, 97 Stat. 149, 150, 152; Pub. L. 98–369, div. B, title III, §§2307(b)(1), 2310(a), 2311(a)–(c), 2312(a), (b), 2313(a), (b), (d), 2315(a)–(c), 2354(b)(42)–(44), July 18, 1984, 98 Stat. 1073, 1075–1080, 1102; Pub. L. 98–617, §3(b)(9), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–272, title IX, §§9101(b), (c), 9102(a)–(c), 9104(a), (b), 9105(a)–(c), 9106(a), 9107(a), 9109(a), 9111(a), 9127(a), 9202(a), Apr. 7, 1986, 100 Stat. 153–155, 157–162, 170, 171; Pub. L. 99–349, title II, §206, July 2, 1986, 100 Stat. 749; Pub. L. 99–509, title IX, §§9302(a)(1), (2), (b)(1), (c), (d)(1)(A), (e), 9303, 9304(a)–(c), 9306(a)–(c), 9307(c)(1), 9314(a), 9320(g), 9321(e)(2), Oct. 21, 1986, 100 Stat. 1982–1985, 1988, 1995, 2005, 2015, 2018; Pub. L. 99–514, §2, title XVIII, §1895(b)(1)(A)–(C), (2)(A)–(C), (3), (9), Oct. 22, 1986, 100 Stat. 2095, 2931–2933; Pub. L. 100–93, §8(c)(4), Aug. 18, 1987, 101 Stat. 693; Pub. L. 100–203, title IV, §§4002(a)–(f)(1), 4003(a)–(c), 4004(a), 4005(a)(1), (c)(1), (d)(1)(A), 4006(a)–(b)(2), 4007(b)(1), 4009(d)(1), (j)(1)–(6)(B), 4083(b)(1), Dec. 22, 1987, 101 Stat. 1330–42 to 1330–44, 1330–46, 1330–47, 1330–49, 1330–52, 1330–53, 1330–57 to 1330–59, 1330–129, as amended Pub. L. 100–360, title IV, §411(b)(1)(E), (3), (4)(C)(i), (5)(B), (6)(B), (8)(B), July 1, 1988, 102 Stat. 769, 770, 772; Pub. L. 100–360, title IV, §411(b)(1)(A)–(D), (F)–(H)(i), (4)(A), (B), (5)(A), July 1, 1988, 102 Stat. 768–770; Pub. L. 100–485, title VI, §608(d)(18)(A), (B), Oct. 13, 1988, 102 Stat. 2418; Pub. L. 100–647, title I, §1018(r)(1), title VIII, §§8401, 8403(a), Nov. 10, 1988, 102 Stat. 3586, 3798; Pub. L. 101–234, title III, §301(b)(3), (c)(3), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §§6002, 6003(a)(1), (b)–(c)(3), (e)(1), (2)(B)–(E), (f), (g)(2), (4)–(h)(4), (6), 6004(a)(1), (2), (b)(1), 6011(a), 6015(a), 6022, Dec. 19, 1989, 103 Stat. 2140–2144, 2151, 2154–2157, 2159–2161, 2164, 2167; Pub. L. 101–403, title I, §115(b)(1), Oct. 1, 1990, 104 Stat. 870; Pub. L. 101–508, title IV, §§4001, 4002(a)(1), (b)(1)–(4), (c)(1), (2), (e)(1), (g)(1), (2), (h)(1)(A), (2)(B), 4003(a), 4005(a)(1), (c)(1)(B), (2), 4008(f)(1), (m)(2)(A), Nov. 5, 1990, 104 Stat. 1388–31 to 1388–38, 1388–40, 1388–42, 1388–45, 1388–53; Pub. L. 103–66, title XIII, §§13501(a), (b)(1), (c), (e)(1), (f), 13502, 13506, 13563(a), (b)(1), (c)(1), Aug. 10, 1993, 107 Stat. 572, 574, 575, 577, 579, 605; Pub. L. 103–432, title I, §§101(a)(1), (b), (c), 102(b)(1)(B), 105, 108–110(a), (c), 153(a), Oct. 31, 1994, 108 Stat. 4400–4402, 4405, 4407, 4408, 4437; Pub. L. 105–33, title IV, §§4022(b)(1)(A), 4201(c)(1), (4), 4202(a), 4204(a)(1), (2), 4401(a), 4402, 4403(a), 4405(a)–(c), 4406, 4407, 4411–4415(c), 4416, 4417(a)(1), (b)(1), 4418(a), 4419(a)(1), 4421(a), (b), 4621–4626(a), 4627(a), 4644(a)(1), (b)(1), (c)(1), Aug. 5, 1997, 111 Stat. 354, 373–375, 397, 398, 400, 401, 403–410, 413, 475–480, 483, 488; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§111(a), (c), 112(a), 121(a), 122, 125(a), title III, §§311, 312(a), 321(b), (e), (f), (h), (k)(15)–(17), title IV, §§401(a), 402(a), 404(a), (b)(1), 405–407(a)(2), (b)(1), (2), (c)(1), title V, §541], Nov. 29, 1999, 113 Stat. 1536, 1501A–329 to 1501A–332, 1501A–362 to 150A–366, 1501A–368, 1501A–369, 1501A–372 to 1501A–374, 1501A–391; Pub. L. 106–554, §1(a)(4) [div. B, title I, §152(a), (b)], §1(a)(6) [title II, §§211, 212(a), 213(a), title III, §§301(a), (e)(1), 302(a), (c), (d), 303(a), (c), (d)(1), 304(a), (c)(2), 305(a), (b), 307(a)(1), title V, §§511, 512(a), 533(b)(1), (3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, 2763A–252, 2763A–483, 2763A–485, 2763A–491 to 2763A–496, 2763A–533, 2763A–548, 2763A–550; Pub. L. 108–173, title IV, §§401(a)–(c), 402, 403, 406, 407(a), 422(a), (b)(1), title V, §§501(a), (b), 502(a), (b), 503(a)–(d)(1), 504, 505(a), title VII, §§711, 736(a)(9), (15), (c)(6), Dec. 8, 2003, 117 Stat. 2262–2265, 2269, 2270, 2284, 2286, 2289–2293, 2340, 2355, 2356; Pub. L. 109–171, title V, §§5001(a), (c), 5002(a), 5003(a)(1), (2)(A), (b)–(d), Feb. 8, 2006, 120 Stat. 28, 30–32; Pub. L. 109–432, div. B, title I, §§106(c), 109(a)(2), title II, §205(b)(1), Dec. 20, 2006, 120 Stat. 2983, 2985, 2989; Pub. L. 110–161, div. G, title II, §225(a), (b)(1), Dec. 26, 2007, 121 Stat. 2189; Pub. L. 110–173, title I, §§114(e)(1), 115(a)(1), Dec. 29, 2007, 121 Stat. 2504, 2506; Pub. L. 110–275, title I, §122, July 15, 2008, 122 Stat. 2514; Pub. L. 111–5, div. B, title IV, §4102(a)(1), (b)(1), Feb. 17, 2009, 123 Stat. 477, 482; Pub. L. 111–148, title III, §§3001(a)(1)–(3), 3004(a), (b), 3008(a), 3025(a), 3124(a), (b)(1), 3125, 3133, 3401(a), (c), (d), (f), title V, §§5503(a), (b), 5504(a), (b), 5505(a), (b), 5506(a), (b), (e), title X, §§10309, 10314, 10316, 10319(a)–(c), (e), 10322(a), 10324(a), 10335, Mar. 23, 2010, 124 Stat. 353–360, 368, 369, 376, 408, 424, 425, 432, 480–483, 655, 658–663, 942, 944, 946, 948, 949, 952, 959, 974; Pub. L. 111–152, title I, §§1104–1105(d), Mar. 30, 2010, 124 Stat. 1047, 1048; Pub. L. 111–192, title I, §102(a), June 25, 2010, 124 Stat. 1281; Pub. L. 111–309, title II, §203, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–40, title II, §261(a)(3)(A), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–240, title VI, §§605–606(b)(1), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §§1105–1106(b)(1), title II, §1206(a)(1), (c), Dec. 26, 2013, 127 Stat. 1197, 1200, 1204; Pub. L. 113–93, title I, §§105–106(b)(1), 112(a), Apr. 1, 2014, 128 Stat. 1042, 1044; Pub. L. 113–185, §2(c)(2), (3), Oct. 6, 2014, 128 Stat. 1963, 1964; Pub. L. 114–10, title I, §106(b)(2)(B), title II, §§204–205(b)(1), title IV, §411(b), (e), Apr. 16, 2015, 129 Stat. 139, 144, 145, 161, 162; Pub. L. 114–113, div. H, title II, §231, div. O, title VI, §§601–602(b)(1), Dec. 18, 2015, 129 Stat. 2626, 3023, 3024; Pub. L. 114–115, §4(b), Dec. 28, 2015, 129 Stat. 3133; Pub. L. 114–255, div. A, title IV, §4002(b)(2), div. C, title XV, §§15001—15002(b), 15004(b), 15008(a), (b), (d)(2), 15009(a), 15010(a), Dec. 13, 2016, 130 Stat. 1161, 1315—1317, 1319, 1321–1323; Pub. L. 115–123, div. E, title II, §§50204(a), 50205(a), (b)(1), title IV, §50413, title X, §51005, title XII, §53109(a), Feb. 9, 2018, 132 Stat. 181–183, 221, 296, 303; Pub. L. 115–141, div. G, title IV, §429, Mar. 23, 2018, 132 Stat. 693; Pub. L. 115–271, title VI, §6104, Oct. 24, 2018, 132 Stat. 4006; Pub. L. 116–94, div. N, title I, §108, Dec. 20, 2019, 133 Stat. 3102; Pub. L. 116–136, div. A, title III, §3710(a), Mar. 27, 2020, 134 Stat. 422.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1886, as added and amended Pub. L. 97–248, title I, §§101(a)(1), 110, Sept. 3, 1982, 96 Stat. 331, 339; Pub. L. 97–448, title III, §309(b)(13)–(15), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §601(a)(1), (2), (b), (c), (d)(2), (e), Apr. 20, 1983, 97 Stat. 149, 150, 152; Pub. L. 98–369, div. B, title III, §§2307(b)(1), 2310(a), 2311(a)–(c), 2312(a), (b), 2313(a), (b), (d), 2315(a)–(c), 2354(b)(42)–(44), July 18, 1984, 98 Stat. 1073, 1075–1080, 1102; Pub. L. 98–617, §3(b)(9), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–272, title IX, §§9101(b), (c), 9102(a)–(c), 9104(a), (b), 9105(a)–(c), 9106(a), 9107(a), 9109(a), 9111(a), 9127(a), 9202(a), Apr. 7, 1986, 100 Stat. 153–155, 157–162, 170, 171; Pub. L. 99–349, title II, §206, July 2, 1986, 100 Stat. 749; Pub. L. 99–509, title IX, §§9302(a)(1), (2), (b)(1), (c), (d)(1)(A), (e), 9303, 9304(a)–(c), 9306(a)–(c), 9307(c)(1), 9314(a), 9320(g), 9321(e)(2), Oct. 21, 1986, 100 Stat. 1982–1985, 1988, 1995, 2005, 2015, 2018; Pub. L. 99–514, §2, title XVIII, §1895(b)(1)(A)–(C), (2)(A)–(C), (3), (9), Oct. 22, 1986, 100 Stat. 2095, 2931–2933; Pub. L. 100–93, §8(c)(4), Aug. 18, 1987, 101 Stat. 693; Pub. L. 100–203, title IV, §§4002(a)–(f)(1), 4003(a)–(c), 4004(a), 4005(a)(1), (c)(1), (d)(1)(A), 4006(a)–(b)(2), 4007(b)(1), 4009(d)(1), (j)(1)–(6)(B), 4083(b)(1), Dec. 22, 1987, 101 Stat. 1330–42 to 1330–44, 1330–46, 1330–47, 1330–49, 1330–52, 1330–53, 1330–57 to 1330–59, 1330–129, as amended Pub. L. 100–360, title IV, §411(b)(1)(E), (3), (4)(C)(i), (5)(B), (6)(B), (8)(B), July 1, 1988, 102 Stat. 769, 770, 772; Pub. L. 100–360, title IV, §411(b)(1)(A)–(D), (F)–(H)(i), (4)(A), (B), (5)(A), July 1, 1988, 102 Stat. 768–770; Pub. L. 100–485, title VI, §608(d)(18)(A), (B), Oct. 13, 1988, 102 Stat. 2418; Pub. L. 100–647, title I, §1018(r)(1), title VIII, §§8401, 8403(a), Nov. 10, 1988, 102 Stat. 3586, 3798; Pub. L. 101–234, title III, §301(b)(3), (c)(3), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §§6002, 6003(a)(1), (b)–(c)(3), (e)(1), (2)(B)–(E), (f), (g)(2), (4)–(h)(4), (6), 6004(a)(1), (2), (b)(1), 6011(a), 6015(a), 6022, Dec. 19, 1989, 103 Stat. 2140–2144, 2151, 2154–2157, 2159–2161, 2164, 2167; Pub. L. 101–403, title I, §115(b)(1), Oct. 1, 1990, 104 Stat. 870; Pub. L. 101–508, title IV, §§4001, 4002(a)(1), (b)(1)–(4), (c)(1), (2), (e)(1), (g)(1), (2), (h)(1)(A), (2)(B), 4003(a), 4005(a)(1), (c)(1)(B), (2), 4008(f)(1), (m)(2)(A), Nov. 5, 1990, 104 Stat. 1388–31 to 1388–38, 1388–40, 1388–42, 1388–45, 1388–53; Pub. L. 103–66, title XIII, §§13501(a), (b)(1), (c), (e)(1), (f), 13502, 13506, 13563(a), (b)(1), (c)(1), Aug. 10, 1993, 107 Stat. 572, 574, 575, 577, 579, 605; Pub. L. 103–432, title I, §§101(a)(1), (b), (c), 102(b)(1)(B), 105, 108–110(a), (c), 153(a), Oct. 31, 1994, 108 Stat. 4400–4402, 4405, 4407, 4408, 4437; Pub. L. 105–33, title IV, §§4022(b)(1)(A), 4201(c)(1), (4), 4202(a), 4204(a)(1), (2), 4401(a), 4402, 4403(a), 4405(a)–(c), 4406, 4407, 4411–4415(c), 4416, 4417(a)(1), (b)(1), 4418(a), 4419(a)(1), 4421(a), (b), 4621–4626(a), 4627(a), 4644(a)(1), (b)(1), (c)(1), Aug. 5, 1997, 111 Stat. 354, 373–375, 397, 398, 400, 401, 403–410, 413, 475–480, 483, 488; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§111(a), (c), 112(a), 121(a), 122, 125(a), title III, §§311, 312(a), 321(b), (e), (f), (h), (k)(15)–(17), title IV, §§401(a), 402(a), 404(a), (b)(1), 405–407(a)(2), (b)(1), (2), (c)(1), title V, §541], Nov. 29, 1999, 113 Stat. 1536, 1501A–329 to 1501A–332, 1501A–362 to 150A–366, 1501A–368, 1501A–369, 1501A–372 to 1501A–374, 1501A–391; Pub. L. 106–554, §1(a)(4) [div. B, title I, §152(a), (b)], §1(a)(6) [title II, §§211, 212(a), 213(a), title III, §§301(a), (e)(1), 302(a), (c), (d), 303(a), (c), (d)(1), 304(a), (c)(2), 305(a), (b), 307(a)(1), title V, §§511, 512(a), 533(b)(1), (3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, 2763A–252, 2763A–483, 2763A–485, 2763A–491 to 2763A–496, 2763A–533, 2763A–548, 2763A–550; Pub. L. 108–173, title IV, §§401(a)–(c), 402, 403, 406, 407(a), 422(a), (b)(1), title V, §§501(a), (b), 502(a), (b), 503(a)–(d)(1), 504, 505(a), title VII, §§711, 736(a)(9), (15), (c)(6), Dec. 8, 2003, 117 Stat. 2262–2265, 2269, 2270, 2284, 2286, 2289–2293, 2340, 2355, 2356; Pub. L. 109–171, title V, §§5001(a), (c), 5002(a), 5003(a)(1), (2)(A), (b)–(d), Feb. 8, 2006, 120 Stat. 28, 30–32; Pub. L. 109–432, div. B, title I, §§106(c), 109(a)(2), title II, §205(b)(1), Dec. 20, 2006, 120 Stat. 2983, 2985, 2989; Pub. L. 110–161, div. G, title II, §225(a), (b)(1), Dec. 26, 2007, 121 Stat. 2189; Pub. L. 110–173, title I, §§114(e)(1), 115(a)(1), Dec. 29, 2007, 121 Stat. 2504, 2506; Pub. L. 110–275, title I, §122, July 15, 2008, 122 Stat. 2514; Pub. L. 111–5, div. B, title IV, §4102(a)(1), (b)(1), Feb. 17, 2009, 123 Stat. 477, 482; Pub. L. 111–148, title III, §§3001(a)(1)–(3), 3004(a), (b), 3008(a), 3025(a), 3124(a), (b)(1), 3125, 3133, 3401(a), (c), (d), (f), title V, §§5503(a), (b), 5504(a), (b), 5505(a), (b), 5506(a), (b), (e), title X, §§10309, 10314, 10316, 10319(a)–(c), (e), 10322(a), 10324(a), 10335, Mar. 23, 2010, 124 Stat. 353–360, 368, 369, 376, 408, 424, 425, 432, 480–483, 655, 658–663, 942, 944, 946, 948, 949, 952, 959, 974; Pub. L. 111–152, title I, §§1104–1105(d), Mar. 30, 2010, 124 Stat. 1047, 1048; Pub. L. 111–192, title I, §102(a), June 25, 2010, 124 Stat. 1281; Pub. L. 111–309, title II, §203, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–40, title II, §261(a)(3)(A), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–240, title VI, §§605–606(b)(1), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §§1105–1106(b)(1), title II, §1206(a)(1), (c), Dec. 26, 2013, 127 Stat. 1197, 1200, 1204; Pub. L. 113–93, title I, §§105–106(b)(1), 112(a), Apr. 1, 2014, 128 Stat. 1042, 1044; Pub. L. 113–185, §2(c)(2), (3), Oct. 6, 2014, 128 Stat. 1963, 1964; Pub. L. 114–10, title I, §106(b)(2)(B), title II, §§204–205(b)(1), title IV, §411(b), (e), Apr. 16, 2015, 129 Stat. 139, 144, 145, 161, 162; Pub. L. 114–113, div. H, title II, §231, div. O, title VI, §§601–602(b)(1), Dec. 18, 2015, 129 Stat. 2626, 3023, 3024; Pub. L. 114–115, §4(b), Dec. 28, 2015, 129 Stat. 3133; Pub. L. 114–255, div. A, title IV, §4002(b)(2), div. C, title XV, §§15001—15002(b), 15004(b), 15008(a), (b), (d)(2), 15009(a), 15010(a), Dec. 13, 2016, 130 Stat. 1161, 1315—1317, 1319, 1321–1323; Pub. L. 115–123, div. E, title II, §§50204(a), 50205(a), (b)(1), title IV, §50413, title X, §51005, title XII, §53109(a), Feb. 9, 2018, 132 Stat. 181–183, 221, 296, 303; Pub. L. 115–141, div. G, title IV, §429, Mar. 23, 2018, 132 Stat. 693; Pub. L. 115–271, title VI, §6104, Oct. 24, 2018, 132 Stat. 4006; Pub. L. 116–94, div. N, title I, §108, Dec. 20, 2019, 133 Stat. 3102; Pub. L. 116–136, div. A, title III, §3710(a), Mar. 27, 2020, 134 Stat. 422; Pub. L. 116–260, div. CC, title I, §§126(a)–(c), 127, 131(a)–(c), Dec. 27, 2020, 134 Stat. 2967–2970, 2974, 2976.)
 
 #### References in Text ####
 
@@ -3661,6 +3781,32 @@ Section 124 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act 
 #### Amendments ####
 
 **2020**—Subsec. (d)(4)(C)(iv). Pub. L. 116–136 added cl. (iv).
+
+Subsec. (d)(5)(B)(v). Pub. L. 116–260, §126(b)(1), substituted "(h)(8), and (h)(9)" for "and (h)(8)".
+
+Subsec. (d)(5)(B)(viii). Pub. L. 116–260, §131(c)(1), substituted "paragraphs (2)(F)(iv) and (4)(H) of subsection (h)" for "subsection (h)(4)(H)".
+
+Subsec. (d)(5)(B)(x), (xi). Pub. L. 116–260, §126(b)(2), redesignated cl. (x), relating to determining the hospital's number of full-time equivalent residents, as (xi) and realigned margins.
+
+Subsec. (d)(5)(B)(xii). Pub. L. 116–260, §126(b)(3), added cl. (xii).
+
+Subsec. (h)(2)(F). Pub. L. 116–260, §131(a), designated existing provisions as cl. (i) and added cls. (ii) to (v).
+
+Subsec. (h)(4)(F)(i). Pub. L. 116–260, §126(a)(1), substituted "paragraphs (7), (8), and (9)" for "paragraphs (7) and (8)".
+
+Subsec. (h)(4)(H)(i). Pub. L. 116–260, §131(b), designated existing provisions as subcl. (I) and added subcls. (II) to (V).
+
+Pub. L. 116–260, §126(a)(2), substituted "paragraphs (7), (8), and (9)" for "paragraphs (7) and (8)".
+
+Subsec. (h)(4)(H)(iv). Pub. L. 116–260, §127, substituted "Training programs in rural areas" for "Nonrural hospitals operating training programs in rural areas" in heading, designated existing provisions as subcl. (I), inserted heading, and substituted "For cost reporting periods beginning before October 1, 2022, in the case of" for "In the case of", and added subcl. (II). Substitution in cl. (iv) heading was executed by striking "hospitals" instead of "hospital" as directed, to reflect the probable intent of Congress.
+
+Subsec. (h)(4)(H)(iv)(I). Pub. L. 116–260, §131(c)(2)(A), substituted "a rural area or has" for "an rural area or has".
+
+Subsec. (h)(7)(E). Pub. L. 116–260, §131(c)(2)(B), substituted "under this paragraph, paragraph (8), clause (i), (ii), (iii), or (v) of paragraph (2)(F), or clause (i) or (vi) of paragraph (4)(H)." for "under this this paragraph, paragraph (8), paragraph (9), or paragraph (4)(H)(vi)."
+
+Pub. L. 116–260, §126(a)(3), (c), which amended subpar. (E) identically by inserting "paragraph (9)," after "paragraph (8),", was effectively undone by the subsequent amendment made by Pub. L. 116–260, §131(c)(2)(B). See above.
+
+Subsec. (h)(9). Pub. L. 116–260, §126(a)(4), added par. (9).
 
 **2019**—Subsec. (a)(4). Pub. L. 116–94, §108(1), in introductory provisions, inserted "for cost reporting periods beginning on or after October 1, 2020, costs related to hematopoietic stem cell acquisition for the purpose of an allogeneic hematopoietic stem cell transplant (as described in subsection (d)(5)(M))," after "October 1, 1987),"
 
@@ -5256,6 +5402,10 @@ Subsecs. (e) to (g). Pub. L. 98–21, §601(e), added subsecs. (e) to (g).
 
 References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subject to an appropriate transition provided by the Secretary of Health and Human Services in the use of those terms, see section 201 of Pub. L. 108–173, set out as a note under section 1395w–21 of this title.
 
+#### Effective Date of 2020 Amendment ####
+
+Pub. L. 116–260, div. CC, title I, §131(d), Dec. 27, 2020, 134 Stat. 2976, provided that: "The amendments made by this section [amending this section] shall apply to payment under section 1886 of the Social Security Act (42 U.S.C. 1395ww) for cost reporting periods beginning on or after the date of the enactment of this Act [Dec. 27, 2020]."
+
 #### Effective Date of 2015 Amendment ####
 
 Pub. L. 114–113, div. O, title VI, §602(d), Dec. 18, 2015, 129 Stat. 3024, provided that: "The amendments made by this section [amending this section and section 1395w–23 of this title] shall apply as if included in the enactment of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5), except that, in order to take into account delays in the implementation of this section, in applying subsections (b)(3)(B)(ix), (n)(2)(E)(ii), and (n)(2)(G)(i) of section 1886 of the Social Security Act [42 U.S.C. 1395ww], as amended by this section, any reference in such subsections to a particular year shall be treated with respect to a subsection (d) Puerto Rico hospital as a reference to the year that is 5 years after such particular year (or 7 years after such particular year in the case of applying subsection (b)(3)(B)(ix) of such section)."
@@ -6218,11 +6368,11 @@ Pub. L. 108–173, title IV, §404, Dec. 8, 2003, 117 Stat. 2266, provided that:
 
 #### Rural Community Hospital Demonstration Program ####
 
-Pub. L. 108–173, title IV, §410A, Dec. 8, 2003, 117 Stat. 2272, as amended by Pub. L. 111–148, title III, §3123, title X, §10313, Mar. 23, 2010, 124 Stat. 423, 943; Pub. L. 114–255, div. C, title XV, §15003, Dec. 13, 2016, 130 Stat. 1317, provided that:
+Pub. L. 108–173, title IV, §410A, Dec. 8, 2003, 117 Stat. 2272, as amended by Pub. L. 111–148, title III, §3123, title X, §10313, Mar. 23, 2010, 124 Stat. 423, 943; Pub. L. 114–255, div. C, title XV, §15003, Dec. 13, 2016, 130 Stat. 1317; Pub. L. 116–260, div. CC, title I, §128, Dec. 27, 2020, 134 Stat. 2971, provided that:
 
 "(a) Establishment of Rural Community Hospital (RCH) Demonstration Program.—
 
-"(1) In general.—The Secretary [of Health and Human Services] shall establish a demonstration program to test the feasibility and advisability of the establishment of rural community hospitals (as defined in subsection (f)(1)) to furnish covered inpatient hospital services (as defined in subsection (f)(2)) to medicare beneficiaries.
+"(1) In general.—The Secretary of Health and Human Services shall establish a demonstration program to test the feasibility and advisability of the establishment of rural community hospitals (as defined in subsection (f)(1)) to furnish covered inpatient hospital services (as defined in subsection (f)(2)) to medicare beneficiaries.
 
 "(2) Demonstration areas.—The program shall be conducted in rural areas selected by the Secretary in States with low population densities, as determined by the Secretary.
 
@@ -6230,7 +6380,7 @@ Pub. L. 108–173, title IV, §410A, Dec. 8, 2003, 117 Stat. 2272, as amended by
 
 "(4) Selection of hospitals.—The Secretary shall select from among rural community hospitals submitting applications under paragraph (3) not more than 15 of such hospitals to participate in the demonstration program under this section.
 
-"(5) Duration.—The Secretary shall conduct the demonstration program under this section for a 5-year period (in this section referred to as the 'initial 5-year period') and, as provided in subsection (g), for the 10-year extension period.
+"(5) Duration.—The Secretary shall conduct the demonstration program under this section for a 5-year period (in this section referred to as the 'initial 5-year period') and, as provided in subsection (g), for the 15-year extension period.
 
 "(6) Implementation.—The Secretary shall implement the demonstration program not later than January 1, 2005, but may not implement the program before October 1, 2004.
 
@@ -6276,35 +6426,39 @@ increased by the applicable percentage increase (under clause (i) of section 188
 
 "(iii) makes available 24-hour emergency care services; and
 
-"(iv) is not eligible for designation, or has not been designated, as a critical access hospital under section 1820 [probably means section 1820 of the Social Security Act, 42 U.S.C. 1395i–4].
+"(iv) is not eligible for designation, or has not been designated, as a critical access hospital under section 1820 of the Social Security Act (42 U.S.C. 1395i–4).
 
 "(B) Treatment of psychiatric and rehabilitation units.—For purposes of subparagraph (A)(ii), beds in a psychiatric or rehabilitation unit of the hospital which is a distinct part of the hospital shall not be counted.
 
 "(2) Covered inpatient hospital services.—The term 'covered inpatient hospital services' means inpatient hospital services, and includes extended care services furnished under an agreement under section 1883 of the Social Security Act (42 U.S.C. 1395tt)."
 
-"(g) Ten-Year Extension of Demonstration Program.—
+"(g) Fifteen-Year Extension of Demonstration Program.—
 
-"(1) In general.—Subject to the succeeding provisions of this subsection, the Secretary shall conduct the demonstration program under this section for an additional 10-year period (in this section referred to as the '10-year extension period') that begins on the date immediately following the last day of the initial 5-year period under subsection (a)(5).
+"(1) In general.—Subject to the succeeding provisions of this subsection, the Secretary shall conduct the demonstration program under this section for an additional 15-year (in this section referred to as the '15-year extension period') that begins on the date immediately following the last day of the initial 5-year period under subsection (a)(5).
 
-"(2) Expansion of demonstration states.—Notwithstanding subsection (a)(2), during the 10-year extension period, the Secretary shall expand the number of States with low population densities determined by the Secretary under such subsection to 20. In determining which States to include in such expansion, the Secretary shall use the same criteria and data that the Secretary used to determine the States under such subsection for purposes of the initial 5-year period.
+"(2) Expansion of demonstration states.—Notwithstanding subsection (a)(2), during the 15-year extension period, the Secretary shall expand the number of States with low population densities determined by the Secretary under such subsection to 20. In determining which States to include in such expansion, the Secretary shall use the same criteria and data that the Secretary used to determine the States under such subsection for purposes of the initial 5-year period.
 
-"(3) Increase in maximum number of hospitals participating in the demonstration program.—Notwithstanding subsection (a)(4), during the 10-year extension period, not more than 30 rural community hospitals may participate in the demonstration program under this section.
+"(3) Increase in maximum number of hospitals participating in the demonstration program.—Notwithstanding subsection (a)(4), during the 15-year extension period, not more than 30 rural community hospitals may participate in the demonstration program under this section.
 
-"(4) Hospitals in demonstration program on date of enactment [Mar. 23, 2010].—In the case of a rural community hospital that is participating in the demonstration program under this section as of the last day of the initial 5-year period, the Secretary—
+"(4) Hospitals participating in the demonstration program during the initial 5-year period.—In the case of a rural community hospital that is participating in the demonstration program under this section as of the last day of the initial 5-year period, the Secretary—
 
-"(A) shall provide for the continued participation of such rural community hospital in the demonstration program during the 10-year extension period unless the rural community hospital makes an election, in such form and manner as the Secretary may specify, to discontinue such participation; and
+"(A) shall provide for the continued participation of such rural community hospital in the demonstration program during the 15-year extension period unless the rural community hospital makes an election, in such form and manner as the Secretary may specify, to discontinue such participation; and
 
-"(B) in calculating the amount of payment under subsection (b) to the rural community hospital for covered inpatient hospital services furnished by the hospital during each 5-year period in such 10-year extension period, shall substitute, under paragraph (1)(A) of such subsection—
+"(B) in calculating the amount of payment under subsection (b) to the rural community hospital for covered inpatient hospital services furnished by the hospital during each 5-year period in such 15-year extension period, shall substitute, under paragraph (1)(A) of such subsection—
 
-"(i) the reasonable costs of providing such services for discharges occurring in the first cost reporting period beginning on or after the first day of each applicable 5-year period in the 10-year extension period, for
+"(i) the reasonable costs of providing such services for discharges occurring in the first cost reporting period beginning on or after the first day of each applicable 5-year period in the 15-year extension period, for
 
 "(ii) the reasonable costs of providing such services for discharges occurring in the first cost reporting period beginning on or after the implementation of the demonstration program.
 
-"(5) Other hospitals in demonstration program.—During the second 5 years of the 10-year extension period, the Secretary shall apply the provisions of paragraph (4) to rural community hospitals that are not described in paragraph (4) but are participating in the demonstration program under this section as of December 30, 2014, in a similar manner as such provisions apply to rural community hospitals described in paragraph (4).
+"(5) Other hospitals in demonstration program.—
+
+"(A) CURES act extension.—During the second 5 years of the 15-year extension period, the Secretary shall apply the provisions of paragraph (4) to rural community hospitals that are not described in paragraph (4) but are participating in the demonstration program under this section as of December 30, 2014, in a similar manner as such provisions apply to rural community hospitals described in paragraph (4).
+
+"(B) Additional extension.—During the third 5 years of the 15-year extension period, the Secretary shall apply the provisions of paragraph (4) to rural community hospitals that are not described in paragraph (4) but are participating in the demonstration program under this section as of December 30, 2019, in a similar manner as such provisions apply to rural community hospitals described in paragraph (4).
 
 "(6) Expansion of demonstration program to rural areas in any state.—
 
-"(A) In general.—The Secretary shall, notwithstanding subsection (a)(2) or paragraph (2) of this subsection, not later than 120 days after the date of the enactment of this paragraph [Dec. 13, 2016], issue a solicitation for applications to select up to the maximum number of additional rural community hospitals located in any State to participate in the demonstration program under this section for the second 5 years of the 10-year extension period without exceeding the limitation under paragraph (3) of this subsection.
+"(A) In general.—The Secretary shall, notwithstanding subsection (a)(2) or paragraph (2) of this subsection, not later than April 12, 2017, issue a solicitation for applications to select up to the maximum number of additional rural community hospitals located in any State to participate in the demonstration program under this section for the second 5 years of the 15-year extension period without exceeding the limitation under paragraph (3) of this subsection.
 
 "(B) Priority.—In determining which rural community hospitals that submitted an application pursuant to the solicitation under subparagraph (A) to select for participation in the demonstration program, the Secretary—
 
@@ -7716,23 +7870,23 @@ Pub. L. 97–248, title I, §101(b)(2)(B), Sept. 3, 1982, 96 Stat. 335, as amend
 
 [<sup>4</sup> See References in Text note below.](#1395ww_4)
 
-[<sup>5</sup> So in original. Two cls. (x) have been enacted.](#1395ww_5)
+[<sup>5</sup> So in original. Probably should be followed by "and".](#1395ww_5)
 
-[<sup>6</sup> So in original. Probably should be followed by "and".](#1395ww_6)
+[<sup>6</sup> So in original. Probably should be section "557(b)".](#1395ww_6)
 
-[<sup>7</sup> So in original. Probably should be section "557(b)".](#1395ww_7)
+[<sup>7</sup> So in original. Probably should be "section".](#1395ww_7)
 
-[<sup>8</sup> So in original. Probably should be "section".](#1395ww_8)
+[<sup>8</sup> So in original.](#1395ww_8)
 
-[<sup>9</sup> So in original.](#1395ww_9)
+[<sup>9</sup> So in original. The semicolon probably should not appear.](#1395ww_9)
 
-[<sup>10</sup> So in original. The semicolon probably should not appear.](#1395ww_10)
+[<sup>10</sup> So in original. Probably should be followed by a comma.](#1395ww_10)
 
-[<sup>11</sup> So in original. Probably should be "a".](#1395ww_11)
+[<sup>11</sup> So in original. No subpar. (I) has been enacted.](#1395ww_11)
 
-[<sup>12</sup> So in original. No subpar. (I) has been enacted.](#1395ww_12)
+[<sup>12</sup> So in original. The comma probably should be a semicolon.](#1395ww_12)
 
-[<sup>13</sup> So in original. The comma probably should be a semicolon.](#1395ww_13)
+[<sup>13</sup> So in original. Probably should be followed by "paragraph (9),". See 2020 Amendment notes below.](#1395ww_13)
 
 [<sup>14</sup> So in original. Probably should not be capitalized.](#1395ww_14)
 

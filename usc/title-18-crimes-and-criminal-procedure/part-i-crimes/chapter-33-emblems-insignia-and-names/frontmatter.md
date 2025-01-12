@@ -18,31 +18,27 @@ Sec.
 
 706a. Geneva distinctive emblems.
 
-707. 4–H Club emblem fraudulently used. 1
-
-708. Swiss Confederation coat of arms.
+[707, 708. Repealed.]
 
 709. False advertising or misuse of names to indicate Federal agency.
 
 710. Cremation urns for military use.
 
-711. "Smokey Bear" character or name.
-
-711a. "Woodsy Owl" character, name, or slogan.
+[711, 711a. Repealed.]
 
 712. Misuse of names, words, emblems, or insignia.
 
 713. Use of likenesses of the great seal of the United States, the seals of the President and Vice President, the seal of the United States Senate, the seal of the United States House of Representatives, and the seal of the United States Congress.
 
-[714. Repealed.]
-
-715. "The Golden Eagle Insignia".
+[714, 715. Repealed.]
 
 716. Public employee insignia and uniform.
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–260, div. O, title X, §1003(d), Dec. 27, 2020, 134 Stat. 2156, struck out items 707 "4–H Club emblem fraudulently used", 708 "Swiss Confederation coat of arms", 711 " 'Smokey Bear' character or name", 711a " 'Woodsy Owl' character, name, or slogan", and 715 " 'The Golden Eagle Insignia' ".
 
 **2007**—Pub. L. 109–481, §2(b), Jan. 12, 2007, 120 Stat. 3674, added item 706a.
 
@@ -79,5 +75,3 @@ Sec.
 **1950**—Act Sept. 28, 1950, ch. 1092, §1(a), 64 Stat. 1077, added item 710.
 
 **1949**—Act May 24, 1949, ch. 139, §14, 63 Stat. 91, inserted "Uniform of armed forces and Public Health Service" in lieu of enumerating the specific branches in item 702.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER33_1)

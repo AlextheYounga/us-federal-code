@@ -68,7 +68,7 @@ Sec.
 
 8252. Purpose.
 
-8253. Energy management requirements.
+8253. Energy and water management requirements.
 
 8254. Establishment and use of life cycle cost methods and procedures.
 

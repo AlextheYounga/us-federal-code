@@ -80,6 +80,8 @@ Sec.
 
 217a. Fees for inspection of brands or marks.
 
+217b. Statutory trust established; dealer.
+
 #### SUBCHAPTER IV—LIVE POULTRY DEALERS AND HANDLERS ####
 
 218 to 218d. Repealed.

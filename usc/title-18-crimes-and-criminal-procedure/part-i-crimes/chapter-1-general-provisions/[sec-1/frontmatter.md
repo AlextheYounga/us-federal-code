@@ -14,6 +14,8 @@ Pub. L. 116–309, §1, Jan. 5, 2021, 134 Stat. 4922, provided that: "This Act [
 
 #### Short Title of 2020 Amendment ####
 
+Pub. L. 116–260, div. O, title X, §1001, Dec. 27, 2020, 134 Stat. 2155, provided that: "This title [repealing chapter 89 and sections 46, 511A, 707, 708, 711, 711a, 715, and 1921 of this title] may be cited as the 'Clean Up the Code Act of 2019'."
+
 Pub. L. 116–249, §1, Dec. 22, 2020, 134 Stat. 1126, provided that: "This Act [enacting section 2261B of this title and amending section 2261A of this title] may be cited as the 'Combat Online Predators Act'."
 
 Pub. L. 116–179, §1, Oct. 20, 2020, 134 Stat. 855, provided that: "This Act [amending section 1030 of this title] may be cited as the 'Defending the Integrity of Voting Systems Act'."

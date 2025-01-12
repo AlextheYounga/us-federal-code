@@ -10,6 +10,8 @@ Sec.
 
 4703. Establishment of national Fund for community development banking.
 
+4703a. Capital investments for neighborhoods disproportionately impacted by the COVID–19 pandemic.
+
 4704. Applications for assistance.
 
 4705. Community partnerships.

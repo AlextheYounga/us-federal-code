@@ -42,66 +42,12 @@ Sec.
 
 #### SUBCHAPTER II—RESEARCH, DEVELOPMENT, AND DEMONSTRATION ####
 
-5551. Congressional declaration of findings and policy.
-
-5552. Definitions.
-
-5553. Solar Energy Coordination and Management Project.
-
-5554. Solar energy resource determination and assessment program; objectives; implementation.
-
-5555. Research and development program.
-
-5556. Solar energy demonstration facilities program.
+5551 to 5556. Repealed.
 
 5556a. Solar photovoltaic energy systems studies and acquisitions by Secretary of Energy; scope, contents, and submission dates for reports; acquisition authority and requirements; authorization of appropriations.
 
-5557. Solar Energy Information Data Bank.
-
-5558. Scientific and technical education programs.
-
-5559. Solar Energy Research Institute; establishment; functions; location.
-
-5560. International cooperation in solar energy research and programs of education.
-
-5561. Regulations.
-
-5562. Summary in annual report.
-
-5563. Project information to Congressional committees.
-
-5564. Comprehensive program definition; preparation; utilization of and consultation with other agencies; transmittal to the President and Congress; time of transmittal.
-
-5565. Transfer of functions.
-
-5566. Authorization of appropriations.
+5557 to 5566. Repealed.
 
 #### SUBCHAPTER III—SOLAR PHOTOVOLTAIC ENERGY RESEARCH, DEVELOPMENT AND DEMONSTRATION ####
 
-5581. Congressional findings and declaration of policy.
-
-5582. Definitions.
-
-5583. Establishment and promotion of research, development, and demonstration programs.
-
-5584. Federal assistance application procedures; selection of applicants; agreements; financial assistance; observation and monitoring of photovoltaic systems; reports; projects and activities.
-
-5585. Contracts, grants and arrangements.
-
-5586. Test procedures and performance criteria.
-
-5587. Supervision of research, development, and demonstration programs.
-
-5588. Solar Photovoltaic Energy Advisory Committee.
-
-5589. Promotion and facilitation of practical use of photovoltaic energy.
-
-5590. Submittal to Congressional committees of plan for demonstrating applications of photovoltaic systems and facilitating use in other nations; encouragement of international participation and cooperation; coordination and consistency of plan and international activities with similar activities and programs.
-
-5591. Participation of small business concerns.
-
-5592. Priorities.
-
-5593. Construction with National Energy Conservation Policy Act.
-
-5594. Authorization of appropriations.
+5581 to 5594. Repealed.

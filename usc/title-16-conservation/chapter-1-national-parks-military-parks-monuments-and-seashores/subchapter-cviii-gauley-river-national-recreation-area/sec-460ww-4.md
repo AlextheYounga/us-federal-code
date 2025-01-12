@@ -16,7 +16,7 @@ The terms and conditions referred to in this section shall be included in any li
 
 #### References in Text ####
 
-This Act, referred to in subsec. (c), is Pub. L. 100–534, Oct. 26, 1988, 102 Stat. 2699, known as the West Virginia National Interest River Conservation Act of 1987, which enacted this subchapter and sections 460m–26 to 460m–29 of this title, amended sections 460m–15 and 1274 of this title, and enacted provisions set out as notes under sections 460m–15 and 1274 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 460m–15 of this title and Tables.
+This Act, referred to in subsec. (c), is Pub. L. 100–534, Oct. 26, 1988, 102 Stat. 2699, known as the West Virginia National Interest River Conservation Act of 1987, which enacted this subchapter and sections 410eeee–12 to 410eeee–15 of this title, amended sections 410eeee–1 and 1274 of this title, and enacted provisions set out as notes under sections 410eeee–1 and 1274 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 410eeee–1 of this title and Tables.
 
 #### Amendments ####
 

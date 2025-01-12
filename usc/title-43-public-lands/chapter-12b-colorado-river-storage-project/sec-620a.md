@@ -28,11 +28,11 @@ The provisions of subsec. (a) of section 501 of Pub. L. 90–537 which amended t
 
 #### Storage of Water at Abiquiu Dam in New Mexico ####
 
-Pub. L. 100–522, Oct. 24, 1988, 102 Stat. 2604, provided that:
+Pub. L. 100–522, Oct. 24, 1988, 102 Stat. 2604, as amended by Pub. L. 116–260, div. AA, title III, §337(b), Dec. 27, 2020, 134 Stat. 2712, provided that:
 
 #### "SECTION 1. WATER STORAGE. ####
 
-"Notwithstanding any other provision of law, the Secretary of the Army, acting through the Chief of Engineers, is authorized to store 200,000 acre-feet of Rio Grande system water at Abiquiu Dam, New Mexico, in lieu of the water storage authorized by section 5 of Public Law 97–140 [set out below], to the extent that contracting entities under section 5 of Public Law 97–140 no longer require such storage. The Secretary is authorized further to acquire lands adjacent to Abiquiu Dam on which the Secretary holds easements as of the date of enactment of this Act [Oct. 24, 1988] if such acquisition is necessary to assure proper recreational access at Abiquiu Dam. The Secretary is further directed to report to Congress as soon as possible with recommendations on additional easements that may be required to assure implementation of this Act.
+"Notwithstanding any other provision of law, the Secretary of the Army, acting through the Chief of Engineers, is authorized to store Rio Grande system and San Juan-Chama project water at Abiquiu Dam, New Mexico. The Secretary is authorized further to acquire lands adjacent to Abiquiu Dam on which the Secretary holds easements as of the date of enactment of this Act [Oct. 24, 1988] if such acquisition is necessary to assure proper recreational access at Abiquiu Dam. The Secretary is further directed to report to Congress as soon as possible with recommendations on additional easements that may be required to assure implementation of this Act.
 
 #### "SEC. 2. LIMITATION. ####
 
@@ -40,11 +40,11 @@ Pub. L. 100–522, Oct. 24, 1988, 102 Stat. 2604, provided that:
 
 #### Storage of San Juan-Chama Project Water in Other Reservoirs ####
 
-Pub. L. 97–140, §5, Dec. 29, 1981, 95 Stat. 1717, provided that:
+Pub. L. 97–140, §5, Dec. 29, 1981, 95 Stat. 1717, as amended by Pub. L. 116–260, div. AA, title III, §337(a), Dec. 27, 2020, 134 Stat. 2712, provided that:
 
 "(a) The proviso of section 2 of Public Law 84–485 [this section] shall not be construed to prohibit the storage of San Juan-Chama project water acquired by contract with the Secretary of the Interior pursuant to Public Law 87-483 [section 615ii et seq. of this title] in any reservoir, including the storage of water for recreation and other beneficial purposes by any party contracting with the Secretary for project water.
 
-"(b) The Secretary of the Army, acting through the Chief of Engineers, is authorized to enter into agreements with entities which have contracted with the Secretary of the Interior for water from the San Juan-Chama project pursuant to Public Law 87-483 for storage of a total of two hundred thousand acre-feet of such water in Abiquiu Reservoir. The Secretary of the Interior is hereby authorized to release San Juan-Chama project water to contracting entities for such storage. The agreements to thus store San Juan-Chama project water shall not interfere with the authorized purposes of the Abiquiu Dam and Reservoir project and shall include a requirement that each user of storage space shall pay any increase in operation and maintenance costs attributable to the storage of that user's water.
+"(b) The Secretary of the Army, acting through the Chief of Engineers, is authorized to enter into agreements with entities which have contracted with the Secretary of the Interior for water from the San Juan-Chama project pursuant to Public Law 87-483 for storage of such water in Abiquiu Reservoir. The Secretary of the Interior is hereby authorized to release San Juan-Chama project water to contracting entities for such storage. The agreements to thus store San Juan-Chama project water shall not interfere with the authorized purposes of the Abiquiu Dam and Reservoir project and shall include a requirement that each user of storage space shall pay any increase in operation and maintenance costs attributable to the storage of that user's water.
 
 "(c) The Secretary of the Interior is authorized to enter into agreements with entities which have contracted with the Secretary of the Interior for water from the San Juan-Chama project pursuant to Public Law 87-483 for storage of such water in Elephant Butte Reservoir. The Secretary of the Interior is hereby authorized to release San Juan-Chama project water to contracting entities for such storage. Any increase in operation and maintenance costs resulting from such storage not offset by increased power revenues resulting from that storage shall be paid proportionately by the entities for which the San Juan-Chama project water is stored.
 

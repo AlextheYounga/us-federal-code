@@ -256,7 +256,19 @@ The Secretary shall reallocate the remainder of such returned portions in accord
 
 If under paragraph (1) of this subsection an institution returns more than 10 percent of its allocation, the institution's allocation for the next fiscal year shall be reduced by the amount returned. The Secretary may waive this paragraph for a specific institution if the Secretary finds that enforcing it is contrary to the interest of the program.
 
-(Pub. L. 89–329, title IV, §462, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1440; amended Pub. L. 100–50, §13(a)–(d), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §462, July 23, 1992, 106 Stat. 576; Pub. L. 103–208, §2(f)(1)–(4), Dec. 20, 1993, 107 Stat. 2470, 2471; Pub. L. 105–244, title IV, §462(a)(1), (2), (b)–(e), Oct. 7, 1998, 112 Stat. 1720–1723; Pub. L. 110–315, title IV, §462, Aug. 14, 2008, 122 Stat. 3266; Pub. L. 111–39, title IV, §405(1), July 1, 2009, 123 Stat. 1947.)
+(Pub. L. 89–329, title IV, §462, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1440; amended Pub. L. 100–50, §13(a)–(d), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §462, July 23, 1992, 106 Stat. 576; Pub. L. 103–208, §2(f)(1)–(4), Dec. 20, 1993, 107 Stat. 2470, 2471; Pub. L. 105–244, title IV, §462(a)(1), (2), (b)–(e), Oct. 7, 1998, 112 Stat. 1720–1723; Pub. L. 110–315, title IV, §462, Aug. 14, 2008, 122 Stat. 3266; Pub. L. 111–39, title IV, §405(1), July 1, 2009, 123 Stat. 1947; Pub. L. 116–260, div. FF, title VII, §704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3199, 3200.)
+
+#### Amendment of Section ####
+
+Pub. L. 116–260, div. FF, title VII, §§701(b), 704(1), (3), (4), Dec. 27, 2020, 134 Stat. 3137, 3199, 3200, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended:
+
+(1) by striking "the expected family contribution" each place the term appears and inserting "the student aid index";
+
+(2) by striking "an expected family contribution" each place the term appears and inserting "a student aid index"; and
+
+(3) by striking "average expected family contribution" each place the term appears and inserting "average student aid index".
+
+See 2020 Amendment notes below.
 
 #### References in Text ####
 
@@ -267,6 +279,18 @@ Section 1087aa of this title, referred to in subsecs. (a)(1) and (b)(1), (2)(A)(
 A prior section 1087bb, Pub. L. 89–329, title IV, §462, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 273; amended Pub. L. 96–374, title IV, §448(a), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1443, 1503, provided for apportionment of appropriations among States, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments ####
+
+**2020**—Subsec. (c)(2)(B). Pub. L. 116–260, §704(4), substituted "average student aid index" for "average expected family contribution".
+
+Pub. L. 116–260, §704(3), substituted "a student aid index" for "an expected family contribution".
+
+Subsec. (c)(2)(D)(ii), (F)(ii). Pub. L. 116–260, §704(1), substituted "the student aid index" for "the expected family contribution".
+
+Subsec. (c)(3)(B). Pub. L. 116–260, §704(4), substituted "average student aid index" for "average expected family contribution".
+
+Pub. L. 116–260, §704(3), substituted "a student aid index" for "an expected family contribution".
+
+Subsec. (c)(3)(D). Pub. L. 116–260, §704(1), substituted "the student aid index" for "the expected family contribution".
 
 **2009**—Subsec. (a)(1)(A). Pub. L. 111–39 added subpar. (A) and struck out former subpar. (A), resulting in text identical to that after execution of the amendment by Pub. L. 105–244, §462(a)(1)(A). See 1998 Amendment note below.
 
@@ -425,6 +449,10 @@ Subsec. (d)(3), (4). Pub. L. 100–50, §13(b), redesignated par. (3), defining 
 Subsec. (e). Pub. L. 100–50, §13(c), struck out "; cash on hand" after "collections" in heading.
 
 Subsec. (f). Pub. L. 100–50, §13(d), substituted "subsection (g) of this section" for "paragraph (2)".
+
+#### Effective Date of 2020 Amendment ####
+
+Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2009 Amendment ####
 

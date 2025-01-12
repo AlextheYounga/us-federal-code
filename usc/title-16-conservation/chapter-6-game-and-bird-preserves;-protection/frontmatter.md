@@ -2,7 +2,7 @@
 
 Sec.
 
-671. National Bison Range.
+671. Repealed and Omitted.
 
 672. Omitted.
 

@@ -84,7 +84,19 @@ Pub. L. 116–159, div. A, §159, Oct. 1, 2020, 134 Stat. 721, provided that: "N
 
 #### Source of Funds Used for Payment of Salaries and Expenses of Little Scholars Child Development Center ####
 
-Pub. L. 116–136, div. B, title IX, §19004, Mar. 27, 2020, 134 Stat. 578, provided that: "The Library of Congress shall reimburse Little Scholars Child Development Center for salaries for employees incurred from April 1, 2020, to September 30, 2020, for employees of such Center who have been ordered to cease working due to measures taken in the Capitol complex to combat coronavirus, not to exceed $113,000 per month, from amounts in the appropriations account 'Library of Congress—Salaries and Expenses'."
+Pub. L. 116–136, div. B, title IX, §19004, Mar. 27, 2020, 134 Stat. 578, as amended by Pub. L. 116–260, div. O, title XI, §1101(b)(1), (2), Dec. 27, 2020, 134 Stat. 2156, 2157, provided that:
+
+"(a) Reimbursements.—During the period beginning on the date of enactment of the Consolidated Appropriations Act, 2021 [Dec. 27, 2020] and ending on the termination date of the public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) resulting from the COVID–19 pandemic, the Library of Congress shall reimburse the Little Scholars Child Development Center for expenses, due to measures taken in the Capitol complex to combat coronavirus, as calculated under subsection (b) and from amounts in the appropriations account 'Library of Congress—Salaries and Expenses'.
+
+"(b) Amount.—The amount of the reimbursement under this section for each month of the period described in subsection (a) shall be equal to the difference between—
+
+"(1) the lesser of—
+
+"(A) the amount of the operating costs (including payroll, general, and administrative expenses) of the Center for such month; or
+
+"(B) $118,500; and
+
+"(2) the amount of tuition payments collected by the Center for such month."
 
 [For definition of "coronavirus" as used in section 19004 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out below.]
 

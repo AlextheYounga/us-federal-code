@@ -2388,6 +2388,44 @@ Sec.
 
 410dddd. White Sands National Park.
 
+#### SUBCHAPTER LIX–CCC—NEW RIVER GORGE NATIONAL PARK AND PRESERVE ####
+
+410eeee. New River Gorge National Park and Preserve Designation.
+
+410eeee–1. Establishment; administration, protection, and development; utilization of other authorities; boundary description, availability for public inspection.
+
+410eeee–2. Acquisition of property.
+
+410eeee–3. Lands and areas plan; submission to Congressional committees.
+
+410eeee–4. Zoning laws and ordinances; establishment; assistance; restrictions; variances.
+
+410eeee–5. Mineral lands.
+
+410eeee–6. Hunting and fishing zones; designation; rules and regulations, consultation.
+
+410eeee–7. Project work prohibition; advisement to Secretary; report to Congress.
+
+410eeee–8. General management plan; submission to Congressional committees.
+
+410eeee–9. Cooperation.
+
+410eeee–10. Class I or class II redesignation for clean air purposes.
+
+410eeee–11. Authorization of appropriations.
+
+410eeee–12. Cooperative agreements with State.
+
+410eeee–13. Improvement of access at Cunard.
+
+410eeee–14. Flow management.
+
+410eeee–15. Glade Creek visitor facility.
+
+410eeee–16. New River Gorge and Gauley River Visitor Center.
+
+410eeee–17. Applicable provisions of other law.
+
 #### SUBCHAPTER LIX–DDD—WEIR FARM NATIONAL HISTORICAL PARK ####
 
 410ffff. Definitions.
@@ -3548,39 +3586,7 @@ Sec.
 
 #### SUBCHAPTER LXXI–A—NEW RIVER GORGE NATIONAL RIVER ####
 
-460m–15. Establishment; administration, protection, and development; utilization of other authorities; boundary description, availability for public inspection.
-
-460m–16. Acquisition of property.
-
-460m–17. Lands and areas plan; submission to Congressional committees.
-
-460m–18. Zoning laws and ordinances; establishment; assistance; restrictions; variances.
-
-460m–19. Mineral lands.
-
-460m–20. Hunting and fishing zones; designation; rules and regulations, consultation.
-
-460m–21. Project work prohibition; advisement to Secretary; report to Congress.
-
-460m–22. General management plan; submission to Congressional committees.
-
-460m–23. Cooperation.
-
-460m–24. Class I or class II redesignation for clean air purposes.
-
-460m–25. Authorization of appropriations.
-
-460m–26. Cooperative agreements with State.
-
-460m–27. Improvement of access at Cunard.
-
-460m–28. Flow management.
-
-460m–29. Glade Creek visitor facility.
-
-460m–29a. New River Gorge and Gauley River Visitor Center.
-
-460m–30. Applicable provisions of other law.
+460m–15 to 460m–30. Transferred.
 
 #### SUBCHAPTER LXXII—LAKE MEAD NATIONAL RECREATION AREA ####
 

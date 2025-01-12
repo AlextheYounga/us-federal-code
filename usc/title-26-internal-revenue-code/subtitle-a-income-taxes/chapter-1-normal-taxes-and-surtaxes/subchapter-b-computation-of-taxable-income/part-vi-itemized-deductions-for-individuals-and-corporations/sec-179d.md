@@ -30,7 +30,7 @@ The term "energy efficient commercial building property" means property—
 
 (i) located in the United States, and
 
-(ii) within the scope of Standard 90.1–2007,
+(ii) within the scope of Reference Standard 90.1,
 
 (C) which is installed as part of—
 
@@ -40,11 +40,11 @@ The term "energy efficient commercial building property" means property—
 
 (iii) the building envelope, and
 
-(D) which is certified in accordance with subsection (d)(6) as being installed as part of a plan designed to reduce the total annual energy and power costs with respect to the interior lighting systems, heating, cooling, ventilation, and hot water systems of the building by 50 percent or more in comparison to a reference building which meets the minimum requirements of Standard 90.1–2007 using methods of calculation under subsection (d)(2).
+(D) which is certified in accordance with subsection (d)(6) as being installed as part of a plan designed to reduce the total annual energy and power costs with respect to the interior lighting systems, heating, cooling, ventilation, and hot water systems of the building by 50 percent or more in comparison to a reference building which meets the minimum requirements of Reference Standard 90.1 using methods of calculation under subsection (d)(2).
 
-#### (2) Standard 90.1–2007 ####
+#### (2) Reference Standard 90.1 ####
 
-The term "Standard 90.1–2007" means Standard 90.1–2007 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on the day before the date of the adoption of Standard 90.1–2010 of such Societies).
+The term "Reference Standard 90.1" means, with respect to any property, the most recent Standard 90.1 published by the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America which has been affirmed by the Secretary, after consultation with the Secretary of Energy, for purposes of this section not later than the date that is 2 years before the date that construction of such property begins.
 
 #### (d) Special rules ####
 
@@ -66,7 +66,7 @@ The Secretary, after consultation with the Secretary of Energy, shall establish 
 
 #### (2) Methods of calculation ####
 
-The Secretary, after consultation with the Secretary of Energy, shall promulgate regulations which describe in detail methods for calculating and verifying energy and power consumption and cost, based on the provisions of the 2005 California Nonresidential Alternative Calculation Method Approval Manual.
+The Secretary, after consultation with the Secretary of Energy, shall promulgate regulations which describe in detail methods for calculating and verifying energy and power consumption and cost with respect to any property, based on the provisions of the most recent California Nonresidential Alternative Calculation Method Approval Manual which has been affirmed by the Secretary, after consultation with the Secretary of Energy, for purposes of this section not later than the date that is 2 years before the date that construction of such property begins.
 
 #### (3) Computer software ####
 
@@ -140,7 +140,17 @@ This subsection shall not apply to any system—
 
 (ii) which does not meet the minimum requirements for calculated lighting levels as set forth in the Illuminating Engineering Society of North America Lighting Handbook, Performance and Application, Ninth Edition, 2000.
 
-#### (g) Regulations ####
+#### (g) Inflation adjustment ####
+
+In the case of a taxable year beginning after 2020, each dollar amount in subsection (b) or subsection (d)(1)(A) shall be increased by an amount equal to—
+
+(1) such dollar amount, multiplied by
+
+(2) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2019" for "calendar year 2016" in subparagraph (A)(ii) thereof.
+
+Any increase determined under the preceding sentence which is not a multiple of 1 cent shall be rounded to the nearest cent.
+
+#### (h) Regulations ####
 
 The Secretary shall promulgate such regulations as necessary—
 
@@ -148,13 +158,17 @@ The Secretary shall promulgate such regulations as necessary—
 
 (2) to provide for a recapture of the deduction allowed under this section if the plan described in subsection (c)(1)(D) or (d)(1)(A) is not fully implemented.
 
-#### (h) Termination ####
-
-This section shall not apply with respect to property placed in service after December 31, 2020.
-
-(Added Pub. L. 109–58, title XIII, §1331(a), Aug. 8, 2005, 119 Stat. 1020; amended Pub. L. 109–432, div. A, title II, §204, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title III, §303, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 113–295, div. A, title I, §158(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §190(a), title III, §341(a), (b), Dec. 18, 2015, 129 Stat. 3075, 3113; Pub. L. 115–123, div. D, title I, §40413(a), Feb. 9, 2018, 132 Stat. 151; Pub. L. 115–141, div. U, title IV, §401(a)(54), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 116–94, div. Q, title I, §131(a), Dec. 20, 2019, 133 Stat. 3232.)
+(Added Pub. L. 109–58, title XIII, §1331(a), Aug. 8, 2005, 119 Stat. 1020; amended Pub. L. 109–432, div. A, title II, §204, Dec. 20, 2006, 120 Stat. 2945; Pub. L. 110–343, div. B, title III, §303, Oct. 3, 2008, 122 Stat. 3845; Pub. L. 113–295, div. A, title I, §158(a), Dec. 19, 2014, 128 Stat. 4022; Pub. L. 114–113, div. Q, title I, §190(a), title III, §341(a), (b), Dec. 18, 2015, 129 Stat. 3075, 3113; Pub. L. 115–123, div. D, title I, §40413(a), Feb. 9, 2018, 132 Stat. 151; Pub. L. 115–141, div. U, title IV, §401(a)(54), Mar. 23, 2018, 132 Stat. 1186; Pub. L. 116–94, div. Q, title I, §131(a), Dec. 20, 2019, 133 Stat. 3232; Pub. L. 116–260, div. EE, title I, §102(a)–(c), Dec. 27, 2020, 134 Stat. 3039, 3040.)
 
 #### Amendments ####
+
+**2020**—Subsec. (c)(1)(B)(ii), (D). Pub. L. 116–260, §102(c)(1)(A), substituted "Reference Standard 90.1" for "Standard 90.1–2007".
+
+Subsec. (c)(2). Pub. L. 116–260, §102(c)(1)(B), amended par. (2) generally. Prior to amendment, text read as follows: "The term 'Standard 90.1–2007' means Standard 90.1–2007 of the American Society of Heating, Refrigerating, and Air Conditioning Engineers and the Illuminating Engineering Society of North America (as in effect on the day before the date of the adoption of Standard 90.1–2010 of such Societies)."
+
+Subsec. (d)(2). Pub. L. 116–260, §102(c)(2), substituted "with respect to any property, based on the provisions of the most recent California Nonresidential Alternative Calculation Method Approval Manual which has been affirmed by the Secretary, after consultation with the Secretary of Energy, for purposes of this section not later than the date that is 2 years before the date that construction of such property begins" for ", based on the provisions of the 2005 California Nonresidential Alternative Calculation Method Approval Manual".
+
+Subsecs. (g), (h). Pub. L. 116–260, §102(a), (b), added subsec. (g), redesignated former subsec. (g) as (h), and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows: "This section shall not apply with respect to property placed in service after December 31, 2020."
 
 **2019**—Subsec. (h). Pub. L. 116–94 substituted "December 31, 2020" for "December 31, 2017".
 
@@ -177,6 +191,10 @@ Subsec. (h). Pub. L. 114–113, §190(a), substituted "December 31, 2016" for "D
 **2008**—Subsec. (h). Pub. L. 110–343 substituted "December 31, 2013" for "December 31, 2008".
 
 **2006**—Subsec. (h). Pub. L. 109–432 substituted "2008" for "2007".
+
+#### Effective Date of 2020 Amendment ####
+
+Pub. L. 116–260, div. EE, title I, §102(d), Dec. 27, 2020, 134 Stat. 3040, provided that: "The amendments made by this section [amending this section] shall apply to property placed in service after December 31, 2020."
 
 #### Effective Date of 2019 Amendment ####
 

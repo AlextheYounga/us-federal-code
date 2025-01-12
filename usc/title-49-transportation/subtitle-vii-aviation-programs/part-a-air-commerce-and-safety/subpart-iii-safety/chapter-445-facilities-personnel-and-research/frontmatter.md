@@ -38,7 +38,11 @@ Sec.
 
 44518. Advanced Materials Center of Excellence.
 
+44519. Certification personnel continuing education and training.
+
 #### Amendments ####
+
+**2020**—Pub. L. 116–260, div. V, title I, §112(b), Dec. 27, 2020, 134 Stat. 2332, added item 44519.
 
 **2018**—Pub. L. 115–254, div. B, title V, §524(b), title VII, §762(b), Oct. 5, 2018, 132 Stat. 3364, 3428, substituted "Regions and centers" for "Civil aeromedical research" in item 44507 and added item 44518.
 

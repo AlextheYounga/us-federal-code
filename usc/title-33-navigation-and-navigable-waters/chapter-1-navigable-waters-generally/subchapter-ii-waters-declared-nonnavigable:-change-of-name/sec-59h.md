@@ -1,11 +1,25 @@
-### §59h. Northern Embarcadero area, San Francisco, California ###
+### §59h. San Francisco, California, Waterfront Area ###
 
-That portion of the Northern Embarcadero area, beginning at the intersection of the northwesterly line of Bryant Street with the southwesterly line of Spear Street, which intersection lies on the line of jurisdiction of the San Francisco Port Authority; following thence westerly and northerly along said line of jurisdiction as described in the State of California Harbor and Navigation Code Section 1770, as amended in 1961, to its intersection with the easterly line of Van Ness Avenue produced northerly; thence northerly along said easterly line of Van Ness Avenue produced to its intersection with the United States Government pier-head line; thence following said pier-head line easterly and southerly to its intersection with the northwesterly line of Bryant Street produced northeasterly; thence southwesterly along said northwesterly line of Bryant Street produced to the point of beginning, is hereby declared to be nonnavigable waters within the meaning of the laws of the United States, and the consent of Congress is hereby given for the filling in of all or any part of the described area. This declaration shall apply only to portions of the above-described area which are bulkheaded and filled or are occupied by permanent pile-supported structures. Plans for bulkheading and filling and permanent pile-supported structures shall be approved by the Secretary of the Army, acting through the Chief of Engineers, on the basis of engineering studies to determine the location and structural stability of the bulkheading and filling and permanent pile-supported structures in order to preserve and maintain the remaining navigable waterway. Local interests shall reimburse the Federal Government for any engineering costs incurred under this section.
+#### (a) Area to be declared nonnavigable ####
 
-(Pub. L. 90–483, title I, §114, Aug. 13, 1968, 82 Stat. 736.)
+The following area is declared to be nonnavigable waters of the United States: All of that portion of the City and County of San Francisco, California, lying shoreward of a line beginning at the intersection of the southerly right of way line of Earl Street prolongation with the Pierhead United States Government Pierhead line, the Pierhead line as defined in the State of California Harbor and Navigation Code Section 1770, as amended in 1961; thence northerly along said Pierhead line to its intersection with a line parallel with and distant 10 feet easterly from, the existing easterly boundary line of Pier 30–32; thence northerly along said parallel line and its northerly prolongation, to a point of intersection with a line parallel with, and distant 10 feet northerly from, the existing northerly boundary of Pier 30–32; thence westerly along last said parallel line to its intersection with said Pierhead line; thence northerly along said Pierhead line, to the intersection of the easterly right of way line of Van Ness Avenue, formerly Marlette Street, prolongation to the Pierhead line.
+
+#### (b) Requirement that area be improved ####
+
+The declaration of nonnavigability under subsection (a) applies only to those parts of the area described in subsection (a) that are or will be bulkheaded, filled, or otherwise occupied or covered by permanent structures and does not affect the applicability of any Federal statute or regulation that relates to filling of navigable waters or to other regulated activities within the area described in subsection (a), including sections 9 and 10 of the Act of March 3, 1899 (33 U.S.C. 401, 403), section 404 of the Federal Water Pollution Control Act [33 U.S.C. 1344], and the National Environmental Policy Act of 1969 [42 U.S.C. 4321 et seq.].
+
+#### (c) Inclusion of Embarcadero Historic District ####
+
+Congress finds and declares that the area described in subsection (a) contains the seawall, piers, and wharves that comprise the Embarcadero Historic District listed on the National Register of Historic Places on May 12, 2006.
+
+(Pub. L. 90–483, title I, §114, Aug. 13, 1968, 82 Stat. 736; Pub. L. 116–260, div. AA, title III, §316(a), Dec. 27, 2020, 134 Stat. 2706.)
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
 
-Section 1770 of the State of California Harbor and Navigation Code was repealed by Cal. Stats. 1970, ch. 385, p. 799, §2.
+The National Environmental Policy Act of 1969, referred to in susbec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+#### Amendments ####
+
+**2020**—Pub. L. 116–260 amended section generally. Prior to amendment, section related to Northern Embarcadero area, San Francisco, California.

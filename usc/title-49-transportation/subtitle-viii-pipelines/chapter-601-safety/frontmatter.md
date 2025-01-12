@@ -84,7 +84,13 @@ Sec.
 
 60141. Standards for underground natural gas storage facilities.
 
+60142. Pipeline safety enhancement programs.
+
+60143. Idled pipelines.
+
 #### Amendments ####
+
+**2020**—Pub. L. 116–260, div. R, title I, §§104(b), 109(b), Dec. 27, 2020, 134 Stat. 2219, 2224, added items 60142 and 60143.
 
 **2016**—Pub. L. 114–183, §12(d)(1), June 22, 2016, 130 Stat. 524, added item 60141.
 

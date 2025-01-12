@@ -150,15 +150,11 @@ Sec.
 
 579b. Omitted.
 
-579c. Backlog prevention: projects from Public Law 113–121.
+579c to 579c–2. Repealed.
 
-579c–1. Backlog prevention: projects from Public Law 114–322.
+579d, 579d–1. Repealed.
 
-579c–2. Backlog prevention: projects from Public Law 115–270.
-
-579d. Deauthorization of inactive projects as of Public Law 114–322.
-
-579d–1. Deauthorization of inactive projects as of Public Law 115–270.
+579d–2. Deauthorization of inactive projects.
 
 579e. Access to real estate data.
 
@@ -255,3 +251,5 @@ Sec.
 633. Protection, alteration, reconstruction, relocation, or replacement of structures and facilities; contract standards; reasonable costs.
 
 634. Assistance relating to water supply.
+
+635. Coast Guard anchorages.

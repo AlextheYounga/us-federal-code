@@ -532,9 +532,11 @@ Pub. L. 102–429, title I, §117, Oct. 21, 1992, 106 Stat. 2196, provided that:
 
 "(B) whether or not the authority of subsection (a) should be extended."
 
-[Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598, provided in part: "That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 [Pub. L. 102–429, set out above], subsection (a) thereof shall remain in effect until September 30, 2015".]
+[Pub. L. 116–260, div. K, title VI, Dec. 27, 2020, 134 Stat. 1716, provided in part: "That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 [Pub. L. 102–429, set out above], subsection (a) of such section shall remain in effect until September 30, 2021".]
 
 [Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
+
+[Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598.
 
 [Pub. L. 113–76, div. K, title VI, Jan. 17, 2014, 128 Stat. 489.
 
@@ -585,6 +587,8 @@ A Board of Directors and an Advisory Committee reestablished for the Export-Impo
 #### Termination of Advisory Committees ####
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### **Executive Documents** ####
 
 #### Termination of Foreign Economic Administration ####
 

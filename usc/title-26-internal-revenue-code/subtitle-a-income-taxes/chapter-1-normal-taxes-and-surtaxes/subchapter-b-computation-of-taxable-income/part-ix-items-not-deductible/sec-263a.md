@@ -248,19 +248,13 @@ This subsection shall apply to any interest on indebtedness allocable (as determ
 
 #### (4) Exemption for aging process of beer, wine, and distilled spirits ####
 
-#### (A) In general ####
-
 For purposes of this subsection, the production period shall not include the aging period for—
 
-(i) beer (as defined in section 5052(a)),
+(A) beer (as defined in section 5052(a)),
 
-(ii) wine (as described in section 5041(a)), or
+(B) wine (as described in section 5041(a)), or
 
-(iii) distilled spirits (as defined in section 5002(a)(8)), except such spirits that are unfit for use for beverage purposes.
-
-#### (B) Termination ####
-
-This paragraph shall not apply to interest costs paid or accrued after December 31, 2020.
+(C) distilled spirits (as defined in section 5002(a)(8)), except such spirits that are unfit for use for beverage purposes.
 
 #### (5) Definitions ####
 
@@ -378,13 +372,15 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (2) regulations providing for simplified procedures for the application of this section in the case of property described in subsection (b)(2).
 
-(Added Pub. L. 99–514, title VIII, §803(a), Oct. 22, 1986, 100 Stat. 2350; amended Pub. L. 100–647, title I, §1008(b)(1)–(4), title VI, §6026(a)–(c), Nov. 10, 1988, 102 Stat. 3437, 3438, 3691–3693; Pub. L. 101–239, title VII, §7816(d)(1), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 106–170, title V, §532(c)(2)(B), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title III, §338(b)(2), Oct. 22, 2004, 118 Stat. 1481; Pub. L. 109–58, title XIII, §1329(b), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 114–113, div. Q, title I, §143(b)(6)(H), Dec. 18, 2015, 129 Stat. 3064; Pub. L. 115–97, title I, §§13102(b), 13207(a), 13801(a), (b), Dec. 22, 2017, 131 Stat. 2103, 2113, 2169, 2170; Pub. L. 116–94, div. Q, title I, §144(a)(1), Dec. 20, 2019, 133 Stat. 3234.)
+(Added Pub. L. 99–514, title VIII, §803(a), Oct. 22, 1986, 100 Stat. 2350; amended Pub. L. 100–647, title I, §1008(b)(1)–(4), title VI, §6026(a)–(c), Nov. 10, 1988, 102 Stat. 3437, 3438, 3691–3693; Pub. L. 101–239, title VII, §7816(d)(1), Dec. 19, 1989, 103 Stat. 2420; Pub. L. 106–170, title V, §532(c)(2)(B), Dec. 17, 1999, 113 Stat. 1930; Pub. L. 108–357, title III, §338(b)(2), Oct. 22, 2004, 118 Stat. 1481; Pub. L. 109–58, title XIII, §1329(b), Aug. 8, 2005, 119 Stat. 1020; Pub. L. 114–113, div. Q, title I, §143(b)(6)(H), Dec. 18, 2015, 129 Stat. 3064; Pub. L. 115–97, title I, §§13102(b), 13207(a), 13801(a), (b), Dec. 22, 2017, 131 Stat. 2103, 2113, 2169, 2170; Pub. L. 116–94, div. Q, title I, §144(a)(1), Dec. 20, 2019, 133 Stat. 3234; Pub. L. 116–260, div. EE, title I, §106(a)(1), Dec. 27, 2020, 134 Stat. 3041.)
 
 #### References in Text ####
 
 The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (d)(2)(C)(ii), probably means the date of enactment of title I of Pub. L. 115–97, which was approved Dec. 22, 2017. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97.
 
 #### Amendments ####
+
+**2020**—Subsec. (f)(4). Pub. L. 116–260 amended par. (4) generally. Prior to amendment, par. (4) consisted of subpars. (A) and (B) relating to exemption for aging process of beer, wine, and distilled spirits, and termination of such exemption after Dec. 31, 2020, respectively.
 
 **2019**—Subsec. (f)(4)(B). Pub. L. 116–94 substituted "December 31, 2020" for "December 31, 2019".
 
@@ -441,6 +437,10 @@ Subsec. (e). Pub. L. 100–647, §6026(b)(2)(B), struck out "or animal" after "p
 Subsec. (f)(3). Pub. L. 100–647, §1008(b)(4), substituted "allocable (as determined under paragraph (2)) to" for "incurred or continued in connection with" and inserted "(as so determined)" after "allocable".
 
 Subsecs. (h), (i). Pub. L. 100–647, §6026(a), added subsec. (h) and redesignated former subsec. (h) as (i).
+
+#### Effective Date of 2020 Amendment ####
+
+Pub. L. 116–260, div. EE, title I, §106(a)(2), Dec. 27, 2020, 134 Stat. 3042, provided that: "The amendment made by this subsection [amending this section] shall apply to interest costs paid or accrued after December 31, 2020."
 
 #### Effective Date of 2019 Amendment ####
 

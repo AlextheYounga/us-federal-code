@@ -38,11 +38,55 @@ The designation of a qualified State or local development company as an accredit
 
 A suspension or revocation under paragraph (1) shall not affect any outstanding debenture guarantee.
 
-#### (e) "Qualified State or local development company" defined ####
+#### (e) Express loan authority ####
 
-For purposes of this section, the term "qualified State or local development company" has the same meaning as in section 697(e) of this title.
+A local development company designated as an accredited lender in accordance with subsection (b)—
 
-(Pub. L. 85–699, title V, §507, as added Pub. L. 103–403, title II, §212(a), Oct. 22, 1994, 108 Stat. 4183.)
+(1) may—
+
+(A) approve, authorize, close, and service covered loans that are funded with proceeds of a debenture issued by the company; and
+
+(B) authorize the guarantee of a debenture described in subparagraph (A); and
+
+(2) with respect to a covered loan, shall be subject to final approval as to eligibility of any guarantee by the Administration pursuant to section 697(a) of this title, but such final approval shall not include review of decisions by the lender involving creditworthiness, loan closing, or compliance with legal requirements imposed by law or regulation.
+
+#### (f) Definitions ####
+
+In this section—
+
+(1) the term "accredited lender certified company" means a certified development company that meets the requirements under subsection (b), including a certified development company that the Administration has designated as an accredited lender under that subsection;
+
+(2) the term "covered loan"—
+
+(A) means a loan made under section 696 of this title in an amount that is not more than $500,000; and
+
+(B) does not include a loan made to a borrower that is in an industry that has a high rate of default, as annually determined by the Administrator and reported in rules of the Administration; and
+
+(3) the term "qualified State or local development company" has the meaning given the term in section 697(e) of this title.
+
+(Pub. L. 85–699, title V, §507, as added Pub. L. 103–403, title II, §212(a), Oct. 22, 1994, 108 Stat. 4183; amended Pub. L. 116–260, div. N, title III, §328(b), Dec. 27, 2020, 134 Stat. 2040.)
+
+#### Amendment of Section ####
+
+Pub. L. 116–260, div. N, title III, §328(b)(2), Dec. 27, 2020, 134 Stat. 2040, provided that, effective Sept. 30, 2023, this section is amended by striking subsections (e) and (f) and inserting the following:
+
+#### *(e) Definition* ####
+
+*In this section, the term "qualified State or local development company" has the meaning given the term in section 697(e) of this title.*
+
+See 2020 Amendment note below.
+
+#### Amendments ####
+
+**2020**—Subsecs. (e), (f). Pub. L. 116–260, §328(b)(2), added subsec. (e) and struck out former subsec. (e), which related to express loan authority of a local development company designated as an accredited lender, and subsec. (f), which defined terms "accredited lender certified company", "covered loan", and "qualified State or local development company" in this section.
+
+Pub. L. 116–260, §328(b)(1), added subsecs. (e) and (f) and struck out former subsec. (e), which defined "qualified State or local development company" for purposes of this section.
+
+#### Effective Date of 2020 Amendment ####
+
+Pub. L. 116–260, div. N, title III, §328(b)(2), Dec. 27, 2020, 134 Stat. 2040, provided in part that the amendment made by section 328(b)(2) is effective on Sept. 30, 2023.
+
+Except as otherwise provided, amendment by Pub. L. 116–260 effective on Dec. 27, 2020, and applicable to loans and grants made on or after Dec. 27, 2020, see section 348 of Pub. L. 116–260, set out as a note under section 636 of this title.
 
 #### Regulations ####
 

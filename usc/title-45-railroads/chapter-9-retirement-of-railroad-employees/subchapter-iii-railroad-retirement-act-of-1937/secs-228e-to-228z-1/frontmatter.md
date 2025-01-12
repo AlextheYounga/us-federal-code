@@ -34,9 +34,9 @@ Section 228p, act Aug. 29, 1935, ch. 812, §16, as added June 24, 1937, ch. 382,
 
 Section 228q, act Aug. 29, 1935, ch. 812, §17, as added June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 317; amended Oct. 30, 1951, ch. 632, §24, 65 Stat. 690, defined "employment" as used in this subchapter. See section 231q of this title.
 
-Section 228r, act Aug. 29, 1935, ch. 812, §18, as added June 24, 1917, ch. 382, pt. I, §1, 50 Stat. 318, related to free transportation. See section 231p of this title.
+Section 228r, act Aug. 29, 1935, ch. 812, §18, as added June 24, 1937, ch. 382, pt. I, §1, 50 Stat. 318, related to free transportation. See section 231p of this title.
 
-Section 228s, act Aug. 29, 1935, ch. 812, §19(a), (b), as added June 24, 1917, ch. 382, pt. I, §1, as added Apr. 8, 1942, ch. 227, §11, 56 Stat. 207, 208; amended Oct. 30, 1966, Pub. L. 89–700, title I, §109, 80 Stat. 1085, related to incompetence. See section 231k of this title.
+Section 228s, act Aug. 29, 1935, ch. 812, §19(a), (b), as added June 24, 1937, ch. 382, pt. I, §1, as added Apr. 8, 1942, ch. 227, §11, 56 Stat. 207, 208; amended Oct. 30, 1966, Pub. L. 89–700, title I, §109, 80 Stat. 1085, related to incompetence. See section 231k of this title.
 
 Section 228s–1, act June 24, 1937, ch. 382, pt. I, §20, as added Aug. 31, 1954, ch. 1164, pt. I, §15, 68 Stat. 1040; amended May 19, 1959, Pub. L. 86–28, pt. I, §4, 73 Stat. 28; Aug. 29, 1959, Pub. L. 86–211, §8(c), 73 Stat. 436; Oct. 30, 1966, Pub. L. 89–700, title I, §110, 80 Stat. 1085, related to waiver of annuities and pensions under this subchapter. See section 231k of this title
 

@@ -1882,7 +1882,7 @@ Pub. L. 94–455, title XIX, §1951(b)(1)(B), Oct. 4, 1976, 90 Stat. 1836, provi
 
 #### Special Rules for Use of Retirement Funds ####
 
-Pub. L. 116–136, div. A, title II, §2202, Mar. 27, 2020, 134 Stat. 340, provided that:
+Pub. L. 116–136, div. A, title II, §2202, Mar. 27, 2020, 134 Stat. 340, as amended by Pub. L. 116–260, div. N, title II, §280(a), Dec. 27, 2020, 134 Stat. 1982, provided that:
 
 "(a) Tax-favored Withdrawals From Retirement Plans.—
 
@@ -1932,7 +1932,7 @@ Pub. L. 116–136, div. A, title II, §2202, Mar. 27, 2020, 134 Stat. 340, provi
 
 "(A) Exemption of distributions from trustee to trustee transfer and withholding rules.—For purposes of sections 401(a)(31), 402(f), and 3405 of the Internal Revenue Code of 1986, coronavirus-related distributions shall not be treated as eligible rollover distributions.
 
-"(B) Coronavirus-related distributions treated as meeting plan distribution requirements.—For purposes of the Internal Revenue Code of 1986, a coronavirus-related distribution shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(i), 403(b)(11), and 457(d)(1)(A) of such Code and section 8433(h)(1) of title 5, United States Code.
+"(B) Coronavirus-related distributions treated as meeting plan distribution requirements.—For purposes of the Internal Revenue Code of 1986, a coronavirus-related distribution shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(i), 403(b)(11), and 457(d)(1)(A) of such Code and section 8433(h)(1) of title 5, United States Code, and, in the case of a money purchase pension plan, a coronavirus-related distribution which is an in-service withdrawal shall be treated as meeting the distribution rules of section 401(a) of the Internal Revenue Code of 1986.
 
 "(b) Loans From Qualified Plans.—
 
@@ -1981,6 +1981,8 @@ Pub. L. 116–136, div. A, title II, §2202, Mar. 27, 2020, 134 Stat. 340, provi
  the plan or contract is operated as if such plan or contract amendment were in effect, and
 
 "(ii) such plan or contract amendment applies retroactively for such period."
+
+[Pub. L. 116–260, div. N, title II, §280(b), Dec. 27, 2020, 134 Stat. 1982, provided that: "The amendment made by this section [amending section 2202 of Pub. L. 116–136, set out above] shall apply as if included in the enactment of section 2202 of the CARES Act [Pub. L. 116–136, approved Mar. 27, 2020]."]
 
 #### Applicability of Subsection (t) ####
 

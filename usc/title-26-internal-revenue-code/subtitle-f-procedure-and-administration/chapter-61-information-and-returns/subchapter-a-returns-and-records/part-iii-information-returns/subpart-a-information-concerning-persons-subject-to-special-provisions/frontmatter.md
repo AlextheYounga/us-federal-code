@@ -28,6 +28,8 @@ Sec.
 
 6038D. Information with respect to foreign financial assets.
 
+6038E. Information with respect to assignment of lower rates or refunds by foreign producers of beer, wine, and distilled spirits.
+
 6039. Returns required in connection with certain options.
 
 [6039A, 6039B. Repealed.]
@@ -53,6 +55,8 @@ Sec.
 6040. Cross references.
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–260, div. EE, title I, §107(d)(2), Dec. 27, 2020, 134 Stat. 3048, added item 6038E.
 
 **2017**—Pub. L. 115–97, title I, §13821(c)(2), Dec. 22, 2017, 131 Stat. 2182, substituted "Information With Respect to Alaska Native Settlement Trusts and Native Corporations" for "Information with respect to Alaska Native Settlement Trusts and sponsoring Native Corporations" in item 6039H.
 
@@ -107,6 +111,10 @@ Pub. L. 96–223, title IV, §401(a), Apr. 2, 1980, 94 Stat. 299, repealed Pub. 
 **1960**—Pub. L. 86–780, §6(b)(1), Sept. 14, 1960, 74 Stat. 1015, added item 6038 and redesignated former item 6038 as 6039.
 
 **1958**—Pub. L. 85–866, title I, §64(d)(4), Sept. 2, 1958, 72 Stat. 1657, added item 6037 and redesignated former item 6037 as 6038.
+
+#### Authority to Waive Certain Information Reporting Requirements ####
+
+Pub. L. 116–260, div. N, title II, §279, Dec. 27, 2020, 134 Stat. 1982, provided that: "The Secretary of the Treasury (or the Secretary's delegate) may provide an exception from any requirement to file an information return otherwise required by chapter 61 of the Internal Revenue Code of 1986 [26 U.S.C. 6001 et seq.] with respect to any amount excluded from gross income by reason of section 7A(i) of the Small Business Act [15 U.S.C. 636m(i)] or section 276(b) [15 U.S.C. 636 note], 277 [20 U.S.C. 1001 note], or 278 [15 U.S.C. 9008 note] of this subtitle [subtitle B of title II of div. N of Pub. L. 116–260]."
 
 [<sup>1</sup> So in original. Pub. L. 98–611 and Pub. L. 98–612 enacted identical items designated "6039D". Pub. L. 99–514, §1879(d)(2), repealed the section 6039D enacted by Pub. L. 98–612 without corresponding amendment of subpart analysis.](#I_1)
 

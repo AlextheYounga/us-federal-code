@@ -226,7 +226,9 @@ Par. (11). Pub. L. 113–67, §101(d)(2)(C), redesignated par. (11) as (9).
 
 #### Temporary Suspension of Medicare Sequestration ####
 
-Pub. L. 116–136, div. A, title III, §3709(a), Mar. 27, 2020, 134 Stat. 421, provided that: "During the period beginning on May 1, 2020 and ending on December 31, 2020, the Medicare programs under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) shall be exempt from reduction under any sequestration order issued before, on, or after the date of enactment of this Act [Mar. 27, 2020]."
+Pub. L. 116–136, div. A, title III, §3709(a), Mar. 27, 2020, 134 Stat. 421, as amended by Pub. L. 116–260, div. N, title I, §102(a), Dec. 27, 2020, 134 Stat. 1950, provided that: "During the period beginning on May 1, 2020 and ending on March 31, 2021, the Medicare programs under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) shall be exempt from reduction under any sequestration order issued before, on, or after the date of enactment of this Act [Mar. 27, 2020]."
+
+[Pub. L. 116–260, div. N, title I, §102(b), Dec. 27, 2020, 134 Stat. 1950, provided that: "The amendment made by subsection (a) [amending section 3709(a) of Pub. L. 116–136, set out above] shall take effect as if enacted as part of the CARES Act (Public Law 116–136)."]
 
 #### 2013 Sequester ####
 

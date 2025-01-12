@@ -240,9 +240,176 @@ The adjusted available income (as determined under subsection (a)(1) and hereaft
 
 In the case of a student who is divorced or separated, or whose spouse has died, the spouse's income and assets shall not be considered in determining the family's available income or assets.
 
-(Pub. L. 89–329, title IV, §477, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1465; amended Pub. L. 100–50, §14(1)–(6), (8), (18), (19), June 3, 1987, 101 Stat. 349–351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 597; Pub. L. 103–208, §2(g)(2), (7), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(i), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §475, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(c)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(c), Sept. 27, 2007, 121 Stat. 802; Pub. L. 111–39, title IV, §406(a)(3), July 1, 2009, 123 Stat. 1948.)
+(Pub. L. 89–329, title IV, §477, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1465; amended Pub. L. 100–50, §14(1)–(6), (8), (18), (19), June 3, 1987, 101 Stat. 349–351; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 597; Pub. L. 103–208, §2(g)(2), (7), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–78, title VI, §609(i), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §475, Oct. 7, 1998, 112 Stat. 1730; Pub. L. 109–171, title VIII, §8017(c)(1), Feb. 8, 2006, 120 Stat. 173; Pub. L. 110–84, title VI, §601(c), Sept. 27, 2007, 121 Stat. 802; Pub. L. 111–39, title IV, §406(a)(3), July 1, 2009, 123 Stat. 1948; Pub. L. 116–260, div. FF, title VII, §702(f), Dec. 27, 2020, 134 Stat. 3147.)
+
+#### Amendment of Section ####
+
+Pub. L. 116–260, div. FF, title VII, §§701(b), 702(f), Dec. 27, 2020, 134 Stat. 3137, 3147, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+
+#### §1087qq. Student aid index for independent students with dependents other than a spouse ####
+
+#### *(a) Computation of student aid index* ####
+
+#### *(1) In general* ####
+
+*For each independent student with dependents other than a spouse, the student aid index is equal to the amount determined by—*
+
+*(A) computing adjusted available income by adding—*
+
+*(i) the family's available income (determined in accordance with subsection (b)); and*
+
+*(ii) the family's available assets (determined in accordance with subsection (c));*
+
+*(B) assessing such adjusted available income in accordance with an assessment schedule set forth in subsection (d); and*
+
+*(C) considering such assessment resulting under subparagraph (B) as the amount determined under this subsection.*
+
+#### *(2) Exception* ####
+
+*If the sum determined under paragraph (1) with respect to an independent student with dependents other than a spouse is less than − $1,500, the student aid index for the independent student shall be − $1,500.*
+
+#### *(b) Family's available income* ####
+
+#### *(1) In general* ####
+
+*The family's available income is determined by deducting from total income (as defined in section 1087vv of this title)—*
+
+*(A) Federal income taxes;*
+
+*(B) an allowance for payroll taxes, determined in accordance with paragraph (2);*
+
+*(C) an income protection allowance, determined in accordance with paragraph (3); and*
+
+*(D) an employment expense allowance, determined in accordance with paragraph (4).*
+
+#### *(2) Allowance for payroll taxes* ####
+
+*The allowance for payroll taxes is equal to the sum of—*
+
+*(A) the total amount earned by the student (and spouse, if appropriate), multiplied by the rate of tax under section 3101(b) of title 26; and*
+
+*(B) the amount earned by the student (and spouse, if appropriate) that does not exceed such contribution and benefit base (twice such contribution and benefit base, in the case of a joint return) for the year of the earnings, multiplied by the rate of tax applicable to such earnings under section 3101(a) of title 26.*
+
+#### *(3) Income protection allowance* ####
+
+*The income protection allowance shall equal the amount determined in the following table, as adjusted by the Secretary pursuant to section 1078rr(b) of this title:*
+
+*(A) In the case of a married independent student with dependents:*
+
+|Family Size (including<br/><br/>student)|Amount |
+|----------------------------------------|-------|
+|                   3                    |$46,140|
+|                   4                    |$56,970|
+|                   5                    |$67,230|
+|                   6                    |$78,620|
+|        For each additional add         |$8,880.|
+
+*(B) In the case of a single independent student with dependents:*
+
+|Family Size (including<br/><br/>student)| Amount |
+|----------------------------------------|--------|
+|                   2                    |$43,920 |
+|                   3                    |$54,690 |
+|                   4                    |$67,520 |
+|                   5                    |$79,680 |
+|                   6                    |$93,180 |
+|        For each additional add         |$10,530.|
+
+#### *(4) Employment expense allowance* ####
+
+*The employment expense allowance is equal to the lesser of $4,000 or 35 percent of the student's earned income or the combined earned income of the student and the student's spouse, if applicable (as adjusted by the Secretary pursuant to section 1087rr(g) of this title).*
+
+#### *(c) Family's available assets* ####
+
+#### *(1) In general* ####
+
+#### *(A) Determination* ####
+
+*Except as provided in subparagraph (B), the family's available assets are equal to—*
+
+*(i) the difference between the family's assets (as defined in 1087vv(f) of this title) and the asset protection allowance (determined in accordance with paragraph (2)); multiplied by*
+
+*(ii) 7 percent.*
+
+#### *(B) Not less than zero* ####
+
+*The family's available assets under this subsection shall not be less than zero.*
+
+#### *(2) Asset protection allowance* ####
+
+*The asset protection allowance is calculated based on the following table (as revised by the Secretary pursuant to section 1087rr(d) of this title):*
+
+| If the age of the student is—|And the student is|        |
+|------------------------------|------------------|--------|
+|           married            |      single      |        |
+|                              |                  |        |
+|  (1)then the allowance is—   |                  |        |
+|                              |                  |        |
+|          25 or less          |        $ 0       |   $0   |
+|              26              |       $400       |  $100  |
+|              27              |       $700       |  $300  |
+|              28              |      $1,100      |  $400  |
+|              29              |      $1,500      |  $600  |
+|              30              |      $1,800      |  $700  |
+|              31              |      $2,200      |  $800  |
+|              32              |      $2,600      | $1,000 |
+|              33              |      $2,900      | $1,100 |
+|              34              |      $3,300      | $1,300 |
+|              35              |      $3,700      | $1,400 |
+|              36              |      $4,000      | $1,500 |
+|              37              |      $4,400      | $1,700 |
+|              38              |      $4,800      | $1,800 |
+|              39              |      $5,100      | $2,000 |
+|              40              |      $5,500      | $2,100 |
+|              41              |      $5,600      | $2,200 |
+|              42              |      $5,700      | $2,200 |
+|              43              |      $5,900      | $2,300 |
+|              44              |      $6,000      | $2,300 |
+|              45              |      $6,200      | $2,400 |
+|              46              |      $6,300      | $2,400 |
+|              47              |      $6,500      | $2,500 |
+|              48              |      $6,600      | $2,500 |
+|              49              |      $6,800      | $2,600 |
+|              50              |      $7,000      | $2,700 |
+|              51              |      $7,100      | $2,700 |
+|              52              |      $7,300      | $2,800 |
+|              53              |      $7,500      | $2,900 |
+|              54              |      $7,700      | $2,900 |
+|              55              |      $7,900      | $3,000 |
+|              56              |      $8,100      | $3,100 |
+|              57              |      $8,400      | $3,100 |
+|              58              |      $8,600      | $3,200 |
+|              59              |      $8,800      | $3,300 |
+|              60              |      $9,100      | $3,400 |
+|              61              |      $9,300      | $3,500 |
+|              62              |      $9,600      | $3,600 |
+|              63              |      $9,900      | $3,700 |
+|              64              |     $10,200      | $3,800 |
+|          65 or more          |     $10,500      | $3,900.|
+
+#### *(d) Assessment schedule* ####
+
+*The assessment of adjusted available income (as determined under subsection (a)(1) and hereafter in this subsection referred to as "AAI") is calculated based on the following table (as revised by the Secretary pursuant to section 1087rr(e) of this title):*
+
+|    If AAI is—     |     Then the assessment is—     |
+|-------------------|---------------------------------|
+|Less than − $6,820 |            − $1,500             |
+|− $6,820 to $17,400|           22% of AAI            |
+| $17,401 to $21,800|$3,828 + 25% of AAI over $17,400 |
+| $21,801 to $26,200|$4,928 + 29% of AAI over $21,800 |
+| $26,201 to $30,700|$6,204 + 34% of AAI over $26,200 |
+| $30,701 to $35,100|$7,734 + 40% of AAI over $30,700 |
+|  $35,101 or more  |$9,494 + 47% of AAI over $35,100.|
+
+#### *(e) Computations in case of separation, divorce, or death* ####
+
+*In the case of a student who is divorced or separated, or whose spouse has died, the spouse's income and assets shall not be considered in determining the family's available income or assets.*
+
+See 2020 Amendment note below.
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–260 amended section generally. Prior to amendment, section related to family contribution for independent students with dependents other than a spouse.
 
 **2009**—Subsec. (b)(5)(B). Pub. L. 111–39 made technical amendment to reference in original act which appears in text as reference to section 2 of title 26.
 
@@ -285,6 +452,10 @@ Subsec. (c)(4)(B). Pub. L. 100–50, §14(5), substituted "$15,999" for "$15,000
 Subsec. (c)(4)(C). Pub. L. 100–50, §14(6), substituted "$16,000" for "$15,000" in three places.
 
 Subsec. (d). Pub. L. 100–50, §14(1), (8), substituted "section 1087rr of this title" for "section 1087ss of this title" in text and inserted a minus sign before "$3,409" in two places in table.
+
+#### Effective Date of 2020 Amendment ####
+
+Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2009 Amendment ####
 

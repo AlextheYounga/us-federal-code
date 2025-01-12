@@ -2,7 +2,7 @@
 
 Sec.
 
-501. House Commission on Congressional Mailing Standards.
+501. House Communications Standards Commission.
 
 502. Select Committee on Standards and Conduct of the Senate.
 

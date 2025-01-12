@@ -182,9 +182,11 @@ The Secretary may award supplemental grant funds to health centers funded under 
 
 (E) expanding the use of telehealth and technology-enabled collaborative learning and capacity building models;
 
-(F) care integration, including integration of behavioral health, mental health, or substance use disorder services; and
+(F) care integration, including integration of behavioral health, mental health, or substance use disorder services;
 
-(G) addressing emerging public health or substance use disorder issues to meet the health needs of the population served by the health center.
+(G) addressing emerging public health or substance use disorder issues to meet the health needs of the population served by the health center; and
+
+(H) improving access to recommended immunizations.
 
 #### (2) Sustainability ####
 
@@ -700,7 +702,7 @@ In addition to any amounts made available pursuant to paragraph (1) of this subs
 
 In addition to any amounts made available pursuant to this subsection, section 282a of this title, or section 254b—2 of this title, there is authorized to be appropriated, and there is appropriated, out of any monies in the Treasury not otherwise appropriated, $1,320,000,000 for fiscal year 2020 for supplemental awards under subsection (d) for the detection of SARS–CoV–2 or the prevention, diagnosis, and treatment of COVID–19.
 
-(July 1, 1944, ch. 373, title III, §330, as added Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626; amended Pub. L. 107–251, title I, §101, Oct. 26, 2002, 116 Stat. 1622; Pub. L. 108–163, §2(a), Dec. 6, 2003, 117 Stat. 2020; Pub. L. 110–355, §2(a), (c)(1), Oct. 8, 2008, 122 Stat. 3988, 3992; Pub. L. 111–148, title IV, §4206, title V, §5601, Mar. 23, 2010, 124 Stat. 576, 676; Pub. L. 115–123, div. E, title IX, §50901(b), Feb. 9, 2018, 132 Stat. 283; Pub. L. 116–136, div. A, title III, §3211(a), Mar. 27, 2020, 134 Stat. 368.)
+(July 1, 1944, ch. 373, title III, §330, as added Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626; amended Pub. L. 107–251, title I, §101, Oct. 26, 2002, 116 Stat. 1622; Pub. L. 108–163, §2(a), Dec. 6, 2003, 117 Stat. 2020; Pub. L. 110–355, §2(a), (c)(1), Oct. 8, 2008, 122 Stat. 3988, 3992; Pub. L. 111–148, title IV, §4206, title V, §5601, Mar. 23, 2010, 124 Stat. 576, 676; Pub. L. 115–123, div. E, title IX, §50901(b), Feb. 9, 2018, 132 Stat. 283; Pub. L. 116–136, div. A, title III, §3211(a), Mar. 27, 2020, 134 Stat. 368; Pub. L. 116–260, div. BB, title III, §311(c), Dec. 27, 2020, 134 Stat. 2925.)
 
 #### References in Text ####
 
@@ -722,7 +724,9 @@ A prior section 330 of act July 1, 1944, was classified to section 254c of this 
 
 #### Amendments ####
 
-**2020**—Subsec. (r)(6). Pub. L. 116–136 added par. (6).
+**2020**—Subsec. (d)(1)(H). Pub. L. 116–260 added subpar. (H).
+
+Subsec. (r)(6). Pub. L. 116–136 added par. (6).
 
 **2018**—Subsec. (b)(1)(A)(ii), (2)(A). Pub. L. 115–123, §50901(b)(1), (2), substituted "use disorder" for "abuse".
 

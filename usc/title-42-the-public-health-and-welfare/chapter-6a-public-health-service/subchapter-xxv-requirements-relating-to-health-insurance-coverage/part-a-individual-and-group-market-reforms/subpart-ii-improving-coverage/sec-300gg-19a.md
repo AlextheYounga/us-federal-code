@@ -82,7 +82,15 @@ Nothing in paragraph (1) shall be construed to—
 
 (B) preclude the group health plan or health insurance issuer involved from requiring that the obstetrical or gynecological provider notify the primary care health care professional or the plan or issuer of treatment decisions.
 
-(July 1, 1944, ch. 373, title XXVII, §2719A, as added Pub. L. 111–148, title X, §10101(h), Mar. 23, 2010, 124 Stat. 888.)
+#### (e) Application ####
+
+The provisions of this section shall not apply with respect to a group health plan, health insurance issuers, or group or individual health insurance coverage with respect to plan years beginning on or on <sup><a href="#300gg-19a_5_target" name="300gg-19a_5">5</a></sup> January 1, 2022.
+
+(July 1, 1944, ch. 373, title XXVII, §2719A, as added Pub. L. 111–148, title X, §10101(h), Mar. 23, 2010, 124 Stat. 888; amended Pub. L. 116–260, div. BB, title I, §102(a)(3)(A), Dec. 27, 2020, 134 Stat. 2771.)
+
+#### Applicability of Amendment ####
+
+Amendment of section by section 102(a)(3)(A) of div. BB of Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022. See 2020 Amendment note below.
 
 #### References in Text ####
 
@@ -92,6 +100,14 @@ Section 2701 of this Act, referred to in subsec. (b)(1)(D), is a reference to se
 
 Pub. L. 111–148, which directed amendment of subpart II of part A of "title XVIII" of act July 1, 1944, by inserting section 2719A after section 2719, was executed by making the insertion in subpart II of part A of title XXVII of the Act, to reflect the probable intent of Congress.
 
+#### Amendments ####
+
+**2020**—Subsec. (e). Pub. L. 116–260 added subsec. (e).
+
+#### Effective Date of 2020 Amendment ####
+
+Amendment by Pub. L. 116–260 applicable with respect to plan years beginning on or after Jan. 1, 2022, see section 102(e) of div. BB of Pub. L. 116–260, set out as a note under section 8902 of Title 5, Government Organization and Employees.
+
 [<sup>1</sup> So in original. Probably should be "coverage,".](#300gg-19a_1)
 
 [<sup>2</sup> So in original. The word "and" probably should appear.](#300gg-19a_2)
@@ -99,3 +115,5 @@ Pub. L. 111–148, which directed amendment of subpart II of part A of "title XV
 [<sup>3</sup> See References in Text note below.](#300gg-19a_3)
 
 [<sup>4</sup> So in original. Probably should be "given".](#300gg-19a_4)
+
+[<sup>5</sup> So in original.](#300gg-19a_5)

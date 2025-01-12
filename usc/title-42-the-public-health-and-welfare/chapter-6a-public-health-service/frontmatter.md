@@ -210,7 +210,7 @@ Sec.
 
 244–1, 244a. Repealed.
 
-245. Public access defibrillation demonstration projects.
+245. Public awareness campaign on the importance of vaccinations.
 
 245a. Repealed.
 
@@ -348,6 +348,8 @@ Sec.
 
 247d–10. Pilot program for public health laboratories to detect fentanyl and other synthetic opioids.
 
+247d–11. State All Payer Claims Databases.
+
 #### Part C—Hospitals, Medical Examinations, and Medical Care ####
 
 247e. National Hansen's Disease Programs Center.
@@ -431,6 +433,8 @@ Sec.
 254c–18. Telemedicine; incentive grants regarding coordination among States.
 
 254c–19. Pediatric mental health care access grants.
+
+254c–20. Expanding capacity for health outcomes.
 
 #### subpart ii—national health service corps program ####
 
@@ -3144,6 +3148,8 @@ Sec.
 
 300gg–45. Relief for high risk pools.
 
+300gg–46. Disclosure to enrollees of individual market coverage.
+
 #### subpart 2—other requirements ####
 
 300gg–51. Standards relating to benefits for mothers and newborns.
@@ -3173,6 +3179,46 @@ Sec.
 300gg–94. Ensuring that consumers get value for their dollars.
 
 300gg–95. Uniform fraud and abuse referral format.
+
+#### Part D—Additional Coverage Provisions ####
+
+300gg–111. Preventing surprise medical bills.
+
+300gg–112. Ending surprise air ambulance bills.
+
+300gg–113. Continuity of care.
+
+300gg–114. Maintenance of price comparison tool.
+
+300gg–115. Protecting patients and improving the accuracy of provider directory information.
+
+300gg–117. Other patient protections.
+
+300gg–118. Air ambulance report requirements.
+
+300gg–119. Increasing transparency by removing gag clauses on price and quality information.
+
+300gg–120. Reporting on pharmacy benefits and drug costs.
+
+#### Part E—Health Care Provider Requirements ####
+
+300gg–131. Balance billing in cases of emergency services.
+
+300gg–132. Balance billing in cases of non-emergency services performed by nonparticipating providers at certain participating facilities.
+
+300gg–133. Provider requirements with respect to disclosure on patient protections against balance billing.
+
+300gg–134. Enforcement.
+
+300gg–135. Air ambulance services.
+
+300gg–136. Provision of information upon request and for scheduled appointments.
+
+300gg–137. Patient-provider dispute resolution.
+
+300gg–138. Continuity of care.
+
+300gg–139. Provider requirements to protect patients and improve the accuracy of provider directory information.
 
 #### SUBCHAPTER XXVI—NATIONAL ALL-HAZARDS PREPAREDNESS FOR PUBLIC HEALTH EMERGENCIES ####
 
@@ -3217,6 +3263,8 @@ Sec.
 300hh–31. Epidemiology-laboratory capacity grants.
 
 300hh–32. Enhanced support to assist health departments in addressing vector-borne diseases.
+
+300hh–33. Public health data system modernization.
 
 #### SUBCHAPTER XXVII—LIFESPAN RESPITE CARE ####
 

@@ -62,6 +62,8 @@ Sec.
 
 124m. Classified Information Advisory Officer.
 
+124m–1. Departmental coordination on counter threats.
+
 124n. Protection of certain facilities and assets from unmanned aircraft.
 
 125. Annual report on intelligence activities of the Department of Homeland Security.
@@ -138,6 +140,8 @@ Sec.
 
 195f. EMP and GMD mitigation research and development and threat assessment, response, and recovery.
 
+195g. Countering Unmanned Aircraft Systems Coordinator.
+
 #### SUBCHAPTER IV—BORDER, MARITIME, AND TRANSPORTATION SECURITY ####
 
 #### Part A—Border, Maritime, and Transportation Security Responsibilities and Functions ####
@@ -164,7 +168,7 @@ Sec.
 
 215. Definition.
 
-216. Repealed.
+216. Protection against potential synthetic opioid exposure.
 
 217. Allocation of resources by the Secretary.
 
@@ -781,6 +785,10 @@ Sec.
 663. Federal intrusion detection and prevention system.
 
 664. National asset database.
+
+665. Duties and authorities relating to .gov internet domain.
+
+665a. Intelligence and cybersecurity diversity fellowship program.
 
 #### Part B—Critical Infrastructure Information ####
 

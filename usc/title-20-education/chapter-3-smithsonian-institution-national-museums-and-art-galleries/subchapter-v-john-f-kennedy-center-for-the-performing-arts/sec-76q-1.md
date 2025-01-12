@@ -156,7 +156,7 @@ Until completion of the Project, the Comptroller General shall review the manage
 
 #### References in Text ####
 
-Section 1214 of the Transportation Equity Act for the 21st Century, referred to in subsec. (a)(7), is section 1214 of Pub. L. 105–178, which enacted provisions set out as notes under sections 50 and 76j of this title, section 460m–29a of Title 16, Conservation, and section 202 of Title 23, Highways, and enacted provisions listed in a table of National Wildlife Refuges set out under section 668dd of Title 16.
+Section 1214 of the Transportation Equity Act for the 21st Century, referred to in subsec. (a)(7), is section 1214 of Pub. L. 105–178, which enacted provisions set out as notes under sections 50 and 76j of this title, section 410eeee–16 of Title 16, Conservation, and section 202 of Title 23, Highways, and enacted provisions listed in a table of National Wildlife Refuges set out under section 668dd of Title 16.
 
 #### Prior Provisions ####
 

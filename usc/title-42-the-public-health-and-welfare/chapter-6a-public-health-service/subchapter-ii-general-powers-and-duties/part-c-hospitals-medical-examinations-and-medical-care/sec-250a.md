@@ -2,7 +2,7 @@
 
 The Attorney General may transfer to the Department of Health and Human Services such amounts as may be necessary for direct expenditures by that Department for medical relief for inmates of Federal penal and correctional institutions.
 
-(Pub. L. 116–93, div. B, title II, Dec. 20, 2019, 133 Stat. 2402.)
+(Pub. L. 116–260, div. B, title II, Dec. 27, 2020, 134 Stat. 1252.)
 
 #### Codification ####
 
@@ -13,6 +13,8 @@ Section was formerly classified to section 341h of title 5 prior to the general 
 #### Prior Provisions ####
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 116–93, div. B, title II, Dec. 20, 2019, 133 Stat. 2402.
 
 Pub. L. 116–6, div. C, title II, Feb. 15, 2019, 133 Stat. 107.
 

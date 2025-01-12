@@ -92,6 +92,8 @@ Items and services described in this clause are the following:
 
 (V) Customized prosthetic devices (commonly known as artificial limbs or components of artificial limbs) under the following HCPCS codes (as of July 1, 1999 (and as subsequently modified by the Secretary)), and any additional customized prosthetic devices identified by the Secretary, if delivered to an inpatient for use during the stay in the skilled nursing facility and intended to be used by the individual after discharge from the facility: L5050–L5340; L5500–L5611; L5613–L5986; L5988; L6050–L6370; L6400–L6880; L6920–L7274; and L7362–7366.
 
+(VI) Blood clotting factors indicated for the treatment of patients with hemophilia and other bleeding disorders (identified as of July 1, 2020, by HCPCS codes J7170, J7175, J7177–J7183, J7185–J7190, J7192–J7195, J7198–J7203, J7205, J7207–J7211, and as subsequently modified by the Secretary) and items and services related to the furnishing of such factors under section 1395u(o)(5)(C) of this title, and any additional blood clotting factors identified by the Secretary and items and services related to the furnishing of such factors under such section.
+
 #### (iv) Exclusion of certain rural health clinic and federally qualified health center services ####
 
 Services described in this clause are—
@@ -430,11 +432,25 @@ Subject to the succeeding provisions of this subsection, the Secretary shall est
 
 The SNF VBP Program shall apply to payments for services furnished on or after October 1, 2018.
 
+#### (C) Exclusions ####
+
+With respect to payments for services furnished on or after October 1, 2022, this subsection shall not apply to a facility for which there are not a minimum number (as determined by the Secretary) of—
+
+(i) cases for the measures that apply to the facility for the performance period for the applicable fiscal year; or
+
+(ii) measures that apply to the facility for the performance period for the applicable fiscal year.
+
 #### (2) Application of measures ####
 
 #### (A) In general ####
 
-The Secretary shall apply the measure specified under subsection (g)(1) for purposes of the SNF VBP Program.
+The Secretary—
+
+(i) shall apply the measure specified under subsection (g)(1) for purposes of the SNF VBP Program; and
+
+(ii) may, with respect to payments for services furnished on or after October 1, 2023, apply additional measures determined appropriate by the Secretary, which may include measures of functional status, patient safety, care coordination, or patient experience.
+
+Subject to the succeeding sentence, in the case that the Secretary applies additional measures under clause (ii), the Secretary shall consider and apply, as appropriate, quality measures specified under section 1395lll(c)(1) of this title. In no case may the Secretary apply more than 10 measures under this subparagraph.
 
 #### (B) Replacement ####
 
@@ -444,7 +460,7 @@ For purposes of the SNF VBP Program, the Secretary shall apply the measure speci
 
 #### (A) Establishment ####
 
-The Secretary shall establish performance standards with respect to the measure applied under paragraph (2) for a performance period for a fiscal year.
+The Secretary shall establish performance standards with respect to the measures applied under paragraph (2) for a performance period for a fiscal year.
 
 #### (B) Higher of achievement and improvement ####
 
@@ -458,7 +474,7 @@ The Secretary shall establish and announce the performance standards established
 
 #### (A) In general ####
 
-The Secretary shall develop a methodology for assessing the total performance of each skilled nursing facility based on performance standards established under paragraph (3) with respect to the measure applied under paragraph (2). Using such methodology, the Secretary shall provide for an assessment (in this subsection referred to as the "SNF performance score") for each skilled nursing facility for each such performance period.
+The Secretary shall develop a methodology for assessing the total performance of each skilled nursing facility based on performance standards established under paragraph (3) with respect to the measures applied under paragraph (2). Using such methodology, the Secretary shall provide for an assessment (in this subsection referred to as the "SNF performance score") for each skilled nursing facility for each such performance period.
 
 #### (B) Ranking of SNF performance scores ####
 
@@ -560,7 +576,21 @@ The Secretary shall provide for the one time transfer from the Federal Hospital 
 
 Such funds shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) [title II, §203(a), title III, §311(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497; Pub. L. 108–173, title IV, §410(a), title V, §511(a), Dec. 8, 2003, 117 Stat. 2271, 2298; Pub. L. 110–275, title I, §149(b), July 15, 2008, 122 Stat. 2549; Pub. L. 111–148, title III, §3401(b), title VI, §6104, Mar. 23, 2010, 124 Stat. 481, 711; Pub. L. 113–93, title II, §215(a), (b), Apr. 1, 2014, 128 Stat. 1048, 1049; Pub. L. 113–185, §2(c)(4)(A), Oct. 6, 2014, 128 Stat. 1965; Pub. L. 114–10, title IV, §411(a), Apr. 16, 2015, 129 Stat. 161; Pub. L. 115–123, div. E, title XII, §53111, Feb. 9, 2018, 132 Stat. 304.)
+#### (12) Validation ####
+
+#### (A) In general ####
+
+The Secretary shall apply to the measures applied under this subsection and the data submitted under subsection (e)(6) a process to validate such measures and data, as appropriate, which may be similar to the process specified in section 1395ww(b)(3)(B)(viii)(XI) of this title for validating inpatient hospital measures.
+
+#### (B) Funding ####
+
+For purposes of carrying out this paragraph, the Secretary shall provide for the transfer, from the Federal Hospital Insurance Trust Fund established under section 1395i of this title, of $5,000,000 to the Centers for Medicare & Medicaid Services Program Management Account for each of fiscal years 2023 through 2025, to remain available until expended.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) [title II, §203(a), title III, §311(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497; Pub. L. 108–173, title IV, §410(a), title V, §511(a), Dec. 8, 2003, 117 Stat. 2271, 2298; Pub. L. 110–275, title I, §149(b), July 15, 2008, 122 Stat. 2549; Pub. L. 111–148, title III, §3401(b), title VI, §6104, Mar. 23, 2010, 124 Stat. 481, 711; Pub. L. 113–93, title II, §215(a), (b), Apr. 1, 2014, 128 Stat. 1048, 1049; Pub. L. 113–185, §2(c)(4)(A), Oct. 6, 2014, 128 Stat. 1965; Pub. L. 114–10, title IV, §411(a), Apr. 16, 2015, 129 Stat. 161; Pub. L. 115–123, div. E, title XII, §53111, Feb. 9, 2018, 132 Stat. 304; Pub. L. 116–260, div. CC, title I, §§111(a), 134(a), Dec. 27, 2020, 134 Stat. 2944, 2977.)
+
+#### Applicability of Amendment ####
+
+Amendment of section by section 134(a) of Pub. L. 116–260 applicable to items and services furnished on or after Oct. 1, 2021. See 2020 Amendment note below.
 
 #### References in Text ####
 
@@ -569,6 +599,16 @@ Section 101 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act 
 Section 314(a) of Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, referred to in subsec. (e)(12)(A), is section 1(a)(6) [title III, §314(a)] of Pub. L. 106–554, Dec. 21, 2000, 114 Stat. 2763, 2763A–499, which is not classified to the Code.
 
 #### Amendments ####
+
+**2020**—Subsec. (e)(2)(A)(iii)(VI). Pub. L. 116–260, §134(a), added subcl. (VI).
+
+Subsec. (h)(1)(C). Pub. L. 116–260, §111(a)(1), added subpar. (C).
+
+Subsec. (h)(2)(A). Pub. L. 116–260, §111(a)(2), inserted dash after "The Secretary" and cl. (i) designation before "shall apply", substituted "Program; and" for "Program.", added cl. (ii), and inserted concluding provisions.
+
+Subsec. (h)(3)(A), (4)(A). Pub. L. 116–260, §111(a)(3), substituted "measures" for "measure".
+
+Subsec. (h)(12). Pub. L. 116–260, §111(a)(4), added par. (12).
 
 **2018**—Subsec. (e)(5)(B)(i). Pub. L. 115–123, §53111(1), substituted ", (iii), and (iv)" for "and (iii)".
 
@@ -679,6 +719,10 @@ Subsec. (d). Pub. L. 99–272, §9126(a), added subsec. (d).
 Subsec. (d)(1). Pub. L. 99–514, §1895(b)(7)(A), substituted "cost reporting period" for "fiscal year" in five places.
 
 Subsec. (d)(4). Pub. L. 99–514, §1895(b)(7)(B), substituted "cost reporting periods beginning in a fiscal year" for "each fiscal year" and "cost reporting period no later than 30 days before the beginning of that period" for "fiscal year within 60 days after the Secretary establishes the final prospective payment amounts for such fiscal year".
+
+#### Effective Date of 2020 Amendment ####
+
+Pub. L. 116–260, div. CC, title I, §134(b), Dec. 27, 2020, 134 Stat. 2977, provided that: "The amendment made by subsection (a) [amending this section] shall apply to items and services furnished on or after October 1, 2021."
 
 #### Effective Date of 2008 Amendment ####
 

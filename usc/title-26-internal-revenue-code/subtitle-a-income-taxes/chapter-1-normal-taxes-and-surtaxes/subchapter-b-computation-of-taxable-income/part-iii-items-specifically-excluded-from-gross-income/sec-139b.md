@@ -42,21 +42,23 @@ The term "qualified volunteer emergency response organization" means any volunte
 
 (B) which is required (by written agreement) by the State or political subdivision to furnish firefighting or emergency medical services in such State or political subdivision.
 
-#### (d) Termination ####
-
-This section shall not apply with respect to taxable years beginning—
-
-(1) after December 31, 2010, and before January 1, 2020, or
-
-(2) after December 31, 2020.
-
-(Added Pub. L. 110–142, §5(a), Dec. 20, 2007, 121 Stat. 1805; amended Pub. L. 116–94, div. O, title III, §301(a), (b), Dec. 20, 2019, 133 Stat. 3175.)
+(Added Pub. L. 110–142, §5(a), Dec. 20, 2007, 121 Stat. 1805; amended Pub. L. 116–94, div. O, title III, §301(a), (b), Dec. 20, 2019, 133 Stat. 3175; Pub. L. 116–260, div. EE, title I, §103(a), Dec. 27, 2020, 134 Stat. 3040.)
 
 #### Amendments ####
+
+**2020**—Subsec. (d). Pub. L. 116–260 struck out subsec. (d). Text read as follows: "This section shall not apply with respect to taxable years beginning—
+
+"(1) after December 31, 2010, and before January 1, 2020, or
+
+"(2) after December 31, 2020."
 
 **2019**—Subsec. (c)(2). Pub. L. 116–94, §301(a), substituted "$50" for "$30".
 
 Subsec. (d). Pub. L. 116–94, §301(b), substituted "beginning—" for "beginning after December 31, 2010." and added pars. (1) and (2).
+
+#### Effective Date of 2020 Amendment ####
+
+Pub. L. 116–260, div. EE, title I, §103(b), Dec. 27, 2020, 134 Stat. 3040, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2020."
 
 #### Effective Date of 2019 Amendment ####
 

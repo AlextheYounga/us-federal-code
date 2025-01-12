@@ -48,6 +48,12 @@ Pub. L. 107–207, §1, Aug. 5, 2002, 116 Stat. 926, provided that: "This Act [e
 
 Pub. L. 104–199, §1, Sept. 21, 1996, 110 Stat. 2419, provided that: "This Act [enacting section 7 of this title and section 1738C of Title 28, Judiciary and Judicial Procedure] may be cited as the 'Defense of Marriage Act'."
 
+#### References in Pub. L. 116–260 ####
+
+Pub. L. 116–260, §3, Dec. 27, 2020, 134 Stat. 1185, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act [Consolidated Appropriations Act, 2021, see Tables for classification] shall be treated as referring only to the provisions of that division."
+
+Pub. L. 116–260, div. K, title VII, §7034(q)(7), Dec. 27, 2020, 134 Stat. 1754, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in titles I through VII [of div. K of Pub. L. 116–260, see Tables for classification] shall be treated as referring only to the provisions of such titles."
+
 #### References in Pub. L. 116–159 ####
 
 Pub. L. 116–159, §3, Oct. 1, 2020, 134 Stat. 709, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in any division of this Act [Continuing Appropriations Act, 2021 and Other Extensions Act, see Tables for classification] shall be treated as referring only to the provisions of that division."

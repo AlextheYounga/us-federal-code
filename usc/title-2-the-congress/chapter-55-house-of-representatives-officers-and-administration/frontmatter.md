@@ -28,6 +28,8 @@ Sec.
 
 5512. Use of available balances of expired appropriations.
 
+5513. House of Representatives Modernization Initiatives Account.
+
 #### SUBCHAPTER II—CHAPLAIN ####
 
 5521. Compensation of Chaplain of House.

@@ -114,7 +114,7 @@ The term "qualified carbon oxide" includes the initial deposit of captured carbo
 
 For purposes of this section, the term "qualified facility" means any industrial facility or direct air capture facility—
 
-(1) the construction of which begins before January 1, 2024, and—
+(1) the construction of which begins before January 1, 2026, and—
 
 (A) construction of carbon capture equipment begins before such date, or
 
@@ -256,7 +256,7 @@ The Secretary may prescribe such regulations and other guidance as may be necess
 
 (2) determine whether a facility satisfies the requirements under subsection (d)(1) during such taxable year.
 
-(Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325; Pub. L. 113–295, div. A, title II, §209(j)(1), Dec. 19, 2014, 128 Stat. 4030; Pub. L. 115–123, div. D, title II, §41119(a), Feb. 9, 2018, 132 Stat. 162.)
+(Added Pub. L. 110–343, div. B, title I, §115(a), Oct. 3, 2008, 122 Stat. 3829; amended Pub. L. 111–5, div. B, title I, §1131(a), (b), Feb. 17, 2009, 123 Stat. 325; Pub. L. 113–295, div. A, title II, §209(j)(1), Dec. 19, 2014, 128 Stat. 4030; Pub. L. 115–123, div. D, title II, §41119(a), Feb. 9, 2018, 132 Stat. 162; Pub. L. 116–260, div. EE, title I, §121, Dec. 27, 2020, 134 Stat. 3051.)
 
 #### Inflation Adjusted Items for Certain Tax Years ####
 
@@ -267,6 +267,8 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 The date of the enactment of the Bipartisan Budget Act of 2018 and the date of the enactment of such Act, referred to in text, is the date of enactment of Pub. L. 115–123, which was approved Feb. 9, 2018.
 
 #### Amendments ####
+
+**2020**—Subsec. (d)(1). Pub. L. 116–260 substituted "January 1, 2026" for "January 1, 2024" in introductory provisions.
 
 **2018**—Pub. L. 115–123 amended section generally. Prior to amendment, section related to credit for carbon dioxide sequestration.
 

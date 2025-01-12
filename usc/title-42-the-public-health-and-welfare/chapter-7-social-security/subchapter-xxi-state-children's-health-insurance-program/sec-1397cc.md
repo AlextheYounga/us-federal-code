@@ -140,7 +140,7 @@ A dental benefits plan that has the largest insured commercial, non-medicaid enr
 
 #### (A) In general ####
 
-A State child health plan shall ensure that the financial requirements and treatment limitations applicable to mental health and substance use disorder services (as described in paragraph (5)) provided under such plan comply with the requirements of section 300gg–26(a) of this title in the same manner as such requirements or limitations apply to a group health plan under such section.
+A State child health plan shall ensure that the financial requirements and treatment limitations applicable to mental health and substance use disorder services (as described in paragraph (5)) provided under such plan comply with the requirements of section 2726(a) of the Public Health Service Act [42 U.S.C. 300gg–26(a)] in the same manner as such requirements or limitations apply to a group health plan under such section. In applying the previous sentence with respect to requirements under paragraph (8) of section 2726(a) of the Public Health Service Act [42 U.S.C. 300gg–26(a)], a State child health plan described in such sentence shall be treated as in compliance with such requirements if the State child health plan is in compliance with section 457.496 of title 42, Code of Federal Regulations, or any successor regulation.
 
 #### (B) Deemed compliance ####
 
@@ -250,7 +250,7 @@ Coverage offered under this section shall comply with the requirements of subpar
 
 The State child health plan shall provide for the application of subsections (a)(4), (a)(5), (b), (c), (d), and (e) of section 1396u–2 of this title (relating to requirements for managed care) to coverage, State agencies, enrollment brokers, managed care entities, and managed care organizations under this subchapter in the same manner as such subsections apply to coverage and such entities and organizations under subchapter XIX.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90; Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), Oct. 24, 2018, 132 Stat. 3964, 3965; Pub. L. 116–127, div. F, §6004(b)(1), (3), Mar. 18, 2020, 134 Stat. 206.)
+(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90; Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), Oct. 24, 2018, 132 Stat. 3964, 3965; Pub. L. 116–127, div. F, §6004(b)(1), (3), Mar. 18, 2020, 134 Stat. 206; Pub. L. 116–260, div. BB, title II, §203(a)(4)(C), Dec. 27, 2020, 134 Stat. 2917.)
 
 #### References in Text ####
 
@@ -262,7 +262,11 @@ The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, 
 
 #### Amendments ####
 
-**2020**—Subsec. (c)(10). Pub. L. 116–127, §6004(b)(1), added par. (10).
+**2020**—Subsec. (c)(7)(A). Pub. L. 116–260, §203(a)(4)(C)(ii), inserted at end "In applying the previous sentence with respect to requirements under paragraph (8) of section 2726(a) of the Public Health Service Act [42 U.S.C. 300gg–26(a)], a State child health plan described in such sentence shall be treated as in compliance with such requirements if the State child health plan is in compliance with section 457.496 of title 42, Code of Federal Regulations, or any successor regulation."
+
+Pub. L. 116–260, §203(a)(4)(C)(i), which directed substitution of "section 2726(a)" for "section 2705(a)", could not be executed because of the intervening general amendment by Pub. L. 115–271, §5022(d). See 2018 Amendment note below.
+
+Subsec. (c)(10). Pub. L. 116–127, §6004(b)(1), added par. (10).
 
 Subsec. (e)(2). Pub. L. 116–127, §6004(b)(3), in heading, inserted ", COVID–19 testing," before "or pregnancy-related assistance" and, in text, substituted "categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), visits described in section 1396o(a)(2)(G) of this title, or" for "category of services described in subsection (c)(1)(D) or".
 

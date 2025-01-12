@@ -1,5 +1,7 @@
 ### §§1749bbb–11 to 1749bbb–21. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 1749bbb–11 to 1749bbb–21, comprising part D of this subchapter, terminated on Sept. 30, 1995, with certain exceptions, pursuant to former section 1749bbb(b) of this title.

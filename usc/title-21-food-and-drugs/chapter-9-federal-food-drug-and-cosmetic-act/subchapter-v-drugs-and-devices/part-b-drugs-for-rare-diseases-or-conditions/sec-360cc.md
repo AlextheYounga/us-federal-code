@@ -28,6 +28,10 @@ If a sponsor of a drug that is designated under section 360bb of this title and 
 
 For purposes of paragraph (1), the term "clinically superior" with respect to a drug means that the drug provides a significant therapeutic advantage over and above an already approved or licensed drug in terms of greater efficacy, greater safety, or by providing a major contribution to patient care.
 
+#### (3) Applicability ####
+
+This subsection applies to any drug designated under section 360bb of this title for which an application was approved under section 355 of this title or licensed under section 262 of title 42 after August 18, 2017, regardless of the date on which such drug was designated under section 360bb of this title.
+
 #### (d) Regulations ####
 
 The Secretary may promulgate regulations for the implementation of subsection (c). Beginning on August 18, 2017, until such time as the Secretary promulgates regulations in accordance with this subsection, the Secretary may apply any definitions set forth in regulations that were promulgated prior to such date, to the extent such definitions are not inconsistent with the terms of this section, as amended by such Act.
@@ -40,7 +44,7 @@ To assist sponsors in demonstrating clinical superiority as described in subsect
 
 (2) upon granting exclusive approval or licensure under subsection (a) on the basis of a demonstration of clinical superiority as described in subsection (c), shall publish a summary of the clinical superiority findings.
 
-(June 25, 1938, ch. 675, §527, as added Pub. L. 97–414, §2(a), Jan. 4, 1983, 96 Stat. 2050; amended Pub. L. 98–417, title I, §102(b)(6), Sept. 24, 1984, 98 Stat. 1593; Pub. L. 99–91, §§2, 3(a)(3), Aug. 15, 1985, 99 Stat. 387, 388; Pub. L. 103–80, §3(v), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(J), (K), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §4, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 115–52, title VI, §607(a), Aug. 18, 2017, 131 Stat. 1049.)
+(June 25, 1938, ch. 675, §527, as added Pub. L. 97–414, §2(a), Jan. 4, 1983, 96 Stat. 2050; amended Pub. L. 98–417, title I, §102(b)(6), Sept. 24, 1984, 98 Stat. 1593; Pub. L. 99–91, §§2, 3(a)(3), Aug. 15, 1985, 99 Stat. 387, 388; Pub. L. 103–80, §3(v), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(J), (K), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §4, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 115–52, title VI, §607(a), Aug. 18, 2017, 131 Stat. 1049; Pub. L. 116–260, div. BB, title III, §323, Dec. 27, 2020, 134 Stat. 2933.)
 
 #### **Editorial Notes** ####
 
@@ -51,6 +55,8 @@ Section 355(c)(2) of this title, referred to in subsec. (a), was redesignated as
 This section, as amended by such Act, referred to in subsec. (d), means this section as amended by the FDA Reauthorization Act of 2017, Pub. L. 115–52.
 
 #### Amendments ####
+
+**2020**—Subsec. (c)(3). Pub. L. 116–260 added par. (3).
 
 **2017**—Subsec. (a). Pub. L. 115–52, §607(a)(1), substituted "the same drug for the same disease or condition" for "such drug for such disease or condition" in concluding provisions.
 

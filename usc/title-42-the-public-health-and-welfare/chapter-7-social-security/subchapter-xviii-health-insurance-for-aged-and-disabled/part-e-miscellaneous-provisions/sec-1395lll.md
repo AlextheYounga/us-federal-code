@@ -378,6 +378,16 @@ Section 2(d) of the IMPACT Act of 2014, referred to in subsecs. (c)(3)(A) and (d
 
 **2016**—Subsec. (a)(2)(A)(iv). Pub. L. 114–255 substituted "1395ww(d)(1)(B)(vi)" for "1395ww(d)(1)(B)(iv)(II)".
 
+#### Permitting Occupational Therapists To Conduct the Initial Assessment Visit and Complete the Comprehensive Assessment With Respect to Certain Rehabilitation Services for Home Health Agencies Under the Medicare Program ####
+
+Pub. L. 116–260, div. CC, title I, §115, Dec. 27, 2020, 134 Stat. 2948, provided that: "Not later than January 1, 2022, the Secretary of Health and Human Services shall revise subsections (a)(2) and (b)(3) of section 484.55 of title 42, Code of Federal Regulations, or a successor regulation, to permit an occupational therapist to conduct the initial assessment visit and to complete the comprehensive assessment (as such terms are described in such subsections, respectively) for home health services for an individual under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) if the home health plan of care for such individual—
+
+"(1) does not initially include skilled nursing care;
+
+"(2) includes occupational therapy; and
+
+"(3) includes physical therapy or speech language pathology."
+
 #### Improving Payment Accuracy Under the PAC Payment Systems and Other Medicare Payment Systems ####
 
 Pub. L. 113–185, §2(d), Oct. 6, 2014, 128 Stat. 1966, provided that:

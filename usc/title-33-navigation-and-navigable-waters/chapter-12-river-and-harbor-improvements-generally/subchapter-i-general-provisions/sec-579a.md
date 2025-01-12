@@ -8,9 +8,7 @@ Any project authorized for construction by this Act shall not be authorized afte
 
 (1) Not later than one year after November 17, 1986, the Secretary shall transmit to Congress a list of unconstructed projects, or unconstructed separable elements of projects, which have been authorized, but have received no obligations during the 10 full fiscal years preceding the transmittal of such list. A project or separable element included in such list is not authorized after December 31, 1989, if funds have not been obligated for construction of such project or element after November 17, 1986, and before December 31, 1989.
 
-(2) Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), every year after the transmittal of the list under paragraph (1), the Secretary shall transmit to Congress a list of projects or separable elements of projects which have been authorized, but have received no obligations during the 5 full fiscal years preceding the transmittal of such list. Upon submission of such list to Congress, the Secretary shall notify each Senator in whose State, and each Member of the House of Representatives in whose district, a project (including any part thereof) on such list would be located. A project or separable element included in such list is not authorized after the date which is the last date of the fiscal year following the fiscal year in which the list is so transmitted if funds have not been obligated for the planning, design, or construction of such project or element during such period.
-
-(3) Comprehensive construction backlog and operation and maintenance report.—
+(2) Comprehensive construction backlog and operation and maintenance report.—
 
 (A) In general.—The Secretary, once every 2 years, shall compile and publish—
 
@@ -68,11 +66,7 @@ Any project authorized for construction by this Act shall not be authorized afte
 
 (ii) Public availability.—The Secretary shall make a copy of the lists available on a publicly accessible website site <sup><a href="#579a_1_target" name="579a_1">1</a></sup> in a manner that is downloadable, searchable, and sortable.
 
-#### (c) Deauthorized list; publication in Federal Register ####
-
-The Secretary shall publish in the Federal Register a list of any projects or separable elements that are deauthorized under this section.
-
-(Pub. L. 99–662, title X, §1001, Nov. 17, 1986, 100 Stat. 4201; Pub. L. 101–640, title I, §119(a), Nov. 28, 1990, 104 Stat. 4630; Pub. L. 104–303, title II, §228(a), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–109, §8(d), Nov. 24, 1999, 113 Stat. 1496; Pub. L. 110–114, title II, §2046, Nov. 8, 2007, 121 Stat. 1105; Pub. L. 113–121, title VI, §6001(b), June 10, 2014, 128 Stat. 1345; Pub. L. 115–270, title I, §1154(a), Oct. 23, 2018, 132 Stat. 3791.)
+(Pub. L. 99–662, title X, §1001, Nov. 17, 1986, 100 Stat. 4201; Pub. L. 101–640, title I, §119(a), Nov. 28, 1990, 104 Stat. 4630; Pub. L. 104–303, title II, §228(a), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–109, §8(d), Nov. 24, 1999, 113 Stat. 1496; Pub. L. 110–114, title II, §2046, Nov. 8, 2007, 121 Stat. 1105; Pub. L. 113–121, title VI, §6001(b), June 10, 2014, 128 Stat. 1345; Pub. L. 115–270, title I, §1154(a), Oct. 23, 2018, 132 Stat. 3791; Pub. L. 116–260, div. AA, title III, §360(b), Dec. 27, 2020, 134 Stat. 2732.)
 
 #### **Editorial Notes** ####
 
@@ -80,9 +74,13 @@ The Secretary shall publish in the Federal Register a list of any projects or se
 
 This Act, referred to in subsec. (a), is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 4082, known as the Water Resources Development Act of 1986. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
 
-Section 219 of the Water Resources Development Act of 1992, referred to in subsec. (b)(3)(A)(iii), is section 219 of Pub. L. 102–580, title II, Oct. 31, 1992, 106 Stat. 4835, which is not classified to the Code.
+Section 219 of the Water Resources Development Act of 1992, referred to in subsec. (b)(2)(A)(iii), is section 219 of Pub. L. 102–580, title II, Oct. 31, 1992, 106 Stat. 4835, which is not classified to the Code.
 
 #### Amendments ####
+
+**2020**—Subsec. (b)(2), (3). Pub. L. 116–260, §360(b)(1), redesignated par. (3) as (2) and struck out former par. (2) which related to project deauthorizations and notification to Congress.
+
+Subsec. (c). Pub. L. 116–260, §360(b)(2), struck out subsec. (c). Prior to amendment, text read as follows: "The Secretary shall publish in the Federal Register a list of any projects or separable elements that are deauthorized under this section."
 
 **2018**—Pub. L. 115–270, §1154(a)(1), substituted "Corps budgeting; project deauthorizations; comprehensive backlog report" for "Project deauthorizations" in section catchline.
 
@@ -106,7 +104,7 @@ Pub. L. 110–114, §2046(1), in first sentence, substituted "year" for "two yea
 
 #### Savings Clause ####
 
-Pub. L. 115–270, title I, §1332(b), Oct. 23, 2018, 132 Stat. 3835, provided that: "Notwithstanding the third sentence of section 1001(b)(2) of the Water Resources Development Act of 1986 (33 U.S.C. 579a(b)(2)), projects and separable elements of projects identified in the fiscal year 2017 report prepared in accordance with such section and submitted to Congress on December 15, 2016, shall not be deauthorized unless such projects and separable elements meet the requirements of section 1301(b)(1)(A) of the Water Resources Development Act of 2016 (130 Stat. 1687) [33 U.S.C. 579d(b)(1)(A)]."
+Pub. L. 115–270, title I, §1332(b), Oct. 23, 2018, 132 Stat. 3835, provided that: "Notwithstanding the third sentence of section 1001(b)(2) of the Water Resources Development Act of 1986 (former 33 U.S.C. 579a(b)(2)), projects and separable elements of projects identified in the fiscal year 2017 report prepared in accordance with such section and submitted to Congress on December 15, 2016, shall not be deauthorized unless such projects and separable elements meet the requirements of section 1301(b)(1)(A) of the Water Resources Development Act of 2016 (130 Stat. 1687) [former 33 U.S.C. 579d(b)(1)(A)]."
 
 #### Project Deauthorizations; Extension of Limitation on Period of Authorization ####
 

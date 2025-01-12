@@ -156,6 +156,8 @@ Sec.
 
 13343. Authorization of appropriations.
 
+13344. Rare earth elements.
+
 #### Part B—Clean Coal Technology Program ####
 
 13351. Additional clean coal technology solicitations.

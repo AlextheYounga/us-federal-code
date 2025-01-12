@@ -36,6 +36,10 @@ Sec.
 
 1066. Interference; declaration by Director.
 
+1066a. Ex parte expungement.
+
+1066b. Ex parte reexamination.
+
 1067. Interference, opposition, and proceedings for concurrent use registration or for cancellation; notice; Trademark Trial and Appeal Board.
 
 1068. Action of Director in interference, opposition, and proceedings for concurrent use registration or for cancellation.

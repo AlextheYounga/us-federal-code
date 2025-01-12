@@ -37,3 +37,5 @@ Sec.
 3617. National Security Agency Emerging Technologies Panel.
 
 3618. Collection of service charges for certification or validation of information assurance products.
+
+3619. Senior Chief Petty Officer Shannon Kent Award for Distinguished Female Personnel.

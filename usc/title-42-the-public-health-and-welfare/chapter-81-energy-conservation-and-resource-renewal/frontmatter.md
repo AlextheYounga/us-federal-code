@@ -58,6 +58,12 @@ Sec.
 
 6864b. Technical transfer grants.
 
+6864c. Contractor optimization.
+
+6864d. Financial assistance for WAP enhancement and innovation.
+
+6864e. Hiring.
+
 6865. Limitations on financial assistance.
 
 6866. Monitoring and evaluation of funded projects; technical assistance; limitation on assistance.

@@ -88,7 +88,7 @@ Sec.
 
 511. Altering or removing motor vehicle identification numbers.
 
-511A. Unauthorized application of theft prevention decal or device.
+[511A. Repealed.]
 
 512. Forfeiture of certain motor vehicles and motor vehicle parts.
 
@@ -99,6 +99,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–260, div. O, title X, §1003(c), Dec. 27, 2020, 134 Stat. 2156, struck out item 511A "Unauthorized application of theft prevention decal or device".
 
 **2001**—Pub. L. 107–56, title III, §§374(e)(4), 375(d)(4), Oct. 26, 2001, 115 Stat. 340, 341, substituted ", stones, or analog, digital, or electronic images" for "or stones" in items 474 and 481.
 

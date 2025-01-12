@@ -108,6 +108,8 @@ Sec.
 
 390g–8. Interstate transfer of water from Arkansas.
 
+390g–9. Aquifer recharge flexibility.
+
 390h. Program to investigate reclamation and reuse of wastewater and groundwater; general authority.
 
 390h–1. Appraisal investigations.

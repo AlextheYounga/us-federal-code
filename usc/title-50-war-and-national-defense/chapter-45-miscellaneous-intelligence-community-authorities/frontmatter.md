@@ -40,6 +40,8 @@ Sec.
 
 3316a. Reports on intelligence community participation in vulnerabilities equities process of Federal Government.
 
+3316b. Continuity of operations plans for certain elements of the intelligence community in the case of a national emergency.
+
 #### SUBCHAPTER II—PERSONNEL AND ADMINISTRATIVE AUTHORITIES ####
 
 3321. National Intelligence Reserve Corps.
@@ -83,6 +85,10 @@ Sec.
 3334f. Congressional notification of designation of covered intelligence officer as persona non grata.
 
 3334g. Reports on intelligence community loan repayment and related programs.
+
+3334h. Data collection on attrition in intelligence community.
+
+3334i. Seedling investment in next-generation microelectronics in support of artificial intelligence.
 
 #### SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION ####
 
@@ -185,6 +191,8 @@ Sec.
 3371c. Notification of significant foreign cyber intrusions and active measures campaigns directed at elections for Federal offices.
 
 3371d. Designation of counterintelligence officer to lead election security matters.
+
+3372. Monitoring mineral investments under Belt and Road Initiative of People's Republic of China.
 
 #### SUBCHAPTER V—MANAGEMENT OF COUNTERINTELLIGENCE ACTIVITIES ####
 

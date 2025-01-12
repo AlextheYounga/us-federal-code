@@ -168,4 +168,4 @@ Pub. L. 90–83 §1(37)(B), Sept. 11, 1967, 81 Stat. 205, added item 5724a.
 
 [<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER57_1)
 
-[<sup>1</sup> So in original. Two sections 5757 have been enacted.](#CHAPTER57_1)
+[<sup>2</sup> So in original. Two sections 5757 have been enacted.](#CHAPTER57_2)

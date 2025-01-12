@@ -10,6 +10,8 @@ There is hereby authorized to be appropriated, out of any money in the Treasury 
 
 Annual appropriations to meet the obligations of membership in various international organizations were contained in the following acts:
 
+Pub. L. 116–260, div. K, title I, Dec. 27, 2020, 134 Stat. 1695, 1696.
+
 Pub. L. 116–94, div. G, title I, Dec. 20, 2019, 133 Stat. 2819, 2821.
 
 Pub. L. 116–6, div. F, title I, Feb. 15, 2019, 133 Stat. 270, 272.

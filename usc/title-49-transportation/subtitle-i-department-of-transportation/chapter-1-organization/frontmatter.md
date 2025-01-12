@@ -20,7 +20,7 @@ Sec.
 
 109. Maritime Administration.
 
-110. Saint Lawrence Seaway Development Corporation.
+110. Great Lakes St. Lawrence Seaway Development Corporation.
 
 [111, 112. Repealed.]
 
@@ -35,6 +35,8 @@ Sec.
 117. Council on Credit and Finance.
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–260, div. AA, title V, §512(c)(7)(B), Dec. 27, 2020, 134 Stat. 2757, substituted "Great Lakes St. Lawrence Seaway Development Corporation" for "Saint Lawrence Seaway Development Corporation" in item 110.
 
 **2015**—Pub. L. 114–94, div. A, title VI, §6012(b), title IX, §§9001(b), 9002(b), Dec. 4, 2015, 129 Stat. 1570, 1618, 1619, added items 116 and 117 and struck out item 112 which had read "Research and Innovative Technology Administration" and was subsequently changed to "Office of the Assistant Secretary for Research and Technology of the Department of Transportation" on authority of title I of div. L of Pub. L. 113–76, set out in part as a note under former section 112 of this title.
 

@@ -360,6 +360,8 @@ Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 11
 
 "(c) Brokerage Services.—The Secretary may use the proceeds from the conveyance of an administrative site under this title to pay reasonable commissions or fees for brokerage services obtained in connection with the conveyance if the Secretary determines that the services are in the public interest. The Secretary shall provide public notice of any brokerage services contract entered into in connection with a conveyance under this title."
 
+[Pub. L. 116–260, div. G, title IV, §420, Dec. 27, 2020, 134 Stat. 1540, provided that: "Section 503(f) of Public Law 109–54 (16 U.S.C. 580d note) [set out above] shall be applied by substituting 'September 30, 2021' for 'September 30, 2019'."]
+
 [Pub. L. 116–94, div. D, title IV, §420, Dec. 20, 2019, 133 Stat. 2747, provided that: "Section 503(f) of Public Law 109–54 (16 U.S.C. 580d note) [set out above] shall be applied by substituting 'September 30, 2020' for 'September 30, 2019'."]
 
 [Pub. L. 115–334, title VIII, §8504, Dec. 20, 2018, 132 Stat. 4847, which directed amendment of section 503(f) of Pub. L. 109–54, set out above, by substituting "2023" for "2016", could not be executed because of the intervening amendment by Pub. L. 115–141.]

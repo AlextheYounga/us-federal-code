@@ -18,7 +18,7 @@
 
 (i) Authority to carry out work.—The Chief of Engineers may carry out repair or restoration work described in paragraph (1) that does not produce benefits greater than the cost if—
 
-(I) the non-Federal sponsor agrees to pay an amount sufficient to make the remaining costs of the project equal to the estimated value of the benefits of the repair or restoration work; and
+(I) the non-Federal sponsor agrees to pay, or provide contributions equal to, an amount sufficient to make the remaining costs of the project equal to the estimated value of the benefits of the repair or restoration work; and
 
 (II) the Secretary determines that—
 
@@ -26,11 +26,17 @@
 
 (bb) repair of the project could benefit another Corps project.
 
-(ii) Treatment of payments.—Non-Federal payments pursuant to clause (i) shall be in addition to any non-Federal payments required by the Chief of Engineers that are applicable to the remaining costs of the repair or restoration work.
+(ii) Treatment of payments and contributions.—Non-Federal payments or contributions pursuant to clause (i) shall be in addition to any non-Federal payments or contributions required by the Chief of Engineers that are applicable to the remaining costs of the repair or restoration work.
 
 (3) Extended assistance.—Upon request by a locality receiving assistance under the fourth sentence of paragraph (1), the Secretary shall, subject to the availability of appropriations, enter into an agreement with the locality to provide such assistance beyond the time period otherwise provided for by the Secretary under such sentence.
 
 (4) Nonstructural alternatives defined.—In this subsection, the term "nonstructural alternatives" includes efforts to restore or protect natural resources, including streams, rivers, floodplains, wetlands, or coasts, if those efforts will reduce flood risk.
+
+(5) Feasibility study.—
+
+(A) Determination.—Not later than 180 days after receiving, from a non-Federal sponsor of a project to repair or rehabilitate a flood control work described in paragraph (1), a request to initiate a feasibility study to further modify the relevant flood control work to provide for an increased level of protection, the Secretary shall provide to the non-Federal sponsor a written decision on whether the Secretary has the authority under section 549a of this title to undertake the requested feasibility study.
+
+(B) Recommendation.—If the Secretary determines under subparagraph (B) that the Secretary does not have the authority to undertake the requested feasibility study, the Secretary shall include the request for a feasibility study in the annual report submitted under section 2282d of this title.
 
 #### (b) Emergency supplies of drinking water; drought; well construction and water transportation ####
 
@@ -58,17 +64,39 @@
 
 (F) the term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
-#### (c) Levee owners manual ####
+#### (c) Eligibility ####
 
-#### (1) In general ####
+#### (1) Levee owner's manual ####
 
 Not later than 1 year after October 12, 1996, in accordance with chapter 5 of title 5, the Secretary of the Army shall prepare a manual describing the maintenance and upkeep responsibilities that the Corps of Engineers requires of a non-Federal interest in order for the non-Federal interest to receive Federal assistance under this section. The Secretary shall provide a copy of the manual at no cost to each non-Federal interest that is eligible to receive Federal assistance under this section.
 
-#### (2) Authorization of appropriations ####
+#### (2) Compliance ####
 
-There is authorized to be appropriated $1,000,000 to carry out this subsection.
+#### (A) In general ####
 
-#### (3) Definitions ####
+Notwithstanding the status of compliance of a non-Federal interest with the requirements of a levee owner's manual described in paragraph (1), or with any other eligibility requirement established by the Secretary related to the maintenance and upkeep responsibilities of the non-Federal interest, the Secretary shall consider the non-Federal interest to be eligible for repair and rehabilitation assistance under this section if the non-Federal interest—
+
+(i) enters into a written agreement with the Secretary that identifies any items of deferred or inadequate maintenance and upkeep identified by the Secretary prior to the natural disaster; and
+
+(ii) pays, during performance of the repair and rehabilitation work, all costs to address—
+
+(I) any items of deferred or inadequate maintenance and upkeep identified by the Secretary; and
+
+(II) any repair or rehabilitation work necessary to address damage the Secretary attributes to such deferred or inadequate maintenance or upkeep.
+
+#### (B) Eligibility ####
+
+The Secretary may only enter into one agreement under subparagraph (A) with any non-Federal interest.
+
+#### (C) Sunset ####
+
+The authority of the Secretary to enter into agreements under paragraph (2) shall terminate on the date that is 5 years after December 27, 2020.
+
+#### (3) Authorization of appropriations ####
+
+There is authorized to be appropriated $1,000,000 to carry out paragraph (1).
+
+#### (4) Definitions ####
 
 In this subsection, the following definitions apply:
 
@@ -106,7 +134,7 @@ In conducting repair or restoration work under subsection (a), at the request of
 
 The Secretary shall notify and consult with the non-Federal sponsor regarding the opportunity to request implementation of nonstructural alternatives to the repair or restoration of a flood control work under subsection (a).
 
-(Aug. 18, 1941, ch. 377, §5, 55 Stat. 650; July 24, 1946, ch. 596, §12, 60 Stat. 652; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; June 30, 1948, ch. 771, title II, §206, 62 Stat. 1182; May 17, 1950, ch. 188, title II, §210, 64 Stat. 183; June 28, 1955, ch. 194, 69 Stat. 186; Pub. L. 87–874, title II, §206, Oct. 23, 1962, 76 Stat. 1194; Pub. L. 93–251, title I, §82, Mar. 7, 1974, 88 Stat. 34; Pub. L. 95–51, §2, June 20, 1977, 91 Stat. 233; Pub. L. 99–662, title IX, §917, Nov. 17, 1986, 100 Stat. 4192; Pub. L. 100–45, §9, May 27, 1987, 101 Stat. 323; Pub. L. 100–707, title I, §109(m), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–640, title III, §302, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §202(e), (f), Oct. 12, 1996, 110 Stat. 3675; Pub. L. 113–121, title III, §3029(a), June 10, 2014, 128 Stat. 1305; Pub. L. 114–322, title I, §1176, Dec. 16, 2016, 130 Stat. 1673; Pub. L. 115–270, title I, §§1160, 1161(a), 1162, Oct. 23, 2018, 132 Stat. 3795, 3796.)
+(Aug. 18, 1941, ch. 377, §5, 55 Stat. 650; July 24, 1946, ch. 596, §12, 60 Stat. 652; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; June 30, 1948, ch. 771, title II, §206, 62 Stat. 1182; May 17, 1950, ch. 188, title II, §210, 64 Stat. 183; June 28, 1955, ch. 194, 69 Stat. 186; Pub. L. 87–874, title II, §206, Oct. 23, 1962, 76 Stat. 1194; Pub. L. 93–251, title I, §82, Mar. 7, 1974, 88 Stat. 34; Pub. L. 95–51, §2, June 20, 1977, 91 Stat. 233; Pub. L. 99–662, title IX, §917, Nov. 17, 1986, 100 Stat. 4192; Pub. L. 100–45, §9, May 27, 1987, 101 Stat. 323; Pub. L. 100–707, title I, §109(m), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–640, title III, §302, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §202(e), (f), Oct. 12, 1996, 110 Stat. 3675; Pub. L. 113–121, title III, §3029(a), June 10, 2014, 128 Stat. 1305; Pub. L. 114–322, title I, §1176, Dec. 16, 2016, 130 Stat. 1673; Pub. L. 115–270, title I, §§1160, 1161(a), 1162, Oct. 23, 2018, 132 Stat. 3795, 3796; Pub. L. 116–260, div. AA, title I, §120, Dec. 27, 2020, 134 Stat. 2633.)
 
 #### **Editorial Notes** ####
 
@@ -115,6 +143,18 @@ The Secretary shall notify and consult with the non-Federal sponsor regarding th
 The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments ####
+
+**2020**—Subsec. (a)(2)(B)(i)(I). Pub. L. 116–260, §120(1)(A)(i), inserted ", or provide contributions equal to," after "pay".
+
+Subsec. (a)(2)(B)(ii). Pub. L. 116–260, §120(1)(A)(ii), in heading, inserted "and contributions" after "of payments" and, in text, inserted "or contributions" after "Non-Federal payments"and after "non-Federal payments".
+
+Subsec. (a)(5). Pub. L. 116–260, §120(1)(B), added par. (5).
+
+Subsec. (c). Pub. L. 116–260, §120(2)(A), substituted "Eligibility" for "Levee owners manual" in heading.
+
+Subsec. (c)(1). Pub. L. 116–260, §120(2)(B), substituted "Levee owner's manual" for "In general" in heading.
+
+Subsec. (c)(2) to (4). Pub. L. 116–260, §120(2)(C), (D), added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted "paragraph (1)" for "this subsection" in par. (3).
 
 **2018**—Subsec. (a)(1). Pub. L. 115–270, §1160, in first sentence, substituted "strengthening, raising, extending, realigning, or other modification thereof" for "strengthening, raising, extending, or other modification thereof" and "structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to either the pre-storm level or the design level of protection, whichever provides greater protection, when, in the discretion of the Chief of Engineers," for "structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the design level of protection when, in the discretion of the Chief of Engineers,".
 
@@ -172,15 +212,11 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Continued Eligibility ####
 
-Pub. L. 115–270, title I, §1161(b), Oct. 23, 2018, 132 Stat. 3796, provided that: "Notwithstanding a non-Federal flood control work's status in the Rehabilitation and Inspection Program carried out pursuant to section 5 of the Act of August 18, 1941 (33 U.S.C. 701n), any unconstructed emergency project for the non-Federal flood control work that was formulated during the three fiscal years preceding the fiscal year in which this Act was enacted [Oct. 23, 2018] but that was determined to not produce benefits greater than costs shall remain eligible for assistance under such section 5 until the last day of the third fiscal year following the fiscal year in which this Act was enacted if—
+Pub. L. 115–270, title I, §1161(b), Oct. 23, 2018, 132 Stat. 3796, as amended by Pub. L. 116–260, div. AA, title I, §121, Dec. 27, 2020, 134 Stat. 2634, provided that: "Notwithstanding a non-Federal flood control work's status in the Rehabilitation and Inspection Program carried out pursuant to section 5 of the Act of August 18, 1941 (33 U.S.C. 701n), any unconstructed emergency project for the non-Federal flood control work that was formulated during the five fiscal years preceding the fiscal year in which this Act was enacted [Oct. 23, 2018] but that was determined to not produce benefits greater than costs shall remain eligible for assistance under such section 5 until the last day of the fifth fiscal year following the fiscal year in which this Act was enacted if—
 
-"(1) the non-Federal sponsor agrees, in accordance with such section 5, as amended by this Act, to pay an amount sufficient to make the remaining costs of the project equal to the estimated value of the benefits of the repair or restoration work; and
+"(1) the non-Federal sponsor agrees, in accordance with such section 5, as amended by this Act, to pay, or provide contributions equal to, an amount sufficient to make the remaining costs of the project equal to the estimated value of the benefits of the repair or restoration work; and
 
-"(2) the Secretary determines that—
-
-"(A) the damage to the structure was not as a result of negligent operation or maintenance; and
-
-"(B) repair of the project could benefit another Corps project."
+"(2) the Secretary determines that the damage to the structure was not as a result of negligent operation or maintenance."
 
 #### Systemwide Improvement Framework ####
 

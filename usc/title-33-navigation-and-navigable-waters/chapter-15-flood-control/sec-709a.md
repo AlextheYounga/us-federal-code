@@ -2,7 +2,7 @@
 
 #### (a) Compilation and dissemination ####
 
-In recognition of the increasing use and development of the flood plains of the rivers of the United States and of the need for information on flood hazards to serve as a guide to such development, and as a basis for avoiding future flood hazards by regulation of use by States and political subdivisions thereof, and to assure that Federal departments and agencies may take proper cognizance of flood hazards, the Secretary of the Army, through the Chief of Engineers, is hereby authorized to compile and disseminate information on floods and flood damages, including identification of areas subject to inundation by floods of various magnitudes and frequencies, and general criteria for guidance of Federal and non-Federal interests and agencies in the use of flood plain areas; and to provide advice to other Federal agencies and local interests for their use in planning to ameliorate the flood hazard. Surveys and guides will be made for States and political subdivisions thereof only upon the request of a State or a political subdivision thereof, and upon approval by the Chief of Engineers, and such information and advice provided them only upon such request and approval.
+In recognition of the increasing use and development of the flood plains of the rivers of the United States and of the need for information on flood hazards to serve as a guide to such development, and as a basis for avoiding future flood hazards by regulation of use by States and political subdivisions thereof, and to assure that Federal departments and agencies may take proper cognizance of flood hazards, the Secretary of the Army, through the Chief of Engineers, is hereby authorized to compile and disseminate information on floods and flood damages, including identification of areas subject to inundation by floods of various magnitudes and frequencies, and general criteria for guidance of Federal and non-Federal interests and agencies in the use of flood plain areas; and to provide advice to other Federal agencies and local interests for their use in planning to ameliorate the flood hazard, to avoid repetitive flooding impacts, to anticipate, prepare, and adapt to changing climatic conditions and extreme weather events, and to withstand, respond to, and recover rapidly from disruption due to the flood hazards. Surveys and guides will be made for States and political subdivisions thereof only upon the request of a State or a political subdivision thereof, and upon approval by the Chief of Engineers, and such information and advice provided them only upon such request and approval.
 
 #### (b) Flood prevention coordination ####
 
@@ -16,11 +16,13 @@ The Secretary of the Army is authorized to establish and collect fees from Feder
 
 The Secretary of the Army is authorized to expend not to exceed $50,000,000 per fiscal year for the compilation and dissemination of information under this section.
 
-(Pub. L. 86–645, title II, §206, July 14, 1960, 74 Stat. 500; Pub. L. 89–298, title II, §220, Oct. 27, 1965, 79 Stat. 1089; Pub. L. 89–789, title II, §206, Nov. 7, 1966, 80 Stat. 1422; Pub. L. 91–611, title II, §225, Dec. 31, 1970, 84 Stat. 1832; Pub. L. 93–251, title I, §64, Mar. 7, 1974, 88 Stat. 30; Pub. L. 101–640, title III, §321, Nov. 28, 1990, 104 Stat. 4643; Pub. L. 106–53, title II, §§202, 216, Aug. 17, 1999, 113 Stat. 285, 293; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 113–121, title I, §1030(h), June 10, 2014, 128 Stat. 1232.)
+(Pub. L. 86–645, title II, §206, July 14, 1960, 74 Stat. 500; Pub. L. 89–298, title II, §220, Oct. 27, 1965, 79 Stat. 1089; Pub. L. 89–789, title II, §206, Nov. 7, 1966, 80 Stat. 1422; Pub. L. 91–611, title II, §225, Dec. 31, 1970, 84 Stat. 1832; Pub. L. 93–251, title I, §64, Mar. 7, 1974, 88 Stat. 30; Pub. L. 101–640, title III, §321, Nov. 28, 1990, 104 Stat. 4643; Pub. L. 106–53, title II, §§202, 216, Aug. 17, 1999, 113 Stat. 285, 293; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 113–121, title I, §1030(h), June 10, 2014, 128 Stat. 1232; Pub. L. 116–260, div. AA, title I, §111(a), Dec. 27, 2020, 134 Stat. 2625.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2020**—Subsec. (a). Pub. L. 116–260 inserted ", to avoid repetitive flooding impacts, to anticipate, prepare, and adapt to changing climatic conditions and extreme weather events, and to withstand, respond to, and recover rapidly from disruption due to the flood hazards" after "in planning to ameliorate the flood hazard".
 
 **2014**—Subsec. (d). Pub. L. 113–121 substituted "$50,000,000" for "$15,000,000".
 
@@ -47,3 +49,9 @@ Subsec. (b). Pub. L. 89–789 substituted "expend not to exceed $7,000,000 per f
 #### Change of Name ####
 
 "Administrator of the Federal Emergency Management Agency" substituted for "Director of the Federal Emergency Management Agency" in subsec. (b) on authority of section 612(c) of Pub. L. 109–295, set out as a note under section 313 of Title 6, Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under section 313 of Title 6.
+
+#### Prioritizing Flood Risk Resiliency Technical Assistance ####
+
+Pub. L. 116–260, div. AA, title I, §111(b), Dec. 27, 2020, 134 Stat. 2625, provided that: "In carrying out section 206 of the Flood Control Act of 1960 (33 U.S.C. 709a), the Secretary [of the Army] shall prioritize the provision of technical assistance to support flood risk resiliency planning efforts of economically disadvantaged communities or communities subject to repetitive flooding."
+
+[For definition of "economically disadvantaged community" as used in section 111(b) of div. AA of Pub. L. 116–260, set out above, see section 160 of div. AA of Pub. L. 116–260, set out as a note under section 2201 of this title.]

@@ -54,7 +54,7 @@ Sec.
 
 1226d, 1227. Repealed.
 
-1228. Prohibition against use of appropriated funds for busing.
+1228. Repealed.
 
 1228a. Equity for students, teachers, and other program beneficiaries.
 

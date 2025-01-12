@@ -24,6 +24,8 @@ Sec.
 
 2319B. Unauthorized recording of motion pictures in a motion picture exhibition facility. 1
 
+2319C. Illicit digital transmission services.
+
 2320. Trafficking in counterfeit goods or services.
 
 2321. Trafficking in certain motor vehicles or motor vehicle parts.
@@ -35,6 +37,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–260, div. Q, title II, §211(b), Dec. 27, 2020, 134 Stat. 2176, added item 2319C.
 
 **2008**—Pub. L. 110–403, title II, §206(b), Oct. 13, 2008, 122 Stat. 4263, added item 2323.
 

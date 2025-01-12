@@ -8,9 +8,7 @@ Sec.
 
 43. Force, violence, and threats involving animal enterprises.
 
-[44, 45. Repealed.]
-
-46. Transportation of water hyacinths.
+[44 to 46. Repealed.]
 
 47. Use of aircraft or motor vehicles to hunt certain wild horses or burros; pollution of watering holes.
 
@@ -25,6 +23,8 @@ The criminal provisions of the Migratory Bird Treaty Act, sections 703–711 of 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–260, div. O, title X, §1003(b), Dec. 27, 2020, 134 Stat. 2156, struck out item 46 "Transportation of water hyacinths".
 
 **2019**—Pub. L. 116–72, §2(b), Nov. 25, 2019, 133 Stat. 1152, substituted "Animal crushing" for "Animal crush videos" in item 48.
 

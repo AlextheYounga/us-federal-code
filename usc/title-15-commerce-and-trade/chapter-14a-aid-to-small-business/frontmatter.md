@@ -60,6 +60,8 @@ Sec.
 
 636 l. Semiannual report.
 
+636m. Loan forgiveness.
+
 637. Additional powers.
 
 637a. Repealed.
@@ -79,6 +81,8 @@ Sec.
 639. Reporting requirements and agency cooperation.
 
 639a. Review of loan program; submission of estimated needs for additional authorization.
+
+639b. Oversight.
 
 640. Voluntary agreements among small-business concerns.
 

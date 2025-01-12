@@ -12,7 +12,7 @@ Sec.
 
 1804. Deputy Architect of the Capitol to act in case of absence, disability, or vacancy.
 
-1805. Deputy Architect of the Capitol/Chief Operating Officer.
+1805. Deputy Architect of the Capitol.
 
 1806, 1807. Repealed.
 

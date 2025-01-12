@@ -2,7 +2,7 @@
 
 Sec.
 
-981. Creation of Saint Lawrence Seaway Development Corporation.
+981. Creation of Corporation.
 
 982. Management of Corporation; appointment of Administrator; terms; vacancy; Advisory Board; establishment; membership; meetings; duties; compensation and expenses
 

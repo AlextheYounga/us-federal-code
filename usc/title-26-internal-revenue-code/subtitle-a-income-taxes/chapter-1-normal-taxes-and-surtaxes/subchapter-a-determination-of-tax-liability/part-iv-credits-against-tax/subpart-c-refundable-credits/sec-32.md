@@ -835,6 +835,28 @@ Pub. L. 94–12, title II, §209(b), Mar. 29, 1975, 89 Stat. 35, as amended by P
 
 For provisions that nothing in amendment by section 401(b)(4) of Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under section 23 of this title.
 
+#### Temporary Special Rule for Determination of Earned Income ####
+
+Pub. L. 116–260, div. EE, title II, §211, Dec. 27, 2020, 134 Stat. 3066, provided that:
+
+"(a) In General.—If the earned income of the taxpayer for the taxpayer's first taxable year beginning in 2020 is less than the earned income of the taxpayer for the preceding taxable year, the credits allowed under sections 24(d) and 32 of the Internal Revenue Code of 1986 may, at the election of the taxpayer, be determined by substituting—
+
+"(1) such earned income for the preceding taxable year, for
+
+"(2) such earned income for the taxpayer's first taxable year beginning in 2020.
+
+"(b) Earned Income.—
+
+"(1) In general.—For purposes of this section, the term 'earned income' has the meaning given such term under section 32(c) of the Internal Revenue Code of 1986.
+
+"(2) Application to joint returns.—For purposes of subsection (a), in the case of a joint return, the earned income of the taxpayer for the preceding taxable year shall be the sum of the earned income of each spouse for such preceding taxable year.
+
+"(c) Special Rules.—
+
+"(1) Errors treated as mathematical error.—For purposes of section 6213 of the Internal Revenue Code of 1986, an incorrect use on a return of earned income pursuant to subsection (a) shall be treated as a mathematical or clerical error.
+
+"(2) No effect on determination of gross income, etc.—Except as otherwise provided in this section, the Internal Revenue Code of 1986 shall be applied without regard to any substitution under subsection (a)."
+
 #### Study on Earned Income Tax Credit Certification Program ####
 
 Pub. L. 108–199, div. F, title II, §206, Jan. 23, 2004, 118 Stat. 319, provided that:

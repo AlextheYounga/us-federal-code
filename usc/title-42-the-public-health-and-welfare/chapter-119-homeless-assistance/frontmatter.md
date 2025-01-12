@@ -140,7 +140,7 @@ Sec.
 
 11388. Reports to Congress.
 
-11389. Repealed.
+11389. Indian tribes and tribally designated housing entities.
 
 #### Part D—Rural Housing Stability Assistance Program ####
 

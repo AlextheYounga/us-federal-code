@@ -128,7 +128,7 @@ Pub. L. 106–566, title I, §101, Dec. 23, 2000, 114 Stat. 2818, provided that:
 
 #### Short Title of 1998 Amendment ####
 
-Pub. L. 105–321, §1(a), Oct. 30, 1998, 112 Stat. 3020, provided that: "This Act [enacting section 390h–16 of this title, amending section 564w–1 of Title 25, Indians, and enacting and amending provisions listed in a table of National Wildlife Refuges set out under section 668dd of Title 16, Conservation] may be cited as the 'Oregon Public Lands Transfer and Protection Act of 1998'."
+Pub. L. 105–321, §1(a), Oct. 30, 1998, 112 Stat. 3020, provided that: "This Act [enacting sections 390h–16 and 2607 of this title, amending section 564w–1 of Title 25, Indians, and enacting and amending provisions listed in a table of National Wildlife Refuges set out under section 668dd of Title 16, Conservation] may be cited as the 'Oregon Public Lands Transfer and Protection Act of 1998'."
 
 #### Short Title of 1996 Amendment ####
 

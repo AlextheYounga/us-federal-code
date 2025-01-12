@@ -56,7 +56,11 @@ In the case of any new building—
 
 the applicable percentage shall not be less than 9 percent.
 
-#### (3) Cross references ####
+#### (3) Minimum credit rate ####
+
+In the case of any new or existing building to which paragraph (2) does not apply and which is placed in service by the taxpayer after December 31, 2020, the applicable percentage shall not be less than 4 percent.
+
+#### (4) Cross references ####
 
 **(A) For treatment of certain rehabilitation expenditures as separate new buildings, see subsection (e).**
 
@@ -1516,7 +1520,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 (4) providing the opportunity for housing credit agencies to correct administrative errors and omissions with respect to allocations and record keeping within a reasonable period after their discovery, taking into account the availability of regulations and other administrative guidance from the Secretary.
 
-(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(l)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) [title I, §§131(a)–(c), 132–136], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191; Pub. L. 110–142, §6(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–289, div. C, title I, §§3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, 122 Stat. 2878–2884, 2886; Pub. L. 111–5, div. B, title I, §1404, Feb. 17, 2009, 123 Stat. 352; Pub. L. 112–240, title III, §302(a), Jan. 2, 2013, 126 Stat. 2328; Pub. L. 113–295, div. A, title I, §112(a), title II, §§212(a), 221(a)(7), Dec. 19, 2014, 128 Stat. 4014, 4033, 4038; Pub. L. 114–113, div. Q, title I, §131(a), (b), Dec. 18, 2015, 129 Stat. 3055; Pub. L. 115–97, title I, §11002(d)(1)(G), (3), Dec. 22, 2017, 131 Stat. 2060, 2061; Pub. L. 115–141, div. T, §§102(a), 103(a), (b), div. U, title IV, §401(a)(10)–(13), Mar. 23, 2018, 132 Stat. 1157, 1184, 1185.)
+(Added Pub. L. 99–514, title II, §252(a), Oct. 22, 1986, 100 Stat. 2189; amended Pub. L. 99–509, title VIII, §8072(a), Oct. 21, 1986, 100 Stat. 1964; Pub. L. 100–647, title I, §§1002(l)(1)–(25), (32), 1007(g)(3)(B), title IV, §§4003(a), (b)(1), (3), 4004(a), Nov. 10, 1988, 102 Stat. 3373–3381, 3435, 3643, 3644; Pub. L. 101–239, title VII, §§7108(a)(1), (b)–(e)(2), (f)–(m), (n)(2)–(q), 7811(a), 7831(c), 7841(d)(13)–(15), Dec. 19, 1989, 103 Stat. 2306–2321, 2406, 2426, 2429; Pub. L. 101–508, title XI, §§11407(a)(1), (b)(1)–(9), 11701(a)(1)–(3)(A), (4), (5)(A), (6)–(10), 11812(b)(3), 11813(b)(3), Nov. 5, 1990, 104 Stat. 1388–474, 1388–475, 1388–505 to 1388–507, 1388–535, 1388–551; Pub. L. 102–227, title I, §107(a), Dec. 11, 1991, 105 Stat. 1687; Pub. L. 103–66, title XIII, §13142(a)(1), (b)(1)–(5), Aug. 10, 1993, 107 Stat. 437–439; Pub. L. 104–188, title I, §1704(t)(53), (64), Aug. 20, 1996, 110 Stat. 1890; Pub. L. 105–206, title VI, §6004(g)(5), July 22, 1998, 112 Stat. 796; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 106–554, §1(a)(7) [title I, §§131(a)–(c), 132–136], Dec. 21, 2000, 114 Stat. 2763, 2763A–610 to 2763A–613; Pub. L. 107–147, title IV, §417(2), (3), Mar. 9, 2002, 116 Stat. 56; Pub. L. 108–311, title II, §207(8), title IV, §408(a)(3), Oct. 4, 2004, 118 Stat. 1177, 1191; Pub. L. 110–142, §6(a), Dec. 20, 2007, 121 Stat. 1806; Pub. L. 110–289, div. C, title I, §§3001–3002(b), 3003(a)–(g), 3004(a)–(g), 3007(b), July 30, 2008, 122 Stat. 2878–2884, 2886; Pub. L. 111–5, div. B, title I, §1404, Feb. 17, 2009, 123 Stat. 352; Pub. L. 112–240, title III, §302(a), Jan. 2, 2013, 126 Stat. 2328; Pub. L. 113–295, div. A, title I, §112(a), title II, §§212(a), 221(a)(7), Dec. 19, 2014, 128 Stat. 4014, 4033, 4038; Pub. L. 114–113, div. Q, title I, §131(a), (b), Dec. 18, 2015, 129 Stat. 3055; Pub. L. 115–97, title I, §11002(d)(1)(G), (3), Dec. 22, 2017, 131 Stat. 2060, 2061; Pub. L. 115–141, div. T, §§102(a), 103(a), (b), div. U, title IV, §401(a)(10)–(13), Mar. 23, 2018, 132 Stat. 1157, 1184, 1185; Pub. L. 116–260, div. EE, title II, §201(a), Dec. 27, 2020, 134 Stat. 3056.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -1553,6 +1557,8 @@ A prior section 42, added Pub. L. 94–12, title II, §203(a), Mar. 29, 1975, 89
 Another prior section 42 was renumbered section 37 of this title.
 
 #### Amendments ####
+
+**2020**—Subsec. (b)(3), (4). Pub. L. 116–260 added par. (3) and redesignated former par. (3) as (4).
 
 **2018**—Subsec. (d)(4)(C)(i). Pub. L. 115–141, §401(a)(11)(A), substituted "as defined in paragraph (5)(B)(ii)" for "as defined in paragraph (5)(C)".
 
@@ -2055,6 +2061,14 @@ Subsec. (n). Pub. L. 100–647, §4003(b)(3), amended subsec. (n) generally, sub
 Subsec. (n)(1). Pub. L. 100–647, §1002(l)(25), inserted ", and, except for any building described in paragraph (2)(B), subsection (h)(4) shall not apply to any building placed in service after 1989" after "year after 1989".
 
 **1986**—Subsec. (k)(1). Pub. L. 99–509 substituted "subparagraphs (D)(ii)(II) and (D)(iv)(I)" for "subparagraph (D)(iv)(I)".
+
+#### Effective Date of 2020 Amendment ####
+
+Pub. L. 116–260, div. EE, title II, §201(b), Dec. 27, 2020, 134 Stat. 3056, provided that: "The amendments made by this section [amending this section] shall apply to—
+
+"(1) any building which receives an allocation of housing credit dollar amount after December 31, 2020, and
+
+"(2) in the case of any building any portion of which is financed with an obligation described in section 42(h)(4)(A), any such building if any such obligation which so finances such building is issued after December 31, 2020."
 
 #### Effective Date of 2018 Amendment ####
 

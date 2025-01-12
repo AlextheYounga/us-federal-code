@@ -165,6 +165,8 @@ Chap. Sec.
 
 57. Interstate Horseracing 3001
 
+57A. Horseracing Integrity and Safety 3051
+
 58. Full Employment and Balanced Growth 3101
 
 59. Retail Policies for Natural Gas Utilities 3201

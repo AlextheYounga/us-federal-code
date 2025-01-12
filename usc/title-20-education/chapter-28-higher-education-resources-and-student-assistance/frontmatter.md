@@ -596,6 +596,8 @@ Sec.
 
 1087uu–1. Native American students.
 
+1087uu–2. Special rules for independent students.
+
 1087vv. Definitions.
 
 #### Part G—General Provisions Relating to Student Assistance Programs ####

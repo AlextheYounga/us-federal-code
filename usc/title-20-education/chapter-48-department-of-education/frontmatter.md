@@ -110,6 +110,8 @@ Sec.
 
 3483. Working capital fund.
 
+3483a. Department of Education Nonrecurring Expenses Fund.
+
 3484. Funds transfer.
 
 3485. Seal of Department.

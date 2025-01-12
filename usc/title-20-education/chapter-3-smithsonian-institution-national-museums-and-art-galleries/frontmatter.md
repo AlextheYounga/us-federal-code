@@ -295,3 +295,25 @@ Sec.
 80s–2. Private support for civil rights history project.
 
 80s–3. Authorization of appropriations.
+
+#### SUBCHAPTER XVI—WOMEN'S HISTORY MUSEUM ####
+
+80t. Findings.
+
+80t–1. Establishment of Museum.
+
+80t–2. Council.
+
+80t–3. Director and staff of the Museum.
+
+80t–4. Educational and liaison programs.
+
+80t–5. Building.
+
+80t–6. Definitions.
+
+80t–7. Authorization of appropriations.
+
+#### SUBCHAPTER XVII—NATIONAL MUSEUM OF THE AMERICAN LATINO ####
+
+80u. National Museum of the American Latino.

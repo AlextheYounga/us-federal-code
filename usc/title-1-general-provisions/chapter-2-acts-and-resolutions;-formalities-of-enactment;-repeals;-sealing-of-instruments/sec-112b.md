@@ -26,7 +26,9 @@
 
 (f) The President shall, through the Secretary of State, promulgate such rules and regulations as may be necessary to carry out this section.
 
-(Added Pub. L. 92–403, §1, Aug. 22, 1972, 86 Stat. 619; amended Pub. L. 95–45, §5, June 15, 1977, 91 Stat. 224; Pub. L. 95–426, title VII, §708, Oct. 7, 1978, 92 Stat. 993; Pub. L. 103–437, §1, Nov. 2, 1994, 108 Stat. 4581; Pub. L. 108–458, title VII, §7121(b)–(d), Dec. 17, 2004, 118 Stat. 3807, 3808.)
+(g) It is the sense of Congress that the executive branch should not prescribe or otherwise commit to or include specific legislative text in a treaty or executive agreement unless Congress has authorized such action.
+
+(Added Pub. L. 92–403, §1, Aug. 22, 1972, 86 Stat. 619; amended Pub. L. 95–45, §5, June 15, 1977, 91 Stat. 224; Pub. L. 95–426, title VII, §708, Oct. 7, 1978, 92 Stat. 993; Pub. L. 103–437, §1, Nov. 2, 1994, 108 Stat. 4581; Pub. L. 108–458, title VII, §7121(b)–(d), Dec. 17, 2004, 118 Stat. 3807, 3808; Pub. L. 116–260, div. FF, title XVII, §1708(b), Dec. 27, 2020, 134 Stat. 3298.)
 
 #### **Editorial Notes** ####
 
@@ -35,6 +37,8 @@
 Section 6(j)(1)(A) of the Export Administration Act of 1979, referred to in subsec. (e)(2)(B)(ii), which was classified to section 2405(j)(1)(A) of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as section 4605(j)(1)(A) of Title 50, was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Amendments ####
+
+**2020**—Subsec. (g). Pub. L. 116–260 added subsec. (g).
 
 **2004**—Subsec. (a). Pub. L. 108–458, §7121(b), substituted "Committee on International Relations" for "Committee on Foreign Affairs".
 

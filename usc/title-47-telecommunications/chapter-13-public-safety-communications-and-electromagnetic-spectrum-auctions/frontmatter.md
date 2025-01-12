@@ -16,7 +16,7 @@ Sec.
 
 1412. Flexible use of narrowband spectrum.
 
-1413. 470–512 MHz public safety spectrum.
+1413. Repealed.
 
 #### SUBCHAPTER II—GOVERNANCE OF PUBLIC SAFETY SPECTRUM ####
 

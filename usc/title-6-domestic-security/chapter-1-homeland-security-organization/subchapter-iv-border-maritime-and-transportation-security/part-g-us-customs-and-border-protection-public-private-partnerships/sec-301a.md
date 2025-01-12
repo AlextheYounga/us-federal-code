@@ -60,7 +60,7 @@ A donation of real property under this subsection at an existing land port of en
 
 #### (A) In general ####
 
-The authority to enter into an agreement under this subsection shall terminate on the date that is 4 years after December 16, 2016.
+The authority to enter into an agreement under this subsection shall terminate on the date that is December 16, 2021.
 
 #### (B) Rule of construction ####
 
@@ -206,6 +206,12 @@ Decisions of the Commissioner of U.S. Customs and Border Protection and the Admi
 
 Except as otherwise provided in this section, nothing in this section may be construed as affecting in any manner the responsibilities, duties, or authorities of U.S. Customs and Border Protection or the General Services Administration.
 
-(Pub. L. 107–296, title IV, §482, as added Pub. L. 114–279, §2(a), Dec. 16, 2016, 130 Stat. 1417.)
+(Pub. L. 107–296, title IV, §482, as added Pub. L. 114–279, §2(a), Dec. 16, 2016, 130 Stat. 1417; amended Pub. L. 116–260, div. O, title III, §301, Dec. 27, 2020, 134 Stat. 2149.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2020**—Subsec. (b)(4)(A). Pub. L. 116–260, which directed substitution of "December 16, 2021" for "4 years after December 16, 2016", was executed by making the substitution for original text reading "4 years after the date of the enactment of this section", which had been translated as "4 years after December 16, 2016", to reflect the probable intent of Congress.
 
 [<sup>1</sup> So in original.](#301a_1)

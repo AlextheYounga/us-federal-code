@@ -33,9 +33,13 @@ Chap. Sec.
 
 14. Unauthorized use of pre-1972 sound recordings 1 1401
 
+15. Copyright Small Claims 1501
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–260, div. Q, title II, §212(c), Dec. 27, 2020, 134 Stat. 2199, added item relating to chapter 15.
 
 **2018**—Pub. L. 115–264, title II, §202(b), Oct. 11, 2018, 132 Stat. 3737, added item relating to chapter 14.
 

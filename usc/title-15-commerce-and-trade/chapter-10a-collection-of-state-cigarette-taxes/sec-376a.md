@@ -24,7 +24,7 @@ With respect to delivery sales into a specific State and place, each delivery se
 
 #### (1) Required statement ####
 
-For any shipping package containing cigarettes or smokeless tobacco, the delivery seller shall include on the bill of lading, if any, and on the outside of the shipping package, on the same surface as the delivery address, a clear and conspicuous statement providing as follows: "CIGARETTES/SMOKELESS TOBACCO: FEDERAL LAW REQUIRES THE PAYMENT OF ALL APPLICABLE EXCISE TAXES, AND COMPLIANCE WITH APPLICABLE LICENSING AND TAX-STAMPING OBLIGATIONS".
+For any shipping package containing cigarettes or smokeless tobacco, the delivery seller shall include on the bill of lading, if any, and on the outside of the shipping package, on the same surface as the delivery address, a clear and conspicuous statement providing as follows: "CIGARETTES/NICOTINE/SMOKELESS TOBACCO: FEDERAL LAW REQUIRES THE PAYMENT OF ALL APPLICABLE EXCISE TAXES, AND COMPLIANCE WITH APPLICABLE LICENSING AND TAX-STAMPING OBLIGATIONS".
 
 #### (2) Failure to label ####
 
@@ -316,13 +316,21 @@ Section 376 of this title and subsections (a), (b), (c), and (d) of this section
 
 For purposes of this chapter, a delivery sale shall be deemed to have occurred in the State and place where the buyer obtains personal possession of the cigarettes or smokeless tobacco, and a delivery pursuant to a delivery sale is deemed to have been initiated or ordered by the delivery seller.
 
-(Oct. 19, 1949, ch. 699, §2A, as added Pub. L. 111–154, §2(c), Mar. 31, 2010, 124 Stat. 1091.)
+(Oct. 19, 1949, ch. 699, §2A, as added Pub. L. 111–154, §2(c), Mar. 31, 2010, 124 Stat. 1091; amended Pub. L. 116–260, div. FF, title VI, §602(a)(2), Dec. 27, 2020, 134 Stat. 3137.)
 
 #### References in Text ####
 
 The Prevent All Cigarette Trafficking Act of 2009, referred to in subsec. (e)(1)(A), (5)(C)(i), is Pub. L. 111–154, Mar. 31, 2010, 124 Stat. 1087, also known as the PACT Act. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 375 of this title and Tables.
 
 For the date subsection (e) of this section goes into effect, referred to in subsec. (e)(1)(A), see Effective Date note below.
+
+#### Amendments ####
+
+**2020**—Subsec. (b)(1). Pub. L. 116–260 inserted "NICOTINE/" after "CIGARETTES/".
+
+#### Effective Date of 2020 Amendment ####
+
+Amendment by Pub. L. 116–260 effective on the date that is 90 days after Dec. 27, 2020, see section 602(b) of Pub. L. 116–260, set out as a note under section 375 of this title.
 
 #### Effective Date ####
 

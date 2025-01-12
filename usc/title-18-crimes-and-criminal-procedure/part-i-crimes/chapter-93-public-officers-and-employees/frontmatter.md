@@ -42,7 +42,7 @@ Sec.
 
 1920. False statement or fraud to obtain Federal employees' compensation.
 
-1921. Receiving Federal employees' compensation after marriage.
+[1921. Repealed.]
 
 1922. False or withheld report concerning Federal employees' compensation.
 
@@ -53,6 +53,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–260, div. O, title X, §1003(e), Dec. 27, 2020, 134 Stat. 2156, struck out item 1921 "Receiving Federal employees' compensation after marriage".
 
 **1996**—Pub. L. 104–294, title VI, §604(b)(44), Oct. 11, 1996, 110 Stat. 3509, substituted "employees' " for "employee's" in item 1920.
 

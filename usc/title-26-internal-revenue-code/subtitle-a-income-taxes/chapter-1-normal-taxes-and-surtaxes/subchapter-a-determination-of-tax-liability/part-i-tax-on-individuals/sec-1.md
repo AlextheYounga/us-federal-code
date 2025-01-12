@@ -1371,6 +1371,12 @@ Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that
 
 Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title [amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title] shall apply with respect to taxable years beginning after December 31, 1963."
 
+Short Title of 2020 Amendment
+
+Pub. L. 116–260, div. N, title II, §271(a), Dec. 27, 2020, 134 Stat. 1964, provided that: "This subtitle [subtitle B (§§271–288) of title II of div. N of Pub. L. 116–260, see Tables for classification] may be cited as the 'COVID-related Tax Relief Act of 2020'."
+
+Pub. L. 116–260, div. EE, §1(a), Dec. 27, 2020, 134 Stat. 3038, provided that: "This division [see Tables for classification] may be cited as the 'Taxpayer Certainty and Disaster Tax Relief Act of 2020'."
+
 #### Short Title of 2019 Amendment ####
 
 Pub. L. 116–94, div. O, §1(a), Dec. 20, 2019, 133 Stat. 3137, provided that: "This Act [div. O of Pub. L. 116–94, see Tables for classification] may be cited as the 'Setting Every Community Up for Retirement Enhancement Act of 2019'."

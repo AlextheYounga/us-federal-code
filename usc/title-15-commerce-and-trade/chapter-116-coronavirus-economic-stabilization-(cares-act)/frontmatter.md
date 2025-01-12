@@ -12,7 +12,7 @@ Sec.
 
 9004. Waiver of matching funds requirement under the Women's Business Center program.
 
-9005. Loan forgiveness.
+9005. Transferred.
 
 9006. Direct appropriations.
 
@@ -21,6 +21,10 @@ Sec.
 9008. United States Treasury program management authority.
 
 9009. Emergency EIDL grants.
+
+9009a. Grants for shuttered venue operators.
+
+9009b. Targeted EIDL advance for small business continuity, adaptation, and resiliency.
 
 9010. Resources and services in languages other than English.
 
@@ -53,6 +57,8 @@ Sec.
 9031. Funding for the DOL Office of Inspector General for oversight of unemployment provisions.
 
 9032. Implementation.
+
+9033. Return to work reporting.
 
 #### SUBCHAPTER III—ECONOMIC STABILIZATION AND ASSISTANCE TO SEVERELY DISTRESSED SECTORS OF THE UNITED STATES ECONOMY ####
 
@@ -94,6 +100,8 @@ Sec.
 
 9058. Temporary moratorium on eviction filings.
 
+9058a. Emergency rental assistance.
+
 9059. Protection of collective bargaining agreement.
 
 9060. Reports.
@@ -125,3 +133,31 @@ Sec.
 9079. Coordination.
 
 9080. Direct appropriation.
+
+#### Part C—Airline Worker Support Extension ####
+
+9091. Definitions.
+
+9092. Pandemic relief for aviation workers.
+
+9093. Procedures for providing payroll support.
+
+9094. Required assurances.
+
+9095. Protection of collective bargaining agreements.
+
+9096. Limitation on certain employee compensation.
+
+9097. Minimum air service guarantees.
+
+9098. Taxpayer protection.
+
+9099. Reports.
+
+9100. Coordination.
+
+9101. Funding.
+
+#### Part D—Coronavirus Economic Relief for Transportation Services Act ####
+
+9111. Assistance for providers of transportation services affected by COVID–19.

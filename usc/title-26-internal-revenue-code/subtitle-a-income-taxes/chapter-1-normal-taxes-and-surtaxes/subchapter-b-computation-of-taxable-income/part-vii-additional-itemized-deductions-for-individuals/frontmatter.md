@@ -22,13 +22,15 @@ Sec.
 
 221. Interest on education loans.
 
-222. Qualified tuition and related expenses.
+[222. Repealed.]
 
 223. Health savings accounts.
 
 224. Cross reference.
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–260, div. EE, title I, §104(b)(1), Dec. 27, 2020, 134 Stat. 3041, struck out item 222 "Qualified tuition and related expenses".
 
 **2017**—Pub. L. 115–97, title I, §11051(a), Dec. 22, 2017, 131 Stat. 2089, which directed amendment of part VII of subchapter B by striking the item relating to section 215 in the table of sections for "such subpart", was executed by striking item 215 "Alimony, etc., payments" in this analysis, which is the analysis for part VII of subchapter B of chapter 1, to reflect the probable intent of Congress.
 

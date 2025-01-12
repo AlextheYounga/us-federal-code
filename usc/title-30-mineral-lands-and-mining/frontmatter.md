@@ -53,7 +53,7 @@ Chap. Sec.
 
 23. Geothermal Resources 1001
 
-24. Geothermal Energy Research, Development, and Demonstration 1101
+24. Geothermal Energy Research, Development, and Demonstration [Repealed] 1101
 
 25. Surface Mining Control and Reclamation 1201
 

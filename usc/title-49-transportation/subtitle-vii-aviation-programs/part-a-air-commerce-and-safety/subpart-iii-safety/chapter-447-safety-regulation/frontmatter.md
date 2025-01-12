@@ -74,15 +74,23 @@ Sec.
 
 44736. Organization designation authorizations.
 
-44737. 1 Helicopter fuel system safety.
+44737. Helicopter fuel system safety.
 
 44738. Training on human trafficking for certain staff.
 
 44739. Pets on airplanes.
 
-Sec. 2 44737. 1 Special rule for certain aircraft operations.
+44740. Special rule for certain aircraft operations.
+
+44741. Approval of organization designation authorization unit members.
+
+44742. Interference with the duties of organization designation authorization unit members.
+
+44743. Pilot training requirements.
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–260, div. V, title I, §§107(d)(2), 119(b), Dec. 27, 2020, 134 Stat. 2326, 2339, added items 44740 to 44743 and struck out second item 44737 "Special rule for certain aircraft operations".
 
 **2018**—Pub. L. 115–254, div. B, title II, §212(b), title III, §317(b), title IV, §§408(b), 417(b), title V, §581(b)(2), Oct. 5, 2018, 132 Stat. 3249, 3269, 3330, 3334, 3398, added item 44736, two items 44737, and items 44738 and 44739.
 
@@ -97,7 +105,3 @@ Sec. 2 44737. 1 Special rule for certain aircraft operations.
 **2000**—Pub. L. 106–181, title V, §§504(c), 505(a)(2), title VI, §603(b), Apr. 5, 2000, 114 Stat. 134, 136, 152, substituted "Aeronautical charts and related products and services" for "Aeronautical maps and charts" in item 44721 and added items 44725 and 44726.
 
 **1996**—Pub. L. 104–264, title VI, §602(a)(2), Oct. 9, 1996, 110 Stat. 3264, added item 44724.
-
-[<sup>1</sup> So in original. Two sections 44737 have been enacted.](#CHAPTER447_1)
-
-[<sup>2</sup> So in original.](#CHAPTER447_2)

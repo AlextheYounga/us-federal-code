@@ -72,7 +72,7 @@ Each entity awarded a grant, contract, or cooperative agreement under this secti
 
 #### (B) Report to Congress ####
 
-Not later than 4 years after the date of enactment of the Title VII Health Care Workforce Reauthorization Act of 2019 <sup><a href="#294c_1_target" name="294c_1">1</a></sup> and every 5 years thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that provides a summary of the activities and outcomes associated with grants, contracts, and cooperative agreements made under this section. Such reports shall include—
+Not later than 4 years after March 27, 2020, and every 5 years thereafter, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that provides a summary of the activities and outcomes associated with grants, contracts, and cooperative agreements made under this section. Such reports shall include—
 
 (i) information on the number of trainees, faculty, and professionals who participated in programs under this section;
 
@@ -150,11 +150,7 @@ Notwithstanding any other provision of this subchapter, section 295j(a) of this 
 
 There is authorized to be appropriated $40,737,000 for each of fiscal years 2021 through 2025 for purposes of carrying out this section.
 
-(July 1, 1944, ch. 373, title VII, §753, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3544; amended Pub. L. 107–205, title II, §202(b), Aug. 1, 2002, 116 Stat. 817; Pub. L. 111–148, title V, §5305(a), (b), Mar. 23, 2010, 124 Stat. 622, 624; Pub. L. 111–256, §2(f)(5), Oct. 5, 2010, 124 Stat. 2644; Pub. L. 116–136, div. A, title III, §3403, Mar. 27, 2020, 134 Stat. 388.)
-
-#### References in Text ####
-
-The date of enactment of the Title VII Health Care Workforce Reauthorization Act of 2019, referred to in subsec. (a)(7)(B), probably means the date of the enactment of S. 2997 of the 116th Congress, which was not enacted into law but which contained a predecessor provision to section 3403 of Pub. L. 116–136, which generally amended this section and was approved Mar. 27, 2020. Section 1 of S. 2997, as reported to the Senate on Dec. 17, 2019, provided that: "This Act may be cited as the 'Title VII Health Care Workforce Reauthorization Act of 2019'."
+(July 1, 1944, ch. 373, title VII, §753, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3544; amended Pub. L. 107–205, title II, §202(b), Aug. 1, 2002, 116 Stat. 817; Pub. L. 111–148, title V, §5305(a), (b), Mar. 23, 2010, 124 Stat. 622, 624; Pub. L. 111–256, §2(f)(5), Oct. 5, 2010, 124 Stat. 2644; Pub. L. 116–136, div. A, title III, §3403, Mar. 27, 2020, 134 Stat. 388; Pub. L. 116–260, div. BB, title III, §331(a), Dec. 27, 2020, 134 Stat. 2938.)
 
 #### Prior Provisions ####
 
@@ -167,6 +163,8 @@ Another prior section 294c, act July 1, 1944, ch. 373, title VII, §743, as adde
 #### Amendments ####
 
 **2020**—Pub. L. 116–136 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (e) which related to geriatric education centers, geriatric training regarding physicians and dentists, geriatric faculty fellowships, geriatric workforce development, and geriatric career incentive awards, respectively.
+
+Subsec. (a)(7)(B). Pub. L. 116–260, in introductory provisions, substituted "Coronavirus Aid, Relief, and Economic Security Act" for "Title VII Health Care Workforce Reauthorization Act of 2019" in the original, and accordingly, "the date of enactment of the Coronavirus Aid, Relief, and Economic Security Act" was translated to "March 27, 2020". The Coronavirus Aid, Relief, and Economic Security Act, Pub. L. 116–136, was approved Mar. 27, 2020.
 
 **2010**—Subsec. (b)(2)(E). Pub. L. 111–256 substituted "elderly individuals with intellectual disabilities" for "elderly mentally retarded individuals".
 
@@ -184,8 +182,10 @@ Subsecs. (d), (e). Pub. L. 111–148, §5305(a), added subsecs. (d) and (e).
 
 **2002**—Subsec. (a)(1). Pub. L. 107–205 substituted ", and section 296(2) of this title," for ", and section 298b(2) of this title,".
 
+#### Effective Date of 2020 Amendment ####
+
+Pub. L. 116–260, div. BB, title III, §331(d), Dec. 27, 2020, 134 Stat. 2938, provided that: "The amendments made by subsections (a), (b), and (c) [amending this section and sections 297n–1 and 297t of this title] shall take effect as if included in the enactment of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136)."
+
 #### Definitions ####
 
 For meaning of references to an intellectual disability and to individuals with intellectual disabilities in provisions amended by section 2 of Pub. L. 111–256, see section 2(k) of Pub. L. 111–256, set out as a note under section 1400 of Title 20, Education.
-
-[<sup>1</sup> See References in Text note below.](#294c_1)

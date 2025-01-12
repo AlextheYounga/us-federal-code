@@ -244,6 +244,32 @@ Amendment by act Mar. 16, 1950, effective July 1, 1950, see note set out under s
 
 For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
+#### Prohibiting Deceptive Acts or Practices in Connection With the Novel Coronavirus ####
+
+Pub. L. 116–260, div. FF, title XIV, §1401, Dec. 27, 2020, 134 Stat. 3275, provided that:
+
+"(a) Short Title.—This section may be cited as the 'COVID–19 Consumer Protection Act'.
+
+"(b) In General.—For the duration of a public health emergency declared pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d) as a result of confirmed cases of the 2019 novel coronavirus (COVID–19), including any renewal thereof, it shall be unlawful for any person, partnership, or corporation to engage in a deceptive act or practice in or affecting commerce in violation of section 5(a) of the Federal Trade Commission Act (15 U.S.C. 45(a)) that is associated with—
+
+"(1) the treatment, cure, prevention, mitigation, or diagnosis of COVID–19; or
+
+"(2) a government benefit related to COVID–19.
+
+"(c) Enforcement by the Federal Trade Commission.—
+
+"(1) Violation.—A violation of subsection (b) shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+
+"(2) Powers of the federal trade commission.—
+
+"(A) In general.—The Federal Trade Commission shall enforce subsection (b) in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this Act [probably means "this section"].
+
+"(B) Privileges and immunities.—Any person who violates this Act [probably means "this section"] shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act.
+
+"(3) Effect on other laws.—Nothing in this Act [probably means "this section"] shall be construed to limit the authority of the Federal Trade Commission under any other provision of law.
+
+"(d) Severability.—If any provision of this Act [probably means "this section"], or the application thereof to any person or circumstance, is held invalid, the remainder of this Act and the application of such provision to other persons not similarly situated or to other circumstances shall not be affected by the invalidation."
+
 #### Congressional Findings and Declaration of Purpose Covering Grant of District Subpena Enforcement Authority and Authority To Grant Preliminary Injunctive Relief ####
 
 Pub. L. 93–153, §408(a), (b), Nov. 16, 1973, 87 Stat. 591, provided that:

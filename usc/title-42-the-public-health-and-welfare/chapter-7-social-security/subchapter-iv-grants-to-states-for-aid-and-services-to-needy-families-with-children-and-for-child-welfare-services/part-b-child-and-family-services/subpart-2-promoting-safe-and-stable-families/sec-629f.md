@@ -48,13 +48,21 @@ The Secretary shall reserve for awarding grants under section 629g(f) of this ti
 
 Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Secretary for fiscal year 2018, $8,000,000 for the Secretary to make competitive grants to States, Indian tribes, or tribal consortia to support the recruitment and retention of high-quality foster families to increase their capacity to place more children in family settings, focused on States, Indian tribes, or tribal consortia with the highest percentage of children in non-family settings. The amount appropriated under this subparagraph shall remain available through fiscal year 2022.
 
-(Aug. 14, 1935, ch. 531, title IV, §436, as added Pub. L. 107–133, title I, §106(a)(1), Jan. 17, 2002, 115 Stat. 2416; amended Pub. L. 109–171, title VII, §7402, Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–288, §§3(a), 4(a)(1), (b)(1), 5(a)(1), (3), (b)(1)(B), Sept. 28, 2006, 120 Stat. 1234, 1236, 1237, 1242, 1243; Pub. L. 111–242, §133(1), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §§102(a)(1), 103(a), (b), Sept. 30, 2011, 125 Stat. 371, 373; Pub. L. 115–123, div. E, title VII, §§50751(b), 50752(b)(1), (c), Feb. 9, 2018, 132 Stat. 262, 263.)
+(Aug. 14, 1935, ch. 531, title IV, §436, as added Pub. L. 107–133, title I, §106(a)(1), Jan. 17, 2002, 115 Stat. 2416; amended Pub. L. 109–171, title VII, §7402, Feb. 8, 2006, 120 Stat. 150; Pub. L. 109–288, §§3(a), 4(a)(1), (b)(1), 5(a)(1), (3), (b)(1)(B), Sept. 28, 2006, 120 Stat. 1234, 1236, 1237, 1242, 1243; Pub. L. 111–242, §133(1), Sept. 30, 2010, 124 Stat. 2613; Pub. L. 112–34, title I, §§102(a)(1), 103(a), (b), Sept. 30, 2011, 125 Stat. 371, 373; Pub. L. 115–123, div. E, title VII, §§50751(b), 50752(b)(1), (c), Feb. 9, 2018, 132 Stat. 262, 263; Pub. L. 116–260, div. CC, title III, §305(a), Dec. 27, 2020, 134 Stat. 2994.)
+
+#### Amendment of Section ####
+
+Pub. L. 116–260, div. CC, title III, §305(a), (c), Dec. 27, 2020, 134 Stat. 2994, 2995, provided that, effective Oct. 1, 2021, this section is amended in each of subsections (a), (b)(4)(A), (b)(5), and (f)(10) by striking "2021" and inserting "2022". See 2020 Amendment notes below.
 
 #### Prior Provisions ####
 
 A prior section 436 of act Aug. 14, 1935, was classified to section 636 of this title prior to repeal by Pub. L. 100–485.
 
 #### Amendments ####
+
+**2020**—Subsecs. (a), (b)(4)(A), (5). Pub. L. 116–260 substituted "2022" for "2021".
+
+Subsec. (f)(10). Pub. L. 116–260 which directed amendment of subsec. (f)(10) of this section by substituting "2022" for "2021", could not be executed because no subsec. (f)(10) has been enacted.
 
 **2018**—Subsec. (a). Pub. L. 115–123, §50752(b)(1), substituted "for each of fiscal years 2017 through 2021" for "for each of fiscal years 2012 through 2016".
 
@@ -103,6 +111,10 @@ Pub. L. 109–288, §5(a)(1), (3), substituted "After applying paragraphs (4) an
 Subsec. (b)(4). Pub. L. 109–288, §4(a)(1), added par. (4).
 
 Subsec. (b)(5). Pub. L. 109–288, §4(b)(1), added par. (5).
+
+#### Effective Date of 2020 Amendment ####
+
+Pub. L. 116–260, div. CC, title III, §305(c), Dec. 27, 2020, 134 Stat. 2995, provided that: "The amendments made by this section [amending this section and section 629h of this title] shall take effect on October 1, 2021."
 
 #### Effective Date of 2011 Amendment ####
 

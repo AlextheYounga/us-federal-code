@@ -6,6 +6,8 @@ Sec.
 
 2202. Non-Federal engagement and review.
 
+2203. Review of contracting policies.
+
 #### SUBCHAPTER I—COST SHARING ####
 
 2211. Harbors.
@@ -15,6 +17,8 @@ Sec.
 2212. Inland waterway transportation.
 
 2213. Flood control and other purposes.
+
+2213a. Treatment of certain benefits and costs.
 
 2214. General credit for flood control.
 
@@ -66,6 +70,8 @@ Sec.
 
 2238b. Funding for harbor maintenance programs.
 
+2238b–1. Budgetary treatment expansion and adjustment for harbor maintenance trust fund.
+
 2238c. Additional measures at donor ports and energy transfer ports.
 
 2238d. Maintenance of harbors of refuge.
@@ -92,6 +98,8 @@ Sec.
 
 2255. Inland waterways riverbank stabilization.
 
+2255a. High water-low water preparedness.
+
 #### SUBCHAPTER IV—WATER RESOURCES STUDIES ####
 
 2261. Territories development study.
@@ -102,7 +110,7 @@ Sec.
 
 2263a. Aquatic invasive species research.
 
-2264. Deauthorization of studies.
+2264. Repealed.
 
 2265. Columbia River/Arkansas River Basin transfers.
 
@@ -117,6 +125,8 @@ Sec.
 2268. Marine technology review.
 
 2269. Tribal partnership program.
+
+2270. Subsurface drain systems research and development.
 
 #### SUBCHAPTER V—GENERAL PROVISIONS ####
 
@@ -134,7 +144,11 @@ Sec.
 
 2282d. Annual report to Congress.
 
+2282d–1. Report to Congress on authorized studies and projects.
+
 2282e. Post-authorization change reports.
+
+2282f. Review of resiliency assessments.
 
 2283. Fish and wildlife mitigation.
 
@@ -260,6 +274,8 @@ Sec.
 
 2325a. Authority to accept and use materials and services.
 
+2325b. Materials, services, and funds for repair, restoration, or rehabilitation of projects.
+
 2326. Regional sediment management.
 
 2326a. Dredged material disposal facility partnerships.
@@ -274,7 +290,13 @@ Sec.
 
 2326f. Maintenance dredging data.
 
+2326g. Beneficial use of dredged material; dredged material management plans.
+
+2326h. Five-year regional dredged material management plans.
+
 2327. Definition of rehabilitation for inland waterway projects.
+
+2327a. Rehabilitation of Corps of Engineers constructed pump stations.
 
 2328. Challenge cost-sharing program for management of recreation facilities.
 
@@ -287,6 +309,8 @@ Sec.
 2330a. Monitoring ecosystem restoration.
 
 2330b. Fish hatcheries.
+
+2330c. Aquatic ecosystem restoration.
 
 2331. Use of continuing contracts for construction of certain projects.
 
@@ -318,6 +342,8 @@ Sec.
 
 2341b. Prioritization of certain projects.
 
+2341c. Criteria for funding environmental infrastructure projects.
+
 2342. Access to water resource data.
 
 2343. Independent peer review.
@@ -334,6 +360,8 @@ Sec.
 
 2347b. Purpose and need.
 
+2347c. Small water storage projects.
+
 2348. Project acceleration.
 
 2349. Categorical exclusions in emergencies.
@@ -348,6 +376,10 @@ Sec.
 
 2353. Structural health monitoring.
 
+2353a. Aging infrastructure.
+
 2354. Easements for electric, telephone, or broadband service facilities.
 
 2355. Prior project authorization.
+
+2356. Project consultation.

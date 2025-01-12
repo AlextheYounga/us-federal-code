@@ -84,9 +84,25 @@ The Secretary may provide technical assistance to States, State health authoriti
 
 (B) demonstration projects for the prevention and control of such diseases;
 
-(C) public information and education programs for the prevention and control of such diseases; and
+(C) public information and education programs for the prevention and control of such diseases;
 
-(D) education, training, and clinical skills improvement activities in the prevention and control of such diseases for health professionals (including allied health personnel).
+(D) education, training, and clinical skills improvement activities in the prevention and control of such diseases for health professionals (including allied health personnel);
+
+(E) planning, implementation, and evaluation of activities to address vaccine-preventable diseases, including activities to—
+
+(i) identify communities at high risk of outbreaks related to vaccine-preventable diseases, including through improved data collection and analysis;
+
+(ii) pilot innovative approaches to improve vaccination rates in communities and among populations with low rates of vaccination;
+
+(iii) reduce barriers to accessing vaccines and evidence-based information about the health effects of vaccines;
+
+(iv) partner with community organizations and health care providers to develop and deliver evidence-based interventions, including culturally and linguistically appropriate interventions, to increase vaccination rates;
+
+(v) improve delivery of evidence-based vaccine-related information to parents and others; and
+
+(vi) improve the ability of State, local, Tribal, and territorial public health departments to engage communities at high risk for outbreaks related to vaccine-preventable diseases, including, as appropriate, with local educational agencies, as defined in section 7801 of title 20; and
+
+(F) research related to strategies for improving awareness of scientific and evidence-based vaccine-related information, including for communities with low rates of vaccination, in order to understand barriers to vaccination, improve vaccination rates, and assess the public health outcomes of such strategies.
 
 (2) The Secretary may make grants to States, political subdivisions of States, and other public and nonprofit private entities for—
 
@@ -160,7 +176,11 @@ Not later than 4 years after March 23, 2010,<sup><a href="#247b_1_target" name="
 
 There is authorized to be appropriated to carry out this subsection, such sums as may be necessary for each of fiscal years 2010 through 2014.
 
-(July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32, §6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13, 1998, 112 Stat. 3586; Pub. L. 106–310, div. A, title XVII, §1711, Oct. 17, 2000, 114 Stat. 1152; Pub. L. 111–148, title IV, §4204(a)–(c), Mar. 23, 2010, 124 Stat. 571, 572.)
+#### (n) Vaccination data ####
+
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall expand and enhance, and, as appropriate, establish and improve, programs and conduct activities to collect, monitor, and analyze vaccination coverage data to assess levels of protection from vaccine-preventable diseases, including by assessing factors contributing to underutilization of vaccines and variations of such factors, and identifying communities at high risk of outbreaks associated with vaccine-preventable diseases.
+
+(July 1, 1944, ch. 373, title III, §317, as added Pub. L. 87–868, §2, Oct. 23, 1962, 76 Stat. 1155; amended Pub. L. 89–109, §2, Aug. 5, 1965, 79 Stat. 435; Pub. L. 91–464, §2, Oct. 16, 1970, 84 Stat. 988; Pub. L. 92–449, title I, §101, Sept. 30, 1972, 86 Stat. 748; Pub. L. 93–354, §4, July 23, 1974, 88 Stat. 376; Pub. L. 94–63, title VI, §601, July 29, 1975, 89 Stat. 346; Pub. L. 94–317, title II, §202(a), June 23, 1976, 90 Stat. 700; Pub. L. 94–380, §2, Aug. 12, 1976, 90 Stat. 1113; Pub. L. 95–626, title II, §§202, 204(b)(2), Nov. 10, 1978, 92 Stat. 3574, 3583; Pub. L. 96–32, §6(i), July 10, 1979, 93 Stat. 83; Pub. L. 97–35, title IX, §928, Aug. 13, 1981, 95 Stat. 569; Pub. L. 98–555, §2, Oct. 30, 1984, 98 Stat. 2854; Pub. L. 99–117, §11(c), Oct. 7, 1985, 99 Stat. 495; Pub. L. 100–177, title I, §§110(a), 111, Dec. 1, 1987, 101 Stat. 990, 991; Pub. L. 101–368, §2, Aug. 15, 1990, 104 Stat. 446; Pub. L. 101–502, §2(a), Nov. 3, 1990, 104 Stat. 1285; Pub. L. 103–183, title III, §301(b), Dec. 14, 1993, 107 Stat. 2235; Pub. L. 105–392, title III, §303, Nov. 13, 1998, 112 Stat. 3586; Pub. L. 106–310, div. A, title XVII, §1711, Oct. 17, 2000, 114 Stat. 1152; Pub. L. 111–148, title IV, §4204(a)–(c), Mar. 23, 2010, 124 Stat. 571, 572; Pub. L. 116–260, div. BB, title III, §311(b), Dec. 27, 2020, 134 Stat. 2924.)
 
 #### References in Text ####
 
@@ -171,6 +191,10 @@ Section 247 of this title, referred to in subsec. (b)(3), was repealed by Pub. L
 March 23, 2010, referred to in subsec. (m)(6), was in the original "the date of enactment of the Affordable Health Choices Act", and was translated as meaning the date of enactment of the Patient Protection and Affordable Care Act, Pub. L. 111–148, to reflect the probable intent of Congress. No act named the "Affordable Health Choices Act" has been enacted.
 
 #### Amendments ####
+
+**2020**—Subsec. (k)(1)(E), (F). Pub. L. 116–260, §311(b)(1), added subpars. (E) and (F).
+
+Subsec. (n). Pub. L. 116–260, §311(b)(2), added subsec. (n).
 
 **2010**—Subsec. (j)(1). Pub. L. 111–148, §4204(c)(1), struck out "for each of the fiscal years 1998 through 2005" after "necessary".
 

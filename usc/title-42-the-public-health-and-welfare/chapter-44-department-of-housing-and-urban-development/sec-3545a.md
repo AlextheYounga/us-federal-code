@@ -12,6 +12,8 @@ Section was enacted as part of the appropriation act cited as the credit to this
 
 Provisions similar to those in this section were contained in the following appropriation acts:
 
+Pub. L. 116–260, div. L, title II, §216, Dec. 27, 2020, 134 Stat. 1897.
+
 Pub. L. 116–94, div. H, title II, §216, Dec. 20, 2019, 133 Stat. 3004.
 
 Pub. L. 116–6, div. G, title II, §218, Feb. 15, 2019, 133 Stat. 460.

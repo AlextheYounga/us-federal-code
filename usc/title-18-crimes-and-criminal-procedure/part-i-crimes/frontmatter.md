@@ -126,7 +126,7 @@ Chap. Sec.
 
 88. Privacy 1801
 
-89. Professions and occupations 1821
+[89. Repealed.]
 
 90. Protection of trade secrets 1831
 
@@ -193,6 +193,8 @@ Chap. Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–260, div. O, title X, §1003(a), Dec. 27, 2020, 134 Stat. 2156, struck out item for chapter 89 "Professions and occupations".
 
 **2017**—Pub. L. 115–70, title IV, §402(b)(1), Oct. 18, 2017, 131 Stat. 1214, substituted "Telemarketing and email marketing fraud" for "Telemarketing fraud" in item for chapter 113A.
 

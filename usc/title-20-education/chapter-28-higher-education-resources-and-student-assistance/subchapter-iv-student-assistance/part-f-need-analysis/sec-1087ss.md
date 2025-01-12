@@ -132,7 +132,103 @@ The term "means-tested Federal benefit program" means a mandatory spending progr
 
 (F) other programs identified by the Secretary.
 
-(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(N), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(N), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–39, title IV, §406(a)(4), July 1, 2009, 123 Stat. 1948; Pub. L. 112–74, div. F, title III, §309(b), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–128, title V, §512(n)(2), July 22, 2014, 128 Stat. 1710.)
+(Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(N), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(N), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–39, title IV, §406(a)(4), July 1, 2009, 123 Stat. 1948; Pub. L. 112–74, div. F, title III, §309(b), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–128, title V, §512(n)(2), July 22, 2014, 128 Stat. 1710; Pub. L. 116–260, div. FF, title VII, §702(h), Dec. 27, 2020, 134 Stat. 3152.)
+
+#### Amendment of Section ####
+
+Pub. L. 116–260, div. FF, title VII, §§701(b), 702(h), Dec. 27, 2020, 134 Stat. 3137, 3152, provided that, effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, this section is amended to read as follows:
+
+#### §1087ss. Eligible applicants exempt from asset reporting ####
+
+#### *(a) In general* ####
+
+*Notwithstanding any other provision of law, this section shall be effective for each individual seeking to apply for Federal financial aid under this subchapter, as part of the simplified application for Federal student financial aid under section 1090 of this title, on or after July 1, 2023.*
+
+#### *(b) Applicants exempt from asset reporting* ####
+
+#### *(1) In general* ####
+
+*Except as provided in paragraph (3), in carrying out section 1090 of this title, the Secretary shall not use asset information from an eligible applicant or, as applicable, the parent or spouse of an eligible applicant.*
+
+#### *(2) Eligible applicants* ####
+
+*In this subsection, the term "eligible applicant" means an applicant who meets at least one of the following criteria:*
+
+*(A) Is an applicant who qualifies for an automatic zero student aid index or negative student aid index under subsection (b) or (c) of section 1087mm of this title.*
+
+*(B) Is an applicant who is a dependent student and the student's parents have a total adjusted gross income (excluding any income of the dependent student) that is less than $60,000 and do not file a Schedule A, B, D, E, F, or H (or equivalent successor schedules) with the Federal income tax return for the second preceding tax year, and—*
+
+*(i) do not file a Schedule C (or the equivalent successor schedule) with the Federal income tax return for the second preceding tax year; or*
+
+*(ii) file a Schedule C (or the equivalent successor schedule) with net business income of not more than a $10,000 loss or gain with the Federal income tax return for the second preceding tax year.*
+
+*(C) Is an applicant who is an independent student and the student (including the student's spouse, if any) has a total adjusted gross income that is less than $60,000 and does not file a Schedule A, B, D, E, F, or H (or equivalent successor schedules), with the Federal income tax return for the second preceding tax year, and—*
+
+*(i) does not file a Schedule C (or the equivalent successor schedule) with the Federal income tax return for the second preceding tax year; or*
+
+*(ii) files a Schedule C (or the equivalent successor schedule) with net business income of not more than a $10,000 loss or gain with the Federal income tax return for the second preceding tax year.*
+
+*(D) Is an applicant who, at any time during the previous 24-month period, received a benefit under a means-tested Federal benefit program (or whose parent or spouse received such a benefit, as applicable).*
+
+#### *(3) Special rule* ####
+
+*An eligible applicant shall not be exempt from asset reporting under this section if the applicant is a dependent student and the students' parents do not—*
+
+*(A) reside in the United States or a United States territory; or*
+
+*(B) file taxes in the United States or a United States territory, except if such nonfiling is due to not being required to file a Federal tax return for the applicable tax year due to a low income.*
+
+#### *(4) Definitions* ####
+
+*In this section:*
+
+#### *(A) Schedule A* ####
+
+*The term "Schedule A" means a form or information by a taxpayer to report itemized deductions.*
+
+#### *(B) Schedule B* ####
+
+*The term "Schedule B" means a form or information filed by a taxpayer to report interest and ordinary dividend income.*
+
+#### *(C) Schedule C* ####
+
+*The term "Schedule C" means a form or information filed by a taxpayer to report income or loss from a business operated or a profession practiced as a sole proprietor.*
+
+#### *(D) Schedule D* ####
+
+*The term "Schedule D" means a form or information filed by a taxpayer to report sales, exchanges or some involuntary conversions of capital assets, certain capital gain distributions, and nonbusiness bad debts.*
+
+#### *(E) Schedule E* ####
+
+*The term "Schedule E" means a form or information filed by a taxpayer to report income from rental properties, royalties, partnerships, S corporations, estates, trusts, and residual interests in real estate mortgage investment conduits.*
+
+#### *(F) Schedule F* ####
+
+*The term "Schedule F" means a form or information filed by a taxpayer to report farm income and expenses.*
+
+#### *(G) Schedule H* ####
+
+*The term "Schedule H" means a form or information filed by a taxpayer to report household employment taxes.*
+
+#### *(H) Means-tested Federal benefit program* ####
+
+*The term "means-tested Federal benefit program" means any of the following:*
+
+*(i) The supplemental security income program under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.).*
+
+*(ii) The supplemental nutrition assistance program under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.), a nutrition assistance program carried out under section 19 of such Act (7 U.S.C. 2028), and a supplemental nutrition assistance program carried out under section 1841(c) of title 48.*
+
+*(iii) The program of block grants for States for temporary assistance for needy families established under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.).*
+
+*(iv) The special supplemental nutrition program for women, infants, and children established by section 1786 of title 42.*
+
+*(v) The Medicaid program under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).*
+
+*(vi) Federal housing assistance programs, including tenant-based assistance under section 1437f(o) of title 42, and public housing, as defined in section 1437a(b)(1) of title 42.*
+
+*(vii) Other means-tested programs determined by the Secretary to be approximately consistent with the income eligibility requirements of the means-tested programs under clauses (i) through (vi).*
+
+See 2020 Amendment note below.
 
 #### References in Text ####
 
@@ -147,6 +243,8 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (d)(2)(
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–260 amended section generally. Prior to amendment, section related to simplified needs test.
 
 **2014**—Subsec. (d)(1). Pub. L. 113–128 substituted "The term 'dislocated worker' has the meaning given the term in section 3102 of title 29" for "The term 'dislocated worker' has the meaning given the term in section 2801 of title 29".
 
@@ -235,6 +333,10 @@ Subsec. (b)(2). Pub. L. 100–50, §14(24)(A), struck out "and State" after "Fed
 Subsec. (b)(6). Pub. L. 100–50, §14(24)(B)–(D), added par. (6).
 
 Subsec. (c). Pub. L. 100–50, §14(25), added subsec. (c).
+
+#### Effective Date of 2020 Amendment ####
+
+Amendment by Pub. L. 116–260 effective July 1, 2023, except as otherwise expressly provided, and applicable with respect to award year 2023–2024 and each subsequent award year, as determined under this chapter, see section 701(b) of Pub. L. 116–260, set out as a note under section 1001 of this title.
 
 #### Effective Date of 2014 Amendment ####
 

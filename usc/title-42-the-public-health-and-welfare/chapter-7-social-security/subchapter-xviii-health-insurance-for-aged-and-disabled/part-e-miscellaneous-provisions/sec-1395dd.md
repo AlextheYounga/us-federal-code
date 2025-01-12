@@ -122,7 +122,7 @@ In this section:
 
 (4) The term "transfer" means the movement (including the discharge) of an individual outside a hospital's facilities at the direction of any person employed by (or affiliated or associated, directly or indirectly, with) the hospital, but does not include such a movement of an individual who (A) has been declared dead, or (B) leaves the facility without the permission of any such person.
 
-(5) The term "hospital" includes a critical access hospital (as defined in section 1395x(mm)(1) of this title).
+(5) The term "hospital" includes a critical access hospital (as defined in section 1395x(mm)(1) of this title) and a rural emergency hospital (as defined in section 1395x(kkk)(2) of this title).
 
 #### (f) Preemption ####
 
@@ -140,13 +140,19 @@ A participating hospital may not delay provision of an appropriate medical scree
 
 A participating hospital may not penalize or take adverse action against a qualified medical person described in subsection (c)(1)(A)(iii) or a physician because the person or physician refuses to authorize the transfer of an individual with an emergency medical condition that has not been stabilized or against any hospital employee because the employee reports a violation of a requirement of this section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1867, as added Pub. L. 99–272, title IX, §9121(b), Apr. 7, 1986, 100 Stat. 164; amended Pub. L. 99–509, title IX, §9307(c)(4), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 99–514, title XVIII, §1895(b)(4), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4009(a)(1), formerly §4009(a)(1), (2), Dec. 22, 1987, 101 Stat. 1330–56, 1330–57; Pub. L. 100–360, title IV, §411(b)(8)(A)(i), July 1, 1988, 102 Stat. 772; Pub. L. 100–485, title VI, §608(d)(18)(E), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xiv), 6211(a)–(h), Dec. 19, 1989, 103 Stat. 2154, 2245–2248; Pub. L. 101–508, title IV, §§4008(b)(1)–(3)(A), 4207(a)(1)(A), (2), (3), (k)(3), formerly 4027(a)(1)(A), (2), (3), (k)(3), Nov. 5, 1990, 104 Stat. 1388–44, 1388–117, 1388–124, renumbered and amended Pub. L. 103–432, title I, §160(d)(4), (5)(A), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(14), title IX, §944(b), (c)(1), Dec. 8, 2003, 117 Stat. 2355, 2423; Pub. L. 112–40, title II, §261(a)(3)(A), (E), Oct. 21, 2011, 125 Stat. 423.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1867, as added Pub. L. 99–272, title IX, §9121(b), Apr. 7, 1986, 100 Stat. 164; amended Pub. L. 99–509, title IX, §9307(c)(4), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 99–514, title XVIII, §1895(b)(4), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4009(a)(1), formerly §4009(a)(1), (2), Dec. 22, 1987, 101 Stat. 1330–56, 1330–57; Pub. L. 100–360, title IV, §411(b)(8)(A)(i), July 1, 1988, 102 Stat. 772; Pub. L. 100–485, title VI, §608(d)(18)(E), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xiv), 6211(a)–(h), Dec. 19, 1989, 103 Stat. 2154, 2245–2248; Pub. L. 101–508, title IV, §§4008(b)(1)–(3)(A), 4207(a)(1)(A), (2), (3), (k)(3), formerly 4027(a)(1)(A), (2), (3), (k)(3), Nov. 5, 1990, 104 Stat. 1388–44, 1388–117, 1388–124, renumbered and amended Pub. L. 103–432, title I, §160(d)(4), (5)(A), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(14), title IX, §944(b), (c)(1), Dec. 8, 2003, 117 Stat. 2355, 2423; Pub. L. 112–40, title II, §261(a)(3)(A), (E), Oct. 21, 2011, 125 Stat. 423; Pub. L. 116–260, div. CC, title I, §125(b)(2)(B), Dec. 27, 2020, 134 Stat. 2966.)
+
+#### Applicability of Amendment ####
+
+Amendment of section by section 125(b)(2)(B) of Pub. L. 116–260 applicable to items and services furnished on or after Jan. 1, 2023. See 2020 Amendment note below.
 
 #### Prior Provisions ####
 
 A prior section 1395dd, act Aug. 14, 1935, ch. 531, title XVIII, §1867, as added July 30, 1965, Pub. L. 89–97, title I, §102(a), 79 Stat. 329; amended Jan. 2, 1968, Pub. L. 90–248, title I, §164(a), 81 Stat. 873; Oct. 30, 1972, Pub. L. 92–603, title II, §288, 86 Stat. 1457, related to creation, composition, meetings, and functions of the Health Insurance Benefits Advisory Council and the appointment of a Chairman and members thereto, and qualifications, terms of office, compensation, and reimbursement of travel expenses of members, prior to repeal by Pub. L. 98–369, div. B, title III, §2349(a), July 18, 1984, 98 Stat. 1097, eff. July 18, 1984.
 
 #### Amendments ####
+
+**2020**—Subsec. (e)(5). Pub. L. 116–260 inserted "and a rural emergency hospital (as defined in section 1395x(kkk)(2) of this title)" before period at end.
 
 **2011**—Subsec. (d)(3). Pub. L. 112–40 substituted "quality improvement" for "peer review" in heading and for "utilization and quality control peer review" in text.
 
@@ -265,6 +271,10 @@ Subsec. (d)(2). Pub. L. 100–203, §4009(a)(1), as amended by Pub. L. 100–360
 **1986**—Subsec. (b)(2), (3). Pub. L. 99–509 struck out "legally responsible" after "individual (or a".
 
 Subsec. (e)(3). Pub. L. 99–514 struck out "and has, under the agreement, obligated itself to comply with the requirements of this section" after "section 1395cc of this title".
+
+#### Effective Date of 2020 Amendment ####
+
+Amendment by Pub. L. 116–260 applicable to items and services furnished on or after Jan. 1, 2023, see section 125(g) of Pub. L. 116–260, set out as a note under section 1395l of this title.
 
 #### Effective Date of 2011 Amendment ####
 

@@ -160,6 +160,8 @@ Sec.
 
 1151. Administrative summary cease and desist orders and summary seizure orders against multiple employer welfare arrangements in financially hazardous condition.
 
+1152. Coordination of enforcement regarding violations of certain health care provider requirements; complaint process.
+
 #### part 6—continuation coverage and additional standards for group health plans ####
 
 1161. Plans must provide continuation coverage to certain individuals.
@@ -202,6 +204,24 @@ Sec.
 
 1185d. Additional market reforms.
 
+1185e. Preventing surprise medical bills.
+
+1185f. Ending surprise air ambulance bills.
+
+1185g. Continuity of care.
+
+1185h. Maintenance of price comparison tool.
+
+1185i. Protecting patients and improving the accuracy of provider directory information.
+
+1185k. Other patient protections.
+
+1185 l. Air ambulance report requirements.
+
+1185m. Increasing transparency by removing gag clauses on price and quality information.
+
+1185n. Reporting on pharmacy benefits and drug costs.
+
 #### Subpart C—General Provisions ####
 
 1191. Preemption; State flexibility; construction.
@@ -211,6 +231,8 @@ Sec.
 1191b. Definitions.
 
 1191c. Regulations.
+
+1191d. Standardized reporting format.
 
 #### SUBCHAPTER II—JURISDICTION, ADMINISTRATION, ENFORCEMENT; JOINT PENSION TASK FORCE, ETC. ####
 

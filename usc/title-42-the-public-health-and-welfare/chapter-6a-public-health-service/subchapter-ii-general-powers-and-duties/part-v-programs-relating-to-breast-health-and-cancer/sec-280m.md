@@ -104,10 +104,12 @@ In this section, the term "young women" means women 15 to 44 years of age.
 
 #### (h) Authorization of appropriations ####
 
-To carry out subsections (a), (b), (c)(1), and (d), there are authorized to be appropriated $4,900,000 for each of fiscal years 2015 through 2019.
+To carry out subsections (a), (b), (c)(1), and (d), there are authorized to be appropriated $9,000,000 for each of fiscal years 2022 through 2026.
 
-(July 1, 1944, ch. 373, title III, §399NN, as added Pub. L. 111–148, title X, §10413(b), Mar. 23, 2010, 124 Stat. 991; amended Pub. L. 113–265, §2, Dec. 18, 2014, 128 Stat. 2942.)
+(July 1, 1944, ch. 373, title III, §399NN, as added Pub. L. 111–148, title X, §10413(b), Mar. 23, 2010, 124 Stat. 991; amended Pub. L. 113–265, §2, Dec. 18, 2014, 128 Stat. 2942; Pub. L. 116–260, div. BB, title III, §316, Dec. 27, 2020, 134 Stat. 2932.)
 
 #### Amendments ####
+
+**2020**—Subsec. (h). Pub. L. 116–260 substituted "$9,000,000 for each of fiscal years 2022 through 2026" for "$4,900,000 for each of fiscal years 2015 through 2019".
 
 **2014**—Subsec. (h). Pub. L. 113–265 substituted "$4,900,000 for each of fiscal years 2015 through 2019" for "$9,000,000 for each of the fiscal years 2010 through 2014".

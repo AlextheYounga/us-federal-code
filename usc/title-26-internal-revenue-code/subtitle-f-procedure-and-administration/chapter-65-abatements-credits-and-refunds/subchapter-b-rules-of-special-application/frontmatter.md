@@ -36,6 +36,8 @@ Sec.
 
 6428. 2020 Recovery rebates for individuals.
 
+6428A. Additional 2020 recovery rebates for individuals.
+
 [6429. Repealed.]
 
 6430. Treatment of tax imposed at Leaking Underground Storage Tank Trust Fund financing rate.
@@ -44,7 +46,9 @@ Sec.
 
 #### Amendments ####
 
-**2020**—Pub. L. 116–136, div. A, title II, §2201(g)(2), Mar. 27, 2020, 134 Stat. 340, added item 6428.
+**2020**—Pub. L. 116–260, div. N, title II, §272(g)(2), Dec. 27, 2020, 134 Stat. 1976, added item 6428A.
+
+Pub. L. 116–136, div. A, title II, §2201(g)(2), Mar. 27, 2020, 134 Stat. 340, added item 6428.
 
 **2018**—Pub. L. 115–141, div. U, title IV, §401(d)(7)(A), Mar. 23, 2018, 132 Stat. 1212, struck out item 6432 "COBRA premium assistance".
 

@@ -69,3 +69,11 @@ Amendment by Pub. L. 109–288 effective Oct. 1, 2006, except as otherwise provi
 #### Effective Date of 2002 Amendment ####
 
 Amendment by Pub. L. 107–133 effective Jan. 17, 2002, with delay permitted if State legislation is required, see section 301 of Pub. L. 107–133, set out as a note under section 629 of this title.
+
+#### Emergency Funding for the Marylee Allen Promoting Safe and Stable Families Program ####
+
+Pub. L. 116–260, div. X, §6, Dec. 27, 2020, 134 Stat. 2413, provided that:
+
+"(a) In General.—Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $85,000,000 to carry out section 436(a) of the Social Security Act [42 U.S.C. 629f(a)] for fiscal year 2021, in addition to any amounts otherwise made available for such purpose. For purposes of section 436(b) of such Act, the amount made available by the preceding sentence shall be considered part of the amount specified in such section 436(a).
+
+"(b) Inapplicability of State Matching Requirement to Additional Funds.—In making payments under section 434(a) of the Social Security Act [42 U.S.C. 629d(a)] from the additional funds made available as a result of subsection (a) of this section, the percentage specified in section 434(a)(1) of such Act is deemed to be 100 percent."

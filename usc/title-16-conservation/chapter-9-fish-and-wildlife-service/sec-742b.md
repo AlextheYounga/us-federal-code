@@ -50,6 +50,70 @@ Amendment by Pub. L. 87–793 effective on first day of first pay period which b
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior in view of: creation of National Oceanic and Atmospheric Administration in Department of Commerce and Office of Administrator of such Administration; abolition of Bureau of Commercial Fisheries in the Interior Department and Office of Director of such Bureau; transfers of functions, including functions formerly vested by law in Secretary of the Interior or the Interior Department which were administered through Bureau of Commercial Fisheries or were primarily related to such Bureau, exclusive of certain enumerated functions with respect to Great Lakes fishery research, Missouri River Reservoir research, Gulf Breeze Biological Laboratory, and Trans-Alaska pipeline investigations; and transfer of marine sport fish program of Bureau of Sport Fisheries and Wildlife by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Murder Hornet Eradication Pilot Program ####
+
+Pub. L. 116–260, div. AA, title V, §508, Dec. 27, 2020, 134 Stat. 2750, provided that:
+
+"(a) Grant Authority.—The Secretary of the Interior, acting through the Director of the Fish and Wildlife Service, and in consultation with all relevant Federal agencies, shall establish a pilot program to provide financial assistance to States for management, research, and public education activities necessary to—
+
+"(1) eradicate the Asian giant hornet; and
+
+"(2) restore bee populations damaged by the Asian giant hornet.
+
+"(b) Eligibility.—A State is eligible to receive financial assistance under this section if the State has demonstrated to the Secretary of the Interior sufficient need to implement measures to eradicate the Asian giant hornet.
+
+"(c) Cost Sharing.—
+
+"(1) Federal share.—The Federal share of the costs of activities carried out under the pilot program may not exceed 75 percent of the total costs of such activities.
+
+"(2) In-kind contributions.—The non-Federal share of the costs of activities carried out under the pilot program may be provided in the form of in-kind contributions of materials or services.
+
+"(d) Limitation on Administrative Expenses.—Not more than 5 percent of financial assistance provided by the Secretary of the Interior under this section may be used for administrative expenses.
+
+"(e) Authorization of Appropriations.—There is authorized to be appropriated to the Secretary of the Interior to carry out the pilot program $4,000,000 for each of fiscal years 2021 through 2025.
+
+"(f) Definitions.—In this section:
+
+"(1) Asian giant hornet.—The term 'Asian giant hornet' means a *Vespa mandarinia*.
+
+"(2) State.—The term 'State' means each of the several States, the District of Columbia, and the territories and insular possessions of the United States.
+
+"(g) Sunset.—The authority under this section shall terminate on the date that is 5 years after the date of enactment of this Act [Dec. 27, 2020]."
+
+#### Fish and Wildlife Service Asian Carp Eradication Program ####
+
+Pub. L. 116–260, div. AA, title V, §509(b), Dec. 27, 2020, 134 Stat. 2752, provided that:
+
+"(1) Establishment.—The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall establish a program to provide financial assistance to States to implement measures, including for management, research, and public education activities, necessary to eradicate the Asian carp.
+
+"(2) Eligibility.—A State is eligible to receive financial assistance under this subsection if such State has demonstrated to the Secretary of the Interior sufficient need to implement measures to eradicate the Asian carp.
+
+"(3) Priority.—In providing financial assistance under the program, the Secretary of the Interior shall give priority to States in the Cumberland River Watershed or the Tennessee River Watershed in which Asian carp populations are expanding or have been documented.
+
+"(4) Cost sharing.—
+
+"(A) Federal share.—The Federal share of the costs of activities carried out under the program may not exceed 80 percent of the total costs of such activities.
+
+"(B) In-kind contributions.—The non-Federal share of the costs of activities carried out under the program may be provided in the form of in-kind contributions of materials or services.
+
+"(5) Limitation on administrative expenses.—Not more than 5 percent of financial assistance provided by the Secretary of the Interior under this subsection may be used for administrative expenses.
+
+"(6) Authorization of appropriations.—There is authorized to be appropriated to the Secretary of the Interior to carry out this subsection $4,000,000 for each of fiscal years 2021 through 2025."
+
+#### Invasive Species in Noncontiguous States and Territories Pilot Program ####
+
+Pub. L. 116–260, div. AA, title V, §510, Dec. 27, 2020, 134 Stat. 2752, provided that:
+
+"(a) Establishment.—The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall establish a pilot program to carry out measures necessary to prevent, control, or eradicate invasive species in culturally significant forested watersheds in noncontiguous States and territories of the United States in which the Corps of Engineers is carrying out flood risk management projects.
+
+"(b) Implementation.—The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, is encouraged to carry out the measures described in subsection (a) in consultation with—
+
+"(1) States, any territory or possession of the United States, and units of local government, including federally recognized Indian Tribes (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)); and
+
+"(2) nonprofit organizations with knowledge of, and experience in, forested watershed management, including nonprofit organizations with a primary purpose of serving and partnering with indigenous communities.
+
+"(c) Authorization of Appropriations.—There is authorized to be appropriated to carry out the pilot program under subsection (a) $25,000,000 for the period of fiscal years 2022 through 2024."
+
 #### Prize Competitions ####
 
 Pub. L. 116–9, title VII, §7001(d), Mar. 12, 2019, 133 Stat. 788, as amended by Pub. L. 116–188, title I, §101(a), Oct. 30, 2020, 134 Stat. 906, provided that:

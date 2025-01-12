@@ -60,7 +60,7 @@ The term "pharmacist" has the meaning given such term in section 384(2) <sup><a
 
 The term "qualified electronic health record" means an electronic record of health-related information on an individual that—
 
-(A) includes patient demographic and clinical health information, such as medical history and problem lists; and
+(A) includes patient demographic and clinical health information, such as medical history and problem lists;
 
 (B) has the capacity—
 
@@ -70,19 +70,23 @@ The term "qualified electronic health record" means an electronic record of heal
 
 (iii) to capture and query information relevant to health care quality; and
 
-(iv) to exchange electronic health information with, and integrate such information from other sources.
+(iv) to exchange electronic health information with, and integrate such information from other sources; and
+
+(C) includes, or is capable of including, a real-time benefit tool that conveys patient-specific real-time cost and coverage information with respect to prescription drugs that, with respect to any health information technology certified for electronic prescribing, the technology shall be capable of incorporating the information described in clauses (i) through (iii) of paragraph (2)(B) of section 1395w–104(o) of this title at a time specified by the Secretary but not before the Secretary adopts a standard for such tools as described in paragraph (1) of such section.
 
 #### (15) <sup><a href="#300jj_4_target" name="300jj_4">4</a></sup> State ####
 
 The term "State" means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
-(July 1, 1944, ch. 373, title XXX, §3000, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 228; amended Pub. L. 114–255, div. A, title IV, §4003(a), (e)(2)(B), Dec. 13, 2016, 130 Stat. 1165, 1174.)
+(July 1, 1944, ch. 373, title XXX, §3000, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 228; amended Pub. L. 114–255, div. A, title IV, §4003(a), (e)(2)(B), Dec. 13, 2016, 130 Stat. 1165, 1174; Pub. L. 116–260, div. CC, title I, §119(b), Dec. 27, 2020, 134 Stat. 2952.)
 
 #### References in Text ####
 
 The Indian Self-Determination and Education Assistance Act, referred to in par. (3), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Amendments ####
+
+**2020**—Par. (13)(C). Pub. L. 116–260 added subpar. (C).
 
 **2016**—Par. (7). Pub. L. 114–255, §4003(e)(2)(B), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: "The term 'HIT Policy Committee' means such Committee established under section 300jj–12(a) of this title."
 

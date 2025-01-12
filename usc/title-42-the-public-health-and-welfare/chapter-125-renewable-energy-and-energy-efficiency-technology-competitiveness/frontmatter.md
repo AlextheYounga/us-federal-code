@@ -6,7 +6,7 @@ Sec.
 
 12002. Definitions.
 
-12003. National goals and multi-year funding for Federal wind, photovoltaics, and solar thermal programs.
+12003. National goals and multi-year funding for Federal alcohol from biomass and other technology programs.
 
 12004. Energy efficiency authorizations.
 

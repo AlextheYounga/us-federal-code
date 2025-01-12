@@ -719,7 +719,7 @@ Except as provided in section 7(b), this Act shall become effective upon the exp
 INSPECTOR GENERAL ACT OF 1978
 ==========
 
-Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, title V, §508(n), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1)–(3), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)–(c), Sept. 8, 1982, 96 Stat. 750–752; Pub. L. 99–93, title I, §150(a), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §§102(a)–(d), (f), (g), 104(a), 105–107, 109, 110, Oct. 18, 1988, 102 Stat. 2515–2529; Pub. L. 100–527, §13(h), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), title VII, §702(c), Aug. 9, 1989, 103 Stat. 393, 415; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(1), (2)(A), (3)(A), (4), (5), Sept. 21, 1993, 107 Stat. 889, 890; Pub. L. 103–204, §23(a), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–106, div. A, title XV, §1502(f)(6), div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 510, 677; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b), title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, 3009–393; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–206, title I, §1103(a)–(c)(1), (e)(1)–(3), July 22, 1998, 112 Stat. 705, 708, 709; Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 105–277, div. G, title XIII, §1314(b), title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–792; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–113, div. B, §1000(a)(7) [title II, §205], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 106–422, §1(b), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–189, §22(a), (c), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 107–296, title VIII, §§811(e), 812(a), title XI, §1112(a), title XVII, §1701, Nov. 25, 2002, 116 Stat. 2221, 2222, 2275, 2313; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 108–7, div. L, §104(b), (c)(2), Feb. 20, 2003, 117 Stat. 529, 531; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1078, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3695, 3868; Pub. L. 109–177, title VI, §605(e)(3), (4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–234, title XIV, §14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, §1105(c), July 30, 2008, 122 Stat. 2668; Pub. L. 110–409, §§2–4(a)(1), 5, 6(a), (b), 7(a), (d)(1), 8, 9, 11–13(a), 14, Oct. 14, 2008, 122 Stat. 4302, 4305, 4313–4316; Pub. L. 110–417, [div. A], title IX, §§907, 931(b)(2), Oct. 14, 2008, 122 Stat. 4569, 4575; Pub. L. 111–13, title IV, §4101, Apr. 21, 2009, 123 Stat. 1597; Pub. L. 111–84, div. A, title X, §1042, Oct. 28, 2009, 123 Stat. 2455; Pub. L. 111–203, title IX, §§989B–989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §§405(d), 431, Oct. 7, 2010, 124 Stat. 2719, 2731; Pub. L. 112–199, title I, §117(a), (b), Nov. 27, 2012, 126 Stat. 1474, 1475; Pub. L. 112–239, div. A, title VIII, §848, title XVI, §1614, Jan. 2, 2013, 126 Stat. 1851, 2066; Pub. L. 113–126, title III, §310, title IV, §§402, 412, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1408, 1409, 1420; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. H, title IV, §401(a), div. M, title III, §304, Dec. 18, 2015, 129 Stat. 2639, 2913; Pub. L. 114–317, §§2, 3, 4(c)–6, 7(b)(1), (c), (d)(2), (3), Dec. 16, 2016, 130 Stat. 1595–1606; Pub. L. 115–141, div. P, title V, §501(a), Mar. 23, 2018, 132 Stat. 1090; Pub. L. 115–192, §2(a)–(c), June 25, 2018, 132 Stat. 1502, 1503; Pub. L. 115–254, div. F, title I, §1414, Oct. 5, 2018, 132 Stat. 3492; Pub. L. 116–92, div. A, title XVII, §§1710, 1732(b)–1734, div. E, title LXVII, §6726(c), Dec. 20, 2019, 133 Stat. 1801, 1817, 1818, 2236.
+Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, title V, §508(n), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1)–(3), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)–(c), Sept. 8, 1982, 96 Stat. 750–752; Pub. L. 99–93, title I, §150(a), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §§102(a)–(d), (f), (g), 104(a), 105–107, 109, 110, Oct. 18, 1988, 102 Stat. 2515–2529; Pub. L. 100–527, §13(h), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), title VII, §702(c), Aug. 9, 1989, 103 Stat. 393, 415; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(1), (2)(A), (3)(A), (4), (5), Sept. 21, 1993, 107 Stat. 889, 890; Pub. L. 103–204, §23(a), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–106, div. A, title XV, §1502(f)(6), div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 510, 677; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b), title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, 3009–393; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–206, title I, §1103(a)–(c)(1), (e)(1)–(3), July 22, 1998, 112 Stat. 705, 708, 709; Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 105–277, div. G, title XIII, §1314(b), title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–792; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–113, div. B, §1000(a)(7) [title II, §205], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 106–422, §1(b), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–189, §22(a), (c), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 107–296, title VIII, §§811(e), 812(a), title XI, §1112(a), title XVII, §1701, Nov. 25, 2002, 116 Stat. 2221, 2222, 2275, 2313; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 108–7, div. L, §104(b), (c)(2), Feb. 20, 2003, 117 Stat. 529, 531; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1078, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3695, 3868; Pub. L. 109–177, title VI, §605(e)(3), (4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–234, title XIV, §14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, §1105(c), July 30, 2008, 122 Stat. 2668; Pub. L. 110–409, §§2–4(a)(1), 5, 6(a), (b), 7(a), (d)(1), 8, 9, 11–13(a), 14, Oct. 14, 2008, 122 Stat. 4302, 4305, 4313–4316; Pub. L. 110–417, [div. A], title IX, §§907, 931(b)(2), Oct. 14, 2008, 122 Stat. 4569, 4575; Pub. L. 111–13, title IV, §4101, Apr. 21, 2009, 123 Stat. 1597; Pub. L. 111–84, div. A, title X, §1042, Oct. 28, 2009, 123 Stat. 2455; Pub. L. 111–203, title IX, §§989B–989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §§405(d), 431, Oct. 7, 2010, 124 Stat. 2719, 2731; Pub. L. 112–199, title I, §117(a), (b), Nov. 27, 2012, 126 Stat. 1474, 1475; Pub. L. 112–239, div. A, title VIII, §848, title XVI, §1614, Jan. 2, 2013, 126 Stat. 1851, 2066; Pub. L. 113–126, title III, §310, title IV, §§402, 412, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1408, 1409, 1420; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. H, title IV, §401(a), div. M, title III, §304, Dec. 18, 2015, 129 Stat. 2639, 2913; Pub. L. 114–317, §§2, 3, 4(c)–6, 7(b)(1), (c), (d)(2), (3), Dec. 16, 2016, 130 Stat. 1595–1606; Pub. L. 115–141, div. P, title V, §501(a), Mar. 23, 2018, 132 Stat. 1090; Pub. L. 115–192, §2(a)–(c), June 25, 2018, 132 Stat. 1502, 1503; Pub. L. 115–254, div. F, title I, §1414, Oct. 5, 2018, 132 Stat. 3492; Pub. L. 116–92, div. A, title XVII, §§1710, 1732(b)–1734, div. E, title LXVII, §6726(c), Dec. 20, 2019, 133 Stat. 1801, 1817, 1818, 2236; Pub. L. 116–260, div. U, title V, §501(a), Dec. 27, 2020, 134 Stat. 2293.
 
 ### §1. Short title ###
 
@@ -2823,9 +2823,11 @@ Pub. L. 109–435, title VI, §605(c), Dec. 20, 2006, 120 Stat. 3242, provided t
 
 #### Inspector General of Chemical Safety and Hazard Investigation Board ####
 
-Pub. L. 116–94, div. D, title III, Dec. 20, 2019, 133 Stat. 2735, provided in part: "That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the [Chemical Safety and Hazard Investigation] Board: *Provided further*, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board."
+Pub. L. 116–260, div. G, title III, Dec. 27, 2020, 134 Stat. 1529, provided in part: "That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the [Chemical Safety and Hazard Investigation] Board: *Provided further*, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 116–94, div. D, title III, Dec. 20, 2019, 133 Stat. 2735.
 
 Pub. L. 116–6, div. E, title III, Feb. 15, 2019, 133 Stat. 252.
 
@@ -4105,7 +4107,27 @@ Section, Pub. L. 95–452, §10, Oct. 12, 1978, 92 Stat. 1108, amended sections 
 
 (13) Committee records.—The Chairperson of the Council shall maintain the records of the Integrity Committee.
 
-(Pub. L. 95–452, §11, as added Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305; amended Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. M, title III, §304, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 114–317, §§3, 7(b)(1)(B), (d)(2)(G), Dec. 16, 2016, 130 Stat. 1596, 1605, 1606; Pub. L. 115–192, §2(b), June 25, 2018, 132 Stat. 1503.)
+(e) Oversight.gov.—
+
+(1) Definition.—In this subsection, the term "Office of Inspector General" means the Office of—
+
+(A) an Inspector General described in subparagraph (A), (B), or (I) of subsection (b)(1);
+
+(B) the Special Inspector General for Afghanistan Reconstruction established under section 1229 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 379);
+
+(C) the Special Inspector General for the Troubled Asset Relief Plan established under section 121 of title I of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5231); and
+
+(D) the Special Inspector General for Pandemic Recovery established under section 4018 of the CARES Act (15 U.S.C. 9053).
+
+(2) Establishment.—The Council shall establish and maintain a website entitled "oversight.gov"—
+
+(A) to consolidate all public reports from each Office of Inspector General to improve the access of the public to any audit report, inspection report, or evaluation report (or portion of any such report) made by an Office of Inspector General; and
+
+(B) that shall include any additional resources, information, and enhancements as the Council determines are necessary or desirable.
+
+(3) Participation of offices of inspectors general.—Each Office of Inspector General that publishes an audit report, inspection report, or evaluation report (or portion of any such report) on the website of the Office of Inspector General shall, or in the case of the office of an Inspector General described in subparagraph (I) of subsection (b)(1) may, contemporaneously publish the report or portion thereof on oversight.gov in a manner prescribed by the Council.
+
+(Pub. L. 95–452, §11, as added Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305; amended Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. M, title III, §304, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 114–317, §§3, 7(b)(1)(B), (d)(2)(G), Dec. 16, 2016, 130 Stat. 1596, 1605, 1606; Pub. L. 115–192, §2(b), June 25, 2018, 132 Stat. 1503; Pub. L. 116–260, div. U, title V, §501(a), Dec. 27, 2020, 134 Stat. 2293.)
 
 #### **Editorial Notes** ####
 
@@ -4115,11 +4137,15 @@ Section 3033 of title 50, United States Code, referred to in subsec. (c)(1)(H), 
 
 The date of enactment of this subsection, referred to in subsec. (c)(3)(C), is the date of enactment of Pub. L. 110–409, which was approved Oct. 14, 2008.
 
+Section 1229 of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (e)(1)(B), is section 1229 of Pub. L. 110–181, which is set out as a note under section 8G of this Appendix..
+
 #### Prior Provisions ####
 
 A prior section 11 of the Inspector General Act of 1978 was renumbered section 12.
 
 #### Amendments ####
+
+**2020**—Subsec. (e). Pub. L. 116–260 added subsec. (e).
 
 **2018**—Subsec. (c)(5). Pub. L. 115–192 added par. (5).
 
@@ -4181,6 +4207,10 @@ Subsec. (d)(12), (13). Pub. L. 114–317, §3(3)(H), added pars. (12) and (13).
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
+#### Effective Date of 2020 Amendment ####
+
+Pub. L. 116–260, div. U, title V, §501(c), Dec. 27, 2020, 134 Stat. 2294, provided that: "This Act [probably means "this section", amending this section] and the amendments made by this Act shall take effect on the date that is 30 days after the date of receipt by the Council of the Inspectors General on Integrity and Efficiency of an appropriation for the implementation of this Act."
+
 #### Effective Date of 2016 Amendment ####
 
 Amendment by section 7(b)(1)(B) of Pub. L. 114–317 effective on the date that is 180 days after Dec. 16, 2016, see section 7(b)(2) of Pub. L. 114–317, set out as a note under section 8M of Pub. L. 95–452 in this Appendix.
@@ -4199,7 +4229,7 @@ Pub. L. 110–409, §7(c), Oct. 14, 2008, 122 Stat. 4313, as amended by Pub. L. 
 
 #### Pandemic Response Accountability Committee ####
 
-Pub. L. 116–136, div. B, title V, §15010, Mar. 27, 2020, 134 Stat. 533, provided that:
+Pub. L. 116–136, div. B, title V, §15010, Mar. 27, 2020, 134 Stat. 533, as amended by Pub. L. 116–260, div. O, title VIII, §801(b), Dec. 27, 2020, 134 Stat. 2155, provided that:
 
 "(a) In this section—
 
@@ -4223,13 +4253,15 @@ Pub. L. 116–136, div. B, title V, §15010, Mar. 27, 2020, 134 Stat. 533, provi
 
 "(6) the term 'covered funds' means any funds, including loans, that are made available in any form to any non-Federal entity, not including an individual, under—
 
-"(A) this Act [div. B of Pub. L. 116–136, see Tables for classification];
+"(A) the Coronavirus Aid, Relief, and Economic Security Act [Pub. L. 116–136] (divisions A and B) [see Tables for classification];
 
 "(B) the Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (Public Law 116–123);
 
-"(C) the Families First Coronavirus Response Act (Public Law 116–127); or
+"(C) the Families First Coronavirus Response Act (Public Law 116–127);
 
-"(D) any other Act primarily making appropriations for the Coronavirus response and related activities; and
+"(D) the Paycheck Protection Program and Health Care Enhancement Act (Public Law 116–139) [see Short Title of 2020 Amendment note set out under section 9001 of Title 15, Commerce and Trade]; or
+
+"(E) divisions M and N of the Consolidated Appropriations Act, 2021 [Pub. L. 116–260, see Tables for classification]; and
 
 "(7) the term 'Coronavirus response' means the Federal Government's response to the nationwide public health emergency declared by the Secretary of Health and Human Services, retroactive to January 27, 2020, pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d), as a result of confirmed cases of the novel coronavirus (COVID–19) in the United States.
 
@@ -4787,8 +4819,6 @@ Pub. L. 112–105, §9(a), Apr. 4, 2012, 126 Stat. 297, provided that:
 "(3) Judicial employees.—The Judicial Conference of the United States shall issue such interpretive guidance of the relevant ethics rules applicable to judicial employees as necessary to clarify that no judicial employee may use nonpublic information derived from such person's position as a judicial employee or gained from the performance of such person's official responsibilities as a means for making a private profit."
 
 ### TITLE I—FINANCIAL DISCLOSURE REQUIREMENTS OF FEDERAL PERSONNEL ###
-
-#### **Editorial Notes** ####
 
 #### Codification ####
 
