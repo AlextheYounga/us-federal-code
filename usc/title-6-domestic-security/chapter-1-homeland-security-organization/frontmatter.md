@@ -198,6 +198,8 @@ Sec.
 
 225. Reports, evaluations, and research regarding drug interdiction at and between ports of entry.
 
+226. Ensuring timely updates to U.S. Customs and Border Protection field manuals.
+
 #### Part C—Miscellaneous Provisions ####
 
 231. Transfer of certain agricultural inspection functions of the Department of Agriculture.
