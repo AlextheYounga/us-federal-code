@@ -36,7 +36,7 @@ A funding agreement for a grant under section 290ff(a) of this title is that the
 
 #### References in Text ####
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1), (3) and (d)(4), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1), (3) and (d)(4), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§1400 et seq.) of Title 20, Education. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments ####
 

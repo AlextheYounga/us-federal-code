@@ -12,7 +12,7 @@ A grant awarded under this section may not be for more than $200,000 per grant y
 
 #### (3) Eligible entity ####
 
-For purposes of this section, the term "eligible entity" means a Federally qualified health center (as defined in section 1395x(aa) of this title), an opioid treatment program under part 8 of title 42, Code of Federal Regulations, any practitioner dispensing narcotic drugs pursuant to section 823(g) of title 21, or any other entity that the Secretary deems appropriate.
+For purposes of this section, the term "eligible entity" means a Federally qualified health center (as defined in section 1395x(aa) of this title), an opioid treatment program under part 8 of title 42, Code of Federal Regulations, any practitioner dispensing narcotic drugs pursuant to section 823(h) of title 21, or any other entity that the Secretary deems appropriate.
 
 #### (4) Prescribing ####
 
@@ -62,13 +62,17 @@ Not later than 5 years after the date on which the first grant under this sectio
 
 There is authorized to be appropriated to carry out this section, $5,000,000 for the period of fiscal years 2017 through 2021.
 
-(July 1, 1944, ch. 373, title V, §544, as added Pub. L. 114–198, title I, §107(a), July 22, 2016, 130 Stat. 703.)
+(July 1, 1944, ch. 373, title V, §544, as added Pub. L. 114–198, title I, §107(a), July 22, 2016, 130 Stat. 703; amended Pub. L. 117–215, title I, §103(b)(3)(B), Dec. 2, 2022, 136 Stat. 2263.)
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(1) and (c)(1) to (4), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+
+#### Amendments ####
+
+**2022**—Subsec. (a)(3). Pub. L. 117–215 substituted "823(h)" for "823(g)".
 
 #### Prior Provisions ####
 

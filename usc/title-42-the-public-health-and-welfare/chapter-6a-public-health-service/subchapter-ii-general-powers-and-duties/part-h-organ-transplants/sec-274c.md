@@ -20,7 +20,7 @@ The Secretary shall designate and maintain an identifiable administrative unit i
 
 #### References in Text ####
 
-The Social Security Act, referred to in par. (1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in par. (1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions ####
 

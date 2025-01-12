@@ -50,7 +50,7 @@ This section shall not be construed to prohibit the dismissal from employment of
 
 #### References in Text ####
 
-The Rehabilitation Act of 1973, referred to in subsec. (b)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified principally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 #### Codification ####
 

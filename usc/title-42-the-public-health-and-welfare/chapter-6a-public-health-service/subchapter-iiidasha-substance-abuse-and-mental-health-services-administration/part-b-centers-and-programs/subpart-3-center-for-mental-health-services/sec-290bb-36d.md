@@ -14,7 +14,7 @@ To maintain the Routing Service, the activities of the Assistant Secretary shall
 
 #### (c) Removing practitioner contact information ####
 
-In the event that the Internet website described in subsection (b)(2) contains information on any qualified practitioner that is certified to prescribe medication for opioid dependency under section 823(g)(2)(B) of title 21, the Assistant Secretary—
+In the event that the Internet website described in subsection (b)(2) contains information on any qualified practitioner that is certified to prescribe medication for opioid dependency under section 823(h)(2)(B) of title 21, the Assistant Secretary—
 
 (1) shall provide an opportunity to such practitioner to have the contact information of the practitioner removed from the website at the request of the practitioner; and
 
@@ -24,4 +24,10 @@ In the event that the Internet website described in subsection (b)(2) contains i
 
 Nothing in this section shall be construed to prevent the Assistant Secretary from using any unobligated amounts otherwise made available to the Administration to maintain the Routing Service.
 
-(July 1, 1944, ch. 373, title V, §520E–4, as added Pub. L. 114–255, div. B, title IX, §9006, Dec. 13, 2016, 130 Stat. 1239.)
+(July 1, 1944, ch. 373, title V, §520E–4, as added Pub. L. 114–255, div. B, title IX, §9006, Dec. 13, 2016, 130 Stat. 1239; amended Pub. L. 117–215, title I, §103(b)(3)(A), Dec. 2, 2022, 136 Stat. 2263.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2022**—Subsec. (c). Pub. L. 117–215 substituted "823(h)(2)(B)" for "823(g)(2)(B)" in introductory provisions.

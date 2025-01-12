@@ -268,7 +268,7 @@ Subpart II of part C of subchapter XXIV, referred to in subsec. (a)(4)(D), was r
 
 The Native Hawaiian Health Care Act of 1988, referred to in subsec. (a)(4)(H), was Pub. L. 100–579, Oct. 31, 1988, 102 Stat. 2916, and subtitle D of title II of Pub. L. 100–690, Nov. 18, 1988, 102 Stat. 4222, which were classified generally to chapter 122 (§11701 et seq.) of this title prior to being amended generally and renamed the Native Hawaiian Health Care Improvement Act by Pub. L. 102–396. For complete classification of this Act to the Code, see Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (a)(4)(I), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (a)(4)(I), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 Section 247b(j)(2) of this title, referred to in subsec. (a)(4)(K), was repealed and section 247b(j)(1)(B) was redesignated section 247b(j)(2) by Pub. L. 103–183, title III, §301(b)(1)(A), (C), Dec. 14, 1993, 107 Stat. 2235.
 

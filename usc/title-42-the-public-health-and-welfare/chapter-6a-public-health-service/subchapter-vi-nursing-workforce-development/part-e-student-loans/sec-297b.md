@@ -82,7 +82,7 @@ Notwithstanding any other provision of Federal or State law, no limitation shall
 
 #### References in Text ####
 
-The Peace Corps Act, referred to in subsec. (b)(2), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
+The Peace Corps Act, referred to in subsec. (b)(2), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of Title 22 and Tables.
 
 Section 6(b) of the Nurse Training Act of 1971, referred to in subsec. (h), is section 6(b) of Pub. L. 92–158, Nov. 18, 1971, 85 Stat. 477. Section 6(b)(1) amended subsec. (b)(3) of this section, added former subsec. (h) of this section, and enacted the provisions editorially classified to subsec. (i) [now (h)] of this section. Section 6(b)(2) enacted section 297i of this title which was transferred and redesignated as subsec. (j) [now (i)] of this section pursuant to section 941(h)(5) of Pub. L. 94–63.
 

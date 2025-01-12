@@ -56,7 +56,7 @@ The Secretary shall—
 
 This Act, referred to in subsec. (d)(3)(D), means Pub. L. 95–39, June 3, 1977, 91 Stat. 180, which to the extent classified to the Code enacted sections 5816a, 5817a, 5903c, 5907a, 5915a, 5918, and 7001 to 7011 of this title, amended sections 5813, 5818, and 5912 of this title, and enacted provisions set out as notes under sections 5906, 5907, 5914, and 7001 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (d)(3)(D), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to this chapter (§5901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
+The Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (d)(3)(D), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to this chapter (§5901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
 
 Section 15 of the Federal Nonnuclear Energy Research and Development Act of 1974, referred to in subsec. (e)(2), was classified to section 5914 of this title and was omitted from the Code.
 

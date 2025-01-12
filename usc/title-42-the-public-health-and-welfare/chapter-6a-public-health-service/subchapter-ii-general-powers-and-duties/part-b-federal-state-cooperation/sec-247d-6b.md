@@ -446,7 +446,7 @@ In this section:
 
 Section 403(b) of the Pandemic and All-Hazards Preparedness and Advancing Innovation Act of 2019, referred to in subsec. (a)(5)(A)(ix), is section 403(b) of Pub. L. 116–22, title IV, June 24, 2019, 133 Stat. 947, which is not classified to the Code.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(B)(i)(III)(aa), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended. Chapter V of the Act is classified generally to subchapter V (§351 et seq.) of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(B)(i)(III)(aa), is act June 25, 1938, ch. 675, 52 Stat. 1040. Chapter V of the Act is classified generally to subchapter V (§351 et seq.) of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 The Project BioShield Act of 2004, referred to in subsec. (c)(7)(B)(iii)(IV), is Pub. L. 108–276, July 21, 2004, 118 Stat. 835. For complete classification of this Act to the Code, see Short Title of 2004 Amendments note set out under section 201 of this title and Tables.
 

@@ -50,9 +50,9 @@ There are authorized to be appropriated to the Secretary for carrying out this p
 
 Section 2106, referred to in subsec. (a), means section 2106 of Pub. L. 102–486, which amended sections 5103, 5107, 5108, 5110, and 5307 of Title 15, Commerce and Trade.
 
-The Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988, referred to in subsec. (a), is Pub. L. 100–680, Nov. 17, 1988, 102 Stat. 4073, as amended, which is classified generally to chapter 77 (§5101 et seq.) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 15 and Tables.
+The Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988, referred to in subsec. (a), is Pub. L. 100–680, Nov. 17, 1988, 102 Stat. 4073, which is classified generally to chapter 77 (§5101 et seq.) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 15 and Tables.
 
-The Department of Energy Metal Casting Competitiveness Research Act of 1990, referred to in subsec. (a), is Pub. L. 101–425, Oct. 15, 1990, 104 Stat. 915, as amended, which is classified generally to chapter 79 (§5301 et seq.) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 15 and Tables.
+The Department of Energy Metal Casting Competitiveness Research Act of 1990, referred to in subsec. (a), is Pub. L. 101–425, Oct. 15, 1990, 104 Stat. 915, which is classified generally to chapter 79 (§5301 et seq.) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 15 and Tables.
 
 This part, referred to in subsecs. (c) and (e), was in the original "this subtitle" meaning subtitle A of title XXI of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 3067, which enacted this part and amended sections 5103, 5107, 5108, 5110, and 5307 of Title 15.
 

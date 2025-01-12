@@ -182,7 +182,7 @@ In carrying out this section, the Secretary, acting through the Center, shall co
 
 Section 3509 of title 44, referred to in subsec. (j)(4), (5), which required submission of certain plans and forms for collection of information to the Director of the Office of Management and Budget for approval, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2812. Pub. L. 104–13 subsequently enacted a new section 3509 of Title 44 relating to designation of a central collection agency. Provisions appearing in former section 3509 are contained in section 3507 of Title 44.
 
-The Social Security Act, referred to in subsec. (k)(5)(A)(viii), (D), (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (k)(5)(A)(viii), (D), (7), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification ####
 

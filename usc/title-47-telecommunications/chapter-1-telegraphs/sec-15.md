@@ -10,7 +10,7 @@ Nothing in sections 9 to 15 of this title shall be construed to affect or impair
 
 Sections 1 to 6 and 8 of this title, referred to in text, were repealed by act July 16, 1947, ch. 256, §1, 61 Stat. 327.
 
-The Communications Act of 1934, as amended, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+The Communications Act of 1934, referred to in text, is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments ####
 

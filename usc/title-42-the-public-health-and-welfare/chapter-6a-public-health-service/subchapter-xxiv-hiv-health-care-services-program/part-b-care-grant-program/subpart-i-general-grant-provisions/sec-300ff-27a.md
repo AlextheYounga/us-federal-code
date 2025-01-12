@@ -26,7 +26,7 @@ The term "State" means any of the 50 States, the District of Columbia, or any te
 
 #### References in Text ####
 
-The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part B of title XXVI of the Act is classified generally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682. Part B of title XXVI of the Act is classified generally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Codification ####
 

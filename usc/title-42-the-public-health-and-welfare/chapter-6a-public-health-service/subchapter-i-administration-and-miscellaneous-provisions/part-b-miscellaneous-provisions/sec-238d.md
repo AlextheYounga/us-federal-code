@@ -8,7 +8,7 @@ Appropriations to the Public Health Service available under this chapter for res
 
 #### References in Text ####
 
-The Mental Health Systems Act, referred to in text, is Pub. L. 96–398, Oct. 7, 1980, 94 Stat. 1564, as amended. Title VI of the Mental Health Systems Act is classified generally to subchapter V (§9511 et seq.) of chapter 102 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9401 of this title and Tables.
+The Mental Health Systems Act, referred to in text, is Pub. L. 96–398, Oct. 7, 1980, 94 Stat. 1564. Title VI of the Mental Health Systems Act is classified generally to subchapter V (§9511 et seq.) of chapter 102 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9401 of this title and Tables.
 
 #### Codification ####
 

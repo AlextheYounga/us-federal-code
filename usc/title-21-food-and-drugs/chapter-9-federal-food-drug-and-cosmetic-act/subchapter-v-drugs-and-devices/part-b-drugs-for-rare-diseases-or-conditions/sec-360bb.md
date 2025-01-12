@@ -8,7 +8,7 @@
 
 (B) if a license for such drug is issued under section 262 of title 42,
 
-the approval, certification, or license would be for use for such disease or condition, the Secretary shall designate the drug as a drug for such disease or condition. A request for a designation of a drug under this subsection shall contain the consent of the applicant to notice being given by the Secretary under subsection (b) respecting the designation of the drug.
+the approval, certification, or license would be for use for such disease or condition, the Secretary shall designate the drug as a drug for such disease or condition. A request for a designation of a drug under this subsection shall contain the consent of the applicant to notice being given by the Secretary under subsection (b) <sup><a href="#360bb_1_target" name="360bb_1">1</a></sup> respecting the designation of the drug.
 
 (2) For purposes of paragraph (1), the term "rare disease or condition" means any disease or condition which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which there is no reasonable expectation that the cost of developing and making available in the United States a drug for such disease or condition will be recovered from sales in the United States of such drug. Determinations under the preceding sentence with respect to any drug shall be made on the basis of the facts and circumstances as of the date the request for designation of the drug under this subsection is made.
 
@@ -32,6 +32,10 @@ The Secretary shall by regulation promulgate procedures for the implementation o
 
 #### **Editorial Notes** ####
 
+#### References in Text ####
+
+Subsection (b), referred to in subsec. (a)(1), was redesignated as subsec. (c) of this section by Pub. L. 100–290, §2(b), Apr. 18, 1988, 102 Stat. 90.
+
 #### Amendments ####
 
 **1997**—Subsec. (a)(1). Pub. L. 105–115, §125(b)(2)(H), struck out "the submission of an application for certification of the drug under section 357 of this title," before "or the submission of an application for licensing of the drug" in introductory provisions, inserted "or" at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "if a certification for such drug is issued under section 357 of this title, or".
@@ -53,3 +57,5 @@ Subsecs. (b) to (d). Pub. L. 100–290, §2(b), added subsec. (b) and redesignat
 #### Effective Date of 1985 Amendment ####
 
 Amendment by Pub. L. 99–91 effective Aug. 15, 1985, see section 8(b) of Pub. L. 99–91, set out as a note under section 360aa of this title.
+
+[<sup>1</sup> See References in Text note below.](#360bb_1)

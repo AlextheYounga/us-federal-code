@@ -110,7 +110,7 @@ Reorganization Plan Number 1 of 1977, referred to in subsec. (b)(2), is set out 
 
 Executive Order 12046, referred to in subsec. (b)(2), is set out as a note under section 305 of this title.
 
-The Communications Satellite Act of 1962, referred to in subsec. (b)(2)(C)(iii), (vi), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended, which is classified generally to chapter 6 (§701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Communications Satellite Act of 1962, referred to in subsec. (b)(2)(C)(iii), (vi), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, which is classified generally to chapter 6 (§701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 Section 201(a)(6) of the Communications Satellite Act of 1962, referred to in subsec. (b)(2)(C)(iv), was classified to section 721(a)(6) of this title and was omitted from the Code.
 

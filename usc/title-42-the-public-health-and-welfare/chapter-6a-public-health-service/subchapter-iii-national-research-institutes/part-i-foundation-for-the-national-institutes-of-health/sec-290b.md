@@ -288,7 +288,7 @@ From amounts appropriated to the National Institutes of Health, for each fiscal 
 
 Section 109(16) of the Ethics in Government Act of 1978, referred to in subsec. (j)(2), is section 109(16) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The National Institutes of Health Amendments of 1990, referred to in subsec. (j)(8), is Pub. L. 101–613, Nov. 16, 1990, 104 Stat. 3224, as amended, which enacted this section, section 285g–4 of this title, and provisions set out as notes under section 201 and 285g–4 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 201 of this title and Tables.
+The National Institutes of Health Amendments of 1990, referred to in subsec. (j)(8), is Pub. L. 101–613, Nov. 16, 1990, 104 Stat. 3224, which enacted this section, section 285g–4 of this title, and provisions set out as notes under section 201 and 285g–4 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 201 of this title and Tables.
 
 Section 284m of this title, referred to in subsec. (j)(9)(B)(iv), was amended generally by Pub. L. 110–85, title V, §502(b), Sept. 27, 2007, 121 Stat. 886, and, as so amended, does not contain a par. (12) in subsec. (c).
 

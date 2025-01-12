@@ -480,7 +480,7 @@ Section 1713 of title 38, referred to in subsec. (a)(1)(J), was renumbered secti
 
 Section 222(a) of the Social Security Amendments of 1972, referred to in subsec. (a)(1)(O), is section 222(a) of Pub. L. 92–603, which is set out as a note under section 1395b–1 of this title.
 
-The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1)(V) and (b)(4)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsecs. (a)(1)(V) and (b)(4)(B), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 Section 1395l(t)(5) of this title, referred to in subsec. (a)(2)(A), was redesignated section 1395l(t)(8) of this title by Pub. L. 106–113, div. B, §1000(a)(6) [title II, §§201(a)(1), 202(a)(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–336, 1501A–342.
 

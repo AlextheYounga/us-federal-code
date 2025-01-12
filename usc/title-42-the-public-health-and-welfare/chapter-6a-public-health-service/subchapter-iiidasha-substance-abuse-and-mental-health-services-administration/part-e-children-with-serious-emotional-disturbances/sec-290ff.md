@@ -76,7 +76,7 @@ A funding agreement for a grant under subsection (a) is that the public entity i
 
 Subsections (b) and (c) of section 5304 of title 25, referred to in subsec. (a)(2), do not contain definitions of the terms "Indian tribe" and "tribal organization". However, such terms are defined elsewhere in that section.
 
-The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions ####
 
