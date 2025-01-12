@@ -2,7 +2,7 @@
 
 (a) Financial Improvement and Audit Remediation Plan.—
 
-(1) In general.—The Chief Management Officer of the Department of Defense shall, in consultation with the Under Secretary of Defense (Comptroller), maintain a plan to be known as the "Financial Improvement and Audit Remediation Plan".
+(1) In general.—The Chief Management Officer of the Department of Defense <sup><a href="#240b_1_target" name="240b_1">1</a></sup> shall, in consultation with the Under Secretary of Defense (Comptroller), maintain a plan to be known as the "Financial Improvement and Audit Remediation Plan".
 
 (2) Elements.—The plan required by paragraph (1) shall—
 
@@ -64,7 +64,7 @@
 
 (i) Unclassified form.—A description submitted pursuant to clause (vii) or (ix) of subparagraph (B) or a certification submitted pursuant to clause (viii) of such subparagraph shall be submitted in unclassified form, but may contain a classified annex.
 
-(ii) Delegation.—The Secretary may not delegate the submission of a certification pursuant to clause (viii) of subparagraph (B) to any official other than the Deputy Secretary of Defense, the Chief Management Officer, or the Under Secretary of Defense (Comptroller).
+(ii) Delegation.—The Secretary may not delegate the submission of a certification pursuant to clause (viii) of subparagraph (B) to any official other than the Deputy Secretary of Defense, the Chief Management Officer,<sup><a href="#240b_1_target" name="240b_1">1</a></sup> or the Under Secretary of Defense (Comptroller).
 
 (2) Semiannual briefings.—(A) Not later than January 31 and June 30 each year, the Under Secretary of Defense (Comptroller) and the comptrollers of the military departments shall provide a briefing to the congressional defense committees on the status of the corrective action plan. Such briefing shall include both the absolute number and percentage of personnel performing the amount of auditing services being performed by professionals meeting the qualifications described in section 240d(b) of this title.
 
@@ -160,6 +160,10 @@ Subsec. (b). Pub. L. 115–91, §1002(c)(3)(C), added subsec. (b).
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Transfer of Functions ####
+
+Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
+
 #### Incentives for the Achievement by the Components of the Department of Defense of Unqualified Audit Opinions on the Financial Statements ####
 
 Pub. L. 116–283, div. A, title X, §1004(a), Jan. 1, 2021, 134 Stat. 3837, provided that:
@@ -175,3 +179,5 @@ Pub. L. 116–283, div. A, title X, §1004(a), Jan. 1, 2021, 134 Stat. 3837, pro
 Pub. L. 116–92, div. A, title X, §1009(c), Dec. 20, 2019, 133 Stat. 1576, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(5), Jan. 1, 2021, 134 Stat. 3873, provided that: "Not later than five days after the submittal to Congress under section 1105(a) of title 31, United States Code, of the budget of the President for any fiscal year after fiscal year 2020, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report setting forth a detailed estimate of the funding required for such fiscal year to procure, obtain, or otherwise implement each process, system, and technology identified to address the current corrective action plans of the departments, agencies, components, and elements of the Department of Defense, and the corrective action plan of the Department as a whole, for purposes of chapter 9A of title 10, United States Code, during such fiscal year."
 
 [Pub. L. 116–283, div. A, title X, §1081(c), Jan. 1, 2021, 134 Stat. 3873, provided that the amendment made by section 1081(c)(5) of Pub. L. 116–283 to section 1009(c) of Pub. L. 116–92, set out above, is effective as of Dec. 20, 2020 (probably should be Dec. 20, 2019) and as if included in Pub. L. 116–92.]
+
+[<sup>1</sup> See Transfer of Functions note below.](#240b_1)

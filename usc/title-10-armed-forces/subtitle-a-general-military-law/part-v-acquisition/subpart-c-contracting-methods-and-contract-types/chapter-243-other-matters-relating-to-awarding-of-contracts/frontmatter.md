@@ -10,7 +10,7 @@ Sec.
 
 3344. Disclosure of identity of contractor.
 
-3345. [Omitted.]
+[3345. Omitted.]
 
 #### **Editorial Notes** ####
 
@@ -40,7 +40,7 @@ Pub. L. 117–81, div. A, title VIII, §843, Dec. 27, 2021, 135 Stat. 1840, prov
 
 "(2) furnish such records as are necessary to verify compliance with such anticorruption statutes and regulations as the Secretary determines necessary, including—
 
-"(A) the Foreign Corrupt Practices Act ([see] 15 U.S.C. 78dd–1 et seq.);
+"(A) the Foreign Corrupt Practices Act [of 1977] ([see] 15 U.S.C. 78dd–1 et seq.);
 
 "(B) the regulations contained in parts 120 through 130 of title 22, Code of Federal Regulations, or successor regulations (commonly known as the 'International Traffic in Arms Regulations');
 

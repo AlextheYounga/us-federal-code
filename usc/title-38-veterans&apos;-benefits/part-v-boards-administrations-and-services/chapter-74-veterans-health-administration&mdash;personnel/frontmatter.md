@@ -12,6 +12,8 @@ Sec.
 
 7404. Grades and pay scales.
 
+7404A. Awards.
+
 7405. Temporary full-time appointments, part-time appointments, and without-compensation appointments.
 
 7406. Residencies and internships.
@@ -97,6 +99,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–168, §1(b)(2), title IX, §906(b)(1), Aug. 10, 2022, 136 Stat. 1759, 1812, added item 7404A.
 
 **2019**—Pub. L. 116–12, §1(b)(4), Apr. 8, 2019, 133 Stat. 845, substituted "PAY FOR PHYSICIANS, PODIATRISTS, AND DENTISTS" for "PAY FOR PHYSICIANS AND DENTISTS" in item for subchapter III.
 

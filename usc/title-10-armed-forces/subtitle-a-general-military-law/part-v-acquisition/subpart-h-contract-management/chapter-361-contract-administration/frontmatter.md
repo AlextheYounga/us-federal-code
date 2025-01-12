@@ -78,6 +78,8 @@ Pub. L. 110–417, [div. A], title VIII, §884, Oct. 14, 2008, 122 Stat. 4560, p
 
 "(d) Report.—Not later than 270 days after the date of the enactment of this Act [Oct. 14, 2008], the Secretary shall submit to the committees on Armed Services of the Senate and the House of Representatives a report on the actions taken in accordance with the requirements of subsection (a)."
 
+[Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.]
+
 #### Linking of Award and Incentive Fees to Acquisition Outcomes ####
 
 Pub. L. 111–84, div. A, title VIII, §823, Oct. 28, 2009, 123 Stat. 2412, as amended by Pub. L. 111–383, div. A, title VIII, §834(a)–(c), Jan. 7, 2011, 124 Stat. 4278, 4279, provided that:

@@ -8,7 +8,11 @@ Sec.
 
 703. Miscellaneous authorities respecting employees.
 
+704. Waiver of pay limitation for certain employees.
+
 705. Telephone service for medical officers and facility directors.
+
+706. Additional authority relating to recruitment and retention of personnel.
 
 707. Benefits for employees at overseas offices who are United States citizens.
 
@@ -57,6 +61,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–168, §1(b)(2), title IX, §§907, 909, Aug. 10, 2022, 136 Stat. 1759, 1813, 1815, added items 704 and 706.
 
 **2018**—Pub. L. 115–407, title V, §501(b), Dec. 31, 2018, 132 Stat. 5376, which directed adding item 728 after item 728, was executed by adding item 728 after item 727 to reflect the probable intent of Congress.
 

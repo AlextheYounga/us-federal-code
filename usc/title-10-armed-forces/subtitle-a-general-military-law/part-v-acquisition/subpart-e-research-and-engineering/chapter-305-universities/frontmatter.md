@@ -72,7 +72,7 @@ Pub. L. 116–92, div. A, title II, §252, Dec. 20, 2019, 133 Stat. 1285, as ame
 
 "(F) methods that leverage funding from entities outside the Department, including public-private partnerships, enhanced use leases and real property exchanges;
 
-"(G) the authority to conduct commercial test and evaluation activities at a Major Range and Test Facility Installation, under section 2681 of title 10, United States Code; and
+"(G) the authority to conduct commercial test and evaluation activities at a Major Range and Test Facility Installation, under section 2681 of title 10, United States Code [now 10 U.S.C. 4175]; and
 
 "(H) any other authorities and methods determined to be appropriate by the Secretary of Defense.
 

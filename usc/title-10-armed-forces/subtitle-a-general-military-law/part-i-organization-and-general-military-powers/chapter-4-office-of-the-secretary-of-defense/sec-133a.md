@@ -12,9 +12,9 @@
 
 (c) Precedence in Department of Defense.—
 
-(1) Precedence in matters of responsibility.—With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense.
+(1) Precedence in matters of responsibility.—With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense.<sup><a href="#133a_1_target" name="133a_1">1</a></sup>
 
-(2) Precedence in other matters.—With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Chief Management Officer, and the Secretaries of the military departments.
+(2) Precedence in other matters.—With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Chief Management Officer,<sup><a href="#133a_1_target" name="133a_1">1</a></sup> and the Secretaries of the military departments.
 
 (Added Pub. L. 114–328, div. A, title IX, §901(a)(1), Dec. 23, 2016, 130 Stat. 2339; amended Pub. L. 115–91, div. A, title IX, §910(c)(2), Dec. 12, 2017, 131 Stat. 1518; Pub. L. 116–92, div. A, title IX, §902(2), Dec. 20, 2019, 133 Stat. 1542.)
 
@@ -57,6 +57,10 @@ Pub. L. 117–81, div. A, title XVI, §1671(a)–(c), Dec. 27, 2021, 135 Stat. 2
 "(b) Exception for Certain Budgetary Matters.—The co-chairs shall not be required to include in a semiannual update under subsection (a) the matters described in paragraph (2) of such subsection with respect to decisions of the Board relating to the budget of the President for a fiscal year if the budget for that fiscal year has not been submitted to Congress under section 1105 of title 31, United States Code, as of the date of the semiannual update.
 
 "(c) Form of Update.—The co-chairs may provide a semiannual update under subsection (a) either in the form of a briefing or a written report."
+
+#### Transfer of Functions ####
+
+Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
 
 #### Service of Incumbent USD for ATL in Position ####
 
@@ -121,3 +125,5 @@ Pub. L. 109–364, div. A, title IX, §905, Oct. 17, 2006, 120 Stat. 2353, as am
 #### Improvement in Defense Research and Procurement Liaison With Israel ####
 
 Pub. L. 100–456, div. A, title X, §1006, Sept. 29, 1988, 102 Stat. 2040, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, which provided for the designation of a primary liaison between the procurement and research and development activities of the armed forces of the United States and Israel, was repealed by Pub. L. 115–232, div. A, title VIII, §811(e), Aug. 13, 2018, 132 Stat. 1845.
+
+[<sup>1</sup> See Transfer of Functions note below.](#133a_1)

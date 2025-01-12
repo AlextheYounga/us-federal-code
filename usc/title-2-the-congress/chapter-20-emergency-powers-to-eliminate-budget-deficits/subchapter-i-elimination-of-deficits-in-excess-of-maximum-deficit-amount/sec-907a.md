@@ -58,13 +58,13 @@ Upon the enactment of a declaration of war or a joint resolution described in su
 
 #### References in Text ####
 
-This title, referred to in subsec. (a)(1), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
+This title, referred to in subsec. (a)(1), means title II (§200 et seq.) of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, known as the Balanced Budget and Emergency Deficit Control Act of 1985. For complete classification of this Act to the Code, see Short Title note set out under section 900 of this title and Tables.
 
-The Congressional Budget Act of 1974, referred to in subsecs. (a)(1) and (b)(2), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Title III of the Act is classified generally to subchapter I (§631 et seq.) of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§665 et seq.) of chapter 17A of this title prior to repeal by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget Act of 1974, referred to in subsecs. (a)(1) and (b)(2), is titles I to IX of Pub. L. 93–344, July 12, 1974, 88 Stat. 297. Title III of the Act is classified generally to subchapter I (§631 et seq.) of chapter 17A of this title. Title VI of the Act was classified generally to subchapter IV (§665 et seq.) of chapter 17A of this title prior to repeal by Pub. L. 105–33, title X, §10118(a), Aug. 5, 1997, 111 Stat. 695. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 Section 254(j) of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(2)(A), is section 254(j) of Pub. L. 99–177, which was redesignated section 254(i) of that Act by Pub. L. 105–33, title X, §10206(1), Aug. 5, 1997, 111 Stat. 704, and is classified to section 904(i) of this title.
 
-The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (a)(2)(A), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (a)(2)(A), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 Part C of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (a)(2)(A), is classified generally to this subchapter. Section 258 of the Act is classified to this section.
 

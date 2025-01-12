@@ -23,8 +23,6 @@ Chap. Sec.
 
 141. Miscellaneous Provisions Relating to Property 2381
 
-141. Miscellaneous Provisions Relating to Property 2381
-
 [142. Repealed.]
 
 143. Production by Military Agencies 2421
@@ -39,7 +37,9 @@ Chap. Sec.
 
 147. Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities 2481
 
-[148, 149. Repealed.]
+[148. Repealed.]
+
+[149. Transferred.]
 
 [150. Repealed.]
 

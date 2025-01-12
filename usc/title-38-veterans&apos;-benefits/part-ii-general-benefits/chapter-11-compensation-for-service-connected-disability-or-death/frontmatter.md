@@ -26,7 +26,7 @@ Sec.
 
 1115. Additional compensation for dependents.
 
-1116. Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in the Republic of Vietnam.
+1116. Presumptions of service connection for diseases associated with exposure to certain herbicide agents; presumption of exposure for veterans who served in certain locations.
 
 1116A. Presumptions of service connection for veterans who served offshore of the Republic of Vietnam.
 
@@ -35,6 +35,10 @@ Sec.
 1117. Compensation for disabilities occurring in Persian Gulf War veterans.
 
 1118. Presumptions of service connection for illnesses associated with service in the Persian Gulf during the Persian Gulf War.
+
+1119. Presumptions of toxic exposure.
+
+1120. Presumption of service connection for certain diseases associated with exposure to burn pits and other toxins.
 
 #### SUBCHAPTER III—WARTIME DEATH COMPENSATION ####
 
@@ -96,9 +100,29 @@ Sec.
 
 1166. Specialized teams to evaluate claims involving military sexual trauma.
 
+1167. Outreach pursuant to changes in presumptions of service connection.
+
+1168. Medical nexus examinations for toxic exposure risk activities.
+
+#### SUBCHAPTER VII—DETERMINATIONS RELATING TO PRESUMPTIONS OF SERVICE CONNECTION BASED ON TOXIC EXPOSURE ####
+
+1171. Procedures to determine presumptions of service connection based on toxic exposure; definitions.
+
+1172. Annual notice and opportunity for public comment.
+
+1173. Formal evaluation of recommendations.
+
+1174. Regulations regarding presumptions of service connection based on toxic exposure.
+
+1175. Authority to modify process; congressional oversight.
+
+1176. Agreement with National Academies of Sciences, Engineering, and Medicine concerning toxic exposures.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–168, §1(b)(2), title II, §§202(a), 203(a), title III, §§302, 303, title IV, §§403(d), 406(b), Aug. 10, 2022, 136 Stat. 1759, 1766, 1775, 1777, 1779, 1781, 1784, added item for subchapter VII and items 1119, 1120, 1167, and 1168 and substituted "certain locations" for "the Republic of Vietnam" in item 1116.
 
 **2021**—Pub. L. 117–16, §7(a)(1), (b)(3), June 8, 2021, 135 Stat. 284, 285, renumbered item 1164 "Specialized teams to evaluate claims involving military sexual trauma" as 1166 and made technical amendment to directory language of Pub. L. 116–315, §4101(b). See Amendment note below.
 
@@ -149,3 +173,67 @@ Pub. L. 102–4, §2(a)(2), Feb. 6, 1991, 105 Stat. 13, added item 316.
 **1962**—Pub. L. 87–610, §2, Aug. 28, 1962, 76 Stat. 406, added item 360.
 
 **1960**—Pub. L. 86–501, §2, June 10, 1960, 74 Stat. 195, added item 359.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Fairly Assessing Service-Related Toxic Exposure Residuals Presumptions ####
+
+Pub. L. 117–168, title VI, Aug. 10, 2022, 136 Stat. 1792, provided that:
+
+#### "SEC. 601. SHORT TITLE; DEFINITIONS. ####
+
+"(a) Short Title.—This title may be cited as the 'Fairly Assessing Service-related Toxic Exposure Residuals Presumptions Act of 2022' or the 'FASTER Presumption Act of 2022'.
+
+"(b) Definitions.—In this title, the terms 'active military, naval, air, or space service', 'toxic exposure', and 'toxic-exposed veteran' have the meanings given those terms in section 101 of title 38, United States Code, as amended by section 102.
+
+#### "SEC. 602. PUBLICATION OF LIST OF RESOURCES OF DEPARTMENT OF VETERANS AFFAIRS FOR TOXIC-EXPOSED VETERANS AND VETERANS WHO REPORT TOXIC EXPOSURES AND OUTREACH PROGRAM FOR SUCH VETERANS AND CAREGIVERS AND SURVIVORS OF SUCH VETERANS. ####
+
+"(a) Publication of List of Resources.—
+
+"(1) In general.—Not later than one year after the date of the enactment of this Act [Aug. 10, 2022], and annually thereafter, the Secretary of Veterans Affairs shall publish a list of resources of the Department of Veterans Affairs for—
+
+"(A) toxic-exposed veterans and veterans who report toxic exposure;
+
+"(B) families and caregivers of such veterans; and
+
+"(C) survivors of such veterans who are receiving death benefits under the laws administered by the Secretary.
+
+"(2) Update.—The Secretary shall periodically update the list published under paragraph (1).
+
+"(b) Outreach.—The Secretary shall develop, with input from the community, an informative outreach program for veterans on illnesses that may be related to toxic exposures, including outreach with respect to benefits and support programs.
+
+#### "SEC. 603. INCORPORATION OF TOXIC EXPOSURE SCREENING FOR VETERANS. ####
+
+"(a) In General.—Beginning not later than 90 days after the date of the enactment of this Act [Aug. 10, 2022], the Secretary of Veterans Affairs shall incorporate a screening to help determine potential toxic exposures during active military, naval, air, or space service as part of a health care screening furnished by the Department of Veterans Affairs to veterans enrolled in the system of annual patient enrollment of the Department established and operated under section 1705 of title 38, United States Code, to improve understanding by the Department of toxic exposures while serving in the Armed Forces.
+
+"(b) Timing.—The Secretary shall ensure that a veteran described in subsection (a) completes the screening required under such subsection not less frequently than once every five years.
+
+"(c) Determination of Questions.—
+
+"(1) In general.—The questions included in the screening required under subsection (a) shall be determined by the Secretary with input from medical professionals.
+
+"(2) Specific questions.—At a minimum, the screening required under subsection (a) shall, with respect to a veteran, include—
+
+"(A) a question about the potential exposure of the veteran to an open burn pit; and
+
+"(B) a question regarding toxic exposures that are commonly associated with service in the Armed Forces.
+
+"(3) Open burn pit defined.—In this subsection, the term 'open burn pit' means an area of land that—
+
+"(A) is designated by the Secretary of Defense to be used for disposing solid waste by burning in the outdoor air; and
+
+"(B) does not contain a commercially manufactured incinerator or other equipment specifically designed and manufactured for the burning of solid waste.
+
+"(d) Print Material.—In developing the screening established under subsection (a), the Secretary shall ensure that print materials complementary to such screening that outline related resources for veterans are available at each medical center of the Department to veterans who may not have access to the internet.
+
+"(e) Screening Updates.—The Secretary shall consider updates to the content of the screening required under subsection (a) not less frequently than biennially to ensure the screening contains the most current information.
+
+#### "SEC. 604. TRAINING FOR PERSONNEL OF THE DEPARTMENT OF VETERANS AFFAIRS WITH RESPECT TO VETERANS WHO REPORT TOXIC EXPOSURES. ####
+
+"(a) Health Care Personnel.—The Secretary of Veterans Affairs shall provide to health care personnel of the Department of Veterans Affairs education and training to identify, treat, and assess the impact on veterans of illnesses related to toxic exposures and inform such personnel of how to ask for additional information from veterans regarding different toxic exposures.
+
+"(b) Benefits Personnel.—
+
+"(1) In general.—The Secretary shall incorporate a training program for processors of claims under the laws administered by the Secretary who review claims for disability benefits relating to service-connected disabilities based on toxic exposures.
+
+"(2) Annual training.—Training provided to processors under paragraph (1) shall be provided not less frequently than annually."

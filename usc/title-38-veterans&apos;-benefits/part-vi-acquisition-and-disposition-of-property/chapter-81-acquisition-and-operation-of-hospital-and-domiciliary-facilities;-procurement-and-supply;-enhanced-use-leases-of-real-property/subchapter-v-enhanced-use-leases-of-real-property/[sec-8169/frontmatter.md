@@ -1,0 +1,3 @@
+### [§8169. Repealed. Pub. L. 117–168, title VII, §705(d), Aug. 10, 2022, 136 Stat. 1800] ###
+
+Section, added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 422; amended Pub. L. 103–452, title I, §103(d), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, §101(k), Feb. 13, 1996, 110 Stat. 769; Pub. L. 105–114, title II, §205(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 106–117, title II, §208(e), Nov. 30, 1999, 113 Stat. 1568; Pub. L. 112—154, title II, §211(j), Aug. 6, 2012, 126 Stat. 1182, provided that the authority of the Secretary to enter into enhanced-use leases under this subchapter would expire on Dec. 31, 2023.

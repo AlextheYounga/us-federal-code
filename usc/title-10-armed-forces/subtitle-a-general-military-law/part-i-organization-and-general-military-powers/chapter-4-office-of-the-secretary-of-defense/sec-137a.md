@@ -20,7 +20,7 @@
 
 (6) One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Intelligence and Security, who shall be appointed from among persons who have extensive expertise in intelligence matters.
 
-(d) The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense. The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
+(d) The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense,<sup><a href="#137a_1_target" name="137a_1">1</a></sup> the Secretaries of the military departments, and the Under Secretaries of Defense. The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
 
 (Added Pub. L. 111–84, div. A, title IX, §906(a)(1), Oct. 28, 2009, 123 Stat. 2425; amended Pub. L. 111–383, div. A, title IX, §901(b)(3), (k)(1)(A), Jan. 7, 2011, 124 Stat. 4318, 4325; Pub. L. 113–291, div. A, title IX, §901(i)(1), (j)(2)(C), (k)(3), Dec. 19, 2014, 128 Stat. 3467, 3468; Pub. L. 115–91, div. A, title IX, §906(a)–(c), (f)(1), title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1513, 1514, 1597; Pub. L. 115–232, div. A, title X, §1081(f)(1)(C), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title XVI, §1621(e)(1)(B), Dec. 20, 2019, 133 Stat. 1733.)
 
@@ -106,6 +106,10 @@ Pub. L. 111–84, div. A, title IX, §906(e), Oct. 28, 2009, 123 Stat. 2428, pro
 
 "(B) The Principal Deputy Under Secretary of Defense for Intelligence."
 
+#### Transfer of Functions ####
+
+Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
+
 #### Temporary Authority for Additional DUSDS ####
 
 Pub. L. 111–383, div. A, title IX, §901(i)(2), Jan. 7, 2011, 124 Stat. 4323, provided that: "During the period beginning on the date of the enactment of this Act [Jan. 7, 2011] and ending on January 1, 2015, the Secretary of Defense may, in the Secretary's discretion, appoint not more than five Deputy Under Secretaries of Defense in addition to the five Principal Deputy Under Secretaries of Defense authorized by section 137a of title 10, United States Code (as amended by subsection (b)(3))."
@@ -115,3 +119,5 @@ Pub. L. 111–383, div. A, title IX, §901(i)(2), Jan. 7, 2011, 124 Stat. 4323, 
 Pub. L. 111–84, div. A, title IX, §906(a)(2), Oct. 28, 2009, 123 Stat. 2426, as amended by Pub. L. 111–383, div. A, title IX, §901(i)(1), Jan. 7, 2011, 124 Stat. 4323, which provided that, effective Jan. 1, 2015, the five Deputy Under Secretaries of Defense authorized by section 137a of title 10 would be the only Deputy Under Secretaries of Defense, was repealed by Pub. L. 113–291, div. A, title IX, §901(i)(2), Dec. 19, 2014, 128 Stat. 3467.
 
 [Pub. L. 113–291, div. A, title IX, §901(i)(2), Dec. 19, 2014, 128 Stat. 3467, provided that section 901(i)(2), which repealed section 906(a)(2) of Pub. L. 111–84, formerly set out above, is effective on the effective date specified in section 901(i)(1) of Pub. L. 113–291, which is Jan. 1, 2015.]
+
+[<sup>1</sup> See Transfer of Functions note below.](#137a_1)

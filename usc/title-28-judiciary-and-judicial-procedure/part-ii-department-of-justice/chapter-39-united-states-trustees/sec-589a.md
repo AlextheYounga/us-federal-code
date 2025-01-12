@@ -152,7 +152,7 @@ Pub. L. 102–140, title I, §111, Oct. 28, 1991, 105 Stat. 795, provided that t
 
 Section effective 30 days after Oct. 27, 1986, see section 302(a) of Pub. L. 99–554, set out as a note under section 581 of this title.
 
-####  Deposits of Fees Under Section 1930(a)(6) of This Title for Certain Fiscal Years ####
+#### Deposits of Fees Under Section 1930(a)(6) of This Title for Certain Fiscal Years ####
 
 Pub. L. 116–325, §3(a), Jan. 12, 2021, 134 Stat. 5087, provided that: "Notwithstanding section 589a(b) of title 28, United States Code, for each of fiscal years 2021 through 2026—
 
@@ -166,4 +166,4 @@ Pub. L. 115–72, div. B, §1004(b), Oct. 26, 2017, 131 Stat. 1232, provided tha
 
 "(2) 2 percent of the fees collected under section 1930(a)(6) of such title shall be deposited in the general fund of the Treasury."
 
-[<sup>1</sup> See Deposits of Fees Under Subsection (a)(6) for Certain Fiscal Years note below.](#589a_1)
+[<sup>1</sup> See Deposits of Fees Under Section 1930(a)(6) of This Title for Certain Fiscal Years note below.](#589a_1)

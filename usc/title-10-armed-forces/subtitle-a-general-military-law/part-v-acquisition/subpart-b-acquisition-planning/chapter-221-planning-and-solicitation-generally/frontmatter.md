@@ -414,7 +414,7 @@ Pub. L. 110–181, div. A, title VIII, §801, Jan. 28, 2008, 122 Stat. 202, as a
 
 "(B) may be used as the contract under which property or services are procured for one or more other departments or agencies of the Federal Government.
 
-"(4) Simplified acquisition threshold.—The term 'simplified acquisition threshold' has the meaning provided by section 2302(7)section 3015(a) of title 10, United States Code.
+"(4) Simplified acquisition threshold.—The term 'simplified acquisition threshold' has the meaning provided by section 3015(a) of title 10, United States Code.
 
 "(5) Interagency contracting.—The term 'interagency contracting' means the exercise of the authority under section 1535 of title 31, United States Code, or other statutory authority, for Federal agencies to purchase goods and services under contracts entered into or administered by other agencies.
 
@@ -427,8 +427,6 @@ Pub. L. 110–181, div. A, title VIII, §801, Jan. 28, 2008, 122 Stat. 202, as a
 "(7) Direct acquisition.—The term 'direct acquisition', with respect to the Department of Defense, means the type of interagency contracting through which the Department of Defense orders an item or service from a government-wide acquisition contract maintained by a non-defense agency.
 
 "(8) Assisted acquisition.—The term 'assisted acquisition', with respect to the Department of Defense, means the type of interagency contracting through which acquisition officials of a non-defense agency award a contract or task or delivery order for the procurement of goods or services on behalf of the Department of Defense."
-
-*[Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1806(e)(5), Jan. 1, 2021, 134 Stat. 4151, 4156, provided that effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, section 801(f)(4) of Pub. L. 110–181, set out above, is amended by substituting "section 3015(a)" for "section 2302(7)".]*
 
 Pub. L. 109–364, div. A, title VIII, §817, Oct. 17, 2006, 120 Stat. 2326, as amended by Pub. L. 116–92, div. A, title IX, §902(43), Dec. 20, 2019, 133 Stat. 1547, provided that:
 

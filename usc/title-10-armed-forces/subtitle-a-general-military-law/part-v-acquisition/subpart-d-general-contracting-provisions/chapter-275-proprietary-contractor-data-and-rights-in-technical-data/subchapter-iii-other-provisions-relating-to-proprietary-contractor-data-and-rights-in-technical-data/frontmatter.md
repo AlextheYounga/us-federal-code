@@ -14,7 +14,7 @@ Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 117–81, div. A, title XVII, §1701(b)(12)(A), (f)(6), Dec. 27, 2021, 135 Stat. 2134, 2139, made technical amendment to Pub. L. 116–283, div. A, title XVIII, §1833(n), Jan. 1, 2021, 134 Stat. 4233, which enacted this analysis, added "[Reserved]" for item 3792, and struck out former item 3792 "Technical data rights: non-FAR agreements".
+**2021**—Pub. L. 117–81, div. A, title XVII, §1701(b)(12)(A), (f)(6), Dec. 27, 2021, 135 Stat. 2134, 2139, made technical amendment to Pub. L. 116–283, div. A, title XVIII, §1833(n), Jan. 1, 2021, 134 Stat. 4233, which added this analysis, added "[Reserved]" for item 3792, and struck out former item 3792 "Technical data rights: non-FAR agreements".
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

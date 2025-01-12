@@ -14,7 +14,7 @@ Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 117–81, div. A, title X, §1081(a)(34), Dec. 27, 2021, 135 Stat. 1921, which directed redesignation of section 9132, relating to Regular Air Force and Regular Space Force: reenlistment after service as an officer, as section 9138, could not be executed because section 9132, relating to Regular Air Force and Regular Space Force: reenlistment after service as an officer, does not appear after the amendment by section 923(c)(1)(C) of div. A of Pub. L. 116–283. See below.
+**2021**—Pub. L. 117–81, div. A, title X, §1081(a)(34), Dec. 27, 2021, 135 Stat. 1921, which directed conforming this analysis to the redesignation of section 9132 relating to Regular Air Force and Regular Space Force: reenlistment after service as an officer as section 9138, could not be executed because item 9138, as added by section 923(c)(1)(C) of Pub. L. 116–283, already related to Regular Air Force and Regular Space Force: reenlistment after service as an officer. See below.
 
 Pub. L. 116–283, div. A, title IX, §923(c)(1)(C), (2)(C), Jan. 1, 2021, 134 Stat. 3810, added items 9132 and 9138 and struck out former items 9132 "Regular Air Force: gender-free basis for acceptance of original enlistments" and 9138 "Regular Air Force: reenlistment after service as an officer".
 

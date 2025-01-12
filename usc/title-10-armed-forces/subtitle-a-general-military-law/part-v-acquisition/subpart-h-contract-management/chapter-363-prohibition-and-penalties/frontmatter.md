@@ -36,7 +36,7 @@ Another prior chapter 363, consisting of sections 3841 to 3855 relating to separ
 
 Pub. L. 117–81, div. A, title VIII, §848, Dec. 27, 2021, 135 Stat. 1843, provided that:
 
-"(a) Prohibition on the Availability of Funds for Certain Procurements From XUAR.—None of the funds authorized to be appropriated by this Act [Pub. L. 117–81, see Tables for classification] or otherwise made available for fiscal year 2022 for the Department of Defense may be obligated or expended to knowingly procure any products mined, produced, or manufactured wholly or in part by forced labor from XUAR or from an entity that has used labor from within or transferred from XUAR as part of a 'poverty alleviation' or 'pairing assistance' program.
+"(a) Prohibition on the Availability of Funds for Certain Procurements From XUAR.—None of the funds authorized to be appropriated by this Act [see Tables for classification] or otherwise made available for fiscal year 2022 for the Department of Defense may be obligated or expended to knowingly procure any products mined, produced, or manufactured wholly or in part by forced labor from XUAR or from an entity that has used labor from within or transferred from XUAR as part of a 'poverty alleviation' or 'pairing assistance' program.
 
 "(b) Rulemaking.—Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall issue rules to require a certification from offerors for contracts with the Department of Defense stating the offeror has made a good faith effort to determine that forced labor from XUAR, as described in subsection (a), was not or will not be used in the performance of such contract.
 

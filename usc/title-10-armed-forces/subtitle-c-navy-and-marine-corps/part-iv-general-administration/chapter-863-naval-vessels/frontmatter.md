@@ -56,7 +56,7 @@ Sec.
 
 8684. Overhaul of naval vessels: competition between public and private shipyards.
 
-[8684a. Omitted].
+[8684a. Omitted.]
 
 8685. Preservation of Navy shipbuilding capability.
 
@@ -66,7 +66,7 @@ Sec.
 
 8688. Warranty requirements for shipbuilding contracts.
 
-[8688a. Omitted].
+[8688a. Omitted.]
 
 8689. Requirements for availability of funds relating to advanced naval nuclear fuel systems based on low-enriched uranium.
 

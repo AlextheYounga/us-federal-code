@@ -10,7 +10,7 @@
 
 (1) In general.—The Inspector General shall require the independent external auditors conducting audits under subsection (a) to submit a report on their audits each year to—
 
-(A) the Under Secretary of Defense (Comptroller) as the Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31 and the Chief Management Officer of the Department of Defense;
+(A) the Under Secretary of Defense (Comptroller) as the Chief Financial Officer of the Department of Defense for the purposes of chapter 9 of title 31 and the Chief Management Officer of the Department of Defense; <sup><a href="#240d_1_target" name="240d_1">1</a></sup>
 
 (B) the Controller of the Office of Federal Financial Management in the Office of Management and Budget;
 
@@ -66,6 +66,10 @@ Pub. L. 115–91, §1002(e)(2)(A), struck out ", United States Code" after "tit
 
 Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
+#### Transfer of Functions ####
+
+Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
+
 #### Transparency of Accounting Firms Used To Support Department of Defense Audit ####
 
 Pub. L. 115–232, div. A, title X, §1006, Aug. 13, 2018, 132 Stat. 1947, as amended by Pub. L. 116–92, div. A, title X, §1011, Dec. 20, 2019, 133 Stat. 1577, provided that:
@@ -77,3 +81,5 @@ Pub. L. 115–232, div. A, title X, §1006, Aug. 13, 2018, 132 Stat. 1947, as am
 "(1) treated as confidential to the extent required by the court or agency in which the proceeding has occurred; and
 
 "(2) treated in a manner consistent with any protections or privileges established by any other provision of Federal law."
+
+[<sup>1</sup> See Transfer of Functions note below.](#240d_1)

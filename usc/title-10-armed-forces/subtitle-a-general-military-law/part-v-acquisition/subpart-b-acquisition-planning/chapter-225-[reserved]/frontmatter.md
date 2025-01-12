@@ -1,4 +1,4 @@
-### **CHAPTER 225—[RESERVED]** ###
+### **CHAPTER 225—[Reserved]** ###
 
 Sec.
 

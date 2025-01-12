@@ -304,14 +304,6 @@ Pub. L. 115–91, div. A, title II, §225, Dec. 12, 2017, 131 Stat. 1334, as ame
 
 "(18) The Lab-Embedded Entrepreneurship Programs of the Department of Energy."
 
-#### Regional Advanced Technology Clusters ####
-
-Pub. L. 112–239, div. A, title II, §252, Jan. 2, 2013, 126 Stat. 1688, authorized the Secretary of Defense to use the research and engineering network of the Department of Defense to support regional advanced technology clusters established by the Secretary of Commerce to encourage the development of innovative advanced technologies to address national security and homeland defense challenges and directed the Under Secretary of Defense for Acquisition, Technology, and Logistics to submit a report to Congress, not later than 180 days after Jan. 2, 2013, on the participation of the Department of Defense in the regional advanced technology clusters.
-
-#### Science and Technology Investment Strategy To Defeat or Counter Improvised Explosive Devices ####
-
-Pub. L. 110–417, [div. A], title XV, §1504, Oct. 14, 2008, 122 Stat. 4650, as amended by Pub. L. 112–81, div. A, title X, §1062(b), Dec. 31, 2011, 125 Stat. 1585; Pub. L. 112–239, div. A, title X, §1076(c)(2)(D), Jan. 2, 2013, 126 Stat. 1950, directed the Director of the Joint Improvised Explosive Device Defeat Organization to develop, jointly with the Assistant Secretary of Defense for Research and Engineering, a comprehensive science and technology investment strategy for countering the threat of improvised explosive devices.
-
 #### Hypersonics Development ####
 
 Pub. L. 109–364, div. A, title II, §218, Oct. 17, 2006, 120 Stat. 2126, as amended by Pub. L. 112–81, div. A, title II, §241, Dec. 31, 2011, 125 Stat. 1343; Pub. L. 114–92, div. A, title X, §1079(f), Nov. 25, 2015, 129 Stat. 999; Pub. L. 115–91, div. A, title II, §214(b), Dec. 12, 2017, 131 Stat. 1325; Pub. L. 116–92, div. A, title II, §216, Dec. 20, 2019, 133 Stat. 1257; Pub. L. 116–283, div. A, title II, §217(e), Jan. 1, 2021, 134 Stat. 3462, provided that:
@@ -337,14 +329,6 @@ Pub. L. 109–364, div. A, title II, §218, Oct. 17, 2006, 120 Stat. 2126, as am
 "(5) Develop and implement a strategy for enhancing the current and future hypersonics workforce.
 
 "(6) Coordinate with relevant stakeholders and agencies to support the technological advantage of the United States in developing hypersonic systems."
-
-#### Collaborative Program for Research and Development of Vacuum Electronics Technologies ####
-
-Pub. L. 108–375, div. A, title II, §212, Oct. 28, 2004, 118 Stat. 1832, as amended by Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(iii), Jan. 2, 2013, 126 Stat. 1950, directed the Secretary of Defense to establish a program for research and development in advanced vacuum electronics to meet the requirements of Department of Defense systems, to be carried out collaboratively by the Assistant Secretary of Defense for Research and Engineering, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of the Army, and other appropriate elements of the Department of Defense, and directed the Assistant Secretary of Defense for Research and Engineering to submit to the congressional defense committees, no later than Jan. 31, 2005, a report on the implementation of the program.
-
-#### Department of Defense Program To Expand High-Speed, High-Bandwidth Capabilities for Network-Centric Operations ####
-
-Pub. L. 108–136, div. A, title II, §234, Nov. 24, 2003, 117 Stat. 1423, directed the Secretary of Defense to carry out a program of research and development to promote the development of high-speed, high-bandwidth communications capabilities for support of network-centric operations by the Armed Forces and to submit to the congressional defense committees, together with the budget justification materials submitted to Congress for fiscal year 2006, a report on the program.
 
 #### Research and Development of Defense Biomedical Countermeasures ####
 
@@ -409,12 +393,6 @@ Pub. L. 108–136, div. A, title XVI, §1601, Nov. 24, 2003, 117 Stat. 1680, as 
 "(2) The Secretary may use the authority under paragraph (1) only upon a determination by the Secretary that use of such authority is necessary to accelerate the research and development under the program.
 
 "(3) The Secretary shall institute appropriate internal controls for each use of the authority under paragraph (1)."
-
-Pub. L. 107–107, div. A, title X, §1044(a), Dec. 28, 2001, 115 Stat. 1219, directed the Secretary of Defense to carry out a program to aggressively accelerate the research, development, testing, and licensure of new medical countermeasures for defense against biological warfare agents, including for the prevention and treatment of anthrax.
-
-#### Vehicle Fuel Cell Program ####
-
-Pub. L. 107–314, div. A, title II, §245, Dec. 2, 2002, 116 Stat. 2500, directed the Secretary of Defense to carry out a program for the development of vehicle fuel cell technology in cooperation with companies selected by the Secretary and appropriated $10,000,000 for the program from funds authorized for Department of Defense research, development, test, and evaluation for fiscal year 2003.
 
 #### Defense Nanotechnology Research and Development Program ####
 

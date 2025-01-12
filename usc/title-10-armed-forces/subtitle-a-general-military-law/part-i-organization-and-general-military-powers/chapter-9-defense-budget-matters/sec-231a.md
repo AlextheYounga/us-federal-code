@@ -108,7 +108,7 @@ A prior section 231a, added Pub. L. 110–417, [div. A], title I, §141(a), Oct.
 
 **2021**—Subsec. (c)(3). Pub. L. 116–283, §1883(b)(2), substituted "section 4351" for "section 2432".
 
-Subsec. (e)(2). Pub. L. 117–81, substituted "include" for "include the following," in introductory provisions.
+Subsec. (e)(2). Pub. L. 117–81 substituted "include" for "include the following," in introductory provisions.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

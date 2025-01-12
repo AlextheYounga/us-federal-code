@@ -23,7 +23,7 @@ Chap. Sec.
 
 223. Other Provisions Relating to Planning and Solicitation Generally 3241
 
-225. Planning and Solicitation Relating to Particular Items or Services 3271
+225. Planning and Solicitation Relating to Particular Items or Services 1 3271
 
 #### Subpart C—Contracting Methods and Contract Types ####
 
@@ -55,7 +55,7 @@ Chap. Sec.
 
 271. Truthful Cost or Pricing Data (Truth in Negotiations) 3701
 
-272. Other Provisions Relating to Cost or Pricing Data 3721
+272. Other Provisions Relating to Cost or Pricing Data 1 3721
 
 273. Allowable Costs 3741
 
@@ -89,7 +89,7 @@ Chap. Sec.
 
 323. Life-Cycle And Sustainment 4321 3
 
-324. Program Status—Selected Acquisition Reports 4350 3
+324. Program Status—Selected Acquisition Reports 1 4350 3
 
 325. Cost Growth—Unit Cost Reports (Nunn-McCurdy) 4371 3
 
@@ -141,13 +141,13 @@ Capitalization in subpart items in this analysis was editorially reformatted fro
 
 **2021**—Pub. L. 117–81, div. A, title XVII, §1701(i)(8)(A), (l)(2), Dec. 27, 2021, 135 Stat. 2142, 2144, which directed amendment of this analysis by substituting "[Reserved]" for "Foreign Acquisitions" and starting section number 3881 in item for chapter 283 and by adding item for chapter 287 and striking out former item for chapter 287 "Socioeconomic Programs", was executed by amending this analysis as directed, notwithstanding that other amendments by section 1701(i) and (l) of Pub. L. 117–81 were directed to Pub. L. 116–283, and not to the Code directly, and that such amendments are effective as if included in title XVIII of Pub. L. 116–283.
 
-Pub. L. 117–81, div. A, title XVII, §1701(i)(5)(A), (B)(ii), Dec. 27, 2021, 135 Stat. 2141, made similar amendments, resulting in the substitution of "[Reserved]" for "Rapid Acquisition Procedures" in item for chapter 253. Section 1701(i)(5)(B)(ii) amended Pub. L. 116–283, div. A, title XVIII, §1824(b), Jan. 1, 2021, 134 Stat. 4205, which had added the item for chapter 253, while section 1701(i)(5)(A) amended this analysis directly.
+Pub. L. 117–81, div. A, title XVII, §1701(i)(5)(A), (B)(ii), Dec. 27, 2021, 135 Stat. 2141, made similar amendments, resulting in the substitution of "[Reserved]" for "Rapid Acquisition Procedures" and starting section number 3601 in item for chapter 253. Section 1701(i)(5)(B)(ii) amended Pub. L. 116–283, div. A, title XVIII, §1824(b), Jan. 1, 2021, 134 Stat. 4205, which had added the item for chapter 253, while section 1701(i)(5)(A) amended this analysis directly.
 
 Pub. L. 117–81, div. A, title XVII, §1701(g), Dec. 27, 2021, 135 Stat. 2140, substituted "3061", "3101", and "3131", respectively, for "3021", "3051", and "3101", respectively, in items for chapters 203, 205, and 207, added item for chapter 247 and struck out former item for chapter 247 "Acquisition of Commercial Items", substituted "3571" for "3551" in item for chapter 251, added items for chapters 257 and 258 and struck out former item for chapter 257 "Contracts for Long-Term Lease or Charter of Vessels, Aircraft, and Combat", and substituted "Provisions" for "requirements" in item for subpart D.
 
-Pub. L. 116–283, div. A, title XVIII, §§1841(a)(2), 1856(a), Jan. 1, 2021, 134 Stat. 4243, 4273, as amended by Pub. L. 117–81, div. A, title XVII, §1701(i)(9)(A), (u)(1), Dec. 27, 2021, 135 Stat. 2142, 2150, added item for subpart E and chapters 301 to 307 and item for chapter 343.
+Pub. L. 116–283, div. A, title XVIII, §§1841(a)(2), 1856(a), Jan. 1, 2021, 134 Stat. 4243, 4273, as amended by Pub. L. 117–81, div. A, title XVII, §1701(i)(9)(A), (u)(1), Dec. 27, 2021, 135 Stat. 2142, 2150, added items for subpart E and chapters 301 to 307 and item for chapter 343.
 
-Pub. L. 116–283, div. A, title XVIII, §§1811(a), 1816(a), 1824(b), 1825(l), 1831(l), 1833(a)(2), 1846(a), 1866(a), 1873(f), Jan. 1, 2021, 134 Stat. 4164, 4181, 4205, 4208, 4217, 4226, 4247, 4279, 4290, added items for chapters 221 to 225, 241 to 244, 253, 257, 271, 272, and 275, item for subpart F and chapters 321 to 327, and items for chapters 341, 381 to 385, and 387 to 389 and struck out former items for chapters 221 "Planning and Solicitation Generally", 223 "Planning and Solicitation Relating to Particular Items or Services", 241 "Awarding of Contracts", 243 "Specific Types of Contracts", 253 "Emergency and Rapid Acquisitions", 271 "Truthful Cost or Pricing Data", 275 "Proprietary Contractor Data and Technical Data", and 285 "Small Business Programs", items for subpart E "special categories of contracting: major defense acquisition programs and major systems" and chapters 301 "Major Defense Acquisition Programs", 303 "Weapon Systems Development and Related Matters", and 305 "Other Matters Relating to Major Systems" and for subpart F "special categories of contracting: research, development, test, and evaluation" and for chapters 321 "Research and Development Generally", 323 "Innovation", 325 "Department of Defense Laboratories", 327 "Research and Development Centers and Facilities", and 329 "Operational Test and Evaluation; Developmental Test and Evaluation", and former items for chapters 341 "Contracting for Performance of Civilian Commercial or Industrial Type Functions", 343 "Acquisition of Services", 381 "Defense Industrial Base Generally", 383 "Loan Guarantee Programs", and 385 "Procurement Technical Assistance Cooperative Agreement Program".
+Pub. L. 116–283, div. A, title XVIII, §§1811(a), 1816(a), 1824(b), 1825(l), 1831(l), 1833(a)(2), 1846(a), 1866(a), 1873(f), Jan. 1, 2021, 134 Stat. 4164, 4181, 4205, 4208, 4217, 4226, 4247, 4279, 4290, added items for chapters 221 to 225, 241 to 244, 253, 257, 271, 272, and 275, items for subpart F and chapters 321 to 327, and items for chapters 341, 381 to 385, and 387 to 389 and struck out former items for chapters 221 "Planning and Solicitation Generally", 223 "Planning and Solicitation Relating to Particular Items or Services", 241 "Awarding of Contracts", 243 "Specific Types of Contracts", 253 "Emergency and Rapid Acquisitions", 271 "Truthful Cost or Pricing Data", 275 "Proprietary Contractor Data and Technical Data", and 285 "Small Business Programs", items for subpart E "special categories of contracting: major defense acquisition programs and major systems" and chapters 301 "Major Defense Acquisition Programs", 303 "Weapon Systems Development and Related Matters", and 305 "Other Matters Relating to Major Systems" and for subpart F "special categories of contracting: research, development, test, and evaluation" and for chapters 321 "Research and Development Generally", 323 "Innovation", 325 "Department of Defense Laboratories", 327 "Research and Development Centers and Facilities", and 329 "Operational Test and Evaluation; Developmental Test and Evaluation", and former items for chapters 341 "Contracting for Performance of Civilian Commercial or Industrial Type Functions", 343 "Acquisition of Services", 381 "Defense Industrial Base Generally", 383 "Loan Guarantee Programs", and 385 "Procurement Technical Assistance Cooperative Agreement Program".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1825, added analysis for part V consisting of items for subparts A to I and chapters 201 to 385. Capitalization in subpart headings is as it appears in the original.
 
@@ -1046,6 +1046,18 @@ Chapters 301 to 953 and sections 3001 to 9448 of this title, which formerly comp
 
 #### Effective Date of 2021 Amendment ####
 
+Pub. L. 117–81, div. A, title XVII, §1701(a), Dec. 27, 2021, 135 Stat. 2131, provided that:
+
+"(1) Definitions.—In this section [see Tables for classification], the terms 'FY2021 NDAA' and 'such Act' mean the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [see Tables for classification].
+
+"(2) Amendments to apply pre-transfer of defense acquisition statutes.—The amendments made by subsections (b), (i), and (j) through (v) [see Tables for classification] shall apply as if included in the enactment of title XVIII of the FY2021 NDAA as enacted.
+
+"(3) Amendments to take effect post-transfer of defense acquisition statutes.—The amendments made by subsections (c) through (h) and (w) [see Tables for classification] shall take effect immediately after the amendments made by title XVIII of the FY2021 NDAA have taken effect. Sections 1883 through 1885 of the FY2021 NDAA [enacting provisions set out as notes below] shall apply with respect to the transfers, redesignations, and amendments made under such subsections as if such transfers, redesignations, and amendments were made under title XVIII of the FY2021 NDAA.
+
+"(4) Reorganization regulation update notice.—[Amended section 1801(d) of Pub. L. 116–283, set out as a note below.]
+
+"(5) Savings provision relating to transfer and reorganization of defense acquisition statutes.—If this Act is enacted after December 31, 2021 [Pub. L. 117–81 approved Dec. 27, 2021], notwithstanding section 1801(d)(1) of the FY2021 NDAA, the amendments made by title XVIII of the FY2021 NDAA shall take effect immediately after the enactment of this Act."
+
 Pub. L. 116–283, div. A, title XVIII, §1801(d), Jan. 1, 2021, 134 Stat. 4151, as amended by Pub. L. 117–81, div. A, title XVII, §1701(a)(4), Dec. 27, 2021, 135 Stat. 2131, provided that:
 
 "(1) Delayed enactment.—Except as specifically provided, this title [see Tables for classification] and the amendments made by this title shall take effect on January 1, 2022.
@@ -1075,22 +1087,6 @@ Pub. L. 115–232, div. A, title VIII, §800, Aug. 13, 2018, 132 Stat. 1825, pro
 "(b) Coordination of Amendments.—The redesignations and amendments made by part II of this subtitle shall be executed before the amendments made by part I of this subtitle.
 
 "(c) Rule for Certain Redesignations.—In the case of a redesignation specified in part II of this subtitle (1) that is to be made to a section of subtitle B, C, or D of title 10, United States Code, for which the current section designation consists of a four-digit number and a letter, and (2) that is directed to be made by the addition of a specified number to the current section designation, the new section designation shall consist of a new four-digit number and the same letter, with the new four-digit number being the number that is the sum of the specified number and the four-digit number in the current section designation."
-
-#### Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA ####
-
-Pub. L. 117–81, div. A, title XVII, §1701(a), Dec. 27, 2021, 135 Stat. 2131, provided that:
-
-"(a) Definitions; Effective Date; Applicability.—
-
-"(1) Definitions.—In this section, the terms 'FY2021 NDAA' and 'such Act' mean the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [see Tables for classification].
-
-"(2) Amendments to apply pre-transfer of defense acquisition statutes.—The amendments made by subsections (b), (i), and (j) through (v) [see Tables for classification] shall apply as if included in the enactment of title XVIII of the FY2021 NDAA as enacted.
-
-"(3) Amendments to take effect post-transfer of defense acquisition statutes.—The amendments made by subsections (c) through (h) and (w) [see Tables for classification] shall take effect immediately after the amendments made by title XVIII of the FY2021 NDAA have taken effect. Sections 1883 through 1885 of the FY2021 NDAA [see Tables for classification] shall apply with respect to the transfers, redesignations, and amendments made under such subsections as if such transfers, redesignations, and amendments were made under title XVIII of the FY2021 NDAA.
-
-"(4) Reorganization regulation update notice.—[Amended section 1801(d) of Pub. L. 116–283, set out as a note above.]
-
-"(5) Savings provision relating to transfer and reorganization of defense acquisition statutes.—If this Act is enacted after December 31, 2021 [Pub. L. 117–81 approved Dec. 27, 2021], notwithstanding section 1801(d)(1) of the FY2021 NDAA, the amendments made by title XVIII of the FY2021 NDAA shall take effect immediately after the enactment of this Act."
 
 #### Rule of Construction ####
 

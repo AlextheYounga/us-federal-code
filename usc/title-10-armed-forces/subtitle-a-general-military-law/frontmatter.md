@@ -189,7 +189,7 @@ Chap. Sec.
 
 136. Provisions Relating to Specific Programs 2281
 
-[137. Repealed.] 2301
+[137. Repealed.]
 
 138. Cooperative Agreements with NATO Allies and Other Countries 2341
 
@@ -379,7 +379,7 @@ Chap. Sec.
 
 #### Amendments ####
 
-Pub. L. 117–81, div. A, title XVII, §1701(i)(8)(A), (l)(2), Dec. 27, 2021, 135 Stat. 2142, 2144, which directed amendment of this analysis by substituting "[Reserved]" for "Foreign Acquisitions" and starting section number 3881 in item for chapter 283 and by adding item for chapter 287 and striking out former item for chapter 287 "Socioeconomic Programs", was executed by amending this analysis as directed, notwithstanding that other amendments by section 1701(i) and (l) of Pub. L. 117–81 were directed to Pub. L. 116–283, and not to the Code directly, and that such amendments are effective as if included in title XVIII of Pub. L. 116–283.
+**2021**—Pub. L. 117–81, div. A, title XVII, §1701(i)(8)(A), (l)(2), Dec. 27, 2021, 135 Stat. 2142, 2144, which directed amendment of this analysis by substituting "[Reserved]" for "Foreign Acquisitions" and starting section number 3881 in item for chapter 283 and by adding item for chapter 287 and striking out former item for chapter 287 "Socioeconomic Programs", was executed by amending this analysis as directed, notwithstanding that other amendments by section 1701(i) and (l) of Pub. L. 117–81 were directed to Pub. L. 116–283, and not to the Code directly, and that such amendments are effective as if included in title XVIII of Pub. L. 116–283.
 
 Pub. L. 117–81, div. A, title XVII, §1701(i)(5)(A), (B)(ii), Dec. 27, 2021, 135 Stat. 2141, made similar amendments, resulting in the substitution of "[Reserved]" for "Rapid Acquisition Procedures" and starting section number 3601 in item for chapter 253. Section 1701(i)(5)(B)(ii) amended Pub. L. 116–283, div. A, title XVIII, §1824(b), Jan. 1, 2021, 134 Stat. 4205, which had added the item for chapter 253, while section 1701(i)(5)(A) amended this analysis directly.
 
@@ -527,8 +527,8 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 
 [<sup>4</sup> So in original. The period probably should not appear.](#PARTIanalysis_4)
 
-[<sup>5</sup>So in original. Probably should be "3901".](#PARTVanalysis_5)
+[<sup>5</sup> So in original. Probably should be "3901".](#PARTVanalysis_5)
 
-[<sup>6</sup>So in original. Probably should be "4141".](#PARTVanalysis_6)
+[<sup>6</sup> So in original. Probably should be "4141".](#PARTVanalysis_6)
 
 [<sup>7</sup> Editorially supplied.](#PARTVanalysis_7)

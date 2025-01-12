@@ -164,7 +164,7 @@ Subsecs. (f) to (i). Pub. L. 114–92, §1651(1), (2), added subsec. (f) and red
 
 #### Effective Date of 2021 Amendment ####
 
-Amendment by section 1701(b)(14) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding section 3001 of this title and note below.
+Amendment by section 1701(b)(14) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding section 3001 of this title and note below.
 
 Amendment by section 1845(c)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 

@@ -25,42 +25,6 @@ Pub. L. 115–232, div. A, title VIII, §890, Aug. 13, 2018, 132 Stat. 1919, as 
 
 "(c) Sunset.—The authority to carry out the pilot program under this section shall expire on January 2, 2023."
 
-#### Pilot Program for Streamlining Awards for Innovative Technology Projects ####
-
-Pub. L. 114–92, div. A, title VIII, §873(a)–(g), Nov. 25, 2015, 129 Stat. 939, 940, as amended by Pub. L. 114–328, div. A, title VIII, §896, Dec. 23, 2016, 130 Stat. 2326; Pub. L. 116–283, div. A, title VIII, §832, Jan. 1, 2021, 134 Stat. 3753; Pub. L. 117–81, div. A, title VIII, §862(a), Dec. 27, 2021, 135 Stat. 1852, provided that:
-
-"(a) Exception From Certified Cost and Pricing Data Requirements.—The requirements under section 2306a(a) of title 10, United States Code [now 10 U.S.C. 3702], shall not apply to a contract, subcontract, or modification of a contract or subcontract valued at less than $7,500,000 awarded to a small business or nontraditional defense contractor pursuant to—
-
-"(1) a technical, merit-based selection procedure, such as a broad agency announcement, or
-
-"(2) the Small Business Innovation Research Program or Small Business Technology Transfer Program,
-
-unless the head of the agency determines that submission of cost and pricing data should be required based on past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award.
-
-"(b) Exception From Records Examination Requirement.—The requirements under subparagraphs (A), (B), and (C) of section 2313(a)(2) of title 10, United States Code [now 10 U.S.C. 3841(b)(2)(A)–(C)], and subsection (b) of section 2313 of title 10, United States Code [now 10 U.S.C. 3841(c)], shall not apply to a contract valued at less than $7,500,000 awarded to a small business or nontraditional defense contractor pursuant to—
-
-"(1) a technical, merit-based selection procedure, such as a broad agency announcement, or
-
-"(2) the Small Business Innovation Research Program,
-
-unless the head of the agency determines that auditing of records should be required based on past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award, and if such performance audit is initiated within 18 months of the contract completion.
-
-"(c) Treatment as Competitive Procedures.—Use of a technical, merit-based selection procedure or the Small Business Innovation Research Program or Small Business Technology Transfer Program for the pilot program under this section shall be considered to be use of competitive procedures for purposes of [former] chapter 137 of title 10, United States Code.
-
-"(d) Discretion To Use Non-certified Accounting Systems.—In executing programs under this pilot program, the Secretary of Defense shall establish procedures under which a small business or nontraditional contractor may engage an independent certified public accountant for the review and certification of its accounting system for the purposes of any audits required by regulation, unless the head of the agency determines that this is not appropriate based on past performance of the specific small business or nontraditional defense contractor, or based on analysis of other information specific to the award.
-
-"(e) Guidance and Training.—The Secretary of Defense shall ensure that acquisition and auditing officials are provided guidance and training on the flexible use and tailoring of authorities under the pilot program to maximize efficiency and effectiveness.
-
-"(f) Sunset.—The exceptions under subsections (a) and (b) shall terminate on October 1, 2024.
-
-"(g) Definitions.—In this section [enacting this note and amending section 638 of Title 15, Commerce and Trade]:
-
-"(1) Small business.—The term 'small business' has the meaning given the term 'small business concern' under section 3 of the Small Business Act (15 U.S.C. 632).
-
-"(2) Nontraditional defense contractor.—The term 'nontraditional defense contractor' has the meaning given that term in section 2302(9) of title 10, United States Code [now 10 U.S.C. 3014]."
-
-[Section 896(2)(B) of Pub. L. 114–328, which directed amendment of par. (2) of subsec. (b) of section 873 of Pub. L. 114–92, set out above, by inserting ", and if such performance audit is initiated within 18 months of the contract completion" before the period at the end, was executed by making the insertion before the period at the end of the concluding provisions of subsec. (b), to reflect the probable intent of Congress.]
-
 #### Guidance and Training Related to Evaluating Reasonableness of Price ####
 
 Pub. L. 112–239, div. A, title VIII, §831, Jan. 2, 2013, 126 Stat. 1842, provided that:

@@ -1,18 +1,18 @@
 ### SUBCHAPTER V—COMPOSITION OF COURTS-MARTIAL ###
 
-|Sec. |  Art.  |                                                                              |
-|-----|--------|------------------------------------------------------------------------------|
-|822. |  22.   |                   Who may convene general courts-martial.                    |
-|823. |  23.   |                   Who may convene special courts-martial.                    |
-|824. |  24.   |                   Who may convene summary courts-martial.                    |
-|824a.|Art 24a.|                            Special trial counsel.                            |
-|825. |  25.   |                       Who may serve on courts-martial.                       |
-|825a.|  25a.  |              Number of court-martial members in capital cases.               |
-|826. |  26.   |            Military judge of a general or special court-martial.             |
-|826a.|  26a.  |                            Military magistrates.                             |
-|827. |  27.   |                 Detail of trial counsel and defense counsel.                 |
-|828. |  28.   |             Detail or employment of reporters and interpreters.              |
-|829. |  29.   |Assembly and impaneling of members; detail of new members and military judges.|
+|Sec. |Art.|                                                                              |
+|-----|----|------------------------------------------------------------------------------|
+|822. |22. |                   Who may convene general courts-martial.                    |
+|823. |23. |                   Who may convene special courts-martial.                    |
+|824. |24. |                   Who may convene summary courts-martial.                    |
+|824a.|24a.|                            Special trial counsel.                            |
+|825. |25. |                       Who may serve on courts-martial.                       |
+|825a.|25a.|              Number of court-martial members in capital cases.               |
+|826. |26. |            Military judge of a general or special court-martial.             |
+|826a.|26a.|                            Military magistrates.                             |
+|827. |27. |                 Detail of trial counsel and defense counsel.                 |
+|828. |28. |             Detail or employment of reporters and interpreters.              |
+|829. |29. |Assembly and impaneling of members; detail of new members and military judges.|
 
 #### **Editorial Notes** ####
 

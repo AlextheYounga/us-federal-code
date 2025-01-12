@@ -4,7 +4,7 @@
 
 Sec.
 
-5100. Definition of "claimant".
+5100. Definitions.
 
 5101. Claims and forms.
 
@@ -67,6 +67,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–168, §1(b)(2), title VIII, §807(a)(1), Aug. 10, 2022, 136 Stat. 1759, 1805, added item 1500 and struck out former item 1500 "Definition of 'claimant' ".
 
 **2017**—Pub. L. 115–55, §2(f)(2), (g)(2), (h)(2), (i)(3), (k)(2), Aug. 23, 2017, 131 Stat. 1107–1109, added items 5104A to 5104C and substituted "Supplemental claims" for "Reopening disallowed claims" in item 5108 and "Expedited treatment of returned and remanded claims" for "Expedited treatment of remanded claims" in item 5109B.
 

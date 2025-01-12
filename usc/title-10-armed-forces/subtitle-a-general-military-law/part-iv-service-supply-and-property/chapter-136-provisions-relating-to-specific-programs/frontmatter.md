@@ -4,7 +4,9 @@ Sec.
 
 2281. Global Positioning System.
 
-[2282, 2283. Repealed.]
+[2282. Repealed.]
+
+[2283. Renumbered.]
 
 2284. Explosive Ordnance Disposal Defense Program.
 

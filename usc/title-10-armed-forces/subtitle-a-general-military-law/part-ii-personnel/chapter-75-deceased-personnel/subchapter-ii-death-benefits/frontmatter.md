@@ -68,6 +68,8 @@ Pub. L. 106–65, div. A, title V, §578(k)(2)(A), Oct. 5, 1999, 113 Stat. 631, 
 
 **1958**—Pub. L. 85–861, §1(32)(B), (C), Sept. 2, 1958, 72 Stat. 1455, struck out "CARE OF THE DEAD" from chapter heading, and added items 1475 to 1480.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Meetings of Officials of the Department of Defense With Representative Groups of Survivors of Deceased Members of the Armed Forces ####
 
 Pub. L. 116–92, div. A, title V, §580B, Dec. 20, 2019, 133 Stat. 1408, provided that:

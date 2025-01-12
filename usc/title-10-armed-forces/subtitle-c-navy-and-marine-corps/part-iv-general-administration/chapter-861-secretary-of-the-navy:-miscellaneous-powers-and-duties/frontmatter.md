@@ -16,7 +16,7 @@ Sec.
 
 8616. Collection, preservation, and display of captured flags.
 
-8617. National Museum of the United States Navy
+8617. National Museum of the United States Navy.
 
 8619. Leases of waterfront property from States or municipalities.
 

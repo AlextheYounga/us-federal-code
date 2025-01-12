@@ -12,6 +12,8 @@ Sec.
 
 1304. Special provisions relating to surviving spouses.
 
+1305. Reevaluation of dependency and indemnity compensation determinations pursuant to changes in presumptions of service connection.
+
 #### SUBCHAPTER II—DEPENDENCY AND INDEMNITY COMPENSATION ####
 
 1310. Deaths entitling survivors to dependency and indemnity compensation.
@@ -43,6 +45,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–168, §1(b)(2), title II, §204(a), Aug. 10, 2022, 136 Stat. 1759, 1776, added item 1305.
 
 **1997**—Pub. L. 105–33, title VIII, §8031(b)(2), Aug. 5, 1997, 111 Stat. 669, added item 1303.
 

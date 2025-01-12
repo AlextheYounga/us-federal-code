@@ -94,7 +94,7 @@ The Voting Accessibility for the Elderly and Handicapped Act, referred to in sub
 
 The National Voter Registration Act of 1993, referred to in subsec. (b)(7)(D), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, which was formerly classified principally to subchapter I–H (§1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 205 (§20501 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(7)(E), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(7)(E), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (b)(7)(F), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 

@@ -124,7 +124,7 @@ Sec.
 
 8168. Annual reports.
 
-8169. Expiration.
+[8169. Repealed.]
 
 #### Amendment of Analysis ####
 
@@ -133,6 +133,8 @@ Pub. L. 108–422, title IV, §411(c)(2), (f), Nov. 30, 2004, 118 Stat. 2389, 23
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–168, §1(b)(2), title VII, §705(d), Aug. 10, 2022, 136 Stat. 1759, 1800, which directed amendment of the analyses of this title to conform to additions or amendments of section and unit headings, was executed to this analysis by striking out item 8169 "Expiration" to conform to the repeal of section 8169 of this title, to reflect the probable intent of Congress.
 
 **2021**—Pub. L. 117–81, div. A, title VII, §714(b)(2), Dec. 27, 2021, 135 Stat. 1787, which directed amendment of the table of sections at the beginning of subchapter I of chapter 81 by adding item 8111B, was executed to the table of sections at the beginning of this chapter to reflect the probable intent of Congress.
 
