@@ -34,13 +34,15 @@ Sec.
 
 7628. Support for research regarding diseases of wheat, triticale, and barley caused by Fusarium graminearum or by Tilletia indica.
 
-7629. Bovine Johne's disease control program.
+7629. Repealed.
 
 7630. Grants for youth organizations.
 
 7631. Agricultural biotechnology research and development for developing countries.
 
 7632. Specialty crop research initiative.
+
+7633. Food and agriculture service learning program.
 
 #### SUBCHAPTER III—MISCELLANEOUS PROVISIONS ####
 
@@ -64,12 +66,12 @@ Sec.
 
 7655a. Food safety education initiatives.
 
+7655b. Forestry products advanced utilization research.
+
 7656. Designation of Crisis Management Team within Department.
 
 7657. Senior Scientific Research Service.
 
 #### Part C—Studies ####
 
-7671. Evaluation and assessment of agricultural research, extension, and education programs.
-
-7672. Study of federally funded agricultural research, extension, and education.
+7671, 7672. Repealed.

@@ -420,6 +420,8 @@ Sec.
 
 277h. Authority of the International Boundary and Water Commission to assist State and local governments.
 
+277i. Report on water sharing.
+
 #### SUBCHAPTER V—GORGAS MEMORIAL LABORATORY ####
 
 278. Gorgas Memorial Laboratory; location; acceptance of funds from Latin American countries or other sources.

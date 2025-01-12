@@ -30,6 +30,26 @@ Act of July 2, 1862, referred to in subsec. (b), is act July 2, 1862, ch. 130, 1
 
 Act of August 30, 1890, referred to in subsec. (b), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of Title 7. For complete classification of this Act to the Code, see Short Title note set out under section 321 of Title 7 and Tables.
 
+#### Forest Service Large Airtanker and Aerial Asset Firefighting Recapitalization Pilot Program ####
+
+Pub. L. 113–79, title VIII, §8305, Feb. 7, 2014, 128 Stat. 925, provided that:
+
+“(a) In General.—Subject to the availability of appropriations, the Secretary [of Agriculture], acting through the Chief of the Forest Service, may establish a large airtanker and aerial asset lease program in accordance with this section.
+
+“(b) Aircraft Requirements.—In carrying out the program described in subsection (a), the Secretary may enter into a multiyear lease contract for up to 5 aircraft that meet the criteria—
+
+“(1) described in the Forest Service document entitled ‘Large Airtanker Modernization Strategy’ and dated February 10, 2012, for large airtankers; and
+
+“(2) determined by the Secretary, for other aerial assets.
+
+“(c) Lease Terms.—The term of any individual lease agreement into which the Secretary enters under this section shall be—
+
+“(1) up to 5 years, inclusive of any options to renew or extend the initial lease term; and
+
+“(2) in accordance with section 3903 of title 41, United States Code.
+
+“(d) Prohibition.—No lease entered into under this section shall provide for the purchase of the aircraft by, or the transfer of ownership to, the Forest Service.”
+
 #### Forest Firefighting Planning and Cooperation; Findings ####
 
 Pub. L. 101–286, title II, §201, May 9, 1990, 104 Stat. 174, provided that: “The Congress finds that—

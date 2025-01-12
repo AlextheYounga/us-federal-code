@@ -12,7 +12,7 @@ Sec.
 
 1622b. Specialty crops market news allocation.
 
-1622c. Grant program to improve movement of specialty crops.
+1622c. Repealed.
 
 1623. Authorization of appropriations; allotments to States.
 
@@ -25,6 +25,10 @@ Sec.
 1626. Definitions.
 
 1627. Appointment of personnel; compensation; employment of specialists.
+
+1627a. Sheep production and marketing grant program.
+
+1627b. National Sheep Industry Improvement Center.
 
 1628. Repealed.
 
@@ -39,6 +43,8 @@ Sec.
 1632a. Value-added agricultural product market development grants.
 
 1632b. Agriculture Innovation Center Demonstration Program.
+
+1632c. Acer access and development program.
 
 #### SUBCHAPTER II—LIVESTOCK MANDATORY REPORTING ####
 

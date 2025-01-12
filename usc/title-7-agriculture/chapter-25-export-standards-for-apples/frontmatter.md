@@ -8,7 +8,7 @@ Sec.
 
 583. Foreign standards; certification of compliance.
 
-584. Shipments of less than carload lots; exemptions.
+584. Exemptions.
 
 585. Fees for inspection and certification; certificates as prima facie evidence.
 

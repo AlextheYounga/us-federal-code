@@ -18,6 +18,8 @@ Sec.
 
 8308. Detection, control, and eradication of diseases and pests.
 
+8308a. National animal health laboratory network.
+
 8309. Veterinary accreditation program.
 
 8310. Cooperation.

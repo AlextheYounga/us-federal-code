@@ -196,6 +196,20 @@ The FDA Food Safety Modernization Act, referred to in subsec. (a)(3)(E), is Pub.
 
 Nothing in this section to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.
 
+#### Scientific and Economic Analysis of the FDA Food Safety Modernization Act ####
+
+Pub. L. 113–79, title XII, §12311(a), Feb. 7, 2014, 128 Stat. 992, provided that: “When publishing a final rule with respect to ‘Standards for the Growing, Harvesting, Packing, and Holding of Produce for Human Consumption’ published by the Department of Health and Human Services on January 16, 2013 (78 Fed. Reg. 3504), the Secretary of Health and Human Services (referred to in this section [section 12311 of Pub. L. 113–79, 128 Stat. 992] as the ‘Secretary’) shall ensure that the final rule (referred to in this section as the ‘final rule’) includes the following information:
+
+“(1) An analysis of the scientific information used to promulgate the final rule, taking into consideration any information about farming and ranching operations of a variety of sizes, with regional differences, and that have a diversity of production practices and methods.
+
+“(2) An analysis of the economic impact of the final rule.
+
+“(3) A plan to systematically—
+
+“(A) evaluate the impact of the final rule on farming and ranching operations; and
+
+“(B) develop an ongoing process to evaluate and respond to business concerns.”
+
 #### Small Entity Compliance Policy Guide ####
 
 Pub. L. 111–353, title I, §105(b), Jan. 4, 2011, 124 Stat. 3904, provided that: “Not later than 180 days after the issuance of regulations under section 419 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 350h] (as added by subsection (a)), the Secretary of Health and Human Services shall issue a small entity compliance policy guide setting forth in plain language the requirements of such section 419 and to assist small entities in complying with standards for safe production and harvesting and other activities required under such section.”

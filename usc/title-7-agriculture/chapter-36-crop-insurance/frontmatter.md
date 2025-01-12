@@ -26,6 +26,10 @@ Sec.
 
 1508a. Double insurance and prevented planting.
 
+1508b. Stacked Income Protection Plan for producers of upland cotton.
+
+1508c. Peanut revenue crop insurance.
+
 1509. Exemption of indemnities from levy.
 
 1510. Deposit and investment of funds; Federal Reserve banks as fiscal agents.

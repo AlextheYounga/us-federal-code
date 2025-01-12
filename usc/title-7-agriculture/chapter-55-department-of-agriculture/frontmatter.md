@@ -26,6 +26,8 @@ Sec.
 
 2204g. Authority of Secretary of Agriculture to conduct census of agriculture.
 
+2204h. Local food production and program evaluation.
+
 2205. Duties of former Commissioner of Agriculture transferred to Secretary.
 
 2206. Custody of property and records.
@@ -37,6 +39,8 @@ Sec.
 2207. Reports.
 
 2207a. Reports to Congress on obligation and expenditure.
+
+2207b. Program metrics.
 
 2208. Expenditure of appropriations; accounting.
 
@@ -248,7 +252,7 @@ Sec.
 
 2278. Consistency with international obligations of United States.
 
-2279. Outreach and assistance for socially disadvantaged farmers and ranchers.
+2279. Outreach and assistance for socially disadvantaged farmers and ranchers and veteran farmers and ranchers.
 
 2279–1. Transparency and accountability for socially disadvantaged farmers and ranchers.
 

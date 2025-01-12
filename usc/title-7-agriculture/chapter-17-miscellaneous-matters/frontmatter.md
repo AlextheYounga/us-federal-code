@@ -14,7 +14,7 @@ Sec.
 
 415. Purchase of seeds and plants for distribution.
 
-415–1. Seed distribution.
+415–1. Repealed.
 
 415a. Omitted.
 

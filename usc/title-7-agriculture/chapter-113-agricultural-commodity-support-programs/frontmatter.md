@@ -12,11 +12,7 @@ Sec.
 
 8712. Payment yields.
 
-8713. Availability of direct payments.
-
-8714. Availability of counter-cyclical payments.
-
-8715. Average crop revenue election program.
+8713 to 8715. Repealed.
 
 8716. Producer agreement required as condition of provision of payments.
 
@@ -54,9 +50,7 @@ Sec.
 
 8752. Base acres for peanuts for a farm.
 
-8753. Availability of direct payments for peanuts.
-
-8754. Availability of counter-cyclical payments for peanuts.
+8753, 8754. Repealed.
 
 8755. Producer agreement required as condition on provision of payments.
 
@@ -68,7 +62,7 @@ Sec.
 
 #### SUBCHAPTER IV—DAIRY ####
 
-8771. Dairy product price support program.
+8771. Repealed.
 
 8772. Dairy forward pricing program.
 

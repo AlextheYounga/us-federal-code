@@ -14,6 +14,8 @@ Sec.
 
 1755a. Whole grain products.
 
+1755b. Pulse crop products.
+
 1756. Payments to States.
 
 1757. State disbursement to schools.

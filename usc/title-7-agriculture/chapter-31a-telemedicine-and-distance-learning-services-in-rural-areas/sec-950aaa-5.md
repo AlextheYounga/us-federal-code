@@ -1,8 +1,8 @@
 ### §950aaa–5. Authorization of appropriations ###
 
-There are authorized to be appropriated to carry out this chapter $100,000,000 for each of fiscal years 1996 through 2012.
+There are authorized to be appropriated to carry out this chapter $75,000,000 for each of fiscal years 2014 through 2018.
 
-(Pub. L. 101–624, title XXIII, §2335A, as added Pub. L. 104–127, title VII, §704, Apr. 4, 1996, 110 Stat. 1112; amended Pub. L. 107–171, title VI, §6203(a), May 13, 2002, 116 Stat. 421; Pub. L. 110–234, title VI, §6201(b), May 22, 2008, 122 Stat. 1206; Pub. L. 110–246, §4(a), title VI, §6201(b), June 18, 2008, 122 Stat. 1664, 1967.)
+(Pub. L. 101–624, title XXIII, §2335A, as added Pub. L. 104–127, title VII, §704, Apr. 4, 1996, 110 Stat. 1112; amended Pub. L. 107–171, title VI, §6203(a), May 13, 2002, 116 Stat. 421; Pub. L. 110–234, title VI, §6201(b), May 22, 2008, 122 Stat. 1206; Pub. L. 110–246, §4(a), title VI, §6201(b), June 18, 2008, 122 Stat. 1664, 1967; Pub. L. 113–79, title VI, §6201(a), Feb. 7, 2014, 128 Stat. 856.)
 
 #### Termination of Section ####
 
@@ -17,6 +17,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 A prior section 950aaa–5, Pub. L. 101–624, title XXIII, §2335A, as added Pub. L. 102–551, §1(a), Oct. 28, 1992, 106 Stat. 4098; amended Pub. L. 103–354, title II, §235(b)(4)(C), Oct. 13, 1994, 108 Stat. 3222, related to special health care and distance learning program for qualified service areas, prior to the general amendment of this chapter by Pub. L. 104–127.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–79 substituted “$75,000,000 for each of fiscal years 2014 through 2018” for “$100,000,000 for each of fiscal years 1996 through 2012”.
 
 **2008**—Pub. L. 110–246, §6201(b), substituted “2012” for “2007”.
 

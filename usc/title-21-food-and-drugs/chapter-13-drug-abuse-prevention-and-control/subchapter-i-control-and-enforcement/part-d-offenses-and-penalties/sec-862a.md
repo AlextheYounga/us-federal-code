@@ -6,7 +6,7 @@ An individual convicted (under Federal or State law) of any offense which is cla
 
 (1) assistance under any State program funded under part A of title IV of the Social Security Act [42 U.S.C. 601 et seq.], or
 
-(2) benefits under the food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977 [7 U.S.C. 2012(l)]) or any State program carried out under the Food Stamp Act of 1977 [7 U.S.C. 2011 et seq.].
+(2) benefits under the supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012)) or any State program carried out under that Act [7 U.S.C. 2011 et seq.].
 
 #### (b) Effects on assistance and benefits for others ####
 
@@ -14,9 +14,9 @@ An individual convicted (under Federal or State law) of any offense which is cla
 
 The amount of assistance otherwise required to be provided under a State program funded under part A of title IV of the Social Security Act [42 U.S.C. 601 et seq.] to the family members of an individual to whom subsection (a) of this section applies shall be reduced by the amount which would have otherwise been made available to the individual under such part.
 
-#### (2) Benefits under the Food Stamp Act of 1977 ####
+#### (2) Benefits under the Food and Nutrition Act of 2008 ####
 
-The amount of benefits otherwise required to be provided to a household under the food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977 [7 U.S.C. 2012(l)]), or any State program carried out under the Food Stamp Act of 1977 [7 U.S.C. 2011 et seq.], shall be determined by considering the individual to whom subsection (a) of this section applies not to be a member of such household, except that the income and resources of the individual shall be considered to be income and resources of the household.
+The amount of benefits otherwise required to be provided to a household under the supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012)), or any State program carried out under that Act [7 U.S.C. 2011 et seq.], shall be determined by considering the individual to whom subsection (a) of this section applies not to be a member of such household, except that the income and resources of the individual shall be considered to be income and resources of the household.
 
 #### (c) Enforcement ####
 
@@ -44,7 +44,7 @@ For purposes of this section, the term “State” has the meaning given it—
 
 (1) in section 419(5) of the Social Security Act [42 U.S.C. 619(5)], when referring to assistance provided under a State program funded under part A of title IV of the Social Security Act [42 U.S.C. 601 et seq.], and
 
-(2) in section 3(s) of the Food Stamp Act of 1977 [7 U.S.C. 2012(s)], when referring to the food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977 [7 U.S.C. 2012(l)]) or any State program carried out under the Food Stamp Act of 1977 [7 U.S.C. 2011 et seq.].
+(2) in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012), when referring to the supplemental nutrition assistance program (as defined in that section) or any State program carried out under that Act [7 U.S.C. 2011 et seq.].
 
 #### (f) Rule of interpretation ####
 
@@ -64,13 +64,13 @@ Nothing in this section shall be construed to deny the following Federal benefit
 
 (6) Drug treatment programs.
 
-(Pub. L. 104–193, title I, §115, Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title V, §5516(a), Aug. 5, 1997, 111 Stat. 620; Pub. L. 110–234, title IV, §4115(c)(2)(C), May 22, 2008, 122 Stat. 1109; Pub. L. 110–246, §4(a), title IV, §4115(c)(2)(C), June 18, 2008, 122 Stat. 1664, 1871.)
+(Pub. L. 104–193, title I, §115, Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title V, §5516(a), Aug. 5, 1997, 111 Stat. 620; Pub. L. 110–234, title IV, §4115(c)(2)(C), May 22, 2008, 122 Stat. 1109; Pub. L. 110–246, §4(a), title IV, §4115(c)(2)(C), June 18, 2008, 122 Stat. 1664, 1871; Pub. L. 113–79, title IV, §4030(n), Feb. 7, 2014, 128 Stat. 814.)
 
 #### References in Text ####
 
 The Social Security Act, referred to in subsecs. (a)(1), (b)(1), (e)(1), and (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-The Food Stamp Act of 1977, referred to in subsecs. (a)(2), (b)(2), and (e)(2), subsequently renamed the Food and Nutrition Act of 2008, is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsecs. (a)(2), (b)(2), and (e)(2), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 #### Codification ####
 
@@ -79,6 +79,12 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, and not as part of the Controlled Substances Act which comprises this subchapter.
 
 #### Amendments ####
+
+**2014**—Subsec. (a)(2). Pub. L. 113–79, §4030(n)(1), substituted “supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012)) or any State program carried out under that Act” for “food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977) or any State program carried out under the Food Stamp Act of 1977”.
+
+Subsec. (b)(2). Pub. L. 113–79, §4030(n)(2), substituted “supplemental nutrition assistance program (as defined in section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012)), or any State program carried out under that Act” for “food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977), or any State program carried out under the Food Stamp Act of 1977”.
+
+Subsec. (e)(2). Pub. L. 113–79, §4030(n)(3), substituted “section 3 of the Food and Nutrition Act of 2008 (7 U.S.C. 2012), when referring to the supplemental nutrition assistance program (as defined in that section) or any State program carried out under that Act” for “section 3(s) of the Food Stamp Act of 1977, when referring to the food stamp program (as defined in section 3(l) of the Food Stamp Act of 1977) or any State program carried out under the Food Stamp Act of 1977”.
 
 **2008**—Subsecs. (a)(2), (b)(2). Pub. L. 110–246, §4115(c)(2)(C)(i), substituted “section 3(l)” for “section 3(h)”.
 

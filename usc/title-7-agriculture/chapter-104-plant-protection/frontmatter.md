@@ -68,7 +68,7 @@ Sec.
 
 7760. State terminal inspection; transmission of mailed packages for State inspection; nonmailable matter; punishment for violations; rules and regulations by United States Postal Service.
 
-7761. National Clean Plant Network.
+7761. Repealed.
 
 #### SUBCHAPTER IV—AUTHORIZATION OF APPROPRIATIONS ####
 

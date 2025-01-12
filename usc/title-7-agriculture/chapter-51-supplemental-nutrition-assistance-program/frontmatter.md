@@ -57,3 +57,7 @@ Sec.
 2036. Availability of commodities for emergency food assistance program.
 
 2036a. Nutrition education and obesity prevention grant program.
+
+2036b. Retail food store and recipient trafficking.
+
+2036c. Annual State report on verification of SNAP participation.

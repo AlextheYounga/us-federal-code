@@ -66,15 +66,13 @@ Sec.
 
 5921. Biotechnology risk assessment research.
 
-5921a, 5922. Repealed.
-
-5923. Rural electronic commerce extension program.
+5921a to 5923. Repealed.
 
 5924. Agricultural Genome Initiative.
 
 5925. High-priority research and extension initiatives.
 
-5925a. Nutrient management research and extension initiative.
+5925a. Repealed.
 
 5925b. Organic agriculture research and extension initiative.
 
@@ -82,13 +80,13 @@ Sec.
 
 5925d. International organic research collaboration.
 
-5925e. Agricultural bioenergy feedstock and energy efficiency research and extension initiative.
+5925e. Repealed.
 
 5925f. Farm business management.
 
-5926 to 5928. Repealed.
+5926. Centers of excellence.
 
-5929. Red meat safety research center.
+5927 to 5929. Repealed.
 
 5930. Reservation extension agents.
 
@@ -96,12 +94,14 @@ Sec.
 
 5933. Assistive technology program for farmers with disabilities.
 
-5934. Repealed.
-
-5935. Use of remote sensing data and other data to anticipate potential food, feed, and fiber shortages or excesses and to provide timely information to assist farmers with planting decisions.
+5934, 5935. Repealed.
 
 5936. Farm and Ranch Stress Assistance Network.
 
 5937. Natural products research program.
 
-5938. Agricultural and rural transportation research and education.
+5938. Repealed.
+
+5939. Foundation for Food and Agriculture Research.
+
+5940. Legitimacy of industrial hemp research.

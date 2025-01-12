@@ -1,18 +1,30 @@
 ### §49. Enforcement of animal fighting prohibitions ###
 
-Whoever violates subsection (a), (b), (c), or (e) of section 26 of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 5 years, or both, for each violation.
+#### (a) In general ####
 
-(Added Pub. L. 110–22, §2(a), May 3, 2007, 121 Stat. 88; amended Pub. L. 110–234, title XIV, §14207(b), May 22, 2008, 122 Stat. 1462; Pub. L. 110–246, §4(a), title XIV, §14207(b), June 18, 2008, 122 Stat. 1664, 2224.)
+Whoever violates subsection (a)(1), (b), (c), or (e) of section 26 of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 5 years, or both, for each violation.
+
+#### (b) Attending an animal fighting venture ####
+
+Whoever violates subsection (a)(2)(A) of section 26 of the Animal Welfare Act (7 U.S.C. 2156) shall be fined under this title, imprisoned for not more than 1 year, or both, for each violation.
+
+#### (c) Causing an individual who has not attained the age of 16 to attend an animal fighting venture ####
+
+Whoever violates subsection (a)(2)(B) of section 26 (7 U.S.C. 2156) of the Animal Welfare Act shall be fined under this title, imprisoned for not more than 3 years, or both, for each violation.
+
+(Added Pub. L. 110–22, §2(a), May 3, 2007, 121 Stat. 88; amended Pub. L. 110–234, title XIV, §14207(b), May 22, 2008, 122 Stat. 1462; Pub. L. 110–246, §4(a), title XIV, §14207(b), June 18, 2008, 122 Stat. 1664, 2224; Pub. L. 113–79, title XII, §12308(b)(2), Feb. 7, 2014, 128 Stat. 991.)
 
 #### References in Text ####
 
-Section 26(a)–(c), (e) of the Animal Welfare Act, referred to in text, is section 2156(a)–(c), (e) of Title 7, Agriculture.
+Section 26 of the Animal Welfare Act, referred to in text, is section 2156 of Title 7, Agriculture.
 
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–79 designated existing provisions as subsec. (a) and inserted heading, substituted “subsection (a)(1),” for “subsection (a),”, and added subsecs. (b) and (c).
 
 **2008**—Pub. L. 110–246, §14207(b), substituted “5 years” for “3 years”.
 

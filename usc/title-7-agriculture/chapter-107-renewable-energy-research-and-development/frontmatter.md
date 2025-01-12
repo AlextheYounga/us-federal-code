@@ -6,7 +6,7 @@ Sec.
 
 8102. Biobased markets program.
 
-8103. Biorefinery assistance.
+8103. Biorefinery, renewable chemical, and biobased product manufacturing assistance.
 
 8104. Repowering assistance.
 
@@ -16,6 +16,8 @@ Sec.
 
 8107. Rural Energy for America Program.
 
+8107a. Rural energy savings program.
+
 8108. Biomass research and development.
 
 8109. Rural Energy Self-Sufficiency Initiative.
@@ -24,7 +26,7 @@ Sec.
 
 8111. Biomass Crop Assistance Program.
 
-8112. Forest biomass for energy.
+8112. Repealed.
 
 8113. Community wood energy program.
 

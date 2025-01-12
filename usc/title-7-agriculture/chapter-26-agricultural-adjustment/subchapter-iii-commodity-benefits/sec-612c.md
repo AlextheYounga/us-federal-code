@@ -132,7 +132,7 @@ Pub. L. 100–435, title V, §502, Sept. 19, 1988, 102 Stat. 1671, authorized Se
 
 #### Commodity Distribution Reform ####
 
-Pub. L. 100–237, §§1–4, 7, 13–19, Jan. 8, 1988, 101 Stat. 1733, 1739, 1740, 1742, 1743, as amended by Pub. L. 101–624, title XVII, §§1772(h)(3), (4), 1773(a)–(e), Nov. 28, 1990, 104 Stat. 3809–3811; Pub. L. 102–342, title IV, §401, Aug. 14, 1992, 106 Stat. 914; Pub. L. 103–448, title III, §303, Nov. 2, 1994, 108 Stat. 4750; Pub. L. 105–336, title III, §§301, 302, Oct. 31, 1998, 112 Stat. 3167, 3168; Pub. L. 106–78, title VII, §752(b)(1), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–472, title III, §307(a), Nov. 9, 2000, 114 Stat. 2073; Pub. L. 107–171, title IV, §4202(a), May 13, 2002, 116 Stat. 329; Pub. L. 108–134, §3, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §3, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title III, §301, June 30, 2004, 118 Stat. 788, provided that:
+Pub. L. 100–237, §§1–4, 7, 13–19, Jan. 8, 1988, 101 Stat. 1733, 1739, 1740, 1742, 1743, as amended by Pub. L. 101–624, title XVII, §§1772(h)(3), (4), 1773(a)–(e), Nov. 28, 1990, 104 Stat. 3809–3811; Pub. L. 102–342, title IV, §401, Aug. 14, 1992, 106 Stat. 914; Pub. L. 103–448, title III, §303, Nov. 2, 1994, 108 Stat. 4750; Pub. L. 105–336, title III, §§301, 302, Oct. 31, 1998, 112 Stat. 3167, 3168; Pub. L. 106–78, title VII, §752(b)(1), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–472, title III, §307(a), Nov. 9, 2000, 114 Stat. 2073; Pub. L. 107–171, title IV, §4202(a), May 13, 2002, 116 Stat. 329; Pub. L. 108–134, §3, Nov. 22, 2003, 117 Stat. 1389; Pub. L. 108–211, §3, Mar. 31, 2004, 118 Stat. 566; Pub. L. 108–265, title III, §301, June 30, 2004, 118 Stat. 788; Pub. L. 113–79, title IV, §4104, Feb. 7, 2014, 128 Stat. 820, provided that:
 
 #### “SECTION 1. SHORT TITLE. ####
 
@@ -170,7 +170,7 @@ Pub. L. 100–237, §§1–4, 7, 13–19, Jan. 8, 1988, 101 Stat. 1733, 1739, 17
 
 “(A) the commodity distribution and commodity supplemental food programs established under sections 4(a) and 5 of the Agriculture and Consumer Protection Act of 1973 [Pub. L. 93–86] (7 U.S.C. 612c note);
 
-“(B) the program established under section 4(b) of the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008] (7 U.S.C. 2013(b));
+“(B) the program established under section 4(b) of the Food and Nutrition Act of 2008 (7 U.S.C. 2013(b));
 
 “(C) the school lunch, commodity distribution, and child care food programs established under sections 6, 14, and 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1755, 1762a, and 1766);
 
@@ -200,7 +200,7 @@ Pub. L. 100–237, §§1–4, 7, 13–19, Jan. 8, 1988, 101 Stat. 1733, 1739, 17
 
 “(C) Members of the council shall serve without compensation but shall receive reimbursement for necessary travel and subsistence expenses incurred by them in the performance of the duties of the committee.
 
-“(D) The council shall report annually to the Secretary of Agriculture, the Committee on Education and Labor [now Education and the Workforce] and the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
+“(D) The council shall report annually to the Secretary of Agriculture, the Committee on Education and the Workforce and the Committee on Agriculture of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
 “(E) The council shall expire on September 30, 1996.
 
@@ -212,7 +212,7 @@ Pub. L. 100–237, §§1–4, 7, 13–19, Jan. 8, 1988, 101 Stat. 1733, 1739, 17
 
 “(i) to remove surplus stocks of agricultural commodities through the Commodity Credit Corporation;
 
-“(ii) to purchase surplus agriculture commodities through section 32 of the Agricultural Adjustment Act (7 U.S.C. 601 et seq.) [probably means section 32 of act Aug. 24, 1935, which is classified to section 612c of this title]; and
+“(ii) to purchase surplus agriculture commodities through section 32 of the Act of August 24, 1935 (7 U.S.C. 612c); and
 
 “(iii) to make direct purchases of agricultural commodities and other foods for distribution to recipient agencies under—
 
@@ -292,7 +292,7 @@ Pub. L. 100–237, §§1–4, 7, 13–19, Jan. 8, 1988, 101 Stat. 1733, 1739, 17
 
  “(I) the commodity distribution and commodity supplemental food programs established under sections 4(a) and 5 of the Agriculture and Consumer Protection Act of 1973 [Pub. L. 93–86] (7 U.S.C. 612c note);
 
- “(II) the program established under section 4(b) of the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008] (7 U.S.C. 2013(b)); and
+ “(II) the program established under section 4(b) of the Food and Nutrition Act of 2008 (7 U.S.C. 2013(b));
 
  “(III) the school lunch, commodity distribution, and child care food programs established under sections 6, 14, and 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1755, 1762a, and 1766);
 
@@ -336,7 +336,7 @@ Pub. L. 100–237, §§1–4, 7, 13–19, Jan. 8, 1988, 101 Stat. 1733, 1739, 17
 
 “(j) [Amended section 1755(e) of Title 42, The Public Health and Welfare.]
 
-“(k) Report.—Not later than January 1, 1989, the Secretary shall submit to the Committee on Education and Labor [now Education and the Workforce] and the Committee on Agriculture of the House of Representatives and to the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the implementation and operation of this section.
+“(k) Report.—Not later than January 1, 1989, the Secretary shall submit to the Committee on Education and the Workforce and the Committee on Agriculture of the House of Representatives and to the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the implementation and operation of this section.
 
 #### “SEC. 3A. ADVANCE FUNDING FOR STATE OPTION CONTRACTS. ####
 
@@ -412,7 +412,7 @@ Pub. L. 100–237, §§1–4, 7, 13–19, Jan. 8, 1988, 101 Stat. 1733, 1739, 17
 
 “(c) Payment.—Notwithstanding section 202(d) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483(d)) [now 40 U.S.C. 525], the Secretary shall not be required to make any payment in connection with the commodities received under subsection (a).
 
-#### “SEC. 17. COMMODITY DONATIONS. ####
+#### “SEC. 17. COMMODITY DONATIONS AND PROCESSING. ####
 
 “(a) In General.—Notwithstanding any other provision of law concerning commodity donations, any commodities acquired in the conduct of the operations of the Commodity Credit Corporation and any commodities acquired under section 32 of the Act of August 24, 1935 (7 U.S.C. 612c), to the extent that the commodities are in excess of the quantities of commodities that are essential to carry out other authorized activities of the Commodity Credit Corporation and the Secretary (including any quantity specifically reserved for a specific purpose), may be used for any program authorized to be carried out by the Secretary that involves the acquisition of commodities for use in a domestic feeding program, including any program conducted by the Secretary that provides commodities to individuals in cases of hardship.
 
@@ -428,13 +428,31 @@ Pub. L. 100–237, §§1–4, 7, 13–19, Jan. 8, 1988, 101 Stat. 1733, 1739, 17
 
 “(5) such other laws as the Secretary determines to be appropriate.
 
+“(c) Processing.—
+
+“(1) In general.—For any program included under subsection (b), the Secretary may, notwithstanding any other provision of Federal or State law relating to the procurement of goods and services—
+
+“(A) retain title to commodities delivered to a processor, on behalf of a State (including a State distributing agency and a recipient agency), until such time as end products containing the commodities, or similar commodities as approved by the Secretary, are delivered to a State distributing agency or to a recipient agency; and
+
+“(B) promulgate regulations to ensure accountability for commodities provided to a processor for processing into end products, and to facilitate processing of commodities into end products for use by recipient agencies.
+
+“(2) Regulations.—The regulations described in paragraph (1)(B) may provide that—
+
+“(A) a processor that receives commodities for processing into end products, or provides a service with respect to the commodities or end products, in accordance with the agreement of the processor with a State distributing agency or a recipient agency, provide to the Secretary a bond or other means of financial assurance to protect the value of the commodities; and
+
+“(B) in the event a processor fails to deliver to a State distributing agency or a recipient agency an end product in conformance with the processing agreement entered into under this Act, the Secretary—
+
+“(i) take action with respect to the bond or other means of financial assurance pursuant to regulations promulgated under this subsection; and
+
+“(ii) distribute any proceeds obtained by the Secretary to 1 or more State distributing agencies and recipient agencies, as determined appropriate by the Secretary.
+
 #### “SEC. 18. DEFINITIONS. ####
 
 “For purposes of this Act:
 
-“(1) The term ‘donated commodities’ means agricultural commodities and their products that are donated by the Secretary to recipient agencies.
+“(1) Commodities.—The term ‘commodities’ means agricultural commodities and their products that are donated by the Secretary for use by recipient agencies.
 
-“(2) The term ‘entitlement commodities’ means agricultural commodities and their products that are donated and charged by the Secretary against entitlements established under programs authorized by statute to receive such commodities.
+“(2) End product.—The term ‘end product’ means a food product that contains processed commodities.
 
 “(3) The term ‘recipient agency’ means—
 
@@ -520,9 +538,9 @@ Pub. L. 97–103, title VI, §620, Dec. 23, 1981, 95 Stat. 1490.
 
 #### Commodity Distribution Program; Purchase of Agricultural Commodities; Furnishing Commodities to Summer Camps ####
 
-Pub. L. 93–86, §4, Aug. 10, 1973, 87 Stat. 249, as amended by Pub. L. 93–347, §1, July 12, 1974, 88 Stat. 340; Pub. L. 94–273, §2(1), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–113, title XIII, §§1302(a)(1), 1304(a), Sept. 29, 1977, 91 Stat. 979, 980, Pub. L. 97–98, title XIII, §1334, Dec. 22, 1981, 95 Stat. 1292; Pub. L. 98–8, title II, §207, Mar. 24, 1983, 97 Stat. 36; Pub. L. 98–92, §3, Sept. 2, 1983, 97 Stat. 612; Pub. L. 99–198, title XV, §1562(a), Dec. 23, 1985, 99 Stat. 1590; Pub. L. 101–624, title XVII, §§1771(a), (b)(1), (c)(1), 1772(h)(2), Nov. 28, 1990, 104 Stat. 3806, 3807, 3809; Pub. L. 104–127, title IV, §402(a), Apr. 4, 1996, 110 Stat. 1028; Pub. L. 107–171, title IV, §4201(a), May 13, 2002, 116 Stat. 328; Pub. L. 110–234, title IV, §4406(b)(2), May 22, 2008, 122 Stat. 1141; Pub. L. 110–246, §4(a), title IV, §4406(b)(2), June 18, 2008, 122 Stat. 1664, 1903, provided that:
+Pub. L. 93–86, §4, Aug. 10, 1973, 87 Stat. 249, as amended by Pub. L. 93–347, §1, July 12, 1974, 88 Stat. 340; Pub. L. 94–273, §2(1), Apr. 21, 1976, 90 Stat. 375; Pub. L. 95–113, title XIII, §§1302(a)(1), 1304(a), Sept. 29, 1977, 91 Stat. 979, 980, Pub. L. 97–98, title XIII, §1334, Dec. 22, 1981, 95 Stat. 1292; Pub. L. 98–8, title II, §207, Mar. 24, 1983, 97 Stat. 36; Pub. L. 98–92, §3, Sept. 2, 1983, 97 Stat. 612; Pub. L. 99–198, title XV, §1562(a), Dec. 23, 1985, 99 Stat. 1590; Pub. L. 101–624, title XVII, §§1771(a), (b)(1), (c)(1), 1772(h)(2), Nov. 28, 1990, 104 Stat. 3806, 3807, 3809; Pub. L. 104–127, title IV, §402(a), Apr. 4, 1996, 110 Stat. 1028; Pub. L. 107–171, title IV, §4201(a), May 13, 2002, 116 Stat. 328; Pub. L. 110–234, title IV, §4406(b)(2), May 22, 2008, 122 Stat. 1141; Pub. L. 110–246, §4(a), title IV, §4406(b)(2), June 18, 2008, 122 Stat. 1664, 1903; Pub. L. 113–79, title IV, §§4030(t), 4101, Feb. 7, 2014, 128 Stat. 815, 819, provided that:
 
-“(a) Notwithstanding any other provision of law, the Secretary may, during fiscal years 2008 through 2012, purchase and distribute sufficient agricultural commodities with funds appropriated from the general fund of the Treasury to maintain the traditional level of assistance for food assistance programs as are authorized by law, including but not limited to distribution to institutions (including hospitals and facilities caring for needy infants and children), supplemental feeding programs serving women, infants, and children or elderly persons, or both, wherever located, disaster areas, summer camps for children, the United States Trust Territory of the Pacific Islands, and Indians, whenever a tribal organization requests distribution of federally donated foods pursuant to section 4(b) of the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008, 7 U.S.C. 2013(b)]. In providing for commodity distribution to Indians, the Secretary shall improve the variety and quantity of commodities supplied to Indians in order to provide them an opportunity to obtain a more nutritious diet.
+“(a) Notwithstanding any other provision of law, the Secretary may, during fiscal years 2008 through 2018, purchase and distribute sufficient agricultural commodities with funds appropriated from the general fund of the Treasury to maintain the traditional level of assistance for food assistance programs as are authorized by law, including but not limited to distribution to institutions (including hospitals and facilities caring for needy infants and children), supplemental feeding programs serving women, infants, and children or elderly persons, or both, wherever located, disaster areas, summer camps for children, the United States Trust Territory of the Pacific Islands, and Indians, whenever a tribal organization requests distribution of federally donated foods pursuant to section 4(b) of the Food and Nutrition Act of 2008 [7 U.S.C. 2013(b)]. In providing for commodity distribution to Indians, the Secretary shall improve the variety and quantity of commodities supplied to Indians in order to provide them an opportunity to obtain a more nutritious diet.
 
 “(b) The Secretary may furnish commodities to summer camps for children in which the number of adults participating in camp activities as compared with the number of children 18 years of age and under so participating is not unreasonable in light of the nature of such camp and the characteristics of the children in attendance.
 
@@ -542,11 +560,11 @@ Pub. L. 93–86, §4, Aug. 10, 1973, 87 Stat. 249, as amended by Pub. L. 93–34
 
 Pub. L. 107–171, title IV, §4201(c), May 13, 2002, 116 Stat. 329, directed Secretary of Agriculture, not later than 30 days after May 13, 2002, to allocate from the Commodity Credit Corporation the funds necessary for States to administer the commodity supplemental food program under the Agriculture and Consumer Protection Act of 1973 (7 U.S.C. 612c note; Public Law 93–86) through the 2002 caseload cycle.
 
-Pub. L. 93–86, §5, as added by Pub. L. 95–113, title XIII, §1304(b)(2), Sept. 29, 1977, 91 Stat. 980, and amended by Pub. L. 97–98, title XIII, §1335, Dec. 22, 1981, 95 Stat. 1293; Pub. L. 98–8, title II, §209, Mar. 24, 1983, 97 Stat. 36, as amended Pub. L. 98–92, §2(8), Sept. 2, 1983, 97 Stat. 611; Pub. L. 99–198, title XV, §1562(b), (c), (e)(2), Dec. 23, 1985, 99 Stat. 1590; Pub. L. 100–435, title I, §130, redesignated §5(d)(2) of Pub. L. 93–86 by Pub. L. 101–624, title XVII, §1774(c)(2)(A), (B), Nov. 28, 1990, 104 Stat. 3813; Pub. L. 101–624, title XVII, §§1771(c)(2)–(f), 1774(c)(2)(C), Nov. 28, 1990, 104 Stat. 3807, 3808, 3813; Pub. L. 102–237, title I, §118(a), title IX, §922(c), Dec. 13, 1991, 105 Stat. 1841, 1889; Pub. L. 104–127, title IV, §402(b), Apr. 4, 1996, 110 Stat. 1028; Pub. L. 104–193, title I, §109(f), Aug. 22, 1996, 110 Stat. 2170; Pub. L. 105–33, title V, §5514(b), Aug. 5, 1997, 111 Stat. 620; Pub. L. 107–171, title IV, §4201(b), May 13, 2002, 116 Stat. 328; Pub. L. 110–234, title IV, §§4221, 4406(b)(3), May 22, 2008, 122 Stat. 1124, 1141; Pub. L. 110–246, §4(a), title IV, §§4221, 4406(b)(3), June 18, 2008, 122 Stat. 1664, 1886, 1903, provided that:
+Pub. L. 93–86, §5, as added by Pub. L. 95–113, title XIII, §1304(b)(2), Sept. 29, 1977, 91 Stat. 980, and amended by Pub. L. 97–98, title XIII, §1335, Dec. 22, 1981, 95 Stat. 1293; Pub. L. 98–8, title II, §209, Mar. 24, 1983, 97 Stat. 36, as amended Pub. L. 98–92, §2(8), Sept. 2, 1983, 97 Stat. 611; Pub. L. 99–198, title XV, §1562(b), (c), (e)(2), Dec. 23, 1985, 99 Stat. 1590; Pub. L. 100–435, title I, §130, redesignated §5(d)(2) of Pub. L. 93–86 by Pub. L. 101–624, title XVII, §1774(c)(2)(A), (B), Nov. 28, 1990, 104 Stat. 3813; Pub. L. 101–624, title XVII, §§1771(c)(2)–(f), 1774(c)(2)(C), Nov. 28, 1990, 104 Stat. 3807, 3808, 3813; Pub. L. 102–237, title I, §118(a), title IX, §922(c), Dec. 13, 1991, 105 Stat. 1841, 1889; Pub. L. 104–127, title IV, §402(b), Apr. 4, 1996, 110 Stat. 1028; Pub. L. 104–193, title I, §109(f), Aug. 22, 1996, 110 Stat. 2170; Pub. L. 105–33, title V, §5514(b), Aug. 5, 1997, 111 Stat. 620; Pub. L. 107–171, title IV, §4201(b), May 13, 2002, 116 Stat. 328; Pub. L. 110–234, title IV, §§4221, 4406(b)(3), May 22, 2008, 122 Stat. 1124, 1141; Pub. L. 110–246, §4(a), title IV, §§4221, 4406(b)(3), June 18, 2008, 122 Stat. 1664, 1886, 1903; Pub. L. 113–79, title IV, §§4030(u), 4102, Feb. 7, 2014, 128 Stat. 815, 819, provided that:
 
 “(a) Grants Per Assigned Caseload Slot.—
 
-“(1) In general.—In carrying out the program under section 4 [set out as a note above] (referred to in this section as the ‘commodity supplemental food program’), for each of fiscal years 2008 through 2012, the Secretary shall provide to each State agency from funds made available to carry out that section (including any such funds remaining available from the preceding fiscal year), a grant per assigned caseload slot for administrative costs incurred by the State agency and local agencies in the State in operating the commodity supplemental food program.
+“(1) In general.—In carrying out the program under section 4 [set out as a note above] (referred to in this section as the ‘commodity supplemental food program’), for each of fiscal years 2008 through 2018, the Secretary shall provide to each State agency from funds made available to carry out that section (including any such funds remaining available from the preceding fiscal year), a grant per assigned caseload slot for administrative costs incurred by the State agency and local agencies in the State in operating the commodity supplemental food program.
 
 “(2) Amount of grants.—
 
@@ -556,7 +574,7 @@ Pub. L. 93–86, §5, as added by Pub. L. 95–113, title XIII, §1304(b)(2), Se
 
 “(ii) the value of that index for the 12-month period ending June 30, 2002.
 
-“(B) Subsequent fiscal years.—For each of fiscal years 2004 through 2012, the amount of each grant per assigned caseload slot shall be equal to the amount of the grant per assigned caseload slot for the preceding fiscal year, adjusted by the percentage change between—
+“(B) Subsequent fiscal years.—For each of fiscal years 2004 through 2018, the amount of each grant per assigned caseload slot shall be equal to the amount of the grant per assigned caseload slot for the preceding fiscal year, adjusted by the percentage change between—
 
 “(i) the value of the State and local government price index, as published by the Bureau of Economic Analysis of the Department of Commerce, for the 12-month period ending June 30 of the second preceding fiscal year; and
 
@@ -568,21 +586,17 @@ Pub. L. 93–86, §5, as added by Pub. L. 95–113, title XIII, §1304(b)(2), Se
 
 “(d)(1) During each fiscal year the commodity supplemental food program is in operation, the types and varieties of commodities and their proportional amounts shall be determined by the Secretary, but, if the Secretary proposes to make any significant changes in the types, varieties, or proportional amounts from those that were available or were planned at the beginning of the fiscal year (or as were available during the fiscal year ending June 30, 1976, whichever is greater) the Secretary shall report such changes before implementation to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.
 
-“(2) Notwithstanding any other provision of law, the Commodity Credit Corporation shall, to the extent that the Commodity Credit Corporation inventory levels permit, provide not less than 9,000,000 pounds of cheese and not less than 4,000,000 pounds of nonfat dry milk in each of fiscal years 2008 through 2012 to the Secretary of Agriculture. The Secretary shall use such amounts of cheese and nonfat dry milk to carry out the commodity supplemental food program before the end of each fiscal year.
+“(2) Notwithstanding any other provision of law, the Commodity Credit Corporation shall, to the extent that the Commodity Credit Corporation inventory levels permit, provide not less than 9,000,000 pounds of cheese and not less than 4,000,000 pounds of nonfat dry milk in each of fiscal years 2008 through 2018 to the Secretary of Agriculture. The Secretary shall use such amounts of cheese and nonfat dry milk to carry out the commodity supplemental food program before the end of each fiscal year.
 
 “(e) The Secretary of Agriculture is authorized to issue such regulations as may be necessary to carry out the commodity supplemental food program.
 
 “(f) The Secretary shall, in any fiscal year, approve applications of additional sites for the program, including sites that serve only elderly persons, in areas in which the program currently does not operate to the full extent that this can be done within the appropriations available for the program for the fiscal year and without reducing actual participation levels (including participation of elderly persons under subsection (g)) in areas in which the program is in effect.
 
-“(g) Prohibition.—Notwithstanding any other provision of law (including regulations), the Secretary may not require a State or local agency to prioritize assistance to a particular group of individuals that are—
-
-“(1) low-income persons aged 60 and older; or
-
-“(2) women, infants, and children.
+“(g) Eligibility.—Except as provided in subsection (m), the States shall only provide assistance under the commodity supplemental food program to low-income persons aged 60 and older.
 
 “(h) Each State agency administering a commodity supplemental food program serving women, infants, and children shall—
 
-“(1) ensure that written information concerning food stamps, the State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), and the child support enforcement program under part D of title IV of the Social Security Act (42 U.S.C. 651 et seq.) is provided on at least one occasion to each adult who applies for or participates in the commodity supplemental food program;
+“(1) ensure that written information concerning the supplemental nutrition assistance program, the State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), and the child support enforcement program under part D of title IV of the Social Security Act (42 U.S.C. 651 et seq.) is provided on at least one occasion to each adult who applies for or participates in the commodity supplemental food program;
 
 “(2) provide each local agency with materials showing the maximum income limits, according to family size, applicable to pregnant women, infants, and children up to age 6 under the medical assistance program established under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) (hereinafter referred to in this section as the ‘medicaid program’) which materials may be identical to those provided under section 17(e)(3) of the Child Nutrition Act of 1966 (42 U.S.C. 1786(e)(3)); and
 
@@ -590,7 +604,7 @@ Pub. L. 93–86, §5, as added by Pub. L. 95–113, title XIII, §1304(b)(2), Se
 
 “(i) Each State agency administering a commodity supplemental food program serving elderly persons shall ensure that written information is provided on at least one occasion to each elderly participant in or applicant for the commodity supplemental food program for the elderly concerning—
 
-“(1) food stamps provided under the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008] (7 U.S.C. 2011 et seq.);
+“(1) supplemental nutrition assistance benefits provided under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.);
 
 “(2) the supplemental security income benefits provided under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.); and
 
@@ -620,13 +634,15 @@ Pub. L. 93–86, §5, as added by Pub. L. 95–113, title XIII, §1304(b)(2), Se
 
 “(A) this Act [see Short Title of 1973 Amendment note set out under section 1281 of this title];
 
-“(B) the Food Stamp Act of 1977 [now the Food and Nutrition Act of 2008] (7 U.S.C. 2011 et seq.);
+“(B) the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.);
 
 “(C) the Emergency Food Assistance Act of 1983 (7 U.S.C. 7501 et seq.);
 
 “(D) the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.); or
 
-“(E) the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).”
+“(E) the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.).
+
+“(m) Phase-Out.—Notwithstanding any other provision of law, an individual who receives assistance under the commodity supplemental food program on the day before the date of enactment of this subsection [Feb. 7, 2014] shall continue to receive that assistance until the date on which the individual is no longer eligible for assistance under the eligibility requirements for the program in effect on the day before the date of enactment of this subsection.”
 
 [Amendment by Pub. L. 107–171 [amending section 5 of Pub. L. 93–86, set out above] effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.]
 

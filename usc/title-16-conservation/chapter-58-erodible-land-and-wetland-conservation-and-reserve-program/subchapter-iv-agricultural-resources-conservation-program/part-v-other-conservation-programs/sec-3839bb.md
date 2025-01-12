@@ -128,9 +128,9 @@ The activities of a grazing management district shall be scientifically sound ac
 
 #### (e) Authorization of appropriations ####
 
-There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2012.
+There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2002 through 2018.
 
-(Pub. L. 99–198, title XII, §1240M, as added Pub. L. 104–127, title III, §335, Apr. 4, 1996, 110 Stat. 1002; amended Pub. L. 107–171, title II, §2502(a), May 13, 2002, 116 Stat. 264; Pub. L. 110–234, title II, §2601, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, §4(a), title II, §2601, June 18, 2008, 122 Stat. 1664, 1796.)
+(Pub. L. 99–198, title XII, §1240M, as added Pub. L. 104–127, title III, §335, Apr. 4, 1996, 110 Stat. 1002; amended Pub. L. 107–171, title II, §2502(a), May 13, 2002, 116 Stat. 264; Pub. L. 110–234, title II, §2601, May 22, 2008, 122 Stat. 1068; Pub. L. 110–246, §4(a), title II, §2601, June 18, 2008, 122 Stat. 1664, 1796; Pub. L. 113–79, title II, §2501, Feb. 7, 2014, 128 Stat. 751.)
 
 #### References in Text ####
 
@@ -141,6 +141,8 @@ The Agricultural Adjustment Act, referred to in subsec. (d)(3)(E), is title I of
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments ####
+
+**2014**—Subsec. (e). Pub. L. 113–79 substituted “2018” for “2012”.
 
 **2008**—Subsec. (e). Pub. L. 110–246, §2601, substituted “2012” for “2007”.
 

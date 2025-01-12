@@ -38,7 +38,7 @@ Sec.
 
 6518. National Organic Standards Board.
 
-6519. Violations of chapter.
+6519. Recordkeeping, investigations, and enforcement.
 
 6520. Administrative appeal.
 

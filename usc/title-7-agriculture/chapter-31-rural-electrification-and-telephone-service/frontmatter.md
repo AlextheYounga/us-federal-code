@@ -12,7 +12,7 @@ Sec.
 
 904. Loans for electrical plants and transmission lines.
 
-905. Repealed.
+905. Fees for certain loan guarantees.
 
 906. Funding for administrative expenses.
 
@@ -169,3 +169,5 @@ Sec.
 950bb. Access to broadband telecommunications services in rural areas.
 
 950bb–1. National Center for Rural Telecommunications Assessment.
+
+950bb–2. Rural Gigabit Network Pilot Program.

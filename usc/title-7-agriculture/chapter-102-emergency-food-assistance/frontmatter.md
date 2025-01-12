@@ -36,7 +36,7 @@ Sec.
 
 7516. Settlement and adjustment of claims.
 
-7517. Hunger-free communities.
+7517. Food insecurity nutrition incentive.
 
 #### Codification ####
 
