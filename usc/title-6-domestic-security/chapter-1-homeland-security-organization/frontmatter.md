@@ -338,6 +338,8 @@ Sec.
 
 321p. National planning and education.
 
+321q. Coordination of Department of Homeland Security efforts related to food, agriculture, and veterinary defense against terrorism.
+
 #### SUBCHAPTER VI—TREATMENT OF CHARITABLE TRUSTS FOR MEMBERS OF THE ARMED FORCES OF THE UNITED STATES AND OTHER GOVERNMENTAL ORGANIZATIONS ####
 
 331. Treatment of charitable trusts for members of the Armed Forces of the United States and other governmental organizations.
