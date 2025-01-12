@@ -60,6 +60,42 @@ Provisions similar to those in this section were contained in section 115(b)(5) 
 
 “(2) include in each manpower requirements report submitted under section 115a of this title a complete justification for converting from one form of personnel to another.”
 
+#### Strategic Policy for the Retrograde, Reconstitution, and Replacement of Operating Forces Used To Support Overseas Contingency Operations ####
+
+Pub. L. 113–66, div. A, title III, §324, Dec. 26, 2013, 127 Stat. 733, provided that:
+
+“(a) Establishment of Policy.—
+
+“(1) In general.—The Secretary of Defense shall establish a policy setting forth the programs and priorities of the Department of Defense for the retrograde, reconstitution, and replacement of units and materiel used to support overseas contingency operations. The policy shall take into account national security threats, the requirements of the combatant commands, the current readiness of the operating forces of the military departments, and risk associated with strategic depth and the time necessary to reestablish required personnel, equipment, and training readiness in such operating forces.
+
+“(2) Elements.—The policy required under paragraph (1) shall include the following elements:
+
+“(A) Establishment and assignment of responsibilities and authorities within the Department for oversight and execution of the planning, organization, and management of the programs to reestablish the readiness of redeployed operating forces.
+
+“(B) Guidance concerning priorities, goals, objectives, timelines, and resources to reestablish the readiness of redeployed operating forces in support of national defense objectives and combatant command requirements.
+
+“(C) Oversight reporting requirements and metrics for the evaluation of Department of Defense and military department progress on restoring the readiness of redeployed operating forces in accordance with the policy required under paragraph (1).
+
+“(D) A framework for joint departmental reviews of military services’ annual budgets proposed for retrograde, reconstitution, or replacement activities, including an assessment of the strategic and operational risk assumed by the proposed levels of investment across the Department of Defense.
+
+“(b) Implementation Plan.—
+
+“(1) In general.—Not later than 90 days after the date of the enactment of this Act [Dec. 26, 2013], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan for implementation of the policy required under this section.
+
+“(2) Elements.—The implementation plan required under paragraph (1) shall include the following elements:
+
+“(A) The assignment of responsibilities and authorities for oversight and execution of the planning, organization, and management of the programs to reestablish the readiness of redeployed operating forces.
+
+“(B) Establishment of priorities, goals, objectives, timelines, and resources to reestablish the readiness of redeployed operating forces in support of national defense objectives and combatant command requirements.
+
+“(C) A description of how the plan will be implemented, including a schedule with milestones to meet the goals of the plan.
+
+“(D) An estimate of the resources by military service and by year required to implement the plan, including an assessment of the risks assumed in the plan.
+
+“(3) Updates.—Not later than one year after submitting the plan required under paragraph (1), and annually thereafter for two years, the Secretary of Defense shall submit to the congressional defense committees an update on progress toward meeting the goals of the plan.
+
+“(c) Comptroller General Report.—Not later than 120 days after the date of the enactment of this Act, and annually after the submittal of each update to the implementation plan under subsection (b), the Comptroller General of the United States shall review the implementation plan submitted under subsection (b) and the policy required by subsection (a), and submit to the congressional defense committees a report describing the findings of such review and progress made toward meeting the goals of the plan and including any additional information relating to the policy and plan that the Comptroller General determines appropriate.”
+
 #### Savings To Be Achieved in Civilian Personnel Workforce and Service Contractor Workforce of the Department of Defense ####
 
 Pub. L. 112–239, div. A, title IX, §955, Jan. 2, 2013, 126 Stat. 1896, provided that:

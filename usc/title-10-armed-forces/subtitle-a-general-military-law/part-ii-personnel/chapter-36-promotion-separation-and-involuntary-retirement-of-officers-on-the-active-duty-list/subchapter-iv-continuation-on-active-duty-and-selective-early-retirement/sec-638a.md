@@ -10,9 +10,9 @@
 
 (2) Providing that regular officers on the active-duty list may be considered for early retirement by a selection board convened under section 611(b) of this title in the case of officers described in any of subparagraphs (A) through (C) as follows:
 
-(A) Officers in the regular grade of lieutenant colonel or commander who would be subject to consideration for selection for early retirement under section 638(a)(1)(A) of this title except that they have failed of selection for promotion only one time (rather than two or more times).
+(A) Officers in the regular grade of lieutenant colonel or commander who have failed of selection for promotion at least one time and whose names are not on a list of officers recommended for promotion.
 
-(B) Officers in the regular grade of colonel or, in the case of the Navy, captain who would be subject to consideration for selection for early retirement under section 638(a)(1)(B) of this title except that they have served on active duty in that grade less than four years (but not less than two years).
+(B) Officers in the regular grade of colonel or, in the case of the Navy, captain who have served on active duty in that grade for at least two years and whose names are not on a list of officers recommended for promotion.
 
 (C) Officers, other than those described in subparagraphs (A) and (B), holding a regular grade below the grade of colonel, or in the case of the Navy, captain, who are eligible for retirement under section 3911, 6323, or 8911 of this title, or who after two additional years or less of active service would be eligible for retirement under one of those sections and whose names are not on a list of officers recommended for promotion.
 
@@ -56,7 +56,7 @@
 
 (e) The discharge or retirement of an officer pursuant to this section shall be considered to be involuntary for purposes of any other provision of law.
 
-(Added Pub. L. 101–510, div. A, title V, §521(a)(1), Nov. 5, 1990, 104 Stat. 1559; amended Pub. L. 102–190, div. A, title V, §503(b), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 102–484, div. A, title V, §503, title LXIV, §4403(g)(2), Oct. 23, 1992, 106 Stat. 2402, 2703; Pub. L. 103–160, div. A, title V, §561(b), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(c), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 [[div. A], title V, §571(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 109–364, div. A, title VI, §623(b), Oct. 17, 2006, 120 Stat. 2256; Pub. L. 112–239, div. A, title V, §502, Jan. 2, 2013, 126 Stat. 1714.)
+(Added Pub. L. 101–510, div. A, title V, §521(a)(1), Nov. 5, 1990, 104 Stat. 1559; amended Pub. L. 102–190, div. A, title V, §503(b), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 102–484, div. A, title V, §503, title LXIV, §4403(g)(2), Oct. 23, 1992, 106 Stat. 2402, 2703; Pub. L. 103–160, div. A, title V, §561(b), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(c), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 [[div. A], title V, §571(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 109–364, div. A, title VI, §623(b), Oct. 17, 2006, 120 Stat. 2256; Pub. L. 112–239, div. A, title V, §502, Jan. 2, 2013, 126 Stat. 1714; Pub. L. 113–66, div. A, title V, §503(a), Dec. 26, 2013, 127 Stat. 750.)
 
 #### References in Text ####
 
@@ -65,6 +65,10 @@ Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, ref
 #### Amendments ####
 
 **2013**—Subsec. (a). Pub. L. 112–239, §502(1), designated existing provisions as par. (1), struck out “, during the period beginning on October 1, 1990, and ending on December 31, 2001, and for the purpose of subsection (b)(4) during the period beginning on October 1, 2006, and ending on December 31, 2012,” after “military department”, and added par. (2).
+
+Subsec. (b)(2)(A). Pub. L. 113–66, §503(a)(1), substituted “have failed of selection for promotion at least one time and whose names are not on a list of officers recommended for promotion” for “would be subject to consideration for selection for early retirement under section 638(a)(1)(A) of this title except that they have failed of selection for promotion only one time (rather than two or more times)”.
+
+Subsec. (b)(2)(B). Pub. L. 113–66, §503(a)(2), substituted “have served on active duty in that grade for at least two years and whose names are not on a list of officers recommended for promotion” for “would be subject to consideration for selection for early retirement under section 638(a)(1)(B) of this title except that they have served on active duty in that grade less than four years (but not less than two years)”.
 
 Subsec. (b)(3), (4). Pub. L. 112–239, §502(2), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Suspending section 638(c) of this title.”
 

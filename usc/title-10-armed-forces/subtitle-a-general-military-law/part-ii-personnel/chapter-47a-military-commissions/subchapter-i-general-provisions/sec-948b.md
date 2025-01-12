@@ -18,11 +18,23 @@
 
 (e) Geneva Conventions Not Establishing Private Right of Action.—No alien unprivileged enemy belligerent subject to trial by military commission under this chapter may invoke the Geneva Conventions as a basis for a private right of action.
 
-(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2575.)
+(Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2575; amended Pub. L. 113–66, div. A, title XVII, §1702(c)(3)(E), Dec. 26, 2013, 127 Stat. 958.)
+
+#### Amendment of Subsection (d)(1)(C) ####
+
+Pub. L. 113–66, div. A, title XVII, §1702(c)(3)(E), (d)(1), Dec. 26, 2013, 127 Stat. 958, provided that, effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under chapter 47 of this title on or after that effective date, subsection (d)(1)(C) of this section is amended by striking “pretrial investigation” and inserting “preliminary hearing”. See 2013 Amendment note below.
 
 #### Prior Provisions ####
 
 A prior section 948b, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2602, related to military commissions generally, prior to the general amendment of this chapter by Pub. L. 111–84.
+
+#### Amendments ####
+
+**2013**—Subsec. (d)(1)(C). Pub. L. 113–66 substituted “preliminary hearing” for “pretrial investigation”.
+
+#### Effective Date of 2013 Amendment ####
+
+Amendment by Pub. L. 113–66 effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under chapter 47 of this title on or after that effective date, see section 1702(d)(1) of Pub. L. 113–66, set out as a note under section 802 of this title.
 
 #### Ex. Ord. No. 13425. Trial of Alien Unlawful Enemy Combatants by Military Commission ####
 

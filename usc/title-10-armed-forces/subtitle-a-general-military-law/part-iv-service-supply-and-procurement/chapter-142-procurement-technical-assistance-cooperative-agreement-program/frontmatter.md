@@ -18,9 +18,13 @@ Sec.
 
 2418. Authority to provide certain types of technical assistance.
 
-2419. Regulations.
+2419. Advancing small business growth.
+
+2420. Regulations.
 
 #### Amendments ####
+
+**2013**—Pub. L. 113–66, div. A, title XVI, §1611(a)(2), Dec. 26, 2013, 127 Stat. 947, added item 2419 and redesignated former item 2419 as 2420.
 
 **1993**—Pub. L. 103–35, title II, §201(d)(2), May 31, 1993, 107 Stat. 99, made technical amendment to items 2418 and 2419.
 

@@ -36,11 +36,13 @@ Sec.
 
 2836. Military housing rental guarantee program.
 
-2837. Limited partnerships with private developers of housing.
+[2837. Repealed.]
 
 2838. Leasing of military family housing to Secretary of Defense.
 
 #### Amendments ####
+
+**2013**—Pub. L. 113–66, div. B, title XXVIII, §2802(a)(2), Dec. 26, 2013, 127 Stat. 1006, struck out item 2837 “Limited partnerships with private developers of housing”.
 
 **2008**—Pub. L. 110–417, div. B, title XXVIII, §§2803(b), 2804(b), Oct. 14, 2008, 122 Stat. 4720, 4721, added items 2835a and 2838.
 

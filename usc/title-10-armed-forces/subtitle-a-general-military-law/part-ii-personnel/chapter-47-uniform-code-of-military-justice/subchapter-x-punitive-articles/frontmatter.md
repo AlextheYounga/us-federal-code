@@ -57,7 +57,7 @@
 |923. |123. |                                        Forgery.                                        |
 |923a.|123a.|     Making, drawing, or uttering check, draft, or order without sufficient funds.      |
 |924. |124. |                                        Maiming.                                        |
-|925. |125. |                                        Sodomy.                                         |
+|925. |125. |                              Forcible sodomy; bestiality.                              |
 |926. |126. |                                         Arson.                                         |
 |927. |127. |                                       Extortion.                                       |
 |928. |128. |                                        Assault.                                        |
@@ -69,6 +69,8 @@
 |934. |134. |                                    General article.                                    |
 
 #### Amendments ####
+
+**2013**—Pub. L. 113–66, div. A, title XVII, §1707(b), Dec. 26, 2013, 127 Stat. 961, substituted “Forcible sodomy; bestiality” for “Sodomy” in item 925.
 
 **2011**—Pub. L. 112–81, div. A, title V, §541(e), Dec. 31, 2011, 125 Stat. 1410, substituted “Rape and sexual assault generally” for “Rape, sexual assault, and other sexual misconduct” in item 920 and added items 920b and 920c.
 
