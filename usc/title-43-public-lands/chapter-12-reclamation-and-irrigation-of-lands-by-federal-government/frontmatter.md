@@ -80,6 +80,8 @@ Sec.
 
 390b–1. Improving planning and administration of water supply storage.
 
+390b–2. Leveraging Federal infrastructure for increased water supply.
+
 390c. Water reservoirs; interests of States and local agencies in storage space.
 
 390d. Dams and reservoirs wherein costs thereof, or rights thereto, have been acquired by local interests.

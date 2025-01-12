@@ -64,6 +64,8 @@ Sec.
 
 1274. Watershed pilot projects.
 
+1275. Columbia River Basin Restoration.
+
 #### SUBCHAPTER II—GRANTS FOR CONSTRUCTION OF TREATMENT WORKS ####
 
 1281. Congressional declaration of purpose.

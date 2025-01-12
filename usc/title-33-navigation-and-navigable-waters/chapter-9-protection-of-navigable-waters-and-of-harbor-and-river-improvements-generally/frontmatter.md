@@ -198,6 +198,8 @@ Sec.
 
 467f–1. Lock and dam security.
 
+467f–2. Rehabilitation of high hazard potential dams.
+
 467g. Research.
 
 467g–1. Dam safety training.

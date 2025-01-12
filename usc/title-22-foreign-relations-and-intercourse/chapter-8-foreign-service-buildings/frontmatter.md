@@ -34,4 +34,6 @@ Sec.
 
 302. Award of contracts.
 
-303. Annual report on overseas surplus properties.
+303. Repealed.
+
+304. Annual report on embassy construction costs.

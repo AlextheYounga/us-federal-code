@@ -14,7 +14,13 @@ In addition to the report required by subsection (a), the President, at the time
 
 #### (1) Costs of peacekeeping operations ####
 
-(A) In accordance with section 407(a)(5)(B) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995,<sup><a href="#287b_1_target" name="287b_1">1</a></sup> a description of all assistance provided by the United States to the United Nations to support peacekeeping operations during the previous calendar quarter and during the previous year.
+(A) A description of all assistance from the United States to the United Nations to support peacekeeping operations that—
+
+(i) was provided during the previous fiscal year;
+
+(ii) is expected to be provided during the fiscal year; or
+
+(iii) is included in the annual budget request to Congress for the forthcoming fiscal year.
 
 (B) With respect to United Nations peacekeeping operations—
 
@@ -32,7 +38,39 @@ In addition to the report required by subsection (a), the President, at the time
 
 (iii) the amount of United States contributions (both assessed and voluntary) to such operations on an operation-by-operation basis for the prior fiscal year.
 
-(D) In the case of the first 2 reports submitted pursuant to this subsection, a projection of all United States costs for United Nations peacekeeping operations during each of the next 2 fiscal years, including assessed and voluntary contributions.
+(D) For assessed or voluntary contributions described in subparagraph (B)(iii) or (C)(iii) that exceed $100,000 in value, including in-kind contributions—
+
+(i) the total amount or estimated value of all such contributions to the United Nations and to each of its affiliated agencies and related bodies;
+
+(ii) the nature and estimated total value of all in-kind contributions in support of United Nations peacekeeping operations and other international peacekeeping operations, including—
+
+(I) logistics;
+
+(II) airlift;
+
+(III) arms and materiel;
+
+(IV) nonmilitary technology and equipment;
+
+(V) personnel; and
+
+(VI) training;
+
+(iii) the approximate percentage of all such contributions to the United Nations and to each such agency or body when compared with all contributions to the United Nations and to each such agency or body from any source; and
+
+(iv) for each such United States Government contribution to the United Nations and to each such agency or body—
+
+(I) the amount or value of the contribution;
+
+(II) a description of the contribution, including whether it is an assessed or voluntary contribution;
+
+(III) the purpose of the contribution;
+
+(IV) the department or agency of the United States Government responsible for the contribution; and
+
+(V) the United Nations or United Nations affiliated agency or related body that received the contribution.
+
+(E) The report required under this subsection shall be submitted in unclassified form, but may include a classified annex.
 
 #### (2) Other matters regarding peacekeeping operations ####
 
@@ -152,11 +190,9 @@ In this section, the term "designated congressional committees" means the Commit
 
 Nothing in this section is intended to alter or supersede any notification requirement with respect to peacekeeping operations that is established under any other provision of law.
 
-(Dec. 20, 1945, ch. 583, §4, 59 Stat. 620; Pub. L. 103–236, title IV, §§406, 407(b), Apr. 30, 1994, 108 Stat. 448, 450; Pub. L. 106–113, div. B, §1000(a)(7) [div. A, title VII, §724(a)(1), (2), (b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–465, 1501A–467; Pub. L. 107–228, div. A, title IV, §405(a), Sept. 30, 2002, 116 Stat. 1390.)
+(Dec. 20, 1945, ch. 583, §4, 59 Stat. 620; Pub. L. 103–236, title IV, §§406, 407(b), Apr. 30, 1994, 108 Stat. 448, 450; Pub. L. 106–113, div. B, §1000(a)(7) [div. A, title VII, §724(a)(1), (2), (b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–465, 1501A–467; Pub. L. 107–228, div. A, title IV, §405(a), Sept. 30, 2002, 116 Stat. 1390; Pub. L. 114–323, title III, §306(a), Dec. 16, 2016, 130 Stat. 1920.)
 
 #### References in Text ####
-
-Section 407(a)(5)(B) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995, referred to in subsec. (c)(1)(A), is section 407(a)(5)(B) of Pub. L. 103–236, which was set out below, prior to repeal by Pub. L. 106–113.
 
 The National Security Act of 1947, referred to in subsec. (d)(2)(A)(iv), (B)(iv), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
@@ -165,6 +201,12 @@ The National Security Act of 1947, referred to in subsec. (d)(2)(A)(iv), (B)(iv)
 Another subsec. (a)(2) of section 724 of Pub. L. 106–113, div. B, §1000(a)(7), repealed section 407(a) of Pub. L. 103–236, formerly set out as a note below.
 
 #### Amendments ####
+
+**2016**—Subsec. (c)(1)(A). Pub. L. 114–323, §306(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "In accordance with section 407(a)(5)(B) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995, a description of all assistance provided by the United States to the United Nations to support peacekeeping operations during the previous calendar quarter and during the previous year."
+
+Subsec. (c)(1)(D). Pub. L. 114–323, §306(a)(2), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: "In the case of the first 2 reports submitted pursuant to this subsection, a projection of all United States costs for United Nations peacekeeping operations during each of the next 2 fiscal years, including assessed and voluntary contributions."
+
+Subsec. (c)(1)(E). Pub. L. 114–323, §306(a)(3), added subpar. (E).
 
 **2002**—Subsec. (b). Pub. L. 107–228, §405(a)(1), (2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "Not later than 3 days (excluding Saturdays, Sundays, and legal holidays) after adoption of any resolution by the Security Council, the Secretary of State shall transmit the text of such resolution and any supporting documentation to the designated congressional committees."
 
@@ -194,6 +236,10 @@ For termination, effective May 15, 2000, of provisions in subsec. (a) of this se
 
 For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, 46074, set out as a note under section 301 of Title 3, The President.
 
+#### Public Availability of Information ####
+
+Pub. L. 114–323, title III, §306(b), Dec. 16, 2016, 130 Stat. 1921, provided that: "Not later than 14 days after submitting each report under section 4(c) of the United Nations Participation Act of 1945 (22 U.S.C. 287b(c)), the Director of the Office of Management and Budget shall post a text-based, searchable version of any unclassified information described in paragraph (1)(D) of such section (as amended by subsection (a) of this section) on a publicly available website."
+
 #### Consultations and Reports on United Nations Peacekeeping Operations ####
 
 Pub. L. 103–236, title IV, §407(a), Apr. 30, 1994, 108 Stat. 448, directed President to consult monthly with Congress on status of United Nations peacekeeping operations, to provide certain information to designated congressional committees on a monthly or interim basis, to notify such committees at least 15 days before the United States would provide assistance to the United Nations to support peacekeeping assistance, and to submit quarterly reports on all such assistance, prior to repeal by Pub. L. 106–113, div. B, §1000(a)(7) [div. A, title VII, §724(a)(2)], Nov. 29, 1999, 113 Stat. 1536, 1501A–467. See subsec. (e) of this section.
@@ -205,5 +251,3 @@ Pub. L. 103–236, title IV, §415, Apr. 30, 1994, 108 Stat. 456, provided that:
 #### Report on Policies Pursued by Other Countries in International Organizations ####
 
 Pub. L. 98–164, title I, §117, Nov. 22, 1983, 97 Stat. 1022, as amended by Pub. L. 100–204, title VII, §707, Dec. 22, 1987, 101 Stat. 1390, directed Secretary of State to transmit to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate, by Jan. 31 of each year, a report regarding policies which each member country of United Nations pursued in international organizations of which United States was a member, prior to repeal by Pub. L. 103–236, title I, §139(27), Apr. 30, 1994, 108 Stat. 399.
-
-[<sup>1</sup> See References in Text note below.](#287b_1)

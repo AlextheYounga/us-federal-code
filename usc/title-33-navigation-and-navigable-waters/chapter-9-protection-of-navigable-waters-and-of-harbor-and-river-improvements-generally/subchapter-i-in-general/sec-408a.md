@@ -70,7 +70,25 @@ The Secretary shall maintain a publicly available database, including on the Int
 
 (B) the current status of such applications.
 
-(Pub. L. 113–121, title I, §1007, June 10, 2014, 128 Stat. 1214.)
+#### (f) Guidance ####
+
+#### (1) In general ####
+
+Not later than 120 days after December 16, 2016, the Secretary shall issue guidance on the implementation of this section.
+
+#### (2) Incorporation ####
+
+In issuing guidance under paragraph (1), or any other regulation, guidance, or engineering circular related to activities covered under section 408 of this title, the Secretary shall incorporate the requirements under this section.
+
+#### (g) Prioritization ####
+
+The Secretary shall prioritize and complete the activities required of the Secretary under this section.
+
+(Pub. L. 113–121, title I, §1007, June 10, 2014, 128 Stat. 1214; Pub. L. 114–322, title I, §1156(b), Dec. 16, 2016, 130 Stat. 1665.)
+
+#### Amendments ####
+
+**2016**—Subsecs. (f), (g). Pub. L. 114–322 added subsecs. (f) and (g).
 
 #### "Secretary" Defined ####
 

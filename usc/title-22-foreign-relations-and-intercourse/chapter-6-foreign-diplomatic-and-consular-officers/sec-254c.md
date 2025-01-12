@@ -1,10 +1,24 @@
 ### §254c. Extension of more favorable or less favorable treatment than provided under Vienna Convention; authority of President ###
 
+#### (a) In general ####
+
 The President may, on the basis of reciprocity and under such terms and conditions as he may determine, specify privileges and immunities for the mission, the members of the mission, their families, and the diplomatic couriers which result in more favorable treatment or less favorable treatment than is provided under the Vienna Convention.
 
-(Pub. L. 95–393, §4, Sept. 30, 1978, 92 Stat. 809; Pub. L. 97–241, title II, §203(b)(3), Aug. 24, 1982, 96 Stat. 291.)
+#### (b) Consular immunity ####
+
+#### (1) In general ####
+
+The Secretary of State, with the concurrence of the Attorney General, may, on the basis of reciprocity and under such terms and conditions as the Secretary may determine, specify privileges and immunities for a consular post, the members of a consular post, and their families which result in more favorable or less favorable treatment than is provided in the Vienna Convention on Consular Relations, of April 24, 1963 (T.I.A.S. 6820), entered into force for the United States on December 24, 1969.
+
+#### (2) Consultation ####
+
+Before exercising the authority under paragraph (1), the Secretary of State shall consult with the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate regarding the circumstances that may warrant the need for privileges and immunities providing more favorable or less favorable treatment than is provided in the Vienna Convention.
+
+(Pub. L. 95–393, §4, Sept. 30, 1978, 92 Stat. 809; Pub. L. 97–241, title II, §203(b)(3), Aug. 24, 1982, 96 Stat. 291; Pub. L. 114–323, title V, §501, Dec. 16, 2016, 130 Stat. 1935.)
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–323 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 **1982**—Pub. L. 97–241 substituted "immunities for the mission, the members" for "immunities for members" and "diplomatic couriers which" for "diplomatic couriers of any sending state which".
 

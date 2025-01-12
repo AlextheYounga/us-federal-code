@@ -128,6 +128,8 @@ Sec.
 
 576b. Lease authority.
 
+576c. Corps of Engineers operation of unmanned aircraft systems.
+
 577. Small river and harbor improvement projects.
 
 577a. Small-boat navigation projects; charter fishing craft.
@@ -136,13 +138,19 @@ Sec.
 
 578. Disposal of surplus property for development of public port or industrial facilities.
 
+578a. Disposition studies.
+
 579. Repealed.
 
 579a. Project deauthorizations.
 
-579b. Deauthorization of inactive projects.
+579b. Omitted.
 
 579c. Backlog prevention.
+
+579c–1. Backlog prevention.
+
+579d. Deauthorization of inactive projects.
 
 #### SUBCHAPTER II—PAY AND ALLOWANCES; TRAVELING EXPENSES AND SUBSISTENCE ####
 

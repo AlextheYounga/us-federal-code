@@ -20,6 +20,16 @@ Public Law 84–99, referred to in subsec. (b), is act June 28, 1955, ch. 194, 6
 
 Section was enacted as part of the Dam Safety Act of 1986, and also as part of the Water Resources Development Act of 1986, and not as part of the National Dam Safety Program Act which comprises this subchapter.
 
+#### Dam Safety Repair Projects ####
+
+Pub. L. 114–322, title I, §1139, Dec. 16, 2016, 130 Stat. 1658, provided that: "The Secretary [of the Army] shall issue guidance—
+
+"(1) on the types of circumstances under which the requirement in section 1203(a) of the Water Resources Development Act of 1986 (33 U.S.C. 467n(a)) relating to state-of-the-art design or construction criteria deemed necessary for safety purposes applies to a dam safety repair project;
+
+"(2) to assist district offices of the Corps of Engineers in communicating with non-Federal interests when entering into and implementing cost-sharing agreements for dam safety repair projects; and
+
+"(3) to assist the Corps of Engineers in communicating with non-Federal interests concerning the estimated and final cost-share responsibilities of the non-Federal interests under agreements for dam safety repair projects."
+
 #### "Secretary" Defined ####
 
 Secretary means the Secretary of the Army, see section 2201 of this title.

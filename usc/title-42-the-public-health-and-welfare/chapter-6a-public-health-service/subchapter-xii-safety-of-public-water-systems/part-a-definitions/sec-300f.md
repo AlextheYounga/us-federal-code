@@ -60,7 +60,7 @@ At any time after promulgation of a regulation referred to in this paragraph, th
 
 (B) For purposes of section 300j–12 of this title, the term "State" means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(14) The term "Indian Tribe" means any Indian tribe having a Federally recognized governing body carrying out substantial governmental duties and powers over any area. For purposes of section 300j–12 of this title, the term includes any Native village (as defined in section 1602(c) of title 43).
+(14) The term "Indian Tribe" means any Indian tribe having a Federally recognized governing body carrying out substantial governmental duties and powers over any area. For purposes of sections 300j–12, 300j–19a, and 300j–19b of this title, the term includes any Native village (as defined in section 1602(c) of title 43).
 
 (15) Community water system.—The term "community water system" means a public water system that—
 
@@ -70,13 +70,15 @@ At any time after promulgation of a regulation referred to in this paragraph, th
 
 (16) Noncommunity water system.—The term "noncommunity water system" means a public water system that is not a community water system.
 
-(July 1, 1944, ch. 373, title XIV, §1401, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1660; amended Pub. L. 94–317, title III, §301(b)(2), June 23, 1976, 90 Stat. 707; Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–190, §8(b), Nov. 16, 1977, 91 Stat. 1397; Pub. L. 99–339, title III, §302(b), June 19, 1986, 100 Stat. 666; Pub. L. 104–182, title I, §101(a), (b)(1), Aug. 6, 1996, 110 Stat. 1615, 1616.)
+(July 1, 1944, ch. 373, title XIV, §1401, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1660; amended Pub. L. 94–317, title III, §301(b)(2), June 23, 1976, 90 Stat. 707; Pub. L. 94–484, title IX, §905(b)(1), Oct. 12, 1976, 90 Stat. 2325; Pub. L. 95–190, §8(b), Nov. 16, 1977, 91 Stat. 1397; Pub. L. 99–339, title III, §302(b), June 19, 1986, 100 Stat. 666; Pub. L. 104–182, title I, §101(a), (b)(1), Aug. 6, 1996, 110 Stat. 1615, 1616; Pub. L. 114–322, title II, §2111, Dec. 16, 2016, 130 Stat. 1729.)
 
 #### References in Text ####
 
 The Safe Drinking Water Act Amendments of 1996, referred to in par. (4)(C), is Pub. L. 104–182, Aug. 6, 1996, 110 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 201 of this title and Tables.
 
 #### Amendments ####
+
+**2016**—Par. (14). Pub. L. 114–322 substituted "sections 300j–12, 300j–19a, and 300j–19b of this title" for "section 300j–12 of this title".
 
 **1996**—Par. (1). Pub. L. 104–182, §101(a)(1)(B), inserted at end "At any time after promulgation of a regulation referred to in this paragraph, the Administrator may add equally effective quality control and testing procedures by guidance published in the Federal Register. Such procedures shall be treated as an alternative for public water systems to the quality control and testing procedures listed in the regulation."
 

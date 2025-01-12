@@ -1,30 +1,6 @@
 ### §941e. Establishment of offices ###
 
-#### (a) Great Lakes Coordination Office ####
-
-#### (1) In general ####
-
-The Director shall establish a centrally located facility for the coordination of all United States Fish and Wildlife Service activities in the Great Lakes Basin, to be known as the "Great Lakes Coordination Office".
-
-#### (2) Functional responsibilities ####
-
-The functional responsibilities of the Great Lakes Coordination Office shall include—
-
-(A) intra- and interagency coordination;
-
-(B) information distribution; and
-
-(C) public outreach.
-
-#### (3) Requirements ####
-
-The Great Lakes Coordination Office shall—
-
-(A) ensure that information acquired under this chapter is made available to the public; and
-
-(B) report to the Director of Region 3, Great Lakes Big Rivers.
-
-#### (b) Lower Great Lakes Fishery Resources Office ####
+#### (a) Lower Great Lakes Fish and Wildlife Conservation Office ####
 
 #### (1) In general ####
 
@@ -32,13 +8,13 @@ The Director shall establish an office with necessary administrative and technic
 
 #### (2) Name and location ####
 
-The office shall be known as the "Lower Great Lakes Fishery Resources Office", and shall be centrally located in the lower Great Lakes so as to facilitate fishery resource restoration and enhancement activities relating to the lower Great Lakes.
+The office shall be known as the "Lower Great Lakes Fish and Wildlife Conservation Office", and shall be centrally located in the lower Great Lakes so as to facilitate fishery resource restoration and enhancement activities relating to the lower Great Lakes.
 
 #### (3) Responsibilities ####
 
-The responsibilities of the Lower Great Lakes Fishery Resources Office shall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Lower Great Lakes.
+The responsibilities of the Lower Great Lakes Fish and Wildlife Conservation Office shall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Lower Great Lakes.
 
-#### (c) Upper Great Lakes Fishery Resources Offices ####
+#### (b) Upper Great Lakes Fish and Wildlife Conservation Offices ####
 
 #### (1) In general ####
 
@@ -46,19 +22,29 @@ The Director shall establish one or more offices with necessary administrative a
 
 #### (2) Name and location ####
 
-Each of the offices shall be known as an "Upper Great Lakes Fishery Resources Office", and shall be appropriately located so as to facilitate fishery resource activities in the upper Great Lakes.
+Each of the offices shall be known as an "Upper Great Lakes Fish and Wildlife Conservation Office", and shall be appropriately located so as to facilitate fishery resource activities in the upper Great Lakes.
 
 #### (3) Responsibilities ####
 
-The responsibilities of the Upper Great Lakes Fishery Resources Offices shall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Upper Great Lakes.
+The responsibilities of the Upper Great Lakes Fish and Wildlife Conservation Offices shall include operational activities of the United States Fish and Wildlife Service related to fishery resource protection, restoration, maintenance, and enhancement in the Upper Great Lakes.
 
-(Pub. L. 101–537, title I, §1007, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, §2007, Nov. 29, 1990, 104 Stat. 4777; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §3(b), Oct. 19, 1998, 112 Stat. 2358; Pub. L. 109–326, §6, Oct. 11, 2006, 120 Stat. 1764.)
+(Pub. L. 101–537, title I, §1007, Nov. 8, 1990, 104 Stat. 2374; Pub. L. 101–646, title II, §2007, Nov. 29, 1990, 104 Stat. 4777; Pub. L. 104–332, §2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, §3(b), Oct. 19, 1998, 112 Stat. 2358; Pub. L. 109–326, §6, Oct. 11, 2006, 120 Stat. 1764; Pub. L. 114–322, title III, §3901(d), Dec. 16, 2016, 130 Stat. 1850.)
 
 #### Codification ####
 
 Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265.
 
 #### Amendments ####
+
+**2016**—Subsec. (a). Pub. L. 114–322, §3901(d)(3), (4), redesignated subsec. (b) as (a) and struck out former subsec. (a) which related to establishment of the Great Lakes Coordination Office.
+
+Subsec. (b). Pub. L. 114–322, §3901(d)(4), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
+
+Pub. L. 114–322, §3901(d)(1), substituted "Fish and Wildlife Conservation" for "Fishery Resources" in heading and in pars. (2) and (3).
+
+Subsec. (c). Pub. L. 114–322, §3901(d)(4), redesignated subsec. (c) as (b).
+
+Pub. L. 114–322, §3901(d)(2), substituted "Fish and Wildlife Conservation" for "Fishery Resources" in heading and in pars. (2) and (3).
 
 **2006**—Subsec. (a). Pub. L. 109–326, §6(1), added subsec. (a) and struck out former subsec. (a). Text read as follows: "The Director shall establish a centrally located facility for the coordination of all United States Fish and Wildlife Service activities in the Great Lakes Basin, to be known as the 'Great Lakes Coordination Office'. The functional responsibilities of the Great Lakes Coordination Office shall include intra- and interagency coordination, information distribution, and public awareness outreach. The Great Lakes Coordination Office shall include all administrative and technical support necessary to carry out its responsibilities."
 

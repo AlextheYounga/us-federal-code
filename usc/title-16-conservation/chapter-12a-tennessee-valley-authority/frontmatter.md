@@ -32,6 +32,8 @@ Sec.
 
 831h–2. Repealed.
 
+831h–3. Recreational access.
+
 831i. Sale of surplus power; preferences; experimental work; acquisition of existing electric facilities.
 
 831j. Equitable distribution of surplus power among States and municipalities; improvement in production of fertilizer.

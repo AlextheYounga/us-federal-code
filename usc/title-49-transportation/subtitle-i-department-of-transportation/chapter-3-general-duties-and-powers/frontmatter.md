@@ -28,6 +28,8 @@ Sec.
 
 310. Aligning Federal environmental reviews.
 
+311. Congressional notification requirements.
+
 #### SUBCHAPTER II—ADMINISTRATIVE ####
 
 321. Definitions.
@@ -73,6 +75,8 @@ Sec.
 354. Investigative authority of Inspector General.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–322, title IV, §5001(b), Dec. 16, 2016, 130 Stat. 1885, added item 311.
 
 **2015**—Pub. L. 114–94, div. A, title I, §§1311(b), 1312(b), 1313(b), title VI, §6011(c), Dec. 4, 2015, 129 Stat. 1399, 1400, 1402, 1569, added items 304a, 307, and 310 and substituted "Research activities" for "Research contracts" in item 330.
 

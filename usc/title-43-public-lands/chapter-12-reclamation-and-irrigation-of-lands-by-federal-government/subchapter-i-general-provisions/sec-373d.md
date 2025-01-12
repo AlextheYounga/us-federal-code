@@ -8,7 +8,7 @@ In order to increase opportunities for Indian tribes to develop, manage, and pro
 
 This Act, referred to in text, means div. D of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 133, known as the Energy and Water Development Appropriations Act, 2003. For complete classification of this Act to the Code, see Tables.
 
-The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
+The Indian Self-Determination Act, referred to in text, is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, which is classified principally to subchapter I (§5321 et seq.) of chapter 46 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
 
 #### Similar Provisions ####
 

@@ -152,15 +152,17 @@ The total amount expended for a project under this section shall—
 
 (A) be sufficient to pay the cost of Federal participation in the project (including periodic nourishment as provided for under section 426e of this title), as determined by the Secretary; and
 
-(B) be not more than $5,000,000.
+(B) be not more than $10,000,000.
 
-(Aug. 13, 1946, ch. 960, §3, 60 Stat. 1056; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; July 28, 1956, ch. 768, 70 Stat. 703; Pub. L. 87–874, title I, §103(a)(4), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 89–298, title III, §310(b), Oct. 27, 1965, 79 Stat. 1095; Pub. L. 91–611, title I, §112(b), Dec. 31, 1970, 84 Stat. 1821; Pub. L. 99–662, title IX, §915(e), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 104–303, title II, §227(e)(2)(C), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–53, title II, §226, Aug. 17, 1999, 113 Stat. 298; Pub. L. 110–114, title II, §2038(a), Nov. 8, 2007, 121 Stat. 1097.)
+(Aug. 13, 1946, ch. 960, §3, 60 Stat. 1056; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; July 28, 1956, ch. 768, 70 Stat. 703; Pub. L. 87–874, title I, §103(a)(4), Oct. 23, 1962, 76 Stat. 1178; Pub. L. 89–298, title III, §310(b), Oct. 27, 1965, 79 Stat. 1095; Pub. L. 91–611, title I, §112(b), Dec. 31, 1970, 84 Stat. 1821; Pub. L. 99–662, title IX, §915(e), Nov. 17, 1986, 100 Stat. 4191; Pub. L. 104–303, title II, §227(e)(2)(C), Oct. 12, 1996, 110 Stat. 3703; Pub. L. 106–53, title II, §226, Aug. 17, 1999, 113 Stat. 298; Pub. L. 110–114, title II, §2038(a), Nov. 8, 2007, 121 Stat. 1097; Pub. L. 114–322, title I, §1167, Dec. 16, 2016, 130 Stat. 1670.)
 
 #### References in Text ####
 
 The Shoreline Erosion Control Demonstration Act of 1974, referred to in subsec. (b)(2)(C)(viii), is Pub. L. 93–251, title I, §54, Mar. 7, 1974, 88 Stat. 26, formerly set out as a note under section 1962d–5 of Title 42, The Public Health and Welfare.
 
 #### Amendments ####
+
+**2016**—Subsec. (c)(2)(B). Pub. L. 114–322 substituted "$10,000,000" for "$5,000,000".
 
 **2007**—Pub. L. 110–114 amended section generally. Prior to amendment, section related to authorization of small shore and beach restoration and protection projects not specifically authorized by Congress.
 

@@ -6,4 +6,4 @@ The Chief of Engineers is authorized to provide for the sale of any of the mater
 
 #### References in Text ####
 
-The Civil Functions Appropriation Act, 1954, referred to in text, is act July 27, 1953, ch. 245, 67 Stat. 197. Provisions of the Act establishing the revolving fund are classified to sections 576 and 701b–10 of this title.
+The Civil Functions Appropriation Act, 1954, referred to in text, is act July 27, 1953, ch. 245, 67 Stat. 197. Provisions of the Act establishing the revolving fund are classified to section 576 of this title.

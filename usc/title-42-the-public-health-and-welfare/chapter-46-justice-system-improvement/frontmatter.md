@@ -198,6 +198,8 @@ Sec.
 
 3793a, 3793b. Repealed.
 
+3793c. Oversight and accountability.
+
 #### SUBCHAPTER XI—CRIMINAL PENALTIES ####
 
 3795. Misuse of Federal assistance.

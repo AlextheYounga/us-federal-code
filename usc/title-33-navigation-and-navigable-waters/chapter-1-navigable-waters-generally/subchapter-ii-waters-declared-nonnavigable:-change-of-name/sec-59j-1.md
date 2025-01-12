@@ -20,9 +20,9 @@ The declaration under subsection (a) shall apply only to those parts of the area
 
 #### (c) Expiration date ####
 
-If, 20 years from November 17, 1988, any area or part thereof described in subsection (a) (except 30 years from November 17, 1988, in the case of the area or any part thereof described in subsection (a)(5)) is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (b) of this section, or if work in connection with any activity permitted in subsection (b) is not commenced within 5 years after issuance of such permits, then the declaration of non-navigability for such area or part thereof shall expire.
+If, 20 years from November 17, 1988, any area or part thereof described in subsection (a) is not bulkheaded or filled or occupied by permanent structures, including marina facilities, in accordance with the requirements set out in subsection (b) of this section, or if work in connection with any activity permitted in subsection (b) is not commenced within 5 years after issuance of such permits, then the declaration of non-navigability for such area or part thereof shall expire. Notwithstanding the preceding sentence, the declaration of nonnavigability for the area described in subsection (a)(5), or any part thereof, shall not expire.
 
-(Pub. L. 100–676, §38, Nov. 17, 1988, 102 Stat. 4032; Pub. L. 110–114, title III, §3181(g), Nov. 8, 2007, 121 Stat. 1162.)
+(Pub. L. 100–676, §38, Nov. 17, 1988, 102 Stat. 4032; Pub. L. 110–114, title III, §3181(g), Nov. 8, 2007, 121 Stat. 1162; Pub. L. 114–322, title I, §1310, Dec. 16, 2016, 130 Stat. 1694.)
 
 #### References in Text ####
 
@@ -33,6 +33,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pu
 The text of the boundary descriptions contained in pars. (1) to (5) of subsec. (a), which is not set out in the Code, appears at 102 Stat. 4032 to 4038.
 
 #### Amendments ####
+
+**2016**—Subsec. (c). Pub. L. 114–322 struck out "(except 30 years from November 17, 1988, in the case of the area or any part thereof described in subsection (a)(5))" after "in subsection (a)" and inserted at end "Notwithstanding the preceding sentence, the declaration of nonnavigability for the area described in subsection (a)(5), or any part thereof, shall not expire."
 
 **2007**—Subsec. (c). Pub. L. 110–114 substituted "subsection (a) (except 30 years from November 17, 1988, in the case of the area or any part thereof described in subsection (a)(5))" for "subsection (a) of this section".
 

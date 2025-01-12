@@ -66,6 +66,8 @@ Sec.
 
 2238c. Additional measures at donor ports and energy transfer ports.
 
+2238d. Maintenance of harbors of refuge.
+
 2239. Repealed.
 
 2240. Emergency response services.
@@ -128,6 +130,8 @@ Sec.
 
 2282d. Annual report to Congress.
 
+2282e. Post-authorization change reports.
+
 2283. Fish and wildlife mitigation.
 
 2283a. Status report.
@@ -151,6 +155,8 @@ Sec.
 2288. Repealed.
 
 2289. Urban and rural flood control frequency.
+
+2289a. Consideration of measures.
 
 2290. Flood control in Trust Territory of the Pacific Islands.
 
@@ -194,7 +200,7 @@ Sec.
 
 2309a. Project modifications for improvement of environment.
 
-2310. Cost sharing for Territories.
+2310. Cost sharing for Territories and Indian tribes.
 
 2311. Report to Congress covering proposals for water impoundment facilities.
 
@@ -222,7 +228,7 @@ Sec.
 
 2317a. Cooperative agreements.
 
-2317b. Wetlands mitigation.
+2317b. Mitigation banks and in-lieu fee arrangements.
 
 2318. Flood plain management.
 
@@ -254,7 +260,13 @@ Sec.
 
 2326b. Sediment management.
 
-2326c. Dredged material marketing and recycling.
+2326c. Reservoir sediment.
+
+2326d. Alternative projects to maintenance dredging.
+
+2326e. Non-Federal interest dredging authority.
+
+2326f. Maintenance dredging data.
 
 2327. Definition of rehabilitation for inland waterway projects.
 
@@ -268,7 +280,11 @@ Sec.
 
 2330a. Monitoring ecosystem restoration.
 
+2330b. Fish hatcheries.
+
 2331. Use of continuing contracts for construction of certain projects.
+
+2331a. Initiating work on separable elements.
 
 2332. Flood mitigation and riverine restoration program.
 
@@ -294,13 +310,15 @@ Sec.
 
 2341a. Prioritization.
 
+2341b. Prioritization of certain projects.
+
 2342. Access to water resource data.
 
 2343. Independent peer review.
 
 2344. Safety assurance review.
 
-2345. Electronic submission of permit applications.
+2345. Electronic submission and tracking of permit applications.
 
 2346. Project administration.
 
@@ -317,3 +335,7 @@ Sec.
 2351. Durability, sustainability, and resilience.
 
 2352. Funding to process permits.
+
+2353. Structural health monitoring.
+
+2354. Easements for electric, telephone, or broadband service facilities.

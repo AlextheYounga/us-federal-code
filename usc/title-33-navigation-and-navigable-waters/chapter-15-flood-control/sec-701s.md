@@ -39,3 +39,25 @@ Pub. L. 97–140, §2(b), Dec. 29, 1981, 95 Stat. 1717, provided that: "The amen
 #### Effective Date of 1976 Amendment ####
 
 Amendment by Pub. L. 94–587 not applicable to any project under contract for construction on Oct. 22, 1976, see section 133(c) of Pub. L. 94–587, set out as a note under section 577 of this title.
+
+#### Ice Jam Prevention and Mitigation ####
+
+Pub. L. 114–322, title I, §1150, Dec. 16, 2016, 130 Stat. 1661, provided that:
+
+"(a) In General.—The Secretary [of the Army] may carry out projects under section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s), including planning, design, construction, and monitoring of structural and nonstructural technologies and measures, for preventing and mitigating flood damages associated with ice jams.
+
+"(b) Inclusion.—The projects described in subsection (a) may include the development and demonstration of cost-effective technologies and designs developed in consultation with—
+
+"(1) the Cold Regions Research and Engineering Laboratory of the Corps of Engineers;
+
+"(2) universities;
+
+"(3) Federal, State, and local agencies; and
+
+"(4) private organizations.
+
+"(c) Pilot Program.—
+
+"(1) In general.—During fiscal years 2017 through 2022, the Secretary shall identify and carry out not fewer than 10 projects under this section to demonstrate technologies and designs developed in accordance with this section.
+
+"(2) Project selection.—The Secretary shall ensure that the projects are selected from all cold regions of the United States, including the Upper Missouri River Basin and the Northeast."

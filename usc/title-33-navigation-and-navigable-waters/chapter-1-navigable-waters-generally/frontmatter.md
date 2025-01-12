@@ -213,3 +213,5 @@ Sec.
 59jj. Designation of nonnavigability for portions of Gloucester County, New Jersey.
 
 59kk. Wateree River.
+
+59 11 . Central Delaware River, Philadelphia, Pennsylvania.

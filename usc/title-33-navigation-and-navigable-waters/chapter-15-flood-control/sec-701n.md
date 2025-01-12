@@ -12,6 +12,8 @@
 
 (C) agricultural establishments, including the protection of crops.
 
+(3) Nonstructural alternatives defined.—In this subsection, the term "nonstructural alternatives" includes efforts to restore or protect natural resources, including streams, rivers, floodplains, wetlands, or coasts, if those efforts will reduce flood risk.
+
 #### (b) Emergency supplies of drinking water; drought; well construction and water transportation ####
 
 (1) The Secretary, upon a written request for assistance under this paragraph made by any farmer, rancher, or political subdivision within a distressed area, and after a determination by the Secretary that (A) as a result of the drought such farmer, rancher, or political subdivision has an inadequate supply of water, (B) an adequate supply of water can be made available to such farmer, rancher, or political subdivision through the construction of a well, and (C) as a result of the drought such well could not be constructed by a private business, the Secretary, subject to paragraph (3) of this subsection, may enter into an agreement with such farmer, rancher, or political subdivision for the construction of such well.
@@ -68,13 +70,35 @@ The term "repair and rehabilitation"—
 
 (II) repair or rebuilding described in clause (i) if, in the normal course of usage, the structure becomes structurally unsound and is no longer fit to provide the level of protection for which the structure was designed.
 
-(Aug. 18, 1941, ch. 377, §5, 55 Stat. 650; July 24, 1946, ch. 596, §12, 60 Stat. 652; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; June 30, 1948, ch. 771, title II, §206, 62 Stat. 1182; May 17, 1950, ch. 188, title II, §210, 64 Stat. 183; June 28, 1955, ch. 194, 69 Stat. 186; Pub. L. 87–874, title II, §206, Oct. 23, 1962, 76 Stat. 1194; Pub. L. 93–251, title I, §82, Mar. 7, 1974, 88 Stat. 34; Pub. L. 95–51, §2, June 20, 1977, 91 Stat. 233; Pub. L. 99–662, title IX, §917, Nov. 17, 1986, 100 Stat. 4192; Pub. L. 100–45, §9, May 27, 1987, 101 Stat. 323; Pub. L. 100–707, title I, §109(m), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–640, title III, §302, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §202(e), (f), Oct. 12, 1996, 110 Stat. 3675; Pub. L. 113–121, title III, §3029(a), June 10, 2014, 128 Stat. 1305.)
+#### (d) Increased level of protection ####
+
+In conducting repair or restoration work under subsection (a), at the request of the non-Federal sponsor, the Chief of Engineers may increase the level of protection above the level to which the system was designed, or, if the repair or restoration includes repair or restoration of a pumping station, increase the capacity of a pump, if—
+
+(1) the Chief of Engineers determines the improvements are in the public interest, including consideration of whether—
+
+(A) the authority under this section has been used more than once at the same location;
+
+(B) there is an opportunity to decrease significantly the risk of loss of life and property damage; or
+
+(C) there is an opportunity to decrease total life cycle rehabilitation costs for the project; and
+
+(2) the non-Federal sponsor agrees to pay the difference between the cost of repair or restoration to the original design level or original capacity and the cost of achieving the higher level of protection or capacity sought by the non-Federal sponsor.
+
+#### (e) Notice ####
+
+The Secretary shall notify and consult with the non-Federal sponsor regarding the opportunity to request implementation of nonstructural alternatives to the repair or restoration of a flood control work under subsection (a).
+
+(Aug. 18, 1941, ch. 377, §5, 55 Stat. 650; July 24, 1946, ch. 596, §12, 60 Stat. 652; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; June 30, 1948, ch. 771, title II, §206, 62 Stat. 1182; May 17, 1950, ch. 188, title II, §210, 64 Stat. 183; June 28, 1955, ch. 194, 69 Stat. 186; Pub. L. 87–874, title II, §206, Oct. 23, 1962, 76 Stat. 1194; Pub. L. 93–251, title I, §82, Mar. 7, 1974, 88 Stat. 34; Pub. L. 95–51, §2, June 20, 1977, 91 Stat. 233; Pub. L. 99–662, title IX, §917, Nov. 17, 1986, 100 Stat. 4192; Pub. L. 100–45, §9, May 27, 1987, 101 Stat. 323; Pub. L. 100–707, title I, §109(m), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–640, title III, §302, Nov. 28, 1990, 104 Stat. 4633; Pub. L. 104–303, title II, §202(e), (f), Oct. 12, 1996, 110 Stat. 3675; Pub. L. 113–121, title III, §3029(a), June 10, 2014, 128 Stat. 1305; Pub. L. 114–322, title I, §1176, Dec. 16, 2016, 130 Stat. 1673.)
 
 #### References in Text ####
 
 The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments ####
+
+**2016**—Subsec. (a)(3). Pub. L. 114–322, §1176(1), added par. (3).
+
+Subsecs. (d), (e). Pub. L. 114–322, §1176(2), added subsecs. (d) and (e).
 
 **2014**—Subsec. (a)(1). Pub. L. 113–121 inserted "and subject to the condition that the Chief of Engineers may include modifications to the structure or project" after "work for flood control" and substituted "structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the design level of protection when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, subject to the condition that the Chief of Engineers may include modifications to the structure or project to address major deficiencies or implement nonstructural alternatives to the repair or restoration of the structure if requested by the non-Federal sponsor" for "structure damaged or destroyed by wind, wave, or water action of other than an ordinary nature when in the discretion of the Chief of Engineers such repair and restoration is warranted for the adequate functioning of the structure for hurricane or shore protection".
 

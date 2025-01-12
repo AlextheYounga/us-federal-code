@@ -106,6 +106,8 @@ Sec.
 
 2679c. Prohibition on discriminatory contracts.
 
+2679d. Exemption from certain procurement protest procedures for noncompetitive contracting in emergency circumstances.
+
 2680. Appropriations for State Department; information to congressional committees.
 
 2680–1. Deadline for responses to questions from congressional committees.
@@ -243,3 +245,11 @@ Sec.
 2734. Reconstruction and stabilization.
 
 2734a. Authorities related to personnel.
+
+2734b. Report on diversity recruitment, employment, retention, and promotion.
+
+2734c. Employee assignment restrictions.
+
+2734d. Recruitment and retention of individuals who have lived, worked, or studied in predominantly Muslim countries or communities.
+
+2735. Foreign relations exchange programs.

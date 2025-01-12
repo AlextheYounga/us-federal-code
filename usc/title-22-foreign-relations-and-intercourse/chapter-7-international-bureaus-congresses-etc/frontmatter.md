@@ -906,6 +906,8 @@ Sec.
 
 287b. Reports to Congress by President.
 
+287b–1. Additional report on other United States contributions to the United Nations.
+
 287c. Economic and communication sanctions pursuant to United Nations Security Council Resolution.
 
 287d. Use of armed forces; limitations.

@@ -8,7 +8,9 @@ Sec.
 
 4802. Responsibility of Secretary of State.
 
-4803, 4804. Repealed.
+4803. Designation of high risk, high threat posts.
+
+4804. Briefings on embassy security.
 
 4805. Cooperation of other Federal agencies.
 
@@ -69,3 +71,9 @@ Sec.
 4864. Increased participation of United States contractors in local guard contracts abroad under diplomatic security program.
 
 4865. Security requirements for United States diplomatic facilities.
+
+4866. Security training for personnel assigned to a high risk, high threat post.
+
+4867. Security management training for officials assigned to a high risk, high threat post.
+
+4868. Assignment of personnel at high risk, high threat posts.

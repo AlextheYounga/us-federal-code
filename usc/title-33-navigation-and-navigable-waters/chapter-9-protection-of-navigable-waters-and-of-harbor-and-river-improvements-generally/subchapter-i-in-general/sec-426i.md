@@ -6,7 +6,7 @@ The Secretary of the Army is authorized to investigate, study, plan, and impleme
 
 #### (b) Cost sharing ####
 
-The costs of implementing measures under this section shall be cost-shared in the same proportion as the cost-sharing provisions applicable to the project causing the shore damage.
+The costs of implementing measures, including a study, shall be cost-shared in the same proportion as the cost-sharing provisions applicable to construction of the project causing the shore damage.
 
 #### (c) Requirement for specific authorization ####
 
@@ -20,9 +20,17 @@ The Secretary shall—
 
 (2) to the extent practicable, combine mitigation projects with other shore protection projects in the same area into a comprehensive regional project.
 
-(Pub. L. 90–483, title I, §111, Aug. 13, 1968, 82 Stat. 735; Pub. L. 99–662, title IX, §§915(f), 940, Nov. 17, 1986, 100 Stat. 4191, 4199; Pub. L. 106–53, title II, §214, Aug. 17, 1999, 113 Stat. 291; Pub. L. 113–121, title I, §1030(c), June 10, 2014, 128 Stat. 1232.)
+#### (e) Reimbursement for feasibility studies ####
+
+Beginning on December 16, 2016, in any case in which the Secretary implements a project under this section, the Secretary shall reimburse or credit the non-Federal interest for any amounts contributed for the study evaluating the damage in excess of the non-Federal share of the costs, as determined under subsection (b).
+
+(Pub. L. 90–483, title I, §111, Aug. 13, 1968, 82 Stat. 735; Pub. L. 99–662, title IX, §§915(f), 940, Nov. 17, 1986, 100 Stat. 4191, 4199; Pub. L. 106–53, title II, §214, Aug. 17, 1999, 113 Stat. 291; Pub. L. 113–121, title I, §1030(c), June 10, 2014, 128 Stat. 1232; Pub. L. 114–322, title I, §1169, Dec. 16, 2016, 130 Stat. 1671.)
 
 #### Amendments ####
+
+**2016**—Subsec. (b). Pub. L. 114–322, §1169(1), substituted "measures, including a study, shall be cost-shared in the same proportion as the cost-sharing provisions applicable to construction of the project" for "measures under this section shall be cost-shared in the same proportion as the cost-sharing provisions applicable to the project".
+
+Subsec. (e). Pub. L. 114–322, §1169(2), added subsec. (e).
 
 **2014**—Subsec. (c). Pub. L. 113–121 substituted "$10,000,000" for "$5,000,000".
 

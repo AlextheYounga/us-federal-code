@@ -2270,6 +2270,8 @@ Sec.
 
 300j–3c. National assistance program for water infrastructure and watersheds.
 
+300j–3d. Water supply cost savings.
+
 300j–4. Records and inspections.
 
 300j–5. National Drinking Water Advisory Council.
@@ -2302,6 +2304,10 @@ Sec.
 
 300j–19. Algal toxin risk assessment and management.
 
+300j–19a. Assistance for small and disadvantaged communities.
+
+300j–19b. Reducing lead in drinking water.
+
 #### Part F—Additional Requirements To Regulate Safety of Drinking Water ####
 
 300j–21. Definitions.
@@ -2312,9 +2318,11 @@ Sec.
 
 300j–24. Lead contamination in school drinking water.
 
-300j–25. Federal assistance for State programs regarding lead contamination in school drinking water.
+300j–25. Repealed.
 
 300j–26. Certification of testing laboratories.
+
+300j–27. Registry for lead exposure and Advisory Committee.
 
 #### SUBCHAPTER XIII—PREVENTIVE HEALTH MEASURES WITH RESPECT TO BREAST AND CERVICAL CANCERS ####
 
