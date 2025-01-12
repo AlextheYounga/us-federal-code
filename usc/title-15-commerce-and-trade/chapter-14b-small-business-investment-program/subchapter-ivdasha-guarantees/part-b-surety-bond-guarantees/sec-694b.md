@@ -48,7 +48,7 @@ Any guarantee or agreement to indemnify under this section shall obligate the Ad
 
 (A) the total amount of the contract at the time of execution of the bond or bonds is $100,000 or less, or
 
-(B) the bond was issued to a small business concern owned and controlled by socially and economically disadvantaged individuals as defined by section 637(d) of this title, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title); or
+(B) the bond was issued to a small business concern owned and controlled by socially and economically disadvantaged individuals as defined by section 637(d) of this title, or to a qualified HUBZone small business concern (as defined in section 632(p) <sup><a href="#694b_2_target" name="694b_2">2</a></sup> of this title); or
 
 (4) determined pursuant to subsection (b), if applicable.
 
@@ -93,6 +93,10 @@ The provisions of section 693 of this title shall apply in the administration of
 For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guarantee application.
 
 (Pub. L. 85–699, title IV, §411, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat. 1813; amended Pub. L. 93–386, §§6(a)(3), 11, Aug. 23, 1974, 88 Stat. 747, 749; Pub. L. 95–507, title I, §111, Oct. 24, 1978, 92 Stat. 1758; Pub. L. 96–302, title I, §115, July 2, 1980, 94 Stat. 839; Pub. L. 99–272, title XVIII, §18014, Apr. 7, 1986, 100 Stat. 370; Pub. L. 100–590, title II, §§202–204, Nov. 3, 1988, 102 Stat. 3007–3009; Pub. L. 104–208, div. D, title II, §206(a), Sept. 30, 1996, 110 Stat. 3009–738; Pub. L. 105–135, title VI, §604(d), Dec. 2, 1997, 111 Stat. 2633; Pub. L. 106–554, §1(a)(9) [title VIII, §805(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–705; Pub. L. 108–447, div. K, title II, §203(a), (b), Dec. 8, 2004, 118 Stat. 3465, 3466; Pub. L. 111–5, div. A, title V, §508(a), (b), Feb. 17, 2009, 123 Stat. 158; Pub. L. 112–239, div. A, title XVI, §1695(a), (b), Jan. 2, 2013, 126 Stat. 2089, 2090; Pub. L. 114–92, div. A, title VIII, §874(b), Nov. 25, 2015, 129 Stat. 941.)
+
+#### References in Text ####
+
+Section 632(p) of this title, referred to in subsec. (c)(3)(B), was redesignated section 657a(b) of this title by Pub. L. 115–91, div. A, title XVII, §1701(a)(2), Dec. 12, 2017, 131 Stat. 1795.
 
 #### Amendments ####
 
@@ -207,3 +211,5 @@ Pub. L. 102–366, title III, subtitle A, Sept. 4, 1992, 106 Stat. 1002–1005, 
 Pub. L. 100–590, title II, §206, Nov. 3, 1988, 102 Stat. 3009, as amended by Pub. L. 101–574, title II, §216(b), Nov. 15, 1990, 104 Stat. 2823, directed Comptroller General, not later than 3 years after Nov. 3, 1988, to transmit a report to Congress evaluating the preferred surety bond guarantee program, with such report to be transmitted not later than Mar. 1, 1994, and cover the period Oct. 1, 1990, through Sept. 30, 1993.
 
 [<sup>1</sup> So in original. Probably should be capitalized.](#694b_1)
+
+[<sup>2</sup> See References in Text note below.](#694b_2)

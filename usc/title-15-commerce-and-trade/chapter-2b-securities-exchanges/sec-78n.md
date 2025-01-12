@@ -300,6 +300,10 @@ Pub. L. 103–202, title III, §302(c), Dec. 17, 1993, 107 Stat. 2363, provided 
 
 #### Adjustment of Registration Fee Rate ####
 
+By order dated Aug. 23, 2019, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $129.80 per $1,000,000, effective Oct. 1, 2019, see 84 F.R. 45601.
+
+By order dated Aug. 24, 2018, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $121.20 per $1,000,000, effective Oct. 1, 2018, see 83 F.R. 44101.
+
 By order dated Aug. 24, 2017, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $124.50 per $1,000,000, effective Oct. 1, 2017, see 82 F.R. 41080.
 
 By order dated Aug. 30, 2016, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $115.90 per $1,000,000, effective Oct. 1, 2016, see 81 F.R. 61283.

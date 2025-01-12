@@ -72,7 +72,7 @@ Sec.
 
 9047. Federal credit union transaction account guarantees.
 
-9048. Temporary government in the Sunshine Act Relief.
+9048. Temporary Government in the Sunshine Act relief.
 
 9049. Temporary hiring flexibility.
 
