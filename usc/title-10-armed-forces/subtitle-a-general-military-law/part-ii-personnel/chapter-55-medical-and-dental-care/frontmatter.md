@@ -184,7 +184,13 @@ Sec.
 
 1110b. TRICARE program: extension of dependent coverage.
 
+#### Amendment of Analysis ####
+
+Pub. L. 116–92, div. A, title VII, §702(b)(3), (c), Dec. 20, 2019, 133 Stat. 1436, 1427, provided that, applicable to health care coverage beginning on or after Jan. 1, 2021, this analysis is amended by adding items 1097a and 1099 and by striking out former items 1097a "TRICARE Prime: automatic enrollments; payment options" and 1099 "Health care enrollment system". See 2019 Amendment note below.
+
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title VII, §702(b)(3), Dec. 20, 2019, 133 Stat. 1436, added items 1097a and 1099 and struck out former items 1097a "TRICARE Prime: automatic enrollments; payment options" and 1099 "Health care enrollment system".
 
 **2018**—Pub. L. 115–232, div. A, title X, §1081(a)(13), Aug. 13, 2018, 132 Stat. 1984, inserted period at end of item 1077a.
 

@@ -20,7 +20,9 @@ Sec.
 
 225. Acquisition accountability reports on the ballistic missile defense system.
 
-[226 to 228. Repealed.]
+226. Special operations forces: display of service-common and other support and enabling capabilities.
+
+[227, 228. Repealed.]
 
 229. Programs for combating terrorism: display of budget information.
 
@@ -50,6 +52,8 @@ Sec.
 
 #### Amendments ####
 
+**2019**—Pub. L. 116–92, div. A, title X, §1007(b), Dec. 20, 2019, 133 Stat. 1575, added item 226.
+
 **2018**—Pub. L. 115–232, div. A, title VIII, §813(a)(1)(B), title X, §1061(b), title XVI, §§1624(b)(2), 1677(b)(2), Aug. 13, 2018, 132 Stat. 1851, 1970, 2120, 2161, added items 222b, 222c, and 239b and struck out item 231a "Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification".
 
 **2017**—Pub. L. 115–91, div. A, title XVI, §1676(a)(2), Dec. 12, 2017, 131 Stat. 1772, added item 239a.
@@ -64,7 +68,7 @@ Sec.
 
 Pub. L. 112–239, div. A, title X, §§1076(f)(6), 1081(1)(B), Jan. 2, 2013, 126 Stat. 1952, 1960, transferred item 225 to appear after item 224 and struck out item 232 "United States Joint Forces Command: amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts".
 
-**2011**—Pub. L. 112–81, div. A, title X, §§1011(b), 1061(3)(B), 1064(4)(B)(ii), 1069(c), Dec. 31, 2011, 125 Stat. 1560, 1583, 1587, 1592, struck out item 226 "Scoring of outlays", added item 228 and struck out former item 228 "Quarterly reports on allocation of funds within operation and maintenance budget subactivities", added item 231 and struck out former item 231 "Long-range plan for construction of naval vessels", and amended item 231a generally. Prior to amendment, item 231a read as follows: "Budgeting for procurement of aircraft for the Navy and Air Force: annual plan and certification".
+**2011**—Pub. L. 112–81, div. A, title X, §§1011(b), 1061(3)(B), 1064(4)(B)(ii), 1069(c), Dec. 31, 2011, 125 Stat. 1560, 1583, 1587, 1592, struck out former item 226 "Scoring of outlays", added item 228 and struck out former item 228 "Quarterly reports on allocation of funds within operation and maintenance budget subactivities", added item 231 and struck out former item 231 "Long-range plan for construction of naval vessels", and amended item 231a generally. Prior to amendment, item 231a read as follows: "Budgeting for procurement of aircraft for the Navy and Air Force: annual plan and certification".
 
 Pub. L. 112–81, div. A, title II, §231(a)(2), Dec. 31, 2011, 125 Stat. 1339, added item 225 at the end of this analysis.
 

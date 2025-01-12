@@ -8,6 +8,8 @@ Sec.
 
 2872a. Utilities and services.
 
+2872b. Treatment of breach of contract.
+
 2873. Direct loans and loan guarantees.
 
 2874. Leasing of housing.
@@ -38,9 +40,11 @@ Sec.
 
 2885. Oversight and accountability for privatization projects.
 
-2886. Prohibiting collection of amounts in addition to rent from members assigned to units.
+[2886. Repealed.]
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. B, title XXX, §§3014(d)(2), 3033(b), Dec. 2019, 133 Stat. 1926, 1936, added item 2872b and struck out item 2886 "Prohibiting collection of amounts in addition to rent from members assigned to units".
 
 **2018**—Pub. L. 115–232, div. A, title X, §1081(c)(5), Aug. 13, 2018, 132 Stat. 1985, made technical amendment to directory language of Pub. L. 115–91, §2817(a)(2), effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted. See 2017 Amendment note below.
 

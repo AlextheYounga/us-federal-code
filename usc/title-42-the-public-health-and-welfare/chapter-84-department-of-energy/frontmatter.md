@@ -54,9 +54,9 @@ Sec.
 
 7144a. Establishment of security, counterintelligence, and intelligence policies.
 
-7144b. Office of Counterintelligence.
+7144b. Office of Intelligence and Counterintelligence.
 
-7144c. Office of Intelligence.
+7144c. Repealed.
 
 7144d. Office of Arctic Energy.
 

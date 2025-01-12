@@ -18,13 +18,15 @@
 
 (5) One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense (Comptroller).
 
-(6) One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Intelligence, who shall be appointed from among persons who have extensive expertise in intelligence matters.
+(6) One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Intelligence and Security, who shall be appointed from among persons who have extensive expertise in intelligence matters.
 
 (d) The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense. The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-(Added Pub. L. 111–84, div. A, title IX, §906(a)(1), Oct. 28, 2009, 123 Stat. 2425; amended Pub. L. 111–383, div. A, title IX, §901(b)(3), (k)(1)(A), Jan. 7, 2011, 124 Stat. 4318, 4325; Pub. L. 113–291, div. A, title IX, §901(i)(1), (j)(2)(C), (k)(3), Dec. 19, 2014, 128 Stat. 3467, 3468; Pub. L. 115–91, div. A, title IX, §906(a)–(c), (f)(1), title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1513, 1514, 1597; Pub. L. 115–232, div. A, title X, §1081(f)(1)(C), Aug. 13, 2018, 132 Stat. 1986.)
+(Added Pub. L. 111–84, div. A, title IX, §906(a)(1), Oct. 28, 2009, 123 Stat. 2425; amended Pub. L. 111–383, div. A, title IX, §901(b)(3), (k)(1)(A), Jan. 7, 2011, 124 Stat. 4318, 4325; Pub. L. 113–291, div. A, title IX, §901(i)(1), (j)(2)(C), (k)(3), Dec. 19, 2014, 128 Stat. 3467, 3468; Pub. L. 115–91, div. A, title IX, §906(a)–(c), (f)(1), title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1513, 1514, 1597; Pub. L. 115–232, div. A, title X, §1081(f)(1)(C), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title XVI, §1621(e)(1)(B), Dec. 20, 2019, 133 Stat. 1733.)
 
 #### Amendments ####
+
+**2019**—Subsec. (c)(6). Pub. L. 116–92 substituted "Deputy Under Secretary of Defense for Intelligence and Security" for "Deputy Under Secretary of Defense for Intelligence".
 
 **2018**—Subsec. (d). Pub. L. 115–232 substituted "the Chief Management Officer of the Department of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense" for "the Secretaries of the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense".
 

@@ -16,6 +16,8 @@ Sec.
 
 8669a. Construction of combatant and escort vessels and assignment of vessel projects.
 
+8669b. Senior Technical Authority for each naval vessel class.
+
 8670. Contracts for nuclear ships: sales of naval shipyard articles and services to private shipyards.
 
 8671. Determination of vessel delivery dates.
@@ -64,7 +66,11 @@ Sec.
 
 8691. Nuclear-powered aircraft carriers: dismantlement and disposal.
 
+8692. Ford-class aircraft carriers: cost limitation baselines.
+
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title I, §121(b), title X, §1034(b), Dec. 20, 2019, 133 Stat. 1234, 1583, added items 8669b and 8692.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 633 of this title as this chapter and items 7291 to 7294, 7297, 7299 to 7301, and 7303 to 7321 as 8661 to 8664, 8667, 8669 to 8671, and 8673 to 8691, respectively.
 

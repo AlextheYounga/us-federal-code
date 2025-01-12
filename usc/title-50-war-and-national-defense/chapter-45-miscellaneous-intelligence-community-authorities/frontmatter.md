@@ -36,6 +36,10 @@ Sec.
 
 3315. Annual certification of controlled access programs.
 
+3316. Submission of intelligence community policies.
+
+3316a. Reports on intelligence community participation in vulnerabilities equities process of Federal Government.
+
 #### SUBCHAPTER II—PERSONNEL AND ADMINISTRATIVE AUTHORITIES ####
 
 3321. National Intelligence Reserve Corps.
@@ -64,6 +68,22 @@ Sec.
 
 3333. Joint facilities certification.
 
+3334. Intelligence community public-private talent exchange.
+
+3334a. Transfer of National Intelligence University to the Office of the Director of National Intelligence.
+
+3334b. Collection, analysis, and dissemination of workforce data.
+
+3334c. Assessment of homeland security vulnerabilities associated with certain retired and former personnel of the intelligence community.
+
+3334d. Cyber protection support for the personnel of the intelligence community in positions highly vulnerable to cyber attack.
+
+3334e. Enhanced procurement authority to manage supply chain risk.
+
+3334f. Congressional notification of designation of covered intelligence officer as persona non grata.
+
+3334g. Reports on intelligence community loan repayment and related programs.
+
 #### SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION ####
 
 3341. Security clearances.
@@ -86,6 +106,44 @@ Sec.
 
 3350. Maximum amount charged for declassification reviews.
 
+3351. Improving quality of information in background investigation request packages.
+
+3351a. Making certain policies and execution plans relating to personnel clearances available to industry partners.
+
+3351b. Limitations on determinations regarding certain security classifications.
+
+3352. Definitions.
+
+3352a. Reports and plans relating to security clearances and background investigations.
+
+3352b. Improving the process for security clearances.
+
+3352c. Goals for promptness of determinations regarding security clearances.
+
+3352d. Reports on reciprocity for security clearances inside of departments and agencies.
+
+3352e. Periodic report on positions in the intelligence community that can be conducted without access to classified information, networks, or facilities.
+
+3352f. Information-sharing program for positions of trust and security clearances.
+
+#### SUBCHAPTER III–A—PUBLIC INTEREST DECLASSIFICATIONS ####
+
+3355. Findings.
+
+3355a. Public Interest Declassification Board.
+
+3355b. Identification, collection, and review for declassification of information of archival value or extraordinary public interest.
+
+3355c. Protection of national security information and other information.
+
+3355d. Standards and procedures.
+
+3355e. Judicial review.
+
+3355f. Funding.
+
+3355g. Definitions.
+
 #### SUBCHAPTER IV—COLLECTION, ANALYSIS, AND SHARING OF INTELLIGENCE ####
 
 3361. National Virtual Translation Center.
@@ -103,6 +161,30 @@ Sec.
 3367. Requirement for efficient use by intelligence community of open-source intelligence.
 
 3368. Assistance for governmental entities and private entities in recognizing online violent extremist content.
+
+3369. Encouragement of cooperative actions to detect and counter foreign influence operations.
+
+3369a. Report on deepfake technology, foreign weaponization of deepfakes, and related notifications.
+
+3369b. Oversight of foreign influence in academia.
+
+3369c. Notification of an active measures campaign.
+
+3369d. Committee to counter active measures by the Russian Federation, the People's Republic of China, the Islamic Republic of Iran, the Democratic People's Republic of Korea, or other nation state to exert covert influence over peoples and governments.
+
+3370. Supply Chain and Counterintelligence Risk Management Task Force.
+
+3370a. Biennial report on foreign investment risks.
+
+3371. Required counterintelligence assessments, briefings, notifications, and reports.
+
+3371a. Assessment of foreign intelligence threats to Federal elections.
+
+3371b. Information sharing with State election officials.
+
+3371c. Notification of significant foreign cyber intrusions and active measures campaigns directed at elections for Federal offices.
+
+3371d. Designation of counterintelligence officer to lead election security matters.
 
 #### SUBCHAPTER V—MANAGEMENT OF COUNTERINTELLIGENCE ACTIVITIES ####
 

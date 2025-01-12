@@ -1,4 +1,4 @@
-### §928b. Art. 128b. Domestic violence <sup><a href="#928a_1_target" name="928a_1">1</a></sup> ###
+### §928b. Art. 128b. Domestic violence ###
 
 Any person who—
 
@@ -18,10 +18,12 @@ Any person who—
 
 shall be punished as a court-martial may direct.
 
-(Added Pub. L. 115–232, div. A, title V, §532(a)(1), Aug. 13, 2018, 132 Stat. 1759.)
+(Added Pub. L. 115–232, div. A, title V, §532(a)(1), Aug. 13, 2018, 132 Stat. 1759; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(20), Dec. 20, 2019, 133 Stat. 1813.)
+
+#### Amendments ####
+
+**2019**—Pub. L. 116–92 inserted section catchline. Identical section catchline had been editorially supplied.
 
 #### Effective Date ####
 
 Pub. L. 115–232, div. A, title V, §532(b), Aug. 13, 2018, 132 Stat. 1760, provided that: "The amendments made by this section [enacting this section] shall take effect on January 1, 2019, immediately after the coming into effect of the amendments made by the Military Justice Act of 2016 (division E of Public Law 114–328) [see Tables for classification] as provided in section 5542 of that Act (130 Stat. 2967; 10 U.S.C. 801 note)."
-
-[<sup>1</sup> Section catchline editorially supplied to correspond to item 928b in subchapter analysis, as amended by Pub. L. 115–232.](#928b_1)

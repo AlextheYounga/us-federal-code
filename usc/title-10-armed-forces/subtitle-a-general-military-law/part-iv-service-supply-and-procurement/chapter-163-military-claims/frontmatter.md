@@ -8,6 +8,8 @@ Sec.
 
 2733. Property loss; personal injury or death: incident to noncombat activities of Department of Army, Navy, or Air Force.
 
+2733a. Medical malpractice claims by members of the uniformed services.
+
 2734. Property loss; personal injury or death: incident to noncombat activities of the armed forces; foreign countries.
 
 2734a. Property loss; personal injury or death: incident to noncombat activities of armed forces in foreign countries; international agreements.
@@ -27,6 +29,8 @@ Sec.
 2740. Property loss: reimbursement of members and civilian employees for full replacement value of household effects when contractor reimbursement not available.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title VII, §731(a)(2), Dec. 20, 2019, 133 Stat. 1459, added item 2733a.
 
 **2011**—Pub. L. 111–383, div. A, title III, §354(a)(2), Jan. 7, 2011, 124 Stat. 4195, added item 2740.
 

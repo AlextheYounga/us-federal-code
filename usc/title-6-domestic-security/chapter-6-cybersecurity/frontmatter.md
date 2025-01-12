@@ -44,6 +44,38 @@ Sec.
 
 1533. Improving cybersecurity in the health care industry.
 
+#### Limitation Relating to Establishment or Support of Cybersecurity Unit With the Russian Federation ####
+
+Pub. L. 116–92, div. E, title LXVII, §6701, Dec. 20, 2019, 133 Stat. 2221, provided that:
+
+"(a) Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+"(1) the congressional intelligence committees;
+
+"(2) the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives; and
+
+"(3) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+
+"(b) Limitation.—
+
+"(1) In general.—No amount may be expended by the Federal Government, other than the Department of Defense, to enter into or implement any bilateral agreement between the United States and the Russian Federation regarding cybersecurity, including the establishment or support of any cybersecurity unit, unless, at least 30 days prior to the conclusion of any such agreement, the Director of National Intelligence submits to the appropriate congressional committees a report on such agreement that includes the elements required by subsection (c).
+
+"(2) Department of defense agreements.—Any agreement between the Department of Defense and the Russian Federation regarding cybersecurity shall be conducted in accordance with section 1232 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) [130 Stat. 2488], as amended by section 1231 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91) [131 Stat. 1657].
+
+"(c) Elements.—If the Director submits a report under subsection (b) with respect to an agreement, such report shall include a discussion of each of the following:
+
+"(1) The purpose of the agreement.
+
+"(2) The nature of any intelligence to be shared pursuant to the agreement.
+
+"(3) The expected value to national security resulting from the implementation of the agreement.
+
+"(4) Such counterintelligence concerns associated with the agreement as the Director may have and such measures as the Director expects to be taken to mitigate such concerns.
+
+"(d) Rule of Construction.—This section shall not be construed to affect any existing authority of the Director of National Intelligence, the Director of the Central Intelligence Agency, or another head of an element of the intelligence community, to share or receive foreign intelligence on a case-by-case basis."
+
+[For definitions of "congressional intelligence committees" and "intelligence community" as used in section 6701 of div. E of Pub. L. 116–92, set out above, see section 5003 of div. E of Pub. L. 116–92, set out as a note under section 3003 of Title 50, War and National Defense.]
+
 #### Ex. Ord. No. 13800. Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure ####
 
 Ex. Ord. No. 13800, May 11, 2017, 82 F.R. 22391, provided:

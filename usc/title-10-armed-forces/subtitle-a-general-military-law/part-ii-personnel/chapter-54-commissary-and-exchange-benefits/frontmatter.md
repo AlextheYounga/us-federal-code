@@ -10,7 +10,7 @@ Sec.
 
 1064. Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster or national emergency.
 
-1065. Use of commissary stores and MWR facilities: certain veterans and caregivers for veterans.
+1065. Use of commissary stores and MWR facilities: certain veterans and caregivers for veterans. 1
 
 #### Amendments ####
 
@@ -29,3 +29,5 @@ Sec.
 **1992**—Pub. L. 102–484, div. A, title III, §365(c)(2), Oct. 23, 1992, 106 Stat. 2382, substituted "eligibility for members of the Ready Reserve" for "eligibility attributable to active duty for training".
 
 **1990**—Pub. L. 101–510, div. A, title III, §321(d), Nov. 5, 1990, 104 Stat. 1528, added items 1064 and 1065.
+
+[<sup>1</sup> Section catchline amended by Pub. L. 116–92 without corresponding amendment of chapter analysis.](#CHAPTER54_1)

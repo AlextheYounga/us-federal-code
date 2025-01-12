@@ -36,7 +36,11 @@ Sec.
 
 1135. Replacement of military decorations.
 
+1136. Honorable service requirement for award of military decorations.
+
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title V, §582(a)(2), Dec. 20, 2019, 133 Stat. 1412, added item 1136.
 
 **2014**—Pub. L. 113–291, div. A, title V, §571(a)(1)(B), Dec. 19, 2014, 128 Stat. 3387, added item 1129a.
 
@@ -71,6 +75,14 @@ Pub. L. 89–534, §1(2), Aug. 11, 1966, 80 Stat. 345, added item 1124, relating
 Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
 **1965**—Pub. L. 89–198, §1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
+
+#### Development of Guidelines for Use of Unofficial Sources of Information to Determine Eligibility of Members and Former Members of the Armed Forces for Decorations When the Service Records Are Incomplete Because of Damage to the Official Record ####
+
+Pub. L. 116–92, div. A, title V, §528, Dec. 20, 2019, 133 Stat. 1357, provided that:
+
+"(a) Guidelines Required.—The Secretary of Defense shall develop guidelines regarding the use by the Secretaries of the military departments of unofficial sources of information, including eyewitness statements, to determine the eligibility of a member or former member of the Armed Forces for decorations when the service records of the member are incomplete because of damage to the records as a result of the 1973 fire at the National Personnel Records Center in St. Louis, Missouri, or any subsequent incident while the records were in the possession of the Department of Defense.
+
+"(b) Time for Completion.—The Secretary of Defense shall complete development of the guidelines not later than one year after the date of the enactment of this Act [Dec. 20, 2019]."
 
 #### Atomic Veterans Service Certificate ####
 

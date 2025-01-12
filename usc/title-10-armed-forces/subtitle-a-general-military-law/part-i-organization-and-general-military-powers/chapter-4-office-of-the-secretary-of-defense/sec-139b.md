@@ -18,7 +18,7 @@
 
 (D) The Under Secretary of Defense for Personnel and Readiness.
 
-(E) The Under Secretary of Defense for Intelligence.
+(E) The Under Secretary of Defense for Intelligence and Security.
 
 (F) The General Counsel of the Department of Defense.
 
@@ -34,7 +34,7 @@
 
 (d) Operation.—The Council shall operate continuously.
 
-(Added Pub. L. 114–328, div. A, title IX, §922(b)(1), Dec. 23, 2016, 130 Stat. 2355; amended Pub. L. 115–91, div. A, title X, §1081(a)(7), Dec. 12, 2017, 131 Stat. 1594.)
+(Added Pub. L. 114–328, div. A, title IX, §922(b)(1), Dec. 23, 2016, 130 Stat. 2355; amended Pub. L. 115–91, div. A, title X, §1081(a)(7), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 116–92, div. A, title XVI, §1621(e)(1)(A)(iv), Dec. 20, 2019, 133 Stat. 1733.)
 
 #### References in Text ####
 
@@ -49,6 +49,8 @@ Another prior section 139b was renumbered section 138c of this title.
 Another prior section 139b was renumbered section 2433 of this title.
 
 #### Amendments ####
+
+**2019**—Subsec. (c)(2)(E). Pub. L. 116–92 substituted "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence".
 
 **2017**—Subsec. (c)(2)(K). Pub. L. 115–91 inserted period at end.
 

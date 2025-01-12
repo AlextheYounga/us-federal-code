@@ -66,9 +66,9 @@
 
 (2) vest in the Secretary of Transportation or the Administrator of the Federal Aviation Administration any authority of the Secretary of Defense under this title.
 
-(i) Partial Termination.—(1) Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3) <sup><a href="#130i_1_target" name="130i_1">1</a></sup> shall terminate on December 31, 2020.
+(i) Partial Termination.—(1) Except as provided by paragraph (2), the authority to carry out this section with respect to the covered facilities or assets specified in clauses (iv) through (viii) of subsection (j)(3)(C)shall terminate on December 31, 2023.
 
-(2) The President may extend by 180 days the termination date specified in paragraph (1) if before November 15, 2020, the President certifies to Congress that such extension is in the national security interests of the United States.
+(2) The President may extend by 180 days the termination date specified in paragraph (1) if before November 15, 2023, the President certifies to Congress that such extension is in the national security interests of the United States.
 
 (j) Definitions.—In this section:
 
@@ -112,20 +112,30 @@
 
 (5) The terms "electronic communication", "intercept", "oral communication", and "wire communication" have the meanings given those terms in section 2510 of title 18.
 
-(6) The terms "unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 40101 <sup><a href="#130i_2_target" name="130i_2">2</a></sup> note).
+(6) The terms "unmanned aircraft" and "unmanned aircraft system" have the meanings given those terms in section 44801 of title 49 <sup><a href="#130i_1_target" name="130i_1">1</a></sup>
 
-(Added Pub. L. 114–328, div. A, title XVI, §1697(a), Dec. 23, 2016, 130 Stat. 2639; amended Pub. L. 115–91, div. A, title XVI, §1692, Dec. 12, 2017, 131 Stat. 1788.)
+(Added Pub. L. 114–328, div. A, title XVI, §1697(a), Dec. 23, 2016, 130 Stat. 2639; amended Pub. L. 115–91, div. A, title XVI, §1692, Dec. 12, 2017, 131 Stat. 1788; Pub. L. 116–92, div. A, title XVI, §1694, title XVII, §1731(a)(6), Dec. 20, 2019, 133 Stat. 1791, 1812.)
 
 #### References in Text ####
 
 The Presidential Protection Assistance Act of 1976, referred to in subsec. (j)(3)(C)(iv), is Pub. L. 94–524, Oct. 17, 1976, 90 Stat. 2475, which enacted and amended provisions set out as notes under section 3056 of Title 18, Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Tables.
 
-Section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95), referred to in subsec. (j)(6), which was formerly set out in a note under section 40101 of Title 49, Transportation, was transferred and is now set out in a note under section 44802 of Title 49.
-
 #### Amendments ####
+
+**2019**—Subsec. (i). Pub. L. 116–92, §1694(a), substituted "2023" for "2020" in two places.
+
+Subsec. (i)(1). Pub. L. 116–92, §1731(a)(6)(A), inserted "(C)" after "subsection (j)(3)".
+
+Pub. L. 116–92, §1694(b)(1), which directed substitution of "of subsection (j)(3)(C)" for "of subsection (j)(3)", resulted in no change in text because of prior execution of amendment by Pub. L. 116–92, §1731(a)(6)(A). See Amendment note above and Coordination of Amendments by Pub. L. 116–92 note below.
+
+Subsec. (j)(6). Pub. L. 116–92, §1731(a)(6)(B), substituted "44802" for "40101".
+
+Pub. L. 116–92, §1694(b)(2), substituted "in section 44801 of title 49" for "in section 331 of the FAA Modernization and Reform Act of 2012 (Public Law 112–95; 49 U.S.C. 44802 note)."
 
 **2017**—Pub. L. 115–91 amended section generally. Prior to amendment, section related to protection of certain facilities and assets from unmanned aircraft and consisted of provisions relating to authority of Secretary of Defense, authorized actions, forfeiture, regulations, and definitions.
 
-[<sup>1</sup> So in original. Probably should be "subsection (j)(3)(C)".](#130i_1)
+#### Coordination of Amendments by Pub. L. 116–92 ####
 
-[<sup>2</sup> See References in Text note below.](#130i_2)
+Amendments to this section by section 1731 of Pub. L. 116–92 to be treated as having been enacted immediately before amendments by other provisions of Pub. L. 116–92, see section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under section 101 of this title.
+
+[<sup>1</sup> So in original. Probably should be followed by a period.](#130i_1)

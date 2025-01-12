@@ -112,4 +112,4 @@ Pub. L. 110–181, div. A, title VI, §624, Jan. 28, 2008, 122 Stat. 153, as ame
 
 #### Annual Report ####
 
-Pub. L. 107–314, div. A, title VI, §616(b), Dec. 2, 2002, 116 Stat. 2570, provided that: "Not later than February 28, 2004, and February 28, 2005, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use of the authority provided under section 307a of title 37, United States Code, as added by subsection (a), including an assessment of the utility of that authority."
+Pub. L. 107–314, div. A, title VI, §616(b), Dec. 2, 2002, 116 Stat. 2570, provided that not later than Feb. 28, 2004, and Feb. 28, 2005, the Secretary of Defense was to submit to Congress a report on the use of the authority provided under this section 307, including an assessment of the utility of that authority.

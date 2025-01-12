@@ -13,6 +13,8 @@ Chap. Sec.
 
 907. The Air Force 9061
 
+908. The Space Force 9081
+
 ### **PART II—PERSONNEL** ###
 
 911. Strength 9110
@@ -86,6 +88,8 @@ Chap. Sec.
 983. Accountability and Responsibility 9831
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title IX, §952(f), Dec. 20, 2019, 133 Stat. 1562, added item for chapter 908.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(e)(2), Aug. 13, 2018, 132 Stat. 1834, redesignated items for chapters 801 to 953 as 901 to 983 and redesignated section numbers 8011 to 9831 as 9011 to 9831. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
 

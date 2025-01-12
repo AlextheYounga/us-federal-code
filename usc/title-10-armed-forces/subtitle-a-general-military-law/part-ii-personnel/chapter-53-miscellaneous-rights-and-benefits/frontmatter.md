@@ -80,7 +80,11 @@ Sec.
 
 1060b. Military ID cards: dependents and survivors of retirees.
 
+1060c. Provision of veterinary services in emergencies.
+
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title VII, §735(b), Dec. 20, 2019, 133 Stat. 1463, added item 1060c.
 
 **2016**—Pub. L. 114–328, div. A, title XII, §§1241(o)(4), 1243(b)(2), 1253(a)(2)(B), Dec. 23, 2016, 130 Stat. 2512, 2516, 2532, struck out items 1050 "Latin American cooperation: payment of personnel expenses", 1050a "African cooperation: payment of personnel expenses", 1051 "Multilateral, bilateral, or regional cooperation programs: payment of personnel expenses", 1051a "Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses", 1051b "Bilateral or regional cooperation programs: awards and mementos to recognize superior noncombat achievements or performance", and 1051c "Multilateral, bilateral, or regional cooperation programs: assignments to improve education and training in information security".
 

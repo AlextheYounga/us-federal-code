@@ -27,9 +27,13 @@ Chap. Sec.
 
 111. Support of Science, Mathematics, and Engineering Education 2191
 
-112. Information Security Scholarship Program 1 2200
+112. Cyber Scholarship Program 2200
+
+113. Defense Civilian Training Corps 1 2200g
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title XVII, §1731(a)(2), Dec. 20, 2019, 133 Stat. 1812, which directed the amendment of the table of chapters "at the beginning of part I" of this subtitle by adding item for chapter 112 and striking former item for chapter 112 "Information Security Scholarship Program", was executed in the analysis for this part to reflect the probable intent of Congress.
 
 **2004**—Pub. L. 108–375, div. A, title V, §532(e), Oct. 28, 2004, 118 Stat. 1900, added item for chapter 107 and redesignated former item for chapter 107 as 106A.
 
@@ -61,4 +65,4 @@ Pub. L. 96–342, title IX, §901(b), Sept. 8, 1980, 94 Stat. 1114, added item f
 
 **1964**—Pub. L. 88–647, title I, §101(2), title II, §201(2), Oct. 13, 1964, 78 Stat. 1064, 1069, added items for chapters 102 and 103.
 
-[<sup>1</sup> Chapter heading amended by Pub. L. 115–91 without corresponding amendment of part analysis.](#PARTIII_1)
+[<sup>1</sup> Editorially supplied. Chapter 113 added by Pub. L. 116–92 without corresponding amendment of part analysis.](#PARTIII_1)

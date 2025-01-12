@@ -408,7 +408,7 @@ Sec.
 
 2282. Civil penalties.
 
-2282a. Civil monetary penalties for violation of Department of Energy safety regulations.
+2282a. Civil monetary penalties for violation of Department of Energy safety and whistleblower regulations.
 
 2282b. Civil monetary penalties for violations of Department of Energy regulations regarding security of classified or sensitive information or data.
 

@@ -1,0 +1,3 @@
+### [§53732. Repealed. Pub. L. 116–92, div. C, title XXXV, §3506(i)(2), Dec. 20, 2019, 133 Stat. 1974] ###
+
+Section, Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1621; Pub. L. 109–163, div. C, title XXXV, §3507(a)(1)(C), (D), (2)(E), (F), (I), (J), (b)(3)(A), (5), (8), Jan. 6, 2006, 119 Stat. 3555, 3556; Pub. L. 110–181, div. C, title XXXV, §3522(a)(8), (9)(E), (b), Jan. 28, 2008, 122 Stat. 598, authorized the Administrator to guarantee an obligation for an eligible export vessel in accordance with certain laws and terms and established an interagency council.

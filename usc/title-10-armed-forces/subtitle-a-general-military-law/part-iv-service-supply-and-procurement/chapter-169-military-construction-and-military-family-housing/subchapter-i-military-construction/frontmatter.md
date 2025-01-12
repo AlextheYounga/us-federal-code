@@ -30,9 +30,11 @@ Sec.
 
 2814. Special authority for development of Ford Island, Hawaii.
 
-[2815. Repealed.]
+2815. Military installation resilience projects.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. B, title XXVIII, §2801(b)(2), Dec. 20, 2019, 133 Stat. 1881, added item 2815.
 
 **2011**—Pub. L. 112–81, div. A, title X, §1061(23)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 2815 "Joint use military construction projects: annual evaluation".
 

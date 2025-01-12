@@ -34,7 +34,11 @@ Sec.
 
 987. Terms of consumer credit extended to members and dependents: limitations.
 
+988. Prohibition on ownership or trading of stocks in certain companies by certain officials of the Department of Defense.
+
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title IX, §921(b), Dec. 20, 2019, 133 Stat. 1561, added item 988.
 
 **2016**—Pub. L. 114–328, div. A, title VII, §721(a)(2), Dec. 23, 2016, 130 Stat. 2228, added item 977.
 

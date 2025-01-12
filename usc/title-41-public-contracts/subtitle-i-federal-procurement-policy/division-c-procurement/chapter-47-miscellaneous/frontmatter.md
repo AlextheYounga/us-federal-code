@@ -28,7 +28,11 @@ Sec.
 
 4713. Authorities relating to mitigating supply chain risks in the procurement of covered articles.
 
+4714. Prohibition on criminal history inquiries by contractors prior to conditional offer.
+
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title XI, §1123(a)(2), Dec. 20, 2019, 133 Stat. 1612, added item 4714.
 
 **2018**—Pub. L. 115–390, title II, §203(b), Dec. 21, 2018, 132 Stat. 5192, added item 4713.
 

@@ -24,6 +24,10 @@ Sec.
 
 9221a. Prohibition on indirect correspondent accounts.
 
+9221b. Sanctions with respect to foreign financial institutions that provide financial services to certain sanctioned persons.
+
+9221c. Prohibition on transactions with certain sanctioned persons by persons owned or controlled by United States financial institutions.
+
 9222. Ensuring the consistent enforcement of United Nations Security Council resolutions and financial restrictions on North Korea.
 
 9223. Proliferation prevention sanctions.
@@ -67,3 +71,25 @@ Sec.
 9254. Rulemaking.
 
 9255. Authority to consolidate reports.
+
+#### SUBCHAPTER V—AUTHORITIES AND REQUIREMENTS RELATED TO EXPANDED SANCTIONS ####
+
+9261. Definitions.
+
+#### Part I—Congressional Review and Oversight ####
+
+9265. Notification of termination or suspension of sanctions.
+
+9265a. Reports on certain licensing actions.
+
+#### Part II—General Matters ####
+
+9269. Rulemaking.
+
+9269a. Authority to consolidate reports.
+
+9269b. Waivers, exemptions, and termination.
+
+9269c. Procedures for review of classified and certain other information.
+
+9269d. Exception relating to importation of goods.

@@ -155,6 +155,30 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 
 **1958**—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted "General Service Requirements" for "Service Requirements for Reserves" in item for chapter 37, "971" for "[No present sections]" in item for chapter 49, "Medical and Dental Care" for "Voting by Members of Armed Forces" in item for chapter 55, and struck out "Care of the Dead" and substituted "1475" for "1481" in item for chapter 75.
 
+#### Policy on the Talent Management of Digital Expertise and Software Professionals ####
+
+Pub. L. 116–92, div. A, title II, §230, Dec. 20, 2019, 133 Stat. 1273, provided that:
+
+"(a) Policy.—
+
+"(1) In general.—It shall be a policy of the Department of Defense to promote and maintain digital expertise and software development as core competencies of civilian and military workforces of the Department, and as a capability to support the National Defense Strategy, which policy shall be achieved by—
+
+"(A) the recruitment, development, and incentivization of retention in and to the civilian and military workforce of the Department of individuals with aptitude, experience, proficient expertise, or a combination thereof in digital expertise and software development;
+
+"(B) at the discretion of the Secretaries of the military departments, the development and maintenance of civilian and military career tracks related to digital expertise, and related digital competencies for members of the Armed Forces, including the development and maintenance of training, education, talent management, incentives, and promotion policies in support of members at all levels of such career tracks; and
+
+"(C) the development and application of appropriate readiness standards and metrics to measure and report on the overall capability, capacity, utilization, and readiness of digital engineering professionals to develop and deliver operational capabilities and employ modern business practices.
+
+"(2) Digital engineering defined.—For purposes of this section, the term 'digital engineering' means the discipline and set of skills involved in the creation, processing, transmission, integration, and storage of digital data, including data science, machine learning, software engineering, software product management, and artificial intelligence product management.
+
+"(b) Implementation Plan.—Not later than May 1, 2020, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a plan that describes how the Department of Defense will execute the policy described in subsection (a).
+
+"(c) Responsibility.—
+
+"(1) Appointment of officer.—Not later than 270 days after the date of enactment of this Act [Dec. 20, 2019], the Secretary of Defense may appoint a civilian official responsible for the development and implementation of the policy and implementation plan set forth in subsections (a) and (b), respectively. The official shall be known as the 'Chief Digital Engineering Recruitment and Management Officer of the Department of Defense'.
+
+"(2) Expiration of appointment.—The appointment of the Officer under paragraph (1) shall expire on September 30, 2024."
+
 #### Enhanced Protections for Prospective Members and New Members of the Armed Forces During Entry-Level Processing and Training ####
 
 Pub. L. 113–66, div. A, title XVII, §1741, Dec. 26, 2013, 127 Stat. 977, as amended by Pub. L. 113–291, div. A, title V, §531(e), Dec. 19, 2014, 128 Stat. 3364, provided that:

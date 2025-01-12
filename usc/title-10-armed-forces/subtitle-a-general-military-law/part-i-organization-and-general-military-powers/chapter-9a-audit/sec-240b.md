@@ -28,7 +28,7 @@
 
 (B) Elements.—Each report under subparagraph (A) shall include the following:
 
-(i) An analysis of the consolidated corrective action plan management summary prepared pursuant to section 253a <sup><a href="#240b_1_target" name="240b_1">1</a></sup> of this title.
+(i) An analysis of the consolidated corrective action plan management summary prepared pursuant to section 240c of this title.
 
 (ii) Current Department of Defense-wide information on the status of corrective actions plans related to critical capabilities and material weaknesses, including the standard data elements recommended in the implementation guide for Office of Management and Budget Circular A–123, for the armed forces, military departments, and Defense Agencies.
 
@@ -46,27 +46,57 @@
 
 (vi) A certification of the results of the audit of the financial statements of the Department performed for the preceding fiscal year, and a statement summarizing, based on such results, the current condition of the financial statements of the Department.
 
-(vii) If less than 50 percent of the auditing services or if less than 50 percent of the audit remediation services under contract, as described in the briefing required under paragraph (2), are being performed by professionals meeting the qualifications described in section 240d(b) of this title, a detailed description of the risks associated with the risks of the acquisition strategy of the Department with respect to conducting audits and audit remediation activities and an explanation of how the strategy complies with the policies expressed by Congress.
+(vii) If less than 50 percent of the auditing services under contract, as described in the briefing required under paragraph (2), are being performed by professionals meeting the qualifications described in section 240d(b) of this title, a detailed description of the risks associated with the risks of the acquisition strategy of the Department with respect to conducting audits and an explanation of how the strategy complies with the policies expressed by Congress.
 
-(viii) If less than 25 percent of the auditing services or if less than 25 percent of the audit remediation services under contract, as described in the briefing required under paragraph (2), are being performed by professionals meeting the qualifications described in section 240d(b) of this title, a written certification that the staffing ratio complies with commercial best practices and presents no increased risk of delay in the Department's ability to achieve a clean audit opinion.
+(viii) If less than 25 percent of the auditing services under contract, as described in the briefing required under paragraph (2), are being performed by professionals meeting the qualifications described in section 240d(b) of this title, a written certification that the staffing ratio complies with commercial best practices and presents no increased risk of delay in the Department's ability to achieve a clean audit opinion.
+
+(ix) If less than 50 percent of the audit remediation services under contract, as described in the briefing required under paragraph (2)(B), are being performed by individual professionals meeting the qualifications described in suhsection (c), a detailed description of the risks associated with the risks of the acquisition strategy of the Department with respect to conducting audit remediation activities and an explanation of how the strategy complies with the policies expressed by Congress.
+
+(x) If less than 25 percent of the audit remediation services under contract, as described in the briefing required under paragraph (2)(B), are being performed by individual professionals meeting the qualifications described in subsection (c), a written certification that the staffing ratio complies with commercial best practices and presents no increased risk of delay in the Department's ability to achieve a clean audit opinion.
+
+(xi) A description of audit activities and results for classified programs, including a description of the use of procedures and requirements to prevent unauthorized exposure of classified information in such activities.
+
+(xii) An identification <sup><a href="#240b_1_target" name="240b_1">1</a></sup> the manner in which the corrective action plan or plans of each department, agency, component, or element of the Department of Defense, and the corrective action plan of the Department as a whole, support the National Defense Strategy (NDS) of the United States.
 
 (C) Additional requirements.—
 
-(i) Unclassified form.—A description submitted pursuant to clause (vii) of subparagraph (B) or a certification submitted pursuant to clause (viii) of such subparagraph shall be submitted in unclassified form, but may contain a classified annex.
+(i) Unclassified form.—A description submitted pursuant to clause (vii) or (ix) of subparagraph (B) or a certification submitted pursuant to clause (viii) of such subparagraph shall be submitted in unclassified form, but may contain a classified annex.
 
 (ii) Delegation.—The Secretary may not delegate the submission of a certification pursuant to clause (viii) of subparagraph (B) to any official other than the Deputy Secretary of Defense, the Chief Management Officer, or the Under Secretary of Defense (Comptroller).
 
-(2) Semiannual briefings.—Not later than January 31 and June 30 each year, the Under Secretary of Defense (Comptroller) and the comptrollers of the military departments shall provide a briefing to the congressional defense committees on the status of the corrective action plan. Such briefing shall include both the absolute number and percentage of personnel performing the amount of auditing or audit remediation services being performed by professionals meeting the qualifications described in section 240d(b) of this title.
+(2) Semiannual briefings.—(A) Not later than January 31 and June 30 each year, the Under Secretary of Defense (Comptroller) and the comptrollers of the military departments shall provide a briefing to the congressional defense committees on the status of the corrective action plan. Such briefing shall include both the absolute number and percentage of personnel performing the amount of auditing services being performed by professionals meeting the qualifications described in section 240d(b) of this title.
+
+(B) Not later than January 31 and June 30 each year, the Under Secretary of Defense (Comptroller) and the comptrollers of the military departments shall provide a briefing to the congressional defense committees on the status of the corrective action plan. Such briefing shall include both the absolute number and percentage of personnel performing the amount of audit remediation services being performed by professionals meeting the qualifications described in subsection (c).
 
 (3) Critical capabilities defined.—In this subsection, the term "critical capabilities" means the critical capabilities described in the Department of Defense report titled "Financial Improvement and Audit Readiness (FIAR) Plan Status Report" and dated May 2016.
 
-(Added and amended Pub. L. 115–91, div. A, title X, §1002(c)(1)–(3), Dec. 12, 2017, 131 Stat. 1538, §252; renumbered §240b and amended Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), (2)–(c), Aug. 13, 2018, 132 Stat. 1945, 1946.)
+(c) Selection of Audit Remediation Services.—The selection of audit remediation service providers shall be based, among other appropriate criteria, on qualifications, relevant experience, and capacity to develop and implement corrective action plans to address internal control and compliance deficiencies identified during a financial statement or program audit.
+
+(Added and amended Pub. L. 115–91, div. A, title X, §1002(c)(1)–(3), Dec. 12, 2017, 131 Stat. 1538, §252; renumbered §240b and amended Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), (2)–(c), Aug. 13, 2018, 132 Stat. 1945, 1946; Pub. L. 116–92, div. A, title X, §§1003, 1008–1009(b), Dec. 20, 2019, 133 Stat. 1571, 1575, 1576.)
 
 #### Codification ####
 
 Subsec. (a) of this section, as added by Pub. L. 115–91, is based on text of subsec. (a) of section 1003 of Pub. L. 111–84, div. A, title X, Oct. 28, 2009, 123 Stat. 2439, which was formerly set out as a note under section 2222 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, §1002(c)(4), Dec. 12, 2017, 131 Stat. 1540.
 
 #### Amendments ####
+
+**2019**—Subsec. (b)(1)(B)(i). Pub. L. 116–92, §1009(b), substituted "section 240c" for "section 253a".
+
+Subsec. (b)(1)(B)(vii). Pub. L. 116–92, §1003(a)(1), struck out "or if less than 50 percent of the audit remediation services" after "auditing services" and "and audit remediation activities" after "conducting audits".
+
+Subsec. (b)(1)(B)(viii). Pub. L. 116–92, §1003(a)(2), struck out "or if less than 25 percent of the audit remediation services" after "auditing services".
+
+Subsec. (b)(1)(B)(ix), (x). Pub. L. 116–92, §1003(c)(1), added cls. (ix) and (x).
+
+Subsec. (b)(1)(B)(xi). Pub. L. 116–92, §1008(1), added cl. (xi).
+
+Subsec. (b)(1)(B)(xii). Pub. L. 116–92, §1009(a), added cl. (xii).
+
+Subsec. (b)(1)(C)(i). Pub. L. 116–92, §1008(2), inserted "or (ix)" after "clause (vii)".
+
+Subsec. (b)(2). Pub. L. 116–92, §1003(b), (c)(2), designated existing provisions as subpar. (A), struck out "or audit remediation" before "services", and added subpar. (B).
+
+Subsec. (c). Pub. L. 116–92, §1003(d), added subsec. (c).
 
 **2018**—Pub. L. 115–232, §1002(a)(1)(A), renumbered section 252 of this title as this section.
 
@@ -110,4 +140,8 @@ Subsec. (a)(2)(C), (D). Pub. L. 115–91, §1002(c)(3)(B)(ii)(III), struck out s
 
 Subsec. (b). Pub. L. 115–91, §1002(c)(3)(C), added subsec. (b).
 
-[<sup>1</sup> So in original. Probably should be "section 240c".](#240b_1)
+#### Annual Reports on Funding for Corrective Action Plans ####
+
+Pub. L. 116–92, div. A, title X, §1009(c), Dec. 20, 2019, 133 Stat. 1576, provided that: "Not later than five days after the submittal to Congress under section 1105(a) of title 31, United States Code, of the budget of the President for any fiscal year after fiscal year 2020, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a reporting [sic] setting forth a detailed estimate of the funding required for such fiscal year to procure, obtain, or otherwise implement each process, system, and technology identified to address the current corrective action plans of the departments, agencies, components, and elements of the Department of Defense, and the corrective action plan of the Department as a whole, for purposes of chapter 9A of title 10, United States Code, during such fiscal year."
+
+[<sup>1</sup> So in original. The word "of" probably should appear.](#240b_1)

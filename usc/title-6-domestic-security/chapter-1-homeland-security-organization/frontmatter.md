@@ -136,7 +136,7 @@ Sec.
 
 195e. Transparency in research and development.
 
-195f. EMP and GMD mitigation research and development.
+195f. EMP and GMD mitigation research and development and threat assessment, response, and recovery.
 
 #### SUBCHAPTER IV—BORDER, MARITIME, AND TRANSPORTATION SECURITY ####
 
@@ -327,6 +327,8 @@ Sec.
 321n. Acceptance of gifts.
 
 321 o. Integrated public alert and warning system modernization.
+
+321o–1. Integrated public alert and warning system.
 
 321p. National planning and education.
 

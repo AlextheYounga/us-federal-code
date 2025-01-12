@@ -82,7 +82,7 @@ Sec.
 
 278r. Collaborative manufacturing research pilot grants.
 
-278s. Network for Manufacturing Innovation.
+278s. Manufacturing USA.
 
 279. Absence of Director.
 

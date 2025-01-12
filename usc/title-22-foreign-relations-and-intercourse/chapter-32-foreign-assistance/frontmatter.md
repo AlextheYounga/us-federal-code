@@ -158,37 +158,15 @@ Sec.
 
 #### subpart iv—overseas private investment corporation ####
 
-2191. Congressional statement of purpose; creation and functions of Corporation.
-
-2191a. Additional requirements.
-
-2191b. Worker rights and human rights guidelines.
-
-2192. Capital of the Corporation.
-
-2193. Organization and management.
-
-2194. Investment insurance and other programs.
+2191 to 2194. Repealed.
 
 2194a. Contract authority of Corporation; specific authorization in appropriation Acts required.
 
-2194b. Enhancing private political risk insurance industry.
-
-2195. Issuing authority, direct investment authority and reserves.
-
-2196. Income and revenues.
+2194b to 2196. Repealed.
 
 2197. General provisions relating to insurance, guaranty, financing, and reinsurance programs.
 
-2198. Definitions.
-
-2199. General provisions and powers.
-
-2200. Small business development in less developed friendly countries or areas; encouragement by other Federal departments, etc., of broadened participation by United States small business cooperatives and investors; project funding.
-
-2200a. Report to Congress.
-
-2200b. Prohibition on noncompetitive awarding of insurance contracts on OPIC supported exports.
+2198 to 2200b. Repealed.
 
 #### subpart v—disadvantaged children in asia ####
 

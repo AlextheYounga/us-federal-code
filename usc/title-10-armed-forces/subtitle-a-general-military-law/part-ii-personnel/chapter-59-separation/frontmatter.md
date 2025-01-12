@@ -65,3 +65,49 @@ Pub. L. 104–106, div. A, title V, §§563(a)(1)(B), 567(a)(2), Feb. 10, 1996, 
 **1968**—Pub. L. 90–235, §3(a)(1)(B), Jan. 2, 1968, 81 Stat. 757, added items 1169 to 1172.
 
 **1962**—Pub. L. 87–651, title I, §106(c), Sept. 7, 1962, 76 Stat. 508, added item 1168.
+
+#### Limitations and Requirements in Connection With Separations for Members of the Armed Forces Who Suffer From Mental Health Conditions in Connection With a Sex-Related, Intimate Partner Violence-Related, or Spousal-Abuse Offense ####
+
+Pub. L. 116–92, div. A, title V, §570A, Dec. 20, 2019, 133 Stat. 1398, provided that:
+
+"(a) Confirmation of Diagnosis of Condition Required Before Separation.—Before a member of the Armed Forces who was the victim of a sex-related offense, an intimate partner violence-related offense, or a spousal-abuse offense during service in the Armed Forces (whether or not such offense was committed by another member of the Armed Forces), and who has a mental health condition not amounting to a physical disability, is separated, discharged, or released from the Armed Forces based solely on such condition, the diagnosis of such condition must be—
+
+"(1) corroborated by a competent mental health care professional at the peer level or a higher level of the health care professional making the diagnosis; and
+
+"(2) endorsed by the Surgeon General of the military department concerned.
+
+"(b) Narrative Reason for Separation if Mental Health Condition Present.—If the narrative reason for separation, discharge, or release from the Armed Forces of a member of the Armed Forces is a mental health condition that is not a disability, the appropriate narrative reason for the separation, discharge, or release shall be a condition, not a disability, or Secretarial authority.
+
+"(c) Definitions.—In this section:
+
+"(1) The term 'intimate partner violence-related offense' means the following:
+
+"(A) An offense under section 928 or 930 of title 10, United States Code (article 128 or 130 of the Uniform Code of Military Justice).
+
+"(B) An offense under State law for conduct identical or substantially similar to an offense described in subparagraph (A).
+
+"(2) The term 'sex-related offense' means the following:
+
+"(A) An offense under section 920 or 920b of title 10, United States Code (article 120 or 120b of the Uniform Code of Military Justice).
+
+"(B) An offense under State law for conduct identical or substantially similar to an offense described in subparagraph (A).
+
+"(3) The term 'spousal-abuse offense' means the following:
+
+"(A) An offense under section 928 of title 10, United States Code (article 128 of the Uniform Code of Military Justice).
+
+"(B) An offense under State law for conduct identical or substantially similar to an offense described in subparagraph (A).
+
+"(d) Effective Date.—This section shall take effect 180 days after the date of the enactment of this Act [Dec. 20, 2019], and shall apply with respect to separations, discharges, and releases from the Armed Forces that occur on or after that effective date."
+
+#### Prohibition on Involuntary Separation of Certain Members of the Armed Forces ####
+
+Pub. L. 116–92, div. A, title V, §570B(a), Dec. 20, 2019, 133 Stat. 1398, provided that:
+
+"(1) In general.—No member of the Armed Forces may be involuntarily separated from the Armed Forces solely because that member is a covered member.
+
+"(2) Covered member defined.—In this subsection, the term 'covered member' means a member of the Armed Forces who—
+
+"(A) possesses a current and valid employment authorization document that was issued pursuant to the memorandum of the Secretary of Homeland Security dated June 15, 2012, and entitled 'Exercising Prosecutorial Discretion with Respect to Individuals who Came to the United States as Children'; or
+
+"(B) is currently in a temporary protected status under section 244 of the Immigration and Nationality Act (8 U.S.C. 1254a)."

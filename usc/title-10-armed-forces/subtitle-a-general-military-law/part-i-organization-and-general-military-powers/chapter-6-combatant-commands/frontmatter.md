@@ -24,15 +24,15 @@ Sec.
 
 167b. Unified combatant command for cyber operations.
 
-[168. Repealed.]
-
-169. Subordinate unified command of the United States Strategic Command 1
+[168, 169. Repealed.]
 
 #### Prior Provisions ####
 
 Prior to enactment of this chapter by Pub. L. 99–433, provisions relating to combat commands were contained in section 124 of this title.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title XVI, §1601(b)(1), title XVII, §1731(a)(9), Dec. 20, 2019, 133 Stat. 1722, 1812, struck out item 169 "Subordinate unified command of the United States Strategic Command."
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §812(a)(1)(B), title XVI, §1601(a)(2), Aug. 13, 2018, 132 Stat. 1846, 2103, struck out item 167a "Unified combatant command for joint warfighting experimentation: acquisition authority" and added item 169.
 
@@ -49,5 +49,3 @@ Prior to enactment of this chapter by Pub. L. 99–433, provisions relating to c
 **1986**—Pub. L. 99–500, §101(c) [title IX, §9115(b)(2)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–124, and Pub. L. 99–591, §101(c) [title IX, §9115(b)(2)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–124; Pub. L. 99–661, div. A, title XIII, §1311(b)(2), Nov. 14, 1986, 100 Stat. 3985, amended analysis identically adding item 167.
 
 Pub. L. 99–433, title II, §211(a), Oct. 1, 1986, 100 Stat. 1012, added chapter 6 heading and analysis.
-
-[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER6_1)

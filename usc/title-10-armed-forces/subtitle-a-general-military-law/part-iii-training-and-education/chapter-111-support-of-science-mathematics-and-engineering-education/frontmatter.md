@@ -8,6 +8,8 @@ Sec.
 
 2192a. Science, Mathematics, and Research for Transformation (SMART) Defense Education Program.
 
+2192b. Program on enhancement of preparation of dependents of members of armed forces for careers in science, technology, engineering, and mathematics.
+
 2193. Improvement of education in technical fields: grants for higher education in science and mathematics.
 
 2193a. Improvement of education in technical fields: general authority for support of elementary and secondary education in science and mathematics.
@@ -27,6 +29,8 @@ Sec.
 2199. Definitions.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title II, §211(b), Dec. 20, 2019, 133 Stat. 1255, added item 2192b.
 
 **2006**—Pub. L. 109–163, div. A, title XI, §1104(d)(2), Jan. 6, 2006, 119 Stat. 3450, added item 2192a.
 

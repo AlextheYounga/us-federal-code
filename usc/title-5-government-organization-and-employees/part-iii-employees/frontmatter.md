@@ -95,6 +95,8 @@ Chap. Sec.
 
 91. Access to Criminal History Records for National Security and Other Purposes 9101
 
+92. Prohibition on criminal 2 history 2 inquiries 2 prior 2 to conditional 2 offer 2 9201
+
 ### **Subpart I—Miscellaneous** ###
 
 95. Personnel flexibilities 2 relating 2 to the Internal Revenue Service 9501
@@ -116,6 +118,8 @@ Chap. Sec.
 110. Enhanced personnel 2 security 2 programs 2 11001
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title XI, §1122(c), Dec. 20, 2019, 133 Stat. 1608, added item for chapter 92.
 
 **2015**—Pub. L. 114–113, div. M, title III, §306(a)(2), Dec. 18, 2015, 129 Stat. 2916, added items for subpart J and chapter 110.
 
@@ -159,4 +163,4 @@ Pub. L. 106–265, title I, §1002(b), Sept. 19, 2000, 114 Stat. 769, added item
 
 [<sup>1</sup> Chapter heading amended by Pub. L. 107–296 without corresponding amendment of part analysis.](#SubpartBanalysis_1)
 
-[<sup>2</sup> So in original. Probably should be capitalized.](#SubpartIanalysis_2)
+[<sup>2</sup> So in original. Probably should be capitalized.](#SubpartHanalysis_2)

@@ -28,7 +28,7 @@
 
 (5) Review, analysis, and evaluation of programs for executing approved strategies and policies, ensuring that information on programs is presented accurately and completely, and assessing the effect of spending by the Department of Defense on the United States economy.
 
-(6) Assessments of special access and compartmented intelligence programs, in coordination with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Under Secretary of Defense for Intelligence and in accordance with applicable policies.
+(6) Assessments of special access and compartmented intelligence programs, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, and the Under Secretary of Defense for Intelligence and Security and in accordance with applicable policies.
 
 (7) Assessments of alternative plans, programs, and policies with respect to the acquisition programs of the Department of Defense.
 
@@ -36,7 +36,7 @@
 
 (9) Performing the duties assigned to the Director in section 2222 of this title.
 
-(Added Pub. L. 111–23, title I, §101(a)(1), May 22, 2009, 123 Stat. 1705, §139c; renumbered §139a and amended Pub. L. 111–383, div. A, title IX, §901(f), title X, §1075(b)(5), Jan. 7, 2011, 124 Stat. 4322, 4369; Pub. L. 112–239, div. A, title X, §1076(f)(4), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title IX, §912(c), Dec. 12, 2017, 131 Stat. 1521.)
+(Added Pub. L. 111–23, title I, §101(a)(1), May 22, 2009, 123 Stat. 1705, §139c; renumbered §139a and amended Pub. L. 111–383, div. A, title IX, §901(f), title X, §1075(b)(5), Jan. 7, 2011, 124 Stat. 4322, 4369; Pub. L. 112–239, div. A, title X, §1076(f)(4), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title IX, §912(c), Dec. 12, 2017, 131 Stat. 1521; Pub. L. 116–92, div. A, title IX, §902(5), title XVI, §1621(e)(1)(A)(iii), Dec. 20, 2019, 133 Stat. 1543, 1733.)
 
 #### Prior Provisions ####
 
@@ -45,6 +45,10 @@ A prior section 139a was renumbered section 138b of this title.
 Another prior section 139a was renumbered section 2432 of this title.
 
 #### Amendments ####
+
+**2019**—Subsec. (d)(6). Pub. L. 116–92, §1621(e)(1)(A)(iii), substituted "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence".
+
+Pub. L. 116–92, §902(5), substituted "Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering," for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
 **2017**—Subsec. (d)(9). Pub. L. 115–91 added par. (9).
 

@@ -1,4 +1,4 @@
-### §195f. EMP and GMD mitigation research and development ###
+### §195f. EMP and GMD mitigation research and development and threat assessment, response, and recovery ###
 
 #### (a) In general ####
 
@@ -38,11 +38,153 @@ Section 673 of this title, and any regulations issued pursuant to such section, 
 
 Information shared by the Federal Government with a State, local, or tribal government under this section shall be exempt from disclosure under any provision of State, local, or tribal freedom of information law, open government law, open meetings law, open records law, sunshine law, or similar law requiring the disclosure of information or records.
 
-(Pub. L. 107–296, title III, §320, formerly §319, as added Pub. L. 114–328, div. A, title XIX, §1913(a)(3), Dec. 23, 2016, 130 Stat. 2685; renumbered §320 and amended Pub. L. 115–278, §2(g)(3)(B), (C), Nov. 16, 2018, 132 Stat. 4178.)
+#### (d) Threat assessment, response, and recovery ####
+
+#### (1) Roles and responsibilities ####
+
+#### (A) Distribution of information ####
+
+#### (i) In general ####
+
+Beginning not later than June 19, 2020, the Secretary shall provide timely distribution of information on EMPs and GMDs to Federal, State, and local governments, owners and operators of critical infrastructure, and other persons determined appropriate by the Secretary.
+
+#### (ii) Briefing ####
+
+The Secretary shall brief the appropriate congressional committees on the effectiveness of the distribution of information under clause (i).
+
+#### (B) Response and recovery ####
+
+#### (i) In general ####
+
+The Administrator of the Federal Emergency Management Agency shall—
+
+(I) coordinate the response to and recovery from the effects of EMPs and GMDs on critical infrastructure, in coordination with the heads of appropriate Sector-Specific Agencies, and on matters related to the bulk power system, in consultation with the Secretary of Energy and the Federal Energy Regulatory Commission; and
+
+(II) to the extent practicable, incorporate events that include EMPs and extreme GMDs as a factor in preparedness scenarios and exercises.
+
+#### (ii) Implementation ####
+
+The Administrator of the Federal Emergency Management Agency, in coordination with the Director of the Cybersecurity and Infrastructure Security Agency, and on matters related to the bulk power system, the Secretary of Energy and the Federal Energy Regulatory Commission, shall—
+
+(I) not later than June 19, 2020, develop plans and procedures to coordinate the response to and recovery from EMP and GMD events; and
+
+(II) not later than December 21, 2020, conduct a national exercise to test the preparedness and response of the Nation to the effect of an EMP or extreme GMD event.
+
+#### (C) Research and development ####
+
+#### (i) In general ####
+
+The Secretary, in coordination with the heads of relevant Sector-Specific Agencies, shall—
+
+(I) without duplication of existing or ongoing efforts, conduct research and development to better understand and more effectively model the effects of EMPs and GMDs on critical infrastructure (which shall not include any system or infrastructure of the Department of Defense or any system or infrastructure of the Department of Energy associated with nuclear weapons activities); and
+
+(II) develop technologies to enhance the resilience of and better protect critical infrastructure.
+
+#### (ii) Plan ####
+
+Not later than March 26, 2020, and in coordination with the heads of relevant Sector-Specific Agencies, the Secretary shall submit to the appropriate congressional committees a research and development action plan to rapidly address modeling shortfall and technology development.
+
+#### (D) Emergency information system ####
+
+#### (i) In general ####
+
+The Administrator of the Federal Emergency Management Agency, in coordination with relevant stakeholders, shall maintain a network of systems, such as the alerting capabilities of the integrated public alert and warning system authorized under section 321o of this title, that are capable of providing appropriate emergency information to the public before (if possible), during, and in the aftermath of an EMP or GMD.
+
+#### (ii) Briefing ####
+
+Not later than December 21, 2020, the Administrator of the Federal Emergency Management Agency, shall brief the appropriate congressional committees regarding the maintenance of systems, including the alerting capabilities of the integrated public alert and warning system authorized under section 321o of this title.
+
+#### (E) Quadrennial risk assessments ####
+
+#### (i) In general ####
+
+The Secretary, in coordination with the Secretary of Defense, the Secretary of Energy, and the Secretary of Commerce, and informed by intelligence-based threat assessments, shall conduct a quadrennial EMP and GMD risk assessment.
+
+#### (ii) Briefings ####
+
+Not later than March 26, 2020, and every four years thereafter until 2032, the Secretary, the Secretary of Defense, the Secretary of Energy, and the Secretary of Commerce shall provide a briefing to the appropriate congressional committees regarding the quadrennial EMP and GMD risk assessment.
+
+#### (iii) Enhancing resilience ####
+
+The Secretary, in coordination with the Secretary of Defense, the Secretary of Energy, the Secretary of Commerce, and the heads of other relevant Sector-Specific Agencies, shall use the results of the quadrennial EMP and GMD risk assessments to better understand and to improve resilience to the effects of EMPs and GMDs across all critical infrastructure sectors, including coordinating the prioritization of critical infrastructure at greatest risk to the effects of EMPs and GMDs.
+
+#### (2) Coordination ####
+
+#### (A) Report on technological options ####
+
+Not later than December 21, 2020, and every four years thereafter until 2032, the Secretary, in coordination with the Secretary of Defense, the Secretary of Energy, the heads of other appropriate agencies, and, as appropriate, private-sector partners, shall submit to the appropriate congressional committees, a report that—
+
+(i) assesses the technological options available to improve the resilience of critical infrastructure to the effects of EMPs and GMDs; and
+
+(ii) identifies gaps in available technologies and opportunities for technological developments to inform research and development activities.
+
+#### (B) Test data ####
+
+#### (i) In general ####
+
+Not later than December 20, 2020, the Secretary, in coordination with the heads of Sector-Specific Agencies, the Secretary of Defense, and the Secretary of Energy, shall—
+
+(I) review test data regarding the effects of EMPs and GMDs on critical infrastructure systems, networks, and assets representative of those throughout the Nation; and
+
+(II) identify any gaps in the test data.
+
+#### (ii) Plan ####
+
+Not later than 180 days after identifying gaps in test data under clause (i), the Secretary, in coordination with the heads of Sector-Specific Agencies and in consultation with the Secretary of Defense and the Secretary of Energy, shall use the sector partnership structure identified in the National Infrastructure Protection Plan to develop an integrated cross-sector plan to address the identified gaps.
+
+#### (iii) Implementation ####
+
+The heads of each agency identified in the plan developed under clause (ii) shall implement the plan in collaboration with the voluntary efforts of the private sector, as appropriate.
+
+#### (3) Definitions ####
+
+In this subsection:
+
+(A) The term "appropriate congressional committees" means—
+
+(i) the Committee on Homeland Security and Governmental Affairs, the Committee on Armed Services, the Committee on Energy and Natural Resources, and the Committee on Commerce, Science, and Transportation of the Senate; and
+
+(ii) the Committee on Transportation and Infrastructure, the Committee on Homeland Security, the Committee on Armed Services, the Committee on Energy and Commerce, and the Committee on Science, Space and Technology of the House of Representatives.
+
+(B) The terms "prepare" and "preparedness" mean the actions taken to plan, organize, equip, train, and exercise to build and sustain the capabilities necessary to prevent, protect against, mitigate the effects of, respond to, and recover from those threats that pose the greatest risk to the security of the homeland, including the prediction and notification of impending EMPs and GMDs.
+
+(C) The term "Sector-Specific Agency" has the meaning given that term in section 651 of this title.
+
+#### (e) Rule of construction ####
+
+Nothing in this section may be construe— <sup><a href="#195f_1_target" name="195f_1">1</a></sup>
+
+(1) to affect in any manner the authority of the executive branch to implement Executive Order 13865, dated March 26, 2019, and entitled "Coordinating National Resilience to Electromagnetic Pulses", or any other authority existing on the day before December 20, 2019, of any other component of the Department or any other Federal department or agency, including the authority provided to the Sector-Specific Agency specified in section 61003(c) of division F of the Fixing America's Surface Transportation Act (6 U.S.C. 121 note), including the authority under section 824o of title 16, and including the authority of independent agencies to be independent; or
+
+(2) as diminishing or transferring any authorities vested in the Administrator of the Federal Emergency Management Agency or in the Agency prior to the date of the enactment of this subsection.
+
+(Pub. L. 107–296, title III, §320, formerly §319, as added Pub. L. 114–328, div. A, title XIX, §1913(a)(3), Dec. 23, 2016, 130 Stat. 2685; renumbered §320 and amended Pub. L. 115–278, §2(g)(3)(B), (C), Nov. 16, 2018, 132 Stat. 4178; Pub. L. 116–92, div. A, title XVII, §1740(a)(1), Dec. 20, 2019, 133 Stat. 1821.)
+
+#### References in Text ####
+
+Executive Order 13865, referred to in subsec. (e)(1), is Ex. Ord. No. 13865, Mar. 26, 2019, 84 F.R. 12041, which is set out as a note under this section.
+
+Section 61003(c) of division F of the Fixing America's Surface Transportation Act, referred to in subsec. (e)(1), is section 61003(c) of Pub. L. 114–94, div. F, Dec. 4, 2015, 129 Stat. 1778, which is set out as a note under section 121 of this title.
 
 #### Amendments ####
 
+**2019**—Pub. L. 116–92, §1740(a)(1)(A), inserted "and threat assessment, response, and recovery" after "development" in section catchline.
+
+Subsecs. (d), (e). Pub. L. 116–92, §1740(a)(1)(B), added subsecs. (d) and (e).
+
 **2018**—Subsec. (c)(1). Pub. L. 115–278, §2(g)(3)(C), substituted "Section 673 of this title" for "Section 133 of this title".
+
+#### Benchmarks; Definitions ####
+
+Pub. L. 116–92, div. A, title XVII, §1740(d), (h), Dec. 20, 2019, 133 Stat. 1824, 1825, provided that:
+
+"(d) Benchmarks.—Not later than March 26, 2020, and as appropriate thereafter, the Secretary of Energy, in consultation with the Secretary of Defense, the Secretary of Homeland Security, and, as appropriate, the private sector, may develop or update, as necessary, quantitative and voluntary benchmarks that sufficiently describe the physical characteristics of EMPs, including waveform and intensity, in a form that is useful to and can be shared with owners and operators of critical infrastructure. Nothing in this subsection shall affect the authority of the Electric Reliability Organization to develop and enforce, or the authority of the Federal Energy Regulatory Commission to approve, reliability standards.
+
+"(h) Definitions.—In this section [amending this section and section 347 of this title and enacting this note and provisions not set out in the Code]:
+
+"(1) The term 'appropriate congressional committees' has the meaning given that term in subsection (d) of section 320 of the Homeland Security Act of 2002 [6 U.S.C. 195f(d)], as added by subsection (a) of this section; and
+
+"(2) The terms 'critical infrastructure', 'EMP', and 'GMD' have the meanings given such terms in section 2 of the Homeland Security Act of 2002 (6 U.S.C. 101)."
 
 #### Ex. Ord. No. 13865. Coordinating National Resilience to Electromagnetic Pulses ####
 
@@ -183,3 +325,5 @@ Sec. 7. *General Provisions*. (a) Nothing in this order shall be construed to im
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.
+
+[<sup>1</sup> So in original. Probably should be "construed—".](#195f_1)

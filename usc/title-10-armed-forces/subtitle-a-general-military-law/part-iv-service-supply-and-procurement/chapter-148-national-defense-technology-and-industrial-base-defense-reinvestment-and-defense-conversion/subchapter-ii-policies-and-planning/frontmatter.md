@@ -10,6 +10,8 @@ Sec.
 
 2504. Annual report to Congress.
 
+2504a. Unfunded priorities of the national technology and industrial base: annual report.
+
 2505. National technology and industrial base: periodic defense capability assessments.
 
 2506. Department of Defense technology and industrial base policy guidance.
@@ -18,7 +20,11 @@ Sec.
 
 2508. Industrial Base Fund
 
+2509. Modernization of acquisition processes to ensure integrity of industrial base.
+
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title VIII, §§845(b), 846(c)(2), Dec. 19, 2019, 133 Stat. 1503, 1505, added items 2504a and 2509.
 
 **2017**—Pub. L. 115–91, div. A, title X, §1081(g)(2), Dec. 12, 2017, 131 Stat. 1601, amended directory language of Pub. L. 111–383, §896(b)(2). See 2011 Amendment note below.
 

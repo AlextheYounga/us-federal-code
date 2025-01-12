@@ -22,13 +22,13 @@ Sec.
 
 350. Inter-European Air Forces Academy.
 
-Sec. 1
-
 351. Inter-American Defense College.
 
 352. Naval Small Craft Instruction and Technical Training School.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title XVII, §1731(a)(15), Dec. 20, 2019, 133 Stat. 1813, struck out "Sec." after the item relating to section 350.
 
 **2018**—Pub. L. 115–232, div. A, title XII, §§1204(c)(1)(C), 1207(b), 1208(a)(2), 1209(b)(2), Aug. 13, 2018, 132 Stat. 2017, 2020, 2021, 2023, substituted "Centers for Security Studies" for "centers for security studies" in item 342, inserted "and Irregular Warfare" after "Terrorism" in item 345, and added items 351 and 352.
 
@@ -91,5 +91,3 @@ Pub. L. 115–91, div. A, title XII, §1207, Dec. 12, 2017, 131 Stat. 1645, prov
 "(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
 
 "(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives."
-
-[<sup>1</sup> So in original.](#I_1)

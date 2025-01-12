@@ -30,7 +30,7 @@ Sec.
 
 2564. Provision of support for certain sporting events.
 
-2564a. Provision of assistance for adaptive sports programs for members of the armed forces.
+2564a. Provision of assistance for adaptive sports programs: members of the armed forces; certain veterans.
 
 2565. Nuclear test monitoring equipment: furnishing to foreign governments.
 
@@ -47,6 +47,8 @@ Sec.
 Chapter was comprised of subchapter I, former section 2540, and subchapter II, sections 2541 to 2553, prior to amendment by Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512, which struck out headings for subchapters I and II.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title V, §592(c)(2), title XVII, §1731(a)(63), Dec. 20, 2019, 133 Stat. 1415, 1816, substituted "Provision of assistance for adaptive sports programs: members of the armed forces; certain veterans" for "Provision of assistance for adaptive sports programs for members of the armed forces" in item 2564a and amended item 2568a without change.
 
 **2018**—Pub. L. 115–232, div. A, title VI, §623(b), Aug. 13, 2018, 132 Stat. 1801, added item 2568a.
 

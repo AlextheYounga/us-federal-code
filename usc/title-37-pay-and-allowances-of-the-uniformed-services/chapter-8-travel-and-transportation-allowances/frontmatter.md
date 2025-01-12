@@ -14,6 +14,8 @@ Sec.
 
 455. Appropriations for travel: may not be used for attendance at certain meetings.
 
+456. Managed travel program refunds.
+
 #### SUBCHAPTER II—ADMINISTRATIVE PROVISIONS ####
 
 461. Relationship to other travel and transportation authorities.
@@ -97,5 +99,9 @@ Sec.
 494. Subsistence reimbursement relating to escorts of foreign arms control inspection teams.
 
 495. Funeral honors duty: allowance.
+
+#### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title VI, §606(b), Dec. 20, 2019, 133 Stat. 1425, added item 456.
 
 [<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER8_1)

@@ -30,7 +30,7 @@ Sec.
 
 183. Department of Defense Board of Actuaries.
 
-183a. Military Aviation and Installation Assurance Siting Clearinghouse for review of mission obstructions. 1
+183a. Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions.
 
 [184 to 186. Renumbered or Repealed.]
 
@@ -40,9 +40,11 @@ Sec.
 
 189. Communications Security Review and Advisory Board.
 
-190. Defense Cost Accounting Standards Board.
+[190. Repealed.]
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title VIII, §810(b), title XVII, §1731(a)(10), Dec. 20, 2019, 133 Stat. 1487, 1813, substituted "Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions" for "Military Aviation and Installation Assurance Siting Clearinghouse for review of mission obstructions" in item 183a and struck out item 190 "Defense Cost Accounting Standards Board".
 
 **2017**—Pub. L. 115–91, div. A, title III, §§311(b)(4), 341(b)(2), Dec. 12, 2017, 131 Stat. 1348, 1361, substituted "Explosive safety board" for "Ammunition storage board" in item 172 and added item 183a.
 
@@ -81,5 +83,3 @@ Pub. L. 110–181, div. A, title IX, §906(a)(2), Jan. 28, 2008, 122 Stat. 277, 
 Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 
 **1976**—Pub. L. 94–361, title VIII, §811(c), July 14, 1976, 90 Stat. 936, added items 176 and 177.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER7_1)

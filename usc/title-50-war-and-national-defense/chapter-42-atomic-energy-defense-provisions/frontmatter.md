@@ -58,7 +58,7 @@ Sec.
 
 2535. Replacement project for Chemistry and Metallurgy Research Building, Los Alamos National Laboratory, New Mexico.
 
-2536. Reports on lifetime extension programs.
+2536. Reports on life extension programs.
 
 2537. Selected Acquisition Reports and independent cost estimates and reviews of certain programs and facilities.
 
@@ -137,6 +137,8 @@ Sec.
 2588. Public participation in planning for defense environmental cleanup.
 
 2589. Policy of Department of Energy regarding future defense environmental management matters.
+
+2590. Estimation of costs of meeting defense environmental cleanup milestones required by consent orders.
 
 #### Part B—Closure of Facilities ####
 
@@ -280,7 +282,7 @@ Sec.
 
 2755. Matters relating to critical decisions.
 
-2756. Unfunded priorities of the National Nuclear Security Administration.
+2756. Unfunded priorities of the Administration.
 
 #### Part B—Penalties ####
 

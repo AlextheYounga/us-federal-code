@@ -18,7 +18,7 @@ Sec.
 
 8298. Limitations of time.
 
-8299. Limitation of honorable service.
+[8299. Repealed.]
 
 8300. Posthumous awards.
 
@@ -43,6 +43,8 @@ Sec.
 A prior chapter 837, consisting of sections 8351 to 8396, related to appointments as reserved officers in the Air Force, prior to repeal, except for sections 8351 and 8352 (now sections 12212 and 12214 of this title), by Pub. L. 103–337, div. A, title XVI, §1629(c)(1), Oct. 5, 1994, 108 Stat. 2963.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title V, §582(b)(2)(B), Dec. 20, 2019, 133 Stat. 1412, struck out item 8299 "Limitation of honorable service".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 567 as this chapter and items 6241 to 6258 as 8291 to 8308, respectively.
 

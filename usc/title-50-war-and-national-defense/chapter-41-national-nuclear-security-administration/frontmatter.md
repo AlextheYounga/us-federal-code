@@ -66,7 +66,7 @@ Sec.
 
 2454. Semiannual financial reports on defense nuclear nonproliferation programs.
 
-2455. Comptroller General assessment of adequacy of budget requests with respect to the modernization and refurbishment of the nuclear weapons stockpile.
+2455. Repealed.
 
 2455a. National Nuclear Security Administration authority for urgent nonproliferation activities.
 

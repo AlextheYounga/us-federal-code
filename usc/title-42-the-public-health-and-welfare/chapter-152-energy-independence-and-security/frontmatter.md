@@ -264,7 +264,7 @@ Sec.
 
 17333. United States trade missions to encourage private sector trade and investment.
 
-17334. Actions by Overseas Private Investment Corporation.
+17334. Actions by United States International Development Finance Corporation.
 
 17335. Actions by United States Trade and Development Agency.
 

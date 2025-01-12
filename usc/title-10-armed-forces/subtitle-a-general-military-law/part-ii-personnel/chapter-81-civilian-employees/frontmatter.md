@@ -136,9 +136,67 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 
 **1958**—Pub. L. 85–577, §1(2), July 31, 1958, 72 Stat. 456, added item 1585.
 
+#### Technology and National Security Fellowship ####
+
+Pub. L. 116–92, div. A, title II, §235, Dec. 20, 2019, 133 Stat. 1279, provided that:
+
+"(a) Fellowship Program.—
+
+"(1) In general.—The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, may establish a civilian fellowship program designed to place eligible individuals within the Department of Defense and Congress to increase the number of national security professionals with science, technology, engineering, and mathematics credentials employed by the Department.
+
+"(2) Designation.—The fellowship program established under paragraph (1) shall be known as the 'Technology and National Security Fellowship' (in this section referred to as the 'fellows program').
+
+"(3) Assignments.—Each individual selected for participation in the fellows program shall be assigned to a one year position within—
+
+"(A) the Department of Defense; or
+
+"(B) a congressional office with emphasis on defense and national security matters.
+
+"(4) Pay and benefits.—To the extent practicable, each individual assigned to a position under paragraph (3)—
+
+"(A) shall be compensated at a rate of basic pay that is equivalent to the rate of basic pay payable for a position at level 10 of the General Schedule; and
+
+"(B) shall be treated as an employee of the United States during the assignment.
+
+"(b) Eligible Individuals.—
+
+"(1) Eligibility for dod assignment.—Subject to subsection (e), an individual eligible for an assignment in the Department of Defense under subsection (a)(3)(A) is an individual who—
+
+"(A) is a citizen of the United States; and
+
+"(B) either—
+
+"(i) expects to be awarded a bachelor's degree, associate's degree, or graduate degree that, as determined by the Secretary, focuses on science, technology, engineering, or mathematics course work not later than 180 days after the date on which the individual submits an application for participation in the fellows program;
+
+"(ii) possesses a bachelor's degree, associate's degree, or graduate degree that, as determined by the Secretary, focuses on science, technology, engineering, or mathematics course work; or
+
+"(iii) is an employee of the Department of Defense and possesses a bachelor's degree, associate's degree, or graduate degree that, as determined by the Secretary, focuses on science, technology, engineering, or mathematics course work.
+
+"(2) Eligibility for congressional assignment.—Subject to subsection (e), an individual eligible for an assignment in a congressional office under subsection (a)(3)(B) is an individual who—
+
+"(A) meets the requirements specified in paragraph (1); and
+
+"(B) has not less than 3 years of relevant work experience in the field of science, technology, engineering, or mathematics.
+
+"(c) Application.—Each individual seeking to participate in the fellows program shall submit to the Secretary an application therefor at such time and in such manner as the Secretary shall specify.
+
+"(d) Coordination.—In carrying out this section, the Secretary may consider working through the following entities:
+
+"(1) The National Security Innovation Network.
+
+"(2) Universities.
+
+"(3) Science and technology reinvention laboratories and test and evaluation centers of the Department of Defense.
+
+"(4) Other organizations of the Department of Defense or public and private sector organizations, as determined appropriate by the Secretary.
+
+"(e) Modifications to Fellows Program.—The Secretary may modify the terms and procedures of the fellows program in order to better achieve the goals of the program and to support workforce needs of the Department of Defense.
+
+"(f) Consultation.—The Secretary may consult with the heads of the agencies, components, and other elements of the Department of Defense, Members and committees of Congress, and such institutions of higher education and private entities engaged in work on national security and emerging technologies as the Secretary considers appropriate for purposes of the fellows program, including with respect to assignments in the fellows program."
+
 #### John S. McCain Strategic Defense Fellows Program ####
 
-Pub. L. 115–232, div. A, title IX, §932, Aug. 13, 2018, 132 Stat. 1935, provided that:
+Pub. L. 115–232, div. A, title IX, §932, Aug. 13, 2018, 132 Stat. 1935, as amended by Pub. L. 116–92, div. A, title IX, §906, Dec. 20, 2019, 133 Stat. 1559, provided that:
 
 "(a) Fellowship Program.—
 
@@ -230,7 +288,7 @@ Pub. L. 115–232, div. A, title IX, §932, Aug. 13, 2018, 132 Stat. 1935, provi
 
 "(2) Reservation of positions.—In carrying out paragraph (1)(B), the Secretary shall reserve for participants who successfully complete the fellows program not fewer than 30 positions in the excepted service within the Department that are suitable for the commencement of a career track toward senior leadership within the Department. Any position so reserved shall not be subject to or covered by any reduction in headquarters personnel required under any other provision of law.
 
-"(3) Noncompetitive appointment.—Upon the successful completion of the assignment of a participant in the fellows program in a position pursuant to subsection (e), the Secretary may, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, appoint the participant to a position reserved pursuant to paragraph (2) if the Secretary determines that such appointment will contribute to the development of highly qualified future senior leaders for the Department.
+"(3) Noncompetitive appointment.—Upon the successful completion of the assignment of a participant in the fellows program in a position pursuant to subsection (e), the Secretary may, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, appoint the participant to a position reserved pursuant to paragraph (2) if the Secretary determines that such appointment will contribute to the development of highly qualified future senior leaders for the Department. An individual appointed pursuant to this paragraph shall not count against the limitation on the number of Office of the Secretary of Defense personnel in section 143 of title 10, United States Code, or any similar limitation in law on the number of personnel in headquarters of the Department that would otherwise apply to the office or headquarters to which appointed.
 
 "(4) Publication of selection.—The Secretary shall publish on an Internet website of the Department available to the public the names of the individuals selected to participate in the fellows program.
 
@@ -568,9 +626,9 @@ Pub. L. 114–328, div. A, title XI, §1110, Dec. 23, 2016, 130 Stat. 2450, as a
 
 #### Temporary Direct Hire Authority for Domestic Defense Industrial Base Facilities, the Major Range and Test Facilities Base, and the Office of the Director of Operational Test and Evaluation ####
 
-Pub. L. 114–328, div. A, title XI, §1125, Dec. 23, 2016, 130 Stat. 2457, as amended by Pub. L. 115–91, div. A, title XI, §1102(a), Dec. 12, 2017, 131 Stat. 1628, provided that:
+Pub. L. 114–328, div. A, title XI, §1125, Dec. 23, 2016, 130 Stat. 2457, as amended by Pub. L. 115–91, div. A, title XI, §1102(a), Dec. 12, 2017, 131 Stat. 1628; Pub. L. 116–92, div. A, title XI, §1107(a), Dec. 20, 2019, 133 Stat. 1597, provided that:
 
-"(a) Defense Industrial Base Facility and MRTFB.—During each of fiscal years 2017 through 2021, the Secretary of Defense may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title, qualified candidates to positions in the competitive service at any defense industrial base facility or the Major Range and Test Facilities Base.
+"(a) Defense Industrial Base Facility and MRTFB.—During each of fiscal years 2017 through 2025, the Secretary of Defense may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title, qualified candidates to positions in the competitive service at any defense industrial base facility or the Major Range and Test Facilities Base.
 
 "(b) Office of the Director of Operational Test and Evaluation.—During fiscal years 2017 through 2021, the Secretary of Defense may, acting through the Director of Operational Test and Evaluation, appoint qualified candidates possessing an advanced degree to scientific and engineering positions within the Office of the Director of Operational Test and Evaluation without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title.
 

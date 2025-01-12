@@ -6,7 +6,7 @@
 
 (1) serving as the chief technology officer of the Department of Defense with the mission of advancing technology and innovation for the armed forces (and the Department);
 
-(2) establishing policies on, and supervising, all defense research and engineering, technology development, technology transition, prototyping, experimentation, and developmental testing activities and programs, including the allocation of resources for defense research and engineering, and unifying defense research and engineering efforts across the Department; and
+(2) establishing policies on, and supervising, all defense research and engineering, technology development, technology transition, appropriate prototyping activities, experimentation, and developmental testing activities and programs and unifying defense research and engineering efforts across the Department; and
 
 (3) serving as the principal advisor to the Secretary on all research, engineering, and technology development activities and programs in the Department.
 
@@ -16,7 +16,7 @@
 
 (2) Precedence in other matters.—With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Chief Management Officer, and the Secretaries of the military departments.
 
-(Added Pub. L. 114–328, div. A, title IX, §901(a)(1), Dec. 23, 2016, 130 Stat. 2339; amended Pub. L. 115–91, div. A, title IX, §910(c)(2), Dec. 12, 2017, 131 Stat. 1518.)
+(Added Pub. L. 114–328, div. A, title IX, §901(a)(1), Dec. 23, 2016, 130 Stat. 2339; amended Pub. L. 115–91, div. A, title IX, §910(c)(2), Dec. 12, 2017, 131 Stat. 1518; Pub. L. 116–92, div. A, title IX, §902(2), Dec. 20, 2019, 133 Stat. 1542.)
 
 #### Prior Provisions ####
 
@@ -25,6 +25,8 @@ A prior section 133a, added Pub. L. 99–500, §101(c) [title X, §902(a)(1)], O
 Another prior section 133a was renumbered section 117 of this title.
 
 #### Amendments ####
+
+**2019**—Subsec. (b)(2). Pub. L. 116–92 substituted "appropriate prototyping activities," for "prototyping," and struck out ", including the allocation of resources for defense research and engineering," after "testing activities and programs".
 
 **2017**—Subsec. (c)(1). Pub. L. 115–91, §910(c)(2)(A), substituted ", the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense" for "and the Deputy Secretary of Defense".
 

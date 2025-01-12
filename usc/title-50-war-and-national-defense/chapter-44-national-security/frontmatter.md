@@ -10,9 +10,9 @@ Sec.
 
 3004. Definitions of military departments.
 
-3005. Applicable laws.
+3005. Department of Defense.
 
-3006. Repealing and savings provisions.
+3006. Transferred.
 
 #### SUBCHAPTER I—COORDINATION FOR NATIONAL SECURITY ####
 
@@ -62,7 +62,7 @@ Sec.
 
 3041a. Director of the National Reconnaissance Office.
 
-3042. Emergency preparedness.
+3042. Repealed.
 
 3043. Annual national security strategy report.
 
@@ -100,6 +100,10 @@ Sec.
 
 3058. National Intelligence Centers.
 
+3059. Foreign Malign Influence Response Center.
+
+3060. Climate Security Advisory Council.
+
 #### SUBCHAPTER II—MISCELLANEOUS PROVISIONS ####
 
 3071. National Security Agency voluntary separation.
@@ -119,6 +123,8 @@ Sec.
 3076. Separability.
 
 3077. Effective date.
+
+3078. Repealing and savings provisions.
 
 #### SUBCHAPTER III—ACCOUNTABILITY FOR INTELLIGENCE ACTIVITIES ####
 
@@ -152,7 +158,7 @@ Sec.
 
 3105. Summary of intelligence relating to terrorist recidivism of detainees held at United States Naval Station, Guantanamo Bay, Cuba.
 
-3105a. Annual assessment of intelligence community performance by function.
+3105a. Repealed.
 
 3106. Dates for submittal of various annual and semiannual reports to the congressional intelligence committees.
 
@@ -163,6 +169,8 @@ Sec.
 3109. Significant interpretations of law concerning intelligence activities.
 
 3110. Annual report on violations of law or executive order.
+
+3111. Briefings and notifications on counterintelligence activities of the Federal Bureau of Investigation.
 
 #### SUBCHAPTER IV—PROTECTION OF CERTAIN NATIONAL SECURITY INFORMATION ####
 
@@ -197,6 +205,8 @@ Sec.
 3161. Procedures.
 
 3162. Requests by authorized investigative agencies.
+
+3162a. Security Executive Agent.
 
 3163. Exceptions.
 
@@ -255,6 +265,14 @@ Sec.
 3233. Misuse of the Office of the Director of National Intelligence name, initials, or seal.
 
 3234. Prohibited personnel practices in the intelligence community.
+
+3235. Semiannual reports on investigations of unauthorized disclosures of classified information.
+
+3236. Inspector General external review panel.
+
+3237. Annual reports on influence operations and campaigns in the United States by the Communist Party of China.
+
+3238. Annual reports on influence operations and campaigns in the United States by the Russian Federation.
 
 #### Codification ####
 

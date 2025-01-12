@@ -28,7 +28,11 @@ Sec.
 
 [2350m. Renumbered.]
 
+2350n. North Atlantic Treaty Organization Joint Force Command.
+
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title XII, §1249(b), Dec. 20, 2019, 133 Stat. 1664, added item 2350n.
 
 **2016**—Pub. L. 114–328, div. A, title XII, §1241(o)(7), Dec. 23, 2016, 130 Stat. 2512, struck out item 2350m "Participation in multinational military centers of excellence".
 

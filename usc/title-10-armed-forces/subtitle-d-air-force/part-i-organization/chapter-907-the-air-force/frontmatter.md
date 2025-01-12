@@ -6,23 +6,25 @@ Sec.
 
 9062. Policy; composition; aircraft authorization.
 
-9067. Designation: officers to perform certain professional functions.
+9063. Designation: officers to perform certain professional functions.
 
-9069. Air Force nurses: Chief; appointment.
+9064. Air Force nurses: Chief; appointment.
 
-9074. Commands: territorial organization.
+9065. Commands: territorial organization.
 
-9075. Regular Air Force: composition.
+9066. Regular Air Force: composition.
 
-9081. Assistant Surgeon General for Dental Services.
+9067. Assistant Surgeon General for Dental Services.
 
-9084. Officer career field for space.
+[9069, 9074, 9075, 9081, 9084. Renumbered.]
 
 #### Prior Provisions ####
 
 A prior chapter 907, consisting of sections 9411 to 9417, related to schools and camps, prior to renumbering as chapter 957 of this title.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title IX, §952(g), Dec. 20, 2019, 133 Stat. 1563, added items 9063 to 9067 and struck out former item 9067 "Designation: officers to perform certain professional functions" and items 9069 "Air Force nurses: Chief; appointment", 9074 "Commands: territorial organization", 9075 "Regular Air Force: composition", 9081 "Assistant Surgeon General for Dental Services", and 9084 "Officer career field for space".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(4), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 807 of this title as this chapter and items 8061, 8062, 8067, 8069, 8074, 8075, 8081, and 8084 as 9061, 9062, 9067, 9069, 9074, 9075, 9081, and 9084, respectively.
 

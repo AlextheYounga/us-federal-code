@@ -23,13 +23,13 @@ Chap. Sec.
 
 9. Defense Budget Matters 221
 
-9A. Audit 251 1
+9A. Audit 240a
 
 11. Reserve Components 261
 
 12. The Militia 246
 
-13. Insurrection 251 1
+13. Insurrection 251
 
 14. Arming of American Vessels 261
 
@@ -37,7 +37,7 @@ Chap. Sec.
 
 16. Security Cooperation 301
 
-19. Cyber Matters 391
+19. Cyber Matters 1 391
 
 20. Humanitarian and Other Assistance 401
 
@@ -171,9 +171,11 @@ Chap. Sec.
 
 111. Support of Science, Mathematics, and Engineering Education 2191
 
-112. Information Security Scholarship Program 2 2200
+112. Cyber Scholarship Program 2200
 
 ### **PART IV—SERVICE, SUPPLY, AND PROCUREMENT** ###
+
+[113. 2 Defense Civilian Training Corps 2200g]
 
 131. Planning and Coordination 2201
 
@@ -191,7 +193,7 @@ Chap. Sec.
 
 139. Research and Development 2351
 
-140. Procurement of Commercial Items 2375
+140. Procurement of Commercial Products and Commercial Services 2377 3
 
 141. Miscellaneous Procurement Provisions 2381
 
@@ -349,11 +351,9 @@ Chap. Sec.
 
 385. Procurement Technical Assistance Cooperative Agreement Program 4881
 
-#### Amendment of Analysis ####
-
-Pub. L. 115–232, div. A, title VIII, §836(e)(12), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this analysis is amended by amending item for chapter 140 to read "Procurement of Commercial Products and Commercial Services" and by substituting "2377" for "2375". See 2018 Amendment note below.
-
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title XVII, §1731(a)(1), (2), Dec. 20, 2019, 133 Stat. 1812, substituted "240a" for "251" in item for chapter 9A and "Cyber Scholarship Program" for "Information Security Scholarship Program" in item for chapter 112.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §§801(b), 836(e)(12), Aug. 13, 2018, 132 Stat. 1831, 1870, substituted "Procurement of Commercial Products and Commercial Services" for "Procurement of Commercial Items" and "2377" for "2375" in item for chapter 140 and added item for part V containing items for subparts A to I and chapters 201 to 385.
 
@@ -481,6 +481,8 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 
 **1958**—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted "General Service Requirements" for "Service Requirements for Reserves" in item for chapter 37, "971" for "[No present sections]" in item for chapter 49, "Medical and Dental Care" for "Voting by Members of Armed Forces" in item for chapter 55, and struck out "Care of the Dead" and substituted "1475" for "1481" in item for chapter 75.
 
-[<sup>1</sup> So in original. Chapters 9A and 13 both begin with a section 251. Section 251 in chapter 9A was renumbered by Pub. L. 115–232 without corresponding amendment of subtitle analysis.](#PARTIanalysis_1)
+[<sup>1</sup> Chapter heading amended by Pub. L. 116–92 without corresponding amendment of subtitle analysis.](#PARTIanalysis_1)
 
-[<sup>2</sup> Chapter heading amended by Pub. L. 115–91 without corresponding amendment of subtitle analysis.](#PARTIIIanalysis_2)
+[<sup>2</sup> Chapter added by Pub. L. 116–92 without corresponding amendment of subtitle analysis.](#PARTIVanalysis_2)
+
+[<sup>3</sup> So in original. Probably should be "2375".](#PARTIVanalysis_3)

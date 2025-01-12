@@ -428,11 +428,11 @@ William J. Clinton.
 
 #### Continuance of Certain Federal Advisory Committees ####
 
-Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, as amended by Ex. Ord. No. 13872, §4(a), May 13, 2019, 84 F.R. 22324, provided:
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, provided:
 
 By the authority vested in me as President, by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
 
-Section 1. Each advisory committee listed below is continued until September 30, 2019.
+Section 1. Each advisory committee listed below is continued until September 30, 2021.
 
 (a) Committee for the Preservation of the White House; Executive Order 11145, as amended (Department of the Interior).
 
@@ -460,53 +460,51 @@ Section 1. Each advisory committee listed below is continued until September 30,
 
 (m) President's Committee for People with Intellectual Disabilities; Executive Order 12994, as amended (Department of Health and Human Services).
 
-(n) Invasive Species Advisory Committee; Executive Order 13112, as amended (Department of the Interior).
+(n) Advisory Board on Radiation and Worker Health; Executive Order 13179 (Department of Health and Human Services).
 
-(o) Marine Protected Areas Federal Advisory Committee; Executive Order 13158 (Department of Commerce).
+(o) National Infrastructure Advisory Council; Executive Order 13231, as amended (Department of Homeland Security).
 
-(p) Advisory Board on Radiation and Worker Health; Executive Order 13179 (Department of Health and Human Services).
+(p) President's Council on Sports, Fitness, and Nutrition; Executive Order 13265, as amended (Department of Health and Human Services).
 
-(q) National Infrastructure Advisory Council; Executive Order 13231, as amended (Department of Homeland Security).
+(q) President's Advisory Commission on Asian Americans and Pacific Islanders; Executive Order 13872 (Department of Commerce).
 
-(r) President's Council on Fitness, Sports, and Nutrition; Executive Order 13265, as amended (Department of Health and Human Services).
+(r) President's Council of Advisors on Science and Technology; Executive Order 13539, as amended (Department of Energy).
 
-(s) [Superseded by Ex. Ord. No. 13872, §4(a), May 13, 2019, 84 F.R. 22324.]
+(s) Interagency Task Force on Veterans Small Business Development; Executive Order 13540 (Small Business Administration).
 
-(t) President's Council of Advisors on Science and Technology; Executive Order 13539, as amended (Department of Energy).
+(t) State, Local, Tribal, and Private Sector (SLTPS) Policy Advisory Committee; Executive Order 13549 (National Archives and Records Administration).
 
-(u) Interagency Task Force on Veterans Small Business Development; Executive Order 13540 (Small Business Administration).
+(u) President's Advisory Commission on Educational Excellence for Hispanics; Executive Order 13555 (Department of Education).
 
-(v) State, Local, Tribal, and Private Sector (SLTPS) Policy Advisory Committee; Executive Order 13549 (National Archives and Records Administration).
+(v) President's Advisory Commission on Educational Excellence for African Americans; Executive Order 13621 (Department of Education).
 
-(w) President's Advisory Commission on Educational Excellence for Hispanics; Executive Order 13555 (Department of Education).
+(w) President's Advisory Council on Doing Business in Africa; Executive Order 13675, as amended (Department of Commerce).
 
-(x) President's Advisory Commission on Educational Excellence for African Americans; Executive Order 13621 (Department of Education).
+(x) Commerce Spectrum Management Advisory Committee; initially established pursuant to Presidential Memorandum on Improving Spectrum Management for the 21st Century (November 30, 2004) (Department of Commerce).
 
-(y) President's Advisory Council on Doing Business in Africa; Executive Order 13675, as amended (Department of Commerce).
+(y) National Space-Based Positioning, Navigation, and Timing Advisory Board; National Security Presidential Directive-39, "U.S. National Space-Based Position, Navigation, and Timing Policy" (December 8, 2004) (National Aeronautics and Space Administration).
 
-(z) Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria; Executive Order 13676 (Department of Health and Human Services).
+(z) San Juan Islands National Monument Advisory Committee; Proclamation 8947 of March 25, 2013 (Department of the Interior).
 
-(aa) Commerce Spectrum Management Advisory Committee; initially established pursuant to Presidential Memorandum on Improving Spectrum Management for the 21st Century (November 30, 2004) (Department of Commerce).
+(aa) Bears Ears National Monument Advisory Committee; Proclamation 9558 of December 28, 2016, as amended (Department of the Interior).
 
-(bb) National Space-Based Positioning, Navigation, and Timing Advisory Board; National Security Presidential Directive–39, "U.S. National Space-Based Position, Navigation, and Timing Policy" (December 8, 2004) (National Aeronautics and Space Administration).
+(bb) Gold Butte National Monument Advisory Committee; Proclamation 9559 of December 28, 2016 (Department of the Interior).
 
-(cc) San Juan Islands National Monument Advisory Committee; Proclamation 8947 of March 25, 2013 (Department of the Interior).
+(cc) Grand Staircase-Escalante National Monument Advisory Committee; Proclamation 9682 of December 4, 2017 (Department of the Interior).
 
-(dd) Bears Ears National Monument Advisory Committee; Proclamation 9558 of December 28, 2016 (Department of the Interior).
-
-(ee) Gold Butte National Monument Advisory Committee; Proclamation 9559 of December 28, 2016 (Department of the Interior).
-
-(ff) President's Board of Advisors on Historically Black Colleges and Universities; Executive Order 13779 (Department of Education).
+(dd) President's Board of Advisors on Historically Black Colleges and Universities; Executive Order 13779 (Department of Education).
 
 Sec. 2. Notwithstanding the provisions of any other Executive Order, the functions of the President under the Federal Advisory Committee Act that are applicable to the committees listed in section 1 of this order shall be performed by the head of the department or agency designated after each committee, in accordance with the regulations, guidelines, and procedures established by the Administrator of General Services.
 
-Sec. 3. Sections 1 and 2 of Executive Order 13708 of September 30, 2015, are hereby superseded by sections 1 and 2 of this order. Executive Order 13805 of July 19, 2017 (Establishing a Presidential Advisory Council on Infrastructure) is hereby revoked.
+Sec. 3. Sections 1 and 2 of Executive Order 13811 of September 29, 2017, are hereby superseded by sections 1 and 2 of this order.
 
-Sec. 4. This order shall be effective September 30, 2017.
+Sec. 4. This order shall be effective September 30, 2019.
 
 Donald J. Trump.
 
 Provisions providing for the continuance of certain Federal advisory committees were contained in the following:
+
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, partially superseded by Ex. Ord. No. 13889, §3, Sept. 27, 2019, 84 F.R. 52745.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, partially superseded by Ex. Ord. No. 13811, §3, Sept. 29, 2017, 82 F.R. 46365.
 
@@ -677,7 +675,7 @@ Except as provided in section 7(b), this Act shall become effective upon the exp
 INSPECTOR GENERAL ACT OF 1978
 ==========
 
-Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, title V, §508(n), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1)–(3), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)–(c), Sept. 8, 1982, 96 Stat. 750–752; Pub. L. 99–93, title I, §150(a), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §§102(a)–(d), (f), (g), 104(a), 105–107, 109, 110, Oct. 18, 1988, 102 Stat. 2515–2529; Pub. L. 100–527, §13(h), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), title VII, §702(c), Aug. 9, 1989, 103 Stat. 393, 415; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(1), (2)(A), (3)(A), (4), (5), Sept. 21, 1993, 107 Stat. 889, 890; Pub. L. 103–204, §23(a), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–106, div. A, title XV, §1502(f)(6), div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 510, 677; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b), title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, 3009–393; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–206, title I, §1103(a)–(c)(1), (e)(1)–(3), July 22, 1998, 112 Stat. 705, 708, 709; Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 105–277, div. G, title XIII, §1314(b), title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–792; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–113, div. B, §1000(a)(7) [title II, §205], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 106–422, §1(b), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–189, §22(a), (c), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 107–296, title VIII, §§811(e), 812(a), title XI, §1112(a), title XVII, §1701, Nov. 25, 2002, 116 Stat. 2221, 2222, 2275, 2313; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 108–7, div. L, §104(b), (c)(2), Feb. 20, 2003, 117 Stat. 529, 531; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1078, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3695, 3868; Pub. L. 109–177, title VI, §605(e)(3), (4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–234, title XIV, §14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, §1105(c), July 30, 2008, 122 Stat. 2668; Pub. L. 110–409, §§2–4(a)(1), 5, 6(a), (b), 7(a), (d)(1), 8, 9, 11–13(a), 14, Oct. 14, 2008, 122 Stat. 4302, 4305, 4313–4316; Pub. L. 110–417, [div. A], title IX, §§907, 931(b)(2), Oct. 14, 2008, 122 Stat. 4569, 4575; Pub. L. 111–13, title IV, §4101, Apr. 21, 2009, 123 Stat. 1597; Pub. L. 111–84, div. A, title X, §1042, Oct. 28, 2009, 123 Stat. 2455; Pub. L. 111–203, title IX, §§989B–989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §§405(d), 431, Oct. 7, 2010, 124 Stat. 2719, 2731; Pub. L. 112–199, title I, §117(a), (b), Nov. 27, 2012, 126 Stat. 1474, 1475; Pub. L. 112–239, div. A, title VIII, §848, title XVI, §1614, Jan. 2, 2013, 126 Stat. 1851, 2066; Pub. L. 113–126, title III, §310, title IV, §§402, 412, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1408, 1409, 1420; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. H, title IV, §401(a), div. M, title III, §304, Dec. 18, 2015, 129 Stat. 2639, 2913; Pub. L. 114–317, §§2, 3, 4(c)–6, 7(b)(1), (c), (d)(2), (3), Dec. 16, 2016, 130 Stat. 1595–1606; Pub. L. 115–141, div. P, title V, §501(a), Mar. 23, 2018, 132 Stat. 1090; Pub. L. 115–192, §2(a)–(c), June 25, 2018, 132 Stat. 1502, 1503; Pub. L. 115–254, div. F, title I, §1414, Oct. 5, 2018, 132 Stat. 3492.
+Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, title V, §508(n), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1)–(3), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)–(c), Sept. 8, 1982, 96 Stat. 750–752; Pub. L. 99–93, title I, §150(a), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §§102(a)–(d), (f), (g), 104(a), 105–107, 109, 110, Oct. 18, 1988, 102 Stat. 2515–2529; Pub. L. 100–527, §13(h), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), title VII, §702(c), Aug. 9, 1989, 103 Stat. 393, 415; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(1), (2)(A), (3)(A), (4), (5), Sept. 21, 1993, 107 Stat. 889, 890; Pub. L. 103–204, §23(a), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–106, div. A, title XV, §1502(f)(6), div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 510, 677; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b), title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, 3009–393; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–206, title I, §1103(a)–(c)(1), (e)(1)–(3), July 22, 1998, 112 Stat. 705, 708, 709; Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 105–277, div. G, title XIII, §1314(b), title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–792; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–113, div. B, §1000(a)(7) [title II, §205], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 106–422, §1(b), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–189, §22(a), (c), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 107–296, title VIII, §§811(e), 812(a), title XI, §1112(a), title XVII, §1701, Nov. 25, 2002, 116 Stat. 2221, 2222, 2275, 2313; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 108–7, div. L, §104(b), (c)(2), Feb. 20, 2003, 117 Stat. 529, 531; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1078, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3695, 3868; Pub. L. 109–177, title VI, §605(e)(3), (4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–234, title XIV, §14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, §1105(c), July 30, 2008, 122 Stat. 2668; Pub. L. 110–409, §§2–4(a)(1), 5, 6(a), (b), 7(a), (d)(1), 8, 9, 11–13(a), 14, Oct. 14, 2008, 122 Stat. 4302, 4305, 4313–4316; Pub. L. 110–417, [div. A], title IX, §§907, 931(b)(2), Oct. 14, 2008, 122 Stat. 4569, 4575; Pub. L. 111–13, title IV, §4101, Apr. 21, 2009, 123 Stat. 1597; Pub. L. 111–84, div. A, title X, §1042, Oct. 28, 2009, 123 Stat. 2455; Pub. L. 111–203, title IX, §§989B–989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §§405(d), 431, Oct. 7, 2010, 124 Stat. 2719, 2731; Pub. L. 112–199, title I, §117(a), (b), Nov. 27, 2012, 126 Stat. 1474, 1475; Pub. L. 112–239, div. A, title VIII, §848, title XVI, §1614, Jan. 2, 2013, 126 Stat. 1851, 2066; Pub. L. 113–126, title III, §310, title IV, §§402, 412, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1408, 1409, 1420; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. H, title IV, §401(a), div. M, title III, §304, Dec. 18, 2015, 129 Stat. 2639, 2913; Pub. L. 114–317, §§2, 3, 4(c)–6, 7(b)(1), (c), (d)(2), (3), Dec. 16, 2016, 130 Stat. 1595–1606; Pub. L. 115–141, div. P, title V, §501(a), Mar. 23, 2018, 132 Stat. 1090; Pub. L. 115–192, §2(a)–(c), June 25, 2018, 132 Stat. 1502, 1503; Pub. L. 115–254, div. F, title I, §1414, Oct. 5, 2018, 132 Stat. 3492; Pub. L. 116–92, div. A, title XVII, §§1710, 1732(b)–1734, div. E, title LXVII, §6726(c), Dec. 20, 2019, 133 Stat. 1801, 1817, 1818, 2236.
 
 ### §1. Short title ###
 
@@ -1107,7 +1105,7 @@ Amendment by Pub. L. 100–504 effective 180 days after Oct. 18, 1988, see secti
 
 (18) a description of the metrics used for developing the data for the statistical tables under paragraph (17);
 
-(19) a report on each investigation conducted by the Office involving a senior Government employee where allegations of misconduct were substantiated, including a detailed description of—
+(19) a report on each investigation conducted by the Office involving a senior Government employee where allegations of misconduct were substantiated, including the name of the senior government official (as defined by the department or agency) if already made public by the Office, and a detailed description of—
 
 (A) the facts and circumstances of the investigation; and
 
@@ -1241,7 +1239,7 @@ except that such statement may exclude such audit reports that are under formal 
 
 (B) any commissioned officer in the Armed Forces in pay grades O–6 and above.
 
-(Pub. L. 95–452, §5, Oct. 12, 1978, 92 Stat. 1103; Pub. L. 97–252, title XI, §1117(c), Sept. 8, 1982, 96 Stat. 752; Pub. L. 100–504, title I, §§102(g), 106, Oct. 18, 1988, 102 Stat. 2521, 2525; Pub. L. 104–208, div. A, title I, §101(f) [title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393; Pub. L. 110–409, §12, Oct. 14, 2008, 122 Stat. 4315; Pub. L. 111–203, title IX, §989C, July 21, 2010, 124 Stat. 1945; Pub. L. 114–317, §§4(c), 7(d)(2)(B), (C), Dec. 16, 2016, 130 Stat. 1600, 1606; Pub. L. 115–192, §2(c), June 25, 2018, 132 Stat. 1503.)
+(Pub. L. 95–452, §5, Oct. 12, 1978, 92 Stat. 1103; Pub. L. 97–252, title XI, §1117(c), Sept. 8, 1982, 96 Stat. 752; Pub. L. 100–504, title I, §§102(g), 106, Oct. 18, 1988, 102 Stat. 2521, 2525; Pub. L. 104–208, div. A, title I, §101(f) [title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393; Pub. L. 110–409, §12, Oct. 14, 2008, 122 Stat. 4315; Pub. L. 111–203, title IX, §989C, July 21, 2010, 124 Stat. 1945; Pub. L. 114–317, §§4(c), 7(d)(2)(B), (C), Dec. 16, 2016, 130 Stat. 1600, 1606; Pub. L. 115–192, §2(c), June 25, 2018, 132 Stat. 1503; Pub. L. 116–92, div. A, title XVII, §1710, Dec. 20, 2019, 133 Stat. 1801.)
 
 #### References in Text ####
 
@@ -1252,6 +1250,8 @@ The General Schedule, referred to in subsec. (f)(7)(A), is set out under section
 Commissioned officer pay grade O–6, referred to in subsec. (f)(7)(B), is described in section 201 of Title 37, Pay and Allowances of the Uniformed Services, and is set out under section 5332 of this title.
 
 #### Amendments ####
+
+**2019**—Subsec. (a)(19). Pub. L. 116–92, which directed insertion of "the name of the senior government official (as defined by the department or agency) if already made public by the Office, and" after "including", was executed by making the insertion after "including" the first time appearing to reflect the probable intent of Congress.
 
 **2018**—Subsec. (a)(20). Pub. L. 115–192, §2(c)(1), amended par. (20) generally. Prior to amendment, par. (20) read as follows: "a detailed description of any instance of whistleblower retaliation, including information about the official found to have engaged in retaliation and what, if any, consequences the establishment imposed to hold that official accountable;".
 
@@ -2721,7 +2721,7 @@ Pub. L. 109–435, title VI, §605(c), Dec. 20, 2006, 120 Stat. 3242, provided t
 
 #### Inspector General of Chemical Safety and Hazard Investigation Board ####
 
-Pub. L. 116–94, div. D, title III, Dec. 20, 2019, 133 Stat. 2735, provided that: "That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the [Chemical Safety and Hazard Investigation] Board:  *Provided further*, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board."
+Pub. L. 116–94, div. D, title III, Dec. 20, 2019, 133 Stat. 2735, provided in part: "That notwithstanding any other provision of law, the individual appointed to the position of Inspector General of the Environmental Protection Agency (EPA) shall, by virtue of such appointment, also hold the position of Inspector General of the [Chemical Safety and Hazard Investigation] Board:  *Provided further*, That notwithstanding any other provision of law, the Inspector General of the Board shall utilize personnel of the Office of Inspector General of EPA in performing the duties of the Inspector General of the Board, and shall not appoint any individuals to positions within the Board."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -3013,23 +3013,9 @@ Pub. L. 100–504, title I, §111, Oct. 18, 1988, 102 Stat. 2529, directed the h
 
 (f) An action taken by the head of an establishment or an Inspector General under subsections (a) through (e) shall not be subject to judicial review.
 
-(g)(1) The Inspector General of the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Reconnaissance Office, and the National Security Agency shall each submit to the congressional intelligence committees each year a report that sets forth the following:
+(g) An individual who has submitted a complaint or information to an Inspector General under this section may notify any member of the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate, or a staff member of either such Committee, of the fact that such individual has made a submission to that particular Inspector General, and of the date on which such submission was made.
 
-(A) The personnel and funds requested by such Inspector General for the fiscal year beginning in such year for the activities of the office of such Inspector General in such fiscal year.
-
-(B) The plan of such Inspector General for such activities, including the programs and activities scheduled for review by the office of such Inspector General during such fiscal year.
-
-(C) An assessment of the current ability of such Inspector General to hire and retain qualified personnel for the office of such Inspector General.
-
-(D) Any matters that such Inspector General considers appropriate regarding the independence and effectiveness of the office of such Inspector General.
-
-(2) The submittal date for a report under paragraph (1) each year shall be the date provided in section 507 of the National Security Act of 1947 [50 U.S.C. 3106].
-
-(3) In this subsection, the term "congressional intelligence committees" shall have the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 401a) [50 U.S.C. 3003].
-
-(h) An individual who has submitted a complaint or information to an Inspector General under this section may notify any member of the Permanent Select Committee on Intelligence of the House of Representatives or the Select Committee on Intelligence of the Senate, or a staff member of either such Committee, of the fact that such individual has made a submission to that particular Inspector General, and of the date on which such submission was made.
-
-(i) In this section:
+(h) In this section:
 
 (1) The term "urgent concern" means any of the following:
 
@@ -3041,13 +3027,29 @@ Pub. L. 100–504, title I, §111, Oct. 18, 1988, 102 Stat. 2529, directed the h
 
 (2) The term "intelligence committees" means the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(Pub. L. 95–452, §8H, as added Pub. L. 105–272, title VII, §702(b)(1), Oct. 20, 1998, 112 Stat. 2415; amended Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 110–417, [div. A], title IX, §931(b)(2), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–259, title IV, §431(b), Oct. 7, 2010, 124 Stat. 2731; Pub. L. 113–126, title III, §310, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1420.)
+(Pub. L. 95–452, §8H, as added Pub. L. 105–272, title VII, §702(b)(1), Oct. 20, 1998, 112 Stat. 2415; amended Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 110–417, [div. A], title IX, §931(b)(2), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 111–259, title IV, §431(b), Oct. 7, 2010, 124 Stat. 2731; Pub. L. 113–126, title III, §310, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1420; Pub. L. 116–92, div. E, title LXVII, §6726(c), Dec. 20, 2019, 133 Stat. 2236.)
 
 #### Prior Provisions ####
 
 A prior section 8H of the Inspector General Act of 1978 was renumbered section 8J.
 
 #### Amendments ####
+
+**2019**—Subsecs. (g) to (i). Pub. L. 116–92 redesignated subsecs. (h) and (i) as (g) and (h), respectively, and struck out former subsec. (g) which read as follows:
+
+"(g)(1) The Inspector General of the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Reconnaissance Office, and the National Security Agency shall each submit to the congressional intelligence committees each year a report that sets forth the following:
+
+"(A) The personnel and funds requested by such Inspector General for the fiscal year beginning in such year for the activities of the office of such Inspector General in such fiscal year.
+
+"(B) The plan of such Inspector General for such activities, including the programs and activities scheduled for review by the office of such Inspector General during such fiscal year.
+
+"(C) An assessment of the current ability of such Inspector General to hire and retain qualified personnel for the office of such Inspector General.
+
+"(D) Any matters that such Inspector General considers appropriate regarding the independence and effectiveness of the office of such Inspector General.
+
+"(2) The submittal date for a report under paragraph (1) each year shall be the date provided in section 507 of the National Security Act of 1947.
+
+"(3) In this subsection, the term 'congressional intelligence committees' shall have the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 401a)."
 
 **2014**—Subsec. (a)(1)(B), (C). Pub. L. 113–126, §310(1), (2), added subpar. (B) and redesignated former subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
@@ -3221,7 +3223,11 @@ Pub. L. 111–259, title IV, §405(d), Oct. 7, 2010, 124 Stat. 2719, provided th
 
 ### §8L. Special Provisions Concerning Overseas Contingency Operations ###
 
-(a) Additional Responsibilities of Chair of Council of Inspectors General on Integrity and Efficiency.—Upon the commencement or designation of a military operation as an overseas contingency operation that exceeds 60 days, the Chair of the Council of Inspectors General on Integrity and Efficiency (CIGIE) shall, in consultation with the members of the Council, have the additional responsibilities specified in subsection (b) with respect to the Inspectors General specified in subsection (c).
+(a) Additional Responsibilities of Chair of Council of Inspectors General on Integrity and Efficiency.—The Chair of the Council of Inspectors General on Integrity and Efficiency (CIGIE) shall, in consultation with the members of the Council, have the additional responsibilities specified in subsection (b) with respect to the Inspectors General specified in subsection (c) upon the earlier of—
+
+(1) the commencement or designation of a military operation as an overseas contingency operation that exceeds 60 days; or
+
+(2) receipt of a notification under section 113(n) of title 10, United States Code, with respect to an overseas contingency operation.
 
 (b) Specific Responsibilities.—The responsibilities specified in this subsection are the following:
 
@@ -3239,7 +3245,13 @@ Pub. L. 111–259, title IV, §405(d), Oct. 7, 2010, 124 Stat. 2719, provided th
 
 (3) The Inspector General of the United States Agency for International Development.
 
-(d) Lead Inspector General for Overseas Contingency Operation.—(1) A lead Inspector General for an overseas contingency operation shall be designated by the Chair of the Council of Inspectors General on Integrity and Efficiency under subsection (b)(1) not later than 30 days after the commencement or designation of the military operation concerned as an overseas contingency operation that exceeds 60 days. The lead Inspector General for a contingency operation shall be designated from among the Inspectors General specified in subsection (c).
+(d) Lead Inspector General for Overseas Contingency Operation.—(1) A lead Inspector General for an overseas contingency operation shall be designated by the Chair of the Council of Inspectors General on Integrity and Efficiency under subsection (b)(1) not later than 30 days after the earlier of—
+
+(A) the commencement or designation of the military operation concerned as an overseas contingency operation that exceeds 60 days; or
+
+(B) receipt of a notification under section 113(n) of title 10, United States Code, with respect to an overseas contingency operation.
+
+The lead Inspector General for a contingency operation shall be designated from among the Inspectors General specified in subsection (c).
 
 (2) The lead Inspector General for an overseas contingency operation shall have the following responsibilities:
 
@@ -3249,11 +3261,19 @@ Pub. L. 111–259, title IV, §405(d), Oct. 7, 2010, 124 Stat. 2719, provided th
 
 (C) To review and ascertain the accuracy of information provided by Federal agencies relating to obligations and expenditures, costs of programs and projects, accountability of funds, and the award and execution of major contracts, grants, and agreements in support of the contingency operation.
 
-(D)(i) If none of the Inspectors General specified in subsection (c) has principal jurisdiction over a matter with respect to the contingency operation, to exercise responsibility for discharging oversight responsibilities in accordance with this Act with respect to such matter.
+(D)(i) If none of the Inspectors General specified in subsection (c) has principal jurisdiction over a matter with respect to the contingency operation, to identify and coordinate with the Inspector General who has principal jurisdiction over the matter to ensure effective oversight.
 
 (ii) If more than one of the Inspectors General specified in subsection (c) has jurisdiction over a matter with respect to the contingency operation, to determine principal jurisdiction for discharging oversight responsibilities in accordance with this Act with respect to such matter.
 
-(E) To employ, or authorize the employment by the other Inspectors General specified in subsection (c), on a temporary basis using the authorities in section 3161 of title 5, United States Code, such auditors, investigators, and other personnel as the lead Inspector General considers appropriate to assist the lead Inspector General and such other Inspectors General on matters relating to the contingency operation.
+(iii)(I) Upon written request by the Inspector General with principal jurisdiction over a matter with respect to the contingency operation, and with the approval of the lead Inspector General, an Inspector General specified in subsection (c) may provide investigative support or conduct an independent investigation of an allegation of criminal activity by any United States personnel, contractor, subcontractor, grantee, or vendor in the applicable theater of operations.
+
+(II) In the case of a determination by the lead Inspector General that no Inspector General has principal jurisdiction over a matter with respect to the contingency operation, the lead Inspector General may—
+
+(aa) conduct an independent investigation of an allegation described in subclause (I); or
+
+(bb) request that an Inspector General specified in subsection (c) conduct such investigation.
+
+(E) To employ, or authorize the employment by the other Inspectors General specified in subsection (c), on a temporary basis using the authorities in section 3161 of title 5, United States Code,<sup><a href="#8L_1_target" name="8L_1">1</a></sup> (without regard to subsection (b)(2) of such section) such auditors, investigators, and other personnel as the lead Inspector General considers appropriate to assist the lead Inspector General and such other Inspectors General on matters relating to the contingency operation.
 
 (F) To submit to Congress on a bi-annual basis, and to make available on an Internet website available to the public, a report on the activities of the lead Inspector General and the other Inspectors General specified in subsection (c) with respect to the contingency operation, including—
 
@@ -3265,23 +3285,75 @@ Pub. L. 111–259, title IV, §405(d), Oct. 7, 2010, 124 Stat. 2719, provided th
 
 (H) To carry out such other responsibilities relating to the coordination and efficient and effective discharge by the Inspectors General specified in subsection (c) of duties relating to the contingency operation as the lead Inspector General shall specify.
 
+(I) To enhance cooperation among Inspectors General and encourage comprehensive oversight of the contingency operation, any Inspector General responsible for conducting oversight of any program or operation performed in support of the contingency operation may, to the maximum extent practicable and consistent with the duties, responsibilities, policies, and procedures of such Inspector General—
+
+(i) coordinate such oversight activities with the lead Inspector General; and
+
+(ii) provide information requested by the lead Inspector General relating to the responsibilities of the lead Inspector General described in subparagraphs (B), (C), and (G).
+
 (3)(A) The lead Inspector General for an overseas contingency operation may employ, or authorize the employment by the other Inspectors General specified in subsection (c) of, annuitants covered by section 9902(g) of title 5, United States Code, for purposes of assisting the lead Inspector General in discharging responsibilities under this subsection with respect to the contingency operation.
 
 (B) The employment of annuitants under this paragraph shall be subject to the provisions of section 9902(g) of title 5, United States Code, as if the lead Inspector General concerned was the Department of Defense.
 
-(C) The period of employment of an annuitant under this paragraph may not exceed three years, except that the period may be extended for up to an additional two years in accordance with the regulations prescribed pursuant to section 3161(b)(2) of title 5, United States Code.
+(C)(i) An annuitant receiving an annuity under the Foreign Service Retirement and Disability System or the Foreign Service Pension System under chapter 8 of title I of the Foreign Service Act of 1980 (22 U.S.C. 4041 et seq.) who is reemployed under this subsection—
+
+(I) shall continue to receive the annuity; and
+
+(II) shall not be considered a participant for purposes of chapter 8 of title I of the Foreign Service Act of 1980 (22 U.S.C. 4041 et seq.) or an employee for purposes of subchapter III of chapter 83 or chapter 84 of title 5, United States Code.
+
+(ii) An annuitant described in clause (i) may elect in writing for the reemployment of the annuitant under this subsection to be subject to section 824 of the Foreign Service Act of 1980 (22 U.S.C. 4064). A reemployed annuitant shall make an election under this clause not later than 90 days after the date of the reemployment of the annuitant.
 
 (4) The lead Inspector General for an overseas contingency operation shall discharge the responsibilities for the contingency operation under this subsection in a manner consistent with the authorities and requirements of this Act generally and the authorities and requirements applicable to the Inspectors General specified in subsection (c) under this Act.
+
+(5)(A) A person employed by a lead Inspector General for an overseas contingency operation under this section shall acquire competitive status for appointment to any position in the competitive service for which the employee possesses the required qualifications upon the completion of 2 years of continuous service as an employee under this section.
+
+(B) No person who is first employed as described in subparagraph (A) more than 2 years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 may acquire competitive status under subparagraph (A).
 
 (e) Sunset for Particular Contingency Operations.—The requirements and authorities of this section with respect to an overseas contingency operation shall cease at the end of the first fiscal year after the commencement or designation of the contingency operation in which the total amount appropriated for the contingency operation is less than $100,000,000.
 
 (f) Construction of Authority.—Nothing in this section shall be construed to limit the ability of the Inspectors General specified in subsection (c) to enter into agreements to conduct joint audits, inspections, or investigations in the exercise of their oversight responsibilities in accordance with this Act with respect to overseas contingency operations.
 
-(Pub. L. 95–452, §8L, as added Pub. L. 112–239, div. A, title VIII, §848(2), Jan. 2, 2013, 126 Stat. 1851.)
+(Pub. L. 95–452, §8L, as added Pub. L. 112–239, div. A, title VIII, §848(2), Jan. 2, 2013, 126 Stat. 1851; amended Pub. L. 116–92, div. A, title XVII, §§1732(b)–1734, Dec. 20, 2019, 133 Stat. 1817, 1818.)
+
+#### References in Text ####
+
+The Foreign Service Act of 1980, referred to in subsec. (d)(3)(C)(i), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 8 of title I of the Act is classified generally to part I (§4041 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (d)(5)(B), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
 
 #### Prior Provisions ####
 
 A prior section 8L of the Inspector General Act of 1978 was renumbered section 8M by Pub. L. 112–239.
+
+#### Amendments ####
+
+**2019**—Subsec. (a). Pub. L. 116–92, §1732(b)(1), substituted "The Chair" for "Upon the commencement or designation of a military operation as an overseas contingency operation that exceeds 60 days, the Chair" and inserted before period at end "upon the earlier of—
+
+"(1) the commencement or designation of a military operation as an overseas contingency operation that exceeds 60 days; or
+
+"(2) receipt of a notification under section 113(n) of title 10, United States Code, with respect to an overseas contingency operation".
+
+Subsec. (d)(1). Pub. L. 116–92, §1732(b)(2), substituted "the earlier of—
+
+"(A) the commencement or designation of the military operation concerned as an overseas contingency operation that exceeds 60 days; or
+
+"(B) receipt of a notification under section 113(n) of title 10, United States Code, with respect to an overseas contingency operation"
+
+for "the commencement or designation of the military operation concerned as an overseas contingency operation that exceeds 60 days".
+
+Subsec. (d)(2)(D)(i). Pub. L. 116–92, §1733(1)(A), substituted "to identify and coordinate with the Inspector General who has principal jurisdiction over the matter to ensure effective oversight" for "to exercise responsibility for discharging oversight responsibilities in accordance with this Act with respect to such matter".
+
+Subsec. (d)(2)(D)(iii). Pub. L. 116–92, §1733(1)(B), added cl. (iii).
+
+Subsec. (d)(2)(E). Pub. L. 116–92, §1734(1), inserted "(without regard to subsection (b)(2) of such section)" after "United States Code,".
+
+Subsec. (d)(2)(I). Pub. L. 116–92, §1733(2), added subpar. (I).
+
+Subsec. (d)(3)(C). Pub. L. 116–92, §1734(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "The period of employment of an annuitant under this paragraph may not exceed three years, except that the period may be extended for up to an additional two years in accordance with the regulations prescribed pursuant to section 3161(b)(2) of title 5, United States Code."
+
+Subsec. (d)(5). Pub. L. 116–92, §1734(3), added par. (5).
+
+[<sup>1</sup> So in original. The comma probably should follow "section)".](#8L_1)
 
 ### §8M. Information on websites of Offices of Inspectors General ###
 

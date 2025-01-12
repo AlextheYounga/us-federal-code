@@ -18,6 +18,8 @@ Sec.
 
 2358a. Authorities for certain positions at science and technology reinvention laboratories.
 
+2358b. Joint reserve detachment of the Defense Innovation Unit.
+
 2359. Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation.
 
 2359a. Defense Research and Development Rapid Innovation Program.
@@ -27,6 +29,8 @@ Sec.
 2360. Research and development laboratories: contracts for services of university students.
 
 2361. Award of grants and contracts to colleges and universities: requirement of competition.
+
+2361a. Extramural acquisition innovation and research activities.
 
 2362. Research and educational programs and activities: historically black colleges and universities and minority-serving institutions of higher education.
 
@@ -69,6 +73,8 @@ Sec.
 [2374b. Repealed.]
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title II, §213(a)(2), title VIII, §835(a)(2), Dec. 20, 2019, 133 Stat. 1257, 1496, added items 2361a and 2358b.
 
 **2018**—Pub. L. 115–232, div. A, title II, §§223(b), 224(a)(2), Aug. 13, 2018, 132 Stat. 1683, 1684, added items 2357 and 2359a.
 

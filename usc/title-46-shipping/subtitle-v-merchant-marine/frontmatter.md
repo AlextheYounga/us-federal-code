@@ -29,6 +29,8 @@ Chapter Sec.
 
 531. Maritime Security Fleet 53101
 
+532. Cable Security Fleet 53201
+
 533. Construction Reserve Funds 53301
 
 535. Capital Construction Funds 53501
@@ -70,6 +72,8 @@ Chapter Sec.
 581. Restrictions and Penalties 58101
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. C, title XXXV, §3521(a), Dec. 20, 2019, 133 Stat. 1997, added item for chapter 532.
 
 **2008**—Pub. L. 110–181, div. C, title XXXV, §3523(a)(6)(E), Jan. 28, 2008, 122 Stat. 600, added item for chapter 541.
 

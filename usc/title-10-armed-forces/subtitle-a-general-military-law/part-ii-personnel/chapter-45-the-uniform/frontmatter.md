@@ -32,6 +32,10 @@ Sec.
 
 **1968**—Pub. L. 90–235, §8(1)(B), Jan. 2, 1968, 81 Stat. 764, added item 771a.
 
+#### Functional Badge or Insignia Upon Commission for Chaplains ####
+
+Pub. L. 116–92, div. A, title V, §510B, Dec. 20, 2019, 133 Stat. 1348, provided that: "A military chaplain shall receive a functional badge or insignia upon commission."
+
 #### Notification Requirements Relating to Changes to Uniform of Members of the Uniformed Services ####
 
 Pub. L. 115–232, div. A, title III, §356, Aug. 13, 2018, 132 Stat. 1732, provided that:

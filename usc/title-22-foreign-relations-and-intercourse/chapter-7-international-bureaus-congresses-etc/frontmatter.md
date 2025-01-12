@@ -148,6 +148,8 @@ Sec.
 
 262p–12. Cancellation of Haiti's debts to international financial institutions.
 
+262p–13. Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism.
+
 262q. Transferred.
 
 262r. Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies.
@@ -901,6 +903,8 @@ Sec.
 286ww. Acceptance of amendments to Articles of Agreement of Fund.
 
 286xx. Quota increase.
+
+286yy. Opposition to assistance for any government that fails to implement sanctions on North Korea.
 
 286zz. Capital stock increases.
 

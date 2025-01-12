@@ -28,7 +28,7 @@ Sec.
 
 2438. Performance assessments and root cause analyses.
 
-2439. Negotiation of price for technical data before development or production of major weapon systems. 1
+2439. Negotiation of price for technical data before development, production, or sustainment of major weapon systems.
 
 2440. Technology and industrial base plans.
 
@@ -39,6 +39,8 @@ Sec.
 2443. Sustainment factors in weapon system design.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title XVII, §1731(a)(49), Dec. 20, 2019, 133 Stat. 1815, amended item 2439 generally. Prior to amendment, item 2439 read as follows: "Negotiation of price for technical data before development or production of major weapon systems.".
 
 **2018**—Pub. L. 115–232, div. A, title X, §1081(c)(1), Aug. 13, 2018, 132 Stat. 1985, made technical amendment to directory language of Pub. L. 115–91, §834(a)(2), effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted. See 2017 Amendment note below.
 
@@ -73,5 +75,3 @@ Pub. L. 115–91, div. A, title VIII, §834(a)(2), Dec. 12, 2017, 131 Stat. 1470
 Pub. L. 99–500, §101(c) [title X, §§904(a)(2), 905(a)(2), 906(a)(2)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–134, 1783–135, 1783–137, and Pub. L. 99–591, §101(c) [title X, §§904(a)(2), 905(a)(2), 906(a)(2)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–134, 3341–135, 3341–137; Pub. L. 99–661, div. A, title IX, formerly title IV, §§904(a)(2), 905(a)(2), 906(a)(2), Nov. 14, 1986, 100 Stat. 3914–3916, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, added items 2435 to 2437.
 
 Pub. L. 99–433, title I, §101(a)(4), Oct. 1, 1986, 100 Stat. 994, added chapter heading and analysis of sections for chapter 144, consisting of sections 2431 to 2434.
-
-[<sup>1</sup> Section catchline amended by Pub. L. 115–232 without corresponding amendment of chapter analysis.](#CHAPTER144_1)

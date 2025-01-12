@@ -12,6 +12,22 @@ Sec.
 
 **1998**—Pub. L. 105–261, div. A, title V, §522(b)(2), Oct. 17, 1998, 112 Stat. 2013, added item 6932.
 
+#### Prohibition on Gender-Segregated Training at Marine Corps Recruit Depots ####
+
+Pub. L. 116–92, div. A, title V, §565, Dec. 20, 2019, 133 Stat. 1395, provided that:
+
+"(a) Parris Island.—
+
+"(1) Prohibition.—Subject to paragraph (2), training at the Marine Corps Recruit Depot, Parris Island, South Carolina, may not be segregated based on gender.
+
+"(2) Deadline.—The Commandant of the Marine Corps shall carry out this subsection not later than five years after the date of the enactment of this Act [Dec. 20, 2019].
+
+"(b) San Diego.—
+
+"(1) Prohibition.—Subject to paragraph (2), training at the Marine Corps Recruit Depot, San Diego, California, may not be segregated based on gender.
+
+"(2) Deadline.—The Commandant of the Marine Corps shall carry out this subsection not later than eight years after the date of the enactment of this Act."
+
 #### Annual Certifications Related to Ready, Relevant Learning Initiative of the Navy ####
 
 Pub. L. 115–91, div. A, title V, §545, Dec. 12, 2017, 131 Stat. 1396, provided that:

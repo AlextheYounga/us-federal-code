@@ -26,7 +26,7 @@ Sec.
 
 2279b. Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise.
 
-2279c. Air Force Space Command.
+2279c. Air Force Space Command. 1
 
 2279d. Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments.
 
@@ -49,3 +49,5 @@ Pub. L. 112–239, div. A, title IX, §§911(b), 912(b), 913(c)(2), Jan. 2, 2013
 **2004**—Pub. L. 108–375, div. A, title IX, §913(a)(2), Oct. 28, 2004, 118 Stat. 2028, added item 2273a.
 
 **2003**—Pub. L. 108–136, div. A, title IX, §§911(a)(2), 912(b), 913(b), Nov. 24, 2003, 117 Stat. 1564, 1565, 1567, added items 2272 to 2274.
+
+[<sup>1</sup> So in original. Section 2279c was renumbered by Pub. L. 116–92 without corresponding amendment of chapter analysis.](#CHAPTER135_1)

@@ -23,3 +23,5 @@ Sec.
 9410. Exceptions for national security and humanitarian assistance; rule of construction.
 
 9411. Presidential waiver authority.
+
+9412. Report and annual briefing on Iranian expenditures supporting foreign military and terrorist activities.

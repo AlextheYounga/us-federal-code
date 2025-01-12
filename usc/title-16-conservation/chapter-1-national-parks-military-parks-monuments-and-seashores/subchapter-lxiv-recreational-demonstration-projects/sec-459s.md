@@ -1,12 +1,20 @@
 ### §459s. Lands for certain projects added to certain projects ###
 
-After June 6, 1942, the lands acquired for the Acadia, French Creek, Shenandoah, and White Sands recreational demonstration projects shall be added to and become a part of Acadia National Park, Hopewell Village National Historic Site, Shenandoah National Park, and White Sands National Monument, in the order named above, subject to all laws, rules, and regulations applicable to the respective areas to which such recreational demonstration projects are added.
+After June 6, 1942, the lands acquired for the Acadia, French Creek, Shenandoah, and White Sands recreational demonstration projects shall be added to and become a part of Acadia National Park, Hopewell Village National Historic Site, Shenandoah National Park, and White Sands National Monument,<sup><a href="#459s_1_target" name="459s_1">1</a></sup> in the order named above, subject to all laws, rules, and regulations applicable to the respective areas to which such recreational demonstration projects are added.
 
 (June 6, 1942, ch. 380, §2, 56 Stat. 327.)
 
 #### Codification ####
 
 Proviso directing the Secretary of the Interior to file with the National Archives within six months after June 6, 1942, a map of each recreational demonstration project enumerated in the section has been omitted as executed.
+
+#### Change of Name ####
+
+White Sands National Monument abolished, and White Sands National Park established, by Pub. L. 116–92, div. B, title XXVIII, §2851, Dec. 20, 2019, 133 Stat. 1895, which is classified to section 410dddd of this title and which provides that any reference to White Sands National Monument shall be considered to be a reference to
+
+#### Change of Name ####
+
+White Sands National Monument abolished, and White Sands National Park established, by Pub. L. 116–92, div. B, title XXVIII, §2851, Dec. 20, 2019, 133 Stat. 1895, which is classified to section 410dddd of this title and which provides that any reference to the White Sands National Monument shall be considered to be a reference to the White Sands National Park.White Sands National Park.
 
 #### Hopewell Village Boundary Revision ####
 
@@ -21,3 +29,5 @@ Act June 9, 1947, ch. 100, 61 Stat. 129, provided: "That for the purpose of cons
 #### Catoctin Recreational Demonstration Area ####
 
 Act Aug. 24, 1954, ch. 903, 68 Stat. 791, provided: "That the Secretary of the Interior, for the purpose of consolidating Federal holdings of land acquired for the Catoctin recreational demonstration area, Frederick County, Maryland, is hereby empowered, in his discretion, to obtain for the United States land and interests in lands held in private ownership within the established watersheds and boundaries of said recreational demonstration area by accepting from the owners of such privately owned land complete relinquishment thereof, and the Secretary may grant to such owners in exchange therefor, in each instance, federally owned lands of approximately equal value now a part of the Catoctin recreational demonstration area, that he considers are not essential for the administration, control, and operation of the aforesaid recreational demonstration area. Any land acquired by the United States pursuant to this authorization shall become a part of the Catoctin recreational demonstration area upon the vesting of title in the United States, and shall be subject to the laws applicable thereto."
+
+[<sup>1</sup> See Change of Name note below.](#459s_1)

@@ -61,3 +61,13 @@ Pub. L. 106–65, div. A, title V, §578(k)(2)(A), Oct. 5, 1999, 113 Stat. 631, 
 **1965**—Pub. L. 89–150, §1(2), Aug. 28, 1965, 79 Stat. 585, struck out "; death while outside United States" from item 1485.
 
 **1958**—Pub. L. 85–861, §1(32)(B), (C), Sept. 2, 1958, 72 Stat. 1455, struck out "CARE OF THE DEAD" from chapter heading, and added items 1475 to 1480.
+
+#### Meetings of Officials of the Department of Defense With Representative Groups of Survivors of Deceased Members of the Armed Forces ####
+
+Pub. L. 116–92, div. A, title V, §580B, Dec. 20, 2019, 133 Stat. 1408, provided that:
+
+"(a) Chiefs of the Armed Forces.—The Secretary of Defense shall direct the chiefs of the Armed Forces to meet periodically with representative groups of survivors of deceased members of the Armed Forces to receive feedback from those survivors regarding issues affecting such survivors. The Chief of the National Guard Bureau shall meet with representative groups of survivors of deceased members of the Air National Guard and the Army National Guard.
+
+"(b) Under Secretary of Defense for Personnel and Readiness.—The Under Secretary of Defense for Personnel and Readiness shall meet periodically with representative groups of survivors of deceased members of the Armed Forces to discuss policies of the Department of Defense regarding military casualties and Gold Star families.
+
+"(c) Briefing.—Not later than April 1, 2020, the Under Secretary of Defense for Personnel and Readiness shall brief the Committee on Armed Services of the House of Representatives regarding policies established and the results of the meetings under subsection (b)."

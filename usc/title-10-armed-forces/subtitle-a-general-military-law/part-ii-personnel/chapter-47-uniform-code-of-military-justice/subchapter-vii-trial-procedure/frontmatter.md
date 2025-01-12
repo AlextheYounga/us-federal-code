@@ -1,30 +1,34 @@
 ### SUBCHAPTER VII—TRIAL PROCEDURE ###
 
-|Sec. |Art.|                                                                                 |
-|-----|----|---------------------------------------------------------------------------------|
-|836. |36. |                         President may prescribe rules.                          |
-|837. |37. |                     Unlawfully influencing action of court.                     |
-|838. |38. |                  Duties of trial counsel and defense counsel.                   |
-|839. |39. |                                    Sessions.                                    |
-|840. |40. |                                  Continuances.                                  |
-|841. |41. |                                   Challenges.                                   |
-|842. |42. |                                     Oaths.                                      |
-|843. |43. |                             Statute of limitations.                             |
-|844. |44. |                                Former jeopardy.                                 |
-|845. |45. |                              Pleas of the accused.                              |
-|846. |46. | Opportunity to obtain witnesses and other evidence in trials by court-martial.  |
-|847. |47. |Refusal of person not subject to chapter to appear, testify, or produce evidence.|
-|848. |48. |                                    Contempt.                                    |
-|849. |49. |                                  Depositions.                                   |
-|850. |50. |       Admissibility of sworn testimony from records of courts of inquiry.       |
-|850a.|50a.|                    Defense of lack of mental responsibility.                    |
-|851. |51. |                               Voting and rulings.                               |
-|852. |52. |          Votes required for conviction, sentencing, and other matters.          |
-|853. |53. |                            Findings and sentencing.                             |
-|853a.|53a.|                                Plea agreements.                                 |
-|854. |54. |                                Record of trial.                                 |
+|Sec. |        Art.        |                                                                                 |
+|-----|--------------------|---------------------------------------------------------------------------------|
+|836. |        36.         |                         President may prescribe rules.                          |
+|837. |Art. 37.<sup>1</sup>|                               Command influence.                                |
+|838. |        38.         |                  Duties of trial counsel and defense counsel.                   |
+|839. |        39.         |                                    Sessions.                                    |
+|840. |        40.         |                                  Continuances.                                  |
+|841. |        41.         |                                   Challenges.                                   |
+|842. |        42.         |                                     Oaths.                                      |
+|843. |        43.         |                             Statute of limitations.                             |
+|844. |        44.         |                                Former jeopardy.                                 |
+|845. |        45.         |                              Pleas of the accused.                              |
+|846. |        46.         | Opportunity to obtain witnesses and other evidence in trials by court-martial.  |
+|847. |        47.         |Refusal of person not subject to chapter to appear, testify, or produce evidence.|
+|848. |        48.         |                                    Contempt.                                    |
+|849. |        49.         |                                  Depositions.                                   |
+|850. |        50.         |       Admissibility of sworn testimony from records of courts of inquiry.       |
+|850a.|        50a.        |                    Defense of lack of mental responsibility.                    |
+|851. |        51.         |                               Voting and rulings.                               |
+|852. |        52.         |          Votes required for conviction, sentencing, and other matters.          |
+|853. |        53.         |                            Findings and sentencing.                             |
+|853a.|        53a.        |                                Plea agreements.                                 |
+|854. |        54.         |                                Record of trial.                                 |
+
+<sup>1</sup> So in original. "Art." probably should not appear.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title V, §532(b), Dec. 20, 2019, 133 Stat. 1361, in item 837 substituted "Art. 37. Command influence" for "37. Unlawfully influencing action of court".
 
 **2017**—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, §5541(4). See 2016 Amendment note below.
 

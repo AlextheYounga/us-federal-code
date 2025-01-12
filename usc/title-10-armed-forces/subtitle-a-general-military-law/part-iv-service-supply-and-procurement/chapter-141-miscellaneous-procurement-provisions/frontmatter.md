@@ -54,7 +54,7 @@ Sec.
 
 2409. Contractor employees: protection from reprisal for disclosure of certain information.
 
-[2409a. Repealed.]
+2409a. Incentives and consideration for qualified training programs.
 
 2410. Requests for equitable adjustment or other relief: certification.
 
@@ -97,6 +97,8 @@ Sec.
 2410s. Security clearances for facilities of certain companies.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title VIII, §864(b), Dec. 20, 2019, 133 Stat. 1523, added item 2409a.
 
 **2018**—Pub. L. 115–232, div. A, title X, §1081(a)(22), Aug. 13, 2018, 132 Stat. 1984, inserted period at end of item 2410s.
 

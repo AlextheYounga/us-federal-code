@@ -34,6 +34,10 @@ Subsec. (b). Pub. L. 105–277, §1325(4)(C), substituted "Board facilities" for
 
 Subsec. (c). Pub. L. 105–277, §1325(3), (4)(D), in heading struck out "USIA" before "Authority", and in text substituted "Board" for "Agency" in two places.
 
+#### Change of Name ####
+
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to section 6204(a)(22) of this title. The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
 #### Effective Date of 1998 Amendment ####
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.

@@ -6,7 +6,7 @@
 
 (1) The Under Secretary of Defense for Policy.
 
-(2) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
+(2) The Under Secretary of Defense for Acquisition and Sustainment.
 
 (3) The Vice Chairman of the Joint Chiefs of Staff.
 
@@ -18,7 +18,7 @@
 
 (7) Such other officers of the Department of Defense as the Secretary may designate.
 
-(c) Co-Chair.—The Council shall be co-chaired by the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Vice Chairman of the Joint Chiefs of Staff.
+(c) Co-Chair.—The Council shall be co-chaired by the Under Secretary of Defense for Acquisition and Sustainment and the Vice Chairman of the Joint Chiefs of Staff.
 
 (d) Responsibilities.—(1) The Council shall be responsible for oversight of the command, control, and communications system for the national leadership of the United States, including nuclear command, control, and communications, and including with respect to the integrated tactical warning and attack assessment systems, processes, and enablers, and continuity of the governmental functions of the Department of Defense.
 
@@ -68,7 +68,7 @@
 
 (2) In this subsection, the term "anomaly" means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
 
-(i) Reports on Space Architecture Development.—(1) Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisitions, Technology, and Logistics shall submit to the congressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
+(i) Reports on Space Architecture Development.—(1) Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisitions and Sustainment shall submit to the congressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
 
 (2) A system described in this paragraph is any of the following:
 
@@ -126,9 +126,11 @@
 
 (3) Such other civilian officials of the United States Government as the President shall designate for purposes of this section.
 
-(Added Pub. L. 113–66, div. A, title X, §1052(a)(1), Dec. 26, 2013, 127 Stat. 859; amended Pub. L. 114–92, div. A, title XVI, §1651, Nov. 25, 2015, 129 Stat. 1121; Pub. L. 114–328, div. A, title XVI, §1661, Dec. 23, 2016, 130 Stat. 2613; Pub. L. 115–91, div. A, title X, §1081(a)(13), title XVI, §1654(a)(1), Dec. 12, 2017, 131 Stat. 1595, 1758.)
+(Added Pub. L. 113–66, div. A, title X, §1052(a)(1), Dec. 26, 2013, 127 Stat. 859; amended Pub. L. 114–92, div. A, title XVI, §1651, Nov. 25, 2015, 129 Stat. 1121; Pub. L. 114–328, div. A, title XVI, §1661, Dec. 23, 2016, 130 Stat. 2613; Pub. L. 115–91, div. A, title X, §1081(a)(13), title XVI, §1654(a)(1), Dec. 12, 2017, 131 Stat. 1595, 1758; Pub. L. 116–92, div. A, title XVI, §1661, Dec. 20, 2019, 133 Stat. 1772.)
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92 substituted "and Sustainment" for ", Technology, and Logistics" wherever appearing.
 
 **2017**—Subsec. (f). Pub. L. 115–91, §1081(a)(13)(A), substituted "(50 U.S.C. 3003(4)))" for "(50 U.S.C. 3003(4))".
 

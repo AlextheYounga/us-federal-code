@@ -30,7 +30,7 @@ Sec.
 
 2304d. Task and delivery order contracts: definitions.
 
-2304e. Contracts: prohibition on competition between Department of Defense and small businesses and certain other entities.
+2304e. Contracts: prohibition on competition between Department of Defense and small businesses.
 
 2305. Contracts: planning, solicitation, evaluation, and award procedures.
 
@@ -84,7 +84,7 @@ Sec.
 
 [2323. Repealed.]
 
-2323a. Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses and certain institutions of higher education.
+2323a. Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses.
 
 2324. Allowable costs under defense contracts.
 
@@ -120,11 +120,15 @@ Sec.
 
 2338. Micro-purchase threshold.
 
-[2339. Repealed.]
+2339. Prohibition on criminal history inquiries by contractors prior to conditional offer.
 
 2339a. Requirements for information relating to supply chain risk.
 
+2339b. Notification of Navy procurement production disruptions.
+
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title VIII, §820(b), title XI, §1123(b)(3), title XVII, §1731(a)(39)(C), Dec. 20, 2019, 133 Stat. 1490, 1614, 1814, struck out "and certain other entities" after "businesses" in item 2304e and "and certain institutions of higher education" after "businesses" in item 2323a and added items 2339 and 2339b.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §§812(a)(2)(B), (3)(B), 821(c)(2), 881(a)(2), Aug. 13, 2018, 132 Stat. 1846, 1847, 1853, 1913, struck out items 2323 "Contract goal for small disadvantaged businesses and certain institutions of higher education", 2332 "Share-in-savings contracts", and 2339 "Micro-purchase threshold for basic research programs and activities of the Department of Defense science and technology reinvention laboratories" and added item 2339a.
 

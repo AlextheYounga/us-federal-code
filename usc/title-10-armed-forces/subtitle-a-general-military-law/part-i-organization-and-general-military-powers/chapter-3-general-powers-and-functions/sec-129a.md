@@ -10,7 +10,7 @@
 
 (2) The Secretaries of the military departments and the heads of the Defense Agencies shall have overall responsibility for the requirements determination, planning, programming, and budgeting for such policies and procedures.
 
-(3) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be responsible for ensuring that the defense acquisition system, as defined in section 2545 of this title, is consistent with such policies and procedures and with implementation pursuant to paragraph (1).
+(3) The Under Secretary of Defense for Acquisition and Sustainment shall be responsible for ensuring that the defense acquisition system, as defined in section 2545 of this title, is consistent with such policies and procedures and with implementation pursuant to paragraph (1).
 
 (4) The Under Secretary of Defense (Comptroller) shall be responsible for ensuring that the budget for the Department of Defense is consistent with such policies and procedures. The Under Secretary shall notify the congressional defense committees of any deviations from such policies and procedures that are recommended in the budget.
 
@@ -46,17 +46,25 @@
 
 (A) if the Secretary of the military department concerned determines in writing based on mission requirements that the performance of such functions by military personnel is cost-effective, taking into account the fully-burdened costs of the civilian, military, and contractor workforces, including the impact of the performance of such functions on military career progression or when required by military necessity; or
 
-(B) if the performance of such functions by military personnel is required to address critical staffing needs resulting from a reduction in personnel or budgetary resources by reason of an Act of Congress, in which case such functions may not be performed by military personnel for a period in excess of one year.
+(B) such functions may be performed by military personnel for a period that does not exceed one year if the Secretary of the military department concerned determines that—
+
+(i) the performance of such functions by military personnel is required to address critical staffing needs resulting from a reduction in personnel or budgetary resources by reason of an Act of Congress; and
+
+(ii) the military department concerned is in compliance with the policies, procedures, and analysis required by this section and section 129 of this title.
 
 (2) In determining the workforce mix between civilian and military personnel, the Secretary of a military department shall reserve military personnel for the performance of the functions that, in the estimation of the Secretary, are required to be performed by military personnel in order to achieve national defense goals or in order to enable the proper functioning of the military department. In making workforce decisions, the Secretary shall account for the relative budgetary impact of military versus civilian personnel in determining the functions required to be performed by military personnel.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(b)(2), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 112–81, div. A, title IX, §931(a), Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–328, div. A, title IX, §914, Dec. 23, 2016, 130 Stat. 2350; Pub. L. 115–91, div. A, title X, §§1051(a)(6)(B), 1081(a)(5), Dec. 12, 2017, 131 Stat. 1560, 1594; Pub. L. 115–232, div. A, title IX, §933, Aug. 13, 2018, 132 Stat. 1938.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(b)(2), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 112–81, div. A, title IX, §931(a), Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–328, div. A, title IX, §914, Dec. 23, 2016, 130 Stat. 2350; Pub. L. 115–91, div. A, title X, §§1051(a)(6)(B), 1081(a)(5), Dec. 12, 2017, 131 Stat. 1560, 1594; Pub. L. 115–232, div. A, title IX, §933, Aug. 13, 2018, 132 Stat. 1938; Pub. L. 116–92, div. A, title IX, §902(1), title XI, §1106, Dec. 20, 2019, 133 Stat. 1542, 1597.)
 
 #### Prior Provisions ####
 
 Provisions similar to those in this section were contained in section 115(b)(5) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
 #### Amendments ####
+
+**2019**—Subsec. (c)(3). Pub. L. 116–92, §902(1), substituted "Under Secretary of Defense for Acquisition and Sustainment" for "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
+Subsec. (g)(1)(B). Pub. L. 116–92, §1106, amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "if the performance of such functions by military personnel is required to address critical staffing needs resulting from a reduction in personnel or budgetary resources by reason of an Act of Congress, in which case such functions may not be performed by military personnel for a period in excess of one year."
 
 **2018**—Subsec. (g)(1)(A). Pub. L. 115–232 substituted "is cost-effective, taking into account the fully-burdened costs of the civilian, military, and contractor workforces, including the impact of the performance of such functions on military career progression or when required by military necessity" for ", including a permanent conversion of such functions to performance by military personnel, is cost-effective or required by a mission".
 

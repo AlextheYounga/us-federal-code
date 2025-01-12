@@ -21,13 +21,13 @@ Chap. Sec.
 
 9. Defense Budget Matters 221
 
-9A. Audit 251 1
+9A. Audit 240a
 
 11. Reserve Components 261
 
 12. The Militia 246
 
-13. Insurrection 251 1
+13. Insurrection 251
 
 14. Arming of American Vessels 261
 
@@ -35,7 +35,7 @@ Chap. Sec.
 
 16. Security Cooperation 301
 
-19. Cyber Matters 391
+19. Cyber and Information Operations Matters 391
 
 20. Humanitarian and Other Assistance 401
 
@@ -48,6 +48,8 @@ Chap. Sec.
 24. Nuclear Posture 491
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title XVI, §1631(a)(2)(B), title XVII, §1731(a)(1), Dec. 20, 2019, 133 Stat. 1742, 1812, substituted "240a" for "251" in item for chapter 9A and "Cyber and Information Operations Matters" for "Cyber Matters" in item for chapter 19.
 
 **2017**—Pub. L. 115–91, div. A, title X, §1002(a)(2), Dec. 12, 2017, 131 Stat. 1537, added item for chapter 9A.
 
@@ -92,5 +94,3 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 **1981**—Pub. L. 97–86, title IX, §905(a)(2), Dec. 1, 1981, 95 Stat. 1116, added item for chapter 18.
 
 **1962**—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
-
-[<sup>1</sup> So in original. Chapters 9A and 13 both begin with a section 251. Section 251 in chapter 9A was renumbered by Pub. L. 115–232 without corresponding amendment of part analysis.](#PARTI_1)

@@ -22,9 +22,15 @@ Sec.
 
 2169. School of Nursing: establishment.
 
+#### Amendment of Analysis ####
+
+Pub. L. 116–92, div. E, title LIII, §5324(g), Dec. 20, 2019, 133 Stat. 2137, provided that, effective on the date on which the Secretary of Defense and the Director of National Intelligence jointly submit the joint certifications required under section 3334a(b)(1) of Title 50, War and National Defense, this analysis is amended by striking out item 2161. See 2019 Amendment note below.
+
 #### Amendments ####
 
-Pub. L. 114–328, div. A, title XII, §1241(o)(5), Dec. 23, 2016, 130 Stat. 2512, struck out item 2166 "Western Hemisphere Institute for Security Cooperation".
+**2019**—Pub. L. 116–92, div. E, title LIII, §5324(g)(1), Dec. 20, 2019, 133 Stat. 2137, struck out item 2161 "Degree granting authority for National Intelligence University".
+
+**2016**—Pub. L. 114–328, div. A, title XII, §1241(o)(5), Dec. 23, 2016, 130 Stat. 2512, struck out item 2166 "Western Hemisphere Institute for Security Cooperation".
 
 **2013**—Pub. L. 112–239, div. A, title IX, §922(b)(2), Jan. 2, 2013, 126 Stat. 1879, substituted "National Intelligence University" for "National Defense Intelligence College" in item 2161.
 

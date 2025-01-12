@@ -24,7 +24,7 @@ Sec.
 
 [136a. Repealed.]
 
-137. Under Secretary of Defense for Intelligence.
+137. Under Secretary of Defense for Intelligence and Security.
 
 137a. Deputy Under Secretaries of Defense.
 
@@ -57,6 +57,8 @@ Sec.
 145. Principal Advisor on Countering Weapons of Mass Destruction.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title XVI, §1621(e)(1)(D), Dec. 20, 2019, 133 Stat. 1733, substituted "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence" in item 137.
 
 **2018**—Pub. L. 115–232, div. A, title X, §1082(a)(2), Aug. 13, 2018, 132 Stat. 1988, added item 145.
 

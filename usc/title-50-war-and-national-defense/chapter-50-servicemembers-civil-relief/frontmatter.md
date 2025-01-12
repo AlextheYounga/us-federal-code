@@ -134,6 +134,8 @@ Sec.
 
 4026. Business or trade obligations.
 
+4027. Guarantee of residency for spouses of servicemembers.
+
 #### SUBCHAPTER VIII—CIVIL LIABILITY ####
 
 4041. Enforcement by the Attorney General.

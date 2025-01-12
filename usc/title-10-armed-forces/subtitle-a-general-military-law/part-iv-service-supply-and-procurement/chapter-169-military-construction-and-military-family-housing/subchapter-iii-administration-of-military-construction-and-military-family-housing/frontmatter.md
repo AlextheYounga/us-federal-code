@@ -42,7 +42,11 @@ Sec.
 
 2869. Exchange of property at military installations.
 
+2870. Use of qualified apprentices by military construction contractors.
+
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title VIII, §865(a)(2), Dec. 20, 2019, 133 Stat. 1524, added item 2870.
 
 **2018**—Pub. L. 115–232, div. B, title XXVIII, §2806(a)(2), Aug. 13, 2018, 132 Stat. 2264, added item 2865.
 

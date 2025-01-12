@@ -46,7 +46,7 @@ Sec.
 
 5724a. Relocation expenses of employees transferred or reemployed.
 
-5724b. Taxes on reimbursements for travel, transportation, and relocation expenses of employees transferred.
+5724b. Taxes on reimbursements for travel, transportation, and relocation expenses 1
 
 5724c. Relocation services.
 
@@ -104,9 +104,9 @@ Sec.
 
 5756. Home marketing incentive payment.
 
-5757. 1 Payment of expenses to obtain professional credentials.
+5757. 2 Payment of expenses to obtain professional credentials.
 
-5757. 1 Extended assignment incentive.
+5757. 2 Extended assignment incentive.
 
 5759. Retention and relocation bonuses for the Federal Bureau of Investigation.
 
@@ -115,6 +115,8 @@ Sec.
 5761. Foreign language proficiency pay awards for the Federal Bureau of Investigation.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title XI, §1114(b), Dec. 20, 2019, 133 Stat. 1604, substituted "Taxes on reimbursements for travel, transportation, and relocation expenses" for "Taxes on reimbursements for travel, transportation, and relocation expenses of employees transferred" in item 5724b.
 
 **2010**—Pub. L. 111–292, §3(b), Dec. 9, 2010, 124 Stat. 3173, added item 5711.
 
@@ -161,5 +163,7 @@ Pub. L. 91–481, §1(2), Oct. 21, 1970, 84 Stat. 1081, added item 5709.
 **1967**—Pub. L. 90–206, title II, §222(c)(2), Dec. 16, 1967, 81 Stat. 641, added item 5733.
 
 Pub. L. 90–83 §1(37)(B), Sept. 11, 1967, 81 Stat. 205, added item 5724a.
+
+[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER57_1)
 
 [<sup>1</sup> So in original. Two sections 5757 have been enacted.](#CHAPTER57_1)

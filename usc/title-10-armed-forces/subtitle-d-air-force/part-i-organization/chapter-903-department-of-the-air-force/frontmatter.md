@@ -22,7 +22,9 @@ Sec.
 
 9020. Inspector General.
 
-9021. Air Force Reserve Forces Policy Committee.
+9021. Space Force Acquisition Council.
+
+9021a. Air Force Reserve Forces Policy Committee.
 
 9022. Financial management.
 
@@ -35,6 +37,8 @@ Sec.
 A prior chapter 903, consisting of sections 9331 to 9362, related to the United States Air Force Academy, prior to renumbering as chapter 953 of this title.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title IX, §954(b), Dec. 20, 2019, 133 Stat. 1565, added items 9021 and 9021a and struck out former item 9021 "Air Force Reserve Forces Policy Committee".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(4), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 803 of this title as this chapter and items 8011 to 8024 as 9011 to 9024, respectively.
 

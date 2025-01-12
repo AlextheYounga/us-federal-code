@@ -8,7 +8,7 @@ Sec.
 
 481a. Workplace and gender relations issues: surveys of Department of Defense civilian employees.
 
-482. Quarterly reports: personnel and unit readiness.
+482. Readiness reports.
 
 [483. Repealed.]
 
@@ -23,6 +23,8 @@ Sec.
 [489 to 491. Repealed or Renumbered.]
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title III, §361(c), Dec. 20, 2019, 133 Stat. 1327, added item 482 and struck out former item 482 "Quarterly reports: personnel and unit readiness".
 
 **2016**—Pub. L. 114–328, div. A, title X, §§1031(c), 1065(a)(2), Dec. 23, 2016, 130 Stat. 2389, 2410, substituted "Monthly counterterrorism operations briefings" for "Quarterly counterterrorism operations briefings" in item 485 and "Management and review of electromagnetic spectrum" for "Management of electromagnetic spectrum" in item 488.
 
@@ -57,3 +59,11 @@ Pub. L. 105–261, div. A, title III, §373(d)(2), Oct. 17, 1998, 112 Stat. 1992
 **1996**—Pub. L. 104–201, div. A, title V, §571(c)(2), title XI, §§1112(a)(1), 1123(a)(4), Sept. 23, 1996, 110 Stat. 2532, 2677, 2688, substituted "Race relations, gender discrimination, and hate group activity: annual survey and report" for "Racial and ethnic issues; biennial survey; biennial report" in item 451, renumbered chapter 22 of this title as this chapter, and redesignated items 451 and 452 as 481 and 482, respectively.
 
 Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273, added item 452.
+
+#### Questions in Surveys Regarding Extremist Activity in the Workplace ####
+
+Pub. L. 116–92, div. A, title V, §593, Dec. 20, 2019, 133 Stat. 1415, provided that: "The Secretary of Defense shall include in appropriate surveys administered by the Department of Defense questions regarding whether respondents have ever—
+
+"(1) experienced or witnessed extremist activity in the workplace; or
+
+"(2) reported such activity."

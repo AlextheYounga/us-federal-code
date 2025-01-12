@@ -21,3 +21,5 @@ Sec.
 1548. Separability.
 
 1549. Report on and notice of changes made to the legal and policy frameworks for the United States' use of military force and related national security operations.
+
+1550. Reports and briefings on use of military force and support of partner forces.

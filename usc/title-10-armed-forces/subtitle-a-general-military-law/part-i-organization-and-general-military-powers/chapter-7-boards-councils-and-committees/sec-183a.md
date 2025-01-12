@@ -14,7 +14,7 @@
 
 (3) The Clearinghouse shall perform such other functions as the Secretary of Defense assigns.
 
-(c) Review of Proposed Actions.—(1) Not later than 60 days after receiving from the Secretary of Transportation a proper application for an energy project under section 44718 of title 49 that may have an adverse impact on military operations and readiness, the Clearinghouse shall conduct a preliminary review of such application. The review shall—
+(c) Review of Proposed Actions.—(1) Not later than 75 days after receiving from the Secretary of Transportation a proper application for an energy project under section 44718 of title 49 that may have an adverse impact on military operations and readiness, the Clearinghouse shall conduct a preliminary review of such application. The review shall—
 
 (A) assess the likely scope, duration, and level of risk of any adverse impact of such energy project on military operations and readiness; and
 
@@ -28,7 +28,7 @@
 
 (5) The Clearinghouse shall establish procedures for the Department of Defense for the coordinated consideration of and response to a request for a review received from another Federal agency, a State government, an Indian tribal government, a local government, a landowner, or the developer of an energy project, including guidance to personnel at each military installation in the United States on how to initiate such procedures and ensure a coordinated Department response.
 
-(6) The Clearinghouse shall develop procedures for conducting early outreach to parties carrying out energy projects that could have an adverse impact on military operations and readiness and to clearly communicate to such parties actions being taken by the Department of Defense under this section. The procedures shall provide for filing by such parties of a project area and preliminary project layout at least one year before expected construction of any project proposed within a military training route or within line-of-sight of any air route surveillance radar or airport surveillance radar operated or used by the Department of Defense in order to provide adequate time for analysis and negotiation of mitigation options. Material marked as proprietary or competition sensitive by a party filing for this preliminary review shall be protected from public release by the Department of Defense.
+(6) The Clearinghouse shall develop procedures for conducting early outreach to parties carrying out energy projects that could have an adverse impact on military operations and readiness and to clearly communicate to such parties actions being taken by the Department of Defense under this section. The procedures shall provide for filing by such parties of a project area and preliminary project layout at least one year before expected construction of any project proposed within a military training route or within line-of-sight of any air route surveillance radar, airport surveillance radar, or wide area surveillance over-the-horizon radar operated or used by the Department of Defense in order to provide adequate time for analysis and negotiation of mitigation options. Any setback for a project pursuant to the previous sentence shall not be more than what is determined to be necessary by a technical analysis conducted by the Lincoln Laboratory at the Massachusetts Institute of Technology or any successor entity. Material marked as proprietary or competition sensitive by a party filing for this preliminary review shall be protected from public release by the Department of Defense.
 
 (d) Comprehensive Review.—(1) The Secretary of Defense shall develop a comprehensive strategy for addressing the impacts upon the military of projects filed with the Secretary of Transportation pursuant to section 44718 of title 49.
 
@@ -42,7 +42,7 @@
 
 (D) develop procedures to periodically review and modify, consistent with the notice and public comment process under subparagraph (C), geographic areas identified under subparagraph (B) and to solicit and identify additional geographic areas as appropriate;
 
-(E) at the conclusion of the notice and public comment period conducted under subparagraph (C), make a final finding on the designation of a geographic area of concern or delegate the authority to make such finding to a Deputy Secretary of Defense, an Under Secretary of Defense, or a Principal Deputy Under Secretary of Defense; and
+(E) at the conclusion of the notice and public comment period conducted under subparagraph (C), make a final finding on the designation of a geographic area of concern or delegate the authority to make such finding to the Deputy Secretary of Defense, an Under Secretary of Defense, or a Deputy Under Secretary of Defense; and
 
 (F) specifically identify feasible and affordable long-term actions that may be taken to mitigate adverse impacts of projects filed, or which may be filed in the future, with the Secretary of Transportation pursuant to section 44718 of title 49, on military operations and readiness, including—
 
@@ -56,7 +56,9 @@
 
 (v) modifications to the projects for which such applications are filed with the Secretary of Transportation pursuant to section 44718 of title 49, including changes in size, location, or technology.
 
-(3) The Clearinghouse shall make access to data reflecting geographic areas identified under subparagraph (B) of paragraph (2) and reviewed and modified under subparagraph (C) of such paragraph available online.
+(3) The governor of a State may recommend to the Secretary of Defense additional geographical areas of concern within that State. Any such recommendation shall be submitted for notice and comment pursuant to paragraph (2)(C).
+
+(4) The Clearinghouse shall make access to data reflecting geographic areas identified under subparagraph (B) of paragraph (2) and reviewed and modified under subparagraph (C) of such paragraph available online.
 
 (e) Department of Defense Finding of Unacceptable Risk.—(1) The Secretary of Defense may not object to an energy project filed with the Secretary of Transportation pursuant to section 44718 of title 49, except in a case in which the Secretary of Defense determines, after giving full consideration to mitigation actions identified pursuant to this section, that such project, in isolation or cumulatively with other projects, would result in an unacceptable risk to the national security of the United States. The Secretary of Defense's finding of unacceptable risk to national security shall be transmitted to the Secretary of Transportation for inclusion in the report required under section 44718(b)(2) of title 49.
 
@@ -64,11 +66,11 @@
 
 (B) The Secretary of Defense shall notify the appropriate State agency of a finding made under paragraph (1).
 
-(3) The Secretary of Defense may only delegate the responsibility for making a finding of unacceptable risk under paragraph (1) to the Deputy Secretary of Defense, an under secretary of defense, or a deputy under secretary of defense.
+(3) The Secretary of Defense may only delegate the responsibility for making a finding of unacceptable risk under paragraph (1) to the Deputy Secretary of Defense, an Under Secretary of Defense, or a Deputy Under Secretary of Defense.
 
 (4) The Clearinghouse shall develop procedures for making a finding of unacceptable risk, including with respect to how to implement cumulative effects analysis. Such procedures shall be subject to public comment prior to finalization.
 
-(f) Authority to Accept Contributions of Funds.—The Secretary of Defense is authorized to request and accept a voluntary contribution of funds from an applicant for a project filed with the Secretary of Transportation pursuant to section 44718 of title 49. Amounts so accepted shall remain available until expended for the purpose of offsetting the cost of measures undertaken by the Secretary of Defense to mitigate adverse impacts of such a project on military operations and readiness or to conduct studies of potential measures to mitigate such impacts.
+(f) Authority to Accept Contributions of Funds.—The Secretary of Defense is authorized to request and accept a voluntary contribution of funds from an applicant for an energy project. Amounts so accepted shall remain available until expended for the purpose of offsetting the cost of measures undertaken by the Secretary of Defense to mitigate adverse impacts of such a project on military operations and readiness or to conduct studies of potential measures to mitigate such impacts.
 
 (g) Effect of Department of Defense Hazard Assessment.—An action taken pursuant to this section shall not be considered to be a substitute for any assessment or determination required of the Secretary of Transportation under section 44718 of title 49.
 
@@ -78,15 +80,19 @@
 
 (2) The term "energy project" means a project that provides for the generation or transmission of electrical energy.
 
-(3) The term "landowner" means a person that owns a fee interest in real property on which a proposed energy project is planned to be located.
+(3) The term "governor", with respect to a State, means the chief executive officer of the State.
 
-(4) The term "military installation" has the meaning given that term in section 2801(c)(4) of this title.
+(4) The term "landowner" means a person that owns a fee interest in real property on which a proposed energy project is planned to be located.
 
-(5) The term "military readiness" includes any training or operation that could be related to combat readiness, including testing and evaluation activities.
+(5) The term "military installation" has the meaning given that term in section 2801(c)(4) of this title.
 
-(6) The term "military training route" means a training route developed as part of the Military Training Route Program, carried out jointly by the Federal Aviation Administration and the Secretary of Defense, for use by the armed forces for the purpose of conducting low-altitude, high-speed military training.
+(6) The term "military readiness" includes any training or operation that could be related to combat readiness, including testing and evaluation activities.
 
-(7) The term "unacceptable risk to the national security of the United States" means the construction, alteration, establishment, or expansion, or the proposed construction, alteration, establishment, or expansion, of a structure or sanitary landfill, that the Secretary of Defense can demonstrate would—
+(7) The term "military training route" means a training route developed as part of the Military Training Route Program, carried out jointly by the Administrator of the Federal Aviation Administration and the Secretary of Defense, for use by the armed forces for the purpose of conducting low-altitude, high-speed military training.
+
+(8) The term "State" means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the United States Virgin Islands, and American Samoa.
+
+(9) The term "unacceptable risk to the national security of the United States" means the construction, alteration, establishment, or expansion, or the proposed construction, alteration, establishment, or expansion, of a structure or sanitary landfill, that the Secretary of Defense can demonstrate would—
 
 (A) endanger safety in air commerce directly related to the activities of the Department of Defense;
 
@@ -94,7 +100,25 @@
 
 (C) significantly impair or degrade the capability of the Department of Defense to conduct training, research, development, testing, and evaluation, and operations or to maintain military readiness.
 
-(Added Pub. L. 115–91, div. A, title III, §311(a), Dec. 12, 2017, 131 Stat. 1343.)
+(Added Pub. L. 115–91, div. A, title III, §311(a), Dec. 12, 2017, 131 Stat. 1343; amended Pub. L. 116–92, div. A, title III, §§311, 312, 371, Dec. 20, 2019, 133 Stat. 1303, 1329.)
+
+#### Amendments ####
+
+**2019**—Subsec. (c)(1). Pub. L. 116–92, §311, substituted "75 days" for "60 days" in introductory provisions.
+
+Subsec. (c)(6). Pub. L. 116–92, §371(1), in second sentence substituted "air route surveillance radar, airport surveillance radar, or wide area surveillance over-the-horizon radar" for "air route surveillance radar or airport surveillance radar" and inserted after second sentence "Any setback for a project pursuant to the previous sentence shall not be more than what is determined to be necessary by a technical analysis conducted by the Lincoln Laboratory at the Massachusetts Institute of Technology or any successor entity."
+
+Subsec. (d)(2)(E). Pub. L. 116–92, §371(2)(A), substituted "the Deputy Secretary of Defense, an Under Secretary of Defense, or a Deputy Under Secretary of Defense" for "a Deputy Secretary of Defense, an Under Secretary of Defense, or a Principal Deputy Under Secretary of Defense".
+
+Subsec. (d)(3), (4). Pub. L. 116–92, §371(2)(B), (C), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (e)(3). Pub. L. 116–92, §371(3), substituted "an Under Secretary of Defense, or a Deputy Under Secretary of Defense" for "an under secretary of defense, or a deputy under secretary of defense".
+
+Subsec. (f). Pub. L. 116–92, §371(4), which directed the substitution of "from an entity requesting a review by the Clearinghouse under this section" for "from an applicant for a project filed with the Secretary of Transportation pursuant to section 44718 of title 49", could not be executed because of the intervening amendment by Pub. L. 116–92, §312. See note below.
+
+Pub. L. 116–92, §312, substituted "for an energy project" for "for a project filed with the Secretary of Transportation pursuant to section 44718 of title 49".
+
+Subsec. (h)(3) to (9). Pub. L. 116–92, §371(5), added par. (3), redesignated former pars. (3) to (6) as (4) to (7), respectively, in par. (7) substituted "the Administrator of the Federal Aviation Administration" for "the Federal Aviation Administration", added par. (8), and redesignated former par. (7) as (9).
 
 #### Applicability of Existing Rules and Regulations ####
 

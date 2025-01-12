@@ -50,6 +50,8 @@ Sec.
 
 3519a. Separation pay program for voluntary separation from service.
 
+3519b. Special rules for certain individuals injured by reason of war, insurgency, hostile act, terrorist activities, or incidents designated by the Director.
+
 3520. General Counsel of Central Intelligence Agency.
 
 3521. Central services program.

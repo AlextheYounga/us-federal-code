@@ -1,32 +1,16 @@
-### §115a. Annual defense manpower requirements report ###
+### §115a. Annual defense manpower profile report and related reports ###
 
-(a) The Secretary of Defense shall submit to Congress an annual defense manpower requirements report. The report, which shall be in writing, shall be submitted each year on the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31. The report shall contain the Secretary's recommendations for—
+(a) Not later than April 1 each year, the Secretary of Defense shall submit to Congress a defense manpower profile report. The report shall contain the Secretary's recommendations for—
 
-(1) the annual active-duty end-strength level for each component of the armed forces for the next fiscal year;
+(1) the annual active-duty end-strength level for each component of the armed forces for the next fiscal year; and
 
-(2) the annual civilian personnel requirements level for each component of the Department of Defense for the next fiscal year and the civilian end-strength level for the prior fiscal year; and
+(2) the annual civilian personnel requirements level for each component of the Department of Defense for the next fiscal year and the civilian end-strength level for the prior fiscal year.
 
-(3) the projected number of contractor personnel full-time equivalents required to provide contract services (as that term is defined in section 235 of this title) for each component of the Department of Defense for the next fiscal year and the contractor personnel full-time equivalents that provided contract services for each component of the Department of Defense for the prior fiscal year as reported in the inventory of contracts for services required by section 2330a(c) <sup><a href="#115a_1_target" name="115a_1">1</a></sup> of this title.
+(b)The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
 
-(b)(1) The Secretary shall include in each report under subsection (a) justification for the strength levels recommended and an explanation of the relationship between the personnel strength levels recommended for that fiscal year and the national security policies of the United States in effect at the time.
+(c) The Secretary shall include in each report under subsection (a) a detailed discussion of the manpower required for support and overhead functions within the armed forces and the Department of Defense.
 
-(2) The justification and explanation shall specify in detail for all major military force units (including each land force division, carrier and other major combatant vessel, air wing, and other comparable unit) the following:
-
-(A) Unit mission and capability.
-
-(B) Strategy which the unit supports.
-
-(3) The justification and explanation shall also specify in detail the manpower required to perform the medical missions of each of the armed forces and of the Department of Defense.
-
-(c) The Secretary shall include in each report under subsection (a) a detailed discussion of the following:
-
-(1) The manpower required for support and overhead functions within the armed forces and the Department of Defense.
-
-(2) The relationship of the manpower required for support and overhead functions to the primary combat missions and support policies.
-
-(3) The manpower required to be stationed or assigned to duty in foreign countries and aboard vessels located outside the territorial limits of the United States, its territories, and possessions.
-
-(d) The Secretary shall also include in each such report, with respect to each armed force under the jurisdiction of the Secretary of a military department, the following:
+(d) Not later than April 1 each year, the Secretary shall submit to Congress a report that sets forth, with respect to each armed force under the jurisdiction of the Secretary of a military department, the following:
 
 (1) The number of positions that require warrant officers or commissioned officers serving on active duty in each of the officer grades during the current fiscal year and the estimated number of such positions for each of the next five fiscal years.
 
@@ -48,7 +32,7 @@
 
 (4) The opportunities for promotion of commissioned officers anticipated to be estimated pursuant to section 623(b)(4) of this title for the fiscal year in which such report is submitted for purposes of promotion selection boards convened pursuant to section 611 of this title during such fiscal year.
 
-(e)(1) In each such report, the Secretary shall also include recommendations for the end-strength levels for medical personnel for each component of the armed forces as of the end of the next fiscal year.
+(e)(1) Not later than April 1 each year, the Secretary shall submit to Congress a report that sets forth recommendations for the end-strength levels for medical personnel for each component of the armed forces as of the end of the next fiscal year.
 
 (2) For purposes of this subsection, the term "medical personnel" includes—
 
@@ -62,9 +46,9 @@
 
 (E) such other personnel as the Secretary considers appropriate.
 
-(f) The Secretary shall also include in each such report the following information with respect to personnel assigned to or supporting major Department of Defense headquarters activities:
+(f) Not later than June 1 each year, the Secretary shall submit to Congress a report that sets forth the following information with respect to personnel assigned to or supporting major Department of Defense headquarters activities:
 
-(1) The military end strength and civilian full-time equivalents assigned to major Department of Defense headquarters activities for the preceding fiscal year and estimates of such numbers for the current fiscal year and subsequent fiscal years.
+(1) The military end strength and civilian full-time equivalents assigned to major Department of Defense headquarters activities for the preceding fiscal year.
 
 (2) A summary of the replacement during the preceding fiscal year of contract workyears providing support to major Department of Defense headquarters activities with military end strength or civilian full-time equivalents, including an estimate of the number of contract workyears associated with the replacement of contracts performing inherently governmental or exempt functions.
 
@@ -72,19 +56,19 @@
 
 (4) The amount of any adjustment in the limitation on personnel made by the Secretary of Defense or the Secretary of a military department, and, for each adjustment made pursuant to section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (10 U.S.C. 143 note), the purpose of the adjustment.
 
-(g) In each report submitted under subsection (a), the Secretary shall also include a detailed discussion of the following:
+(g) Not later than September 1 each year, the Secretary shall submit to Congress a report that sets forth a detailed discussion, current as of the preceding fiscal year, of the following:
 
 (1) The progress made in implementing the plan required by section 656 of this title to accurately measure the efforts of the Department to reflect the diverse population of the United States eligible to serve in the armed forces.
 
 (2) The number of members of the armed forces, including reserve components, listed by gender and race or ethnicity for each rank under each military department.
 
-(3) The number of members of the armed forces, including reserve components, who were promoted during the year covered by the report, listed by gender and race or ethnicity for each rank under each military department.
+(3) The number of members of the armed forces, including reserve components, who were promoted during the fiscal year covered by the report, listed by gender and race or ethnicity for each rank under each military department.
 
-(4) The number of members of the armed forces, including reserve components, who reenlisted or otherwise extended the commitment to military service during the year covered by the report, listed by gender and race or ethnicity for each rank under each military department.
+(4) The number of members of the armed forces, including reserve components, who reenlisted or otherwise extended the commitment to military service during the fiscal year covered by the report, listed by gender and race or ethnicity for each rank under each military department.
 
 (5) The available pool of qualified candidates for the general officer grades of general and lieutenant general and the flag officer grades of admiral and vice admiral.
 
-(h) In each such report, the Secretary shall include a separate report on the Army and Air Force military technician programs. The report shall include a presentation, shown by reserve component and shown both as of the end of the preceding fiscal year and for the next fiscal year, of the following (displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians):
+(h) Not later than April 1 each year, the Secretary shall submit to Congress a report on the Army and Air Force military technician programs. The report shall include a presentation, shown by reserve component and shown both as of the end of the preceding fiscal year and for the next fiscal year, of the following (displayed in the aggregate and separately for military technicians (dual status) and non-dual status military technicians):
 
 (1) The number of military technicians required to be employed (as specified in accordance with Department of Defense procedures), the number authorized to be employed under Department of Defense personnel procedures, and the number actually employed.
 
@@ -94,11 +78,9 @@
 
 (B) the number applicable to high-priority units and organizations (as specified in section 10216(a) of this title).
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492, 2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title V, §519(b), Jan. 2, 2013, 126 Stat. 1721; Pub. L. 115–91, div. A, title X, §1051(a)(2), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 115–232, div. A, title V, §591, Aug. 13, 2018, 132 Stat. 1788.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492, 2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title V, §519(b), Jan. 2, 2013, 126 Stat. 1721; Pub. L. 115–91, div. A, title X, §1051(a)(2), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 115–232, div. A, title V, §591, Aug. 13, 2018, 132 Stat. 1788; Pub. L. 116–92, div. A, title XVII, §1701(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1794, 1795.)
 
 #### References in Text ####
-
-Section 2330a(c) of this title, referred to in subsec. (a)(3), was amended by Pub. L. 114–328 with respect to the requirement that the Secretary of Defense submit to Congress an annual inventory of the activities performed pursuant to contracts for services.
 
 Section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009, referred to in subsec. (f)(4), is section 1111(b)(2) of Pub. L. 110–417, which is set out as a note under section 143 of this title.
 
@@ -107,6 +89,42 @@ Section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for F
 Provisions similar to those in this section were contained in section 115(b)(1)(D), (3), (c)(2) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, §1701(c)(1), substituted "Annual defense manpower profile report and related reports" for "Annual defense manpower requirements report" in section catchline.
+
+Subsec. (a). Pub. L. 116–92, §1701(a)(1)(A), in introductory provisions, substituted "Not later than April 1 each year, the Secretary of Defense shall submit to Congress a defense manpower profile report." for "The Secretary of Defense shall submit to Congress an annual defense manpower requirements report. The report, which shall be in writing, shall be submitted each year on the date on which the President submits to Congress the budget for the next fiscal year under section 1105 of title 31."
+
+Subsec. (a)(3). Pub. L. 116–92, §1701(a)(1)(B)–(D), struck out par. (3) which read as follows: "the projected number of contractor personnel full-time equivalents required to provide contract services (as that term is defined in section 235 of this title) for each component of the Department of Defense for the next fiscal year and the contractor personnel full-time equivalents that provided contract services for each component of the Department of Defense for the prior fiscal year as reported in the inventory of contracts for services required by section 2330a(c) of this title."
+
+Subsec. (b). Pub. L. 116–92, §1701(a)(2), struck out "(1)" before "The Secretary" and struck out pars. (2) and (3) which read as follows:
+
+"(2) The justification and explanation shall specify in detail for all major military force units (including each land force division, carrier and other major combatant vessel, air wing, and other comparable unit) the following:
+
+"(A) Unit mission and capability.
+
+"(B) Strategy which the unit supports.
+
+"(3) The justification and explanation shall also specify in detail the manpower required to perform the medical missions of each of the armed forces and of the Department of Defense."
+
+Subsec. (c). Pub. L. 116–92, §1701(a)(3), substituted "discussion of the manpower required for support and overhead functions within the armed forces and the Department of Defense." for "discussion of the following:
+
+"(1) The manpower required for support and overhead functions within the armed forces and the Department of Defense.
+
+"(2) The relationship of the manpower required for support and overhead functions to the primary combat missions and support policies.
+
+"(3) The manpower required to be stationed or assigned to duty in foreign countries and aboard vessels located outside the territorial limits of the United States, its territories, and possessions."
+
+Subsec. (d). Pub. L. 116–92, §1701(b)(1), substituted "Not later than April 1 each year, the Secretary shall submit to Congress a report that sets forth" for "The Secretary shall also include in each such report".
+
+Subsec. (e)(1). Pub. L. 116–92, §1701(b)(2), substituted "Not later than April 1 each year, the Secretary shall submit to Congress a report that sets forth" for "In each such report, the Secretary shall also include".
+
+Subsec. (f). Pub. L. 116–92, §1701(b)(3)(A), substituted "Not later than June 1 each year, the Secretary shall submit to Congress a report that sets forth" for "The Secretary shall also include in each such report" in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 116–92, §1701(b)(3)(B), struck out "and estimates of such numbers for the current fiscal year and subsequent fiscal years" before period at end.
+
+Subsec. (g). Pub. L. 116–92, §1701(b)(4), substituted "Not later than September 1 each year, the Secretary shall submit to Congress a report that sets forth a detailed discussion, current as of the preceding fiscal year," for "In each report submitted under subsection (a), the Secretary shall also include a detailed discussion" in introductory provisions and "the fiscal year" for "the year" in pars. (3) and (4).
+
+Subsec. (h). Pub. L. 116–92, §1701(b)(5), substituted "Not later than April 1 each year, the Secretary shall submit to Congress a report" for "In each such report, the Secretary shall include a separate report" in introductory provisions.
 
 **2018**—Subsec. (a). Pub. L. 115–232, §591(a), substituted "on the date on which" for "not later than 45 days after the date on which" in introductory provisions.
 
@@ -201,5 +219,3 @@ Pub. L. 113–291, div. A, title V, §513, Dec. 19, 2014, 128 Stat. 3359, provid
 #### Assessment of Structure and Mix of Active and Reserve Forces ####
 
 Pub. L. 102–190, div. A, title IV, §402, Dec. 5, 1991, 105 Stat. 1349, as amended by Pub. L. 102–484, div. A, title V, §513(b), Oct. 23, 1992, 106 Stat. 2406, required Secretary of Defense to submit to Congress a report containing an assessment of alternatives relating to structure and mix of active and reserve forces appropriate for carrying out assigned missions in mid- to late-1990s and an evaluation and recommendations of Secretary and Chairman of Joint Chiefs of Staff as to mix or mixes of reserve and active forces considered acceptable to carry out expected future missions, and further provided for matters to be included in report and evaluation, commencement of assessment, submission of interim and final reports, and funding for assessment.
-
-[<sup>1</sup> See References in Text note below.](#115a_1)

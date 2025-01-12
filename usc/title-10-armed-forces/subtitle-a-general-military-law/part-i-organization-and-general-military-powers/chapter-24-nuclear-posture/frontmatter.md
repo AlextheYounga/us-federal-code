@@ -6,6 +6,8 @@ Sec.
 
 492. Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system.
 
+492a. Annual report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
+
 493. Reports to Congress on the modification of the force structure for the strategic nuclear weapons delivery systems of the United States.
 
 494. Nuclear force reductions.
@@ -25,6 +27,8 @@ Sec.
 499a. Collection, storage, and sharing of data relating to nuclear security enterprise and nuclear forces.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title XVI, §1665(c)(2), Dec. 20, 2019, 133 Stat. 1774, added item 492a.
 
 **2017**—Pub. L. 115–91, div. A, title XVI, §§1651(b), 1652(b), Dec. 12, 2017, 131 Stat. 1757, 1758, added items 499 and 499a.
 

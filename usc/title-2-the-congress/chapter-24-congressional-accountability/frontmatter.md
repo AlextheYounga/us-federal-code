@@ -26,6 +26,8 @@ Sec.
 
 1316a. Legislative branch appointments.
 
+1316b. Rights and protections relating to criminal history inquiries.
+
 1317. Prohibition of intimidation or reprisal.
 
 #### Part B—Public Services and Accommodations Under Americans with Disabilities Act of 1990 ####

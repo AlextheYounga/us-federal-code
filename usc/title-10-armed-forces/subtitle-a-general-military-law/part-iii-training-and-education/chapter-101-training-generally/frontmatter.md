@@ -8,7 +8,7 @@ Sec.
 
 2003. Aeronautical rating as pilot: qualifications.
 
-2004. Detail of commissioned officers as students at law schools.
+2004. Detail as students at law schools; commissioned officers; certain enlisted members.
 
 2004a. Detail of commissioned officers as students at medical schools.
 
@@ -38,7 +38,11 @@ Sec.
 
 2016. Undergraduate nurse training program: establishment through agreement with academic institution.
 
+2017. Limitation on establishment of postsecondary educational institutions pending notice to Congress.
+
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title V, §§551(b)(2), 553(b)(2), Dec. 20, 2019, 133 Stat. 1386, 1387, substituted "Detail as students at law schools; commissioned officers; certain enlisted members" for "Detail of commissioned officers as students at law schools" in item 2004 and added item 2017.
 
 **2016**—Pub. L. 114–328, div. A, title XII, §1244(d), Dec. 23, 2016, 130 Stat. 2518, struck out items 2010 "Participation of developing countries in combined exercises: payment of incremental expenses" and 2011 "Special operations forces: training with friendly foreign forces".
 
@@ -77,6 +81,20 @@ Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, adde
 **1970**—Pub. L. 91–278, §2(3), June 12, 1970, 84 Stat. 306, substituted "armed forces" for "Army, Navy, Air Force, or Marine Corps" in item 2002.
 
 **1965**—Pub. L. 89–160, §1(2), Sept. 1, 1965, 79 Stat. 615, added item 2002.
+
+#### Collection of Blast Exposure Information ####
+
+Pub. L. 116–92, div. A, title VII, §742(b), Dec. 20, 2019, 133 Stat. 1469, provided that: "The Secretary of Defense shall collect blast exposure information with respect to a member of the Armed Forces in a manner—
+
+"(1) consistent with blast exposure measurement training guidance of the Department of Defense, including any guidance developed pursuant to—
+
+"(A) the longitudinal medical study on blast pressure exposure required by section 734 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 131 Stat. 1444); and
+
+"(B) the review of guidance on blast exposure during training required by section 253 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 2001 note prec.);
+
+"(2) compatible with training and operational objectives of the Department; and
+
+"(3) that is automated, to the extent practicable, to minimize the reporting burden of unit commanders."
 
 #### Review of Guidance on Blast Exposure During Training ####
 

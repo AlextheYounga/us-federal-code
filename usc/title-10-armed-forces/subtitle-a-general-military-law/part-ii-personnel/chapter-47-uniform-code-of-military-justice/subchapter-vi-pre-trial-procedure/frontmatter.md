@@ -3,7 +3,7 @@
 |Sec. |Art.|                                                                      |
 |-----|----|----------------------------------------------------------------------|
 |830. |30. |                     Charges and specifications.                      |
-|830a.|30a.|            Certain proceedings conducted before referral.            |
+|830a.|30a.|                Proceedings conducted before referral.                |
 |831. |31. |              Compulsory self-incrimination prohibited.               |
 |832. |32. |Preliminary hearing required before referral to general court-martial.|
 |833. |33. |                        Disposition guidance.                         |
@@ -11,6 +11,8 @@
 |835. |35. |              Service of charges; commencement of trial.              |
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title V, §531(b)(2), Dec. 20, 2019, 133 Stat. 1359, substituted "Proceedings conducted before referral" for "Certain proceedings conducted before referral" in item 830a.
 
 **2017**—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), (C), Dec. 12, 2017, 131 Stat. 1601, amended Pub. L. 114–328, §5541(3). See 2016 Amendment note below.
 

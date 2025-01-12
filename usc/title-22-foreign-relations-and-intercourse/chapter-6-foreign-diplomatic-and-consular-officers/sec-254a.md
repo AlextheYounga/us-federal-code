@@ -46,9 +46,17 @@ Pub. L. 95–393, §9, Sept. 30, 1978, 92 Stat. 810, provided that: "This Act [s
 
 Pub. L. 95–393, §1, Sept. 30, 1978, 92 Stat. 808, provided that: "This Act [enacting this section, sections 254b to 254e of this title, and section 1364 of Title 28, Judiciary and Judicial Procedure, amending sections 1251 and 1351 of Title 28, repealing sections 252 to 254 of this title, and enacting provisions set out as a note under this section] may be cited as the 'Diplomatic Relations Act'."
 
-#### Strict Enforcement of Travel Protocols and Procedures of Accredited Diplomatic and Consular Personnel of the Russian Federation in the United States ####
+#### Notification of Travel by Accredited Diplomatic and Consular Personnel of the Russian Federation in the United States ####
 
-Pub. L. 115–31, div. N, title V, §502, May 5, 2017, 131 Stat. 825, provided that:
+Pub. L. 116–92, div. E, title LXVII, §6704, Dec. 20, 2019, 133 Stat. 2223, provided that:
+
+"In carrying out the advance notification requirements set out in section 502 of the Intelligence Authorization Act for Fiscal Year 2017 (division N of Public Law 115–31; 131 Stat. 825; 22 U.S.C. 254a note), the Secretary of State shall—
+
+"(1) ensure that the Russian Federation provides notification to the Secretary of State at least 2 business days in advance of all travel that is subject to such requirements by accredited diplomatic and consular personnel of the Russian Federation in the United States, and take necessary action to secure full compliance by Russian personnel and address any noncompliance; and
+
+"(2) provide notice of travel described in paragraph (1) to the Director of National Intelligence and the Director of the Federal Bureau of Investigation within 1 hour of receiving notice of such travel."
+
+Pub. L. 115–31, div. N, title V, §502, May 5, 2017, 131 Stat. 825, as amended by Pub. L. 116–92, div. E, title LXVII, §6717, Dec. 20, 2019, 133 Stat. 2228, provided that:
 
 "(a) Appropriate Committees of Congress Defined.—In this section, the term 'appropriate committees of Congress' means—
 
@@ -70,4 +78,4 @@ Pub. L. 115–31, div. N, title V, §502, May 5, 2017, 131 Stat. 825, provided t
 
 "(1) the Secretary of State shall submit to the appropriate committees of Congress a written report detailing the number of notifications submitted under the regime required by subsection (b); and
 
-"(2) the Secretary of State and the Director of the Federal Bureau of Investigation shall jointly submit to the appropriate committees of Congress a written report detailing the number of known or suspected violations of such requirements by any accredited diplomatic and consular personnel of the Russian Federation."
+"(2) the Secretary of State and the Director of the Federal Bureau of Investigation shall jointly submit to the appropriate committees of Congress a written report detailing a best estimate of known or suspected violations of such requirements by any accredited diplomatic and consular personnel of the Russian Federation."

@@ -8,6 +8,8 @@ Sec.
 
 1553. Review of discharge or dismissal.
 
+1553a. Review of a request for upgrade of discharge or dismissal.
+
 1554. Review of retirement or separation without pay for physical disability.
 
 1554a. Review of separation with disability rating of 20 percent disabled or less.
@@ -25,6 +27,8 @@ Sec.
 1559. Personnel limitation.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title V, §523(b)(1), Dec. 20, 2019, 133 Stat. 1354, added item 1553a.
 
 **2017**—Pub. L. 115–91, div. A, title V, §522(a)(2), Dec. 12, 2017, 131 Stat. 1380, added item 1554b.
 

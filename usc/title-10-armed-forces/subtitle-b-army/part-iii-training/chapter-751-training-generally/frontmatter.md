@@ -26,7 +26,11 @@ Sec.
 
 7421. Degree granting authority for United States Army War College.
 
+7422. Degree granting authority for United States Army Armament Graduate School.
+
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title V, §553(a)(2), Dec. 20, 2019, 133 Stat. 1387, added item 7422.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 401 of this title as this chapter and items 4301 to 4321 as 7401 to 7421, respectively.
 

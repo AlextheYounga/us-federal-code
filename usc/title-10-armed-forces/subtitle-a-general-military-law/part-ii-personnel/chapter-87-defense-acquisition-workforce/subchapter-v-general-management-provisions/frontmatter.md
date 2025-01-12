@@ -10,7 +10,11 @@ Sec.
 
 1764. Authority to establish different minimum requirements.
 
+1765. Competency development.
+
 #### Amendments ####
+
+**2019**—Pub. L. 116–92, div. A, title VIII, §861(i)(2), Dec. 20, 2019, 133 Stat. 1519, which directed amendment of the analysis of subchapter II of this chapter by adding item 1765, was executed to the analysis of this subchapter, to reflect the probable intent of Congress.
 
 **2011**—Pub. L. 111–383, div. A, title VIII, §872(a)(2), Jan. 7, 2011, 124 Stat. 4302, added item 1762.
 

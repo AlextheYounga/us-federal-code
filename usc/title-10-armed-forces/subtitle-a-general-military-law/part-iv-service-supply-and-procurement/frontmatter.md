@@ -19,7 +19,7 @@ Chap. Sec.
 
 139. Research and Development 2351
 
-140. Procurement of Commercial Items 2375
+140. Procurement of Commercial Products and Commercial Services 2377 1
 
 141. Miscellaneous Procurement Provisions 2381
 
@@ -72,10 +72,6 @@ Chap. Sec.
 172. Strategic Environmental Research and Development Program 2901
 
 173. Energy Security 2911
-
-#### Amendment of Analysis ####
-
-Pub. L. 115–232, div. A, title VIII, §836(e)(12), (h), Aug. 13, 2018, 132 Stat. 1870, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, this analysis is amended by amending item for chapter 140 to read "Procurement of Commercial Products and Commercial Services" and by substituting "2377" for "2375". See 2018 Amendment note below.
 
 #### Amendments ####
 
@@ -134,3 +130,5 @@ Pub. L. 99–433, title VI, §605(b), Oct. 1, 1986, 100 Stat. 1075a, added item 
 Pub. L. 97–214, §2(b), July 12, 1982, 96 Stat. 169, added item for chapter 169.
 
 **1980**—Pub. L. 96–323, §2(b), Aug. 4, 1980, 94 Stat. 1019, added item for chapter 138.
+
+[<sup>1</sup> So in original. Probably should be "2375".](#PARTIV_1)

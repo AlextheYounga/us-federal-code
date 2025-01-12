@@ -74,6 +74,48 @@ Subsecs. (e), (f). Pub. L. 114–328, §1036(e), redesignated subsec. (f) as (e)
 
 Pub. L. 113–66, div. A, title X, §1041(b), Dec. 26, 2013, 127 Stat. 857, provided that: "Section 130f of title 10, United States Code, as added by subsection (a), shall apply with respect to any sensitive military operation (as defined in subsection (d) of such section) executed on or after the date of the enactment of this Act [Dec. 26, 2013]."
 
+#### Comprehensive Department of Defense Policy on Collective Self-Defense ####
+
+Pub. L. 116–92, div. A, title XVII, §1754, Dec. 20, 2019, 133 Stat. 1853, provided that:
+
+"(a) Comprehensive Policy Required.—The Secretary of Defense shall prescribe a comprehensive written policy for the Department of Defense on the issuance of authorization for, and the provision by members and units of the United States Armed Forces of, collective self-defense to designated foreign nationals, their facilities, and their property.
+
+"(b) Elements.—The policy required by subsection (a) shall address the following:
+
+"(1) Each basis under domestic and international law pursuant to which a member or unit of the United States Armed Forces has been or may be authorized to provide collective self-defense to designated foreign nationals, their facilities, or their property under each circumstance as follows:
+
+"(A) Inside an area of active hostilities, or in a country or territory in which United States forces are authorized to conduct or support direct action operations.
+
+"(B) Outside an area of active hostilities, or in a country or territory in which United States forces are not authorized to conduct direct action military operations.
+
+"(C) When United States personnel, facilities, or equipment are not threatened, including both as described in subparagraph (A) and as described in subparagraph (B).
+
+"(D) When members of the United States Armed Forces are not participating in a military operation as part of an international coalition.
+
+"(E) Any other circumstance not encompassed by subparagraphs (A) through (D) in which a member or unit of the United States Armed Forces has been or may be authorized to provide such collective self-defense.
+
+"(2) A list and explanation of any limitations imposed by law or policy on the provision of collective self-defense to designated foreign nationals, their facilities, and their property under any of the bases in domestic or international law in the circumstances enumerated in paragraph (1), and the conditions under which any such limitation applies.
+
+"(3) The procedure by which a proposal that any member or unit of the United States Armed Forces provide collective self-defense in support of designated foreign nationals, their facilities, and their property is to be submitted, processed, and endorsed through offices, officers, and officials of the Department to the applicable approval authority for final decision, and a list of any information, advice, or opinion to be included with such proposal in order to inform appropriate action on such proposal by such approval authority.
+
+"(4) The title and duty position of any officers and officials of the Department empowered to render a final decision on a proposal described in paragraph (3), and the conditions applicable to, and limitations on, the exercise of such decisionmaking authority by each such officer or official.
+
+"(5) A description of the Rules of Engagement applicable to the provision of collective self-defense to designated foreign nationals, their facilities, and their property under any of the bases in domestic or international law in the circumstances enumerated in paragraph (1), and the conditions under which any such Rules of Engagement would be modified.
+
+"(6) A description of the process through which policy guidance pertaining to the authorization for, and the provision by members of the United States Armed Forces of, collective self-defense to designated foreign nationals, their facilities, and their property is to be disseminated to the level of tactical execution.
+
+"(7) Such other matters as the Secretary considers appropriate.
+
+"(c) Report on Policy.—
+
+"(1) In general.—Not later than 60 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report setting forth the policy required by subsection (a).
+
+"(2) DoD general counsel statement.—The Secretary shall include in the report under paragraph (1) a statement by the General Counsel of the Department of Defense as to whether the policy prescribed pursuant to subsection (a) is consistent with domestic and international law.
+
+"(3) Form.—The report required by paragraph (1) may be submitted in classified form.
+
+"(d) Briefing on Policy.—Not later than 30 days after the date of the submittal of the report required by subsection (c), the Secretary shall provide the congressional defense committees a classified briefing on the policy prescribed pursuant to subsection (a). The briefing shall make use of vignettes designated to illustrate real world application of the policy in each the circumstances enumerated in subsection (b)(1)."
+
 #### Deadline for Submittal of Procedures ####
 
 Pub. L. 113–66, div. A, title X, §1041(c), Dec. 26, 2013, 127 Stat. 857, provided that: "The Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] the procedures required under section 130f(b) of title 10, United States Code, as added by subsection (a), by not later than 60 days after the date of the enactment of this Act [Dec. 26, 2013]."
