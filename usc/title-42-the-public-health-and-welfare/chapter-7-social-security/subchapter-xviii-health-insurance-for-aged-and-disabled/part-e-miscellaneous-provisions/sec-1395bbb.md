@@ -18,7 +18,7 @@ The conditions of participation that a home health agency is required to meet un
 
 (i) all items and services furnished by (or under arrangements with) the agency for which payment may be made under this subchapter,
 
-(ii) the coverage available for such items and services under this subchapter, subchapter XIX of this chapter, and any other Federal program of which the agency is reasonably aware,
+(ii) the coverage available for such items and services under this subchapter, subchapter XIX, and any other Federal program of which the agency is reasonably aware,
 
 (iii) any charges for items and services not covered under this subchapter and any charges the individual may have to pay with respect to items and services furnished by (or under arrangements with) the agency, and
 
@@ -60,11 +60,11 @@ For purposes of clause (i), an individual is not considered to have completed a 
 
 (I) has been determined to be out of compliance with subparagraph (A), (B), or (C);
 
-(II) has been subject to an extended (or partial extended) survey under subsection (c)(2)(D) of this section;
+(II) has been subject to an extended (or partial extended) survey under subsection (c)(2)(D);
 
-(III) has been assessed a civil money penalty described in subsection (f)(2)(A)(i) of this section of not less than $5,000; or
+(III) has been assessed a civil money penalty described in subsection (f)(2)(A)(i) of not less than $5,000; or
 
-(IV) has been subject to the remedies described in subsection (e)(1) of this section or in clauses (ii) or (iii) of subsection (f)(2)(A) of this section.
+(IV) has been subject to the remedies described in subsection (e)(1) of this section or in clauses (ii) or (iii) of subsection (f)(2)(A).
 
 (iv) Such standards shall permit a determination that an individual who has completed (before July 1, 1989) a training and competency evaluation program or a competency evaluation program shall be deemed for purposes of subparagraph (A) to have completed a program that is approved by the Secretary under the standards established under this subparagraph if the Secretary determines that, at the time the program was offered, the program met such standards.
 
@@ -102,7 +102,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 (i) shall include (to the extent practicable), for a case-mix stratified sample of individuals furnished items or services by the agency—
 
-(I) visits to the homes of such individuals, but only with the consent of such individuals, for the purpose of evaluating (in accordance with a standardized reproducible assessment instrument (or instruments) approved by the Secretary under subsection (d) of this section) the extent to which the quality and scope of items and services furnished by the agency attained and maintained the highest practicable functional capacity of each such individual as reflected in such individual's written plan of care required under section 1395x(m) of this title and clinical records required under section 1395x(o)(3) of this title; and
+(I) visits to the homes of such individuals, but only with the consent of such individuals, for the purpose of evaluating (in accordance with a standardized reproducible assessment instrument (or instruments) approved by the Secretary under subsection (d)) the extent to which the quality and scope of items and services furnished by the agency attained and maintained the highest practicable functional capacity of each such individual as reflected in such individual's written plan of care required under section 1395x(m) of this title and clinical records required under section 1395x(o)(3) of this title; and
 
 (II) a survey of the quality of care and services furnished by the agency as measured by indicators of medical, nursing, and rehabilitative care;
 
@@ -118,11 +118,11 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 (D) Each home health agency that is found, under a standard survey, to have provided substandard care shall be subject to an extended survey to review and identify the policies and procedures which produced such substandard care and to determine whether the agency has complied with the conditions of participation specified in or pursuant to section 1395x(o) of this title or subsection (a) of this section. Any other agency may, at the Secretary's or State's discretion, be subject to such an extended survey (or a partial extended survey). The extended survey shall be conducted immediately after the standard survey (or, if not practical, not later than 2 weeks after the date of completion of the standard survey).
 
-(E) Nothing in this paragraph shall be construed as requiring an extended (or partial extended) survey as a prerequisite to imposing a sanction against an agency under subsection (e) of this section on the basis of the findings of a standard survey.
+(E) Nothing in this paragraph shall be construed as requiring an extended (or partial extended) survey as a prerequisite to imposing a sanction against an agency under subsection (e) on the basis of the findings of a standard survey.
 
 #### (d) Assessment process; reports to Congress ####
 
-(1) Not later than January 1, 1989, the Secretary shall designate an assessment instrument (or instruments) for use by an agency in complying with subsection (c)(2)(C)(i)(I) of this section.
+(1) Not later than January 1, 1989, the Secretary shall designate an assessment instrument (or instruments) for use by an agency in complying with subsection (c)(2)(C)(i)(I).
 
 (2)(A) Not later than January 1, 1992, the Secretary shall—
 
@@ -138,13 +138,13 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 #### (e) Enforcement ####
 
-(1) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) of this section and determines that the deficiencies involved immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in subsection (f)(2)(A)(iii) of this section or terminate the certification of the agency, and may provide, in addition, for 1 or more of the other remedies described in subsection (f)(2)(A) of this section.
+(1) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) and determines that the deficiencies involved immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary shall take immediate action to remove the jeopardy and correct the deficiencies through the remedy specified in subsection (f)(2)(A)(iii) or terminate the certification of the agency, and may provide, in addition, for 1 or more of the other remedies described in subsection (f)(2)(A).
 
-(2) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) of this section and determines that the deficiencies involved do not immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary may (for a period not to exceed 6 months) impose intermediate sanctions developed pursuant to subsection (f) of this section, in lieu of terminating the certification of the agency. If, after such a period of intermediate sanctions, the agency is still no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) of this section, the Secretary shall terminate the certification of the agency.
+(2) If the Secretary determines on the basis of a standard, extended, or partial extended survey or otherwise, that a home health agency that is certified for participation under this subchapter is no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) and determines that the deficiencies involved do not immediately jeopardize the health and safety of the individuals to whom the agency furnishes items and services, the Secretary may (for a period not to exceed 6 months) impose intermediate sanctions developed pursuant to subsection (f), in lieu of terminating the certification of the agency. If, after such a period of intermediate sanctions, the agency is still no longer in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a), the Secretary shall terminate the certification of the agency.
 
-(3) If the Secretary determines that a home health agency that is certified for participation under this subchapter is in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) of this section but, as of a previous period, did not meet such requirements, the Secretary may provide for a civil money penalty under subsection (f)(2)(A)(i) of this section for the days in which it finds that the agency was not in compliance with such requirements.
+(3) If the Secretary determines that a home health agency that is certified for participation under this subchapter is in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) but, as of a previous period, did not meet such requirements, the Secretary may provide for a civil money penalty under subsection (f)(2)(A)(i) for the days in which it finds that the agency was not in compliance with such requirements.
 
-(4) The Secretary may continue payments under this subchapter with respect to a home health agency not in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) of this section over a period of not longer than 6 months, if—
+(4) The Secretary may continue payments under this subchapter with respect to a home health agency not in compliance with the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) over a period of not longer than 6 months, if—
 
 (A) the State or local survey agency finds that it is more appropriate to take alternative action to assure compliance of the agency with the requirements than to terminate the certification of the agency,
 
@@ -158,7 +158,7 @@ The Secretary shall establish guidelines for approval of corrective actions requ
 
 (1) The Secretary shall develop and implement, by not later than April 1, 1989—
 
-(A) a range of intermediate sanctions to apply to home health agencies under the conditions described in subsection (e) of this section, and
+(A) a range of intermediate sanctions to apply to home health agencies under the conditions described in subsection (e), and
 
 (B) appropriate procedures for appealing determinations relating to the imposition of such sanctions.
 
@@ -166,15 +166,15 @@ The Secretary shall establish guidelines for approval of corrective actions requ
 
 (i) civil money penalties in an amount not to exceed $10,000 for each day of noncompliance,
 
-(ii) suspension of all or part of the payments to which a home health agency would otherwise be entitled under this subchapter with respect to items and services furnished by a home health agency on or after the date on which the Secretary determines that intermediate sanctions should be imposed pursuant to subsection (e)(2) of this section, and
+(ii) suspension of all or part of the payments to which a home health agency would otherwise be entitled under this subchapter with respect to items and services furnished by a home health agency on or after the date on which the Secretary determines that intermediate sanctions should be imposed pursuant to subsection (e)(2), and
 
-(iii) the appointment of temporary management to oversee the operation of the home health agency and to protect and assure the health and safety of the individuals under the care of the agency while improvements are made in order to bring the agency into compliance with all the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a) of this section.
+(iii) the appointment of temporary management to oversee the operation of the home health agency and to protect and assure the health and safety of the individuals under the care of the agency while improvements are made in order to bring the agency into compliance with all the requirements specified in or pursuant to section 1395x(o) of this title or subsection (a).
 
 The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (i) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title. The temporary management under clause (iii) shall not be terminated until the Secretary has determined that the agency has the management capability to ensure continued compliance with all the requirements referred to in that clause.
 
 (B) The sanctions specified in subparagraph (A) are in addition to sanctions otherwise available under State or Federal law and shall not be construed as limiting other remedies, including any remedy available to an individual at common law.
 
-(C) A finding to suspend payment under subparagraph (A)(ii) shall terminate when the Secretary finds that the home health agency is in substantial compliance with all the requirements specified in or pursuant to section 1395x(o) of this title and subsection (a) of this section.
+(C) A finding to suspend payment under subparagraph (A)(ii) shall terminate when the Secretary finds that the home health agency is in substantial compliance with all the requirements specified in or pursuant to section 1395x(o) of this title and subsection (a).
 
 (3) The Secretary shall develop and implement, by not later than April 1, 1989, specific procedures with respect to the conditions under which each of the intermediate sanctions developed under paragraph (1) is to be applied, including the amount of any fines and the severity of each of these sanctions. Such procedures shall be designed so as to minimize the time between identification of deficiencies and imposition of these sanctions and shall provide for the imposition of incrementally more severe fines for repeated or uncorrected deficiencies.
 

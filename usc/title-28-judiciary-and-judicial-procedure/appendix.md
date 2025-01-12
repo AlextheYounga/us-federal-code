@@ -36,7 +36,7 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 FEDERAL RULES OF APPELLATE PROCEDURE
 ==========
 
-(As amended to December 1, 2016)
+(As amended to January 3, 2017)
 
 #### Historical Note ####
 
@@ -426,7 +426,7 @@ As a result of the statutory amendments, subdivision (a) of Rule 3.1 is no longe
 
 (B)(i) If a party files a notice of appeal after the court announces or enters a judgment—but before it disposes of any motion listed in Rule 4(a)(4)(A)—the notice becomes effective to appeal a judgment or order, in whole or in part, when the order disposing of the last such remaining motion is entered.
 
-(ii) A party intending to challenge an order disposing of any motion listed in Rule 4(a)(4)(A), or a judgment's alteration or amendment upon such a motion, must file a notice of appeal, or an amended notice of appeal—in compliance with Rule 3(c)—within the time prescribed by this Rule measured from the entry of the order disposing of the last such remaining motion.
+(ii) A party intending to challenge an order disposing of any motion listed in Rule 4(a)(4)(A), or a judgment's alteration or amendment upon such a motion, must file a notice of appeal, or an amended notice of appeal—in compliance with Rule 3(c)—within the time prescribed by this Rule measured from the entry of the order disposing of the last such remaining motion.<sup><a href="#Rule_4_1_target" name="Rule_4_1">1</a></sup>
 
 (5) *Motion for Extension of Time.*
 
@@ -782,6 +782,8 @@ The amended rule also provides that a notice is timely without a declaration or 
 
 #### References in Text ####
 
+Rule 4(a)(4)(B) is set out above as it appears in the Supreme Court order of Mar. 28, 2009. Prior to amendment, Rule 4(a)(4)(B) contained a subdivision (iii) which read as follows: "No additional fee is required to file an amended notice." The language of subdivision (iii) probably should be part of Rule 4(a)(4)(B), but does not appear in the 2009 amendment.
+
 The Federal Rules of Civil Procedure, referred to in subd. (a)(4), (6), and (7), are set out in this Appendix.
 
 The Federal Rules of Criminal Procedure, referred to in subd. (b)(3), (5), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
@@ -789,6 +791,8 @@ The Federal Rules of Criminal Procedure, referred to in subd. (b)(3), (5), are s
 #### Amendment by Public Law ####
 
 **1988**—Subd. (b). Pub. L. 100–690 inserted "(i)" and "or (ii) a notice of appeal by the Government" in first sentence, and "(i)" and "or (ii) a notice of appeal by any defendant" in fifth sentence.
+
+[<sup>1</sup> See References in Text note below.](#Rule_4_1)
 
 ### Rule 5. Appeal by Permission ###
 
@@ -4265,6 +4269,8 @@ Signed on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_[*insert date*]
 
 ### APPENDIX ###
 
+#### Table ####
+
 <img src="http://uscode.house.gov/images/uscprelim/28Aapp1.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28Aapp2.gif" width="700" />
 
 (As added Apr. 28, 2016, eff. Dec. 1, 2016.)
@@ -4276,7 +4282,7 @@ Appendix: Length Limits Stated in the Federal Rules of Appellate Procedure is se
 FEDERAL RULES OF CIVIL PROCEDURE
 ==========
 
-(As amended to December 1, 2016)
+(As amended to January 3, 2017)
 
 #### Historical Note ####
 
@@ -4616,9 +4622,9 @@ This table shows the Equity Rules to which references are made in the notes to t
 |     80     |                    6                    |
 |     81     |                   86                    |
 
-### **RULES OF CIVIL PROCEDURE FOR THE UNITED STATES DISTRICT COURTS <sup><a href="#I_1_target" name="I_1">1</a></sup>** ###
+### **RULES OF CIVIL PROCEDURE FOR THE UNITED STATES DISTRICT COURTS <sup><a href="#Table_1_target" name="Table_1">1</a></sup>** ###
 
-[<sup>1</sup> Title amended December 29, 1948, effective October 20, 1949.](#I_1)
+[<sup>1</sup> Title amended December 29, 1948, effective October 20, 1949.](#Table_1)
 
 ### TITLE I. SCOPE OF RULES; FORM OF ACTION ###
 
@@ -16290,7 +16296,7 @@ The times set in the former rule at 20 days have been revised to 21 days. See th
 FEDERAL RULES OF EVIDENCE
 ==========
 
-(As amended to December 1, 2016)
+(As amended to January 3, 2017)
 
 #### Effective Date and Application of Rules ####
 

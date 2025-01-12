@@ -872,7 +872,7 @@ Pub. L. 111–203, title IX, §939B, July 21, 2010, 124 Stat. 1887, provided tha
 
 #### Conflict Minerals ####
 
-Pub. L. 111–203, title XV, §1502, July 21, 2010, 124 Stat. 2213, provided that:
+Pub. L. 111–203, title XV, §1502, July 21, 2010, 124 Stat. 2213, as amended by Pub. L. 114–301, §3(b), Dec. 16, 2016, 130 Stat. 1515, provided that:
 
 "(a) Sense of Congress on Exploitation and Trade of Conflict Minerals Originating in the Democratic Republic of the Congo.—It is the sense of Congress that the exploitation and trade of conflict minerals originating in the Democratic Republic of the Congo is helping to finance conflict characterized by extreme levels of violence in the eastern Democratic Republic of the Congo, particularly sexual- and gender-based violence, and contributing to an emergency humanitarian situation therein, warranting the provisions of section 13(p) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(p)], as added by subsection (b).
 
@@ -920,9 +920,9 @@ Pub. L. 111–203, title XV, §1502, July 21, 2010, 124 Stat. 2213, provided tha
 
 "(d) Reports.—
 
-"(1) Baseline report.—Not later than 1 year after the date of the enactment of this Act [July 21, 2010] and annually thereafter until the termination of the disclosure requirements under section 13(p) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(p)], the Comptroller General of the United States shall submit to appropriate congressional committees a report that includes an assessment of the rate of sexual- and gender-based violence in war-torn areas of the Democratic Republic of the Congo and adjoining countries.
+"(1) Baseline report.—Not later than 1 year after the date of the enactment of this Act [July 21, 2010] and annually thereafter through 2020, in 2022, and in 2024, the Comptroller General of the United States shall submit to appropriate congressional committees a report that includes an assessment of the rate of sexual- and gender-based violence in war-torn areas of the Democratic Republic of the Congo and adjoining countries.
 
-"(2) Regular report on effectiveness.—Not later than 2 years after the date of the enactment of this Act [July 21, 2010] and annually thereafter, the Comptroller General of the United States shall submit to the appropriate congressional committees a report that includes the following:
+"(2) Regular report on effectiveness.—Not later than 2 years after the date of the enactment of this Act [July 21, 2010] and annually thereafter through 2020, in 2022, and in 2024, the Comptroller General of the United States shall submit to the appropriate congressional committees a report that includes the following:
 
 "(A) An assessment of the effectiveness of section 13(p) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(p)], as added by subsection (b), in promoting peace and security in the Democratic Republic of the Congo and adjoining countries.
 

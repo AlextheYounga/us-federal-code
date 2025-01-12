@@ -8,6 +8,10 @@ This chapter may be cited as the "Securities Exchange Act of 1934."
 
 This chapter, referred to in text, was in the original "This Act" meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: "Title I—Regulation of Securities Exchanges" and "Title II—Amendments to Securities Act of 1933." This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78d–5, 78e to 78l, 78m, 78m–1, 78n to 78o, 78o–3, 78o–4, 78o–5 to 78o–7, 78o–10 to 78u–6, 78v to 78dd–1, 78ee to 78hh, 78mm, and 78pp of this title. Sections 78kk, 78ll, 78nn, and 78oo of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b to 77e, 77j, 77k, 77m, 77o, and 77s, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
 
+#### Short Title of 2016 Amendment ####
+
+Pub. L. 114–284, §1, Dec. 16, 2016, 130 Stat. 1447, provided that: "This Act [enacting section 78qq of this title and amending sections 78d and 80c–1 of this title] may be cited as the 'SEC Small Business Advocate Act of 2016'."
+
 #### Short Title of 2012 Amendment ####
 
 Pub. L. 112–106, §1, Apr. 5, 2012, 126 Stat. 306, provided that: "This Act [enacting section 77d–1 of this title, amending sections 77b, 77c, 77d, 77e to 77g, 77r, 78c, 78k–1, 78l, 78m, 78n, 78n–1, 78o, 78o–6, 7213, and 7262 of this title, enacting provisions set out as notes under sections 77a, 77b, 77d, 77g, 77r, 78c, 78d, 78l, and 78o–6 of this title, and amending provisions set out as a note under section 78l of this title] may be cited as the 'Jumpstart Our Business Startups Act'."

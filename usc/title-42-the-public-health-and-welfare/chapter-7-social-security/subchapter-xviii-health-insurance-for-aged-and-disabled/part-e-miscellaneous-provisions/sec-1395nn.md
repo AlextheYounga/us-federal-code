@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-Except as provided in subsection (b) of this section, if a physician (or an immediate family member of such physician) has a financial relationship with an entity specified in paragraph (2), then—
+Except as provided in subsection (b), if a physician (or an immediate family member of such physician) has a financial relationship with an entity specified in paragraph (2), then—
 
 (A) the physician may not make a referral to the entity for the furnishing of designated health services for which payment otherwise may be made under this subchapter, and
 
@@ -14,19 +14,19 @@ Except as provided in subsection (b) of this section, if a physician (or an imme
 
 For purposes of this section, a financial relationship of a physician (or an immediate family member of such physician) with an entity specified in this paragraph is—
 
-(A) except as provided in subsections (c) and (d) of this section, an ownership or investment interest in the entity, or
+(A) except as provided in subsections (c) and (d), an ownership or investment interest in the entity, or
 
-(B) except as provided in subsection (e) of this section, a compensation arrangement (as defined in subsection (h)(1) of this section) between the physician (or an immediate family member of such physician) and the entity.
+(B) except as provided in subsection (e), a compensation arrangement (as defined in subsection (h)(1)) between the physician (or an immediate family member of such physician) and the entity.
 
 An ownership or investment interest described in subparagraph (A) may be through equity, debt, or other means and includes an interest in an entity that holds an ownership or investment interest in any entity providing the designated health service.
 
 #### (b) General exceptions to both ownership and compensation arrangement prohibitions ####
 
-Subsection (a)(1) of this section shall not apply in the following cases:
+Subsection (a)(1) shall not apply in the following cases:
 
 #### (1) Physicians' services ####
 
-In the case of physicians' services (as defined in section 1395x(q) of this title) provided personally by (or under the personal supervision of) another physician in the same group practice (as defined in subsection (h)(4) of this section) as the referring physician.
+In the case of physicians' services (as defined in section 1395x(q) of this title) provided personally by (or under the personal supervision of) another physician in the same group practice (as defined in subsection (h)(4)) as the referring physician.
 
 #### (2) In-office ancillary services ####
 
@@ -62,7 +62,7 @@ In the case of services furnished by an organization—
 
 (D) that is a qualified health maintenance organization (within the meaning of section 300e–9(d) <sup><a href="#1395nn_1_target" name="1395nn_1">1</a></sup> of this title) to an individual enrolled with the organization, or
 
-(E) that is a Medicare+Choice organization under part C of this subchapter that is offering a coordinated care plan described in section 1395w–21(a)(2)(A) of this title to an individual enrolled with the organization.
+(E) that is a Medicare+Choice organization under part C that is offering a coordinated care plan described in section 1395w–21(a)(2)(A) of this title to an individual enrolled with the organization.
 
 #### (4) Other permissible exceptions ####
 
@@ -74,7 +74,7 @@ An exception established by regulation under section 1395w–104(e)(6) of this t
 
 #### (c) General exception related only to ownership or investment prohibition for ownership in publicly traded securities and mutual funds ####
 
-Ownership of the following shall not be considered to be an ownership or investment interest described in subsection (a)(2)(A) of this section:
+Ownership of the following shall not be considered to be an ownership or investment interest described in subsection (a)(2)(A):
 
 (1) Ownership of investment securities (including shares or bonds, debentures, notes, or other debt instruments) which may be purchased on terms generally available to the public and which are—
 
@@ -88,7 +88,7 @@ Ownership of the following shall not be considered to be an ownership or investm
 
 #### (d) Additional exceptions related only to ownership or investment prohibition ####
 
-The following, if not otherwise excepted under subsection (b) of this section, shall not be considered to be an ownership or investment interest described in subsection (a)(2)(A) of this section:
+The following, if not otherwise excepted under subsection (b), shall not be considered to be an ownership or investment interest described in subsection (a)(2)(A):
 
 #### (1) Hospitals in Puerto Rico ####
 
@@ -100,7 +100,7 @@ In the case of designated health services furnished in a rural area (as defined 
 
 (A) substantially all of the designated health services furnished by the entity are furnished to individuals residing in such a rural area;
 
-(B) effective for the 18-month period beginning on December 8, 2003, the entity is not a specialty hospital (as defined in subsection (h)(7) of this section); and
+(B) effective for the 18-month period beginning on December 8, 2003, the entity is not a specialty hospital (as defined in subsection (h)(7)); and
 
 (C) in the case where the entity is a hospital, the hospital meets the requirements of paragraph (3)(D).
 
@@ -110,7 +110,7 @@ In the case of designated health services provided by a hospital (other than a h
 
 (A) the referring physician is authorized to perform services at the hospital;
 
-(B) effective for the 18-month period beginning on December 8, 2003, the hospital is not a specialty hospital (as defined in subsection (h)(7) of this section);
+(B) effective for the 18-month period beginning on December 8, 2003, the hospital is not a specialty hospital (as defined in subsection (h)(7));
 
 (C) the ownership or investment interest is in the hospital itself (and not merely in a subdivision of the hospital); and
 
@@ -118,7 +118,7 @@ In the case of designated health services provided by a hospital (other than a h
 
 #### (e) Exceptions relating to other compensation arrangements ####
 
-The following shall not be considered to be a compensation arrangement described in subsection (a)(2)(B) of this section:
+The following shall not be considered to be a compensation arrangement described in subsection (a)(2)(B):
 
 #### (1) Rental of office space; rental of equipment ####
 
@@ -264,7 +264,7 @@ Each entity providing covered items or services for which payment may be made un
 
 (1) the covered items and services provided by the entity, and
 
-(2) the names and unique physician identification numbers of all physicians with an ownership or investment interest (as described in subsection (a)(2)(A) of this section), or with a compensation arrangement (as described in subsection (a)(2)(B) of this section), in the entity, or whose immediate relatives have such an ownership or investment interest or who have such a compensation relationship with the entity.
+(2) the names and unique physician identification numbers of all physicians with an ownership or investment interest (as described in subsection (a)(2)(A)), or with a compensation arrangement (as described in subsection (a)(2)(B)), in the entity, or whose immediate relatives have such an ownership or investment interest or who have such a compensation relationship with the entity.
 
 Such information shall be provided in such form, manner, and at such times as the Secretary shall specify. The requirement of this subsection shall not apply to designated health services provided outside the United States or to entities which the Secretary determines provides <sup><a href="#1395nn_3_target" name="1395nn_3">3</a></sup> services for which payment may be made under this subchapter very infrequently.
 
@@ -272,11 +272,11 @@ Such information shall be provided in such form, manner, and at such times as th
 
 #### (1) Denial of payment ####
 
-No payment may be made under this subchapter for a designated health service which is provided in violation of subsection (a)(1) of this section.
+No payment may be made under this subchapter for a designated health service which is provided in violation of subsection (a)(1).
 
 #### (2) Requiring refunds for certain claims ####
 
-If a person collects any amounts that were billed in violation of subsection (a)(1) of this section, the person shall be liable to the individual for, and shall refund on a timely basis to the individual, any amounts so collected.
+If a person collects any amounts that were billed in violation of subsection (a)(1), the person shall be liable to the individual for, and shall refund on a timely basis to the individual, any amounts so collected.
 
 #### (3) Civil money penalty and exclusion for improper claims ####
 
@@ -288,7 +288,7 @@ Any physician or other entity that enters into an arrangement or scheme (such as
 
 #### (5) Failure to report information ####
 
-Any person who is required, but fails, to meet a reporting requirement of subsection (f) of this section is subject to a civil money penalty of not more than $10,000 for each day for which reporting is required to have been made. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+Any person who is required, but fails, to meet a reporting requirement of subsection (f) is subject to a civil money penalty of not more than $10,000 for each day for which reporting is required to have been made. The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (6) Advisory opinions ####
 
@@ -298,7 +298,7 @@ The Secretary shall issue written advisory opinions concerning whether a referra
 
 #### (B) Application of certain rules ####
 
-The Secretary shall, to the extent practicable, apply the rules under subsections (b)(3) and (b)(4) of this section and take into account the regulations promulgated under subsection (b)(5) of section 1320a–7d of this title in the issuance of advisory opinions under this paragraph.
+The Secretary shall, to the extent practicable, apply the rules under subsections (b)(3) and (b)(4) and take into account the regulations promulgated under subsection (b)(5) of section 1320a–7d of this title in the issuance of advisory opinions under this paragraph.
 
 #### (C) Regulations ####
 
@@ -378,7 +378,7 @@ In the case of a faculty practice plan associated with a hospital, institution o
 
 #### (A) Physicians' services ####
 
-Except as provided in subparagraph (C), in the case of an item or service for which payment may be made under part B of this subchapter, the request by a physician for the item or service, including the request by a physician for a consultation with another physician (and any test or procedure ordered by, or to be performed by (or under the supervision of) that other physician), constitutes a "referral" by a "referring physician".
+Except as provided in subparagraph (C), in the case of an item or service for which payment may be made under part B, the request by a physician for the item or service, including the request by a physician for a consultation with another physician (and any test or procedure ordered by, or to be performed by (or under the supervision of) that other physician), constitutes a "referral" by a "referring physician".
 
 #### (B) Other items ####
 
@@ -676,7 +676,7 @@ Subsec. (b)(3)(E). Pub. L. 106–113, §1000(a)(6) [title V, §524(a)(3)], which
 
 **1994**—Subsec. (f). Pub. L. 103–432, §152(a)(1), (4), (5), in introductory provisions, substituted "ownership, investment, and compensation arrangements" for "ownership arrangements", and in closing provisions, substituted "designated health services" for "covered items and services" and struck out "Such information shall first be provided not later than October 1, 1991." after "shall specify." and "The Secretary may waive the requirements of this subsection (and the requirements of chapter 35 of title 44 with respect to information provided under this subsection) with respect to reporting by entities in a State (except for entities providing designated health services) so long as such reporting occurs in at least 10 States, and the Secretary may waive such requirements with respect to the providers in a State required to report so long as such requirements are not waived with respect to parenteral and enteral suppliers, end stage renal disease facilities, suppliers of ambulance services, hospitals, entities providing physical therapy services, and entities providing diagnostic imaging services of any type." at end.
 
-Subsec. (f)(2). Pub. L. 103–432, §152(a)(2), (3), inserted ", or with a compensation arrangement (as described in subsection (a)(2)(B) of this section)," after "investment interest (as described in subsection (a)(2)(A) of this section)" and "interest or who have such a compensation relationship with the entity" before period at end.
+Subsec. (f)(2). Pub. L. 103–432, §152(a)(2), (3), inserted ", or with a compensation arrangement (as described in subsection (a)(2)(B))," after "investment interest (as described in subsection (a)(2)(A))" and "interest or who have such a compensation relationship with the entity" before period at end.
 
 Subsec. (h)(6). Pub. L. 103–432, §152(b), in subpar. (D), substituted "services, including magnetic resonance imaging, computerized axial tomography scans, and ultrasound services" for "or other diagnostic services", and in subpars. (E), (F), and (H), inserted "and supplies" before period at end.
 

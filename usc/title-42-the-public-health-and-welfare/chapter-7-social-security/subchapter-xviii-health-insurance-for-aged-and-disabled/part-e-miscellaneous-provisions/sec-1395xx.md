@@ -20,7 +20,7 @@
 
 (2) Paragraph (1) shall not apply—
 
-(A) to services furnished by a physician and described in subsection (a)(1)(B) of this section and covered by regulations in effect under subsection (a) of this section, and
+(A) to services furnished by a physician and described in subsection (a)(1)(B) and covered by regulations in effect under subsection (a), and
 
 (B) under regulations established by the Secretary, where the amount involved under the percentage contract is reasonable and the contract—
 

@@ -6,7 +6,7 @@ Any hospital may file an application with the Secretary (in such form and includ
 
 #### (b) Allowable costs as transitional allowances; findings and determinations ####
 
-If the Secretary finds, after consideration of an application under subsection (a) of this section, that—
+If the Secretary finds, after consideration of an application under subsection (a), that—
 
 (1) the hospital's closure or conversion—
 
@@ -22,7 +22,7 @@ If the Secretary finds, after consideration of an application under subsection (
 
 (B) the closure is not for replacement of the hospital,
 
-the Secretary may include as an allowable cost in the hospital's reasonable cost (for the purpose of making payments to the hospital under this subchapter) an amount (in this section referred to as a "transitional allowance"), as provided in subsection (c) of this section.
+the Secretary may include as an allowable cost in the hospital's reasonable cost (for the purpose of making payments to the hospital under this subchapter) an amount (in this section referred to as a "transitional allowance"), as provided in subsection (c).
 
 #### (c) Factors determinative of transitional allowance ####
 

@@ -84,7 +84,7 @@ The purpose of the Park is to preserve and interpret for the benefit of present 
 
 (vii) The Great Falls Visitor Center.
 
-(B) In addition to the lands described in subparagraph (A), the Park shall include the approximately 6 acres of land containing Hinchliffe Stadium and generally depicted as the "Boundary Modification Area" on the map entitled "Paterson Great Falls National Historical Park, Proposed Boundary Modification", numbered T03/120,155, and dated April 2014, which shall be administered as part of the Park in accordance with subsection (c)(1) and section 3 of the Hinchliffe Stadium Heritage Act.
+(B) In addition to the lands described in subparagraph (A), the Park shall include the approximately 6 acres of land containing Hinchliffe Stadium and generally depicted as the "Boundary Modification Area" on the map entitled "Paterson Great Falls National Historical Park, Proposed Boundary Modification", numbered T03/120,155A, and dated August 2015, which shall be administered as part of the Park in accordance with subsection (c)(1) and section 3 of the Hinchliffe Stadium Heritage Act.
 
 #### (4) Availability of map ####
 
@@ -320,7 +320,7 @@ The study shall include an assessment of—
 
 There are authorized to be appropriated such sums as are necessary to carry out this section.
 
-(Pub. L. 111–11, title VII, §7001, Mar. 30, 2009, 123 Stat. 1183; Pub. L. 113–291, div. B, title XXX, §3037(a), Dec. 19, 2014, 128 Stat. 3782.)
+(Pub. L. 111–11, title VII, §7001, Mar. 30, 2009, 123 Stat. 1183;(Pub. L. 113–291, div. B, title XXX, §3037(a), Dec. 19, 2014, 128 Stat. 3782; Pub. L. 114–289, title VI, §601(i), Dec. 16, 2016, 130 Stat. 1491.)
 
 #### References in Text ####
 
@@ -338,7 +338,9 @@ In subsec. (d)(1)(A), "section 100502 of title 54" substituted for "section 12(b
 
 #### Amendments ####
 
-**2014**—Subsec. (b)(3). Pub. L. 113–291, §3037(a)(1), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A), and added subpar. (B).
+**2016**—Subsec. (b)(3). Pub. L. 114–289, §601(i), amended Pub. L. 113–291, §3037(a)(1). See 2014 Amendment note below.
+
+**2014**—Subsec. (b)(3). Pub. L. 113–291, §3037(a)(1), as amended by Pub. L. 114–287, §601(i), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A), and added subpar. (B).
 
 Subsec. (b)(4). Pub. L. 113–291, §3037(a)(2), substituted "The Map and the map referred to in paragraph (3)(B)" for "The Map".
 

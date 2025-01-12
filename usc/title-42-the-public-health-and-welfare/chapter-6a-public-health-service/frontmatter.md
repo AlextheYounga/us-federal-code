@@ -2396,13 +2396,7 @@ Sec.
 
 #### SUBCHAPTER XVI—PRESIDENT'S COMMISSION FOR THE STUDY OF ETHICAL PROBLEMS IN MEDICINE AND BIOMEDICAL AND BEHAVIOR RESEARCH ####
 
-300v. Commission.
-
-300v–1. Duties of Commission.
-
-300v–2. Administrative provisions.
-
-300v–3. Authorization of appropriations; termination of Commission.
+300v to 300v–3. Omitted.
 
 #### SUBCHAPTER XVII—BLOCK GRANTS ####
 

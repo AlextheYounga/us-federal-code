@@ -166,17 +166,17 @@ With respect to home health services furnished on or after October 1, 1998, no c
 
 There shall be no administrative or judicial review under section 1395ff of this title, 1395oo of this title, or otherwise of—
 
-(1) the establishment of a transition period under subsection (b)(1) of this section;
+(1) the establishment of a transition period under subsection (b)(1);
 
-(2) the definition and application of payment units under subsection (b)(2) of this section;
+(2) the definition and application of payment units under subsection (b)(2);
 
-(3) the computation of initial standard prospective payment amounts under subsection (b)(3)(A) of this section (including the reduction described in clause (ii) of such subsection);
+(3) the computation of initial standard prospective payment amounts under subsection (b)(3)(A) (including the reduction described in clause (ii) of such subsection);
 
-(4) the establishment of the adjustment for outliers under subsection (b)(3)(C) of this section;
+(4) the establishment of the adjustment for outliers under subsection (b)(3)(C);
 
-(5) the establishment of case mix and area wage adjustments under subsection (b)(4) of this section; and
+(5) the establishment of case mix and area wage adjustments under subsection (b)(4); and
 
-(6) the establishment of any adjustments for outliers under subsection (b)(5) of this section.
+(6) the establishment of any adjustments for outliers under subsection (b)(5).
 
 #### (e) Construction related to home health services ####
 

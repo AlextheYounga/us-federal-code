@@ -4,6 +4,10 @@ Sec.
 
 303101. Establishment.
 
-303102. Content.
+303102. Funding.
 
 303103. Use and availability.
+
+#### Amendments ####
+
+**2016**—Pub. L. 114–289, title VIII, §802(c)(2), Dec. 16, 2016, 130 Stat. 1495, substituted "Funding" for "Content" in item 303102.

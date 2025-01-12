@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Program ####
 
-There is hereby established the Medicare Integrity Program (in this section referred to as the "Program") under which the Secretary shall promote the integrity of the medicare program by entering into contracts in accordance with this section with eligible entities, or otherwise, to carry out the activities described in subsection (b) of this section.
+There is hereby established the Medicare Integrity Program (in this section referred to as the "Program") under which the Secretary shall promote the integrity of the medicare program by entering into contracts in accordance with this section with eligible entities, or otherwise, to carry out the activities described in subsection (b).
 
 #### (b) Activities described ####
 
@@ -22,7 +22,7 @@ The activities described in this subsection are as follows:
 
 #### (c) Eligibility of entities ####
 
-An entity is eligible to enter into a contract under the Program to carry out any of the activities described in subsection (b) of this section if—
+An entity is eligible to enter into a contract under the Program to carry out any of the activities described in subsection (b) if—
 
 (1) the entity has demonstrated capability to carry out such activities;
 
@@ -34,7 +34,7 @@ An entity is eligible to enter into a contract under the Program to carry out an
 
 (5) the entity meets such other requirements as the Secretary may impose.
 
-In the case of the activity described in subsection (b)(5) of this section, an entity shall be deemed to be eligible to enter into a contract under the Program to carry out the activity if the entity is a carrier with a contract in effect under section 1395u of this title.
+In the case of the activity described in subsection (b)(5), an entity shall be deemed to be eligible to enter into a contract under the Program to carry out the activity if the entity is a carrier with a contract in effect under section 1395u of this title.
 
 #### (d) Process for entering into contracts ####
 
@@ -170,7 +170,7 @@ For purposes of this paragraph, the term "consent settlement" means an agreement
 
 #### (6) Notice of over-utilization of codes ####
 
-The Secretary shall establish, in consultation with organizations representing the classes of providers of services and suppliers, a process under which the Secretary provides for notice to classes of providers of services and suppliers served by the contractor in cases in which the contractor has identified that particular billing codes may be overutilized by that class of providers of services or suppliers under the programs under this subchapter (or provisions of subchapter XI of this chapter insofar as they relate to such programs).
+The Secretary shall establish, in consultation with organizations representing the classes of providers of services and suppliers, a process under which the Secretary provides for notice to classes of providers of services and suppliers served by the contractor in cases in which the contractor has identified that particular billing codes may be overutilized by that class of providers of services or suppliers under the programs under this subchapter (or provisions of subchapter XI insofar as they relate to such programs).
 
 #### (7) Payment audits ####
 

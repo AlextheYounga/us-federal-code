@@ -260,6 +260,16 @@ Sec.
 
 298. Immigration functions.
 
+#### Part G—U.S. Customs and Border Protection Public Private Partnerships ####
+
+301. Fee agreements for certain services at ports of entry.
+
+301a. Port of entry donation authority.
+
+301b. Current and proposed agreements.
+
+301c. Definitions.
+
 #### SUBCHAPTER V—NATIONAL EMERGENCY MANAGEMENT ####
 
 311. Definitions.
@@ -442,7 +452,7 @@ Sec.
 
 463. Requirement to comply with laws protecting equal employment opportunity and providing whistleblower protections.
 
-464. Federal Law Enforcement Training Center.
+464. Federal Law Enforcement Training Centers.
 
 464a. Repealed.
 

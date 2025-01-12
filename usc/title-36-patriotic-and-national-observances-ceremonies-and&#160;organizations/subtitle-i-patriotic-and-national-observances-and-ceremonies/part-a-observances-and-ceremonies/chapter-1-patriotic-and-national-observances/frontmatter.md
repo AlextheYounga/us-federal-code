@@ -566,7 +566,7 @@ Pub. L. 113–291, div. B, title XXX, §3091(a)–(c)(3)(B), Dec. 19, 2014, 128 
 
 "(c) Additional Amendments to World War I Centennial Commission Act.—[Pars. (1) to (3)(B) amended sections 4, 7, and 9 of Pub. L. 112–272, set out below. Par. (3)(C) amended table of contents of Pub. L. 112–272, which was omitted from the Code.]"
 
-Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, as amended by Pub. L. 113–291, div. B, title XXX, §3091(b)(7)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3859, 3860, provided that:
+Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, as amended by Pub. L. 113–291, div. B, title XXX, §3091(b)(7)–(c)(3)(B), Dec. 19, 2014, 128 Stat. 3859, 3860; Pub. L. 114–289, title VI, §601(l), Dec. 16, 2016, 130 Stat. 1492, provided that:
 
 #### "SECTION 1. SHORT TITLE; TABLE OF CONTENTS. ####
 
@@ -678,7 +678,7 @@ Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, as amended by Pub. L. 113–29
 
 "(B) Two members appointed by the Secretary of Homeland Security in the following manner: One from the Coast Guard and one from the United States Secret Service.
 
-"(C) Two members appointed by the Secretary of the Interior, including one from the National Parks Service.
+"(C) Two members appointed by the Secretary of the Interior, including one from the National Park Service.
 
 "(4) Vacancies.—A vacancy in a member position under paragraph (3) shall be filled in the same manner in which the original appointment was made.
 

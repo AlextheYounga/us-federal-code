@@ -480,6 +480,106 @@ Committee on Government Reform of House of Representatives changed to Committee 
 
 Pub. L. 107–296, title XVII, §1705(b), Nov. 25, 2002, 116 Stat. 2316, provided that: "The amendments made by this section [amending this section] shall take effect on the date of transfer of the Strategic National Stockpile of the Department of Health and Human Services to the Department [of Homeland Security]."
 
+#### First Responder Anthrax Preparedness ####
+
+Pub. L. 114–268, Dec. 14, 2016, 130 Stat. 1387, provided that:
+
+#### "SECTION 1. SHORT TITLE. ####
+
+"This Act may be cited as the 'First Responder Anthrax Preparedness Act'.
+
+#### "SEC. 2. VOLUNTARY PRE-EVENT ANTHRAX VACCINATION PILOT PROGRAM FOR EMERGENCY RESPONSE PROVIDERS. ####
+
+"(a) Pilot Program.—
+
+"(1) Establishment.—The Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, shall carry out a pilot program to provide eligible anthrax vaccines from the Strategic National Stockpile under section 319F–2(a) of the Public Health Service Act (42 U.S.C. 247d–6b(a)) that will be nearing the end of their labeled dates of use at the time such vaccines are made available to States for administration to emergency response providers who would be at high risk of exposure to anthrax if such an attack should occur and who voluntarily consent to such administration.
+
+"(2) Determination.—The Secretary of Health and Human Services shall determine whether an anthrax vaccine is eligible to be provided to the Secretary of Homeland Security for the pilot program described in paragraph (1) based on—
+
+"(A) a determination that the vaccine is not otherwise allotted for other purposes;
+
+"(B) a determination that the provision of the vaccine will not reduce, or otherwise adversely affect, the capability to meet projected requirements for this product during a public health emergency, including a significant reduction of available quantities of vaccine in the Strategic National Stockpile; and
+
+"(C) such other considerations as determined appropriate by the Secretary of Health and Human Services.
+
+"(3) Preliminary requirements.—Before implementing the pilot program required under this subsection, the Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, shall—
+
+"(A) establish a communication platform for the pilot program;
+
+"(B) develop and deliver education and training for the pilot program;
+
+"(C) conduct economic analysis of the pilot program, including a preliminary estimate of total costs and expected benefits;
+
+"(D) create a logistical platform for the anthrax vaccine request process under the pilot program;
+
+"(E) establish goals and desired outcomes for the pilot program; and
+
+"(F) establish a mechanism to reimburse the Secretary of Health and Human Services for—
+
+"(i) the costs of shipment and transportation of such vaccines provided to the Secretary of Homeland Security from the Strategic National Stockpile under such pilot program, including staff time directly supporting such shipment and transportation; and
+
+"(ii) the amount, if any, by which the warehousing costs of the Strategic National Stockpile are increased in order to operate such pilot program.
+
+"(4) Location.—
+
+"(A) In general.—In carrying out the pilot program required under this subsection, the Secretary of Homeland Security shall select not fewer than 2 nor more than 5 States for voluntary participation in the pilot program.
+
+"(B) Requirement.—Each State that participates in the pilot program under this subsection shall ensure that such participation is consistent with the All-Hazards Public Health Emergency Preparedness and Response Plan of the State developed under section 319C–1 of the Public Health Service Act (42 U.S.C. 247d–3a).
+
+"(5) Guidance for selection.—To ensure that participation in the pilot program under this subsection strategically increases State and local response readiness in the event of an anthrax release, the Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, shall provide guidance to participating States and units of local government on identifying emergency response providers who are at high risk of exposure to anthrax.
+
+"(6) Distribution of information.—The Secretary of Homeland Security shall require that each State that participates in the pilot program under this subsection submit a written certification to the Secretary of Homeland Security stating that each emergency response provider within the State that participates in the pilot program is provided with disclosures and educational materials designated by the Secretary of Health and Human Services, which may include—
+
+"(A) materials regarding the associated benefits and risks of any vaccine provided under the pilot program, and of exposure to anthrax;
+
+"(B) additional material consistent with the Centers for Disease Control and Prevention's clinical guidance; and
+
+"(C) notice that the Federal Government is not obligated to continue providing anthrax vaccine after the date on which the pilot program ends.
+
+"(7) Memorandum of understanding.—Before implementing the pilot program under this subsection, the Secretary of Homeland Security shall enter into a memorandum of understanding with the Secretary of Health and Human Services to—
+
+"(A) define the roles and responsibilities of each Department for the pilot program; and
+
+"(B) establish other performance metrics and policies for the pilot program, as appropriate.
+
+"(8) Report.—
+
+"(A) In general.—Notwithstanding subsection (c), not later than 1 year after the date on which the initial vaccines are administered under this section, and annually thereafter until 1 year after the completion of the pilot program under this section, the Secretary of Homeland Security, in coordination with the Secretary of Health and Human Services, shall submit to the Committee on Homeland Security and the Committee on Energy and Commerce of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the progress and results of the pilot program, including—
+
+"(i) a detailed tabulation of the costs to administer the program, including—
+
+ "(I) total costs for management and administration;
+
+ "(II) total costs to ship vaccines;
+
+ "(III) total number of full-time equivalents allocated to the program; and
+
+ "(IV) total costs to the Strategic National Stockpile;
+
+"(ii) the number and percentage of eligible emergency response providers, as determined by each pilot location, that volunteer to participate;
+
+"(iii) the degree to which participants complete the vaccine regimen;
+
+"(iv) the total number of doses of vaccine administered; and
+
+"(v) recommendations to improve initial and recurrent participation in the pilot program.
+
+"(B) Final report.—The final report required under subparagraph (A) shall—
+
+"(i) consider whether the pilot program required under this subsection should continue after the date described in subsection (c); and
+
+"(ii) include—
+
+ "(I) an analysis of the costs and benefits of continuing the program to provide anthrax vaccines to emergency response providers;
+
+ "(II) an explanation of the economic, health, and other risks and benefits of administering vaccines through the pilot program rather than post-event treatment; and
+
+ "(III) in the case of a recommendation under clause (i) to continue the pilot program after the date described in subsection (c), a plan under which the pilot program could be continued.
+
+"(b) Deadline for Implementation.—Not later than 1 year after the date of enactment of this Act [Dec. 14, 2016], the Secretary of Homeland Security shall begin implementing the pilot program under this section.
+
+"(c) Sunset.—The authority to carry out the pilot program under this section shall expire on the date that is 5 years after the date of enactment of this Act [Dec. 14, 2016]."
+
 #### Stockpile Functions Transferred ####
 
 Pub. L. 108–276, §3(c)(1),(2), July 21, 2004, 118 Stat. 853, provided that:

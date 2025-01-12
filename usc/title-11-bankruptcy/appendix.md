@@ -6,7 +6,7 @@ TITLE 11—APPENDIX
 FEDERAL RULES OF BANKRUPTCY PROCEDURE
 ==========
 
-(Effective August 1, 1983, as amended to December 1, 2016)
+(Effective August 1, 1983, as amended to January 3, 2017)
 
 #### Historical Note ####
 

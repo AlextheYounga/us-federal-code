@@ -2,7 +2,7 @@
 
 #### (a) Responsibility of Securities Exchange Commission ####
 
-Pursuant to the consultation called for in section 80c of this title, the Securities and Exchange Commission shall conduct an annual Government-business forum to review the current status of problems and programs relating to small business capital formation.
+Pursuant to the consultation called for in section 80c of this title, the Securities and Exchange Commission (acting through the Office of the Advocate for Small Business Capital Formation and in consultation with the Small Business Capital Formation Advisory Committee) shall conduct an annual Government-business forum to review the current status of problems and programs relating to small business capital formation.
 
 #### (b) Participation in forum planning ####
 
@@ -16,7 +16,11 @@ The Commission may request any of the Federal departments, agencies, or organiza
 
 A summary of the proceedings of such forums and any findings or recommendations thereof shall be prepared and transmitted to the participants, appropriate committees of the Congress, and others who may be interested in the subject matter.
 
-(Pub. L. 96–477, title V, §503, Oct. 21, 1980, 94 Stat. 2292.)
+(Pub. L. 96–477, title V, §503, Oct. 21, 1980, 94 Stat. 2292; Pub. L. 114–284, §2(c), Dec. 16, 2016, 130 Stat. 1452.)
+
+#### Amendments ####
+
+**2016**—Subsec. (a). Pub. L. 114–284 inserted "(acting through the Office of the Advocate for Small Business Capital Formation and in consultation with the Small Business Capital Formation Advisory Committee)" after "the Securities and Exchange Commission".
 
 #### Effective Date ####
 

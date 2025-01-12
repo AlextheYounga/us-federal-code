@@ -2,7 +2,7 @@
 
 #### (a) Coordination of education funding ####
 
-The Secretary shall coordinate the educational activities provided through medicare contractors (as defined in subsection (g) of this section, including under section 1395ddd of this title) in order to maximize the effectiveness of Federal education efforts for providers of services and suppliers.
+The Secretary shall coordinate the educational activities provided through medicare contractors (as defined in subsection (g), including under section 1395ddd of this title) in order to maximize the effectiveness of Federal education efforts for providers of services and suppliers.
 
 #### (b) Enhanced education and training ####
 
@@ -58,7 +58,7 @@ For purposes of this section, the term "medicare contractor" includes the follow
 
 (2) An eligible entity with a contract under section 1395ddd of this title.
 
-Such term does not include, with respect to activities of a specific provider of services or supplier an entity that has no authority under this subchapter or subchapter IX of this chapter with respect to such activities and such provider of services or supplier.
+Such term does not include, with respect to activities of a specific provider of services or supplier an entity that has no authority under this subchapter or subchapter IX with respect to such activities and such provider of services or supplier.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1889, as added and amended Pub. L. 108–173, title IX, §921(a)(1), (d)(1), (e)(1), (f)(1), Dec. 8, 2003, 117 Stat. 2388, 2391.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Hospital facility agreements; reasonable costs of services ####
 
-(1) Any hospital which has an agreement under section 1395cc of this title may (subject to subsection (b) of this section) enter into an agreement with the Secretary under which its inpatient hospital facilities may be used for the furnishing of services of the type which, if furnished by a skilled nursing facility, would constitute extended care services.
+(1) Any hospital which has an agreement under section 1395cc of this title may (subject to subsection (b)) enter into an agreement with the Secretary under which its inpatient hospital facilities may be used for the furnishing of services of the type which, if furnished by a skilled nursing facility, would constitute extended care services.
 
 (2)(A) Notwithstanding any other provision of this subchapter, payment to any hospital (other than a critical access hospital) for services furnished under an agreement entered into under this section shall be based upon the reasonable cost of the services as determined under subparagraph (B).
 
@@ -20,7 +20,7 @@
 
 #### (b) Eligible facilities ####
 
-The Secretary may not enter into an agreement under this section with any hospital unless, except as provided under subsection (g) of this section, the hospital is located in a rural area and has less than 100 beds.
+The Secretary may not enter into an agreement under this section with any hospital unless, except as provided under subsection (g), the hospital is located in a rural area and has less than 100 beds.
 
 #### (c) Terms and conditions of facility agreements ####
 
@@ -32,7 +32,7 @@ Any agreement with a hospital under this section shall provide that payment for 
 
 #### (e) Reimbursement for routine hospital services ####
 
-During a period for which a hospital has in effect an agreement under this section, in order to allocate routine costs between hospital and long-term care services for purposes of determining payment for inpatient hospital services, the total reimbursement due for routine services from all classes of long-term care patients (including this subchapter, subchapter XIX of this chapter, and private pay patients) shall be subtracted from the hospital's total routine costs before calculations are made to determine this subchapter reimbursement for routine hospital services.
+During a period for which a hospital has in effect an agreement under this section, in order to allocate routine costs between hospital and long-term care services for purposes of determining payment for inpatient hospital services, the total reimbursement due for routine services from all classes of long-term care patients (including this subchapter, subchapter XIX, and private pay patients) shall be subtracted from the hospital's total routine costs before calculations are made to determine this subchapter reimbursement for routine hospital services.
 
 #### (f) Conditions applicable to skilled nursing facilities ####
 
@@ -40,7 +40,7 @@ A hospital which enters into an agreement with the Secretary under this section 
 
 #### (g) Agreements on demonstration basis ####
 
-The Secretary may enter into an agreement under this section on a demonstration basis with any hospital which does not meet the requirement of subsection (b)(1) of this section, if the hospital otherwise meets the requirements of this section.
+The Secretary may enter into an agreement under this section on a demonstration basis with any hospital which does not meet the requirement of subsection (b)(1), if the hospital otherwise meets the requirements of this section.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1883, as added Pub. L. 96–499, title IX, §904(a)(1), Dec. 5, 1980, 94 Stat. 2615; amended Pub. L. 100–203, title IV, §§4005(b)(1), (2), 4201(d)(3), Dec. 22, 1987, 101 Stat. 1330–48, as amended Pub. L. 100–360, title IV, §411(l)(1)(C), July 1, 1988, as added Pub. L. 100–485, title VI, §608(d)(27)(B), Oct. 13, 1988, 102 Stat. 2422; Pub. L. 100–360, title I, §104(d)(6), title IV, §411(b)(4)(D), July 1, 1988, 102 Stat. 689, 770; Pub. L. 101–234, title I, §101(a), Dec. 13, 1989, 103 Stat. 1979; Pub. L. 101–508, title IV, §4008(j)(1), Nov. 5, 1990, 104 Stat. 1388–51; Pub. L. 105–33, title IV, §4432(b)(5)(G), Aug. 5, 1997, 111 Stat. 422; Pub. L. 106–113, div. B, §1000(a)(6) [title IV, §§403(f), 408(a), (b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–371, 1501A–375; Pub. L. 106–554, §1(a)(6) [title II, §203(b)], Dec. 21, 2000, 114 Stat. 2763, 2763A–482; Pub. L. 108–173, title IV, §405(a)(1), Dec. 8, 2003, 117 Stat. 2266.)
 

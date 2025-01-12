@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-The Secretary shall establish a loan program that provides loans to qualifying hospitals for payment of the capital costs of projects described in subsection (d) of this section.
+The Secretary shall establish a loan program that provides loans to qualifying hospitals for payment of the capital costs of projects described in subsection (d).
 
 #### (b) Application ####
 

@@ -124,11 +124,11 @@ Not later than 3 years after the date on which funds are made available to carry
 
 The Secretary shall coordinate the preparation and implementation of the management plan with—
 
-(A) the Harriet Tubman Underground Railroad National Historical Park established by section 410sss(b)(1) <sup><a href="#410ttt_1_target" name="410ttt_1">1</a></sup> of this title; and
+(A) the Harriet Tubman Underground Railroad National Historical Park established by section 410sss of this title; and
 
 (B) the National Underground Railroad Network to Freedom.
 
-(Pub. L. 113–291, div. B, title XXX, §3036, Dec. 19, 2014, 128 Stat. 3780.)
+(Pub. L. 113–291, div. B, title XXX, §3036, Dec. 19, 2014, 128 Stat. 3780; Pub. L. 114–289, title VI, §601(d), Dec. 16, 2016, 130 Stat. 1491.)
 
 #### References in Text ####
 
@@ -136,12 +136,14 @@ The National Park System Organic Act (16 U.S.C. 1 et seq.), referred to in subse
 
 The Act of August 21, 1935 (16 U.S.C. 461 et seq.), referred to in subsec. (c)(1)(B), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as section 1866(a) of Title 18, Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
-Section 410sss(b)(1) of this title, referred to in subsec. (d)(2)(A), was in the original "section 2(b)(1)" and was translated as meaning section 3035(b)(1) of Pub. L. 113–291, which is classified to section 410sss(b)(1) of this title and relates to the establishment of the Harriet Tubman Underground Railroad National Historical Park, to reflect the probable intent of Congress.
-
 #### Codification ####
 
 In subsec. (d)(1), "section 100502 of title 54" substituted for "section 12(b) of the National Park Service General Authorities Act (16 U.S.C. 1a–7(b))" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 Section is comprised of section 3036 of Pub. L. 113–291. Subsec. (e) of section 3036 of Pub. L. 113–291 amended section 101(b)(12) of Pub. L. 104–303, title I, Oct. 12, 1996, 110 Stat. 3667, which is not classified to the Code.
+
+#### Amendments ####
+
+**2016**—Subsec. (d)(2)(A). Pub. L. 114–289, which directed technical amendment to reference in subsec. (d)(4)(B) of original act which appears in text as reference to section 410sss of this title, was executed to subsec. (d)(2)(A) of this section, to reflect the probable intent of Congress.
 
 [<sup>1</sup> See References in Text note below.](#410ttt_1)

@@ -20,23 +20,23 @@ With respect to a hospital-based skilled nursing facility, the Secretary may not
 
 #### (c) Adjustments in limitations; publication of data ####
 
-The Secretary may make adjustments in the limits set forth in subsection (a) of this section with respect to any skilled nursing facility to the extent the Secretary deems appropriate, based upon case mix or circumstances beyond the control of the facility. The Secretary shall publish the data and criteria to be used for purposes of this subsection on an annual basis.
+The Secretary may make adjustments in the limits set forth in subsection (a) with respect to any skilled nursing facility to the extent the Secretary deems appropriate, based upon case mix or circumstances beyond the control of the facility. The Secretary shall publish the data and criteria to be used for purposes of this subsection on an annual basis.
 
 #### (d) Access to skilled nursing facilities ####
 
-(1) Subject to subsection (e) of this section, any skilled nursing facility may choose to be paid under this subsection on the basis of a prospective payment for all routine service costs (including the costs of services required to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident eligible for benefits under this subchapter) and capital-related costs of extended care services provided in a cost reporting period if such facility had, in the preceding cost reporting period, fewer than 1,500 patient days with respect to which payments were made under this subchapter. Such prospective payment shall be in lieu of payments which would otherwise be made for routine service costs pursuant to section 1395x(v) of this title and subsections (a) through (c) of this section and capital-related costs pursuant to section 1395x(v) of this title. This subsection shall not apply to a facility for any cost reporting period immediately following a cost reporting period in which such facility had 1,500 or more patient days with respect to which payments were made under this subchapter, without regard to whether payments were made under this subsection during such preceding cost reporting period.
+(1) Subject to subsection (e), any skilled nursing facility may choose to be paid under this subsection on the basis of a prospective payment for all routine service costs (including the costs of services required to attain or maintain the highest practicable physical, mental, and psychosocial well-being of each resident eligible for benefits under this subchapter) and capital-related costs of extended care services provided in a cost reporting period if such facility had, in the preceding cost reporting period, fewer than 1,500 patient days with respect to which payments were made under this subchapter. Such prospective payment shall be in lieu of payments which would otherwise be made for routine service costs pursuant to section 1395x(v) of this title and subsections (a) through (c) of this section and capital-related costs pursuant to section 1395x(v) of this title. This subsection shall not apply to a facility for any cost reporting period immediately following a cost reporting period in which such facility had 1,500 or more patient days with respect to which payments were made under this subchapter, without regard to whether payments were made under this subsection during such preceding cost reporting period.
 
 (2)(A) The amount of the payment under this section shall be determined on a per diem basis.
 
 (B) Subject to the limitations of subparagraph (C), for skilled nursing facilities located—
 
-(i) in an urban area, the amount shall be equal to 105 percent of the mean of the per diem reasonable routine service and capital-related costs of extended care services for skilled nursing facilities in urban areas within the same region, determined without regard to the limitations of subsection (a) of this section and adjusted for different area wage levels, and
+(i) in an urban area, the amount shall be equal to 105 percent of the mean of the per diem reasonable routine service and capital-related costs of extended care services for skilled nursing facilities in urban areas within the same region, determined without regard to the limitations of subsection (a) and adjusted for different area wage levels, and
 
 (ii) in a rural area the amount shall be equal to 105 percent of the mean of the per diem reasonable routine service and capital-related costs of extended care services for skilled nursing facilities in rural areas within the same region, determined without regard to the limitations of subsection (a) of this section and adjusted for different area wage levels.
 
-(C) The per diem amounts determined under subparagraph (B) shall not exceed the limit on routine service costs determined under subsection (a) of this section with respect to the facility, adjusted to take into account average capital-related costs with respect to the type and location of the facility.
+(C) The per diem amounts determined under subparagraph (B) shall not exceed the limit on routine service costs determined under subsection (a) with respect to the facility, adjusted to take into account average capital-related costs with respect to the type and location of the facility.
 
-(3) For purposes of this subsection, urban and rural areas shall be determined in the same manner as for purposes of subsection (a) of this section, and the term "region" shall have the same meaning as under section 1395ww(d)(2)(D) of this title.
+(3) For purposes of this subsection, urban and rural areas shall be determined in the same manner as for purposes of subsection (a), and the term "region" shall have the same meaning as under section 1395ww(d)(2)(D) of this title.
 
 (4) The Secretary shall establish the prospective payment amounts for cost reporting periods beginning in a fiscal year at least 90 days prior to the beginning of such fiscal year, on the basis of the most recent data available for a 12-month period. A skilled nursing facility must notify the Secretary of its intention to be paid pursuant to this subsection for a cost reporting period no later than 30 days before the beginning of that period.
 
@@ -70,9 +70,9 @@ For purposes of this subsection:
 
 The term "covered skilled nursing facility services"—
 
-(I) means post-hospital extended care services as defined in section 1395x(i) of this title for which benefits are provided under part A of this subchapter; and
+(I) means post-hospital extended care services as defined in section 1395x(i) of this title for which benefits are provided under part A; and
 
-(II) includes all items and services (other than items and services described in clauses (ii), (iii), and (iv)) for which payment may be made under part B of this subchapter and which are furnished to an individual who is a resident of a skilled nursing facility during the period in which the individual is provided covered post-hospital extended care services.
+(II) includes all items and services (other than items and services described in clauses (ii), (iii), and (iv)) for which payment may be made under part B and which are furnished to an individual who is a resident of a skilled nursing facility during the period in which the individual is provided covered post-hospital extended care services.
 
 #### (ii) Services excluded ####
 
@@ -138,9 +138,9 @@ The Secretary shall determine a facility-specific per diem rate for each skilled
 
 The Secretary shall determine, on a per diem basis, the total of—
 
-(i) the allowable costs of extended care services for the facility for cost reporting periods beginning in fiscal year 1995, including costs associated with facilities described in subsection (d) of this section, with appropriate adjustments (as determined by the Secretary) to non-settled cost reports or, in the case of a facility participating in the Nursing Home Case-Mix and Quality Demonstration (RUGS–III), the RUGS–III rate received by the facility during the cost reporting period beginning in 1997, and
+(i) the allowable costs of extended care services for the facility for cost reporting periods beginning in fiscal year 1995, including costs associated with facilities described in subsection (d), with appropriate adjustments (as determined by the Secretary) to non-settled cost reports or, in the case of a facility participating in the Nursing Home Case-Mix and Quality Demonstration (RUGS–III), the RUGS–III rate received by the facility during the cost reporting period beginning in 1997, and
 
-(ii) an estimate of the amounts that would be payable under part B of this subchapter (disregarding any applicable deductibles, coinsurance, and copayments) for covered skilled nursing facility services described in paragraph (2)(A)(i)(II) furnished during the applicable cost reporting period described in clause (i) to an individual who is a resident of the facility, regardless of whether or not the payment was made to the facility or to another entity.
+(ii) an estimate of the amounts that would be payable under part B (disregarding any applicable deductibles, coinsurance, and copayments) for covered skilled nursing facility services described in paragraph (2)(A)(i)(II) furnished during the applicable cost reporting period described in clause (i) to an individual who is a resident of the facility, regardless of whether or not the payment was made to the facility or to another entity.
 
 In making appropriate adjustments under clause (i), the Secretary shall take into account exceptions and shall take into account exemptions but, with respect to exemptions, only to the extent that routine costs do not exceed 150 percent of the routine cost limits otherwise applicable but for the exemption.
 
@@ -164,11 +164,11 @@ For purposes of this paragraph, the "facility-specific update factor" for cost r
 
 #### (A) Determination of historical per diem for facilities ####
 
-For each skilled nursing facility that received payments for post-hospital extended care services during a cost reporting period beginning in fiscal year 1995 and that was subject to (and not exempted from) the per diem limits referred to in paragraph (1) or (2) of subsection (a) of this section (and facilities described in subsection (d) of this section), the Secretary shall estimate, on a per diem basis for such cost reporting period, the total of—
+For each skilled nursing facility that received payments for post-hospital extended care services during a cost reporting period beginning in fiscal year 1995 and that was subject to (and not exempted from) the per diem limits referred to in paragraph (1) or (2) of subsection (a) (and facilities described in subsection (d)), the Secretary shall estimate, on a per diem basis for such cost reporting period, the total of—
 
 (i) the allowable costs of extended care services (excluding exceptions payments) for the facility for cost reporting periods beginning in 1995 with appropriate adjustments (as determined by the Secretary) to non-settled cost reports, and
 
-(ii) an estimate of the amounts that would be payable under part B of this subchapter (disregarding any applicable deductibles, coinsurance, and copayments) for covered skilled nursing facility services described in paragraph (2)(A)(i)(II) furnished during such period to an individual who is a resident of the facility, regardless of whether or not the payment was made to the facility or to another entity.
+(ii) an estimate of the amounts that would be payable under part B (disregarding any applicable deductibles, coinsurance, and copayments) for covered skilled nursing facility services described in paragraph (2)(A)(i)(II) furnished during such period to an individual who is a resident of the facility, regardless of whether or not the payment was made to the facility or to another entity.
 
 #### (B) Update to first fiscal year ####
 
@@ -328,11 +328,11 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 #### (9) Payment for certain services ####
 
-In the case of an item or service furnished to a resident of a skilled nursing facility or a part of a facility that includes a skilled nursing facility (as determined under regulations) for which payment would (but for this paragraph) be made under part B of this subchapter in an amount determined in accordance with section 1395l(a)(2)(B) of this title, the amount of the payment under such part shall be the amount provided under the fee schedule for such item or service. In the case of an item or service described in clause (iii) of paragraph (2)(A) that would be payable under part A of this subchapter but for the exclusion of such item or service under such clause, payment shall be made for the item or service, in an amount otherwise determined under part B of this subchapter for such item or service, from the Federal Hospital Insurance Trust Fund under section 1395i of this title (rather than from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title).
+In the case of an item or service furnished to a resident of a skilled nursing facility or a part of a facility that includes a skilled nursing facility (as determined under regulations) for which payment would (but for this paragraph) be made under part B in an amount determined in accordance with section 1395l(a)(2)(B) of this title, the amount of the payment under such part shall be the amount provided under the fee schedule for such item or service. In the case of an item or service described in clause (iii) of paragraph (2)(A) that would be payable under part A but for the exclusion of such item or service under such clause, payment shall be made for the item or service, in an amount otherwise determined under part B of this subchapter for such item or service, from the Federal Hospital Insurance Trust Fund under section 1395i of this title (rather than from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title).
 
 #### (10) Required coding ####
 
-No payment may be made under part B of this subchapter for items and services (other than services described in paragraph (2)(A)(ii)) furnished to an individual who is a resident of a skilled nursing facility or of a part of a facility that includes a skilled nursing facility (as determined under regulations), unless the claim for such payment includes a code (or codes) under a uniform coding system specified by the Secretary that identifies the items or services furnished.
+No payment may be made under part B for items and services (other than services described in paragraph (2)(A)(ii)) furnished to an individual who is a resident of a skilled nursing facility or of a part of a facility that includes a skilled nursing facility (as determined under regulations), unless the claim for such payment includes a code (or codes) under a uniform coding system specified by the Secretary that identifies the items or services furnished.
 
 #### (11) Permitting facilities to waive 3-year transition ####
 
@@ -634,7 +634,7 @@ Subsec. (e)(8)(A). Pub. L. 106–113, §1000(a)(6) [title I, §103(b)(2)], subst
 
 Subsec. (e)(8)(B). Pub. L. 106–113, §1000(a)(6) [title III, §321(g)(1)], substituted "July 1, 1999" for "January 1, 1999,".
 
-Subsec. (e)(9). Pub. L. 106–113, §1000(a)(6) [title I, §103(a)(3)], inserted at end "In the case of an item or service described in clause (iii) of paragraph (2)(A) that would be payable under part A of this subchapter but for the exclusion of such item or service under such clause, payment shall be made for the item or service, in an amount otherwise determined under part B of this subchapter for such item or service, from the Federal Hospital Insurance Trust Fund under section 1395i of this title (rather than from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title)."
+Subsec. (e)(9). Pub. L. 106–113, §1000(a)(6) [title I, §103(a)(3)], inserted at end "In the case of an item or service described in clause (iii) of paragraph (2)(A) that would be payable under part A but for the exclusion of such item or service under such clause, payment shall be made for the item or service, in an amount otherwise determined under part B of this subchapter for such item or service, from the Federal Hospital Insurance Trust Fund under section 1395i of this title (rather than from the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title)."
 
 Subsec. (e)(11). Pub. L. 106–113, §1000(a)(6) [title I, §102(a)(2)], added par. (11).
 
@@ -642,7 +642,7 @@ Subsec. (e)(12). Pub. L. 106–113, §1000(a)(6) [title I, §105(a)(2), (b)], te
 
 **1997**—Subsec. (a). Pub. L. 105–33, §4431, substituted "described in this subsection, except that the limits effective for cost reporting periods beginning on or after October 1, 1997, shall be based on the limits effective for cost reporting periods beginning on or after October 1, 1996." for "described in this subsection" at end.
 
-Subsec. (d)(1). Pub. L. 105–33, §4432(b)(5)(H), substituted "Subject to subsection (e) of this section, any skilled nursing facility" for "Any skilled nursing facility".
+Subsec. (d)(1). Pub. L. 105–33, §4432(b)(5)(H), substituted "Subject to subsection (e)on, any skilled nursing facility" for "Any skilled nursing facility".
 
 Subsec. (e). Pub. L. 105–33, §4432(a), added subsec. (e).
 
