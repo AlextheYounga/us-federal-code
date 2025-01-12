@@ -24,11 +24,13 @@ Sec.
 
 441. Postal supply contracts.
 
-442. Printing contracts.
+442. Government Publishing Office.
 
 443. War contracts.
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–78, §1(b), Dec. 5, 2019, 133 Stat. 1176, substituted "Government Publishing Office" for "Printing contracts" in item 442.
 
 **1996**—Pub. L. 104–178, §1(b), Aug. 6, 1996, 110 Stat. 1565, struck out item 437 "Federal employees contracting or trading with Indians".
 

@@ -8,7 +8,7 @@ Sec.
 
 1703. Appointment and duties of Director and Deputy Directors.
 
-1704. Coordination with National Drug Control Program Agencies in demand reduction, supply reduction, and State and local affairs.
+1704. Coordination with National Drug Control Program agencies in demand reduction, supply reduction, and State and local affairs.
 
 1705. National Drug Control Strategy.
 

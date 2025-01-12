@@ -154,7 +154,7 @@ is exempt from the requirements of subsections (a), (b), and (c). The manufactur
 |               Fat:                |                 |                                     |                           |
 |                gm                 |       3.3       |                                     |            6.0.           |
 |            percent cal            |      30.0       |                                     |           54.0.           |
-| Essential fatty acids (linoeate): |                 |                                     |                           |
+|Essential fatty acids (linoleate): |                 |                                     |                           |
 |            percent cal            |       2.7       |                                     |                           |
 |                mg                 |      300.0      |                                     |                           |
 |             Vitamins:             |                 |                                     |                           |
