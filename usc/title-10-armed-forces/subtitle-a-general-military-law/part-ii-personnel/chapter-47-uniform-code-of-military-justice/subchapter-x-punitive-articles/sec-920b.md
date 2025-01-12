@@ -60,11 +60,21 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 (D) any indecent conduct, intentionally done with or in the presence of a child, including via any communication technology, that amounts to a form of immorality relating to sexual impurity which is grossly vulgar, obscene, and repugnant to common propriety, and tends to excite sexual desire or deprave morals with respect to sexual relations.
 
-(Added Pub. L. 112–81, div. A, title V, §541(b), Dec. 31, 2011, 125 Stat. 1407; amended Pub. L. 112–239, div. A, title X, §1076(a)(3), Jan. 2, 2013, 126 Stat. 1948.)
+(Added Pub. L. 112–81, div. A, title V, §541(b), Dec. 31, 2011, 125 Stat. 1407; amended Pub. L. 112–239, div. A, title X, §1076(a)(3), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 114–328, div. E, title LX, §5430(c), Dec. 23, 2016, 130 Stat. 2950.)
+
+#### Amendment of Subsection (h)(1) ####
+
+Pub. L. 114–328, div. E, title LX, §5430(c), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2950, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (h)(1) of this section is amended by inserting before the period at the end ", except that the term 'sexual act' also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person". See 2016 Amendment note below. For text of this section after amendment on the effective date, see Amendment of Analysis and Subchapter note preceding section 877 of this title.
 
 #### Amendments ####
 
+**2016**—Subsec. (h)(1). Pub. L. 114–328 inserted before period at end ", except that the term 'sexual act' also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person".
+
 **2013**—Pub. L. 112–239 made technical amendment to directory language of Pub. L. 112–81, which enacted this section.
+
+#### Effective Date of 2016 Amendment ####
+
+Amendment by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of this title.
 
 #### Effective Date of 2013 Amendment ####
 

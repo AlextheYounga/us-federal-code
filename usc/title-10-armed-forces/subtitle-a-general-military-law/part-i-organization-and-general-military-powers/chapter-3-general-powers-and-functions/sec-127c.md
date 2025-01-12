@@ -14,4 +14,4 @@
 
 #### Codification ####
 
-Another section 127c was renumbered section 127d of this title.
+Another section 127c was renumbered section 127d of this title prior to being renumbered section 331 of this title.

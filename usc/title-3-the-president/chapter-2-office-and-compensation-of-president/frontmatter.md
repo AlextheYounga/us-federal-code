@@ -638,6 +638,8 @@ Sec. 3. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Barack Obama.
 
+[For extensions of term of the President's Advisory Council on Faith-Based and Neighborhood Partnerships, see Ex. Ord. Nos. 13569 and 13640, set out below, and Executive Orders listed after Ex. Ord. No. 13640.]
+
 #### Ex. Ord. No. 13503. Establishment of the White House Office of Urban Affairs ####
 
 Ex. Ord. No. 13503, Feb. 19, 2009, 74 F.R. 8139, provided:
@@ -746,9 +748,13 @@ Sec. 2. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 Barack Obama.
 
-Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+#### Additional Extensions of Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships ####
 
-Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Advisory Council on Faith-Based and Neighborhood Partnerships extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+Previous extension of term of President's Advisory Council on Faith-Based and Neighborhood Partnerships was contained in the following prior Executive Order:
+
+Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30, 2015.
 
 #### White House Task Force on Middle-Class Working Families ####
 

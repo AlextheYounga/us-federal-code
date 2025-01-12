@@ -43,3 +43,5 @@ Sec.
 7112. Additional activities to monitor and combat forced labor and child labor.
 
 7113. Accountability.
+
+7114. Efforts to end modern slavery.

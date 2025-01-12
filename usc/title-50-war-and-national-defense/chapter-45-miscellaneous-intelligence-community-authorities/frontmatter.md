@@ -20,6 +20,8 @@ Sec.
 
 3308. Information access by the Comptroller General of the United States.
 
+3308a. Provision of certain information to Government Accountability Office by National Reconnaissance Office.
+
 3309. Notification of establishment of advisory committee.
 
 3310. Annual report on United States security arrangements and commitments with other nations.

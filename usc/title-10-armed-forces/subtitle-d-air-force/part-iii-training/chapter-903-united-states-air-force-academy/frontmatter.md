@@ -16,7 +16,7 @@ Sec.
 
 9336. Permanent professors; director of admissions.
 
-9337. Chaplain.
+[9337. Repealed.]
 
 9338. Civilian faculty: number; compensation.
 
@@ -28,11 +28,7 @@ Sec.
 
 9343. Cadets: appointment; to bring to full strength.
 
-9344. Selection of persons from foreign countries.
-
-9345. Exchange program with foreign military academies.
-
-9345a. Foreign and cultural exchange activities.
+[9344 to 9345a. Repealed.]
 
 9346. Cadets: requirements for admission.
 
@@ -67,6 +63,8 @@ Sec.
 9362. Support of athletic programs.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title V, §591(b), title XII, §1248(b)(2)(C), Dec. 23, 2016, 130 Stat. 2152, 2525, struck out items 9337 "Chaplain", 9344 "Selection of persons from foreign countries", 9345 "Exchange program with foreign military academies", and 9345a "Foreign and cultural exchange activities".
 
 **2009**—Pub. L. 111–84, div. A, title V, §528(b), Oct. 28, 2009, 123 Stat. 2290, added item 9362.
 

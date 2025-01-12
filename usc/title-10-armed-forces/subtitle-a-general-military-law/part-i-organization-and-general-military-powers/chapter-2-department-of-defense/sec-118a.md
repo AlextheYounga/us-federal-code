@@ -56,6 +56,10 @@
 
 **2014**—Subsec. (b)(1). Pub. L. 113–291 substituted "(50 U.S.C. 3043)" for "(50 U.S.C. 404a)".
 
+#### Termination of Reporting Requirements ####
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (d) of this section requiring submittal of report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+
 #### First Quadrennial Quality of Life Review ####
 
 Pub. L. 107–314, div. A, title V, §581(b), Dec. 2, 2002, 116 Stat. 2561, directed that the first quadrennial quality of life review under this section would be conducted during 2003, and that the report on such review was to be submitted not later than the date on which the President submitted the budget for fiscal year 2005 to Congress.

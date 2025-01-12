@@ -41,3 +41,7 @@ Sec.
 1525. Assistance for facilities subject to inspection under Chemical Weapons Convention.
 
 1526. Effective use of resources for nonproliferation programs.
+
+1527. Improved biosafety for handling of select agents and toxins.
+
+1528. Congressional notification of biological select agent and toxin theft, loss, or release involving the Department of Defense.

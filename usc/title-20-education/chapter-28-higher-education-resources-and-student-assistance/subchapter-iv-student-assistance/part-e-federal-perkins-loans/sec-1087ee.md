@@ -20,7 +20,7 @@
 
 (C) as a full-time special education teacher, including teachers of infants, toddlers, children, or youth with disabilities in a public or other nonprofit elementary or secondary school system, including a system administered by an educational service agency, or as a full-time qualified professional provider of early intervention services in a public or other nonprofit program under public supervision by the lead agency as authorized in section 1435(a)(10) of this title;
 
-(D) as a member of the Armed Forces of the United States, for service that qualifies for special pay under section 310 of title 37 as an area of hostilities;
+(D) as a member of the Armed Forces of the United States, for service that qualifies for special pay under section 310, or paragraph (1) or (3) of section 351(a), of title 37 as an area of hostilities;
 
 (E) as a volunteer under the Peace Corps Act [22 U.S.C. 2501 et seq.] or a volunteer under the Domestic Volunteer Service Act of 1973 [42 U.S.C. 4950 et seq.];
 
@@ -86,7 +86,7 @@ Any teacher who performs service in a school which—
 
 may continue to teach in such school and shall be eligible for loan cancellation pursuant to subsection (a)(1) such <sup><a href="#1087ee_2_target" name="1087ee_2">2</a></sup> subsequent years.
 
-(Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728; Pub. L. 108–446, title III, §305(c)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IV, §465, Aug. 14, 2008, 122 Stat. 3267; Pub. L. 111–39, title IV, §405(5), July 1, 2009, 123 Stat. 1947.)
+(Pub. L. 89–329, title IV, §465, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1451; amended Pub. L. 100–50, §13(j), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–476, title IX, §901(e), Oct. 30, 1990, 104 Stat. 1151; Pub. L. 101–647, title XXI, §2101(a), (b), Nov. 29, 1990, 104 Stat. 4856; Pub. L. 102–119, §26(h), Oct. 7, 1991, 105 Stat. 607; Pub. L. 102–325, title IV, §465(a)–(c), July 23, 1992, 106 Stat. 582, 583; Pub. L. 103–82, title I, §102(c)(3), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(f)(12)–(14), (k)(7), Dec. 20, 1993, 107 Stat. 2471, 2486; Pub. L. 103–382, title III, §391(e)(3), Oct. 20, 1994, 108 Stat. 4022; Pub. L. 105–244, title IV, §465, Oct. 7, 1998, 112 Stat. 1728; Pub. L. 108–446, title III, §305(c)(1), Dec. 3, 2004, 118 Stat. 2805; Pub. L. 110–315, title IV, §465, Aug. 14, 2008, 122 Stat. 3267; Pub. L. 111–39, title IV, §405(5), July 1, 2009, 123 Stat. 1947; Pub. L. 114–328, div. A, title VI, §618(e), Dec. 23, 2016, 130 Stat. 2160.)
 
 #### References in Text ####
 
@@ -111,6 +111,8 @@ Amendment by section 2(f)(14) of Pub. L. 103–208 (which was effective as if in
 A prior section 1087ee, Pub. L. 89–329, title IV, §465, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 277; amended Pub. L. 95–561, title XIII, §1323, Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title IV, §§442(b)(6), 448(d), (e), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440, 1443, 1503, related to cancellation of loans for certain public service, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments ####
+
+**2016**—Subsec. (a)(2)(D). Pub. L. 114–328 inserted ", or paragraph (1) or (3) of section 351(a)," after "section 310".
 
 **2009**—Subsec. (a)(6). Pub. L. 111–39 substituted "12601" for "12571".
 

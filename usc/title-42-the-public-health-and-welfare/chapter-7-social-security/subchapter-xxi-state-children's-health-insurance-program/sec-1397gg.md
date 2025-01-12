@@ -54,7 +54,7 @@ A State child health plan shall include a description of the budget for the plan
 
 #### (e) Application of certain general provisions ####
 
-The following sections of this chapter shall apply to States under this subchapter in the same manner as they apply to a State under subchapter XIX of this chapter:
+The following sections of this chapter shall apply to States under this subchapter in the same manner as they apply to a State under subchapter XIX:
 
 #### (1) Subchapter XIX provisions ####
 

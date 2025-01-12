@@ -30,4 +30,4 @@ Pub. L. 104–324, title I, §103, Oct. 19, 1996, 110 Stat. 3905, as amended by 
 
 #### Enhanced Drug-Interdiction Assistance ####
 
-Pub. L. 99–145, title XIV, §1421, Nov. 8, 1985, 99 Stat. 750, required assignment of a member of the Coast Guard to each surface naval vessel at sea in a drug-interdiction area to perform law enforcement functions, prior to repeal by Pub. L. 99–570, title III, §3053(b)(3), Oct. 27, 1986, 100 Stat. 3207–76. See section 379 of Title 10, Armed Forces.
+Pub. L. 99–145, title XIV, §1421, Nov. 8, 1985, 99 Stat. 750, required assignment of a member of the Coast Guard to each surface naval vessel at sea in a drug-interdiction area to perform law enforcement functions, prior to repeal by Pub. L. 99–570, title III, §3053(b)(3), Oct. 27, 1986, 100 Stat. 3207–76. See section 279 of Title 10, Armed Forces.

@@ -18,7 +18,7 @@
 
 (A) the amount of the supplemental subsistence allowance that is payable under this section;
 
-(B) the amount of any special pay that is payable to the member under section 310 of this title, relating to duty subject to hostile fire or imminent danger; or
+(B) the amount of any special pay that is payable to the member under section 310 or 351 of this title, relating to duty subject to hostile fire or imminent danger; or
 
 (C) the amount of any family separation allowance that is payable to the member under section 427 of this title.
 
@@ -62,7 +62,7 @@
 
 (3) The term "supplemental nutrition assistance program" means the program established pursuant to section 4 of the Food and Nutrition Act of 2008 (7 U.S.C. 2013).
 
-(Added Pub. L. 106–398, §1 [[div. A], title VI, §604(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–145; amended Pub. L. 107–107, div. A, title VI, §604(d), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §602(a), (b), Oct. 28, 2004, 118 Stat. 1943; Pub. L. 109–163, div. A, title VI, §608, Jan. 6, 2006, 119 Stat. 3289; Pub. L. 109–364, div. A, title X, §1071(c)(6), (e)(4), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(T), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(T), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–84, div. A, title VI, §602(a), Oct. 28, 2009, 123 Stat. 2347; Pub. L. 112–81, div. A, title X, §1063(a), Dec. 31, 2011, 125 Stat. 1586; Pub. L. 114–92, div. A, title VI, §602, Nov. 25, 2015, 129 Stat. 836.)
+(Added Pub. L. 106–398, §1 [[div. A], title VI, §604(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–145; amended Pub. L. 107–107, div. A, title VI, §604(d), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §602(a), (b), Oct. 28, 2004, 118 Stat. 1943; Pub. L. 109–163, div. A, title VI, §608, Jan. 6, 2006, 119 Stat. 3289; Pub. L. 109–364, div. A, title X, §1071(c)(6), (e)(4), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(T), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(T), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–84, div. A, title VI, §602(a), Oct. 28, 2009, 123 Stat. 2347; Pub. L. 112–81, div. A, title X, §1063(a), Dec. 31, 2011, 125 Stat. 1586; Pub. L. 114–92, div. A, title VI, §602, Nov. 25, 2015, 129 Stat. 836; Pub. L. 114–328, div. A, title VI, §618(h)(2), Dec. 23, 2016, 130 Stat. 2160.)
 
 #### References in Text ####
 
@@ -81,6 +81,8 @@ The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (f)(3)
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments ####
+
+**2016**—Subsec. (b)(3)(B). Pub. L. 114–328 inserted "or 351" after "section 310".
 
 **2015**—Subsec. (b)(1). Pub. L. 114–92, §602(1), inserted "and paragraph (4)" after "subsection (d)".
 

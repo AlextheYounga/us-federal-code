@@ -230,6 +230,8 @@ Sec.
 
 342. Process for issuing qualified carrier certification.
 
+343. Conditions on commercial terrestrial operations.
+
 #### Part II—Radio Equipment and Radio Operators On Board Ship ####
 
 351. Ship radio stations and operations.

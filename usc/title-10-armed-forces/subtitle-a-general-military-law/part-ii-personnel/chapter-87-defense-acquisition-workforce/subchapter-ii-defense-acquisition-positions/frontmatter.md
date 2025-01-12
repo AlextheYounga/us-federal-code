@@ -14,9 +14,11 @@ Sec.
 
 1724. Contracting positions: qualification requirements.
 
-[1725. Repealed.]
+1725. Senior Military Acquisition Advisors.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title VIII, §866(a)(2), Dec. 23, 2016, 130 Stat. 2306, added item 1725.
 
 **2011**—Pub. L. 111–383, div. A, title VIII, §873(a)(2), Jan. 7, 2011, 124 Stat. 4303, added item 1722b.
 

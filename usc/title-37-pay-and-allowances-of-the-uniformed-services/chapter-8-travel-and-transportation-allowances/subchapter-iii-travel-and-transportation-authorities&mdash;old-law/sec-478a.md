@@ -10,15 +10,33 @@
 
 (3) assigned to a unit or position that is disestablished or relocated as a result of defense base closure or realignment or another force structure reallocation.
 
-(c) Maximum Reimbursement Amount.—The amount of reimbursement provided a member under subsection (a) for each round trip to a training location may not exceed $300.
+(c) Maximum Reimbursement Amount.—(1) Except as provided by paragraph (2), the amount of reimbursement provided a member under subsection (a) for each round trip to a training location may not exceed $300.
+
+(2) The Secretary concerned may authorize, on a case-by-case basis, a higher reimbursement amount for a member under subsection (a) when the member—
+
+(A) resides—
+
+(i) in the same State as the training location; and
+
+(ii) outside of an urbanized area with a population of 50,000 or more, as determined by the Bureau of the Census; and
+
+(B) is required to commute to a training location—
+
+(i) using an aircraft or boat on account of limited or nonexistent vehicular routes to the training location or other geographical challenges; or
+
+(ii) from a permanent residence located more than 75 miles from the training location.
 
 (d) Regulations.—The Secretary concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department shall be subject to the approval of the Secretary of Defense.
 
-(e) Termination.—No reimbursement may be provided under this section for travel that occurs after December 31, 2016.
+(e) Termination.—No reimbursement may be provided under this section for travel that occurs after December 31, 2017.
 
-(Added Pub. L. 110–181, div. A, title VI, §631(a)(1), Jan. 28, 2008, 122 Stat. 153, §408a; amended Pub. L. 111–383, div. A, title VI, §621, Jan. 7, 2011, 124 Stat. 4238; renumbered §478a and amended Pub. L. 112–81, div. A, title VI, §§621, 631(d)(2), Dec. 31, 2011, 125 Stat. 1452, 1460; Pub. L. 112–239, div. A, title VI, §611(7), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §611(7), title X, §1091(b)(3), Dec. 26, 2013, 127 Stat. 780, 876; Pub. L. 113–291, div. A, title VI, §611(7), Dec. 19, 2014, 128 Stat. 3399; Pub. L. 114–92, div. A, title VI, §611(7), Nov. 25, 2015, 129 Stat. 837.)
+(Added Pub. L. 110–181, div. A, title VI, §631(a)(1), Jan. 28, 2008, 122 Stat. 153, §408a; amended Pub. L. 111–383, div. A, title VI, §621, Jan. 7, 2011, 124 Stat. 4238; renumbered §478a and amended Pub. L. 112–81, div. A, title VI, §§621, 631(d)(2), Dec. 31, 2011, 125 Stat. 1452, 1460; Pub. L. 112–239, div. A, title VI, §611(7), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §611(7), title X, §1091(b)(3), Dec. 26, 2013, 127 Stat. 780, 876; Pub. L. 113–291, div. A, title VI, §611(7), Dec. 19, 2014, 128 Stat. 3399; Pub. L. 114–92, div. A, title VI, §611(7), Nov. 25, 2015, 129 Stat. 837; Pub. L. 114–328, div. A, title VI, §§611(7), 621, Dec. 23, 2016, 130 Stat. 2157, 2161.)
 
 #### Amendments ####
+
+**2016**—Subsec. (c). Pub. L. 114–328, §621, substituted "(1) Except as provided by paragraph (2), the amount" for "The amount" and added par. (2).
+
+Subsec. (e). Pub. L. 114–328, §611(7), substituted "December 31, 2017" for "December 31, 2016".
 
 **2015**—Subsec. (e). Pub. L. 114–92 substituted "December 31, 2016" for "December 31, 2015".
 

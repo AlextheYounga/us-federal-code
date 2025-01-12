@@ -56,6 +56,8 @@ Not later than 270 days after January 2, 2013, the Administrator shall issue, su
 
 (ii) provide disproportionate economic benefits to the mentor relative to those provided the protege.
 
+(K) The types of assistance provided by a mentor to assist with compliance with the requirements of contracting with the Federal Government after award of a contract or subcontract under this section.
+
 #### (4) Limitation on applicability ####
 
 Paragraph (1) does not apply to the following:
@@ -128,8 +130,12 @@ Mentors and proteges with approved agreement in a program operating pursuant to 
 
 Agencies operating mentor protege programs pursuant to subsection (b)(4)(C) shall submit the plans specified in subsection (b)(1)(A) to the Administrator within 6 months of the promulgation of rules required by subsection (b)(3). The Administrator shall provide initial comments on each plan within 60 days of receipt, and final approval or denial of each plan within 180 days after receipt.
 
-(Pub. L. 85–536, §2[45], as added Pub. L. 112–239, div. A, title XVI, §1641(2), Jan. 2, 2013, 126 Stat. 2077.)
+(Pub. L. 85–536, §2[45], as added Pub. L. 112–239, div. A, title XVI, §1641(2), Jan. 2, 2013, 126 Stat. 2077; amended Pub. L. 114–328, div. A, title XVIII, §1813(e), Dec. 23, 2016, 130 Stat. 2653.)
 
 #### Prior Provisions ####
 
 A prior section 2[45] of Pub. L. 85–536 was renumbered section 2[47] and is set out as a note under section 631 of this title.
+
+#### Amendments ####
+
+**2016**—Subsec. (b)(3)(K). Pub. L. 114–328 added subpar. (K).

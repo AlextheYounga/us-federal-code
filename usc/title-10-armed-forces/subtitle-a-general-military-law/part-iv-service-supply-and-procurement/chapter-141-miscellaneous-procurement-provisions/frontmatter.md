@@ -16,7 +16,7 @@ Sec.
 
 2386. Copyrights, patents, designs, etc.; acquisition.
 
-2387. Procurement of table and kitchen equipment for officers' quarters: limitation on.
+[2387. Repealed.]
 
 [2388. Renumbered.]
 
@@ -92,7 +92,11 @@ Sec.
 
 2410q. Multiyear contracts: purchase of electricity from renewable energy sources.
 
+2410r. Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title III, §342(a)(2), title VIII, §833(b)(4)(B), Dec. 23, 2016, 130 Stat. 2082, 2285, added item 2410r and struck out item 2387 "Procurement of table and kitchen equipment for officers' quarters: limitation on".
 
 **2013**—Pub. L. 112–239, div. A, title XVI, §1671(c)(1), Jan. 2, 2013, 126 Stat. 2084, struck out item 2382 "Consolidation of contract requirements: policy and restrictions".
 

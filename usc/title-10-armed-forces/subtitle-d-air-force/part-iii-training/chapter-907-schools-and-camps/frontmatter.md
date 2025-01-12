@@ -10,11 +10,13 @@ Sec.
 
 9414. Quartermaster and ordnance property: sales.
 
-9415. Inter-American Air Forces Academy.
+[9415. Renumbered.]
 
 9417. Air War College: acceptance of grants for faculty research for scientific, literary, and educational purposes.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title XII, §1241(o)(9), Dec. 23, 2016, 130 Stat. 2512, struck out item 9415 "Inter-American Air Forces Academy".
 
 **2006**—Pub. L. 109–163, div. A, title V, §522(f)(2), Jan. 6, 2006, 119 Stat. 3244, added item 9417.
 

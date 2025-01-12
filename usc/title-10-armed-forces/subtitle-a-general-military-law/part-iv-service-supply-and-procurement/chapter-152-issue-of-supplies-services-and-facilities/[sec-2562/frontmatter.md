@@ -1,0 +1,3 @@
+### [§2562. Repealed. Pub. L. 114–328, div. A, title XII, §1253(a)(1)(C), Dec. 23, 2016, 130 Stat. 2532] ###
+
+Section, added Pub. L. 102–484, div. D, title XLIII, §4304(a), Oct. 23, 1992, 106 Stat. 2699, §2552; renumbered §2562 and amended Pub. L. 106–398, §1 [[div. A], title X, §1033(b)(1), (c)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–260; Pub. L. 107–217, §3(b)(8), Aug. 21, 2002, 116 Stat. 1295; Pub. L. 107–314, div. A, title X, §1062(e)(1), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 111–350, §5(b)(41), Jan. 4, 2011, 124 Stat. 3846, related to the limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs.

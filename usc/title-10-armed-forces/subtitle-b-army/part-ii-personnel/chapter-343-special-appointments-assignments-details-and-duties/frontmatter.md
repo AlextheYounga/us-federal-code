@@ -12,17 +12,15 @@ Sec.
 
 3536. Leader of Army Band: appointment.
 
-[3538 to 3542. Repealed.]
-
-3543. Aides: detail; number authorized.
-
-[3544 to 3546. Repealed.]
+[3538 to 3546. Repealed.]
 
 3547. Duties: chaplains; assistance required of commanding officers.
 
 3548. Duties: warrant officers; limitations.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title V, §502(s)(2), Dec. 23, 2016, 130 Stat. 2104, struck out item 3543 "Aides: detail; number authorized".
 
 **1994**—Pub. L. 103–337, div. A, title XVI, §1672(b)(5), Oct. 5, 1994, 108 Stat. 3015, struck out items 3541 "National Guard Bureau: assignment of officers of regular or reserve components" and 3542 "Chief and assistant chief of staff of divisions of Army National Guard in Federal service: detail".
 

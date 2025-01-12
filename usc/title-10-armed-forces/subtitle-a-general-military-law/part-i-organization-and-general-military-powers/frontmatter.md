@@ -23,13 +23,15 @@ Chap. Sec.
 
 11. Reserve Components 261
 
-13. The Militia 311
+12. The Militia 246
 
-15. Insurrection 331
+13. Insurrection 251
 
-17. Arming of American Vessels 351
+14. Arming of American Vessels 261
 
-18. Military Support for Civilian Law Enforcement Agencies 371
+15. Military Support for Civilian Law Enforcement Agencies 271
+
+16. Security Cooperation 301
 
 19. Cyber Matters 391
 
@@ -44,6 +46,8 @@ Chap. Sec.
 24. Nuclear Posture 491
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title XII, §1241(o)(1), Dec. 23, 2016, 130 Stat. 2512, redesignated item for chapter 13 "The Militia" as 12 and substituted "246" for "311", redesignated item for chapter 15 "Insurrection" as 13 and substituted "251" for "331", redesignated item for chapter 17 "Arming of American Vessels" as 14 and substituted "261" for "351", redesignated item for chapter 18 "Military Support for Civilian Law Enforcement Agencies" as 15 and substituted "271" for "371", and added item for chapter 16.
 
 **2015**—Pub. L. 114–92, div. A, title X, §1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted "Cyber Matters" for "Cyber matters" in item for chapter 19.
 

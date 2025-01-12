@@ -50,7 +50,7 @@ Sec.
 
 3321. Competitive service; probationary period.
 
-[3322. Repealed.]
+3322. Voluntary separation before resolution of personnel investigation.
 
 3323. Automatic separations; reappointment; reemployment of annuitants.
 
@@ -75,6 +75,8 @@ Sec.
 3330c. Preference eligibles; remedy.
 
 3330d. Appointment of certain military spouses.
+
+3330e. Review of official personnel file of former Federal employees before rehiring.
 
 #### SUBCHAPTER II—OATH OF OFFICE ####
 
@@ -173,6 +175,8 @@ Sec.
 3397. Regulations.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title XI, §§1136(c), 1140(c), Dec. 23, 2016, 130 Stat. 2460, 2471, which directed the amendment of the table of sections of subchapter I of chapter 33 by adding item 3330e at end and inserting item 3322 after item 3321, respectively, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
 **2013**—Pub. L. 112–239, div. A, title V, §566(c), Jan. 2, 2013, 126 Stat. 1751, added item 3330d.
 

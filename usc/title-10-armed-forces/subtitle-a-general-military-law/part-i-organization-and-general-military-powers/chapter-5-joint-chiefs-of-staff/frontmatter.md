@@ -12,7 +12,7 @@ Sec.
 
 155. Joint Staff.
 
-155a. Assistants to the Chairman of the Joint Chiefs of Staff for National Guard matters and Reserve matters.
+[155a. Repealed.]
 
 156. Legal Counsel to the Chairman of the Joint Chiefs of Staff.
 
@@ -27,6 +27,8 @@ Section 142, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Sept. 7, 1962, Pub. L. 8
 Section 143, acts Aug. 10, 1956, ch. 1041, 70A Stat. 7; Aug. 6, 1958, Pub. L. 85–599, §5(a), 72 Stat. 517; Oct. 19, 1984, Pub. L. 98–525, title XIII, §1301(c), 98 Stat. 2611, provided for a Joint Staff. See section 155 of this title.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title V, §502(a)(2), Dec. 23, 2016, 130 Stat. 2102, struck out item 155a "Assistants to the Chairman of the Joint Chiefs of Staff for National Guard matters and Reserve matters".
 
 **2013**—Pub. L. 112–239, div. A, title V, §511(b), Jan. 2, 2013, 126 Stat. 1718, added item 155a.
 

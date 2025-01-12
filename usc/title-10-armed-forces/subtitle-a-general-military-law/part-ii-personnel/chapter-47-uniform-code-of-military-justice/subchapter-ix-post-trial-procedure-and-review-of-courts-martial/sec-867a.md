@@ -4,8 +4,18 @@
 
 (b) The accused may petition the Supreme Court for a writ of certiorari without prepayment of fees and costs or security therefor and without filing the affidavit required by section 1915(a) of title 28.
 
-(Added Pub. L. 101–189, div. A, title XIII, §1301(b), Nov. 29, 1989, 103 Stat. 1569; amended Pub. L. 103–337, div. A, title IX, §924(c)(1), Oct. 5, 1994, 108 Stat. 2831.)
+(Added Pub. L. 101–189, div. A, title XIII, §1301(b), Nov. 29, 1989, 103 Stat. 1569; amended Pub. L. 103–337, div. A, title IX, §924(c)(1), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 114–328, div. E, title LIX, §5332, Dec. 23, 2016, 130 Stat. 2935.)
+
+#### Amendment of Subsection (a) ####
+
+Pub. L. 114–328, div. E, title LIX, §5332, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2935, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, the second sentence of subsection (a) of this section is amended by inserting "United States" before "Court of Appeals". See 2016 Amendment note below.
 
 #### Amendments ####
 
+**2016**—Subsec. (a). Pub. L. 114–328 inserted "United States" before "Court of Appeals" in second sentence.
+
 **1994**—Subsec. (a). Pub. L. 103–337 substituted "Court of Appeals for the Armed Forces" for "Court of Military Appeals" in two places.
+
+#### Effective Date of 2016 Amendment ####
+
+Amendment by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of this title.

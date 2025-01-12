@@ -16,7 +16,7 @@ The Secretary shall provide for jurisdictions to submit applications for approva
 
 (3) shall describe how the plan for use of amounts will assist in meeting the purposes of, and be used in accordance with, sections 1437bbb and 1437bbb–1(a) of this title, respectively;
 
-(4) shall propose standards for measuring performance in using assistance provided pursuant to this subchapter based on the performance standards under subsection (b)(4) of this section;
+(4) shall propose standards for measuring performance in using assistance provided pursuant to this subchapter based on the performance standards under subsection (b)(4);
 
 (5) shall propose the length of the period for participation of the jurisdiction is <sup><a href="#1437bbb-5_1_target" name="1437bbb-5_1">1</a></sup> in the demonstration program under this subchapter;
 
@@ -46,7 +46,7 @@ The Secretary shall provide for jurisdictions to submit applications for approva
 
 (C) contain a legal memorandum sufficient to describe how the plan will comply with such laws and how the plan will be carried out without violating or impairing such rights and interests; and
 
-(10) shall identify procedures for how the jurisdiction shall return to providing covered assistance for the jurisdiction under the provisions of subchapter I of this chapter, in the case of determination under subsection (b)(4)(B) of this section.
+(10) shall identify procedures for how the jurisdiction shall return to providing covered assistance for the jurisdiction under the provisions of subchapter I, in the case of determination under subsection (b)(4)(B).
 
 A plan required under paragraph (2) to be included in the application may be contained in a memorandum of agreement or other document executed by a jurisdiction and public housing agency, if such document is submitted together with the application.
 
@@ -92,7 +92,7 @@ The Secretary and each participating jurisdiction may collectively establish sta
 
 #### (B) Failure to comply ####
 
-If, at any time during the participation of a jurisdiction in the program under this subchapter, the Secretary determines that the jurisdiction is not sufficiently meeting, or making progress toward meeting, the levels of performance incorporated into the agreement of the jurisdiction pursuant to subparagraph (A), the Secretary shall terminate the participation of the jurisdiction in the program under this subchapter and require the implementation of the procedures included in the application of the jurisdiction pursuant to subsection (a)(10) of this section.
+If, at any time during the participation of a jurisdiction in the program under this subchapter, the Secretary determines that the jurisdiction is not sufficiently meeting, or making progress toward meeting, the levels of performance incorporated into the agreement of the jurisdiction pursuant to subparagraph (A), the Secretary shall terminate the participation of the jurisdiction in the program under this subchapter and require the implementation of the procedures included in the application of the jurisdiction pursuant to subsection (a)(10).
 
 #### (5) Troubled agencies ####
 

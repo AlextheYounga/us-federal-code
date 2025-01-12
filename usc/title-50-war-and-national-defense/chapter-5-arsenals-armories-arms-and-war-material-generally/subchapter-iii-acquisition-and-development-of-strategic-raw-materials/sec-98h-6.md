@@ -4,9 +4,13 @@
 
 Subject to subsection (c) and to the extent the President determines such action is required for the national defense, the President shall encourage the development and appropriate conservation of domestic sources for materials determined pursuant to section 98b(a) of this title to be strategic and critical materials—
 
-(1) by purchasing, or making a commitment to purchase, strategic and critical materials of domestic origin when such materials are needed for the stockpile; and
+(1) by purchasing, or making a commitment to purchase, strategic and critical materials of domestic origin when such materials are needed for the stockpile;
 
-(2) by contracting with domestic facilities, or making a commitment to contract with domestic facilities, for the processing or refining of strategic and critical materials in the stockpile when processing or refining is necessary to convert such materials into a form more suitable for storage and subsequent disposition.
+(2) by contracting with domestic facilities, or making a commitment to contract with domestic facilities, for the processing or refining of strategic and critical materials in the stockpile when processing or refining is necessary to convert such materials into a form more suitable for storage and subsequent disposition;
+
+(3) by qualifying existing domestic facilities and domestically produced strategic and critical materials to meet the requirements of defense and essential civilian industries in times of national emergency when existing domestic sources of supply are either insufficient or vulnerable to single points of failure; and
+
+(4) by contracting with domestic facilities to recycle strategic and critical materials, thereby increasing domestic supplies when such materials would otherwise be insufficient to support defense and essential civilian industries in times of national emergency.
 
 #### (b) Terms and conditions of contracts and commitments ####
 
@@ -30,8 +34,10 @@ The authority of the President under subsection (a) includes the authority to pa
 
 The President shall include in the reports required under section 98h–2(a) of this title information with respect to activities conducted under this section.
 
-(June 7, 1939, ch. 190, §15, as added Pub. L. 101–189, div. C, title XXXIII, §3312(a), Nov. 29, 1989, 103 Stat. 1687; amended Pub. L. 113–66, div. A, title XIV, §1411(c), Dec. 26, 2013, 127 Stat. 934.)
+(June 7, 1939, ch. 190, §15, as added Pub. L. 101–189, div. C, title XXXIII, §3312(a), Nov. 29, 1989, 103 Stat. 1687; amended Pub. L. 113–66, div. A, title XIV, §1411(c), Dec. 26, 2013, 127 Stat. 934; Pub. L. 114–328, div. A, title XIV, §1412(b), Dec. 23, 2016, 130 Stat. 2570.)
 
 #### Amendments ####
+
+**2016**—Subsec. (a)(3),(4). Pub. L. 114–328 added pars. (3) and (4).
 
 **2013**—Subsec. (a). Pub. L. 113–66 inserted "and appropriate conservation" after "development" in introductory provisions.

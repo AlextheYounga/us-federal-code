@@ -58,47 +58,21 @@
 
 (d) Assessment When Aircraft Procurement Budget Is Insufficient To Meet Applicable Requirements.—If the budget for a fiscal year provides for funding of the procurement of aircraft for either the Department of the Navy, the Department of the Army, or the Department of the Air Force at a level that is not sufficient to sustain the aviation force structure specified in the aircraft procurement plan for such Department for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes and discusses the risks associated with the reduced force structure of aircraft that will result from funding aircraft procurement at such level. Such assessment shall be coordinated in advance with the commanders of the combatant commands.
 
-(e) Annual Report on Aircraft Inventory.—(1) As part of the annual plan and certification required to be submitted under this section, the Secretary shall include a report on the aircraft in the inventory of the Department of Defense. Each such report shall include the following, for the year covered by the report:
-
-(A) The total number of aircraft in the inventory.
-
-(B) The total number of the aircraft in the inventory that are active, stated in the following categories (with appropriate subcategories for mission aircraft, training aircraft, dedicated test aircraft, and other aircraft):
-
-(i) Primary aircraft.
-
-(ii) Backup aircraft.
-
-(iii) Attrition and reconstitution reserve aircraft.
-
-(C) The total number of the aircraft in the inventory that are inactive, stated in the following categories:
-
-(i) Bailment aircraft.
-
-(ii) Drone aircraft.
-
-(iii) Aircraft for sale or other transfer to foreign governments.
-
-(iv) Leased or loaned aircraft.
-
-(v) Aircraft for maintenance training.
-
-(vi) Aircraft for reclamation.
-
-(vii) Aircraft in storage.
-
-(D) The aircraft inventory requirements approved by the Joint Chiefs of Staff.
-
-(2) Each report submitted under this subsection shall set forth each item described in paragraph (1) separately for the regular component of each armed force and for each reserve component of each armed force and, for each such component, shall set forth each type, model, and series of aircraft provided for in the future-years defense program that covers the fiscal year for which the budget accompanying the plan, certification and report is submitted.
-
-(f) Definitions.—In this section:
+(e) Definitions.—In this section:
 
 (1) The term "budget", with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
 
-(2) The term "Quadrennial Defense Review" means the review of the defense programs and policies of the United States that is carried out every 4 years under section 118 of this title.
+(2) The term "Quadrennial Defense Review" means the review of the defense programs and policies of the United States that is carried out every 4 years under section 118 <sup><a href="#231a_1_target" name="231a_1">1</a></sup> of this title.
 
-(Added Pub. L. 110–417, [div. A], title I, §141(a), Oct. 14, 2008, 122 Stat. 4379; amended Pub. L. 112–81, div. A, title X, §1069(a), (b), Dec. 31, 2011, 125 Stat. 1589, 1591; Pub. L. 113–66, div. A, title X, §1091(a)(5), Dec. 26, 2013, 127 Stat. 875; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508.)
+(Added Pub. L. 110–417, [div. A], title I, §141(a), Oct. 14, 2008, 122 Stat. 4379; amended Pub. L. 112–81, div. A, title X, §1069(a), (b), Dec. 31, 2011, 125 Stat. 1589, 1591; Pub. L. 113–66, div. A, title X, §1091(a)(5), Dec. 26, 2013, 127 Stat. 875; Pub. L. 113–291, div. A, title X, §1071(c)(2), Dec. 19, 2014, 128 Stat. 3508; Pub. L. 114–328, div. A, title I, §137, Dec. 23, 2016, 130 Stat. 2039.)
+
+#### References in Text ####
+
+Section 118 of this title, referred to in subsec. (e)(2), was repealed by Pub. L. 114–328, div. A, title IX, §941(b)(1), Dec. 23, 2016, 130 Stat. 2367. For provisions related to national defense strategy similar to those contained in former section 118 prior to repeal, see section 113(g) of this title.
 
 #### Amendments ####
+
+**2016**—Subsecs. (e), (f). Pub. L. 114–328 redesignated subsec. (f) as (e) and struck out former subsec. (e), which required the Secretary of Defense to include a report on the aircraft in the inventory of the Department of Defense as part of the annual plan and certification required to be submitted under this section.
 
 **2014**—Subsec. (c)(1). Pub. L. 113–291 substituted "(50 U.S.C. 3043)" for "(50 U.S.C. 404a)".
 
@@ -133,3 +107,9 @@ Subsec. (d). Pub. L. 112–81, §1069(a)(4), inserted ", the Department of the 
 Subsec. (e). Pub. L. 112–81, §1069(a)(6), added subsec. (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 112–81, §1069(a)(5), (7), redesignated subsec. (e) as (f), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "The term 'defense budget materials', with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year."
+
+#### Termination of Reporting Requirements ####
+
+For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+
+[<sup>1</sup> See References in Text note below.](#231a_1)

@@ -6,15 +6,13 @@ Sec.
 
 5132. Bureaus: distribution of business; orders; records; expenses.
 
-5133. Bureau Chiefs: rank; pay and allowances; retirement.
-
-[5134. Repealed.]
+[5133, 5134. Repealed.]
 
 5135. Bureau Chiefs: succession to duties.
 
 [5136. Repealed.]
 
-5137. Bureau of Medicine and Surgery: Chief; Deputy Chief.
+5137. Surgeon General: appointment; duties.
 
 5138. Bureau of Medicine and Surgery: Dental Corps; Chief; functions.
 
@@ -22,7 +20,7 @@ Sec.
 
 [5140. Repealed.]
 
-5141. Bureau of Naval Personnel: Chief of Naval Personnel; Deputy Chief of Naval Personnel.
+5141. Chief of Naval Personnel; Deputy Chief of Naval Personnel.
 
 5142. Chaplain Corps and Chief of Chaplains.
 
@@ -47,6 +45,8 @@ Sec.
 [5155. Renumbered.]
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title V, §502(z)(2), (bb)(3), title VII, §702(b)(2)(B), Dec. 23, 2016, 130 Stat. 2105, 2196, substituted "Surgeon General: appointment; duties" for "Bureau of Medicine and Surgery: Chief; Deputy Chief" in item 5137 and "Chief of Naval Personnel; Deputy Chief of Naval Personnel" for "Bureau of Naval Personnel: Chief of Naval Personnel; Deputy Chief of Naval Personnel" in item 5141 and struck out item 5133 "Bureau Chiefs: rank; pay and allowances; retirement".
 
 **2006**—Pub. L. 109–364, div. A, title V, §593(d)(2), Oct. 17, 2006, 120 Stat. 2235, substituted "Corps" for "Division" in item 5138.
 

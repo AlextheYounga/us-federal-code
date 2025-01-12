@@ -25,13 +25,15 @@ Chap. Sec.
 
 11. Reserve Components 261
 
-13. The Militia 311
+12. The Militia 246
 
-15. Insurrection 331
+13. Insurrection 251
 
-17. Arming of American Vessels 351
+14. Arming of American Vessels 261
 
-18. Military Support for Civilian Law Enforcement Agencies 371
+15. Military Support for Civilian Law Enforcement Agencies 271
+
+16. Security Cooperation 301
 
 19. Cyber Matters 391
 
@@ -199,6 +201,8 @@ Chap. Sec.
 
 144A. Major Automated Information System Programs 2445a
 
+144B. Weapon Systems Development and Related Matters 2446a
+
 145. Cataloging and Standardization 2451
 
 146. Contracting for Performance of Civilian Commercial or Industrial Type Functions 2460
@@ -240,6 +244,10 @@ Chap. Sec.
 173. Energy Security 2911
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title VIII, §805(a)(2), title XII, §1241(o)(1), Dec. 23, 2016, 130 Stat. 2255, 2512, redesignated item 13 "The Militia" as item 12 and substituted "246" for "311" as section number in item for chapter 12, redesignated item 15 "Insurrection" as item 13 and substituted "251" for "331" as section number in item for chapter 13, redesignated item 17 "Arming of American Vessels" as item 14 and substituted "261" for "351" as section number in item for chapter 14, redesignated item 18 "Military Support for Civilian Law Enforcement Agencies" as item 15 and substituted "271" for "371" as section number in item for chapter 15, and added items for chapters 16 and 144B.
+
+Pub. L. 114–328, div. A, title VIII, §846, Dec. 23, 2016, 130 Stat. 2292, effective Sept. 30, 2017, struck out item 144A "Major Automated Information System Programs".
 
 **2015**—Pub. L. 114–92, div. A, title X, §1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted "Cyber Matters" for "Cyber matters" in item for chapter 19.
 

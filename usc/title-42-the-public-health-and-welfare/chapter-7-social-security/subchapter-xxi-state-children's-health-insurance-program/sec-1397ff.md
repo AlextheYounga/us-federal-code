@@ -8,7 +8,7 @@ As a condition of receiving payment under section 1397ee of this title, a State 
 
 #### (2) Approval ####
 
-Except as the Secretary may provide under subsection (e) of this section, a State plan submitted under paragraph (1)—
+Except as the Secretary may provide under subsection (e), a State plan submitted under paragraph (1)—
 
 (A) shall be approved for purposes of this subchapter, and
 
@@ -22,7 +22,7 @@ A State may amend, in whole or in part, its State child health plan at any time 
 
 #### (2) Approval ####
 
-Except as the Secretary may provide under subsection (e) of this section, an amendment to a State plan submitted under paragraph (1)—
+Except as the Secretary may provide under subsection (e), an amendment to a State plan submitted under paragraph (1)—
 
 (A) shall be approved for purposes of this subchapter, and
 
@@ -66,7 +66,7 @@ In the case of a disapproval of a plan or plan amendment, the Secretary shall pr
 
 #### (1) In general ####
 
-The State shall conduct the program in accordance with the plan (and any amendments) approved under subsection (c) of this section and with the requirements of this subchapter.
+The State shall conduct the program in accordance with the plan (and any amendments) approved under subsection (c) and with the requirements of this subchapter.
 
 #### (2) Violations ####
 
@@ -74,6 +74,6 @@ The Secretary shall establish a process for enforcing requirements under this su
 
 #### (e) Continued approval ####
 
-An approved State child health plan shall continue in effect unless and until the State amends the plan under subsection (b) of this section or the Secretary finds, under subsection (d) of this section, substantial noncompliance of the plan with the requirements of this subchapter.
+An approved State child health plan shall continue in effect unless and until the State amends the plan under subsection (b) or the Secretary finds, under subsection (d), substantial noncompliance of the plan with the requirements of this subchapter.
 
 (Aug. 14, 1935, ch. 531, title XXI, §2106, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 563.)

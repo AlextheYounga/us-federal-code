@@ -4,13 +4,13 @@ Sec.
 
 201. Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance.
 
-[202. Repealed.]
-
-203. Director of Missile Defense Agency.
+[202, 203. Repealed.]
 
 204. Small Business Ombudsman for defense audit agencies.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title V, §502(d)(2), Dec. 23, 2016, 130 Stat. 2102, which directed amendment of the "table of sections at the beginning of chapter 8" of this title by striking item 203, was executed by striking item 203 "Director of Missile Defense Agency" in the analysis preceding subchapter II of chapter 8 of this title to reflect the probable intent of Congress.
 
 **2013**—Pub. L. 112–239, div. A, title XVI, §1612(b), Jan. 2, 2013, 126 Stat. 2065, added item 204.
 

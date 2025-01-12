@@ -1,0 +1,3 @@
+### [§2302c. Repealed. Pub. L. 114–328, div. A, title VIII, §833(b)(5)(A)(i), Dec. 23, 2016, 130 Stat. 2285] ###
+
+Section, added Pub. L. 103–355, title IX, §9002(a), Oct. 13, 1994, 108 Stat. 3402; amended Pub. L. 105–85, div. A, title VIII, §850(f)(3)(A), Nov. 18, 1997, 111 Stat. 1850; Pub. L. 105–129, §1(a)(1), Dec. 1, 1997, 111 Stat. 2551; Pub. L. 106–65, div. A, title X, §1066(a)(18), Oct. 5, 1999, 113 Stat. 771; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 109–364, div. A, title X, §1071(a)(2), Oct. 17, 2006, 120 Stat. 2398; Pub. L. 111–350, §5(b)(11), Jan. 4, 2011, 124 Stat. 3843, related to implementation of electronic commerce capability.

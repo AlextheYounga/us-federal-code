@@ -6,7 +6,7 @@ The purpose of this subchapter is to provide funds to States to enable them to i
 
 (1) obtaining coverage that meets the requirements of section 1397cc of this title, or
 
-(2) providing benefits under the State's medicaid plan under subchapter XIX of this chapter,
+(2) providing benefits under the State's medicaid plan under subchapter XIX,
 
 or a combination of both.
 

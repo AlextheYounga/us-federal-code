@@ -192,6 +192,8 @@ Sec.
 
 2660. Design and use of prototypes of nuclear weapons for intelligence purposes.
 
+2661. Protection of certain nuclear facilities and assets from unmanned aircraft.
+
 #### Part B—Classified Information ####
 
 2671. Review of certain documents before declassification and release.
@@ -285,6 +287,8 @@ Sec.
 2771. Repealed.
 
 2772. Quarterly reports on financial balances for atomic energy defense activities.
+
+2773. Independent acquisition project reviews of capital assets acquisition projects.
 
 #### SUBCHAPTER VIII—ADMINISTRATIVE MATTERS ####
 

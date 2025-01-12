@@ -24,4 +24,16 @@
 
 (d) In this section, the term "unborn child" means a child in utero, and the term "child in utero" or "child, who is in utero" means a member of the species homo sapiens, at any stage of development, who is carried in the womb.
 
-(Added Pub. L. 108–212, §3(a), Apr. 1, 2004, 118 Stat. 569.)
+(Added Pub. L. 108–212, §3(a), Apr. 1, 2004, 118 Stat. 569; amended Pub. L. 114–328, div. E, title LX, §5401(13)(B), Dec. 23, 2016, 130 Stat. 2939.)
+
+#### Amendment of Subsection (b) ####
+
+Pub. L. 114–328, div. E, title LX, §5401(13)(B), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2939, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (b) of this section is amended by substituting "928a," for "924," and "128a" for "124,". See 2016 Amendment note below. For text of this section after amendment on the effective date, see Amendment of Analysis and Subchapter note preceding section 877 of this title.
+
+#### Amendments ####
+
+**2016**—Subsec. (b). Pub. L. 114–328 substituted "928a," for "924," and "128a" for "124,".
+
+#### Effective Date of 2016 Amendment ####
+
+Amendment by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of this title.

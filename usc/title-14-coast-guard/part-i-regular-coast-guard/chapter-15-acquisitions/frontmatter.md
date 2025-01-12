@@ -40,6 +40,10 @@ Sec.
 
 577. Advance procurement funding.
 
+578. Role of Vice Commandant in major acquisition programs.
+
+579. Extension of major acquisition program contracts.
+
 #### SUBCHAPTER III—DEFINITIONS ####
 
 581. Definitions.
@@ -50,7 +54,9 @@ A prior chapter 15 of this title, consisting of sections 561 to 576 and relating
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–120, title I, §102(b), title II, §209(7), Feb. 8, 2016, 130 Stat. 32, 41, struck out item 569a "Major acquisitions" and "Sec." before item 571.
+**2016**—Pub. L. 114–328, div. A, title VIII, §899(b)(2), Dec. 23, 2016, 130 Stat. 2335, added items 578 and 579.
+
+Pub. L. 114–120, title I, §102(b), title II, §209(7), Feb. 8, 2016, 130 Stat. 32, 41, struck out item 569a "Major acquisitions" and "Sec." before item 571.
 
 **2014**—Pub. L. 113–281, title II, §215(b), Dec. 18, 2014, 128 Stat. 3035, substituted "Mission need statement" for "Report on former Coast Guard officials employed by contractors to the agency" in item 569.
 

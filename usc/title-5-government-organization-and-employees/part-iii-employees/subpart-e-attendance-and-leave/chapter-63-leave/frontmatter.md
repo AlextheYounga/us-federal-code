@@ -48,6 +48,12 @@ Sec.
 
 6329. Disabled veteran leave.
 
+6329a. Administrative leave.
+
+6329b. Investigative leave and notice leave.
+
+6329c. Weather and safety leave.
+
 #### SUBCHAPTER III—VOLUNTARY TRANSFERS OF LEAVE ####
 
 6331. Definitions.
@@ -119,6 +125,8 @@ Sec.
 6391. Authority for leave transfer program in disasters and emergencies.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title XI, §1138(c)(2), (d)(4), (e)(2), Dec. 23, 2016, 130 Stat. 2462, 2469, 2470, which directed amendment of the table of sections for subchapter II of chapter 63 by adding items 6329a to 6329c, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
 **2015**—Pub. L. 114–75, §2(b), Nov. 5, 2015, 129 Stat. 641, added item 6329.
 

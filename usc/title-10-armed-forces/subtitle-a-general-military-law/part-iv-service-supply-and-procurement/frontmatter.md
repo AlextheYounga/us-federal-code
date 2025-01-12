@@ -31,6 +31,8 @@ Chap. Sec.
 
 144A. Major Automated Information System Programs 2445a
 
+144B. Weapon Systems Development and Related Matters 2446a
+
 145. Cataloging and Standardization 2451
 
 146. Contracting for Performance of Civilian Commercial or Industrial Type Functions 2460
@@ -72,6 +74,10 @@ Chap. Sec.
 173. Energy Security 2911
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title VIII, §805(a)(2), Dec. 23, 2016, 130 Stat. 2255, added item for chapter 144B.
+
+Pub. L. 114–328, div. A, title VIII, §846, Dec. 23, 2016, 130 Stat. 2292, effective Sept. 30, 2017, struck out item 144A "Major Automated Information System Programs".
 
 **2011**—Pub. L. 111–383, div. A, title VIII, §861(b), Jan. 7, 2011, 124 Stat. 4292, added item for chapter 149.
 

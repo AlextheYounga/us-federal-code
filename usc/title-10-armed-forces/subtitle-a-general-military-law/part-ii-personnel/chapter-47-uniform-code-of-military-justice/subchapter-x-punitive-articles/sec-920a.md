@@ -24,6 +24,14 @@ is guilty of stalking and shall be punished as a court-martial may direct.
 
 (Added Pub. L. 109–163, div. A, title V, §551(a)(1), Jan. 6, 2006, 119 Stat. 3256.)
 
+#### Transfer and Enactment of Section ####
+
+Pub. L. 114–328, div. E, title LX, §§5401(11), 5431, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2939, 2951, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is redesignated and transferred to become section 930 of this title (article 130), and a new section 920a (article 120a) is enacted. For text of new section 920a after the effective date, see Amendment of Analysis and Subchapter note preceding section 877 of this title.
+
+#### Effective Date of 2016 Amendment ####
+
+Transfer of current section and enactment of new section 920a by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of this title.
+
 #### Effective Date ####
 
 Pub. L. 109–163, div. A, title V, §551(b), Jan. 6, 2006, 119 Stat. 3256, provided that: "Section 920a of title 10, United States Code (article 120a of the Uniform Code of Military Justice), as added by subsection (a), applies to offenses committed after the date that is 180 days after the date of the enactment of this Act [Jan. 6, 2006]."

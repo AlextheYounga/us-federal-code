@@ -64,4 +64,4 @@ Sec.
 
 [<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER11_1)
 
-[<sup>2</sup> Editorially supplied. Section 1126 added by Pub. L. 114–264 without corresponding amendment of chapter analysis.](#CHAPTER11_2)
+[<sup>2</sup> Editorially supplied. Section 1126 added by Pub. L. 114–264 and Pub. L. 114–328 without corresponding amendment of chapter analysis.](#CHAPTER11_2)

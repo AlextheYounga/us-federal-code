@@ -4,6 +4,8 @@ Sec.
 
 637. Selection of regular officers for continuation on active duty.
 
+637a. Continuation on active duty: officers in certain military specialties and career tracks.
+
 638. Selective early retirement.
 
 638a. Modification to rules for continuation on active duty; enhanced authority for selective early retirement and early discharges.
@@ -15,6 +17,8 @@ Sec.
 640. Deferment of retirement or separation for medical reasons.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title V, §505(a)(2), Dec. 23, 2016, 130 Stat. 2108, added item 637a.
 
 **2011**—Pub. L. 112–81, div. A, title V, §504(a)(2), 125 Stat. 1390, added item 638b.
 

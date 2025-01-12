@@ -10,9 +10,9 @@ Sec.
 
 133. Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
-[133a. Repealed.]
+133a. Under Secretary of Defense for Research and Engineering.
 
-[133b. Repealed.]
+133b. Under Secretary of Defense for Acquisition and Sustainment.
 
 134. Under Secretary of Defense for Policy.
 
@@ -36,9 +36,9 @@ Sec.
 
 139a. Director of Cost Assessment and Program Evaluation.
 
-139b. Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems Engineering: joint guidance.
+139b. Special Operations Policy and Oversight Council.
 
-139c. Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy.
+[139c. Repealed.]
 
 [139d, 139e. Renumbered.]
 
@@ -56,13 +56,19 @@ Sec.
 
 #### Amendment of Analysis ####
 
-Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, provided that, effective on Feb. 1, 2017, the item relating to section 132a is amended to read as follows: "132a. Under Secretary of Defense for Business Management and Information."
+Pub. L. 114–328, title IX, §901(g)(2), Dec. 23, 2016, 130 Stat. 2342, provided that, effective on Feb. 1, 2018, this analysis is amended by striking out item 133 "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+
+Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, provided that, effective on Feb. 1, 2017, the item relating to section 132a is amended to read as follows: "132a. Under Secretary of Defense for Business Management and Information." See 2014 Amendment note below.
 
 #### Amendments ####
 
+**2016**—Pub. L. 114–328, div. A, title IX, §901(g)(2), Dec. 23, 2016, 130 Stat. 2342, effective on Feb. 1, 2018, added items 133a and 133b.
+
+Pub. L. 114–328, div. A, title IX, §§901(g)(1), 922(b)(2), Dec. 23, 2016, 130 Stat. 2342, 2356, added item 139b and struck out former item 139b "Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems Engineering: joint guidance" and item 139c "Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy."
+
 **2014**—Pub. L. 113–291, div. A, title IX, §901(l)(1)(B), (C), Dec. 19, 2014, 128 Stat. 3468, added item 142 and struck out items 138a "Assistant Secretary of Defense for Logistics and Materiel Readiness", 138b "Assistant Secretary of Defense for Research and Engineering", 138c "Assistant Secretary of Defense for Operational Energy Plans and Programs", and 138d "Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs".
 
-Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, substituted "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer" in item 132a.
+Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, which directed substitution of "Under Secretary of Defense for Business Management and Information" for "Deputy Chief Management Officer" in item 132a, effective Feb. 1, 2017, was not executed to reflect the probable intent of Congress. Section 901(a)(1) of Pub. L. 113–291, which amended section 132a of this title to establish the Under Secretary of Defense for Business Management and Information, was repealed by Pub. L. 114–328, effective Dec. 23, 2016.
 
 **2013**—Pub. L. 112–239, div. A, title X, §1076(f)(2), Jan. 2, 2013, 126 Stat. 1952, struck out item 133b "Deputy Under Secretary of Defense for Logistics and Materiel Readiness".
 
@@ -128,6 +134,10 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 
 **1972**—Pub. L. 92–596, §4(3), Oct. 27, 1972, 86 Stat. 1318, substituted "Deputy Secretaries" for "Deputy Secretary" in item 134.
 
+#### Effective Date of 2016 Amendment ####
+
+Pub. L. 114–328, div. A, title IX, §901(g)(2), Dec. 23, 2016, 130 Stat. 2342, provided that the amendment made by section 901(g)(2) is effective on Feb. 1, 2018.
+
 #### Effective Date of 2014 Amendment ####
 
-Pub. L. 113–291, div. A, title IX, §901(l)(1), Dec. 19, 2014, 128 Stat. 3468, provided that the amendment made by section 901(l)(1) is effective on the effective date specified in section 901(a)(1), which is on Feb. 1, 2017.
+Pub. L. 113–291, div. A, title IX, §901(l)(1), Dec. 19, 2014, 128 Stat. 3468, provided that the amendment made by section 901(l)(1) is effective on the effective date specified in section 901(a)(1), which was on Feb. 1, 2017, prior to repeal of section 901(a) of Pub. L. 113–291 by Pub. L. 114–328, div. A, §901(d), Dec. 23, 2016, 130 Stat. 2342.

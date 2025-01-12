@@ -24,7 +24,9 @@ Sec.
 
 7300. Contracts for nuclear ships: sales of naval shipyard articles and services to private shipyards.
 
-[7301, 7302. Repealed.]
+7301. Determination of vessel delivery dates.
+
+[7302. Repealed.]
 
 7303. Model basin; investigation of hull designs.
 
@@ -62,7 +64,13 @@ Sec.
 
 7317. Status of Government rights in the designs of vessels, boats, and craft, and components thereof.
 
+7318. Warranty requirements for shipbuilding contracts.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title X, §1022(a)(2), (b), Dec. 23, 2016, 130 Stat. 2388, added item 7318, effective the later of the date of enactment of the National Defense Authorization for Fiscal Year 2018 or Sept. 30, 2017.
+
+Pub. L. 114–328, div. A, title I, §121(a)(2), Dec. 23, 2016, 130 Stat. 2030, added item 7301.
 
 **2013**—Pub. L. 113–66, div. A, title X, §1022(e)(2), Dec. 26, 2013, 127 Stat. 846, substituted "Vessels stricken from Naval Vessel Register; captured vessels: conveyance by donation" for "Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise" in item 7306.
 

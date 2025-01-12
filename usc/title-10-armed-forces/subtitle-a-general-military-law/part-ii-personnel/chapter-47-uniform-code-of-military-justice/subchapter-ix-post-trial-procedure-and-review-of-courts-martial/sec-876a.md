@@ -2,11 +2,21 @@
 
 Under regulations prescribed by the Secretary concerned, an accused who has been sentenced by a court-martial may be required to take leave pending completion of action under this subchapter if the sentence, as approved under section 860 of this title (article 60), includes an unsuspended dismissal or an unsuspended dishonorable or bad-conduct discharge. The accused may be required to begin such leave on the date on which the sentence is approved under section 860 of this title (article 60) or at any time after such date, and such leave may be continued until the date on which action under this subchapter is completed or may be terminated at any earlier time.
 
-(Added Pub. L. 97–81, §2(c)(1), Nov. 20, 1981, 95 Stat. 1087; amended Pub. L. 98–209, §5(g), Dec. 6, 1983, 97 Stat. 1400.)
+(Added Pub. L. 97–81, §2(c)(1), Nov. 20, 1981, 95 Stat. 1087; amended Pub. L. 98–209, §5(g), Dec. 6, 1983, 97 Stat. 1400; Pub. L. 114–328, div. E, title LIX, §5338, Dec. 23, 2016, 130 Stat. 2937.)
+
+#### Amendment of Section ####
+
+Pub. L. 114–328, div. E, title LIX, §5338, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2937, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended in the first sentence by striking ", as approved under section 860 of this title (article 60)," and in the second sentence by striking "on which the sentence is approved under section 860 of this title (article 60)" and inserting "of the entry of judgment under section 860c of this title (article 60c)". See 2016 Amendment note below.
 
 #### Amendments ####
 
+**2016**—Pub. L. 114–328 struck out ", as approved under section 860 of this title (article 60)," after "if the sentence" and substituted "of the entry of judgment under section 860c of this title (article 60c)" for "on which the sentence is approved under section 860 of this title (article 60)".
+
 **1983**—Pub. L. 98–209 substituted "under section 860 of this title (article 60)" for "under section 864 or 865 of this title (article 64 or 65) by the officer exercising general court-martial jurisdiction" and "by the officer exercising general court-martial jurisdiction", respectively.
+
+#### Effective Date of 2016 Amendment ####
+
+Amendment by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of this title.
 
 #### Effective Date of 1983 Amendment ####
 

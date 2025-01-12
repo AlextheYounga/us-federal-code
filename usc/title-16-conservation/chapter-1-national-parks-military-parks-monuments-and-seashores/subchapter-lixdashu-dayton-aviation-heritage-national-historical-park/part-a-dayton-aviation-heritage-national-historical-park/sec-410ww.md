@@ -16,7 +16,7 @@ The park shall consist of the following sites, as generally depicted on a map en
 
 (4) Huffman Prairie Flying Field, located at Wright-Patterson Air Force Base, Ohio.
 
-(5) The Wright 1905 Flyer III and Wright Hall, including constructed additions and attached structures, known collectively as the John W. Berry, Sr. Wright Brothers Aviation Center, Dayton, Ohio.
+(5) The Wright 1905 Flyer III and Wright Hall, including constructed additions and attached structures, known collectively as the John W. Berry, Sr. Wright Brothers National Museum, Dayton, Ohio.
 
 (6) The Paul Laurence Dunbar State Memorial, Dayton, Ohio.
 
@@ -28,9 +28,11 @@ In addition to the sites described in subsection (b), the park shall consist of 
 
 (2) The Wright Company factory and associated land and buildings, Dayton, Ohio.
 
-(Pub. L. 102–419, title I, §101, Oct. 16, 1992, 106 Stat. 2141; Pub. L. 106–356, §2(a), Oct. 24, 2000, 114 Stat. 1391; Pub. L. 111–11, title VII, §7117(a), Mar. 30, 2009, 123 Stat. 1204.)
+(Pub. L. 102–419, title I, §101, Oct. 16, 1992, 106 Stat. 2141; Pub. L. 106–356, §2(a), Oct. 24, 2000, 114 Stat. 1391; Pub. L. 111–11, title VII, §7117(a), Mar. 30, 2009, 123 Stat. 1204; Pub. L. 114–328, div. B, title XXVIII, §2832, Dec. 23, 2016, 130 Stat. 2740.)
 
 #### Amendments ####
+
+**2016**—Subsec. (b)(5). Pub. L. 114–328 substituted "National Museum" for "Aviation Center".
 
 **2009**—Subsec. (c). Pub. L. 111–11 added subsec. (c).
 

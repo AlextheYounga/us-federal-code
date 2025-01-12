@@ -22,13 +22,17 @@ Sec.
 
 167a. Unified combatant command for joint warfighting experimentation: acquisition authority.
 
-168. Military-to-military contacts and comparable activities.
+167b. Unified combatant command for cyber operations.
+
+[168. Repealed.]
 
 #### Prior Provisions ####
 
 Prior to enactment of this chapter by Pub. L. 99–433, provisions relating to combat commands were contained in section 124 of this title.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title IX, §923(b), title XII, §1253(a)(2)(A), Dec. 23, 2016, 130 Stat. 2358, 2532, added item 167b and struck out item 168 "Military-to-military contacts and comparable activities".
 
 **2003**—Pub. L. 108–136, div. A, title VIII, §848(a)(2), Nov. 24, 2003, 117 Stat. 1555, added item 167a.
 

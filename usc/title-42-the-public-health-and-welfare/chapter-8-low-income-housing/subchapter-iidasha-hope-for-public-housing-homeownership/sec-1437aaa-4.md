@@ -80,7 +80,7 @@ To be eligible to receive a grant under section 1437aaa–2 of this title, a res
 
 #### (1) In general ####
 
-Each recipient shall keep such records as may be reasonably necessary to fully disclose the amount and the disposition by such recipient of the proceeds of assistance received under this subchapter (and any proceeds from financing obtained in accordance with subsection (b) of this section or sales under subsections (f) and (g)(4) of this section), the total cost of the homeownership program in connection with which such assistance is given or used, and the amount and nature of that portion of the program supplied by other sources, and such other sources as will facilitate an effective audit.
+Each recipient shall keep such records as may be reasonably necessary to fully disclose the amount and the disposition by such recipient of the proceeds of assistance received under this subchapter (and any proceeds from financing obtained in accordance with subsection (b) or sales under subsections (f) and (g)(4)), the total cost of the homeownership program in connection with which such assistance is given or used, and the amount and nature of that portion of the program supplied by other sources, and such other sources as will facilitate an effective audit.
 
 #### (2) Access by the Secretary ####
 

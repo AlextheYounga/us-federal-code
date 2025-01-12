@@ -2,11 +2,7 @@
 
 Sec.
 
-[8531 to 8542. Repealed.]
-
-8543. Aides: detail; number authorized.
-
-[8544 to 8546. Repealed.]
+[8531 to 8546. Repealed.]
 
 8547. Duties: chaplains; assistance required of commanding officers.
 
@@ -15,6 +11,8 @@ Sec.
 [8549. Repealed.]
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title V, §502(pp)(2), Dec. 23, 2016, 130 Stat. 2106, struck out item 8543 "Aides: detail; number authorized".
 
 **1994**—Pub. L. 103–337, div. A, title XVI, §1674(b)(5), Oct. 5, 1994, 108 Stat. 3016, struck out items 8541 "National Guard Bureau: assignment of officers of regular or reserve components" and 8542 "Chief and assistant chief of staff of wings of Air National Guard in Federal service: detail".
 

@@ -64,9 +64,43 @@
 
 (F) Military Rule of Evidence 615, relating to the exclusion of witnesses.
 
-(Added Pub. L. 113–66, div. A, title XVII, §1701(a)(1), Dec. 26, 2013, 127 Stat. 952; amended Pub. L. 113–291, div. A, title V, §§531(f), 535, Dec. 19, 2014, 128 Stat. 3364, 3368; Pub. L. 114–92, div. A, title V, §531, Nov. 25, 2015, 129 Stat. 814.)
+(Added Pub. L. 113–66, div. A, title XVII, §1701(a)(1), Dec. 26, 2013, 127 Stat. 952; amended Pub. L. 113–291, div. A, title V, §§531(f), 535, Dec. 19, 2014, 128 Stat. 3364, 3368; Pub. L. 114–92, div. A, title V, §531, Nov. 25, 2015, 129 Stat. 814; Pub. L. 114–328, div. E, title LI, §5105, title LVI, §5203(e)(1), Dec. 23, 2016, 130 Stat. 2895, 2906.)
+
+#### Amendment of Section ####
+
+Pub. L. 114–328, div. E, title LI, §5105, title LVI, §5203(e)(1), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2895, 2906, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended:
+
+(1) in subsection (a)(3), by striking "investigating officer" and inserting "preliminary hearing officer";
+
+(2) in subsection (c), in the first sentence, by striking "the military judge" and all that follows through the end of the sentence and inserting the following: "the legal guardians of the victim or the representatives of the victim's estate, family members, or any other person designated as suitable by the military judge, may assume the rights of the victim under this section.";
+
+(3) in subsection (d)—
+
+(A) in paragraph (1), by striking "or" at the end;
+
+(B) in paragraph (2), by striking the period at the end and inserting "; or"; and
+
+(C) by adding at the end the following new paragraph:
+
+*"(3) to impair the exercise of discretion under sections 830 and 834 of this title (articles 30 and 34)."; and*
+
+(4) by adding at the end the following new subsection:
+
+*(f)* *Counsel for Accused Interview of Victim of Alleged Offense**.—(1) Upon notice by counsel for the Government to counsel for the accused of the name of an alleged victim of an offense under this chapter who counsel for the Government intends to call as a witness at a proceeding under this chapter, counsel for the accused shall make any request to interview the victim through the Special Victims' Counsel or other counsel for the victim, if applicable.*
+
+*(2) If requested by an alleged victim who is subject to a request for interview under paragraph (1), any interview of the victim by counsel for the accused shall take place only in the presence of the counsel for the Government, a counsel for the victim, or, if applicable, a victim advocate.*
+
+See 2016 Amendment notes below.
 
 #### Amendments ####
+
+**2016**—Subsec. (a)(3). Pub. L. 114–328, §5203(e)(1), substituted "preliminary hearing officer" for "investigating officer".
+
+Subsec. (c). Pub. L. 114–328, §5105(a), substituted "the legal guardians of the victim or the representatives of the victim's estate, family members, or any other person designated as suitable by the military judge, may assume the rights of the victim under this section." for "the military judge shall designate a representative of the estate of the victim, a family member, or another suitable individual to assume the victim's rights under this section."
+
+Subsec. (d)(3). Pub. L. 114–328, §5105(b), added par. (3).
+
+Subsec. (f). Pub. L. 114–328, §5105(c), added subsec. (f).
 
 **2015**—Subsec. (e). Pub. L. 114–92 amended subsec. (e) generally. Prior to amendment, text read as follows:
 
@@ -83,6 +117,10 @@
 Subsec. (c). Pub. L. 113–291, §531(f)(2), in heading, substituted "Appointment of Individuals to Assume Rights" for "Legal Guardian" and, in text, inserted "(but who is not a member of the armed forces)" after "under 18 years of age" and substituted "designate a representative" for "designate a legal guardian from among the representatives", "another suitable individual" for "other suitable person", and "the individual" for "the person".
 
 Subsec. (e). Pub. L. 113–291, §535, added subsec. (e).
+
+#### Effective Date of 2016 Amendment ####
+
+Amendment by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of this title.
 
 #### Implementation ####
 

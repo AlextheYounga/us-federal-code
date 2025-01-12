@@ -6,6 +6,8 @@ Sec.
 
 10102. Purpose of reserve components.
 
+10102a. Deployment prioritization and readiness of Army components.
+
 10103. Basic policy for order into Federal service.
 
 10104. Army Reserve: composition.
@@ -31,6 +33,8 @@ Sec.
 10114. Coast Guard Reserve.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title III, §321(a)(2), Dec. 23, 2016, 130 Stat. 2075, added item 10102a.
 
 **2006**—Pub. L. 109–163, div. A, title V, §515(b)(4)(E), Jan. 6, 2006, 119 Stat. 3235, substituted "Navy Reserve" for "Naval Reserve" in item 10108.
 

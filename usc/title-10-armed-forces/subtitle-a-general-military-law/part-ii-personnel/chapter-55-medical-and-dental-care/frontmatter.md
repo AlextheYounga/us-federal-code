@@ -10,7 +10,11 @@ Sec.
 
 1073a. Contracts for health care: best value contracting.
 
-1073b. Recurring reports.
+1073b. Recurring reports and publication of certain data.
+
+1073c. Administration of Defense Health Agency and military medical treatment facilities.
+
+1073d. Military medical treatment facilities.
 
 1074. Medical and dental care for members and certain former members.
 
@@ -42,7 +46,9 @@ Sec.
 
 1074n. Annual mental health assessments for members of the armed forces.
 
-[1075. Repealed.]
+1075. TRICARE Select.
+
+1075a. TRICARE Prime: cost sharing.
 
 1076. Medical and dental care for dependents: general rule.
 
@@ -56,7 +62,11 @@ Sec.
 
 1076e. TRICARE program: TRICARE Standard coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60.
 
+1076f. TRICARE program: extension of coverage for certain members of the National Guard and dependents during certain disaster response duty.
+
 1077. Medical care for dependents: authorized care in facilities of uniformed services.
+
+1077a. Access to military medical treatment facilities and other facilities
 
 1078. Medical and dental care for dependents: charges.
 
@@ -172,7 +182,25 @@ Sec.
 
 1110b. TRICARE program: extension of dependent coverage.
 
+#### Amendment of Analysis ####
+
+Pub. L. 114–328, div. A, title VII, §§701(j)(2), (k), Dec. 23, 2016, 130 Stat. 2192, 2193, provided that, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, this analysis is amended as follows:
+
+(A) in the item relating to section 1076d, by striking "TRICARE Standard" and inserting "TRICARE Reserve Select";
+
+(B) in the item relating to section 1076e, by striking "TRICARE Standard" and inserting "TRICARE Retired Reserve";
+
+(C) in the item relating to section 1079a, by striking "CHAMPUS" and inserting "TRICARE program"; and
+
+(D) in the item relating to section 1095f, by striking "for specialty health care" and inserting "and preauthorizations under TRICARE Prime".
+
+See 2016 Amendment note below.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title VII, §§702(a)(2), 703(a)(2), 704(b), 711(b), 728(b)(2), Dec. 23, 2016, 130 Stat. 2195, 2198, 2201, 2214, 2234, added items 1073c, 1073d, 1076f, and 1077a, and substituted "Recurring reports and publication of certain data" for "Recurring reports" in item 1073b.
+
+Pub. L. 114–328, div. A, title VII, §§701(a)(2), (b)(2), (j)(2), (k), Dec. 23, 2016, 130 Stat. 2184, 2185, 2192, 2193, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, added items 1075 and 1075a and substituted "TRICARE Reserve Select" for "TRICARE Standard" in item 1076d, "TRICARE Retired Reserve" for "TRICARE Standard" in item 1076e, "TRICARE program" for "CHAMPUS" in item 1079a, and "and preauthorizations under TRICARE Prime" for "for specialty health care" in item 1095f.
 
 **2015**—Pub. L. 114–92, div. A, title VII, §711(b), Nov. 25, 2015, 129 Stat. 864, added item 1095g.
 

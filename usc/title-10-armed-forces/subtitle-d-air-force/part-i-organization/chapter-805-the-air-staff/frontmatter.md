@@ -12,7 +12,7 @@ Sec.
 
 8035. Deputy Chiefs of Staff and Assistant Chiefs of Staff.
 
-8036. Surgeon General: appointment; grade.
+8036. Surgeon General: appointment; duties.
 
 8037. Judge Advocate General, Deputy Judge Advocate General: appointment; duties.
 
@@ -23,6 +23,8 @@ Sec.
 8040. Oversight of nuclear deterrence mission.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title VII, §702(b)(3)(B), Dec. 23, 2016, 130 Stat. 2196, substituted "Surgeon General: appointment; duties" for "Surgeon General: appointment; grade" in item 8036.
 
 **2015**—Pub. L. 114–92, div. A, title XVI, §1652(a)(2), Nov. 25, 2015, 129 Stat. 1122, added item 8040.
 

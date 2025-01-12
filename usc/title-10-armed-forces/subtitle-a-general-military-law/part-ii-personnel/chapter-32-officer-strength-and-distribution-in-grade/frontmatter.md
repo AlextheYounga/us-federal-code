@@ -14,11 +14,15 @@ Sec.
 
 526. Authorized strength: general and flag officers on active duty.
 
+526a. Authorized strength after December 31, 2022: general officers and flag officers on active duty.
+
 527. Authority to suspend sections 523, 525, and 526.
 
 528. Officers serving in certain intelligence positions: military status; application of distribution and strength limitations; pay and allowances.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title V, §501(h)(3), Dec. 23, 2016, 130 Stat. 2102, added item 526a.
 
 **2011**—Pub. L. 112–81, div. A, title V, §502(d)(2)(B), 125 Stat. 1388, added item 528 and struck out former item 528 "Officers serving in certain intelligence positions: military status; exclusion from distribution and strength limitations; pay and allowances."
 

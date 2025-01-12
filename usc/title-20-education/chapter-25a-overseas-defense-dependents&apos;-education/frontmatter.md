@@ -20,7 +20,7 @@ Sec.
 
 928. School advisory committees.
 
-929. Advisory Council on Dependents' Education.
+929. Repealed.
 
 930. Study of defense dependents' education system.
 

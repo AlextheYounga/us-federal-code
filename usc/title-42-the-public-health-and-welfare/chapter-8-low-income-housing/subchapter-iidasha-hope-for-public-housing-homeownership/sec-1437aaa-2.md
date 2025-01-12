@@ -84,7 +84,7 @@ The Secretary shall require that an application contain at a minimum—
 
 (E) identification and description of the public housing project or projects involved, and a description of the composition of the tenants, including family size and income;
 
-(F) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) of this section and of other resources that are expected to be made available in support of the homeownership program;
+(F) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) and of other resources that are expected to be made available in support of the homeownership program;
 
 (G) identification and description of the financing proposed for any (i) rehabilitation and (ii) acquisition (I) of the property, where applicable, by a resident council or other entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
 

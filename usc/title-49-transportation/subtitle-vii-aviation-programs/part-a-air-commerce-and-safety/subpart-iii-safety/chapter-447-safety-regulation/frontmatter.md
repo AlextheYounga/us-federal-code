@@ -36,7 +36,7 @@ Sec.
 
 44717. Aging aircraft.
 
-44718. Structures interfering with air commerce.
+44718. Structures interfering with air commerce or national security.
 
 44719. Standards for navigational aids.
 
@@ -73,6 +73,8 @@ Sec.
 44735. Limitation on disclosure of safety information.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title III, §341(a)(4)(B), Dec. 23, 2016, 130 Stat. 2081, substituted "Structures interfering with air commerce or national security" for "Structures interfering with air commerce" in item 44718.
 
 **2012**—Pub. L. 112–95, title III, §§303(c)(2), 306(c), 307(c), 308(b), 309(b), 310(b), Feb. 14, 2012, 126 Stat. 58, 61, 62, 64, 65, substituted "Type certificates, production certificates, airworthiness certificates, and design and production organization certificates" for "Type certificates, production certificates, airworthiness certificates, and design organization certificates" in item 44704 and added items 44730 to 44735.
 

@@ -38,6 +38,8 @@ Sec.
 
 40728A. Recovery of excess firearms, ammunition, and parts granted to foreign countries and transfer to corporation.
 
+40728B. Recovery of excess rifles, ammunition, and parts granted to foreign countries and transfer to certain persons.
+
 40729. Reservation of firearms, ammunition, and parts.
 
 40730. Surplus property.
@@ -49,5 +51,7 @@ Sec.
 40733. Applicability of other law.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title X, §1096(c), Dec. 23, 2016, 130 Stat. 2441, added item 40728B.
 
 **2006**—Pub. L. 109–364, div. A, title III, §354(b), Oct. 17, 2006, 120 Stat. 2162, added item 40728A.

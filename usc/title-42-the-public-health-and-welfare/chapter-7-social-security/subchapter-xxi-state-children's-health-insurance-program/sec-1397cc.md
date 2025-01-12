@@ -2,11 +2,11 @@
 
 #### (a) Required scope of health insurance coverage ####
 
-The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), and (7) of subsection (c) of this section, of any of the following:
+The child health assistance provided to a targeted low-income child under the plan in the form described in paragraph (1) of section 1397aa(a) of this title shall consist, consistent with paragraphs (5), (6), and (7) of subsection (c), of any of the following:
 
 #### (1) Benchmark coverage ####
 
-Health benefits coverage that is at least equivalent to the benefits coverage in a benchmark benefit package described in subsection (b) of this section.
+Health benefits coverage that is at least equivalent to the benefits coverage in a benchmark benefit package described in subsection (b).
 
 #### (2) Benchmark-equivalent coverage ####
 
@@ -164,7 +164,7 @@ A State may modify a program described in paragraph (1) from time to time so lon
 
 (A) the actuarial value of the coverage under the program as of August 5, 1997, or
 
-(B) the actuarial value described in subsection (a)(2)(B) of this section,
+(B) the actuarial value described in subsection (a)(2)(B),
 
 evaluated as of the time of the modification.
 

@@ -20,7 +20,7 @@ Sec.
 
 3069. Army Nurse Corps: composition; Chief and assistant chief; appointment; grade.
 
-3070. Army Medical Specialist Corps: organization; Chief and assistant chiefs.
+3070. Army Medical Specialist Corps: organization; Chief.
 
 [3071. Repealed.]
 
@@ -40,9 +40,11 @@ Sec.
 
 3083. Public Affairs Specialty.
 
-3084. Chief of Veterinary Corps: grade.
+3084. Chief of Veterinary Corps.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title V, §502(p)(3), (r)(3), Dec. 23, 2016, 130 Stat. 2104, substituted "Army Medical Specialist Corps: organization; Chief" for "Army Medical Specialist Corps: organization; Chief and assistant chiefs" in item 3070 and "Chief of Veterinary Corps" for "Chief of Veterinary Corps: grade" in item 3084.
 
 **2002**—Pub. L. 107–314, div. A, title V, §504(b)(2), Dec. 2, 2002, 116 Stat. 2531, added item 3084.
 

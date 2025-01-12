@@ -56,7 +56,7 @@ Sec.
 
 5524. Review of accounts.
 
-5524a. Advance payments for new appointees.
+5524a. Advance payments for new appointees and employees relocating within the United States and its territories.
 
 5525. Allotment and assignment of pay.
 
@@ -167,6 +167,8 @@ Sec.
 5597. Separation pay.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title XI, §1134(c)(2), Dec. 23, 2016, 130 Stat. 2459, amended item 5524a generally, subtituting "Advance payments for new appointees and employees relocating within the United States and its territories" for "Advance payments for new appointees".
 
 **2014**—Pub. L. 113–277, §2(g)(3), Dec. 18, 2014, 128 Stat. 3005, added item 5550.
 

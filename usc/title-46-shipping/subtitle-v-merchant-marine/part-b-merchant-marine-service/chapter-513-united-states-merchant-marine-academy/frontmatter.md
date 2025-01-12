@@ -36,7 +36,13 @@ Sec.
 
 51317. Adjunct professors.
 
+51318. Policy on sexual harassment and sexual assault.
+
+51319. Sexual assault response coordinators and sexual assault victim advocates.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. C, title XXXV, §§3510(b), 3511(b), Dec. 23, 2016, 130 Stat. 2785, 2786, added items 51318 and 51319.
 
 **2011**—Pub. L. 111–383, div. A, title X, §1075(d)(25), Jan. 7, 2011, 124 Stat. 4374, amended Pub. L. 111–84, §3503(b)(1). See 2009 Amendment note below.
 

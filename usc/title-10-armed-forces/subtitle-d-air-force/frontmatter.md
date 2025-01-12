@@ -69,7 +69,7 @@ Chap. Sec.
 
 903. United States Air Force Academy 9331
 
-905. Aviation Leadership Program 9381
+[905. Repealed.] 9381
 
 907. Schools and Camps 9411
 
@@ -102,6 +102,8 @@ Chap. Sec.
 953. Accountability and Responsibility 9831
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title XII, §1241(o)(8), Dec. 23, 2016, 130 Stat. 2512, struck out item for chapter 905 "Aviation Leadership Program".
 
 **2003**—Pub. L. 108–136, div. A, title V, §576(c)(2), Nov. 24, 2003, 117 Stat. 1488, added item for chapter 875.
 

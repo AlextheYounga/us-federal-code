@@ -18,6 +18,10 @@
 
 **2014**—Subsec. (d). Pub. L. 113–291 struck out subsec. (d). Text read as follows: "The Director of Operational Test and Evaluation shall make available for review by the congressional defense committees the developmental and operational test plans established to assess the effectiveness of the ballistic missile defense system and its elements with respect to the performance criteria described in subsection (c)."
 
+#### Termination of Reporting Requirements ####
+
+For termination, effective Dec. 31, 2021, of provisions in subsec. (a) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.
+
 #### Implementation of Requirement for Availability of Test Plans ####
 
 Pub. L. 108–136, div. A, title II, §223(b), Nov. 24, 2003, 117 Stat. 1420, directed that subsec. (d) of this section was to be implemented not later than Mar. 1, 2004.

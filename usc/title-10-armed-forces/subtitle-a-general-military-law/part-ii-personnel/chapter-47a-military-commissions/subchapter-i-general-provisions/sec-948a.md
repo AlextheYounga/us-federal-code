@@ -44,6 +44,16 @@ Pub. L. 111–84, div. A, title XVIII, §1801, Oct. 28, 2009, 123 Stat. 2574, pr
 
 Pub. L. 109–366, §1(a), Oct. 17, 2006, 120 Stat. 2600, provided that: "This Act [see Tables for classification] may be cited as the 'Military Commissions Act of 2006'."
 
+#### Prohibition on Enforcement of Military Commission Rulings Preventing Members of the Armed Forces From Carrying out Otherwise Lawful Duties Based on Member Sex ####
+
+Pub. L. 114–328, div. A, title X, §1056, Dec. 23, 2016, 130 Stat. 2400, provided that:
+
+"(a) Prohibition.—No order, ruling, finding, or other determination of a military commission may be construed or implemented to prohibit or restrict a member of the Armed Forces from carrying out duties otherwise lawfully assigned to such member to the extent that the basis for such prohibition or restriction is the sex of such member.
+
+"(b) Applicability to Prior Orders, etc..—The prohibition or restriction described in subsection (a) shall, upon motion, apply to any order, ruling, finding, or other determination described in that subsection that was issued before the date of the enactment of this Act [Dec. 23, 2016] in a military commission and is still effective as of the date of such motion.
+
+"(c) Military Commission Defined.—In this section, the term 'military commission' means a military commission established under chapter 47A of title 10, United States Code, and any military commission otherwise established or convened by law."
+
 #### Proceedings Under Prior Statute ####
 
 Pub. L. 111–84, div. A, title XVIII, §1804, Oct. 28, 2009, 123 Stat. 2612, provided that:
@@ -95,6 +105,8 @@ Pub. L. 111–84, div. A, title XVIII, §1806, Oct. 28, 2009, 123 Stat. 2614, pr
 "(a) Annual Reports Required.—Not later than January 31 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on any trials conducted by military commissions under chapter 47A of title 10, United States Code (as amended by section 1802), during the preceding year.
 
 "(b) Form.—Each report under this section shall be submitted in unclassified form, but may include a classified annex."
+
+[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1806 of Pub. L. 111–84, set out above, see section 1061 of Pub. L. 114–328, set out as a note under section 111 of this title.]
 
 #### Construction of Presidential Authority To Establish Military Commissions ####
 

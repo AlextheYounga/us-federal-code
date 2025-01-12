@@ -60,13 +60,13 @@ In selecting States for the evaluation conducted under this subsection, the Secr
 
 #### (3) Matters included ####
 
-In addition to the elements described in subsection (b)(1) of this section, the evaluation conducted under this subsection shall include each of the following:
+In addition to the elements described in subsection (b)(1), the evaluation conducted under this subsection shall include each of the following:
 
 (A) Surveys of the target population (enrollees, disenrollees, and individuals eligible for but not enrolled in the program under this subchapter).
 
-(B) Evaluation of effective and ineffective outreach and enrollment practices with respect to children (for both the program under this subchapter and the medicaid program under subchapter XIX of this chapter), and identification of enrollment barriers and key elements of effective outreach and enrollment practices, including practices (such as through community health workers and others) that have successfully enrolled hard-to-reach populations such as children who are eligible for medical assistance under subchapter XIX of this chapter but have not been enrolled previously in the medicaid program under that subchapter.
+(B) Evaluation of effective and ineffective outreach and enrollment practices with respect to children (for both the program under this subchapter and the medicaid program under subchapter XIX), and identification of enrollment barriers and key elements of effective outreach and enrollment practices, including practices (such as through community health workers and others) that have successfully enrolled hard-to-reach populations such as children who are eligible for medical assistance under subchapter XIX but have not been enrolled previously in the medicaid program under that subchapter.
 
-(C) Evaluation of the extent to which State medicaid eligibility practices and procedures under the medicaid program under subchapter XIX of this chapter are a barrier to the enrollment of children under that program, and the extent to which coordination (or lack of coordination) between that program and the program under this subchapter affects the enrollment of children under both programs.
+(C) Evaluation of the extent to which State medicaid eligibility practices and procedures under the medicaid program under subchapter XIX are a barrier to the enrollment of children under that program, and the extent to which coordination (or lack of coordination) between that program and the program under this subchapter affects the enrollment of children under both programs.
 
 (D) An assessment of the effect of cost-sharing on utilization, enrollment, and coverage retention.
 

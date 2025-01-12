@@ -34,39 +34,7 @@ Provisions similar to those in this section were contained in Pub. L. 101–510,
 
 #### Prohibition on Conversion of Military Medical and Dental Positions to Civilian Medical and Dental Positions ####
 
-Pub. L. 110–181, div. A, title VII, §721(a)–(d), Jan. 28, 2008, 122 Stat. 198, 199, as amended by Pub. L. 111–84, div. A, title VII, §701, Oct. 28, 2009, 123 Stat. 2372, provided that:
-
-"(a) Prohibition.—The Secretary of a military department may not convert any military medical or dental position to a civilian medical or dental position on or after October 1, 2007.
-
-"(b) Restoration of Certain Positions to Military Positions.—In the case of any military medical or dental position that is converted to a civilian medical or dental position during the period beginning on October 1, 2004, and ending on September 30, 2008, if the position is not filled by a civilian by September 30, 2008, the Secretary of the military department concerned shall restore the position to a military medical or dental position that can be filled only by a member of the Armed Forces who is a health professional.
-
-"(c) Report.—
-
-"(1) Requirement.—The Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on conversions made during fiscal year 2007 not later than 180 days after the enactment of this Act [Jan. 28, 2008].
-
-"(2) Matters covered.—The report shall include the following:
-
-"(A) The number of military medical or dental positions, by grade or band and specialty, converted to civilian medical or dental positions.
-
-"(B) The results of a market survey in each affected area of the availability of civilian medical and dental care providers in such area in order to determine whether there were civilian medical and dental care providers available in such area adequate to fill the civilian positions created by the conversion of military medical and dental positions to civilian positions in such area.
-
-"(C) An analysis, by affected area, showing the extent to which access to health care and cost of health care was affected in both the direct care and purchased care systems, including an assessment of the effect of any increased shifts in patient load from the direct care to the purchased care system, or any delays in receipt of care in either the direct or purchased care system because of the conversions.
-
-"(D) The extent to which military medical and dental positions converted to civilian medical or dental positions affected recruiting and retention of uniformed medical and dental personnel.
-
-"(E) A comparison of the full costs for the military medical and dental positions converted with the full costs for civilian medical and dental positions, including expenses such as recruiting, salary, benefits, training, and any other costs the Department identifies.
-
-"(F) An assessment showing that the military medical or dental positions converted were in excess of the military medical and dental positions needed to meet medical and dental readiness requirements of the uniformed services, as determined jointly by all the uniformed services.
-
-"(d) Definitions.—In this section:
-
-"(1) The term 'military medical or dental position' means a position for the performance of health care functions within the Armed Forces held by a member of the Armed Forces.
-
-"(2) The term 'civilian medical or dental position' means a position for the performance of health care functions within the Department of Defense held by an employee of the Department or of a contractor of the Department.
-
-"(3) The term 'uniformed services' has the meaning given that term in section 1072(1) of title 10, United States Code.
-
-"(4) The term 'conversion', with respect to a military medical or dental position, means a change of the position to a civilian medical or dental position, effective as of the date of the manning authorization document of the military department making the change (through a change in designation from military to civilian in the document, the elimination of the listing of the position as a military position in the document, or through any other means indicating the change in the document or otherwise)."
+Pub. L. 110–181, div. A, title VII, §721(a)–(d), Jan. 28, 2008, 122 Stat. 198, 199, as amended by Pub. L. 111–84, div. A, title VII, §701, Oct. 28, 2009, 123 Stat. 2372, prohibited the Secretary of a military department from converting any military medical or dental position to a civilian medical or dental position on or after Oct. 1, 2007, and required restoration of certain converted positions to military positions, prior to repeal by Pub. L. 114–328, div. A, title VII, §721(c), Dec. 23, 2016, 130 Stat. 2228.
 
 #### Requirement To Certify and Report on Conversion of Military Medical and Dental Positions to Civilian Medical and Dental Positions ####
 

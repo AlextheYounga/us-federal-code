@@ -1,14 +1,16 @@
 ### §481a. Travel and transportation allowances: travel performed in connection with convalescent leave ###
 
-(a) Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service is entitled to travel and transportation allowances for travel from his place of medical treatment in the continental United States to a place selected by him and approved by the Secretary concerned, and return, when the Secretary concerned determines that the member is traveling in connection with authorized leave for convalescence from illness or injury incurred while the member was eligible for the receipt of hostile fire pay under section 310 of this title.
+(a) Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service is entitled to travel and transportation allowances for travel from his place of medical treatment in the continental United States to a place selected by him and approved by the Secretary concerned, and return, when the Secretary concerned determines that the member is traveling in connection with authorized leave for convalescence from illness or injury incurred while the member was eligible for the receipt of hostile fire pay under section 310 or 351 of this title.
 
 (b) The allowances prescribed under this section may not be at rates more than the rates authorized under section 474(d)(1) of this title. Authorized travel under this section is performed in a duty status.
 
 (c) No travel and transportation allowance may be provided under this section for travel that is authorized after the travel authorities transition expiration date.
 
-(Added Pub. L. 90–207, §9(1), Dec. 16, 1967, 81 Stat. 655, §411a; renumbered §481a and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(15), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Added Pub. L. 90–207, §9(1), Dec. 16, 1967, 81 Stat. 655, §411a; renumbered §481a and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(15), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1463, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 114–328, div. A, title VI, §618(h)(3), Dec. 23, 2016, 130 Stat. 2161.)
 
 #### Amendments ####
+
+**2016**—Subsec. (a). Pub. L. 114–328 inserted "or 351" after "section 310".
 
 **2013**—Subsec. (b). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 

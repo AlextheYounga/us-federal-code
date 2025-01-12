@@ -32,11 +32,7 @@ Sec.
 
 4343. Cadets: appointment; to bring Corps to full strength.
 
-4344. Selection of persons from foreign countries.
-
-4345. Exchange program with foreign military academies.
-
-4345a. Foreign and cultural exchange activities.
+[4344 to 4345a. Repealed.]
 
 4346. Cadets: requirements for admission.
 
@@ -73,6 +69,8 @@ Sec.
 4362. Support of athletic programs.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title XII, §1248(b)(2)(A), Dec. 23, 2016, 130 Stat. 2525, struck out items 4344 "Selection of persons from foreign countries", 4345 "Exchange program with foreign military academies", and 4345a "Foreign and cultural exchange activities".
 
 **2015**—Pub. L. 114–92, div. A, title V, §557(b), Nov. 25, 2015, 129 Stat. 827, added item 4362.
 

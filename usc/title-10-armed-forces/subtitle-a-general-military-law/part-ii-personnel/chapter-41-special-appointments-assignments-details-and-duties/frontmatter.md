@@ -20,13 +20,15 @@ Sec.
 
 719. Department of Commerce: assignment or detail of members of the armed forces to National Oceanic and Atmospheric Administration.
 
-720. Chief of Staff to President: appointment.
+[720 to 722. Repealed.]
 
-[721. Repealed.]
-
-722. Attending Physician to the Congress: grade.
+714. Senior leaders of the Department of Defense and other specified persons: authority to provide protection within the United States. 1
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title IX, §952(c)(2), Dec. 23, 2016, 130 Stat. 2375, added item 714 at end.
+
+Pub. L. 114–328, div. A, title V, §502(g)(2), (h)(2), Dec. 23, 2016, 130 Stat. 2103, struck out items 720 "Chief of Staff to President: appointment" and 722 "Attending Physician to the Congress: grade".
 
 **2009**—Pub. L. 111–84, div. A, title V, §502(i)(2), Oct. 28, 2009, 123 Stat. 2277, struck out item 721 "General and flag officers: limitation on appointments, assignments, details, and duties outside an officer's own service".
 
@@ -85,3 +87,5 @@ Pub. L. 109–364, div. A, title XI, §1104, Oct. 17, 2006, 120 Stat. 2409, as a
 "(1) A detail under the provisions of Department of Defense Directive 1000.17.
 
 "(2) A legislative fellowship (including a legislative fellowship under the provisions of Department of Defense Directive 1322.6)."
+
+[<sup>1</sup> See 2016 Amendment note below.](#CHAPTER41_1)

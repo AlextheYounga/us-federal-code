@@ -58,7 +58,7 @@ Sec.
 
 2224a. Information security: continued applicability of expiring Governmentwide requirements to the Department of Defense.
 
-2225. Information technology purchases: tracking and management.
+[2225. Repealed.]
 
 2226. Contracted property and services: prompt payment of vouchers.
 
@@ -72,7 +72,11 @@ Sec.
 
 #### Amendments ####
 
-**2015**—Pub. L. 114–92, div. A, title VIII, §883(a)(2), Nov. 25, 2015, 129 Stat. 947, which directed amendment of the analysis for "such chapter" by striking item 2222 and adding a new item 2222, was executed to the analysis for this chapter by adding item 2222 and striking out former item 2222 "Defense business systems: architecture, accountability, and modernization", to reflect the probable intent of Congress.
+**2016**—Pub. L. 114–328, div. A, title X, §1081(c)(4), Dec. 23, 2016, 130 Stat. 2419, made technical correction to directory language of Pub. L. 114–92, §883(a)(2). See 2015 Amendment note below.
+
+Pub. L. 114–328, div. A, title VIII, §833(b)(2)(B), Dec. 23, 2016, 130 Stat. 2284, struck out item 2225 "Information technology purchases: tracking and management".
+
+**2015**—Pub. L. 114–92, div. A, title VIII, §883(a)(2), Nov. 25, 2015, 129 Stat. 947, as amended by Pub. L. 114–328, div. A, title X, §1081(c)(4), Dec. 23, 2016, 130 Stat. 2419, added item 2222 and struck out former item 2222 "Defense business systems: architecture, accountability, and modernization".
 
 **2014**—Pub. L. 113–291, div. A, title X, §1022(a)(2), Dec. 19, 2014, 128 Stat. 3487, added item 2218a.
 

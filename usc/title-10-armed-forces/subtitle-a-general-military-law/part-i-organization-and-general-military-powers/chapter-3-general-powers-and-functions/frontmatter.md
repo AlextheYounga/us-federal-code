@@ -28,11 +28,13 @@ Sec.
 
 127c. Purchase of weapons overseas: force protection.
 
-127d. Allied forces participating in combined operations: authority to provide logistic support, supplies, and services.
+[127d. Renumbered.]
 
-128. Physical protection of special nuclear material: limitation on dissemination of unclassified information.
+127e. Support of special operations to combat terrorism.
 
-129. Prohibition of certain civilian personnel management constraints.
+128. Control and physical protection of special nuclear material: limitation on dissemination of unclassified information.
+
+129. Civilian personnel management.
 
 129a. General policy for total force management.
 
@@ -54,13 +56,17 @@ Sec.
 
 130e. Treatment under Freedom of Information Act of certain critical infrastructure security information.
 
-130f. Congressional notification of sensitive military operations.
+130f. Notification requirements for sensitive military operations.
 
 130g. Authorities concerning military cyber operations.
 
-130h. Prohibitions on providing certain missile defense information to Russian Federation.
+130h. Prohibitions relating to missile defense information and systems.
+
+130i. Protection of certain facilities and assets from unmanned aircraft.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title X, §1036(f)(2), title XI, §1101(b)(2), title XII, §§1203(a)(2), 1245(b), title XVI, §§1662(a)(3), 1682(a)(2), 1697(b), Dec. 23, 2016, 130 Stat. 2392, 2444, 2476, 2520, 2614, 2624, 2640, added items 127e, 128, 130f, 130h, and 130i, substituted "Civilian personnel management" for "Prohibition of certain civilian personnel management constraints" in item 129, and struck out former items 127d "Allied forces participating in combined operations: authority to provide logistic support, supplies, and services", 128 "Physical protection of special nuclear material: limitation on dissemination of unclassified information", 130f "Congressional notification of sensitive military operations", and 130h "Prohibitions on providing certain missile defense information to Russian Federation".
 
 **2015**—Pub. L. 114–92, div. A, title X, §1042(d)(2), title XVI, §§1642(b), 1671(a)(2), Nov. 25, 2015, 129 Stat. 977, 1116, 1130, added items 130g and 130h and substituted "Department of Defense rewards program" for "Assistance in combating terrorism: rewards" in item 127b.
 

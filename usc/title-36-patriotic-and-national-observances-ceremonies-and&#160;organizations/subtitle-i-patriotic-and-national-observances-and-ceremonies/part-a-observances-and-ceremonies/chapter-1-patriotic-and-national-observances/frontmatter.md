@@ -100,6 +100,72 @@ Sec.
 
 **2001**—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
 
+#### Program to Commemorate the 100th Anniversary of the Tomb of the Unknown Soldier ####
+
+Pub. L. 114–328, div. A, title X, §1093, Dec. 23, 2016, 130 Stat. 2436, provided that:
+
+"(a) Commemorative Program.—
+
+"(1) In general.—The Secretary of Defense shall conduct a program to commemorate the 100th anniversary of the Tomb of the Unknown Soldier. In conducting the commemorative program, the Secretary shall coordinate, support, and facilitate other programs and activities of the Federal Government and State and local governments.
+
+"(2) Work with nongovernmental organizations.—In conducting the commemorative program, the Secretary may work with nongovernmental organizations working to support the commemoration of the Tomb of the Unknown Soldier. No public funds may be used to undertake activities sponsored by such organizations.
+
+"(b) Schedule.—The Secretary shall determine the schedule of major events and priority of efforts for the commemorative program in order to ensure achievement of the objectives specified in subsection (c).
+
+"(c) Commemorative Activities and Objectives.—The commemorative program may include activities and ceremonies to achieve the following objectives:
+
+"(1) To honor America's commitment to never forget or forsake those who served and sacrificed for our Country, including personnel who were held as prisoners of war or listed as missing in action, and to thank and honor the families of these veterans.
+
+"(2) To highlight the service of the Armed Forces in times of war or armed conflict and contributions of Federal agencies and governmental and nongovernmental organizations that served with, or in support of, the Armed Forces.
+
+"(3) To pay tribute to the contributions made on the home front by the people of the United States in times of war or armed conflict.
+
+"(4) To educate the American Public about service and sacrifice on behalf of the United States of America and the principles that define and unite us.
+
+"(5) To recognize the contributions and sacrifices made by the allies of the United States during times of war or armed conflict.
+
+"(d) Names and Symbols.—The Secretary shall have the sole and exclusive right to use the name 'The United States of America Tomb of the Unknown Soldier Commemoration', and such seal, emblems, and badges incorporating such name as the Secretary may lawfully adopt. Nothing in this section may be construed to supersede rights that are established or vested before the date of the enactment of this Act [Dec. 23, 2016].
+
+"(e) Commemoration Fund.—
+
+"(1) In general.—Upon the establishment of the commemorative program under subsection (a), the Secretary of the Treasury shall establish in the Treasury of the United States an account to be known as the 'Tomb of the Unknown Soldier Commemoration Fund' (in this subsection referred to as the 'Fund'). The Fund shall be administered by the Secretary of Defense.
+
+"(2) Deposits.—There shall be deposited into the Fund the following:
+
+"(A) Amounts appropriated to the Fund.
+
+"(B) Proceeds derived from the use by the Secretary of Defense of the exclusive rights described in subsection (d).
+
+"(C) Donations made in support of the commemorative program by private and corporate donors.
+
+"(D) Funds transferred to the Fund by the Secretary of Defense from funds appropriated for fiscal year 2017 and subsequent years for the Department of Defense.
+
+"(3) Use of fund.—The Secretary of Defense shall use the assets of the Fund only for the purpose of conducting the commemorative program. The Secretary shall prescribe such regulations regarding the use of the Fund as the Secretary considers appropriate.
+
+"(4) Availability.—Amounts deposited under paragraph (2) shall constitute the assets of the Fund and remain available until expended.
+
+"(5) Budget request.—The Secretary of Defense may establish a separate budget line for the commemorative program. In the budget justification materials submitted by the Secretary in support of the budget of the President for any fiscal year for which the Secretary establishes the separate budget line (as submitted to Congress pursuant to section 1105 of title 31, United States Code), the Secretary shall—
+
+"(A) identify and explain any amounts expended for the commemorative program in the fiscal year preceding the budget request;
+
+"(B) identify and explain the amounts being requested to support the commemorative program for the fiscal year of the budget request; and
+
+"(C) present a summary of the fiscal status of the Fund.
+
+"(f) Acceptance of Voluntary Services.—
+
+"(1) Authority to accept services.—Notwithstanding section 1342 of title 31, United States Code, the Secretary of Defense may accept from any person voluntary services to be provided in furtherance of the commemorative program. The Secretary shall prohibit the solicitation of any voluntary services if the nature or circumstances of such solicitation would compromise the integrity or the appearance of integrity of any program of the Department of Defense or of any individual involved in the program.
+
+"(2) Reimbursement of incidental expenses.—The Secretary may provide for reimbursement of incidental expenses incurred by a person providing voluntary services under this subsection. The Secretary shall determine which expenses are eligible for reimbursement under this paragraph.
+
+"(g) Final Report.—Not later than 60 days after the end of the commemorative program, if established by the Secretary of Defense under subsection (a), the Secretary shall submit to Congress a report containing an accounting of the following:
+
+"(1) All of the funds deposited into and expended from the Tomb of the Unknown Soldier Commemoration Fund.
+
+"(2) Any other funds expended under this section.
+
+"(3) Any unobligated funds remaining in the Fund."
+
 #### John F. Kennedy Centennial Commission ####
 
 Pub. L. 114–215, July 29, 2016, 130 Stat. 830, provided that:

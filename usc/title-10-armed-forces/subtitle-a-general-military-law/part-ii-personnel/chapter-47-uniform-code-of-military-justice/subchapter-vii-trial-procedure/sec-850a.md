@@ -26,7 +26,19 @@
 
 (2) in the case of a court-martial composed of a military judge only, the military judge determines that the defense of lack of mental responsibility has been established.
 
-(Added Pub. L. 99–661, div. A, title VIII, §802(a)(1), Nov. 14, 1986, 100 Stat. 3905.)
+(Added Pub. L. 99–661, div. A, title VIII, §802(a)(1), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 114–328, div. E, title LVII, §5233, Dec. 23, 2016, 130 Stat. 2915.)
+
+#### Amendment of Subsection (c) ####
+
+Pub. L. 114–328, Dec. 23, 2016, div. E, title LVII, §5233, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2915, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (c) is amended by striking ", or the president of a court-martial without a military judge,". See 2016 Amendment note below.
+
+#### Amendments ####
+
+**2016**—Subsec. (c). Pub. L. 114–328, in introductory provisions, struck out ", or the president of a court-martial without a military judge,' after "the military judge".
+
+#### Effective Date of 2016 Amendment ####
+
+Amendment by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of this title.
 
 #### Effective Date ####
 

@@ -32,7 +32,7 @@ Pub. L. 113–291, div. A, title IX, §901(j)(2), Dec. 19, 2014, 128 Stat. 3467,
 
 Subsec. (b). Pub. L. 113–291, §901(k)(3), substituted "dies, resigns, or is otherwise unable to perform the functions and duties of the office" for "is absent or disabled".
 
-Subsec. (d). Pub. L. 113–291, §901(j)(2)(C), substituted "and the Under Secretaries of Defense." for "the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense."
+Subsec. (d). Pub. L. 113–291, §901(j)(2)(C), which directed substitution of "and the Under Secretaries of Defense." for "the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense.", effective Feb. 1, 2017, was not executed to reflect the probable intent of Congress. Section 901(a)(1) of Pub. L. 113–291, which revised section 132a of this title relating to the Deputy Chief Management Officer, effective Feb. 1, 2017, was repealed by Pub. L. 114–328, effective Dec. 23, 2016.
 
 **2011**—Pub. L. 111–383, §901(k)(1)(A), substituted "Principal Deputy Under Secretaries of Defense" for "Deputy Under Secretaries of Defense" in section catchline.
 
@@ -58,7 +58,7 @@ Subsec. (d). Pub. L. 111–383, §901(b)(3)(A), (D), substituted "Principal Depu
 
 Pub. L. 113–291, div. A, title IX, §901(i)(1), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment made by section 901(i)(1) is effective Jan. 1, 2015.
 
-Pub. L. 113–291, div. A, title IX, §901(j)(2), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment made by section 901(j)(2)(C) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which is Feb. 1, 2017.
+Pub. L. 113–291, div. A, title IX, §901(j)(2), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment made by section 901(j)(2)(C) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, prior to repeal by Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342.
 
 #### Effective Date of 2011 Amendment ####
 

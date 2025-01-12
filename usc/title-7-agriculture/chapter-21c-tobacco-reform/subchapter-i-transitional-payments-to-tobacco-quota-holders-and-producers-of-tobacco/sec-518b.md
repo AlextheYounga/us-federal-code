@@ -68,6 +68,10 @@ Sections 611 and 612, referred to in subsec. (a), are sections 611 and 612 of Pu
 
 Part I of subtitle B of title III of the Agricultural Adjustment Act of 1938, referred to in subsec. (c)(2), was classified to subpart I (§1311 et seq.) of part B of subchapter II of chapter 35 of this title prior to repeal by Pub. L. 108–357, title VI, §611(a), Oct. 22, 2004, 118 Stat. 1522. For complete classification of this Act to the Code, see section 1281 of this title and Tables.
 
+#### Effective Date ####
+
+Section applicable to the 2005 and subsequent crops of tobacco, see section 643 of Pub. L. 108–357, set out as a note under section 518 of this title.
+
 [<sup>1</sup> See References in Text note below.](#518b_1)
 
 [<sup>2</sup> So in original. Probably should be "Agricultural".](#518b_2)

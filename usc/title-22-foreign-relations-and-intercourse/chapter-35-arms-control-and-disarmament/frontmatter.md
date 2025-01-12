@@ -54,6 +54,8 @@ Sec.
 
 2593c, 2593d. Repealed.
 
+2593e. Measures against persons involved in activities that violate arms control treaties or agreements with the United States.
+
 #### SUBCHAPTER V—ON-SITE INSPECTION ACTIVITIES ####
 
 2595. Findings.

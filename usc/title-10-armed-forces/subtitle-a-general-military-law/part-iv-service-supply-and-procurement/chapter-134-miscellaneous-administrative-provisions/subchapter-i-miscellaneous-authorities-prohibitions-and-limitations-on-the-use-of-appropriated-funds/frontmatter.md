@@ -18,23 +18,19 @@ Sec.
 
 2245. Use of aircraft for proficiency flying: limitation.
 
-2245a. Use of operation and maintenance funds for purchase of investment items: limitation.
-
-[2246 to 2248. Renumbered or Repealed.]
+[2245a, 2246 to 2248. Renumbered or Repealed.]
 
 2249. Prohibition on use of funds for documenting economic or employment impact of certain acquisition programs.
 
-2249a. Prohibition on providing financial assistance to terrorist countries.
+[2249a. Renumbered.]
 
 2249b. Display of State, District of Columbia, commonwealth, and territorial flags by the armed forces.
 
-2249c. Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials.
-
-2249d. Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces.
-
-2249e. Prohibition on use of funds for assistance to units of foreign security forces that have committed a gross violation of human rights.
+[2249c to 2249e. Renumbered.]
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title VIII, §833(b)(1)(B), title XII, §§1241(o)(6), 1247(d), Dec. 23, 2016, 130 Stat. 2284, 2512, 2522, struck out items 2245a "Use of operation and maintenance funds for purchase of investment items: limitation", 2249a "Prohibition on providing financial assistance to terrorist countries", 2249c "Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials", 2249d "Distribution to certain foreign personnel of education and training materials and information technology to enhance military interoperability with the armed forces", and 2249e "Prohibition on use of funds for assistance to units of foreign security forces that have committed a gross violation of human rights".
 
 **2015**—Pub. L. 114–92, div. A, title III, §341(b), title V, §573(b)(2), Nov. 25, 2015, 129 Stat. 793, 831, added item 2241b and substituted "Authority to use appropriated funds to support student meal programs in overseas defense dependents' schools" for "Authority to use appropriated funds to support student meal programs in overseas dependents' schools" in item 2243.
 

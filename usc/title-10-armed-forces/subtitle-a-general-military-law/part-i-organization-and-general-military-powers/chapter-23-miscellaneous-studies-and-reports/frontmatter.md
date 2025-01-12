@@ -14,15 +14,17 @@ Sec.
 
 484. Quarterly cyber operations briefings.
 
-485. Quarterly counterterrorism operations briefings.
+485. Monthly counterterrorism operations briefings.
 
 [486, 487. Repealed.]
 
-488. Management of electromagnetic spectrum.
+488. Management and review of electromagnetic spectrum.
 
 [489 to 491. Repealed or Renumbered.]
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title X, §§1031(c), 1065(a)(2), Dec. 23, 2016, 130 Stat. 2389, 2410, substituted "Monthly counterterrorism operations briefings" for "Quarterly counterterrorism operations briefings" in item 485 and "Management and review of electromagnetic spectrum" for "Management of electromagnetic spectrum" in item 488.
 
 **2014**—Pub. L. 113–291, div. A, title III, §331(b), title X, §1073(a)(2), Dec. 19, 2014, 128 Stat. 3344, 3518, added item 481a and struck out item 489 "Annual report on Department of Defense operation and financial support for military museums".
 

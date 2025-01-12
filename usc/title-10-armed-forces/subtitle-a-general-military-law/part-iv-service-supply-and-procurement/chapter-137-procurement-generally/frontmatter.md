@@ -10,7 +10,7 @@ Sec.
 
 2302b. Implementation of simplified acquisition procedures.
 
-2302c. Implementation of electronic commerce capability.
+[2302c. Repealed.]
 
 2302d. Major system: definitional threshold amounts.
 
@@ -110,7 +110,13 @@ Sec.
 
 2337. Life-cycle management and product support.
 
+2338. Micro-purchase threshold.
+
+2339. Micro-purchase threshold for basic research programs and activities of the Department of Defense science and technology reinvention laboratories.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title II, §217(a)(2), title VIII, §§821(b), 833(b)(5)(B), Dec. 23, 2016, 130 Stat. 2051, 2276, 2285, added items 2338 and 2339 and struck out item 2302c "Implementation of electronic commerce capability".
 
 **2014**—Pub. L. 113–291, div. A, title III, §351(c)(1), Dec. 19, 2014, 128 Stat. 3347, struck out item 2336 "Intergovernmental support agreements with State and local governments".
 

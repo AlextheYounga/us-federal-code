@@ -16,11 +16,7 @@ Sec.
 
 6956. Midshipmen: nomination and selection to fill vacancies.
 
-6957. Selection of persons from foreign countries.
-
-6957a. Exchange program with foreign military academies.
-
-6957b. Foreign and cultural exchange activities.
+[6957 to 6957b. Repealed.]
 
 6958. Midshipmen: qualifications for admission.
 
@@ -73,6 +69,8 @@ Sec.
 6981. Support of athletic and physical fitness programs.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title XII, §1248(b)(2)(B), Dec. 23, 2016, 130 Stat. 2525, struck out items 6957 "Selection of persons from foreign countries", 6957a "Exchange program with foreign military academies", and 6957b "Foreign and cultural exchange activities".
 
 **2013**—Pub. L. 112–239, div. A, title V, §542(b), Jan. 2, 2013, 126 Stat. 1737, added item 6981.
 

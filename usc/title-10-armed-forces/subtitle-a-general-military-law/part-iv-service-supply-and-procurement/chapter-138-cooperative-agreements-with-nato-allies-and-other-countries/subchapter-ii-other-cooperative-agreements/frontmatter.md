@@ -26,9 +26,11 @@ Sec.
 
 2350 l. Cooperative agreements for reciprocal use of test facilities: foreign countries and international organizations.
 
-2350m. Participation in multinational military centers of excellence.
+[2350m. Renumbered.]
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title XII, §1241(o)(7), Dec. 23, 2016, 130 Stat. 2512, struck out item 2350m "Participation in multinational military centers of excellence".
 
 **2008**—Pub. L. 110–417, [div. A], title XII, §1232(a)(2), Oct. 14, 2008, 122 Stat. 4639, added item 2350m.
 

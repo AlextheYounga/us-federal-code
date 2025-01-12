@@ -18,7 +18,7 @@ Sec.
 
 2433a. Critical cost growth in major defense acquisition programs.
 
-2434. Independent cost estimates.
+[2434. Repealed.]
 
 2435. Baseline description.
 
@@ -32,7 +32,11 @@ Sec.
 
 2440. Technology and industrial base plans.
 
+2441. Sustainment reviews.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title VIII, §§842(c)(2), 849(c)(2), Dec. 23, 2016, 130 Stat. 2290, 2294, struck out item 2434 "Independent cost estimates" and added item 2441.
 
 **2015**—Pub. L. 114–92, div. A, title VIII, §§821(a)(2), 822(a)(2), 831(c)(2), Nov. 25, 2015, 129 Stat. 900, 901, 912, added items 2431a and 2431b and substituted "Independent cost estimates" for "Independent cost estimates; operational manpower requirements" in item 2434.
 

@@ -10,7 +10,7 @@ Sec.
 
 8067. Designation: officers to perform certain professional functions.
 
-8069. Air Force nurses: Chief and assistant chief; appointment; grade.
+8069. Air Force nurses: Chief; appointment.
 
 [8071. Repealed.]
 
@@ -27,6 +27,8 @@ Sec.
 8084. Officer career field for space.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title V, §502(nn)(3), Dec. 23, 2016, 130 Stat. 2106, substituted "Air Force nurses: Chief; appointment" for "Air Force nurses: Chief and assistant chief; appointment; grade" in item 8069.
 
 **2001**—Pub. L. 107–107, div. A, title IX, §912(b), Dec. 28, 2001, 115 Stat. 1196, added item 8084.
 

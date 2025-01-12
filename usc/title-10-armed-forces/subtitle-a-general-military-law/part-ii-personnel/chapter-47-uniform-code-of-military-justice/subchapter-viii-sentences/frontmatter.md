@@ -11,7 +11,19 @@
 |858a.|58a.|     Sentences: reduction in enlisted grade upon approval.      |
 |858b.|58b.|Sentences: forfeiture of pay and allowances during confinement. |
 
+#### Amendment of Analysis ####
+
+Pub. L. 114–328, div. E, title LXIII, §§5541(5), 5542, Dec. 23, 2016, 130 Stat. 2966, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking items 856, 856a, and 857a and inserting the following new item:
+
+|Sec.|Art.|           |
+|----|----|-----------|
+|856.|56. |Sentencing.|
+
+See 2016 Amendment note below.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. E, title LXIII, §5541(5), Dec. 23, 2016, 130 Stat. 2966, substituted "Sentencing" for "Maximum and minimum limits" in item 856 and struck out items 856a "Art. 56a. Sentence of confinement for life without eligibility for parole" and 857a "Art. 57a. Deferment of sentences".
 
 **2013**—Pub. L. 113–66, div. A, title XVII, §1705(a)(2)(B), Dec. 26, 2013, 127 Stat. 959, substituted "Maximum and minimum limits" for "Maximum limits" in item 856.
 

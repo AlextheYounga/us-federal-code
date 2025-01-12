@@ -2,7 +2,7 @@
 
 (a)(1) The Secretary of Defense may authorize the Secretary of a military department to take any of the actions set forth in subsection (b) with respect to officers of an armed force under the jurisdiction of that Secretary.
 
-(2) Any authority provided to the Secretary of a military department under paragraph (1) shall expire on the date specified by the Secretary of Defense, but such expiration date may not be later than December 31, 2018.
+(2) Any authority provided to the Secretary of a military department under paragraph (1) shall expire on the date specified by the Secretary of Defense, but such expiration date may not be later than December 31, 2025.
 
 (b) Actions which the Secretary of a military department may take with respect to officers of an armed force when authorized to do so under subsection (a) are the following:
 
@@ -23,6 +23,12 @@
 (B) whose names are not on a list of officers recommended for promotion; and
 
 (C) who are not eligible to be retired under any provision of law (other than by reason of eligibility pursuant to section 4403 of the National Defense Authorization Act for Fiscal Year 1993) and are not within two years of becoming so eligible.
+
+(4) Convening selection boards under section 611(b) of this title to consider for early retirement or discharge regular officers on the active-duty list in a grade below lieutenant colonel or commander—
+
+(A) who have served at least one year of active duty in the grade currently held; and
+
+(B) whose names are not on a list of officers recommended for promotion.
 
 (c)(1) In the case of an action under subsection (b)(2), the Secretary of the military department concerned shall specify the number of officers described in that subsection which a selection board convened under section 611(b) of this title pursuant to the authority of that subsection may recommend for early retirement. Such number may not be more than 30 percent of the number of officers considered in each grade in each competitive category.
 
@@ -48,15 +54,35 @@
 
 (4) Selection of officers for discharge under this subsection shall be based on the needs of the service.
 
-(e) The discharge or retirement of an officer pursuant to this section shall be considered to be involuntary for purposes of any other provision of law.
+(e)(1) In the case of action under subsection (b)(4), the Secretary of the military department concerned shall specify the total number of officers described in that subsection that a selection board convened under section 611(b) of this title pursuant to the authority of that subsection may recommend for early retirement or discharge. Officers who are eligible, or are within two years of becoming eligible, to be retired under any provision of law (other than by reason of eligibility pursuant to section 4403 of the National Defense Authorization Act for Fiscal Year 1993 (Public Law 102–484)), if selected by the board, shall be retired or retained until becoming eligible to retire under section 3911, 6323, or 8911 of this title, and those officers who are otherwise ineligible to retire under any provision of law shall, if selected by the board, be discharged.
 
-(Added Pub. L. 101–510, div. A, title V, §521(a)(1), Nov. 5, 1990, 104 Stat. 1559; amended Pub. L. 102–190, div. A, title V, §503(b), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 102–484, div. A, title V, §503, title LXIV, §4403(g)(2), Oct. 23, 1992, 106 Stat. 2402, 2703; Pub. L. 103–160, div. A, title V, §561(b), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(c), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 [[div. A], title V, §571(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 109–364, div. A, title VI, §623(b), Oct. 17, 2006, 120 Stat. 2256; Pub. L. 112–239, div. A, title V, §502, Jan. 2, 2013, 126 Stat. 1714; Pub. L. 113–66, div. A, title V, §503(a), Dec. 26, 2013, 127 Stat. 750; Pub. L. 113–291, div. A, title V, §503, Dec. 19, 2014, 128 Stat. 3355; Pub. L. 114–92, div. A, title V, §503, Nov. 25, 2015, 129 Stat. 807.)
+(2) In the case of action under subsection (b)(4), the Secretary of the military department concerned may submit to a selection board convened pursuant to that subsection—
+
+(A) the names of all eligible officers described in that subsection, whether or not they are eligible to be retired under any provision of law, in a particular grade and competitive category; or
+
+(B) the names of all eligible officers described in that subsection in a particular grade and competitive category, whether or not they are eligible to be retired under any provision of law, who are also in particular year groups, specialties, or retirement categories, or any combination thereof, with that competitive category.
+
+(3) The number of officers specified under paragraph (1) may not be more than 30 percent of the number of officers considered.
+
+(4) An officer who is recommended for discharge by a selection board convened pursuant to the authority of subsection (b)(4) and whose discharge is approved by the Secretary concerned shall be discharged on a date specified by the Secretary concerned.
+
+(5) Selection of officers for discharge under this subsection shall be based on the needs of the service.
+
+(f) The discharge or retirement of an officer pursuant to this section shall be considered to be involuntary for purposes of any other provision of law.
+
+(Added Pub. L. 101–510, div. A, title V, §521(a)(1), Nov. 5, 1990, 104 Stat. 1559; amended Pub. L. 102–190, div. A, title V, §503(b), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 102–484, div. A, title V, §503, title LXIV, §4403(g)(2), Oct. 23, 1992, 106 Stat. 2402, 2703; Pub. L. 103–160, div. A, title V, §561(b), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(c), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 [[div. A], title V, §571(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 109–364, div. A, title VI, §623(b), Oct. 17, 2006, 120 Stat. 2256; Pub. L. 112–239, div. A, title V, §502, Jan. 2, 2013, 126 Stat. 1714; Pub. L. 113–66, div. A, title V, §503(a), Dec. 26, 2013, 127 Stat. 750; Pub. L. 113–291, div. A, title V, §503, Dec. 19, 2014, 128 Stat. 3355; Pub. L. 114–92, div. A, title V, §503, Nov. 25, 2015, 129 Stat. 807; Pub. L. 114–328, div. A, title V, §§506, 508(b), Dec. 23, 2016, 130 Stat. 2108, 2109.)
 
 #### References in Text ####
 
-Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsec. (b)(3)(C), is section 4403 of Pub. L. 102–484, which is set out as a note under section 1293 of this title.
+Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsecs. (b)(3)(C) and (e)(1), is section 4403 of Pub. L. 102–484, which is set out as a note under section 1293 of this title.
 
 #### Amendments ####
+
+**2016**—Subsec. (a)(2). Pub. L. 114–328, §508(b), substituted "December 31, 2025" for "December 31, 2018".
+
+Subsec. (b)(4). Pub. L. 114–328, §506(1), added par. (4).
+
+Subsecs. (e), (f). Pub. L. 114–328, §506(2), (3), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 **2015**—Subsec. (d)(2). Pub. L. 114–92 substituted "officers considered." for "officers considered—
 

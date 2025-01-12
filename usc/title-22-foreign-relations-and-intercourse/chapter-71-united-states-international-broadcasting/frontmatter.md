@@ -6,19 +6,23 @@ Sec.
 
 6202. Standards and principles.
 
-6203. Establishment of Broadcasting Board of Governors.
+6203. Establishment of the Chief Executive Officer of the Broadcasting Board of Governors.
 
 6204. Authorities of Board.
 
-6205. Role of Secretary of State.
+6205. Establishment of the International Broadcasting Advisory Board.
 
-6206. International Broadcasting Bureau.
+6206. Repealed.
 
 6207. Limits on grants for Radio Free Europe and Radio Liberty.
 
 6208. Radio Free Asia.
 
-6209. Repealed.
+6209. Broadcast entities reporting to Chief Executive Officer.
+
+6209a. Inspector General authorities.
+
+6209b. Role of the Secretary of State in foreign policy guidance.
 
 6210. Preservation of American jobs.
 

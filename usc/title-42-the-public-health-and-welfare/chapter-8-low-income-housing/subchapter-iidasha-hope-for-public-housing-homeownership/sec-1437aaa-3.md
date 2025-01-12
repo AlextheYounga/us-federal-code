@@ -42,7 +42,7 @@ Property transferred under this subchapter shall not be pledged as collateral fo
 
 (C) any debt obligation can be serviced from project income, including operating assistance; and
 
-(D) the proceeds of such encumbrance will be used only to meet housing standards in accordance with subsection (f) of this section or to make such additional capital improvements as the Secretary determines to be consistent with the purposes of this subchapter.
+(D) the proceeds of such encumbrance will be used only to meet housing standards in accordance with subsection (f) or to make such additional capital improvements as the Secretary determines to be consistent with the purposes of this subchapter.
 
 #### (3) Opportunity to cure ####
 

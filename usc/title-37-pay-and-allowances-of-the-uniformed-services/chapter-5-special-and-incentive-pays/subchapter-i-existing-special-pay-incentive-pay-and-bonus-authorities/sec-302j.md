@@ -1,6 +1,6 @@
 ### §302j. Special pay: accession bonus for pharmacy officers ###
 
-(a) Accession Bonus Authorized.—A person who is a graduate of an accredited pharmacy school and who, during the period beginning on October 30, 2000, and ending on December 31, 2016, executes a written agreement described in subsection (d) to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+(a) Accession Bonus Authorized.—A person who is a graduate of an accredited pharmacy school and who, during the period beginning on October 30, 2000, and ending on December 31, 2017, executes a written agreement described in subsection (d) to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 (b) Limitation on Amount of Bonus.—The amount of an accession bonus under subsection (a) may not exceed $30,000.
 
@@ -14,9 +14,11 @@
 
 (e) Repayment.—A person who, after signing an agreement under subsection (a), is not commissioned as an officer of the armed forces, does not become and remain certified or licensed as a pharmacist, or does not complete the period of active duty specified in the agreement shall be subject to the repayment provisions of section 303a(e) of this title.
 
-(Added Pub. L. 106–398, §1 [[div. A], title VI, §628(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–154; amended Pub. L. 107–314, div. A, title X, §1062(c)(1), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title VI, §612(g), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(g), 687(b)(12), Jan. 6, 2006, 119 Stat. 3294, 3329; Pub. L. 109–364, div. A, title VI, §612(g), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, §612(g), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, [div. A], title VI, §612(g), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(6), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(6), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(6), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §612(b)(6), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §612(b)(6), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, §612(b)(6), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §612(b)(6), Nov. 25, 2015, 129 Stat. 838.)
+(Added Pub. L. 106–398, §1 [[div. A], title VI, §628(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–154; amended Pub. L. 107–314, div. A, title X, §1062(c)(1), Dec. 2, 2002, 116 Stat. 2650; Pub. L. 108–375, div. A, title VI, §612(g), Oct. 28, 2004, 118 Stat. 1947; Pub. L. 109–163, div. A, title VI, §§622(g), 687(b)(12), Jan. 6, 2006, 119 Stat. 3294, 3329; Pub. L. 109–364, div. A, title VI, §612(g), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–181, div. A, title VI, §612(g), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, [div. A], title VI, §612(g), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111–84, div. A, title VI, §612(b)(6), Oct. 28, 2009, 123 Stat. 2353; Pub. L. 111–383, div. A, title VI, §612(b)(6), Jan. 7, 2011, 124 Stat. 4236; Pub. L. 112–81, div. A, title VI, §612(b)(6), Dec. 31, 2011, 125 Stat. 1449; Pub. L. 112–239, div. A, title VI, §612(b)(6), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §612(b)(6), Dec. 26, 2013, 127 Stat. 780; Pub. L. 113–291, div. A, title VI, §612(b)(6), Dec. 19, 2014, 128 Stat. 3400; Pub. L. 114–92, div. A, title VI, §612(b)(6), Nov. 25, 2015, 129 Stat. 838; Pub. L. 114–328, div. A, title VI, §612(b)(6), Dec. 23, 2016, 130 Stat. 2158.)
 
 #### Amendments ####
+
+**2016**—Subsec. (a). Pub. L. 114–328 substituted "December 31, 2017" for "December 31, 2016".
 
 **2015**—Subsec. (a). Pub. L. 114–92 substituted "December 31, 2016" for "December 31, 2015".
 

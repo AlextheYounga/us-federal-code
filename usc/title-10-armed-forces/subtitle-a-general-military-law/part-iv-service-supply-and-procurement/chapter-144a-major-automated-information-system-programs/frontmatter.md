@@ -10,6 +10,10 @@ Sec.
 
 2445d. Construction with other reporting requirements.
 
+#### Repeal of Chapter ####
+
+Pub. L. 114–328, div. A, title VIII, §846, Dec. 23, 2016, 130 Stat. 2292, provided in part that, effective Sept. 30, 2017, this chapter is repealed.
+
 #### Amendments ####
 
 **2008**—Pub. L. 110–417, [div. A], title VIII, §812(a)(3), Oct. 14, 2008, 122 Stat. 4525, added item 2445a and struck out former item 2445a "Major automated information system program defined".

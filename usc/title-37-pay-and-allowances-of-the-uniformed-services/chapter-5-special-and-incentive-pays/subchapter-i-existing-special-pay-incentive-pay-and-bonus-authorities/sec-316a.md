@@ -14,15 +14,17 @@
 
 (e) Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense.
 
-(f) Termination of Authority.—No incentive pay may be paid under this section after December 31, 2016.
+(f) Termination of Authority.—No incentive pay may be paid under this section after December 31, 2017.
 
-(Added Pub. L. 110–417, [div. A], title VI, §619(b)(1), Oct. 14, 2008, 122 Stat. 4488; amended Pub. L. 112–81, div. A, title X, §1065(b), Dec. 31, 2011, 125 Stat. 1588; Pub. L. 113–66, div. A, title VI, §616, Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §615(5), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §615(5), title X, §1072(a), Nov. 25, 2015, 129 Stat. 839, 994.)
+(Added Pub. L. 110–417, [div. A], title VI, §619(b)(1), Oct. 14, 2008, 122 Stat. 4488; amended Pub. L. 112–81, div. A, title X, §1065(b), Dec. 31, 2011, 125 Stat. 1588; Pub. L. 113–66, div. A, title VI, §616, Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §615(5), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §615(5), title X, §1072(a), Nov. 25, 2015, 129 Stat. 839, 994; Pub. L. 114–328, div. A, title VI, §615(5), Dec. 23, 2016, 130 Stat. 2159.)
 
 #### Prior Provisions ####
 
 A prior section 316a, added Pub. L. 102–190, div. A, title VI, §636(a), Dec. 5, 1991, 105 Stat. 1382, related to waiver of certification requirement, prior to repeal by Pub. L. 108–375, div. A, title VI, §620(b)(1), Oct. 28, 2004, 118 Stat. 1954.
 
 #### Amendments ####
+
+**2016**—Subsec. (f). Pub. L. 114–328, which directed amendment of this section by substituting "December 31, 2017" for "December 31, 2016" in subsec. (g), was executed by making the substitution in subsec. (f) to reflect the probable intent of Congress and the redesignation of subsec. (g) as (f) by Pub. L. 114–92, §1072(a)(2). See 2015 Amendment note below.
 
 **2015**—Subsec. (f). Pub. L. 114–92, §1072(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to annual reports on the payment of incentive pay under this section.
 

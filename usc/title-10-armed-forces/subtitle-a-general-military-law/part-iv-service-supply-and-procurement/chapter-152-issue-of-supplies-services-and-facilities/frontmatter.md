@@ -24,7 +24,7 @@ Sec.
 
 2561. Humanitarian assistance.
 
-2562. Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs.
+[2562. Repealed.]
 
 2563. Articles and services of industrial facilities: sale to persons outside the Department of Defense.
 
@@ -36,7 +36,7 @@ Sec.
 
 2566. Space and services: provision to military welfare societies.
 
-[2567. Repealed.]
+2567. Space and services: provision to WIC offices 1
 
 2568. Retention of combat uniforms by members deployed in support of contingency operations.
 
@@ -45,6 +45,8 @@ Sec.
 Chapter was comprised of subchapter I, former section 2540, and subchapter II, sections 2541 to 2553, prior to amendment by Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512, which struck out headings for subchapters I and II.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title XII, §1253(a)(2)(C), div. B, title XXVIII, §2812(b), Dec. 23, 2016, 130 Stat. 2532, 2717, struck out item 2562 "Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs" and added item 2567.
 
 **2013**—Pub. L. 112–239, div. A, title X, §1076(a)(4), Jan. 2, 2013, 126 Stat. 1948, made technical amendment to directory language of Pub. L. 112–81, §589(b). See 2011 Amendment note below.
 
@@ -89,3 +91,5 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 **1972**—Pub. L. 92–249, Mar. 10, 1972, 86 Stat. 62, added item 2544.
 
 **1958**—Pub. L. 85–861, §1(48)(B), Sept. 2, 1958, 72 Stat. 1459, added item 2543.
+
+[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER152_1)

@@ -30,11 +30,7 @@ Sec.
 
 183. Department of Defense Board of Actuaries.
 
-184. Regional Centers for Security Studies.
-
-185. Financial Management Modernization Executive Committee.
-
-[186. Repealed.]
+[184 to 186. Renumbered or Repealed.]
 
 187. Strategic Materials Protection Board.
 
@@ -42,7 +38,11 @@ Sec.
 
 189. Communications Security Review and Advisory Board.
 
+190. Defense Cost Accounting Standards Board.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title VIII, §820(b)(2), title IX, §904(b), title XII, §1241(o)(3), Dec. 23, 2016, 130 Stat. 2276, 2345, 2512, struck out items 184 "Regional Centers for Security Studies" and 185 "Financial Management Modernization Executive Committee" and, effective Oct. 1, 2018, added item 190.
 
 **2014**—Pub. L. 113–291, div. A, title IX, §901(l)(2), title X, §1071(f)(3), Dec. 19, 2014, 128 Stat. 3468, 3510, struck out item 186 "Defense Business System Management Committee" and inserted period at end of item 189.
 

@@ -18,13 +18,13 @@ Sec.
 
 115a. Annual defense manpower requirements report.
 
-115b. Biennial strategic workforce plan.
+[115b. Repealed.]
 
 116. Annual operations and maintenance report.
 
 117. Readiness reporting system: establishment; reporting to congressional committees.
 
-118. Defense Strategy Review.
+[118. Repealed.]
 
 118a. Quadrennial quality of life review.
 
@@ -32,7 +32,11 @@ Sec.
 
 119. Special access programs: congressional oversight.
 
+119a. Programs managed under alternative compensatory control measures: congressional oversight.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title IX, §941(b)(2), title X, §1062(b), title XI, §1102(b), Dec. 23, 2016, 130 Stat. 2365, 2408, 2444, added item 119a and struck out items 115b "Biennial strategic workforce plan" and 118 "Defense strategy review".
 
 **2015**—Pub. L. 114–92, div. A, title X, §1081(b)(3), Nov. 25, 2015, 129 Stat. 1001, amended directory language of Pub. L. 113–291, §1072(a)(2). See 2014 Amendment note below.
 

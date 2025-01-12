@@ -2,13 +2,13 @@
 
 Sec.
 
-1781. Office of Family Policy.
+1781. Office of Military Family Readiness Policy.
 
 1781a. Department of Defense Military Family Readiness Council.
 
 1781b. Department of Defense policy and plans for military family readiness.
 
-1781c. Office of Community Support for Military Families With Special Needs.
+1781c. Office of Special Needs.
 
 1782. Surveys of military families.
 
@@ -31,6 +31,8 @@ Sec.
 1790. Military personnel citizenship processing.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title IX, §933(a)(4)(B), (b)(5)(B), Dec. 23, 2016, 130 Stat. 2364, 2365, substituted "Office of Military Family Readiness Policy" for "Office of Family Policy" in item 1781 and "Office of Special Needs" for "Office of Community Support for Military Families With Special Needs" in item 1781c.
 
 **2011**—Pub. L. 112–74, div. A, title VIII, §8070(b), Dec. 23, 2011, 125 Stat. 823, added item 1790.
 

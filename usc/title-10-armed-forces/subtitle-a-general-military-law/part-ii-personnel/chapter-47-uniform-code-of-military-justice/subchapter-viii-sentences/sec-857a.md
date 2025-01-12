@@ -16,11 +16,19 @@
 
 (Added Pub. L. 90–632, §2(24), Oct. 24, 1968, 82 Stat. 1341, §857(d); amended Pub. L. 102–484, div. A, title X, §1064, Oct. 23, 1992, 106 Stat. 2505; renumbered §857a and amended Pub. L. 104–106, div. A, title XI, §1123(a), Feb. 10, 1996, 110 Stat. 463.)
 
+#### Repeal of Section ####
+
+Pub. L. 114–328, div. E, title LVIII, §5302(b)(1), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2923, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is repealed.
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–106 redesignated subsecs. (d) and (e) of section 857 of this title as subsecs. (a) and (b), respectively, of this section, added section catchline, in subsec. (b)(1), substituted "defer" for "postpone", and added subsec. (c).
 
 **1992**—Subsec. (b), formerly §857(e). Pub. L. 102–484 added subsec. (e). See 1996 Amendment note above.
+
+#### Effective Date of Repeal ####
+
+Repeal effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as an Effective Date of 2016 Amendment note under section 801 of this title.
 
 #### Effective Date of 1992 Amendment ####
 

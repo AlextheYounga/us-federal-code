@@ -12,7 +12,7 @@
 
 (A) January 1, 2018; or
 
-(B) the date on which the Secretary submits to the Committee on Transportation and Infrastructure of the House of Representatives, and to the Committee on Commerce, Science, and Transportation of the Senate, rotary wing strategic plans prepared in accordance with section 208(b) of the Coast Guard Authorization Act of 2015.
+(B) the date on which the Secretary submits to the Committee on Transportation and Infrastructure of the House of Representatives, and to the Committee on Commerce, Science, and Transportation of the Senate, rotary wing strategic plans prepared in accordance with section 208(b) of the Coast Guard Authorization Act of 2016.
 
 (b) Closures.—
 
@@ -52,8 +52,16 @@
 
 (c) Operational Flexibility.—The Secretary may implement any reasonable management efficiencies within the air station and air facility network, such as modifying the operational posture of units or reallocating resources as necessary to ensure the safety of the maritime public nationwide.
 
-(Added Pub. L. 114–120, title II, §208(a), Feb. 8, 2016, 130 Stat. 38.)
+(Added Pub. L. 114–120, title II, §208(a), Feb. 8, 2016, 130 Stat. 38; amended Pub. L. 114–328, div. C, title XXXV, §3503(a), Dec. 23, 2016, 130 Stat. 2775.)
 
 #### References in Text ####
 
-Section 208(b) of the Coast Guard Authorization Act of 2015, referred to in subsec. (a)(2)(B), is section 208(b) of Pub. L. 114–120, title II, Feb. 8, 2016, 130 Stat. 39, which is not classified to the Code.
+Section 208(b) of the Coast Guard Authorization Act of 2016, referred to in subsec. (a)(2)(B), is section 208(b) of Pub. L. 114–120, title II, Feb. 8, 2016, 130 Stat. 39, which is not classified to the Code.
+
+#### Amendments ####
+
+**2016**—Subsec. (a)(2)(B). Pub. L. 114–328 substituted "Coast Guard Authorization Act of 2016" for "Coast Guard Authorization Act of 2015".
+
+#### Effective Date of 2016 Amendment ####
+
+Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub. L. 114–120, see section 3503(e) of Pub. L. 114–328, set out as a note under section 60 of this title.

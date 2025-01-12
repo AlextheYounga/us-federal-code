@@ -18,11 +18,11 @@ Sec.
 
 3038. Office of Army Reserve: appointment of Chief.
 
-3039. Deputy and assistant chiefs of branches.
-
-[3040. Repealed.]
+[3039, 3040. Repealed.]
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title V, §502(n)(2), Dec. 23, 2016, 130 Stat. 2103, struck out item 3039 "Deputy and assistant chiefs of branches".
 
 **2008**—Pub. L. 110–181, div. A, title V, §543(a)(3)(B), Jan. 28, 2008, 122 Stat. 115, substituted "Deputy" for "Assistant" in item 3037.
 

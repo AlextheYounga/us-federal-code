@@ -2,7 +2,7 @@
 
 Sec.
 
-4681. Surplus war material: sale to States and foreign governments.
+[4681. Repealed.]
 
 4682. Obsolete or excess material: sale to National Council of Boy Scouts of America.
 
@@ -24,6 +24,8 @@ Sec.
 
 #### Amendments ####
 
+**2016**—Pub. L. 114–328, div. A, title XII, §1253(a)(2)(D), Dec. 23, 2016, 130 Stat. 2532, struck out item 4681 "Surplus war material: sale to States and foreign governments".
+
 **2013**—Pub. L. 112–239, div. A, title X, §1051(b), Jan. 2, 2013, 126 Stat. 1935, substituted "Excess non-automatic service rifles: loan or donation for funeral and other ceremonial purposes" for "Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes" in item 4683.
 
 **2006**—Pub. L. 109–364, div. A, title III, §353(b), Oct. 17, 2006, 120 Stat. 2161, added item 4690.
@@ -35,3 +37,7 @@ Sec.
 **1999**—Pub. L. 106–65, div. A, title III, §381(d)(2), Oct. 5, 1999, 113 Stat. 583, substituted "Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes" for "Obsolete or condemned rifles: loan to local units of recognized veterans' organizations" in item 4683.
 
 **1997**—Pub. L. 105–85, div. A, title X, §1065(a)(2), Nov. 18, 1997, 111 Stat. 1895, added item 4687.
+
+#### Alternative Technologies for Munitions Disposal ####
+
+Pub. L. 114–328, div. A, title III, §314, Dec. 23, 2016, 130 Stat. 2073, provided that: "In carrying out the disposal of munitions in the stockpile of conventional munitions awaiting demilitarization and disposal, the Secretary of the Army may use cost-competitive technologies that minimize waste generation and air emissions as alternatives to disposal by open burning, open detonation, direct contact combustion, and incineration."

@@ -18,7 +18,7 @@ Sec.
 
 2195. Department of Defense cooperative education programs.
 
-2196. Manufacturing engineering education: grant program.
+2196. Manufacturing engineering education: grant program. 1
 
 2197. Manufacturing experts in the classroom.
 
@@ -59,3 +59,5 @@ Pub. L. 112–81, div. A, title VIII, §862, Dec. 31, 2011, 125 Stat. 1521, prov
 "(7) conduct recruitment activities at historically black colleges and universities and other minority-serving institutions or offer internships or apprenticeships.
 
 "(b) Implementation.—Not later than 270 days after the date of the enactment of this Act [Dec. 31, 2011], the Under Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of Senate and House of Representatives] a report on the steps taken to implement the requirements of this section."
+
+[<sup>1</sup> Section catchline amended by Pub. L. 114–328 without corresponding amendment of chapter analysis.](#CHAPTER111_1)

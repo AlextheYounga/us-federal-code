@@ -64,7 +64,13 @@ Sec.
 
 1599f. United States Cyber Command recruitment and retention.
 
+1599g. Public-private talent exchange.
+
+1599h. Personnel management authority to attract experts in science and engineering.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title XI, §§1104(b), 1121(a)(2), Dec. 23, 2016, 130 Stat. 2447, 2452, added items 1599g and 1599h.
 
 **2015**—Pub. L. 114–92, div. A, title XI, §§1105(a)(2), 1107(c), Nov. 25, 2015, 129 Stat. 1024, 1027, added items 1599e and 1599f.
 
@@ -129,6 +135,142 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 **1960**—Pub. L. 86–585, §2, July 5, 1960, 74 Stat. 327, added item 1586.
 
 **1958**—Pub. L. 85–577, §1(2), July 31, 1958, 72 Stat. 456, added item 1585.
+
+#### Temporary and Term Appointments in the Competitive Service in the Department of Defense ####
+
+Pub. L. 114–328, div. A, title XI, §1105, Dec. 23, 2016, 130 Stat. 2447, provided that:
+
+"(a) Appointment.—
+
+"(1) In general.—The Secretary of Defense may make a temporary appointment or a term appointment in the Department when the need for the services of an employee in the Department is not permanent.
+
+"(2) Extension.—The Secretary may extend a temporary appointment or a term appointment made under paragraph (1).
+
+"(b) Appointments for Critical Hiring Needs.—
+
+"(1) In general.—If there is a critical hiring need, the Secretary of Defense may make a noncompetitive temporary appointment or a noncompetitive term appointment in the Department of Defense, without regard to the requirements of sections 3327 and 3330 of title 5, United States Code, for a period that is not more than 18 months.
+
+"(2) No extension available.—An appointment made under paragraph (1) may not be extended.
+
+"(c) Regulations.—The Secretary may prescribe regulations to carry out this section.
+
+"(d) Definitions.—In this section:
+
+"(1) The term 'temporary appointment' means the appointment of an employee in the competitive service for a period that is not more than one year.
+
+"(2) The term 'term appointment' means the appointment of an employee in the competitive service for a period that is more than one year and not more than five years, unless the Secretary of Defense, before the appointment of the employee, authorizes a longer period."
+
+#### Direct-Hire Authority for the Department of Defense for Post-Secondary Students and Recent Graduates ####
+
+Pub. L. 114–328, div. A, title XI, §1106, Dec. 23, 2016, 130 Stat. 2447, provided that:
+
+"(a) Hiring Authority.—Without regard to sections 3309 through 3318, 3327, and 3330 of title 5, United States Code, the Secretary of Defense may recruit and appoint qualified recent graduates and current post-secondary students to competitive service positions in professional and administrative occupations within the Department of Defense.
+
+"(b) Limitation on Appointments.—Subject to subsection (c)(2), the total number of employees appointed by the Secretary under subsection (a) during a fiscal year may not exceed the number equal to 15 percent of the number of hires made into professional and administrative occupations of the Department at the GS–11 level and below (or equivalent) under competitive examining procedures during the previous fiscal year.
+
+"(c) Regulations.—
+
+"(1) In general.—The Secretary shall administer this section in accordance with regulations prescribed by the Secretary for purposes of this section.
+
+"(2) Lower limit on appointments.—The regulations may establish a lower limit on the number of individuals appointable under subsection (a) during a fiscal year than is otherwise provided for under subsection (b), based on such factors as the Secretary considers appropriate.
+
+"(3) Public notice and advertising.—To the extent practical, as determined by the Secretary, the Secretary shall publicly advertise positions available under this section. In carrying out the preceding sentence, the Secretary shall—
+
+"(A) take into account merit system principles, mission requirements, costs, and organizational benefits of any advertising of positions; and
+
+"(B) advertise such positions in the manner the Secretary determines is most likely to provide diverse and qualified candidates and ensure potential applicants have appropriate information relevant to the positions available.
+
+"(d) Sunset.—The authority provided under this section shall terminate on September 30, 2021.
+
+"(e) Definitions.—In this section:
+
+"(1) The term 'current post-secondary student' means a person who—
+
+"(A) is currently enrolled in, and in good academic standing at, a full-time program at an institution of higher education;
+
+"(B) is making satisfactory progress toward receipt of a baccalaureate or graduate degree; and
+
+"(C) has completed at least one year of the program.
+
+"(2) The term 'institution of higher education' has the meaning given the term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+
+"(3) The term 'recent graduate', with respect to appointment of a person under this section, means a person who was awarded a degree by an institution of higher education not more than two years before the date of the appointment of such person, except that in the case of a person who has completed a period of obligated service in a uniformed service of more than four years, such term means a person who was awarded a degree by an institution of higher education not more than four years before the date of the appointment of such person."
+
+#### Direct Hire Authority for Financial Management Experts in the Department of Defense Workforce ####
+
+Pub. L. 114–328, div. A, title XI, §1110, Dec. 23, 2016, 130 Stat. 2450, provided that:
+
+"(a) Authority.—Each Secretary concerned may appoint qualified candidates possessing a finance, accounting, management, or actuarial science degree, or a related degree or equivalent experience, to positions specified in subsection (c) for the Defense Agencies or the applicable military department without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code.
+
+"(b) Secretary Concerned.—For purposes of this section, the Secretary concerned is as follows:
+
+"(1) The Secretary of Defense with respect to the Defense Agencies.
+
+"(2) The Secretary of a military department with respect to such military department.
+
+"(c) Positions.—The positions specified in this subsection are the positions within the Department of Defense workforce as follows:
+
+"(1) Financial management positions.
+
+"(2) Accounting positions.
+
+"(3) Auditing positions.
+
+"(4) Actuarial positions.
+
+"(5) Cost estimation positions.
+
+"(6) Operational research positions.
+
+"(7) Business and business administration positions.
+
+"(d) Limitation.—Authority under this section may not, in any calendar year and with respect to any Defense Agency or military department, be exercised with respect to a number of candidates greater than the number equal to 10 percent of the total number of the financial management, accounting, auditing, and actuarial positions within the financial management workforce of such Defense Agency or military department that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+
+"(e) Nature of Appointment.—Any appointment under this section shall be treated as an appointment on a full-time equivalent basis, unless such appointment is made on a term or temporary basis.
+
+"(f) Employee Defined.—In this section, the term 'employee' has the meaning given that term in section 2105 of title 5, United States Code.
+
+"(g) Termination.—The authority to make appointments under this section shall not be available after December 31, 2022."
+
+#### Temporary Direct Hire Authority for Domestic Defense Industrial Base Facilities, the Major Range and Test Facilities Base, and the Office of the Director of Operational Test and Evaluation ####
+
+Pub. L. 114–328, div. A, title XI, §1125, Dec. 23, 2016, 130 Stat. 2457, provided that:
+
+"(a) Defense Industrial Base Facility and MRTFB.—During fiscal years 2017 and 2018, the Secretary of Defense may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title, qualified candidates to positions in the competitive service at any defense industrial base facility or the Major Range and Test Facilities Base.
+
+"(b) Office of the Director of Operational Test and Evaluation.—During fiscal years 2017 through 2021, the Secretary of Defense may, acting through the Director of Operational Test and Evaluation, appoint qualified candidates possessing an advanced degree to scientific and engineering positions within the Office of the Director of Operational Test and Evaluation without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title.
+
+"(c) Definition of Defense Industrial Base Facility.—In this section, the term 'defense industrial base facility' means any Department of Defense depot, arsenal, or shipyard located within the United States."
+
+#### Temporary Personnel Flexibilities for Domestic Defense Industrial Base Facilities and Major Range and Test Facilities Base Civilian Personnel ####
+
+Pub. L. 114–328, div. A, title XI, §1132, Dec. 23, 2016, 130 Stat. 2457, provided that:
+
+"(a) In General.—Notwithstanding chapter 33 of title 5, United States Code, or any other provision of law relating to the examination, certification, and appointment of individuals in the competitive service, during fiscal years 2017 and 2018, an employee of a defense industrial base facility or the Major Range and Test Facilities Base serving under a time-limited appointment in the competitive service is eligible to compete for a permanent appointment in the competitive service at (A) any such facility, Base, or any other component of the Department of Defense when such facility, Base, or component (as the case may be) is accepting applications from individuals within the facility, Base, or component's workforce under merit promotion procedures, or (B) any agency when the agency is accepting applications from individuals outside its own workforce under merit promotion procedures of the applicable agency, if—
+
+"(1) the employee was appointed initially under open, competitive examination under subchapter I of chapter 33 of such title to the time-limited appointment;
+
+"(2) the employee has served under 1 or more time-limited appointments by a defense industrial base facility or the Major Range and Test Facilities Base for a period or periods totaling more than 24 months without a break of 2 or more years; and
+
+"(3) the employee's performance has been at an acceptable level of performance throughout the period or periods (as the case may be) referred to in paragraph (2).
+
+"(b) Waiver of Age Requirement.—In determining the eligibility of a time-limited employee under this section to be examined for or appointed in the competitive service, the Office of Personnel Management or other examining agency shall waive requirements as to age, unless the requirement is essential to the performance of the duties of the position.
+
+"(c) Status.—An individual appointed under this section—
+
+"(1) becomes a career-conditional employee, unless the employee has otherwise completed the service requirements for career tenure; and
+
+"(2) acquires competitive status upon appointment.
+
+"(d) Former Employees.—A former employee of a defense industrial base facility or the Major Range and Test Facilities Base who served under a time-limited appointment and who otherwise meets the requirements of this section shall be deemed a time-limited employee for purposes of this section if—
+
+"(1) such employee applies for a position covered by this section within the period of 2 years after the most recent date of separation; and
+
+"(2) such employee's most recent separation was for reasons other than misconduct or performance.
+
+"(e) Benefits.—Any employee of a defense industrial base facility or the Major Range and Test Facilities Base serving under a time-limited appointment in the competitive service shall be provided with benefits that are comparable to the benefits provided to similar employees not serving under time-limited appointments at the defense industrial base facility or the Major Range and Test Facilities Base concerned, including professional development opportunities, eligibility for awards programs, and designation as status applicants for purposes of eligibility for positions in the civil service.
+
+"(f) Definition of Defense Industrial Base Facility.—In this section, the term 'defense industrial base facility' means any Department of Defense depot, arsenal, or shipyard located within the United States."
 
 #### Compliance With Law Regarding Availability of Funding for Civilian Personnel ####
 
@@ -226,7 +368,7 @@ Pub. L. 111–84, div. A, title XI, §1112, Oct. 28, 2009, 123 Stat. 2496, provi
 
 "(E) The consideration of participants in the program for selection into the senior management, functional, and technical workforce of the Department.
 
-"(7) Consideration for senior management, functional, and technical workforce.—Any participant in the program who, as determined by the Secretary, demonstrates outstanding performance shall be afforded priority in consideration for selection into the appropriate element of the senior management, functional, and technical workforce of the Department of Defense (as defined in section 115b(f) of title 10, United States Code) [see now 10 U.S.C. 115b(h)]."
+"(7) Consideration for senior management, functional, and technical workforce.—Any participant in the program who, as determined by the Secretary, demonstrates outstanding performance shall be afforded priority in consideration for selection into the appropriate element of the senior management, functional, and technical workforce of the Department of Defense (as defined in [former] section 115b(f) of title 10, United States Code)."
 
 #### Direct Hire Authority at Personnel Demonstration Laboratories for Certain Candidates ####
 

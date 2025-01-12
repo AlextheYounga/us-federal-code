@@ -12,7 +12,7 @@ Sec.
 
 2165. National Defense University: component institutions.
 
-2166. Western Hemisphere Institute for Security Cooperation.
+[2166. Renumbered.]
 
 2167. National Defense University: admission of private sector civilians to professional military education program.
 
@@ -23,6 +23,8 @@ Sec.
 2169. School of Nursing: establishment.
 
 #### Amendments ####
+
+Pub. L. 114–328, div. A, title XII, §1241(o)(5), Dec. 23, 2016, 130 Stat. 2512, struck out item 2166 "Western Hemisphere Institute for Security Cooperation".
 
 **2013**—Pub. L. 112–239, div. A, title IX, §922(b)(2), Jan. 2, 2013, 126 Stat. 1879, substituted "National Intelligence University" for "National Defense Intelligence College" in item 2161.
 
@@ -50,7 +52,7 @@ Pub. L. 105–85, div. A, title IX, §921(a)(2), Nov. 18, 1997, 111 Stat. 1862, 
 
 #### Daniel K. Inouye Asia-Pacific Center for Security Studies: Reimbursement Waiver for Personnel of Foreign Nations ####
 
-Pub. L. 107–248, title VIII, §8073, Oct. 23, 2002, 116 Stat. 1553, as amended by Pub. L. 113–291, div. B, title XXVIII, §2861(c), Dec. 19, 2014, 128 Stat. 3716, provided that: "During the current fiscal year and hereafter, the Secretary of Defense may waive reimbursement of the cost of conferences, seminars, courses of instruction, or similar educational activities of the Daniel K. Inouye Asia-Pacific Center for Security Studies for military officers and civilian officials of foreign nations if the Secretary determines that attendance by such personnel, without reimbursement, is in the national security interest of the United States: *Provided*, That costs for which reimbursement is waived pursuant to this section shall be paid from appropriations available for the Asia-Pacific Center."
+Pub. L. 107–248, title VIII, §8073, Oct. 23, 2002, 116 Stat. 1553, as amended by Pub. L. 113–291, div. B, title XXVIII, §2861(c), Dec. 19, 2014, 128 Stat. 3716, related to waiver by the Secretary of Defense of reimbursement of the cost of conferences, seminars, courses of instruction, or similar educational activities of the Daniel K. Inouye Asia-Pacific Center for Security Studies for military officers and civilian officials of foreign nations, prior to repeal by Pub. L. 114–328, div. A, title XII, §1241(e)(5)(D), Dec. 23, 2016, 130 Stat. 2507.
 
 Similar provisions were contained in the following prior appropriation acts:
 

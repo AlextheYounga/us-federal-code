@@ -26,9 +26,7 @@ Sec.
 
 2009. Military colleges: female students.
 
-2010. Participation of developing countries in combined exercises: payment of incremental expenses.
-
-2011. Special operations forces: training with friendly foreign forces.
+[2010, 2011. Renumbered.]
 
 2012. Support and services for eligible organizations and activities outside Department of Defense.
 
@@ -41,6 +39,8 @@ Sec.
 2016. Undergraduate nurse training program: establishment through agreement with academic institution.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title XII, §1244(d), Dec. 23, 2016, 130 Stat. 2518, struck out items 2010 "Participation of developing countries in combined exercises: payment of incremental expenses" and 2011 "Special operations forces: training with friendly foreign forces".
 
 **2014**—Pub. L. 113–291, div. A, title V, §551(b), Dec. 19, 2014, 128 Stat. 3377, substituted "Program to assist members in obtaining professional credentials" for "Payment of expenses to obtain professional credentials" in item 2015.
 

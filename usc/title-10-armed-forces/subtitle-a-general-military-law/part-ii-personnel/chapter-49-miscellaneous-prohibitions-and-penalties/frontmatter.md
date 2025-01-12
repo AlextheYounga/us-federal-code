@@ -14,7 +14,7 @@ Sec.
 
 976. Membership in military unions, organizing of military unions, and recognition of military unions prohibited.
 
-[977. Repealed.]
+977. Conversion of military medical and dental positions to civilian medical and dental positions: limitation.
 
 978. Drug and alcohol abuse and dependency: testing of new entrants.
 
@@ -35,6 +35,8 @@ Sec.
 987. Terms of consumer credit extended to members and dependents: limitations.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title VII, §721(a)(2), Dec. 23, 2016, 130 Stat. 2228, added item 977.
 
 **2009**—Pub. L. 111–84, div. A, title V, §591(b), Oct. 28, 2009, 123 Stat. 2337, substituted "Military musical units and musicians: performance policies; restriction on performance in competition with local civilian musicians" for "Uniform performance policies for military bands and other musical units" in item 974.
 

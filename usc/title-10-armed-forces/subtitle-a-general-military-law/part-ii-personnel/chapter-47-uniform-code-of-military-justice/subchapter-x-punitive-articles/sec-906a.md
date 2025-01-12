@@ -39,3 +39,11 @@
 (4) Any other factor that may be prescribed by the President by regulations under section 836 of this title (article 36).
 
 (Added Pub. L. 99–145, title V, §534(a), Nov. 8, 1985, 99 Stat. 634.)
+
+#### Transfer and Enactment of Section ####
+
+Pub. L. 114–328, div. E, title LX, §§5401(7), 5418, title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2938, 2945, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is redesignated and transferred to become section 903a of this title (article 103a), and a new section 906a (article 106a) is enacted. For text of new section 906a after the effective date, see Amendment of Analysis and Subchapter note preceding section 877 of this title.
+
+#### Effective Date of 2016 Amendment ####
+
+Transfer of current section and enactment of new section 906a by Pub. L. 114–328 effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as a note under section 801 of this title.

@@ -86,7 +86,7 @@ Subject to paragraph (2), the term "targeted low-income child" means a child—
 
 (III) who resides in a State that does not have a medicaid applicable income level (as defined in paragraph (4)); and
 
-(C) who is not found to be eligible for medical assistance under subchapter XIX of this chapter or, subject to paragraph (5), covered under a group health plan or under health insurance coverage (as such terms are defined in section 300gg–91 of this title).
+(C) who is not found to be eligible for medical assistance under subchapter XIX or, subject to paragraph (5), covered under a group health plan or under health insurance coverage (as such terms are defined in section 300gg–91 of this title).
 
 #### (2) Children excluded ####
 
@@ -102,7 +102,7 @@ A child shall not be considered to be described in paragraph (1)(C) notwithstand
 
 #### (4) Medicaid applicable income level ####
 
-The term "medicaid applicable income level" means, with respect to a child, the effective income level (expressed as a percent of the poverty line) that has been specified under the State plan under subchapter XIX of this chapter (including under a waiver authorized by the Secretary or under section 1396a(r)(2) of this title), as of March 31, 1997, for the child to be eligible for medical assistance under section 1396a(l)(2) or 1396d(n)(2) of this title (as selected by a State) for the age of such child.
+The term "medicaid applicable income level" means, with respect to a child, the effective income level (expressed as a percent of the poverty line) that has been specified under the State plan under subchapter XIX (including under a waiver authorized by the Secretary or under section 1396a(r)(2) of this title), as of March 31, 1997, for the child to be eligible for medical assistance under section 1396a(l)(2) or 1396d(n)(2) of this title (as selected by a State) for the age of such child.
 
 #### (5) Option for States with a separate CHIP program to provide dental-only supplemental coverage ####
 
@@ -244,7 +244,7 @@ Subsec. (b)(6)(C). Pub. L. 111–309, §205(d)(2), struck out ", on a case-by-c
 
 Subsec. (c)(9)(B)(v). Pub. L. 111–148, §2102(a)(7), substituted "local educational agency (as defined under section 7801 of title 20" for "school or school system".
 
-**2009**—Subsec. (b)(1)(C). Pub. L. 111–3, §501(b)(1)(A), inserted ", subject to paragraph (5)," after "subchapter XIX of this chapter or".
+**2009**—Subsec. (b)(1)(C). Pub. L. 111–3, §501(b)(1)(A), inserted ", subject to paragraph (5)," after "subchapter XIX or".
 
 Subsec. (b)(5). Pub. L. 111–3, §501(b)(1)(B), added par. (5).
 

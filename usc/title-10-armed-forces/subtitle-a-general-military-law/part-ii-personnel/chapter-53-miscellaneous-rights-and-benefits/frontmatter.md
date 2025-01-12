@@ -52,17 +52,7 @@ Sec.
 
 1049. Subsistence: miscellaneous persons.
 
-1050. Latin American cooperation: payment of personnel expenses.
-
-1050a. African cooperation: payment of personnel expenses.
-
-1051. Multilateral, bilateral, or regional cooperation programs: payment of personnel expenses.
-
-1051a. Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses.
-
-1051b. Bilateral or regional cooperation programs: awards and mementos to recognize superior noncombat achievements or performance.
-
-1051c. Multilateral, bilateral, or regional cooperation programs: assignments to improve education and training in information security.
+[1050 to 1051c. Repealed or Renumbered.]
 
 1052. Adoption expenses: reimbursement.
 
@@ -91,6 +81,8 @@ Sec.
 1060b. Military ID cards: dependents and survivors of retirees.
 
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title XII, §§1241(o)(4), 1243(b)(2), 1253(a)(2)(B), Dec. 23, 2016, 130 Stat. 2512, 2516, 2532, struck out items 1050 "Latin American cooperation: payment of personnel expenses", 1050a "African cooperation: payment of personnel expenses", 1051 "Multilateral, bilateral, or regional cooperation programs: payment of personnel expenses", 1051a "Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses", 1051b "Bilateral or regional cooperation programs: awards and mementos to recognize superior noncombat achievements or performance", and 1051c "Multilateral, bilateral, or regional cooperation programs: assignments to improve education and training in information security".
 
 **2013**—Pub. L. 113–66, div. A, title VI, §621(a)(2)(B), (c)(2)(B), title XVII, §1716(a)(2), Dec. 26, 2013, 127 Stat. 783, 784, 969, added item 1044e and struck out items 1036 "Escorts for dependents of members: transportation and travel allowances" and 1053a "Expenses incurred in connection with leave canceled due to contingency operations: reimbursement".
 
@@ -175,6 +167,14 @@ Pub. L. 89–132, §9(b), Aug. 21, 1965, 79 Stat. 548, added item 1040 "Free pos
 Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 
 **1958**—Pub. L. 85–861, §1(24)(B), Sept. 2, 1958, 72 Stat. 1445, added item 1037.
+
+#### Access to Wireless High-speed Internet and Network Connections for Certain Members of the Armed Forces ####
+
+Pub. L. 114–328, div. A, title III, §347, Dec. 23, 2016, 130 Stat. 2086, provided that:
+
+"(a) In General.—In providing members of the Armed Forces with access to high-speed wireless Internet and network connections at military installations outside the United States, the Secretary of Defense may provide such access without charge to the members and their dependents.
+
+"(b) Contract Authority.—The Secretary may enter into contracts for the purpose of carrying out subsection (a)."
 
 #### Protection of Rights of Conscience of Members of the Armed Forces and Chaplains of Such Members ####
 

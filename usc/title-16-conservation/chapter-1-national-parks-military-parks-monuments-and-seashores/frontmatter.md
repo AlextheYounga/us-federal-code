@@ -2334,6 +2334,8 @@ Sec.
 
 423a–2. Adjustment of boundary.
 
+423a–3. Petersburg National Battlefield boundary modification.
+
 423b. Commission; organization.
 
 423c. Duties of commission.

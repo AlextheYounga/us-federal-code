@@ -76,15 +76,15 @@ Sec.
 
 #### Removal of Restrictions on the Transfer of Officers Between the Active and Inactive National Guard ####
 
-Pub. L. 113–66, div. A, title V, §512, Dec. 26, 2013, 127 Stat. 752, provided that:
+Pub. L. 113–66, div. A, title V, §512, Dec. 26, 2013, 127 Stat. 752, as amended by Pub. L. 114–328, div. A, title V, §514, Dec. 23, 2016, 130 Stat. 2113, provided that:
 
-"(a) Army National Guard.—During the period ending on December 31, 2016, under regulations prescribed by the Secretary of the Army:
+"(a) Army National Guard.—During the period ending on December 31, 2019, under regulations prescribed by the Secretary of the Army:
 
 "(1) An officer of the Army National Guard who fills a vacancy in a federally recognized unit of the Army National Guard may be transferred from the active Army National Guard to the inactive Army National Guard.
 
 "(2) An officer of the Army National Guard transferred to the inactive Army National Guard pursuant to paragraph (1) may be transferred from the inactive Army National Guard to the active Army National Guard to fill a vacancy in a federally recognized unit.
 
-"(b) Air National Guard.—During the period ending on December 31, 2016, under regulations prescribed by the Secretary of the Air Force:
+"(b) Air National Guard.—During the period ending on December 31, 2019, under regulations prescribed by the Secretary of the Air Force:
 
 "(1) An officer of the Air National Guard who fills a vacancy in a federally recognized unit of the Air National Guard may be transferred from the active Air National Guard to the inactive Air National Guard.
 

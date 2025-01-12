@@ -10,6 +10,8 @@ Sec.
 
 704. Use of leave; regulations.
 
+704a. Administration of leave: prohibition on authorizing, granting, or assigning leave not expressly authorized by law.
+
 705. Rest and recuperation absence: qualified members extending duty at designated locations overseas.
 
 705a. Rest and recuperation absence: certain members undergoing extended deployment to a combat zone.
@@ -24,7 +26,11 @@ Sec.
 
 709. Emergency leave of absence.
 
+709a. Expenses incurred in connection with leave canceled due to contingency operations: reimbursement.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–328, div. A, title V, §§521(b)(2), 522(b), Dec. 23, 2016, 130 Stat. 2115, 2116, added items 704a and 709a.
 
 **2011**—Pub. L. 111–383, div. A, title V, §532(b), Jan. 7, 2011, 124 Stat. 4216, added item 705a.
 
