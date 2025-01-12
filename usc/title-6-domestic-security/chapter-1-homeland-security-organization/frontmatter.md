@@ -62,6 +62,8 @@ Sec.
 
 124m. Classified Information Advisory Officer.
 
+124n. Protection of certain facilities and assets from unmanned aircraft.
+
 125. Annual report on intelligence activities of the Department of Homeland Security.
 
 126. Department of Homeland Security data framework.
@@ -146,6 +148,8 @@ Sec.
 
 203. Functions transferred.
 
+204. Surface Transportation Security Advisory Committee.
+
 #### Part B—U.S. Customs and Border Protection ####
 
 211. Establishment of U.S. Customs and Border Protection; Commissioner, Deputy Commissioner, and operational offices.
@@ -197,6 +201,10 @@ Sec.
 241. Prevention of international child abduction.
 
 242. Department of Homeland Security Blue Campaign.
+
+243. Maritime operations coordination plan.
+
+244. Maritime security capabilities assessments.
 
 #### Part D—Immigration Enforcement Functions ####
 
@@ -607,6 +615,12 @@ Sec.
 563d. Small business contracting goals.
 
 563e. Consistency with the Federal Acquisition Regulation and departmental policies and directives.
+
+563f. Diversified security technology industry marketplace.
+
+#### Part C—Maintenance of Security-related Technology ####
+
+565. Maintenance validation and oversight.
 
 #### SUBCHAPTER XIII—EMERGENCY COMMUNICATIONS ####
 

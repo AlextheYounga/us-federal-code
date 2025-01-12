@@ -278,3 +278,7 @@ Chap. Sec.
 110. Online Shopper Protection 8401
 
 111. Weather Research and Forecasting Innovation 8501
+
+112. Sports Medicine Licensure 8601
+
+113. Concrete Masonry Products Research, Education, and Promotion 8701

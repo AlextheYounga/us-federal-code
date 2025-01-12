@@ -22,9 +22,15 @@ Sec.
 
 39A. Aiming a laser pointer at an aircraft 1
 
+39B. Unsafe operation of unmanned aircraft.
+
 40. Commercial motor vehicles required to stop for inspections.
 
+40A. Operation of unauthorized unmanned aircraft over wildfires.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–254, div. B, title III, §§382(b), 384(b), Oct. 5, 2018, 132 Stat. 3320, 3322, added items 39B and 40A.
 
 **2012**—Pub. L. 112–95, title III, §311(b), Feb. 14, 2012, 126 Stat. 66, transferred item 39 to appear after item 38 and added item 39A.
 

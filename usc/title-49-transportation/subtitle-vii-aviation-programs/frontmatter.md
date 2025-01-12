@@ -35,6 +35,8 @@ Chapter Sec.
 
 447. Safety Regulation 44701
 
+448. Unmanned aircraft systems 1 44801
+
 449. Security 44901
 
 451. Alcohol and Controlled Substances Testing 45101
@@ -63,7 +65,7 @@ Chapter Sec.
 
 482. Advance Appropriations for Airport and Airway Trust Facilities 48201
 
-483. Aviation Security Funding 48301
+[483. Repealed.]
 
 #### PART D—PUBLIC AIRPORTS ####
 
@@ -75,6 +77,10 @@ Chapter Sec.
 
 #### Amendments ####
 
+**2018**—Pub. L. 115–254, div. K, title I, §1991(i)(2), Oct. 5, 2018, 132 Stat. 3645, which directed amendment of this analysis by striking item for chapter 483 "Aviation security funding", was executed by striking item for chapter 483 "Aviation Security Funding" to reflect the probable intent of Congress.
+
+Pub. L. 115–254, div. B, title III, §341(b)(1), Oct. 5, 2018, 132 Stat. 3287, added item for chapter 448.
+
 **2012**—Pub. L. 112–95, title IV, §415(d), Feb. 14, 2012, 126 Stat. 96, added item for chapter 423.
 
 **2001**—Pub. L. 107–71, title I, §118(c)(2), Nov. 19, 2001, 115 Stat. 628, added item for chapter 483.
@@ -84,3 +90,5 @@ Chapter Sec.
 **1996**—Pub. L. 104–287, §5(64), Oct. 11, 1996, 110 Stat. 3395, substituted "RESERVED" for "MISCELLANEOUS" in item for part D, struck out item for chapter 491 "Buy-American Preferences", and added items for part E and chapter 501.
 
 Pub. L. 104–264, title II, §277(b), Oct. 9, 1996, 110 Stat. 3248, added item for chapter 482.
+
+[<sup>1</sup> So in original. Probably should be "Unmanned Aircraft Systems".](#SUBTITLEVII_1)

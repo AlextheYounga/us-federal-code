@@ -648,7 +648,7 @@ Sec.
 
 280b–1d. National program for traumatic brain injury surveillance and registries.
 
-280b–1e. Study on traumatic brain injury.
+280b–1e. Repealed.
 
 280b–1f. Prevention of falls among older adults.
 
@@ -740,7 +740,7 @@ Sec.
 
 280g–12. Primary Care Extension Program.
 
-280g–13. National Congenital Heart Disease Surveillance System.
+280g–13. National congenital heart disease research, surveillance, and awareness.
 
 280g–14. National diabetes prevention program.
 

@@ -8,7 +8,7 @@ Sec.
 
 44703. Airman certificates.
 
-44704. Type certificates, production certificates, airworthiness certificates, and design and production organization certificates. 1
+44704. Type certificates, production certificates, airworthiness certificates, and design and production organization certificates.
 
 44705. Air carrier operating certificates.
 
@@ -72,7 +72,19 @@ Sec.
 
 44735. Limitation on disclosure of safety information.
 
+44736. Organization designation authorizations.
+
+44737. 1 Helicopter fuel system safety.
+
+44738. Training on human trafficking for certain staff.
+
+44739. Pets on airplanes.
+
+Sec. 2 44737. 1 Special rule for certain aircraft operations.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–254, div. B, title II, §212(b), title III, §317(b), title IV, §§408(b), 417(b), title V, §581(b)(2), Oct. 5, 2018, 132 Stat. 3249, 3269, 3330, 3334, 3398, added item 44736, two items 44737, and items 44738 and 44739.
 
 **2016**—Pub. L. 114–328, div. A, title III, §341(a)(4)(B), Dec. 23, 2016, 130 Stat. 2081, substituted "Structures interfering with air commerce or national security" for "Structures interfering with air commerce" in item 44718.
 
@@ -86,4 +98,6 @@ Sec.
 
 **1996**—Pub. L. 104–264, title VI, §602(a)(2), Oct. 9, 1996, 110 Stat. 3264, added item 44724.
 
-[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER447_1)
+[<sup>1</sup> So in original. Two sections 44737 have been enacted.](#CHAPTER447_1)
+
+[<sup>2</sup> So in original.](#CHAPTER447_2)

@@ -52,6 +52,8 @@ Sec.
 
 47124. Agreements for State and local operation of airport facilities.
 
+47124a. Accessibility of certain flight data.
+
 47125. Conveyances of United States Government land.
 
 47126. Criminal penalties for false statements.
@@ -70,13 +72,11 @@ Sec.
 
 47133. Restriction on use of revenues.
 
-47134. Pilot program on private ownership of airports.
+47134. Airport investment partnership program.
 
 47135. Innovative financing techniques.
 
-47136. Inherently low-emission airport vehicle pilot program.
-
-47136a. Zero-emission airport vehicles and infrastructure.
+47136. Zero-emission airport vehicles and infrastructure.
 
 47137. Airport security program.
 
@@ -84,13 +84,13 @@ Sec.
 
 47139. Emission credits for air quality projects.
 
-47140. Airport ground support equipment emissions retrofit pilot program.
-
-47140a. Increasing the energy efficiency of airport power sources.
+47140. Increasing the energy efficiency of airport power sources.
 
 47141. Compatible land use planning and projects by State and local governments.
 
 47142. Design-build contracting.
+
+47143. Non-movement area surveillance surface display systems pilot program.
 
 47144. Use of funds for repairs for runway safety repairs.
 
@@ -115,6 +115,8 @@ Sec.
 47175. Definitions.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–254, div. B, title I, §§140(b), 160(b), 166(c), title III, §395(b), Oct. 5, 2018, 132 Stat. 3211, 3221, 3226, 3327, added items 47124a, 47136, 47140, and 47143, substituted "Airport investment partnership program" for "Pilot program on private ownership of airports" in item 47134, and struck out former item 47136 "Inherently low-emission airport vehicle pilot program", item 47136a "Zero-emission airport vehicles and infrastructure", former item 47140 "Airport ground support equipment emissions retrofit pilot program", and item 47140a "Increasing the energy efficiency of airport power sources".
 
 **2017**—Pub. L. 115–31, div. K, title I, §119F(b), May 5, 2017, 131 Stat. 735, which directed amendment of the analysis for this chapter by adding item 47144 after item 47143, was executed by adding item 47144 after item 47142 to reflect the probable intent of Congress, because no item for section 47143 has been enacted.
 

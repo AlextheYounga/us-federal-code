@@ -18,7 +18,7 @@ Sec.
 
 70107. Grants.
 
-70107A. Interagency operational centers for port security.
+[70107A. Repealed.]
 
 70108. Foreign port assessment.
 
@@ -36,9 +36,7 @@ Sec.
 
 70115. Long-range vessel tracking system.
 
-70116. Secure systems of transportation.
-
-[70117. Repealed.]
+[70116, 70117. Repealed.]
 
 70118. Enforcement by State and local officers.
 
@@ -63,6 +61,8 @@ Sec.
 70132. Credentialing standards, training, and certification for State and local support for the enforcement of security zones for the transportation of especially hazardous cargo.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–254, div. J, §1809(c)(1), Oct. 5, 2018, 132 Stat. 3538, struck out items 70107A "Interagency operational centers for port security" and 70116 "Secure systems of transportation".
 
 **2016**—Pub. L. 114–120, title III, §306(a)(8), Feb. 8, 2016, 130 Stat. 54, inserted a period at end of item 70107A and substituted "Security Advisory Committees" for "security advisory committees" in item 70112 and "Watch Program" for "watch program" in item 70122.
 

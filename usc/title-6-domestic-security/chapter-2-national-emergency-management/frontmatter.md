@@ -48,6 +48,8 @@ Sec.
 
 748. Training and exercises.
 
+748a. Prioritization of facilities.
+
 749. Comprehensive assessment system.
 
 750. Remedial action management program.

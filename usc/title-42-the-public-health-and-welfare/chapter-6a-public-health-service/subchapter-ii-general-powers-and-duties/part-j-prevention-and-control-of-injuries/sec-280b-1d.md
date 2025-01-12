@@ -16,13 +16,19 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 Not later than 18 months after April 28, 2008, the Secretary, acting through the Director of the Centers for Disease Control and Prevention and the Director of the National Institutes of Health and in consultation with the Secretary of Defense and the Secretary of Veterans Affairs, shall submit to the relevant committees of Congress a report that contains the findings derived from an evaluation concerning activities and procedures that can be implemented by the Centers for Disease Control and Prevention to improve the collection and dissemination of compatible epidemiological studies on the incidence and prevalence of traumatic brain injury in individuals who were formerly in the military. The report shall include recommendations on the manner in which such agencies can further collaborate on the development and improvement of traumatic brain injury diagnostic tools and treatments.
 
-(July 1, 1944, ch. 373, title III, §393C, formerly §393B, as added Pub. L. 106–310, div. A, title XIII, §1301(b), Oct. 17, 2000, 114 Stat. 1137; renumbered §393C and amended Pub. L. 110–206, §§2(3), 3(b), (c), Apr. 28, 2008, 122 Stat. 714, 715.)
+#### (c) National concussion data collection and analysis ####
+
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may implement concussion data collection and analysis to determine the prevalence and incidence of concussion.
+
+(July 1, 1944, ch. 373, title III, §393C, formerly §393B, as added Pub. L. 106–310, div. A, title XIII, §1301(b), Oct. 17, 2000, 114 Stat. 1137; renumbered §393C and amended Pub. L. 110–206, §§2(3), 3(b), (c), Apr. 28, 2008, 122 Stat. 714, 715; Pub. L. 115–377, §2(1), Dec. 21, 2018, 132 Stat. 5114.)
 
 #### Prior Provisions ####
 
 A prior section 393C of act July 1, 1944, was renumbered section 393A and is classified to section 280b–1b of this title.
 
 #### Amendments ####
+
+**2018**—Subsec. (c). Pub. L. 115–377 added subsec. (c).
 
 **2008**—Pub. L. 110–206, §3(b)(1), inserted "surveillance and" after "National program for traumatic brain injury" in section catchline.
 

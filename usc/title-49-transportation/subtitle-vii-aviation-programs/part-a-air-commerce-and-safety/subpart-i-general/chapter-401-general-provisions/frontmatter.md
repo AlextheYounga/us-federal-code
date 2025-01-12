@@ -38,7 +38,7 @@ Sec.
 
 40118. Government-financed air transportation.
 
-40119. Security and research and development activities.
+40119. [Reserved].
 
 40120. Relationship to other laws.
 
@@ -63,6 +63,8 @@ Sec.
 40130. FAA authority to conduct criminal history record checks.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–254, div. K, title I, §1991(c)(4), Oct. 5, 2018, 132 Stat. 3627, substituted "[Reserved]" for "Security and research and development activities" in item 40119.
 
 **2012**—Pub. L. 112–95, title I, §111(c)(3), title VIII, §802(b), Feb. 14, 2012, 126 Stat. 18, 119, substituted "Passenger facility charges" for "Passenger facility fees" in item 40117 and added item 40130.
 

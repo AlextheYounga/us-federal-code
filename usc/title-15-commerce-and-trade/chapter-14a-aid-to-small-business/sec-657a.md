@@ -606,7 +606,11 @@ Subsec. (d). Pub. L. 106–554, §1(a)(9) [title V, §503(b)], added subsec. (d)
 
 #### Effective Date of 2017 Amendment ####
 
-Amendment by Pub. L. 115–91 effective Jan. 1, 2020, see section 1701(j) of Pub. L. 115–91, set out as a note under section 2323 of Title 10, Armed Forces.
+Pub. L. 115–91, div. A, title XVII, §1701(j), Dec. 12, 2017, 131 Stat. 1803, provided that: "The provisions of this section shall take effect—
+
+"(1) with respect to subsection (i) [enacting provisions set out as a note under this section], on the date of the enactment of this section [Dec. 12, 2017]; and
+
+"(2) with respect to subsections (a) through (h) [amending this section, sections 632 and 637 of this title, section 2323 of Title 10, Armed Forces, section 3718 of Title 31, Money and Finance, sections 1122 and 1713 of Title 41, Public Contracts, and sections 47107 and 47113 of Title 49, Transportation, amending provisions set out as notes under section 2302 of Title 10 and section 637 of this title, and repealing provisions set out as a note under section 632 of this title], on January 1, 2020."
 
 #### Effective Date ####
 

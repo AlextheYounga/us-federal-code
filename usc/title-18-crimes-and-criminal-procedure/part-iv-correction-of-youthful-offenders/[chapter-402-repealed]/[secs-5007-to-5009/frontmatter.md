@@ -1,4 +1,4 @@
-### [§§5007 to 5009. Repealed Pub. L. 94–233, §5, Mar. 15, 1976, 90 Stat. 231] ###
+### [§§5007 to 5009. Repealed. Pub. L. 94–233, §5, Mar. 15, 1976, 90 Stat. 231] ###
 
 Section 5007, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1086, provided for meetings and duties of members of Youth Correction Division.
 

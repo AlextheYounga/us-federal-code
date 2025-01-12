@@ -66,6 +66,8 @@ Subtitle V—Programs Targeting Commercial Opportunities
 
 513. Space resource commercial exploration and utilization 1 51301
 
+515. Office of Spaceports 51501
+
 Subtitle VI—Earth Observations
 ----------
 
@@ -93,6 +95,8 @@ Subtitle VII—Access to Space
 713. Cooperation for Safety Among Spacefaring Nations 71301
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–254, div. B, title V, §580(b)(2), Oct. 5, 2018, 132 Stat. 3396, added item 515.
 
 **2017**—Pub. L. 115–10, title IV, §416(b), Mar. 21, 2017, 131 Stat. 35, struck out item for chapter 703 "Shuttle Pricing Policy for Commercial and Foreign Users".
 

@@ -20,7 +20,7 @@ Sec.
 
 921a. Integration of detection equipment and technologies.
 
-922. Inspection of car ferries entering from abroad.
+922. Repealed.
 
 923. Random searches of containers.
 
@@ -82,7 +82,7 @@ Sec.
 
 983. Inspection technology and training.
 
-984. Pilot program to improve the security of empty containers.
+984. Repealed.
 
 985. Information sharing relating to supply chain security cooperation.
 

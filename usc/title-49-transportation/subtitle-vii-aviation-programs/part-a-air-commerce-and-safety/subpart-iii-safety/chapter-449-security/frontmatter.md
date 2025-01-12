@@ -40,13 +40,13 @@ Sec.
 
 44918. Crew training.
 
-44919. Security screening pilot program.
+44919. PreCheck Program.
 
-44920. Security screening opt-out program.
+44920. Security screening opt-out program. 1
 
 44921. Federal flight deck officer program.
 
-44922. Deputation of State and local law enforcement officers.
+44922. Deputization of State and local law enforcement officers.
 
 44923. Airport security improvement projects.
 
@@ -60,9 +60,13 @@ Sec.
 
 44928. Honor Flight program.
 
+44929. Donation of screening equipment to protect the United States.
+
 #### SUBCHAPTER II—ADMINISTRATION AND PERSONNEL ####
 
-[44931, 44932. Repealed.]
+44931. Authority to exempt.
+
+44932. Administrative.
 
 44933. Federal Security Managers.
 
@@ -82,9 +86,9 @@ Sec.
 
 44941. Immunity for reporting suspicious activities.
 
-44942. Performance goals and objectives. 1
+44942. Performance goals and objectives.
 
-44943. Performance management system. 1
+44943. Performance management system.
 
 44944. Voluntary provision of emergency services.
 
@@ -92,7 +96,13 @@ Sec.
 
 44946. Aviation Security Advisory Committee.
 
+44947. Air cargo security division.
+
+44948. National Deployment Office.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–254, div. K, title I, §§1937(b)(2), 1943(b), 1955(a)(2), 1988(b), 1991(j)(2), 1992, Oct. 5, 2018, 132 Stat. 3579, 3584, 3596, 3623, 3646, added items 44929, 44931, 44932, 44942, 44943, 44947, and 44948 and substituted "PreCheck Program" for "Security screening pilot program" in item 44919 and "Deputization" for "Deputation" in item 44922.
 
 **2014**—Pub. L. 113–238, §2(b), Dec. 18, 2014, 128 Stat. 2846, which directed amendment of analysis for subchapter II of chapter 449 of title 49 by adding item 44946 at the end, was executed by adding item 44946 to analysis for this chapter to reflect the probable intent of Congress.
 
@@ -120,4 +130,4 @@ Pub. L. 107–71, title I, §118(b), Nov. 19, 2001, 115 Stat. 627, which directe
 
 **1996**—Pub. L. 104–264, title III, §312(b), Oct. 9, 1996, 110 Stat. 3254, added item 44916.
 
-[<sup>1</sup> Editorially supplied. Section added by Pub. L. 107–71 without corresponding amendment of chapter analysis.](#CHAPTER449_1)
+[<sup>1</sup> Section catchline amended by Pub. L. 115–254 without corresponding amendment of chapter analysis.](#CHAPTER449_1)

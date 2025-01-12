@@ -18,9 +18,15 @@ Sec.
 
 1115. Training.
 
-1116. Reports and studies.
+1116. Reports, studies, and retrospective reviews.
 
-1117. Annual report.
+117. 1
+
+Methodology.
+
+1117. 2
+
+Annual report.
 
 1118. Authorization of appropriations.
 
@@ -42,9 +48,11 @@ Sec.
 
 1137. Authority of the Inspector General.
 
-1138. Evaluation and audit of National Transportation Safety Board 1
+1138. Evaluation and audit of National Transportation Safety Board.
 
 1139. Assistance to families of passengers involved in rail passenger accidents.
+
+1140. Information for families of individuals involved in accidents.
 
 #### SUBCHAPTER IV—ENFORCEMENT AND PENALTIES ####
 
@@ -60,6 +68,8 @@ Sec.
 
 #### Amendments ####
 
+**2018**—Pub. L. 115–254, div. C, §§1107(b)(2), 1109(e)(2), 1111(b), 1113(a), Oct. 5, 2018, 132 Stat. 3433, 3435, 3436, 3438, added items 117 and 1140 and substituted "Reports, studies, and retrospective reviews" for "Reports and studies" in item 1116 and "Board." for "Board" in item 1138.
+
 **2008**—Pub. L. 110–432, div. A, title V, §501(b), Oct. 16, 2008, 122 Stat. 4897, added item 1139.
 
 **2006**—Pub. L. 109–443, §5(b), Dec. 21, 2006, 120 Stat. 3300, added item 1138.
@@ -70,4 +80,6 @@ Sec.
 
 **1994**—Pub. L. 103–272, §1(c), (d), July 5, 1994, 108 Stat. 745, added subtitle II (comprised of chapter 11, §§1101–1155) and struck out former subtitle II, except that chapter 31 (comprised of §§3101–3104) of subtitle II was redesignated and restated as chapter 315 (comprised of §§31501–31504) of subtitle VI, as enacted by Pub. L. 103–272, §1(e).
 
-[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER11_1)
+[<sup>1</sup> So in original. Probably should be "1117."](#CHAPTER11_1)
+
+[<sup>2</sup> So in original. New item for section 1117 added without striking out former item 1117.](#CHAPTER11_2)

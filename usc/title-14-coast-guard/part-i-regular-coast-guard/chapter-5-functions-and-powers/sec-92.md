@@ -256,7 +256,7 @@ Pub. L. 93–391, title I, Aug. 28, 1974, 88 Stat. 769.
 
 Pub. L. 93–98, title I, Aug. 16, 1973, 87 Stat. 330.
 
-Pub. L. 93–398, title I, Aug. 22, 1972, 86 Stat. 581.
+Pub. L. 92–398, title I, Aug. 22, 1972, 86 Stat. 581.
 
 Pub. L. 92–74, title I, Aug. 10, 1971, 85 Stat. 202.
 

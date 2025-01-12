@@ -24,13 +24,15 @@ Sec.
 
 48111. Funding proposals.
 
-48112. Adjustment to AIP program funding.
+[48112. Repealed.]
 
 48113. Reprogramming notification requirement.
 
 48114. Funding for aviation programs.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–254, div. B, title I, §115, Oct. 5, 2018, 132 Stat. 3201, struck out item 48112 "Adjustment to AIP program funding".
 
 **2003**—Pub. L. 108–176, title I, §104(b), Dec. 12, 2003, 117 Stat. 2497, added item 48114.
 

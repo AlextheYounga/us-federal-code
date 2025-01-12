@@ -14,7 +14,7 @@ Sec.
 
 44506. Air traffic controllers.
 
-44507. Civil aeromedical research.
+44507. Regions and centers.
 
 44508. Research advisory committee.
 
@@ -34,9 +34,13 @@ Sec.
 
 44516. Human factors program.
 
-44517. Program to permit cost sharing of air traffic modernization projects.
+44517.
+
+44518. Advanced Materials Center of Excellence.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–254, div. B, title V, §524(b), title VII, §762(b), Oct. 5, 2018, 132 Stat. 3364, 3428, substituted "Regions and centers" for "Civil aeromedical research" in item 44507 and added item 44518.
 
 **2003**—Pub. L. 108–176, title I, §183(b), Dec. 12, 2003, 117 Stat. 2517, added item 44517.
 

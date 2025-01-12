@@ -38,7 +38,7 @@ Sec.
 
 41717. Interim application of slot rules at Chicago O'Hare International Airport.
 
-41718. Special Rules 1 for Ronald Reagan Washington National Airport.
+41718. Special rules for Ronald Reagan Washington National Airport.
 
 41719. Air service termination notice.
 
@@ -51,6 +51,10 @@ Sec.
 41723. Notice concerning aircraft assembly.
 
 41724. Musical instruments.
+
+41725. Prohibition on certain cell phone voice communications.
+
+41726. Strollers.
 
 #### SUBCHAPTER II—SMALL COMMUNITY AIR SERVICE ####
 
@@ -108,6 +112,8 @@ Sec.
 
 #### Amendments ####
 
+**2018**—Pub. L. 115–254, div. B, title IV, §§403(b), 412(b), title V, §539(e), Oct. 5, 2018, 132 Stat. 3329, 3332, 3370, added items 41725 and 41726 and substituted "rules" for "Rules" in item 41718.
+
 **2012**—Pub. L. 112–95, title IV, §403(b), Feb. 14, 2012, 126 Stat. 85, which directed amendment of analysis for "such subchapter", meaning subchapter I of chapter 417, by adding item 41724 at the end, was executed by adding item 41724 to analysis for this chapter to reflect the probable intent of Congress.
 
 Pub. L. 112–95, title IV, §§401(b), 430, Feb. 14, 2012, 126 Stat. 83, 100, substituted "Prohibitions against smoking on passenger flights" for "Prohibitions against smoking on scheduled flights" in item 41706, and struck out item 41747 "EAS local participation program".
@@ -123,5 +129,3 @@ Pub. L. 112–95, title IV, §§401(b), 430, Feb. 14, 2012, 126 Stat. 83, 100, s
 **1994**—Pub. L. 103–429, §6(52), Oct. 31, 1994, 108 Stat. 4385, made technical correction to chapter heading.
 
 Pub. L. 103–305, title II, §§206(b), 207(b), Aug. 23, 1994, 108 Stat. 1587, 1588, added items 41714 and 41715.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER417_1)

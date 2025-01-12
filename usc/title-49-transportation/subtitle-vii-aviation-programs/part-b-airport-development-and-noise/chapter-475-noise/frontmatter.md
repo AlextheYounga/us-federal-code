@@ -24,6 +24,8 @@ Sec.
 
 47510. Tradeoff allowance.
 
+47511. CLEEN engine and airframe technology partnership.
+
 #### SUBCHAPTER II—NATIONAL AVIATION NOISE POLICY ####
 
 47521. Findings.
@@ -55,6 +57,8 @@ Sec.
 47534. Prohibition on operating certain aircraft weighing 75,000 pounds or less not complying with stage 3 noise levels.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–254, div. B, title VII, §743(b), Oct. 5, 2018, 132 Stat. 3413, added item 47511.
 
 **2012**—Pub. L. 112–95, title V, §506(b)(3), Feb. 14, 2012, 126 Stat. 106, which directed amendment of the analysis for subchapter II of this chapter by substituting "Penalties" for "Penalties for violating sections 47528–47530" in item 47531 and by adding item 47534, was executed to the analysis for this chapter to reflect the probable intent of Congress.
 

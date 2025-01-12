@@ -48,7 +48,11 @@ Sec.
 
 103. Notification of certain determinations.
 
+104. Protecting against unmanned aircraft.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–254, div. H, §1603(b), Oct. 5, 2018, 132 Stat. 3530, added item 104.
 
 **2014**—Pub. L. 113–281, title II, §§206(c), 210(b), title V, §§501(b), 506(b), Dec. 18, 2014, 128 Stat. 3026, 3027, 3057, 3060, added items 87, 90, 102, and 103.
 
