@@ -78,7 +78,7 @@ The term "classified" means anything containing—
 
 #### (3) Controlled unclassified information ####
 
-The term "controlled unclassified information" means information described as "Controlled Unclassified Information" under Executive Order 13556 (50 U.S.C. 3501 note)<sup><a href="#195e_1_target" name="195e_1">1</a></sup> or any successor order.
+The term "controlled unclassified information" means information described as "Controlled Unclassified Information" under Executive Order 13556 (50 U.S.C. 3501 note) <sup><a href="#195e_1_target" name="195e_1">1</a></sup> or any successor order.
 
 #### (4) Project ####
 
@@ -92,12 +92,10 @@ Nothing in this section overrides or otherwise affects the requirements specifie
 
 #### References in Text ####
 
-Executive Order 13526, referred to in subsec. (d)(2)(A), (D), (3), is set out as a note under section 3161 of Title 50, War and National Defense.
-
 Executive Order 13556, referred to in subsec. (d)(3), is set out as a note under section 3501 of Title 44, Public Printing and Documents.
 
 #### Codification ####
 
 Another section 319 of Pub. L. 107–296 is classified to section 195f of this title.
 
-[<sup>1</sup> See References in Text note below..](#195e_1)
+[<sup>1</sup> See References in Text note below.](#195e_1)

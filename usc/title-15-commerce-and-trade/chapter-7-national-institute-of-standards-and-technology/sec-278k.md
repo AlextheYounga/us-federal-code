@@ -416,7 +416,7 @@ As part of the Program, the Secretary shall develop open access resources that a
 
 The Federal Advisory Committee Act, referred to in subsec. (m)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-Subsections (c) and (d) of section 278i of this title, referred to in subsec. (m)(5)(B), which related to 3-year programmatic planning documents and annual updates, were struck out by Pub. L. 114–329, title II, §204(a)(1)(B)(i), Jan. 6, 2017, 130 Stat. 2998.
+Subsections (c) and (d) of section 278i of this title, referred to in subsec. (m)(5)(B), which related to 3-year programmatic planning documents and annual updates, were repealed by Pub. L. 114–329, title II, §204(a)(1)(B)(i), Jan. 6, 2017, 130 Stat. 2998.
 
 #### Amendments ####
 

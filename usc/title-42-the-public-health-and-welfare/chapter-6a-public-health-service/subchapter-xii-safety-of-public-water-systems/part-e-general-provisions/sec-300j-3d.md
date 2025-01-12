@@ -36,4 +36,4 @@ Section was enacted as part of Water and Waste Act of 2016, and also as part of 
 
 #### Definition of "Administrator" ####
 
-Pub. L. 114–322, title II, §2002, Dec. 16, 2016, 130 Stat. 1716, provided that: "In this title [see section 2001 of Pub. L. 114–322, set out as a Short Title of 2016 Amendment note], the term 'Administrator' means the Administrator of the Environmental Protection Agency."
+Pub. L. 114–322, title II, §2002, Dec. 16, 2016, 130 Stat. 1716, provided that: "In this title [see section 2001 of Pub. L. 114–322, set out as a Short Title of 2016 Amendment note under section 201 of this title], the term 'Administrator' means the Administrator of the Environmental Protection Agency."

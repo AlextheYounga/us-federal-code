@@ -126,7 +126,7 @@ Pub. L. 108–422, title IV, §411(c)(2), (f), Nov. 30, 2004, 118 Stat. 2389, 23
 
 #### Amendments ####
 
-**2016**—Par. 8120. Pub. L. 114–315, title VIII, §801(d)(2), Dec. 16, 2016, 130 Stat. 1591, added item 8120.
+**2016**—Pub. L. 114–315, title VIII, §801(d)(2), Dec. 16, 2016, 130 Stat. 1591, added item 8120.
 
 **2012**—Pub. L. 112—154, title II, §211(i)(3), Aug. 6, 2012, 126 Stat. 1182, added item 8168.
 

@@ -14,4 +14,8 @@ Sec.
 
 3206. Global tsunami warning and mitigation network.
 
+3206a. Tsunami Science and Technology Advisory Panel.
+
 3207. Authorization of appropriations.
+
+3208. Outreach responsibilities.

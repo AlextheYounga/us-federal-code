@@ -30,7 +30,7 @@ The annual report of the Secretary which is required by section 1671 of title 25
 
 (C) Services furnished by a physical therapist or occupational therapist as described in section 1395x(p) of this title for which payment under part B is made under a fee schedule.
 
-(3) Subsection (c) of this section shall not apply to payments made under this subsection.
+(3) Subsection (c) shall not apply to payments made under this subsection.
 
 #### (f) Cross reference ####
 

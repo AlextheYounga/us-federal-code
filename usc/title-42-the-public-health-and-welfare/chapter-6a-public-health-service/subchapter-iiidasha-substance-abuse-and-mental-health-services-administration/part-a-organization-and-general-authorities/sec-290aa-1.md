@@ -142,7 +142,7 @@ Subsec. (a)(2)(A)(i), (B). Pub. L. 114–255, §6001(c)(2), substituted "Assista
 
 Subsec. (b)(2)(B). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator".
 
-Subsec. (b)(2)(E) to (J). Pub. L. 114–255, §6008(1), added subpars. (F) to (I) and redesignated former subpar. (F) as (J).
+Subsec. (b)(2)(F) to (J). Pub. L. 114–255, §6008(1), added subpars. (F) to (I) and redesignated former subpar. (F) as (J).
 
 Subsec. (b)(3)(C), (D). Pub. L. 114–255, §6008(2), added subpars. (C) and (D).
 

@@ -102,7 +102,7 @@ Not later than one year after August 3, 2007, and every 5 years thereafter, the 
 
 (1) a brief description of each grant, cooperative agreement, or contract made or entered into under subsection (b)(3)(C), including the participants, goals, and amount and sources of funding;
 
-(2) a list of international cooperative activities underway, including the participants, goals, expected duration, and amount and sources of funding, including resources provided to support the activities in lieu of direct funding; and
+(2) a list of international cooperative activities underway, including the participants, goals, expected duration, and amount and sources of funding, including resources provided to support the activities in lieu of direct funding; and <sup><a href="#195c_1_target" name="195c_1">1</a></sup>
 
 (3) for international cooperative activities identified in the previous reporting period, a status update on the progress of such activities, including whether goals were realized, explaining any lessons learned, and evaluating overall success; and
 
@@ -165,3 +165,5 @@ Pub. L. 110–53, title XIX, §1901(a), Aug. 3, 2007, 121 Stat. 505, provided th
 #### Transparency of Funds ####
 
 Pub. L. 110–53, title XIX, §1902, Aug. 3, 2007, 121 Stat. 508, provided that: "For each Federal award (as that term is defined in section 2 of the Federal Funding Accountability and Transparency Act of 2006 [Pub. L. 109–282] (31 U.S.C. 6101 note)) under this title [enacting this section and provisions set out as notes under this section] or an amendment made by this title, the Director of the Office of Management and Budget shall ensure full and timely compliance with the requirements of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note)."
+
+[<sup>1</sup> So in original. The word "and" probably should not appear.](#195c_1)

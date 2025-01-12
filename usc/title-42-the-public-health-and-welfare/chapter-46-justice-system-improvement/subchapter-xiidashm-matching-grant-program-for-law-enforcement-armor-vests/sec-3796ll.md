@@ -88,7 +88,7 @@ A prior section 2501 of Pub. L. 90–351 was renumbered section 2601 and is clas
 
 #### Amendments ####
 
-**2016**—Subsec. (c)(2) to (5). Pub. L. 114–155, §7, substituted "; and" for "; or" at end of par. (3), added par. (4), and redesignated former par. (4) as (5).
+**2016**—Subsec. (c)(2) to (5). Pub. L. 114–155, §7, struck out "and" at end of par. (2), substituted "; and" for "; or" at end of par. (3), added par. (4), and redesignated former par. (4) as (5).
 
 Subsec. (f)(3), (4). Pub. L. 114–155, §5, added par. (3) and redesignated former par. (3) as (4).
 

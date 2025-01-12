@@ -1,4 +1,4 @@
-### §80c. Liaison between Securities Exchange Commission and Small Business Administration ###
+### §80c. Liaison between Securities and Exchange Commission and Small Business Administration ###
 
 #### (a) Studies on needs, problems, and costs of businesses; availability ####
 

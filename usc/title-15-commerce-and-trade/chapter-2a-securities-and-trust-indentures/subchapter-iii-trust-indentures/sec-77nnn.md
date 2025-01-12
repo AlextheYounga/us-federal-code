@@ -42,7 +42,7 @@ If the indenture to be qualified is or is to be secured by the mortgage or pledg
 
 (3) to such obligor of any property the subjection of which to the lien of the indenture is to be made the basis for the authentication and delivery of indenture securities, the withdrawal of cash constituting a part of the trust estate, or the release of property or securities subject to the lien of the indenture, and requiring further that if
 
-(A) within six months prior to the d'te of acquisition thereof by such obligor, such property has been used or operated, by a person or persons other than such obligor, in a business similar to that in which it has been or is to be used or operated by such obligor, and
+(A) within six months prior to the date of acquisition thereof by such obligor, such property has been used or operated, by a person or persons other than such obligor, in a business similar to that in which it has been or is to be used or operated by such obligor, and
 
 (B) the fair value to such obligor of such property as set forth in such certificate or opinion is not less than $25,000 and not less than 1 per centum of the aggregate principal amount of the indenture securities at the time outstanding,
 

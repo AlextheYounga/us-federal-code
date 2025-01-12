@@ -12,7 +12,7 @@ The strategy required under subsection (a) shall include the following:
 
 (2) Information on the programs, policies, and activities that are required to successfully execute the full range of the Secretary's cybersecurity responsibilities, including programs, policies, and activities in furtherance of the following:
 
-(A) Cybersecurity functions set forth in the section 148 of this title (relating to the national cybersecurity and communications integration center).
+(A) Cybersecurity functions set forth in the <sup><a href="#149a_1_target" name="149a_1">1</a></sup> section 148 of this title (relating to the national cybersecurity and communications integration center).
 
 (B) Cybersecurity investigations capabilities.
 
@@ -65,3 +65,5 @@ Nothing in this section may be construed as permitting the Department to engage 
 In this section, the term "Homeland Security Enterprise" means relevant governmental and nongovernmental entities involved in homeland security, including Federal, State, local, and tribal government officials, private sector representatives, academics, and other policy experts.
 
 (Pub. L. 107–296, title II, §228A, as added Pub. L. 114–328, div. A, title XIX, §1912(a), Dec. 23, 2016, 130 Stat. 2683.)
+
+[<sup>1</sup> So in original.](#149a_1)

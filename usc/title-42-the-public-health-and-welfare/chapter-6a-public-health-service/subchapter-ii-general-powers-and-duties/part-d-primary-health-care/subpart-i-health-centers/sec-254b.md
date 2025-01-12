@@ -790,7 +790,7 @@ There is authorized to be appropriated to carry out this subsection, such sums a
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (d)(1)(E), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. The Credit Reform Act of 1990, referred to in subsec. (d)(4)(A), probably means the Federal Credit Reform Act of 1990. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
-Section 290cc–34(4) of this title, referred to in subsec. (h)(5)(B), was amended generally by Pub. L. 114–255, div. B, title IX, §9004(e), Dec. 13, 2016, 130 Stat. 1238, and, as so amended, no longer defines "substance abuse" but instead defines "substance use disorder services". For definition of "substance abuse" in section 290cc–34(4) of this title prior to amendment, see 2016 Amendment note under that section.
+Section 290cc–34 of this title, referred to in subsec. (h)(5)(B), was subsequently amended, and no longer defines the term "substance abuse".
 
 The Social Security Act, referred to in subsec. (k)(3)(E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII, XIX, and XXI of the Act are classified generally to subchapters XVIII (§1395 et seq.), XIX (§1396 et seq.), and XXI (§1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

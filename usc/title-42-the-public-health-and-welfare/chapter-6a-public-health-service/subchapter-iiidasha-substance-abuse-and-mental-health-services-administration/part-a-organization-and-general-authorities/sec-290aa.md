@@ -430,39 +430,37 @@ Subsec. (f)(2)(C)(iii). Pub. L. 114–255, §6003(3), substituted "subsection (m
 
 Subsec. (f)(2)(D)(iii). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator".
 
-Subsec. (g). Pub. L. 114–255, §6003(1), (4), added subsec. (g) and redesignated former (g) as (h).
+Subsec. (g). Pub. L. 114–255, §6003(4), added subsec. (g). Former subsec. (g) redesignated (h).
 
 Subsec. (g)(1). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator".
 
-Subsec. (h). Pub. L. 114–255, §6003(1), redesignated subsec. (h) as (i).
+Subsec. (h). Pub. L. 114–255, §6003(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
 Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator".
 
-Subsec. (i). Pub. L. 114–255, §6003(1), redesignated subsec. (i) as (j).
+Subsec. (i). Pub. L. 114–255, §6003(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
 Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator".
 
-Subsec. (j). Pub. L. 114–255, §6003(1), redesignated subsec. (j) as (k).
+Subsec. (j). Pub. L. 114–255, §6003(1), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
 Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator".
 
-Subsec. (k). Pub. L. 114–255, §6003(1), redesignated subsec. (k) as (m).
+Subsec. (k). Pub. L. 114–255, §6003(1), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (m).
 
 Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator" in introductory provisions.
 
 Subsec. (l). Pub. L. 114–255, §6005, added subsec. (l). Former subsec. (l) redesignated (n).
 
-Pub. L. 114–255, §6003(1), redesignated subsec. (l) as (n).
-
 Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator" in introductory provisions.
 
 Subsec. (m). Pub. L. 114–255, §6006(a), amended subsec. (m) generally, substituting requirements for biennial reports beginning no later than September 30, 2020, for requirements for biennial reports beginning no later than February 10, 1994.
 
-Pub. L. 114–255, §6003(1), redesignated subsec. (m) as (o).
+Pub. L. 114–255, §6003(1), redesignated subsec. (k) as (m). Former subsec. (m) redesignated (o).
 
 Subsec. (m)(4). Pub. L. 114–255, §6002(3), added par. (4).
 
-Subsecs. (n) to (q). Pub. L. 114–255, §6003(1), redesignated subsecs. (n) and (o) as (p) and (q), respectively.
+Subsecs. (n) to (q). Pub. L. 114–255, §6003(1), redesignated subsecs. (l) to (o) as (n) to (q), respectively.
 
 **2010**—Subsec. (f)(1). Pub. L. 111–148, §3509(d)(1), inserted "who shall report directly to the Administrator" before period at end.
 

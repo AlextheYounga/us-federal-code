@@ -14,7 +14,7 @@ Health benefits coverage that meets the following requirements:
 
 #### (A) Inclusion of basic services ####
 
-The coverage includes benefits for items and services within each of the categories of basic services described in subsection (c)(1) of this section.
+The coverage includes benefits for items and services within each of the categories of basic services described in subsection (c)(1).
 
 #### (B) Aggregate actuarial value equivalent to benchmark package ####
 
@@ -22,11 +22,11 @@ The coverage has an aggregate actuarial value that is at least actuarially equiv
 
 #### (C) Substantial actuarial value for additional services included in benchmark package ####
 
-With respect to each of the categories of additional services described in subsection (c)(2) of this section for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
+With respect to each of the categories of additional services described in subsection (c)(2) for which coverage is provided under the benchmark benefit package used under subparagraph (B), the coverage has an actuarial value that is equal to at least 75 percent of the actuarial value of the coverage of that category of services in such package.
 
 #### (3) Existing comprehensive State-based coverage ####
 
-Health benefits coverage under an existing comprehensive State-based program, described in subsection (d)(1) of this section.
+Health benefits coverage under an existing comprehensive State-based program, described in subsection (d)(1).
 
 #### (4) Secretary-approved coverage ####
 
@@ -182,7 +182,7 @@ The State child health plan may only vary premiums, deductibles, coinsurance, an
 
 #### (2) No cost sharing on benefits for preventive services or pregnancy-related assistance ####
 
-The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the category of services described in subsection (c)(1)(D) of this section or for pregnancy-related assistance.
+The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the category of services described in subsection (c)(1)(D) or for pregnancy-related assistance.
 
 #### (3) Limitations on premiums and cost-sharing ####
 

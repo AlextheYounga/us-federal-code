@@ -32,7 +32,7 @@ The Secretary shall manage the position established pursuant to paragraph (1) in
 
 Subsec. (b)(1). Pub. L. 114–328, §1909(2)(A), substituted "tribal, and territorial governments, the private sector, and international partners" for "and tribal governments" and "for events, threats, and incidents involving" for "in the event of" and struck out "and" at end.
 
-Subsec. (b)(2). Pub. L. 114–328, §1909(2)(B), substituted "; and" for period at end.
+Subsec. (b)(2). Pub. L. 114–328, §1909(2)(B), substituted "; and" for period at end.
 
 Subsec. (b)(3). Pub. L. 114–328, §1909(2)(C), added par. (3).
 
@@ -40,6 +40,6 @@ Subsec. (c). Pub. L. 114–328, §1909(4)(A), substituted "emergency responder" 
 
 Subsec. (c)(1). Pub. L. 114–328, §1909(4)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Secretary shall, in consultation with the Administrator of the United States Fire Administration, establish a fire service position at the National Operations Center established under subsection (b) to ensure the effective sharing of information between the Federal Government and State and local fire services."
 
-Subsec. (c)(2), (3). Pub. L. 114–328, §1909(4)(C), (D), redesignated par. (3) as (2) and struck out former par. (2). Text of par. (2) read as follows: "The Secretary shall designate, on a rotating basis, a State or local fire service official for the position described in paragraph (1)."
+Subsec. (c)(2), (3). Pub. L. 114–328, §1909(4)(C), (D), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "The Secretary shall designate, on a rotating basis, a State or local fire service official for the position described in paragraph (1)."
 
 **2008**—Subsec. (c). Pub. L. 110–376 added subsec. (c).

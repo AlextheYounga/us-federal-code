@@ -6,7 +6,7 @@ In the case of any security which is not registered under the Securities Act of 
 
 (1) to make use of any means or instruments of transportation or communication in interstate commerce or of the mails to sell such security through the use or medium of any prospectus or otherwise; or
 
-(2) to carry or cause to be carried through the mails or interstate commerce, by any means or instruments of transportation, any such security for the purpose of sale or for delivery after sale.
+(2) to carry or cause to be carried through the mails or in interstate commerce, by any means or instruments of transportation, any such security for the purpose of sale or for delivery after sale.
 
 #### (b) Prohibitions affecting unregistered securities issued under indenture ####
 

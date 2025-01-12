@@ -28,7 +28,7 @@ Sec.
 
 2612. Entry into customs territory of the United States.
 
-2613. Disclosure of data.
+2613. Confidential information.
 
 2614. Prohibited acts.
 

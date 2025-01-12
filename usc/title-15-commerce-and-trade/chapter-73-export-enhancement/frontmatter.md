@@ -20,7 +20,7 @@ Sec.
 
 4721. United States and Foreign Commercial Service.
 
-4721a. State Trade coordination.
+4721a. State trade coordination.
 
 4722. Transferred.
 

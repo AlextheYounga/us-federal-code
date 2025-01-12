@@ -84,7 +84,7 @@ Another prior section 505 of act July 1, 1944, which was classified to section 2
 
 **2016**—Pub. L. 114–255, §6004(1), substituted "Center for behavioral health statistics and quality" for "Data collection" in section catchline.
 
-Subsec. (a). Pub. L. 114–255, §6004(2), (3), added subsec. (a) and redesignated former subsec. (a) as (b).
+Subsec. (a). Pub. L. 114–255, §6004(3), added subsec. (a). Former subsec. (a) redesignated (b).
 
 Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator" in introductory provisions and in par. (2).
 
@@ -100,7 +100,7 @@ Pub. L. 114–255, §6004(2), redesignated subsec. (b) as (c). Former subsec. (c
 
 Subsec. (c)(1). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator" in two places in introductory provisions.
 
-Subsec. (d). Pub. L. 114–255, §6004(6), inserted heading, in par. (1) inserted heading and in introductory provisions substituted "subsection (b)(1)" for "subsection (a)" and "Director" for "Assistant Secretary" in two places, in par. (1)(B) inserted "in coordination with the Centers for Disease Control and Prevention" at end, and in par. (2) inserted heading.
+Subsec. (d). Pub. L. 114–255, §6004(6), inserted heading, in par. (1) inserted heading and in introductory provisions substituted "subsection (b)(1)" for "subsection (a)" and "Director" for "Assistant Secretary" in two places, in par. (1)(B) inserted "in coordination with the Centers for Disease Control and Prevention" before semicolon at end, and in par. (2) inserted heading.
 
 Pub. L. 114–255, §6004(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e)
 

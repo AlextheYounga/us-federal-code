@@ -36,7 +36,7 @@ The Secretary, and each medicare contractor insofar as it provides services (inc
 
 (2) includes other published materials of the contractor,
 
-that relate to providers of services and suppliers under the programs under this subchapter (and subchapter XI of this chapter insofar as it relates to such programs).
+that relate to providers of services and suppliers under the programs under this subchapter (and subchapter XI insofar as it relates to such programs).
 
 #### (e) Encouragement of participation in education program activities ####
 

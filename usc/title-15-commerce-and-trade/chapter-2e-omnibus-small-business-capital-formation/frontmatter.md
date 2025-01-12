@@ -2,7 +2,7 @@
 
 Sec.
 
-80c. Liaison between Securities Exchange Commission and Small Business Administration.
+80c. Liaison between Securities and Exchange Commission and Small Business Administration.
 
 80c–1. Annual government-business forum on capital formation.
 

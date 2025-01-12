@@ -158,8 +158,6 @@ The term "water resources development project" includes an environmental infrast
 
 For purposes of this section, if an authorized water resources development project or separable element of the project has been modified by an Act of Congress, the date of the authorization of the project or separable element shall be deemed to be the date of the most recent modification.
 
-#### (g) Omitted ####
-
 (Pub. L. 114–322, title I, §1301, Dec. 16, 2016, 130 Stat. 1686.)
 
 #### Codification ####

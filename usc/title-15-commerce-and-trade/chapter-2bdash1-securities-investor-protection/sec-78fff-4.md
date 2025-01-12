@@ -32,7 +32,7 @@ Except as otherwise provided in this section, nothing in this section shall limi
 
 #### (e) Jurisdiction of Bankruptcy Courts ####
 
-After SIPC has published notice of the institution of a direct payment procedure under this section, any person aggrieved by any determination of SIPC with respect to his claim under subsection (c) may, within six months following mailing by SIPC of its determination with respect to such claim, seek a final adjudication of such claim. The courts of the United States having jurisdiction over cases under title 11 shall have original and exclusive jurisdiction of any civil action for the adjudication of such claim, without regard to the citizenship of the parties or the amount in controversy. Any such action shall be brought in the judicial district where the head office of the debtor is located. Any determination of the rights of a customer under subsection (c) shall not prejudice any other right or remedy of the customer against the member.
+After SIPC has published notice of the institution of a direct payment procedure under this section, any person aggrieved by any determination of SIPC with respect to his claim under subsection (c) may, within six months following mailing by SIPC of its determination with respect to such claim, seek a final adjudication of such claim. The courts of the United States having jurisdiction over cases under title 11 shall have original and exclusive jurisdiction of any civil action for the adjudication of such claim. Any such action shall be brought in the judicial district where the head office of the debtor is located. Any determination of the rights of a customer under subsection (c) shall not prejudice any other right or remedy of the customer against the member.
 
 #### (f) Discontinuance of direct payment procedures ####
 
@@ -50,7 +50,9 @@ A prior section 10 of Pub. L. 91–598 was renumbered section 14 and is classifi
 
 #### Amendments ####
 
-**1978**—Subsec. (e). Pub. L. 95–598 substituted in heading "Bankruptcy Courts" for "District Courts" and in text "courts of the United States having jurisdiction over cases under title 11" for "district courts of the United States" and struck out ", without regard to the citizenship of the parties or the amount in controversy" after "adjudication of such claim".
+**1978**—Subsec. (e). Pub. L. 95–598, §308(n)(3), which directed striking out ", without regard to the citizenship of the parties or the amount in the controversy", was executed by striking out ", without regard to the citizenship of the parties or the amount in controversy" after "adjudication of such claim" to reflect the probable intent of Congress.
+
+Pub. L. 95–598, §308(n)(1), (2), substituted "Bankruptcy Courts" for "District Courts" in heading and "courts of the United States having jurisdiction over cases under title 11" for "district courts of the United States" in text.
 
 #### Effective Date of 1978 Amendment ####
 

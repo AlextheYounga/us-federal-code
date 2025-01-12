@@ -32,7 +32,7 @@ Sec.
 
 701b–9. Availability of appropriations for expenses incident to operation of power boats or vessels; expenses defined; certification of expenditures.
 
-701b–10. Revolving fund; establishment; availability; reimbursement; transfer of funds; limitation.
+701b–10. Omitted.
 
 701b–11. Flood protection projects.
 

@@ -3823,9 +3823,9 @@ Subsec. (d)(5). Pub. L. 114–317, §3(3)(B), amended par. (5) generally. Prior 
 
 "(C) refer to the Chairperson of the Integrity Committee any allegation of wrongdoing determined by the Integrity Committee under subparagraph (A) to be potentially meritorious that cannot be referred to an agency under subparagraph (B)."
 
-Subsec. (d)(6)(A). Pub. L. 114–317, §3(3)(C)(i), substituted "paragraph (5)(C)" for "paragraph (5)(B)".
+Subsec. (d)(6)(A). Pub. L. 114–317, §3(3)(C)(i), substituted "paragraph (5)(B)" for "paragraph (5)(C)".
 
-Subsec. (d)(6)(B)(i). Pub. L. 114–317, §3(3)(C)(ii), substituted "may provide resources" for "shall provide assistance".
+Subsec. (d)(6)(B)(i). Pub. L. 114–317, §3(3)(C)(ii), substituted "shall provide assistance" for "may provide resources".
 
 Subsec. (d)(7)(B)(i)(V) to (VII). Pub. L. 114–317, §3(3)(D)(i)(I), added subcls. (V) to (VII).
 

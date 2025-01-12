@@ -388,7 +388,7 @@ In issuing such regulations, the Secretary shall—
 
 (ii) not include any requirement that conflicts with carrying out PACE programs under this section; and
 
-(iii) not include any requirement restricting the proportion of enrollees who are eligible for benefits under this subchapter or subchapter XIX of this chapter.
+(iii) not include any requirement restricting the proportion of enrollees who are eligible for benefits under this subchapter or subchapter XIX.
 
 #### (4) Construction ####
 

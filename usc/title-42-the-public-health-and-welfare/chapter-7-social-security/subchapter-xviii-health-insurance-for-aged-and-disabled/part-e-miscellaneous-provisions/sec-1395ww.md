@@ -332,7 +332,7 @@ There shall be substituted for the base cost reporting period described in claus
 
 (I) the hospital's allowable operating costs of inpatient hospital services recognized under this subchapter exceeded 115 percent of the hospital's target amount, and
 
-(II) the hospital would have a disproportionate patient percentage of at least 70 percent (as determined by the Secretary under subsection (d)(5)(F)(vi) of this section) if the hospital were a subsection (d) hospital.
+(II) the hospital would have a disproportionate patient percentage of at least 70 percent (as determined by the Secretary under subsection (d)(5)(F)(vi)) if the hospital were a subsection (d) hospital.
 
 (H)(i) In the case of a hospital or unit that is within a class of hospital described in clause (iv), for a cost reporting period beginning during fiscal years 1998 through 2002, the target amount for such a hospital or unit may not exceed the amount as updated up to or for such cost reporting period under clause (ii).
 
@@ -628,7 +628,7 @@ For purposes of this subsection, the term "region" means one of the nine census 
 
 (B) Reducing for value of outlier payments.—The Secretary shall reduce each of the average standardized amounts determined under subparagraph (A) by a factor equal to the proportion of payments under this subsection (as estimated by the Secretary) based on DRG prospective payment amounts which are additional payments described in paragraph (5)(A) (relating to outlier payments).
 
-(C) Maintaining budget neutrality for fiscal year 1985.—(i) For discharges occurring in fiscal year 1985, the Secretary shall adjust each of such average standardized amounts as may be required under subsection (e)(1)(B) of this section for that fiscal year.
+(C) Maintaining budget neutrality for fiscal year 1985.—(i) For discharges occurring in fiscal year 1985, the Secretary shall adjust each of such average standardized amounts as may be required under subsection (e)(1)(B) for that fiscal year.
 
 (ii) For discharges occurring after September 30, 1986, the Secretary shall further reduce each of the average standardized amounts (in a proportion which takes into account the differing effects of the standardization effected under paragraph (2)(C)(i)) so as to provide for a reduction in the total of the payments (attributable to this paragraph) made for discharges occurring on or after October 1, 1986, of an amount equal to the estimated reduction in the payment amounts under paragraph (5)(B) that would have resulted from the enactment of the amendments made by section 9104 of the Medicare and Medicaid Budget Reconciliation Amendments of 1985 and by section 4003(a)(1) of the Omnibus Budget Reconciliation Act of 1987 if the factor described in clause (ii)(II) of paragraph (5)(B) (determined without regard to amendments made by the Omnibus Budget Reconciliation Act of 1990) were applied for discharges occurring on or after such date instead of the factor described in clause (ii) of that paragraph.
 
@@ -1404,7 +1404,7 @@ The Secretary shall include in the publication referred to in subparagraph (A) f
 
 (v) 15 percent for payments attributable to portions of cost reporting periods or discharges (as the case may be) occurring during the period beginning January 1, 1990, and ending September 30, 1991.
 
-(B) Subparagraph (A) shall not apply to payments with respect to the capital-related costs of any hospital that is a sole community hospital (as defined in subsection (d)(5)(D)(iii)n) or a critical access hospital (as defined in section 1395x(mm)(1) of this title).
+(B) Subparagraph (A) shall not apply to payments with respect to the capital-related costs of any hospital that is a sole community hospital (as defined in subsection (d)(5)(D)(iii)) or a critical access hospital (as defined in section 1395x(mm)(1) of this title).
 
 (4) In determining the amount of the payments that are attributable to portions of cost reporting periods occurring during fiscal years 1998 through 2002 and that may be made under this subchapter with respect to capital-related costs of inpatient hospital services of a hospital which is described in clause (i), (ii), or (iv) of subsection (d)(1)(B) or a unit described in the matter after clause (v) of such subsection, the Secretary shall reduce the amounts of such payments otherwise determined under this subchapter by 15 percent.
 
@@ -4140,7 +4140,7 @@ Subsec. (d)(12). Pub. L. 108–173, §406(a), added par. (12).
 
 Subsec. (d)(13). Pub. L. 108–173, §505(a), added par. (13).
 
-Subsec. (g)(3)(B). Pub. L. 108–173, §736(a)(15), inserted closing parenthesis after "(as defined in subsection (d)(5)(D)(iii) of this section".
+Subsec. (g)(3)(B). Pub. L. 108–173, §736(a)(15), inserted closing parenthesis after "(as defined in subsection (d)(5)(D)(iii)".
 
 Subsec. (h)(2)(D)(iv)(I). Pub. L. 108–173, §711(1), in heading, inserted "and 2004 through 2013" after "and 2002" and, in text, inserted "or during the period beginning with fiscal year 2004 and ending with fiscal year 2013" after "during fiscal year 2001 or fiscal year 2002".
 
@@ -5122,9 +5122,9 @@ Subsec. (a)(4). Pub. L. 98–21, §601(a)(2), inserted provision that term "oper
 
 Pub. L. 97–448, §309(b)(13), substituted "as such costs are determined" for "and such costs are determined".
 
-Subsec. (b)(1). Pub. L. 98–21, §601(b)(1), (2), in provisions preceding subpar. (A), substituted "Notwithstanding section 1395f(b) of this title but subject to the provisions of section 1395e of this title" for "Notwithstanding sections 1395f(b) of this title, but subject to the provisions of sections 1395e of this title" and inserted "(other than a subsection (d) hospital, as defined in subsection (d)(1)(B))".
+Subsec. (b)(1). Pub. L. 98–21, §601(b)(1), (2), in provisions preceding subpar. (A), substituted "Notwithstanding section 1395f(b) of this title but subject to the provisions of section 1395e of this title" for "Notwithstanding sections 1395f(b) of this title, but subject to the provisions of sections 1395e of this title" and inserted "(other than a subsection (d) hospital, as defined in subsection (d)(1)(B))" after "of a hospital".
 
-Pub. L. 98–21, §601(b)(3), inserted "(other than on the basis of a DRG prospective payment rate determined under subsection (d))" in provisions following subpar. (B).
+Pub. L. 98–21, §601(b)(3), inserted "(other than on the basis of a DRG prospective payment rate determined under subsection (d))" after "payable under this subchapter" in provisions following subpar. (B).
 
 Pub. L. 97–448, §309(b)(14), substituted "section 1395f(b)" for "sections 1395f(b)" in provisions preceding subpar. (A).
 
