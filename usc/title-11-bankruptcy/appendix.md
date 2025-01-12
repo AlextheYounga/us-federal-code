@@ -6,249 +6,249 @@ TITLE 11—APPENDIX
 FEDERAL RULES OF BANKRUPTCY PROCEDURE
 ==========
 
-(Effective August 1, 1983, as amended to January 2, 2024)
+(Effective August 1, 1983, as amended to December 1, 2024)
 
 #### Historical Note ####
 
 The Federal Rules of Bankruptcy Procedure were adopted by order of the Supreme Court on Apr. 25, 1983, transmitted to Congress by the Chief Justice on the same day, and became effective Aug. 1, 1983.
 
-The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023.
+The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023; Apr. 2, 2024, eff. Dec. 1, 2024.
 
 Rule
 
-1001. Scope of Rules and Forms; Short Title.
+1001. Scope; Title; Citations; References to a Specific Form.
 
-#### PART I. COMMENCEMENT OF CASE; PROCEEDINGS RELATING TO PETITION AND ORDER FOR RELIEF ####
+#### PART I. COMMENCING A BANKRUPTCY CASE; THE PETITION, THE ORDER FOR RELIEF, AND RELATED MATTERS ####
 
-1002. Commencement of Case.
+1002. Commencing a Bankruptcy Case.
 
-1003. Involuntary Petition.
+1003. Involuntary Petition: Transferred Claims; Joining Other Creditors; Additional Time to Join.
 
 1004. Involuntary Petition Against a Partnership.
 
-1004.1. Petition for an Infant or Incompetent Person.
+1004.1. Voluntary Petition on Behalf of an Infant or Incompetent Person.
 
-1004.2. Petition in Chapter 15 Cases.
+1004.2. Petition in a Chapter 15 Case.
 
-1005. Caption of Petition.
+1005. Caption of a Petition; Title of the Case.
 
 1006. Filing Fee.
 
-1007. Lists, Schedules, Statements, and Other Documents; Time Limits.
+1007. Lists, Schedules, Statements, and Other Documents; Time to File.
 
-1008. Verification of Petitions and Accompanying Papers.
+1008. Requirement to Verify Petitions and Accompanying Documents.
 
-1009. Amendments of Voluntary Petitions, Lists, Schedules and Statements.
+1009. Amending a Voluntary Petition, List, Schedule, or Statement.
 
-1010. Service of Involuntary Petition and Summons.
+1010. Serving an Involuntary Petition and Summons.
 
-1011. Responsive Pleading or Motion in Involuntary Cases.
+1011. Responsive Pleading in an Involuntary Case; Effect of a Motion.
 
-1012. Responsive Pleading in Cross-Border Cases.
+1012. Contesting a Petition in a Chapter 15 Case.
 
-1013. Hearing and Disposition of a Petition in an Involuntary Case.
+1013. Contested Petition in an Involuntary Case; Default.
 
-1014. Dismissal and Change of Venue.
+1014. Transferring a Case to Another District; Dismissing a Case Improperly Filed.
 
-1015. Consolidation or Joint Administration of Cases Pending in Same Court.
+1015. Consolidating or Jointly Administering Cases Pending in the Same District.
 
-1016. Death or Incompetency of Debtor.
+1016. Death or Incompetency of a Debtor.
 
-1017. Dismissal or Conversion of Case; Suspension.
+1017. Dismissing a Case; Suspending Proceedings; Converting a Case to Another Chapter.
 
-1018. Contested Involuntary Petitions; Contested Petitions Commencing Chapter 15 Cases; Proceedings to Vacate Order for Relief; Applicability of Rules in Part VII Governing Adversary Proceedings.
+1018. Contesting a Petition in an Involuntary or Chapter 15 Case; Vacating an Order for Relief; Applying Part VII Rules.
 
-1019. Conversion of a Chapter 11 Reorganization Case, Chapter 12 Family Farmer's Debt Adjustment Case, or Chapter 13 Individual's Debt Adjustment Case to a Chapter 7 Liquidation Case.
+1019. Converting or Reconverting a Chapter 11, 12, or 13 Case to Chapter 7.
 
-1020. Chapter 11 Reorganization Case for Small Business Debtors.
+1020. Designating a Chapter 11 Debtor as a Small Business Debtor.
 
-1021. Health Care Business Case.
+1021. Designating a Chapter 7, 9, or 11 Case as a Health Care Business Case.
 
-#### PART II. OFFICERS AND ADMINISTRATION; NOTICES; MEETINGS; EXAMINATIONS; ELECTIONS; ATTORNEYS AND ACCOUNTANTS ####
+#### PART II. OFFICERS AND ADMINISTRATION; NOTICES; MEETINGS; EXAMINATIONS; ELECTIONS AND APPOINTMENTS; FINAL REPORT; COMPENSATION ####
 
-2001. Appointment of Interim Trustee Before Order for Relief in a Chapter 7 Liquidation Case.
+2001. Appointing an Interim Trustee Before the Order for Relief in an Involuntary Chapter 7 Case.
 
-2002. Notices to Creditors, Equity Security Holders, Administrators in Foreign Proceedings, Persons Against Whom Provisional Relief is Sought in Ancillary and Other Cross-Border Cases, United States, and United States Trustee.
+2002. Notices.
 
 2003. Meeting of Creditors or Equity Security Holders.
 
-2004. Examination.
+2004. Examinations.
 
-2005. Apprehension and Removal of Debtor to Compel Attendance for Examination.
+2005. Apprehending and Removing a Debtor for Examination.
 
-2006. Solicitation and Voting of Proxies in Chapter 7 Liquidation Cases.
+2006. Soliciting and Voting Proxies in a Chapter 7 Case.
 
-2007. Review of Appointment of Creditors' Committee Organized Before Commencement of the Case.
+2007. Reviewing the Appointment of a Creditors' Committee Organized Before a Chapter 9 or 11 Case Is Commenced.
 
-2007.1. Appointment of Trustee or Examiner in a Chapter 11 Reorganization Case.
+2007.1. Appointing a Trustee or Examiner in a Chapter 11 Case.
 
-2007.2. Appointment of Patient Care Ombudsman in a Health Care Business Case.
+2007.2. Appointing a Patient-Care Ombudsman in a Health Care Business Case.
 
-2008. Notice to Trustee of Selection.
+2008. Notice to the Person Selected as Trustee.
 
-2009. Trustees for Estates When Joint Administration Ordered.
+2009. Trustees for Jointly Administered Estates.
 
-2010. Qualification by Trustee; Proceeding on Bond.
+2010. Blanket Bond; Proceedings on the Bond.
 
-2011. Evidence of Debtor in Possession or Qualification of Trustee.
+2011. Evidence That a Debtor Is a Debtor in Possession or That a Trustee Has Qualified.
 
-2012. Substitution of Trustee or Successor Trustee; Accounting.
+2012. Substituting a Trustee in a Chapter 11 or 12 Case; Successor Trustee in a Pending Proceeding.
 
-2013. Public Record of Compensation Awarded to Trustees, Examiners, and Professionals.
+2013. Keeping a Public Record of Compensation Awarded by the Court to Examiners, Trustees, and Professionals.
 
-2014. Employment of Professional Persons.
+2014. Employing Professionals.
 
-2015. Duty to Keep Records, Make Reports, and Give Notice of Case or Change of Status.
+2015. Duty to Keep Records, Make Reports, and Give Notices.
 
-2015.1. Patient Care Ombudsman.
+2015.1. Patient-Care Ombudsman.
 
-2015.2. Transfer of Patient in Health Care Business Case.
+2015.2. Transferring a Patient in a Health Care Business Case.
 
-2015.3. Reports of Financial Information on Entities in Which a Chapter 11 Estate Holds a Controlling or Substantial Interest.
+2015.3. Reporting Financial Information About Entities in Which a Chapter 11 Estate Holds a Substantial or Controlling Interest.
 
-2016. Compensation for Services Rendered and Reimbursement of Expenses.
+2016. Compensation for Services Rendered; Reimbursing Expenses.
 
-2017. Examination of Debtor's Transactions with Debtor's Attorney.
+2017. Examining Transactions Between a Debtor and the Debtor's Attorney.
 
-2018. Intervention; Right to Be Heard.
+2018. Intervention by an Interested Entity; Right to Be Heard.
 
-2019. Disclosure Regarding Creditors and Equity Security Holders in Chapter 9 and Chapter 11 Cases.
+2019. Disclosures by Groups, Committees, and Other Entities in a Chapter 9 or 11 Case.
 
-2020. Review of Acts by United States Trustee.
+2020. Reviewing an Act by a United States Trustee.
 
-#### PART III. CLAIMS AND DISTRIBUTION TO CREDITORS AND EQUITY INTEREST HOLDERS; PLANS ####
+#### PART III. CLAIMS; PLANS; DISTRIBUTIONS TO CREDITORS AND EQUITY SECURITY HOLDERS ####
 
 3001. Proof of Claim.
 
-3002. Filing Proof of Claim or Interest.
+3002. Filing a Proof of Claim or Interest.
 
-3002.1. Notice Relating to Claims Secured by Security Interest in the Debtor's Principal Residence.
+3002.1. Notice Relating to Claims Secured by a Security Interest in the Debtor's Principal Residence in a Chapter 13 Case.
 
-3003. Filing Proof of Claim or Equity Security Interest in Chapter 9 Municipality or Chapter 11 Reorganization Cases.
+3003. Chapter 9 or 11—Filing a Proof of Claim or Equity Interest.
 
-3004. Filing of Claims by Debtor or Trustee.
+3004. Proof of Claim Filed by the Debtor or Trustee for a Creditor.
 
-3005. Filing of Claim, Acceptance, or Rejection by Guarantor, Surety, Indorser, or Other Codebtor.
+3005. Filing a Proof of Claim or Accepting or Rejecting a Plan by a Surety, Endorser, Guarantor, or Other Codebtor.
 
-3006. Withdrawal of Claim; Effect on Acceptance or Rejection of Plan.
+3006. Withdrawing a Proof of Claim; Effect on a Plan.
 
-3007. Objections to Claims.
+3007. Objecting to a Claim.
 
-3008. Reconsideration of Claims.
+3008. Reconsidering an Order Allowing or Disallowing a Claim.
 
-3009. Declaration and Payment of Dividends in a Chapter 7 Liquidation Case.
+3009. Chapter 7—Paying Dividends.
 
-3010. Small Dividends and Payments in Cases Under Chapter 7, Subchapter V of Chapter 11, Chapter 12, and Chapter 13.
+3010. Chapter 7, Subchapter V of Chapter 11, Chapter 12, and Chapter 13—Limits on Small Dividends and Payments.
 
-3011. Unclaimed Funds in Cases Under Chapter 7, Subchapter V of Chapter 11, Chapter 12, and Chapter 13.
+3011. Chapter 7, Subchapter V of Chapter 11, Chapter 12, and Chapter 13—Listing Unclaimed Funds.
 
-3012. Determining the Amount of Secured and Priority Claims.
+3012. Determining the Amount of a Secured or Priority Claim.
 
-3013. Classification of Claims and Interests.
+3013. Determining Classes of Creditors and Equity Security Holders.
 
-3014. Election Under §1111(b) by Secured Creditor in Chapter 9 Municipality or Chapter 11 Reorganization Case.
+3014. Chapter 9 or 11—Secured Creditors' Election to Apply §1111(b).
 
-3015. Filing, Objection to Confirmation, Effect of Confirmation, and Modification of a Plan in a Chapter 12 or a Chapter 13 Case.
+3015. Chapter 12 or 13—Time to File a Plan; Nonstandard Provisions; Objection to Confirmation; Effect of Confirmation; Modifying a Plan.
 
-3015.1. Requirements for a Local Form for Plans Filed in a Chapter 13 Case.
+3015.1. Requirements for a Local Form for a Chapter 13 Plan.
 
-3016. Filing of Plan and Disclosure Statement in a Chapter 9 Municipality or Chapter 11 Reorganization Case.
+3016. Chapter 9 or 11—Plan and Disclosure Statement.
 
-3017. Court Consideration of Disclosure Statement in a Chapter 9 Municipality or Chapter 11 Reorganization Case.
+3017. Chapter 9 or 11—Hearing on a Disclosure Statement and Plan.
 
-3017.1. Court Consideration of Disclosure Statement in a Small Business Case or in a Case Under Subchapter V of Chapter 11.
+3017.1. Disclosure Statement in a Small Business Case or a Case Under Subchapter V of Chapter 11.
 
-3017.2. Fixing of Dates by the Court in Subchapter V Cases in Which There Is No Disclosure Statement.
+3017.2. Setting Dates in a Case Under Subchapter V of Chapter 11 in Which There Is No Disclosure Statement.
 
-3018. Acceptance or Rejection of Plan in a Chapter 9 Municipality or a Chapter 11 Reorganization Case.
+3018. Chapter 9 or 11—Accepting or Rejecting a Plan.
 
-3019. Modification of Accepted Plan in a Chapter 9 Municipality or a Chapter 11 Reorganization Case.
+3019. Chapter 9 or 11—Modifying a Plan.
 
-3020. Deposit; Confirmation of Plan in a Chapter 9 Municipality or Chapter 11 Reorganization Case.
+3020. In a Chapter 11 Case, Depositing Funds Before the Plan is Confirmed; Confirmation in a Chapter 9 or 11 Case.
 
-3021. Distribution Under Plan.
+3021. Distributing Funds Under a Plan.
 
-3022. Final Decree in Chapter 11 Reorganization Case.
+3022. Chapter 11—Final Decree.
 
-#### PART IV. THE DEBTOR: DUTIES AND BENEFITS ####
+#### PART IV. THE DEBTOR'S DUTIES AND BENEFITS ####
 
-4001. Relief from Automatic Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Property; Use of Cash Collateral; Obtaining Credit; Agreements.
+4001. Relief from the Automatic Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Property; Using Cash Collateral; Obtaining Credit; Various Agreements.
 
-4002. Duties of Debtor.
+4002. Debtor's Duties.
 
 4003. Exemptions.
 
-4004. Grant or Denial of Discharge.
+4004. Granting or Denying a Discharge.
 
-4005. Burden of Proof in Objecting to Discharge.
+4005. Burden of Proof in Objecting to a Discharge.
 
-4006. Notice of No Discharge.
+4006. Notice When No Discharge Is Granted.
 
-4007. Determination of Dischargeability of a Debt.
+4007. Determining Whether a Debt Is Dischargeable.
 
-4008. Filing of Reaffirmation Agreement; Statement in Support of Reaffirmation Agreement.
+4008. Reaffirmation Agreement and Supporting Statement.
 
 #### PART V. COURTS AND CLERKS ####
 
-5001. Courts and Clerks' Offices.
+5001. Court Operations; Clerks' Offices.
 
-5002. Restrictions on Approval of Appointments.
+5002. Restrictions on Approving Court Appointments.
 
-5003. Records Kept By the Clerk.
+5003. Records to Be Kept by the Clerk.
 
-5004. Disqualification.
+5004. Disqualifying a Bankruptcy Judge.
 
-5005. Filing and Transmittal of Papers.
+5005. Filing Papers and Sending Copies to the United States Trustee.
 
-5006. Certification of Copies of Papers.
+5006. Providing Certified Copies.
 
-5007. Record of Proceedings and Transcripts.
+5007. Record of Proceedings; Transcripts.
 
-5008. Notice Regarding Presumption of Abuse in Chapter 7 Cases of Individual Debtors.
+5008. Chapter 7—Notice That a Presumption of Abuse Has Arisen Under §707(b).
 
-5009. Closing Chapter 7, Chapter 12, Chapter 13, and Chapter 15 Cases; Order Declaring Lien Satisfied.
+5009. Closing a Chapter 7, 12, 13, or 15 Case; Declaring Liens Satisfied.
 
-5010. Reopening Cases.
+5010. Reopening a Case.
 
-5011. Withdrawal and Abstention from Hearing a Proceeding.
+5011. Motion to Withdraw a Case or Proceeding or to Abstain from Hearing a Proceeding; Staying a Proceeding.
 
-5012. Agreements Concerning Coordination of Proceedings in Chapter 15 Cases.
+5012. Chapter 15—Agreement to Coordinate Proceedings.
 
-#### PART VI. COLLECTION AND LIQUIDATION OF THE ESTATE ####
+#### PART VI. COLLECTING AND LIQUIDATING THE ESTATE ####
 
-6001. Burden of Proof As to Validity of Postpetition Transfer.
+6001. Burden of Proving the Validity of a Postpetition Transfer.
 
-6002. Accounting by Prior Custodian of Property of the Estate.
+6002. Custodian's Report to the United States Trustee.
 
-6003. Interim and Final Relief Immediately Following the Commencement of the Case—Applications for Employment; Motions for Use, Sale, or Lease of Property; and Motions for Assumption or Assignment of Executory Contracts.
+6003. Prohibition on Granting Certain Applications and Motions Made Immediately After the Petition Is Filed.
 
 6004. Use, Sale, or Lease of Property.
 
-6005. Appraisers and Auctioneers.
+6005. Employing an Appraiser or Auctioneer.
 
-6006. Assumption, Rejection or Assignment of an Executory Contract or Unexpired Lease.
+6006. Assuming, Rejecting, or Assigning an Executory Contract or Unexpired Lease.
 
-6007. Abandonment or Disposition of Property.
+6007. Abandoning or Disposing of Property.
 
-6008. Redemption of Property from Lien or Sale.
+6008. Redeeming Property from a Lien or a Sale to Enforce a Lien.
 
-6009. Prosecution and Defense of Proceedings by Trustee or Debtor in Possession.
+6009. Right of the Trustee or Debtor in Possession to Prosecute and Defend Proceedings.
 
-6010. Proceeding to Avoid Indemnifying Lien or Transfer to Surety.
+6010. Avoiding an Indemnifying Lien or a Transfer to a Surety.
 
-6011. Disposal of Patient Records in Health Care Business Case.
+6011. Claiming Patient Records Scheduled for Destruction in a Health-Care-Business Case.
 
 #### PART VII. ADVERSARY PROCEEDINGS ####
 
-7001. Scope of Rules of Part VII.
+7001. Types of Adversary Proceedings.
 
-7002. References to Federal Rules of Civil Procedure.
+7002. References to the Federal Rules of Civil Procedure.
 
-7003. Commencement of Adversary Proceeding.
+7003. Commencing an Adversary Proceeding.
 
-7004. Process; Service of Summons, Complaint.
+7004. Process; Issuing and Serving a Summons and Complaint.
 
-7005. Service and Filing of Pleadings and Other Papers.
+7005. Serving and Filing Pleadings and Other Papers.
 
 7007. Pleadings Allowed.
 
@@ -258,11 +258,11 @@ Rule
 
 7009. Pleading Special Matters.
 
-7010. Form of Pleadings.
+7010. Form of Pleadings in an Adversary Proceeding.
 
-7012. Defenses and Objections—When and How Presented—By Pleading or Motion—Motion for Judgment on the Pleadings.
+7012. Defenses; Effect of a Motion; Motion for Judgment on the Pleadings and Other Procedural Matters.
 
-7013. Counterclaim and Cross-Claim.
+7013. Counterclaim and Crossclaim.
 
 7014. Third-Party Practice.
 
@@ -270,19 +270,19 @@ Rule
 
 7016. Pretrial Procedures.
 
-7017. Parties Plaintiff and Defendant; Capacity.
+7017. Plaintiff and Defendant; Capacity; Public Officers.
 
-7018. Joinder of Claims and Remedies.
+7018. Joinder of Claims.
 
-7019. Joinder of Persons Needed for Just Determination.
+7019. Required Joinder of Parties.
 
 7020. Permissive Joinder of Parties.
 
-7021. Misjoinder and Non-Joinder of Parties.
+7021. Misjoinder and Nonjoinder of Parties.
 
 7022. Interpleader.
 
-7023. Class Proceedings.
+7023. Class Actions.
 
 7023.1. Derivative Actions.
 
@@ -292,85 +292,85 @@ Rule
 
 7025. Substitution of Parties.
 
-7026. General Provisions Governing Discovery.
+7026. Duty to Disclose; General Provisions Governing Discovery.
 
-7027. Depositions Before Adversary Proceedings or Pending Appeal.
+7027. Depositions to Perpetuate Testimony.
 
 7028. Persons Before Whom Depositions May Be Taken.
 
-7029. Stipulations Regarding Discovery Procedure.
+7029. Stipulations About Discovery Procedure.
 
-7030. Depositions Upon Oral Examination.
+7030. Depositions by Oral Examination.
 
-7031. Deposition Upon Written Questions.
+7031. Depositions by Written Questions.
 
-7032. Use of Depositions in Adversary Proceedings.
+7032. Using Depositions in Court Proceedings.
 
 7033. Interrogatories to Parties.
 
-7034. Production of Documents and Things and Entry Upon Land for Inspection and Other Purposes.
+7034. Producing Documents, Electronically Stored Information, and Tangible Things, or Entering onto Land, for Inspection and Other Purposes.
 
-7035. Physical and Mental Examination of Persons.
+7035. Physical and Mental Examinations.
 
 7036. Requests for Admission.
 
-7037. Failure to Make Discovery: Sanctions.
+7037. Failure to Make Disclosures or to Cooperate in Discovery; Sanctions.
 
-7040. Assignment of Cases for Trial.
+7040. Scheduling Cases for Trial.
 
-7041. Dismissal of Adversary Proceedings.
+7041. Dismissing Adversary Proceedings.
 
-7042. Consolidation of Adversary Proceedings; Separate Trials.
+7042. Consolidating Adversary Proceedings; Separate Trials.
 
-7052. Findings by the Court.
+7052. Findings and Conclusions by the Court; Judgment on Partial Findings.
 
 7054. Judgments; Costs.
 
-7055. Default.
+7055. Default; Default Judgment.
 
 7056. Summary Judgment.
 
-7058. Entering Judgment in Adversary Proceeding.
+7058. Entering Judgment.
 
 7062. Stay of Proceedings to Enforce a Judgment.
 
-7064. Seizure of Person or Property.
+7064. Seizing a Person or Property.
 
 7065. Injunctions.
 
-7067. Deposit in Court.
+7067. Deposit into Court.
 
 7068. Offer of Judgment.
 
 7069. Execution.
 
-7070. Judgment for Specific Acts; Vesting Title.
+7070. Enforcing a Judgment for a Specific Act; Vesting Title.
 
-7071. Process in Behalf of and Against Persons Not Parties.
+7071. Enforcing Relief for or Against a Nonparty.
 
-7087. Transfer of Adversary Proceeding.
+7087. Transferring an Adversary Proceeding.
 
-#### PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL ####
+#### PART VIII. APPEAL TO A DISTRICT COURT OR A BANKRUPTCY APPELLATE PANEL ####
 
-8001. Scope of Part VIII Rules; Definition of "BAP"; Method of Transmission.
+8001. Scope; Definition of "BAP"; Sending Documents Electronically.
 
-8002. Time for Filing Notice of Appeal.
+8002. Time to File a Notice of Appeal.
 
 8003. Appeal as of Right—How Taken; Docketing the Appeal.
 
-8004. Appeal by Leave—How Taken; Docketing the Appeal.
+8004. Leave to Appeal from an Interlocutory Order or Decree Under 28 U.S.C. §158(a)(3).
 
-8005. Election to Have an Appeal Heard by the District Court Instead of the BAP.
+8005. Election to Have an Appeal Heard in the District Court Instead of the BAP.
 
-8006. Certifying a Direct Appeal to the Court of Appeals.
+8006. Certifying a Direct Appeal to a Court of Appeals.
 
-8007. Stay Pending Appeal; Bonds; Suspension of Proceedings.
+8007. Stay Pending Appeal; Bond; Suspending Proceedings.
 
 8008. Indicative Rulings.
 
 8009. Record on Appeal; Sealed Documents.
 
-8010. Completing and Transmitting the Record.
+8010. Transcribing the Proceedings; Filing the Transcript; Sending the Record.
 
 8011. Filing and Service; Signature.
 
@@ -380,19 +380,19 @@ Rule
 
 8014. Briefs.
 
-8015. Form and Length of Briefs; Form of Appendices and Other Papers.
+8015. Form and Length of a Brief; Form of an Appendix or Other Paper.
 
 8016. Cross-Appeals.
 
 8017. Brief of an Amicus Curiae.
 
-8018. Serving and Filing Briefs; Appendices.
+8018. Serving and Filing Briefs and Appendices.
 
-8018.1. District-Court Review of a Judgment that the Bankruptcy Court Lacked the Constitutional Authority to Enter.
+8018.1. Reviewing a Judgment That the Bankruptcy Court Lacked Authority to Enter.
 
 8019. Oral Argument.
 
-8020. Frivolous Appeal and Other Misconduct.
+8020. Frivolous Appeal; Other Misconduct.
 
 8021. Costs.
 
@@ -400,23 +400,25 @@ Rule
 
 8023. Voluntary Dismissal.
 
+8023.1. Substitution of Parties.
+
 8024. Clerk's Duties on Disposition of the Appeal.
 
-8025. Stay of a District Court or BAP Judgment.
+8025. Staying a District Court or BAP Judgment.
 
-8026. Rules by Circuit Councils and District Courts; Procedure When There is No Controlling Law.
+8026. Making and Amending Local Rules; Procedure When There Is No Controlling Law.
 
 8027. Notice of a Mediation Procedure.
 
-8028. Suspension of Rules in Part VIII.
+8028. Suspending These Part VIII Rules.
 
 #### PART IX. GENERAL PROVISIONS ####
 
-9001. General Definitions.
+9001. Definitions.
 
-9002. Meanings of Words in the Federal Rules of Civil Procedure When Applicable to Cases under the Code.
+9002. Meaning of Words in the Federal Rules of Civil Procedure.
 
-9003. Prohibition of Ex Parte Contacts.
+9003. Ex Parte Contacts Prohibited.
 
 9004. General Requirements of Form.
 
@@ -424,25 +426,25 @@ Rule
 
 9005.1. Constitutional Challenge to a Statute—Notice, Certification, and Intervention.
 
-9006. Computing and Extending Time; Time for Motion Papers.
+9006. Computing and Extending Time; Motions.
 
-9007. General Authority to Regulate Notices.
+9007. Authority to Regulate Notices.
 
 9008. Service or Notice by Publication.
 
-9009. Forms.
+9009. Using Official Forms; Director's Forms.
 
-9010. Representation and Appearances; Powers of Attorney.
+9010. Authority to Act Personally or by an Attorney; Power of Attorney.
 
-9011. Signing of Papers; Representations to the Court; Sanctions; Verification and Copies of Papers.
+9011. Signing Documents; Representations to the Court; Sanctions; Verifying and Providing Copies.
 
 9012. Oaths and Affirmations.
 
-9013. Motions: Form and Service.
+9013. Motions; Form and Service.
 
 9014. Contested Matters.
 
-9015. Jury Trials.
+9015. Jury Trial.
 
 9016. Subpoena.
 
@@ -450,43 +452,43 @@ Rule
 
 9018. Secret, Confidential, Scandalous, or Defamatory Matter.
 
-9019. Compromise and Arbitration.
+9019. Compromise or Settlement; Arbitration.
 
 9020. Contempt Proceedings.
 
-9021. Entry of Judgment.
+9021. When a Judgment or Order Becomes Effective.
 
-9022. Notice of Judgment or Order.
+9022. Notice of a Judgment or Order.
 
-9023. New Trials; Amendment of Judgments.
+9023. New Trial; Altering or Amending a Judgment.
 
-9024. Relief from Judgment or Order.
+9024. Relief from a Judgment or Order.
 
-9025. Security: Proceedings Against Security Providers.
+9025. Security; Proceeding Against a Security Provider.
 
-9026. Exceptions Unnecessary.
+9026. Objecting to a Ruling or Order.
 
-9027. Removal.
+9027. Removing a Claim or Cause of Action from Another Court.
 
-9028. Disability of a Judge.
+9028. Judge's Disability.
 
-9029. Local Bankruptcy Rules; Procedure When There is No Controlling Law.
+9029. Adopting Local Rules; Limit on Enforcing a Local Rule; Absence of Controlling Law.
 
-9030. Jurisdiction and Venue Unaffected.
+9030. Jurisdiction and Venue Not Extended or Limited.
 
-9031. Masters Not Authorized.
+9031. Using Masters Not Authorized.
 
-9032. Effect of Amendment of Federal Rules of Civil Procedure.
+9032. Effect of an Amendment to the Federal Rules of Civil Procedure.
 
 9033. Proposed Findings of Fact and Conclusions of Law.
 
-9034. Transmittal of Pleadings, Motion Papers, Objections, and Other Papers to the United States Trustee.
+9034. Sending Copies to the United States Trustee.
 
-9035. Applicability of Rules in Judicial Districts in Alabama and North Carolina.
+9035. Applying These Rules in a Judicial District in Alabama or North Carolina.
 
-9036. Notice and Service by Electronic Transmission.
+9036. Electronic Notice and Service.
 
-9037. Privacy Protection For Filings Made with the Court.
+9037. Protecting Privacy for Filings.
 
 9038. Bankruptcy Rules Emergency.
 
@@ -506,11 +508,17 @@ Sections 2 to 4 of the Order of the Supreme Court, dated Apr. 25, 1983, provided
 
 "4. That the Chief Justice be, and he hereby is, authorized to transmit these new Bankruptcy Rules to the Congress in accordance with the provisions of Section 2075 of Title 28, United States Code."
 
-### Rule 1001. Scope of Rules and Forms; Short Title ###
+### Rule 1001. Scope; Title; Citations; References to a Specific Form ###
 
-The Bankruptcy Rules and Forms govern procedure in cases under title 11 of the United States Code. The rules shall be cited as the Federal Rules of Bankruptcy Procedure and the forms as the Official Bankruptcy Forms. These rules shall be construed, administered, and employed by the court and the parties to secure the just, speedy, and inexpensive determination of every case and proceeding.
+(a) In General. These rules, together with the Official Bankruptcy Forms, govern the procedure in cases under the Bankruptcy Code, Title 11 of the United States Code. They must be construed, administered, and employed by both the court and the parties to secure the just, speedy, and inexpensive determination of every case and proceeding.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 27, 2017, eff. Dec. 1, 2017.)
+(b) Titles. These rules should be referred to as the Federal Rules of Bankruptcy Procedure and the forms as the Official Bankruptcy Forms.
+
+(c) Citations. In these rules, the Bankruptcy Code is cited with a section sign and number (§101). A rule is cited with "Rule" followed by the rule number (Rule 1001(a)).
+
+(d) References to a Specific Form. A reference to a "Form" followed by a number is a reference to an Official Bankruptcy Form.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -548,15 +556,31 @@ The addition of the phrase "employed by the court and the parties" emphasizes th
 
 This amendment does not create a new or independent source of sanctions. Nor does it abridge the scope of any other of these rules.
 
-### PART I—COMMENCEMENT OF CASE; PROCEEDINGS RELATING TO PETITION AND ORDER FOR RELIEF ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-### Rule 1002. Commencement of Case ###
+The Bankruptcy Rules are the fifth set of national procedural rules to be restyled. The restyled Rules of Appellate Procedure took effect in 1998. The restyled Rules of Criminal Procedure took effect in 2002. The restyled Rules of Civil Procedure took effect in 2007. The restyled Rules of Evidence took effect in 2011. The restyled Bankruptcy Rules apply the same general drafting guidelines and principles used in restyling the Appellate, Criminal, Civil, and Evidence Rules.
 
-(a) Petition. A petition commencing a case under the Code shall be filed with the clerk.
+General Guidelines. Guidance in drafting, usage, and style was provided by Bryan A. Garner, *Guidelines for Drafting and Editing Court Rules*, Administrative Office of the United States Courts (1996) and Bryan A. Garner, *Dictionary of Modern Legal Usage* (2d ed. 1995). *See also* Joseph Kimble, *Guiding Principles for Restyling the Civil Rules*, in Preliminary Draft of Proposed Style Revision of the Federal Rules of Civil Procedure, at Mich. Bar J., Sept. 2005, at 56 and Mich. Bar J., Oct. 2005, at 52; Joseph Kimble, *Lessons in Drafting from the New Federal Rules of Civil Procedure*, 12 Scribes J. Legal Writing 25 (2008–2009).
 
-(b) Transmission to United States Trustee. The clerk shall forthwith transmit to the United States trustee a copy of the petition filed pursuant to subdivision (a) of this rule.
+Formatting Changes. Many of the changes in the restyled Bankruptcy Rules result from using format to achieve clearer presentations. The rules are broken down into constituent parts, using progressively indented subparagraphs with headings and substituting vertical for horizontal lists. "Hanging indents" are used throughout. These formatting changes make the structure of the rules graphic and make the restyled rules easier to read and understand even when the words are not changed.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+Changes to Reduce Inconsistent, Ambiguous, Redundant, Repetitive, or Archaic Words. The restyled rules reduce the use of inconsistent terms that say the same thing in different ways. Because different words are presumed to have different meanings, such inconsistencies can result in confusion. The restyled rules reduce inconsistencies by using the same words to express the same meaning. The restyled rules also minimize the use of inherently ambiguous words. The restyled rules minimize the use of redundant "intensifiers." These are expressions that attempt to add emphasis, but instead state the obvious and create negative implications for other rules. The absence of intensifiers in the restyled rules does not change their substantive meaning. The restyled rules also remove words and concepts that are outdated or redundant.
+
+Rule Numbers. The restyled rules keep the same numbers to minimize the effect on research. Subdivisions have been rearranged within some rules to achieve greater clarity and simplicity.
+
+No Substantive Change. The style changes to the rules are intended to make no changes in substantive meaning. The Committee made special efforts to reject any purported style improvement that might result in a substantive change in the application of a rule. The Committee also declined to modify "sacred phrases"—those that have become so familiar in practice that to alter them would be unduly disruptive to practice and expectations. An example in the Bankruptcy Rules would be "meeting of creditors."
+
+Legislative Rules. In those cases in which Congress enacted a rule by statute, in particular Rule 2002(n) (Bankruptcy Amendments and Federal Judgeship Act of 1984, Pub. L. No. 98–353, 98 Stat. 333, 357), Rule 3001(g) (98 Stat. at 361), and Rule 7004(b) and (h) (Bankruptcy Reform Act of 1994, Pub. L. No. 103–394, 108 Stat. 4106, 4118), the Committee has not restyled the rule.
+
+### PART I—COMMENCING A BANKRUPTCY CASE; THE PETITION, THE ORDER FOR RELIEF, AND RELATED MATTERS ###
+
+### Rule 1002. Commencing a Bankruptcy Case ###
+
+(a) In General. A bankruptcy case is commenced by filing a petition with the clerk.
+
+(b) Copy to the United States Trustee. The clerk must promptly send a copy of the petition to the United States trustee.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -584,13 +608,31 @@ The number of copies of a petition that must be filed is a matter for local rule
 
 Notwithstanding subdivision (b), pursuant to Rule 5005(b)(3), the clerk is not required to transmit a copy of the petition to the United States trustee if the United States trustee requests that it not be transmitted. Many rules require the clerk to transmit a certain document to the United States trustee, but Rule 5005(b)(3) relieves the clerk of that duty under this or any other rule if the United States trustee requests that such document not be transmitted.
 
-### Rule 1003. Involuntary Petition ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Transferor or Transferee of Claim. A transferor or transferee of a claim shall annex to the original and each copy of the petition a copy of all documents evidencing the transfer, whether transferred unconditionally, for security, or otherwise, and a signed statement that the claim was not transferred for the purpose of commencing the case and setting forth the consideration for and terms of the transfer. An entity that has transferred or acquired a claim for the purpose of commencing a case for liquidation under chapter 7 or for reorganization under chapter 11 shall not be a qualified petitioner.
+The language of Rule 1002 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Joinder of Petitioners After Filing. If the answer to an involuntary petition filed by fewer than three creditors avers the existence of 12 or more creditors, the debtor shall file with the answer a list of all creditors with their addresses, a brief statement of the nature of their claims, and the amounts thereof. If it appears that there are 12 or more creditors as provided in §303(b) of the Code, the court shall afford a reasonable opportunity for other creditors to join in the petition before a hearing is held thereon.
+### Rule 1003. Involuntary Petition: Transferred Claims; Joining Other Creditors; Additional Time to Join ###
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+(a) Transferred Claims. An entity that has transferred or acquired a claim for the purpose of commencing an involuntary case under Chapter 7 or Chapter 11 is not a qualified petitioner. A petitioner that has transferred or acquired a claim must attach to the petition and to any copy:
+
+(1) all documents evidencing the transfer, whether it was unconditional, for security, or otherwise; and
+
+(2) a signed statement that:
+
+(A) affirms that the claim was not transferred for the purpose of commencing the case; and
+
+(B) sets forth the consideration for the transfer and its terms.
+
+(b) Joining Other Creditors After Filing. If an involuntary petition is filed by fewer than 3 creditors and the debtor's answer alleges the existence of 12 or more creditors as provided in §303(b), the debtor must attach to the answer:
+
+(1) the names and addresses of all creditors; and
+
+(2) a brief statement of the nature and amount of each creditor's claim.
+
+(c) Additional Time to Join. If there appear to be 12 or more creditors, the court must allow a reasonable time for other creditors to join the petition before holding a hearing on it.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -622,11 +664,15 @@ The venue for a case ancillary to a foreign proceeding is provided in 28 U.S.C. 
 
 The subject matter of subdivisions (a), (b), and (e) has been incorporated in Rules 1002, 1010, 1011, and 1018.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 1003 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### Rule 1004. Involuntary Petition Against a Partnership ###
 
-After filing of an involuntary petition under §303(b)(3) of the Code, (1) the petitioning partners or other petitioners shall promptly send to or serve on each general partner who is not a petitioner a copy of the petition; and (2) the clerk shall promptly issue a summons for service on each general partner who is not a petitioner. Rule 1010 applies to the form and service of the summons.
+A petitioner who files an involuntary petition against a partnership under §303(b)(3) must promptly send a copy of the petition to—or serve a copy on—each general partner who is not a petitioner. The clerk must promptly issue a summons for service on any general partner who is not a petitioner. Rule 1010 governs the form and service of the summons.
 
-(As amended Apr. 29, 2002, eff. Dec. 1, 2002.)
+(As amended Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -644,11 +690,21 @@ The rule is retitled to reflect that it applies only to involuntary petitions fi
 
 *Changes Made After Publication and Comments*. No changes since publication.
 
-### Rule 1004.1. Petition for an Infant or Incompetent Person ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-If an infant or incompetent person has a representative, including a general guardian, committee, conservator, or similar fiduciary, the representative may file a voluntary petition on behalf of the infant or incompetent person. An infant or incompetent person who does not have a duly appointed representative may file a voluntary petition by next friend or guardian ad litem. The court shall appoint a guardian ad litem for an infant or incompetent person who is a debtor and is not otherwise represented or shall make any other order to protect the infant or incompetent debtor.
+The language of Rule 1004 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(Added Apr. 29, 2002, eff. Dec. 1, 2002.)
+### Rule 1004.1. Voluntary Petition on Behalf of an Infant or Incompetent Person ###
+
+(a) Represented Infant or Incompetent Person. If an infant or an incompetent person has a representative—such as a general guardian, committee, conservator, or similar fiduciary—the representative may file a voluntary petition on behalf of the infant or incompetent person.
+
+(b) Unrepresented Infant or Incompetent Person. If an infant or an incompetent person does not have a representative:
+
+(1) a next friend or guardian ad litem may file the petition; and
+
+(2) the court must appoint a guardian ad litem or issue any other order needed to protect the interests of the infant debtor or incompetent debtor.
+
+(Added Apr. 29, 2002, eff. Dec. 1, 2002; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2002 ####
 
@@ -656,13 +712,31 @@ This rule is derived from Rule 17(c) F.R. Civ. P. It does not address the commen
 
 *Changes Made After Publication and Comments*. No changes were made.
 
-### Rule 1004.2. Petition in Chapter 15 Cases ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Designating Center of Main Interests. A petition for recognition of a foreign proceeding under chapter 15 of the Code shall state the country where the debtor has its center of main interests. The petition shall also identify each country in which a foreign proceeding by, regarding, or against the debtor is pending.
+The language of Rule 1004.1 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Challenging Designation. The United States trustee or a party in interest may file a motion for a determination that the debtor's center of main interests is other than as stated in the petition for recognition commencing the chapter 15 case. Unless the court orders otherwise, the motion shall be filed no later than seven days before the date set for the hearing on the petition. The motion shall be transmitted to the United States trustee and served on the debtor, all persons or bodies authorized to administer foreign proceedings of the debtor, all entities against whom provisional relief is being sought under §1519 of the Code, all parties to litigation pending in the United States in which the debtor was a party as of the time the petition was filed, and such other entities as the court may direct.
+### Rule 1004.2. Petition in a Chapter 15 Case ###
 
-(Added Apr. 26, 2011, eff. Dec. 1, 2011.)
+(a) Designating the Center of Main Interests. A petition under Chapter 15 for recognition of a foreign proceeding must:
+
+(1) designate the country where the debtor has its center of main interests; and
+
+(2) identify each country in which a foreign proceeding against, by, or regarding the debtor is pending.
+
+(b) Challenging the Designation. The United States trustee or a party in interest may file a motion challenging the designation. If the motion is filed by a party in interest, a copy must be sent to the United States trustee. Unless the court orders otherwise, the motion must be filed at least 7 days before the date set for the hearing on the petition. The motion must be served on:
+
+• the debtor;
+
+• all persons or bodies authorized to administer the debtor's foreign proceedings;
+
+• all entities against whom provisional relief is sought under §1519;
+
+• all parties to litigation pending in the United States in which the debtor was a party when the petition was filed; and
+
+• any other entity as the court orders.
+
+(Added Apr. 26, 2011, eff. Dec. 1, 2011; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2011 ####
 
@@ -676,11 +750,27 @@ The rule as revised was published in August 2009. Minor stylistic changes were m
 
 No comments were submitted on proposed Rule 1004.2 after its republication in August 2009.
 
-### Rule 1005. Caption of Petition ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-The caption of a petition commencing a case under the Code shall contain the name of the court, the title of the case, and the docket number. The title of the case shall include the following information about the debtor: name, employer identification number, last four digits of the social-security number or individual debtor's taxpayer-identification number, any other federal taxpayer-identification number, and all other names used within eight years before filing the petition. If the petition is not filed by the debtor, it shall include all names used by the debtor which are known to the petitioners.
+The language of Rule 1004.2 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 23, 2008, eff. Dec. 1, 2008.)
+### Rule 1005. Caption of a Petition; Title of the Case ###
+
+(a) Caption and Title; Required Information. A petition's caption must contain the name of the court, the title of the case, and the case number (if known). The title must include the following information about the debtor:
+
+(1) name;
+
+(2) employer-identification number;
+
+(3) the last 4 digits of the social-security number or individual taxpayer-identification number;
+
+(4) any other federal taxpayer-identification number; and
+
+(5) all other names the debtor has used within 8 years before the petition was filed.
+
+(b) Petition Not Filed by the Debtor. A petition not filed by the debtor must include all names that the petitioner knows have been used by the debtor.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -700,21 +790,29 @@ The rule is amended to require the disclosure of all names used by the debtor in
 
 *Changes Made After Publication*. No changes were made after publication.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 1005 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### Rule 1006. Filing Fee ###
 
-(a) General Requirement. Every petition shall be accompanied by the filing fee except as provided in subdivisions (b) and (c) of this rule. For the purpose of this rule, "filing fee" means the filing fee prescribed by 28 U.S.C. §1930(a)(1)–(a)(5) and any other fee prescribed by the Judicial Conference of the United States under 28 U.S.C. §1930(b) that is payable to the clerk upon the commencement of a case under the Code.
+(a) In General. Unless (b) or (c) applies, every petition must be accompanied by the filing fee. In this rule <sup><a href="#Rule_1006_1_target" name="Rule_1006_1">1</a></sup> "filing fee" means:
 
-(b) Payment of Filing Fee in Installments.
+(1) the filing fee required by 28 U.S.C. §1930(a)(1)–(5); and
 
-(1) *Application to Pay Filing Fee in Installments*. A voluntary petition by an individual shall be accepted for filing, regardless of whether any portion of the filing fee is paid, if accompanied by the debtor's signed application, prepared as prescribed by the appropriate Official Form, stating that the debtor is unable to pay the filing fee except in installments.
+(2) any other fee that the Judicial Conference of the United States requires under 28 U.S.C. §1930(b) to be paid upon filing.
 
-(2) *Action on Application*. Prior to the meeting of creditors, the court may order the filing fee paid to the clerk or grant leave to pay in installments and fix the number, amount and dates of payment. The number of installments shall not exceed four, and the final installment shall be payable not later than 120 days after filing the petition. For cause shown, the court may extend the time of any installment, provided the last installment is paid not later than 180 days after filing the petition.
+(b) Paying by Installment.
 
-(3) *Postponement of Attorney's Fees*. All installments of the filing fee must be paid in full before the debtor or chapter 13 trustee may make further payments to an attorney or any other person who renders services to the debtor in connection with the case.
+(1) *Application to Pay by Installment*. The clerk must accept for filing an individual's voluntary petition, regardless of whether any part of the filing fee is paid, if it is accompanied by a completed and signed application to pay in installments (Form 103A).
 
-(c) Waiver of Filing Fee. A voluntary chapter 7 petition filed by an individual shall be accepted for filing if accompanied by the debtor's application requesting a waiver under 28 U.S.C. §1930(f), prepared as prescribed by the appropriate Official Form.
+(2) *Court Decision on Installments*. Before the meeting of creditors, the court may order payment of the entire filing fee or may order the debtor to pay it in installments, designating the number of installments (not to exceed 4), the amount of each one, and payment dates. All payments must be made within 120 days after the petition is filed. The court may, for cause, extend the time to pay an installment, but the last one must be paid within 180 days after the petition is filed.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 27, 2017, eff. Dec. 1, 2017.)
+(3) *Postponing Other Payments*. Until the filing fee has been paid in full, the debtor or Chapter 13 trustee must not make any further payment to an attorney or any other person who provides services to the debtor in connection with the case.
+
+(c) Waiving the Filing Fee. The clerk must accept for filing an individual's voluntary Chapter 7 petition if it is accompanied by a completed and signed application to waive the filing fee (Form 103B).
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -748,23 +846,51 @@ Subdivision (b)(3) is amended in conformance with the changes to subdivision (b)
 
 Subdivision (b)(1) is amended to clarify that an individual debtor's voluntary petition, accompanied by an application to pay the filing fee in installments, must be accepted for filing, even if the court requires the initial installment to be paid at the time the petition is filed and the debtor fails to make that payment. Because the debtor's bankruptcy case is commenced upon the filing of the petition, dismissal of the case due to the debtor's failure to make the initial or a subsequent installment payment is governed by Rule 1017(b)(1).
 
-### Rule 1007. Lists, Schedules, Statements, and Other Documents; Time Limits ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Corporate Ownership Statement, List of Creditors and Equity Security Holders, and Other Lists.
+The language of Rule 1006 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(1) *Voluntary Case*. In a voluntary case, the debtor shall file with the petition a list containing the name and address of each entity included or to be included on Schedules D, E/F, G, and H as prescribed by the Official Forms. If the debtor is a corporation, other than a governmental unit, the debtor shall file with the petition a corporate ownership statement containing the information described in Rule 7007.1. The debtor shall file a supplemental statement promptly upon any change in circumstances that renders the corporate ownership statement inaccurate.
+[<sup>1</sup> So in original. Probably should be followed by a comma.](#Rule_1006_1)
 
-(2) *Involuntary Case*. In an involuntary case, the debtor shall file, within seven days after entry of the order for relief, a list containing the name and address of each entity included or to be included on Schedules D, E/F, G, and H as prescribed by the Official Forms.
+### Rule 1007. Lists, Schedules, Statements, and Other Documents; Time to File ###
 
-(3) *Equity Security Holders*. In a chapter 11 reorganization case, unless the court orders otherwise, the debtor shall file within 14 days after entry of the order for relief a list of the debtor's equity security holders of each class showing the number and kind of interests registered in the name of each holder, and the last known address or place of business of each holder.
+(a) Lists of Names and Addresses.
 
-(4) *Chapter 15 Case*. In addition to the documents required under §1515 of the Code, a foreign representative filing a petition for recognition under chapter 15 shall file with the petition: (A) a corporate ownership statement containing the information described in Rule 7007.1; and (B) unless the court orders otherwise, a list containing the names and addresses of all persons or bodies authorized to administer foreign proceedings of the debtor, all parties to litigation pending in the United States in which the debtor is a party at the time of the filing of the petition, and all entities against whom provisional relief is being sought under §1519 of the Code.
+(1) *Voluntary Case*. In a voluntary case, the debtor must file with the petition a list containing the name and address of each entity included or to be included on Schedules D, E/F, G, and H of the Official Forms. Unless it is a governmental unit, a corporate debtor must:
 
-(5) *Extension of Time*. Any extension of time for the filing of the lists required by this subdivision may be granted only on motion for cause shown and on notice to the United States trustee and to any trustee, committee elected under §705 or appointed under §1102 of the Code, or other party as the court may direct.
+(A) include a corporate-ownership statement containing the information described in Rule 7007.1; and
 
-(b) Schedules, Statements, and Other Documents Required.
+(B) promptly file a supplemental statement if changed circumstances make the original statement inaccurate.
 
-(1) Except in a chapter 9 municipality case, the debtor, unless the court orders otherwise, shall file the following schedules, statements, and other documents, prepared as prescribed by the appropriate Official Forms, if any:
+(2) *Involuntary Case*. Within 7 days after the order for relief has been entered in an involuntary case, the debtor must file a list containing the name and address of each entity included or to be included on Schedules D, E/F, G, and H of the Official Forms.
+
+(3) *Chapter 11—List of Equity Security Holders*. Unless the court orders otherwise, a Chapter 11 debtor must, within 14 days after the order for relief is entered, file a list of the debtor's equity security holders by class. The list must show the number and type of interests registered in each holder's name, along with the holder's last known address or place of business
+
+(4) *Chapter 15—Information Required from a Foreign Representative*. If a foreign representative files a petition under Chapter 15 for recognition of a foreign proceeding, the representative must—in addition to the documents required by §1515—include with the petition:
+
+(A) a corporate-ownership statement containing the information described in Rule 7007.1; and
+
+(B) unless the court orders otherwise, a list containing the names and addresses of:
+
+(i) all persons or bodies authorized to administer the debtor's foreign proceedings;
+
+(ii) all entities against whom provisional relief is sought under §1519; and
+
+(iii) all parties to litigation pending in the United States in which the debtor was a party when the petition was filed.
+
+(5) *Extending the Time to File*. On motion and for cause, the court may extend the time to file any list required by this Rule 1007(a). Notice of the motion must be given to:
+
+• the United States trustee;
+
+• any trustee;
+
+• any committee elected under §705 or appointed under §1102; and
+
+• any other party as the court orders.
+
+(b) Schedules, Statements, and Other Documents.
+
+(1) *In General*. Except in a Chapter 9 case or when the court orders otherwise, the debtor must file—prepared as prescribed by the appropriate Official Form, if any—
 
 (A) schedules of assets and liabilities;
 
@@ -774,63 +900,115 @@ Subdivision (b)(1) is amended to clarify that an individual debtor's voluntary p
 
 (D) a statement of financial affairs;
 
-(E) copies of all payment advices or other evidence of payment, if any, received by the debtor from an employer within 60 days before the filing of the petition, with redaction of all but the last four digits of the debtor's social-security number or individual taxpayer-identification number; and
+(E) copies of all payment advices or other evidence of payment that the debtor received from any employer within 60 days before the petition was filed—with all but the last 4 digits of the debtor's social-security number or individual taxpayer-identification number deleted; and
 
-(F) a record of any interest that the debtor has in an account or program of the type specified in §521(c) of the Code.
+(F) a record of the debtor's interest, if any, in an account or program of the type specified in §521(c).
 
-(2) An individual debtor in a chapter 7 case shall file a statement of intention as required by §521(a) of the Code, prepared as prescribed by the appropriate Official Form. A copy of the statement of intention shall be served on the trustee and the creditors named in the statement on or before the filing of the statement.
+(2) *Statement of Intention*. In a Chapter 7 case, an individual debtor must:
 
-(3) Unless the United States trustee has determined that the credit counseling requirement of §109(h) does not apply in the district, an individual debtor must file a statement of compliance with the credit counseling requirement, prepared as prescribed by the appropriate Official Form which must include one of the following:
+(A) file the statement of intention required by §521(a) (Form 108); and
 
-(A) an attached certificate and debt repayment plan, if any, required by §521(b);
+(B) before or upon filing, serve a copy on the trustee and the creditors named in the statement.
 
-(B) a statement that the debtor has received the credit counseling briefing required by §109(h)(1) but does not have the certificate required by §521(b);
+(3) *Credit-Counseling Statement*. Unless the United States trustee has determined that the requirement to file a credit-counseling statement under §109(h) does not apply in the district, an individual debtor must file a statement of compliance (included in Form 101). The debtor must include one of the following:
+
+(A) a certificate and any debt-repayment plan required by §521(b);
+
+(B) a statement that the debtor has received the credit-counseling briefing required by §109(h)(1), but does not have a §521(b) certificate;
 
 (C) a certification under §109(h)(3); or
 
-(D) a request for a determination by the court under §109(h)(4).
+(D) a request for a court determination under §109(h)(4).
 
-(4) Unless §707(b)(2)(D) applies, an individual debtor in a chapter 7 case shall file a statement of current monthly income prepared as prescribed by the appropriate Official Form, and, if the current monthly income exceeds the median family income for the applicable state and household size, the information, including calculations, required by §707(b), prepared as prescribed by the appropriate Official Form.
+(4) *Current Monthly Income—Chapter 7*. Unless §707(b)(2)(D) applies, an individual debtor in a Chapter 7 case must:
 
-(5) An individual debtor in a chapter 11 case (unless under subchapter V) shall file a statement of current monthly income, prepared as prescribed by the appropriate Official Form.
+(A) file a statement of current monthly income (Form 122A–1); and
 
-(6) A debtor in a chapter 13 case shall file a statement of current monthly income, prepared as prescribed by the appropriate Official Form, and, if the current monthly income exceeds the median family income for the applicable state and household size, a calculation of disposable income made in accordance with §1325(b)(3), prepared as prescribed by the appropriate Official Form.
+(B) if that income exceeds the median family income for the debtor's state and household size, file the Chapter 7 means-test calculation (Form 122A–2).
 
-(7) Unless an approved provider of an instructional course concerning personal financial management has notified the court that a debtor has completed the course after filing the petition:
+(5) *Current Monthly Income—Chapter 11*. An individual debtor in a Chapter 11 case (unless under Subchapter V) must file a statement of current monthly income (Form 122B).
 
-(A) An individual debtor in a chapter 7 or chapter 13 case shall file a statement of completion of the course, prepared as prescribed by the appropriate Official Form; and
+(6) *Current Monthly Income—Chapter 13*. A debtor in a Chapter 13 case must:
 
-(B) An individual debtor in a chapter 11 case shall file the statement if §1141(d)(3) applies.
+(A) file a statement of current monthly income (Form 122C–1); and
 
-(8) If an individual debtor in a chapter 11, 12, or 13 case has claimed an exemption under §522(b)(3)(A) in property of the kind described in §522(p)(1) with a value in excess of the amount set out in §522(q)(1), the debtor shall file a statement as to whether there is any proceeding pending in which the debtor may be found guilty of a felony of a kind described in §522(q)(1)(A) or found liable for a debt of the kind described in §522(q)(1)(B).
+(B) if that income exceeds the median family income for the debtor's state and household size, file the Chapter 13 calculation of disposable income (Form 122C-2).
 
-(c) Time Limits. In a voluntary case, the schedules, statements, and other documents required by subdivision (b)(1), (4), (5), and (6) shall be filed with the petition or within 14 days thereafter, except as otherwise provided in subdivisions (d), (e), (f), and (h) of this rule. In an involuntary case, the schedules, statements, and other documents required by subdivision (b)(1) shall be filed by the debtor within 14 days after the entry of the order for relief. In a voluntary case, the documents required by paragraphs (A), (C), and (D) of subdivision (b)(3) shall be filed with the petition. Unless the court orders otherwise, a debtor who has filed a statement under subdivision (b)(3)(B), shall file the documents required by subdivision (b)(3)(A) within 14 days of the order for relief. In a chapter 7 case, the debtor shall file the statement required by subdivision (b)(7) within 60 days after the first date set for the meeting of creditors under §341 of the Code, and in a chapter 11 or 13 case no later than the date when the last payment was made by the debtor as required by the plan or the filing of a motion for a discharge under §1141(d)(5)(B) or §1328(b) of the Code. The court may, at any time and in its discretion, enlarge the time to file the statement required by subdivision (b)(7). The debtor shall file the statement required by subdivision (b)(8) no earlier than the date of the last payment made under the plan or the date of the filing of a motion for a discharge under §§1141(d)(5)(B),<sup><a href="#Rule_1007_1_target" name="Rule_1007_1">1</a></sup> 1228(b), or 1328(b) of the Code. Lists, schedules, statements, and other documents filed prior to the conversion of a case to another chapter shall be deemed filed in the converted case unless the court directs otherwise. Except as provided in §1116(3), any extension of time to file schedules, statements, and other documents required under this rule may be granted only on motion for cause shown and on notice to the United States trustee, any committee elected under §705 or appointed under §1102 of the Code, trustee, examiner, or other party as the court may direct. Notice of an extension shall be given to the United States trustee and to any committee, trustee, or other party as the court may direct.
+(7) *Personal Financial-Management Course*. Unless an approved provider has notified the court that the debtor has completed a course in personal financial management after filing the petition or the debtor is not required to complete one as a condition to discharge, an individual debtor in a Chapter 7 or Chapter 13 case—or in a Chapter 11 case in which §1141(d)(3) applies—must file a certificate of course completion issued by the provider.
 
-(d) List of 20 Largest Creditors in Chapter 9 Municipality Case or Chapter 11 Reorganization Case. In addition to the list required by subdivision (a) of this rule, a debtor in a chapter 9 municipality case or a debtor in a voluntary chapter 11 reorganization case shall file with the petition a list containing the name, address and claim of the creditors that hold the 20 largest unsecured claims, excluding insiders, as prescribed by the appropriate Official Form. In an involuntary chapter 11 reorganization case, such list shall be filed by the debtor within 2 days after entry of the order for relief under §303(h) of the Code.
+(8) *Limitation on a Homestead Exemption*. This Rule 1007(b)(8) applies if an individual debtor in a Chapter 11, 12, or 13 case claims an exemption under §522(b)(3)(A) in property of the type described in §522(p)(1) and the property value exceeds the amount specified in §522(q)(1). The debtor must file a statement about any pending proceeding in which the debtor may be found:
 
-(e) List in Chapter 9 Municipality Cases. The list required by subdivision (a) of this rule shall be filed by the debtor in a chapter 9 municipality case within such time as the court shall fix. If a proposed plan requires a revision of assessments so that the proportion of special assessments or special taxes to be assessed against some real property will be different from the proportion in effect at the date the petition is filed, the debtor shall also file a list showing the name and address of each known holder of title, legal or equitable, to real property adversely affected. On motion for cause shown, the court may modify the requirements of this subdivision and subdivision (a) of this rule.
+(A) guilty of the type of felony described in §522(q)(1)(A); or
 
-(f) Statement of Social Security Number. An individual debtor shall submit a verified statement that sets out the debtor's social security number, or states that the debtor does not have a social security number. In a voluntary case, the debtor shall submit the statement with the petition. In an involuntary case, the debtor shall submit the statement within 14 days after the entry of the order for relief.
+(B) liable for the type of debt described in §522(q)(1)(B).
 
-(g) Partnership and Partners. The general partners of a debtor partnership shall prepare and file the list required under subdivision (a), schedules of the assets and liabilities, schedule of current income and expenditures, schedule of executory contracts and unexpired leases, and statement of financial affairs of the partnership. The court may order any general partner to file a statement of personal assets and liabilities within such time as the court may fix.
+(c) Time to File.
 
-(h) Interests Acquired or Arising After Petition. If, as provided by §541(a)(5) of the Code, the debtor acquires or becomes entitled to acquire any interest in property, the debtor shall within 14 days after the information comes to the debtor's knowledge or within such further time the court may allow, file a supplemental schedule in the chapter 7 liquidation case, chapter 11 reorganization case, chapter 12 family farmer's debt adjustment case, or chapter 13 individual debt adjustment case. If any of the property required to be reported under this subdivision is claimed by the debtor as exempt, the debtor shall claim the exemptions in the supplemental schedule. This duty to file a supplemental schedule continues even after the case is closed, except for property acquired after an order is entered:
+(1) *Voluntary Case—Various Documents*. Unless (d), (e), (f), or (h) provides otherwise, the debtor in a voluntary case must file the documents required by (b)(1), (b)(4), (b)(5), and (b)(6) with the petition or within 14 days after it is filed.
 
-(1) confirming a chapter 11 plan (other than one confirmed under §1191(b)); or
+(2) *Involuntary Case—Various Documents*. In an involuntary case, the debtor must file the documents required by (b)(1) within 14 days after the order for relief is entered.
 
-(2) discharging the debtor in a chapter 12 case, a chapter 13 case, or a case under subchapter V of chapter 11 in which the plan is confirmed under §1191(b).
+(3) *Credit-Counseling Documents*. In a voluntary case, the documents required by (b)(3)(A), (C), or (D) must be filed with the petition. Unless the court orders otherwise, a debtor who has filed a statement under (b)(3)(B) must file the documents required by (b)(3)(A) within 14 days after the order for relief is entered.
 
-(i) Disclosure of List of Security Holders. After notice and hearing and for cause shown, the court may direct an entity other than the debtor or trustee to disclose any list of security holders of the debtor in its possession or under its control, indicating the name, address and security held by any of them. The entity possessing this list may be required either to produce the list or a true copy thereof, or permit inspection or copying, or otherwise disclose the information contained on the list.
+(4) *Financial-Management Course*. Unless the court extends the time to file, an individual debtor must file the certificate required by (b)(7) as follows
 
-(j) Impounding of Lists. On motion of a party in interest and for cause shown the court may direct the impounding of the lists filed under this rule, and may refuse to permit inspection by any entity. The court may permit inspection or use of the lists, however, by any party in interest on terms prescribed by the court.
+(A) in a Chapter 7 case, within 60 days after the first date set for the meeting of creditors under §341; and
 
-(k) Preparation of List, Schedules, or Statements on Default of Debtor. If a list, schedule, or statement, other than a statement of intention, is not prepared and filed as required by this rule, the court may order the trustee, a petitioning creditor, committee, or other party to prepare and file any of these papers within a time fixed by the court. The court may approve reimbursement of the cost incurred in complying with such an order as an administrative expense.
+(B) in a Chapter 11 or Chapter 13 case, no later than the date the last payment is made under the plan or the date a motion for a discharge is filed under §1141(d)(5)(B) or §1328(b).
 
-(l) Transmission to United States Trustee. The clerk shall forthwith transmit to the United States trustee a copy of every list, schedule, and statement filed pursuant to subdivision (a)(1), (a)(2), (b), (d), or (h) of this rule.
+(5) *Limitation on Homestead Exemption*. The debtor must file the statement required by (b)(8) no earlier than the date of the last payment made under the plan or the date a motion for a discharge is filed under §1141(d)(5)(B), 1228(b), or 1328(b).
 
-(m) Infants and Incompetent Persons. If the debtor knows that a person on the list of creditors or schedules is an infant or incompetent person, the debtor also shall include the name, address, and legal relationship of any person upon whom process would be served in an adversary proceeding against the infant or incompetent person in accordance with Rule 7004(b)(2).
+(6) *Documents in a Converted Case*. Unless the court orders otherwise, a document filed before a case is converted to another chapter is considered filed in the converted case.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 11, 2022, eff. Dec. 1, 2022.)
+(7) *Extending the Time to File*. Except as §1116(3) provides otherwise, the court, on motion and for cause, may extend the time to file a document under this rule. The movant must give notice of the motion to:
+
+• the United States trustee;
+
+• any committee elected under §705 or appointed under §1102; and
+
+• any trustee, examiner, and other party as the court orders.
+
+If the motion is granted, notice must be given to the United States trustee and to any committee, trustee, and other party as the court orders.
+
+(d) List of the 20 Largest Unsecured Creditors in a Chapter 9 or Chapter 11 Case. In addition to the lists required by (a), a debtor in a Chapter 9 case or in a voluntary Chapter 11 case must file with the petition a list containing the names, addresses, and claims of the creditors that hold the 20 largest unsecured claims, excluding insiders, as prescribed by the appropriate Official Form (Form 104 or 204). In an involuntary Chapter 11 case, the debtor must file the list within 2 days after the order for relief is entered under §303(h).
+
+(e) Chapter 9 Lists. In a Chapter 9 case, the court must set the time for the debtor to file the list required by (a). If a proposed plan requires real estate assessments to be revised so that the proportion of special assessments or special taxes for some property will be different from the proportion in effect when the petition is filed, the debtor must also file a list that shows—for each adversely affected property—the name and address of each known holder of title, both legal and equitable. On motion and for cause, the court may modify the requirements of this Rule 1007(e) and those of (a).
+
+(f) Social-Security Number. In a voluntary case, an individual debtor must submit with the petition a verified statement that gives the debtor's social-security number or states that the debtor does not have one (Form 121). In an involuntary case, the debtor must submit the statement within 14 days after the order for relief is entered.
+
+(g) Partnership Case. The general partners of a debtor partnership must file for the partnership the list required by (a) and the documents required by (b)(1)(A)–(D). The court may order any general partner to file a statement of personal assets and liabilities and may set the deadline for doing so.
+
+(h) Interests in Property Acquired or Arising After a Petition Is Filed. After the petition is filed in a Chapter 7, 11, 12, or 13 case, if the debtor acquires—or becomes entitled to acquire—an interest in property described in §541(a)(5), the debtor must file a supplemental schedule and include any claimed exemption. Unless the court allows additional time, the debtor must file the schedule within 14 days after learning about the property interest. This duty continues even after the case is closed but does not apply to property acquired after an order is entered:
+
+(1) confirming a Chapter 11 plan (other than one confirmed under §1191(b)); or
+
+(2) discharging the debtor in a Chapter 12 case, a Chapter 13 case, or a case under Subchapter V of Chapter 11 in which the plan is confirmed under §1191(b).
+
+(i) Security Holders Known to Others. After notice and a hearing and for cause, the court may direct an entity other than the debtor or trustee to:
+
+(1) disclose any list of the debtor's security holders in its possession or under its control by:
+
+(A) producing the list or a copy of it;
+
+(B) allowing inspection or copying; or
+
+(C) making any other disclosure; and
+
+(2) indicate the name, address, and security held by each listed holder.
+
+(j) Impounding Lists. On a party in interest's motion and for cause, the court may impound any list filed under this rule and may refuse inspection. But the court may permit a party in interest to inspect or use an impounded list on terms prescribed by the court.
+
+(k) Debtor's Failure to File a Required Document. If a debtor fails to properly prepare and file a list, schedule, or statement (other than a statement of intention) as required by this rule, the court may order:
+
+(1) that the trustee, a petitioning creditor, a committee, or other party do so within the time set by the court; and
+
+(2) that the cost incurred be reimbursed as an administrative expense.
+
+(l) Copies to the United States Trustee. The clerk must promptly send to the United States trustee a copy of every list, schedule, or statement filed under (a)(1), (a)(2), (b), (d), or (h).
+
+(m) Infant or Incompetent Person. If a debtor knows that a person named in a list of creditors or in a schedule is an infant or is incompetent, the debtor must also include the name, address, and legal relationship of anyone on whom process would be served in an adversary proceeding against that person under Rule 7004(b)(2).
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -992,13 +1170,21 @@ The rule is amended in response to the enactment of the Small Business Reorganiz
 
 Subdivision (h) is amended to provide that the duty to file a supplemental schedule under the rule terminates upon confirmation of the plan in a subchapter V case, unless the plan is confirmed under §1191(b), in which case it terminates upon discharge as provided in §1192.
 
-[<sup>1</sup> So in original. Probably should be only one section symbol.](#Rule_1007_1)
+#### Committee Notes on Rules—2024 Amendment ####
 
-### Rule 1008. Verification of Petitions and Accompanying Papers ###
+The language of Rule 1007 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-All petitions, lists, schedules, statements and amendments thereto shall be verified or contain an unsworn declaration as provided in 28 U.S.C. §1746.
+Additionally, the following substantive changes have been made.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991.)
+Rule 1007(b)(7) is amended in two ways. First, language is added to make the rule inapplicable to debtors who are not required to complete an instructional course concerning personal financial management as a condition to discharge. *See* 11 U.S.C. §§727(a)(11), 1328(g)(2), 1141(d)(3)(C). Second, the rule is amended to require an individual debtor who has completed an instructional course concerning personal financial management to file the certificate of course completion (often called a Certificate of Debtor Education) issued by the approved provider of that course in lieu of filing an Official Form, if the provider has not notified the court that the debtor has completed the course.
+
+The amendment to Rule 1007(c)(4) reflects the amendment to Rule 1007(b)(7) described above.
+
+### Rule 1008. Requirement to Verify Petitions and Accompanying Documents ###
+
+A petition, list, schedule, statement, and any amendment must be verified or must contain an unsworn declaration under 28 U.S.C. §1746.
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1010,17 +1196,29 @@ The verification may be replaced by an unsworn declaration as provided in 28 U.S
 
 The amendments to this rule are stylistic.
 
-### Rule 1009. Amendments of Voluntary Petitions, Lists, Schedules and Statements ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) General Right To Amend. A voluntary petition, list, schedule, or statement may be amended by the debtor as a matter of course at any time before the case is closed. The debtor shall give notice of the amendment to the trustee and to any entity affected thereby. On motion of a party in interest, after notice and a hearing, the court may order any voluntary petition, list, schedule, or statement to be amended and the clerk shall give notice of the amendment to entities designated by the court.
+The language of Rule 1008 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Statement of Intention. The statement of intention may be amended by the debtor at any time before the expiration of the period provided in §521(a) of the Code. The debtor shall give notice of the amendment to the trustee and to any entity affected thereby.
+### Rule 1009. Amending a Voluntary Petition, List, Schedule, or Statement ###
 
-(c) Statement of Social Security Number. If a debtor becomes aware that the statement of social security number submitted under Rule 1007(f) is incorrect, the debtor shall promptly submit an amended verified statement setting forth the correct social security number. The debtor shall give notice of the amendment to all of the entities required to be included on the list filed under Rule 1007(a)(1) or (a)(2).
+(a) In General.
 
-(d) Transmission to United States Trustee. The clerk shall promptly transmit to the United States trustee a copy of every amendment filed or submitted under subdivision (a), (b), or (c) of this rule.
+(1) *By a Debtor*. A debtor may amend a voluntary petition, list, schedule, or statement at any time before the case is closed. The debtor must give notice of the amendment to the trustee and any affected entity.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2008, eff. Dec. 1, 2008.)
+(2) *By a Party in Interest*. On a party in interest's motion and after notice and a hearing, the court may order a voluntary petition, list, schedule, or statement to be amended. The clerk must give notice of the amendment to entities that the court designates.
+
+(b) Amending a Statement of Intention. A debtor may amend a statement of intention at any time before the time provided in §521(a)(2) expires. The debtor must give notice of the amendment to the trustee and any affected entity.
+
+(c) Amending a Statement of Social-Security Number. If a debtor learns that a social-security number shown on the statement submitted under Rule 1007(f) is incorrect, the debtor must:
+
+(1) promptly submit an amended verified statement with the correct number (Form 121); and
+
+(2) give notice of the amendment to all entities required to be listed under Rule 1007(a)(1) or (a)(2).
+
+(d) Copy to the United States Trustee. The clerk must promptly send a copy of every amendment filed under this rule to the United States trustee.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1058,13 +1256,17 @@ Subdivision (b) is amended to conform to the 2005 amendments to §521 of the Cod
 
 *Changes Made After Publication*. No changes were made after publication.
 
-### Rule 1010. Service of Involuntary Petition and Summons ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Service of Involuntary Petition and Summons. On the filing of an involuntary petition, the clerk shall forthwith issue a summons for service. When an involuntary petition is filed, service shall be made on the debtor. The summons shall be served with a copy of the petition in the manner provided for service of a summons and complaint by Rule 7004(a) or (b). If service cannot be so made, the court may order that the summons and petition be served by mailing copies to the party's last known address, and by at least one publication in a manner and form directed by the court. The summons and petition may be served on the party anywhere. Rule 7004(e) and Rule 4(l) F.R.Civ.P. apply when service is made or attempted under this rule.
+The language of Rule 1009 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Corporate Ownership Statement. Each petitioner that is a corporation shall file with the involuntary petition a corporate ownership statement containing the information described in Rule 7007.1.
+### Rule 1010. Serving an Involuntary Petition and Summons ###
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(a) In General. After an involuntary petition has been filed, the clerk must promptly issue a summons for service on the debtor. The summons must be served with a copy of the petition in the manner that Rule 7004(a) and (b) provide for service of a summons and complaint. If service cannot be so made, the court may order service by mail to the debtor's last known address, and by at least one publication as the court orders. Service may be made anywhere. Rule 7004(e) and Fed. R. Civ. P. 4(l) govern service under this rule.
+
+(b) Corporate-Ownership Statement. A corporation that files an involuntary petition must file and serve with the petition a corporate-ownership statement containing the information described in Rule 7007.1.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1120,25 +1322,29 @@ The rule is also amended by renumbering the prior rule as subdivision (a) and ad
 
 Subdivision (a) of this rule is amended to remove provisions regarding the issuance of a summons for service in certain chapter 15 proceedings. The requirements for notice and service in chapter 15 proceedings are found in Rule 2002(q).
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 1010 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in subd. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 1011. Responsive Pleading or Motion in Involuntary Cases ###
+### Rule 1011. Responsive Pleading in an Involuntary Case; Effect of a Motion ###
 
-(a) Who May Contest Petition. The debtor named in an involuntary petition may contest the petition. In the case of a petition against a partnership under Rule 1004, a nonpetitioning general partner, or a person who is alleged to be a general partner but denies the allegation, may contest the petition.
+(a) Who May Contest a Petition. A debtor may contest an involuntary petition filed against it. In a partnership case under Rule 1004, a nonpetitioning general partner—or a person who is alleged to be a general partner but denies the allegation—may contest the petition.
 
-(b) Defenses and Objections; When Presented. Defenses and objections to the petition shall be presented in the manner prescribed by Rule 12 F.R.Civ.P. and shall be filed and served within 21 days after service of the summons, except that if service is made by publication on a party or partner not residing or found within the state in which the court sits, the court shall prescribe the time for filing and serving the response.
+(b) Defenses and Objections; Time to File. A defense or objection to the petition must be presented as prescribed by Fed. R. Civ. P. 12. It must be filed and served within 21 days after the summons is served. But if service is made by publication on a party or partner who does not reside in—or cannot be found in—the state where the court sits, the court must set the time to file and serve the answer.
 
-(c) Effect of Motion. Service of a motion under Rule 12(b) F.R.Civ.P. shall extend the time for filing and serving a responsive pleading as permitted by Rule 12(a) F.R.Civ.P.
+(c) Effect of a Motion. Serving a motion under Fed. R. Civ. P. 12(b) extends the time to file and serve an answer as Fed. R. Civ. P. 12(a) permits.
 
-(d) Claims Against Petitioners. A claim against a petitioning creditor may not be asserted in the answer except for the purpose of defeating the petition.
+(d) Limitation on Asserting a Debtor's Claim Against a Petitioning Creditor. A debtor's answer must not assert a claim against a petitioning creditor except to defeat the petition.
 
-(e) Other Pleadings. No other pleadings shall be permitted, except that the court may order a reply to an answer and prescribe the time for filing and service.
+(e) Limit on Pleadings. No pleading other than an answer to the petition is allowed, but the court may order a reply to an answer and set the time for filing and service.
 
-(f) Corporate Ownership Statement. If the entity responding to the involuntary petition is a corporation, the entity shall file with its first appearance, pleading, motion, response, or other request addressed to the court a corporate ownership statement containing the information described in Rule 7007.1.
+(f) Corporate-Ownership Statement. A corporation that responds to the petition must file a corporate-ownership statement containing the information described in Rule 7007.1. The corporation must do so with its first appearance, pleading, motion, or response, or other first request to the court.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1190,19 +1396,23 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 This rule is amended to remove provisions regarding chapter 15 proceedings. The requirements for responses to a petition for recognition of a foreign proceeding are found in Rule 1012.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 1011 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in subds. (b) and (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 1012. Responsive Pleading in Cross-Border Cases ###
+### Rule 1012. Contesting a Petition in a Chapter 15 Case ###
 
-(a) Who May Contest Petition. The debtor or any party in interest may contest a petition for recognition of a foreign proceeding.
+(a) Who May Contest the Petition. A debtor or a party in interest may contest a Chapter 15 petition for recognition of a foreign proceeding.
 
-(b) Objections and Responses; When Presented. Objections and other responses to the petition shall be presented no later than seven days before the date set for the hearing on the petition, unless the court prescribes some other time or manner for responses.
+(b) Time to File a Response. Unless the court sets a different time, a response to the petition must be filed at least 7 days before the date set for a hearing on the petition.
 
-(c) Corporate Ownership Statement. If the entity responding to the petition is a corporation, then the entity shall file a corporate ownership statement containing the information described in Rule 7007.1 with its first appearance, pleading, motion, response, or other request addressed to the court.
+(c) Corporate-Ownership Statement. A corporation that responds to the petition must file a corporate-ownership statement containing the information described in Rule 7007.1. The corporation must do so with its first appearance, pleading, motion, or response, or other first request to the court.
 
-(Added Apr. 28, 2016, eff. Dec. 1, 2016.)
+(Added Apr. 28, 2016, eff. Dec. 1, 2016; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1987 ####
 
@@ -1212,15 +1422,21 @@ This rule [former Rule 1012—Examination of Debtor, Including Discovery, on Iss
 
 This rule is added to govern responses to petitions for recognition in cross-border cases. It incorporates provisions formerly found in Rule 1011. Subdivision (a) provides that the debtor or a party in interest may contest the petition. Subdivision (b) provides for presentation of responses no later than 7 days before the hearing on the petition, unless the court directs otherwise. Subdivision (c) governs the filing of corporate ownership statements by entities responding to the petition.
 
-### Rule 1013. Hearing and Disposition of a Petition in an Involuntary Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Contested Petition. The court shall determine the issues of a contested petition at the earliest practicable time and forthwith enter an order for relief, dismiss the petition, or enter any other appropriate order.
+The language of Rule 1012 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Default. If no pleading or other defense to a petition is filed within the time provided by Rule 1011, the court, on the next day, or as soon thereafter as practicable, shall enter an order for the relief requested in the petition.
+### Rule 1013. Contested Petition in an Involuntary Case; Default ###
 
-[(c) Order for Relief] (Abrogated Apr. 22, 1993, eff. Aug. 1, 1993)
+(a) Hearing and Disposition. When a petition in an involuntary case is contested, the court must:
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993.)
+(1) rule on the issues presented at the earliest practicable time; and
+
+(2) promptly issue an order for relief, dismiss the petition, or issue any other appropriate order.
+
+(b) Default. If the petition is not contested within the time allowed by Rule 1011, the court must issue the order for relief on the next day or as soon as practicable.
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1238,17 +1454,45 @@ Reference to the Official Form number is deleted in anticipation of future revis
 
 *Subdivision (c)* is abrogated because the official form for the order for relief was abrogated in 1991. Other amendments are stylistic and make no substantive change.
 
-### Rule 1014. Dismissal and Change of Venue ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Dismissal and Transfer of Cases.
+The language of Rule 1013 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(1) *Cases Filed in Proper District*. If a petition is filed in the proper district, the court, on the timely motion of a party in interest or on its own motion, and after hearing on notice to the petitioners, the United States trustee, and other entities as directed by the court, may transfer the case to any other district if the court determines that the transfer is in the interest of justice or for the convenience of the parties.
+### Rule 1014. Transferring a Case to Another District; Dismissing a Case Improperly Filed ###
 
-(2) *Cases Filed in Improper District*. If a petition is filed in an improper district, the court, on the timely motion of a party in interest or on its own motion, and after hearing on notice to the petitioners, the United States trustee, and other entities as directed by the court, may dismiss the case or transfer it to any other district if the court determines that transfer is in the interest of justice or for the convenience of the parties.
+(a) Dismissal or Transfer.
 
-(b) Procedure When Petitions Involving the Same Debtor or Related Debtors are Filed in Different Courts. If petitions commencing cases under the Code or seeking recognition under chapter 15 are filed in different districts by, regarding, or against (1) the same debtor, (2) a partnership and one or more of its general partners, (3) two or more general partners, or (4) a debtor and an affiliate, the court in the district in which the first-filed petition is pending may determine, in the interest of justice or for the convenience of the parties, the district or districts in which any of the cases should proceed. The court may so determine on motion and after a hearing, with notice to the following entities in the affected cases: the United States trustee, entities entitled to notice under Rule 2002(a), and other entities as the court directs. The court may order the parties to the later-filed cases not to proceed further until it makes the determination.
+(1) *Petition Filed in the Proper District*. If a petition is filed in the proper district, the court may transfer the case to another district in the interest of justice or for the convenience of the parties. The court may do so:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 25, 2014, eff. Dec. 1, 2014.)
+(A) on its own or on a party in interest's timely motion; and
+
+(B) only after a hearing on notice to the petitioner, United States trustee, and other entities as the court orders.
+
+(2) *Petition Filed in an Improper District*. If a petition is filed in an improper district, the court may dismiss the case or may transfer it to another district on the same grounds and under the same procedures as stated in (1).
+
+(b) Petitions Involving the Same or Related Debtors Filed in Different Districts.
+
+(1) *Scope*. This Rule 1014(b) applies if petitions commencing cases or seeking recognition under Chapter 15 are filed in different districts by, regarding, or against:
+
+(A) the same debtor;
+
+(B) a partnership and one or more of its general partners;
+
+(C) two or more general partners; or
+
+(D) a debtor and an affiliate.
+
+(2) *Court Action*. The court in the district where the first petition is filed may determine the district or districts in which the cases should proceed in the interest of justice or for the convenience of the parties. The court may do so on timely motion and after a hearing on notice to:
+
+• the United States trustee;
+
+• entities entitled to notice under Rule 2002(a); and
+
+• other entities as the court orders.
+
+(3) *Later-Filed Petitions*. The court in the district where the first petition is filed may order the parties to the later-filed cases not to proceed further until the motion is decided.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1300,15 +1544,37 @@ The other changes to subdivision (b) are stylistic.
 
 *Changes Made After Publication and Comment*. The only change made after publication and comment was stylistic.
 
-### Rule 1015. Consolidation or Joint Administration of Cases Pending in Same Court ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Cases Involving Same Debtor. If two or more petitions by, regarding, or against the same debtor are pending in the same court, the court may order consolidation of the cases.
+The language of Rule 1014 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Cases Involving Two or More Related Debtors. If a joint petition or two or more petitions are pending in the same court by or against (1) spouses, or (2) a partnership and one or more of its general partners, or (3) two or more general partners, or (4) a debtor and an affiliate, the court may order a joint administration of the estates. Prior to entering an order the court shall give consideration to protecting creditors of different estates against potential conflicts of interest. An order directing joint administration of individual cases of spouses shall, if one spouse has elected the exemptions under §522(b)(2) of the Code and the other has elected the exemptions under §522(b)(3), fix a reasonable time within which either may amend the election so that both shall have elected the same exemptions. The order shall notify the debtors that unless they elect the same exemptions within the time fixed by the court, they will be deemed to have elected the exemptions provided by §522(b)(2).
+### Rule 1015. Consolidating or Jointly Administering Cases Pending in the Same District ###
 
-(c) Expediting and Protective Orders. When an order for consolidation or joint administration of a joint case or two or more cases is entered pursuant to this rule, while protecting the rights of the parties under the Code, the court may enter orders as may tend to avoid unnecessary costs and delay.
+(a) Consolidating Cases Involving the Same Debtor. The court may consolidate two or more cases that are regarding or brought by or against the same debtor and that are pending in its district.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 27, 2017, eff. Dec. 1, 2017.)
+(b) Jointly Administering Cases Involving Related Debtors; Exemptions of Spouses; Protective Orders to Avoid Conflicts of Interest.
+
+(1) *In General*. The court may order joint administration of the estates in a joint case or in two or more cases pending in the court if they are brought by or against:
+
+(A) spouses;
+
+(B) a partnership and one or more of its general partners;
+
+(C) two or more general partners; or
+
+(D) a debtor and an affiliate.
+
+(2) *Potential Conflicts of Interest*. Before issuing a joint-administration order, the court must consider how to protect the creditors of different estates against potential conflicts of interest.
+
+(3) *Exemptions in Cases Involving Spouses*. If spouses have filed separate petitions—with one electing exemptions under §522(b)(2) and the other under §522(b)(3)—and the court orders joint administration, that order must:
+
+(A) set a reasonable time for the debtors to elect the same exemptions; and
+
+(B) advise the debtors that if they fail to do so, they will be considered to have elected exemptions under §522(b)(2).
+
+(c) Protective Orders to Avoid Unnecessary Costs and Delay. When cases are consolidated or jointly administered, the court may issue orders to avoid unnecessary costs and delay while still protecting the parties' rights under the Code.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1344,11 +1610,17 @@ The rule is amended to conform to the change in the numbering of §522(b) of the
 
 Subdivision (b) is amended to replace "a husband and wife" with "spouses" in light of the Supreme Court's decision in *Obergefell v. Hodges*, 135 S. Ct. 2584 (2015).
 
-### Rule 1016. Death or Incompetency of Debtor ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-Death or incompetency of the debtor shall not abate a liquidation case under chapter 7 of the Code. In such event the estate shall be administered and the case concluded in the same manner, so far as possible, as though the death or incompetency had not occurred. If a reorganization, family farmer's debt adjustment, or individual's debt adjustment case is pending under chapter 11, chapter 12, or chapter 13, the case may be dismissed; or if further administration is possible and in the best interest of the parties, the case may proceed and be concluded in the same manner, so far as possible, as though the death or incompetency had not occurred.
+The language of Rule 1015 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991.)
+### Rule 1016. Death or Incompetency of a Debtor ###
+
+(a) Chapter 7 Case. In a Chapter 7 case, the debtor's death or incompetency does not abate the case. The case continues, as far as possible, as though the death or incompetency had not occurred.
+
+(b) Chapter 11, 12, or 13 Case. Upon the debtor's death or incompetency in a Chapter 11, 12, or 13 case, the court may dismiss the case or may permit it to continue if further administration is possible and is in the parties' best interests. If the case continues, it must proceed and be concluded in the same manner as though the death or incompetency had not occurred.
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1358,35 +1630,49 @@ This rule is derived from former Rules 118 and 11–16. In a chapter 11 reorgani
 
 This rule is amended to conform to 25 F.R.Civ.P. and to include chapter 12 cases.
 
-### Rule 1017. Dismissal or Conversion of Case; Suspension ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Voluntary Dismissal; Dismissal for Want of Prosecution or Other Cause. Except as provided in §§707(a)(3), 707(b), 1208(b), and 1307(b) of the Code, and in Rule 1017(b), (c), and (e), a case shall not be dismissed on motion of the petitioner, for want of prosecution or other cause, or by consent of the parties, before a hearing on notice as provided in Rule 2002. For the purpose of the notice, the debtor shall file a list of creditors with their addresses within the time fixed by the court unless the list was previously filed. If the debtor fails to file the list, the court may order the debtor or another entity to prepare and file it.
+The language of Rule 1016 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Dismissal for Failure To Pay Filing Fee.
+### Rule 1017. Dismissing a Case; Suspending Proceedings; Converting a Case to Another Chapter ###
 
-(1) If any installment of the filing fee has not been paid, the court may, after a hearing on notice to the debtor and the trustee, dismiss the case.
+(a) Dismissing a Case—In General. Except as provided in §707(a)(3), 707(b), 1208(b), or 1307(b), or in Rule 1017(b), (c), or (e), the court must conduct a hearing on notice under Rule 2002 before dismissing a case on the petitioner's motion, for want of prosecution or other cause, or by the parties' consent. For the purpose of the notice, a debtor who has not already filed a list of creditors and their addresses must do so before the deadline set by the court. If the debtor fails to timely file the list, the court may order the debtor or another entity to do so.
 
-(2) If the case is dismissed or closed without full payment of the filing fee, the installments collected shall be distributed in the same manner and proportions as if the filing fee had been paid in full.
+(b) Dismissing a Case for Failure to Pay an Installment Toward the Filing Fee. If the debtor fails to pay any installment toward the filing fee, the court may dismiss the case after a hearing on notice to the debtor and trustee. If the court dismisses or closes the case without full payment of the filing fee, previous installment payments must be distributed as if full payment had been made.
 
-(c) Dismissal of Voluntary Chapter 7 or Chapter 13 Case for Failure To Timely File List of Creditors, Schedules, and Statement of Financial Affairs. The court may dismiss a voluntary chapter 7 or chapter 13 case under §707(a)(3) or §1307(c)(9) after a hearing on notice served by the United States trustee on the debtor, the trustee, and any other entities as the court directs.
+(c) Dismissing a Voluntary Chapter 7 or Chapter 13 Case for Failure to File a Document on Time. On motion of the United States trustee, the court may dismiss a voluntary Chapter 7 case under §707(a)(3), or a Chapter 13 case under §1307(c)(9), for a failure to timely file the information required by §521(a)(1). But the court may do so only after a hearing on notice served by the United States trustee on the debtor, trustee, and any other entity as the court orders.
 
-(d) Suspension. The court shall not dismiss a case or suspend proceedings under §305 before a hearing on notice as provided in Rule 2002(a).
+(d) Dismissing a Case or Suspending Proceedings Under §305. The court may dismiss a case or suspend proceedings under §305 only after a hearing on notice under Rule 2002(a).
 
-(e) Dismissal of an Individual Debtor's Chapter 7 Case, or Conversion to a Case Under Chapter 11 or 13, for Abuse. The court may dismiss or, with the debtor's consent, convert an individual debtor's case for abuse under §707(b) only on motion and after a hearing on notice to the debtor, the trustee, the United States trustee, and any other entity as the court directs.
+(e) Dismissing an Individual Debtor's Chapter 7 Case for Abuse or Converting It to Chapter 11 or 13.
 
-(1) Except as otherwise provided in §704(b)(2), a motion to dismiss a case for abuse under §707(b) or (c) may be filed only within 60 days after the first date set for the meeting of creditors under §341(a), unless, on request filed before the time has expired, the court for cause extends the time for filing the motion to dismiss. The party filing the motion shall set forth in the motion all matters to be considered at the hearing. In addition, a motion to dismiss under §707(b)(1) and (3) shall state with particularity the circumstances alleged to constitute abuse.
+(1) *In General*. On motion under §707(b), the court may dismiss an individual debtor's Chapter 7 case for abuse or, with the debtor's consent, convert it to Chapter 11 or 13. The court may do so only after a hearing on notice to:
 
-(2) If the hearing is set on the court's own motion, notice of the hearing shall be served on the debtor no later than 60 days after the first date set for the meeting of creditors under §341(a). The notice shall set forth all matters to be considered by the court at the hearing.
+• the debtor;
 
-(f) Procedure for Dismissal, Conversion, or Suspension.
+• the trustee;
 
-(1) Rule 9014 governs a proceeding to dismiss or suspend a case, or to convert a case to another chapter, except under §§706(a), 1112(a), 1208(a) or (b), or 1307(a) or (b).
+• the United States trustee; and
 
-(2) Conversion or dismissal under §§706(a), 1112(a), 1208(b), or 1307(b) shall be on motion filed and served as required by Rule 9013.
+• any other entity as the court orders.
 
-(3) A chapter 12 or chapter 13 case shall be converted without court order when the debtor files a notice of conversion under §§1208(a) or 1307(a). The filing date of the notice becomes the date of the conversion order for the purposes of applying §348(c) and Rule 1019. The clerk shall promptly transmit a copy of the notice to the United States trustee.
+(2) *Time to File a Motion; Content*. Except as §704(b)(2) provides otherwise, a motion to dismiss a case for abuse under §707(b) or (c) must be filed within 60 days after the first date set for the meeting of creditors under §341(a). On request made within the 60-day period, the court may, for cause, extend the time to file. The motion must:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2008, eff. Dec. 1, 2008.)
+(A) set forth all matters to be considered at the hearing; and
+
+(B) if made under §707(b)(1) and (3), state with particularity the circumstances alleged to constitute abuse.
+
+(3) *Hearing on the Court's Own Motion; Serving Notice*. If the hearing is set on the court's own motion, the clerk must serve notice on the debtor within 60 days after the first date set for the meeting of creditors under §341(a). The notice must set forth all matters to be considered at the hearing.
+
+(f) Procedures for Dismissing, Suspending, or Converting a Case.
+
+(1) *In General*. Rule 9014 governs a proceeding to dismiss or suspend a case or to convert it to another chapter—except under §706(a), 1112(a), 1208(a) or (b), or 1307(a) or (b).
+
+(2) *Cases Requiring a Motion*. Dismissing or converting a case under §706(a), 1112(a), 1208(b), or 1307(b) requires a motion filed and served as required by Rule 9013.
+
+(3) *Conversion in a Chapter 12 or 13 Case*. If the debtor files a conversion notice under §1208(a) or §1307(a), the case will be converted without court order. The notice date becomes the date of the conversion order in applying §348(c) or Rule 1019. The clerk must promptly send a copy of the notice to the United States trustee.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1448,11 +1734,23 @@ Subdivision (e) is amended to implement the 2005 amendments to §707 of the Code
 
 *Changes Made After Publication*. No changes were made after publication.
 
-### Rule 1018. Contested Involuntary Petitions; Contested Petitions Commencing Chapter 15 Cases; Proceedings to Vacate Order for Relief; Applicability of Rules in Part VII Governing Adversary Proceedings ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-Unless the court otherwise directs and except as otherwise prescribed in Part I of these rules, the following rules in Part VII apply to all proceedings contesting an involuntary petition or a chapter 15 petition for recognition, and to all proceedings to vacate an order for relief: Rules 7005, 7008–7010, 7015, 7016, 7024–7026, 7028–7037, 7052, 7054, 7056, and 7062. The court may direct that other rules in Part VII shall also apply. For the purposes of this rule a reference in the Part VII rules to adversary proceedings shall be read as a reference to proceedings contesting an involuntary petition or a chapter 15 petition for recognition, or proceedings to vacate an order for relief. Reference in the Federal Rules of Civil Procedure to the complaint shall be read as a reference to the petition.
+The language of Rule 1017 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 28, 2010, eff. Dec. 1, 2010.)
+### Rule 1018. Contesting a Petition in an Involuntary or Chapter 15 Case; Vacating an Order for Relief; Applying Part VII Rules ###
+
+(a) Applying Part VII Rules. Unless the court orders or a Part I rule provides otherwise, Rules 7005, 7008–10, 7015–16, 7024–26, 7028–37, 7052, 7054, 7056, and 7062—together with any other Part VII rules as the court may order—apply to the following:
+
+(1) a proceeding that contests either an involuntary petition or a Chapter 15 petition for recognition; and
+
+(2) a proceeding to vacate an order for relief.
+
+(b) References to an "Adversary Proceeding." Any reference to an "adversary proceeding" in the rules listed in (a) is a reference to the proceedings listed in (a)(1)–(2).
+
+(c) "Complaint" Means "Petition." For the proceedings described in (a), a reference to the "complaint" in the Federal Rules of Civil Procedure must be read as a reference to the petition.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1474,61 +1772,87 @@ Other changes are stylistic.
 
 *Changes Made After Publication*. No changes since publication.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 1018 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subd. (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 1019. Conversion of a Chapter 11 Reorganization Case, Chapter 12 Family Farmer's Debt Adjustment Case, or Chapter 13 Individual's Debt Adjustment Case to a Chapter 7 Liquidation Case ###
+### Rule 1019. Converting or Reconverting a Chapter 11, 12, or 13 Case to Chapter 7 ###
 
-When a chapter 11, chapter 12, or chapter 13 case has been converted or reconverted to a chapter 7 case:
+(a) Filing Various Documents; Filing a Statement of Intention.
 
-(1) *Filing of Lists, Inventories, Schedules, Statements.*
+(1) *Lists, Inventories, Schedules, Statements of Financial Affairs*. Unless the court orders otherwise, when a Chapter 11, 12, or 13 case is converted or reconverted to Chapter 7, the lists, inventories, schedules, and statements of financial affairs previously filed are considered filed in the Chapter 7 case. If they have not been previously filed, the debtor must comply with Rule 1007 as if an order for relief had been entered on an involuntary petition on the same date as the order directing that the case continue under Chapter 7.
 
-(A) Lists, inventories, schedules, and statements of financial affairs theretofore filed shall be deemed to be filed in the chapter 7 case, unless the court directs otherwise. If they have not been previously filed, the debtor shall comply with Rule 1007 as if an order for relief had been entered on an involuntary petition on the date of the entry of the order directing that the case continue under chapter 7.
+(2) *Statement of Intention*. A statement of intention, if required, must be filed within 30 days after the conversion order is entered or before the first date set for the meeting of creditors, whichever is earlier. The court may, for cause, extend the time to file only on motion filed—or on oral request made during a hearing—before the time has expired. Notice of an extension must be given to the United States trustee and to any committee, trustee, or other party as the court orders.
 
-(B) If a statement of intention is required, it shall be filed within 30 days after entry of the order of conversion or before the first date set for the meeting of creditors, whichever is earlier. The court may grant an extension of time for cause only on written motion filed, or oral request made during a hearing, before the time has expired. Notice of an extension shall be given to the United States trustee and to any committee, trustee, or other party as the court may direct.
+(b) New Time to File a §707(b) or (c) Motion, a Proof of Claim, a Complaint Objecting to Discharge, or a Complaint to Determine Dischargeability.
 
-(2) *New Filing Periods.*
+(1) *When a New Time Begins*. When a case is converted to Chapter 7, a new time begins under Rule 1017, 3002, 4004, or 4007 to file:
 
-(A) A new time period for filing a motion under §707(b) or (c), a claim, a complaint objecting to discharge, or a complaint to obtain a determination of dischargeability of any debt shall commence under Rules <sup><a href="#Rule_1019_1_target" name="Rule_1019_1">1</a></sup> 1017, 3002, 4004, or 4007, but a new time period shall not commence if a chapter 7 case had been converted to a chapter 11, 12, or 13 case and thereafter reconverted to a chapter 7 case and the time for filing a motion under §707(b) or (c), a claim, a complaint objecting to discharge, or a complaint to obtain a determination of the dischargeability of any debt, or any extension thereof, expired in the original chapter 7 case.
+(A) a motion under §707(b) or (c);
 
-(B) A new time period for filing an objection to a claim of exemptions shall commence under Rule 4003(b) after conversion of a case to chapter 7 unless:
+(B) a proof of claim;
 
-(i) the case was converted to chapter 7 more than one year after the entry of the first order confirming a plan under chapter 11, 12, or 13; or
+(C) a complaint objecting to discharge; or
 
-(ii) the case was previously pending in chapter 7 and the time to object to a claimed exemption had expired in the original chapter 7 case.
+(D) a complaint to determine whether a specific debt may be discharged.
 
-(3) *Claims Filed Before Conversion*. All claims actually filed by a creditor before conversion of the case are deemed filed in the chapter 7 case.
+(2) *When a New Time Does Not Begin*. No new time to file begins when a case is reconverted to Chapter 7 after a previous conversion to Chapter 11, 12, or 13 if the time to file in the original Chapter 7 case has expired.
 
-(4) *Turnover of Records and Property*. After qualification of, or assumption of duties by the chapter 7 trustee, any debtor in possession or trustee previously acting in the chapter 11, 12, or 13 case shall, forthwith, unless otherwise ordered, turn over to the chapter 7 trustee all records and property of the estate in the possession or control of the debtor in possession or trustee.
+(3) *New Time to Object to a Claimed Exemption*. When a case is converted to Chapter 7, a new time begins under Rule 4003(b) to object to a claimed exemption unless:
 
-(5) *Filing Final Report and Schedule of Postpetition Debts.*
+(A) more than 1 year has elapsed since the court issued the first order confirming a plan under Chapter 11, 12, or 13; or
 
-(A) *Conversion of Chapter 11 or Chapter 12 Case*. Unless the court directs otherwise, if a chapter 11 or chapter 12 case is converted to chapter 7, the debtor in possession or, if the debtor is not a debtor in possession, the trustee serving at the time of conversion, shall:
+(B) the case was previously pending in Chapter 7 and time has expired to object to a claimed exemption in the original Chapter 7 case.
 
-(i) not later than 14 days after conversion of the case, file a schedule of unpaid debts incurred after the filing of the petition and before conversion of the case, including the name and address of each holder of a claim; and
+(c) Proof of Claim Filed Before Conversion. A proof of claim filed by a creditor before conversion is considered filed in the Chapter 7 case.
 
-(ii) not later than 30 days after conversion of the case, file and transmit to the United States trustee a final report and account;
+(d) Turning Over Documents and Property. Unless the court orders otherwise, after a trustee in the Chapter 7 case qualifies or assumes duties, the debtor in possession— or the previously acting trustee—must promptly turn over to the Chapter 7 trustee all documents and property of the estate that are in its possession or control.
 
-(B) *Conversion of Chapter 13 Case*. Unless the court directs otherwise, if a chapter 13 case is converted to chapter 7,
+(e) Final Report and Account; Schedule of Unpaid Postpetition Debts.
 
-(i) the debtor, not later than 14 days after conversion of the case, shall file a schedule of unpaid debts incurred after the filing of the petition and before conversion of the case, including the name and address of each holder of a claim; and
+(1) *In a Chapter 11 or Chapter 12 Case*. Unless the court orders otherwise, when a Chapter 11 or 12 case is converted to Chapter 7, the debtor in possession or, if the debtor is not a debtor in possession, the trustee serving at the time of conversion must:
 
-(ii) the trustee, not later than 30 days after conversion of the case, shall file and transmit to the United States trustee a final report and account;
+(A) within 14 days after conversion, file a schedule of unpaid debts incurred after the petition was filed but before conversion and include the name and address of each claim holder; and
 
-(C) *Conversion After Confirmation of a Plan*. Unless the court orders otherwise, if a chapter 11, chapter 12, or chapter 13 case is converted to chapter 7 after confirmation of a plan, the debtor shall file:
+(B) within 30 days after conversion, file and send to the United States trustee a final report and account.
 
-(i) a schedule of property not listed in the final report and account acquired after the filing of the petition but before conversion, except if the case is converted from chapter 13 to chapter 7 and §348(f)(2) does not apply;
+(2) *In a Chapter 13 Case*. Unless the court orders otherwise, when a Chapter 13 case is converted to Chapter 7:
 
-(ii) a schedule of unpaid debts not listed in the final report and account incurred after confirmation but before the conversion; and
+(A) within 14 days after conversion, the debtor must file a schedule of unpaid debts incurred after the petition was filed but before conversion and include the name and address of each claim holder; and
 
-(iii) a schedule of executory contracts and unexpired leases entered into or assumed after the filing of the petition but before conversion.
+(B) within 30 days after conversion, the trustee must file and send to the United States trustee a final report and account.
 
-(D) *Transmission to United States Trustee*. The clerk shall forthwith transmit to the United States trustee a copy of every schedule filed pursuant to Rule 1019(5).
+(3) *Converting a Case to Chapter 7 After a Plan Has Been Confirmed*. Unless the court orders otherwise, if a case under Chapter 11, 12, or 13 is converted to a case under Chapter 7 after a plan is confirmed, the debtor must file:
 
-(6) *Postpetition Claims; Preconversion Administrative Expenses; Notice*. A request for payment of an administrative expense incurred before conversion of the case is timely filed under §503(a) of the Code if it is filed before conversion or a time fixed by the court. If the request is filed by a governmental unit, it is timely if it is filed before conversion or within the later of a time fixed by the court or 180 days after the date of the conversion. A claim of a kind specified in §348(d) may be filed in accordance with Rules 3001(a)–(d) and 3002. Upon the filing of the schedule of unpaid debts incurred after commencement of the case and before conversion, the clerk, or some other person as the court may direct, shall give notice to those entities listed on the schedule of the time for filing a request for payment of an administrative expense and, unless a notice of insufficient assets to pay a dividend is mailed in accordance with Rule 2002(e), the time for filing a claim of a kind specified in §348(d).
+(A) a schedule of property that was acquired after the petition was filed but before conversion and was not listed in the final report and account, except when a Chapter 13 case is converted to Chapter 7 and §348(f)(2) does not apply;
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010.)
+(B) a schedule of unpaid debts that were incurred after confirmation but before conversion and were not listed in the final report and account; and
+
+(C) a schedule of executory contracts and unexpired leases that were entered into or assumed after the petition was filed but before conversion.
+
+(4) *Copy to the United States Trustee*. The clerk must promptly send to the United States trustee a copy of any schedule filed under this Rule 1019(e).
+
+(f) Preconversion Administrative Expenses; Postpetition Claims.
+
+(1) *Request to Pay an Administrative Expense; Time to File*. A request to pay an administrative expense incurred before conversion is timely filed under §503(a) if it is filed before conversion or within a time set by the court. Such a request by a governmental unit is timely if it is filed:
+
+(A) before conversion; or
+
+(B) within 180 days after conversion or within a time set by the court, whichever is later.
+
+(2) *Proof of Claim Against the Debtor or the Estate*. A proof of claim under §348(d) against either the debtor or the estate may be filed as specified in Rules 3001(a)–(d) and 3002.
+
+(3) *Giving Notice of Certain Time Limits*. After the filing of a schedule of debts incurred after the case was commenced but before conversion, the clerk, or the court's designee, must notify the entities listed on the schedule of:
+
+(A) the time to request payment of an administrative expense; and
+
+(B) the time to file a proof of claim under §348(d), unless a notice of insufficient assets to pay a dividend has been mailed under Rule 2002(e).
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1626,17 +1950,31 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 *Changes Made After Publication*. No changes since publication.
 
-[<sup>1</sup> So in original. Probably should be "Rule".](#Rule_1019_1)
+#### Committee Notes on Rules—2024 Amendment ####
 
-### Rule 1020. Chapter 11 Reorganization Case for Small Business Debtors ###
+The language of Rule 1019 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(a) Small Business Debtor Designation. In a voluntary chapter 11 case, the debtor shall state in the petition whether the debtor is a small business debtor and, if so, whether the debtor elects to have subchapter V of chapter 11 apply. In an involuntary chapter 11 case, the debtor shall file within 14 days after entry of the order for relief a statement as to whether the debtor is a small business debtor and, if so, whether the debtor elects to have subchapter V of chapter 11 apply. The status of the case as a small business case or a case under subchapter V of chapter 11 shall be in accordance with the debtor's statement under this subdivision, unless and until the court enters an order finding that the debtor's statement is incorrect.
+### Rule 1020. Designating a Chapter 11 Debtor as a Small Business Debtor ###
 
-(b) Objecting to Designation. The United States trustee or a party in interest may file an objection to the debtor's statement under subdivision (a) no later than 30 days after the conclusion of the meeting of creditors held under §341(a) of the Code, or within 30 days after any amendment to the statement, whichever is later.
+(a) In General. In a voluntary Chapter 11 case, the debtor must state in the petition whether the debtor is a small business debtor and, if so, whether the debtor elects to have Subchapter V of Chapter 11 apply. In an involuntary Chapter 11 case, the debtor must provide the same information in a statement filed within 14 days after the order for relief. The case must proceed in accordance with the debtor's statement, unless and until the court issues an order finding that the statement is incorrect.
 
-(c) Procedure for Objection or Determination. Any objection or request for a determination under this rule shall be governed by Rule 9014 and served on: the debtor; the debtor's attorney; the United States trustee; the trustee; the creditors included on the list filed under Rule 1007(d) or, if a committee has been appointed under §1102(a)(3), the committee or its authorized agent; and any other entity as the court directs.
+(b) Objecting to the Designation. The United States trustee or a party in interest may object to the debtor's designation. The objection must be filed within 30 days after the conclusion of the meeting of creditors held under §341(a) or within 30 days after an amendment to the designation is filed, whichever is later.
 
-(Added Apr. 11, 1997, eff. Dec. 1, 1997; amended Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 11, 2022, eff. Dec. 1, 2022.)
+(c) Procedure; Service. An objection or request under this rule is governed by Rule 9014 and must be served on:
+
+• the debtor;
+
+• the debtor's attorney;
+
+• the United States trustee;
+
+• the trustee;
+
+• the creditors included on the list filed under Rule 1007(d)—or if a committee has been appointed under §1102(a)(3), the committee or its authorized agent; and
+
+• any other entity as the court orders.
+
+(Added Apr. 11, 1997, eff. Dec. 1, 1997; amended Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1997 ####
 
@@ -1676,13 +2014,27 @@ Former subdivision (c) of the rule is deleted because the existence or level of 
 
 Former subdivision (d) is redesignated as subdivision (c), and the list of entities to be served is revised to reflect that in most small business and subchapter V cases there will not be a committee of creditors.
 
-### Rule 1021. Health Care Business Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Health Care Business Designation. Unless the court orders otherwise, if a petition in a case under chapter 7, chapter 9, or chapter 11 states that the debtor is a health care business, the case shall proceed as a case in which the debtor is a health care business.
+The language of Rule 1020 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Motion. The United States trustee or a party in interest may file a motion to determine whether the debtor is a health care business. The motion shall be transmitted to the United States trustee and served on: the debtor; the trustee; any committee elected under §705 or appointed under §1102 of the Code or its authorized agent, or, if the case is a chapter 9 municipality case or a chapter 11 reorganization case and no committee of unsecured creditors has been appointed under §1102, the creditors included on the list filed under Rule 1007(d); and any other entity as the court directs. The motion shall be governed by Rule 9014.
+### Rule 1021. Designating a Chapter 7, 9, or 11 Case as a Health Care Business Case ###
 
-(Added Apr. 23, 2008, eff. Dec. 1, 2008.)
+(a) In General. If a petition in a Chapter 7, 9, or 11 case designates the debtor as a health care business, the case must proceed in accordance with the designation unless the court orders otherwise.
+
+(b) Seeking a Court Determination. The United States trustee or a party in interest may move the court to determine whether the debtor is a health care business. Proceedings on the motion are governed by Rule 9014. If the motion is filed by a party in interest, a copy must be sent to the United States trustee. The motion must be served on:
+
+• the debtor;
+
+• the trustee;
+
+• any committee elected under §705 or appointed under §1102, or its authorized agent;
+
+• in a Chapter 9 or Chapter 11 case in which an unsecured creditors' committee has not been appointed under §1102, the creditors on the list filed under Rule 1007(d); and
+
+• any other entity as the court orders.
+
+(Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2008 ####
 
@@ -1690,19 +2042,35 @@ Section 101(27A) of the Code, added by the 2005 amendments, defines a health car
 
 *Changes Made After Publication*. No changes were made after publication.
 
-### PART II—OFFICERS AND ADMINISTRATION; NOTICES; MEETINGS; EXAMINATIONS; ELECTIONS; ATTORNEYS AND ACCOUNTANTS ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-### Rule 2001. Appointment of Interim Trustee Before Order for Relief in a Chapter 7 Liquidation Case ###
+The language of Rule 1021 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(a) Appointment. At any time following the commencement of an involuntary liquidation case and before an order for relief, the court on written motion of a party in interest may order the appointment of an interim trustee under §303(g) of the Code. The motion shall set forth the necessity for the appointment and may be granted only after hearing on notice to the debtor, the petitioning creditors, the United States trustee, and other parties in interest as the court may designate.
+### PART II—OFFICERS AND ADMINISTRATION; NOTICES; MEETINGS; EXAMINATIONS; ELECTIONS AND APPOINTMENTS; FINAL REPORT; COMPENSATION ###
 
-(b) Bond of Movant. An interim trustee may not be appointed under this rule unless the movant furnishes a bond in an amount approved by the court, conditioned to indemnify the debtor for costs, attorney's fee, expenses, and damages allowable under §303(i) of the Code.
+### Rule 2001. Appointing an Interim Trustee Before the Order for Relief in an Involuntary Chapter 7 Case ###
 
-(c) Order of Appointment. The order directing the appointment of an interim trustee shall state the reason the appointment is necessary and shall specify the trustee's duties.
+(a) Appointing an Interim Trustee. After an involuntary Chapter 7 case commences but before an order for relief, the court may, on a party in interest's motion, order the United States trustee to appoint an interim trustee under §303(g). The motion must set forth the need for the appointment and may be granted only after a hearing on notice to:
 
-(d) Turnover and Report. Following qualification of the trustee selected under §702 of the Code, the interim trustee, unless otherwise ordered, shall (1) forthwith deliver to the trustee all the records and property of the estate in possession or subject to control of the interim trustee and, (2) within 30 days thereafter file a final report and account.
+• the debtor;
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+• the petitioning creditors;
+
+• the United States trustee; and
+
+• other parties in interest as the court orders.
+
+(b) Bond Required. An interim trustee may be appointed only if the movant furnishes a bond, in an amount that the court approves, to indemnify the debtor for any costs, attorney's fees, expenses, and damages allowable under §303(i).
+
+(c) The Order's Content. The court's order must state the reason the appointment is needed and specify the trustee's duties.
+
+(d) The Interim Trustee's Final Report. Unless the court orders otherwise, after the qualification of a trustee selected under §702, the interim trustee must:
+
+(1) promptly deliver to the trustee all the records and property of the estate that are in the interim trustee's possession or under its control; and
+
+(2) within 30 days after the trustee qualifies, file a final report and account.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1720,145 +2088,253 @@ This rule is adapted from former Bankruptcy Rule 201. See also former Chapter X 
 
 This rule is amended to conform to §303(g) of the Code which provides that the United States trustee appoints the interim trustee. See Rule X–1003. This rule does not apply to the exercise by the court of the power to act sua sponte pursuant to §105(a) of the Code.
 
-### Rule 2002. Notices to Creditors, Equity Security Holders, Administrators in Foreign Proceedings, Persons Against Whom Provisional Relief is Sought in Ancillary and Other Cross-Border Cases, United States, and United States Trustee ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Twenty-One-Day Notices to Parties in Interest. Except as provided in subdivisions (h), (i), (l), (p), and (q) of this rule, the clerk, or some other person as the court may direct, shall give the debtor, the trustee, all creditors and indenture trustees at least 21 days' notice by mail of:
+The language of Rule 2001 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(1) the meeting of creditors under §341 or §1104(b) of the Code, which notice, unless the court orders otherwise, shall include the debtor's employer identification number, social security number, and any other federal taxpayer identification number;
+### Rule 2002. Notices ###
 
-(2) a proposed use, sale, or lease of property of the estate other than in the ordinary course of business, unless the court for cause shown shortens the time or directs another method of giving notice;
+(a) 21-Day Notices to the Debtor, Trustee, Creditors, and Indenture Trustees. Except as (h), (i), (l), (p), and (q) provide otherwise, the clerk or the court's designee must give the debtor, the trustee, all creditors, and all indenture trustees at least 21 days' notice by mail of:
 
-(3) the hearing on approval of a compromise or settlement of a controversy other than approval of an agreement pursuant to Rule 4001(d), unless the court for cause shown directs that notice not be sent;
+(1) the meeting of creditors under §341 or §1104(b), which notice—unless the court orders otherwise—must include the debtor's:
 
-(4) in a chapter 7 liquidation, a chapter 11 reorganization case, or a chapter 12 family farmer debt adjustment case, the hearing on the dismissal of the case or the conversion of the case to another chapter, unless the hearing is under §707(a)(3) or §707(b) or is on dismissal of the case for failure to pay the filing fee;
+(A) employer-identification number;
 
-(5) the time fixed to accept or reject a proposed modification of a plan;
+(B) social-security number; and
 
-(6) a hearing on any entity's request for compensation or reimbursement of expenses if the request exceeds $1,000;
+(C) any other federal taxpayer-identification number;
 
-(7) the time fixed for filing proofs of claims pursuant to Rule 3003(c);
+(2) a proposal to use, sell, or lease property of the estate other than in the ordinary course of business—unless the court, for cause, shortens the time or orders another method of giving notice;
 
-(8) the time fixed for filing objections and the hearing to consider confirmation of a chapter 12 plan; and
+(3) a hearing to approve a compromise or settlement other than an agreement under Rule 4001(d)—unless the court, for cause, orders that notice not be given;
 
-(9) the time fixed for filing objections to confirmation of a chapter 13 plan.
+(4) a hearing on a motion to dismiss a Chapter 7, 11, or 12 case or to convert it to another chapter—unless the hearing is under §707(a)(3) or §707(b) or is on a motion to dismiss the case for failure to pay the filing fee;
 
-(b) Twenty-Eight-Day Notices to Parties in Interest. Except as provided in subdivision (l) of this rule, the clerk, or some other person as the court may direct, shall give the debtor, the trustee, all creditors and indenture trustees not less than 28 days' notice by mail of the time fixed (1) for filing objections and the hearing to consider approval of a disclosure statement or, under §1125(f), to make a final determination whether the plan provides adequate information so that a separate disclosure statement is not necessary; (2) for filing objections and the hearing to consider confirmation of a chapter 9 or chapter 11 plan; and (3) for the hearing to consider confirmation of a chapter 13 plan.
+(5) the time to accept or reject a proposed modification to a plan;
 
-(c) Content of Notice.
+(6) a hearing on a request for compensation or for reimbursement of expenses, if the request exceeds $1,000;
 
-(1) *Proposed Use, Sale, or Lease of Property*. Subject to Rule 6004, the notice of a proposed use, sale, or lease of property required by subdivision (a)(2) of this rule shall include the time and place of any public sale, the terms and conditions of any private sale and the time fixed for filing objections. The notice of a proposed use, sale, or lease of property, including real estate, is sufficient if it generally describes the property. The notice of a proposed sale or lease of personally identifiable information under §363(b)(1) of the Code shall state whether the sale is consistent with any policy prohibiting the transfer of the information.
+(7) the time to file a proof of claim under Rule 3003(c);
 
-(2) *Notice of Hearing on Compensation*. The notice of a hearing on an application for compensation or reimbursement of expenses required by subdivision (a)(6) of this rule shall identify the applicant and the amounts requested.
+(8) the time to file an objection to—and the time of the hearing to consider whether to confirm—a Chapter 12 plan; and
 
-(3) *Notice of Hearing on Confirmation When Plan Provides for an Injunction*. If a plan provides for an injunction against conduct not otherwise enjoined under the Code, the notice required under Rule 2002(b)(2) shall:
+(9) the time to object to confirming a Chapter 13 plan.
 
-(A) include in conspicuous language (bold, italic, or underlined text) a statement that the plan proposes an injunction;
+(b) 28-Day Notices to the Debtor, Trustee, Creditors, and Indenture Trustees. Except as (l) provides otherwise, the clerk or the court's designee must give the debtor, trustee, all creditors, and all indenture trustees at least 28 days' notice by mail of:
+
+(1) the time to file an objection and the time of the hearing to:
+
+(A) consider approving a disclosure statement; or
+
+(B) determine under §1125(f) whether a plan includes adequate information to make a separate disclosure statement unnecessary;
+
+(2) the time to file an objection to—and the time of the hearing to consider whether to confirm—a Chapter 9 or 11 plan; and
+
+(3) the time of the hearing to consider whether to confirm a Chapter 13 plan.
+
+(c) Content of a Notice.
+
+(1) *Proposed Use, Sale, or Lease of Property*. Subject to Rule 6004, a notice of a proposed use, sale, or lease of property under (a)(2) must include:
+
+(A) a general description of the property;
+
+(B) the time and place of any public sale;
+
+(C) the terms and conditions of any private sale;
+
+(D) the time to file objections; and
+
+(E) for a proposed sale or lease of personally identifiable information under §363(b)(1), a statement whether the sale is consistent with any policy that prohibits transferring the information.
+
+(2) *Hearing on an Application for Compensation or Reimbursement*. A notice under (a)(6) of a hearing on a request for compensation or for reimbursement of expenses must identify the applicant and the amounts requested.
+
+(3) *Hearing on Confirming a Plan That Proposes an Injunction*. If a plan proposes an injunction against conduct not otherwise enjoined under the Code, the notice under (b)(2) must:
+
+(A) state in conspicuous language (bold, italic, or underlined text) that the plan proposes an injunction;
 
 (B) describe briefly the nature of the injunction; and
 
-(C) identify the entities that would be subject to the injunction.
+(C) identify the entities that would be subject to it.
 
-(d) Notice to Equity Security Holders. In a chapter 11 reorganization case, unless otherwise ordered by the court, the clerk, or some other person as the court may direct, shall in the manner and form directed by the court give notice to all equity security holders of (1) the order for relief; (2) any meeting of equity security holders held pursuant to §341 of the Code; (3) the hearing on the proposed sale of all or substantially all of the debtor's assets; (4) the hearing on the dismissal or conversion of a case to another chapter; (5) the time fixed for filing objections to and the hearing to consider approval of a disclosure statement; (6) the time fixed for filing objections to and the hearing to consider confirmation of a plan; and (7) the time fixed to accept or reject a proposed modification of a plan.
-
-(e) Notice of No Dividend. In a chapter 7 liquidation case, if it appears from the schedules that there are no assets from which a dividend can be paid, the notice of the meeting of creditors may include a statement to that effect; that it is unnecessary to file claims; and that if sufficient assets become available for the payment of a dividend, further notice will be given for the filing of claims.
-
-(f) Other Notices. Except as provided in subdivision (l) of this rule, the clerk, or some other person as the court may direct, shall give the debtor, all creditors, and indenture trustees notice by mail of:
+(d) Notice to Equity Security Holders in a Chapter 11 Case. Unless the court orders otherwise, in a Chapter 11 case the clerk or the court's designee must give notice as the court orders to the equity security holders of:
 
 (1) the order for relief;
 
-(2) the dismissal or the conversion of the case to another chapter, or the suspension of proceedings under §305;
+(2) a meeting of equity security holders under §341;
 
-(3) the time allowed for filing claims pursuant to Rule 3002;
+(3) a hearing on a proposed sale of all, or substantially all, the debtor's assets;
 
-(4) the time fixed for filing a complaint objecting to the debtor's discharge pursuant to §727 of the Code as provided in Rule 4004;
+(4) a hearing on a motion to dismiss a case or convert it to another chapter;
 
-(5) the time fixed for filing a complaint to determine the dischargeability of a debt pursuant to §523 of the Code as provided in Rule 4007;
+(5) the time to file an objection to—and the time of the hearing to consider whether to approve—a disclosure statement;
 
-(6) the waiver, denial, or revocation of a discharge as provided in Rule 4006;
+(6) the time to file an objection to—and the time of the hearing to consider whether to confirm—a Chapter 11 plan; and
 
-(7) entry of an order confirming a chapter 9, 11, 12, or 13 plan;
+(7) the time to accept or reject a proposal to modify a plan.
 
-(8) a summary of the trustee's final report in a chapter 7 case if the net proceeds realized exceed $1,500;
+(e) Giving Notice of No Dividend in a Chapter 7 Case. In a Chapter 7 case, if it appears from the schedules that there are no assets from which to pay a dividend, the notice of the meeting of creditors may state:
 
-(9) a notice under Rule 5008 regarding the presumption of abuse;
+(1) that fact;
 
-(10) a statement under §704(b)(1) as to whether the debtor's case would be presumed to be an abuse under §707(b); and
+(2) that filing proofs of claim is unnecessary; and
 
-(11) the time to request a delay in the entry of the discharge under §§1141(d)(5)(C), 1228(f), and 1328(h). Notice of the time fixed for accepting or rejecting a plan pursuant to Rule 3017(c) shall be given in accordance with Rule 3017(d).
+(3) that further notice of the time to file proofs of claim will be given if enough assets become available to pay a dividend.
+
+(f) Other Notices.
+
+(1) *Various Notices to the Debtor, Creditors, and Indenture Trustees*. Except as (l) provides otherwise, the clerk, or some other person as the court <sup><a href="#Rule_2002_1_target" name="Rule_2002_1">1</a></sup> may direct, must give the debtor, creditors, and indenture trustees notice by mail of:
+
+(A) the order for relief;
+
+(B) a case's dismissal or conversion to another chapter;
+
+(C) a suspension of proceedings under §305;
+
+(D) the time to file a proof of claim under Rule 3002;
+
+(E) the time to file a complaint to object to the debtor's discharge under §727, as Rule 4004 provides;
+
+(F) the time to file a complaint to determine whether a debt is dischargeable under §523, as Rule 4007 provides;
+
+(G) a waiver, denial, or revocation of a discharge, as Rule 4006 provides;
+
+(H) entry of an order confirming a plan in a Chapter 9, 11, 12 or 13 case;
+
+(I) a summary of the trustee's final report in a Chapter 7 case if the net proceeds realized exceed $1,500;
+
+(J) a notice under Rule 5008 regarding the presumption of abuse;
+
+(K) a statement under §704(b)(1) about whether the debtor's case would be presumed to be an abuse under §707(b); and
+
+(L) the time to request a delay in granting the discharge under §1141(d)(5)(C), 1228(f), or 1328(h).
+
+(2) *Notice of the Time to Accept or Reject a Plan*. Notice of the time to accept or reject a plan under Rule 3017(c) must be given in accordance with Rule 3017(d).
 
 (g) Addressing Notices.
 
-(1) Notices required to be mailed under Rule 2002 to a creditor, indenture trustee, or equity security holder shall be addressed as such entity or an authorized agent has directed in its last request filed in the particular case. For the purposes of this subdivision—
+(1) *In General*. A notice mailed to a creditor, indenture trustee, or equity security holder must be addressed as the entity or its authorized agent provided in its last request filed in the case. The request may be:
 
-(A) a proof of claim filed by a creditor or indenture trustee that designates a mailing address constitutes a filed request to mail notices to that address, unless a notice of no dividend has been given under Rule 2002(e) and a later notice of possible dividend under Rule 3002(c)(5) has not been given; and
+(A) a proof of claim filed by a creditor or an indenture trustee designating a mailing address (unless a notice of no dividend has been given under (e) and a later notice of a possible dividend under Rule 3002(c)(5) has not been given); or
 
-(B) a proof of interest filed by an equity security holder that designates a mailing address constitutes a filed request to mail notices to that address.
+(B) a proof of interest filed by an equity security holder designating a mailing address.
 
-(2) Except as provided in §342(f) of the Code, if a creditor or indenture trustee has not filed a request designating a mailing address under Rule 2002(g)(1) or Rule 5003(e), the notices shall be mailed to the address shown on the list of creditors or schedule of liabilities, whichever is filed later. If an equity security holder has not filed a request designating a mailing address under Rule 2002(g)(1) or Rule 5003(e), the notices shall be mailed to the address shown on the list of equity security holders.
+(2) *When No Request Has Been Filed*. Except as §342(f) provides otherwise, if a creditor or indenture trustee has not filed a request under (1) or Rule 5003(e), the notice must be mailed to the address shown on the list of creditors or schedule of liabilities, whichever is filed later. If an equity security holder has not filed a request, the notice must be mailed to the address shown on the list of equity security holders.
 
-(3) If a list or schedule filed under Rule 1007 includes the name and address of a legal representative of an infant or incompetent person, and a person other than that representative files a request or proof of claim designating a name and mailing address that differs from the name and address of the representative included in the list or schedule, unless the court orders otherwise, notices under Rule 2002 shall be mailed to the representative included in the list or schedules and to the name and address designated in the request or proof of claim.
+(3) *Notices to Representatives of an Infant or Incompetent Person*. This paragraph (3) applies if a list or schedule filed under Rule 1007 includes a name and address of an infant's or an incompetent person's representative, and a person other than that representative files a request or proof of claim designating a different name and mailing address. Unless the court orders otherwise, the notice must be mailed to the designated address of:
 
-(4) Notwithstanding Rule 2002(g)(1)–(3), an entity and a notice provider may agree that when the notice provider is directed by the court to give a notice, the notice provider shall give the notice to the entity in the manner agreed to and at the address or addresses the entity supplies to the notice provider. That address is conclusively presumed to be a proper address for the notice. The notice provider's failure to use the supplied address does not invalidate any notice that is otherwise effective under applicable law.
+(A) the representative; and
 
-(5) A creditor may treat a notice as not having been brought to the creditor's attention under §342(g)(1) only if, prior to issuance of the notice, the creditor has filed a statement that designates the name and address of the person or organizational subdivision of the creditor responsible for receiving notices under the Code, and that describes the procedures established by the creditor to cause such notices to be delivered to the designated person or subdivision.
+(B) the person filing the request or proof of claim.
 
-(h) Notices to Creditors Whose Claims Are Filed.
+(4) *Using an Address Agreed to Between an Entity and a Notice Provider*. Notwithstanding (g)(1)–(3), when the court orders that notice be given, the notice provider may do so in the manner agreed to between the provider and an entity, and at the address or addresses the entity supplies. An address supplied by the entity is conclusively presumed to be a proper address. But a failure to use a supplied address does not invalidate a notice that is otherwise effective under applicable law.
 
-(1) *Voluntary Case*. In a voluntary chapter 7 case, chapter 12 case, or chapter 13 case, after 70 days following the order for relief under that chapter or the date of the order converting the case to chapter 12 or chapter 13, the court may direct that all notices required by subdivision (a) of this rule be mailed only to:
+(5) *When a Notice Is Not Brought to a Creditor's Attention*. A creditor may treat a notice as not having been brought to the creditor's attention under §342(g)(1) only if, before the notice was issued, the creditor has filed a statement:
 
-• the debtor;
+(A) designating the name and address of the person or organizational subdivision responsible for receiving notices; and
 
-• the trustee;
+(B) describing the creditor's procedures for delivering notices to the designated person or organizational subdivision.
 
-• all indenture trustees;
+(h) Notice to Creditors Who Filed Proofs of Claim in a Chapter 7, 12, or 13 Case.
 
-• creditors that hold claims for which proofs of claim have been filed; and
-
-• creditors, if any, that are still permitted to file claims because an extension was granted under Rule 3002(c)(1) or (c)(2).
-
-(2) *Involuntary Case*. In an involuntary chapter 7 case, after 90 days following the order for relief under that chapter, the court may direct that all notices required by subdivision (a) of this rule be mailed only to:
+(1) *Voluntary Case*. This paragraph (1) applies in a voluntary Chapter 7 case, or in a Chapter 12 or 13 case. After 70 days following the order for relief under that chapter or the date of the order converting the case to Chapter 12 or 13, the court may direct that all notices required by (a) be mailed only to:
 
 • the debtor;
 
 • the trustee;
 
-• all indenture trustees;
+• indenture trustees;
 
-• creditors that hold claims for which proofs of claim have been filed; and
+• creditors with claims for which proofs of claim have been filed; and
 
-• creditors, if any, that are still permitted to file claims because an extension was granted under Rule 3002(c)(1) or (c)(2).
+• creditors that are still permitted to file proofs of claim because they have received an extension of time under Rule 3002(c)(1) or (2).
 
-(3) *Insufficient Assets*. In a case where notice of insufficient assets to pay a dividend has been given to creditors under subdivision (e) of this rule, after 90 days following the mailing of a notice of the time for filing claims under Rule 3002(c)(5), the court may direct that notices be mailed only to the entities specified in the preceding sentence.
+(2) *Involuntary Case*. In an involuntary chapter <sup><a href="#Rule_2002_2_target" name="Rule_2002_2">2</a></sup> 7 case, after 90 days following the order for relief, the court may order that all notices required by (a) be mailed only to those entities listed in (1).
 
-(i) Notices to Committees. Copies of all notices required to be mailed pursuant to this rule shall be mailed to the committees elected under §705 or appointed under §1102 of the Code or to their authorized agents. Notwithstanding the foregoing subdivisions, the court may order that notices required by subdivision (a)(2), (3) and (6) of this rule be transmitted to the United States trustee and be mailed only to the committees elected under §705 or appointed under §1102 of the Code or to their authorized agents and to the creditors and equity security holders who serve on the trustee or debtor in possession and file a request that all notices be mailed to them. A committee appointed under §1114 shall receive copies of all notices required by subdivisions (a)(1), (a)(5), (b), (f)(2), and (f)(7), and such other notices as the court may direct.
+(3) *When Notice of Insufficient Assets Has Been Given*. If notice of insufficient assets to pay a dividend has been given to creditors under (e), after 90 days following the mailing of a notice of the time to file proofs of claim under Rule 3002(c)(5), the court may order that notices be mailed only to those entities listed in (1).
 
-(j) Notices to the United States. Copies of notices required to be mailed to all creditors under this rule shall be mailed (1) in a chapter 11 reorganization case, to the Securities and Exchange Commission at any place the Commission designates, if the Commission has filed either a notice of appearance in the case or a written request to receive notices; (2) in a commodity broker case, to the Commodity Futures Trading Commission at Washington, D.C.; (3) in a chapter 11 case, to the Internal Revenue Service at its address set out in the register maintained under Rule 5003(e) for the district in which the case is pending; (4) if the papers in the case disclose a debt to the United States other than for taxes, to the United States attorney for the district in which the case is pending and to the department, agency, or instrumentality of the United States through which the debtor became indebted; or (5) if the filed papers disclose a stock interest of the United States, to the Secretary of the Treasury at Washington, D.C.
+(i) Notice to a Committee.
 
-(k) Notices to United States Trustee. Unless the case is a chapter 9 municipality case or unless the United States trustee requests otherwise, the clerk, or some other person as the court may direct, shall transmit to the United States trustee notice of the matters described in subdivisions (a)(2), (a)(3), (a)(4), (a)(8), (a)(9), (b), (f)(1), (f)(2), (f)(4), (f)(6), (f)(7), (f)(8), and (q) of this rule and notice of hearings on all applications for compensation or reimbursement of expenses. Notices to the United States trustee shall be transmitted within the time prescribed in subdivision (a) or (b) of this rule. The United States trustee shall also receive notice of any other matter if such notice is requested by the United States trustee or ordered by the court. Nothing in these rules requires the clerk or any other person to transmit to the United States trustee any notice, schedule, report, application or other document in a case under the Securities Investor Protection Act, 15 U.S.C. §78aaa *et.* <sup><a href="#Rule_2002_1_target" name="Rule_2002_1">1</a></sup> *seq*.
+(1) *In General*. Any notice required to be mailed under this Rule 2002 must also be mailed to a committee elected under §705 or appointed under §1102, or to its authorized agent.
 
-(l) Notice by Publication. The court may order notice by publication if it finds that notice by mail is impracticable or that it is desirable to supplement the notice.
+(2) *Limiting Notices*. The court may order that a notice required by (a)(2), (3), or (6) be:
 
-(m) Orders Designating Matter of Notices. The court may from time to time enter orders designating the matters in respect to which, the entity to whom, and the form and manner in which notices shall be sent except as otherwise provided by these rules.
+(A) sent to the United States trustee; and
 
-(n) Caption. The caption of every notice given under this rule shall comply with Rule 1005. The caption of every notice required to be given by the debtor to a creditor shall include the information required to be in the notice by §342(c) of the Code.
+(B) mailed only to:
 
-(o) Notice of Order for Relief in Consumer Case. In a voluntary case commenced by an individual debtor whose debts are primarily consumer debts, the clerk or some other person as the court may direct shall give the trustee and all creditors notice by mail of the order for relief within 21 days from the date thereof.
+(i) the committees elected under §705 or appointed under §1102, or to their authorized agents; and
 
-(p) Notice to a Creditor With a Foreign Address.
+(ii) those creditors and equity security holders who file—and serve on the trustee or debtor in possession—a request that all notices be mailed to them.
 
-(1) If, at the request of the United States trustee or a party in interest, or on its own initiative, the court finds that a notice mailed within the time prescribed by these rules would not be sufficient to give a creditor with a foreign address to which notices under these rules are mailed reasonable notice under the circumstances, the court may order that the notice be supplemented with notice by other means or that the time prescribed for the notice by mail be enlarged.
+(3) *Copy to a Committee*. A notice required under (a)(1), (a)(5), (b), (f)(1)(B)–(C), or (f)(1)(H)—and any other notice as the court orders—must be sent to a committee appointed under §1114.
 
-(2) Unless the court for cause orders otherwise, a creditor with a foreign address to which notices under this rule are mailed shall be given at least 30 days' notice of the time fixed for filing a proof of claim under Rule 3002(c) or Rule 3003(c).
+(j) Notice to the United States. A notice required to be mailed to all creditors under this Rule 2002 must also be mailed:
 
-(3) Unless the court for cause orders otherwise, the mailing address of a creditor with a foreign address shall be determined under Rule 2002(g).
+(1) in a Chapter 11 case in which the Securities and Exchange Commission has filed either a notice of appearance or a request to receive notices, to the SEC at any place it designates;
 
-(q) Notice of Petition for Recognition of Foreign Proceeding and of Court's Intention to Communicate With Foreign Courts and Foreign Representatives.
+(2) in a commodity-broker case, to the Commodity Futures Trading Commission at Washington, D.C.;
 
-(1) *Notice of Petition for Recognition*. After the filing of a petition for recognition of a foreign proceeding, the court shall promptly schedule and hold a hearing on the petition. The clerk, or some other person as the court may direct, shall forthwith give the debtor, all persons or bodies authorized to administer foreign proceedings of the debtor, all entities against whom provisional relief is being sought under §1519 of the Code, all parties to litigation pending in the United States in which the debtor is a party at the time of the filing of the petition, and such other entities as the court may direct, at least 21 days' notice by mail of the hearing. The notice shall state whether the petition seeks recognition as a foreign main proceeding or foreign nonmain proceeding and shall include the petition and any other document the court may require. If the court consolidates the hearing on the petition with the hearing on a request for provisional relief, the court may set a shorter notice period, with notice to the entities listed in this subdivision.
+(3) in a Chapter 11 case, to the Internal Revenue Service at the address in the register maintained under Rule 5003(e) for the district where the case is pending;
 
-(2) *Notice of Court's Intention to Communicate with Foreign Courts and Foreign Representatives*. The clerk, or some other person as the court may direct, shall give the debtor, all persons or bodies authorized to administer foreign proceedings of the debtor, all entities against whom provisional relief is being sought under §1519 of the Code, all parties to litigation pending in the United States in which the debtor is a party at the time of the filing of the petition, and such other entities as the court may direct, notice by mail of the court's intention to communicate with a foreign court or foreign representative.
+(4) in a case in which the documents disclose that a debt (other than for taxes) is owed to the United States, to the United States attorney for the district where the case is pending and to the United States department, agency, or instrumentality through which the debtor became indebted; or
 
-(As amended Pub. L. 98–91, §2(a), Aug. 30, 1983, 97 Stat. 607; Pub. L. 98–353, title III, §321, July 10, 1984, 98 Stat. 357; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 27, 2020, eff. Dec. 1, 2020.)
+(5) in a case in which the filed documents disclose a stock interest of the United States, to the Secretary of the Treasury at Washington, D.C.
+
+(k) Notice to the United States Trustee.
+
+(1) *In General*. Except in a Chapter 9 case or unless the United States trustee requests otherwise, the clerk or the court's designee must send to the United States trustee notice of:
+
+(A) all matters described in (a)(2)–(4), (a)(8)–(9), (b), (f)(1)(A)–(C), (f)(1)(E), (f)(1)(G)–(I), and (q);
+
+(B) all hearings on applications for compensation or for reimbursement of expenses; and
+
+(C) any other matter if the United States trustee requests it or the court orders it.
+
+(2) *Time to Send*. The notice must be sent within the time that (a) or (b) prescribes.
+
+(3) *Exception Under the Securities Investor Protection Act*. In a case under the Securities Investor Protection Act, 15 U.S.C. §78aaa et seq., these rules do not require any document to be sent to the United States trustee.
+
+(l) Notice by Publication. The court may order notice by publication if notice by mail is impracticable or if it is desirable to supplement the notice.
+
+(m) Orders Concerning Notices. Except as these rules provide otherwise, the court may designate the matters about which, the entity to whom, and the form and manner in which a notice must be sent.
+
+(n) Notice of an Order for Relief in a Consumer Case. In a voluntary case commenced under the Code by an individual debtor whose debts are primarily consumer debts, the clerk, or some other person as the court may direct, shall give the trustee and all creditors notice by mail of the order for relief not more than 20 days after the entry of such order.
+
+(o) Caption. The caption of a notice given under this Rule 2002 must conform to Rule 1005. The caption of a debtor's notice to a creditor must also include the information that §342(c) requires.
+
+(p) Notice to a Creditor with a Foreign Address.
+
+(1) *When Notice by Mail Does Not Suffice*. At the request of the United States trustee or a party in interest, or on its own, the court may find that a notice mailed to a creditor with a foreign address within the time these rules prescribe would not give the creditor reasonable notice. The court may then order that the notice be supplemented with notice by other means or that the time prescribed for the notice by mail be extended.
+
+(2) *Notice of the Time to File a Proof of Claim*. Unless the court, for cause, orders otherwise, a creditor with a foreign address must be given at least 30 days' notice of the time to file a proof of claim under Rule 3002(c) or Rule 3003(c).
+
+(3) *Determining a Foreign Address*. Unless the court, for cause, orders otherwise, the mailing address of a creditor with a foreign address must be determined under (g).
+
+(q) Notice of a Petition for Recognition of a Foreign Proceeding; Notice of an Intent to Communicate with a Foreign Court or Foreign Representative.
+
+(1) *Timing of the Notice; Who Must Receive It*. After a petition for recognition of a foreign proceeding is filed, the court must promptly hold a hearing on it. The clerk or the court's designee must promptly give at least 21 days' notice by mail of the hearing to:
+
+• the debtor;
+
+• all persons or bodies authorized to administer the debtor's foreign proceedings;
+
+• all entities against whom provisional relief is being sought under §1519;
+
+• all parties to litigation pending in the United States in which the debtor was a party when the petition was filed; and
+
+• any other entities as the court orders.
+
+If the court consolidates the hearing on the petition with a hearing on a request for provisional relief, the court may set a shorter notice period.
+
+(2) *Content of the Notice*. The notice must:
+
+(A) state whether the petition seeks recognition as a foreign main proceeding or a foreign nonmain proceeding; and
+
+(B) include a copy of the petition and any other document the court specifies.
+
+(3) *Communicating with a Foreign Court or Foreign Representative*. If the court intends to communicate with a foreign court or foreign representative, the clerk or the court's designee must give notice by mail of the court's intention to all those listed in (q)(1).
+
+(As amended Pub. L. 98–91, §2(a), Aug. 30, 1983, 97 Stat. 607; Pub. L. 98–353, title III, §321, July 10, 1984, 98 Stat. 357; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2074,9 +2550,13 @@ Subdivision (h) is amended to add cases under chapters 12 and 13 of the Bankrupt
 
 Subdivision (k) is amended to add a reference to subdivision (a)(9) of this rule. This change corresponds to the relocation of the deadline for objecting to confirmation of a chapter 13 plan from subdivision (b) to subdivision (a)(9). The rule thereby continues to require transmittal of notice of that deadline to the United States trustee.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of most provisions in Rule 2002 have been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. In (f)[,] the phrase "or some other person as the court may direct" has not been restyled because it was enacted by Congress, P.L. 98–91, 97 Stat. 607, §2 (1983). [Phrase enacted by Pub. L. 98–91 contained the word "Court" rather than "court".] Rule 2002(n) has not been restyled because it was also enacted by Congress, P.L. 98–353, 98 Stat. 357, §114 [§321] (1984). That subsection was erroneously redesignated as subdivision (o) in 2008 [1991], and amended to modify its time period from 20 to 21 days in 2009. Because the Bankruptcy Rules Enabling Act, 28 U.S.C. §2075, provides no authority to modify statutory language, the subdivision is now returned to the language used by Congress.
+
 #### References in Text ####
 
-The Securities Investor Protection Act, referred to in subd. (k), probably means the Securities Investor Protection Act of 1970, Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+The Securities Investor Protection Act, referred to in subd. (k)(3), probably means the Securities Investor Protection Act of 1970, Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
 #### Amendment by Public Law ####
 
@@ -2094,35 +2574,79 @@ Pub. L. 98–91, §1, Aug. 30, 1983, 97 Stat. 607, provided: "That rule 2002(f) 
 
 Pub. L. 98–91, §2(b), Aug. 30, 1983, 97 Stat. 607, provided that: "The amendment made by subsection (a) [amending subd. (f) of this rule] shall take effect on August 1, 1983."
 
-[<sup>1</sup> So in original. Period probably should not appear.](#Rule_2002_1)
+[<sup>1</sup> Amendment by Pub. L. 98–91 enacted the word "Court".](#Rule_2002_1)
+
+[<sup>2</sup> So in original. Probably should be capitalized.](#Rule_2002_2)
 
 ### Rule 2003. Meeting of Creditors or Equity Security Holders ###
 
-(a) Date and Place. Except as otherwise provided in §341(e) of the Code, in a chapter 7 liquidation or a chapter 11 reorganization case, the United States trustee shall call a meeting of creditors to be held no fewer than 21 and no more than 40 days after the order for relief. In a chapter 12 family farmer debt adjustment case, the United States trustee shall call a meeting of creditors to be held no fewer than 21 and no more than 35 days after the order for relief. In a chapter 13 individual's debt adjustment case, the United States trustee shall call a meeting of creditors to be held no fewer than 21 and no more than 50 days after the order for relief. If there is an appeal from or a motion to vacate the order for relief, or if there is a motion to dismiss the case, the United States trustee may set a later date for the meeting. The meeting may be held at a regular place for holding court or at any other place designated by the United States trustee within the district convenient for the parties in interest. If the United States trustee designates a place for the meeting which is not regularly staffed by the United States trustee or an assistant who may preside at the meeting, the meeting may be held not more than 60 days after the order for relief.
+(a) Date and Place of the Meeting.
 
-(b) Order of Meeting.
+(1) *Date*. Except as provided in §341(e), the United States trustee must call a meeting of creditors to be held:
 
-(1) *Meeting of Creditors*. The United States trustee shall preside at the meeting of creditors. The business of the meeting shall include the examination of the debtor under oath and, in a chapter 7 liquidation case, may include the election of a creditors' committee and, if the case is not under subchapter V of chapter 7, the election of a trustee. The presiding officer shall have the authority to administer oaths.
+(A) in a Chapter 7 or 11 case, no fewer than 21 days and no more than 40 days after the order for relief;
 
-(2) *Meeting of Equity Security Holders*. If the United States trustee convenes a meeting of equity security holders pursuant to §341(b) of the Code, the United States trustee shall fix a date for the meeting and shall preside.
+(B) in a Chapter 12 case, no fewer than 21 days and no more than 35 days after the order for relief; or
 
-(3) *Right To Vote*. In a chapter 7 liquidation case, a creditor is entitled to vote at a meeting if, at or before the meeting, the creditor has filed a proof of claim or a writing setting forth facts evidencing a right to vote pursuant to §702(a) of the Code unless objection is made to the claim or the proof of claim is insufficient on its face. A creditor of a partnership may file a proof of claim or writing evidencing a right to vote for the trustee for the estate of the general partner notwithstanding that a trustee for the estate of the partnership has previously qualified. In the event of an objection to the amount or allowability of a claim for the purpose of voting, unless the court orders otherwise, the United States trustee shall tabulate the votes for each alternative presented by the dispute and, if resolution of such dispute is necessary to determine the result of the election, the tabulations for each alternative shall be reported to the court.
+(C) in a Chapter 13 case, no fewer than 21 days and no more than 50 days after the order for relief.
 
-(c) Record of Meeting. Any examination under oath at the meeting of creditors held pursuant to §341(a) of the Code shall be recorded verbatim by the United States trustee using electronic sound recording equipment or other means of recording, and such record shall be preserved by the United States trustee and available for public access until two years after the conclusion of the meeting of creditors. Upon request of any entity, the United States trustee shall certify and provide a copy or transcript of such recording at the entity's expense.
+(2) *Effect of a Motion or an Appeal*. The United States trustee may set a later date for the meeting if there is a motion to vacate the order for relief, an appeal from such an order, or a motion to dismiss the case.
 
-(d) Report of Election and Resolution of Disputes in a Chapter 7 Case.
+(3) *Place; Possible Change in the Meeting Date*. The meeting may be held at a regular place for holding court. Or the United States trustee may designate any other place in the district that is convenient for the parties in interest. If the designated meeting place is not regularly staffed by the United States trustee or an assistant who may preside, the meeting may be held no more than 60 days after the order for relief.
 
-(1) *Report of Undisputed Election*. In a chapter 7 case, if the election of a trustee or a member of a creditors' committee is not disputed, the United States trustee shall promptly file a report of the election, including the name and address of the person or entity elected and a statement that the election is undisputed.
+(b) Conducting the Meeting; Agenda; Who May Vote.
 
-(2) *Disputed Election*. If the election is disputed, the United States trustee shall promptly file a report stating that the election is disputed, informing the court of the nature of the dispute, and listing the name and address of any candidate elected under any alternative presented by the dispute. No later than the date on which the report is filed, the United States trustee shall mail a copy of the report to any party in interest that has made a request to receive a copy of the report. Pending disposition by the court of a disputed election for trustee, the interim trustee shall continue in office. Unless a motion for the resolution of the dispute is filed no later than 14 days after the United States trustee files a report of a disputed election for trustee, the interim trustee shall serve as trustee in the case.
+(1) *At a Meeting of Creditors.*
 
-(e) Adjournment. The meeting may be adjourned from time to time by announcement at the meeting of the adjourned date and time. The presiding official shall promptly file a statement specifying the date and time to which the meeting is adjourned.
+(A) *Generally*. The United States trustee must preside at the meeting of creditors. The meeting must include an examination of the debtor under oath. The presiding officer has the authority to administer oaths.
 
-(f) Special Meetings. The United States trustee may call a special meeting of creditors on request of a party in interest or on the United States trustee's own initiative.
+(B) *Chapter 7 Cases*. In a Chapter 7 case, the meeting may include the election of a creditors' committee; and if the case is not under Subchapter V, the meeting may include electing a trustee.
 
-(g) Final Meeting. If the United States trustee calls a final meeting of creditors in a case in which the net proceeds realized exceed $1,500, the clerk shall mail a summary of the trustee's final account to the creditors with a notice of the meeting, together with a statement of the amount of the claims allowed. The trustee shall attend the final meeting and shall, if requested, report on the administration of the estate.
+(2) *At a Meeting of Equity Security Holders*. If the United States trustee convenes a meeting of equity security holders under §341(b), the United States trustee must set a date for the meeting and preside over it.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(3) *Who Has a Right to Vote; Objecting to the Right to Vote.*
+
+(A) *In a Chapter 7 Case*. A creditor in a Chapter 7 case may vote if, at or before the meeting:
+
+(i) the creditor has filed a proof of claim or a writing setting forth facts evidencing a right to vote under §702(a);
+
+(ii) the proof of claim is not insufficient on its face; and
+
+(iii) no objection is made to the claim.
+
+(B) *In a Partnership Case*. A creditor in a partnership case may file a proof of claim or a writing evidencing a right to vote for a trustee for the general partner's estate even if a trustee for the partnership's estate has previously qualified.
+
+(C) *Objecting to the Amount or Allowability of a Claim for Voting Purposes*. Unless the court orders otherwise, if there is an objection to the amount or allowability of a claim for voting purposes, the United States trustee must tabulate the votes for each alternative presented by the dispute. If resolving the dispute is necessary to determine the election's result, the United States trustee must report to the court the tabulations for each alternative.
+
+(c) Recording the Proceedings. At the meeting of creditors under §341(a), the United States trustee must:
+
+(1) record verbatim—using electronic sound-recording equipment or other means of recording—all examinations under oath;
+
+(2) preserve the recording and make it available for public access for 2 years after the meeting concludes; and
+
+(3) upon request, certify and provide a copy or transcript of the recording to any entity at that entity's expense.
+
+(d) Reporting Election Results in a Chapter 7 Case.
+
+(1) *Undisputed Election*. In a Chapter 7 case, if the election of a trustee or a member of a creditors' committee is undisputed, the United States trustee must promptly file a report of the election. The report must include the name and address of the person or entity elected and a statement that the election was undisputed.
+
+(2) *Disputed Election.*
+
+(A) *United States Trustee's Report*. If the election is disputed, the United States trustee must:
+
+(i) promptly file a report informing the court of the nature of the dispute and listing the name and address of any candidate elected under any alternative presented by the dispute; and
+
+(ii) no later than the date on which the report is filed, mail a copy to any party in interest that has requested one.
+
+(B) *Interim Trustee*. Until the court resolves the dispute, the interim trustee continues in office. Unless a motion to resolve the dispute is filed within 14 days after the report is filed, the interim trustee serves as trustee in the case.
+
+(e) Adjournment. The presiding official may adjourn the meeting from time to time by announcing at the meeting the date and time to reconvene. The presiding official must promptly file a statement showing the adjournment and the date and time to reconvene.
+
+(f) Special Meetings of Creditors. The United States trustee may call a special meeting of creditors or may do so on request of a party in interest.
+
+(g) Final Meeting of Creditors. If the United States trustee calls a final meeting of creditors in a case in which the net proceeds realized exceed $1,500, the clerk must give notice of the meeting to the creditors. The notice must include a summary of the trustee's final account and a statement of the amount of the claims allowed. The trustee must attend the meeting and, if requested, report on the estate's administration.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2214,19 +2738,49 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 *Changes Made After Publication*. No changes were made to the language of the rule following publication. The Committee Note was revised to state more explicitly that adjournment of a meeting of creditors to a specific date constitutes holding it open for purposes of §1308(b) of the Bankruptcy Code.
 
-### Rule 2004. Examination ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Examination on Motion. On motion of any party in interest, the court may order the examination of any entity.
+The language of Rule 2003 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Scope of Examination. The examination of an entity under this rule or of the debtor under §343 of the Code may relate only to the acts, conduct, or property or to the liabilities and financial condition of the debtor, or to any matter which may affect the administration of the debtor's estate, or to the debtor's right to a discharge. In a family farmer's debt adjustment case under chapter 12, an individual's debt adjustment case under chapter 13, or a reorganization case under chapter 11 of the Code, other than for the reorganization of a railroad, the examination may also relate to the operation of any business and the desirability of its continuance, the source of any money or property acquired or to be acquired by the debtor for purposes of consummating a plan and the consideration given or offered therefor, and any other matter relevant to the case or to the formulation of a plan.
+### Rule 2004. Examinations ###
 
-(c) Compelling Attendance and Production of Documents or Electronically Stored Information. The attendance of an entity for examination and for the production of documents or electronically stored information, whether the examination is to be conducted within or without the district in which the case is pending, may be compelled as provided in Rule 9016 for the attendance of a witness at a hearing or trial. As an officer of the court, an attorney may issue and sign a subpoena on behalf of the court where the case is pending if the attorney is admitted to practice in that court.
+(a) In General. On a party in interest's motion, the court may order the examination of any entity.
 
-(d) Time and Place of Examination of Debtor. The court may for cause shown and on terms as it may impose order the debtor to be examined under this rule at any time or place it designates, whether within or without the district wherein the case is pending.
+(b) Scope of the Examination.
 
-(e) Mileage. An entity other than a debtor shall not be required to attend as a witness unless lawful mileage and witness fee for one day's attendance shall be first tendered. If the debtor resides more than 100 miles from the place of examination when required to appear for an examination under this rule, the mileage allowed by law to a witness shall be tendered for any distance more than 100 miles from the debtor's residence at the date of the filing of the first petition commencing a case under the Code or the residence at the time the debtor is required to appear for the examination, whichever is the lesser.
+(1) *In General*. The examination of an entity under this Rule 2004, or of a debtor under §343, may relate only to:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 27, 2020, eff. Dec. 1, 2020.)
+(A) the debtor's acts, conduct, or property;
+
+(B) the debtor's liabilities and financial condition;
+
+(C) any matter that may affect the administration of the debtor's estate; or
+
+(D) the debtor's right to a discharge.
+
+(2) *Other Topics in Certain Cases*. In a Chapter 12 or 13 case, or in a Chapter 11 case that is not a railroad reorganization, the examination may also relate to:
+
+(A) the operation of any business and the desirability of its continuing;
+
+(B) the source of any money or property the debtor acquired or will acquire for the purpose of consummating a plan and the consideration given or offered; and
+
+(C) any other matter relevant to the case or to formulating a plan.
+
+(c) Compelling Attendance and the Production of Documents or Electronically Stored Information. Regardless of the district where the examination will be conducted, an entity may be compelled under Rule 9016 to attend and produce documents or electronically stored information. An attorney may issue and sign a subpoena on behalf of the court where the case is pending if the attorney is admitted to practice in that court.
+
+(d) Time and Place to Examine the Debtor. The court may, for cause and on terms it may impose, order the debtor to be examined under this Rule 2004 at any designated time and place, in or outside the district.
+
+(e) Witness Fees and Mileage.
+
+(1) *For a Nondebtor Witness*. An entity, except the debtor, may be required to attend as a witness only if the lawful mileage and witness fee for 1 day's attendance are first tendered.
+
+(2) *For a Debtor Witness*. A debtor who is required to appear for examination more than 100 miles from the debtor's residence must be tendered a mileage fee. The fee need cover only the distance exceeding 100 miles from the nearer of where the debtor resides:
+
+(A) when the first petition was filed; or
+
+(B) when the examination takes place.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2264,19 +2818,39 @@ Subdivision (c) is amended in two respects. First, the provision now refers expr
 
 Second, subdivision (c) is amended to bring its subpoena provision into conformity with the current version of F.R.Civ.P. 45, which Rule 9016 makes applicable in bankruptcy cases. Under Rule 45, a subpoena always issues from the court where the action is pending, even for a deposition in another district, and an attorney admitted to practice in the issuing court may issue and sign it. In light of this procedure, a subpoena for a Rule 2004 examination is now properly issued from the court where the bankruptcy case is pending and by an attorney authorized to practice in that court, even if the examination is to occur in another district.
 
-### Rule 2005. Apprehension and Removal of Debtor to Compel Attendance for Examination ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Order To Compel Attendance for Examination. On motion of any party in interest supported by an affidavit alleging (1) that the examination of the debtor is necessary for the proper administration of the estate and that there is reasonable cause to believe that the debtor is about to leave or has left the debtor's residence or principal place of business to avoid examination, or (2) that the debtor has evaded service of a subpoena or of an order to attend for examination, or (3) that the debtor has willfully disobeyed a subpoena or order to attend for examination, duly served, the court may issue to the marshal, or some other officer authorized by law, an order directing the officer to bring the debtor before the court without unnecessary delay. If, after hearing, the court finds the allegations to be true, the court shall thereupon cause the debtor to be examined forthwith. If necessary, the court shall fix conditions for further examination and for the debtor's obedience to all orders made in reference thereto.
+The language of Rule 2004 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Removal. Whenever any order to bring the debtor before the court is issued under this rule and the debtor is found in a district other than that of the court issuing the order, the debtor may be taken into custody under the order and removed in accordance with the following rules:
+### Rule 2005. Apprehending and Removing a Debtor for Examination ###
 
-(1) If the debtor is taken into custody under the order at a place less than 100 miles from the place of issue of the order, the debtor shall be brought forthwith before the court that issued the order.
+(a) Compelling the Debtor's Attendance.
 
-(2) If the debtor is taken into custody under the order at a place 100 miles or more from the place of issue of the order, the debtor shall be brought without unnecessary delay before the nearest available United States magistrate judge, bankruptcy judge, or district judge. If, after hearing, the magistrate judge, bankruptcy judge, or district judge finds that an order has issued under this rule and that the person in custody is the debtor, or if the person in custody waives a hearing, the magistrate judge, bankruptcy judge, or district judge shall order removal, and the person in custody shall be released on conditions ensuring prompt appearance before the court that issued the order to compel the attendance.
+(1) *Order to Apprehend the Debtor*. On a party in interest's motion supported by an affidavit, the court may order a marshal, or other official authorized by law, to bring the debtor before the court without unnecessary delay. The affidavit must allege that:
 
-(c) Conditions of Release. In determining what conditions will reasonably assure attendance or obedience under subdivision (a) of this rule or appearance under subdivision (b) of this rule, the court shall be governed by the relevant provisions and policies of title 18 U.S.C. §3142.
+(A) the examination is necessary to properly administer the estate, and there is reasonable cause to believe that the debtor is about to leave or has left the debtor's residence or principal place of business to avoid the examination;
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 14, 2021, eff. Dec. 1, 2021.)
+(B) the debtor has evaded service of a subpoena or an order to attend the examination; or
+
+(C) the debtor has willfully disobeyed a duly served subpoena or order to attend the examination.
+
+(2) *Ordering an Immediate Examination*. If, after hearing, the court finds the allegations to be true, it must:
+
+(A) order the immediate examination of the debtor; and
+
+(B) if necessary, set conditions for further examination and for the debtor's obedience to any further order regarding it.
+
+(b) Removing a Debtor to Another District for Examination.
+
+(1) *In General*. When an order is issued under (a)(1) and the debtor is found in another district, the debtor may be taken into custody and removed as provided in (2) and (3).
+
+(2) *Within 100 Miles*. A debtor who is taken into custody less than 100 miles from where the order was issued must be brought promptly before the court that issued the order.
+
+(3) *At 100 Miles or More*. A debtor who is taken into custody 100 miles or more from where the order was issued must be brought without unnecessary delay for a hearing before the nearest available United States magistrate judge, bankruptcy judge, or district judge. If, after hearing, the judge finds that the person in custody is the debtor and is subject to an order under (a)(1), or if the person waives a hearing, the judge must order removal, and must release the person in custody on conditions ensuring prompt appearance before the court that issued the order compelling attendance.
+
+(4) *Conditions of Release*. The relevant provisions and policies of 18 U.S.C. §3142 govern the court's determination of what conditions will reasonably assure attendance and obedience under this Rule 2005.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2292,41 +2866,117 @@ The affidavit required to be submitted in support of the motion may be subscribe
 
 The rule is amended to replace the reference to 18 U.S.C. §3146(a) and (b) with a reference to 18 U.S.C. §3142. Sections 3141 through 3151 of Title 18 were repealed by the Bail Reform Act of 1984, Pub. L. No. 98–473, Title II, §203(a), 98 Stat. 1976 (1984), and replaced by new provisions dealing with bail. The current version of 18 U.S.C. §3146 deals not with conditions to assure attendance or appearance, but with penalties for failure to appear. The topic of conditions is in 18 U.S.C. §3142. Because 18 U.S.C. §3142 contains provisions bearing on topics not included in former 18 U.S.C. §3146(a) and (b), the rule is also amended to limit the reference to the "relevant" provisions and policies of §3142.
 
-### Rule 2006. Solicitation and Voting of Proxies in Chapter 7 Liquidation Cases ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Applicability. This rule applies only in a liquidation case pending under chapter 7 of the Code.
+The language of Rule 2005 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+### Rule 2006. Soliciting and Voting Proxies in a Chapter 7 Case ###
+
+(a) Applicability. This Rule 2006 applies only in a Chapter 7 case.
 
 (b) Definitions.
 
-(1) *Proxy*. A proxy is a written power of attorney authorizing any entity to vote the claim or otherwise act as the owner's attorney in fact in connection with the administration of the estate.
+(1) *Proxy*. A "proxy" is a written power of attorney that authorizes an entity to vote the claim or otherwise act as the holder's attorney-in-fact in connection with the administration of the estate.
 
-(2) *Solicitation of Proxy*. The solicitation of a proxy is any communication, other than one from an attorney to a regular client who owns a claim or from an attorney to the owner of a claim who has requested the attorney to represent the owner, by which a creditor is asked, directly or indirectly, to give a proxy after or in contemplation of the filing of a petition by or against the debtor.
+(2) *Soliciting a Proxy*. "Soliciting a proxy" means any communication by which a creditor is asked, directly or indirectly, to give a proxy after or in contemplation of a Chapter 7 petition filed by or against the debtor. But such a communication is not considered soliciting a proxy if it comes from an attorney to a claim owner who is a regular client or who has requested the attorney's representation.
 
-(c) Authorized Solicitation.
+(c) Who May Solicit a Proxy. A proxy may be solicited only in writing and only by:
 
-(1) A proxy may be solicited only by (A) a creditor owning an allowable unsecured claim against the estate on the date of the filing of the petition; (B) a committee elected pursuant to §705 of the Code; (C) a committee of creditors selected by a majority in number and amount of claims of creditors (i) whose claims are not contingent or unliquidated, (ii) who are not disqualified from voting under §702(a) of the Code and (iii) who were present or represented at a meeting of which all creditors having claims of over $500 or the 100 creditors having the largest claims had at least seven days' notice in writing and of which meeting written minutes were kept and are available reporting the names of the creditors present or represented and voting and the amounts of their claims; or (D) a bona fide trade or credit association, but such association may solicit only creditors who were its members or subscribers in good standing and had allowable unsecured claims on the date of the filing of the petition.
+(1) a creditor that, on the date the petition was filed, held an allowable unsecured claim against the estate;
 
-(2) A proxy may be solicited only in writing.
+(2) a committee elected under §705;
 
-(d) Solicitation Not Authorized. This rule does not permit solicitation (1) in any interest other than that of general creditors; (2) by or on behalf of any custodian; (3) by the interim trustee or by or on behalf of any entity not qualified to vote under §702(a) of the Code; (4) by or on behalf of an attorney at law; or (5) by or on behalf of a transferee of a claim for collection only.
+(3) a committee elected by creditors that hold a majority of claims in number and in total amount and that:
 
-(e) Data Required From Holders of Multiple Proxies. At any time before the voting commences at any meeting of creditors pursuant to §341(a) of the Code, or at any other time as the court may direct, a holder of two or more proxies shall file and transmit to the United States trustee a verified list of the proxies to be voted and a verified statement of the pertinent facts and circumstances in connection with the execution and delivery of each proxy, including:
+(A) have claims that are not contingent or unliquidated;
+
+(B) are not disqualified from voting under §702(a); and
+
+(C) were present or represented at a creditors' meeting where:
+
+(i) all creditors with claims over $500—or the 100 creditors with the largest claims—had at least 7 days' written notice; and
+
+(ii) written minutes are available that report the voting creditors' names and the amounts of their claims; or
+
+(4) a bona fide trade or credit association, which may solicit only creditors who, on the petition date:
+
+(A) were its members or subscribers in good standing; and
+
+(B) held allowable unsecured claims.
+
+(d) When Soliciting a Proxy Is Not Permitted. This Rule 2006 does not permit soliciting a proxy:
+
+(1) for any interest except that of a general creditor;
+
+(2) by the interim trustee; or
+
+(3) by or on behalf of:
+
+(A) a custodian;
+
+(B) any entity not qualified to vote under §702(a);
+
+(C) an attorney-at-law; or
+
+(D) a transferee holding a claim for collection purposes only.
+
+(e) Duties of Holders of Multiple Proxies. Before voting begins at any meeting of creditors under §341(a)—or at any other time the court orders—a holder of 2 or more proxies must file and send to the United States trustee a verified list of the proxies to be voted and a verified statement of the pertinent facts and circumstances regarding each proxy's execution and delivery. The statement must include:
 
 (1) a copy of the solicitation;
 
-(2) identification of the solicitor, the forwarder, if the forwarder is neither the solicitor nor the owner of the claim, and the proxyholder, including their connections with the debtor and with each other. If the solicitor, forwarder, or proxyholder is an association, there shall also be included a statement that the creditors whose claims have been solicited and the creditors whose claims are to be voted were members or subscribers in good standing and had allowable unsecured claims on the date of the filing of the petition. If the solicitor, forwarder, or proxyholder is a committee of creditors, the statement shall also set forth the date and place the committee was organized, that the committee was organized in accordance with clause (B) or (C) of paragraph (c)(1) of this rule, the members of the committee, the amounts of their claims, when the claims were acquired, the amounts paid therefor, and the extent to which the claims of the committee members are secured or entitled to priority;
+(2) an identification of the solicitor, the forwarder (if the forwarder is neither the solicitor nor the claim owner), and the proxyholder—including their connections with the debtor and with each other—together with:
 
-(3) a statement that no consideration has been paid or promised by the proxyholder for the proxy;
+(A) if the solicitor, forwarder, or proxyholder is an association, a statement that the creditors whose claims have been solicited and the creditors whose claims are to be voted were, on the petition date, members or subscribers in good standing with allowable unsecured claims; and
 
-(4) a statement as to whether there is any agreement and, if so, the particulars thereof, between the proxyholder and any other entity for the payment of any consideration in connection with voting the proxy, or for the sharing of compensation with any entity, other than a member or regular associate of the proxyholder's law firm, which may be allowed the trustee or any entity for services rendered in the case, or for the employment of any person as attorney, accountant, appraiser, auctioneer, or other employee for the estate;
+(B) if the solicitor, forwarder, or proxyholder is a committee of creditors, a list stating:
 
-(5) if the proxy was solicited by an entity other than the proxyholder, or forwarded to the holder by an entity who is neither a solicitor of the proxy nor the owner of the claim, a statement signed and verified by the solicitor or forwarder that no consideration has been paid or promised for the proxy, and whether there is any agreement, and, if so, the particulars thereof, between the solicitor or forwarder and any other entity for the payment of any consideration in connection with voting the proxy, or for sharing compensation with any entity other than a member or regular associate of the solicitor's or forwarder's law firm which may be allowed the trustee or any entity for services rendered in the case, or for the employment of any person as attorney, accountant, appraiser, auctioneer, or other employee for the estate;
+(i) the date and place the committee was organized;
 
-(6) if the solicitor, forwarder, or proxyholder is a committee, a statement signed and verified by each member as to the amount and source of any consideration paid or to be paid to such member in connection with the case other than by way of dividend on the member's claim.
+(ii) that the committee was organized under (c)(2) or (c)(3);
 
-(f) Enforcement of Restrictions on Solicitation. On motion of any party in interest or on its own initiative, the court may determine whether there has been a failure to comply with the provisions of this rule or any other impropriety in connection with the solicitation or voting of a proxy. After notice and a hearing the court may reject any proxy for cause, vacate any order entered in consequence of the voting of any proxy which should have been rejected, or take any other appropriate action.
+(iii) the committee's members;
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(iv) the amounts of their claims;
+
+(v) when the claims were acquired;
+
+(vi) the amounts paid for the claims; and
+
+(vii) the extent to which the committee members' claims are secured or entitled to priority;
+
+(3) a statement that the proxyholder has neither paid nor promised any consideration for the proxy;
+
+(4) a statement addressing whether there is any agreement—and, if so, giving its particulars—between the proxyholder and any other entity to:
+
+(A) pay any consideration related to voting the proxy; or
+
+(B) share with any entity (except a member or regular associate of the proxyholder's law firm) compensation that may be allowed to:
+
+(i) the trustee or any entity for services rendered in the case; or
+
+(ii) any person employed by the estate;
+
+(5) if the proxy was solicited by an entity other than the proxyholder—or forwarded to the holder by an entity who is neither a solicitor of the proxy nor the claim owner—a statement signed and verified by the solicitor or forwarder:
+
+(A) confirming that no consideration has been paid or promised for the proxy;
+
+(B) addressing whether there is any agreement—and, if so, giving its particulars—between the solicitor or forwarder and any other entity to pay any consideration related to voting the proxy or to share with any entity (except a member or regular associate of the solicitor's or forwarder's law firm) compensation that may be allowed to:
+
+(i) the trustee or any entity for services rendered in the case; or
+
+(ii) any person employed by the estate; and
+
+(6) if the solicitor, forwarder, or proxyholder is a committee, a statement signed and verified by each member disclosing the amount and source of any consideration paid or to be paid to the member in connection with the case, except a dividend on the member's claim.
+
+(f) Enforcing Restrictions on Soliciting Proxies. On a party in interest's motion or on its own, the court may determine whether there has been a failure to comply with this Rule 2006 or any other impropriety related to soliciting or voting a proxy. After notice and a hearing, the court may:
+
+(1) reject a proxy for cause;
+
+(2) vacate an order entered because a proxy was voted that should have been rejected; or
+
+(3) take other appropriate action.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2368,21 +3018,35 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 • 25-day periods become 28-day periods
 
-### Rule 2007. Review of Appointment of Creditors' Committee Organized Before Commencement of the Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Motion To Review Appointment. If a committee appointed by the United States trustee pursuant to §1102(a) of the Code consists of the members of a committee organized by creditors before the commencement of a chapter 9 or chapter 11 case, on motion of a party in interest and after a hearing on notice to the United States trustee and other entities as the court may direct, the court may determine whether the appointment of the committee satisfies the requirements of §1102(b)(1) of the Code.
+The language of Rule 2006 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Selection of Members of Committee. The court may find that a committee organized by unsecured creditors before the commencement of a chapter 9 or chapter 11 case was fairly chosen if:
+### Rule 2007. Reviewing the Appointment of a Creditors' Committee Organized Before a Chapter 9 or 11 Case Is Commenced ###
 
-(1) it was selected by a majority in number and amount of claims of unsecured creditors who may vote under §702(a) of the Code and were present in person or represented at a meeting of which all creditors having unsecured claims of over $1,000 or the 100 unsecured creditors having the largest claims had at least seven days' notice in writing, and of which meeting written minutes reporting the names of the creditors present or represented and voting and the amounts of their claims were kept and are available for inspection;
+(a) Motion to Review the Appointment. If, in a Chapter 9 or 11 case, a committee appointed by the United States trustee under §1102(a) consists of the members of a committee organized by creditors before the case commenced, the court may determine whether the committee's appointment satisfies the requirements of §1102(b)(1). The court may do so on a party in interest's motion and after a hearing on notice to the United States trustee and other entities as the court orders.
 
-(2) all proxies voted at the meeting for the elected committee were solicited pursuant to Rule 2006 and the lists and statements required by subdivision (e) thereof have been transmitted to the United States trustee; and
+(b) Determining Whether the Committee Was Fairly Chosen. The court may find that the committee was fairly chosen if:
 
-(3) the organization of the committee was in all other respects fair and proper.
+(1) it was selected by a majority in number and amount of claims of unsecured creditors who are entitled to vote under §702(a) and who were present or represented at a meeting where:
 
-(c) Failure To Comply With Requirements for Appointment. After a hearing on notice pursuant to subdivision (a) of this rule, the court shall direct the United States trustee to vacate the appointment of the committee and may order other appropriate action if the court finds that such appointment failed to satisfy the requirements of §1102(b)(1) of the Code.
+(A) all creditors with unsecured claims of over $1,000—or the 100 unsecured creditors with the largest claims—had at least 7 days' written notice; and
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(B) written minutes reporting the voting creditors' names and the amounts of their claims are available for inspection;
+
+(2) all proxies voted at the meeting were solicited under Rule 2006;
+
+(3) the lists and statements required by Rule 2006(e) have been sent to the United States trustee; and
+
+(4) the committee's organization was in all other respects fair and proper.
+
+(c) Failure to Comply with Appointment Requirements. If, after a hearing on notice under (a), the court finds that a committee appointment fails to satisfy the requirements of §1102(b)(1), it:
+
+(1) must order the United States trustee to vacate the appointment; and
+
+(2) may order other appropriate action.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2416,25 +3080,51 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 • 25-day periods become 28-day periods
 
-### Rule 2007.1. Appointment of Trustee or Examiner in a Chapter 11 Reorganization Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Order To Appoint Trustee or Examiner. In a chapter 11 reorganization case, a motion for an order to appoint a trustee or an examiner under §1104(a) or §1104(c) of the Code shall be made in accordance with Rule 9014.
+The language of Rule 2007 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Election of Trustee.
+### Rule 2007.1. Appointing a Trustee or Examiner in a Chapter 11 Case ###
 
-(1) *Request for an Election*. A request to convene a meeting of creditors for the purpose of electing a trustee in a chapter 11 reorganization case shall be filed and transmitted to the United States trustee in accordance with Rule 5005 within the time prescribed by §1104(b) of the Code. Pending court approval of the person elected, any person appointed by the United States trustee under §1104(d) and approved in accordance with subdivision (c) of this rule shall serve as trustee.
+(a) In General. In a Chapter 11 case, a motion to appoint a trustee or examiner under §1104(a) or (c) must be made in accordance with Rule 9014.
 
-(2) *Manner of Election and Notice*. An election of a trustee under §1104(b) of the Code shall be conducted in the manner provided in Rules 2003(b)(3) and 2006. Notice of the meeting of creditors convened under §1104(b) shall be given as provided in Rule 2002. The United States trustee shall preside at the meeting. A proxy for the purpose of voting in the election may be solicited only by a committee of creditors appointed under §1102 of the Code or by any other party entitled to solicit a proxy pursuant to Rule 2006.
+(b) Requesting the United States Trustee to Convene a Meeting of Creditors to Elect a Trustee.
 
-(3) *Report of Election and Resolution of Disputes.*
+(1) *In General*. A request to the United States trustee to convene a meeting of creditors to elect a trustee must be filed and sent to the United States trustee in accordance with Rule 5005 and within the time prescribed by §1104(b). Pending court approval of the person elected, any person appointed by the United States trustee under §1104(d) and approved under (c) below must serve as trustee.
 
-(A) *Report of Undisputed Election*. If no dispute arises out of the election, the United States trustee shall promptly file a report certifying the election, including the name and address of the person elected and a statement that the election is undisputed. The report shall be accompanied by a verified statement of the person elected setting forth that person's connections with the debtor, creditors, any other party in interest, their respective attorneys and accountants, the United States trustee, or any person employed in the office of the United States trustee.
+(2) *Notice and Manner of Conducting the Election*. A trustee's election under §1104(b) must be conducted as Rules 2003(b)(3) and 2006 provide, and notice of the meeting of creditors must be given as Rule 2002 provides. The United States trustee must preside at the meeting. A proxy to vote in the election may be solicited only by a creditors' committee appointed under §1102 or by another party entitled to solicit a proxy under Rule 2006.
 
-(B) *Dispute Arising Out of an Election*. If a dispute arises out of an election, the United States trustee shall promptly file a report stating that the election is disputed, informing the court of the nature of the dispute, and listing the name and address of any candidate elected under any alternative presented by the dispute. The report shall be accompanied by a verified statement by each candidate elected under each alternative presented by the dispute, setting forth the person's connections with the debtor, creditors, any other party in interest, their respective attorneys and accountants, the United States trustee, or any person employed in the office of the United States trustee. Not later than the date on which the report of the disputed election is filed, the United States trustee shall mail a copy of the report and each verified statement to any party in interest that has made a request to convene a meeting under §1104(b) or to receive a copy of the report, and to any committee appointed under §1102 of the Code.
+(3) *Reporting Election Results; Resolving Disputes.*
 
-(c) Approval of Appointment. An order approving the appointment of a trustee or an examiner under §1104(d) of the Code shall be made on application of the United States trustee. The application shall state the name of the person appointed and, to the best of the applicant's knowledge, all the person's connections with the debtor, creditors, any other parties in interest, their respective attorneys and accountants, the United States trustee, or persons employed in the office of the United States trustee. The application shall state the names of the parties in interest with whom the United States trustee consulted regarding the appointment. The application shall be accompanied by a verified statement of the person appointed setting forth the person's connections with the debtor, creditors, any other party in interest, their respective attorneys and accountants, the United States trustee, or any person employed in the office of the United States trustee.
+(A) *Undisputed Election*. If the election is undisputed, the United States trustee must promptly file a report certifying the election, including the name and address of the person elected and a statement that the election is undisputed. The report must be accompanied by a verified statement of the person elected setting forth that person's connections with:
 
-(Added Apr. 30, 1991, eff. Aug. 1, 1991; amended Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 23, 2008, eff. Dec. 1, 2008.)
+• the debtor;
+
+• creditors;
+
+• any other party in interest;
+
+• their respective attorneys and accountants;
+
+• the United States trustee; or
+
+• any person employed in the United States trustee's office.
+
+(B) *Disputed Election*. If the election is disputed, the United States trustee must promptly file a report stating that the election is disputed, informing the court of the nature of the dispute and listing the name and address of any candidate elected under any alternative presented by the dispute. The report must be accompanied by a verified statement by each candidate, setting forth the candidate's connections with any entity listed in (A)(i)–(vi).<sup><a href="#Rule_2007.1_1_target" name="Rule_2007.1_1">1</a></sup> No later than the date on which the report is filed, the United States trustee must mail a copy and each verified statement to:
+
+(i) any party in interest that has made a request to convene a meeting under §1104(b) or to receive a copy of the report; and
+
+(ii) any committee appointed under §1102.
+
+(c) Approving an Appointment. On application of the United States trustee, the court may approve a trustee's or examiner's appointment under §1104(d). The application must:
+
+(1) name the person appointed and state, to the best of the applicant's knowledge, all that person's connections with any entity listed in (b)(3)(A)(i)–(vi); <sup><a href="#Rule_2007.1_1_target" name="Rule_2007.1_1">1</a></sup>
+
+(2) state the names of the parties in interest with whom the United States trustee consulted about the appointment; and
+
+(3) be accompanied by a verified statement of the person appointed setting forth that person's connections with any entity listed in (b)(3)(A)(i)–(vi).<sup><a href="#Rule_2007.1_1_target" name="Rule_2007.1_1">1</a></sup>
+
+(Added Apr. 30, 1991, eff. Aug. 1, 1991; amended Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1991 ####
 
@@ -2464,19 +3154,49 @@ When the United States trustee files a report certifying the election of a trust
 
 *Changes Made After Publication*. No changes were made after publication.
 
-### Rule 2007.2. Appointment of Patient Care Ombudsman in a Health Care Business Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Order to Appoint Patient Care Ombudsman. In a chapter 7, chapter 9, or chapter 11 case in which the debtor is a health care business, the court shall order the appointment of a patient care ombudsman under §333 of the Code, unless the court, on motion of the United States trustee or a party in interest filed no later than 21 days after the commencement of the case or within another time fixed by the court, finds that the appointment of a patient care ombudsman is not necessary under the specific circumstances of the case for the protection of patients.
+The language of Rule 2007.1 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Motion for Order To Appoint Ombudsman. If the court has found that the appointment of an ombudsman is not necessary, or has terminated the appointment, the court, on motion of the United States trustee or a party in interest, may order the appointment at a later time if it finds that the appointment has become necessary to protect patients.
+[<sup>1</sup> So in House Document 118–124. Subd. (b)(3)(A) does not contain numbered clauses.](#Rule_2007.1_1)
 
-(c) Notice of Appointment. If a patient care ombudsman is appointed under §333, the United States trustee shall promptly file a notice of the appointment, including the name and address of the person appointed. Unless the person appointed is a State Long-Term Care Ombudsman, the notice shall be accompanied by a verified statement of the person appointed setting forth the person's connections with the debtor, creditors, patients, any other party in interest, their respective attorneys and accountants, the United States trustee, and any person employed in the office of the United States trustee.
+### Rule 2007.2. Appointing a Patient-Care Ombudsman in a Health Care Business Case ###
 
-(d) Termination of Appointment. On motion of the United States trustee or a party in interest, the court may terminate the appointment of a patient care ombudsman if the court finds that the appointment is not necessary to protect patients.
+(a) In General. In a Chapter 7, 9, or 11 case in which the debtor is a health care business, the court must order the appointment of a patient-care ombudsman under §333—unless the court, on motion of the United States trustee or a party in interest, finds that appointing one is not necessary to protect patients. The motion must be filed within 21 days after the case was commenced or at another time set by the court.
 
-(e) Motion. A motion under this rule shall be governed by Rule 9014. The motion shall be transmitted to the United States trustee and served on: the debtor; the trustee; any committee elected under §705 or appointed under §1102 of the Code or its authorized agent, or, if the case is a chapter 9 municipality case or a chapter 11 reorganization case and no committee of unsecured creditors has been appointed under §1102, on the creditors included on the list filed under Rule 1007(d); and such other entities as the court may direct.
+(b) Deferring the Appointment. If the court has found that appointing an ombudsman is unnecessary, or has terminated the appointment, the court may, on motion of the United States trustee or a party in interest, order an appointment later if it finds that an appointment has become necessary to protect patients.
 
-(Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Mar. 26, 2009, eff. Dec. 1, 2009.)
+(c) Giving Notice. When a patient-care ombudsman is appointed under §333, the United States trustee must promptly file a notice of the appointment, including the name and address of the person appointed. Unless that person is a State Long-Term-Care Ombudsman, the notice must be accompanied by a verified statement of the person appointed setting forth that person's connections with:
+
+(1) the debtor;
+
+(2) creditors;
+
+(3) patients;
+
+(4) any other party in interest;
+
+(5) the attorneys and accountants of those in (1)–(4);
+
+(6) the United States trustee; or
+
+(7) any person employed in the United States trustee's office.
+
+(d) Terminating an Appointment. On motion of the United States trustee or a party in interest, the court may terminate a patient-care ombudsman's appointment that it finds to be unnecessary to protect patients.
+
+(e) Procedure. Rule 9014 governs any motion under this Rule 2007.2. The motion must be sent to the United States trustee and served on:
+
+• the debtor;
+
+• the trustee;
+
+• any committee elected under §705 or appointed under §1102, or its authorized agent; and
+
+• any other entity as the court orders.
+
+In a Chapter 9 or 11 case, if no committee of unsecured creditors has been appointed under §1102, the motion must also be served on the creditors included on the list filed under Rule 1007(d).
+
+(Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2008 ####
 
@@ -2504,11 +3224,21 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 • 25-day periods become 28-day periods
 
-### Rule 2008. Notice to Trustee of Selection ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-The United States trustee shall immediately notify the person selected as trustee how to qualify and, if applicable, the amount of the trustee's bond. A trustee that has filed a blanket bond pursuant to Rule 2010 and has been selected as trustee in a chapter 7, chapter 12, or chapter 13 case that does not notify the court and the United States trustee in writing of rejection of the office within seven days after receipt of notice of selection shall be deemed to have accepted the office. Any other person selected as trustee shall notify the court and the United States trustee in writing of acceptance of the office within seven days after receipt of notice of selection or shall be deemed to have rejected the office.
+The language of Rule 2007.2 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 26, 2009, eff. Dec. 1, 2009.)
+### Rule 2008. Notice to the Person Selected as Trustee ###
+
+(a) Giving Notice. The United States trustee must immediately notify the person selected as trustee how to qualify and, if applicable, the amount of the trustee's bond.
+
+(b) Accepting the Position of Trustee.
+
+(1) *Trustee Who Has Filed a Blanket Bond*. A trustee selected in a Chapter 7, 12, or 13 case who has filed a blanket bond under Rule 2010 may reject the office by notifying the court and the United States trustee in writing within 7 days after receiving notice of selection. Otherwise, the trustee will be considered to have accepted the office.
+
+(2) *Other Trustees*. Any other person selected as trustee may accept the office by notifying the court and the United States trustee in writing within 7 days after receiving notice of selection. Otherwise, the person will be considered to have rejected the office.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2540,27 +3270,29 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 • 25-day periods become 28-day periods
 
-### Rule 2009. Trustees for Estates When Joint Administration Ordered ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Election of Single Trustee for Estates Being Jointly Administered. If the court orders a joint administration of two or more estates under Rule 1015(b), creditors may elect a single trustee for the estates being jointly administered, unless the case is under subchapter V of chapter 7 or subchapter V of chapter 11 of the Code.
+The language of Rule 2008 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Right of Creditors To Elect Separate Trustee. Notwithstanding entry of an order for joint administration under Rule 1015(b), the creditors of any debtor may elect a separate trustee for the estate of the debtor as provided in §702 of the Code, unless the case is under subchapter V of chapter 7 or subchapter V of chapter 11 of the Code.
+### Rule 2009. Trustees for Jointly Administered Estates ###
 
-(c) Appointment of Trustees for Estates Being Jointly Administered.
+(a) Creditors' Right to Elect a Single Trustee. Except in a case under Subchapter V of Chapter 7 or Subchapter V of Chapter 11, if the court orders that 2 or more estates be jointly administered under Rule 1015(b), the creditors may elect a single trustee for those estates.
 
-(1) *Chapter 7 Liquidation Cases*. Except in a case governed by subchapter V of chapter 7, the United States trustee may appoint one or more interim trustees for estates being jointly administered in chapter 7 cases.
+(b) Creditors' Right to Elect a Separate Trustee. Except in a case under Subchapter V of Chapter 7 or Subchapter V of Chapter 11, any debtor's creditors may elect a separate trustee for the debtor's estate under §702—even if the court orders joint administration under Rule 1015(b).
 
-(2) *Chapter 11 Reorganization Cases*. If the appointment of a trustee is ordered or is required by the Code, the United States trustee may appoint one or more trustees for estates being jointly administered in chapter 11 cases.
+(c) United States Trustee's Right to Appoint Interim Trustees in Cases with Jointly Administered Estates.
 
-(3) *Chapter 12 Family Farmer's Debt Adjustment Cases*. The United States trustee may appoint one or more trustees for estates being jointly administered in chapter 12 cases.
+(1) *Chapter 7*. Except in a case under Subchapter V of Chapter 7, the United States trustee may appoint one or more interim trustees for estates being jointly administered in Chapter 7.
 
-(4) *Chapter 13 Individual's Debt Adjustment Cases*. The United States trustee may appoint one or more trustees for estates being jointly administered in chapter 13 cases.
+(2) *Chapter 11*. If the court orders or the Code requires the appointment of a trustee, the United States trustee may appoint one or more trustees for estates being jointly administered in Chapter 11.
 
-(d) Potential Conflicts of Interest. On a showing that creditors or equity security holders of the different estates will be prejudiced by conflicts of interest of a common trustee who has been elected or appointed, the court shall order the selection of separate trustees for estates being jointly administered.
+(3) *Chapter 12 or 13*. The United States trustee may appoint one or more trustees for estates being jointly administered in Chapter 12 or 13.
 
-(e) Separate Accounts. The trustee or trustees of estates being jointly administered shall keep separate accounts of the property and distribution of each estate.
+(d) Conflicts of Interest. On a showing that a common trustee's conflicts of interest will prejudice creditors or equity security holders of jointly administered estates, the court must order the selection of separate trustees for the estates.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 11, 2022, eff. Dec. 1, 2022.)
+(e) Keeping Separate Accounts. A trustee of jointly administered estates must keep separate accounts of each estate's property and distribution.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2592,13 +3324,21 @@ Other amendments are stylistic.
 
 The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. In a case under that subchapter, §1183 of the Code requires the United States trustee to appoint a trustee, so there will be no election. Accordingly, subdivisions (a) and (b) of the rule are amended to except cases under subchapter V from their coverage. Subdivision (c)(2), which addresses the appointment of trustees in jointly administered chapter 11 cases, is amended to make it applicable to cases under subchapter V.
 
-### Rule 2010. Qualification by Trustee; Proceeding on Bond ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Blanket Bond. The United States trustee may authorize a blanket bond in favor of the United States conditioned on the faithful performance of official duties by the trustee or trustees to cover (1) a person who qualifies as trustee in a number of cases, and (2) a number of trustees each of whom qualifies in a different case.
+The language of Rule 2009 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Proceeding on Bond. A proceeding on the trustee's bond may be brought by any party in interest in the name of the United States for the use of the entity injured by the breach of the condition.
+### Rule 2010. Blanket Bond; Proceedings on the Bond ###
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+(a) Authorizing a Blanket Bond. The United States trustee may authorize a blanket bond in the United States' favor—conditioned on the faithful performance of a trustee's official duties—to cover:
+
+(1) a person who qualifies as trustee in multiple cases; or
+
+(2) multiple trustees who qualify in a different case.
+
+(b) Proceedings on the Bond. A party in interest may bring a proceeding in the United States' name on a trustee's bond for the use of the entity injured by the trustee's breach of the condition.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2618,13 +3358,17 @@ This rule is amended to conform to the 1986 amendment of §322 of the Code. The 
 
 *Subdivision (b)* is abrogated because an order approving a bond is no longer necessary in view of the 1986 amendments to §322 of the Code. Subdivision (c) is redesignated as subdivision (b).
 
-### Rule 2011. Evidence of Debtor in Possession or Qualification of Trustee ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Whenever evidence is required that a debtor is a debtor in possession or that a trustee has qualified, the clerk may so certify and the certificate shall constitute conclusive evidence of that fact.
+The language of Rule 2010 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) If a person elected or appointed as trustee does not qualify within the time prescribed by §322(a) of the Code, the clerk shall so notify the court and the United States trustee.
+### Rule 2011. Evidence That a Debtor Is a Debtor in Possession or That a Trustee Has Qualified ###
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991.)
+(a) The Clerk's Certification. Whenever evidence is required to prove that a debtor is a debtor in possession or that a trustee has qualified, the clerk may so certify. The certification constitutes conclusive evidence of that fact.
+
+(b) Trustee's Failure to Qualify. If a person elected or appointed as trustee does not qualify within the time prescribed by §322(a), the clerk must so notify the court and the United States trustee.
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2634,13 +3378,21 @@ This rule prescribes the evidentiary effect of a certificate issued by the clerk
 
 This rule is amended to provide a procedure for proving that a trustee has qualified in accordance with §322 of the Code. *Subdivision (b)* is added so that the court and the United States trustee will be informed if the person selected as trustee pursuant to §§701, 702, 1104, 1202, 1302, or 1163 fails to qualify within the time prescribed in §322(a).
 
-### Rule 2012. Substitution of Trustee or Successor Trustee; Accounting ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Trustee. If a trustee is appointed in a chapter 11 case (other than under subchapter V), or the debtor is removed as debtor in possession in a chapter 12 case or in a case under subchapter V of chapter 11, the trustee is substituted automatically for the debtor in possession as a party in any pending action, proceeding, or matter.
+The language of Rule 2011 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Successor Trustee. When a trustee dies, resigns, is removed, or otherwise ceases to hold office during the pendency of a case under the Code (1) the successor is automatically substituted as a party in any pending action, proceeding, or matter; and (2) the successor trustee shall prepare, file, and transmit to the United States trustee an accounting of the prior administration of the estate.
+### Rule 2012. Substituting a Trustee in a Chapter 11 or 12 Case; Successor Trustee in a Pending Proceeding ###
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 2022, eff. Dec. 1, 2022.)
+(a) Substituting a Trustee. The trustee is automatically substituted for the debtor in possession as a party in any pending action, proceeding, or matter if:
+
+(1) the trustee is appointed in a Chapter 11 case (other than under Subchapter V); or
+
+(2) the debtor is removed as debtor in possession in a Chapter 12 case or in a case under Subchapter V of Chapter 11.
+
+(b) Successor Trustee. If a trustee dies, resigns, is removed, or otherwise ceases to hold office while a bankruptcy case is pending, the successor trustee is automatically substituted as a party in any pending action, proceeding, or matter. The successor trustee must prepare, file, and send to the United States trustee an accounting of the estate's prior administration.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2664,13 +3416,27 @@ The original provisions of the rule are now in subdivision (b).
 
 The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. Subdivision (a) of the rule is amended to include any case under that subchapter in which the debtor is removed as debtor in possession under §1185 of the Code.
 
-### Rule 2013. Public Record of Compensation Awarded to Trustees, Examiners, and Professionals ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Record To Be Kept. The clerk shall maintain a public record listing fees awarded by the court (1) to trustees and attorneys, accountants, appraisers, auctioneers and other professionals employed by trustees, and (2) to examiners. The record shall include the name and docket number of the case, the name of the individual or firm receiving the fee and the amount of the fee awarded. The record shall be maintained chronologically and shall be kept current and open to examination by the public without charge. "Trustees," as used in this rule, does not include debtors in possession.
+The language of Rule 2012 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Summary of Record. At the close of each annual period, the clerk shall prepare a summary of the public record by individual or firm name, to reflect total fees awarded during the preceding year. The summary shall be open to examination by the public without charge. The clerk shall transmit a copy of the summary to the United States trustee.
+### Rule 2013. Keeping a Public Record of Compensation Awarded by the Court to Examiners, Trustees, and Professionals ###
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+(a) In General.
+
+(1) *Required Items*. The clerk must keep a public record of fees the court awards to examiners and trustees, and to attorneys, accountants, appraisers, auctioneers, and other professionals that trustees employ. The record must:
+
+(A) include the case name and number, the name of the individual or firm receiving the fee, and the amount awarded;
+
+(B) be maintained chronologically; and
+
+(C) be kept current and open for public examination without charge.
+
+(2) *Meaning of "Trustee."* As used in this rule, "trustee" does not include a debtor in possession.
+
+(b) Annual Summary of the Record. At the end of each year, the clerk must prepare a summary of the public record, by individual or firm name, showing the total fees awarded during the year. The summary must be open for public examination without charge. The clerk must send a copy of the summary to the United States trustee.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2696,13 +3462,47 @@ In subdivisions (b) and (c) the word awarded is substituted for the word paid. W
 
 The rule is not applicable to standing trustees serving in chapter 12 cases. See §1202 of the Code.
 
-### Rule 2014. Employment of Professional Persons ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Application for and Order of Employment. An order approving the employment of attorneys, accountants, appraisers, auctioneers, agents, or other professionals pursuant to §327, §1103, or §1114 of the Code shall be made only on application of the trustee or committee. The application shall be filed and, unless the case is a chapter 9 municipality case, a copy of the application shall be transmitted by the applicant to the United States trustee. The application shall state the specific facts showing the necessity for the employment, the name of the person to be employed, the reasons for the selection, the professional services to be rendered, any proposed arrangement for compensation, and, to the best of the applicant's knowledge, all of the person's connections with the debtor, creditors, any other party in interest, their respective attorneys and accountants, the United States trustee, or any person employed in the office of the United States trustee. The application shall be accompanied by a verified statement of the person to be employed setting forth the person's connections with the debtor, creditors, any other party in interest, their respective attorneys and accountants, the United States trustee, or any person employed in the office of the United States trustee.
+The language of Rule 2013 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Services Rendered by Member or Associate of Firm of Attorneys or Accountants. If, under the Code and this rule, a law partnership or corporation is employed as an attorney, or an accounting partnership or corporation is employed as an accountant, or if a named attorney or accountant is employed, any partner, member, or regular associate of the partnership, corporation, or individual may act as attorney or accountant so employed, without further order of the court.
+### Rule 2014. Employing Professionals ###
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+(a) Order Approving Employment; Application for Employment.
+
+(1) *Order Approving Employment*. The court may approve the employment of an attorney, accountant, appraiser, auctioneer, agent, or other professional under §327, §1103, or §1114 only on the trustee's or committee's application.
+
+(2) *Application for Employment*. The applicant must file the application and, except in a Chapter 9 case, must send a copy to the United States trustee. The application must state specific facts showing:
+
+(A) the need for the employment;
+
+(B) the name of the person to be employed;
+
+(C) the reasons for the selection;
+
+(D) the professional services to be rendered;
+
+(E) any proposed arrangement for compensation; and
+
+(F) to the best of the applicant's knowledge, all the person's connections with:
+
+• the debtor;
+
+• creditors;
+
+• any other party in interest;
+
+• their respective attorneys and accountants;
+
+• the United States trustee; and
+
+• any person employed in the United States trustee's office.
+
+(3) *Verified Statement of the Person to Be Employed*. The application must be accompanied by a verified statement of the person to be employed, setting forth that person's connections with any entity listed in (2)(F).
+
+(b) Services Rendered by a Member or Associate of a Law or Accounting Firm. If a law partnership or corporation is employed as an attorney, or an accounting partnership or corporation is employed as an accountant—or if a named attorney or accountant is employed—then any partner, member, or regular associate may act as so employed, without further court order.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2720,37 +3520,59 @@ The United States trustee monitors applications filed under §327 of the Code an
 
 The United States trustee appoints committees pursuant to §1102 of the Code which is applicable in chapter 9 cases under §901. In the interest of full disclosure and confidence in the bankruptcy system, a connection between the United States trustee and a professional employed by the committee should be revealed in every case, including a chapter 9 case. However, since the United States trustee does not have any role in the employment of professionals in chapter 9 cases, it is not necessary in such cases to transmit to the United States trustee a copy of the application under subdivision (a) of this rule. See 28 U.S.C. §586(a)(3)(H).
 
-### Rule 2015. Duty to Keep Records, Make Reports, and Give Notice of Case or Change of Status ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Trustee or Debtor in Possession. A trustee or debtor in possession shall:
+The language of Rule 2014 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(1) in a chapter 7 liquidation case and, if the court directs, in a chapter 11 reorganization case (other than under subchapter V), file and transmit to the United States trustee a complete inventory of the property of the debtor within 30 days after qualifying as a trustee or debtor in possession, unless such an inventory has already been filed;
+### Rule 2015. Duty to Keep Records, Make Reports, and Give Notices ###
+
+(a) Duties of a Trustee or Debtor in Possession. A trustee or debtor in possession must:
+
+(1) in a Chapter 7 case and, if the court so orders, in a Chapter 11 case (other than under Subchapter V), file and send to the United States trustee a complete inventory of the debtor's property within 30 days after qualifying as a trustee or debtor in possession, unless such an inventory has already been filed;
 
 (2) keep a record of receipts and the disposition of money and property received;
 
-(3) file the reports and summaries required by §704(a)(8) of the Code, which shall include a statement, if payments are made to employees, of the amounts of deductions for all taxes required to be withheld or paid for and in behalf of employees and the place where these amounts are deposited;
+(3) file:
 
-(4) as soon as possible after the commencement of the case, give notice of the case to every entity known to be holding money or property subject to withdrawal or order of the debtor, including every bank, savings or building and loan association, public utility company, and landlord with whom the debtor has a deposit, and to every insurance company which has issued a policy having a cash surrender value payable to the debtor, except that notice need not be given to any entity who has knowledge or has previously been notified of the case;
+(A) the reports and summaries required by §704(a)(8); and
 
-(5) in a chapter 11 reorganization case (other than under subchapter V), on or before the last day of the month after each calendar quarter during which there is a duty to pay fees under 28 U.S.C. §1930(a)(6), file and transmit to the United States trustee a statement of any disbursements made during that quarter and of any fees payable under 28 U.S.C. §1930(a)(6) for that quarter; and
+(B) if payments are made to employees, a statement of the amounts of deductions for all taxes required to be withheld or paid on the employees' behalf and the place where these funds are deposited;
 
-(6) in a chapter 11 small business case, unless the court, for cause, sets another reporting interval, file and transmit to the United States trustee for each calendar month after the order for relief, on the appropriate Official Form, the report required by §308. If the order for relief is within the first 15 days of a calendar month, a report shall be filed for the portion of the month that follows the order for relief. If the order for relief is after the 15th day of a calendar month, the period for the remainder of the month shall be included in the report for the next calendar month. Each report shall be filed no later than 21 days after the last day of the calendar month following the month covered by the report. The obligation to file reports under this subparagraph terminates on the effective date of the plan, or conversion or dismissal of the case.
+(4) give notice of the case, as soon as possible after it commences, to the following entities, except those who know or have previously been notified of it:
 
-(b) Trustee, Debtor in Possession, and Debtor in a Case Under Subchapter V of Chapter 11. In a case under subchapter V of chapter 11, the debtor in possession shall perform the duties prescribed in (a)(2)–(4) and, if the court directs, shall file and transmit to the United States trustee a complete inventory of the debtor's property within the time fixed by the court. If the debtor is removed as debtor in possession, the trustee shall perform the duties of the debtor in possession prescribed in this subdivision (b). The debtor shall perform the duties prescribed in (a)(6).
+(A) every entity known to be holding money or property subject to the debtor's withdrawal or order, including every bank, savings- or building-and-loan association, public utility company, and landlord with whom the debtor has a deposit; and
 
-(c) Chapter 12 Trustee and Debtor in Possession. In a chapter 12 family farmer's debt adjustment case, the debtor in possession shall perform the duties prescribed in clauses (2)–(4) of subdivision (a) of this rule and, if the court directs, shall file and transmit to the United States trustee a complete inventory of the property of the debtor within the time fixed by the court. If the debtor is removed as debtor in possession, the trustee shall perform the duties of the debtor in possession prescribed in this subdivision (c).
+(B) every insurance company that has issued a policy with a cash-surrender value payable to the debtor;
 
-(d) Chapter 13 Trustee and Debtor.
+(5) in a Chapter 11 case (other than under Subchapter V), on or before the last day of the month after each calendar quarter during which fees must be paid under 28 U.S.C. §1930(a)(6), file and send to the United States trustee a statement of those fees and any disbursements made during that quarter; and
 
-(1) *Business Cases*. In a chapter 13 individual's debt adjustment case, when the debtor is engaged in business, the debtor shall perform the duties prescribed by clauses (2)–(4) of subdivision (a) of this rule and, if the court directs, shall file and transmit to the United States trustee a complete inventory of the property of the debtor within the time fixed by the court.
+(6) in a Chapter 11 small business case, unless the court, for cause, sets a different schedule, file and send to the United States trustee a report under §308, using Form 425C, for each calendar month after the order for relief—with the following adjustments:
 
-(2) *Nonbusiness Cases*. In a chapter 13 individual's debt adjustment case, when the debtor is not engaged in business, the trustee shall perform the duties prescribed by clause (2) of subdivision (a) of this rule.
+• if the order for relief is within the first 15 days of a calendar month, the report must be filed for the rest of that month; or
 
-(e) Foreign Representative. In a case in which the court has granted recognition of a foreign proceeding under chapter 15, the foreign representative shall file any notice required under §1518 of the Code within 14 days after the date when the representative becomes aware of the subsequent information.
+• if the order for relief is after the 15th, the information for the rest of that month must be included in the report for the next calendar month.
 
-(f) Transmission of Reports. In a chapter 11 case the court may direct that copies or summaries of annual reports and copies or summaries of other reports shall be mailed to the creditors, equity security holders, and indenture trustees. The court may also direct the publication of summaries of any such reports. A copy of every report or summary mailed or published pursuant to this subdivision shall be transmitted to the United States trustee.
+Each report must be filed within 21 days after the last day of the month following the month that the report covers. The obligation to file reports ends on the date that the plan becomes effective or the case is converted or dismissed.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 11, 2022, eff. Dec. 1, 2022.)
+(b) Trustee, Debtor in Possession, and Debtor in a Case Under Subchapter V of Chapter 11. In a case under Subchapter V of Chapter 11, the debtor in possession must perform the duties prescribed in (a)(2)–(4) and, if the court orders, must file and send to the United States trustee a complete inventory of the debtor's property within the time the court sets. If the debtor is removed as debtor in possession, the trustee must perform these duties. The debtor must perform the duties prescribed in (a)(6).
+
+(c) Duties of a Chapter 12 Trustee or Debtor in Possession. In a Chapter 12 case, the debtor in possession must perform the duties prescribed in (a)(2)–(4) and, if the court orders, file and send to the United States trustee a complete inventory of the debtor's property within the time the court sets. If the debtor is removed as debtor in possession, the trustee must perform these duties.
+
+(d) Duties of a Chapter 13 Trustee and Debtor.
+
+(1) *Chapter 13 Business Case*. In a Chapter 13 case, a debtor engaged in business must:
+
+(A) perform the duties prescribed by (a)(2)–(4); and
+
+(B) if the court so orders, file and send to the United States trustee a complete inventory of the debtor's property within the time the court sets.
+
+(2) *Other Chapter 13 Case*. In a Chapter 13 case in which the debtor is not engaged in business, the trustee must perform the duties prescribed by (a)(2).
+
+(e) Duties of a Chapter 15 Foreign Representative. In a Chapter 15 case in which the court has granted recognition of a foreign proceeding, the foreign representative must file any notice required under §1518 within 14 days after becoming aware of the later information.
+
+(f) Making Reports Available in a Chapter 11 Case. In a Chapter 11 case, the court may order that copies or summaries of annual reports and other reports be mailed to creditors, equity security holders, and indenture trustees. The court may also order that summaries of these reports be published. A copy of every such report or summary, whether mailed or published, must be sent to the United States trustee.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2832,13 +3654,49 @@ The rule is amended in response to the enactment of the Small Business Reorganiz
 
 Former subdivisions (b), (c), (d), and (e) are redesignated (c), (d), (e), and (f)[,] respectively.
 
-### Rule 2015.1. Patient Care Ombudsman ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Reports. A patient care ombudsman, at least 14 days before making a report under §333(b)(2) of the Code, shall give notice that the report will be made to the court, unless the court orders otherwise. The notice shall be transmitted to the United States trustee, posted conspicuously at the health care facility that is the subject of the report, and served on: the debtor; the trustee; all patients; and any committee elected under §705 or appointed under §1102 of the Code or its authorized agent, or, if the case is a chapter 9 municipality case or a chapter 11 reorganization case and no committee of unsecured creditors has been appointed under §1102, on the creditors included on the list filed under Rule 1007(d); and such other entities as the court may direct. The notice shall state the date and time when the report will be made, the manner in which the report will be made, and, if the report is in writing, the name, address, telephone number, email address, and website, if any, of the person from whom a copy of the report may be obtained at the debtor's expense.
+The language of Rule 2015 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Authorization to Review Confidential Patient Records. A motion by a patient care ombudsman under §333(c) to review confidential patient records shall be governed by Rule 9014, served on the patient and any family member or other contact person whose name and address have been given to the trustee or the debtor for the purpose of providing information regarding the patient's health care, and transmitted to the United States trustee subject to applicable nonbankruptcy law relating to patient privacy. Unless the court orders otherwise, a hearing on the motion may not be commenced earlier than 14 days after service of the motion.
+### Rule 2015.1. Patient-Care Ombudsman ###
 
-(Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Mar. 26, 2009, eff. Dec. 1, 2009.)
+(a) Notice of the Report. Unless the court orders otherwise, a patient-care ombudsman must give at least 14 days' notice before making a report under §333(b)(2).
+
+(1) *Recipients of the Notice*. The notice must be sent to the United States trustee, posted conspicuously at the health-care facility that is the report's subject, and served on:
+
+• the debtor;
+
+• the trustee;
+
+• all patients;
+
+• any committee elected under §705 or appointed under §1102 or its authorized agent;
+
+• in a Chapter 9 or 11 case, the creditors on the list filed under Rule 1007(d) if no committee of unsecured creditors has been appointed under §1102; and
+
+• any other entity as the court orders.
+
+(2) *Content of the Notice*. The notice must state:
+
+(A) the date and time when the report will be made;
+
+(B) the manner in which it will be made; and
+
+(C) if it will be in writing, the name, address, telephone number, email address, and any website of the person from whom a copy may be obtained at the debtor's expense.
+
+(b) Authorization to Review Confidential Patient Records.
+
+(1) *Motion to Review; Service*. Rule 9014 governs a patient-care ombudsman's motion under §333(c) to review confidential patient records. The motion must:
+
+(A) be served on the patient;
+
+(B) be served on any family member or other contact person whose name and address have been given to the trustee or the debtor in order to provide information about the patient's health care; and
+
+(C) be sent to the United States trustee, subject to applicable nonbankruptcy law concerning patient privacy.
+
+(2) *Time for a Hearing*. Unless the court orders otherwise, a hearing on the motion may not commence earlier than 14 days after the motion is served.
+
+(Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2008 ####
 
@@ -2864,11 +3722,23 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 • 25-day periods become 28-day periods
 
-### Rule 2015.2. Transfer of Patient in Health Care Business Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-Unless the court orders otherwise, if the debtor is a health care business, the trustee may not transfer a patient to another health care business under §704(a)(12) of the Code unless the trustee gives at least 14 days' notice of the transfer to the patient care ombudsman, if any, the patient, and any family member or other contact person whose name and address has been given to the trustee or the debtor for the purpose of providing information regarding the patient's health care. The notice is subject to applicable nonbankruptcy law relating to patient privacy.
+The language of Rule 2015.1 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Mar. 26, 2009, eff. Dec. 1, 2009.)
+### Rule 2015.2. Transferring a Patient in a Health Care Business Case ###
+
+Unless the court orders otherwise, if the debtor is a health care business, the trustee may transfer a patient to another health care business under §704(a)(12) only if the trustee gives at least 14 days' notice of the transfer to:
+
+• any patient-care ombudsman;
+
+• the patient; and
+
+• any family member or other contact person whose name and address have been given to the trustee or the debtor in order to provide information about the patient's health care.
+
+The notice is subject to applicable nonbankruptcy law concerning patient privacy.
+
+(Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2008 ####
 
@@ -2894,21 +3764,39 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 • 25-day periods become 28-day periods
 
-### Rule 2015.3. Reports of Financial Information on Entities in Which a Chapter 11 Estate Holds a Controlling or Substantial Interest ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Reporting Requirement. In a chapter 11 case, the trustee or debtor in possession shall file periodic financial reports of the value, operations, and profitability of each entity that is not a publicly traded corporation or a debtor in a case under title 11, and in which the estate holds a substantial or controlling interest. The reports shall be prepared as prescribed by the appropriate Official Form, and shall be based upon the most recent information reasonably available to the trustee or debtor in possession.
+The language of Rule 2015.2 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Time for Filing; Service. The first report required by this rule shall be filed no later than seven days before the first date set for the meeting of creditors under §341 of the Code. Subsequent reports shall be filed no less frequently than every six months thereafter, until the effective date of a plan or the case is dismissed or converted. Copies of the report shall be served on the United States trustee, any committee appointed under §1102 of the Code, and any other party in interest that has filed a request therefor.
+### Rule 2015.3. Reporting Financial Information About Entities in Which a Chapter 11 Estate Holds a Substantial or Controlling Interest ###
 
-(c) Presumption of Substantial or Controlling Interest; Judicial Determination. For purposes of this rule, an entity of which the estate controls or owns at least a 20 percent interest, shall be presumed to be an entity in which the estate has a substantial or controlling interest. An entity in which the estate controls or owns less than a 20 percent interest shall be presumed not to be an entity in which the estate has a substantial or controlling interest. Upon motion, the entity, any holder of an interest therein, the United States trustee, or any other party in interest may seek to rebut either presumption, and the court shall, after notice and a hearing, determine whether the estate's interest in the entity is substantial or controlling.
+(a) Reporting Requirement; Content of the Report. In a Chapter 11 case, the trustee or debtor in possession must file periodic financial reports of the value, operations, and profitability of each entity in which the estate holds a substantial or controlling interest—unless the entity is a publicly traded corporation or a debtor in a bankruptcy case. The reports must be prepared as prescribed by Form 426 and be based on the most recent information reasonably available to the filer.
 
-(d) Modification of Reporting Requirement. The court may, after notice and a hearing, vary the reporting requirement established by subdivision (a) of this rule for cause, including that the trustee or debtor in possession is not able, after a good faith effort, to comply with those reporting requirements, or that the information required by subdivision (a) is publicly available.
+(b) Time to File; Service. The first report must be filed at least 7 days before the first date set for the meeting of creditors under §341. Later reports must be filed at least every 6 months, until the date a plan becomes effective or the case is converted or dismissed. A copy of each report must be served on:
 
-(e) Notice and Protective Orders. No later than 14 days before filing the first report required by this rule, the trustee or debtor in possession shall send notice to the entity in which the estate has a substantial or controlling interest, and to all holders—known to the trustee or debtor in possession—of an interest in that entity, that the trustee or debtor in possession expects to file and serve financial information relating to the entity in accordance with this rule. The entity in which the estate has a substantial or controlling interest, or a person holding an interest in that entity, may request protection of the information under §107 of the Code.
+• the United States trustee;
 
-(f) Effect of Request. Unless the court orders otherwise, the pendency of a request under subdivisions (c), (d), or (e) of this rule shall not alter or stay the requirements of subdivision (a).
+• any committee appointed under §1102; and
 
-(Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Mar. 26, 2009, eff. Dec. 1, 2009.)
+• any other party in interest that has filed a request for it.
+
+(c) Presumption of a Substantial or Controlling Interest.
+
+(1) *When a Presumption Applies*. Under this Rule 2015.3, the estate is presumed to have a substantial or controlling interest in an entity of which it controls or owns at least a 20% interest. Otherwise, the estate is presumed not to have a substantial or controlling interest.
+
+(2) *Rebutting the Presumption*. The entity, any holder of an interest in it, the United States trustee, or any other party in interest may move to rebut either presumption. After notice and a hearing, the court must determine whether the estate's interest in the entity is substantial or controlling.
+
+(d) Modifying the Reporting Requirement. After notice and a hearing, the court may vary the reporting requirements of (a) for cause, including that:
+
+(1) the trustee or debtor in possession is not able, after a good-faith effort, to comply with them; or
+
+(2) the required information is publicly available.
+
+(e) Notice to Entities in Which the Estate has a Substantial or Controlling Interest; Protective Order. At least 14 days before filing the first report under (a), the trustee or debtor in possession must send notice to every entity in which the estate has a substantial or controlling interest—and all known holders of an interest in the entity—that the trustee or debtor in possession expects to file and serve financial information about the entity in accordance with this Rule 2015.3. Any such entity, or person holding an interest in it, may request that the information be protected under §107.
+
+(f) Effect of a Request. Unless the court orders otherwise, a pending request under (c), (d), or (e) does not alter or stay the requirements of (a).
+
+(Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2008 ####
 
@@ -2930,15 +3818,55 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 • 25-day periods become 28-day periods
 
-### Rule 2016. Compensation for Services Rendered and Reimbursement of Expenses ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Application for Compensation or Reimbursement. An entity seeking interim or final compensation for services, or reimbursement of necessary expenses, from the estate shall file an application setting forth a detailed statement of (1) the services rendered, time expended and expenses incurred, and (2) the amounts requested. An application for compensation shall include a statement as to what payments have theretofore been made or promised to the applicant for services rendered or to be rendered in any capacity whatsoever in connection with the case, the source of the compensation so paid or promised, whether any compensation previously received has been shared and whether an agreement or understanding exists between the applicant and any other entity for the sharing of compensation received or to be received for services rendered in or in connection with the case, and the particulars of any sharing of compensation or agreement or understanding therefor, except that details of any agreement by the applicant for the sharing of compensation as a member or regular associate of a firm of lawyers or accountants shall not be required. The requirements of this subdivision shall apply to an application for compensation for services rendered by an attorney or accountant even though the application is filed by a creditor or other entity. Unless the case is a chapter 9 municipality case, the applicant shall transmit to the United States trustee a copy of the application.
+The language of Rule 2015.3 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Disclosure of Compensation Paid or Promised to Attorney for Debtor. Every attorney for a debtor, whether or not the attorney applies for compensation, shall file and transmit to the United States trustee within 14 days after the order for relief, or at another time as the court may direct, the statement required by §329 of the Code including whether the attorney has shared or agreed to share the compensation with any other entity. The statement shall include the particulars of any such sharing or agreement to share by the attorney, but the details of any agreement for the sharing of the compensation with a member or regular associate of the attorney's law firm shall not be required. A supplemental statement shall be filed and transmitted to the United States trustee within 14 days after any payment or agreement not previously disclosed.
+### Rule 2016. Compensation for Services Rendered; Reimbursing Expenses ###
 
-(c) Disclosure of Compensation Paid or Promised to Bankruptcy Petition Preparer. Before a petition is filed, every bankruptcy petition preparer for a debtor shall deliver to the debtor, the declaration under penalty of perjury required by §110(h)(2). The declaration shall disclose any fee, and the source of any fee, received from or on behalf of the debtor within 12 months of the filing of the case and all unpaid fees charged to the debtor. The declaration shall also describe the services performed and documents prepared or caused to be prepared by the bankruptcy petition preparer. The declaration shall be filed with the petition. The petition preparer shall file a supplemental statement within 14 days after any payment or agreement not previously disclosed.
+(a) In General.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 27, 2003, eff. Dec. 1, 2003; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(1) *Application*. If an entity seeks from the estate interim or final compensation for services or reimbursement of necessary expenses, the entity must file an application showing:
+
+(A) in detail the amounts requested and the services rendered, time spent, and expenses incurred;
+
+(B) all payments previously made or promised for services rendered or to be rendered in connection with the case;
+
+(C) the source of the paid or promised compensation;
+
+(D) whether any previous compensation has been shared;
+
+(E) whether an agreement or understanding exists between the applicant and any other entity for sharing compensation for services rendered or to be rendered in connection with the case; and
+
+(F) the particulars of any compensation sharing or agreement or understanding to share, except with a member or regular associate of a law or accounting firm.
+
+(2) *Application for Services Rendered or to be Rendered by an Attorney or Accountant*. The requirements of (a) apply to an application for compensation for services rendered by an attorney or accountant, even though a creditor or other entity files the application.
+
+(3) *Copy to the United States Trustee*. Except in a Chapter 9 case, the applicant must send a copy of the application to the United States trustee.
+
+(b) Disclosing Compensation Paid or Promised to the Debtor's Attorney.
+
+(1) *Basic Requirements*. Within 14 days after the order for relief—or at another time as the court orders—every debtor's attorney (whether or not applying for compensation) must file and send to the United States trustee the statement required by §329. The statement must:
+
+(A) show whether the attorney has shared or agreed to share compensation with any other entity; and
+
+(B) if so, the particulars of any sharing or agreement to share, except with a member or regular associate of the attorney's law firm.
+
+(2) *Supplemental Statement*. Within 14 days after any payment or agreement to pay not previously disclosed, the attorney must file and send to the United States trustee a supplemental statement.
+
+(c) Disclosing Compensation Paid or Promised to a Bankruptcy-Petition Preparer.
+
+(1) *Basic Requirements*. Before a petition is filed, every bankruptcy-petition preparer for a debtor must deliver to the debtor the declaration under penalty of perjury required by §110(h)(2). The declaration must:
+
+(A) disclose any fee, and its source, received from or on behalf of the debtor within 12 months before the petition's filing, together with all unpaid fees charged to the debtor;
+
+(B) describe the services performed and the documents prepared or caused to be prepared by the bankruptcy-petition preparer; and
+
+(C) be filed with the petition.
+
+(2) *Supplemental Statement*. Within 14 days after any later payment or agreement to pay not previously disclosed, the bankruptcy-petition preparer must file a supplemental statement.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 27, 2003, eff. Dec. 1, 2003; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -2986,13 +3914,21 @@ Subdivision (c) is amended to reflect the 2005 amendment to §110(h)(1) of the B
 
 Other changes are stylistic.
 
-### Rule 2017. Examination of Debtor's Transactions with Debtor's Attorney ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Payment or Transfer to Attorney Before Order for Relief. On motion by any party in interest or on the court's own initiative, the court after notice and a hearing may determine whether any payment of money or any transfer of property by the debtor, made directly or indirectly and in contemplation of the filing of a petition under the Code by or against the debtor or before entry of the order for relief in an involuntary case, to an attorney for services rendered or to be rendered is excessive.
+The language of Rule 2016 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Payment or Transfer to Attorney After Order for Relief. On motion by the debtor, the United States trustee, or on the court's own initiative, the court after notice and a hearing may determine whether any payment of money or any transfer of property, or any agreement therefor, by the debtor to an attorney after entry of an order for relief in a case under the Code is excessive, whether the payment or transfer is made or is to be made directly or indirectly, if the payment, transfer, or agreement therefor is for services in any way related to the case.
+### Rule 2017. Examining Transactions Between a Debtor and the Debtor's Attorney ###
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+(a) Payments or Transfers to an Attorney Made in Contemplation of Filing a Petition or Before the Order for Relief. On a party in interest's motion, or on its own, the court may, after notice and a hearing, determine whether a debtor's direct or indirect payment of money or transfer of property to an attorney for services rendered or to be rendered was excessive if it was made:
+
+(1) in contemplation of the filing of a bankruptcy petition by or against the debtor; or
+
+(2) before the order for relief is entered in an involuntary case.
+
+(b) Payments or Transfers to an Attorney Made After the Order for Relief Is Entered. On motion of the debtor or the United States trustee, or on its own, the court may, after notice and a hearing, determine whether a debtor's payment of money or transfer of property—or agreement to pay money or transfer property—to an attorney after an order for relief is entered is excessive. It does not matter whether the payment or transfer is made, or to be made, directly or indirectly, if the payment, transfer, or agreement is for services related to the case.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3006,19 +3942,27 @@ This rule is amended to include within subdivision (a) a payment or transfer of 
 
 The United States trustee supervises and monitors the administration of bankruptcy cases other than chapter 9 cases and pursuant to §307 of the Code may raise, appear and be heard on issues relating to fees paid to the debtor's attorney. It is consistent with that role to expect the United States trustee to review statements filed under Rule 2016(b) and to file motions relating to excessive fees pursuant to §329 of the Code.
 
-### Rule 2018. Intervention; Right to Be Heard ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Permissive Intervention. In a case under the Code, after hearing on such notice as the court directs and for cause shown, the court may permit any interested entity to intervene generally or with respect to any specified matter.
+The language of Rule 2017 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Intervention by Attorney General of a State. In a chapter 7, 11, 12, or 13 case, the Attorney General of a State may appear and be heard on behalf of consumer creditors if the court determines the appearance is in the public interest, but the Attorney General may not appeal from any judgment, order, or decree in the case.
+### Rule 2018. Intervention by an Interested Entity; Right to Be Heard ###
 
-(c) Chapter 9 Municipality Case. The Secretary of the Treasury of the United States may, or if requested by the court shall, intervene in a chapter 9 case. Representatives of the state in which the debtor is located may intervene in a chapter 9 case with respect to matters specified by the court.
+(a) In General. After hearing on such notice as the court orders and for cause, the court may permit an interested entity to intervene generally or in any specified matter.
 
-(d) Labor Unions. In a chapter 9, 11, or 12 case, a labor union or employees' association, representative of employees of the debtor, shall have the right to be heard on the economic soundness of a plan affecting the interests of the employees. A labor union or employees' association which exercises its right to be heard under this subdivision shall not be entitled to appeal any judgment, order, or decree relating to the plan, unless otherwise permitted by law.
+(b) Intervention by a State Attorney General. In a Chapter 7, 11, 12, or 13 case, a state attorney general may appear and be heard on behalf of consumer creditors if the court determines that the appearance is in the public interest. But the state attorney general may not appeal from any judgment, order, or decree entered in the case.
 
-(e) Service on Entities Covered by This Rule. The court may enter orders governing the service of notice and papers on entities permitted to intervene or be heard pursuant to this rule.
+(c) Intervention by the United States Secretary of the Treasury or a State Representative. In a Chapter 9 case:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+(1) the United States Secretary of the Treasury may—and if requested by the court must—intervene; and
+
+(2) a representative of the state where the debtor is located may intervene in any matter the court specifies.
+
+(d) Intervention by a Labor Union or an Association Representing the Debtor's Employees. In a Chapter 9, 11, or 12 case, a labor union or an association representing the debtor's employees has the right to be heard on the economic soundness of a plan affecting the employees' interests. Unless otherwise permitted by law, the labor union or employees' association exercising that right may not appeal any judgment, order, or decree related to the plan.
+
+(e) Serving Entities Covered by This Rule. The court may issue orders governing the service of notice and documents on entities permitted to intervene or be heard under this Rule 2018.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3050,67 +3994,75 @@ This subdivision does not grant the Attorney General the status of party in inte
 
 *Subdivisions (b) and (d)* are amended to include chapter 12.
 
-### Rule 2019. Disclosure Regarding Creditors and Equity Security Holders in Chapter 9 and Chapter 11 Cases ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Definitions. In this rule the following terms have the meanings indicated:
+The language of Rule 2018 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(1) "Disclosable economic interest" means any claim, interest, pledge, lien, option, participation, derivative instrument, or any other right or derivative right granting the holder an economic interest that is affected by the value, acquisition, or disposition of a claim or interest.
+### Rule 2019. Disclosures by Groups, Committees, and Other Entities in a Chapter 9 or 11 Case ###
 
-(2) "Represent" or "represents" means to take a position before the court or to solicit votes regarding the confirmation of a plan on behalf of another.
+(a) Definitions. In this Rule 2019:
 
-(b) Disclosure by Groups, Committees, and Entities.
+(1) "disclosable economic interest" means any claim, interest, pledge, lien, option, participation, derivative instrument, or other right or derivative right granting the holder an economic interest that is affected by the value, acquisition, or disposition of a claim or interest; and
 
-(1) In a chapter 9 or 11 case, a verified statement setting forth the information specified in subdivision (c) of this rule shall be filed by every group or committee that consists of or represents, and every entity that represents, multiple creditors or equity security holders that are (A) acting in concert to advance their common interests, and (B) not composed entirely of affiliates or insiders of one another.
+(2) "represent" or "represents" means to take a position before the court or to solicit votes regarding a plan's confirmation on another's behalf.
 
-(2) Unless the court orders otherwise, an entity is not required to file the verified statement described in paragraph (1) of this subdivision solely because of its status as:
+(b) Who Must Disclose.
+
+(1) *In General*. In a Chapter 9 or 11 case, a verified statement containing the information listed in (c) must be filed by every group or committee consisting of or representing—and every entity representing—multiple creditors or equity security holders that are:
+
+(A) acting in concert to advance their common interests; and
+
+(B) not composed entirely of affiliates or insiders of one another.
+
+(2) *When a Disclosure Statement Is Not Required*. Unless the court orders otherwise, an entity need not file the statement described in (1) solely because it is:
 
 (A) an indenture trustee;
 
-(B) an agent for one or more other entities under an agreement for the extension of credit;
+(B) an agent for one or more other entities under an agreement to extend credit;
 
-(C) a class action representative; or
+(C) a class-action representative; or
 
 (D) a governmental unit that is not a person.
 
-(c) Information Required. The verified statement shall include:
+(c) Required Information. The verified statement must include:
 
 (1) the pertinent facts and circumstances concerning:
 
-(A) with respect to a group or committee, other than a committee appointed under §1102 or §1114 of the Code, the formation of the group or committee, including the name of each entity at whose instance the group or committee was formed or for whom the group or committee has agreed to act; or
+(A) for a group or committee (except a committee appointed under §1102 or §1114), its formation, including the name of each entity at whose instance it was formed or for whom it has agreed to act; or
 
-(B) with respect to an entity, the employment of the entity, including the name of each creditor or equity security holder at whose instance the employment was arranged;
+(B) for an entity, the entity's employment, including the name of each creditor or equity security holder at whose instance the employment was arranged;
 
-(2) if not disclosed under subdivision (c)(1), with respect to an entity, and with respect to each member of a group or committee:
+(2) if not disclosed under (1), for each member of a group or committee and for an entity:
 
 (A) name and address;
 
-(B) the nature and amount of each disclosable economic interest held in relation to the debtor as of the date the entity was employed or the group or committee was formed; and
+(B) the nature and amount of each disclosable economic interest held in relation to the debtor when the group or committee was formed or the entity was employed; and
 
-(C) with respect to each member of a group or committee that claims to represent any entity in addition to the members of the group or committee, other than a committee appointed under §1102 or §1114 of the Code, the date of acquisition by quarter and year of each disclosable economic interest, unless acquired more than one year before the petition was filed;
+(C) for each member of a group or committee claiming to represent any entity in addition to its own members (except a committee appointed under §1102 or §1114), the quarter and year in which each disclosable economic interest was acquired—unless it was acquired more than 1 year before the petition was filed;
 
-(3) if not disclosed under subdivision (c)(1) or (c)(2), with respect to each creditor or equity security holder represented by an entity, group, or committee, other than a committee appointed under §1102 or §1114 of the Code:
+(3) if not disclosed under (1) or (2), for each creditor or equity security holder represented by an entity, group, or committee (except a committee appointed under §1102 or §1114):
 
 (A) name and address; and
 
-(B) the nature and amount of each disclosable economic interest held in relation to the debtor as of the date of the statement; and
+(B) the nature and amount of each disclosable economic interest held in relation to the debtor on the statement's date; and
 
-(4) a copy of the instrument, if any, authorizing the entity, group, or committee to act on behalf of creditors or equity security holders.
+(4) a copy of any instrument authorizing the group, committee, or entity to act on behalf of creditors or equity security holders.
 
-(d) Supplemental Statements. If any fact disclosed in its most recently filed statement has changed materially, an entity, group, or committee shall file a verified supplemental statement whenever it takes a position before the court or solicits votes on the confirmation of a plan. The supplemental statement shall set forth the material changes in the facts required by subdivision (c) to be disclosed.
+(d) Supplemental Statement. If a fact disclosed in its most recent statement has changed materially, a group, committee, or entity must file a verified supplemental statement whenever it takes a position before the court or solicits votes on a plan's confirmation. The supplemental statement must set forth any material changes in the information specified in (c).
 
-(e) Determination of Failure to Comply; Sanctions.
+(e) Failure to Comply; Sanctions.
 
-(1) On motion of any party in interest, or on its own motion, the court may determine whether there has been a failure to comply with any provision of this rule.
+(1) *Failure to Comply*. On a party in interest's motion, or on its own, the court may determine whether there has been a failure to comply with this Rule 2019.
 
-(2) If the court finds such a failure to comply, it may:
+(2) *Sanctions*. If the court finds a failure to comply, it may:
 
-(A) refuse to permit the entity, group, or committee to be heard or to intervene in the case;
+(A) refuse to permit the group, committee, or entity to be heard or to intervene in the case;
 
-(B) hold invalid any authority, acceptance, rejection, or objection given, procured, or received by the entity, group, or committee; or
+(B) hold invalid any authority, acceptance, rejection, or objection that the group, committee, or entity has given, procured, or received; or
 
 (C) grant other appropriate relief.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3170,11 +4122,15 @@ Subdivision (e)(2), which enumerated the materials the court could examine in ma
 
 *Other changes*. Stylistic and organizational changes were made throughout the rule and Committee Note to reduce the length and clarify the meaning of the published proposal.
 
-### Rule 2020. Review of Acts by United States Trustee ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-A proceeding to contest any act or failure to act by the United States trustee is governed by Rule 9014.
+The language of Rule 2019 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(Added Apr. 30, 1991, eff. Aug. 1, 1991.)
+### Rule 2020. Reviewing an Act by a United States Trustee ###
+
+A proceeding to contest any act or failure to act by a United States trustee is governed by Rule 9014.
+
+(Added Apr. 30, 1991, eff. Aug. 1, 1991; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1991 ####
 
@@ -3182,67 +4138,95 @@ The United States trustee performs administrative functions, such as the conveni
 
 This rule provides for review of acts already committed by the United States trustee, but does not provide for advisory opinions in advance of the act. This rule is not intended to limit the discretion of the United States trustee, provided that the United States trustee's act is authorized by, and in compliance with, the Code, title 28, these rules, and other applicable law.
 
-### PART III—CLAIMS AND DISTRIBUTION TO CREDITORS AND EQUITY INTEREST HOLDERS; PLANS ###
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 2020 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+### PART III—CLAIMS; PLANS; DISTRIBUTIONS TO CREDITORS AND EQUITY SECURITY HOLDERS ###
 
 ### Rule 3001. Proof of Claim ###
 
-(a) Form and Content. A proof of claim is a written statement setting forth a creditor's claim. A proof of claim shall conform substantially to the appropriate Official Form.
+(a) Definition and Form. A proof of claim is a written statement of a creditor's claim. It must substantially conform to Form 410.
 
-(b) Who May Execute. A proof of claim shall be executed by the creditor or the creditor's authorized agent except as provided in Rules 3004 and 3005.
+(b) Who May Sign a Proof of Claim. Only a creditor or the creditor's agent may sign a proof of claim—except as provided in Rules 3004 and 3005.
 
-(c) Supporting Information.
+(c) Required Supporting Information.
 
-(1) *Claim Based on a Writing*. Except for a claim governed by paragraph (3) of this subdivision, when a claim, or an interest in property of the debtor securing the claim, is based on a writing, a copy of the writing shall be filed with the proof of claim. If the writing has been lost or destroyed, a statement of the circumstances of the loss or destruction shall be filed with the claim.
+(1) *Claim or Interest Based on a Writing*. If a claim or an interest in the debtor's property securing the claim is based on a writing, the creditor must file a copy with the proof of claim—except for a claim based on a consumer-credit agreement under (4). If the writing has been lost or destroyed, a statement explaining the loss or destruction must be filed with the claim.
 
-(2) *Additional Requirements in an Individual Debtor Case; Sanctions for Failure to Comply*. In a case in which the debtor is an individual:
+(2) *Additional Information in an Individual Debtor's Case*. If the debtor is an individual, the creditor must file with the proof of claim:
 
-(A) If, in addition to its principal amount, a claim includes interest, fees, expenses, or other charges incurred before the petition was filed, an itemized statement of the interest, fees, expenses, or charges shall be filed with the proof of claim.
+(A) an itemized statement of the principal amount and any interest, fees, expenses, or other charges incurred before the petition was filed;
 
-(B) If a security interest is claimed in the debtor's property, a statement of the amount necessary to cure any default as of the date of the petition shall be filed with the proof of claim.
+(B) for any claimed security interest in the debtor's property, the amount needed to cure any default as of the date the petition was filed; and
 
-(C) If a security interest is claimed in property that is the debtor's principal residence, the attachment prescribed by the appropriate Official Form shall be filed with the proof of claim. If an escrow account has been established in connection with the claim, an escrow account statement prepared as of the date the petition was filed and in a form consistent with applicable nonbankruptcy law shall be filed with the attachment to the proof of claim.
+(C) for any claimed security interest in the debtor's principal residence:
 
-(D) If the holder of a claim fails to provide any information required by this subdivision (c), the court may, after notice and hearing, take either or both of the following actions:
+(i) Form 410A; and
 
-(i) preclude the holder from presenting the omitted information, in any form, as evidence in any contested matter or adversary proceeding in the case, unless the court determines that the failure was substantially justified or is harmless; or
+(ii) if there is an escrow account connected with the claim, an escrow-account statement, prepared as of the date the petition was filed, that is consistent in form with applicable nonbankruptcy law.
 
-(ii) award other appropriate relief, including reasonable expenses and attorney's fees caused by the failure.
+(3) *Sanctions in an Individual-Debtor Case*. If the debtor is an individual and a claim holder fails to provide any information required by (1) or (2), the court may, after notice and a hearing, take one or both of these actions:
 
-(3) *Claim Based on an Open-End or Revolving Consumer Credit Agreement*.
+(A) preclude the holder from presenting the information in any form as evidence in any contested matter or adversary proceeding in the case—unless the court determines that the failure is substantially justified or is harmless; and
 
-(A) When a claim is based on an open-end or revolving consumer credit agreement—except one for which a security interest is claimed in the debtor's real property—a statement shall be filed with the proof of claim, including all of the following information that applies to the account:
+(B) award other appropriate relief, including reasonable expenses and attorney's fees caused by the failure.
+
+(4) *Claim Based on an Open-End or Revolving Consumer-Credit Agreement.*
+
+(A) *Required Statement*. Except when the claim is secured by an interest in the debtor's real property, a proof of claim for a claim based on an open-end or revolving consumer-credit agreement must be accompanied by a statement that shows the following information about the credit account:
 
 (i) the name of the entity from whom the creditor purchased the account;
 
 (ii) the name of the entity to whom the debt was owed at the time of an account holder's last transaction on the account;
 
-(iii) the date of an account holder's last transaction;
+(iii) the date of that last transaction;
 
 (iv) the date of the last payment on the account; and
 
-(v) the date on which the account was charged to profit and loss.
+(v) the date that the account was charged to profit and loss.
 
-(B) On written request by a party in interest, the holder of a claim based on an open-end or revolving consumer credit agreement shall, within 30 days after the request is sent, provide the requesting party a copy of the writing specified in paragraph (1) of this subdivision.
+(B) *Copy to a Party in Interest*. On a party in interest's written request, the creditor must send a copy of the writing described in (1) to that party within 30 days after the request is sent.
 
-(d) Evidence of Perfection of Security Interest. If a security interest in property of the debtor is claimed, the proof of claim shall be accompanied by evidence that the security interest has been perfected.
+(d) Claim Based on a Security Interest in the Debtor's Property. If a creditor claims a security interest in the debtor's property, the proof of claim must be accompanied by evidence that the security interest has been perfected.
 
 (e) Transferred Claim.
 
-(1) *Transfer of Claim Other Than for Security Before Proof Filed*. If a claim has been transferred other than for security before proof of the claim has been filed, the proof of claim may be filed only by the transferee or an indenture trustee.
+(1) *Claim Transferred Before a Proof of Claim Is Filed*. Unless the transfer was made for security, if a claim was transferred before a proof of claim is filed, only the transferee or an indenture trustee may file a proof of claim.
 
-(2) *Transfer of Claim Other than for Security after Proof Filed*. If a claim other than one based on a publicly traded note, bond, or debenture has been transferred other than for security after the proof of claim has been filed, evidence of the transfer shall be filed by the transferee. The clerk shall immediately notify the alleged transferor by mail of the filing of the evidence of transfer and that objection thereto, if any, must be filed within 21 days of the mailing of the notice or within any additional time allowed by the court. If the alleged transferor files a timely objection and the court finds, after notice and a hearing, that the claim has been transferred other than for security, it shall enter an order substituting the transferee for the transferor. If a timely objection is not filed by the alleged transferor, the transferee shall be substituted for the transferor.
+(2) *Claim Transferred After a Proof of Claim Was Filed.*
 
-(3) *Transfer of Claim for Security Before Proof Filed*. If a claim other than one based on a publicly traded note, bond, or debenture has been transferred for security before proof of the claim has been filed, the transferor or transferee or both may file a proof of claim for the full amount. The proof shall be supported by a statement setting forth the terms of the transfer. If either the transferor or the transferee files a proof of claim, the clerk shall immediately notify the other by mail of the right to join in the filed claim. If both transferor and transferee file proofs of the same claim, the proofs shall be consolidated. If the transferor or transferee does not file an agreement regarding its relative rights respecting voting of the claim, payment of dividends thereon, or participation in the administration of the estate, on motion by a party in interest and after notice and a hearing, the court shall enter such orders respecting these matters as may be appropriate.
+(A) *Filing Evidence of the Transfer*. Unless the transfer was made for security, the transferee of a claim that was transferred after a proof of claim is filed must file evidence of the transfer—except for a claim based on a publicly traded note, bond, or debenture.
 
-(4) *Transfer of Claim for Security after Proof Filed*. If a claim other than one based on a publicly traded note, bond, or debenture has been transferred for security after the proof of claim has been filed, evidence of the terms of the transfer shall be filed by the transferee. The clerk shall immediately notify the alleged transferor by mail of the filing of the evidence of transfer and that objection thereto, if any, must be filed within 21 days of the mailing of the notice or within any additional time allowed by the court. If a timely objection is filed by the alleged transferor, the court, after notice and a hearing, shall determine whether the claim has been transferred for security. If the transferor or transferee does not file an agreement regarding its relative rights respecting voting of the claim, payment of dividends thereon, or participation in the administration of the estate, on motion by a party in interest and after notice and a hearing, the court shall enter such orders respecting these matters as may be appropriate.
+(B) *Notice of the Filing and the Time for Objecting*. The clerk must immediately notify the alleged transferor, by mail, that evidence of the transfer has been filed and that the alleged transferor has 21 days after the notice is mailed to file an objection. The court may extend the time to file it.
 
-(5) *Service of Objection or Motion; Notice of Hearing*. A copy of an objection filed pursuant to paragraph (2) or (4) or a motion filed pursuant to paragraph (3) or (4) of this subdivision together with a notice of a hearing shall be mailed or otherwise delivered to the transferor or transferee, whichever is appropriate, at least 30 days prior to the hearing.
+(C) *Hearing on an Objection; Substituting the Transferee*. If, on timely objection by the alleged transferor and after notice and a hearing, the court finds that the claim was transferred other than for security, the court must substitute the transferee for the transferor. If the alleged transferor does not file a timely objection, the transferee must be substituted for the transferor.
 
-(f) Evidentiary Effect. A proof of claim executed and filed in accordance with these rules shall constitute prima facie evidence of the validity and amount of the claim.
+(3) *Claim Transferred for Security Before a Proof of Claim Is Filed.*
 
-(g) <sup><a href="#Rule_3001_1_target" name="Rule_3001_1">1</a></sup> To the extent not inconsistent with the United States Warehouse Act or applicable State law, a warehouse receipt, scale ticket, or similar document of the type routinely issued as evidence of title by a grain storage facility, as defined in section 557 of title 11, shall constitute prima facie evidence of the validity and amount of a claim of ownership of a quantity of grain.
+(A) *Right to File a Proof of Claim*. If a claim (except one based on a publicly traded note, bond, or debenture) was transferred for security before the proof of claim is filed, either the transferor or transferee (or both) may file a proof of claim for the full amount. The proof of claim must include a statement setting forth the terms of the transfer.
 
-(As amended Pub. L. 98–353, title III, §354, July 10, 1984, 98 Stat. 361; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012.)
+(B) *Notice of a Right to Join in a Proof of Claim; Consolidating Proofs*. If either the transferor or transferee files a proof of claim, the clerk must, by mail, immediately notify the other of the right to join in the claim. If both file proofs of the same claim, the claims must be consolidated.
+
+(C) *Failure to File an Agreement About the Rights of the Transferor and Transferee*. On a party in interest's motion and after notice and a hearing, the court must issue appropriate orders regarding the rights of the transferor and transferee if either one fails to file an agreement on voting the claim, receiving dividends on it, or participating in the estate's administration.
+
+(4) *Claim Transferred for Security After a Proof of Claim Was Filed.*
+
+(A) *Filing Evidence of the Transfer*. If a claim (except one based on a publicly traded note, bond, or debenture) was transferred for security after a proof of claim was filed, the transferee must file a statement setting forth the terms of the transfer.
+
+(B) *Notice of the Filing and the Time for Objecting*. The clerk must immediately notify the alleged transferor, by mail, that evidence of the transfer has been filed and that the alleged transferor has 21 days after the notice is mailed to file an objection. The court may extend the time to file it.
+
+(C) *Hearing on an Objection*. If the alleged transferor files a timely objection, the court must, after notice and a hearing, determine whether the transfer was for security.
+
+(D) *Failure to File an Agreement About the Rights of the Transferor and Transferee*. On a party in interest's motion and after notice and a hearing, the court must issue appropriate orders regarding the rights of the transferor and transferee if either one fails to file an agreement on voting the claim, receiving dividends on it, or participating in the estate's administration.
+
+(5) *Serving an Objection or Motion; Notice of a Hearing*. At least 30 days before a hearing, a copy of any objection filed under (2) or (4) or any motion filed under (3) or (4) must be mailed or delivered to either the transferor or transferee as appropriate, together with notice of the hearing.
+
+(f) Proof of Claim as Prima Facie Evidence of a Claim and Its Amount. A proof of claim signed and filed in accordance with these rules is prima facie evidence of the claim's validity and amount.
+
+(g) Proving the Ownership and Quantity of Grain. To the extent not inconsistent with the United States Warehouse Act or applicable State law, a warehouse receipt, scale ticket, or similar document of the type routinely issued as evidence of title by a grain storage facility, as defined in section 557 of title 11, shall constitute prima facie evidence of the validity and amount of a claim of ownership of a quantity of grain.
+
+(As amended Pub. L. 98–353, title III, §354, July 10, 1984, 98 Stat. 361; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3334,6 +4318,10 @@ A time limit of 30 days for responding to a written request under subparagraph (
 
 *Other changes*. Stylistic changes were also made to the rule.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of most provisions in Rule 3001 have been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. Rule 3001(g) has not been restyled (except to add a title) because it was enacted by Congress, P.L. 98–353, 98 Stat. 361, Sec. 354 (1984). The Bankruptcy Rules Enabling Act, 28 U.S.C. §2075, provides no authority to modify statutory language.
+
 #### References in Text ####
 
 The United States Warehouse Act, referred to in subd. (g), is Part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, which is classified generally to chapter 10 (§241 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 241 of Title 7 and Tables.
@@ -3346,35 +4334,37 @@ The United States Warehouse Act, referred to in subd. (g), is Part C of act Aug.
 
 Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
-[<sup>1</sup> So in original. Subsec. (g) adopted without a catchline.](#Rule_3001_1)
+### Rule 3002. Filing a Proof of Claim or Interest ###
 
-### Rule 3002. Filing Proof of Claim or Interest ###
+(a) Need to File. Unless Rule 1019(c), 3003, 3004, or 3005 provides otherwise, every creditor must file a proof of claim—and an equity security holder must file a proof of interest—for the claim or interest to be allowed. A lien that secures a claim is not void solely because an entity failed to file a proof of claim.
 
-(a) Necessity for Filing. A secured creditor, unsecured creditor, or equity security holder must file a proof of claim or interest for the claim or interest to be allowed, except as provided in Rules 1019(3), 3003, 3004, and 3005. A lien that secures a claim against the debtor is not void due only to the failure of any entity to file a proof of claim.
+(b) Where to File. The proof of claim or interest must be filed in the district where the case is pending and in accordance with Rule 5005.
 
-(b) Place of Filing. A proof of claim or interest shall be filed in accordance with Rule 5005.
+(c) Time to File. In a voluntary Chapter 7 case or in a Chapter 12 or 13 case, the proof of claim is timely if filed within 70 days after the order for relief or entry of an order converting the case to Chapter 12 or 13. In an involuntary Chapter 7 case, a proof of claim is timely if filed within 90 days after the order for relief is entered. These exceptions apply in all cases:
 
-(c) Time for Filing. In a voluntary chapter 7 case, chapter 12 case, or chapter 13 case, a proof of claim is timely filed if it is filed not later than 70 days after the order for relief under that chapter or the date of the order of conversion to a case under chapter 12 or chapter 13. In an involuntary chapter 7 case, a proof of claim is timely filed if it is filed not later than 90 days after the order for relief under that chapter is entered. But in all these cases, the following exceptions apply:
+(1) *Governmental Unit*. A governmental unit's proof of claim is timely if filed within 180 days after the order for relief. But a proof of claim resulting from a tax return filed under §1308 is timely if filed within 180 days after the order for relief or within 60 days after the tax return is filed. On motion filed by a governmental unit before the time expires and for cause, the court may extend the time to file a proof of claim.
 
-(1) A proof of claim filed by a governmental unit, other than for a claim resulting from a tax return filed under §1308, is timely filed if it is filed not later than 180 days after the date of the order for relief. A proof of claim filed by a governmental unit for a claim resulting from a tax return filed under §1308 is timely filed if it is filed no later than 180 days after the date of the order for relief or 60 days after the date of the filing of the tax return. The court may, for cause, enlarge the time for a governmental unit to file a proof of claim only upon motion of the governmental unit made before expiration of the period for filing a timely proof of claim.
+(2) *Infant or Incompetent Person*. In the interests of justice, the court may extend the time for an infant or incompetent person—or a representative of either—to file a proof of claim, but only if the extension will not unduly delay case administration.
 
-(2) In the interest of justice and if it will not unduly delay the administration of the case, the court may extend the time for filing a proof of claim by an infant or incompetent person or the representative of either.
+(3) *Unsecured Claim That Arises from a Judgment*. This paragraph (3) applies if an unsecured claim arises in favor of an entity or becomes allowable because of a judgment to recover money or property from that entity or a judgment that denies or avoids the entity's interest in property. The claim may be filed within 30 days after the judgment becomes final. But the claim must not be allowed if the judgment imposes a liability that is not satisfied—or a duty that is not performed—within the 30 days or any additional time set by the court.
 
-(3) An unsecured claim which arises in favor of an entity or becomes allowable as a result of a judgment may be filed within 30 days after the judgment becomes final if the judgment is for the recovery of money or property from that entity or denies or avoids the entity's interest in property. If the judgment imposes a liability which is not satisfied, or a duty which is not performed within such period or such further time as the court may permit, the claim shall not be allowed.
+(4) *Claim Arising from a Rejected Executory Contract or Unexpired Lease*. A proof of claim for a claim that arises from a rejected executory contract or an unexpired lease may be filed within the time set by the court.
 
-(4) A claim arising from the rejection of an executory contract or unexpired lease of the debtor may be filed within such time as the court may direct.
+(5) *Notice That Assets May Be Available to Pay a Dividend*. The clerk must, by mail, give at least 90 days' notice to creditors that a dividend payment appears possible and that proofs of claim must be filed by the date set forth in the notice if:
 
-(5) If notice of insufficient assets to pay a dividend was given to creditors under Rule 2002(e), and subsequently the trustee notifies the court that payment of a dividend appears possible, the clerk shall give at least 90 days' notice by mail to creditors of that fact and of the date by which proofs of claim must be filed.
+(A) a notice of insufficient assets to pay a dividend had been given under Rule 2002(e); and
 
-(6) On motion filed by a creditor before or after the expiration of the time to file a proof of claim, the court may extend the time by not more than 60 days from the date of the order granting the motion. The motion may be granted if the court finds that the notice was insufficient under the circumstances to give the creditor a reasonable time to file a proof of claim.
+(B) the trustee later notifies the court that a dividend appears possible.
 
-(7) A proof of claim filed by the holder of a claim that is secured by a security interest in the debtor's principal residence is timely filed if:
+(6) *Claim Secured by a Security Interest in the Debtor's Principal Residence*. A proof of a claim secured by a security interest in the debtor's principal residence is timely filed if:
 
-(A) the proof of claim, together with the attachments required by Rule 3001(c)(2)(C), is filed not later than 70 days after the order for relief is entered; and
+(A) the proof of claim and attachments required by Rule 3001(c)(2)(C) are filed within 70 days after the order for relief; and
 
-(B) any attachments required by Rule 3001(c)(1) and (d) are filed as a supplement to the holder's claim not later than 120 days after the order for relief is entered.
+(B) the attachments required by Rule 3001(c)(1) and (d) are filed as a supplement to the holder's claim within 120 days after the order for relief.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 11, 2022, eff. Dec. 1, 2022.)
+(7) *Extending the Time to File*. On a creditor's motion filed before or after the time to file a proof of claim has expired, the court may extend the time to file by no more than 60 days from the date of its order. The motion may be granted if the court finds that the notice was insufficient to give the creditor a reasonable time to file.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3448,35 +4438,93 @@ Subdivision (c)(7) is added to provide a two-stage deadline for filing mortgage 
 
 Rule 3002(c)(6) is amended to provide a single standard for granting motions for an extension of time to file a proof of claim, whether the creditor has a domestic address or a foreign address. If the notice to such creditor was "insufficient under the circumstances to give the creditor a reasonable time to file a proof of claim," the court may grant an extension.
 
-### Rule 3002.1. Notice Relating to Claims Secured by Security Interest in the Debtor's Principal Residence ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) In General. This rule applies in a chapter 13 case to claims (1) that are secured by a security interest in the debtor's principal residence, and (2) for which the plan provides that either the trustee or the debtor will make contractual installment payments. Unless the court orders otherwise, the notice requirements of this rule cease to apply when an order terminating or annulling the automatic stay becomes effective with respect to the residence that secures the claim.
+The language of Rule 3002 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Notice of Payment Changes; Objection.
+### Rule 3002.1. Notice Relating to Claims Secured by a Security Interest in the Debtor's Principal Residence in a Chapter 13 Case ###
 
-(1) *Notice*. The holder of the claim shall file and serve on the debtor, debtor's counsel, and the trustee a notice of any change in the payment amount, including any change that results from an interest-rate or escrow-account adjustment, no later than 21 days before a payment in the new amount is due. If the claim arises from a home-equity line of credit, this requirement may be modified by court order.
+(a) In General. This rule applies in a Chapter 13 case to a claim that is secured by a security interest in the debtor's principal residence and for which the plan provides for the trustee or debtor to make contractual installment payments. Unless the court orders otherwise, the notice requirements of this rule cease when an order terminating or annulling the automatic stay related to that residence becomes effective.
 
-(2) *Objection*. A party in interest who objects to the payment change may file a motion to determine whether the change is required to maintain payments in accordance with §1322(b)(5) of the Code. If no motion is filed by the day before the new amount is due, the change goes into effect, unless the court orders otherwise.
+(b) Notice of a Payment Change.
 
-(c) Notice of Fees, Expenses, and Charges. The holder of the claim shall file and serve on the debtor, debtor's counsel, and the trustee a notice itemizing all fees, expenses, or charges (1) that were incurred in connection with the claim after the bankruptcy case was filed, and (2) that the holder asserts are recoverable against the debtor or against the debtor's principal residence. The notice shall be served within 180 days after the date on which the fees, expenses, or charges are incurred.
+(1) *Notice by the Claim Holder*. The claim holder must file a notice of any change in the amount of an installment payment—including any change resulting from an interest-rate or escrow-account adjustment. At least 21 days before the new payment is due, the notice must be filed and served on:
 
-(d) Form and Content. A notice filed and served under subdivision (b) or (c) of this rule shall be prepared as prescribed by the appropriate Official Form, and filed as a supplement to the holder's proof of claim. The notice is not subject to Rule 3001(f).
+• the debtor;
 
-(e) Determination of Fees, Expenses, or Charges. On motion of a party in interest filed within one year after service of a notice under subdivision (c) of this rule, the court shall, after notice and hearing, determine whether payment of any claimed fee, expense, or charge is required by the underlying agreement and applicable nonbankruptcy law to cure a default or maintain payments in accordance with §1322(b)(5) of the Code.
+• the debtor's attorney; and
 
-(f) Notice of Final Cure Payment. Within 30 days after the debtor completes all payments under the plan, the trustee shall file and serve on the holder of the claim, the debtor, and debtor's counsel a notice stating that the debtor has paid in full the amount required to cure any default on the claim. The notice shall also inform the holder of its obligation to file and serve a response under subdivision (g). If the debtor contends that final cure payment has been made and all plan payments have been completed, and the trustee does not timely file and serve the notice required by this subdivision, the debtor may file and serve the notice.
+• the trustee.
 
-(g) Response to Notice of Final Cure Payment. Within 21 days after service of the notice under subdivision (f) of this rule, the holder shall file and serve on the debtor, debtor's counsel, and the trustee a statement indicating (1) whether it agrees that the debtor has paid in full the amount required to cure the default on the claim, and (2) whether the debtor is otherwise current on all payments consistent with §1322(b)(5) of the Code. The statement shall itemize the required cure or postpetition amounts, if any, that the holder contends remain unpaid as of the date of the statement. The statement shall be filed as a supplement to the holder's proof of claim and is not subject to Rule 3001(f).
+If the claim arises from a home-equity line of credit, the court may modify this requirement.
 
-(h) Determination of Final Cure and Payment. On motion of the debtor or trustee filed within 21 days after service of the statement under subdivision (g) of this rule, the court shall, after notice and hearing, determine whether the debtor has cured the default and paid all required postpetition amounts.
+(2) *Party in Interest's Objection*. A party in interest who objects to the payment change may file a motion to determine whether the change is required to maintain payments under §1322(b)(5). Unless the court orders otherwise, if no motion is filed by the day before the new payment is due, the change goes into effect.
 
-(i) Failure to Notify. If the holder of a claim fails to provide any information as required by subdivision (b), (c), or (g) of this rule, the court may, after notice and hearing, take either or both of the following actions:
+(c) Fees, Expenses, and Charges Incurred After the Case Was Filed; Notice by the Claim Holder. The claim holder must file a notice itemizing all fees, expenses, and charges incurred after the case was filed that the holder asserts are recoverable against the debtor or the debtor's principal residence. Within 180 days after the fees, expenses, or charges were incurred, the notice must be served on:
 
-(1) preclude the holder from presenting the omitted information, in any form, as evidence in any contested matter or adversary proceeding in the case, unless the court determines that the failure was substantially justified or is harmless; or
+• the debtor;
+
+• the debtor's attorney; and
+
+• the trustee.
+
+(d) Filing Notice as a Supplement to a Proof of Claim. A notice under (b) or (c) must be filed as a supplement to the proof of claim using Form 410S-1 or 410S-2, respectively. The notice is not subject to Rule 3001(f).
+
+(e) Determining Fees, Expenses, or Charges. On a party in interest's motion filed within one year after the notice in (c) was served, the court must, after notice and a hearing, determine whether paying any claimed fee, expense, or charge is required by the underlying agreement and applicable nonbankruptcy law to cure a default or maintain payments under §1322(b)(5).
+
+(f) Notice of the Final Cure Payment.
+
+(1) *Content of a Notice*. Within 30 days after the debtor completes all payments under a Chapter 13 plan, the trustee must file a notice:
+
+(A) stating that the debtor has paid in full the amount required to cure any default on the claim; and
+
+(B) informing the claim holder of its obligation to file and serve a response under (g).
+
+(2) *Serving the Notice*. The notice must be served on:
+
+• the claim holder;
+
+• the debtor; and
+
+• the debtor's attorney.
+
+(3) *The Debtor's Right to File*. The debtor may file and serve the notice if:
+
+(A) the trustee fails to do so; and
+
+(B) the debtor contends that the final cure payment has been made and all plan payments have been completed.
+
+(g) Response to a Notice of the Final Cure Payment.
+
+(1) *Required Statement*. Within 21 days after the notice under (f) is served, the claim holder must file and serve a statement that:
+
+(A) indicates whether:
+
+(i) the claim holder agrees that the debtor has paid in full the amount required to cure any default on the claim; and
+
+(ii) the debtor is otherwise current on all payments under §1322(b)(5); and
+
+(B) itemizes the required cure or postpetition amounts, if any, that the claim holder contends remain unpaid as of the statement's date.
+
+(2) *Persons to be Served*. The holder must serve the statement on:
+
+• the debtor;
+
+• the debtor's attorney; and
+
+• the trustee.
+
+(3) *Statement to be a Supplement*. The statement must be filed as a supplement to the proof of claim and is not subject to Rule 3001(f).
+
+(h) Determining the Final Cure Payment. On the debtor's or trustee's motion filed within 21 days after the statement under (g) is served, the court must, after notice and a hearing, determine whether the debtor has cured the default and made all required postpetition payments.
+
+(i) Failure to Give Notice. If the claim holder fails to provide any information as required by (b), (c), or (g), the court may, after notice and a hearing, take one or both of these actions:
+
+(1) preclude the holder from presenting the omitted information in any form as evidence in a contested matter or adversary proceeding in the case—unless the failure was substantially justified or is harmless; and
 
 (2) award other appropriate relief, including reasonable expenses and attorney's fees caused by the failure.
 
-(Added Apr. 26, 2011, eff. Dec. 1, 2011; amended Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018.)
+(Added Apr. 26, 2011, eff. Dec. 1, 2011; amended Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2011 ####
 
@@ -3538,31 +4586,35 @@ Second, what is now subdivision (b)(2) is amended to acknowledge the right of th
 
 Subdivision (e) is amended to allow parties in interest in addition to the debtor or trustee, such as the United States trustee, to seek a determination regarding the validity of any claimed fee, expense, or charge.
 
-### Rule 3003. Filing Proof of Claim or Equity Security Interest in Chapter 9 Municipality or Chapter 11 Reorganization Cases ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Applicability of Rule. This rule applies in chapter 9 and 11 cases.
+The language of Rule 3002.1 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Schedule of Liabilities and List of Equity Security Holders.
+### Rule 3003. Chapter 9 or 11—Filing a Proof of Claim or Equity Interest ###
 
-(1) *Schedule of Liabilities*. The schedule of liabilities filed pursuant to §521(l) of the Code shall constitute prima facie evidence of the validity and amount of the claims of creditors, unless they are scheduled as disputed, contingent, or unliquidated. It shall not be necessary for a creditor or equity security holder to file a proof of claim or interest except as provided in subdivision (c)(2) of this rule.
+(a) Scope. This rule applies only in a Chapter 9 or 11 case.
 
-(2) *List of Equity Security Holders*. The list of equity security holders filed pursuant to Rule 1007(a)(3) shall constitute prima facie evidence of the validity and amount of the equity security interests and it shall not be necessary for the holders of such interests to file a proof of interest.
+(b) Scheduled Liabilities and Listed Equity Security Holders as Prima Facie Evidence of Validity and Amount.
 
-(c) Filing Proof of Claim.
+(1) *Creditor's Claim*. An entry on the schedule of liabilities filed under §521(a)(1)(B)(i) is prima facie evidence of the validity and the amount of a creditor's claim—except for a claim scheduled as disputed, contingent, or unliquidated. Filing a proof of claim is unnecessary except as provided in (c)(2).
 
-(1) *Who May File*. Any creditor or indenture trustee may file a proof of claim within the time prescribed by subdivision (c)(3) of this rule.
+(2) *Interest of an Equity Security Holder*. An entry on the list of equity security holders filed under Rule 1007(a)(3) is prima facie evidence of the validity and the amount of the equity interest. Filing a proof of the interest is unnecessary except as provided in (c)(2).
 
-(2) *Who Must File*. Any creditor or equity security holder whose claim or interest is not scheduled or scheduled as disputed, contingent, or unliquidated shall file a proof of claim or interest within the time prescribed by subdivision (c)(3) of this rule; any creditor who fails to do so shall not be treated as a creditor with respect to such claim for the purposes of voting and distribution.
+(c) Filing a Proof of Claim.
 
-(3) *Time for Filing*. The court shall fix and for cause shown may extend the time within which proofs of claim or interest may be filed. Notwithstanding the expiration of such time, a proof of claim may be filed to the extent and under the conditions stated in Rule 3002(c)(2), (c)(3), (c)(4), and (c)(6).
+(1) *Who May File a Proof of Claim*. A creditor or indenture trustee may file a proof of claim.
 
-(4) *Effect of Filing Claim or Interest*. A proof of claim or interest executed and filed in accordance with this subdivision shall supersede any scheduling of that claim or interest pursuant to §521(a)(1) of the Code.
+(2) *Who Must File a Proof of Claim or Interest*. A creditor or equity security holder whose claim or interest is not scheduled—or is scheduled as disputed, contingent, or unliquidated—must file a proof of claim or interest. A creditor who fails to do so will not be treated as a creditor for that claim for voting and distribution.
 
-(5) *Filing by Indenture Trustee*. An indenture trustee may file a claim on behalf of all known or unknown holders of securities issued pursuant to the trust instrument under which it is trustee.
+(3) *Time to File*. The court must set the time to file a proof of claim or interest and may, for cause, extend the time. If the time has expired, the proof of claim or interest may be filed to the extent and under the conditions stated in Rule 3002(c)(2), (3), (4), and (7).
 
-(d) Proof of Right to Record Status. For the purposes of Rules 3017, 3018 and 3021 and for receiving notices, an entity who is not the record holder of a security may file a statement setting forth facts which entitle that entity to be treated as the record holder. An objection to the statement may be filed by any party in interest.
+(4) *Proof of Claim by an Indenture Trustee*. An indenture trustee may file a proof of claim on behalf of all known or unknown holders of securities issued under the trust instrument under which it is trustee.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008.)
+(5) *Effect of Filing a Proof of Claim or Interest*. A proof of claim or interest signed and filed under (c) supersedes any scheduling of the claim or interest under §521(a)(1).
+
+(d) Treating a Nonrecord Holder of a Security as the Record Holder. For the purpose of Rules 3017, 3018, and 3021 and receiving notices, an entity that is not a record holder of a security may file a statement setting forth facts that entitle the entity to be treated as the record holder. A party in interest may file an objection to the statement.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3590,11 +4642,23 @@ Subdivision (c)(3) is amended to implement §1514(d) of the Code, which was adde
 
 *Changes Made After Publication*. No changes were made after publication.
 
-### Rule 3004. Filing of Claims by Debtor or Trustee ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-If a creditor does not timely file a proof of claim under Rule 3002(c) or 3003(c), the debtor or trustee may file a proof of the claim within 30 days after the expiration of the time for filing claims prescribed by Rule 3002(c) or 3003(c), whichever is applicable. The clerk shall forthwith give notice of the filing to the creditor, the debtor and the trustee.
+The language of Rule 3003 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 2005, eff. Dec. 1, 2005.)
+### Rule 3004. Proof of Claim Filed by the Debtor or Trustee for a Creditor ###
+
+(a) Filing by the Debtor or Trustee. If a creditor does not file a proof of claim within the time prescribed by Rule 3002(c) or Rule 3003(c), the debtor or trustee may do so within 30 days after the creditor's time to file expires.
+
+(b) Notice by the Clerk. The clerk must promptly give notice of the filing to:
+
+• the creditor;
+
+• the debtor; and
+
+• the trustee.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3620,13 +4684,21 @@ Other changes are stylistic.
 
 *Changes Made After Publication and Comment*. No changes were made after publication. The Advisory Committee concluded that Mr. Van Allsburg's suggestion goes beyond the scope of the published proposal. Consequently, the Committee declined to adopt the suggestion but may consider it in greater detail at a future meeting.
 
-### Rule 3005. Filing of Claim, Acceptance, or Rejection by Guarantor, Surety, Indorser, or Other Codebtor ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Filing of Claim. If a creditor does not timely file a proof of claim under Rule 3002(c) or 3003(c), any entity that is or may be liable with the debtor to that creditor, or who has secured that creditor, may file a proof of the claim within 30 days after the expiration of the time for filing claims prescribed by Rule 3002(c) or Rule 3003(c) whichever is applicable. No distribution shall be made on the claim except on satisfactory proof that the original debt will be diminished by the amount of distribution.
+The language of Rule 3004 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Filing of Acceptance or Rejection; Substitution of Creditor. An entity which has filed a claim pursuant to the first sentence of subdivision (a) of this rule may file an acceptance or rejection of a plan in the name of the creditor, if known, or if unknown, in the entity's own name but if the creditor files a proof of claim within the time permitted by Rule 3003(c) or files a notice prior to confirmation of a plan of the creditor's intention to act in the creditor's own behalf, the creditor shall be substituted for the obligor with respect to that claim.
+### Rule 3005. Filing a Proof of Claim or Accepting or Rejecting a Plan by a Surety, Endorser, Guarantor, or Other Codebtor ###
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 25, 2005, eff. Dec. 1, 2005.)
+(a) In General. If a creditor fails to file a proof of claim within the time prescribed by Rule 3002(c) or Rule 3003(c), it may be filed by an entity that, along with the debtor, is or may be liable to the creditor or has given security for the creditor's debt. The entity must do so within 30 days after the creditor's time to file expires. A distribution on such a claim may be made only on satisfactory proof that the distribution will diminish the original debt.
+
+(b) Accepting or Rejecting a Plan in a Creditor's Name. An entity that has filed a proof of claim on a creditor's behalf under (a) may accept or reject a plan in the creditor's name. If the creditor's name is unknown, the entity may do so in its own name. But the creditor must be substituted for the entity on that claim if the creditor:
+
+(1) files a proof of claim within the time permitted by Rule 3003(c); or
+
+(2) files notice, before the plan is confirmed, of an intent to act on the creditor's own behalf.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3654,11 +4726,31 @@ Other amendments are stylistic.
 
 (b) The phrase "file a proof of the claim" from line 7 of the proposed rule was moved up to line 4 of the proposed amendment immediately after the word "may". This makes the structure of Rules 3004 and 3005 more consistent.
 
-### Rule 3006. Withdrawal of Claim; Effect on Acceptance or Rejection of Plan ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-A creditor may withdraw a claim as of right by filing a notice of withdrawal, except as provided in this rule. If after a creditor has filed a proof of claim an objection is filed thereto or a complaint is filed against that creditor in an adversary proceeding, or the creditor has accepted or rejected the plan or otherwise has participated significantly in the case, the creditor may not withdraw the claim except on order of the court after a hearing on notice to the trustee or debtor in possession, and any creditors' committee elected pursuant to §705(a) or appointed pursuant to §1102 of the Code. The order of the court shall contain such terms and conditions as the court deems proper. Unless the court orders otherwise, an authorized withdrawal of a claim shall constitute withdrawal of any related acceptance or rejection of a plan.
+The language of Rule 3005 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991.)
+### Rule 3006. Withdrawing a Proof of Claim; Effect on a Plan ###
+
+(a) Notice of Withdrawal; Limitations. A creditor may withdraw a proof of claim by filing a notice of withdrawal. But unless the court orders otherwise after notice and a hearing, a creditor may not withdraw a proof of claim if:
+
+(1) an objection to it has been filed;
+
+(2) a complaint has been filed against the creditor in an adversary proceeding; or
+
+(3) the creditor has accepted or rejected the plan or has participated significantly in the case.
+
+(b) Notice of the Hearing; Order Permitting Withdrawal. Notice of the hearing must be served on:
+
+• the trustee or debtor in possession; and
+
+• any creditors' committee elected under §705(a) or appointed under §1102.
+
+The court's order permitting a creditor to withdraw a proof of claim may contain any terms and conditions the court considers proper.
+
+(c) Effect of Withdrawing a Proof of Claim. Unless the court orders otherwise, an authorized withdrawal constitutes withdrawal of any related acceptance or rejection of a plan.
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3674,61 +4766,75 @@ A number of pre-1938 cases sustained denial of a creditor's request to withdraw 
 
 This amendment is stylistic. Notice of the hearing need not be given to committees of equity security holders appointed pursuant to §1102 or committees of retired employees appointed pursuant to §1114 of the Code.
 
-### Rule 3007. Objections to Claims ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Time and Manner of Service.
+The language of Rule 3006 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(1) *Time of Service*. An objection to the allowance of a claim and a notice of objection that substantially conforms to the appropriate Official Form shall be filed and served at least 30 days before any scheduled hearing on the objection or any deadline for the claimant to request a hearing.
+### Rule 3007. Objecting to a Claim ###
 
-(2) *Manner of Service.*
+(a) Time and Manner of Serving the Objection.
 
-(A) The objection and notice shall be served on a claimant by first-class mail to the person most recently designated on the claimant's original or amended proof of claim as the person to receive notices, at the address so indicated; and
+(1) *Time to Serve*. An objection to a claim and a notice of the objection must be filed and served at least 30 days before a scheduled hearing on the objection or any deadline for the claim holder to request a hearing.
 
-(i) if the objection is to a claim of the United States, or any of its officers or agencies, in the manner provided for service of a summons and complaint by Rule 7004(b)(4) or (5); or
+(2) *Whom to Serve; Manner of Service.*
 
-(ii) if the objection is to a claim of an insured depository institution as defined in section 3 of the Federal Deposit Insurance Act, in the manner provided in Rule 7004(h).
+(A) *Serving the Claim Holder*. The notice—substantially conforming to Form 420B—and objection must be served by mail on the person the claim holder most recently designated to receive notices on the claim holder's original or latest amended proof of claim, at the address so indicated. If the objection is to a claim of:
 
-(B) Service of the objection and notice shall also be made by first-class mail or other permitted means on the debtor or debtor in possession, the trustee, and, if applicable, the entity filing the proof of claim under Rule 3005.
+(i) the United States or one of its officers or agencies, service must also be made as if it were a summons and complaint under Rule 7004(b)(4) or (5); or
 
-(b) Demand for Relief Requiring an Adversary Proceeding. A party in interest shall not include a demand for relief of a kind specified in Rule 7001 in an objection to the allowance of a claim, but may include the objection in an adversary proceeding.
+(ii) an insured depository institution as defined in section 3 of the Federal Deposit Insurance Act, service must also be made under Rule 7004(h).
 
-(c) Limitation on Joinder of Claims Objections. Unless otherwise ordered by the court or permitted by subdivision (d), objections to more than one claim shall not be joined in a single objection.
+(B) *Serving Others*. The notice and objection must also be served, by mail (or other permitted means), on:
 
-(d) Omnibus Objection. Subject to subdivision (e), objections to more than one claim may be joined in an omnibus objection if all the claims were filed by the same entity, or the objections are based solely on the grounds that the claims should be disallowed, in whole or in part, because:
+• the debtor or debtor in possession;
 
-(1) they duplicate other claims;
+• the trustee; and
 
-(2) they have been filed in the wrong case;
+• if applicable, the entity that filed the proof of claim under Rule 3005.
 
-(3) they have been amended by subsequently filed proofs of claim;
+(b) Demanding Relief That Requires an Adversary Proceeding Not Permitted. In objecting to a claim, a party in interest must not include a demand for a type of relief specified in Rule 7001 but may include the objection in an adversary proceeding.
 
-(4) they were not timely filed;
+(c) Limit on Omnibus Objections. Unless the court orders otherwise or (d) permits, objections to more than one claim may not be joined in a single objection.
 
-(5) they have been satisfied or released during the case in accordance with the Code, applicable rules, or a court order;
+(d) Omnibus Objection. Subject to (e), objections to more than one claim may be joined in a single objection if:
 
-(6) they were presented in a form that does not comply with applicable rules, and the objection states that the objector is unable to determine the validity of the claim because of the noncompliance;
+(1) all the claims were filed by the same entity; or
 
-(7) they are interests, rather than claims; or
+(2) the objections are based solely on grounds that the claims should be disallowed, in whole or in part, because they:
 
-(8) they assert priority in an amount that exceeds the maximum amount under §507 of the Code.
+(A) duplicate other claims;
 
-(e) Requirements for Omnibus Objection. An omnibus objection shall:
+(B) were filed in the wrong case;
 
-(1) state in a conspicuous place that claimants receiving the objection should locate their names and claims in the objection;
+(C) have been amended by later proofs of claim;
 
-(2) list claimants alphabetically, provide a cross-reference to claim numbers, and, if appropriate, list claimants by category of claims;
+(D) were not timely filed;
 
-(3) state the grounds of the objection to each claim and provide a cross-reference to the pages in the omnibus objection pertinent to the stated grounds;
+(E) have been satisfied or released during the case in accordance with the Code, applicable rules, or a court order;
 
-(4) state in the title the identity of the objector and the grounds for the objections;
+(F) were presented in a form that does not comply with applicable rules and the objection states that the objector is therefore unable to determine a claim's validity;
+
+(G) are interests, not claims; or
+
+(H) assert a priority in an amount that exceeds the maximum amount allowable under §507.
+
+(e) Required Content of an Omnibus Objection. An omnibus objection must:
+
+(1) state in a conspicuous place that claim holders can find their names and claims in the objection;
+
+(2) list the claim holders alphabetically, provide a cross-reference to claim numbers, and, if appropriate, list claim holders by category of claims;
+
+(3) state for each claim the grounds for the objection and provide a cross-reference to the pages where pertinent information about the grounds appears;
+
+(4) state in the title the objector's identity and the grounds for the objections;
 
 (5) be numbered consecutively with other omnibus objections filed by the same objector; and
 
 (6) contain objections to no more than 100 claims.
 
-(f) Finality of Objection. The finality of any order regarding a claim objection included in an omnibus objection shall be determined as though the claim had been subject to an individual objection.
+(f) Finality of an Order When Objections Are Joined. When objections are joined, the finality of an order regarding any claim must be determined as though the claim had been subject to an individual objection.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 14, 2021, eff. Dec. 1, 2021.)
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3770,13 +4876,19 @@ As amended, subdivision (a) no longer requires that a hearing be scheduled or he
 
 Subdivision (a)(2)(A)(ii) is amended to clarify that the special service method required by Rule 7004(h) must be used for service of objections to claims only on insured depository institutions as defined in section 3 of the Federal Deposit Insurance Act, 12 U.S.C. §1813. Rule 7004(h) was enacted by Congress as part of the Bankruptcy Reform Act of 1994. It applies only to insured depository institutions that are insured by the Federal Deposit Insurance Corporation and does not include credit unions, which are instead insured by the National Credit Union Administration. A credit union, therefore, may be served with an objection to a claim according to Rule 3007(a)(2)(A)—by first-class mail sent to the person designated for receipt of notice on the credit union's proof of claim.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 3007 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 Section 3 of the Federal Deposit Insurance Act, referred to in subd. (a)(2)(A)(ii), is classified to section 1813 of Title 12, Banks and Banking.
 
-### Rule 3008. Reconsideration of Claims ###
+### Rule 3008. Reconsidering an Order Allowing or Disallowing a Claim ###
 
-A party in interest may move for reconsideration of an order allowing or disallowing a claim against the estate. The court after a hearing on notice shall enter an appropriate order.
+A party in interest may move to reconsider an order allowing or disallowing a claim. After notice and a hearing, the court must issue an appropriate order.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3788,11 +4900,19 @@ A proof of claim executed and filed in accordance with the rules in this Part II
 
 The rule expands §502(j) which provides for reconsideration of an allowance only before the case is closed. Authorities have disagreed as to whether reconsideration may be had after a case has been reopened. Compare 3 Collier *Bankruptcy* 57.23[4] (14th ed. 1964), see generally 3 *id*. 502.10 (15th ed. 1979), with 2 Remington, *Bankruptcy* 498 (Henderson ed. 1956). If a case is reopened as provided in §350(b) of the Code, reconsideration of the allowance or disallowance of a claim may be sought and granted in accordance with this rule.
 
-### Rule 3009. Declaration and Payment of Dividends in a Chapter 7 Liquidation Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-In a chapter 7 case, dividends to creditors shall be paid as promptly as practicable. Dividend checks shall be made payable to and mailed to each creditor whose claim has been allowed, unless a power of attorney authorizing another entity to receive dividends has been executed and filed in accordance with Rule 9010. In that event, dividend checks shall be made payable to the creditor and to the other entity and shall be mailed to the other entity.
+The language of Rule 3008 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Aug. 1, 1993.)
+### Rule 3009. Chapter 7—Paying Dividends ###
+
+In a Chapter 7 case, dividends to creditors on claims that have been allowed must be paid as soon as practicable. A dividend check must be made payable to and mailed to the creditor. But if a power of attorney authorizing another entity to receive payment has been filed under Rule 9010, the check must be:
+
+(a) made payable to both the creditor and the other entity; and
+
+(b) mailed to the other entity.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3806,13 +4926,17 @@ The rule does not permit variance at local option. This represents a marked chan
 
 This rule is amended to delete the requirement that the court approve the amounts and times of distributions in chapter 7 cases. This change recognizes the role of the United States trustee in supervising trustees. Other amendments are stylistic and make no substantive change.
 
-### Rule 3010. Small Dividends and Payments in Cases Under Chapter 7, Subchapter V of Chapter 11, Chapter 12, and Chapter 13 ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Chapter 7 Cases. In a chapter 7 case no dividend in an amount less than $5 shall be distributed by the trustee to any creditor unless authorized by local rule or order of the court. Any dividend not distributed to a creditor shall be treated in the same manner as unclaimed funds as provided in §347 of the Code.
+The language of Rule 3009 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Cases Under Subchapter V of Chapter 11, Chapter 12, and Chapter 13. In a case under subchapter V of chapter 11, chapter 12, or chapter 13, no payment in an amount less than $15 shall be distributed by the trustee to any creditor unless authorized by local rule or order of the court. Funds not distributed because of this subdivision shall accumulate and shall be paid whenever the accumulation aggregates $15. Any funds remaining shall be distributed with the final payment.
+### Rule 3010. Chapter 7, Subchapter V of Chapter 11, Chapter 12, and Chapter 13— Limits on Small Dividends and Payments ###
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 2022, eff. Dec. 1, 2022.)
+(a) Chapter 7. In a Chapter 7 case, the trustee must not distribute to a creditor any dividend less than $5 unless authorized to do so by local rule or court order. A dividend not distributed must be treated in the same manner as unclaimed funds under §347.
+
+(b) Subchapter V of Chapter 11, Chapter 12, and Chapter 13. In a case under Subchapter V of Chapter 11, or under Chapter 12 or 13, the trustee must not distribute to a creditor any payment less than $15 unless authorized to do so by local rule or court order. Distribution must be made when accumulated funds total $15 or more. Any remaining funds must be distributed with the final payment.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3826,13 +4950,21 @@ This rule permits a court to eliminate the disproportionate expense and inconven
 
 The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. To avoid the undue cost and inconvenience of distributing small payments, the title and subdivision (b) are amended to include subchapter V cases.
 
-### Rule 3011. Unclaimed Funds in Cases Under Chapter 7, Subchapter V of Chapter 11, Chapter 12, and Chapter 13 ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) The trustee shall file a list of all known names and addresses of the entities and the amounts which they are entitled to be paid from remaining property of the estate that is paid into court pursuant to §347 <sup><a href="#Rule_3011_1_target" name="Rule_3011_1">1</a></sup> of the Code.
+The language of Rule 3010 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) On the court's website, the clerk must provide searchable access to information about funds deposited under §347(a). The court may, for cause, limit access to information about funds in a specific case.
+### Rule 3011. Chapter 7, Subchapter V of Chapter 11, Chapter 12, and Chapter 13—Listing Unclaimed Funds ###
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023.)
+(a) Filing the List. The trustee must:
+
+(1) file a list of the known names and addresses of entities entitled to payment from any remaining property of the estate that is paid into court under §347(a); and
+
+(2) include the amount due each entity.
+
+(b) Making the Information Searchable. On the court's website, the clerk must provide searchable access to information about funds deposited under §347(a). The court may, for cause, limit access to that information in a specific case.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3850,21 +4982,31 @@ The rule is amended in response to the enactment of the Small Business Reorganiz
 
 Rule 3011 is amended to require the clerk to provide searchable access (as by providing a link to the U.S. Bankruptcy Unclaimed Funds Locator) on the court's website to information about unclaimed funds deposited pursuant to §347(a). The court may limit access to information about such funds in a specific case for cause, including, for example, if such access risks disclosing the identity of claimants whose privacy should be protected, or if the information about the unclaimed funds is so old as to be unreliable.
 
-[<sup>1</sup> So in House Document 118–32. Probably should be "§347(a)". Prior to amendment, such reference was to "§347(a)", and while proposed amendment in House Document 118–32 contained only "§347", it did not explicitly delete "(a)".](#Rule_3011_1)
+#### Committee Notes on Rules—2024 Amendment ####
 
-### Rule 3012. Determining the Amount of Secured and Priority Claims ###
+The language of Rule 3011 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(a) Determination of Amount of Claim. On request by a party in interest and after notice—to the holder of the claim and any other entity the court designates—and a hearing, the court may determine:
+### Rule 3012. Determining the Amount of a Secured or Priority Claim ###
 
-(1) the amount of a secured claim under §506(a) of the Code; or
+(a) In General. On a party in interest's request, after notice and a hearing, the court may determine the amount of a secured claim under §506(a) or the amount of a priority claim under §507. The notice must be served on:
 
-(2) the amount of a claim entitled to priority under §507 of the Code.
+• the claim holder; and
 
-(b) Request for Determination; How Made. Except as provided in subdivision (c), a request to determine the amount of a secured claim may be made by motion, in a claim objection, or in a plan filed in a chapter 12 or chapter 13 case. When the request is made in a chapter 12 or chapter 13 plan, the plan shall be served on the holder of the claim and any other entity the court designates in the manner provided for service of a summons and complaint by Rule 7004. A request to determine the amount of a claim entitled to priority may be made only by motion after a claim is filed or in a claim objection.
+• any other entity the court designates.
 
-(c) Claims of Governmental Units. A request to determine the amount of a secured claim of a governmental unit may be made only by motion or in a claim objection after the governmental unit files a proof of claim or after the time for filing one under Rule 3002(c)(1) has expired.
+(b) Determining the Amount of a Claim.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 27, 2017, eff. Dec. 1, 2017.)
+(1) *Secured Claim*. Except as provided in (c), a request to determine the amount of a secured claim may be made by motion, in an objection to a claim, or in a plan filed in a Chapter 12 or 13 case. If the request is included in a plan, a copy of the plan must be served on the claim holder and any other entity the court designates as if it were a summons and complaint under Rule 7004.
+
+(2) *Priority Claim*. A request to determine the amount of a priority claim may be made only by motion after the claim is filed or in an objection to the claim.
+
+(c) Governmental Unit's Secured Claim. A request to determine the amount of a governmental unit's secured claim may be made only by motion—or in an objection to a claim—filed after:
+
+(1) the governmental unit has filed the proof of claim; or
+
+(2) the time to file it under Rule 3002(c)(1) has expired.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3882,11 +5024,15 @@ Subdivision (b) is added to provide that a request to determine the amount of a 
 
 Subdivision (c) clarifies that a determination under this rule with respect to a secured claim of a governmental unit may be made only by motion or in a claim objection, but not until the governmental unit has filed a proof of claim or its time for filing a proof of claim has expired.
 
-### Rule 3013. Classification of Claims and Interests ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-For the purposes of the plan and its acceptance, the court may, on motion after hearing on notice as the court may direct, determine classes of creditors and equity security holders pursuant to §§1122, 1222(b)(1), and 1322(b)(1) of the Code.
+The language of Rule 3012 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991.)
+### Rule 3013. Determining Classes of Creditors and Equity Security Holders ###
+
+For purposes of a plan and its acceptance, the court may—on motion after hearing on notice as the court orders—determine classes of creditors and equity security holders under §§1122, 1222(b)(1), and 1322(b)(1).
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3896,11 +5042,21 @@ Sections 1122 and 1322(b)(1) set the standards for classifying claims and intere
 
 This rule is amended to include chapter 12 cases.
 
-### Rule 3014. Election Under §1111(b) by Secured Creditor in Chapter 9 Municipality or Chapter 11 Reorganization Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-An election of application of §1111(b)(2) of the Code by a class of secured creditors in a chapter 9 or 11 case may be made at any time prior to the conclusion of the hearing on the disclosure statement or within such later time as the court may fix. If the disclosure statement is conditionally approved pursuant to Rule 3017.1, and a final hearing on the disclosure statement is not held, the election of application of §1111(b)(2) may be made not later than the date fixed pursuant to Rule 3017.1(a)(2) or another date the court may fix. In a case under subchapter V of chapter 11 in which §1125 of the Code does not apply, the election may be made not later than a date the court may fix. The election shall be in writing and signed unless made at the hearing on the disclosure statement. The election, if made by the majorities required by §1111(b)(1)(A)(i), shall be binding on all members of the class with respect to the plan.
+The language of Rule 3013 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 11, 2022, eff. Dec. 1, 2022.)
+### Rule 3014. Chapter 9 or 11—Secured Creditors' Election to Apply §1111(b) ###
+
+(a) Time for an Election.
+
+(1) *Chapter 9 or 11*. In a Chapter 9 or 11 case, before a hearing on the disclosure statement concludes, a class of secured creditors may elect to apply §1111(b)(2). If the disclosure statement is conditionally approved under Rule 3017.1 and a final hearing on it is not held, the election must be made within the time provided in Rule 3017.1(a)(2). In either situation, the court may set another time for the election.
+
+(2) *Subchapter V of Chapter 11*. In a case under Subchapter V of Chapter 11 in which §1125 does not apply, the election may be made no later than a date the court sets.
+
+(b) Signed Writing; Binding Effect. The election must be made in writing and signed, unless made at the hearing on the disclosure statement. An election made by the majorities required by §1111(b)(1)(A)(i) is binding on all members of the class.
+
+(As amended Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3922,29 +5078,67 @@ This amendment provides a deadline for electing application of §1111(b)(2) in a
 
 The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. Because there generally will not be a disclosure statement in a subchapter V case, *see* §1181(b) of the Code, the rule is amended to provide a deadline for making an election under §1111(b) in such cases that is set by the court.
 
-### Rule 3015. Filing, Objection to Confirmation, Effect of Confirmation, and Modification of a Plan in a Chapter 12 or a Chapter 13 Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Filing a Chapter 12 Plan. The debtor may file a chapter 12 plan with the petition. If a plan is not filed with the petition, it shall be filed within the time prescribed by §1221 of the Code.
+The language of Rule 3014 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Filing a Chapter 13 Plan. The debtor may file a chapter 13 plan with the petition. If a plan is not filed with the petition, it shall be filed within 14 days thereafter, and such time may not be further extended except for cause shown and on notice as the court may direct. If a case is converted to chapter 13, a plan shall be filed within 14 days thereafter, and such time may not be further extended except for cause shown and on notice as the court may direct.
+### Rule 3015. Chapter 12 or 13—Time to File a Plan; Nonstandard Provisions; Objection to Confirmation; Effect of Confirmation; Modifying a Plan ###
 
-(c) Form of Chapter 13 Plan. If there is an Official Form for a plan filed in a chapter 13 case, that form must be used unless a Local Form has been adopted in compliance with Rule 3015.1. With either the Official Form or a Local Form, a nonstandard provision is effective only if it is included in a section of the form designated for nonstandard provisions and is also identified in accordance with any other requirements of the form. As used in this rule and the Official Form or a Local Form, "nonstandard provision" means a provision not otherwise included in the Official or Local Form or deviating from it.
+(a) Time to File a Chapter 12 Plan. The debtor must file a Chapter 12 plan:
 
-(d) Notice. If the plan is not included with the notice of the hearing on confirmation mailed under Rule 2002, the debtor shall serve the plan on the trustee and all creditors when it is filed with the court.
+(1) with the petition; or
 
-(e) Transmission to United States Trustee. The clerk shall forthwith transmit to the United States trustee a copy of the plan and any modification thereof filed under subdivision (a) or (b) of this rule.
+(2) within the time prescribed by §1221.
 
-(f) Objection to Confirmation; Determination of Good Faith in the Absence of an Objection. An objection to confirmation of a plan shall be filed and served on the debtor, the trustee, and any other entity designated by the court, and shall be transmitted to the United States trustee, at least seven days before the date set for the hearing on confirmation, unless the court orders otherwise. An objection to confirmation is governed by Rule 9014. If no objection is timely filed, the court may determine that the plan has been proposed in good faith and not by any means forbidden by law without receiving evidence on such issues.
+(b) Time to File a Chapter 13 Plan.
 
-(g) Effect of Confirmation. Upon the confirmation of a chapter 12 or chapter 13 plan:
+(1) *In General*. The debtor must file a Chapter 13 plan with the petition or within 14 days after the petition is filed. The time to file must not be extended except for cause and on notice as the court orders.
 
-(1) any determination in the plan made under Rule 3012 about the amount of a secured claim is binding on the holder of the claim, even if the holder files a contrary proof of claim or the debtor schedules that claim, and regardless of whether an objection to the claim has been filed; and
+(2) *Case Converted to Chapter 13*. If a case is converted to Chapter 13, the plan must be filed within 14 days after conversion. The time must not be extended except for cause and on notice as the court orders.
 
-(2) any request in the plan to terminate the stay imposed by §362(a), §1201(a), or §1301(a) is granted.
+(c) Form of a Chapter 13 Plan.
 
-(h) Modification of Plan After Confirmation. A request to modify a plan under §1229 or §1329 of the Code shall identify the proponent and shall be filed together with the proposed modification. The clerk, or some other person as the court may direct, shall give the debtor, the trustee, and all creditors not less than 21 days' notice by mail of the time fixed for filing objections and, if an objection is filed, the hearing to consider the proposed modification, unless the court orders otherwise with respect to creditors who are not affected by the proposed modification. A copy of the notice shall be transmitted to the United States trustee. A copy of the proposed modification, or a summary thereof, shall be included with the notice. Any objection to the proposed modification shall be filed and served on the debtor, the trustee, and any other entity designated by the court, and shall be transmitted to the United States trustee. An objection to a proposed modification is governed by Rule 9014.
+(1) *In General*. In filing a Chapter 13 plan, the debtor must use Form 113, unless the court has adopted a local form under Rule 3015.1.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 27, 2017, eff. Dec. 1, 2017.)
+(2) *Nonstandard Provision*. With either form, a nonstandard provision is effective only if it is included in the section of the form that is designated for nonstandard provisions and is identified in accordance with any other requirements of the form. A nonstandard provision is one that is not included in the form or deviates from it.
+
+(d) Serving a Copy of the Plan. If the plan was not included with the notice of a confirmation hearing mailed under Rule 2002, the debtor must serve the plan on the trustee and creditors when it is filed.
+
+(e) Copy to the United States Trustee. The clerk must promptly send to the United States trustee a copy of any plan filed under (a) or (b) or any modification of it.
+
+(f) Objection to Confirmation; Determining Good Faith When No Objection is Filed.
+
+(1) *Serving an Objection*. An entity that objects to a plan's confirmation must file and serve the objection on the debtor, trustee, and any other entity the court designates, and must send a copy to the United States trustee. Unless the court orders otherwise, the objection must be filed, served, and sent at least 7 days before the date set for the confirmation hearing. The objection is governed by Rule 9014.
+
+(2) *When No Objection Is Filed*. If no objection is timely filed, the court may, without receiving evidence, determine that the plan has been proposed in good faith and not by any means forbidden by law.
+
+(g) Effect of Confirmation of a Chapter 12 or 13 Plan on the Amount of a Secured Claim; Terminating the Stay.
+
+(1) *Secured Claim*. When a plan is confirmed, the amount of a secured claim—determined in the plan under Rule 3012—becomes binding on the claim holder. That is the effect even if the holder files a contrary proof of claim, the debtor schedules that claim, or an objection to the claim is filed.
+
+(2) *Terminating the Stay*. When a plan is confirmed, a request in the plan to terminate the stay imposed under §362(a), §1201(a), or §1301(a) is granted.
+
+(h) Modifying a Plan After It Is Confirmed.
+
+(1) *Request to Modify a Plan After It Is Confirmed*. A request to modify a confirmed plan under §1229 or §1329 must identify the proponent and include the proposed modification. Unless the court orders otherwise for creditors not affected by the modification, the clerk or the court's designee must:
+
+(A) give the debtor, trustee, and creditors at least 21 days' notice, by mail, of the time to file objections and the date of any hearing;
+
+(B) send a copy of the notice to the United States trustee; and
+
+(C) include a copy or summary of the modification.
+
+(2) *Objecting to a Modification*. Rule 9014 governs an objection to a proposed modification. An objection must be filed and served on:
+
+• the debtor;
+
+• the trustee; and
+
+• any other entity the court designates.
+
+A copy must also be sent to the United States trustee.
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -3996,39 +5190,43 @@ Subdivision (g) is amended to set out two effects of confirmation. Subdivision (
 
 Subdivision (h) was formerly subdivision (g). It is redesignated and is amended to reflect that often the party proposing a plan modification is responsible for serving the proposed modification on other parties. The option to serve a summary of the proposed modification has been retained. Unless required by another rule, service under this subdivision does not need to be made in the manner provided for service of a summons and complaint by Rule 7004.
 
-### Rule 3015.1. Requirements for a Local Form for Plans Filed in a Chapter 13 Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-Notwithstanding Rule 9029(a)(1), a district may require that a Local Form for a plan filed in a chapter 13 case be used instead of an Official Form adopted for that purpose if the following conditions are satisfied:
+The language of Rule 3015 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(a) a single Local Form is adopted for the district after public notice and an opportunity for public comment;
+### Rule 3015.1.<sup><a href="#Rule_3015_1_target" name="Rule_3015_1">1</a></sup> Requirements for a Local Form for a Chapter 13 Plan ###
 
-(b) each paragraph is numbered and labeled in boldface type with a heading stating the general subject matter of the paragraph;
+As an exception to Rule 9029(a)(1), a district may require that a single local form be used for a Chapter 13 plan instead of Form 113 if it:
 
-(c) the Local Form includes an initial paragraph for the debtor to indicate that the plan does or does not:
+(a) is adopted for the district after public notice and an opportunity for comment;
 
-(1) contain any nonstandard provision;
+(b) numbers and labels each paragraph in boldface type with a heading that states its general subject matter;
 
-(2) limit the amount of a secured claim based on a valuation of the collateral for the claim; or
+(c) includes an opening paragraph for the debtor to indicate that the plan does or does not:
+
+(1) contain a nonstandard provision;
+
+(2) limit the amount of a secured claim based on a valuation of the collateral; or
 
 (3) avoid a security interest or lien;
 
-(d) the Local Form contains separate paragraphs for:
+(d) contains separate paragraphs relating to:
 
 (1) curing any default and maintaining payments on a claim secured by the debtor's principal residence;
 
-(2) paying a domestic-support obligation;
+(2) paying a domestic support obligation;
 
-(3) paying a claim described in the final paragraph of §1325(a) of the Bankruptcy Code; and
+(3) paying a claim described in the final paragraph of §1325(a); and
 
-(4) surrendering property that secures a claim with a request that the stay under §§362(a) and 1301(a) be terminated as to the surrendered collateral; and
+(4) surrendering property that secures a claim and requesting that the stay under §362(a) or 1301(a) related to the property be terminated; and
 
-(e) the Local Form contains a final paragraph for:
+(e) contains a final paragraph providing a place for:
 
-(1) the placement of nonstandard provisions, as defined in Rule 3015(c), along with a statement that any nonstandard provision placed elsewhere in the plan is void; and
+(1) nonstandard provisions as defined in Rule 3015(c), with a warning that any nonstandard provision placed elsewhere is void; and
 
-(2) certification by the debtor's attorney or by an unrepresented debtor that the plan contains no nonstandard provision other than those set out in the final paragraph.
+(2) a certification by the debtor's attorney, or by an unrepresented debtor, that the plan does not contain any nonstandard provision except as set out in the final paragraph.
 
-(Added Apr. 27, 2017, eff. Dec. 1, 2017.)
+(Added Apr. 27, 2017, eff. Dec. 1, 2017; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2017 ####
 
@@ -4042,17 +5240,31 @@ The rule requires that a Local Form begin with a paragraph for the debtor to cal
 
 The last paragraph of a Local Form must be for the inclusion of any nonstandard provisions, as defined by Rule 3015(c), and must include a statement that nonstandard provisions placed elsewhere in the plan are void. This part gives the debtor the opportunity to propose provisions that are not otherwise in, or that deviate from, the Local Form. The form must also require a certification by the debtor's attorney or unrepresented debtor that there are no nonstandard provisions other than those placed in the final paragraph.
 
-### Rule 3016. Filing of Plan and Disclosure Statement in a Chapter 9 Municipality or Chapter 11 Reorganization Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Identification of Plan. Every proposed plan and any modification thereof shall be dated and, in a chapter 11 case, identified with the name of the entity or entities submitting or filing it.
+The language of Rule 3015.1 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Disclosure Statement. In a chapter 9 or 11 case, a disclosure statement, if required under §1125 of the Code, or evidence showing compliance with §1126(b) shall be filed with the plan or within a time fixed by the court, unless the plan is intended to provide adequate information under §1125(f)(1). If the plan is intended to provide adequate information under §1125(f)(1), it shall be so designated, and Rule 3017.1 shall apply as if the plan is a disclosure statement.
+[<sup>1</sup> Second period editorially added.](#Rule_3015.1_1)
 
-(c) Injunction Under a Plan. If a plan provides for an injunction against conduct not otherwise enjoined under the Code, the plan and disclosure statement shall describe in specific and conspicuous language (bold, italic, or underlined text) all acts to be enjoined and identify the entities that would be subject to the injunction.
+### Rule 3016. Chapter 9 or 11—Plan and Disclosure Statement ###
 
-(d) Standard Form Small Business Disclosure Statement and Plan. In a small business case or a case under subchapter V of chapter 11, the court may approve a disclosure statement and may confirm a plan that conform substantially to the appropriate Official Forms or other standard forms approved by the court.
+(a) In General. In a Chapter 9 or 11 case, every proposed plan or modification must be dated. In a Chapter 11 case, the plan or modification must also name the entity or entities proposing or filing it.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 11, 2022, eff. Dec. 1, 2022.)
+(b) Filing a Disclosure Statement.
+
+(1) *In General*. In a Chapter 9 or 11 case, unless (2) applies, the disclosure statement, if required by §1125—or evidence showing compliance with §1126(b)—must be filed with the plan or at another time set by the court.
+
+(2) *Providing Information Under §1125(f)(1)*. A plan intended to provide adequate information under §1125(f)(1) must be so designated. Rule 3017.1 then applies as if the plan were a disclosure statement.
+
+(c) Injunction in a Plan. If the plan provides for an injunction against conduct not otherwise enjoined by the Code, the plan and disclosure statement must:
+
+(1) describe in specific and conspicuous language (bold, italic, or underlined text) all acts to be enjoined; and
+
+(2) identify the entities that would be subject to the injunction.
+
+(d) Form of a Disclosure Statement and Plan in a Small Business Case or a Case Under Subchapter V of Chapter 11. In a small business case or a case under Subchapter V of Chapter 11, the court may approve a disclosure statement that substantially conforms to Form 425B and confirm a plan that substantially conforms to Form 425A—or, in either instance, to a standard form approved by the court.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4106,35 +5318,105 @@ Other amendments are stylistic.
 
 The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. Subdivision (b) of the rule is amended to reflect that under §1181(b) of the Code, §1125 does not apply to subchapter V cases (and thus a disclosure statement is not required) unless the court for cause orders otherwise. Subdivision (d) is amended to include subchapter V cases as ones in which Official Forms are available for a reorganization plan and, when required, a disclosure statement.
 
-### Rule 3017. Court Consideration of Disclosure Statement in a Chapter 9 Municipality or Chapter 11 Reorganization Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Hearing on Disclosure Statement and Objections. Except as provided in Rule 3017.1, after a disclosure statement is filed in accordance with Rule 3016(b), the court shall hold a hearing on at least 28 days' notice to the debtor, creditors, equity security holders and other parties in interest as provided in Rule 2002 to consider the disclosure statement and any objections or modifications thereto. The plan and the disclosure statement shall be mailed with the notice of the hearing only to the debtor, any trustee or committee appointed under the Code, the Securities and Exchange Commission and any party in interest who requests in writing a copy of the statement or plan. Objections to the disclosure statement shall be filed and served on the debtor, the trustee, any committee appointed under the Code, and any other entity designated by the court, at any time before the disclosure statement is approved or by an earlier date as the court may fix. In a chapter 11 reorganization case, every notice, plan, disclosure statement, and objection required to be served or mailed pursuant to this subdivision shall be transmitted to the United States trustee within the time provided in this subdivision.
+The language of Rule 3016 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Determination on Disclosure Statement. Following the hearing the court shall determine whether the disclosure statement should be approved.
+### Rule 3017. Chapter 9 or 11—Hearing on a Disclosure Statement and Plan ###
 
-(c) Dates Fixed for Voting on Plan and Confirmation. On or before approval of the disclosure statement, the court shall fix a time within which the holders of claims and interests may accept or reject the plan and may fix a date for the hearing on confirmation.
+(a) Hearing on a Disclosure Statement; Objections.
 
-(d) Transmission and Notice to United States Trustee, Creditors, and Equity Security Holders. Upon approval of a disclosure statement,— <sup><a href="#Rule_3017_1_target" name="Rule_3017_1">1</a></sup> except to the extent that the court orders otherwise with respect to one or more unimpaired classes of creditors or equity security holders—the debtor in possession, trustee, proponent of the plan, or clerk as the court orders shall mail to all creditors and equity security holders, and in a chapter 11 reorganization case shall transmit to the United States trustee,
+(1) *Notice and Hearing.*
 
-(1) the plan or a court-approved summary of the plan;
+(A) *Notice*. Except as provided in Rule 3017.1 for a small business case, the court must hold a hearing on a disclosure statement filed under Rule 3016(b) and any objection or modification to it. The hearing must be held on at least 28 days' notice under Rule 2002(b) to:
 
-(2) the disclosure statement approved by the court;
+• the debtor;
 
-(3) notice of the time within which acceptances and rejections of the plan may be filed; and
+• creditors;
 
-(4) any other information as the court may direct, including any court opinion approving the disclosure statement or a court-approved summary of the opinion.
+• equity security holders; and
 
-In addition, notice of the time fixed for filing objections and the hearing on confirmation shall be mailed to all creditors and equity security holders in accordance with Rule 2002(b), and a form of ballot conforming to the appropriate Official Form shall be mailed to creditors and equity security holders entitled to vote on the plan. If the court opinion is not transmitted or only a summary of the plan is transmitted, the court opinion or the plan shall be provided on request of a party in interest at the plan proponent's expense. If the court orders that the disclosure statement and the plan or a summary of the plan shall not be mailed to any unimpaired class, notice that the class is designated in the plan as unimpaired and notice of the name and address of the person from whom the plan or summary of the plan and disclosure statement may be obtained upon request and at the plan proponent's expense, shall be mailed to members of the unimpaired class together with the notice of the time fixed for filing objections to and the hearing on confirmation. For the purposes of this subdivision, creditors and equity security holders shall include holders of stock, bonds, debentures, notes, and other securities of record on the date the order approving the disclosure statement is entered or another date fixed by the court, for cause, after notice and a hearing.
+• other parties in interest.
 
-(e) Transmission to Beneficial Holders of Securities. At the hearing held pursuant to subdivision (a) of this rule, the court shall consider the procedures for transmitting the documents and information required by subdivision (d) of this rule to beneficial holders of stock, bonds, debentures, notes, and other securities, determine the adequacy of the procedures, and enter any orders the court deems appropriate.
+(B) *Limit on Sending the Plan and Disclosure Statement*. A copy of the plan and disclosure statement must be mailed with the notice of a hearing to:
 
-(f) Notice and Transmission of Documents to Entities Subject to an Injunction Under a Plan. If a plan provides for an injunction against conduct not otherwise enjoined under the Code and an entity that would be subject to the injunction is not a creditor or equity security holder, at the hearing held under Rule 3017(a), the court shall consider procedures for providing the entity with:
+• the debtor;
 
-(1) at least 28 days' notice of the time fixed for filing objections and the hearing on confirmation of the plan containing the information described in Rule 2002(c)(3); and
+• any trustee or appointed committee;
 
-(2) to the extent feasible, a copy of the plan and disclosure statement.
+• the Securities and Exchange Commission; and
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 26, 2009, eff. Dec. 1, 2009.)
+• any party in interest that, in writing, requests a copy of the disclosure statement or plan.
+
+(2) *Objecting to a Disclosure Statement*. An objection to a disclosure statement must be filed and served before the disclosure statement is approved or by an earlier date the court sets. The objection must be served on:
+
+• the debtor;
+
+• the trustee;
+
+• any appointed committee; and
+
+• any other entity the court designates.
+
+(3) *Chapter 11—Copies to the United States Trustee*. In a Chapter 11 case, a copy of every item required to be served or mailed under this Rule 3017(a) must also be sent to the United States trustee within the prescribed time.
+
+(b) Court Ruling on the Disclosure Statement. After the hearing, the court must determine whether the disclosure statement should be approved.
+
+(c) Time to Accept or Reject a Plan and for the Confirmation Hearing. At the time or before the disclosure statement is approved, the court:
+
+(1) must set a deadline for the holders of claims and interests to accept or reject the plan; and
+
+(2) may set a date for a confirmation hearing.
+
+(d) Hearing on Confirmation.
+
+(1) *Sending the Plan and Related Documents.*
+
+(A) *In General*. After the disclosure statement has been approved, the court must order the debtor in possession, the trustee, the plan proponent, or the clerk to mail the following items to creditors and equity security holders and, in a Chapter 11 case, to send a copy of each to the United States trustee:
+
+(i) the court-approved disclosure statement;
+
+(ii) the plan or a court-approved summary of it;
+
+(iii) a notice of the time to file acceptances and rejections of the plan; and
+
+(iv) any other information as the court orders—including any opinion approving the disclosure statement or a court-approved summary of the opinion.
+
+(B) *Exception*. The court may vary the requirements for an unimpaired class of creditors or equity security holders.
+
+(2) *Time to Object to a Plan; Notice of the Confirmation Hearing*. Notice of the time to file an objection to a plan's confirmation and the date of the hearing on confirmation must be mailed to creditors and equity security holders in accordance with Rule 2002(b). A ballot that conforms to Form 314 must also be mailed to creditors and equity security holders who are entitled to vote on the plan. If the court's opinion is not sent (or only a summary of the plan was sent), a party in interest may request a copy of the opinion or plan, which must be provided at the plan proponent's expense.
+
+(3) *Notice to Unimpaired Classes*. If the court orders that the disclosure statement and plan (or the plan summary) not be mailed to an unimpaired class, a notice that the class has been designated as unimpaired must be mailed to the class members. The notice must show:
+
+(A) the name and address of the person from whom the plan (or summary) and the disclosure statement may be obtained at the plan proponent's expense;
+
+(B) the time to file an objection to the plan's confirmation; and
+
+(C) the date of the confirmation hearing.
+
+(4) *Definition of "Creditors" and "Equity Security Holders."* In this Rule 3017(d), "creditors" and "equity security holders" include record holders of stock, bonds, debentures, notes, and other securities on the date the order approving the disclosure statement is entered—or another date the court sets for cause and after notice and a hearing.
+
+(e) Procedure for Sending Information to Beneficial Holders of Securities. At the hearing under (a), the court must:
+
+(1) determine the adequacy of the procedures for sending the documents and information listed in (d)(1) to beneficial holders of stock, bonds, debentures, notes, and other securities; and
+
+(2) issue any appropriate orders.
+
+(f) Sending Information to Entities Subject to an Injunction.
+
+(1) *Timing of the Notice*. This Rule 3017(f) applies if, under a plan, an entity that is not a creditor or equity security holder is subject to an injunction against conduct not otherwise enjoined by the Code. At the hearing under (a), the court must consider procedures to provide the entity with at least 28 days' notice of:
+
+(A) the time to file an objection; and
+
+(B) the date of the confirmation hearing.
+
+(2) *Content of the Notice*. The notice must:
+
+(A) provide the information required by Rule 2002(c)(3); and
+
+(B) if feasible, include a copy of the plan and disclosure statement.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4200,31 +5482,43 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 • 25-day periods become 28-day periods
 
-[<sup>1</sup> So in original. The comma probably should not appear.](#Rule_3017_1)
+#### Committee Notes on Rules—2024 Amendment ####
 
-### Rule 3017.1. Court Consideration of Disclosure Statement in a Small Business Case or in a Case Under Subchapter V of Chapter 11 ###
+The language of Rule 3017 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(a) Conditional Approval of Disclosure Statement. In a small business case or in a case under subchapter V of chapter 11 in which the court has ordered that §1125 applies, the court may, on application of the plan proponent or on its own initiative, conditionally approve a disclosure statement filed in accordance with Rule 3016. On or before conditional approval of the disclosure statement, the court shall:
+### Rule 3017.1. Disclosure Statement in a Small Business Case or a Case Under Subchapter V of Chapter 11 ###
 
-(1) fix a time within which the holders of claims and interests may accept or reject the plan;
+(a) Conditionally Approving a Disclosure Statement. This section (a) applies in a small business case or in a case under Subchapter V of Chapter 11 in which the court has ordered that §1125 applies. The court may, on motion of the plan proponent or on its own, conditionally approve a disclosure statement filed under Rule 3016. On or before doing so, the court must:
 
-(2) fix a time for filing objections to the disclosure statement;
+(1) set the time within which the claim holders and interest holders may accept or reject the plan;
 
-(3) fix a date for the hearing on final approval of the disclosure statement to be held if a timely objection is filed; and
+(2) set the time to file an objection to the disclosure statement;
 
-(4) fix a date for the hearing on confirmation.
+(3) if a timely objection is filed, set the date to hold the hearing on final approval of the disclosure statement; and
 
-(b) Application of Rule 3017. Rule 3017(a), (b), (c), and (e) do not apply to a conditionally approved disclosure statement. Rule 3017(d) applies to a conditionally approved disclosure statement, except that conditional approval is considered approval of the disclosure statement for the purpose of applying Rule 3017(d).
+(4) set a date for the confirmation hearing.
 
-(c) Final Approval.
+(b) Effect of a Conditional Approval. Rule 3017(a)–(c) and (e) do not apply to a conditionally approved disclosure statement. But conditional approval is considered approval in applying Rule 3017(d).
 
-(1) *Notice*. Notice of the time fixed for filing objections and the hearing to consider final approval of the disclosure statement shall be given in accordance with Rule 2002 and may be combined with notice of the hearing on confirmation of the plan.
+(c) Time to File an Objection; Date of a Hearing.
 
-(2) *Objections*. Objections to the disclosure statement shall be filed, transmitted to the United States trustee, and served on the debtor, the trustee, any committee appointed under the Code and any other entity designated by the court at any time before final approval of the disclosure statement or by an earlier date as the court may fix.
+(1) *Notice*. Notice must be given under Rule 2002(b) of the time to file an objection and the date of a hearing to consider final approval of the disclosure statement. The notice may be combined with notice of the confirmation hearing.
 
-(3) *Hearing*. If a timely objection to the disclosure statement is filed, the court shall hold a hearing to consider final approval before or combined with the hearing on confirmation of the plan.
+(2) *Time to File an Objection to the Disclosure Statement*. An objection to the disclosure statement must be filed before it is finally approved or by an earlier date set by the court. The objection must be served on:
 
-(Added Apr. 11, 1997, eff. Dec. 1, 1997; amended Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 11, 2022, eff. Dec. 1, 2022.)
+• the debtor;
+
+• the trustee;
+
+• any appointed committee; and
+
+• any other entity the court designates.
+
+A copy must also be sent to the United States trustee.
+
+(3) *Hearing on an Objection to the Disclosure Statement*. If a timely objection to the disclosure statement is filed, the court must hold a hearing on final approval either before or combined with the confirmation hearing.
+
+(Added Apr. 11, 1997, eff. Dec. 1, 1997; amended Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1997 ####
 
@@ -4246,35 +5540,85 @@ As provided in the amendment to Rule 3016(b), a plan intended to provide adequat
 
 The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. The title and subdivision (a) of the rule are amended to cover such cases when the court orders that §1125 of the Code applies.
 
-### Rule 3017.2. Fixing of Dates by the Court in Subchapter V Cases in Which There Is No Disclosure Statement ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-In a case under subchapter V of chapter 11 in which §1125 does not apply, the court shall:
+The language of Rule 3017.1 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(a) fix a time within which the holders of claims and interests may accept or reject the plan;
+### Rule 3017.2. Setting Dates in a Case Under Subchapter V of Chapter 11 in Which There Is No Disclosure Statement ###
 
-(b) fix a date on which an equity security holder or creditor whose claim is based on a security must be the holder of record of the security in order to be eligible to accept or reject the plan;
+In a case under Subchapter V of Chapter 11 in which §1125 does not apply, the court must set:
 
-(c) fix a date for the hearing on confirmation; and
+(a) a time within which the holders of claims and interests may accept or reject the plan;
 
-(d) fix a date for transmitting the plan, notice of the time within which the holders of claims and interests may accept or reject it, and notice of the date for the hearing on confirmation.
+(b) a date on which an equity security holder or a creditor whose claim is based on a security must be the record holder of the security in order to be eligible to accept or reject the plan;
 
-(Added Apr. 11, 2022, eff. Dec. 1, 2022.)
+(c) a date for the hearing on confirmation; and
+
+(d) a date for sending the plan, notice of the time within which the holders of claims and interests may accept or reject it, and notice of the date for the hearing on confirmation.
+
+(Added Apr. 11, 2022, eff. Dec. 1, 2022; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2022 ####
 
 The rule is added in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. Because there generally will not be a disclosure statement in a subchapter V case, *see* §1181(b) of the Code, the rule is added to authorize the court in such a case to act at a time other than when a disclosure statement is approved to set certain times and dates.
 
-### Rule 3018. Acceptance or Rejection of Plan in a Chapter 9 Municipality or a Chapter 11 Reorganization Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Entities Entitled To Accept or Reject Plan; Time for Acceptance or Rejection. A plan may be accepted or rejected in accordance with §1126 of the Code within the time fixed by the court pursuant to Rule 3017, 3017.1, or 3017.2. Subject to subdivision (b) of this rule, an equity security holder or creditor whose claim is based on a security of record shall not be entitled to accept or reject a plan unless the equity security holder or creditor is the holder of record of the security on the date the order approving the disclosure statement is entered or on another date fixed by the court under Rule 3017.2, or fixed for cause after notice and a hearing. For cause shown, the court after notice and hearing may permit a creditor or equity security holder to change or withdraw an acceptance or rejection. Notwithstanding objection to a claim or interest, the court after notice and hearing may temporarily allow the claim or interest in an amount which the court deems proper for the purpose of accepting or rejecting a plan.
+The language of Rule 3017.2 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Acceptances or Rejections Obtained Before Petition. An equity security holder or creditor whose claim is based on a security of record who accepted or rejected the plan before the commencement of the case shall not be deemed to have accepted or rejected the plan pursuant to §1126(b) of the Code unless the equity security holder or creditor was the holder of record of the security on the date specified in the solicitation of such acceptance or rejection for the purposes of such solicitation. A holder of a claim or interest who has accepted or rejected a plan before the commencement of the case under the Code shall not be deemed to have accepted or rejected the plan if the court finds after notice and hearing that the plan was not transmitted to substantially all creditors and equity security holders of the same class, that an unreasonably short time was prescribed for such creditors and equity security holders to accept or reject the plan, or that the solicitation was not in compliance with §1126(b) of the Code.
+### Rule 3018. Chapter 9 or 11—Accepting or Rejecting a Plan ###
 
-(c) Form of Acceptance or Rejection. An acceptance or rejection shall be in writing, identify the plan or plans accepted or rejected, be signed by the creditor or equity security holder or an authorized agent, and conform to the appropriate Official Form. If more than one plan is transmitted pursuant to Rule 3017, an acceptance or rejection may be filed by each creditor or equity security holder for any number of plans transmitted and if acceptances are filed for more than one plan, the creditor or equity security holder may indicate a preference or preferences among the plans so accepted.
+(a) In General.
 
-(d) Acceptance or Rejection by Partially Secured Creditor. A creditor whose claim has been allowed in part as a secured claim and in part as an unsecured claim shall be entitled to accept or reject a plan in both capacities.
+(1) *Who May Accept or Reject a Plan*. Within the time set by the court under Rule 3017, 3017.1, or 3017.2, a claim holder or equity security holder may accept or reject a Chapter 9 or Chapter 11 plan under §1126.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 11, 2022, eff. Dec. 1, 2022.)
+(2) *Claim Based on a Security of Record*. Subject to (b), an equity security holder or creditor whose claim is based on a security of record may accept or reject a plan only if the equity security holder or creditor is the holder of record:
+
+(A) on the date the order approving the disclosure statement is entered; or
+
+(B) on another date the court sets:
+
+(i) under Rule 3017.2; or
+
+(ii) after notice and a hearing and for cause.
+
+(3) *Changing or Withdrawing an Acceptance or Rejection*. After notice and a hearing and for cause, the court may permit a creditor or equity security holder to change or withdraw an acceptance or rejection.
+
+(4) *Temporarily Allowing a Claim or Interest*. Even if an objection to a claim or interest has been filed, the court may, after notice and a hearing, temporarily allow a claim or interest in an amount that the court considers proper for voting to accept or reject a plan.
+
+(b) Treatment of Acceptances or Rejections Obtained Before the Petition Was Filed.
+
+(1) *Acceptance or Rejection by a Nonholder of Record*. An equity security holder or creditor who accepted or rejected a plan before the petition was filed will not be considered to have accepted or rejected the plan under §1126(b) if the equity security holder or creditor:
+
+(A) has a claim or interest based on a security of record; and
+
+(B) was not the security's holder of record on the date specified in the solicitation of the acceptance or rejection.
+
+(2) *Defective Solicitations*. A holder of a claim or interest who accepted or rejected a plan before the petition was filed will not be considered to have accepted or rejected the plan if the court finds, after notice and a hearing, that:
+
+(A) the plan was not sent to substantially all creditors and equity security holders of the same class;
+
+(B) an unreasonably short time was prescribed for those creditors and equity security holders to accept or reject the plan; or
+
+(C) the solicitation did not comply with §1126(b).
+
+(c) Form for Accepting or Rejecting a Plan; Procedure When More Than One Plan Is Filed.
+
+(1) *Form*. An acceptance or rejection of a plan must:
+
+(A) be in writing;
+
+(B) identify the plan or plans;
+
+(C) be signed by the creditor or equity security holder—or an authorized agent; and
+
+(D) conform to Form 314.
+
+(2) *When More Than One Plan Is Distributed*. If more than one plan is sent under Rule 3017, a creditor or equity security holder may accept or reject one or more plans and may indicate preferences among those accepted.
+
+(d) Partially Secured Creditor. If a creditor's claim has been allowed in part as a secured claim and in part as an unsecured claim, the creditor may accept or reject a plan in both capacities.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4320,15 +5664,47 @@ If the court fixes the record date for voting purposes, the judge also should or
 
 Subdivision (a) of the rule is amended to take account of the court's authority to set times under Rules 3017.1 and 3017.2 in small business cases and cases under subchapter V of chapter 11.
 
-### Rule 3019. Modification of Accepted Plan in a Chapter 9 Municipality or a Chapter 11 Reorganization Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Modification of Plan Before Confirmation. In a chapter 9 or chapter 11 case, after a plan has been accepted and before its confirmation, the proponent may file a modification of the plan. If the court finds after hearing on notice to the trustee, any committee appointed under the Code, and any other entity designated by the court that the proposed modification does not adversely change the treatment of the claim of any creditor or the interest of any equity security holder who has not accepted in writing the modification, it shall be deemed accepted by all creditors and equity security holders who have previously accepted the plan.
+The language of Rule 3018 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Modification of Plan After Confirmation in Individual Debtor Case. If the debtor is an individual, a request to modify the plan under §1127(e) of the Code is governed by Rule 9014. The request shall identify the proponent and shall be filed together with the proposed modification. The clerk, or some other person as the court may direct, shall give the debtor, the trustee, and all creditors not less than 21 days' notice by mail of the time fixed to file objections and, if an objection is filed, the hearing to consider the proposed modification, unless the court orders otherwise with respect to creditors who are not affected by the proposed modification. A copy of the notice shall be transmitted to the United States trustee, together with a copy of the proposed modification. Any objection to the proposed modification shall be filed and served on the debtor, the proponent of the modification, the trustee, and any other entity designated by the court, and shall be transmitted to the United States trustee.
+### Rule 3019. Chapter 9 or 11—Modifying a Plan ###
 
-(c) Modification of Plan After Confirmation in a Subchapter V Case. In a case under subchapter V of chapter 11, a request to modify the plan under §1193(b) or (c) of the Code is governed by Rule 9014, and the provisions of this Rule 3019(b) apply.
+(a) Modifying a Plan Before Confirmation. In a Chapter 9 or 11 case, after a plan has been accepted and before confirmation, the plan proponent may file a modification. The modification is considered accepted by any creditor or equity security holder who has accepted it in writing. For others who have not accepted it in writing but have accepted the plan, the modification is considered accepted if, after notice and a hearing, the court finds that it does not adversely change the treatment of their claims or interests. The notice must be served on:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 11, 2022, eff. Dec. 1, 2022.)
+• the trustee;
+
+• any appointed committee; and
+
+• any other entity the court designates.
+
+(b) Modifying a Plan After Confirmation in an Individual Debtor's Chapter 11 Case.
+
+(1) *In General*. When a plan in an individual debtor's Chapter 11 case has been confirmed, a request to modify it under §1127(e) is governed by Rule 9014. The request must identify the proponent, and the proposed modification must be filed with it.
+
+(2) *Time to File an Objection; Service.*
+
+(A) *Time*. Unless the court orders otherwise for creditors who are not affected by the proposed modification, the clerk—or the court's designee—must give the debtor, trustee, and creditors at least 21 days' notice, by mail, of:
+
+(i) the time to file an objection; and
+
+(ii) if an objection is filed, the date of a hearing to consider the proposed modification.
+
+(B) *Service*. Any objection must be served on:
+
+• the debtor;
+
+• the entity proposing the modification;
+
+• the trustee; and
+
+• any other entity the court designates.
+
+A copy of the notice, modification, and objection must also be sent to the United States trustee.
+
+(c) Modifying a Plan After Confirmation in a Case Under Subchapter V of Chapter 11. In a case under Subchapter V of Chapter 11, Rule 9014 governs a request to modify the plan under §1193(b) or (c), and (b) of this rule applies.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4362,29 +5738,63 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 The rule is amended in response to the enactment of the Small Business Reorganization Act of 2019, Pub. L. No. 116–54, 133 Stat. 1079. That law gives a small business debtor the option of electing to be a debtor under subchapter V of chapter 11. Subdivision (c) is added to the rule to govern requests to modify a plan after confirmation in such cases under §1193(b) or (c) of the Code.
 
-### Rule 3020. Deposit; Confirmation of Plan in a Chapter 9 Municipality or Chapter 11 Reorganization Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Deposit. In a chapter 11 case, prior to entry of the order confirming the plan, the court may order the deposit with the trustee or debtor in possession of the consideration required by the plan to be distributed on confirmation. Any money deposited shall be kept in a special account established for the exclusive purpose of making the distribution.
+The language of Rule 3019 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Objection to and Hearing on Confirmation in a Chapter 9 or Chapter 11 Case.
+### Rule 3020. In a Chapter 11 Case, Depositing Funds Before the Plan is Confirmed; Confirmation in a Chapter 9 or 11 Case ###
 
-(1) *Objection*. An objection to confirmation of the plan shall be filed and served on the debtor, the trustee, the proponent of the plan, any committee appointed under the Code, and any other entity designated by the court, within a time fixed by the court. Unless the case is a chapter 9 municipality case, a copy of every objection to confirmation shall be transmitted by the objecting party to the United States trustee within the time fixed for filing objections. An objection to confirmation is governed by Rule 9014.
+(a) Chapter 11—Depositing Funds Before the Plan is Confirmed. Before a plan is confirmed in a Chapter 11 case, the court may order that the consideration required to be distributed upon confirmation be deposited with the trustee or debtor in possession. Any funds deposited must be kept in a special account established for the sole purpose of making the distribution.
 
-(2) *Hearing*. The court shall rule on confirmation of the plan after notice and hearing as provided in Rule 2002. If no objection is timely filed, the court may determine that the plan has been proposed in good faith and not by any means forbidden by law without receiving evidence on such issues.
+(b) Chapter 9 or 11—Objecting to Confirmation; Confirmation Hearing.
 
-(c) Order of Confirmation.
+(1) *Objecting to Confirmation*. In a Chapter 9 or 11 case, an objection to confirmation is governed by Rule 9014. The objection must be filed and served within the time set by the court and be served on:
 
-(1) The order of confirmation shall conform to the appropriate Official Form. If the plan provides for an injunction against conduct not otherwise enjoined under the Code, the order of confirmation shall (1) describe in reasonable detail all acts enjoined; (2) be specific in its terms regarding the injunction; and (3) identify the entities subject to the injunction.
+• the debtor;
 
-(2) Notice of entry of the order of confirmation shall be mailed promptly to the debtor, the trustee, creditors, equity security holders, other parties in interest, and, if known, to any identified entity subject to an injunction provided for in the plan against conduct not otherwise enjoined under the Code.
+• the trustee;
 
-(3) Except in a chapter 9 municipality case, notice of entry of the order of confirmation shall be transmitted to the United States trustee as provided in Rule 2002(k).
+• the plan proponent;
 
-(d) Retained Power. Notwithstanding the entry of the order of confirmation, the court may issue any other order necessary to administer the estate.
+• any appointed committee; and
 
-(e) Stay of Confirmation Order. An order confirming a plan is stayed until the expiration of 14 days after the entry of the order, unless the court orders otherwise.
+• any other entity the court designates.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(2) *Copy to the United States Trustee*. In a Chapter 11 case, the objecting party must send a copy of the objection to the United States trustee within the time set to file an objection.
+
+(3) *Hearing on the Objection; Procedure If No Objection Is Filed*. After notice and a hearing as provided in Rule 2002, the court must rule on confirmation. If no objection is timely filed, the court may, without receiving evidence, determine that the plan was proposed in good faith and not by any means forbidden by law.
+
+(c) Confirmation Order.
+
+(1) *Form of the Order; Injunctive Relief*. A confirmation order must conform to Form 315. If the plan provides for an injunction against conduct not otherwise enjoined under the Code, the order must:
+
+(A) describe the acts enjoined in reasonable detail;
+
+(B) be specific in its terms regarding the injunction; and
+
+(C) identify the entities subject to the injunction.
+
+(2) *Notice of Confirmation*. Notice of entry of a confirmation order must be promptly mailed to:
+
+• the debtor;
+
+• the trustee;
+
+• creditors;
+
+• equity security holders;
+
+• other parties in interest; and
+
+• if known, identified entities subject to an injunction described in (1).
+
+(3) *Copy to the United States Trustee*. In a Chapter 11 case, a copy of the order must be sent to the United States trustee under Rule 2002(k).
+
+(d) Retained Power to Issue Future Orders Relating to Administration. After a plan is confirmed, the court may continue to issue orders needed to administer the estate.
+
+(e) Staying a Confirmation Order. Unless the court orders otherwise, a confirmation order is stayed for 14 days after its entry.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4436,11 +5846,27 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 • 25-day periods become 28-day periods
 
-### Rule 3021. Distribution Under Plan ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-Except as provided in Rule 3020(e), after a plan is confirmed, distribution shall be made to creditors whose claims have been allowed, to interest holders whose interests have not been disallowed, and to indenture trustees who have filed claims under Rule 3003(c)(5) that have been allowed. For purposes of this rule, creditors include holders of bonds, debentures, notes, and other debt securities, and interest holders include the holders of stock and other equity securities, of record at the time of commencement of distribution, unless a different time is fixed by the plan or the order confirming the plan.
+The language of Rule 3020 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999.)
+### Rule 3021. Distributing Funds Under a Plan ###
+
+(a) In General. After confirmation and when any stay under Rule 3020(e) expires, payments under the plan must be distributed to:
+
+• creditors whose claims have been allowed;
+
+• interest holders whose interests have not been disallowed; and
+
+• indenture trustees whose claims under Rule 3003(c)(5) have been allowed.
+
+(b) Definition of "Creditors" and "Interest Holders." In this Rule 3021:
+
+(1) "creditors" include record holders of bonds, debentures, notes, and other debt securities as of the initial distribution date, unless the plan or confirmation order states a different date; and
+
+(2) "interest holders" include record holders of stock and other equity securities as of the initial distribution date, unless the plan or confirmation order states a different date.
+
+(As amended Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4460,11 +5886,15 @@ This amendment is to conform to the amendments to Rule 3020 regarding the ten-da
 
 *GAP Report on Rule 3021*. No changes since publication.
 
-### Rule 3022. Final Decree in Chapter 11 Reorganization Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-After an estate is fully administered in a chapter 11 reorganization case, the court, on its own motion or on motion of a party in interest, shall enter a final decree closing the case.
+The language of Rule 3021 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+### Rule 3022. Chapter 11—Final Decree ###
+
+After the estate is fully administered in a Chapter 11 case, the court must, on its own or on a party in interest's motion, enter a final decree closing the case.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4476,83 +5906,121 @@ Entry of a final decree closing a chapter 11 case should not be delayed solely b
 
 The court should not keep the case open only because of the possibility that the court's jurisdiction may be invoked in the future. A final decree closing the case after the estate is fully administered does not deprive the court of jurisdiction to enforce or interpret its own orders and does not prevent the court from reopening the case for cause pursuant to §350(b) of the Code. For example, on motion of a party in interest, the court may reopen the case to revoke an order of confirmation procured by fraud under §1144 of the Code. If the plan or confirmation order provides that the case shall remain open until a certain date or event because of the likelihood that the court's jurisdiction may be required for specific purposes prior thereto, the case should remain open until that date or event.
 
-### PART IV—THE DEBTOR: DUTIES AND BENEFITS ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-### Rule 4001. Relief from Automatic Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Property; Use of Cash Collateral; Obtaining Credit; Agreements ###
+The language of Rule 3022 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(a) Relief From Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Property.
+### PART IV—THE DEBTOR'S DUTIES AND BENEFITS ###
 
-(1) *Motion*. A motion for relief from an automatic stay provided by the Code or a motion to prohibit or condition the use, sale, or lease of property pursuant to §363(e) shall be made in accordance with Rule 9014 and shall be served on any committee elected pursuant to §705 or appointed pursuant to §1102 of the Code or its authorized agent, or, if the case is a chapter 9 municipality case or a chapter 11 reorganization case and no committee of unsecured creditors has been appointed pursuant to §1102, on the creditors included on the list filed pursuant to Rule 1007(d), and on such other entities as the court may direct.
+### Rule 4001. Relief from the Automatic Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Property; Using Cash Collateral; Obtaining Credit; Various Agreements ###
 
-(2) *Ex Parte Relief*. Relief from a stay under §362(a) or a request to prohibit or condition the use, sale, or lease of property pursuant to §363(e) may be granted without prior notice only if (A) it clearly appears from specific facts shown by affidavit or by a verified motion that immediate and irreparable injury, loss, or damage will result to the movant before the adverse party or the attorney for the adverse party can be heard in opposition, and (B) the movant's attorney certifies to the court in writing the efforts, if any, which have been made to give notice and the reasons why notice should not be required. The party obtaining relief under this subdivision and §362(f) or §363(e) shall immediately give oral notice thereof to the trustee or debtor in possession and to the debtor and forthwith mail or otherwise transmit to such adverse party or parties a copy of the order granting relief. On two days notice to the party who obtained relief from the stay without notice or on shorter notice to that party as the court may prescribe, the adverse party may appear and move reinstatement of the stay or reconsideration of the order prohibiting or conditioning the use, sale, or lease of property. In that event, the court shall proceed expeditiously to hear and determine the motion.
+(a) Relief from the Automatic Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Property.
 
-(3) *Stay of Order*. An order granting a motion for relief from an automatic stay made in accordance with Rule 4001(a)(1) is stayed until the expiration of 14 days after the entry of the order, unless the court orders otherwise.
+(1) *Motion*. A motion under §362(d) for relief from the automatic stay—or a motion under §363(e) to prohibit or condition the use, sale, or lease of property—must comply with Rule 9014. The motion must be served on:
 
-(b) Use of Cash Collateral.
+(A) the following, as applicable:
 
-(1) *Motion; Service*.
+• a committee elected under §705 or appointed under §1102;
 
-(A) *Motion*. A motion for authority to use cash collateral shall be made in accordance with Rule 9014 and shall be accompanied by a proposed form of order.
+• the committee's authorized agent; or
 
-(B) *Contents*. The motion shall consist of or (if the motion is more than five pages in length) begin with a concise statement of the relief requested, not to exceed five pages, that lists or summarizes, and sets out the location within the relevant documents of, all material provisions, including:
+• the creditors included on the list filed under Rule 1007(d) if the case is a Chapter 9 or Chapter 11 case and no committee of unsecured creditors has been appointed under §1102; and
 
-(i) the name of each entity with an interest in the cash collateral;
+(B) any other entity the court designates.
 
-(ii) the purposes for the use of the cash collateral;
+(2) *Relief Without Notice*. Relief from a stay under §362(a)—or a request under §363(e) to prohibit or condition the use, sale, or lease of property—may be granted without prior notice only if:
 
-(iii) the material terms, including duration, of the use of the cash collateral; and
+(A) specific facts—shown by either an affidavit or a verified motion—clearly demonstrate that the movant will suffer immediate and irreparable injury, loss, or damage before the adverse party or its attorney can be heard in opposition; and
 
-(iv) any liens, cash payments, or other adequate protection that will be provided to each entity with an interest in the cash collateral or, if no additional adequate protection is proposed, an explanation of why each entity's interest is adequately protected.
+(B) the movant's attorney certifies to the court in writing what efforts, if any, have been made to give notice and why it should not be required.
 
-(C) *Service*. The motion shall be served on: (1) any entity with an interest in the cash collateral; (2) any committee elected under §705 or appointed under §1102 of the Code, or its authorized agent, or, if the case is a chapter 9 municipality case or a chapter 11 reorganization case and no committee of unsecured creditors has been appointed under §1102, the creditors included on the list filed under Rule 1007(d); and (3) any other entity that the court directs.
+(3) *Notice of Relief; Motion for Reinstatement or Reconsideration.*
 
-(2) *Hearing*. The court may commence a final hearing on a motion for authorization to use cash collateral no earlier than 14 days after service of the motion. If the motion so requests, the court may conduct a preliminary hearing before such 14-day period expires, but the court may authorize the use of only that amount of cash collateral as is necessary to avoid immediate and irreparable harm to the estate pending a final hearing.
+(A) *Notice of Relief*. A party who obtains relief under (2) and under §362(f) or §363(e) must:
 
-(3) *Notice*. Notice of hearing pursuant to this subdivision shall be given to the parties on whom service of the motion is required by paragraph (1) of this subdivision and to such other entities as the court may direct.
+(i) immediately give oral notice both to the debtor and to the trustee or the debtor in possession; and
+
+(ii) promptly send them a copy of the order granting relief.
+
+(B) *Motion for Reinstatement or Reconsideration*. On 2 days' notice to the party who obtained relief under (2)—or on shorter notice as the court may order—the adverse party may move to reinstate the stay or reconsider the order prohibiting or conditioning the use, sale, or lease of property. The court must proceed expeditiously to hear and decide the motion.
+
+(4) *Stay of an Order Granting Relief from the Automatic Stay*. Unless the court orders otherwise, an order granting a motion for relief from the automatic stay under (1) is stayed for 14 days after it is entered.
+
+(b) Using Cash Collateral.
+
+(1) *Motion; Content; Service.*
+
+(A) *Motion*. A motion for authorization to use cash collateral must comply with Rule 9014 and must be accompanied by a proposed form of order.
+
+(B) *Content*. The motion must consist of—or if the motion exceeds five pages, begin with—a concise statement of the relief requested, no longer than five pages. The statement must list or summarize all material provisions (citing their locations in the relevant documents), including:
+
+• the name of each entity with an interest in the cash collateral;
+
+• how it will be used;
+
+• the material terms of its use, including duration; and
+
+• all liens, cash payments, or other adequate protection that will be provided to each entity with an interest in the cash collateral—or if no such protection is proposed, an explanation of how each entity's interest is adequately protected.
+
+(C) *Service*. The motion must be served on:
+
+• each entity with an interest in the cash collateral;
+
+• all those who must be served under (a)(1)(A); and
+
+• any other entity the court designates.
+
+(2) *Hearings; Notice.*
+
+(A) *Preliminary and Final Hearings*. The court may begin a final hearing on the motion no earlier than 14 days after it has been served. If the motion so requests, the court may conduct a preliminary hearing before that 14-day period ends. After a preliminary hearing, the court may authorize using only the cash collateral necessary to avoid immediate and irreparable harm to the estate pending a final hearing.
+
+(B) *Notice*. Notice of a hearing must be given to the parties who must be served with the motion under (1)(C) and to any other entity the court designates.
 
 (c) Obtaining Credit.
 
-(1) *Motion; Service*.
+(1) *Motion; Content; Service.*
 
-(A) *Motion*. A motion for authority to obtain credit shall be made in accordance with Rule 9014 and shall be accompanied by a copy of the credit agreement and a proposed form of order.
+(A) *Motion*. A motion for authorization to obtain credit must comply with Rule 9014 and must be accompanied by a copy of the credit agreement and a proposed form of order.
 
-(B) *Contents*. The motion shall consist of or (if the motion is more than five pages in length) begin with a concise statement of the relief requested, not to exceed five pages, that lists or summarizes, and sets out the location within the relevant documents of, all material provisions of the proposed credit agreement and form of order, including interest rate, maturity, events of default, liens, borrowing limits, and borrowing conditions. If the proposed credit agreement or form of order includes any of the provisions listed below, the concise statement shall also: briefly list or summarize each one; identify its specific location in the proposed agreement and form of order; and identify any such provision that is proposed to remain in effect if interim approval is granted, but final relief is denied, as provided under Rule 4001(c)(2). In addition, the motion shall describe the nature and extent of each provision listed below:
+(B) *Content*. The motion must consist of—or if the motion exceeds five pages, begin with—a concise statement of the relief requested, no longer than five pages. The statement must list or summarize all material provisions of the credit agreement and form of order (citing their locations in the relevant documents), including interest rates, maturity dates, default provisions, liens, and borrowing limits and conditions. If the credit agreement or form of order includes any of the provisions listed below in (i)–(xi), the concise statement must also list or summarize each one, describe its nature and extent, cite its location in the proposed agreement and form of order, and identify any that would remain effective if interim approval were to be granted but final relief denied under (2). The provisions are:
 
 (i) a grant of priority or a lien on property of the estate under §364(c) or (d);
 
-(ii) the providing of adequate protection or priority for a claim that arose before the commencement of the case, including the granting of a lien on property of the estate to secure the claim, or the use of property of the estate or credit obtained under §364 to make cash payments on account of the claim;
+(ii) the providing of adequate protection or priority for a claim that arose before the case commenced—including a lien on property of the estate, or its use, or of credit obtained under §364 to make cash payments on the claim;
 
-(iii) a determination of the validity, enforceability, priority, or amount of a claim that arose before the commencement of the case, or of any lien securing the claim;
+(iii) a determination of the validity, enforceability, priority, or amount of a claim that arose before the case commenced, or of any lien securing the claim;
 
-(iv) a waiver or modification of Code provisions or applicable rules relating to the automatic stay;
+(iv) a waiver or modification of Code provisions or applicable rules regarding the automatic stay;
 
-(v) a waiver or modification of any entity's authority or right to file a plan, seek an extension of time in which the debtor has the exclusive right to file a plan, request the use of cash collateral under §363(c), or request authority to obtain credit under §364;
+(v) a waiver or modification of an entity's right to file a plan, seek to extend the time in which the debtor has the exclusive right to file a plan, request the use of cash collateral under §363(c), or request authorization to obtain credit under §364;
 
-(vi) the establishment of deadlines for filing a plan of reorganization, for approval of a disclosure statement, for a hearing on confirmation, or for entry of a confirmation order;
+(vi) the establishment of deadlines for filing a plan of reorganization, approving a disclosure statement, holding a hearing on confirmation, or entering a confirmation order;
 
-(vii) a waiver or modification of the applicability of nonbankruptcy law relating to the perfection of a lien on property of the estate, or on the foreclosure or other enforcement of the lien;
+(vii) a waiver or modification of applicable nonbankruptcy law regarding perfecting or enforcing a lien on property of the estate;
 
-(viii) a release, waiver, or limitation on any claim or other cause of action belonging to the estate or the trustee, including any modification of the statute of limitations or other deadline to commence an action;
+(viii) a release, waiver, or limitation on a claim or other cause of action belonging to the estate or the trustee, including any modification of the statute of limitations or other deadline to commence an action;
 
 (ix) the indemnification of any entity;
 
 (x) a release, waiver, or limitation of any right under §506(c); or
 
-(xi) the granting of a lien on any claim or cause of action arising under §§544,<sup><a href="#Rule_4001_1_target" name="Rule_4001_1">1</a></sup> 545, 547, 548, 549, 553(b), 723(a), or 724(a).
+(xi) the granting of a lien on a claim or cause of action arising under §544, 545, 547, 548, 549, 553(b), 723(a), or 724(a).
 
-(C) *Service*. The motion shall be served on: (1) any committee elected under §705 or appointed under §1102 of the Code, or its authorized agent, or, if the case is a chapter 9 municipality case or a chapter 11 reorganization case and no committee of unsecured creditors has been appointed under §1102, on the creditors included on the list filed under Rule 1007(d); and (2) on any other entity that the court directs.
+(C) *Service*. The motion must be served on all those who must be served under (a)(1)(A) and any other entity the court designates.
 
-(2) *Hearing*. The court may commence a final hearing on a motion for authority to obtain credit no earlier than 14 days after service of the motion. If the motion so requests, the court may conduct a hearing before such 14-day period expires, but the court may authorize the obtaining of credit only to the extent necessary to avoid immediate and irreparable harm to the estate pending a final hearing.
+(2) *Hearings; Notice.*
 
-(3) *Notice*. Notice of hearing pursuant to this subdivision shall be given to the parties on whom service of the motion is required by paragraph (1) of this subdivision and to such other entities as the court may direct.
+(A) *Preliminary and Final Hearings*. The court may begin a final hearing on the motion no earlier than 14 days after it has been served. If the motion so requests, the court may conduct a preliminary hearing before that 14-day period ends. After a preliminary hearing, the court may authorize obtaining credit only to the extent necessary to avoid immediate and irreparable harm to the estate pending a final hearing.
 
-(4) *Inapplicability in a Chapter 13 Case*. This subdivision (c) does not apply in a chapter 13 case.
+(B) *Notice*. Notice of a hearing must be given to the parties who must be served with the motion under (1)(C) and to any other entity the court designates.
 
-(d) Agreement Relating to Relief From the Automatic Stay, Prohibiting or Conditioning the Use, Sale, or Lease of Property, Providing Adequate Protection, Use of Cash Collateral, and Obtaining Credit.
+(3) *Inapplicability in a Chapter 13 Case*. This subdivision (c) does not apply in a Chapter 13 case.
 
-(1) *Motion; Service*.
+(d) Various Agreements: Relief from the Automatic Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Property; Providing Adequate Protection; Using Cash Collateral; or Obtaining Credit.
 
-(A) *Motion*. A motion for approval of any of the following shall be accompanied by a copy of the agreement and a proposed form of order:
+(1) *Motion; Content; Service.*
+
+(A) *Motion*. A motion to approve any of the following must be accompanied by a copy of the agreement and a proposed form of order:
 
 (i) an agreement to provide adequate protection;
 
@@ -4562,19 +6030,33 @@ The court should not keep the case open only because of the possibility that the
 
 (iv) an agreement to use cash collateral; or
 
-(v) an agreement between the debtor and an entity that has a lien or interest in property of the estate pursuant to which the entity consents to the creation of a lien senior or equal to the entity's lien or interest in such property.
+(v) an agreement between the debtor and an entity that has a lien or interest in property of the estate under which the entity consents to creating a lien that is senior or equal to the entity's lien or interest.
 
-(B) *Contents*. The motion shall consist of or (if the motion is more than five pages in length) begin with a concise statement of the relief requested, not to exceed five pages, that lists or summarizes, and sets out the location within the relevant documents of, all material provisions of the agreement. In addition, the concise statement shall briefly list or summarize, and identify the specific location of, each provision in the proposed form of order, agreement, or other document of the type listed in subdivision (c)(1)(B). The motion shall also describe the nature and extent of each such provision.
+(B) *Content*. The motion must consist of—or if the motion exceeds five pages, begin with—a concise statement of the relief requested, no longer than five pages. The statement must:
 
-(C) *Service*. The motion shall be served on: (1) any committee elected under §705 or appointed under §1102 of the Code, or its authorized agent, or, if the case is a chapter 9 municipality case or a chapter 11 reorganization case and no committee of unsecured creditors has been appointed under §1102, on the creditors included on the list filed under Rule 1007(d); and (2) on any other entity the court directs.
+(i) list or summarize all the agreement's material provisions (citing their locations in the relevant documents); and
 
-(2) *Objection*. Notice of the motion and the time within which objections may be filed and served on the debtor in possession or trustee shall be mailed to the parties on whom service is required by paragraph (1) of this subdivision and to such other entities as the court may direct. Unless the court fixes a different time, objections may be filed within 14 days of the mailing of the notice.
+(ii) briefly list or summarize, cite the location of, and describe the nature and extent of each provision in the proposed form of order, agreement, or other document of the type listed in (c)(1)(B).
 
-(3) *Disposition; Hearing*. If no objection is filed, the court may enter an order approving or disapproving the agreement without conducting a hearing. If an objection is filed or if the court determines a hearing is appropriate, the court shall hold a hearing on no less than seven days' notice to the objector, the movant, the parties on whom service is required by paragraph (1) of this subdivision and such other entities as the court may direct.
+(C) *Service*. The motion must be served on all those who must be served under (a)(1)(A) and any other entity the court designates.
 
-(4) *Agreement in Settlement of Motion*. The court may direct that the procedures prescribed in paragraphs (1), (2), and (3) of this subdivision shall not apply and the agreement may be approved without further notice if the court determines that a motion made pursuant to subdivisions (a), (b), or (c) of this rule was sufficient to afford reasonable notice of the material provisions of the agreement and opportunity for a hearing.
+(2) *Objection*. Notice of the motion must be mailed to the parties on whom service of the motion is required and any other entity the court designates. The notice must include the time within which objections may be filed and served on the debtor in possession or trustee. Unless the court sets a different time, any objections must be filed within 14 days after the notice is mailed.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 25, 2019, eff. Dec. 1, 2019.)
+(3) *Disposition Without a Hearing*. If no objection is filed, the court may enter an order approving or disapproving the agreement without holding a hearing.
+
+(4) *Hearing*. If an objection is filed or if the court decides that a hearing is appropriate, the court must hold one after giving at least 7 days' notice to:
+
+• the objector;
+
+• the movant;
+
+• the parties who must be served with the motion under (1)(C); and
+
+• any other entity the court designates.
+
+(5) *Agreement to Settle a Motion*. The court may decide that a motion made under (a), (b), or (c) was sufficient to give reasonable notice of the agreement's material provisions and an opportunity for a hearing. If so, the court may order that the procedures prescribed in (1)–(4) do not apply and may approve the agreement without further notice.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4686,45 +6168,57 @@ Final approval of the amendments to this rule is sought without publication.
 
 Subdivision (c) of the rule is amended to exclude chapter 13 cases from that subdivision. This amendment does not speak to the underlying substantive issue of whether the Bankruptcy Code requires or permits a chapter 13 debtor not engaged in business to request approval of postpetition credit.
 
-[<sup>1</sup> So in original. Probably should be only one section symbol.](#Rule_4001_1)
+#### Committee Notes on Rules—2024 Amendment ####
 
-### Rule 4002. Duties of Debtor ###
+The language of Rule 4001 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(a) In General. In addition to performing other duties prescribed by the Code and rules, the debtor shall:
+### Rule 4002. Debtor's Duties ###
 
-(1) attend and submit to an examination at the times ordered by the court;
+(a) In General. In addition to performing other duties that are required by the Code or these rules, the debtor must:
 
-(2) attend the hearing on a complaint objecting to discharge and testify, if called as a witness;
+(1) attend and submit to an examination when the court orders;
 
-(3) inform the trustee immediately in writing as to the location of real property in which the debtor has an interest and the name and address of every person holding money or property subject to the debtor's withdrawal or order if a schedule of property has not yet been filed pursuant to Rule 1007;
+(2) attend the hearing on a complaint objecting to discharge and, if called, testify as a witness;
 
-(4) cooperate with the trustee in the preparation of an inventory, the examination of proofs of claim, and the administration of the estate; and
+(3) if a schedule of property has not yet been filed under Rule 1007, report to the trustee immediately in writing:
 
-(5) file a statement of any change of the debtor's address.
+(A) the location of any real property in which the debtor has an interest; and
 
-(b) Individual Debtor's Duty To Provide Documentation.
+(B) the name and address of every person holding money or property subject to the debtor's withdrawal or order;
 
-(1) *Personal Identification*. Every individual debtor shall bring to the meeting of creditors under §341:
+(4) cooperate with the trustee in preparing an inventory, examining proofs of claim, and administering the estate; and
 
-(A) a picture identification issued by a governmental unit, or other personal identifying information that establishes the debtor's identity; and
+(5) file a statement of any change in the debtor's address.
 
-(B) evidence of social-security number(s), or a written statement that such documentation does not exist.
+(b) Individual Debtor's Duty to Provide Documents.
 
-(2) *Financial Information*. Every individual debtor shall bring to the meeting of creditors under §341, and make available to the trustee, the following documents or copies of them, or provide a written statement that the documentation does not exist or is not in the debtor's possession:
+(1) *Personal Identifying Information*. An individual debtor must bring to the §341 meeting of creditors:
 
-(A) evidence of current income such as the most recent payment advice;
+(A) a government-issued identification with the debtor's picture, or other personal information that establishes the debtor's identity; and
 
-(B) unless the trustee or the United States trustee instructs otherwise, statements for each of the debtor's depository and investment accounts, including checking, savings, and money market accounts, mutual funds and brokerage accounts for the time period that includes the date of the filing of the petition; and
+(B) evidence of any social-security number, or a written statement that no such evidence exists.
 
-(C) documentation of monthly expenses claimed by the debtor if required by §707(b)(2)(A) or (B).
+(2) *Financial Documents*. An individual debtor must bring the following documents (or copies) to the §341 meeting of creditors and make them available to the trustee—or provide a written statement that they do not exist or are not in the debtor's possession:
 
-(3) *Tax Return*. At least 7 days before the first date set for the meeting of creditors under §341, the debtor shall provide to the trustee a copy of the debtor's federal income tax return for the most recent tax year ending immediately before the commencement of the case and for which a return was filed, including any attachments, or a transcript of the tax return, or provide a written statement that the documentation does not exist.
+(A) evidence of current income, such as the most recent payment advice;
 
-(4) *Tax Returns Provided to Creditors*. If a creditor, at least 14 days before the first date set for the meeting of creditors under §341, requests a copy of the debtor's tax return that is to be provided to the trustee under subdivision (b)(3), the debtor, at least 7 days before the first date set for the meeting of creditors under §341, shall provide to the requesting creditor a copy of the return, including any attachments, or a transcript of the tax return, or provide a written statement that the documentation does not exist.
+(B) unless the trustee or the United States trustee instructs otherwise, a statement for each depository or investment account—including a checking, savings, or money-market account, mutual fund or brokerage account—for the period that includes the petition's filing date; and
 
-(5) *Confidentiality of Tax Information*. The debtor's obligation to provide tax returns under Rule 4002(b)(3) and (b)(4) is subject to procedures for safeguarding the confidentiality of tax information established by the Director of the Administrative Office of the United States Courts.
+(C) if required by §707(b)(2)(A) or (B), documents showing claimed monthly expenses.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(3) *Tax Return to Be Provided to the Trustee*. At least 7 days before the first date set for the §341 meeting of creditors, the debtor must provide the trustee with:
+
+(A) a copy of the debtor's federal income-tax return, including any attachments to it, for the most recent tax year ending before the case was commenced and for which the debtor filed a return;
+
+(B) a transcript of the return; or
+
+(C) a written statement that the documents do not exist.
+
+(4) *Tax Return to Be Provided to a Creditor*. Upon a creditor's request at least 14 days before the first date set for the §341 meeting of creditors, the debtor must provide the creditor with the documents to be provided to the trustee under (3). The debtor must do so at least 7 days before the meeting.
+
+(5) *Safeguarding Confidential Tax Information*. The debtor's obligation to provide tax returns under (3) and (4) is subject to procedures established by the Director of the Administrative Office of the United States Courts for safeguarding confidential tax information.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4760,25 +6254,67 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 • 25-day periods become 28-day periods
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 4002 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### Rule 4003. Exemptions ###
 
-(a) Claim of Exemptions. A debtor shall list the property claimed as exempt under §522 of the Code on the schedule of assets required to be filed by Rule 1007. If the debtor fails to claim exemptions or file the schedule within the time specified in Rule 1007, a dependent of the debtor may file the list within 30 days thereafter.
+(a) Claiming an Exemption. A debtor must list the property claimed as exempt under §522 on Form 106C filed under Rule 1007. If the debtor fails to do so within the time specified in Rule 1007(c), a debtor's dependent may file the list within 30 days after the debtor's time to file expires.
 
-(b) Objecting to a Claim of Exemptions.
+(b) Objecting to a Claimed Exemption.
 
-(1) Except as provided in paragraphs (2) and (3), a party in interest may file an objection to the list of property claimed as exempt within 30 days after the meeting of creditors held under §341(a) is concluded or within 30 days after any amendment to the list or supplemental schedules is filed, whichever is later. The court may, for cause, extend the time for filing objections if, before the time to object expires, a party in interest files a request for an extension.
+(1) *By a Party in Interest*. Except as (2) and (3) provide, a party in interest may file an objection to a claimed exemption within 30 days after the later of:
 
-(2) The trustee may file an objection to a claim of exemption at any time prior to one year after the closing of the case if the debtor fraudulently asserted the claim of exemption. The trustee shall deliver or mail the objection to the debtor and the debtor's attorney, and to any person filing the list of exempt property and that person's attorney.
+• the conclusion of the §341 meeting of creditors;
 
-(3) An objection to a claim of exemption based on §522(q) shall be filed before the closing of the case. If an exemption is first claimed after a case is reopened, an objection shall be filed before the reopened case is closed.
+• the filing of an amendment to the list; or
 
-(4) A copy of any objection shall be delivered or mailed to the trustee, the debtor and the debtor's attorney, and the person filing the list and that person's attorney.
+• the filing of a supplemental schedule.
 
-(c) Burden of Proof. In any hearing under this rule, the objecting party has the burden of proving that the exemptions are not properly claimed. After hearing on notice, the court shall determine the issues presented by the objections.
+On a party in interest's motion filed before the time to object expires, the court may, for cause, extend the time to file an objection.
 
-(d) Avoidance by Debtor of Transfers of Exempt Property. A proceeding under §522(f) to avoid a lien or other transfer of property exempt under the Code shall be commenced by motion in the manner provided by Rule 9014, or by serving a chapter 12 or chapter 13 plan on the affected creditors in the manner provided by Rule 7004 for service of a summons and complaint. Notwithstanding the provisions of subdivision (b), a creditor may object to a request under §522(f) by challenging the validity of the exemption asserted to be impaired by the lien.
+(2) *By the Trustee for a Fraudulently Claimed Exemption*. If the debtor has fraudulently claimed an exemption, the trustee may file an objection to it within one year after the case is closed. The trustee must deliver or mail the objection to:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 27, 2017, eff. Dec. 1, 2017.)
+• the debtor;
+
+• the debtor's attorney;
+
+• the person who filed the list of exempt property; and
+
+• that person's attorney.
+
+(3) *Objection Based on §522(q)*. An objection based on §522(q) must be filed:
+
+(A) before the case is closed; or
+
+(B) if an exemption is first claimed after a case has been reopened, before the reopened case is closed.
+
+(4) *Distributing Copies of the Objection*. A copy of any objection, other than one filed by the trustee under (b)(2), must be delivered or mailed to:
+
+• the trustee;
+
+• the debtor;
+
+• the debtor's attorney;
+
+• the person who filed the list of exempt property; and
+
+• that person's attorney.
+
+(c) Burden of Proof. In a hearing under this Rule 4003, the objecting party has the burden of proving that an exemption was not properly claimed. After notice and a hearing, the court must determine the issues presented.
+
+(d) Avoiding a Lien or Other Transfer of Exempt Property.
+
+(1) *Bringing a Proceeding*. A proceeding under §522(f) to avoid a lien or other transfer of exempt property must be commenced by:
+
+(A) filing a motion under Rule 9014; or
+
+(B) serving a Chapter 12 or 13 plan on the affected creditors as Rule 7004 provides for serving a summons and complaint.
+
+(2) *Objecting to a Request Under §522(f)*. As an exception to (b), a creditor may object to a request under §522(f) by challenging the validity of the exemption asserted to be impaired by the lien.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4818,59 +6354,85 @@ Other changes are stylistic.
 
 Subdivision (d) is amended to provide that a request under §522(f) to avoid a lien or other transfer of exempt property may be made by motion or by a chapter 12 or chapter 13 plan. A plan that proposes lien avoidance in accordance with this rule must be served as provided under Rule 7004 for service of a summons and complaint. Lien avoidance not governed by this rule requires an adversary proceeding.
 
-### Rule 4004. Grant or Denial of Discharge ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Time for Objecting to Discharge; Notice of Time Fixed. In a chapter 7 case, a complaint, or a motion under §727(a)(8) or (a)(9) of the Code, objecting to the debtor's discharge shall be filed no later than 60 days after the first date set for the meeting of creditors under §341(a). In a chapter 11 case, the complaint shall be filed no later than the first date set for the hearing on confirmation. In a chapter 13 case, a motion objecting to the debtor's discharge under §1328(f) shall be filed no later than 60 days after the first date set for the meeting of creditors under §341(a). At least 28 days' notice of the time so fixed shall be given to the United States trustee and all creditors as provided in Rule 2002(f) and (k) and to the trustee and the trustee's attorney.
+The language of Rule 4003 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Extension of Time.
+### Rule 4004. Granting or Denying a Discharge ###
 
-(1) On motion of any party in interest, after notice and hearing, the court may for cause extend the time to object to discharge. Except as provided in subdivision (b)(2), the motion shall be filed before the time has expired.
+(a) Time to Object to a Discharge; Notice.
 
-(2) A motion to extend the time to object to discharge may be filed after the time for objection has expired and before discharge is granted if (A) the objection is based on facts that, if learned after the discharge, would provide a basis for revocation under §727(d) of the Code, and (B) the movant did not have knowledge of those facts in time to permit an objection. The motion shall be filed promptly after the movant discovers the facts on which the objection is based.
+(1) *Chapter 7*. In a Chapter 7 case, a complaint—or a motion under §727(a)(8) or (9)—objecting to a discharge must be filed within 60 days after the first date set for the §341(a) meeting of creditors.
 
-(c) Grant of Discharge.
+(2) *Chapter 11*. In a Chapter 11 case, a complaint objecting to a discharge must be filed on or before the first date set for the hearing on confirmation.
 
-(1) In a chapter 7 case, on expiration of the times fixed for objecting to discharge and for filing a motion to dismiss the case under Rule 1017(e), the court shall forthwith grant the discharge, except that the court shall not grant the discharge if:
+(3) *Chapter 13*. In a Chapter 13 case, a motion objecting to a discharge under §1328(f) must be filed within 60 days after the first date set for the §341(a) meeting of creditors.
+
+(4) *Notice to the United States Trustee, the Creditors, and the Trustee*. At least 28 days' notice of the time for filing must be given to:
+
+• the United States trustee under Rule 2002(k);
+
+• all creditors under Rule 2002(f);
+
+• the trustee; and
+
+• the trustee's attorney.
+
+(b) Extending the Time to File an Objection.
+
+(1) *Motion Before the Time Expires*. On a party in interest's motion and after notice and a hearing, the court may, for cause, extend the time to object to a discharge. The motion must be filed before the time has expired.
+
+(2) *Motion After the Time Has Expired*. After the time to object has expired and before a discharge is granted, a party in interest may file a motion to extend the time if:
+
+(A) the objection is based on facts that, if learned after the discharge is granted, would provide a basis for revocation under §727(d);
+
+(B) the movant did not know those facts in time to object; and
+
+(C) the movant files the motion promptly after learning about them.
+
+(c) Granting a Discharge.
+
+(1) *Chapter 7*. In a Chapter 7 case, when the times to object to discharge and to file a motion to dismiss the case under Rule 1017(e) expire, the court must promptly grant the discharge—except under these circumstances:
 
 (A) the debtor is not an individual;
 
-(B) a complaint, or a motion under §727(a)(8) or (a)(9), objecting to the discharge has been filed and not decided in the debtor's favor;
+(B) a complaint—or a motion under §727(a)(8) or (9)—objecting to the discharge is pending;
 
 (C) the debtor has filed a waiver under §727(a)(10);
 
-(D) a motion to dismiss the case under §707 is pending;
+(D) a motion is pending to dismiss the case under §707;
 
-(E) a motion to extend the time for filing a complaint objecting to the discharge is pending;
+(E) a motion is pending to extend the time to file a complaint objecting to the discharge;
 
-(F) a motion to extend the time for filing a motion to dismiss the case under Rule 1017(e)(1) is pending;
+(F) a motion is pending to extend the time to file a motion to dismiss the case under Rule 1017(e)(1);
 
-(G) the debtor has not paid in full the filing fee prescribed by 28 U.S.C. §1930(a) and any other fee prescribed by the Judicial Conference of the United States under 28 U.S.C. §1930(b) that is payable to the clerk upon the commencement of a case under the Code, unless the court has waived the fees under 28 U.S.C. §1930(f);
+(G) the debtor has not fully paid the filing fee required by 28 U.S.C. §1930(a)—together with any other fee prescribed by the Judicial Conference of the United States under 28 U.S.C. §1930(b) that is payable to the clerk upon commencing a case—unless the court has waived the fees under 28 U.S.C. §1930(f);
 
-(H) the debtor has not filed with the court a statement of completion of a course concerning personal financial management if required by Rule 1007(b)(7);
+(H) the debtor has not filed a certificate showing that a course on personal financial management has been completed—if such a certificate is required by Rule 1007(b)(7);
 
-(I) a motion to delay or postpone discharge under §727(a)(12) is pending;
+(I) a motion is pending to delay or postpone a discharge under §727(a)(12);
 
-(J) a motion to enlarge the time to file a reaffirmation agreement under Rule 4008(a) is pending;
+(J) a motion is pending to extend the time to file a reaffirmation agreement under Rule 4008(a);
 
-(K) a presumption is in effect under §524(m) that a reaffirmation agreement is an undue hardship and the court has not concluded a hearing on the presumption; or
+(K) the court has not concluded a hearing on a presumption—in effect under §524(m)—that a reaffirmation agreement is an undue hardship; or
 
 (L) a motion is pending to delay discharge because the debtor has not filed with the court all tax documents required to be filed under §521(f).
 
-(2) Notwithstanding Rule 4004(c)(1), on motion of the debtor, the court may defer the entry of an order granting a discharge for 30 days and, on motion within that period, the court may defer entry of the order to a date certain.
+(2) *Delay in Entering a Discharge in General*. On the debtor's motion, the court may delay entering a discharge for 30 days and, on a motion made within that time, delay entry to a date certain.
 
-(3) If the debtor is required to file a statement under Rule 1007(b)(8), the court shall not grant a discharge earlier than 30 days after the statement is filed.
+(3) *Delaying Entry Because of Rule 1007(b)(8)*. If the debtor is required to file a statement under Rule 1007(b)(8), the court must not grant a discharge until at least 30 days after the statement is filed.
 
-(4) In a chapter 11 case in which the debtor is an individual, or a chapter 13 case, the court shall not grant a discharge if the debtor has not filed any statement required by Rule 1007(b)(7).
+(4) *Individual Chapter 11 or Chapter 13 Case*. In a Chapter 11 case in which the debtor is an individual—or in a Chapter 13 case—the court must not grant a discharge if the debtor has not filed a certificate required by Rule 1007(b)(7).
 
-(d) Applicability of Rules in Part VII and Rule 9014. An objection to discharge is governed by Part VII of these rules, except that an objection to discharge under §§727(a)(8),<sup><a href="#Rule_4004_1_target" name="Rule_4004_1">1</a></sup> (a)(9), or 1328(f) is commenced by motion and governed by Rule 9014.
+(d) Applying Part VII Rules and Rule 9014. The Part VII rules govern an objection to a discharge, except that Rule 9014 governs an objection to a discharge under §727(a)(8) or (9) or §1328(f).
 
-(e) Order of Discharge. An order of discharge shall conform to the appropriate Official Form.
+(e) Form of a Discharge Order. A discharge order must conform to the appropriate Official Form.
 
-(f) Registration in Other Districts. An order of discharge that has become final may be registered in any other district by filing a certified copy of the order in the office of the clerk of that district. When so registered the order of discharge shall have the same effect as an order of the court of the district where registered.
+(f) Registering a Discharge in Another District. A discharge order that becomes final may be registered in another district by filing a certified copy with the clerk for that district. When registered, the order has the same effect as an order of the court where it is registered.
 
-(g) Notice of Discharge. The clerk shall promptly mail a copy of the final order of discharge to those specified in subdivision (a) of this rule.
+(g) Notice of a Final Discharge Order. The clerk must promptly mail a copy of the final discharge order to those entities listed in (a)(4).
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4990,23 +6552,41 @@ Subdivision (c)(1)(K) is amended to make clear that the prohibition on entering 
 
 *Changes Made After Publication and Comment*. Because this amendment is being made to conform to a simultaneous amendment of Rule 1007(b)(7) and is otherwise technical in nature, final approval is sought without publication.
 
-[<sup>1</sup> So in original. Probably should be only one section symbol.](#Rule_4004_1)
+#### Committee Notes on Rules—2024 Amendment ####
 
-### Rule 4005. Burden of Proof in Objecting to Discharge ###
+The language of Rule 4004 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-At the trial on a complaint objecting to a discharge, the plaintiff has the burden of proving the objection.
+Additionally, the following substantive changes have been made.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+The amendments to Rule 4004(c)(1)(H) and (c)(4) reflect the amendment to Rule 1007(b)(7) that replaces the requirement for submission of a statement showing that the debtor has completed a course on personal financial management with the requirement that the debtor provide the certificate of course completion issued by the approved provider of that course.
+
+### Rule 4005. Burden of Proof in Objecting to a Discharge ###
+
+At a trial on a complaint objecting to a discharge, the plaintiff has the burden of proof.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 This rule does not address the burden of going forward with the evidence. Subject to the allocation by the rule of the initial burden of producing evidence and the ultimate burden of persuasion, the rule leaves to the courts the formulation of rules governing the shift of the burden of going forward with the evidence in the light of considerations such as the difficulty of proving the nonexistence of a fact and of establishing a fact as to which the evidence is likely to be more accessible to the debtor than to the objector. *See, e.g., In re Haggerty*, 165 F.2d 977, 979–80 (2d Cir. 1948); *Federal Provision Co. v. Ershowsky*, 94 F.2d 574, 575 (2d Cir. 1938); *In re Riceputo*, 41 F. Supp. 926, 927–28 (E.D.N.Y. 1941).
 
-### Rule 4006. Notice of No Discharge ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-If an order is entered: denying a discharge; revoking a discharge; approving a waiver of discharge; or, in the case of an individual debtor, closing the case without the entry of a discharge, the clerk shall promptly notify all parties in interest in the manner provided by Rule 2002.
+The language of Rule 4005 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008.)
+### Rule 4006. Notice When No Discharge Is Granted ###
+
+The clerk must promptly notify in the manner provided by Rule 2002(f) all parties in interest of an order:
+
+(a) denying a discharge;
+
+(b) revoking a discharge;
+
+(c) approving a waiver of discharge; or
+
+(d) closing an individual debtor's case without entering a discharge.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5020,19 +6600,23 @@ This amendment was necessary because the 2005 amendments to the Code require tha
 
 *Changes Made After Publication*. No changes were made after publication.
 
-### Rule 4007. Determination of Dischargeability of a Debt ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Persons Entitled To File Complaint. A debtor or any creditor may file a complaint to obtain a determination of the dischargeability of any debt.
+The language of Rule 4006 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Time for Commencing Proceeding Other Than Under §523(c) of the Code. A complaint other than under §523(c) may be filed at any time. A case may be reopened without payment of an additional filing fee for the purpose of filing a complaint to obtain a determination under this rule.
+### Rule 4007. Determining Whether a Debt Is Dischargeable ###
 
-(c) Time for Filing Complaint Under §523(c) in a Chapter 7 Liquidation, Chapter 11 Reorganization, Chapter 12 Family Farmer's Debt Adjustment Case, or Chapter 13 Individual's Debt Adjustment Case; Notice of Time Fixed. Except as otherwise provided in subdivision (d), a complaint to determine the dischargeability of a debt under §523(c) shall be filed no later than 60 days after the first date set for the meeting of creditors under §341(a). The court shall give all creditors no less than 30 days' notice of the time so fixed in the manner provided in Rule 2002. On motion of a party in interest, after hearing on notice, the court may for cause extend the time fixed under this subdivision. The motion shall be filed before the time has expired.
+(a) Who May File a Complaint. A debtor or any creditor may file a complaint to determine whether a debt is dischargeable.
 
-(d) Time for Filing Complaint Under §523(a)(6) in a Chapter 13 Individual's Debt Adjustment Case; Notice of Time Fixed. On motion by a debtor for a discharge under §1328(b), the court shall enter an order fixing the time to file a complaint to determine the dischargeability of any debt under §523(a)(6) and shall give no less than 30 days' notice of the time fixed to all creditors in the manner provided in Rule 2002. On motion of any party in interest, after hearing on notice, the court may for cause extend the time fixed under this subdivision. The motion shall be filed before the time has expired.
+(b) Time to File; No Fee for a Reopened Case. A complaint, except one under §523(c), may be filed at any time. If a case is reopened to permit filing the complaint, no fee for reopening is required.
 
-(e) Applicability of Rules in Part VII. A proceeding commenced by a complaint filed under this rule is governed by Part VII of these rules.
+(c) Chapter 7, 11, 12, or 13—Time to File a Complaint Under §523(c); Notice of Time; Extension. Except as (d) provides, a complaint to determine whether a debt is dischargeable under §523(c) must be filed within 60 days after the first date set for the §341(a) meeting of creditors. The clerk must give all creditors at least 30 days' notice of the time to file in the manner provided by Rule 2002. On a party in interest's motion filed before the time expires, the court may, after notice and a hearing and for cause, extend the time to file.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2008, eff. Dec. 1, 2008.)
+(d) Chapter 13—Time to File a Complaint Under §523(a)(6); Notice of Time; Extension. When a debtor files a motion for a discharge under §1328(b), the court must set the time to file a complaint under §523(a)(6) to determine whether a debt is dischargeable. The clerk must give all creditors at least 30 days' notice of the time to file in the manner provided by Rule 2002. On a party in interest's motion filed before the time expires, the court may, after notice and a hearing and for cause, extend the time to file.
+
+(e) Applying Part VII Rules. The Part VII rules govern a proceeding on a complaint filed under this Rule 4007.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5070,13 +6654,17 @@ The amendment to subdivision (d) reflects the 2005 amendments to §1328(a) that 
 
 *Changes Made After Publication*. No changes were made after publication.
 
-### Rule 4008. Filing of Reaffirmation Agreement; Statement in Support of Reaffirmation Agreement ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Filing of Reaffirmation Agreement. A reaffirmation agreement shall be filed no later than 60 days after the first date set for the meeting of creditors under §341(a) of the Code. The reaffirmation agreement shall be accompanied by a cover sheet, prepared as prescribed by the appropriate Official Form. The court may, at any time and in its discretion, enlarge the time to file a reaffirmation agreement.
+The language of Rule 4007 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Statement in Support of Reaffirmation Agreement. The debtor's statement required under §524(k)(6)(A) of the Code shall be accompanied by a statement of the total income and expenses stated on schedules I and J. If there is a difference between the total income and expenses stated on those schedules and the statement required under §524(k)(6)(A), the statement required by this subdivision shall include an explanation of the difference.
+### Rule 4008. Reaffirmation Agreement and Supporting Statement ###
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(a) Time to File; Cover Sheet. A reaffirmation agreement must be filed within 60 days after the first date set for the §341(a) meeting of creditors. The agreement must have a cover sheet prepared as prescribed by Form 427. At any time, the court may extend the time to file an agreement.
+
+(b) Supporting Statement. The debtor's supporting statement required by §524(k)(6)(A) must be accompanied by a statement of the total income and expenses as shown on Schedules I and J. If the income and expenses shown on the supporting statement differ from those shown on the schedules, the supporting statement must explain the difference.
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5106,17 +6694,21 @@ Subdivision (a) of the rule is amended to require that the entity filing the rea
 
 *Changes Made After Publication*. No changes since publication.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 4008 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### PART V—COURTS AND CLERKS ###
 
-### Rule 5001. Courts and Clerks' Offices ###
+### Rule 5001. Court Operations; Clerks' Offices ###
 
-(a) Courts Always Open. The courts shall be deemed always open for the purpose of filing any pleading or other proper paper, issuing and returning process, and filing, making, or entering motions, orders and rules.
+(a) Courts Always Open. Bankruptcy courts are considered always open for filing a pleading, motion, or other paper; issuing and returning process; making rules; or entering an order.
 
-(b) Trials and Hearings; Orders in Chambers. All trials and hearings shall be conducted in open court and so far as convenient in a regular court room. Except as otherwise provided in 28 U.S.C. §152(c), all other acts or proceedings may be done or conducted by a judge in chambers and at any place either within or without the district; but no hearing, other than one ex parte, shall be conducted outside the district without the consent of all parties affected thereby.
+(b) Location for Trials and Hearings; Proceedings in Chambers. Every trial or hearing must be held in open court—in a regular courtroom if convenient. Except as provided in 28 U.S.C. §152(c), any other act may be performed—or a proceeding held—in chambers anywhere within or outside the district. But unless it is ex parte, a hearing may be held outside the district only if all affected parties consent.
 
-(c) Clerk's Office. The clerk's office with the clerk or a deputy in attendance shall be open during business hours on all days except Saturdays, Sundays and the legal holidays listed in Rule 9006(a).
+(c) Clerk's Office Hours. A clerk's office—with the clerk or a deputy in attendance—must be open during business hours on all days except Saturdays, Sundays, and the legal holidays listed in Rule 9006(a)(6).
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5136,13 +6728,27 @@ The rule is amended to permit bankruptcy judges to hold hearings outside of the 
 
 *Changes Made After Publication*. No changes were made after publication.
 
-### Rule 5002. Restrictions on Approval of Appointments ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Approval of Appointment of Relatives Prohibited. The appointment of an individual as a trustee or examiner pursuant to §1104 of the Code shall not be approved by the court if the individual is a relative of the bankruptcy judge approving the appointment or the United States trustee in the region in which the case is pending. The employment of an individual as an attorney, accountant, appraiser, auctioneer, or other professional person pursuant to §§327, 1103, or 1114 shall not be approved by the court if the individual is a relative of the bankruptcy judge approving the employment. The employment of an individual as attorney, accountant, appraiser, auctioneer, or other professional person pursuant to §§327, 1103, or 1114 may be approved by the court if the individual is a relative of the United States trustee in the region in which the case is pending, unless the court finds that the relationship with the United States trustee renders the employment improper under the circumstances of the case. Whenever under this subdivision an individual may not be approved for appointment or employment, the individual's firm, partnership, corporation, or any other form of business association or relationship, and all members, associates and professional employees thereof also may not be approved for appointment or employment.
+The language of Rule 5001 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Judicial Determination That Approval of Appointment or Employment Is Improper. A bankruptcy judge may not approve the appointment of a person as a trustee or examiner pursuant to §1104 of the Code or approve the employment of a person as an attorney, accountant, appraiser, auctioneer, or other professional person pursuant to §§327, 1103, or 1114 of the Code if that person is or has been so connected with such judge or the United States trustee as to render the appointment or employment improper.
+### Rule 5002. Restrictions on Approving Court Appointments ###
 
-(As amended Apr. 29, 1985, eff. Aug. 1, 1985; Apr. 30, 1991, eff. Aug. 1, 1991.)
+(a) Appointing or Employing Relatives.
+
+(1) *Trustee or Examiner*. A bankruptcy judge must not approve appointing an individual as a trustee or examiner under §1104 if the individual is a relative of either the judge or the United States trustee in the region where the case is pending.
+
+(2) *Attorney, Accountant, Appraiser, Auctioneer, or Other Professional Person*. A bankruptcy judge must not approve employing under §327, §1103, or §1114 an individual as an attorney, accountant, appraiser, auctioneer, or other professional person who is a relative of the judge. The court may approve employing a relative of the United States trustee in the region where the case is pending, unless the relationship makes the employment improper.
+
+(3) *Related Entities and Associates*. If an appointment under (1) or an employment under (2) is forbidden, so is appointing or employing:
+
+(A) any entity—including any firm, partnership, or corporation—with which the individual has a business association or relationship; or
+
+(B) a member, associate, or professional employee of such an entity.
+
+(b) Other Considerations in Approving Appointments or Employment. A bankruptcy judge must not approve appointing a person as a trustee or examiner—or employing an attorney, accountant, appraiser, auctioneer, or other professional person—if the person is, or has been, so connected with the judge or the United States trustee as to make the appointment or employment improper.
+
+(As amended Apr. 29, 1985, eff. Aug. 1, 1985; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5186,21 +6792,63 @@ United States trustee is defined to include a designee or assistant United State
 
 This rule is not exclusive of other laws or rules regulating ethical conduct. See, e.g., 28 CFR §45.735–5.
 
-### Rule 5003. Records Kept By the Clerk ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Bankruptcy Dockets. The clerk shall keep a docket in each case under the Code and shall enter thereon each judgment, order, and activity in that case as prescribed by the Director of the Administrative Office of the United States Courts. The entry of a judgment or order in a docket shall show the date the entry is made.
+The language of Rule 5002 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Claims Register. The clerk shall keep in a claims register a list of claims filed in a case when it appears that there will be a distribution to unsecured creditors.
+### Rule 5003. Records to Be Kept by the Clerk ###
 
-(c) Judgments and Orders. The clerk shall keep, in the form and manner as the Director of the Administrative Office of the United States Courts may prescribe, a correct copy of every final judgment or order affecting title to or lien on real property or for the recovery of money or property, and any other order which the court may direct to be kept. On request of the prevailing party, a correct copy of every judgment or order affecting title to or lien upon real or personal property or for the recovery of money or property shall be kept and indexed with the civil judgments of the district court.
+(a) Bankruptcy Docket. The clerk must keep a docket in each case and must:
 
-(d) Index of Cases; Certificate of Search. The clerk shall keep indices of all cases and adversary proceedings as prescribed by the Director of the Administrative Office of the United States Courts. On request, the clerk shall make a search of any index and papers in the clerk's custody and certify whether a case or proceeding has been filed in or transferred to the court or if a discharge has been entered in its records.
+(1) enter on the docket each judgment, order, and activity, as prescribed by the Director of the Administrative Office of the United States Courts; and
 
-(e) Register of Mailing Addresses of Federal and State Governmental Units and Certain Taxing Authorities. The United States or the state or territory in which the court is located may file a statement designating its mailing address. The United States, state, territory, or local governmental unit responsible for collecting taxes within the district in which the case is pending may also file a statement designating an address for service of requests under §505(b) of the Code, and the designation shall describe where further information concerning additional requirements for filing such requests may be found. The clerk shall keep, in the form and manner as the Director of the Administrative Office of the United States Courts may prescribe, a register that includes the mailing addresses designated under the first sentence of this subdivision, and a separate register of the addresses designated for the service of requests under §505(b) of the Code. The clerk is not required to include in any single register more than one mailing address for each department, agency, or instrumentality of the United States or the state or territory. If more than one address for a department, agency, or instrumentality is included in the register, the clerk shall also include information that would enable a user of the register to determine the circumstances when each address is applicable, and mailing notice to only one applicable address is sufficient to provide effective notice. The clerk shall update the register annually, effective January 2 of each year. The mailing address in the register is conclusively presumed to be a proper address for the governmental unit, but the failure to use that mailing address does not invalidate any notice that is otherwise effective under applicable law.
+(2) show the date of entry for each judgment or order.
 
-(f) Other Books and Records of the Clerk. The clerk shall keep any other books and records required by the Director of the Administrative Office of the United States Courts.
+(b) Claims Register. When it appears that there will be a distribution to unsecured creditors, the clerk must keep in a claims register a list of the claims filed in the case.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2008, eff. Dec. 1, 2008.)
+(c) Judgments and Orders.
+
+(1) *In General*. In the form and manner prescribed by the Director of the Administrative Office of the United States Courts, the clerk must keep a copy of:
+
+(A) every final judgment or order affecting title to, or a lien on, real property;
+
+(B) every final judgment or order for the recovery of money or property; and
+
+(C) any other order the court designates.
+
+(2) *Indexing with the District Court*. On a prevailing party's request, a copy of the following must be kept and indexed with the district court's civil judgments:
+
+(A) every final judgment or order affecting title to, or a lien on, real or personal property; and
+
+(B) every final judgment or order for the recovery of money or property.
+
+(d) Index of Cases; Certificate of Search.
+
+(1) *Index of Cases*. The clerk must keep an index of cases and adversary proceedings in the form and manner prescribed by the Director of the Administrative Office of the United States Courts.
+
+(2) *Searching the Index; Certificate of Search*. On request, the clerk must search the index and papers in the clerk's custody and certify whether:
+
+(A) a case or proceeding has been filed in or transferred to the court; or
+
+(B) a discharge has been entered.
+
+(e) Register of Mailing Addresses of Federal and State Governmental Units and Certain Taxing Authorities.
+
+(1) *In General*. The United States—or a state or a territory where the court is located—may file a statement designating its mailing address. A taxing authority (including a local taxing authority) may also file a statement designating an address for serving requests under §505(b). The authority's designation must describe where to find further information about additional requirements for serving a request.
+
+(2) *Register of Mailing Address.*
+
+(A) *In General*. In the form and manner prescribed by the Director of the Administrative Office of the United States Courts, the clerk must keep a register of the mailing addresses of the governmental units listed in the first sentence of (1) and a separate register containing the addresses of taxing authorities for serving requests under §505(b).
+
+(B) *Number of Entries*. The clerk need not include in any register more than one mailing address for each department, agency, or instrumentality of the United States or the state or territory. But if more than one mailing address is included, the clerk must also include information that would enable a user to determine when each address applies. Mailing to only one applicable address provides effective notice.
+
+(C) *Keeping the Register Current*. The clerk must update the register annually, as of January 2 of each year.
+
+(D) *Mailing Address Presumed to Be Proper*. A mailing address in the register is conclusively presumed to be proper. But a failure to use that address does not invalidate a notice that is otherwise effective under applicable law.
+
+(f) Other Books and Records. The clerk must keep any other books and records required by the Director of the Administrative Office of the United States Courts.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5236,13 +6884,17 @@ The rule is amended to implement §505(b)(1) of the Code added by the 2005 amend
 
 *Changes Made After Publication*. Subdivision (e) was amended to clarify that the clerk must maintain a separate mailing address register that contains the addresses to which notices pertaining to actions under §505 of the Code are to be sent.
 
-### Rule 5004. Disqualification ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Disqualification of Judge. A bankruptcy judge shall be governed by 28 U.S.C. §455, and disqualified from presiding over the proceeding or contested matter in which the disqualifying circumstances <sup><a href="#Rule_5004_1_target" name="Rule_5004_1">1</a></sup> arises or, if appropriate, shall be disqualified from presiding over the case.
+The language of Rule 5003 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Disqualification of Judge from Allowing Compensation. A bankruptcy judge shall be disqualified from allowing compensation to a person who is a relative of the bankruptcy judge or with whom the judge is so connected as to render it improper for the judge to authorize such compensation.
+### Rule 5004. Disqualifying a Bankruptcy Judge ###
 
-(As amended Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987.)
+(a) From Presiding Over a Proceeding, Contested Matter, or Case. A bankruptcy judge's disqualification is governed by 28 U.S.C. §455. The judge is disqualified from presiding over a proceeding or contested matter in which a disqualifying circumstance arises—and, when appropriate, from presiding over the entire case.
+
+(b) From Allowing Compensation. The bankruptcy judge is disqualified from allowing compensation to a relative or to a person who is so connected with the judge as to make the judge's allowing it improper.
+
+(As amended Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5262,39 +6914,81 @@ The word "associated" in subdivision (b) has been changed to "connected" in orde
 
 The rule is amended to be gender neutral. The bankruptcy judge before whom the matter is pending determines whether disqualification is required.
 
-[<sup>1</sup> So in original. Probably should be "circumstance".](#Rule_5004_1)
+#### Committee Notes on Rules—2024 Amendment ####
 
-### Rule 5005. Filing and Transmittal of Papers ###
+The language of Rule 5004 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(a) Filing.
+### Rule 5005. Filing Papers and Sending Copies to the United States Trustee ###
 
-(1) *Place of Filing*. The lists, schedules, statements, proofs of claim or interest, complaints, motions, applications, objections and other papers required to be filed by these rules, except as provided in 28 U.S.C. §1409, shall be filed with the clerk in the district where the case under the Code is pending. The judge of that court may permit the papers to be filed with the judge, in which event the filing date shall be noted thereon, and they shall be forthwith transmitted to the clerk. The clerk shall not refuse to accept for filing any petition or other paper presented for the purpose of filing solely because it is not presented in proper form as required by these rules or any local rules or practices.
+(a) Filing Papers.
 
-(2) *Electronic Filing and Signing*.
+(1) *With the Clerk*. Except as provided in 28 U.S.C. §1409, the following papers required to be filed by these rules must be filed with the clerk in the district where the case is pending:
 
-(A) *By a Represented Entity—Generally Required; Exceptions*. An entity represented by an attorney shall file electronically, unless nonelectronic filing is allowed by the court for good cause or is allowed or required by local rule.
+• lists;
+
+• schedules;
+
+• statements;
+
+• proofs of claim or interest;
+
+• complaints;
+
+• motions;
+
+• applications;
+
+• objections; and
+
+• other required papers.
+
+The clerk must not refuse to accept for filing any petition or other paper solely because it is not in the form required by these rules or by any local rule or practice.
+
+(2) *With a Judge of the Court*. A judge may personally accept for filing a paper listed in (1). The judge must note on it the date of filing and promptly send it to the clerk.
+
+(3) *Electronic Filing and Signing.*
+
+(A) *By a Represented Entity—Generally Required; Exceptions*. An entity represented by an attorney must file electronically, unless nonelectronic filing is allowed by the court for cause or is allowed or required by local rule.
 
 (B) *By an Unrepresented Individual—When Allowed or Required*. An individual not represented by an attorney:
 
-(i) may file electronically only if allowed by court order or by local rule; and
+(i) may file electronically only if allowed by court order or local rule; and
 
 (ii) may be required to file electronically only by court order, or by a local rule that includes reasonable exceptions.
 
-(C) *Signing*. A filing made through a person's electronic-filing account and authorized by that person, together with that person's name on a signature block, constitutes the person's signature.
+(C) *Signing*. A filing made through a person's electronic-filing account and authorized by that person, together with the person's name on a signature block, constitutes the person's signature.
 
-(D) *Same as a Written Paper*. A paper filed electronically is a written paper for purposes of these rules, the Federal Rules of Civil Procedure made applicable by these rules, and §107 of the Code.
+(D) *Same as a Written Paper*. A paper filed electronically is a written paper for purposes of these rules, the Federal Rules of Civil Procedure made applicable by these rules, and §107.
 
-(b) Transmittal to the United States Trustee.
+(b) Sending Copies to the United States Trustee.
 
-(1) The complaints, notices, motions, applications, objections and other papers required to be transmitted to the United States trustee may be sent by filing with the court's electronic-filing system in accordance with Rule 9036, unless a court order or local rule provides otherwise.
+(1) *Papers Sent Electronically*. All papers required to be sent to the United States trustee may be sent by using the court's electronic-filing system in accordance with Rule 9036, unless a court order or local rule provides otherwise.
 
-(2) The entity, other than the clerk, transmitting a paper to the United States trustee other than through the court's electronic-filing system shall promptly file as proof of such transmittal a statement identifying the paper and stating the manner by which and the date on which it was transmitted to the United States trustee.
+(2) *Papers Not Sent Electronically*. If an entity other than the clerk sends a paper to the United States trustee without using the court's electronic-filing system, the entity must promptly file a statement identifying the paper and stating the manner by which and the date it was sent. The clerk need not send a copy of a paper to a United States trustee who requests in writing that it not be sent.
 
-(3) Nothing in these rules shall require the clerk to transmit any paper to the United States trustee if the United States trustee requests in writing that the paper not be transmitted.
+(c) When a Paper Is Erroneously Filed or Delivered.
 
-(c) Error in Filing or Transmittal. A paper intended to be filed with the clerk but erroneously delivered to the United States trustee, the trustee, the attorney for the trustee, a bankruptcy judge, a district judge, the clerk of the bankruptcy appellate panel, or the clerk of the district court shall, after the date of its receipt has been noted thereon, be transmitted forthwith to the clerk of the bankruptcy court. A paper intended to be transmitted to the United States trustee but erroneously delivered to the clerk, the trustee, the attorney for the trustee, a bankruptcy judge, a district judge, the clerk of the bankruptcy appellate panel, or the clerk of the district court shall, after the date of its receipt has been noted thereon, be transmitted forthwith to the United States trustee. In the interest of justice, the court may order that a paper erroneously delivered shall be deemed filed with the clerk or transmitted to the United States trustee as of the date of its original delivery.
+(1) *Paper Intended for the Clerk*. If a paper intended to be filed with the clerk is erroneously delivered to a person listed below, that person must note on it the date of receipt and promptly send it to the clerk:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 11, 2022, eff. Dec. 1, 2022.)
+• the United States trustee;
+
+• the trustee;
+
+• the trustee's attorney;
+
+• a bankruptcy judge;
+
+• a district judge;
+
+• the clerk of the bankruptcy appellate panel; or
+
+• the clerk of the district court.
+
+(2) *Paper Intended for the United States Trustee*. If a paper intended for the United States trustee is erroneously delivered to the clerk or to another person listed in (1), the clerk or that person must note on it the date of receipt and promptly send it to the United States trustee.
+
+(3) *Applicable Filing Date*. In the interests of justice, the court may order that the original receipt date shown on a paper erroneously delivered under (1) or (2) be deemed the date it was filed with the clerk or sent to the United States trustee.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5360,15 +7054,19 @@ A filing made through a person's electronic-filing account and authorized by tha
 
 Subdivision (b)(1) is amended to authorize the clerk or parties to transmit papers to the United States trustee by electronic means in accordance with Rule 9036, regardless of whether the United States trustee is a registered user with the court's electronic-filing system. Subdivision (b)(2) is amended to recognize that parties meeting transmittal obligations to the United States trustee using the court's electronic-filing system need not file a statement evidencing transmittal under Rule 5005(b)(2). The amendment to subdivision (b)(2) also eliminates the requirement that statements evidencing transmittal filed under Rule 5005(b)(2) be verified.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 5005 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in subd. (a)(2)(D), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subd. (a)(3)(D), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 5006. Certification of Copies of Papers ###
+### Rule 5006. Providing Certified Copies ###
 
-The clerk shall issue a certified copy of the record of any proceeding in a case under the Code or of any paper filed with the clerk on payment of any prescribed fee.
+Upon payment of the prescribed fee, the clerk must issue a certified copy of the record of any proceeding or any paper filed with the clerk.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991.)
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5376,15 +7074,23 @@ Fees for certification and copying are fixed by the Judicial Conference under 28
 
 Rule 1101 F. R. Evid. makes the Federal Rules of Evidence applicable to cases under the Code. Rule 1005 F. R. Evid. allows the contents of an official record or of a paper filed with the court to be proved by a duly certified copy. A copy certified and issued in accordance with Rule 5006 is accorded authenticity by Rule 902(4) F. R. Evid.
 
-### Rule 5007. Record of Proceedings and Transcripts ###
+#### Committee Notes on Rules—2024 Amendment ####
 
- (a) Filing of Record or Transcript. The reporter or operator of a recording device shall certify the original notes of testimony, tape recording, or other original record of the proceeding and promptly file them with the clerk. The person preparing any transcript shall promptly file a certified copy.
+The language of Rule 5006 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Transcript Fees. The fees for copies of transcripts shall be charged at rates prescribed by the Judicial Conference of the United States. No fee may be charged for the certified copy filed with the clerk.
+### Rule 5007. Record of Proceedings; Transcripts ###
 
-(c) Admissibility of Record in Evidence. A certified sound recording or a transcript of a proceeding shall be admissible as prima facie evidence to establish the record.
+ (a) Filing Original Notes, Tape Recordings, and Other Original Records of a Proceeding; Transcripts.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+(1) *Records*. The reporter or operator of a recording device must certify the original notes of testimony, any tape recordings, and other original records of a proceeding and must promptly file them with the clerk.
+
+(2) *Transcripts*. A person who prepares a transcript must promptly file a certified copy with the clerk.
+
+(b) Fee for a Transcript. The fee for a copy of a transcript must be charged at the rate prescribed by the Judicial Conference of the United States. No fee may be charged for filing the certified copy
+
+(c) Sound Recording or Transcript as Prima Facie Evidence. In any proceeding, a certified sound recording or a transcript of a proceeding is admissible as prima facie evidence of the record.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5398,11 +7104,17 @@ This rule supplements 28 U.S.C. §773. A record of proceedings before the bankru
 
 The words "with the clerk" in the final sentence of subdivision (a) are deleted as unnecessary. See Rules 5005(a) and 9001(3).
 
-### Rule 5008. Notice Regarding Presumption of Abuse in Chapter 7 Cases of Individual Debtors ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-If a presumption of abuse has arisen under §707(b) in a chapter 7 case of an individual with primarily consumer debts, the clerk shall within 10 days after the date of the filing of the petition notify creditors of the presumption of abuse in accordance with Rule 2002. If the debtor has not filed a statement indicating whether a presumption of abuse has arisen, the clerk shall within 10 days after the date of the filing of the petition notify creditors that the debtor has not filed the statement and that further notice will be given if a later filed statement indicates that a presumption of abuse has arisen. If a debtor later files a statement indicating that a presumption of abuse has arisen, the clerk shall notify creditors of the presumption of abuse as promptly as practicable.
+The language of Rule 5007 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(Added Apr. 23, 2008, eff. Dec. 1, 2008.)
+### Rule 5008. Chapter 7—Notice That a Presumption of Abuse Has Arisen Under §707(b) ###
+
+(a) Notice to Creditors. When a presumption of abuse under §707(b) arises in a Chapter 7 case of an individual debtor with primarily consumer debts, the clerk must, within 10 days after the petition is filed, so notify the creditors in accordance with Rule 2002.
+
+(b) Debtor's Statement. If the debtor does not file a statement indicating whether a presumption has arisen, the clerk must, within 10 days after the petition is filed, so notify creditors and indicate that further notice will be given if a later-filed statement shows that the presumption has arisen. If the debtor later files such a statement, the clerk must promptly notify the creditors.
+
+(Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1991 ####
 
@@ -5414,17 +7126,39 @@ This rule is new. The 2005 amendments to §342 of the Code require that clerks g
 
 *Changes Made After Publication*. No changes were made after publication.
 
-### Rule 5009. Closing Chapter 7, Chapter 12, Chapter 13, and Chapter 15 Cases; Order Declaring Lien Satisfied ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Closing of Cases Under Chapters 7, 12, and 13. If in a chapter 7, chapter 12, or chapter 13 case the trustee has filed a final report and final account and has certified that the estate has been fully administered, and if within 30 days no objection has been filed by the United States trustee or a party in interest, there shall be a presumption that the estate has been fully administered.
+The language of Rule 5008 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Notice of Failure To File Rule 1007(b)(7) Statement. If an individual debtor in a chapter 7 or 13 case is required to file a statement under Rule 1007(b)(7) and fails to do so within 45 days after the first date set for the meeting of creditors under §341(a) of the Code, the clerk shall promptly notify the debtor that the case will be closed without entry of a discharge unless the required statement is filed within the applicable time limit under Rule 1007(c).
+### Rule 5009. Closing a Chapter 7, 12, 13, or 15 Case; Declaring Liens Satisfied ###
 
-(c) Cases Under Chapter 15. A foreign representative in a proceeding recognized under §1517 of the Code shall file a final report when the purpose of the representative's appearance in the court is completed. The report shall describe the nature and results of the representative's activities in the court. The foreign representative shall transmit the report to the United States trustee, and give notice of its filing to the debtor, all persons or bodies authorized to administer foreign proceedings of the debtor, all parties to litigation pending in the United States in which the debtor was a party at the time of the filing of the petition, and such other entities as the court may direct. The foreign representative shall file a certificate with the court that notice has been given. If no objection has been filed by the United States trustee or a party in interest within 30 days after the certificate is filed, there shall be a presumption that the case has been fully administered.
+(a) Closing a Chapter 7, 12, or 13 Case. The estate in a Chapter 7, 12, or 13 case is presumed to have been fully administered when:
 
-(d) Order Declaring Lien Satisfied. In a chapter 12 or chapter 13 case, if a claim that was secured by property of the estate is subject to a lien under applicable nonbankruptcy law, the debtor may request entry of an order declaring that the secured claim has been satisfied and the lien has been released under the terms of a confirmed plan. The request shall be made by motion and shall be served on the holder of the claim and any other entity the court designates in the manner provided by Rule 7004 for service of a summons and complaint.
+(1) the trustee has filed a final report and final account and has certified that the estate has been fully administered; and
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 27, 2017, eff. Dec. 1, 2017.)
+(2) within 30 days after the filing, no objection to the report has been filed by the United States trustee or a party in interest.
+
+(b) Chapter 7 or 13—Notice of a Failure to File a Certificate of Completion for a Course on Personal Financial Management. This subdivision (b) applies if an individual debtor in a Chapter 7 or 13 case is required to file a certificate under Rule 1007(b)(7) and fails to do so within 45 days after the first date set for the meeting of creditors under §341(a). The clerk must promptly notify the debtor that the case will be closed without entering a discharge if the certificate is not filed within the time prescribed by Rule 1007(c).
+
+(c) Closing a Chapter 15 Case.
+
+(1) *Foreign Representative's Final Report*. In a proceeding recognized under §1517, when the purpose of a foreign representative's appearance is completed, the representative must file a final report describing the nature and results of the representative's activities in the court.
+
+(2) *Giving Notice of the Report*. The representative must send a copy of the report to the United States trustee, give notice of its filing, and file a certificate indicating that the notice has been given to:
+
+(A) the debtor;
+
+(B) all persons or bodies authorized to administer the debtor's foreign proceedings;
+
+(C) all parties to litigation pending in the United States in which the debtor was a party when the petition was filed; and
+
+(D) any other entity the court designates.
+
+(3) *Presumption of Full Administration*. If the United States trustee or a party in interest does not file an objection within 30 days after the certificate is filed, the case is presumed to have been fully administered.
+
+(d) *Order Declaring a Lien Satisfied*.<sup><a href="#Rule_5009_1_target" name="Rule_5009_1">1</a></sup> This subdivision (d) applies in a Chapter 12 or 13 case when a claim secured by property of the estate is subject to a lien under applicable nonbankruptcy law. The debtor may move for an order declaring that the secured claim has been satisfied and the lien has been released under the terms of the confirmed plan. The motion must be served—in the manner provided by Rule 7004 for serving a summons and complaint—on the claim holder and any other entity the court designates.
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5456,11 +7190,21 @@ Subdivision (d) is added to provide a procedure by which a debtor in a chapter 1
 
 Other changes to this rule are stylistic.
 
-### Rule 5010. Reopening Cases ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-A case may be reopened on motion of the debtor or other party in interest pursuant to §350(b) of the Code. In a chapter 7, 12, or 13 case a trustee shall not be appointed by the United States trustee unless the court determines that a trustee is necessary to protect the interests of creditors and the debtor or to insure efficient administration of the case.
+The language of Rule 5009 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+Additionally, the following substantive changes have been made.
+
+The amendments to Rule 5009(b) reflect the amendment to Rule 1007(b)(7) that replaces the requirement for submission of a statement showing that the debtor has completed a course on personal financial management with the requirement that the debtor provide the certificate of course completion issued by the approved provider of that course.
+
+[<sup>1</sup> So in original. The heading probably should not be italicized.](#Rule_5009_1)
+
+### Rule 5010. Reopening a Case ###
+
+On the debtor's or another party in interest's motion, the court may, under §350(b), reopen a case. In a reopened Chapter 7, 12, or 13 case, the United States trustee must not appoint a trustee unless the court determines that one is needed to protect the interests of the creditors and the debtor, or to ensure that the reopened case is efficiently administered.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5478,15 +7222,21 @@ In order to avoid unnecessary cost and delay, the rule is amended to permit reop
 
 This rule is amended to conform to the 1986 amendments to the Code that give the United States trustee the duty to appoint trustees in chapter 7, 12 and 13 cases. See §§701, 702(d), 1202(a), and 1302(a) of the Code. In most reopened cases, a trustee is not needed because there are no assets to be administered. Therefore, in the interest of judicial economy, this rule is amended so that a motion will not be necessary unless the United States trustee or a party in interest seeks the appointment of a trustee in the reopened case.
 
-### Rule 5011. Withdrawal and Abstention from Hearing a Proceeding ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Withdrawal. A motion for withdrawal of a case or proceeding shall be heard by a district judge.
+The language of Rule 5010 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Abstention From Hearing a Proceeding. A motion for abstention pursuant to 28 U.S.C. §1334(c) shall be governed by Rule 9014 and shall be served on the parties to the proceeding.
+### Rule 5011. Motion to Withdraw a Case or Proceeding or to Abstain from Hearing a Proceeding; Staying a Proceeding ###
 
-(c) Effect of Filing of Motion for Withdrawal or Abstention. The filing of a motion for withdrawal of a case or proceeding or for abstention pursuant to 28 U.S.C. §1334(c) shall not stay the administration of the case or any proceeding therein before the bankruptcy judge except that the bankruptcy judge may stay, on such terms and conditions as are proper, proceedings pending disposition of the motion. A motion for a stay ordinarily shall be presented first to the bankruptcy judge. A motion for a stay or relief from a stay filed in the district court shall state why it has not been presented to or obtained from the bankruptcy judge. Relief granted by the district judge shall be on such terms and conditions as the judge deems proper.
+(a) Withdrawing a Case or Proceeding. A motion to withdraw a case or proceeding under 28 U.S.C. §157(d) must be heard by a district judge.
 
-(Added Mar. 30, 1987, eff. Aug. 1, 1987; amended Apr. 30, 1991, eff. Aug. 1, 1991.)
+(b) Abstaining from Hearing a Proceeding. Rule 9014 governs a motion asking the court to abstain from hearing a proceeding under 28 U.S.C. §1334(c). The motion must be served on all parties to the proceeding.
+
+(c) Staying a Proceeding After a Motion to Withdraw or Abstain. A motion filed under (a) or (b) does not stay proceedings in a case or affect its administration. But a bankruptcy judge may, on proper terms and conditions, stay a proceeding until the motion is decided.
+
+(d) Motion to Stay a Proceeding. A motion to stay a proceeding must ordinarily be submitted first to the bankruptcy judge. If it—or a motion for relief from a stay—is filed in the district court, the motion must state why it was not first presented to or obtained from the bankruptcy judge. The district judge may grant relief on proper terms and conditions.
+
+(Added Mar. 30, 1987, eff. Aug. 1, 1987; amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1987 ####
 
@@ -5504,11 +7254,25 @@ This rule does not apply to motions under §305 of the Code for abstention from 
 
 *Subdivision (b)* is amended to delete the restriction that limits the role of the bankruptcy court to the filing of a report and recommendation for disposition of a motion for abstention under 28 U.S.C. §1334(c)(2). This amendment is consistent with §309(b) of the Judicial Improvements Act of 1990 which amended §1334(c)(2) so that it allows an appeal to the district court of a bankruptcy court's order determining an abstention motion. This subdivision is also amended to clarify that the motion is a contested matter governed by Rule 9014 and that it must be served on all parties to the proceeding which is the subject of the motion.
 
-### Rule 5012. Agreements Concerning Coordination of Proceedings in Chapter 15 Cases ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-Approval of an agreement under §1527(4) of the Code shall be sought by motion. The movant shall attach to the motion a copy of the proposed agreement or protocol and, unless the court directs otherwise, give at least 30 days' notice of any hearing on the motion by transmitting the motion to the United States trustee, and serving it on the debtor, all persons or bodies authorized to administer foreign proceedings of the debtor, all entities against whom provisional relief is being sought under §1519, all parties to litigation pending in the United States in which the debtor was a party at the time of the filing of the petition, and such other entities as the court may direct.
+The language of Rule 5011 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(Added Apr. 28, 2010, eff. Dec. 1, 2010.)
+### Rule 5012. Chapter 15—Agreement to Coordinate Proceedings ###
+
+An agreement to coordinate proceedings under §1527(4) may be approved on motion with an attached copy of the agreement or protocol. Unless the court orders otherwise, the movant must give at least 30 days' notice of any hearing on the motion by sending a copy to the United States trustee and serving it on:
+
+• the debtor;
+
+• all persons or bodies authorized to administer the debtor's foreign proceedings;
+
+• all entities against whom provisional relief is sought under §1519;
+
+• all parties to litigation pending in the United States in which the debtor was a party when the petition was filed; and
+
+• any other entity the court designates.
+
+(Added Apr. 28, 2010, eff. Dec. 1, 2010; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2010 ####
 
@@ -5516,23 +7280,33 @@ This rule is new. In chapter 15 cases, any party in interest may seek approval o
 
 *Changes Made After Publication*. No changes since publication.
 
-### PART VI—COLLECTION AND LIQUIDATION OF THE ESTATE ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-### Rule 6001. Burden of Proof As to Validity of Postpetition Transfer ###
+The language of Rule 5012 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-Any entity asserting the validity of a transfer under §549 of the Code shall have the burden of proof.
+### PART VI—COLLECTING AND LIQUIDATING THE ESTATE ###
+
+### Rule 6001. Burden of Proving the Validity of a Postpetition Transfer ###
+
+An entity that asserts the validity of a postpetition transfer under §549 has the burden of proof.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 This rule is derived from former Bankruptcy Rule 603. The Act contained, in §70d, a provision placing the burden of proof on the same person as did Rule 603. The Code does not contain any directive with respect to the burden of proof. This omission, in all probability, resulted from the intention to leave matters affecting evidence to these rules. See H. Rep. No. 95–595, 95th Cong. 1st Sess. (1977) 293.
 
-### Rule 6002. Accounting by Prior Custodian of Property of the Estate ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Accounting Required. Any custodian required by the Code to deliver property in the custodian's possession or control to the trustee shall promptly file and transmit to the United States trustee a report and account with respect to the property of the estate and the administration thereof.
+The language of Rule 6001 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Examination of Administration. On the filing and transmittal of the report and account required by subdivision (a) of this rule and after an examination has been made into the superseded administration, after notice and a hearing, the court shall determine the propriety of the administration, including the reasonableness of all disbursements.
+### Rule 6002. Custodian's Report to the United States Trustee ###
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993.)
+(a) Custodian's Report and Account. A custodian required by the Code to deliver property to the trustee must promptly file and send to the United States trustee a report and account about the property of the estate and its administration.
+
+(b) Examining the Administration. After the custodian's report and account has been filed and the superseded administration has been examined, the court must, after notice and a hearing, determine whether the custodian's administration has been proper, including whether disbursements have been reasonable.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5550,17 +7324,25 @@ This rule is amended to enable the United States trustee to review, object to, o
 
 *Subdivision (b)* is amended to conform to the language of §102(1) of the Code.
 
-### Rule 6003. Interim and Final Relief Immediately Following the Commencement of the Case—Applications for Employment; Motions for Use, Sale, or Lease of Property; and Motions for Assumption or Assignment of Executory Contracts ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-Except to the extent that relief is necessary to avoid immediate and irreparable harm, the court shall not, within 21 days after the filing of the petition, issue an order granting the following:
+The language of Rule 6002 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(a) an application under Rule 2014;
+### Rule 6003. Prohibition on Granting Certain Applications and Motions Made Immediately After the Petition Is Filed ###
 
-(b) a motion to use, sell, lease, or otherwise incur an obligation regarding property of the estate, including a motion to pay all or part of a claim that arose before the filing of the petition, but not a motion under Rule 4001; or
+(a) In General. Unless relief is needed to avoid immediate and irreparable harm, the court must not, within 21 days after the petition is filed, grant an application or motion to:
 
-(c) a motion to assume or assign an executory contract or unexpired lease in accordance with §365.
+(1) employ a professional person under Rule 2014;
 
-(Added Apr. 30, 2007, eff. Dec. 1, 2007; amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(2) use, sell, or lease property of the estate, including a motion to pay all or a part of a claim that arose before the petition was filed;
+
+(3) incur any other obligation regarding the property of the estate; or
+
+(4) assume or assign an executory contract or unexpired lease under §365.
+
+(b) Exception. This rule does not apply to a motion under Rule 4001.
+
+(Added Apr. 30, 2007, eff. Dec. 1, 2007; amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1991 ####
 
@@ -5598,33 +7380,87 @@ The amendment also clarifies that the scope of the rule is limited to granting t
 
 *Changes Made After Publication*. Minor stylistic changes were made to the Committee Note following publication.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 6003 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### Rule 6004. Use, Sale, or Lease of Property ###
 
-(a) Notice of Proposed Use, Sale, or Lease of Property. Notice of a proposed use, sale, or lease of property, other than cash collateral, not in the ordinary course of business shall be given pursuant to Rule 2002(a)(2), (c)(1), (i), and (k) and, if applicable, in accordance with §363(b)(2) of the Code.
+(a) Notice.
 
-(b) Objection to Proposal. Except as provided in subdivisions (c) and (d) of this rule, an objection to a proposed use, sale, or lease of property shall be filed and served not less than seven days before the date set for the proposed action or within the time fixed by the court. An objection to the proposed use, sale, or lease of property is governed by Rule 9014.
+(1) *In General*. Notice of a proposed use, sale, or lease of property that is not in the ordinary course of business must be given:
 
-(c) Sale Free and Clear of Liens and Other Interests. A motion for authority to sell property free and clear of liens or other interests shall be made in accordance with Rule 9014 and shall be served on the parties who have liens or other interests in the property to be sold. The notice required by subdivision (a) of this rule shall include the date of the hearing on the motion and the time within which objections may be filed and served on the debtor in possession or trustee.
+(A) under Rule 2002(a)(2), (c)(1), (i), and (k); and
 
-(d) Sale of Property Under $2,500. Notwithstanding subdivision (a) of this rule, when all of the nonexempt property of the estate has an aggregate gross value less than $2,500, it shall be sufficient to give a general notice of intent to sell such property other than in the ordinary course of business to all creditors, indenture trustees, committees appointed or elected pursuant to the Code, the United States trustee and other persons as the court may direct. An objection to any such sale may be filed and served by a party in interest within 14 days of the mailing of the notice, or within the time fixed by the court. An objection is governed by Rule 9014.
+(B) in accordance with §363(b)(2), if applicable.
 
-(e) Hearing. If a timely objection is made pursuant to subdivision (b) or (d) of this rule, the date of the hearing thereon may be set in the notice given pursuant to subdivision (a) of this rule.
+(2) *Exceptions*. Notice is not required if (d) applies or the proposal involves cash collateral only.
 
-(f) Conduct of Sale Not in the Ordinary Course of Business.
+(b) Objection. Except as provided in (c) and (d), an objection to a proposed use, sale, or lease of property must be filed and served at least 7 days before the date set for the proposed action or within the time set by the court. Rule 9014 governs the objection.
 
-(1) *Public or Private Sale*. All sales not in the ordinary course of business may be by private sale or by public auction. Unless it is impracticable, an itemized statement of the property sold, the name of each purchaser, and the price received for each item or lot or for the property as a whole if sold in bulk shall be filed on completion of a sale. If the property is sold by an auctioneer, the auctioneer shall file the statement, transmit a copy thereof to the United States trustee, and furnish a copy to the trustee, debtor in possession, or chapter 13 debtor. If the property is not sold by an auctioneer, the trustee, debtor in possession, or chapter 13 debtor shall file the statement and transmit a copy thereof to the United States trustee.
+(c) Motion to Sell Property Free and Clear of Liens and Other Interests; Objection. A motion for authority to sell property free and clear of liens or other interests must be made in accordance with Rule 9014 and served on the parties who have the liens or other interests. The notice required by (a) must include:
 
-(2) *Execution of Instruments*. After a sale in accordance with this rule the debtor, the trustee, or debtor in possession, as the case may be, shall execute any instrument necessary or ordered by the court to effectuate the transfer to the purchaser.
+(1) the date of the hearing on the motion; and
 
-(g) Sale of Personally Identifiable Information.
+(2) the time to file and serve an objection on the debtor in possession or trustee.
 
-(1) *Motion*. A motion for authority to sell or lease personally identifiable information under §363(b)(1)(B) shall include a request for an order directing the United States trustee to appoint a consumer privacy ombudsman under §332. Rule 9014 governs the motion which shall be served on: any committee elected under §705 or appointed under §1102 of the Code, or if the case is a chapter 11 reorganization case and no committee of unsecured creditors has been appointed under §1102, on the creditors included on the list of creditors filed under Rule 1007(d); and on such other entities as the court may direct. The motion shall be transmitted to the United States trustee.
+(d) Notice of an Intent to Sell Property Valued at Less Than $2,500; Objection. If all the nonexempt property of the estate—in the aggregate—has a gross value less than $2,500, a notice of an intent to sell the property that is not in the ordinary course of business must be given to:
 
-(2) *Appointment*. If a consumer privacy ombudsman is appointed under §332, no later than seven days before the hearing on the motion under §363(b)(1)(B), the United States trustee shall file a notice of the appointment, including the name and address of the person appointed. The United States trustee's notice shall be accompanied by a verified statement of the person appointed setting forth the person's connections with the debtor, creditors, any other party in interest, their respective attorneys and accountants, the United States trustee, or any person employed in the office of the United States trustee.
+• all creditors;
 
-(h) Stay of Order Authorizing Use, Sale, or Lease of Property. An order authorizing the use, sale, or lease of property other than cash collateral is stayed until the expiration of 14 days after entry of the order, unless the court orders otherwise.
+• all indenture trustees;
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
+• any committees appointed or elected under the Code;
+
+• the United States trustee; and
+
+• other persons as the court orders.
+
+A party in interest may file and serve an objection within 14 days after the notice is mailed or within the time set by the court. Rule 9014 governs the objection.
+
+(e) Notice of a Hearing on an Objection. The date of a hearing on an objection under (b) or (d) may be set in the notice under (a).
+
+(f) Conducting a Sale That Is Not in the Ordinary Course of Business.
+
+(1) *Public Auction or Private Sale.*
+
+(A) *Itemized Statement Required*. A sale that is not in the ordinary course of business may be made by public auction or private sale. Unless it is impracticable, when the sale is completed, an itemized statement must be filed that shows:
+
+• the property sold;
+
+• the name of each purchaser; and
+
+• the consideration received for each item or lot or, if sold in bulk, for the entire property.
+
+(B) *If by an Auctioneer*. If the property is sold by an auctioneer, the auctioneer must file the itemized statement and send a copy to the United States trustee and to either the trustee, debtor in possession, or Chapter 13 debtor.
+
+(C) *If Not by an Auctioneer*. If the property is not sold by an auctioneer, the trustee, debtor in possession, or Chapter 13 debtor must file the itemized statement and send a copy to the United States trustee.
+
+(2) *Signing the Sale Documents*. When a sale is complete, the debtor, trustee, or debtor in possession must sign any document that is necessary or court-ordered to transfer the property to the purchaser.
+
+(g) Selling Personally Identifiable Information.
+
+(1) *Request for a Consumer-Privacy Ombudsman*. A motion for authority to sell or lease personally identifiable information under §363(b)(1)(B) must include a request for an order directing the United States trustee to appoint a consumer-privacy ombudsman under §332. Rule 9014 governs the motion. It must be sent to the United States trustee and served on:
+
+• any committee elected under §705 or appointed under §1102;
+
+• in a Chapter 11 case in which no committee of unsecured creditors has been appointed under §1102, on the creditors included on the list filed under Rule 1007(d); and
+
+• other entities as the court orders.
+
+(2) *Notice That an Ombudsman Has Been Appointed*. If a consumer-privacy ombudsman is appointed, the United States trustee must give notice of the appointment at least 7 days before the hearing on any motion under §363(b)(1)(B). The notice must give the name and address of the person appointed and include the person's verified statement that sets forth any connection with:
+
+• the debtor, creditors, or any other party in interest;
+
+• their respective attorneys and accountants;
+
+• the United States trustee; and
+
+• any person employed in the United States trustee's office.
+
+(h) Staying an Order Authorizing the Use, Sale, or Lease of Property. Unless the court orders otherwise, an order authorizing the use, sale, or lease of property (other than cash collateral) is stayed for 14 days after the order is entered.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5688,11 +7524,15 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 • 25-day periods become 28-day periods
 
-### Rule 6005. Appraisers and Auctioneers ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-The order of the court approving the employment of an appraiser or auctioneer shall fix the amount or rate of compensation. No officer or employee of the Judicial Branch of the United States or the United States Department of Justice shall be eligible to act as appraiser or auctioneer. No residence or licensing requirement shall disqualify an appraiser or auctioneer from employment.
+The language of Rule 6004 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991.)
+### Rule 6005. Employing an Appraiser or Auctioneer ###
+
+A court order approving the employment of an appraiser or auctioneer must set the amount or rate of compensation. An officer or employee of the United States judiciary or United States Department of Justice is not eligible to act as an appraiser or auctioneer. No residence or licensing requirement disqualifies a person from being so employed.
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5700,35 +7540,55 @@ This rule is derived from former Bankruptcy Rule 606(c) and implements §327 of 
 
 Reference should also be made to Rule 2013(a) regarding the limitation on employment of appraisers and auctioneers, and Rule 2014(a) regarding the application for appointment of an appraiser or auctioneer.
 
-### Rule 6006. Assumption, Rejection or Assignment of an Executory Contract or Unexpired Lease ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Proceeding To Assume, Reject, or Assign. A proceeding to assume, reject, or assign an executory contract or unexpired lease, other than as part of a plan, is governed by Rule 9014.
+The language of Rule 6005 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Proceeding To Require Trustee To Act. A proceeding by a party to an executory contract or unexpired lease in a chapter 9 municipality case, chapter 11 reorganization case, chapter 12 family farmer's debt adjustment case, or chapter 13 individual's debt adjustment case, to require the trustee, debtor in possession, or debtor to determine whether to assume or reject the contract or lease is governed by Rule 9014.
+### Rule 6006. Assuming, Rejecting, or Assigning an Executory Contract or Unexpired Lease ###
 
-(c) Notice. Notice of a motion made pursuant to subdivision (a) or (b) of this rule shall be given to the other party to the contract or lease, to other parties in interest as the court may direct, and, except in a chapter 9 municipality case, to the United States trustee.
+(a) Procedure in General. Rule 9014 governs a proceeding to assume, reject, or assign an executory contract or unexpired lease, other than as part of a plan.
 
-(d) Stay of Order Authorizing Assignment. An order authorizing the trustee to assign an executory contract or unexpired lease under §365(f) is stayed until the expiration of 14 days after the entry of the order, unless the court orders otherwise.
+(b) Requiring a Trustee, Debtor in Possession, or Debtor to Assume or Reject a Contract or Lease. In a Chapter 9, 11, 12, or 13 case, Rule 9014 governs a proceeding by a party to an executory contract or unexpired lease to require the trustee, debtor in possession, or debtor to determine whether to assume or reject the contract or lease.
 
-(e) Limitations. The trustee shall not seek authority to assume or assign multiple executory contracts or unexpired leases in one motion unless: (1) all executory contracts or unexpired leases to be assumed or assigned are between the same parties or are to be assigned to the same assignee; (2) the trustee seeks to assume, but not assign to more than one assignee, unexpired leases of real property; or (3) the court otherwise authorizes the motion to be filed. Subject to subdivision (f), the trustee may join requests for authority to reject multiple executory contracts or unexpired leases in one motion.
+(c) Notice of a Motion. Notice of a motion under (a) or (b) must be given to:
 
-(f) Omnibus Motions. A motion to reject or, if permitted under subdivision (e), a motion to assume or assign multiple executory contracts or unexpired leases that are not between the same parties shall:
+• the other party to the contract or lease;
 
-(1) state in a conspicuous place that parties receiving the omnibus motion should locate their names and their contracts or leases listed in the motion;
+• other parties in interest as the court orders; and
 
-(2) list parties alphabetically and identify the corresponding contract or lease;
+• except in a Chapter 9 case, the United States trustee.
 
-(3) specify the terms, including the curing of defaults, for each requested assumption or assignment;
+(d) Staying an Order Authorizing an Assignment. Unless the court orders otherwise, an order authorizing the trustee to assign an executory contract or unexpired lease under §365(f) is stayed for 14 days after the order is entered.
 
-(4) specify the terms, including the identity of each assignee and the adequate assurance of future performance by each assignee, for each requested assignment;
+(e) Combining in One Motion a Request Involving Multiple Contracts or Leases.
 
-(5) be numbered consecutively with other omnibus motions to assume, assign, or reject executory contracts or unexpired leases; and
+(1) *Requests to Assume or Assign*. The trustee must not seek authority to assume or assign multiple executory contracts or unexpired leases in one omnibus motion unless:
+
+(A) they are all between the same parties or are to be assigned to the same assignee;
+
+(B) the trustee seeks to assume—but not assign to more than one assignee—unexpired leases of real property; or
+
+(C) the court allows the motion to be filed.
+
+(2) *Requests to Reject*. Subject to (f), a trustee may join in one omnibus motion requests for authority to reject multiple executory contracts or unexpired leases.
+
+(f) Content of an Omnibus Motion. A motion to reject—or, if permitted under (e), a motion to assume or assign—multiple executory contracts or unexpired leases that are not between the same parties must:
+
+(1) state in a conspicuous place that the parties' names and their contracts or leases are listed in the motion;
+
+(2) list the parties alphabetically and identify the corresponding contract or lease;
+
+(3) specify the terms, including how a default will be cured, for each requested assumption or assignment;
+
+(4) specify the terms, including the assignee's identity and the adequate assurance of future performance by each assignee, for each requested assignment;
+
+(5) be numbered consecutively with other omnibus motions to reject, assume, or assign executory contracts or unexpired leases; and
 
 (6) be limited to no more than 100 executory contracts or unexpired leases.
 
-(g) Finality of Determination. The finality of any order respecting an executory contract or unexpired lease included in an omnibus motion shall be determined as though such contract or lease had been the subject of a separate motion.
+(g) Determining the Finality of an Order Regarding an Omnibus Motion. The finality of an order regarding any executory contract or unexpired lease included in an omnibus motion must be determined as though the contract or lease were the subject of a separate motion.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 30 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5792,15 +7652,45 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 • 25-day periods become 28-day periods
 
-### Rule 6007. Abandonment or Disposition of Property ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Notice of Proposed Abandonment or Disposition; Objections; Hearing. Unless otherwise directed by the court, the trustee or debtor in possession shall give notice of a proposed abandonment or disposition of property to the United States trustee, all creditors, indenture trustees, and committees elected pursuant to §705 or appointed pursuant to §1102 of the Code. A party in interest may file and serve an objection within 14 days of the mailing of the notice, or within the time fixed by the court. If a timely objection is made, the court shall set a hearing on notice to the United States trustee and to other entities as the court may direct.
+The language of Rule 6006 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Motion by Party in Interest. A party in interest may file and serve a motion requiring the trustee or debtor in possession to abandon property of the estate. Unless otherwise directed by the court, the party filing the motion shall serve the motion and any notice of the motion on the trustee or debtor in possession, the United States trustee, all creditors, indenture trustees, and committees elected pursuant to §705 or appointed pursuant to §1102 of the Code. A party in interest may file and serve an objection within 14 days of service, or within the time fixed by the court. If a timely objection is made, the court shall set a hearing on notice to the United States trustee and to other entities as the court may direct. If the court grants the motion, the order effects the trustee's or debtor in possession's abandonment without further notice, unless otherwise directed by the court.
+### Rule 6007. Abandoning or Disposing of Property ###
 
-[(c) Hearing] (Abrogated Apr. 22, 1993, eff. Aug. 1, 1993)
+(a) Notice by the Trustee or Debtor in Possession.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2019, eff. Dec. 1, 2019.)
+(1) *In General*. Unless the court orders otherwise, the trustee or debtor in possession must give notice of a proposed abandonment or disposition of property to:
+
+• all creditors;
+
+• all indenture trustees;
+
+• any committees appointed or elected under the Code; and
+
+• the United States trustee.
+
+(2) *Objection*. A party in interest may file and serve an objection within 14 days after the notice is mailed or within the time set by the court. If a timely objection is filed, the court must set a hearing on notice to the United States trustee and other entities as the court orders.
+
+(b) Motion by a Party in Interest.
+
+(1) *Service*. A party in interest may file and serve a motion to require the trustee or debtor in possession to abandon property of the estate. Unless the court orders otherwise, the motion (and any notice of it) must be served on:
+
+• the trustee or debtor in possession;
+
+• all creditors;
+
+• all indenture trustees;
+
+• any committees appointed or elected under the Code; and
+
+• the United States trustee.
+
+(2) *Objection*. A party in interest may file and serve an objection within 14 days after service or within the time set by the court. If a timely objection is filed, the court must set a hearing on notice to the United States trustee and other entities as the court orders.
+
+(3) *Order*. Unless the court orders otherwise, an order granting the motion to abandon property effects the trustee's or debtor in possession's abandonment without further notice.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5838,9 +7728,15 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 Subdivision (b) of the rule is amended to specify the parties to be served with the motion and any notice of the motion. The rule also establishes an objection deadline. Both of these changes align subdivision (b) more closely with the procedures set forth in subdivision (a). In addition, the rule clarifies that no further action is necessary to notice or effect the abandonment of property ordered by the court in connection with a motion filed under subdivision (b), unless the court directs otherwise.
 
-### Rule 6008. Redemption of Property from Lien or Sale ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-On motion by the debtor, trustee, or debtor in possession and after hearing on notice as the court may direct, the court may authorize the redemption of property from a lien or from a sale to enforce a lien in accordance with applicable law.
+The language of Rule 6007 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+### Rule 6008. Redeeming Property from a Lien or a Sale to Enforce a Lien ###
+
+On motion by the debtor, trustee, or debtor in possession and after a hearing on notice as the court may order, the court may authorize property to be redeemed from a lien or from a sale to enforce a lien under applicable law.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5848,19 +7744,33 @@ This rule is derived from former Bankruptcy Rule 609. No provision in the Code a
 
 The rule applies also to a debtor exercising a right of redemption pursuant to §722. A proceeding under that section is governed by Rule 9014.
 
-### Rule 6009. Prosecution and Defense of Proceedings by Trustee or Debtor in Possession ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-With or without court approval, the trustee or debtor in possession may prosecute or may enter an appearance and defend any pending action or proceeding by or against the debtor, or commence and prosecute any action or proceeding in behalf of the estate before any tribunal.
+The language of Rule 6008 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+### Rule 6009. Right of the Trustee or Debtor in Possession to Prosecute and Defend Proceedings ###
+
+With or without court approval, the trustee or debtor in possession may:
+
+(a) prosecute—or appear in and defend—any pending action or proceeding by or against the debtor; or
+
+(b) commence and prosecute in any tribunal an action or proceeding on the estate's behalf.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 This rule is derived from former Bankruptcy Rule 610.
 
-### Rule 6010. Proceeding to Avoid Indemnifying Lien or Transfer to Surety ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-If a lien voidable under §547 of the Code has been dissolved by the furnishing of a bond or other obligation and the surety thereon has been indemnified by the transfer of, or the creation of a lien upon, nonexempt property of the debtor, the surety shall be joined as a defendant in any proceeding to avoid the indemnifying transfer or lien. Such proceeding is governed by the rules in Part VII.
+The language of Rule 6009 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991.)
+### Rule 6010. Avoiding an Indemnifying Lien or a Transfer to a Surety ###
+
+This rule applies if a lien voidable under §547 has been dissolved by furnishing a bond or other obligation, and the surety has been indemnified by the transfer of or creation of a lien on the debtor's nonexempt property. The surety must be joined as a defendant in any proceeding to avoid that transfer or lien. Part VII governs the proceeding.
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5870,25 +7780,45 @@ This rule is derived from former Bankruptcy Rule 612.
 
 This rule is amended to conform to §550(a) of the Code which provides that the trustee may recover the property transferred in a voidable transfer. The value of the property may be recovered in lieu of the property itself only if the court so orders.
 
-### Rule 6011. Disposal of Patient Records in Health Care Business Case ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Notice by Publication Under §351(1)(A). A notice regarding the claiming or disposing of patient records under §351(1)(A) shall not identify any patient by name or other identifying information, but shall:
+The language of Rule 6010 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(1) identify with particularity the health care facility whose patient records the trustee proposes to destroy;
+### Rule 6011. Claiming Patient Records Scheduled for Destruction in a Health-Care-Business Case ###
 
-(2) state the name, address, telephone number, email address, and website, if any, of a person from whom information about the patient records may be obtained;
+(a) Notice by Publication About the Records. A notice by publication about destroying or claiming patient records under §351(1)(A) must not identify any patient by name or contain other identifying information. The notice must:
 
-(3) state how to claim the patient records; and
+(1) identify with particularity the health-care facility whose patient records the trustee proposes to destroy;
 
-(4) state the date by which patient records must be claimed, and that if they are not so claimed the records will be destroyed.
+(2) state the name, address, telephone number, email address, and website (if any) of the person from whom information about the records may be obtained;
 
-(b) Notice by Mail Under §351(1)(B). Subject to applicable nonbankruptcy law relating to patient privacy, a notice regarding the claiming or disposing of patient records under §351(1)(B) shall, in addition to including the information in subdivision (a), direct that a patient's family member or other representative who receives the notice inform the patient of the notice. Any notice under this subdivision shall be mailed to the patient and any family member or other contact person whose name and address have been given to the trustee or the debtor for the purpose of providing information regarding the patient's health care, to the Attorney General of the State where the health care facility is located, and to any insurance company known to have provided health care insurance to the patient.
+(3) state how to claim the records and the final date for doing so; and
 
-(c) Proof of Compliance With Notice Requirement. Unless the court orders the trustee to file proof of compliance with §351(1)(B) under seal, the trustee shall not file, but shall maintain, the proof of compliance for a reasonable time.
+(4) state that if they are not claimed by that date, they will be destroyed.
 
-(d) Report of Destruction of Records. The trustee shall file, no later than 30 days after the destruction of patient records under §351(3), a report certifying that the unclaimed records have been destroyed and explaining the method used to effect the destruction. The report shall not identify any patient by name or other identifying information.
+(b) Notice by Mail About the Records.
 
-(Added Apr. 23, 2008, eff. Dec. 1, 2008.)
+(1) *Required Information*. Subject to applicable nonbankruptcy law relating to patient privacy, a notice by mail about destroying or claiming patient records under §351(1)(B) must:
+
+(A) include the information described in (a); and
+
+(B) direct a family member or other representative who receives the notice to tell the patient about it.
+
+(2) *Mailing*. The notice must be mailed to:
+
+• the patient;
+
+• any family member or other contact person whose name and address have been given to the trustee or debtor for providing information about the patient's health care;
+
+• the Attorney General of the State where the health-care facility is located; and
+
+• any insurance company known to have provided health-care insurance to the patient.
+
+(c) Proof of Compliance with Notice Requirements. Unless the court orders the trustee to file a proof of compliance with §351(1)(B) under seal, the trustee must keep the proof of compliance for a reasonable time but not file it.
+
+(d) Report on the Destruction of Unclaimed Records. Within 30 days after a patient's unclaimed records have been destroyed under §351(3), the trustee must file a report that certifies the destruction and explains the method used. The report must not identify any patient by name or by other identifying information.
+
+(Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2008 ####
 
@@ -5902,33 +7832,37 @@ Subdivision (d) requires the trustee to file a report with the court regarding t
 
 *Changes Made After Publication*. Subdivision (b)(2) was amended to add the Attorney General of the State where a health care facility is located to the list of entities entitled to notice of the disposal of patient records.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 6011 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### PART VII—ADVERSARY PROCEEDINGS ###
 
-### Rule 7001. Scope of Rules of Part VII ###
+### Rule 7001. Types of Adversary Proceedings ###
 
-An adversary proceeding is governed by the rules of this Part VII. The following are adversary proceedings:
+An adversary proceeding is governed by the rules in this Part VII. The following are adversary proceedings:
 
-(1) a proceeding to recover money or property, other than a proceeding to compel the debtor to deliver property to the trustee, or a proceeding under §554(b) or §725 of the Code, Rule 2017, or Rule 6002;
+(a) a proceeding to recover money or property—except a proceeding to compel the debtor to deliver property to the trustee, a proceeding by an individual debtor to recover tangible personal property under §542(a), or a proceeding under §554(b), §725, Rule 2017, or Rule 6002;
 
-(2) a proceeding to determine the validity, priority, or extent of a lien or other interest in property, but not a proceeding under Rule 3012 or Rule 4003(d);
+(b) a proceeding to determine the validity, priority, or extent of a lien or other interest in property—except a proceeding under Rule 3012 or Rule 4003(d);
 
-(3) a proceeding to obtain approval under §363(h) for the sale of both the interest of the estate and of a co-owner in property;
+(c) a proceeding to obtain authority under §363(h) to sell both the estate's interest in property and that of a co-owner;
 
-(4) a proceeding to object to or revoke a discharge, other than an objection to discharge under §§727(a)(8), <sup><a href="#Rule_7001_1_target" name="Rule_7001_1">1</a></sup> (a)(9), or 1328(f);
+(d) a proceeding to revoke or object to a discharge—except an objection under §727(a)(8) or (a)(9), or §1328(f);
 
-(5) a proceeding to revoke an order of confirmation of a chapter 11, chapter 12, or chapter 13 plan;
+(e) a proceeding to revoke an order confirming a plan in a Chapter 11, 12, or 13 case;
 
-(6) a proceeding to determine the dischargeability of a debt;
+(f) a proceeding to determine whether a debt is dischargeable;
 
-(7) a proceeding to obtain an injunction or other equitable relief, except when a chapter 9, chapter 11, chapter 12, or chapter 13 plan provides for the relief;
+(g) a proceeding to obtain an injunction or other equitable relief—except when the relief is provided in a Chapter 9, 11, 12, or 13 plan;
 
-(8) a proceeding to subordinate any allowed claim or interest, except when a chapter 9, chapter 11, chapter 12, or chapter 13 plan provides for subordination;
+(h) a proceeding to subordinate an allowed claim or interest—except when subordination is provided in a Chapter 9, 11, 12, or 13 plan;
 
-(9) a proceeding to obtain a declaratory judgment relating to any of the foregoing; or
+(i) a proceeding to obtain a declaratory judgment related to any proceeding described in (a)–(h); and
 
-(10) a proceeding to determine a claim or cause of action removed under 28 U.S.C. §1452.
+(j) a proceeding to determine a claim or cause of action removed under 28 U.S.C. §1452.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 27, 2017, eff. Dec. 1, 2017.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5998,11 +7932,19 @@ Paragraph (4) of the rule is amended to create an exception for objections to di
 
 Subdivision (2) is amended to provide that the determination of the amount of a secured claim under Rule 3012, like a proceeding by the debtor to avoid a lien on or other transfer of exempt property under Rule 4003(d), does not require an adversary proceeding. The determination of the amount of a secured claim may be sought by motion or through a chapter 12 or chapter 13 plan in accordance with Rule 3012. An adversary proceeding continues to be required for lien avoidance not governed by Rule 4003(d).
 
-[<sup>1</sup> So in original. Probably should be only one section symbol.](#Rule_7001_1)
+#### Committee Notes on Rules—2024 Amendment ####
 
-### Rule 7002. References to Federal Rules of Civil Procedure ###
+The language of Rule 7001 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-Whenever a Federal Rule of Civil Procedure applicable to adversary proceedings makes reference to another Federal Rule of Civil Procedure, the reference shall be read as a reference to the Federal Rule of Civil Procedure as modified in this Part VII.
+Additionally, the following substantive changes have been made.
+
+Paragraph (a) is amended to create an exception for certain turnover proceedings under §542(a) of the Code. An individual debtor may need to obtain the prompt return from a third party of tangible personal property—such as an automobile or tools of the trade—in order to produce income to fund a plan or to regain the use of property that may be exempted. As noted by Justice Sotomayor in her concurrence in *City of Chicago v. Fulton*, 141 S. Ct. 585, 592–95 (2021), the more formal procedures applicable to adversary proceedings can be too time-consuming in such a situation. Instead, the debtor can now proceed by motion to require turnover of such property under §542(a), and the procedures of Rule 9014 will apply. In an appropriate case, however, Rule 9014(c) allows the court to order that additional provisions of Part VII of the rules will apply to the matter.
+
+### Rule 7002. References to the Federal Rules of Civil Procedure ###
+
+When a Federal Rule of Civil Procedure applicable to an adversary proceeding refers to another civil rule, that reference is to the civil rule as modified by this Part VII.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -6010,61 +7952,123 @@ Rules 5, 12, 13, 14, 25, 27, 30, 41 and 52 F.R.Civ.P. are made applicable to adv
 
 Rules 7, 10, 12, 13, 14, 19, 22, 23.2, 24–37, 41, 45, 49, 50, 52, 55, 59, 60, 62 F.R.Civ.P. are made applicable to adversary proceedings by Part VII or generally to cases under the Code by Part IX. Each of those Federal Rules contains a cross reference to another Federal Rule which is not modified by the Part VII or Part IX rule which makes the cross-referenced Federal Rule applicable. Since the cross-referenced rule is not modified by a Part VII rule this Rule 7002 does not apply.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7002 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7003. Commencement of Adversary Proceeding ###
+### Rule 7003. Commencing an Adversary Proceeding ###
 
-Rule 3 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 3 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 Rule 5005(a) requires that a complaint commencing an adversary proceeding be filed with the court in which the case under the Code is pending unless 28 U.S.C. §1473 authorizes the filing of the complaint in another district.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7003 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7004. Process; Service of Summons, Complaint ###
+### Rule 7004. Process; Issuing and Serving a Summons and Complaint ###
 
-(a) Summons; Service; Proof of Service.
+(a) Issuing, Delivering, and Personally Serving a Summons and Complaint.
 
-(1) Except as provided in Rule 7004(a)(2), Rule 4(a), (b), (c)(1), (d)(5), (e)–(j), (l), and (m) F.R.Civ.P. applies in adversary proceedings. Personal service under Rule 4(e)–(j) F.R.Civ.P. may be made by any person at least 18 years of age who is not a party, and the summons may be delivered by the clerk to any such person.
+(1) *In General*. Except as provided in (2), Fed. R. Civ. P. 4(a), (b), (c)(1), (d)(5), (e)–(j), (l), and (m) applies in an adversary proceeding.
 
-(2) The clerk may sign, seal, and issue a summons electronically by putting an "s/" before the clerk's name and including the court's seal on the summons.
+(2) *Issuing and Delivering a Summons*. The clerk may:
 
-(b) Service by First Class Mail. Except as provided in subdivision (h), in addition to the methods of service authorized by Rule 4(e)–(j) F.R.Civ.P., service may be made within the United States by first class mail postage prepaid as follows:
+(A) sign, seal, and issue the summons electronically by placing an "s/" before the clerk's name and adding the court's seal to the summons; and
 
-(1) Upon an individual other than an infant or incompetent, by mailing a copy of the summons and complaint to the individual's dwelling house or usual place of abode or to the place where the individual regularly conducts a business or profession.
+(B) deliver the summons to the person who will serve it.
 
-(2) Upon an infant or an incompetent person, by mailing a copy of the summons and complaint to the person upon whom process is prescribed to be served by the law of the state in which service is made when an action is brought against such a defendant in the courts of general jurisdiction of that state. The summons and complaint in that case shall be addressed to the person required to be served at that person's dwelling house or usual place of abode or at the place where the person regularly conducts a business or profession.
+(3) *Personally Serving a Summons and Complaint*. Any person who is at least 18 years old and not a party may personally serve a summons and complaint under Fed. R. Civ. P. 4(e)–(j).
 
-(3) Upon a domestic or foreign corporation or upon a partnership or other unincorporated association, by mailing a copy of the summons and complaint to the attention of an officer, a managing or general agent, or to any other agent authorized by appointment or by law to receive service of process and, if the agent is one authorized by statute to receive service and the statute so requires, by also mailing a copy to the defendant.
+(b) Service by Mail as an Alternative. Except as provided in subdivision (h), in addition to the methods of service authorized by Fed. R. Civ. P. 4(e)–(j), a copy of a summons and complaint may be served by first-class mail, postage prepaid, within the United States on:
 
-(4) Upon the United States, by mailing a copy of the summons and complaint addressed to the civil process clerk at the office of the United States attorney for the district in which the action is brought and by mailing a copy of the summons and complaint to the Attorney General of the United States at Washington, District of Columbia, and in any action attacking the validity of an order of an officer or an agency of the United States not made a party, by also mailing a copy of the summons and complaint to that officer or agency. The court shall allow a reasonable time for service pursuant to this subdivision for the purpose of curing the failure to mail a copy of the summons and complaint to multiple officers, agencies, or corporations of the United States if the plaintiff has mailed a copy of the summons and complaint either to the civil process clerk at the office of the United States attorney or to the Attorney General of the United States.
+(1) an individual except an infant or an incompetent person—by mailing the copy to the individual's dwelling or usual place of abode or where the individual regularly conducts a business or profession;
 
-(5) Upon any officer or agency of the United States, by mailing a copy of the summons and complaint to the United States as prescribed in paragraph (4) of this subdivision and also to the officer or agency. If the agency is a corporation, the mailing shall be as prescribed in paragraph (3) of this subdivision of this rule. The court shall allow a reasonable time for service pursuant to this subdivision for the purpose of curing the failure to mail a copy of the summons and complaint to multiple officers, agencies, or corporations of the United States if the plaintiff has mailed a copy of the summons and complaint either to the civil process clerk at the office of the United States attorney or to the Attorney General of the United States. If the United States trustee is the trustee in the case and service is made upon the United States trustee solely as trustee, service may be made as prescribed in paragraph (10) of this subdivision of this rule.
+(2) an infant or incompetent person—by mailing the copy:
 
-(6) Upon a state or municipal corporation or other governmental organization thereof subject to suit, by mailing a copy of the summons and complaint to the person or office upon whom process is prescribed to be served by the law of the state in which service is made when an action is brought against such a defendant in the courts of general jurisdiction of that state, or in the absence of the designation of any such person or office by state law, then to the chief executive officer thereof.
+(A) to a person who, under the law of the state where service is made, is authorized to receive service on behalf of the infant or incompetent person when an action is brought in that state's courts of general jurisdiction; and
 
-(7) Upon a defendant of any class referred to in paragraph (1) or (3) of this subdivision of this rule, it is also sufficient if a copy of the summons and complaint is mailed to the entity upon whom service is prescribed to be served by any statute of the United States or by the law of the state in which service is made when an action is brought against such a defendant in the court of general jurisdiction of that state.
+(B) at that person's dwelling or usual place of abode or where the person regularly conducts a business or profession;
 
-(8) Upon any defendant, it is also sufficient if a copy of the summons and complaint is mailed to an agent of such defendant authorized by appointment or by law to receive service of process, at the agent's dwelling house or usual place of abode or at the place where the agent regularly carries on a business or profession and, if the authorization so requires, by mailing also a copy of the summons and complaint to the defendant as provided in this subdivision.
+(3) a domestic or foreign corporation, or a partnership or other unincorporated association—by mailing the copy:
 
-(9) Upon the debtor, after a petition has been filed by or served upon the debtor and until the case is dismissed or closed, by mailing a copy of the summons and complaint to the debtor at the address shown in the petition or to such other address as the debtor may designate in a filed writing.
+(A) to an officer, a managing or general agent, or an agent authorized by appointment or by law to receive service; and
 
-(10) Upon the United States trustee, when the United States trustee is the trustee in the case and service is made upon the United States trustee solely as trustee, by mailing a copy of the summons and complaint to an office of the United States trustee or another place designated by the United States trustee in the district where the case under the Code is pending.
+(B) also to the defendant if a statute authorizes an agent to receive service and the statute so requires;
 
-(c) Service by Publication. If a party to an adversary proceeding to determine or protect rights in property in the custody of the court cannot be served as provided in Rule 4(e)–(j) F.R.Civ.P. or subdivision (b) of this rule, the court may order the summons and complaint to be served by mailing copies thereof by first class mail, postage prepaid, to the party's last known address, and by at least one publication in such manner and form as the court may direct.
+(4) the United States, with these requirements:
 
-(d) Nationwide Service of Process. The summons and complaint and all other process except a subpoena may be served anywhere in the United States.
+(A) a copy of the summons and complaint must be mailed to:
 
-(e) Summons: Time Limit for Service Within the United States. Service made under Rule 4(e), (g), (h)(1), (i), or (j)(2) F.R.Civ.P. shall be by delivery of the summons and complaint within 7 days after the summons is issued. If service is by any authorized form of mail, the summons and complaint shall be deposited in the mail within 7 days after the summons is issued. If a summons is not timely delivered or mailed, another summons will be issued for service. This subdivision does not apply to service in a foreign country.
+(i) the civil-process clerk in the United States attorney's office in the district where the action is filed;
 
-(f) Personal Jurisdiction. If the exercise of jurisdiction is consistent with the Constitution and laws of the United States, serving a summons or filing a waiver of service in accordance with this rule or the subdivisions of Rule 4 F.R.Civ.P. made applicable by these rules is effective to establish personal jurisdiction over the person of any defendant with respect to a case under the Code or a civil proceeding arising under the Code, or arising in or related to a case under the Code.
+(ii) the Attorney General of the United States in Washington, D.C.; and
 
-(g) Service on Debtor's Attorney. If the debtor is represented by an attorney, whenever service is made upon the debtor under this Rule, service shall also be made upon the debtor's attorney by any means authorized under Rule 5(b) F.R.Civ.P.
+(iii) in an action attacking the validity of an order of a United States officer or agency that is not a party, also to that officer or agency; and
+
+(B) if the plaintiff has mailed a copy of the summons and complaint to a person specified in either (A)(i) or (ii), the court must allow a reasonable time to serve the others that must be served under (A);
+
+(5) an officer or agency of the United States, with these requirements:
+
+(A) the summons and complaint must be mailed not only to the officer or the agency—as prescribed in (3) if the agency is a corporation—but also to the United States, as prescribed in (4);
+
+(B) if the plaintiff has mailed a copy of the summons and complaint to a person specified in either (4)(A)(i) or (ii), the court must allow a reasonable time to serve the others that must be served under (A); and
+
+(C) if a United States trustee is the trustee in the case, service may be made on the United States trustee solely as trustee, as prescribed in (10);
+
+(6) a state or municipal corporation or other governmental organization subject to suit, with these requirements:
+
+(A) the summons and complaint must be mailed to the person or office that, under the law of the state where service is made, is authorized to receive service in a case filed against that defendant in that state's courts of general jurisdiction; and
+
+(B) if there is no such authorized person or office, the summons and complaint must be mailed to the defendant's chief executive officer;
+
+(7) a defendant of any class referred to in (1) and (3)—for whom it also suffices to mail the summons and complaint to the entity on which service must be made under a federal statute or under the law of the state where service is made when an action is brought against that defendant in that state's courts of general jurisdiction;
+
+(8) any defendant—for whom it also suffices to mail the summons and complaint to the defendant's agent under these conditions:
+
+(A) the agent is authorized by appointment or by law to accept service;
+
+(B) the mail is addressed to the agent's dwelling or usual place of abode or where the agent regularly conducts a business or profession; and
+
+(C) if the agent's authorization so requires, a copy is also mailed to the defendant as provided in this subdivision (b);
+
+(9) the debtor, after a petition has been filed by or served upon a debtor, and until the case is dismissed or closed—by mailing the copy to the address shown on the debtor's petition or the address the debtor specifies in a filed writing;
+
+(10) a United States trustee who is the trustee in the case and service is made upon the United States trustee solely as trustee—by addressing the mail to the United States trustee's office or other place that the United States trustee designates within the district.
+
+(c) Service by Publication in an Adversary Proceeding Involving Property Rights. If a party to an adversary proceeding to determine or protect rights in property in the court's custody cannot be served under (b) or Fed. R. Civ. P. 4(e)–(j), the court may order the summons and complaint to be served by:
+
+(1) first-class mail, postage prepaid, to the party's last known address; and
+
+(2) at least one publication in a form and manner as the court orders.
+
+(d) Nationwide Service of Process. A summons and complaint (and all other process, except a subpoena) may be served anywhere within the United States.
+
+(e) Time to Serve a Summons and Complaint.
+
+(1) *In General*. A summons and complaint served by delivery under Fed. R. Civ. P. 4(e), (g), (h)(1), (i), or (j)(2) must be served within 7 days after the summons is issued. If served by mail, they must be deposited in the mail within 7 days after the summons is issued. If a summons is not timely delivered or mailed, a new summons must be issued.
+
+(2) *Exception*. This subdivision (e) does not apply to service in a foreign country.
+
+(f) Establishing Personal Jurisdiction. If exercising jurisdiction is consistent with the United States Constitution and laws, serving a summons or filing a waiver of service under this Rule 7004 or the applicable provisions of Fed. R. Civ. P. 4 establishes personal jurisdiction over a defendant:
+
+(1) in a bankruptcy case; or
+
+(2) in a civil proceeding arising under the Code, or arising in or related to a case under the Code.
+
+(g) Serving a Debtor's Attorney. If, when served, a debtor is represented by an attorney, the attorney must also be served by any means authorized by Fed. R. Civ. P. 5(b).
 
 (h) Service of Process on an Insured Depository Institution. Service on an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act) in a contested matter or adversary proceeding shall be made by certified mail addressed to an officer of the institution unless—
 
@@ -6074,9 +8078,9 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (3) the institution has waived in writing its entitlement to service by certified mail by designating an officer to receive service.
 
-(i) Service of Process by Title. This subdivision (i) applies to service on a domestic or foreign corporation or partnership or other unincorporated association under Rule 7004(b)(3) or on an officer of an insured depository institution under Rule 7004(h). The defendant's officer or agent need not be correctly named in the address—or even be named—if the envelope is addressed to the defendant's proper address and directed to the attention of the officer's or agent's position or title.
+(i) Service of Process by Title. This subdivision (i) applies to service on a domestic or foreign corporation or partnership or other unincorporated association under Rule 7004(b)(3), or on an officer of an insured depository institution under Rule 7004(h). The defendant's officer or agent need not be correctly named in the address—or even be named—if the envelope is addressed to the defendant's proper address and directed to the attention of the officer's or agent's position or title.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Pub. L. 103–394, title I, §114, Oct. 22, 1994, 108 Stat. 4118; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 11, 2022, eff. Dec. 1, 2022.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Pub. L. 103–394, title I, §114, Oct. 22, 1994, 108 Stat. 4118; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -6234,9 +8238,13 @@ In 1996, Rule 7004(a) was amended to incorporate by reference F.R.Civ.P. 4(d)(1)
 
 New Rule 7004(i) is intended to reject those cases interpreting Rule 7004(b)(3) and Rule 7004(h) to require service on a named officer, managing or general agent or other agent, rather than use of their titles. Service to a corporation or partnership, unincorporated association or insured depository institution at its proper address directed to the attention of the "Chief Executive Officer," "President," "Officer for Receiving Service of Process," "Managing Agent," "General Agent," "Officer," or "Agent for Receiving Service of Process" (or other similar titles) is sufficient.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7004 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. The beginning of Rule 7004(b) (through the words "in addition") and all of Rule 7004(h) have not been restyled because they were enacted by Congress, P.L. 103–394, Sec. 114, 108 Stat. 4106, 4118 (1994). The Bankruptcy Rules Enabling Act, 28 U.S.C. §2075, provides no authority to modify statutory language.
+
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subds. (a)(1), (3), (b), (c), (e)(1), (f), and (g), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 Section 3 of the Federal Deposit Insurance Act, referred to in subd. (h), is classified to section 1813 of Title 12, Banks and Banking.
 
@@ -6250,13 +8258,19 @@ Subd. (h). Pub. L. 103–394, §114(2), added subd. (h).
 
 Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
-### Rule 7005. Service and Filing of Pleadings and Other Papers ###
+### Rule 7005. Serving and Filing Pleadings and Other Papers ###
 
-Rule 5 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 5 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 Rule 5 F.R.Civ.P. refers to Rule 4 F.R.Civ.P. Pursuant to Rule 7002 this reference is to Rule 4 F.R.Civ.P. as incorporated and modified by Rule 7004.
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7005 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -6264,7 +8278,13 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7007. Pleadings Allowed ###
 
-Rule 7 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 7 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7007 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -6272,15 +8292,15 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7007.1. Corporate Ownership Statement ###
 
-(a) Required Disclosure. Any nongovernmental corporation that is a party to an adversary proceeding, other than the debtor, shall file a statement that identifies any parent corporation and any publicly held corporation that owns 10% or more of its stock or states that there is no such corporation. The same requirement applies to a nongovernmental corporation that seeks to intervene.
+(a) Required Disclosure. Any nongovernmental corporation—other than the debtor—that is a party to an adversary proceeding must file a statement identifying any parent corporation and any publicly held corporation that owns 10% or more of its stock or stating that there is no such corporation. The same requirement applies to a nongovernmental corporation that seeks to intervene.
 
-(b) Time for Filing; Supplemental Filing. The corporate ownership statement shall:
+(b) Time for Filing; Supplemental Filing. The statement must:
 
-(1) be filed with the corporation's first appearance, pleading, motion, response, or other request addressed to the court; and
+(1) be filed with the corporation's first appearance, pleading, motion, response, or other request to the court; and
 
 (2) be supplemented whenever the information required by this rule changes.
 
-(Added Mar. 27, 2003, eff. Dec. 1, 2003; amended Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 14, 2021, eff. Dec. 1, 2021.)
+(Added Mar. 27, 2003, eff. Dec. 1, 2003; amended Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2003 ####
 
@@ -6304,11 +8324,15 @@ The rule is amended to clarify that a party must file a corporate ownership stat
 
 The rule is amended to conform to recent amendments to Fed. R. Bankr. P. 8012 and Fed. R. App. P. 26.1, and the anticipated amendment to Fed. R. Civ. P. 7.1. Subdivision (a) is amended to encompass nongovernmental corporations that seek to intervene. Stylistic changes are made to subdivision (b) to reflect that some statements will be filed by nonparties seeking to intervene.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7007.1 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### Rule 7008. General Rules of Pleading ###
 
-Rule 8 F.R.Civ.P. applies in adversary proceedings. The allegation of jurisdiction required by Rule 8(a) shall also contain a reference to the name, number, and chapter of the case under the Code to which the adversary proceeding relates and to the district and division where the case under the Code is pending. In an adversary proceeding before a bankruptcy court, the complaint, counterclaim, cross-claim, or third-party complaint shall contain a statement that the pleader does or does not consent to entry of final orders or judgment by the bankruptcy court.
+Fed. R. Civ. P. 8 applies in an adversary proceeding. The allegation of jurisdiction required by that rule must include a reference to the name, number, and Code chapter of the case that the adversary proceeding relates to and the district and division where it is pending. In an adversary proceeding before a bankruptcy court, a complaint, counterclaim, crossclaim, or third-party complaint must state whether the pleader does or does not consent to the entry of final orders or judgment by the bankruptcy court.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1987 Amendment ####
 
@@ -6326,39 +8350,77 @@ The procedures for seeking an award of attorney's fees are now set out in Rule 7
 
 The rule is amended to remove the requirement that the pleader state whether the proceeding is core or non-core and to require in all proceedings that the pleader state whether the party does or does not consent to the entry of final orders or judgment by the bankruptcy court. Some proceedings that satisfy the statutory definition of core proceedings, 28 U.S.C. §157(b)(2), may remain beyond the constitutional power of a bankruptcy judge to adjudicate finally. The amended rule calls for the pleader to make a statement regarding consent, whether or not a proceeding is termed non-core. Rule 7012(b) has been amended to require a similar statement in a responsive pleading. The bankruptcy judge will then determine the appropriate course of proceedings under Rule 7016.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7008 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 7009. Pleading Special Matters ###
 
-Rule 9 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 9 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7009 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7010. Form of Pleadings ###
+### Rule 7010. Form of Pleadings in an Adversary Proceeding ###
 
-Rule 10 F.R.Civ.P. applies in adversary proceedings, except that the caption of each pleading in such a proceeding shall conform substantially to the appropriate Official Form.
+Fed. R. Civ. P. 10 applies in an adversary proceeding—except that a pleading's caption must substantially conform to the appropriate version of Form 416.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991.)
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1991 Amendment ####
 
 Reference to the Official Form number is deleted in anticipation of future revision and renumbering of the Official Forms.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7010 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7012. Defenses and Objections—When and How Presented—By Pleading or Motion—Motion for Judgment on the Pleadings ###
+### Rule 7012. Defenses; Effect of a Motion; Motion for Judgment on the Pleadings and Other Procedural Matters ###
 
-(a) When Presented. If a complaint is duly served, the defendant shall serve an answer within 30 days after the issuance of the summons, except when a different time is prescribed by the court. The court shall prescribe the time for service of the answer when service of a complaint is made by publication or upon a party in a foreign country. A party served with a pleading stating a cross-claim shall serve an answer thereto within 21 days after service. The plaintiff shall serve a reply to a counterclaim in the answer within 21 days after service of the answer or, if a reply is ordered by the court, within 21 days after service of the order, unless the order otherwise directs. The United States or an officer or agency thereof shall serve an answer to a complaint within 35 days after the issuance of the summons, and shall serve an answer to a cross-claim, or a reply to a counterclaim, within 35 days after service upon the United States attorney of the pleading in which the claim is asserted. The service of a motion permitted under this rule alters these periods of time as follows, unless a different time is fixed by order of the court: (1) if the court denies the motion or postpones its disposition until the trial on the merits, the responsive pleading shall be served within 14 days after notice of the court's action; (2) if the court grants a motion for a more definite statement, the responsive pleading shall be served within 14 days after the service of a more definite statement.
+(a) Time to Serve. The time to serve a responsive pleading is as follows:
 
-(b) Applicability of Rule 12(b)–(i) F.R.Civ.P. Rule 12(b)–(i) F.R.Civ.P. applies in adversary proceedings. A responsive pleading shall include a statement that the party does or does not consent to entry of final orders or judgment by the bankruptcy court.
+(1) *Answer to a Complaint in General*. A defendant must serve an answer to a complaint within 30 days after the summons was issued, unless the court sets a different time.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(2) *Answer to a Complaint Served by Publication or on a Party in a Foreign Country*. The court must set the time to serve an answer to a complaint served by publication or served on a party in a foreign country.
+
+(3) *Answer to a Crossclaim*. A party served with a pleading that states a crossclaim must serve an answer to the crossclaim within 21 days after being served.
+
+(4) *Answer to a Counterclaim*. A plaintiff served with an answer that contains a counterclaim must serve an answer to the counterclaim within 21 days after service of:
+
+(A) the answer; or
+
+(B) a court order requiring an answer, unless the order states otherwise.
+
+(5) *Answer to a Complaint or Crossclaim—or Answer to a Counterclaim—Served on the United States or an Officer or Agency*. The United States or its officer or agency must serve:
+
+(A) an answer to a complaint within 35 days after the summons was issued; and
+
+(B) an answer to a crossclaim or a counterclaim within 35 days after the United States attorney is served with the pleading that asserts the claim.
+
+(6) *Effect of a Motion*. Unless the court sets a different time, serving a motion under this rule alters these times as follows:
+
+(A) if the court denies the motion or postpones disposition until trial, the responsive pleading must be served within 14 days after notice of the court's action; or
+
+(B) if the court grants a motion for a more definite statement, the responsive pleading must be served within 14 days after the statement is served.
+
+(b) Applicability of Civil Rule 12(b)–(i). Fed. R. Civ. P. 12(b)–(i) applies in an adversary proceeding. A responsive pleading must state whether the party does or does not consent to the entry of final orders or judgment by the bankruptcy court.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -6392,19 +8454,31 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 Subdivision (b) is amended to remove the requirement that the pleader state whether the proceeding is core or non-core and to require in all proceedings that the pleader state whether the party does or does not consent to the entry of final orders or judgment by the bankruptcy court. The amended rule also removes the provision requiring express consent before the entry of final orders and judgments in non-core proceedings. Some proceedings that satisfy the statutory definition of core proceedings, 28 U.S.C. §157(b)(2), may remain beyond the constitutional power of a bankruptcy judge to adjudicate finally. The amended rule calls for the pleader to make a statement regarding consent, whether or not a proceeding is termed non-core. This amendment complements the requirements of amended Rule 7008(a). The bankruptcy judge's subsequent determination of the appropriate course of proceedings, including whether to enter final orders and judgments or to issue proposed findings of fact and conclusions of law, is a pretrial matter now provided for in amended Rule 7016.	
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7012 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in subd. (b), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7013. Counterclaim and Cross-Claim ###
+### Rule 7013. Counterclaim and Crossclaim ###
 
-Rule 13 F.R.Civ.P. applies in adversary proceedings, except that a party sued by a trustee or debtor in possession need not state as a counterclaim any claim that the party has against the debtor, the debtor's property, or the estate, unless the claim arose after the entry of an order for relief. A trustee or debtor in possession who fails to plead a counterclaim through oversight, inadvertence, or excusable neglect, or when justice so requires, may by leave of court amend the pleading, or commence a new adversary proceeding or separate action.
+Fed. R. Civ. P. 13 applies in an adversary proceeding. But a party sued by a trustee or debtor in possession need not state as a counterclaim any claim the party has against the debtor, the debtor's property, or the estate, unless the claim arose after the order for relief. If, through oversight, inadvertence, or excusable neglect, a trustee or debtor in possession fails to plead a counterclaim—or when justice so requires—the court may permit the trustee or debtor in possession to:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+(a) amend the pleading; or
+
+(b) commence a new adversary proceeding or separate action.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 Rule 13(h) F.R.Civ.P. refers to Rule 19 F.R.Civ.P. Pursuant to Rule 7002 this reference is to Rule 19 F.R.Civ.P. as incorporated and modified by Rule 7019.
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7013 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -6412,7 +8486,9 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7014. Third-Party Practice ###
 
-Rule 14 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 14 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -6420,13 +8496,23 @@ This rule does not purport to deal with questions of jurisdiction. The scope of 
 
 Rule 14 F.R.Civ.P. refers to Rules 12 and 13 F.R.Civ.P. Pursuant to Rule 7002 those references are to Rules 12 and 13 as incorporated and modified by Rules 7012 and 7013.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7014 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 7015. Amended and Supplemental Pleadings ###
 
-Rule 15 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 15 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7015 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -6434,31 +8520,35 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7016. Pretrial Procedures ###
 
-(a) Pretrial Conferences; Scheduling; Management. Rule 16 F.R.Civ.P. applies in adversary proceedings.
+(a) Pretrial Conferences; Scheduling; Management. Fed. R. Civ. P. 16 applies in an adversary proceeding.
 
-(b) Determining Procedure. The bankruptcy court shall decide, on its own motion or a party's timely motion, whether:
+(b) Determining Procedure. On its own or a party's timely motion, the court must decide whether:
 
 (1) to hear and determine the proceeding;
 
-(2) to hear the proceeding and issue proposed findings of fact and conclusions of law; or
+(2) to hear it and issue proposed findings of fact and conclusions of law; or
 
-(3) to take some other action.
+(3) to take other action.
 
-(As amended Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2016 Amendment ####
 
 This rule is amended to create a new subdivision (b) that provides for the bankruptcy court to enter final orders and judgment, issue proposed findings and conclusions, or take some other action in a proceeding. The rule leaves the decision as to the appropriate course of proceedings to the bankruptcy court. The court's decision will be informed by the parties' statements, required under Rules 7008(a), 7012(b), and 9027(a) and (e), regarding consent to the entry of final orders and judgment. If the bankruptcy court chooses to issue proposed findings of fact and conclusions of law, Rule 9033 applies.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7016 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in subd. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7017. Parties Plaintiff and Defendant; Capacity ###
+### Rule 7017. Plaintiff and Defendant; Capacity; Public Officers ###
 
-Rule 17 F.R.Civ.P. applies in adversary proceedings, except as provided in Rule 2010(b).
+Fed. R. Civ. P. 17 applies in an adversary proceeding, except as provided in Rule 2010(b).
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991.)
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -6468,23 +8558,37 @@ Rules 2010(d) and 5008(d), which implement §§322 and 345 of the Code, authoriz
 
 Reference to Rule 5008(d) is deleted because of the abrogation of Rule 5008.
 
-#### References in Text ####
+#### Committee Notes on Rules—2024 Amendment ####
 
-The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-
-### Rule 7018. Joinder of Claims and Remedies ###
-
-Rule 18 F.R.Civ.P. applies in adversary proceedings.
+The language of Rule 7017 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7019. Joinder of Persons Needed for Just Determination ###
+### Rule 7018. Joinder of Claims ###
 
-Rule 19 F.R.Civ.P. applies in adversary proceedings, except that (1) if an entity joined as a party raises the defense that the court lacks jurisdiction over the subject matter and the defense is sustained, the court shall dismiss such entity from the adversary proceedings and (2) if an entity joined as a party properly and timely raises the defense of improper venue, the court shall determine, as provided in 28 U.S.C. §1412, whether that part of the proceeding involving the joined party shall be transferred to another district, or whether the entire adversary proceeding shall be transferred to another district.
+Fed. R. Civ. P. 18 applies in an adversary proceeding.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7018 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+#### References in Text ####
+
+The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+### Rule 7019. Required Joinder of Parties ###
+
+Fed. R. Civ. P. 19 applies in an adversary proceeding. But these exceptions apply:
+
+(a) if an entity joined as a party raises the defense that the court lacks subject-matter jurisdiction and the defense is sustained, the court must dismiss the party; and
+
+(b) if an entity joined as a party properly and timely raises the defense of improper venue, the court must determine under 28 U.S.C. §1412 whether to transfer to another district the entire adversary proceeding or just that part involving the joined party.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -6494,21 +8598,37 @@ This rule addresses a situation different from that encountered by the district 
 
 The rule is amended to delete the reference to retention of the adversary proceeding if venue is improper. See 28 U.S.C. §1412.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7019 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 7020. Permissive Joinder of Parties ###
 
-Rule 20 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 20 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7020 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7021. Misjoinder and Non-Joinder of Parties ###
+### Rule 7021. Misjoinder and Nonjoinder of Parties ###
 
-Rule 21 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 21 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7021 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -6516,21 +8636,31 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7022. Interpleader ###
 
-Rule 22(a) F.R.Civ.P. applies in adversary proceedings. This rule supplements—and does not limit—the joinder of parties allowed by Rule 7020.
+Fed. R. Civ. P. 22(a) applies in an adversary proceeding. This rule supplements and does not limit the joinder of parties under Rule 7020.
 
-(As amended Apr. 23, 2008, eff. Dec. 1, 2008.)
+(As amended Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2008 Amendment ####
 
 The rule is amended to conform to the changes made to the Federal Rules of Civil Procedure through the restyling of those rules effective on December 1, 2007.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7022 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7023. Class Proceedings ###
+### Rule 7023. Class Actions ###
 
-Rule 23 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 23 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7023 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -6538,13 +8668,17 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7023.1. Derivative Actions ###
 
-Rule 23.1 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 23.1 applies in an adversary proceeding.
 
-(As amended Apr. 23, 2008, eff. Dec. 1, 2008.)
+(As amended Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2008 Amendment ####
 
 The rule is amended to conform to the changes made to the Federal Rules of Civil Procedure through the restyling of those rules effective on December 1, 2007.
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7023.1 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -6552,7 +8686,13 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7023.2. Adversary Proceedings Relating to Unincorporated Associations ###
 
-Rule 23.2 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 23.2 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7023.2 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -6560,11 +8700,17 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7024. Intervention ###
 
-Rule 24 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 24 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 A person may seek to intervene in the case under the Code or in an adversary proceeding relating to the case under the Code. Intervention in a case under the Code is governed by Rule 2018 and intervention in an adversary proceeding is governed by this rule. Intervention in a case and intervention in an adversary proceeding must be sought separately.
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7024 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -6572,31 +8718,49 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7025. Substitution of Parties ###
 
-Subject to the provisions of Rule 2012, Rule 25 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 25 applies in an adversary proceeding—but is subject to Rule 2012.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 Rule 25 F.R.Civ.P. refers to Rule 4 F.R.Civ.P. Pursuant to Rule 7002 that reference is to Rule 4 as incorporated and modified by Rule 7004.
 
-#### References in Text ####
+#### Committee Notes on Rules—2024 Amendment ####
 
-The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-
-### Rule 7026. General Provisions Governing Discovery ###
-
-Rule 26 F.R.Civ.P. applies in adversary proceedings.
+The language of Rule 7025 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7027. Depositions Before Adversary Proceedings or Pending Appeal ###
+### Rule 7026. Duty to Disclose; General Provisions Governing Discovery ###
 
-Rule 27 F.R.Civ.P. applies to adversary proceedings.
+Fed. R. Civ. P. 26 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7026 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+#### References in Text ####
+
+The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+### Rule 7027. Depositions to Perpetuate Testimony ###
+
+Fed. R. Civ. P. 27 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 Rule 27(a)(2) F.R.Civ.P. refers to Rule 4 F.R.Civ.P. Pursuant to Rule 7002 the reference is to Rule 4 F.R.Civ.P. as incorporated and modified by Rule 7004.
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7027 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -6604,43 +8768,73 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7028. Persons Before Whom Depositions May Be Taken ###
 
-Rule 28 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 28 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7028 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7029. Stipulations Regarding Discovery Procedure ###
+### Rule 7029. Stipulations About Discovery Procedure ###
 
-Rule 29 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 29 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7029 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7030. Depositions Upon Oral Examination ###
+### Rule 7030. Depositions by Oral Examination ###
 
-Rule 30 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 30 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 Rule 30 F.R.Civ.P. refers to Rule 4 F.R.Civ.P. Pursuant to Rule 7002 that reference is a reference to Rule 4 F.R.Civ.P. as incorporated and modified by Rule 7004.
 
-#### References in Text ####
+#### Committee Notes on Rules—2024 Amendment ####
 
-The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-
-### Rule 7031. Deposition Upon Written Questions ###
-
-Rule 31 F.R.Civ.P. applies in adversary proceedings.
+The language of Rule 7030 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7032. Use of Depositions in Adversary Proceedings ###
+### Rule 7031. Depositions by Written Questions ###
 
-Rule 32 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 31 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7031 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+#### References in Text ####
+
+The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+### Rule 7032. Using Depositions in Court Proceedings ###
+
+Fed. R. Civ. P. 32 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7032 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -6648,23 +8842,41 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7033. Interrogatories to Parties ###
 
-Rule 33 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 33 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7033 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7034. Production of Documents and Things and Entry Upon Land for Inspection and Other Purposes ###
+### Rule 7034. Producing Documents, Electronically Stored Information, and Tangible Things, or Entering onto Land, for Inspection and Other Purposes ###
 
-Rule 34 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 34 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7034 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7035. Physical and Mental Examination of Persons ###
+### Rule 7035. Physical and Mental Examinations ###
 
-Rule 35 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 35 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7035 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -6672,33 +8884,55 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7036. Requests for Admission ###
 
-Rule 36 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 36 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7036 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7037. Failure to Make Discovery: Sanctions ###
+### Rule 7037. Failure to Make Disclosures or to Cooperate in Discovery; Sanctions ###
 
-Rule 37 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 37 applies in an adversary proceeding.
 
-#### References in Text ####
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
-The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+#### Committee Notes on Rules—2024 Amendment ####
 
-### Rule 7040. Assignment of Cases for Trial ###
-
-Rule 40 F.R.Civ.P. applies in adversary proceedings.
+The language of Rule 7037 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7041. Dismissal of Adversary Proceedings ###
+### Rule 7040. Scheduling Cases for Trial ###
 
-Rule 41 F.R.Civ.P. applies in adversary proceedings, except that a complaint objecting to the debtor's discharge shall not be dismissed at the plaintiff's instance without notice to the trustee, the United States trustee, and such other persons as the court may direct, and only on order of the court containing terms and conditions which the court deems proper.
+Fed. R. Civ. P. 40 applies in an adversary proceeding.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991.)
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7040 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+#### References in Text ####
+
+The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+### Rule 7041. Dismissing Adversary Proceedings ###
+
+Fed. R. Civ. P. 41 applies in an adversary proceeding. But a complaint objecting to the debtor's discharge may be dismissed on the plaintiff's motion only:
+
+(a) by a court order setting out any terms and conditions for the dismissal; and
+
+(b) with notice to the trustee, the United States trustee, and any other person the court designates.
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -6712,23 +8946,33 @@ The United States trustee has standing to object to the debtor's discharge pursu
 
 The rule is also amended to clarify that the court may direct that other persons receive notice of a plaintiff's motion to dismiss a complaint objecting to discharge.
 
-#### References in Text ####
+#### Committee Notes on Rules—2024 Amendment ####
 
-The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-
-### Rule 7042. Consolidation of Adversary Proceedings; Separate Trials ###
-
-Rule 42 F.R.Civ.P. applies in adversary proceedings.
+The language of Rule 7041 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7052. Findings by the Court ###
+### Rule 7042. Consolidating Adversary Proceedings; Separate Trials ###
 
-Rule 52 F.R.Civ.P. applies in adversary proceedings, except that any motion under subdivision (b) of that rule for amended or additional findings shall be filed no later than 14 days after entry of judgment. In these proceedings, the reference in Rule 52 F.R.Civ.P. to the entry of judgment under Rule 58 F.R.Civ.P. shall be read as a reference to the entry of a judgment or order under Rule 5003(a).
+Fed. R. Civ. P. 42 applies in an adversary proceeding.
 
-(As amended Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7042 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+#### References in Text ####
+
+The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+### Rule 7052. Findings and Conclusions by the Court; Judgment on Partial Findings ###
+
+Fed. R. Civ. P. 52 applies in an adversary proceeding—except that a motion under Fed. R. Civ. P. 52(b) to amend or add findings must be filed within 14 days after the judgment is entered. The reference in Fed. R. Civ. P. 52(a) to entering a judgment under Fed. R. Civ. P. 58 must be read as referring to entering a judgment or order under Rule 5003(a).
+
+(As amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -6742,25 +8986,29 @@ The rule is amended to clarify that the reference in Rule 52 F. R. Civ. P. to Ru
 
 *Changes Made After Publication*. No changes since publication.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7052 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 7054. Judgments; Costs ###
 
-(a) Judgments. Rule 54(a)–(c) F.R.Civ.P. applies in adversary proceedings.
+(a) Judgment. Fed. R. Civ. P. 54(a)–(c) applies in an adversary proceeding.
 
-(b) Costs; Attorney's Fees.
+(b) Costs and Attorney's Fees.
 
-(1) *Costs Other Than Attorney's Fees*. The court may allow costs to the prevailing party except when a statute of the United States or these rules otherwise provides. Costs against the United States, its officers and agencies shall be imposed only to the extent permitted by law. Costs may be taxed by the clerk on 14 days' notice; on motion served within seven days thereafter, the action of the clerk may be reviewed by the court.
+(1) *Costs Other Than Attorney's Fees*. The court may allow costs to the prevailing party, unless a federal statute or these rules provide otherwise. Costs against the United States, its officers, and its agencies may be imposed only to the extent permitted by law. The clerk, on 14 days' notice, may tax costs, and the court, on motion served within the next 7 days, may review the clerk's action.
 
 (2) *Attorney's Fees.*
 
-(A) Rule 54(d)(2)(A)–(C) and (E) F.R.Civ.P. applies in adversary proceedings except for the reference in Rule 54(d)(2)(C) to Rule 78.
+(A) *In General*. Fed. R. Civ. P. 54(d)(2)(A)–(C) and (E) applies in an adversary proceeding—except for the reference in 54(d)(2)(C) to Civil Rule 78.
 
-(B) By local rule, the court may establish special procedures to resolve fee-related issues without extensive evidentiary hearings.
+(B) *Local Rules for Resolving Issues*. By local rule, the court may establish special procedures to resolve fee-related issues without extensive evidentiary hearings.
 
-(As amended Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 25, 2014, eff. Dec. 1, 2014.)
+(As amended Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2012 Amendment ####
 
@@ -6790,13 +9038,25 @@ Rule 54(d)(2)(C) refers to Rule 78 F.R.Civ.P., which is not applicable in advers
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7054 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in subds. (a) and (b)(2)(A), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7055. Default ###
+Civil Rule 78, referred to in subd. (b)(2)(A), probably means Rule 78 of the Federal Rules of Civil Procedure, which is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-Rule 55 F.R.Civ.P. applies in adversary proceedings.
+### Rule 7055. Default; Default Judgment ###
+
+Fed. R. Civ. P. 55 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7055 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -6804,9 +9064,9 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7056. Summary Judgment ###
 
-Rule 56 F.R.Civ.P. applies in adversary proceedings, except that any motion for summary judgment must be made at least 30 days before the initial date set for an evidentiary hearing on any issue for which summary judgment is sought, unless a different time is set by local rule or the court orders otherwise.
+Fed. R. Civ. P. 56 applies in an adversary proceeding. But a motion for summary judgment must be filed at least 30 days before the first date set for an evidentiary hearing on any issue that the motion addresses, unless a local rule sets a different time or the court orders otherwise.
 
-(As amended Apr. 23, 2012, eff. Dec. 1 2012.)
+(As amended Apr. 23, 2012, eff. Dec. 1 2012; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2012 Amendment ####
 
@@ -6814,15 +9074,19 @@ The only exception to complete adoption of Rule 56 F.R.Civ.P. involves the defau
 
 *Changes Made After Publication*. No changes were made after publication.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7056 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7058. Entering Judgment in Adversary Proceeding ###
+### Rule 7058. Entering Judgment ###
 
-Rule 58 F.R.Civ.P. applies in adversary proceedings. In these proceedings, the reference in Rule 58 F.R.Civ.P. to the civil docket shall be read as a reference to the docket maintained by the clerk under Rule 5003(a).
+Fed. R. Civ. P. 58 applies in an adversary proceeding. A reference in that rule to the civil docket must be read as referring to the docket maintained by the clerk under Rule 5003(a).
 
-(Added Mar. 26, 2009, eff. Dec. 1, 2009.)
+(Added Mar. 26, 2009, eff. Dec. 1, 2009; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2009 ####
 
@@ -6830,15 +9094,19 @@ This rule makes Rule 58 F.R.Civ.P. applicable in adversary proceedings and is ad
 
 *Changes Made After Publication*. No changes since publication.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7058 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 7062. Stay of Proceedings to Enforce a Judgment ###
 
-Rule 62 F.R.Civ.P. applies in adversary proceedings, except that proceedings to enforce a judgment are stayed for 14 days after its entry.
+Fed. R. Civ. P. 62 applies in an adversary proceeding—except that a proceeding to enforce a judgment is stayed for 14 days after its entry.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 26, 2018, eff. Dec. 1, 2018.)
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -6858,13 +9126,23 @@ The additional exceptions to Rule 62(a) consist of orders that are issued in con
 
 The rule is amended to retain a 14-day period for the automatic stay of a judgment. F.R.Civ.P. 62(a) now provides for a 30-day stay to accommodate the 28-day time periods under the Federal Rules of Civil Procedure for filing post-judgment motions and the 30-day period for filing a notice of appeal. Under the Bankruptcy Rules, however, those periods are limited to 14 days. *See* Rules 7052, 8002, 9015, and 9023.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7062 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7064. Seizure of Person or Property ###
+### Rule 7064. Seizing a Person or Property ###
 
-Rule 64 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 64 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7064 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -6872,15 +9150,27 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7065. Injunctions ###
 
-Rule 65 F.R.Civ.P. applies in adversary proceedings, except that a temporary restraining order or preliminary injunction may be issued on application of a debtor, trustee, or debtor in possession without compliance with Rule 65(c).
+Fed. R. Civ. P. 65 applies in an adversary proceeding. But on application of a debtor, trustee, or debtor in possession, the court may issue a temporary restraining order or preliminary injunction without complying with subdivision (c) of that rule.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7065 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7067. Deposit in Court ###
+### Rule 7067. Deposit into Court ###
 
-Rule 67 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 67 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7067 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -6888,7 +9178,13 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7068. Offer of Judgment ###
 
-Rule 68 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 68 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7068 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -6896,61 +9192,83 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 7069. Execution ###
 
-Rule 69 F.R.Civ.P. applies in adversary proceedings.
+Fed. R. Civ. P. 69 applies in an adversary proceeding.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7069 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7070. Judgment for Specific Acts; Vesting Title ###
+### Rule 7070. Enforcing a Judgment for a Specific Act; Vesting Title ###
 
-Rule 70 F.R.Civ.P. applies in adversary proceedings and the court may enter a judgment divesting the title of any party and vesting title in others whenever the real or personal property involved is within the jurisdiction of the court.
+Fed. R. Civ. P. 70 applies in an adversary proceeding. When real or personal property is within the court's jurisdiction, the court may enter a judgment divesting a party's title and vesting it in another person.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1987 Amendment ####
 
 The reference to court is used in the amendment because the district court may preside over an adversary proceeding.
 
-#### References in Text ####
+#### Committee Notes on Rules—2024 Amendment ####
 
-The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-
-### Rule 7071. Process in Behalf of and Against Persons Not Parties ###
-
-Rule 71 F.R.Civ.P. applies in adversary proceedings.
+The language of Rule 7070 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 7087. Transfer of Adversary Proceeding ###
+### Rule 7071. Enforcing Relief for or Against a Nonparty ###
 
-On motion and after a hearing, the court may transfer an adversary proceeding or any part thereof to another district pursuant to 28 U.S.C. §1412, except as provided in Rule 7019(2).
+Fed. R. Civ. P. 71 applies in an adversary proceeding.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7071 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+#### References in Text ####
+
+The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+### Rule 7087. Transferring an Adversary Proceeding ###
+
+On motion and after a hearing, the court may transfer an adversary proceeding, or any part of it, to another district under 28 U.S.C. §1412—except as provided in Rule 7019(b).
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1987 Amendment ####
 
 The reference to the venue section of title 28 is amended to conform to the 1984 amendments to title 28.
 
-### PART VIII—APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL <sup><a href="#I_1_target" name="I_1">1</a></sup> ###
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 7087 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+### PART VIII—APPEAL TO A DISTRICT COURT OR A BANKRUPTCY APPELLATE PANEL ###
 
 #### Length Limits Stated in Part VIII of the Federal Rules of Bankruptcy Procedure ####
 
 For the length limits stated in this part, see the Appendix, set out following the Official Forms following Part X of these rules.
 
-[<sup>1</sup> The 2014 amendments to Part VIII of the Bankruptcy Rules are comprehensive. Proposed amendment of the heading, "Part VIII. Bankruptcy Appeals", was not transmitted for Congressional review.](#I_1)
+### Rule 8001. Scope; Definition of "BAP"; Sending Documents Electronically ###
 
-### Rule 8001. Scope of Part VIII Rules; Definition of "BAP"; Method of Transmission ###
+(a) Scope. These Part VIII rules govern the procedure in a United States district court and in a bankruptcy appellate panel on appeal from a bankruptcy court's judgment, order, or decree. They also govern certain procedures on appeal to a United States court of appeals under 28 U.S.C. §158(d).
 
-(a) General Scope. These Part VIII rules govern the procedure in a United States district court and a bankruptcy appellate panel on appeal from a judgment, order, or decree of a bankruptcy court. They also govern certain procedures on appeal to a United States court of appeals under 28 U.S.C. §158(d).
+(b) Definition of "BAP." "BAP" means a bankruptcy appellate panel established by a circuit judicial council and authorized to hear appeals from a bankruptcy court under 28 U.S.C. §158.
 
-(b) Definition of "BAP." "BAP" means a bankruptcy appellate panel established by a circuit's judicial council and authorized to hear appeals from a bankruptcy court under 28 U.S.C. §158.
+(c) Requirement to Send Documents Electronically. Under these Part VIII rules, a document must be sent electronically, unless:
 
-(c) Method of Transmitting Documents. A document must be sent electronically under these Part VIII rules, unless it is being sent by or to an individual who is not represented by counsel or the court's governing rules permit or require mailing or other means of delivery.
+(1) it is sent by or to an individual who is not represented by counsel; or
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(2) the court's local rules permit or require mailing or delivery by other means.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -6966,35 +9284,39 @@ These rules take account of the evolving technology in the federal courts for th
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
-### Rule 8002. Time for Filing Notice of Appeal ###
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8001 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+### Rule 8002. Time to File a Notice of Appeal ###
 
 (a) In General.
 
-(1) *Fourteen-Day Period*. Except as provided in subdivisions (b) and (c), a notice of appeal must be filed with the bankruptcy clerk within 14 days after entry of the judgment, order, or decree being appealed.
+(1) *Time to File*. Except as (b) and (c) provide otherwise, a notice of appeal must be filed with the bankruptcy clerk within 14 days after the judgment, order, or decree to be appealed is entered.
 
 (2) *Filing Before the Entry of Judgment*. A notice of appeal filed after the bankruptcy court announces a decision or order—but before entry of the judgment, order, or decree—is treated as filed on the date of and after the entry.
 
-(3) *Multiple Appeals*. If one party files a timely notice of appeal, any other party may file a notice of appeal within 14 days after the date when the first notice was filed, or within the time otherwise allowed by this rule, whichever period ends later.
+(3) *Multiple Appeals*. If one party timely files a notice of appeal, any other party may file a notice of appeal within 14 days after the date when the first notice was filed, or within the time otherwise allowed by this rule—whichever is later.
 
-(4) *Mistaken Filing in Another Court*. If a notice of appeal is mistakenly filed in a district court, BAP, or court of appeals, the clerk of that court must state on the notice the date on which it was received and transmit it to the bankruptcy clerk. The notice of appeal is then considered filed in the bankruptcy court on the date so stated.
+(4) *Mistaken Filing in Another Court*. If a notice of appeal is mistakenly filed in a district court, BAP, or court of appeals, that court's clerk must note on it the date when it was received and send it to the bankruptcy clerk. The notice is then considered filed in the bankruptcy court on the date noted.
 
-(5) *Entry Defined*.
+(5) *Entry Defined.*
 
-(A) A judgment, order, or decree is entered for purposes of this Rule 8002(a):
+(A) *In General*. A judgment, order, or decree is entered for purposes of this subdivision (a):
 
-(i) when it is entered in the docket under Rule 5003(a), or
+(i) when it is entered in the docket under Rule 5003(a); or
 
-(ii) if Rule 7058 applies and Rule 58(a) F.R.Civ.P. requires a separate document, when the judgment, order, or decree is entered in the docket under Rule 5003(a) and when the earlier of these events occurs:
+(ii) if Rule 7058 applies and Fed. R. Civ. P. 58(a) requires a separate document, when the judgment, order, or decree is entered in the docket under Rule 5003(a) and when the earlier of these events occurs:
 
 • the judgment, order, or decree is set out in a separate document; or
 
 • 150 days have run from entry of the judgment, order, or decree in the docket under Rule 5003(a).
 
-(B) A failure to set out a judgment, order, or decree in a separate document when required by Rule 58(a) F.R.Civ.P. does not affect the validity of an appeal from that judgment, order, or decree.
+(B) *Failure to Use a Separate Document*. A failure to set out a judgment, order, or decree in a separate document when required by Fed. R. Civ. P. 58(a) does not affect the validity of an appeal from that judgment, order, or decree.
 
 (b) Effect of a Motion on the Time to Appeal.
 
-(1) *In General*. If a party files in the bankruptcy court any of the following motions and does so within the time allowed by these rules, the time to file an appeal runs for all parties from the entry of the order disposing of the last such remaining motion:
+(1) *In General*. If a party files in the bankruptcy court any of the following motions—and does so within the time allowed by these rules—the time to file an appeal runs for all parties from the entry of the order disposing of the last such remaining motion:
 
 (A) to amend or make additional findings under Rule 7052, whether or not granting the motion would alter the judgment;
 
@@ -7004,15 +9326,19 @@ These rules take account of the evolving technology in the federal courts for th
 
 (D) for relief under Rule 9024 if the motion is filed within 14 days after the judgment is entered.
 
-(2) *Filing an Appeal Before the Motion is Decided*. If a party files a notice of appeal after the court announces or enters a judgment, order, or decree—but before it disposes of any motion listed in subdivision (b)(1)—the notice becomes effective when the order disposing of the last such remaining motion is entered.
+(2) *Notice of Appeal Filed Before a Motion Is Decided*. If a party files a notice of appeal after the court announces or enters a judgment, order, or decree—but before it disposes of any motion listed in (1)—the notice becomes effective when the order disposing of the last such remaining motion is entered.
 
-(3) *Appealing the Ruling on the Motion*. If a party intends to challenge an order disposing of any motion listed in subdivision (b)(1)—or the alteration or amendment of a judgment, order, or decree upon the motion—the party must file a notice of appeal or an amended notice of appeal. The notice or amended notice must comply with Rule 8003 or 8004 and be filed within the time prescribed by this rule, measured from the entry of the order disposing of the last such remaining motion.
+(3) *Appealing a Ruling on a Motion*. A party intending to challenge an order disposing of a motion listed in (1)—or an alteration or amendment of a judgment, order, or decree made by a decision on the motion—must file a notice of appeal or an amended notice of appeal. It must:
 
-(4) *No Additional Fee*. No additional fee is required to file an amended notice of appeal.
+(A) comply with Rule 8003 or 8004; and
+
+(B) be filed within the time allowed by this rule, measured from the entry of the order disposing of the last such remaining motion.
+
+(4) *No Additional Fee for an Amended Notice*. No additional fee is required to file an amended notice of appeal.
 
 (c) Appeal by an Inmate Confined in an Institution.
 
-(1) *In General*. If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this Rule 8002(c)(1). If an inmate files a notice of appeal from a judgment, order, or decree of a bankruptcy court, the notice is timely if it is deposited in the institution's internal mail system on or before the last day for filing and:
+(1) *In General*. If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this paragraph (1). If an inmate files a notice of appeal from a bankruptcy court's judgment, order, or decree, the notice is timely if it is deposited in the institution's internal mail system on or before the last day for filing and:
 
 (A) it is accompanied by:
 
@@ -7020,35 +9346,35 @@ These rules take account of the evolving technology in the federal courts for th
 
 (ii) evidence (such as a postmark or date stamp) showing that the notice was so deposited and that postage was prepaid; or
 
-(B) the appellate court exercises its discretion to permit the later filing of a declaration or notarized statement that satisfies Rule 8002(c)(1)(A)(i).
+(B) the appellate court exercises its discretion to permit the later filing of a declaration or notarized statement that satisfies (A)(i).
 
-(2) *Multiple Appeals*. If an inmate files under this subdivision the first notice of appeal, the 14-day period provided in subdivision (a)(3) for another party to file a notice of appeal runs from the date when the bankruptcy clerk dockets the first notice.
+(2) *Multiple Appeals*. If an inmate files under this subdivision (c) the first notice of appeal, the 14-day period provided in (a)(3) for another party to file a notice of appeal runs from the date when the bankruptcy clerk dockets the first notice.
 
-(d) Extending the Time to Appeal.
+(d) Extending the Time to File a Notice of Appeal.
 
-(1) *When the Time May be Extended*. Except as provided in subdivision (d)(2), the bankruptcy court may extend the time to file a notice of appeal upon a party's motion that is filed:
+(1) *When the Time May Be Extended*. Except as (2) provides otherwise, the bankruptcy court may, on motion, extend the time to file a notice of appeal if the motion is filed:
 
-(A) within the time prescribed by this rule; or
+(A) within the time allowed by this rule; or
 
-(B) within 21 days after that time, if the party shows excusable neglect.
+(B) within 21 days after that time expires if the party shows excusable neglect.
 
-(2) *When the Time May Not be Extended*. The bankruptcy court may not extend the time to file a notice of appeal if the judgment, order, or decree appealed from:
+(2) *When the Time Must Not Be Extended*. The bankruptcy court must not extend the time to file the notice if the judgment, order, or decree being appealed:
 
-(A) grants relief from an automatic stay under §362, 922, 1201, or 1301 of the Code;
+(A) grants relief from an automatic stay under §362, 922, 1201, or 1301;
 
-(B) authorizes the sale or lease of property or the use of cash collateral under §363 of the Code;
+(B) authorizes the sale or lease of property or the use of cash collateral under §363;
 
-(C) authorizes the obtaining of credit under §364 of the Code;
+(C) authorizes obtaining credit under §364;
 
-(D) authorizes the assumption or assignment of an executory contract or unexpired lease under §365 of the Code;
+(D) authorizes assuming or assigning an executory contract or unexpired lease under §365;
 
-(E) approves a disclosure statement under §1125 of the Code; or
+(E) approves a disclosure statement under §1125; or
 
-(F) confirms a plan under §943, 1129, 1225, or 1325 of the Code.
+(F) confirms a plan under §943, 1129, 1225, or 1325.
 
-(3) *Time Limits on an Extension*. No extension of time may exceed 21 days after the time prescribed by this rule, or 14 days after the order granting the motion to extend time is entered, whichever is later.
+(3) *Limit on Extending Time*. An extension of time must not exceed 21 days after the time allowed by this rule, or 14 days after the order granting the motion to extend time is entered—whichever is later.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -7086,25 +9412,29 @@ Subdivision (c)(1) is revised to conform to F.R.App.P. 4(c)(1), which was recent
 
 The amended rule also provides that a notice is timely without a declaration or notarized statement if other evidence accompanying the notice shows that the notice was deposited on or before the due date and that postage was prepaid. If the notice is not accompanied by evidence that establishes timely deposit and prepayment of postage, then the appellate court—district court, BAP, or court of appeals in the case of a direct appeal—has discretion to accept a declaration or notarized statement at a later date. The rule uses the phrase "exercises its discretion to permit"—rather than simply "permits"—to help ensure that pro se inmates are aware that a court will not necessarily forgive a failure to provide the declaration initially.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8002 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in subd. (a)(5)(A)(ii), (B), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 8003. Appeal as of Right—How Taken; Docketing the Appeal ###
 
-(a) Filing the Notice of Appeal.
+(a) Filing a Notice of Appeal.
 
-(1) *In General*. An appeal from a judgment, order, or decree of a bankruptcy court to a district court or BAP under 28 U.S.C. §158(a)(1) or (a)(2) may be taken only by filing a notice of appeal with the bankruptcy clerk within the time allowed by Rule 8002.
+(1) *Time to File*. An appeal under 28 U.S.C. §158(a)(1) or (2) from a bankruptcy court's judgment, order, or decree to a district court or a BAP may be taken only by filing a notice of appeal with the bankruptcy clerk within the time allowed by Rule 8002.
 
-(2) *Effect of Not Taking Other Steps*. An appellant's failure to take any step other than the timely filing of a notice of appeal does not affect the validity of the appeal, but is ground only for the district court or BAP to act as it considers appropriate, including dismissing the appeal.
+(2) *Failure to Take Any Other Step*. An appellant's failure to take any step other than timely filing a notice of appeal does not affect the appeal's validity, but is ground only for the district court or BAP to act as it considers appropriate, including dismissing the appeal.
 
-(3) *Contents*. The notice of appeal must:
+(3) *Content of the Notice of Appeal*. A notice of appeal must:
 
-(A) conform substantially to the appropriate Official Form;
+(A) conform substantially to Form 417A;
 
 (B) be accompanied by the judgment—or the appealable order or decree—from which the appeal is taken; and
 
-(C) be accompanied by the prescribed fee.
+(C) be accompanied by the prescribed filing fee.
 
 (4) *Merger*. The notice of appeal encompasses all orders that, for purposes of appeal, merge into the identified judgment or appealable order or decree. It is not necessary to identify those orders in the notice of appeal.
 
@@ -7118,29 +9448,33 @@ The Federal Rules of Civil Procedure, referred to in subd. (a)(5)(A)(ii), (B), a
 
 (7) *Impermissible Ground for Dismissal*. An appeal must not be dismissed for failure to properly identify the judgment or appealable order or decree if the notice of appeal was filed after entry of the judgment or appealable order or decree and identifies an order that merged into that judgment or appealable order or decree.
 
-(8) *Additional Copies*. If requested to do so, the appellant must furnish the bankruptcy clerk with enough copies of the notice to enable the clerk to comply with subdivision (c).
+(8) *Clerk's Request for Additional Copies of the Notice of Appeal*. On the bankruptcy clerk's request, the appellant must provide enough copies of the notice of appeal to enable the clerk to comply with (c).
 
 (b) Joint or Consolidated Appeals.
 
-(1) *Joint Notice of Appeal*. When two or more parties are entitled to appeal from a judgment, order, or decree of a bankruptcy court and their interests make joinder practicable, they may file a joint notice of appeal. They may then proceed on appeal as a single appellant.
+(1) *Joint Notice of Appeal*. When two or more parties are entitled to appeal from a bankruptcy court's judgment, order, or decree and their interests make joinder practicable, they may file a joint notice of appeal. They may then proceed on appeal as a single appellant.
 
 (2) *Consolidating Appeals*. When parties have separately filed timely notices of appeal, the district court or BAP may join or consolidate the appeals.
 
 (c) Serving the Notice of Appeal.
 
-(1) *Serving Parties and Transmitting to the United States Trustee*. The bankruptcy clerk must serve the notice of appeal on counsel of record for each party to the appeal, excluding the appellant, and transmit it to the United States trustee. If a party is proceeding pro se, the clerk must send the notice of appeal to the party's last known address. The clerk must note, on each copy, the date when the notice of appeal was filed.
+(1) *Serving Parties; Sending to the United States Trustee*. The bankruptcy clerk must serve the notice of appeal by sending a copy to counsel of record for each party to the appeal—excluding the appellant's counsel—and send it to the United States trustee. If a party is proceeding pro se, the clerk must send the notice to the party's last known address. The clerk must note, on each copy, the date when the notice of appeal was filed.
 
-(2) *Effect of Failing to Serve or Transmit Notice*. The bankruptcy clerk's failure to serve notice on a party or transmit notice to the United States trustee does not affect the validity of the appeal.
+(2) *Failure to Serve the Notice of Appeal*. The bankruptcy clerk's failure to serve notice on a party or send notice to the United States trustee does not affect the appeal's validity.
 
-(3) *Noting Service on the Docket*. The clerk must note on the docket the names of the parties served and the date and method of the service.
+(3) *Entry of Service on the Docket*. The clerk must note on the docket the names of the parties served and the date and method of service.
 
-(d) Transmitting the Notice of Appeal to the District Court or BAP; Docketing the Appeal.
+(d) Sending the Notice of Appeal to the District Court or BAP; Docketing the Appeal.
 
-(1) *Transmitting the Notice*. The bankruptcy clerk must promptly transmit the notice of appeal to the BAP clerk if a BAP has been established for appeals from that district and the appellant has not elected to have the district court hear the appeal. Otherwise, the bankruptcy clerk must promptly transmit the notice to the district clerk.
+(1) *Where to Send the Notice of Appeal*. If a BAP has been established to hear appeals from that district—and an appellant has not elected to have the appeal heard in the district court—the bankruptcy clerk must promptly send the notice of appeal to the BAP clerk. Otherwise, the bankruptcy clerk must promptly send it to the district clerk.
 
-(2) *Docketing in the District Court or BAP*. Upon receiving the notice of appeal, the district or BAP clerk must docket the appeal under the title of the bankruptcy case and the title of any adversary proceeding, and must identify the appellant, adding the appellant's name if necessary.
+(2) *Docketing the Appeal*. Upon receiving the notice of appeal, the district or BAP clerk must:
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 24, 2023, eff. Dec. 1, 2023.)
+(A) docket the appeal under the title of the bankruptcy case and the title of any adversary proceeding; and
+
+(B) identify the appellant, adding the appellant's name if necessary.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 24, 2023, eff. Dec. 1, 2023; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -7174,21 +9508,25 @@ Subdivision (a)(6) is added to enable deliberate limitations of the notice of ap
 
 On occasion, a party may file a notice of appeal after a judgment or appealable order or decree but identify only a previously nonappealable order that merged into that judgment or appealable order or decree. To deal with this situation, subdivision (a)(7) is added to provide that an appeal must not be dismissed for failure to properly identify the judgment or appealable order or decree if the notice of appeal was filed after entry of the judgment or appealable order or decree and identifies an order that merged into the judgment, order, or decree from which the appeal is taken. In this situation, a court should act as if the notice had properly identified the judgment or appealable order or decree. In determining whether a notice of appeal was filed after the entry of judgment, Rules 8002(a)(2) and (b)(2) apply.
 
-### Rule 8004. Appeal by Leave—How Taken; Docketing the Appeal ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Notice of Appeal and Motion for Leave to Appeal. To appeal from an interlocutory order or decree of a bankruptcy court under 28 U.S.C. §158(a)(3), a party must file with the bankruptcy clerk a notice of appeal as prescribed by Rule 8003(a). The notice must:
+The language of Rule 8003 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+### Rule 8004. Leave to Appeal from an Interlocutory Order or Decree Under 28 U.S.C. §158(a)(3) ###
+
+(a) Notice of Appeal and Accompanying Motion for Leave to Appeal. To appeal under 28 U.S.C. §158(a)(3) from a bankruptcy court's interlocutory order or decree, a party must file with the bankruptcy clerk a notice of appeal under Rule 8003(a). The notice must:
 
 (1) be filed within the time allowed by Rule 8002;
 
-(2) be accompanied by a motion for leave to appeal prepared in accordance with subdivision (b); and
+(2) be accompanied by a motion for leave to appeal prepared in accordance with (b); and
 
-(3) unless served electronically using the court's transmission equipment, include proof of service in accordance with Rule 8011(d).	
+(3) unless served electronically using the court's electronic-filing system, include proof of service in accordance with Rule 8011(d).
 
-(b) Contents of the Motion; Response.
+(b) Content of the Motion for Leave to Appeal; Response.
 
-(1) *Contents*. A motion for leave to appeal under 28 U.S.C. §158(a)(3) must include the following:
+(1) *Content*. A motion for leave to appeal under 28 U.S.C. §158(a)(3) must include:
 
-(A) the facts necessary to understand the question presented;
+(A) the facts needed to understand the question presented;
 
 (B) the question itself;
 
@@ -7198,21 +9536,25 @@ On occasion, a party may file a notice of appeal after a judgment or appealable 
 
 (E) a copy of the interlocutory order or decree and any related opinion or memorandum.
 
-(2) *Response*. A party may file with the district or BAP clerk a response in opposition or a cross-motion within 14 days after the motion is served.
+(2) *Response*. Within 14 days after the motion for leave is served, a party may file with the district or BAP clerk a response in opposition or a cross-motion.
 
-(c) Transmitting the Notice of Appeal and the Motion; Docketing the Appeal; Determining the Motion.
+(c) Sending the Notice of Appeal and Motion for Leave to Appeal; Docketing the Appeal; Oral Argument Not Required.
 
-(1) *Transmitting to the District Court or BAP*. The bankruptcy clerk must promptly transmit the notice of appeal and the motion for leave to the BAP clerk if a BAP has been established for appeals from that district and the appellant has not elected to have the district court hear the appeal. Otherwise, the bankruptcy clerk must promptly transmit the notice and motion to the district clerk.
+(1) *Sending to the District Court or BAP*. If a BAP has been established to hear appeals from that district—and an appellant has not elected to have the appeal heard in the district court—the bankruptcy clerk must promptly send to the BAP clerk the notice of appeal and the motion for leave to appeal. Otherwise, the bankruptcy clerk must promptly send the notice and motion to the district clerk.
 
-(2) *Docketing in the District Court or BAP*. Upon receiving the notice and motion, the district or BAP clerk must docket the appeal under the title of the bankruptcy case and the title of any adversary proceeding, and must identify the appellant, adding the appellant's name if necessary.
+(2) *Docketing the Appeal*. Upon receiving the notice and motion, the district or BAP clerk must docket the appeal as prescribed by Rule 8003(d)(2).
 
-(3) *Oral Argument Not Required*. The motion and any response or cross-motion are submitted without oral argument unless the district court or BAP orders otherwise.
+(3) *Oral Argument Not Required*. Unless the district court or BAP orders otherwise, a motion, a cross-motion, and any response will be submitted without oral argument.
 
-(d) Failure to File a Motion With a Notice of Appeal. If an appellant timely files a notice of appeal under this rule but does not include a motion for leave, the district court or BAP may order the appellant to file a motion for leave, or treat the notice of appeal as a motion for leave and either grant or deny it. If the court orders that a motion for leave be filed, the appellant must do so within 14 days after the order is entered, unless the order provides otherwise.
+(d) Failure to File a Motion for Leave to Appeal. If an appellant files a timely notice of appeal under this rule but fails to include a motion for leave to appeal, the district court or BAP may:
 
-(e) Direct Appeal to a Court of Appeals. If leave to appeal an interlocutory order or decree is required under 28 U.S.C. §158(a)(3), an authorization of a direct appeal by the court of appeals under 28 U.S.C. §158(d)(2) satisfies the requirement.
+(1) treat the notice of appeal as a motion for leave to appeal and grant or deny it; or
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(2) order the appellant to file a motion for leave to appeal within 14 days after the order has been entered—unless the order provides otherwise.
+
+(e) Direct Appeal to a Court of Appeals. If leave to appeal an interlocutory order or decree is required under 28 U.S.C. §158(a)(3), an authorization by a court of appeals for a direct appeal under 28 U.S.C. §158(d)(2) satisfies the requirement.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -7234,21 +9576,25 @@ Subdivision (e), like former Rule 8003(d), treats the authorization of a direct 
 
 *Changes Made After Publication and Comment*. In subdivision (c)(2), the direction for docketing a bankruptcy appeal was changed to reflect the fact that many bankruptcy appeals have dual titles—the bankruptcy case itself and the adversary proceeding that is the subject of the appeal. As published, subdivision (c)(3) stated that the court must dismiss the appeal if the motion for leave to appeal is denied. That sentence was deleted.
 
-### Rule 8005. Election to Have an Appeal Heard by the District Court Instead of the BAP ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Filing of a Statement of Election. To elect to have an appeal heard by the district court, a party must:
+The language of Rule 8004 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(1) file a statement of election that conforms substantially to the appropriate Official Form; and
+### Rule 8005. Election to Have an Appeal Heard in the District Court Instead of the BAP ###
 
-(2) do so within the time prescribed by 28 U.S.C. §158(c)(1).
+(a) Filing a Statement of Election. To elect to have the district court hear an appeal, a party must file a statement of election within the time prescribed by 28 U.S.C. §158(c)(1). The statement must substantially conform to Form 417A.
 
-(b) Transmitting the Documents Related to the Appeal. Upon receiving an appellant's timely statement of election, the bankruptcy clerk must transmit to the district clerk all documents related to the appeal. Upon receiving a timely statement of election by a party other than the appellant, the BAP clerk must transmit to the district clerk all documents related to the appeal and notify the bankruptcy clerk of the transmission.
+(b) Sending Documents Relating to the Appeal. Upon receiving an appellant's timely statement of election, the bankruptcy clerk must send all documents related to the appeal to the district clerk. A BAP clerk who receives a timely statement of election from a party other than the appellant must:
 
-(c) Determining the Validity of an Election. A party seeking a determination of the validity of an election must file a motion in the court where the appeal is then pending. The motion must be filed within 14 days after the statement of election is filed.
+(1) send those documents to the district clerk; and
 
-(d) Motion for Leave Without a Notice of Appeal—Effect on the Timing of an Election. If an appellant moves for leave to appeal under Rule 8004 but fails to file a separate notice of appeal with the motion, the motion must be treated as a notice of appeal for purposes of determining the timeliness of a statement of election.
+(2) notify the bankruptcy clerk that they have been sent.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(c) Determining the Validity of an Election. Within 14 days after the statement of election has been filed, a party seeking to determine the election's validity must file a motion in the court where the appeal is pending.
+
+(d) Effect of Filing a Motion for Leave to Appeal Without Filing a Notice of Appeal. If an appellant moves for leave to appeal under Rule 8004 but fails to file a notice of appeal with the motion, it must be treated as a notice of appeal in determining whether the statement of election has been timely filed.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -7268,57 +9614,65 @@ Subdivision (d) provides that, in the case of an appeal by leave, if the appella
 
 *Changes Made After Publication and Comment*. In subdivision (b), a requirement was added that the BAP clerk notify the bankruptcy clerk if an appeal is transferred from the BAP to the district court upon the election of an appellee. Conforming and clarifying changes were made to the Committee Note.
 
-### Rule 8006. Certifying a Direct Appeal to the Court of Appeals ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Effective Date of a Certification. A certification of a judgment, order, or decree of a bankruptcy court for direct review in a court of appeals under 28 U.S.C. §158(d)(2) is effective when:
+The language of Rule 8005 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(1) the certification has been filed;
+### Rule 8006. Certifying a Direct Appeal to a Court of Appeals ###
 
-(2) a timely appeal has been taken under Rule 8003 or 8004; and
+(a) Effective Date of a Certification. A certification of a bankruptcy court's judgment, order, or decree to a court of appeals for direct review under 28 U.S.C. §158(d)(2) becomes effective when:
 
-(3) the notice of appeal has become effective under Rule 8002.
+(1) it is filed;
 
-(b) Filing the Certification. The certification must be filed with the clerk of the court where the matter is pending. For purposes of this rule, a matter remains pending in the bankruptcy court for 30 days after the effective date under Rule 8002 of the first notice of appeal from the judgment, order, or decree for which direct review is sought. A matter is pending in the district court or BAP thereafter.
+(2) a timely appeal is taken under Rule 8003 or Rule 8004; and
+
+(3) the notice of appeal becomes effective under Rule 8002.
+
+(b) Filing the Certification. The certification must be filed with the clerk of the court where the matter is pending. For purposes of this rule, a matter remains pending in the bankruptcy court for 30 days after the first notice of appeal concerning that matter becomes effective under Rule 8002. After that time, the matter is pending in the district court or BAP.
 
 (c) Joint Certification by All Appellants and Appellees.
 
-(1) *How Accomplished*. A joint certification by all the appellants and appellees under 28 U.S.C. §158(d)(2)(A) must be made by using the appropriate Official Form. The parties may supplement the certification with a short statement of the basis for the certification, which may include the information listed in subdivision (f)(2).
+(1) *In General*. A joint certification by all appellants and appellees under 28 U.S.C. §158(d)(2)(A) must be made using Form 424. The parties may supplement the certification with a short statement about its basis. The statement may include the information required by (f)(2).
 
-(2) *Supplemental Statement by the Court*. Within 14 days after the parties' certification, the bankruptcy court or the court in which the matter is then pending may file a short supplemental statement about the merits of the certification.
+(2) *Supplemental Statement by the Court*. Within 14 days after the parties file the certification, the bankruptcy court—or the court where the matter is pending—may file a short supplemental statement about the certification's merits.
 
-(d) The Court That May Make the Certification. Only the court where the matter is pending, as provided in subdivision (b), may certify a direct review on request of parties or on its own motion.	
+(d) Court's Authority to Certify a Direct Appeal. Only the court where the matter is pending under (b) may certify a direct appeal to a court of appeals. The court may do so on a party's request or on its own.
 
-(e) Certification on the Court's Own Motion.
+(e) Certification by the Court Acting on Its Own.
 
-(1) *How Accomplished*. A certification on the court's own motion must be set forth in a separate document. The clerk of the certifying court must serve it on the parties to the appeal in the manner required for service of a notice of appeal under Rule 8003(c)(1). The certification must be accompanied by an opinion or memorandum that contains the information required by subdivision (f)(2)(A)–(D).
+(1) *Separate Document Required; Service; Content*. A certification by a court acting on its own must be set forth in a separate document. The clerk of the certifying court must serve the document on the parties to the appeal in the manner required for serving a notice of appeal under Rule 8003(c)(1). It must be accompanied by an opinion or memorandum that contains the information required by (f)(2)(A)–(D).
 
-(2) *Supplemental Statement by a Party*. Within 14 days after the court's certification, a party may file with the clerk of the certifying court a short supplemental statement regarding the merits of certification.
+(2) *Supplemental Statement by a Party*. Within 14 days after the court's certification, a party may file with the clerk of the certifying court a short supplemental statement about the merits of certification.
 
 (f) Certification by the Court on Request.
 
-(1) *How Requested*. A request by a party for certification that a circumstance specified in 28 U.S.C. §158(d)(2)(A)(i)–(iii) applies—or a request by a majority of the appellants and a majority of the appellees—must be filed with the clerk of the court where the matter is pending within 60 days after the entry of the judgment, order, or decree.
+(1) *How Requested*. A party's request for certification under 28 U.S.C. §158(d)(2)(A)—or a request by a majority of the appellants and of the appellees—must be filed with the clerk of the court where the matter is pending. The request must be filed within 60 days after the judgment, order, or decree is entered.
 
-(2) *Service and Contents*. The request must be served on all parties to the appeal in the manner required for service of a notice of appeal under Rule 8003(c)(1), and it must include the following:
+(2) *Service; Content*. The request must be served on all parties to the appeal in the manner required for serving a notice of appeal under Rule 8003(c)(1). The request must include:
 
-(A) the facts necessary to understand the question presented;
+(A) the facts needed to understand the question presented;
 
 (B) the question itself;
 
 (C) the relief sought;
 
-(D) the reasons why the direct appeal should be allowed, including which circumstance specified in 28 U.S.C. §158(d)(2)(A)(i)–(iii) applies; and
+(D) the reasons why a direct appeal should be allowed, including which circumstance specified in 28 U.S.C. §158(d)(2)(A)(i)–(iii) applies; and
 
-(E) a copy of the judgment, order, or decree and any related opinion or memorandum.
+(E) the judgment, order, or decree, and any related opinion or memorandum.
 
-(3) *Time to File a Response or a Cross-Request*. A party may file a response to the request within 14 days after the request is served, or such other time as the court where the matter is pending allows. A party may file a cross-request for certification within 14 days after the request is served, or within 60 days after the entry of the judgment, order, or decree, whichever occurs first.
+(3) *Time to File a Response or a Cross-Request.*
 
-(4) *Oral Argument Not Required*. The request, cross-request, and any response are submitted without oral argument unless the court where the matter is pending orders otherwise.
+(A) *Response*. A party may file a response within 14 days after the request has been served, or within such other time as the court where the matter is pending allows.
 
-(5) *Form and Service of the Certification*. If the court certifies a direct appeal in response to the request, it must do so in a separate document. The certification must be served on the parties to the appeal in the manner required for service of a notice of appeal under Rule 8003(c)(1).
+(B) *Cross-Request*. A party may file a cross-request for certification within 14 days after the request has been served or within 60 days after the judgment, order, or decree has been entered—whichever occurs first.
 
-(g) Proceeding in the Court of Appeals Following a Certification. Within 30 days after the date the certification becomes effective under subdivision (a), a request for permission to take a direct appeal to the court of appeals must be filed with the circuit clerk in accordance with F.R.App.P. 6(c).
+(4) *Oral Argument Not Required*. Unless the court where the matter is pending orders otherwise, a request, a cross-request, and any response will be submitted without oral argument.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
+(5) *Form of a Certification; Service*. The court that certifies a direct appeal in response to a request must do so in a separate document served on all parties to the appeal in the manner required for serving a notice of appeal under Rule 8003(c)(1).
+
+(g) Request for Leave to Take a Direct Appeal to a Court of Appeals After Certification. Within 30 days after the certification has become effective under (a), a request for leave to take a direct appeal to a court of appeals must be filed with the circuit clerk in accordance with Fed. R. App. P. 6(c).
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -7346,39 +9700,43 @@ Subdivision (c) is amended to provide authority for the court to file a statemen
 
 The bankruptcy court may file a supplemental statement within 14 days after the certification, even if the appeal is no longer pending before it according to subdivision (b). If the appeal is pending in the district court or BAP during that 14-day period, the appellate court is authorized to file a statement. In all cases, the filing of a statement by the court is discretionary.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8006 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Appellate Procedure, referred to in subd. (g), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 8007. Stay Pending Appeal; Bonds; Suspension of Proceedings ###
+### Rule 8007. Stay Pending Appeal; Bond; Suspending Proceedings ###
 
 (a) Initial Motion in the Bankruptcy Court.
 
 (1) *In General*. Ordinarily, a party must move first in the bankruptcy court for the following relief:
 
-(A) a stay of a judgment, order, or decree of the bankruptcy court pending appeal;
+(A) a stay of the bankruptcy court's judgment, order, or decree pending appeal;
 
 (B) the approval of a bond or other security provided to obtain a stay of judgment;
 
 (C) an order suspending, modifying, restoring, or granting an injunction while an appeal is pending; or
 
-(D) the suspension or continuation of proceedings in a case or other relief permitted by subdivision (e).
+(D) an order suspending or continuing proceedings or granting other relief permitted by (e).
 
-(2) *Time to File*. The motion may be made either before or after the notice of appeal is filed.
+(2) *Time to File*. The motion may be filed either before or after the notice of appeal is filed.
 
-(b) Motion in the District Court, the BAP, or the Court of Appeals on Direct Appeal.
+(b) Motion in the District Court, BAP, or Court of Appeals on Direct Appeal.
 
-(1) *Request for Relief*. A motion for the relief specified in subdivision (a)(1)—or to vacate or modify a bankruptcy court's order granting such relief—may be made in the court where the appeal is pending.
+(1) *In General*. A motion for the relief specified in (a)(1)—or to vacate or modify a bankruptcy court's order granting such relief—may be filed in the court where the appeal is pending.
 
-(2) *Showing or Statement Required*. The motion must:
+(2) *Required Showing*. The motion must:
 
 (A) show that moving first in the bankruptcy court would be impracticable; or
 
-(B) if a motion was made in the bankruptcy court, either state that the court has not yet ruled on the motion, or state that the court has ruled and set out any reasons given for the ruling.
+(B) if a motion has already been made in the bankruptcy court, state whether the court has ruled on it, and if so, state any reasons given for the ruling.
 
-(3) *Additional Content*. The motion must also include:
+(3) *Additional Requirements*. The motion must also include:
 
-(A) the reasons for granting the relief requested and the facts relied upon;
+(A) the reasons for granting the relief requested and the facts relied on;
 
 (B) affidavits or other sworn statements supporting facts subject to dispute; and
 
@@ -7386,17 +9744,21 @@ The Federal Rules of Appellate Procedure, referred to in subd. (g), are set out 
 
 (4) *Serving Notice*. The movant must give reasonable notice of the motion to all parties.
 
-(c) Filing a Bond or Other Security. The district court, BAP, or court of appeals may condition relief on filing a bond or other security with the bankruptcy court.
+(c) *Filing a Bond or Other Security as a Condition of Relief*.<sup><a href="#Rule_8007_1_target" name="Rule_8007_1">1</a></sup> The district court, BAP, or court of appeals may condition relief on filing a bond or other security with the bankruptcy court.
 
-(d) Bond or Other Security for a Trustee or the United States. The court may require a trustee to file a bond or other security when the trustee appeals. A bond or other security is not required when an appeal is taken by the United States, its officer, or its agency or by direction of any department of the federal government.
+(d) *Bond or Other Security for a Trustee; Not for the United States*.<sup><a href="#Rule_8007_1_target" name="Rule_8007_1">1</a></sup> The court may require a trustee who appeals to file a bond or other security. No bond or security is required when:
 
-(e) Continuation of Proceedings in the Bankruptcy Court. Despite Rule 7062 and subject to the authority of the district court, BAP, or court of appeals, the bankruptcy court may:
+(1) the United States, its officer, or its agency appeals; or
 
-(1) suspend or order the continuation of other proceedings in the case; or
+(2) an appeal is taken by direction of any federal governmental department.
 
-(2) issue any other appropriate orders during the pendency of an appeal to protect the rights of all parties in interest.
+(e) *Continuing Proceedings in the Bankruptcy Court*.<sup><a href="#Rule_8007_1_target" name="Rule_8007_1">1</a></sup> Despite Rule 7062—but subject to the authority of the district court, BAP, or court of appeals—while the appeal is pending, the bankruptcy court may:
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
+(1) suspend or order the continuation of other proceedings in the case, or
+
+(2) issue any appropriate order to protect the rights of all parties in interest.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -7420,21 +9782,29 @@ Subdivision (e) retains the provision of the former rule that authorizes the ban
 
 The amendments to subdivisions (a)(1)(B), (c), and (d) conform this rule with the amendment of Rule 62 F.R.Civ.P., which is made applicable to adversary proceedings by Rule 7062. Rule 62 formerly required a party to provide a "supersedeas bond" to obtain a stay of the judgment and proceedings to enforce the judgment. As amended, Rule 62(b) allows a party to obtain a stay by providing a "bond or other security."
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8007 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+[<sup>1</sup> So in original. The heading probably should not be italicized.](#Rule_8007_1)
+
 ### Rule 8008. Indicative Rulings ###
 
-(a) Relief Pending Appeal. If a party files a timely motion in the bankruptcy court for relief that the court lacks authority to grant because of an appeal that has been docketed and is pending, the bankruptcy court may:
+(a) *Motion for Relief Filed When an Appeal Is Pending; Bankruptcy Court's Options*.<sup><a href="#Rule_8008_1_target" name="Rule_8008_1">1</a></sup> If a party files a timely motion in the bankruptcy court for relief that the court lacks authority to grant because an appeal has been docketed and is pending, the bankruptcy court may:
 
-(1) defer considering the motion;	
+(1) defer considering the motion;
 
-(2) deny the motion; or
+(2) deny the motion;
 
-(3) state that the court would grant the motion if the court where the appeal is pending remands for that purpose, or state that the motion raises a substantial issue.
+(3) state that it would grant the motion if the court where the appeal is pending remands for that purpose; or
 
-(b) Notice to the Court Where the Appeal Is Pending. The movant must promptly notify the clerk of the court where the appeal is pending if the bankruptcy court states that it would grant the motion or that the motion raises a substantial issue.
+(4) state that the motion raises a substantial issue.
 
-(c) Remand After an Indicative Ruling. If the bankruptcy court states that it would grant the motion or that the motion raises a substantial issue, the district court or BAP may remand for further proceedings, but it retains jurisdiction unless it expressly dismisses the appeal. If the district court or BAP remands but retains jurisdiction, the parties must promptly notify the clerk of that court when the bankruptcy court has decided the motion on remand.
+(b) *Notice to the Court Where the Appeal Is Pending*.<sup><a href="#Rule_8008_1_target" name="Rule_8008_1">1</a></sup> If the bankruptcy court states that it would grant the motion or that the motion raises a substantial issue, the movant must promptly notify the clerk of the court where the appeal is pending.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(c) *Remand After an Indicative Ruling*.<sup><a href="#Rule_8008_1_target" name="Rule_8008_1">1</a></sup> If the bankruptcy court states that it would grant the motion or that the motion raises a substantial issue, the district court or BAP may remand for further proceedings but retains jurisdiction unless it expressly dismisses the appeal. If the district court or BAP remands but retains jurisdiction, the parties must promptly notify the clerk of that court when the bankruptcy court has decided the motion on remand.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -7450,31 +9820,41 @@ Federal Rules of Appellate Procedure 6 and 12.1 govern the procedure in the cour
 
 Subdivision (c) of this rule governs the procedure in the district court or BAP upon notification that the bankruptcy court has issued an indicative ruling. The district court or BAP may remand to the bankruptcy court for a ruling on the motion for relief. The district court or BAP may also remand all proceedings, thereby terminating the initial appeal, if it expressly states that it is dismissing the appeal. It should do so, however, only when the appellant has stated clearly its intention to abandon the appeal. Otherwise, the district court or BAP may remand for the purpose of ruling on the motion, while retaining jurisdiction to proceed with the appeal after the bankruptcy court rules, provided that the appeal is not then moot and a party wishes to proceed.
 
-*Changes Made After Publication and Comment*. No changes were made after publication and comment.	
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8008 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+[<sup>1</sup> So in original. The heading probably should not be italicized.](#Rule_8008_1)
 
 ### Rule 8009. Record on Appeal; Sealed Documents ###
 
-(a) Designating the Record on Appeal; Statement of the Issues.
+(a) Designating the Record on Appeal; Statement of the Issues; Content of the Record.
 
-(1) *Appellant.*
+(1) *Appellant's Designation and Statement of the Issues*. The appellant must:
 
-(A) The appellant must file with the bankruptcy clerk and serve on the appellee a designation of the items to be included in the record on appeal and a statement of the issues to be presented.
+(A) file with the bankruptcy clerk a designation of the items to be included in the record on appeal and a statement of the issues to be presented; and
 
-(B) The appellant must file and serve the designation and statement within 14 days after:
+(B) file and serve the designation and statement on the appellee within 14 days after:
 
-(i) the appellant's notice of appeal as of right becomes effective under Rule 8002; or
+• the notice of appeal as of right has become effective under Rule 8002; or
 
-(ii) an order granting leave to appeal is entered.
+• an order granting leave to appeal has been entered.
 
-A designation and statement served prematurely must be treated as served on the first day on which filing is timely.
+Premature service is treated as service on the first day on which filing is timely.
 
-(2) *Appellee and Cross-Appellant*. Within 14 days after being served, the appellee may file with the bankruptcy clerk and serve on the appellant a designation of additional items to be included in the record. An appellee who files a cross-appeal must file and serve a designation of additional items to be included in the record and a statement of the issues to be presented on the cross-appeal.
+(2) *Appellee's and Cross-Appellant's Designation and Statement of the Issues.*
 
-(3) *Cross-Appellee*. Within 14 days after service of the cross-appellant's designation and statement, a cross-appellee may file with the bankruptcy clerk and serve on the cross-appellant a designation of additional items to be included in the record.
+(A) *Appellee*. Within 14 days after being served, the appellee may file with the bankruptcy clerk and serve on the appellant a designation of additional items to be included in the record.
 
-(4) *Record on Appeal*. The record on appeal must include the following:
+(B) *Cross-Appellant*. An appellee who files a cross-appeal must file and serve a designation of additional items to be included in the record and a statement of the issues to be presented on the cross-appeal.
 
-• docket entries kept by the bankruptcy clerk;
+(3) *Cross-Appellee's Designation*. Within 14 days after the cross-appellant's designation and statement have been served, the cross-appellee may file with the bankruptcy clerk and serve on the cross-appellant a designation of additional items to be included in the record.
+
+(4) *Record on Appeal*. The record on appeal must include:
+
+• the docket entries kept by the bankruptcy clerk;
 
 • items designated by the parties;
 
@@ -7486,59 +9866,87 @@ A designation and statement served prematurely must be treated as served on the 
 
 • any certification required for a direct appeal to the court of appeals;
 
-• any opinion, findings of fact, and conclusions of law relating to the issues on appeal, including transcripts of all oral rulings;
+• any opinion, findings of fact and conclusions of law relating to the issues on appeal, including transcripts of all oral rulings;
 
-• any transcript ordered under subdivision (b);
+• any transcript ordered under (b);
 
-• any statement required by subdivision (c); and
+• any statement required by (c); and
 
-• any additional items from the record that the court where the appeal is pending orders.
+• any other items from the record that the court where the appeal is pending orders to be included.
 
-(5) *Copies for the Bankruptcy Clerk*. If paper copies are needed, a party filing a designation of items must provide a copy of any of those items that the bankruptcy clerk requests. If the party fails to do so, the bankruptcy clerk must prepare the copy at the party's expense.
+(5) *Copies for the Bankruptcy Clerk*. If paper copies are needed and the bankruptcy clerk requests copies of designated items, the party filing the designation must provide them. If the party fails to do so, the bankruptcy clerk must prepare them at that party's expense.
 
 (b) Transcript of Proceedings.
 
-(1) *Appellant's Duty to Order*. Within the time period prescribed by subdivision (a)(1), the appellant must:
+(1) *Appellant's Duty to Order*. Within the period prescribed by (a)(1), the appellant must:
 
 (A) order in writing from the reporter, as defined in Rule 8010(a)(1), a transcript of such parts of the proceedings not already on file as the appellant considers necessary for the appeal, and file a copy of the order with the bankruptcy clerk; or
 
 (B) file with the bankruptcy clerk a certificate stating that the appellant is not ordering a transcript.
 
-(2) *Cross-Appellant's Duty to Order*. Within 14 days after the appellant files a copy of the transcript order or a certificate of not ordering a transcript, the appellee as cross-appellant must:
+(2) *Appellee's Duty to Order as a Cross-Appellant*. Within 14 days after the appellant has filed a copy of the transcript order—or a certificate stating that the appellant is not ordering a transcript—the appellee as cross-appellant must:
 
-(A) order in writing from the reporter, as defined in Rule 8010(a)(1), a transcript of such additional parts of the proceedings as the cross-appellant considers necessary for the appeal, and file a copy of the order with the bankruptcy clerk; or
+(A) order in writing from the reporter a transcript of such additional parts of the proceedings as the cross-appellant considers necessary for the appeal, and file a copy of the order with the bankruptcy clerk; or
 
 (B) file with the bankruptcy clerk a certificate stating that the cross-appellant is not ordering a transcript.
 
-(3) *Appellee's or Cross-Appellee's Right to Order*. Within 14 days after the appellant or cross-appellant files a copy of a transcript order or certificate of not ordering a transcript, the appellee or cross-appellee may order in writing from the reporter a transcript of such additional parts of the proceedings as the appellee or cross-appellee considers necessary for the appeal. A copy of the order must be filed with the bankruptcy clerk.
+(3) *Appellee's or Cross-Appellee's Right to Order*. Within 14 days after the appellant or cross-appellant has filed a copy of a transcript order—or a certificate stating that the appellant or cross-appellant is not ordering a transcript—the appellee or cross-appellee:
 
-(4) *Payment*. At the time of ordering, a party must make satisfactory arrangements with the reporter for paying the cost of the transcript.
+(A) may order in writing from the reporter a transcript of any additional parts of the proceeding that the appellee or cross-appellee considers necessary for the appeal; and
 
-(5) *Unsupported Finding or Conclusion*. If the appellant intends to argue on appeal that a finding or conclusion is unsupported by the evidence or is contrary to the evidence, the appellant must include in the record a transcript of all relevant testimony and copies of all relevant exhibits.
+(B) must file a copy of the order with the bankruptcy clerk.
 
-(c) Statement of the Evidence When a Transcript Is Unavailable. If a transcript of a hearing or trial is unavailable, the appellant may prepare a statement of the evidence or proceedings from the best available means, including the appellant's recollection. The statement must be filed within the time prescribed by subdivision (a)(1) and served on the appellee, who may serve objections or proposed amendments within 14 days after being served. The statement and any objections or proposed amendments must then be submitted to the bankruptcy court for settlement and approval. As settled and approved, the statement must be included by the bankruptcy clerk in the record on appeal.
+(4) *Payment*. At the time of ordering, a party must make satisfactory arrangements with the reporter to pay for the transcript.
 
-(d) Agreed Statement as the Record on Appeal. Instead of the record on appeal as defined in subdivision (a), the parties may prepare, sign, and submit to the bankruptcy court a statement of the case showing how the issues presented by the appeal arose and were decided in the bankruptcy court. The statement must set forth only those facts alleged and proved or sought to be proved that are essential to the court's resolution of the issues. If the statement is accurate, it—together with any additions that the bankruptcy court may consider necessary to a full presentation of the issues on appeal—must be approved by the bankruptcy court and must then be certified to the court where the appeal is pending as the record on appeal. The bankruptcy clerk must then transmit it to the clerk of that court within the time provided by Rule 8010. A copy of the agreed statement may be filed in place of the appendix required by Rule 8018(b) or, in the case of a direct appeal to the court of appeals, by F.R.App.P. 30.
+(5) *Unsupported Finding or Conclusion*. If the appellant intends to argue on appeal that a finding or conclusion is unsupported by the evidence or is contrary to the evidence, the appellant must include in the record a transcript of all relevant testimony and a copy of all relevant exhibits.
+
+(c) When a Transcript Is Unavailable.
+
+(1) *Statement of the Evidence*. If a transcript of a hearing or trial is unavailable, the appellant may prepare a statement of the evidence or proceedings from the best available means, including the appellant's recollection. The statement must be filed within the time prescribed by (a)(1) and served on the appellee.
+
+(2) *Appellee's Response*. The appellee may serve objections or proposed amendments within 14 days after being served.
+
+(3) *Court Approval*. The statement and any objections or proposed amendments must then be submitted to the bankruptcy court for settlement and approval. As settled and approved, the statement must be included by the bankruptcy clerk in the record on appeal.
+
+(d) Agreed Statement as the Record on Appeal.
+
+(1) *Agreed Statement*. Instead of the record on appeal as defined in (a), the parties may prepare, sign, and submit to the bankruptcy court a statement of the case showing how the issues presented by the appeal arose and were decided in the bankruptcy court.
+
+(2) *Content*. The statement must set forth only those facts alleged and proved or sought to be proved that are essential to the court's resolution of the issues. If the statement is accurate, it—together with any additions that the bankruptcy court considers necessary to a full presentation of the issues on appeal—must be:
+
+(A) approved by the bankruptcy court; and
+
+(B) certified to the court where the appeal is pending as the record on appeal.
+
+(3) *Time to Send the Agreed Statement to the Appellate Court*. The bankruptcy clerk must then send the agreed statement to the clerk of the court where the appeal is pending within the time provided by Rule 8010. A copy may be filed in place of the appendix required by Rule 8018(b) or, in the case of a direct appeal to the court of appeals, by Fed. R. App. P. 30.
 
 (e) Correcting or Modifying the Record.
 
-(1) *Submitting to the Bankruptcy Court*. If any difference arises about whether the record accurately discloses what occurred in the bankruptcy court, the difference must be submitted to and settled by the bankruptcy court and the record conformed accordingly. If an item has been improperly designated as part of the record on appeal, a party may move to strike that item.
+(1) *Differences About Accuracy; Improper Designations*. If any difference arises about whether the record accurately discloses what occurred in the bankruptcy court, the difference must be submitted to and settled by the bankruptcy court and the record conformed accordingly. If an item has been improperly designated as part of the record on appeal, a party may move to strike that item.
 
-(2) *Correcting in Other Ways*. If anything material to either party is omitted from or misstated in the record by error or accident, the omission or misstatement may be corrected, and a supplemental record may be certified and transmitted:
+(2) *Omissions and Misstatements*. If anything material to either party is omitted from or misstated in the record by error or accident, the omission or misstatement may be corrected, and a supplemental record may be certified and sent:
 
 (A) on stipulation of the parties;
 
-(B) by the bankruptcy court before or after the record has been forwarded; or
+(B) by the bankruptcy court before or after the record has been sent; or
 
 (C) by the court where the appeal is pending.
 
-(3) *Remaining Questions*. All other questions as to the form and content of the record must be presented to the court where the appeal is pending.
+(3) *Remaining Questions*. All other questions about the form and content of the record must be presented to the court where the appeal is pending.
 
-(f) Sealed Documents. A document placed under seal by the bankruptcy court may be designated as part of the record on appeal. In doing so, a party must identify it without revealing confidential or secret information, but the bankruptcy clerk must not transmit it to the clerk of the court where the appeal is pending as part of the record. Instead, a party must file a motion with the court where the appeal is pending to accept the document under seal. If the motion is granted, the movant must notify the bankruptcy court of the ruling, and the bankruptcy clerk must promptly transmit the sealed document to the clerk of the court where the appeal is pending.
+(f) Sealed Documents.
 
-(g) Other Necessary Actions. All parties to an appeal must take any other action necessary to enable the bankruptcy clerk to assemble and transmit the record.
+(1) *In General*. A document placed under seal by the bankruptcy court may be designated as a part of the record on appeal. But a document so designated:
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(A) must be identified without revealing confidential or secret information; and
+
+(B) may be sent only as (2) prescribes.
+
+(2) *When to Send a Sealed Document*. To have a sealed document sent as part of the record, a party must file in the court where the appeal is pending a motion to accept the document under seal. If the motion is granted, the movant must notify the bankruptcy court, and the bankruptcy clerk must promptly send the sealed document to the clerk of the court where the appeal is pending.
+
+(g) Duty to Assist the Bankruptcy Clerk. All parties to an appeal must take any other action needed to enable the bankruptcy clerk to assemble and send the record.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -7564,53 +9972,59 @@ Subdivision (g) requires the parties' cooperation with the bankruptcy clerk in a
 
 *Changes Made After Publication and Comment*. In subdivision (a)(2) and (3), the place of filing was clarified. "Docket entries kept by the bankruptcy clerk" was added to the list in subdivision (a)(4).
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8009 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
-The Federal Rules of Appellate Procedure, referred to in subd. (d), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Appellate Procedure, referred to in subd. (d)(3), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 8010. Completing and Transmitting the Record ###
+### Rule 8010. Transcribing the Proceedings; Filing the Transcript; Sending the Record ###
 
 (a) Reporter's Duties.
 
-(1) *Proceedings Recorded Without a Reporter Present*. If proceedings were recorded without a reporter being present, the person or service selected under bankruptcy court procedures to transcribe the recording is the reporter for purposes of this rule.
+(1) *Proceedings Recorded Without a Court Reporter Present*. If proceedings are recorded without a reporter present, the person or service selected under bankruptcy court procedures to transcribe the recording is the reporter for purposes of this rule.
 
 (2) *Preparing and Filing the Transcript*. The reporter must prepare and file a transcript as follows:
 
-(A) Upon receiving an order for a transcript in accordance with Rule 8009(b), the reporter must file in the bankruptcy court an acknowledgment of the request that shows when it was received, and when the reporter expects to have the transcript completed.
+(A) *Initial Steps*. Upon receiving a transcript order under Rule 8009(b), the reporter must file in the bankruptcy court an acknowledgment showing when the order was received and when the reporter expects to have the transcript completed.
 
-(B) After completing the transcript, the reporter must file it with the bankruptcy clerk, who will notify the district, BAP, or circuit clerk of its filing.
+(B) *Filing the Transcript*. After completing the transcript, the reporter must file it with the bankruptcy clerk, who will notify the district, BAP, or circuit clerk of its filing.
 
-(C) If the transcript cannot be completed within 30 days after receiving the order, the reporter must request an extension of time from the bankruptcy clerk. The clerk must enter on the docket and notify the parties whether the extension is granted.
+(C) *Extending the Time to Complete a Transcript*. If the transcript cannot be completed within 30 days after the order has been received, the reporter must request an extension from the bankruptcy clerk. The clerk must enter on the docket and notify the parties whether the extension is granted.
 
-(D) If the reporter does not file the transcript on time, the bankruptcy clerk must notify the bankruptcy judge.
+(D) *Failure to File on Time*. If the reporter fails to file the transcript on time, the bankruptcy clerk must notify the bankruptcy judge.
 
 (b) Clerk's Duties.
 
-(1) *Transmitting the Record—In General*. Subject to Rule 8009(f) and subdivision (b)(5) of this rule, when the record is complete, the bankruptcy clerk must transmit to the clerk of the court where the appeal is pending either the record or a notice that the record is available electronically.
+(1) *Sending the Record*. Subject to Rule 8009(f) and (5) below, when the record is complete, the bankruptcy clerk must send to the clerk of the court where the appeal is pending either the record or a notice that it is available electronically.
 
-(2) *Multiple Appeals*. If there are multiple appeals from a judgment, order, or decree, the bankruptcy clerk must transmit a single record.
+(2) *Multiple Appeals*. If there are multiple appeals from a judgment, order, or decree, the bankruptcy clerk must send a single record.
 
-(3) *Receiving the Record*. Upon receiving the record or notice that it is available electronically, the district, BAP, or circuit clerk must enter that information on the docket and promptly notify all parties to the appeal.
+(3) *Docketing the Record in the Appellate Court*. Upon receiving the record—or a notice that it is available electronically—the district, BAP, or circuit clerk must enter that information on the docket and promptly notify all parties to the appeal.
 
-(4) *If Paper Copies Are Ordered*. If the court where the appeal is pending directs that paper copies of the record be provided, the clerk of that court must so notify the appellant. If the appellant fails to provide them, the bankruptcy clerk must prepare them at the appellant's expense.
+(4) *If the Court Orders Paper Copies*. If the court where the appeal is pending orders that paper copies of the record be provided, the clerk of that court must so notify the appellant. If the appellant fails to provide them, the bankruptcy clerk must prepare them at the appellant's expense.
 
-(5) *When Leave to Appeal is Requested*. Subject to subdivision (c), if a motion for leave to appeal has been filed under Rule 8004, the bankruptcy clerk must prepare and transmit the record only after the district court, BAP, or court of appeals grants leave.
+(5) *Motion for Leave to Appeal*. Subject to (c), if a motion for leave to appeal is filed under Rule 8004, the bankruptcy clerk must prepare and send the record only after the motion is granted.
 
-(c) Record for a Preliminary Motion in the District Court, BAP, or Court of Appeals. This subdivision (c) applies if, before the record is transmitted, a party moves in the district court, BAP, or court of appeals for any of the following relief:
+(c) When a Preliminary Motion Is Filed in the District Court, BAP, or Court of Appeals.
 
-• leave to appeal;
+(1) *In General*. This subdivision (c) applies if, before the record is sent, a party moves in the district court, BAP, or court of appeals for:
 
-• dismissal;
+(A) leave to appeal;
 
-• a stay pending appeal;
+(B) dismissal;
 
-• approval of a bond or other security provided to obtain a stay of judgment; or
+(C) a stay pending appeal;
 
-• any other intermediate order.
+(D) approval of a bond or other security provided to obtain a stay of judgment; or
 
-The bankruptcy clerk must then transmit to the clerk of the court where the relief is sought any parts of the record designated by a party to the appeal or a notice that those parts are available electronically.
+(E) any other intermediate order.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
+(2) *Sending the Record*. The bankruptcy clerk must send to the clerk of the court where the relief is sought any parts of the record designated by a party to the appeal—or send a notice that they are available electronically.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -7634,9 +10048,13 @@ Subdivision (c) is derived from former Rule 8007(c) and F.R.App.P. 11(g). It pro
 
 The amendment of subdivision (c) conforms this rule with the amendment of Rule 62 F.R.Civ.P., which is made applicable in adversary proceedings by Rule 7062. Rule 62 formerly required a party to provide a "supersedeas bond" to obtain a stay of the judgment and proceedings to enforce the judgment. As amended, Rule 62(b) allows a party to obtain a stay by providing a "bond or other security."
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8010 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### Rule 8011. Filing and Service; Signature ###
 
-(a) Filing.	
+(a) Filing.
 
 (1) *With the Clerk*. A document required or permitted to be filed in a district court or BAP must be filed with the clerk of that court.
 
@@ -7644,57 +10062,61 @@ The amendment of subdivision (c) conforms this rule with the amendment of Rule 6
 
 (A) *Nonelectronic Filing.*
 
-(i) *In General*. For a document not filed electronically, filing may be accomplished by mail addressed to the clerk of the district court or BAP. Except as provided in subdivision (a)(2)(A)(ii) and (iii), filing is timely only if the clerk receives the document within the time fixed for filing.
+(i) In General. For a document not filed electronically, filing may be accomplished by mail addressed to the district or BAP clerk. Except as provided in (ii) and (iii), filing is timely only if the clerk receives the document within the time set for filing.
 
-(ii) *Brief or Appendix*. A brief or appendix not filed electronically is also timely filed if, on or before the last day for filing, it is:
+(ii) Brief or Appendix. A brief or appendix not filed electronically is also timely filed if, on or before the last day for filing, it is:
 
 • mailed to the clerk by first-class mail—or other class of mail that is at least as expeditious—postage prepaid; or
 
-• dispatched to a third-party commercial carrier for delivery within 3 days to the clerk.
+• dispatched to a third-party commercial carrier for delivery to the clerk within 3 days.
 
-(iii) *Inmate Filing*. If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this Rule 8011(a)(2)(A)(iii). A document not filed electronically by an inmate confined in an institution is timely if it is deposited in the institution's internal mailing system on or before the last day for filing and:
+(iii) Inmate Filing. If an institution has a system designed for legal mail, an inmate confined there must use that system to receive the benefit of this item (iii). A document not filed electronically by an inmate confined in an institution is timely if it is deposited in the institution's internal mailing system on or before the last day for filing and:
 
-• it is accompanied by a declaration in compliance with 28 U.S.C. §1746—or a notarized statement—setting out the date of deposit and stating that first-class postage is being prepaid; or evidence (such as a postmark or date stamp) showing that the notice was so deposited and that postage was prepaid; or
+• it is accompanied by a declaration in compliance with 28 U.S.C. §1746—or a notarized statement—setting out the date of deposit and stating that first-class postage is being prepaid; or by evidence (such as a postmark or date stamp) showing that the notice was so deposited and that postage was prepaid; or
 
-• the appellate court exercises its discretion to permit the later filing of a declaration or notarized statement that satisfies this Rule 8011(a)(2)(A)(iii).
+• the appellate court exercises its discretion to permit the later filing of a declaration or notarized statement that satisfies this item (iii).
 
 (B) *Electronic Filing.*
 
-(i) *By a Represented Person—Generally Required; Exceptions*. An entity represented by an attorney must file electronically, unless nonelectronic filing is allowed by the court for good cause or is allowed or required by local rule.
+(i) By a Represented Person—Generally Required; Exceptions. An entity represented by an attorney must file electronically, unless nonelectronic filing is allowed by the court for cause or is allowed or required by local rule.
 
-(ii) *By an Unrepresented Individual—When Allowed or Required*. An individual not represented by an attorney:
+(ii) By an Unrepresented Individual—When Allowed or Required. An individual not represented by an attorney:
 
 • may file electronically only if allowed by court order or by local rule; and
 
 • may be required to file electronically only by court order, or by a local rule that includes reasonable exceptions.
 
-(iii) *Same as a Written Paper*. A document filed electronically is a written paper for purposes of these rules.
+(iii) Same as a Written Paper. A document filed electronically is a written paper for purposes of these rules.
 
-(C) *Copies*. If a document is filed electronically, no paper copy is required. If a document is filed by mail or delivery to the district court or BAP, no additional copies are required. But the district court or BAP may require by local rule or by order in a particular case the filing or furnishing of a specified number of paper copies.
+(C) *When Paper Copies Are Required*. No paper copies are required when a document is filed electronically. If a document is filed by mail or by delivery to the district court or BAP, no additional copies are required. But the district court or BAP may, by local rule or order in a particular case, require that a specific number of paper copies be filed or furnished.
 
-(3) *Clerk's Refusal of Documents*. The court's clerk must not refuse to accept for filing any document transmitted for that purpose solely because it is not presented in proper form as required by these rules or by any local rule or practice.
+(3) *Clerk's Refusal of Documents*. The court clerk must not refuse to accept for filing any document solely because it is not presented in proper form as required by these rules or by any local rule or practice.
 
-(b) Service of All Documents Required. Unless a rule requires service by the clerk, a party must, at or before the time of the filing of a document, serve it on the other parties to the appeal. Service on a party represented by counsel must be made on the party's counsel.
+(b) *Service of All Documents Required*.<sup><a href="#Rule_8011_1_target" name="Rule_8011_1">1</a></sup> Unless a rule requires service by the clerk, a party must, at or before the time of the filing of a document, serve it on the other parties to the appeal. Service on a party represented by counsel must be made on the party's counsel.
 
 (c) Manner of Service.
 
 (1) *Nonelectronic Service*. Nonelectronic service may be by any of the following:
 
-(A)	personal delivery;
+(A) personal delivery;
 
-(B)	mail; or
+(B) mail; or
 
-(C)	third-party commercial carrier for delivery within 3 days.
+(C) third-party commercial carrier for delivery within 3 days.
 
-(2) *Electronic Service*. Electronic service may be made by sending a document to a registered user by filing it with the court's electronic-filing system or by using other electronic means that the person served consented to in writing.
+(2) *Service By Electronic Means*. Electronic service may be made by:
 
-(3) *When Service Is Complete*. Service by electronic means is complete on filing or sending, unless the person making service receives notice that the document was not received by the person served. Service by mail or by commercial carrier is complete on mailing or delivery to the carrier.
+(A) sending a document to a registered user by filing it with the court's electronic-filing system; or
+
+(B) using other electronic means that the person served consented to in writing.
+
+(3) *When Service Is Complete*. Service by mail or by third-party commercial carrier is complete on mailing or delivery to the carrier. Service by electronic means is complete on filing or sending, unless the person making service receives notice that the document was not received by the person served.
 
 (d) Proof of Service.
 
-(1) *What Is Required*. A document presented for filing must contain either of the following if it was served other than through the court's electronic-filing system:
+(1) *Requirements*. A document presented for filing must contain either of the following if it was served other than through the court's electronic-filing system:
 
-(A) an acknowledgment of service by the person served; or
+(A) an acknowledgement of service by the person served; or
 
 (B) proof of service consisting of a statement by the person who made service certifying:
 
@@ -7702,15 +10124,19 @@ The amendment of subdivision (c) conforms this rule with the amendment of Rule 6
 
 (ii) the names of the persons served; and
 
-(iii) the mail or electronic address, the fax number, or the address of the place of delivery, as appropriate for the manner of service, for each person served.
+(iii) the mail or electronic address, the fax number, or the address of the place of delivery—as appropriate for the manner of service—for each person served.
 
-(2) *Delayed Proof*. The district or BAP clerk may permit documents to be filed without acknowledgment or proof of service, but must require the acknowledgment or proof to be filed promptly thereafter.
+(2) *Delayed Proof of Service*. A district or BAP clerk may accept a document for filing without an acknowledgement or proof of service, but must require the acknowledgment or proof of service to be filed promptly thereafter.
 
-(3) *Brief or Appendix*. When a brief or appendix is filed, the proof of service must also state the date and manner by which it was filed.
+(3) *For a Brief or Appendix*. When a brief or appendix is filed, the proof of service must also state the date and manner by which it was filed.
 
-(e) Signature. Every document filed electronically must include the electronic signature of the person filing it or, if the person is represented, the electronic signature of counsel. A filing made through a person's electronic-filing account and authorized by that person, together with that person's name on a signature block, constitutes the person's signature. Every document filed in paper form must be signed by the person filing the document or, if the person is represented, by counsel.
+(e) Signature Always Required.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
+(1) *Electronic Filing*. Every document filed electronically must include the electronic signature of the person filing it or, if the person is represented, the counsel's electronic signature. A filing made through a person's electronic-filing account and authorized by that person—together with that person's name on a signature block—constitutes the person's signature.
+
+(2) *Paper Filing*. Every document filed in paper form must be signed by the person filing it or, if the person is represented, by the person's counsel.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -7750,25 +10176,35 @@ As amended, subdivision (d) eliminates the requirement of proof of service when 
 
 Subdivision (e) requires the signature of counsel or an unrepresented party on every document that is filed. A filing made through a person's electronic-filing account and authorized by that person, together with that person's name on a signature block, constitutes the person's signature. A person's electronic-filing account means an account established by the court for use of the court's electronic-filing system, which account the person accesses with the user name and password (or other credentials) issued to that person by the court.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8011 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+[<sup>1</sup> So in original. The heading probably should not be italicized.](#Rule_8011_1)
+
 ### Rule 8012. Disclosure Statement ###
 
-(a) Nongovernmental Corporations. Any nongovernmental corporation that is a party to a proceeding in the district court or BAP must file a statement that identifies any parent corporation and any publicly held corporation that owns 10% or more of its stock or states that there is no such corporation. The same requirement applies to a nongovernmental corporation that seeks to intervene.
+(a) Disclosure by a Nongovernmental Corporation. Any nongovernmental corporation that is a party to a district-court or BAP proceeding or that seeks to intervene must file a statement that:
+
+(1) identifies any parent corporation and any publicly held corporation that owns 10% or more of its stock; or
+
+(2) states that there is no such corporation.
 
 (b) Disclosure About the Debtor. The debtor, the trustee, or, if neither is a party, the appellant must file a statement that:
 
 (1) identifies each debtor not named in the caption; and
 
-(2) for each debtor that is a corporation, discloses the information required by Rule 8012(a).
+(2) for each debtor that is a corporation, discloses the information required by (a).
 
 (c) Time to File; Supplemental Filing. A Rule 8012 statement must:
 
-(1) be filed with the principal brief or upon filing a motion, response, petition, or answer in the district court or BAP, whichever occurs first, unless a local rule requires earlier filing;
+(1) be filed with the principal brief or upon filing a motion, response, petition, or answer in the district court or BAP, whichever occurs first—unless a local rule requires earlier filing
 
 (2) be included before the table of contents in the principal brief; and
 
-(3)	be supplemented whenever the information required by Rule 8012 changes.
+(3)	be supplemented whenever the information required by this rule changes.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 27, 2020, eff. Dec. 1, 2020.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -7790,85 +10226,125 @@ New subdivision (b) requires disclosure of the name of all of the debtors in the
 
 Subdivision (c), previously subdivision (b), now applies to all the disclosure requirements in Rule 8012.
 
-### Rule 8013. Motions; Intervention ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Contents of a Motion; Response; Reply.
+The language of Rule 8012 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+### Rule 8013. Motions; Interventions ###
+
+(a) Content of a Motion; Response; Reply.
 
 (1) *Request for Relief*. A request for an order or other relief is made by filing a motion with the district or BAP clerk.
 
-(2) *Contents of a Motion.*
+(2) *Content of a Motion.*
 
-(A) *Grounds and the Relief Sought*. A motion must state with particularity the grounds for the motion, the relief sought, and the legal argument necessary to support it.
+(A) *Grounds, Relief Sought, and Supporting Argument*. A motion must state with particularity the grounds for the motion, the relief sought, and the legal argument supporting it.
 
-(B) *Motion to Expedite an Appeal*. A motion to expedite an appeal must explain what justifies considering the appeal ahead of other matters. If the district court or BAP grants the motion, it may accelerate the time to transmit the record, the deadline for filing briefs and other documents, oral argument, and the resolution of the appeal. A motion to expedite an appeal may be filed as an emergency motion under subdivision (d).
+(B) *Motion to Expedite an Appeal*. A motion to expedite an appeal must explain what justifies considering the appeal ahead of other matters. The motion may be filed as an emergency motion under (d). If it is granted, the district court or BAP may accelerate the time to:
+
+(i) send the record;
+
+(ii) file briefs and other documents;
+
+(iii) conduct oral argument; and
+
+(iv) resolve the appeal.
 
 (C) *Accompanying Documents.*
 
-(i) Any affidavit or other document necessary to support a motion must be served and filed with the motion.
+(i) Supporting Document. Any affidavit or other document necessary to support a motion must be served and filed with the motion.
 
-(ii) An affidavit must contain only factual information, not legal argument.
+(ii) Content of Affidavit. An affidavit must contain only factual information, not legal argument.
 
-(iii) A motion seeking substantive relief must include a copy of the bankruptcy court's judgment, order, or decree, and any accompanying opinion as a separate exhibit.
+(iii) Motion Seeking Substantive Relief. A motion seeking substantive relief must include a copy of the bankruptcy court's judgment, order, or decree, and any accompanying opinion as a separate exhibit.
 
 (D) *Documents Barred or Not Required.*
 
-(i) A separate brief supporting or responding to a motion must not be filed.
+(i) No Separate Brief. A separate brief supporting or responding to a motion must not be filed.
 
-(ii) Unless the court orders otherwise, a notice of motion or a proposed order is not required.
+(ii) Notice and Proposed Order Not Required. Unless the court orders otherwise, a notice of motion or a proposed order is not required.
 
-(3) *Response and Reply; Time to File*. Unless the district court or BAP orders otherwise,
+(3) *Response and Reply; Time to File*. Unless the district court or BAP orders otherwise:
 
-(A) any party to the appeal may file a response to the motion within 7 days after service of the motion; and
+(A) any party to the appeal may—within 7 days after the motion is served—file a response to the motion; and
 
-(B) the movant may file a reply to a response within 7 days after service of the response, but may only address matters raised in the response.
+(B) the movant may—within 7 days after the response is served—file a reply that addresses only matters raised in the response.
 
-(b) Disposition of a Motion for a Procedural Order. The district court or BAP may rule on a motion for a procedural order—including a motion under Rule 9006(b) or (c)—at any time without awaiting a response. A party adversely affected by the ruling may move to reconsider, vacate, or modify it within 7 days after the procedural order is served.
+(b) Disposition of a Motion for a Procedural Order. The district court or BAP may rule on a motion for a procedural order—including a motion under Rule 9006(b) or (c)—at any time, without awaiting a response. A party adversely affected by the ruling may move to reconsider, vacate, or modify it within 7 days after the order is served.
 
 (c) Oral Argument. A motion will be decided without oral argument unless the district court or BAP orders otherwise.
 
 (d) Emergency Motion.
 
-(1) *Noting the Emergency*. When a movant requests expedited action on a motion because irreparable harm would occur during the time needed to consider a response, the movant must insert the word "Emergency" before the title of the motion.
+(1) *Noting the Emergency*. A movant who requests expedited action—because irreparable harm would occur during the time needed to consider a response—must insert "Emergency" before the motion's title.
 
-(2) *Contents of the Motion*. The emergency motion must
+(2) *Content*. An emergency motion must:
 
-(A) be accompanied by an affidavit setting out the nature of the emergency;
+(A) be accompanied by an affidavit setting forth the nature of the emergency;
 
-(B) state whether all grounds for it were submitted to the bankruptcy court and, if not, why the motion should not be remanded for the bankruptcy court to consider;
+(B) state whether all grounds for it were previously submitted to the bankruptcy court and, if not, why the motion should not be remanded;
 
-(C) include the e-mail addresses, office addresses, and telephone numbers of moving counsel and, when known, of opposing counsel and any unrepresented parties to the appeal; and
+(C) include:
 
-(D) be served as prescribed by Rule 8011.
+(i) the email address, office address, and telephone number of the moving counsel; and
 
-(3) *Notifying Opposing Parties*. Before filing an emergency motion, the movant must make every practicable effort to notify opposing counsel and any unrepresented parties in time for them to respond. The affidavit accompanying the emergency motion must state when and how notice was given or state why giving it was impracticable.
+(ii) when known, the same information as in (i) for opposing counsel and any unrepresented party to the appeal; and
 
-(e) Power of a Single BAP Judge to Entertain a Motion.
+(D) be served as Rule 8011 prescribes.
 
-(1) *Single Judge's Authority*. A BAP judge may act alone on any motion, but may not dismiss or otherwise determine an appeal, deny a motion for leave to appeal, or deny a motion for a stay pending appeal if denial would make the appeal moot.
+(3) *Notifying Opposing Parties*. Before filing an emergency motion, the movant must make every practicable effort to notify opposing counsel and any unrepresented party in time for them to respond. The affidavit accompanying the motion must state:
 
-(2) *Reviewing a Single Judge's Action*. The BAP may review a single judge's action, either on its own motion or on a party's motion.
+(A) when and how notice was given; or
+
+(B) why giving it was impracticable.
+
+(e) Motion Considered by a Single BAP Judge.
+
+(1) *Judge's Authority*. A BAP judge may act alone on any motion but may not:
+
+(A) dismiss or otherwise determine an appeal;
+
+(B) deny a motion for leave to appeal; or
+
+(C) deny a motion for a stay pending appeal if denial would make the appeal moot.
+
+(2) *Reviewing a Single Judge's Action*. The BAP, on its own or on a party's motion, may review a single judge's action.
 
 (f) Form of Documents; Length Limits; Number of Copies.
 
-(1) *Format of a Paper Document*. Rule 27(d)(1) F.R.App.P. applies in the district court or BAP to a paper version of a motion, response, or reply.
+(1) *Document Filed in Paper Form*. Fed. R. App. P. 27(d)(1) applies to a motion, response, or reply filed in paper form in the district court or BAP.
 
-(2) *Format of an Electronically Filed Document*. A motion, response, or reply filed electronically must comply with the requirements for a paper version regarding covers, line spacing, margins, typeface, and type style. It must also comply with the length limits under paragraph (3).
+(2) *Document Filed Electronically*. A motion, response, or reply filed electronically must comply with the requirements in (1) for covers, line spacing, margins, typeface, and type style. It must also comply with the length limits in (3).
 
-(3) *Length Limits*. Except by the district court's or BAP's permission, and excluding the accompanying documents authorized by subdivision (a)(2)(C):
+(3) *Length Limits*. Except by the district court's or BAP's permission, and excluding the accompanying documents authorized by (a)(2)(C):
 
-(A)	a motion or a response to a motion produced using a computer must include a certificate under Rule 8015(h) and not exceed 5,200 words;
+(A) a motion or a response to a motion produced using a computer must include a certificate under Rule 8015(h) and not exceed 5,200 words;
 
-(B)	a handwritten or typewritten motion or a response to a motion must not exceed 20 pages;
+(B) a handwritten or typewritten motion or a response to a motion must not exceed 20 pages;
 
-(C)	a reply produced using a computer must include a certificate under Rule 8015(h) and not exceed 2,600 words; and
+(C) a reply produced using a computer must include a certificate under Rule 8015(h) and not exceed 2,600 words; and
 
-(D)	a handwritten or typewritten reply must not exceed 10 pages.
+(D) a handwritten or typewritten reply must not exceed 10 pages.
 
-(4) *Paper Copies*. Paper copies must be provided only if required by local rule or by an order in a particular case.
+(4) *Providing Paper Copies*. Paper copies must be provided only if required by a local rule or by an order in a particular case.
 
-(g) Intervening in an Appeal. Unless a statute provides otherwise, an entity that seeks to intervene in an appeal pending in the district court or BAP must move for leave to intervene and serve a copy of the motion on the parties to the appeal. The motion or other notice of intervention authorized by statute must be filed within 30 days after the appeal is docketed. It must concisely state the movant's interest, the grounds for intervention, whether intervention was sought in the bankruptcy court, why intervention is being sought at this stage of the proceeding, and why participating as an amicus curiae would not be adequate.
+(g) Motion for Leave to Intervene.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020.)
+(1) *Time to File*. Unless a statute provides otherwise, an entity seeking to intervene in an appeal in the district court or BAP must move for leave to intervene and serve a copy of the motion on all parties to the appeal. The motion—or other notice of intervention authorized by statute—must be filed within 30 days after the appeal is docketed.
+
+(2) *Content*. The motion must concisely state:
+
+(A) the movant's interest;
+
+(B) the grounds for intervention;
+
+(C) whether intervention was sought in the bankruptcy court;
+
+(D) why intervention is being sought at this stage of the proceedings; and
+
+(E) why participating as an amicus curiae—rather than intervening—would not be adequate.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -7904,6 +10380,10 @@ Subdivision (f)(3) is amended to conform to F.R.App.P. 27(d)(2), which was recen
 
 Subdivision (a)(1) is amended to delete the reference to proof of service. This change reflects the recent amendment to Rule 8011(d) that eliminated the requirement of proof of service when filing and service are completed using a court's electronic-filing system.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8013 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Appellate Procedure, referred to in subd. (f)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -7912,7 +10392,7 @@ The Federal Rules of Appellate Procedure, referred to in subd. (f)(1), are set o
 
 (a) Appellant's Brief. The appellant's brief must contain the following under appropriate headings and in the order indicated:
 
-(1) a corporate disclosure statement, if required by Rule 8012;
+(1) a disclosure statement, if required by Rule 8012;
 
 (2) a table of contents, with page references;
 
@@ -7920,13 +10400,13 @@ The Federal Rules of Appellate Procedure, referred to in subd. (f)(1), are set o
 
 (4) a jurisdictional statement, including:
 
-(A) the basis for the bankruptcy court's subject-matter jurisdiction, with citations to applicable statutory provisions and stating relevant facts establishing jurisdiction;
+(A) the basis for the bankruptcy court's subject-matter jurisdiction, citing applicable statutory provisions and stating relevant facts establishing jurisdiction;
 
-(B) the basis for the district court's or BAP's jurisdiction, with citations to applicable statutory provisions and stating relevant facts establishing jurisdiction;
+(B) the basis for the district court's or BAP's jurisdiction, citing applicable statutory provisions and stating relevant facts establishing jurisdiction;
 
 (C) the filing dates establishing the timeliness of the appeal; and
 
-(D) an assertion that the appeal is from a final judgment, order, or decree, or information establishing the district court's or BAP's jurisdiction on another basis;
+(D) an assertion that the appeal is from a final judgment, order, or decree—or information establishing the district court's or BAP's jurisdiction on another basis;
 
 (5) a statement of the issues presented and, for each one, a concise statement of the applicable standard of appellate review;
 
@@ -7940,7 +10420,7 @@ The Federal Rules of Appellate Procedure, referred to in subd. (f)(1), are set o
 
 (10) the certificate of compliance, if required by Rule 8015(a)(7) or (b).
 
-(b) Appellee's Brief. The appellee's brief must conform to the requirements of subdivision (a)(1)–(8) and (10), except that none of the following need appear unless the appellee is dissatisfied with the appellant's statement:
+(b) Appellee's Brief. The appellee's brief must conform to the requirements of (a)(1)–(8) and (10), except that none of the following need appear unless the appellee is dissatisfied with the appellant's statement:
 
 (1) the jurisdictional statement;
 
@@ -7948,15 +10428,15 @@ The Federal Rules of Appellate Procedure, referred to in subd. (f)(1), are set o
 
 (3) the statement of the case.
 
-(c) Reply Brief. The appellant may file a brief in reply to the appellee's brief. A reply brief must comply with the requirements of subdivision (a)(2)–(3).
+(c) Reply Brief. The appellant may file a brief in reply to the appellee's brief. A reply brief must comply with (a)(2)–(3).
 
-(d) Statutes, Rules, Regulations, or Similar Authority. If the court's determination of the issues presented requires the study of the Code or other statutes, rules, regulations, or similar authority, the relevant parts must be set out in the brief or in an addendum.
+(d) Setting Out Statutes, Rules, Regulations, or Similar Authorities. If the court's determination of the issues presented requires the study of the Code or other statutes, rules, regulations, or similar authority, the relevant parts must be set out in the brief or in an addendum.
 
 (e) Briefs in a Case Involving Multiple Appellants or Appellees. In a case involving more than one appellant or appellee, including consolidated cases, any number of appellants or appellees may join in a brief, and any party may adopt by reference a part of another's brief. Parties may also join in reply briefs.
 
-(f) Citation of Supplemental Authorities. If pertinent and significant authorities come to a party's attention after the party's brief has been filed—or after oral argument but before a decision—a party may promptly advise the district or BAP clerk by a signed submission setting forth the citations. The submission, which must be served on the other parties to the appeal, must state the reasons for the supplemental citations, referring either to the pertinent page of a brief or to a point argued orally. The body of the submission must not exceed 350 words. Any response must be made within 7 days after the party is served, unless the court orders otherwise, and must be similarly limited.
+(f) Citation of Supplemental Authorities. If pertinent and significant authorities come to a party's attention after the party's brief has been filed—or after oral argument but before a decision—a party may promptly advise the district or BAP clerk by a signed submission, with a copy to all other parties, setting forth the citations. The submission must state the reasons for the supplemental citations, referring either to the pertinent page of a brief or to a point argued orally. The body of the submission must not exceed 350 words. Any response must be similarly limited, and it must be made within 7 days after service unless the court orders otherwise.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -7980,19 +10460,23 @@ Subdivision (f) adopts the procedures of F.R.App.P. 28(j) with respect to the fi
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
-### Rule 8015. Form and Length of Briefs; Form of Appendices and Other Papers	 ###
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8014 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+### Rule 8015. Form and Length of a Brief; Form of an Appendix or Other Paper ###
 
 (a) Paper Copies of a Brief. If a paper copy of a brief may or must be filed, the following provisions apply:
 
 (1) *Reproduction.*
 
-(A) A brief may be reproduced by any process that yields a clear black image on light paper. The paper must be opaque and unglazed. Only one side of the paper may be used.
+(A) *Printing*. The brief may be reproduced by any process that yields a clear black image on light paper. The paper must be opaque and unglazed. Only one side of the paper may be used.
 
-(B) Text must be reproduced with a clarity that equals or exceeds the output of a laser printer.
+(B) *Text*. Text must be reproduced with a clarity that equals or exceeds the output of a laser printer.
 
-(C) Photographs, illustrations, and tables may be reproduced by any method that results in a good copy of the original. A glossy finish is acceptable if the original is glossy.
+(C) *Other Reproductions*. Photographs, illustrations, and tables may be reproduced by any method that results in a good copy of the original. A glossy finish is acceptable if the original is glossy.
 
-(2) *Cover*. The front cover of a brief must contain:
+(2) *Cover*. The front cover of the brief must contain:
 
 (A) the number of the case centered at the top;
 
@@ -8004,59 +10488,59 @@ Subdivision (f) adopts the procedures of F.R.App.P. 28(j) with respect to the fi
 
 (E) the title of the brief, identifying the party or parties for whom the brief is filed; and
 
-(F) the name, office address, telephone number, and e-mail address of counsel representing the party for whom the brief is filed.
+(F) the name, office address, telephone number, and email address of counsel representing the party for whom the brief is filed.
 
 (3) *Binding*. The brief must be bound in any manner that is secure, does not obscure the text, and permits the brief to lie reasonably flat when open.
 
-(4) *Paper Size, Line Spacing, and Margins*. The brief must be on 8½-by-11 inch paper. The text must be double-spaced, but quotations more than two lines long may be indented and single-spaced. Headings and footnotes may be single-spaced. Margins must be at least one inch on all four sides. Page numbers may be placed in the margins, but no text may appear there.
+(4) *Paper Size, Line Spacing, and Margins*. The brief must be on 8½"-by-11" paper. The text must be double-spaced, but quotations more than two lines long may be indented and single-spaced. Headings and footnotes may be single-spaced. Margins must be at least one inch on all four sides. Page numbers may be placed in the margins, but no text may appear there.
 
 (5) *Typeface*. Either a proportionally spaced or monospaced face may be used.
 
-(A) A proportionally spaced face must include serifs, but sans-serif type may be used in headings and captions. A proportionally spaced face must be 14-point or larger.
+(A) *Proportional Spacing*. A proportionally spaced face must include serifs, but sans-serif type may be used in headings and captions. A proportionally spaced face must be 14-point or larger.
 
-(B) A monospaced face may not contain more than 10½ characters per inch.
+(B) *Monospacing*. A monospaced face may not contain more than 10½ characters per inch.
 
-(6) *Type Styles*. A brief must be set in plain, roman style, although italics or boldface may be used for emphasis. Case names must be italicized or underlined.
+(6) *Type Styles*. The brief must be set in plain, roman style, although italics or boldface may be used for emphasis. Case names must be italicized or underlined.
 
 (7) *Length.*
 
-(A) *Page Limitation*. A principal brief must not exceed 30 pages, or a reply brief 15 pages, unless it complies with subparagraph (B).
+(A) *Page Limitation*. A principal brief must not exceed 30 pages, or a reply brief 15 pages, unless it complies with (B).
 
-(B) *Type-volume Limitation.*
+(B) *Type-Volume Limitation.*
 
-(i) A principal brief is acceptable if it contains a certificate under Rule 8015(h) and:
+(i) Principal Brief. A principal brief is acceptable if it contains a certificate under (h) and:
 
 • contains no more than 13,000 words; or
 
 • uses a monospaced face and contains no more than 1,300 lines of text.
 
-(ii) A reply brief is acceptable if it includes a certificate under Rule 8015(h) and contains no more than half of the type volume specified in item (i).
+(ii) Reply Brief. A reply brief is acceptable if it includes a certificate under (h) and contains no more than half the type volume specified in item (i).
 
-(b) Electronically Filed Briefs. A brief filed electronically must comply with subdivision (a), except for (a)(1), (a)(3), and the paper requirement of (a)(4).
+(b) Brief Filed Electronically. A brief filed electronically must comply with (a)—except for (a)(1), (a)(3), and the paper requirement of (a)(4).
 
-(c) Paper Copies of Appendices. A paper copy of an appendix must comply with subdivision (a)(1), (2), (3), and (4), with the following exceptions:
+(c) Paper Copies of an Appendix. A paper copy of an appendix must comply with (a)(1), (2), (3), and (4), with the following exceptions:
 
-(1) An appendix may include a legible photocopy of any document found in the record or of a printed decision.
+(1) an appendix may include a legible photocopy of any document found in the record or of a printed decision; and
 
-(2) When necessary to facilitate inclusion of odd-sized documents such as technical drawings, an appendix may be a size other than 8½-by-11 inches, and need not lie reasonably flat when opened.
+(2) when necessary for including odd-sized documents such as technical drawings, an appendix may be a size other than 8½" by 11", and need not lie reasonably flat when opened.
 
-(d) Electronically Filed Appendices. An appendix filed electronically must comply with subdivision (a)(2) and (4), except for the paper requirement of (a)(4).
+(d) Appendix Filed Electronically. An appendix filed electronically must comply with (a)(2) and (4)—except for the paper requirement of (a)(4).
 
 (e) Other Documents.
 
 (1) *Motion*. Rule 8013(f) governs the form of a motion, response, or reply.
 
-(2) *Paper Copies of Other Documents*. A paper copy of any other document, other than a submission under Rule 8014(f), must comply with subdivision (a), with the following exceptions:
+(2) *Paper Copies of Other Documents*. A paper copy of any other document—except one submitted under Rule 8014(f)—must comply with (a), with the following exceptions:
 
-(A) A cover is not necessary if the caption and signature page together contain the information required by subdivision (a)(2).
+(A) a cover is not necessary if the caption and signature page together contain the information required by (a)(2); and
 
-(B) Subdivision (a)(7) does not apply.
+(B) the length limits of (a)(7) do not apply.
 
-(3) *Other Documents Filed Electronically*. Any other document filed electronically, other than a submission under Rule 8014(f), must comply with the appearance requirements of paragraph (2).
+(3) *Document Filed Electronically*. Any other document filed electronically—except a document submitted under Rule 8014(f)—must comply with the requirements of (2).
 
-(f) Local Variation. A district court or BAP must accept documents that comply with the form requirements of this rule and the length limits set by Part VIII of these rules. By local rule or order in a particular case, a district court or BAP may accept documents that do not meet all the form requirements of this rule or the length limits set by Part VIII of these rules.
+(f) Local Variation. A district court or BAP must accept documents that comply with the form requirements of this rule and the length limits set by this Part VIII. By local rule or order in a particular case, a district court or BAP may accept documents that do not meet all the form requirements of this rule or the length limits set by this Part VIII.
 
-(g) Items Excluded From Length. In computing any length limit, headings, footnotes, and quotations count toward the limit, but the following items do not:
+(g) Items Excluded from Length. In computing any length limit, headings, footnotes, and quotations count toward the limit, but the following items do not:
 
 • cover page;
 
@@ -8070,7 +10554,7 @@ Subdivision (f) adopts the procedures of F.R.App.P. 28(j) with respect to the fi
 
 • addendum containing statutes, rules, or regulations;
 
-• certificates of counsel;
+• certificate of counsel;
 
 • signature block;
 
@@ -8082,9 +10566,9 @@ Subdivision (f) adopts the procedures of F.R.App.P. 28(j) with respect to the fi
 
 (1) *Briefs and Documents That Require a Certificate*. A brief submitted under Rule 8015(a)(7)(B), 8016(d)(2), or 8017(b)(4)—and a document submitted under Rule 8013(f)(3)(A), 8013(f)(3)(C), or 8022(b)(1)—must include a certificate by the attorney, or an unrepresented party, that the document complies with the type-volume limitation. The individual preparing the certificate may rely on the word or line count of the word-processing system used to prepare the document. The certificate must state the number of words—or the number of lines of monospaced type—in the document.
 
-(2) *Acceptable Form*. The certificate requirement is satisfied by a certificate of compliance that conforms substantially to the appropriate Official Form.
+(2) *Using the Official Form*. A certificate of compliance that conforms substantially to Form 417C satisfies the certificate requirement.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -8124,9 +10608,13 @@ A new subdivision (g) is added to set out a global list of items excluded from l
 
 The amendment to subdivision (g) is made to reflect recent amendments to Rule 8011(d) that eliminated the requirement of proof of service when filing and service are completed using a court's electronic-filing system. Because each item listed in Rule 8015(g) will not always be required, the initial article is deleted. The word "corporate" is deleted before "disclosure statement" to reflect a concurrent change in the title of Rule 8012.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8015 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### Rule 8016. Cross-Appeals ###
 
-(a) Applicability. This rule applies to a case in which a cross-appeal is filed. Rules 8014(a)–(c), 8015(a)(7)(A)–(B), and 8018(a)(1)–(3) do not apply to such a case, except as otherwise provided in this rule.
+(a) Applicability. This rule applies to a case in which a cross-appeal is filed. Rules 8014(a)–(c), 8015(a)(7)(A)–(B), and 8018(a)(1)–(3) do not apply to such a case, unless this rule states otherwise.
 
 (b) Designation of Appellant. The party who files a notice of appeal first is the appellant for purposes of this rule and Rule 8018(a)(4) and (b) and Rule 8019. If notices are filed on the same day, the plaintiff, petitioner, applicant, or movant in the proceeding below is the appellant. These designations may be modified by the parties' agreement or by court order.
 
@@ -8134,49 +10622,51 @@ The amendment to subdivision (g) is made to reflect recent amendments to Rule 80
 
 (1) *Appellant's Principal Brief*. The appellant must file a principal brief in the appeal. That brief must comply with Rule 8014(a).
 
-(2) *Appellee's Principal and Response Brief*. The appellee must file a principal brief in the cross-appeal and must, in the same brief, respond to the principal brief in the appeal. That brief must comply with Rule 8014(a), except that the brief need not include a statement of the case unless the appellee is dissatisfied with the appellant's statement.
+(2) *Appellee's Principal and Response Brief*. The appellee must file a principal brief in the cross-appeal and must, in the same brief, respond to the principal brief in the appeal. That brief must comply with Rule 8014(a), but the brief need not include a statement of the case unless the appellee is dissatisfied with the appellant's statement.
 
-(3) *Appellant's Response and Reply Brief*. The appellant must file a brief that responds to the principal brief in the cross-appeal and may, in the same brief, reply to the response in the appeal. That brief must comply with Rule 8014(a)(2)–(8) and (10), except that none of the following need appear unless the appellant is dissatisfied with the appellee's statement in the cross-appeal:
+(3) *Appellant's Response and Reply Brief*. The appellant must file a brief that responds to the principal brief in the cross-appeal and may, in the same brief, reply to the response in the appeal. That brief must comply with Rule 8014(a)(2)–(8) and (10), but none of the following need appear unless the appellant is dissatisfied with the appellee's statement in the cross-appeal:
 
 (A) the jurisdictional statement;
 
-(B) the statement of the issues and the applicable standard of appellate review; and
+(B) the statement of the issues;
 
-(C) the statement of the case.
+(C) the statement of the case; and
+
+(D) the statement of the applicable standard of appellate review.
 
 (4) *Appellee's Reply Brief*. The appellee may file a brief in reply to the response in the cross-appeal. That brief must comply with Rule 8014(a)(2)–(3) and (10) and must be limited to the issues presented by the cross-appeal.
 
 (d) Length.
 
-(1) *Page Limitation*. Unless it complies with paragraph (2), the appellant's principal brief must not exceed 30 pages; the appellee's principal and response brief, 35 pages; the appellant's response and reply brief, 30 pages; and the appellee's reply brief, 15 pages.
+(1) *Page Limitation*. Unless it complies with (2), the appellant's principal brief must not exceed 30 pages; the appellee's principal and response brief, 35 pages; the appellant's response and reply brief, 30 pages; and the appellee's reply brief, 15 pages.
 
-(2) *Type-volume Limitation.*
+(2) *Type-Volume Limitation.*
 
-(A) The appellant's principal brief or the appellant's response and reply brief is acceptable if it includes a certificate under Rule 8015(h) and:
+(A) *Appellant's Brief*. The appellant's principal brief or the appellant's response and reply brief is acceptable if it includes a certificate under Rule 8015(h) and:
 
 (i) contains no more than 13,000 words; or
 
 (ii) uses a monospaced face and contains no more than 1,300 lines of text.
 
-(B) The appellee's principal and response brief is acceptable if it includes a certificate under Rule 8015(h) and:
+(B) *Appellee's Principal and Response Brief*. The appellee's principal and response brief is acceptable if it includes a certificate under Rule 8015(h) and:
 
 (i) contains no more than 15,300 words; or
 
 (ii) uses a monospaced face and contains no more than 1,500 lines of text.
 
-(C) The appellee's reply brief is acceptable if it includes a certificate under Rule 8015(h) and contains no more than half of the type volume specified in subparagraph (A).
+(C) *Appellee's Reply Brief*. The appellee's reply brief is acceptable if it includes a certificate under Rule 8015(h) and contains no more than half the type volume specified in (A).
 
-(e) Time to Serve and File a Brief. Briefs must be served and filed as follows, unless the district court or BAP by order in a particular case excuses the filing of briefs or specifies different time limits:
+(e) Time to Serve and File a Brief. Briefs must be served and filed as follows, unless the district court or BAP by order in a particular case excuses the filing of briefs or sets different time limits:
 
-(1) the appellant's principal brief, within 30 days after the docketing of notice that the record has been transmitted or is available electronically;
+(1) the appellant's principal brief, within 30 days after the docketing of a notice that the record has been sent or is available electronically;
 
 (2) the appellee's principal and response brief, within 30 days after the appellant's principal brief is served;
 
 (3) the appellant's response and reply brief, within 30 days after the appellee's principal and response brief is served; and
 
-(4) the appellee's reply brief, within 14 days after the appellant's response and reply brief is served, but at least 7 days before scheduled argument unless the district court or BAP, for good cause, allows a later filing.
+(4) the appellee's reply brief, within 14 days after the appellant's response and reply brief is served but at least 7 days before scheduled argument—unless the district court or BAP, for cause, allows a later filing.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -8204,21 +10694,25 @@ In a complex case, a party may need to file a brief that exceeds the type-volume
 
 Subdivision (d) is amended to refer to new Rule 8015(h) (which now contains the certificate-of-compliance provision formerly in Rule 8015(a)(7)(C)).
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8016 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### Rule 8017. Brief of an Amicus Curiae	 ###
 
-(a) During Initial Consideration of a Case on the Merits.
+(a) During the Initial Consideration of a Case on the Merits.
 
-(1) *Applicability*. This Rule 8017(a) governs amicus filings during a court's initial consideration of a case on the merits.
+(1) *Applicability*. This subdivision (a) governs amicus filings during a court's initial consideration of a case on the merits.
 
-(2) *When Permitted*. The United States or its officer or agency or a state may file an amicus brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court or if the brief states that all parties have consented to its filing, but a district court or BAP may prohibit the filing of or may strike an amicus brief that would result in a judge's disqualification. On its own motion, and with notice to all parties to an appeal, the district court or BAP may request a brief by an amicus curiae.
+(2) *When Permitted*. The United States, its officer or agency, or a state may file an amicus brief without the parties' consent or leave of court. Any other amicus curiae may file a brief only by leave of court or if the brief states that all parties have consented to its filing, but a district court or BAP may prohibit the filing of or may strike an amicus brief that would result in a judge's disqualification. On its own, and with notice to all parties to an appeal, the district court or BAP may request a brief by an amicus curiae.
 
-(3) *Motion for Leave to File*. The motion must be accompanied by the proposed brief and state:
+(3) *Motion for Leave to File*. A motion for leave must be accompanied by the proposed brief and state:
 
 (A) the movant's interest; and
 
 (B) the reason why an amicus brief is desirable and why the matters asserted are relevant to the disposition of the appeal.
 
-(4) *Contents and Form*. An amicus brief must comply with Rule 8015. In addition to the requirements of Rule 8015, the cover must identify the party or parties supported and indicate whether the brief supports affirmance or reversal. If an amicus curiae is a corporation, the brief must include a disclosure statement like that required of parties by Rule 8012. An amicus brief need not comply with Rule 8014, but must include the following:
+(4) *Content and Form*. An amicus brief must comply with Rule 8015. In addition, the cover must identify the party or parties supported and indicate whether the brief supports affirmance or reversal. If an amicus curiae is a corporation, the brief must include a disclosure statement like that required of parties by Rule 8012. An amicus brief need not comply with Rule 8014, but must include the following:
 
 (A) a table of contents, with page references;
 
@@ -8226,13 +10720,13 @@ Subdivision (d) is amended to refer to new Rule 8015(h) (which now contains the 
 
 (C) a concise statement of the identity of the amicus curiae, its interest in the case, and the source of its authority to file;
 
-(D) unless the amicus curiae is one listed in the first sentence of subdivision (a)(2), a statement that indicates whether:
+(D) unless the amicus curiae is one listed in the first sentence of (2), a statement that indicates whether:
 
 (i) a party's counsel authored the brief in whole or in part;
 
 (ii) a party or a party's counsel contributed money that was intended to fund preparing or submitting the brief; and
 
-(iii) a person—other than the amicus curiae, its members, or its counsel— contributed money that was intended to fund preparing or submitting the brief and, if so, identifies each such person;
+(iii) a person—other than the amicus curiae, its members, or its counsel—contributed money that was intended to fund preparing or submitting the brief and, if so, identifies each such person;
 
 (E) an argument, which may be preceded by a summary and need not include a statement of the applicable standard of review; and
 
@@ -8240,7 +10734,7 @@ Subdivision (d) is amended to refer to new Rule 8015(h) (which now contains the 
 
 (5) *Length*. Except by the district court's or BAP's permission, an amicus brief must be no more than one-half the maximum length authorized by these rules for a party's principal brief. If the court grants a party permission to file a longer brief, that extension does not affect the length of an amicus brief.
 
-(6) *Time for Filing*. An amicus curiae must file its brief, accompanied by a motion for filing when necessary, no later than 7 days after the principal brief of the party being supported is filed. An amicus curiae that does not support either party must file its brief no later than 7 days after the appellant's principal brief is filed. The district court or BAP may grant leave for later filing, specifying the time within which an opposing party may answer.
+(6) *Time for Filing*. An amicus curiae must file its brief—accompanied by a motion for leave to file when required—within 7 days after the principal brief of the party being supported is filed. An amicus curiae that does not support either party must file its brief within 7 days after the appellant's principal brief is filed. The district court or BAP may grant leave for later filing, specifying the time within which an opposing party may answer.
 
 (7) *Reply Brief*. Except by the district court's or BAP's permission, an amicus curiae may not file a reply brief.
 
@@ -8248,17 +10742,17 @@ Subdivision (d) is amended to refer to new Rule 8015(h) (which now contains the 
 
 (b) During Consideration of Whether to Grant Rehearing.
 
-(1) *Applicability*. This Rule 8017(b) governs amicus filings during a district court's or BAP's consideration of whether to grant rehearing, unless a local rule or order in a case provides otherwise.
+(1) *Applicability*. This subdivision (b) governs amicus filings during a district court's or BAP's consideration of whether to grant rehearing, unless a local rule or order in a particular case provides otherwise.
 
-(2) *When Permitted*. The United States or its officer or agency or a state may file an amicus brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court.
+(2) *When Permitted*. The United States, its officer or agency, or a state may file an amicus brief without the parties' consent or leave of court. Any other amicus curiae may file a brief only by leave of court.
 
-(3) *Motion for Leave to File*. Rule 8017(a)(3) applies to a motion for leave.
+(3) *Motion for Leave to File*. Paragraph (a)(3) applies to a motion for leave to file.
 
-(4) *Contents, Form, and Length*. Rule 8017(a)(4) applies to the amicus brief. The brief must include a certificate under Rule 8015(h) and not exceed 2,600 words.
+(4) *Content, Form, and Length*. Paragraph (a)(4) applies to the amicus brief. The brief must include a certificate under Rule 8015(h) and not exceed 2,600 words.
 
-(5)*Time for Filing*. An amicus curiae supporting the motion for rehearing or supporting neither party must file its brief, accompanied by a motion for filing when necessary, no later than 7 days after the motion is filed. An amicus curiae opposing the motion for rehearing must file its brief, accompanied by a motion for filing when necessary, no later than the date set by the court for the response.
+(5) *Time to File*. An amicus curiae supporting a motion for rehearing or supporting neither party must file its brief—accompanied by a motion for leave to file when required—within 7 days after the motion is filed. An amicus curiae opposing the motion for rehearing must file its brief—accompanied by a motion for leave to file when required—no later than the date set by the court for the response.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -8280,25 +10774,29 @@ Rule 8017 is amended to conform to the recent amendment to F.R.App.P. 29, which 
 
 The amendment to subdivision (a)(2) authorizes orders or local rules that prohibit the filing of or permit the striking of an amicus brief by party consent if the brief would result in a judge's disqualification. The amendment does not alter or address the standards for when an amicus brief requires a judge's disqualification. It is modeled on an amendment to F.R.App.P. 29(a). A comparable amendment to subdivision (b) is not necessary. Subdivision (b)(1) authorizes local rules and orders governing filings during a court's consideration of whether to grant rehearing. These local rules or orders may prohibit the filing of or permit the striking of an amicus brief that would result in a judge's disqualification. In addition, under subdivision (b)(2), a court may deny leave to file an amicus brief that would result in a judge's disqualification.
 
-### Rule 8018. Serving and Filing Briefs; Appendices ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Time to Serve and File a Brief. The following rules apply unless the district court or BAP by order in a particular case excuses the filing of briefs or specifies different time limits:
+The language of Rule 8017 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(1) The appellant must serve and file a brief within 30 days after the docketing of notice that the record has been transmitted or is available electronically.
+### Rule 8018. Serving and Filing Briefs and Appendices ###
 
-(2) The appellee must serve and file a brief within 30 days after service of the appellant's brief.
+(a) Time to Serve and File a Brief. Unless the district court or BAP by order in a particular case excuses the filing of briefs or sets a different time, the following time limits apply:
 
-(3) The appellant may serve and file a reply brief within 14 days after service of the appellee's brief, but a reply brief must be filed at least 7 days before scheduled argument unless the district court or BAP, for good cause, allows a later filing.
+(1) *Appellant's Brief*. The appellant must serve and file a brief within 30 days after the docketing of notice that the record has been sent or that it is available electronically.
 
-(4) If an appellant fails to file a brief on time or within an extended time authorized by the district court or BAP, an appellee may move to dismiss the appeal—or the district court or BAP, after notice, may dismiss the appeal on its own motion. An appellee who fails to file a brief will not be heard at oral argument unless the district court or BAP grants permission.
+(2) *Appellee's Brief*. The appellee must serve and file a brief within 30 days after the appellant's brief is served.
 
-(b) Duty to Serve and File an Appendix to the Brief.
+(3) *Appellant's Reply Brief*. The appellant may serve and file a reply brief within 14 days after service of the appellee's brief but at least 7 days before scheduled argument—unless the district court or BAP, for cause, allows a later filing.
 
-(1) *Appellant*. Subject to subdivision (e) and Rule 8009(d), the appellant must serve and file with its principal brief excerpts of the record as an appendix. It must contain the following:
+(4) *Consequence of Failure to File*. If an appellant fails to file a brief on time or within an extended time authorized under (a)(3), the district court or BAP may—on its own after notice or on the appellee's motion—dismiss the appeal. An appellee who fails to file a brief will not be heard at oral argument unless the district court or BAP grants permission.
 
-(A) the relevant entries in the bankruptcy docket;
+(b) Duty to Serve and File an Appendix.
 
-(B) the complaint and answer, or other equivalent filings;
+(1) *Appellant's Duty*. Subject to (e) and Rule 8009(d), the appellant must serve and file with its principal brief an appendix containing excerpts from the record. It must contain:
+
+(A) the relevant docket entries;
+
+(B) the complaint and answer, or equivalent filings;
 
 (C) the judgment, order, or decree from which the appeal is taken;
 
@@ -8308,17 +10806,35 @@ The amendment to subdivision (a)(2) authorizes orders or local rules that prohib
 
 (F) any relevant transcript or portion of it.
 
-(2) *Appellee*. The appellee may also serve and file with its brief an appendix that contains material required to be included by the appellant or relevant to the appeal or cross-appeal, but omitted by the appellant.
+(2) *Appellee's Appendix*. The appellee may serve and file with its brief an appendix containing any material that is required to be included or is relevant to the appeal or cross-appeal but that is omitted from the appellant's appendix.
 
-(3) *Cross-Appellee*. The appellant as cross-appellee may also serve and file with its response an appendix that contains material relevant to matters raised initially by the principal brief in the cross-appeal, but omitted by the cross-appellant.
+(3) *Cross-Appellee's Appendix*. The appellant—as cross-appellee—may also serve and file with its response an appendix containing material that is relevant to matters raised initially by the cross-appeal but that is omitted by the cross-appellant.
 
-(c) Format of the Appendix. The appendix must begin with a table of contents identifying the page at which each part begins. The relevant docket entries must follow the table of contents. Other parts of the record must follow chronologically. When pages from the transcript of proceedings are placed in the appendix, the transcript page numbers must be shown in brackets immediately before the included pages. Omissions in the text of documents or of the transcript must be indicated by asterisks. Immaterial formal matters (captions, subscriptions, acknowledgments, and the like) should be omitted.
+(c) Format of the Appendix.
 
-(d) Exhibits. Exhibits designated for inclusion in the appendix may be reproduced in a separate volume or volumes, suitably indexed.
+(1) *Content*. The appendix must:
 
-(e) Appeal on the Original Record Without an Appendix. The district court or BAP may, either by rule for all cases or classes of cases or by order in a particular case, dispense with the appendix and permit an appeal to proceed on the original record, with the submission of any relevant parts of the record that the district court or BAP orders the parties to file.
+(A) begin with a table of contents identifying the page at which each part begins;
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(B) put the relevant docket entries after the table of contents;
+
+(C) then put other parts of the record chronologically;
+
+(D) when transcript pages are included, show the transcript page numbers in brackets immediately before the included pages; and
+
+(E) indicate omissions from the text of a document or of the transcript by asterisks.
+
+(2) *Immaterial Formal Matters*. The appendix should not include immaterial formal matters, such as captions, subscriptions, and acknowledgments.
+
+(d) Reproducing Exhibits. Exhibits designated for inclusion in the appendix may be reproduced in a separate volume or volumes, suitably indexed.
+
+(e) Appeal on the Original Record Without an Appendix. The district court or BAP may, either by rule for all cases or classes of cases or by order in a particular case:
+
+(1) dispense with the appendix; and
+
+(2) permit an appeal to proceed on the original record with the submission of any relevant parts that the district court or BAP orders the parties to file.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -8346,21 +10862,29 @@ Subdivision (d), which addresses the inclusion of exhibits in the appendix, is d
 
 *Changes Made After Publication and Comment*. Subdivision (a)(4) was revised to provide more detail about the procedure for dismissing an appeal due to appellant's failure to timely file a brief.
 
-### Rule 8018.1. District-Court Review of a Judgment that the Bankruptcy Court Lacked the Constitutional Authority to Enter ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-If, on appeal, a district court determines that the bankruptcy court did not have the power under Article III of the Constitution to enter the judgment, order, or decree appealed from, the district court may treat it as proposed findings of fact and conclusions of law.
+The language of Rule 8018 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(Added Apr. 26, 2018, eff. Dec. 1, 2018.)
+### Rule 8018.1. Reviewing a Judgment That the Bankruptcy Court Lacked Authority to Enter ###
+
+If, on appeal, a district court determines that the bankruptcy court did not have authority under Article III of the Constitution to enter the judgment, order, or decree being appealed, the district court may treat it as proposed findings of fact and conclusions of law.
+
+(Added Apr. 26, 2018, eff. Dec. 1, 2018; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2018 ####
 
 This rule is new. It is added to prevent a district court from having to remand an appeal whenever it determines that the bankruptcy court lacked constitutional authority to enter the judgment, order, or decree appealed from. Consistent with the Supreme Court's decision in *Executive Benefits Ins. Agency v. Arkison*, 134 S. Ct. 2165 (2014), the district court in that situation may treat the bankruptcy court's judgment as proposed findings of fact and conclusions of law. Upon making the determination to proceed in that manner, the district court may choose to allow the parties to file written objections to specific proposed findings and conclusions and to respond to another party's objections, *see* Rule 9033; treat the parties' briefs as objections and responses; or prescribe other procedures for the review of the proposed findings of fact and conclusions of law.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8018.1 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### Rule 8019. Oral Argument ###
 
 (a) Party's Statement. Any party may file, or a district court or BAP may require, a statement explaining why oral argument should, or need not, be permitted.
 
-(b) Presumption of Oral Argument and Exceptions. Oral argument must be allowed in every case unless the district judge—or all the BAP judges assigned to hear the appeal—examine the briefs and record and determine that oral argument is unnecessary because
+(b) Presumption of Oral Argument; Exceptions. Oral argument must be allowed in every case unless the district judge—or each BAP judge assigned to hear the appeal—examines the briefs and record and determines that oral argument is unnecessary because:
 
 (1) the appeal is frivolous;
 
@@ -8368,19 +10892,19 @@ This rule is new. It is added to prevent a district court from having to remand 
 
 (3) the facts and legal arguments are adequately presented in the briefs and record, and the decisional process would not be significantly aided by oral argument.
 
-(c) Notice of Argument; Postponement. The district court or BAP must advise all parties of the date, time, and place for oral argument, and the time allowed for each side. A motion to postpone the argument or to allow longer argument must be filed reasonably in advance of the hearing date.
+(c) Notice of Oral Argument; Motion to Postpone. The district court or BAP must advise all parties of the date, time, and place for oral argument and the time allowed for each side. A motion to postpone the argument or to allow longer argument must be filed reasonably before the hearing date.
 
-(d) Order and Contents of Argument. The appellant opens and concludes the argument. Counsel must not read at length from briefs, the record, or authorities.
+(d) Order and Content of the Argument. The appellant opens and concludes the argument. Counsel must not read at length from briefs, the record, or authorities.
 
-(e) Cross-Appeals and Separate Appeals. If there is a cross-appeal, Rule 8016(b) determines which party is the appellant and which is the appellee for the purposes of oral argument. Unless the district court or BAP directs otherwise, a cross-appeal or separate appeal must be argued when the initial appeal is argued. Separate parties should avoid duplicative argument.
+(e) Cross-Appeals and Separate Appeals. If there is a cross-appeal, Rule 8016(b) determines which party is the appellant and which is the appellee for the purposes of oral argument. Unless the district court or BAP orders otherwise, a cross-appeal or separate appeal must be argued when the initial appeal is argued. Separate parties should avoid duplicative argument.
 
 (f) Nonappearance of a Party. If the appellee fails to appear for argument, the district court or BAP may hear the appellant's argument. If the appellant fails to appear for argument, the district court or BAP may hear the appellee's argument. If neither party appears, the case will be decided on the briefs unless the district court or BAP orders otherwise.
 
-(g) Submission on Briefs. The parties may agree to submit a case for decision on the briefs, but the district court or BAP may direct that the case be argued.
+(g) Submission on Briefs. The parties may agree to submit a case for decision on the briefs, but the district court or BAP may order that the case be argued.
 
-(h) Use of Physical Exhibits at Argument; Removal. Counsel intending to use physical exhibits other than documents at the argument must arrange to place them in the courtroom on the day of the argument before the court convenes. After the argument, counsel must remove the exhibits from the courtroom unless the district court or BAP directs otherwise. The clerk may destroy or dispose of the exhibits if counsel does not reclaim them within a reasonable time after the clerk gives notice to remove them.
+(h) Use of Physical Exhibits at Argument; Removal. An attorney intending to use physical exhibits other than documents at the argument must arrange to place them in the courtroom on the day of the argument before the court convenes. After the argument, the attorney must remove the exhibits from the courtroom unless the district court or BAP orders otherwise. The clerk may destroy or dispose of them if the attorney does not reclaim them within a reasonable time after the clerk gives notice to do so.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -8398,13 +10922,17 @@ The remainder of this rule adopts the provisions of F.R.App.P. 34(b)–(g), with
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
-### Rule 8020. Frivolous Appeal and Other Misconduct ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Frivolous Appeal—Damages and Costs. If the district court or BAP determines that an appeal is frivolous, it may, after a separately filed motion or notice from the court and reasonable opportunity to respond, award just damages and single or double costs to the appellee.
+The language of Rule 8019 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Other Misconduct. The district court or BAP may discipline or sanction an attorney or party appearing before it for other misconduct, including failure to comply with any court order. First, however, the court must afford the attorney or party reasonable notice, an opportunity to show cause to the contrary, and, if requested, a hearing.
+### Rule 8020. Frivolous Appeal; Other Misconduct ###
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(a) Frivolous Appeal; Damages and Costs. If the district court or BAP determines that an appeal is frivolous, then after a separate motion is filed or the court gives notice and a reasonable opportunity to respond, it may award just damages and single or double costs to the appellee.
+
+(b) Other Misconduct; Sanctions. The district court or BAP may discipline or sanction an attorney or party appearing before it for other misconduct, including a failure to comply with a court order. But the court must first give the attorney or party reasonable notice and an opportunity to show cause to the contrary—and if requested, grant a hearing.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Prior Rule ####
 
@@ -8416,25 +10944,29 @@ This rule is derived from former Rule 8020 and F.R.App.P. 38 and 46(c). Subdivis
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8020 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### Rule 8021. Costs ###
 
 (a) Against Whom Assessed. The following rules apply unless the law provides or the district court or BAP orders otherwise:
 
 (1) if an appeal is dismissed, costs are taxed against the appellant, unless the parties agree otherwise;
 
-(2) if a judgment, order, or decree is affirmed, costs are taxed against the appellant;
+(2) if a judgment is affirmed, costs are taxed against the appellant;
 
-(3) if a judgment, order, or decree is reversed, costs are taxed against the appellee;
+(3) if a judgment is reversed, costs are taxed against the appellee;
 
-(4) if a judgment, order, or decree is affirmed or reversed in part, modified, or vacated, costs are taxed only as the district court or BAP orders.
+(4) if a judgment is affirmed or reversed in part, modified, or vacated, costs are taxed only as the district court or BAP orders.
 
-(b) Costs For and Against the United States. Costs for or against the United States, its agency, or its officer may be assessed under subdivision (a) only if authorized by law.
+(b) Costs for and Against the United States. Costs for or against the United States, its agency, or its officer may be assessed under (a) only if authorized by law.
 
 (c) Costs on Appeal Taxable in the Bankruptcy Court. The following costs on appeal are taxable in the bankruptcy court for the benefit of the party entitled to costs under this rule:
 
-(1) the production of any required copies of a brief, appendix, exhibit, or the record;
+(1) producing any required copies of a brief, appendix, exhibit, or the record;
 
-(2) the preparation and transmission of the record;
+(2) preparing and sending the record;
 
 (3) the reporter's transcript, if needed to determine the appeal;
 
@@ -8442,9 +10974,9 @@ This rule is derived from former Rule 8020 and F.R.App.P. 38 and 46(c). Subdivis
 
 (5) the fee for filing the notice of appeal.
 
-(d) Bill of Costs; Objections. A party who wants costs taxed must, within 14 days after entry of judgment on appeal, file with the bankruptcy clerk and serve an itemized and verified bill of costs. Objections must be filed within 14 days after service of the bill of costs, unless the bankruptcy court extends the time.
+(d) Bill of Costs; Objections. A party who wants costs taxed must, within 14 days after a judgment on appeal is entered, file with the bankruptcy clerk and serve an itemized and verified bill of costs. Objections must be filed within 14 days after the bill of costs is served, unless the bankruptcy court extends the time.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2014 ####
 
@@ -8460,17 +10992,23 @@ The amendment of subdivision (c) conforms this rule with the amendment of F.R.Ci
 
 Subdivision (d) is amended to delete the reference to proof of service. This change reflects the recent amendment to Rule 8011(d) that eliminated the requirement of proof of service when filing and service are completed using a court's electronic-filing system.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8021 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### Rule 8022. Motion for Rehearing ###
 
-(a) Time to File; Contents; Response; Action by the District Court or BAP if Granted.
+(a) Time to File; Content; Response; Action by the District Court or BAP If Granted.
 
-(1) *Time*. Unless the time is shortened or extended by order or local rule, any motion for rehearing by the district court or BAP must be filed within 14 days after entry of judgment on appeal.
+(1) *Time*. Unless the time is shortened or extended by order or local rule, any motion for rehearing by the district court or BAP must be filed within 14 days after a judgment on appeal is entered.
 
-(2) *Contents*. The motion must state with particularity each point of law or fact that the movant believes the district court or BAP has overlooked or misapprehended and must argue in support of the motion. Oral argument is not permitted.
+(2) *Content*. The motion must state with particularity each point of law or fact that the movant believes the district court or BAP has overlooked or misapprehended and must argue in support of the motion.
 
-(3) *Response*. Unless the district court or BAP requests, no response to a motion for rehearing is permitted. But ordinarily, rehearing will not be granted in the absence of such a request.
+(3) *Response*. Unless the district court or BAP requests, no response to a motion for rehearing is permitted. But ordinarily, rehearing will not be granted without such a request.
 
-(4) *Action by the District Court or BAP*. If a motion for rehearing is granted, the district court or BAP may do any of the following:
+(4) *No Oral Argument*. Oral argument is not permitted.
+
+(5) *Action by the District Court or BAP*. If a motion for rehearing is granted, the district court or BAP may do any of the following:
 
 (A) make a final disposition of the appeal without reargument;
 
@@ -8478,13 +11016,13 @@ Subdivision (d) is amended to delete the reference to proof of service. This cha
 
 (C) issue any other appropriate order.
 
-(b) Form of the Motion; Length. The motion must comply in form with Rule 8013(f)(1) and (2). Copies must be served and filed as provided by Rule 8011. Except by the district court's or BAP's permission:
+(b) Form; Length. A motion for rehearing must comply in form with Rule 8013(f)(1) and (2). Copies must be served and filed as Rule 8011 provides. Except by the district court's or BAP's permission:
 
-(1) a motion for rehearing produced using a computer must include a certificate under Rule 8015(h) and not exceed 3,900 words; and
+(1) a motion produced using a computer must include a certificate under Rule 8015(h) and not exceed 3,900 words; and
 
 (2) a handwritten or typewritten motion must not exceed 15 pages.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2014 ####
 
@@ -8498,17 +11036,21 @@ Subdivision (b) is amended to conform to the recent amendment to F.R.App.P. 40(b
 
 Page limits are retained for papers prepared without the aid of a computer (i.e., handwritten or typewritten papers). For both the word limit and the page limit, the calculation excludes any items listed in Rule 8015(g).
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8022 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### Rule 8023. Voluntary Dismissal ###
 
 (a) Stipulated Dismissal. The clerk of the district court or BAP must dismiss an appeal if the parties file a signed dismissal agreement specifying how costs are to be paid and pay any court fees that are due.
 
 (b) Appellant's Motion to Dismiss. An appeal may be dismissed on the appellant's motion on terms agreed to by the parties or fixed by the district court or BAP.
 
-(c) Other Relief. A court order is required for any relief under Rule 8023(a) or (b) beyond the dismissal of an appeal—including approving a settlement, vacating an action of the bankruptcy court, or remanding the case to it.
+(c) Other Relief. A court order is required for any relief beyond the dismissal of an appeal—including approving a settlement, vacating an action of the bankruptcy court, or remanding the case to it.
 
 (d) Court Approval. This rule does not alter the legal requirements governing court approval of a settlement, payment, or other consideration.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 11, 2022, eff. Dec. 1, 2022.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2014 ####
 
@@ -8522,19 +11064,57 @@ The rule retains the provision of the former rule that the district or BAP clerk
 
 The amendment is intended to conform the rule to the revised version of Appellate Rule 42(b) on which it was modelled. It clarifies that the fees that must be paid are court fees, not attorney's fees. The rule does not alter the legal requirements governing court approval of a settlement, payment, or other consideration. *See, e.g.*, Fed. R. Bankr. P. 9019 (requiring court approval of compromise or settlement). The amendment clarifies that any order beyond mere dismissal—including approving a settlement, vacating or remanding—requires a court order.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8023 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+### Rule 8023.1. Substitution of Parties ###
+
+(a) Death of a Party.
+
+(1) *After a Notice of Appeal Is Filed*. If a party dies after a notice of appeal has been filed or while a proceeding is pending on appeal in the district court or BAP, the decedent's personal representative may be substituted as a party on motion filed with that court's clerk by the representative or by any party. A party's motion must be served on the representative in accordance with Rule 8011. If the decedent has no representative, any party may suggest the death on the record, and the appellate court may then direct appropriate proceedings.
+
+(2) *Before a Notice of Appeal Is Filed—Potential Appellant*. If a party entitled to appeal dies before filing a notice of appeal, the decedent's personal representative—or, if there is no personal representative, the decedent's attorney of record—may file a notice of appeal within the time prescribed by these rules. After the notice of appeal is filed, substitution must be in accordance with (1).
+
+(3) *Before a Notice of Appeal Is Filed—Potential Appellee*. If a party against whom an appeal may be taken dies after entry of a judgment or order in the bankruptcy court, but before a notice of appeal is filed, an appellant may proceed as if the death had not occurred. After the notice of appeal is filed, substitution must be in accordance with (1).
+
+(b) Substitution for a Reason Other Than Death. If a party needs to be substituted for any reason other than death, the procedure prescribed in (a) applies.
+
+(c) Public Officer: Identification; Substitution.
+
+(1) *Identification of a Party*. A public officer who is a party to an appeal or other proceeding in an official capacity may be described as a party by the public officer's official title rather than by name. But the appellate court may require the public officer's name to be added.
+
+(2) *Automatic Substitution of an Officeholder*. When a public officer who is a party to an appeal or other proceeding in an official capacity dies, resigns, or otherwise ceases to hold office, the action does not abate. Subject to Rule 2012, the public officer's successor is automatically substituted as a party. Proceedings after the substitution are to be in the name of the substituted party, but any misnomer that does not affect the parties' substantial rights may be disregarded. An order of substitution may be entered at any time, but failure to enter an order does not affect the substitution.
+
+(Added Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 ####
+
+Rule 8023.1 is derived from Fed. R. App. P. 43 and governs substitution of parties upon death or for any other reason in appeals to the district court or bankruptcy appellate panel from a judgment, order[,] or decree of a bankruptcy court.
+
 ### Rule 8024. Clerk's Duties on Disposition of the Appeal ###
 
-(a) Judgment on Appeal. The district or BAP clerk must prepare, sign, and enter the judgment after receiving the court's opinion or, if there is no opinion, as the court instructs. Noting the judgment on the docket constitutes entry of judgment.
+(a) Preparing the Judgment. After receiving the court's opinion—or instructions if there is no opinion—the district or BAP clerk must:
 
-(b) Notice of a Judgment. Immediately upon the entry of a judgment, the district or BAP clerk must:
+(1) prepare and sign the judgment; and
 
-(1) transmit a notice of the entry to each party to the appeal, to the United States trustee, and to the bankruptcy clerk, together with a copy of any opinion; and
+(2) note it on the docket, which act constitutes entry of judgment.
 
-(2) note the date of the transmission on the docket.
+(b) Giving Notice of the Judgment. Immediately after a judgment is entered, the district or BAP clerk must:
 
-(c) Returning Physical Items. If any physical items were transmitted as the record on appeal, they must be returned to the bankruptcy clerk on disposition of the appeal.
+(1) send notice of its entry, together with a copy of any opinion, to:
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+• the parties to the appeal;
+
+• the United States trustee; and
+
+• the bankruptcy clerk; and
+
+(2) note on the docket the date the notice was sent.
+
+(c) Returning Physical Items. On disposition of the appeal, the district or BAP clerk must return to the bankruptcy clerk any physical items sent as the record on appeal.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2014 ####
 
@@ -8542,33 +11122,37 @@ This rule is derived from former Rule 8016, which was adapted from F.R.App.P. 36
 
 *Changes Made After Publication and Comment*. Stylistic changes were made to subdivision (c) and the Committee Note.
 
-### Rule 8025. Stay of a District Court or BAP Judgment ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Automatic Stay of Judgment on Appeal. Unless the district court or BAP orders otherwise, its judgment is stayed for 14 days after entry.
+The language of Rule 8024 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Stay Pending Appeal to the Court of Appeals.
+### Rule 8025. Staying a District Court or BAP Judgment ###
 
-(1) *In General*. On a party's motion and notice to all other parties to the appeal, the district court or BAP may stay its judgment pending an appeal to the court of appeals.
+(a) Automatic Stay of a Judgment on Appeal. Unless the district court or BAP orders otherwise, its judgment is stayed for 14 days after its entry.
 
-(2) *Time Limit*. The stay must not exceed 30 days after the judgment is entered, except for cause shown.
+(b) Stay Pending an Appeal to the United States Court of Appeals.
 
-(3) *Stay Continued*. If, before a stay expires, the party who obtained the stay appeals to the court of appeals, the stay continues until final disposition by the court of appeals.
+(1) *In General*. On a party's motion with notice to all other parties to the appeal, the district court or BAP may stay its judgment pending an appeal to the court of appeals.
 
-(4) *Bond or Other Security*. A bond or other security may be required as a condition for granting or continuing a stay of the judgment. A bond or other security may be required if a trustee obtains a stay, but not if a stay is obtained by the United States or its officer or agency or at the direction of any department of the United States government.
+(2) *Time Limit*. Except for cause, the stay must not exceed 30 days after the judgment is entered.
 
-(c) Automatic Stay of an Order, Judgment, or Decree of a Bankruptcy Court. If the district court or BAP enters a judgment affirming an order, judgment, or decree of the bankruptcy court, a stay of the district court's or BAP's judgment automatically stays the bankruptcy court's order, judgment, or decree for the duration of the appellate stay.
+(3) *Stay Continued When an Appeal Is Filed*. If, before a stay expires, the party who obtained it appeals to a court of appeals, the stay continues until final disposition by the court of appeals.
 
-(d) Power of a Court of Appeals Not Limited. This rule does not limit the power of a court of appeals or any of its judges to do the following:
+(4) *Bond or Other Security*. A bond or other security may be required as a condition for granting or continuing a stay. If a trustee obtains a stay, a bond or other security may be required. But neither is required if a stay is obtained by the United States or its officer or agency, or by direction of any department of the United States government.
+
+(c) Automatic Stay of the Bankruptcy Court's Order, Judgment, or Decree. If the district court or BAP enters a judgment affirming the bankruptcy court's order, judgment, or decree, a stay of the district court's or BAP's judgment automatically stays the bankruptcy court's order, judgment, or decree while the appellate stay is in effect.
+
+(d) Power of a Court of Appeals or Its Judges Not Limited. This rule does not limit the power of a court of appeals or any of its judges to:
 
 (1) stay a judgment pending appeal;
 
 (2) stay proceedings while an appeal is pending;
 
-(3) suspend, modify, restore, vacate, or grant a stay or an injunction while an appeal is pending; or
+(3) suspend, modify, restore, vacate, or grant a stay or injunction while an appeal is pending; or
 
-(4) issue any order appropriate to preserve the status quo or the effectiveness of any judgment to be entered.
+(4) issue any order appropriate to preserve the status quo or the effectiveness of any judgment that might be entered.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2014 ####
 
@@ -8576,23 +11160,29 @@ This rule is derived from former Rule 8017. Most of the changes to the former ru
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
-### Rule 8026. Rules by Circuit Councils and District Courts; Procedure When There is No Controlling Law ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Local Rules by Circuit Councils and District Courts.
+The language of Rule 8025 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(1) *Adopting Local Rules*. A circuit council that has authorized a BAP under 28 U.S.C. §158(b) may make and amend rules governing the practice and procedure on appeal from a judgment, order, or decree of a bankruptcy court to the BAP. A district court may make and amend rules governing the practice and procedure on appeal from a judgment, order, or decree of a bankruptcy court to the district court. Local rules must be consistent with, but not duplicative of, Acts of Congress and these Part VIII rules. Rule 83 F.R.Civ.P. governs the procedure for making and amending rules to govern appeals.
+### Rule 8026. Making and Amending Local Rules; Procedure When There Is No Controlling Law ###
+
+(a) Local Rules.
+
+(1) *Making and Amending Local Rules.*
+
+(A) *BAP Local Rules*. A circuit council that has authorized a BAP under 28 U.S.C. §158(b) may make and amend local rules governing the practice and procedure on appeal to the BAP from a bankruptcy court's judgment, order, or decree.
+
+(B) *District-Court Local Rules*. A district court may make and amend local rules governing the practice and procedure on appeal to the district court from a bankruptcy court's judgment, order, or decree.
+
+(C) *Procedure*. Fed. R. Civ. P. 83 governs the procedure for making and amending local rules. A local rule must be consistent with—but not duplicate—an Act of Congress and these Part VIII rules.
 
 (2) *Numbering*. Local rules must conform to any uniform numbering system prescribed by the Judicial Conference of the United States.
 
-(3) *Limitation on Imposing Requirements of Form*. A local rule imposing a requirement of form must not be enforced in a way that causes a party to lose any right because of a nonwillful failure to comply.
+(3) *Limitation on Enforcing a Local Rule Relating to Form*. A local rule imposing a requirement of form must not be enforced in a way that causes a party to lose any right because of a nonwillful failure to comply.
 
-(b) Procedure When There is No Controlling Law.
+(b) Procedure When There Is No Controlling Law. A judge may regulate practice in any manner consistent with federal law, these rules, the Official Forms, and the district's local rules. For any requirement set out elsewhere, a sanction or other disadvantage may be imposed for noncompliance only if the alleged violator was given actual notice of the requirement in the particular case.
 
-(1) *In General*. A district court or BAP may regulate practice in any manner consistent with federal law, applicable federal rules, the Official Forms, and local rules.
-
-(2) *Limitation on Sanctions*. No sanction or other disadvantage may be imposed for noncompliance with any requirement not in federal law, applicable federal rules, the Official Forms, or local rules unless the alleged violator has been furnished in the particular case with actual notice of the requirement.
-
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2014 ####
 
@@ -8600,19 +11190,23 @@ This rule is derived from former Rule 8018. The changes to the former rule are s
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8026 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in subd. (a)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subd. (a)(1)(C), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 8027. Notice of a Mediation Procedure ###
 
-If the district court or BAP has a mediation procedure applicable to bankruptcy appeals, the clerk must notify the parties promptly after docketing the appeal of:
+If the district court or BAP has a mediation procedure applicable to bankruptcy appeals, the clerk must, after docketing the appeal, promptly notify the parties of:
 
 (a) the requirements of the mediation procedure; and
 
-(b) any effect the mediation procedure has on the time to file briefs.
+(b) any effect it has on the time to file briefs.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2014 ####
 
@@ -8620,11 +11214,15 @@ This rule is new. It requires the district or BAP clerk to advise the parties pr
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
-### Rule 8028. Suspension of Rules in Part VIII ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-In the interest of expediting decision or for other cause in a particular case, the district court or BAP, or where appropriate the court of appeals, may suspend the requirements or provisions of the rules in Part VIII, except Rules 8001, 8002, 8003, 8004, 8005, 8006, 8007, 8012, 8020, 8024, 8025, 8026, and 8028.
+The language of Rule 8027 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+### Rule 8028. Suspending These Part VIII Rules ###
+
+To expedite a decision or for other cause, a district court or BAP—or when appropriate, the court of appeals—may, in a particular case, suspend the requirements of these Part VIII rules, except Rules 8001–8007, 8012, 8020, 8024–8026, and 8028.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2014 ####
 
@@ -8658,37 +11256,57 @@ This rule is derived from former Rule 8019 and F.R.App.P. 2. To promote uniformi
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 8028 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### PART IX—GENERAL PROVISIONS ###
 
-### Rule 9001. General Definitions ###
+### Rule 9001. Definitions ###
 
-The definitions of words and phrases in §§101, 902, 1101, and 1502 of the Code, and the rules of construction in §102, govern their use in these rules. In addition, the following words and phrases used in these rules have the meanings indicated:
+(a) In the Code. The definitions of words and phrases in §§101, 902, 1101, and 1502 and the rules of construction in §102 apply in these rules.
 
-(1) "Bankruptcy clerk" means a clerk appointed pursuant to 28 U.S.C. §156(b).
+(b) In These Rules. In these rules, the following words and phrases have these meanings:
 
-(2) "Bankruptcy Code" or "Code" means title 11 of the United States Code.
+(1) "Bankruptcy clerk" means a clerk appointed under 28 U.S.C. §156(b).
 
-(3) "Clerk" means bankruptcy clerk, if one has been appointed, otherwise clerk of the district court.
+(2) "Clerk" means a bankruptcy clerk if one has been appointed; otherwise, it means the district-court clerk.
 
-(4) "Court" or "judge" means the judicial officer before whom a case or proceeding is pending.
+(3) "Code" means Title 11 of the United States Code.
 
-(5) "Debtor." When any act is required by these rules to be performed by a debtor or when it is necessary to compel attendance of a debtor for examination and the debtor is not a natural person: (A) if the debtor is a corporation, "debtor" includes, if designated by the court, any or all of its officers, members of its board of directors or trustees or of a similar controlling body, a controlling stockholder or member, or any other person in control; (B) if the debtor is a partnership, "debtor" includes any or all of its general partners or, if designated by the court, any other person in control.
+(4) "Court" or "judge" means the judicial officer who presides over the case or proceeding.
+
+(5) "Debtor," when the debtor is not a natural person and either is required by these rules to perform an act or must appear for examination, includes:
+
+(A) if the debtor is a corporation and if the court so designates:
+
+• any or all of its officers, directors, trustees, or members of a similar controlling body;
+
+• a controlling stockholder or member; or
+
+• any other person in control; or
+
+(B) if the debtor is a partnership:
+
+• any or all of its general partners; or
+
+• if the court so designates, any other person in control.
 
 (6) "Firm" includes a partnership or professional corporation of attorneys or accountants.
 
 (7) "Judgment" means any appealable order.
 
-(8) "Mail" means first class, postage prepaid.
+(8) "Mail" means first-class mail, postage prepaid.
 
-(9) "Notice provider" means any entity approved by the Administrative Office of the United States Courts to give notice to creditors under Rule 2002(g)(4).
+(9) "Notice provider" means an entity approved by the Administrative Office of the United States Courts to give notice to creditors under Rule 2002(g)(4).
 
-(10) "Regular associate" means any attorney regularly employed by, associated with, or counsel to an individual or firm.
+(10) "Regular associate" means an attorney regularly employed by, associated with, or counsel to an individual or firm.
 
-(11) "Trustee" includes a debtor in possession in a chapter 11 case.
+(11) "Trustee" includes a debtor in possession in a Chapter 11 case.
 
-(12) "United States trustee" includes an assistant United States trustee and any designee of the United States trustee.
+(12) "United States trustee" includes an assistant United States trustee and a United States trustee's designee.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 28, 2010, eff. Dec. 1, 2010.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1987 Amendment ####
 
@@ -8714,37 +11332,59 @@ The rule is amended to add §1502 of the Code to the list of definitional provis
 
 *Changes Made After Publication*. No changes since publication.
 
-### Rule 9002. Meanings of Words in the Federal Rules of Civil Procedure When Applicable to Cases Under the Code ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-The following words and phrases used in the Federal Rules of Civil Procedure made applicable to cases under the Code by these rules have the meanings indicated unless they are inconsistent with the context:
+The language of Rule 9001 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(1) "Action" or "civil action" means an adversary proceeding or, when appropriate, a contested petition, or proceedings to vacate an order for relief or to determine any other contested matter.
+### Rule 9002. Meaning of Words in the Federal Rules of Civil Procedure ###
 
-(2) "Appeal" means an appeal as provided by 28 U.S.C. §158.
+Unless they are inconsistent with the context, the following words and phrases in the Federal Rules of Civil Procedure—when made applicable by these rules—have these meanings:
 
-(3) "Clerk" or "clerk of the district court" means the court officer responsible for the bankruptcy records in the district.
+(a) "Action" or "civil action" means an adversary proceeding or, when appropriate:
 
-(4) "District Court," "trial court," "court," "district judge," or "judge" means bankruptcy judge if the case or proceeding is pending before a bankruptcy judge.
+(1) a contested petition;
 
-(5) "Judgment" includes any order appealable to an appellate court.
+(2) a proceeding to vacate an order for relief; or
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Aug. 1, 1993.)
+(3) a proceeding to determine any other contested matter.
+
+(b) "Appeal" means an appeal under 28 U.S.C. §158.
+
+(c) "Clerk" or "clerk of the district court" means the officer responsible for maintaining the district's bankruptcy records.
+
+(d) "District court," "trial court," "court," "district judge," or "judge" means bankruptcy judge if the case or proceeding is pending before a bankruptcy judge.
+
+(e) "Judgment" includes any appealable order.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1993 Amendment ####
 
 This rule is revised to include the words "district judge" in anticipation of amendments to the Federal Rules of Civil Procedure.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9002 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 9003. Prohibition of Ex Parte Contacts ###
+### Rule 9003. Ex Parte Contacts Prohibited ###
 
-(a) General Prohibition. Except as otherwise permitted by applicable law, any examiner, any party in interest, and any attorney, accountant, or employee of a party in interest shall refrain from ex parte meetings and communications with the court concerning matters affecting a particular case or proceeding.
+(a) In General. Unless permitted by applicable law, the following persons must refrain from ex parte meetings and communications with the court about matters affecting a particular case or proceeding:
 
-(b) United States Trustee. Except as otherwise permitted by applicable law, the United States trustee and assistants to and employees or agents of the United States trustee shall refrain from ex parte meetings and communications with the court concerning matters affecting a particular case or proceeding. This rule does not preclude communications with the court to discuss general problems of administration and improvement of bankruptcy administration, including the operation of the United States trustee system.
+• an examiner;
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+• a party in interest;
+
+• a party in interest's attorney, accountant, or employee; and
+
+• the United States trustee and any of its assistants, agents, or employees.
+
+(b) Exception for a United States Trustee. A United States trustee and any of its assistants, agents, or employees are not prohibited from communicating with the court about general administrative problems and improving bankruptcy administration—including the operation of the United States trustee system.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -8762,19 +11402,43 @@ This rule is amended to apply to both the bankruptcy judges and the district jud
 
 *Subdivision (b)* is derived from Rule X–1010.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9003 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### Rule 9004. General Requirements of Form ###
 
-(a) Legibility; Abbreviations. All petitions, pleadings, schedules and other papers shall be clearly legible. Abbreviations in common use in the English language may be used.
+(a) Legibility; Abbreviations. A petition, pleading, schedule, or other document must be clearly legible. Commonly used English abbreviations are acceptable.
 
-(b) Caption. Each paper filed shall contain a caption setting forth the name of the court, the title of the case, the bankruptcy docket number, and a brief designation of the character of the paper.
+(b) Caption. A document presented for filing must contain a caption that sets forth:
+
+(1) the court's name;
+
+(2) the case's title;
+
+(3) the case number and, if appropriate, adversary-proceeding number; and
+
+(4) a brief designation of the document's character.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 *Subdivision (b)*. Additional requirements applicable to the caption for a petition are found in Rule 1005, to the caption for notices to creditors in Rule 2002(m), and to the caption for a pleading or other paper filed in an adversary proceeding in Rule 7010. Failure to comply with this or any other rule imposing a merely formal requirement does not ordinarily result in the loss of rights. See Rule 9005.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9004 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### Rule 9005. Harmless Error ###
 
-Rule 61 F.R.Civ.P. applies in cases under the Code. When appropriate, the court may order the correction of any error or defect or the cure of any omission which does not affect substantial rights.
+Fed. R. Civ. P. 61 applies in a bankruptcy case. When appropriate, the court may order the correction of any error or defect—or the cure of any omission—that does not affect a substantial right.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9005 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -8782,9 +11446,9 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 9005.1. Constitutional Challenge to a Statute—Notice, Certification, and Intervention ###
 
-Rule 5.1 F.R.Civ.P. applies in cases under the Code.
+Fed. R. Civ. P. 5.1 applies in a bankruptcy case.
 
-(Added Apr. 30, 2007, eff. Dec. 1, 2007.)
+(Added Apr. 30, 2007, eff. Dec. 1, 2007; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2007 ####
 
@@ -8792,11 +11456,15 @@ The rule is added to adopt the new rule added to the Federal Rules of Civil Proc
 
 *Changes After Publication*. No changes were made after publication.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9005.1 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 9006. Computing and Extending Time; Time for Motion Papers ###
+### Rule 9006. Computing and Extending Time; Motions ###
 
 (a) Computing Time. The following rules apply in computing any time period specified in these rules, in the Federal Rules of Civil Procedure, in any local rule or court order, or in any statute that does not specify a method of computing time.
 
@@ -8816,51 +11484,63 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (C) if the period would end on a Saturday, Sunday, or legal holiday, then continue the period until the same time on the next day that is not a Saturday, Sunday, or legal holiday.
 
-(3) *Inaccessibility of Clerk's Office*. Unless the court orders otherwise, if the clerk's office is inaccessible:
+(3) *Inaccessibility of the Clerk's Office When a Filing Is Due*. Unless the court orders otherwise, if the clerk's office is inaccessible:
 
-(A) on the last day for filing under Rule 9006(a)(1), then the time for filing is extended to the first accessible day that is not a Saturday, Sunday, or legal holiday; or
+(A) on the last day for filing under (1), then the time for filing is extended to the first accessible day that is not a Saturday, Sunday, or legal holiday; or
 
-(B) during the last hour for filing under Rule 9006(a)(2), then the time for filing is extended to the same time on the first accessible day that is not a Saturday, Sunday, or legal holiday.
+(B) during the last hour for filing under (2), then the time for filing is extended to the same time on the first accessible day that is not a Saturday, Sunday, or legal holiday.
 
-(4) *"Last Day" Defined*. Unless a different time is set by a statute, local rule, or order in the case, the last day ends:
+(4) *"Last Day" Defined*. Unless a different time is set by statute, local rule, or order in a case, the last day ends:
 
 (A) for electronic filing, at midnight in the court's time zone; and
 
 (B) for filing by other means, when the clerk's office is scheduled to close.
 
-(5) *"Next Day" Defined*. The "next day" is determined by continuing to count forward when the period is measured after an event and backward when measured before an event.
+(5) *"Next Day" Defined*. The "next day" is determined by continuing to count forward when the period is measured after an event, and backward when measured before an event.
 
 (6) *"Legal Holiday" Defined*. "Legal holiday" means:
 
-(A) the day set aside by statute for observing New Year's Day, Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Juneteenth National Independence Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, or Christmas Day;
+(A) the day set aside by statute for observing New Year's Day, Birthday of Martin Luther King Jr., Washington's Birthday, Memorial Day, Juneteenth National Independence Day, Independence Day, Labor Day, Columbus Day, Veteran's Day, Thanksgiving Day, or Christmas Day;
 
 (B) any day declared a holiday by the President or Congress; and
 
 (C) for periods that are measured after an event, any other day declared a holiday by the state where the district court is located. (In this rule, "state" includes the District of Columbia and any United States commonwealth or territory.)
 
-(b) Enlargement.
+(b) Extending Time.
 
-(1) *In General*. Except as provided in paragraphs (2) and (3) of this subdivision, when an act is required or allowed to be done at or within a specified period by these rules or by a notice given thereunder or by order of court, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if the request therefor is made before the expiration of the period originally prescribed or as extended by a previous order or (2) on motion made after the expiration of the specified period permit the act to be done where the failure to act was the result of excusable neglect.
+(1) *In General*. This paragraph (1) applies when these rules, a notice given under these rules, or a court order requires or allows an act to be performed at or within a specified period. Except as provided in (2) and (3), the court may—at any time and for cause—extend the time to act if:
 
-(2) *Enlargement Not Permitted*. The court may not enlarge the time for taking action under Rules 1007(d), 2003(a) and (d), 7052, 9023, and 9024.
+(A) with or without a motion or notice, a request to extend is made before the period (or a previously extended period) expires; or
 
-(3) *Enlargement Governed By Other Rules*. The court may enlarge the time for taking action under Rules 1006(b)(2), 1017(e), 3002(c), 4003(b), 4004(a), 4007(c), 4008(a), 8002, and 9033, only to the extent and under the conditions stated in those rules. In addition, the court may enlarge the time to file the statement required under Rule 1007(b)(7), and to file schedules and statements in a small business case under §1116(3) of the Code, only to the extent and under the conditions stated in Rule 1007(c).
+(B) on motion made after the specified period expires, the failure to act within that period resulted from excusable neglect.
 
-(c) Reduction.
+(2) *Exceptions*. The court must not extend the time to act under Rules 1007(d), 2003(a) and (d), 7052, 9023, and 9024.
 
-(1) *In General*. Except as provided in paragraph (2) of this subdivision, when an act is required or allowed to be done at or within a specified time by these rules or by a notice given thereunder or by order of court, the court for cause shown may in its discretion with or without motion or notice order the period reduced.
+(3) *Extensions Governed by Other Rules*. The court may extend the time to:
 
-(2) *Reduction Not Permitted*. The court may not reduce the time for taking action under Rules 2002(a)(7), 2003(a), 3002(c), 3014, 3015, 4001(b)(2), (c)(2), 4003(a), 4004(a), 4007(c), 4008(a), 8002, and 9033(b). In addition, the court may not reduce the time under Rule 1007(c) to file the statement required by Rule 1007(b)(7).
+(A) act under Rules 1006(b)(2), 1017(e), 3002(c), 4003(b), 4004(a), 4007(c), 4008(a), 8002, and 9033—but only as permitted by those rules; and
 
-(d) Motion Papers. A written motion, other than one which may be heard ex parte, and notice of any hearing shall be served not later than seven days before the time specified for such hearing, unless a different period is fixed by these rules or by order of the court. Such an order may for cause shown be made on ex parte application. When a motion is supported by affidavit, the affidavit shall be served with the motion. Except as otherwise provided in Rule 9023, any written response shall be served not later than one day before the hearing, unless the court permits otherwise.
+(B) file the certificate required by Rule 1007(b)(7), and the schedules and statements in a small business case under §1116(3)—but only as permitted by Rule 1007(c).
 
-(e) Time of Service. Service of process and service of any paper other than process or of notice by mail is complete on mailing.
+(c) Reducing Time.
 
-(f) Additional Time After Service by Mail or Under Rule 5(b)(2)(D) or (F) F.R.Civ.P. When there is a right or requirement to act or undertake some proceedings within a prescribed period after being served and that service is by mail or under Rule 5(b)(2)(D) (leaving with the clerk) or (F) (other means consented to) F.R.Civ.P., three days are added after the prescribed period would otherwise expire under Rule 9006(a).
+(1) *When Permitted*. When a rule, notice given under a rule, or court order requires or allows an act to be done within a specified time, the court may—for cause and with or without a motion or notice—reduce the time.
 
-(g) Grain Storage Facility Cases. This rule shall not limit the court's authority under §557 of the Code to enter orders governing procedures in cases in which the debtor is an owner or operator of a grain storage facility.
+(2) *When Not Permitted*. The court may not reduce the time to act under Rule 2002(a)(7), 2003(a), 3002(c), 3014, 3015, 4001(b)(2) or (c)(2), 4003(a), 4004(a), 4007(c), 4008(a), 8002, or 9033(b). Also, the court may not reduce the time set by Rule 1007(c) to file the certificate required by Rule 1007(b)(7).
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 24, 2023, eff. Dec. 1, 2023.)
+(d) Time to Serve a Motion and a Response.
+
+(1) *In General*. A written motion (other than one that may be heard ex parte) and notice of any hearing must be served at least 7 days before the hearing date, unless the court or these rules set a different period. Any affidavit supporting the motion must be served with it. An order to change the period may be granted for cause on ex parte application.
+
+(2) *Response*. Except as provided in Rule 9023, any written response must be served at least 1 day before the hearing, unless the court allows otherwise.
+
+(e) Service Complete on Mailing. Service by mail of process, any other document, or notice is complete upon mailing.
+
+(f) Additional Time After Certain Service. When a party may or must act within a specified time after being served and service is made by mail or under Fed. R. Civ. P. 5(b)(2)(D) (leaving with the clerk) or (F) (other means consented to), 3 days are added after the period would otherwise expire under (a).
+
+(g) Grain-Storage Facility. This rule does not limit the court's authority under §557 to issue an order governing procedures in a case in which the debtor owns or operates a grain-storage facility.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 24, 2023, eff. Dec. 1, 2023; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9038,35 +11718,61 @@ Subdivision (f) is also amended to conform to a corresponding amendment of Civil
 
 The amendment adds "Juneteenth National Independence Day" to the list of legal holidays. See Juneteenth National Independence Day Act, P.L. 117–17 (2021) (amending 5 U.S.C. §6103(a)).
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9006 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+Additionally, the following substantive changes have been made.
+
+The amendments to Rule 9006(b)(3)(B) and (c)(2) reflect the amendment to Rule 1007(b)(7) that replaces the requirement for submission of a statement showing that the debtor has completed a course on personal financial management with the requirement that the debtor provide the certificate of course completion issued by the approved provider of that course.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in subds. (a) and (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 9007. General Authority to Regulate Notices ###
+### Rule 9007. Authority to Regulate Notices ###
 
-When notice is to be given under these rules, the court shall designate, if not otherwise specified herein, the time within which, the entities to whom, and the form and manner in which the notice shall be given. When feasible, the court may order any notices under these rules to be combined.
+(a) In General. Unless these rules provide otherwise, when notice is to be given, the court must designate:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+(1) the deadline for giving it;
+
+(2) the entities to whom it must be given; and
+
+(3) the form and manner of giving it.
+
+(b) Combined Notices. When feasible, the court may order notices under these rules to be combined.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9007 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 ### Rule 9008. Service or Notice by Publication ###
 
-Whenever these rules require or authorize service or notice by publication, the court shall, to the extent not otherwise specified in these rules, determine the form and manner thereof, including the newspaper or other medium to be used and the number of publications.
+When these rules require or authorize service or notice by publication, and to the extent that they do not provide otherwise, the court must determine the form and manner of publication—including the newspaper or other medium to be used and the number of publications.
 
-### Rule 9009. Forms ###
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
-(a) Official Forms. The Official Forms prescribed by the Judicial Conference of the United States shall be used without alteration, except as otherwise provided in these rules, in a particular Official Form, or in the national instructions for a particular Official Form. Official Forms may be modified to permit minor changes not affecting wording or the order of presenting information, including changes that:
+#### Committee Notes on Rules—2024 Amendment ####
 
-(1) expand the prescribed areas for responses in order to permit complete responses;
+The language of Rule 9008 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(2) delete space not needed for responses; or
+### Rule 9009. Using Official Forms; Director's Forms ###
 
-(3) delete items requiring detail in a question or category if the filer indicates—either by checking "no" or "none" or by stating in words—that there is nothing to report on that question or category.
+(a) Official Forms. The Official Forms prescribed by the Judicial Conference of the United States must be used without alteration—unless alteration is authorized by these rules, the form itself, or the national instructions for a particular form. A form may be modified to permit minor changes not affecting wording or the order of presentation, including a change that:
 
-(b) Director's Forms. The Director of the Administrative Office of the United States Courts may issue additional forms for use under the Code.
+(1) expands the prescribed response area to permit a complete response;
 
-(c) Construction. The forms shall be construed to be consistent with these rules and the Code.
+(2) deletes space not needed for a response; or
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 27, 2017, eff. Dec. 1, 2017.)
+(3) deletes items requiring detail in a question or category if the filer indicates—either by checking "no" or "none," or by stating in words—that there is nothing to report on that item.
+
+(b) Director's Forms. The Director of the Administrative Office of the United States Courts may issue additional forms.
+
+(c) Construing Forms. The forms must be construed to be consistent with these rules and the Code.
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9092,15 +11798,27 @@ Subdivision (a) addresses permissible modifications to Official Forms. It requir
 
 The creation of subdivision (b) and subdivision (c) is stylistic.
 
-### Rule 9010. Representation and Appearances; Powers of Attorney ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Authority To Act Personally or by Attorney. A debtor, creditor, equity security holder, indenture trustee, committee or other party may (1) appear in a case under the Code and act either in the entity's own behalf or by an attorney authorized to practice in the court, and (2) perform any act not constituting the practice of law, by an authorized agent, attorney in fact, or proxy.
+The language of Rule 9009 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Notice of Appearance. An attorney appearing for a party in a case under the Code shall file a notice of appearance with the attorney's name, office address and telephone number, unless the attorney's appearance is otherwise noted in the record.
+### Rule 9010. Authority to Act Personally or by an Attorney; Power of Attorney ###
 
-(c) Power of Attorney. The authority of any agent, attorney in fact, or proxy to represent a creditor for any purpose other than the execution and filing of a proof of claim or the acceptance or rejection of a plan shall be evidenced by a power of attorney conforming substantially to the appropriate Official Form. The execution of any such power of attorney shall be acknowledged before one of the officers enumerated in 28 U.S.C. §459, §953, Rule 9012, or a person authorized to administer oaths under the laws of the state where the oath is administered.
+(a) In General. A debtor, creditor, equity security holder, indenture trustee, committee, or other party may:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+(1) appear in a case and act either on the entity's own behalf or through an attorney authorized to practice in the court; and
+
+(2) perform any act not constituting the practice of law, by an authorized agent, attorney-in-fact, or proxy.
+
+(b) Attorney's Notice of Appearance. An attorney appearing for a party in a case must file a notice of appearance containing the attorney's name, office address, and telephone number—unless the appearance is already noted in the record.
+
+(c) Power of Attorney to Represent a Creditor. The authority of an agent, attorney-in-fact, or proxy to represent a creditor—for any purpose other than executing and filing a proof of claim or accepting or rejecting a plan—must be evidenced by a power of attorney that substantially conforms to the appropriate version of Form 411. A power of attorney must be acknowledged before:
+
+(1) an officer listed in 28 U.S.C. §459 or §953 or in Rule 9012; or
+
+(2) a person authorized to administer oaths under the state law where the oath is administered.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9114,43 +11832,63 @@ This rule is substantially the same as former Bankruptcy Rule 910 and does not p
 
 References to Official Form numbers in subdivision (c) are deleted in anticipation of future revision and renumbering of the Official Forms.
 
-### Rule 9011. Signing of Papers; Representations to the Court; Sanctions; Verification and Copies of Papers ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Signature. Every petition, pleading, written motion, and other paper, except a list, schedule, or statement, or amendments thereto, shall be signed by at least one attorney of record in the attorney's individual name. A party who is not represented by an attorney shall sign all papers. Each paper shall state the signer's address and telephone number, if any. An unsigned paper shall be stricken unless omission of the signature is corrected promptly after being called to the attention of the attorney or party.
+The language of Rule 9010 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Representations to the Court. By presenting to the court (whether by signing, filing, submitting, or later advocating) a petition, pleading, written motion, or other paper, an attorney or unrepresented party is certifying that to the best of the person's knowledge, information, and belief, formed after an inquiry reasonable under the circumstances,— <sup><a href="#Rule_9011_1_target" name="Rule_9011_1">1</a></sup>
+### Rule 9011. Signing Documents; Representations to the Court; Sanctions; Verifying and Providing Copies ###
 
-(1) it is not being presented for any improper purpose, such as to harass or to cause unnecessary delay or needless increase in the cost of litigation;
+(a) Signature. Every petition, pleading, written motion, and other document—except a list, schedule, or statement, or an amendment to one of them—must be signed by at least one attorney of record in the attorney's individual name. A party not represented by an attorney must sign all documents. Each document must state the signer's address and telephone number, if any. The court must strike an unsigned document unless the omission is promptly corrected after being called to the attorney's or party's attention.
 
-(2) the claims, defenses, and other legal contentions therein are warranted by existing law or by a nonfrivolous argument for the extension, modification, or reversal of existing law or the establishment of new law;
+(b) Representations to the Court. By presenting to the court a petition, pleading, written motion, or other document—whether by signing, filing, submitting, or later advocating it—an attorney or unrepresented party certifies that, to the best of the person's knowledge, information, and belief formed after an inquiry reasonable under the circumstances:
 
-(3) the allegations and other factual contentions have evidentiary support or, if specifically so identified, are likely to have evidentiary support after a reasonable opportunity for further investigation or discovery; and
+(1) it is not presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase litigation costs;
 
-(4) the denials of factual contentions are warranted on the evidence or, if specifically so identified, are reasonably based on a lack of information or belief.
+(2) the claims, defenses, and other legal contentions are warranted by existing law or by a nonfrivolous argument to extend, modify, or reverse existing law, or to establish new law;
 
-(c) Sanctions. If, after notice and a reasonable opportunity to respond, the court determines that subdivision (b) has been violated, the court may, subject to the conditions stated below, impose an appropriate sanction upon the attorneys, law firms, or parties that have violated subdivision (b) or are responsible for the violation.
+(3) the allegations and factual contentions have evidentiary support—or if specifically so identified, are likely to have evidentiary support after a reasonable opportunity for further investigation or discovery; and
 
-(1) *How Initiated.*
+(4) the denials of factual contentions are warranted on the evidence—or if specifically so identified, are reasonably based on a lack of information or belief.
 
-(A) *By Motion*. A motion for sanctions under this rule shall be made separately from other motions or requests and shall describe the specific conduct alleged to violate subdivision (b). It shall be served as provided in Rule 7004. The motion for sanctions may not be filed with or presented to the court unless, within 21 days after service of the motion (or such other period as the court may prescribe), the challenged paper, claim, defense, contention, allegation, or denial is not withdrawn or appropriately corrected, except that this limitation shall not apply if the conduct alleged is the filing of a petition in violation of subdivision (b). If warranted, the court may award to the party prevailing on the motion the reasonable expenses and attorney's fees incurred in presenting or opposing the motion. Absent exceptional circumstances, a law firm shall be held jointly responsible for violations committed by its partners, associates, and employees.
+(c) Sanctions.
 
-(B) *On Court's Initiative*. On its own initiative, the court may enter an order describing the specific conduct that appears to violate subdivision (b) and directing an attorney, law firm, or party to show cause why it has not violated subdivision (b) with respect thereto.
+(1) *In General*. If, after notice and a reasonable opportunity to respond, the court determines that (b) has been violated, the court may, subject to the conditions in this subdivision (c), impose an appropriate sanction on any attorney, law firm, or party that committed the violation or is responsible for it. Absent exceptional circumstances, a law firm must be held jointly responsible for a violation committed by its partner, associate, or employee.
 
-(2) *Nature of Sanction; Limitations*. A sanction imposed for violation of this rule shall be limited to what is sufficient to deter repetition of such conduct or comparable conduct by others similarly situated. Subject to the limitations in subparagraphs (A) and (B), the sanction may consist of, or include, directives of a nonmonetary nature, an order to pay a penalty into court, or, if imposed on motion and warranted for effective deterrence, an order directing payment to the movant of some or all of the reasonable attorneys' fees and other expenses incurred as a direct result of the violation.
+(2) *By Motion.*
 
-(A) Monetary sanctions may not be awarded against a represented party for a violation of subdivision (b)(2).
+(A) *In General*. A motion for sanctions must be made separately from any other motion or request, describe the specific conduct alleged to violate (b), and be served under Rule 7004.
 
-(B) Monetary sanctions may not be awarded on the court's initiative unless the court issues its order to show cause before a voluntary dismissal or settlement of the claims made by or against the party which is, or whose attorneys are, to be sanctioned.
+(B) *When to File*. The motion for sanctions must not be filed or presented to the court if the challenged document, claim, defense, contention, allegation, or denial is withdrawn or appropriately corrected within 21 days after the motion was served (or within another period as the court may order). This limitation does not apply if the conduct alleged is filing a petition in violation of (b).
 
-(3) *Order*. When imposing sanctions, the court shall describe the conduct determined to constitute a violation of this rule and explain the basis for the sanction imposed.
+(C) *Awarding Damages*. If warranted, the court may award to the prevailing party the reasonable expenses and attorney's fees incurred in presenting or opposing the motion.
 
-(d) Inapplicability To Discovery. Subdivisions (a) through (c) of this rule do not apply to disclosures and discovery requests, responses, objections, and motions that are subject to the provisions of Rules 7026 through 7037.
+(3) *By the Court*. On its own, the court may enter an order describing the specific conduct that appears to violate (b) and directing an attorney, law firm, or party to show cause why it has not violated (b).
 
-(e) Verification. Except as otherwise specifically provided by these rules, papers filed in a case under the Code need not be verified. Whenever verification is required by these rules, an unsworn declaration as provided in 28 U.S.C. §1746 satisfies the requirement of verification.
+(4) *Nature of a Sanction; Limitations.*
 
-(f) Copies of Signed or Verified Papers. When these rules require copies of a signed or verified paper, it shall suffice if the original is signed or verified and the copies are conformed to the original.
+(A) *In General*. A sanction imposed under this rule must be limited to what suffices to deter repetition of the conduct or deter comparable conduct by others similarly situated. The sanction may include:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 1997, eff. Dec. 1, 1997.)
+(i) a nonmonetary directive;
+
+(ii) an order to pay a penalty into court; or
+
+(iii) if imposed on motion and warranted for effective deterrence, an order directing payment to the movant of all or part of the reasonable attorney's fees and other expenses directly resulting from the violation.
+
+(B) *Limitations on a Monetary Sanction*. The court must not impose a monetary sanction:
+
+(i) against a represented party for violating (b)(2); or
+
+(ii) on its own, unless it issued the show-cause order under (c)(3) before voluntary dismissal or settlement of the claims made by or against the party that is, or whose attorneys are, to be sanctioned.
+
+(5) *Content of a Court Order*. An order imposing a sanction must describe the sanctioned conduct and explain the basis for the sanction.
+
+(d) Inapplicability to Discovery. Subdivisions (a)–(c) do not apply to disclosures and discovery requests, responses, objections, and motions that are subject to Rules 7026–7037.
+
+(e) Verifying a Document. A document filed in a bankruptcy case need not be verified unless these rules provide otherwise. When these rules require verification, an unsworn declaration under 28 U.S.C. §1746 suffices.
+
+(f) Copies of Signed or Verified Documents. When these rules require copies of a signed or verified document, if the original is signed or verified, a copy that conforms to the original suffices.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9178,15 +11916,29 @@ The "safe harbor" provision contained in subdivision (c)(1)(A), which prohibits 
 
 *GAP Report on Rule 9011*. The proposed amendments to subdivision (a) were revised to clarify that a party not represented by an attorney must sign lists, schedules, and statements, as well as other papers that are filed.
 
-[<sup>1</sup> So in original. The comma probably should not appear.](#Rule_9011_1)
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9011 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 ### Rule 9012. Oaths and Affirmations ###
 
-(a) Persons Authorized To Administer Oaths. The following persons may administer oaths and affirmations and take acknowledgments: a bankruptcy judge, clerk, deputy clerk, United States trustee, officer authorized to administer oaths in proceedings before the courts of the United States or under the laws of the state where the oath is to be taken, or a diplomatic or consular officer of the United States in any foreign country.
+(a) Who May Administer an Oath. These persons may administer an oath or affirmation or take an acknowledgment:
 
-(b) Affirmation in Lieu of Oath. When in a case under the Code an oath is required to be taken a solemn affirmation may be accepted in lieu thereof.
+• a bankruptcy judge;
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+• a clerk;
+
+• a deputy clerk;
+
+• a United States trustee;
+
+• an officer authorized to administer oaths in a proceeding before a federal court or by state law in the state where the oath is taken; or
+
+• a United States diplomatic or consular officer in a foreign country.
+
+(b) Affirmation as an Alternative. If an oath is required, a solemn affirmation suffices.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9202,15 +11954,25 @@ The provisions of former Bankruptcy Rule 912(a) relating to who may administer o
 
 This rule is amended to conform to the 1986 amendment to §343 which provides that the United States trustee may administer the oath to the debtor at the §341 meeting. This rule also allows the United States trustee to administer oaths and affirmations and to take acknowledgments in other situations. This amendment also affects Rule 9010(c) relating to the acknowledgment of a power of attorney. The words "United States trustee" include a designee of the United States trustee pursuant to Rule 9001 and §102(9) of the Code.
 
-### Rule 9013. Motions: Form and Service ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-A request for an order, except when an application is authorized by the rules, shall be by written motion, unless made during a hearing. The motion shall state with particularity the grounds therefor, and shall set forth the relief or order sought. Every written motion, other than one which may be considered ex parte, shall be served by the moving party within the time determined under Rule 9006(d). The moving party shall serve the motion on:
+The language of Rule 9012 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(a) the trustee or debtor in possession and on those entities specified by these rules; or
+### Rule 9013. Motions; Form and Service ###
 
-(b) the entities the court directs if these rules do not require service or specify the entities to be served.
+(a) Request for an Order. A request for an order must be made by written motion unless:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 16, 2013, eff. Dec. 1, 2013.)
+(1) an application is authorized by these rules; or
+
+(2) the request is made during a hearing.
+
+(b) Form and Service of a Motion. A motion must state its grounds with particularity and set forth the relief or order requested. Unless a written motion may be considered ex parte, the movant must, within the time prescribed by Rule 9006(d), serve the motion on:
+
+• the trustee or debtor in possession and those entities specified by these rules; or
+
+• if these rules do not require service or specify the entities to be served, the entities designated by the court.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9222,19 +11984,45 @@ A cross-reference to Rule 9006(d) is added to this rule to call attention to the
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9013 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### Rule 9014. Contested Matters ###
 
-(a) Motion. In a contested matter not otherwise governed by these rules, relief shall be requested by motion, and reasonable notice and opportunity for hearing shall be afforded the party against whom relief is sought. No response is required under this rule unless the court directs otherwise.
+(a) Motion Required. In a contested matter not otherwise governed by these rules, relief must be requested by motion. Reasonable notice and an opportunity to be heard must be given to the party against whom relief is sought. No response is required unless the court orders otherwise.
 
-(b) Service. The motion shall be served in the manner provided for service of a summons and complaint by Rule 7004 and within the time determined under Rule 9006(d). Any written response to the motion shall be served within the time determined under Rule 9006(d). Any paper served after the motion shall be served in the manner provided by Rule 5(b) F.R.Civ.P.
+(b) Service.
 
-(c) Application of Part VII Rules. Except as otherwise provided in this rule, and unless the court directs otherwise, the following rules shall apply: 7009, 7017, 7021, 7025, 7026, 7028–7037, 7041, 7042, 7052, 7054–7056, 7064, 7069, and 7071. The following subdivisions of Fed. R. Civ. P. 26, as incorporated by Rule 7026, shall not apply in a contested matter unless the court directs otherwise: 26(a)(1) (mandatory disclosure), 26(a)(2) (disclosures regarding expert testimony) and 26(a)(3) (additional pre-trial disclosure), and 26(f) (mandatory meeting before scheduling conference/discovery plan). An entity that desires to perpetuate testimony may proceed in the same manner as provided in Rule 7027 for the taking of a deposition before an adversary proceeding. The court may at any stage in a particular matter direct that one or more of the other rules in Part VII shall apply. The court shall give the parties notice of any order issued under this paragraph to afford them a reasonable opportunity to comply with the procedures prescribed by the order.
+(1) *Motion*. The motion must be served within the time prescribed by Rule 9006(d) and in the manner for serving a summons and complaint provided by Rule 7004.
 
-(d) Testimony of Witnesses. Testimony of witnesses with respect to disputed material factual issues shall be taken in the same manner as testimony in an adversary proceeding.
+(2) *Response*. Any written response must be served within the time prescribed by Rule 9006(d).
 
-(e) Attendance of Witnesses. The court shall provide procedures that enable parties to ascertain at a reasonable time before any scheduled hearing whether the hearing will be an evidentiary hearing at which witnesses may testify.
+(3) *Later Filings*. After a motion is served, any other document must be served in the manner prescribed by Fed. R. Civ. P. 5(b).
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 16, 2013, eff. Dec. 1, 2013.)
+(c) Applying Part VII Rules.
+
+(1) *In General*. Unless this rule or a court order provides otherwise, the following rules apply in a contested matter: 7009, 7017, 7021, 7025–7026, 7028–7037, 7041–7042, 7052, 7054–7056, 7064, 7069, and 7071. At any stage of a contested matter, the court may order that one or more other Part VII rules apply.
+
+(2) *Exception*. Unless the court orders otherwise, the following subdivisions of Fed. R. Civ. P. 26, as incorporated by Rule 7026, do not apply in a contested matter:
+
+• (a)(1), mandatory disclosure;
+
+• (a)(2), disclosures about expert testimony;
+
+• (a)(3), other pretrial disclosures; and
+
+• (f), mandatory meeting before a scheduling conference.
+
+(3) *Procedural Order*. In issuing any procedural order under this subdivision (c), the court must give the parties notice and a reasonable opportunity to comply.
+
+(4) *Perpetuating Testimony*. An entity desiring to perpetuate testimony may do so in the manner provided by Rule 7027 for taking a deposition before an adversary proceeding.
+
+(d) Taking Testimony on a Disputed Factual Issue. A witness's testimony on a disputed material factual issue must be taken in the same manner as testimony in an adversary proceeding.
+
+(e) Determining Whether a Hearing Will Be an Evidentiary Hearing. The court must provide procedures that allow parties—at a reasonable time before a scheduled hearing—to determine whether it will be an evidentiary hearing at which witnesses may testify.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9284,19 +12072,31 @@ A cross-reference to Rule 9006(d) is added to subdivision (b) to call attention 
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9014 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in subds. (b) and (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subds. (b)(3) and (c)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 9015. Jury Trials ###
+### Rule 9015. Jury Trial ###
 
-(a) Applicability of Certain Federal Rules of Civil Procedure. Rules 38, 39, 47–49, and 51, F.R.Civ.P., and Rule 81(c) F.R.Civ.P. insofar as it applies to jury trials, apply in cases and proceedings, except that a demand made under Rule 38(b) F.R.Civ.P. shall be filed in accordance with Rule 5005.
+(a) In General. In a bankruptcy case or proceeding, Fed. R. Civ. P. 38–39, 47–49, 51, and 81(c) (insofar as it applies to jury trials) apply. But a demand for a jury trial under Fed. R. Civ. P. 38(b) must be filed in accordance with Rule 5005.
 
-(b) Consent To Have Trial Conducted by Bankruptcy Judge. If the right to a jury trial applies, a timely demand has been filed pursuant to Rule 38(b) F.R.Civ.P., and the bankruptcy judge has been specially designated to conduct the jury trial, the parties may consent to have a jury trial conducted by a bankruptcy judge under 28 U.S.C. §157(e) by jointly or separately filing a statement of consent within any applicable time limits specified by local rule.
+(b) Jury Trial Before a Bankruptcy Judge. The parties may—jointly or separately—file a statement consenting to a jury trial conducted by a bankruptcy judge under 28 U.S.C. §157(e) if:
 
-(c) Applicability of Rule 50 F.R.Civ.P. Rule 50 F.R.Civ.P. applies in cases and proceedings, except that any renewed motion for judgment or request for a new trial shall be filed no later than 14 days after the entry of judgment.
+(1) the right to a jury trial applies;
 
-(Added Apr. 11, 1997, eff. Dec. 1, 1997; amended Mar. 26, 2009, eff. Dec. 1, 2009.)
+(2) a timely demand has been filed under Fed. R. Civ. P. 38(b);
+
+(3) the bankruptcy judge has been specially designated to conduct the jury trial; and
+
+(4) the statement is filed within any time specified by local rule.
+
+(c) Judgment as a Matter of Law; Motion for a New Trial. Fed. R. Civ. P. 50 applies in a bankruptcy case or proceeding—except that a renewed motion for judgment, or a request for a new trial, must be filed within 14 days after the judgment is entered.
+
+(Added Apr. 11, 1997, eff. Dec. 1, 1997; amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1997 ####
 
@@ -9310,19 +12110,27 @@ The rule is amended by deleting Rule 50 F.R.Civ.P. from the list in subdivision 
 
 Other amendments are stylistic.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9015 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subds. (a), (b)(2), and (c), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 9016. Subpoena ###
 
-Rule 45 F.R.Civ.P. applies in cases under the Code.
+Fed. R. Civ. P. 45 applies in a bankruptcy case.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 Although Rule 7004(d) authorizes nationwide service of process, Rule 45 F.R.Civ.P. limits the subpoena power to the judicial district and places outside the district which are within 100 miles of the place of trial or hearing.
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9016 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
@@ -9330,7 +12138,9 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 ### Rule 9017. Evidence ###
 
-The Federal Rules of Evidence and Rules 43, 44 and 44.1 F.R.Civ.P. apply in cases under the Code.
+The Federal Rules of Evidence and Fed. R. Civ. P. 43, 44, and 44.1 apply in a bankruptcy case.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9338,29 +12148,61 @@ Sections 251 and 252 of Public Law 95–598, amended Rule 1101 of the Federal Ru
 
 Examples of bankruptcy rules containing matters of an evidentiary nature are: Rule 2011, evidence of debtor retained in possession; Rule 3001(f), proof of claim constitutes prima facie evidence of the amount and validity of a claim; and Rule 5007(c), sound recording of court proceedings constitutes the record of the proceedings.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9017 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
-The Federal Rules of Evidence and the Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Evidence, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 9018. Secret, Confidential, Scandalous, or Defamatory Matter ###
 
-On motion or on its own initiative, with or without notice, the court may make any order which justice requires (1) to protect the estate or any entity in respect of a trade secret or other confidential research, development, or commercial information, (2) to protect any entity against scandalous or defamatory matter contained in any paper filed in a case under the Code, or (3) to protect governmental matters that are made confidential by statute or regulation. If an order is entered under this rule without notice, any entity affected thereby may move to vacate or modify the order, and after a hearing on notice the court shall determine the motion.
+(a) In General. On motion or on its own, the court may, with or without notice, issue any order that justice requires to:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+(1) protect the estate or any entity regarding a trade secret or other confidential research, development, or commercial information;
+
+(2) protect an entity from scandalous or defamatory matter in any document filed in a bankruptcy case; or
+
+(3) protect governmental matters made confidential by statute or regulation.
+
+(b) Motion to Vacate or Modify an Order Issued Without Notice. An entity affected by an order issued under (a) without notice may move to vacate or modify it. After notice and a hearing, the court must rule on the motion.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 This rule provides the procedure for invoking the court's power under §107 of the Code.
 
-### Rule 9019. Compromise and Arbitration ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Compromise. On motion by the trustee and after notice and a hearing, the court may approve a compromise or settlement. Notice shall be given to creditors, the United States trustee, the debtor, and indenture trustees as provided in Rule 2002 and to any other entity as the court may direct.
+The language of Rule 9018 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Authority To Compromise or Settle Controversies Within Classes. After a hearing on such notice as the court may direct, the court may fix a class or classes of controversies and authorize the trustee to compromise or settle controversies within such class or classes without further hearing or notice.
+### Rule 9019. Compromise or Settlement; Arbitration ###
 
-(c) Arbitration. On stipulation of the parties to any controversy affecting the estate the court may authorize the matter to be submitted to final and binding arbitration.
+(a) Approving a Compromise or Settlement. On the trustee's motion and after notice and a hearing, the court may approve a compromise or settlement. Notice must be given to:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993.)
+• all creditors;
+
+• the United States trustee;
+
+• the debtor;
+
+• all indenture trustees as provided in Rule 2002; and
+
+• any other entity the court designates.
+
+(b) Compromising or Settling Controversies in Classes. After a hearing on such notice as the court may order, the court may:
+
+(1) designate a class or classes of controversies; and
+
+(2) authorize the trustee to compromise or settle controversies within the class or classes without further hearing or notice.
+
+(c) Arbitration of Controversies Affecting an Estate. If the parties so stipulate, the court may authorize a controversy affecting an estate to be submitted to final and binding arbitration.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9374,11 +12216,15 @@ This rule is amended to enable the United States trustee to object or otherwise 
 
 *Subdivision (a)* is amended to conform to the language of §102(1) of the Code. Other amendments are stylistic and make no substantive change.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9019 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 ### Rule 9020. Contempt Proceedings ###
 
-Rule 9014 governs a motion for an order of contempt made by the United States trustee or a party in interest.
+Rule 9014 governs a motion for a contempt order made by the United States trustee or a party in interest.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2001, eff. Dec. 1, 2001.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9416,11 +12262,15 @@ Subdivision (d), which provides that the rule shall not be construed to impair t
 
 *Changes Made After Publication and Comments*. No changes were made in the text of the proposed amendments. Stylistic changes were made to the Committee Note.
 
-### Rule 9021. Entry of Judgment ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-A judgment or order is effective when entered under Rule 5003.
+The language of Rule 9020 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Mar. 26, 2009, eff. Dec. 1, 2009.)
+### Rule 9021. When a Judgment or Order Becomes Effective ###
+
+A judgment or order becomes effective when it is entered under Rule 5003.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9440,13 +12290,29 @@ The rule is amended in connection with the amendment that adds Rule 7058. The en
 
 *Changes Made After Publication*. No changes since publication.
 
-### Rule 9022. Notice of Judgment or Order ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Judgment or Order of Bankruptcy Judge. Immediately on the entry of a judgment or order the clerk shall serve a notice of entry in the manner provided in Rule 5(b) F.R.Civ.P. on the contesting parties and on other entities as the court directs. Unless the case is a chapter 9 municipality case, the clerk shall forthwith transmit to the United States trustee a copy of the judgment or order. Service of the notice shall be noted in the docket. Lack of notice of the entry does not affect the time to appeal or relieve or authorize the court to relieve a party for failure to appeal within the time allowed, except as permitted in Rule 8002.
+The language of Rule 9021 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Judgment or Order of District Judge. Notice of a judgment or order entered by a district judge is governed by Rule 77(d) F.R.Civ.P. Unless the case is a chapter 9 municipality case, the clerk shall forthwith transmit to the United States trustee a copy of a judgment or order entered by a district judge.
+### Rule 9022. Notice of a Judgment or Order ###
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2001, eff. Dec. 1, 2001.)
+(a) Issued by a Bankruptcy Judge.
+
+(1) *In General*. Upon entering a judgment or order, the clerk must:
+
+(A) promptly serve notice of the entry on the contesting parties and other entities the court designates;
+
+(B) do so in the manner provided by Fed. R. Civ. P. 5(b);
+
+(C) except in a Chapter 9 case, promptly send a copy of the judgment or order to the United States trustee; and
+
+(D) note service on the docket.
+
+(2) *Lack of Notice; Time to Appeal*. Except as permitted by Rule 8002, lack of notice of the entry does not affect the time to appeal or relieve—or authorize the court to relieve—a party for failing to appeal within the time allowed.
+
+(b) Issued by a District Judge. Notice of a district judge's judgment or order is governed by Fed. R. Civ. P. 77(d). Except in a Chapter 9 case, the clerk must promptly send a copy of the judgment or order to the United States trustee.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9464,15 +12330,23 @@ Rule 5(b) F.R.Civ.P., which is made applicable in adversary proceedings by Rule 
 
 *Changes Made After Publication and Comments*. No changes were made.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9022 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subds. (a)(1)(B) and (b), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 9023. New Trials; Amendment of Judgments ###
+### Rule 9023. New Trial; Altering or Amending a Judgment ###
 
-Except as provided in this rule and Rule 3008, Rule 59 F.R.Civ.P. applies in cases under the Code. A motion for a new trial or to alter or amend a judgment shall be filed, and a court may on its own order a new trial, no later than 14 days after entry of judgment. In some circumstances, Rule 8008 governs post-judgment motion practice after an appeal has been docketed and is pending.
+(a) Application of Civil Rule 59. Except as this rule and Rule 3008 provide otherwise, Fed. R. Civ. P. 59 applies in a bankruptcy case.
 
-(As amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014.)
+(b) By Motion. A motion for a new trial or to alter or amend a judgment must be filed within 14 days after the judgment is entered. In some instances, Rule 8008 governs postjudgment motion practice after an appeal has been docketed and is pending.
+
+(c) By the Court. Within 14 days after judgment is entered, the court may, on its own, order a new trial.
+
+(As amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9488,15 +12362,27 @@ This rule is amended to include a cross-reference to Rule 8008. That rule govern
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9023 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subd. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 9024. Relief from Judgment or Order ###
+### Rule 9024. Relief from a Judgment or Order ###
 
-Rule 60 F.R.Civ.P. applies in cases under the Code except that (1) a motion to reopen a case under the Code or for the reconsideration of an order allowing or disallowing a claim against the estate entered without a contest is not subject to the one year limitation prescribed in Rule 60(c), (2) a complaint to revoke a discharge in a chapter 7 liquidation case may be filed only within the time allowed by §727(e) of the Code, and (3) a complaint to revoke an order confirming a plan may be filed only within the time allowed by §1144, §1230, or §1330. In some circumstances, Rule 8008 governs post-judgment motion practice after an appeal has been docketed and is pending.
+(a) In General. Fed. R. Civ. P. 60 applies in a bankruptcy case—except that:
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 25, 2014, eff. Dec. 1, 2014.)
+(1) the one-year limitation in Fed. R. Civ. P. 60(c) does not apply to a motion to reopen a case or to reconsider an uncontested order allowing or disallowing a claim against the estate;
+
+(2) a complaint to revoke a discharge in a Chapter 7 case must be filed within the time allowed by §727(e); and
+
+(3) a complaint to revoke an order confirming a plan must be filed within the time allowed by §1144, 1230, or 1330.
+
+(b) Indicative Ruling. In some instances, Rule 8008 governs postjudgment motion practice after an appeal has been docketed and is pending.
+
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9518,15 +12404,19 @@ This rule is amended to include a cross-reference to Rule 8008. That rule govern
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9024 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subd. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 9025. Security: Proceedings Against Security Providers ###
+### Rule 9025. Security; Proceeding Against a Security Provider ###
 
-Whenever the Code or these rules require or permit a party to give security, and security is given with one or more security providers, each provider submits to the jurisdiction of the court, and liability may be determined in an adversary proceeding governed by the rules in Part VII.
+When the Code or these rules require or permit a party to give security and the party gives security with one or more security providers, each provider submits to the court's jurisdiction. Liability may be determined in an adversary proceeding governed by the Part VII rules.
 
-(As amended Apr. 26, 2018, eff. Dec. 1, 2018)
+(As amended Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9536,47 +12426,101 @@ This rule is an adaptation of Rule 65.1 F.R.Civ.P. and applies to any surety on 
 
 This rule is amended to reflect the amendment of Rule 62 F.R.Civ.P., which is made applicable to adversary proceedings by Rule 7062. Rule 62 allows a party to obtain a stay of a judgment "by providing a bond or other security." Limiting this rule's enforcement procedures to sureties might exclude use of those procedures against a security provider that is not a surety. All security providers are brought into the rule by these amendments.
 
-### Rule 9026. Exceptions Unnecessary ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-Rule 46 F.R.Civ.P. applies in cases under the Code.
+The language of Rule 9025 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+### Rule 9026. Objecting to a Ruling or Order ###
+
+Fed. R. Civ. P. 46 applies in a bankruptcy case.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9026 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 9027. Removal ###
+### Rule 9027. Removing a Claim or Cause of Action from Another Court ###
 
 (a) Notice of Removal.
 
-(1) *Where Filed; Form and Content*. A notice of removal shall be filed with the clerk for the district and division within which is located the state or federal court where the civil action is pending. The notice shall be signed pursuant to Rule 9011 and contain a short and plain statement of the facts which entitle the party filing the notice to remove, contain a statement that upon removal of the claim or cause of action, the party filing the notice does or does not consent to entry of final orders or judgment by the bankruptcy court, and be accompanied by a copy of all process and pleadings.
+(1) *Where Filed; Form and Content*. A notice of removal must be filed with the clerk for the district and division where the state or federal civil action is pending. The notice must be signed under Rule 9011 and must:
 
-(2) *Time for Filing; Civil Action Initiated Before Commencement of the Case Under the Code*. If the claim or cause of action in a civil action is pending when a case under the Code is commenced, a notice of removal may be filed only within the longest of (A) 90 days after the order for relief in the case under the Code, (B) 30 days after entry of an order terminating a stay, if the claim or cause of action in a civil action has been stayed under §362 of the Code, or (C) 30 days after a trustee qualifies in a chapter 11 reorganization case but not later than 180 days after the order for relief.
+(A) contain a short and plain statement of the facts that entitle the party to remove;
 
-(3) *Time for filing; civil action initiated after commencement of the case under the Code*. If a claim or cause of action is asserted in another court after the commencement of a case under the Code, a notice of removal may be filed with the clerk only within the shorter of (A) 30 days after receipt, through service or otherwise, of a copy of the initial pleading setting forth the claim or cause of action sought to be removed, or (B) 30 days after receipt of the summons if the initial pleading has been filed with the court but not served with the summons.
+(B) contain a statement that the party filing the notice does or does not consent to the bankruptcy court's entry of a final judgment or order; and
 
-(b) Notice. Promptly after filing the notice of removal, the party filing the notice shall serve a copy of it on all parties to the removed claim or cause of action.
+(C) be accompanied by a copy of all process and pleadings.
 
-(c) Filing in Non-Bankruptcy Court. Promptly after filing the notice of removal, the party filing the notice shall file a copy of it with the clerk of the court from which the claim or cause of action is removed. Removal of the claim or cause of action is effected on such filing of a copy of the notice of removal. The parties shall proceed no further in that court unless and until the claim or cause of action is remanded.
+(2) *Time to File When the Claim Was Filed Before the Bankruptcy Case Is Commenced*. If the claim or cause of action in a civil action is pending when a bankruptcy case is commenced, the notice of removal must be filed within the longest of these periods:
 
-(d) Remand. A motion for remand of the removed claim or cause of action shall be governed by Rule 9014 and served on the parties to the removed claim or cause of action.
+(A) 90 days after the order for relief in the bankruptcy case;
+
+(B) if the claim or cause of action has been stayed under §362, 30 days after an order terminating the stay is entered; or
+
+(C) in a Chapter 11 case, 30 days after a trustee qualifies—but no later than 180 days after the order for relief.
+
+(3) *Time to File When the Claim Is Filed After the Bankruptcy Case Was Commenced*. If a claim or cause of action is asserted in another court after the bankruptcy case was commenced, a party filing a notice of removal must do so within the shorter of these periods:
+
+(A) 30 days after receiving (by service or otherwise) the initial pleading setting forth the claim or cause of action sought to be removed; or
+
+(B) 30 days after receiving the summons if the initial pleading has been filed but not served with the summons.
+
+(b) Notice to Other Parties and to the Court from Which the Claim Was Removed. A party filing a notice of removal must promptly:
+
+(1) serve a copy on all other parties to the removed claim or cause of action; and
+
+(2) file a copy with the clerk of the court from which it was removed.
+
+(c) Effective Date of Removal. Removal becomes effective when the notice is filed under (b)(2). The parties must proceed no further in the court from which the claim or cause of action was removed, unless it is remanded.
+
+(d) Remand After Removal. A motion to remand is governed by Rule 9014. The party filing the motion must serve a copy on all parties to the removed claim or cause of action.
 
 (e) Procedure After Removal.
 
-(1) After removal of a claim or cause of action to a district court the district court or, if the case under the Code has been referred to a bankruptcy judge of the district, the bankruptcy judge, may issue all necessary orders and process to bring before it all proper parties whether served by process issued by the court from which the claim or cause of action was removed or otherwise.
+(1) *Bringing Proper Parties Before the Court*. After removal, the district court—or the bankruptcy judge to whom the bankruptcy case has been referred—may issue all necessary orders and process to bring before it all proper parties. It does not matter whether they were served by process issued by the court from which the claim or cause of action was removed, or otherwise.
 
-(2) The district court or, if the case under the Code has been referred to a bankruptcy judge of the district, the bankruptcy judge, may require the party filing the notice of removal to file with the clerk copies of all records and proceedings relating to the claim or cause of action in the court from which the claim or cause of action was removed.
+(2) *Records of Prior Proceedings*. The judge may require the party filing the notice of removal to file with the clerk copies of all records and proceedings relating to the claim or cause of action that were filed in the court from which the removal occurred.
 
-(3) Any party who has filed a pleading in connection with the removed claim or cause of action, other than the party filing the notice of removal, shall file a statement that the party does or does not consent to entry of final orders or judgment by the bankruptcy court. A statement required by this paragraph shall be signed pursuant to Rule 9011 and shall be filed not later than 14 days after the filing of the notice of removal. Any party who files a statement pursuant to this paragraph shall mail a copy to every other party to the removed claim or cause of action.
+(3) *Statement by a Party Other Than the Removing Party*. A party who has filed a pleading regarding a removed claim or cause of action—except the party filing the notice of removal—must:
 
-(f) Process After Removal. If one or more of the defendants has not been served with process, the service has not been perfected prior to removal, or the process served proves to be defective, such process or service may be completed or new process issued pursuant to Part VII of these rules. This subdivision shall not deprive any defendant on whom process is served after removal of the defendant's right to move to remand the case.
+(A) file a statement that the party does or does not consent to the bankruptcy court's entry of a final order or judgment;
 
-(g) Applicability of Part VII. The rules of Part VII apply to a claim or cause of action removed to a district court from a federal or state court and govern procedure after removal. Repleading is not necessary unless the court so orders. In a removed action in which the defendant has not answered, the defendant shall answer or present the other defenses or objections available under the rules of Part VII within 21 days following the receipt through service or otherwise of a copy of the initial pleading setting forth the claim for relief on which the action or proceeding is based, or within 21 days following the service of summons on such initial pleading, or within seven days following the filing of the notice of removal, whichever period is longest.
+(B) sign the statement under Rule 9011;
 
-(h) Record Supplied. When a party is entitled to copies of the records and proceedings in any civil action or proceeding in a federal or a state court, to be used in the removed civil action or proceeding, and the clerk of the federal or state court, on demand accompanied by payment or tender of the lawful fees, fails to deliver certified copies, the court may, on affidavit reciting the facts, direct such record to be supplied by affidavit or otherwise. Thereupon the proceedings, trial and judgment may be had in the court, and all process awarded, as if certified copies had been filed.
+(C) file it within 14 days after the notice of removal is filed; and
 
-(i) Attachment or Sequestration; Securities. When a claim or cause of action is removed to a district court, any attachment or sequestration of property in the court from which the claim or cause of action was removed shall hold the property to answer the final judgment or decree in the same manner as the property would have been held to answer final judgment or decree had it been rendered by the court from which the claim or cause of action was removed. All bonds, undertakings, or security given by either party to the claim or cause of action prior to its removal shall remain valid and effectual notwithstanding such removal. All injunctions issued, orders entered and other proceedings had prior to removal shall remain in full force and effect until dissolved or modified by the court.
+(D) mail a copy to every other party to the removed claim or cause of action.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(f) Process Regarding a Defendant After Removal. If a defendant has not been served—or service has not been completed before removal or has been proved defective—then process or service may be completed or new process issued under the Part VII rules. A defendant served after removal may move to remand the claim or cause of action.
+
+(g) Applying Part VII Rules.
+
+(1) *In General*. The Part VII rules apply to a claim or cause of action removed to a district court from a federal or state court, and they govern the procedure after removal. Repleading is not necessary unless the court orders otherwise.
+
+(2) *Time to File an Answer*. In a removed action, a defendant that has not previously done so must file an answer—or present other defenses or objections available under the Part VII rules. The defendant must do so within the longest of these periods:
+
+(A) 21 days after receiving—by service or otherwise—a copy of the initial pleading that sets forth the claim for relief;
+
+(B) 21 days after a summons on the original pleading was served; or
+
+(C) 7 days after the notice of removal was filed.
+
+(h) Clerk's Failure to Supply Certified Records of Court Proceedings. If a party is entitled to copies of the records and proceedings in a civil action or proceeding in a federal or state court for use in the removed action or proceeding, the party may demand certified copies from that court's clerk. After the party pays for them or tenders the fees, if the clerk fails to provide them, the court to which the action or proceeding is removed may—after receiving an affidavit stating these facts—order that the record be supplied by affidavit or otherwise. The court may then proceed to trial and judgment, and may award all process, as if certified copies had been filed.
+
+(i) Property Attached or Sequestered; Security; Injunction.
+
+(1) *Property Attached or Sequestered*. The court from which a claim or cause of action has been removed must hold attached or sequestered property to answer the final judgment or decree in the same way it would have been held had there been no removal.
+
+(2) *Security*. Any bond, undertaking, or security given by either party before the removal remains valid.
+
+(3) *Injunction*. Any injunction or order issued, or other proceeding had, before the removal remains in effect until dissolved or modified by the court.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9654,11 +12598,15 @@ Subdivisions (a)(1) and (e)(3) are amended to delete the requirement for a state
 
 The party filing the notice of removal must include a statement regarding consent in the notice, and the other parties who have filed pleadings must respond in a separate statement filed within 14 days after removal. If a party to the removed claim or cause of action has not filed a pleading prior to removal, however, there is no need to file a separate statement under subdivision (e)(3), because a statement regarding consent must be included in a responsive pleading filed pursuant to Rule 7012(b). Rule 7016 governs the bankruptcy court's decision whether to hear and determine the proceeding, issue proposed findings of fact and conclusions of law, or take some other action in the proceeding.
 
-### Rule 9028. Disability of a Judge ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-Rule 63 F.R.Civ.P. applies in cases under the Code.
+The language of Rule 9027 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+### Rule 9028. Judge's Disability ###
+
+Fed. R. Civ. P. 63 applies in a bankruptcy case.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9668,21 +12616,33 @@ This rule is an adaptation of Rule 63 F.R.Civ.P.
 
 Rule 9028 has been changed to adopt the procedures contained in Rule 63 of the Federal Rules of Civil Procedure for substituting a judge in the event of disability.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9028 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 9029. Local Bankruptcy Rules; Procedure When There is No Controlling Law ###
+### Rule 9029. Adopting Local Rules; Limit on Enforcing a Local Rule; Absence of Controlling Law ###
 
-(a) Local Bankruptcy Rules.
+(a) Adopting Local Rules.
 
-(1) Each district court acting by a majority of its district judges may make and amend rules governing practice and procedure in all cases and proceedings within the district court's bankruptcy jurisdiction which are consistent with—but not duplicative of—Acts of Congress and these rules and which do not prohibit or limit the use of the Official Forms. Rule 83 F.R.Civ.P. governs the procedure for making local rules. A district court may authorize the bankruptcy judges of the district, subject to any limitation or condition it may prescribe and the requirements of 83 F.R.Civ.P., to make and amend rules of practice and procedure which are consistent with—but not duplicative of—Acts of Congress and these rules and which do not prohibit or limit the use of the Official Forms. Local rules shall conform to any uniform numbering system prescribed by the Judicial Conference of the United States.
+(1) *By District Courts*. Each district court, acting by a majority of its judges, may make and amend rules governing practice and procedure in all cases and proceedings within its bankruptcy jurisdiction. Fed. R. Civ. P. 83 governs the procedure for adopting local rules. The rules must:
 
-(2) A local rule imposing a requirement of form shall not be enforced in a manner that causes a party to lose rights because of a nonwillful failure to comply with the requirement.
+(A) be consistent with—but not duplicate—Acts of Congress and these rules;
 
-(b) Procedure When There is No Controlling Law. A judge may regulate practice in any manner consistent with federal law, these rules, Official Forms, and local rules of the district. No sanction or other disadvantage may be imposed for noncompliance with any requirement not in federal law, federal rules, Official Forms, or the local rules of the district unless the alleged violator has been furnished in the particular case with actual notice of the requirement.
+(B) not prohibit or limit using Official Forms; and
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 27, 1995, eff. Dec. 1, 1995.)
+(C) conform to any uniform numbering system prescribed by the Judicial Conference of the United States.
+
+(2) *Delegating Authority to the Bankruptcy Judges*. A district court may—subject to any limitation or condition it may prescribe and Fed. R. Civ. P. 83—authorize the district's bankruptcy judges to make and amend local bankruptcy rules.
+
+(b) Limit on Enforcing a Local Rule Regarding Form. A local rule imposing a requirement of form must not be enforced in a way that causes a party to lose any right because of a nonwillful failure to comply.
+
+(c) Procedure When There Is No Controlling Law. A judge may regulate practice in any manner consistent with federal law, these rules, the Official Forms, and the district's local rules. For any requirement set out elsewhere, a sanction or other disadvantage may be imposed for noncompliance only if the alleged violator was given actual notice of the requirement in the particular case.
+
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -9712,59 +12672,83 @@ This rule recognizes that courts rely on multiple directives to control practice
 
 There should be no adverse consequence to a party or attorney for violating special requirements relating to practice before a particular judge unless the party or attorney has actual notice of those requirements. Furnishing litigants with a copy outlining the judge's practices—or attaching instructions to a notice setting a case for conference or trial—would suffice to give actual notice, as would an order in a case specifically adopting by reference a judge's standing order and indicating how copies can be obtained.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9029 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in subd. (a)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subd. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 9030. Jurisdiction and Venue Unaffected ###
+### Rule 9030. Jurisdiction and Venue Not Extended or Limited ###
 
-These rules shall not be construed to extend or limit the jurisdiction of the courts or the venue of any matters therein.
+These rules must not be construed to extend or limit the courts' jurisdiction or the venue of any matters.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 The rule is an adaptation of Rule 82 F.R.Civ.P.
 
-### Rule 9031. Masters Not Authorized ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-Rule 53 F.R.Civ.P. does not apply in cases under the Code.
+The language of Rule 9030 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+### Rule 9031. Using Masters Not Authorized ###
+
+Fed. R. Civ. P. 53 does not apply in a bankruptcy case.
+
+(As amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
 This rule precludes the appointment of masters in cases and proceedings under the Code.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9031 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 9032. Effect of Amendment of Federal Rules of Civil Procedure ###
+### Rule 9032. Effect of an Amendment to the Federal Rules of Civil Procedure ###
 
-The Federal Rules of Civil Procedure which are incorporated by reference and made applicable by these rules shall be the Federal Rules of Civil Procedure in effect on the effective date of these rules and as thereafter amended, unless otherwise provided by such amendment or by these rules.
+To the extent these rules incorporate by reference the Federal Rules of Civil Procedure, an amendment to those rules is also effective under these rules, unless the amendment or these rules provide otherwise.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991.)
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1991 Amendment ####
 
 This rule is amended to provide flexibility so that the Bankruptcy Rules may provide that subsequent amendments to a Federal Rule of Civil Procedure made applicable by these rules are not effective with regard to Bankruptcy Code cases or proceedings. For example, in view of the anticipated amendments to, and restructuring of, Rule 4 F.R.Civ.P., Rule 7004(g) will prevent such changes from affecting Bankruptcy Code cases until the Advisory Committee on Bankruptcy Rules has an opportunity to consider such amendments and to make appropriate recommendations for incorporating such amendments into the Bankruptcy Rules.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9032 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The effective date of these rules, referred to in text, is Aug. 1, 1983. See Effective Date note set out preceding Rule 1001 of this Appendix.
-
 ### Rule 9033. Proposed Findings of Fact and Conclusions of Law ###
 
-(a) Service. In a proceeding in which the bankruptcy court has issued proposed findings of fact and conclusions of law, the clerk shall serve forthwith copies on all parties by mail and note the date of mailing on the docket.
+(a) Service. When a bankruptcy court issues proposed findings of fact and conclusions of law, the clerk must promptly serve a copy, by mail, on every party and must note the date of mailing on the docket.
 
-(b) Objections: Time for Filing. Within 14 days after being served with a copy of the proposed findings of fact and conclusions of law a party may serve and file with the clerk written objections which identify the specific proposed findings or conclusions objected to and state the grounds for such objection. A party may respond to another party's objections within 14 days after being served with a copy thereof. A party objecting to the bankruptcy judge's proposed findings or conclusions shall arrange promptly for the transcription of the record, or such portions of it as all parties may agree upon or the bankruptcy judge deems sufficient, unless the district judge otherwise directs.
+(b) Objections; Time to File.
 
-(c) Extension of Time. The bankruptcy judge may for cause extend the time for filing objections by any party for a period not to exceed 21 days from the expiration of the time otherwise prescribed by this rule. A request to extend the time for filing objections must be made before the time for filing objections has expired, except that a request made no more than 21 days after the expiration of the time for filing objections may be granted upon a showing of excusable neglect.
+(1) *Time to File*. Within 14 days after being served, a party may file and serve objections. They must identify each proposed finding or conclusion objected to and state the grounds for objecting. A party may respond to another party's objections within 14 days after being served with a copy.
 
-(d) Standard of Review. The district judge shall make a de novo review upon the record or, after additional evidence, of any portion of the bankruptcy judge's findings of fact or conclusions of law to which specific written objection has been made in accordance with this rule. The district judge may accept, reject, or modify the proposed findings of fact or conclusions of law, receive further evidence, or recommit the matter to the bankruptcy judge with instructions.
+(2) *Ordering a Transcript*. Unless the district judge orders otherwise, a party filing objections must promptly order a transcript of the record, or the parts of it that all parties agree are—or the bankruptcy judge considers to be—sufficient.
 
-(Added Mar. 30, 1987, eff. Aug. 1, 1987; amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(3) *Extending the Time*. On request made before the time to file objections expires, the bankruptcy judge may, for cause, extend any party's time to file for no more than 21 days after the time otherwise expires. But a request made within 21 days after that time expires may be granted upon a showing of excusable neglect.
+
+(c) Review by the District Judge. The district judge:
+
+(1) must review de novo—on the record or after receiving additional evidence—any part of the bankruptcy judge's findings of fact or conclusions of law to which specific written objection has been made under (b); and
+
+(2) may accept, reject, or modify the proposed findings of fact or conclusions of law, take additional evidence, or remand the matter to the bankruptcy judge with instructions.
+
+(Added Mar. 30, 1987, eff. Aug. 1, 1987; amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1987 ####
 
@@ -9796,9 +12780,13 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 Subdivision (a) is amended to delete language limiting this provision to non-core proceedings. Some proceedings that satisfy the statutory definition of core proceedings, 28 U.S.C. §157(b)(2), may remain beyond the constitutional power of a bankruptcy judge to adjudicate finally. If the bankruptcy court decides, pursuant to Rule 7016, that it is appropriate to issue proposed findings of fact and conclusions of law in a proceeding, this rule governs the subsequent procedures.
 
-### Rule 9034. Transmittal of Pleadings, Motion Papers, Objections, and Other Papers to the United States Trustee ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-Unless the United States trustee requests otherwise or the case is a chapter 9 municipality case, any entity that files a pleading, motion, objection, or similar paper relating to any of the following matters shall transmit a copy thereof to the United States trustee within the time required by these rules for service of the paper:
+The language of Rule 9033 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+### Rule 9034. Sending Copies to the United States Trustee ###
+
+Except in a Chapter 9 case or when the United States trustee requests otherwise, an entity filing a pleading, motion, objection, or similar document relating to any of the following must send a copy to the United States trustee within the time required for service:
 
 (a) a proposed use, sale, or lease of property of the estate other than in the ordinary course of business;
 
@@ -9806,23 +12794,23 @@ Unless the United States trustee requests otherwise or the case is a chapter 9 m
 
 (c) the dismissal or conversion of a case to another chapter;
 
-(d) the employment of professional persons;
+(d) the employment of a professional person;
 
 (e) an application for compensation or reimbursement of expenses;
 
-(f) a motion for, or approval of an agreement relating to, the use of cash collateral or authority to obtain credit;
+(f) a motion for, or the approval of an agreement regarding, the use of cash collateral or authority to obtain credit;
 
-(g) the appointment of a trustee or examiner in a chapter 11 reorganization case;
+(g) the appointment of a trustee or examiner in a Chapter 11 case;
 
 (h) the approval of a disclosure statement;
 
 (i) the confirmation of a plan;
 
-(j) an objection to, or waiver or revocation of, the debtor's discharge;
+(j) an objection to, or waiver or revocation of, the debtor's discharge; or
 
-(k) any other matter in which the United States trustee requests copies of filed papers or the court orders copies transmitted to the United States trustee.
+(k) any other matter in which the United States trustee requests copies of filed documents or the court orders copies sent to the United States trustee.
 
-(Added Apr. 30, 1991, eff. Aug. 1, 1991.)
+(Added Apr. 30, 1991, eff. Aug. 1, 1991; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1991 ####
 
@@ -9830,11 +12818,15 @@ Section 307 of the Code gives the United States trustee the right to appear and 
 
 Although other rules require that certain notices be transmitted to the United States trustee, this rule goes further in that it requires the transmittal to the United States trustee of other papers filed in connection with these matters. This rule is not an exhaustive list of the matters of which the United States trustee may be entitled to receive notice.
 
-### Rule 9035. Applicability of Rules in Judicial Districts in Alabama and North Carolina ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-In any case under the Code that is filed in or transferred to a district in the State of Alabama or the State of North Carolina and in which a United States trustee is not authorized to act, these rules apply to the extent that they are not inconsistent with any federal statute effective in the case.
+The language of Rule 9034 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(Added Apr. 30, 1991, eff. Aug. 1, 1991; amended Apr. 11, 1997, eff. Dec. 1, 1997.)
+### Rule 9035. Applying These Rules in a Judicial District in Alabama or North Carolina ###
+
+In a bankruptcy case filed in or transferred to a district in Alabama or North Carolina and in which a United States trustee is not authorized to act, these rules apply to the extent they are not inconsistent with any applicable federal statute.
+
+(Added Apr. 30, 1991, eff. Aug. 1, 1991; amended Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1991 ####
 
@@ -9876,27 +12868,31 @@ Certain statutes that are not codified in title 11 or title 28 of the United Sta
 
 *GAP Report on Rule 9035*. No changes to the published draft.
 
-### Rule 9036. Notice and Service by Electronic Transmission ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) In General. This rule applies whenever these rules require or permit sending a notice or serving a paper by mail or other means.
+The language of Rule 9035 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(b) Notices From and Service by the Court.
+### Rule 9036. Electronic Notice and Service ###
 
-(1) *Registered Users*. The clerk may send notice to or serve a registered user by filing the notice or paper with the court's electronic-filing system.
+(a) In General. This rule applies whenever these rules require or permit sending a notice or serving a document by mail or other means.
 
-(2) *All Recipients*. For any recipient, the clerk may send notice or serve a paper by electronic means that the recipient consented to in writing, including by designating an electronic address for receipt of notices. But these exceptions apply:
+(b) Notices from and Service by the Court.
 
-(A) if the recipient has registered an electronic address with the Administrative Office of the United States Courts' bankruptcy-noticing program, the clerk shall send the notice to or serve the paper at that address; and
+(1) *To Registered Users*. The clerk may send notice to or serve a registered user by filing the notice or document with the court's electronic-filing system.
 
-(B) if an entity has been designated by the Director of the Administrative Office of the United States Courts as a high-volume paper-notice recipient, the clerk may send the notice to or serve the paper electronically at an address designated by the Director, unless the entity has designated an address under §342(e) or (f) of the Code.
+(2) *To All Recipients*. For any recipient, the clerk may send notice or serve a document by electronic means that the recipient consented to in writing, including by designating an electronic address for receiving notices. But these exceptions apply:
 
-(c) Notices From and Service by an Entity. An entity may send notice or serve a paper in the same manner that the clerk does under (b), excluding (b)(2)(A) and (B).
+(A) if the recipient has registered an electronic address with the Administrative Office of the United States Courts' bankruptcy-noticing program, the clerk must use that address; and
 
-(d) Completing Notice or Service. Electronic notice or service is complete upon filing or sending but is not effective if the filer or sender receives notice that it did not reach the person to be served. It is the recipient's responsibility to keep its electronic address current with the clerk.
+(B) if an entity has been designated by the Director of the Administrative Office of the United States Courts as a high-volume paper-notice recipient, the clerk may send the notice to or serve the document electronically at an address designated by the Director, unless the entity has designated an address under §342(e) or (f).
 
-(e) Inapplicability. This rule does not apply to any paper required to be served in accordance with Rule 7004.
+(c) Notices from and Service by an Entity. An entity may send notice or serve a document in the same manner that the clerk does under (b), excluding (b)(2)(A) and (B).
 
-(Added Apr. 22, 1993, eff. Aug. 1, 1993; amended Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 14, 2021, eff. Dec. 1, 2021.)
+(d) When Notice or Service Is Complete; Keeping an Address Current. Electronic notice or service is complete upon filing or sending but is not effective if the filer or sender receives notice that it did not reach the person to be notified or served. The recipient must keep its electronic address current with the clerk.
+
+(e) Inapplicability. This rule does not apply to any document required to be served in accordance with Rule 7004.
+
+(Added Apr. 22, 1993, eff. Aug. 1, 1993; amended Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1993 ####
 
@@ -9932,11 +12928,15 @@ The rule is also reorganized to separate methods of electronic noticing and serv
 
 The title of the rule is revised to more accurately reflect the rule's applicability to methods of electronic noticing and service. Rule 9036 does not preclude noticing and service by physical means otherwise authorized by the court or these rules.
 
-### Rule 9037. Privacy Protection For Filings Made with the Court ###
+#### Committee Notes on Rules—2024 Amendment ####
 
-(a) Redacted Filings. Unless the court orders otherwise, in an electronic or paper filing made with the court that contains an individual's social-security number, taxpayer-identification number, or birth date, the name of an individual, other than the debtor, known to be and identified as a minor, or a financial-account number, a party or nonparty making the filing may include only:
+The language of Rule 9036 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
-(1) the last four digits of the social-security number and taxpayer-identification number;
+### Rule 9037. Protecting Privacy for Filings; ###
+
+(a) Redacted Filings. Unless the court orders otherwise, in an electronic or paper filing with the court that contains an individual's social-security number, taxpayer-identification number, or birth date, the name of an individual other than the debtor known to be and identified as a minor, or a financial-account number, a party or nonparty making the filing may include only:
+
+(1) the last four digits of a social-security <sup><a href="#Rule_9037_1_target" name="Rule_9037_1">1</a></sup> and taxpayer-identification number;
 
 (2) the year of the individual's birth;
 
@@ -9944,49 +12944,61 @@ The title of the rule is revised to more accurately reflect the rule's applicabi
 
 (4) the last four digits of the financial-account number.
 
-(b) Exemptions From the Redaction Requirement. The redaction requirement does not apply to the following:
+(b) Exemptions from the Redaction Requirement. The redaction requirement does not apply to the following:
 
 (1) a financial-account number that identifies the property allegedly subject to forfeiture in a forfeiture proceeding;
 
-(2) the record of an administrative or agency proceeding unless filed with a proof of claim;
+(2) the record of an administrative or agency proceeding, unless filed with a proof of claim;
 
 (3) the official record of a state-court proceeding;
 
 (4) the record of a court or tribunal, if that record was not subject to the redaction requirement when originally filed;
 
-(5) a filing covered by subdivision (c) of this rule; and
+(5) a filing covered by (c); and
 
-(6) a filing that is subject to §110 of the Code.
+(6) a filing subject to §110.
 
-(c) Filings Made Under Seal. The court may order that a filing be made under seal without redaction. The court may later unseal the filing or order the entity that made the filing to file a redacted version for the public record.
+(c) Filings Made Under Seal. The court may order that a filing be made under seal without redaction. The court may later unseal the filing or order the entity that made it to file a redacted version for the public record.
 
-(d) Protective Orders. For cause, the court may by order in a case under the Code:
+(d) Protective Orders. For cause, the court may by order in a case:
 
 (1) require redaction of additional information; or
 
 (2) limit or prohibit a nonparty's remote electronic access to a document filed with the court.
 
-(e) Option for Additional Unredacted Filing Under Seal. An entity making a redacted filing may also file an unredacted copy under seal. The court must retain the unredacted copy as part of the record.
+(e) Option for Additional Unredacted Document Under Seal. An entity filing a redacted document may also file an unredacted copy under seal. The court must retain the unredacted copy as part of the record.
 
-(f) Option for Filing a Reference List. A filing that contains redacted information may be filed together with a reference list that identifies each item of redacted information and specifies an appropriate identifier that uniquely corresponds to each item listed. The list must be filed under seal and may be amended as of right. Any reference in the case to a listed identifier will be construed to refer to the corresponding item of information.
+(f) Option for Filing a Reference List. A filing that contains redacted information may be filed together with a reference list that identifies each item of redacted information and specifies an appropriate identifier that uniquely corresponds to each item listed. The list must be filed under seal and may be amended as of right. A reference in the case to a listed identifier will be construed to refer to the corresponding item of information.
 
-(g) Waiver of Protection of Identifiers. An entity waives the protection of subdivision (a) as to the entity's own information by filing it without redaction and not under seal.
+(g) Waiver of Protection of Identifiers. An entity waives the protection of (a) for the entity's own information by filing it without redaction and not under seal.
 
-(h) Motion To Redact a Previously Filed Document.
+(h) Motion to Redact a Previously Filed Document.
 
-(1) *Content of the Motion; Service*. Unless the court orders otherwise, if an entity seeks to redact from a previously filed document information that is protected under subdivision (a), the entity must:	
+(1) *Content; Service*. Unless the court orders otherwise, an entity seeking to redact from a previously filed document information that is protected under (a) must:
 
-(A) file a motion to redact identifying the proposed redactions;
+(A) file a motion that identifies the proposed redactions;
 
-(B) attach to the motion the proposed redacted document;
+(B) attach to it the proposed redacted document;
 
-(C) include in the motion the docket or proof-of-claim number of the previously filed document; and
+(C) include the docket number—or proof-of-claim number—of the previously filed document; and
 
-(D) serve the motion and attachment on the debtor, debtor's attorney, trustee (if any), United States trustee, filer of the unredacted document, and any individual whose personal identifying information is to be redacted.
+(D) serve the motion and attachment on:
 
-(2) *Restricting Public Access to the Unredacted Document; Docketing the Redacted Document*. The court must promptly restrict public access to the motion and the unredacted document pending its ruling on the motion. If the court grants it, the court must docket the redacted document. The restrictions on public access to the motion and unredacted document remain in effect until a further court order. If the court denies it, the restrictions must be lifted, unless the court orders otherwise.
+• the debtor;
 
-(Added Apr. 30, 2007, eff. Dec. 1, 2007; amended Apr. 25, 2019, eff. Dec. 1, 2019.)
+• the debtor's attorney;
+
+• any trustee;
+
+• the United States trustee;
+
+• the entity that filed the unredacted document; and
+
+• any individual whose personal identifying information is to be redacted.
+
+(2) *Restricting Public Access to the Unredacted Document; Docketing the Redacted Document*. Pending its ruling, the court must promptly restrict access to the motion and the unredacted document. If the court grants the motion, the clerk must docket the redacted document. The restrictions on public access to the motion and unredacted document remain in effect until a further court order. If the court denies the motion, the restrictions must be lifted, unless the court orders otherwise.
+
+(Added Apr. 30, 2007, eff. Dec. 1, 2007; amended Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2007 ####
 
@@ -10030,6 +13042,12 @@ If the court grants the motion to redact, the court must docket the redacted doc
 
 This procedure does not affect the availability of any remedies that an individual whose personal identifiers are exposed may have against the entity that filed the unredacted document.
 
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9037 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+[<sup>1</sup> So in original. Probably should be followed by "number".](#Rule_9037_1)
+
 ### Rule 9038. Bankruptcy Rules Emergency ###
 
 (a) Conditions for an Emergency. The Judicial Conference of the United States may declare a Bankruptcy Rules emergency if it determines that extraordinary circumstances relating to public health or safety, or affecting physical or electronic access to a bankruptcy court, substantially impair the court's ability to perform its functions in compliance with these rules.
@@ -10068,7 +13086,7 @@ This procedure does not affect the availability of any remedies that an individu
 
 (5) *Exception*. A time period imposed by statute may not be extended or tolled.
 
-(Added Apr. 24, 2023, eff. Dec. 1, 2023.)
+(Added Apr. 24, 2023, eff. Dec. 1, 2023; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Committee Notes on Rules—2023 ####
 
@@ -10087,6 +13105,10 @@ Subdivision (c)(3), which addresses the termination of extensions and tolling, p
 Subdivision (c)(4) allows fine tuning in individual cases of extensions of time or tollings that have been granted.
 
 Subdivision (c)(5) excepts from the authority to extend time periods any time provision imposed by statute. The Bankruptcy Rules Enabling Act, 28 U.S.C. §2075, does not authorize the Bankruptcy Rules to supersede conflicting laws. Accordingly, a time limit in a rule that is a restatement of a deadline imposed by statute or an incorporation by reference of such a deadline may not be extended under this rule. However, if a statute merely incorporates by reference a time period imposed by a rule, that period may be extended.
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The language of Rule 9038 has been amended as part of the general restyling of the Bankruptcy Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
 
 #### References in Text ####
 

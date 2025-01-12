@@ -36,13 +36,13 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 FEDERAL RULES OF APPELLATE PROCEDURE
 ==========
 
-(As amended to December 26, 2023)
+(As amended to December 1, 2024)
 
 #### Historical Note ####
 
 The Federal Rules of Appellate Procedure were adopted by order of the Supreme Court on Dec. 4, 1967, transmitted to Congress by the Chief Justice on Jan. 15, 1968, and became effective on July 1, 1968.
 
-The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023.
+The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 14, 2021, eff. Dec. 1, 2021; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023; Apr. 2, 2024, eff. Dec. 1, 2024.
 
 #### TITLE I. APPLICABILITY OF RULES ####
 
@@ -142,7 +142,7 @@ Rule
 
 34. Oral Argument.
 
-35. En Banc Determination.
+[35. Transferred.]
 
 36. Entry of Judgment; Notice.
 
@@ -152,7 +152,7 @@ Rule
 
 39. Costs.
 
-40. Petition for Panel Rehearing.
+40. Panel Rehearing; En Banc Determination.
 
 41. Mandate: Contents; Issuance and Effective Date; Stay.
 
@@ -890,9 +890,9 @@ When a Civil Rules emergency has been declared, however, if a district court gra
 
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in subd. (a)(4), (6), (7), are set out in this Appendix.
+The Federal Rules of Civil Procedure, referred to in subd. (a)(4)(A), (6)(A), (B), (7), are set out in this Appendix.
 
-The Federal Rules of Criminal Procedure, referred to in subd. (b)(3), (5), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+The Federal Rules of Criminal Procedure, referred to in subd. (b)(3)(A), (5), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Amendment by Public Law ####
 
@@ -1154,7 +1154,7 @@ The amendment replaces Form 1 with Forms 1A and 1B to conform to the amendment t
 
 #### References in Text ####
 
-The Bankruptcy Rules, referred to in subd. (b)(2)(A)(i), (B)(i), (c)(2)(A)–(C), are set out in the Appendix to Title 11, Bankruptcy.
+The Bankruptcy Rules, referred to in subds. (b)(2)(A)(i), (B)(i), and (c)(2)(A)–(C), are set out in the Appendix to Title 11, Bankruptcy.
 
 ### Rule 7. Bond for Costs on Appeal in a Civil Case ###
 
@@ -3420,11 +3420,11 @@ Subdivision (a)(1) is revised to extend the period for filing a reply brief from
 
 (g) Certificate of Compliance.
 
-(1) *Briefs and Papers That Require a Certificate.* A brief submitted under Rules 28.1(e)(2), 29(b)(4), or 32(a)(7)(B)—and a paper submitted under Rules 5(c)(1), 21(d)(1), 27(d)(2)(A), 27(d)(2)(C), 35(b)(2)(A), or 40(b)(1)—must include a certificate by the attorney, or an unrepresented party, that the document complies with the type-volume limitation. The person preparing the certificate may rely on the word or line count of the word-processing system used to prepare the document. The certificate must state the number of words—or the number of lines of monospaced type—in the document.
+(1) *Briefs and Papers That Require a Certificate.* A brief submitted under Rules <sup><a href="#Rule_32_1_target" name="Rule_32_1">1</a></sup> 28.1(e)(2), 29(b)(4), or 32(a)(7)(B)—and a paper submitted under Rules <sup><a href="#Rule_32_1_target" name="Rule_32_1">1</a></sup> 5(c)(1), 21(d)(1), 27(d)(2)(A), 27(d)(2)(C), or 40(d)(3)(A)—must include a certificate by the attorney, or an unrepresented party, that the document complies with the type-volume limitation. The person preparing the certificate may rely on the word or line count of the word-processing system used to prepare the document. The certificate must state the number of words—or the number of lines of monospaced type—in the document.
 
 (2) *Acceptable Form.* Form 6 in the Appendix of Forms meets the requirements for a certificate of compliance.
 
-(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 25, 2019, eff. Dec. 1, 2019.)
+(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -3465,6 +3465,8 @@ This paragraph and the next one, governing type style, are new. The existing rul
 With regard to typeface there are two options: proportionally-spaced typeface or monospaced typeface.
 
 A proportionally-spaced typeface gives a different amount of horizontal space to characters depending upon the width of the character. A capital "M" is given more horizontal space than a lower case "i." The rule requires that a proportionally-spaced typeface have serifs. Serifs are small horizontal or vertical strokes at the ends of the lines that make up the letters and numbers. Studies have shown that long passages of serif type are easier to read and comprehend than long passages of sans-serif type. The rule accordingly limits the principal sections of submissions to serif type, although sans-serif type may be used in headings and captions. This is the same approach magazines, newspapers, and commercial printers take. Look at a professionally printed brief; you will find sans-serif type confined to captions, if it is used at all. The next line shows two characters enlarged for detail. The first has serifs, the second does not.
+
+[<sup>1</sup> So in original. Probably should be "Rule".](#Rule_32_1)
 
 **Y Y**
 ----------
@@ -3554,6 +3556,10 @@ A new subdivision (f) is added to set out a global list of items excluded from l
 #### Committee Notes on Rules—2019 Amendment ####
 
 The phrase "corporate disclosure statement" is changed to "disclosure statement" to reflect the revision of Rule 26.1. The other amendment to subdivision (f) does not change the substance of the current rule, but removes the articles before each item because a document will not always include these items.
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+Changes to subdivision (g) reflect the consolidation of Rules 35 and 40.
 
 ### Rule 32.1. Citing Judicial Dispositions ###
 
@@ -3679,131 +3685,11 @@ Paragraph (a)(2) states that one reason for deciding that oral argument is unnec
 
 *Subdivision (d).* A cross-reference in subdivision (d) has been changed to reflect the fact that, as part of an effort to collect within one rule all provisions regarding briefing in cases involving cross-appeals, former Rule 28(h) has been abrogated and its contents moved to new Rule 28.1(b).
 
-### Rule 35. En Banc Determination ###
+### Rule 35. (Transferred to Rule 40) ###
 
-(a) When Hearing or Rehearing En Banc May Be Ordered. A majority of the circuit judges who are in regular active service and who are not disqualified may order that an appeal or other proceeding be heard or reheard by the court of appeals en banc. An en banc hearing or rehearing is not favored and ordinarily will not be ordered unless:
+#### Committee Notes on Rules—2024 Amendment ####
 
-(1) en banc consideration is necessary to secure or maintain uniformity of the court's decisions; or
-
-(2) the proceeding involves a question of exceptional importance.
-
-(b) Petition for Hearing or Rehearing En Banc. A party may petition for a hearing or rehearing en banc.
-
-(1) The petition must begin with a statement that either:
-
-(A) the panel decision conflicts with a decision of the United States Supreme Court or of the court to which the petition is addressed (with citation to the conflicting case or cases) and consideration by the full court is therefore necessary to secure and maintain uniformity of the court's decisions; or
-
-(B) the proceeding involves one or more questions of exceptional importance, each of which must be concisely stated; for example, a petition may assert that a proceeding presents a question of exceptional importance if it involves an issue on which the panel decision conflicts with the authoritative decisions of other United States Courts of Appeals that have addressed the issue.
-
-(2) Except by the court's permission:
-
-(A) a petition for an en banc hearing or rehearing produced using a computer must not exceed 3,900 words; and
-
-(B) a handwritten or typewritten petition for an en banc hearing or rehearing must not exceed 15 pages.
-
-(3) For purposes of the limits in Rule 35(b)(2), if a party files both a petition for panel rehearing and a petition for rehearing en banc, they are considered a single document even if they are filed separately, unless separate filing is required by local rule.
-
-(c) Time for Petition for Hearing or Rehearing En Banc. A petition that an appeal be heard initially en banc must be filed by the date when the appellee's brief is due. A petition for a rehearing en banc must be filed within the time prescribed by Rule 40 for filing a petition for rehearing.
-
-(d) Number of Copies. The number of copies to be filed must be prescribed by local rule and may be altered by order in a particular case.
-
-(e) Response. No response may be filed to a petition for an en banc consideration unless the court orders a response. The length limits in Rule 35(b)(2) apply to a response.
-
-(f) Call for a Vote. A vote need not be taken to determine whether the case will be heard or reheard en banc unless a judge calls for a vote.
-
-(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2020, eff. Dec. 1, 2020.)
-
-#### Notes of Advisory Committee on Rules—1967 ####
-
-Statutory authority for in banc hearings is found in 28 U.S.C. §46(c). The proposed rule is responsive to the Supreme Court's view in *Western Pacific Ry. Corp. v. Western Pacific Ry. Co*., 345 U.S. 247, 73 S.Ct. 656, 97 L.Ed. 986 (1953), that litigants should be free to suggest that a particular case is appropriate for consideration by all the judges of a court of appeals. The rule is addressed to the procedure whereby a party may suggest the appropriateness of convening the court in banc. It does not affect the power of a court of appeals to initiate in banc hearings *sua sponte.*
-
-The provision that a vote will not be taken as a result of the suggestion of the party unless requested by a judge of the court in regular active service or by a judge who was a member of the panel that rendered a decision sought to be reheard is intended to make it clear that a suggestion of a party as such does not require any action by the court. See *Western Pacific Ry. Corp. v. Western Pacific Ry. Co*., supra, 345 U.S. at 262, 73 S.Ct. 656. The rule merely authorizes a suggestion, imposes a time limit on suggestions for rehearings in banc, and provides that suggestions will be directed to the judges of the court in regular active service.
-
-In practice, the suggestion of a party that a case be reheard in banc is frequently contained in a petition for rehearing, commonly styled "petition for rehearing in banc." Such a petition is in fact merely a petition for a rehearing, with a suggestion that the case be reheard in banc. Since no response to the suggestion, as distinguished from the petition for rehearing, is required, the panel which heard the case may quite properly dispose of the petition without reference to the suggestion. In such a case the fact that no response has been made to the suggestion does not affect the finality of the judgment or the issuance of the mandate, and the final sentence of the rule expressly so provides.
-
-#### Notes of Advisory Committee on Rules—1979 Amendment ####
-
-Under the present rule there is no specific provision for a response to a suggestion that an appeal be heard in banc. This has led to some uncertainty as to whether such a response may be filed. The proposed amendment would resolve this uncertainty.
-
-While the present rule provides a time limit for suggestions for rehearing in banc, it does not deal with the timing of a request that the appeal be heard in banc initially. The proposed amendment fills this gap as well, providing that the suggestion must be made by the date of which the appellee's brief is filed.
-
-Provision is made for circulating the suggestions to members of the panel despite the fact that senior judges on the panel would not be entitled to vote on whether a suggestion will be granted.
-
-#### Notes of Advisory Committee on Rules—1994 Amendment ####
-
-*Subdivision (d)*. Subdivision (d) is added; it authorizes the courts of appeals to prescribe the number of copies of suggestions for hearing or rehearing in banc that must be filed. Because the number of copies needed depends directly upon the number of judges in the circuit, local rules are the best vehicle for setting the required number of copies.
-
-#### Committee Notes on Rules—1998 Amendment ####
-
-The language and organization of the rule are amended to make the rule more easily understood. In addition to changes made to improve the understanding, the Advisory Committee has changed language to make style and terminology consistent throughout the appellate rules. These changes are intended to be stylistic only.
-
-Several substantive changes are made in this rule, however.
-
-One of the purposes of the substantive amendments is to treat a request for a rehearing en banc like a petition for panel rehearing so that a request for a rehearing en banc will suspend the finality of the court of appeals' judgment and delay the running of the period for filing a petition for writ of certiorari. Companion amendments are made to Rule 41.
-
-*Subdivision (a).* The title of this subdivision is changed from "when hearing or rehearing in banc *will* be ordered" to "When Hearing or Rehearing En Banc *May* Be Ordered." The change emphasizes the discretion a court has with regard to granting en banc review.
-
-*Subdivision (b).* The term "petition" for rehearing en banc is substituted for the term "suggestion" for rehearing en banc. The terminology change reflects the Committee's intent to treat similarly a petition for panel rehearing and a request for a rehearing en banc. The terminology change also delays the running of the time for filing a petition for a writ of certiorari because Sup. Ct. R. 13.3 says:
-
-if a petition for rehearing is timely filed in the lower court by any party, the time to file the petition for a writ of certiorari for all parties . . . runs from the date of the denial of the petition for rehearing or, if the petition for rehearing is granted, the subsequent entry of judgment.
-
-The amendments also require each petition for en banc consideration to begin with a statement concisely demonstrating that the case meets the usual criteria for en banc consideration. It is the Committee's hope that requiring such a statement will cause the drafter of a petition to focus on the narrow grounds that support en banc consideration and to realize that a petition should not be filed unless the case meets those rigid standards.
-
-Intercircuit conflict is cited as one reason for asserting that a proceeding involves a question of "exceptional importance." Intercircuit conflicts create problems. When the circuits construe the same federal law differently, parties' rights and duties depend upon where a case is litigated. Given the increase in the number of cases decided by the federal courts and the limitation on the number of cases the Supreme Court can hear, conflicts between the circuits may remain unresolved by the Supreme Court for an extended period of time. The existence of an intercircuit conflict often generates additional litigation in the other circuits as well as in the circuits that are already in conflict. Although an en banc proceeding will not necessarily prevent intercircuit conflicts, an en banc proceeding provides a safeguard against unnecessary intercircuit conflicts.
-
-Some circuits have had rules or internal operating procedures that recognize a conflict with another circuit as a legitimate basis for granting a rehearing en banc. An intercircuit conflict may present a question of "exceptional importance" because of the costs that intercircuit conflicts impose on the system as a whole, in addition to the significance of the issues involved. It is not, however, the Committee's intent to make the granting of a hearing or rehearing en banc mandatory whenever there is an intercircuit conflict.
-
-The amendment states that "a petition may assert that a proceeding presents a question of exceptional importance if it involves an issue on which the panel decision conflicts with the authoritative decisions of every other United States Court of Appeals that has addressed the issue." [The Supreme Court revised the proposed amendment to Rule 35(b)(1)(B) by deleting "every" before "other United States Court of Appeals".] That language contemplates two situations in which a rehearing en banc may be appropriate. The first is when a panel decision creates a conflict. A panel decision creates a conflict when it conflicts with the decisions of all other circuits that have considered the issue. If a panel decision simply joins one side of an already existing conflict, a rehearing en banc may not be as important because it cannot avoid the conflict. The second situation that may be a strong candidate for a rehearing en banc is one in which the circuit persists in a conflict created by a pre-existing decision of the same circuit and no other circuits have joined on that side of the conflict. The amendment states that the conflict must be with an "authoritative" decision of another circuit. "Authoritative" is used rather than "published" because in some circuits unpublished opinions may be treated as authoritative.
-
-Counsel are reminded that their duty is fully discharged without filing a petition for rehearing en banc unless the case meets the rigid standards of subdivision (a) of this rule and even then the granting of a petition is entirely within the court's discretion.
-
-Paragraph (2) of this subdivision establishes a maximum length for a petition. Fifteen pages is the length currently used in several circuits. Each request for en banc consideration must be studied by every active judge of the court and is a serious call on limited judicial resources. The extraordinary nature of the issue or the threat to uniformity of the court's decision can be established in most cases in less than fifteen pages. A court may shorten the maximum length on a case by case basis but the rule does not permit a circuit to shorten the length by local rule. The Committee has retained page limits rather than using word or line counts similar to those in amended Rule 32 because there has not been a serious enough problem to justify importing the word and line-count and typeface requirements that are applicable to briefs into other contexts.
-
-Paragraph (3), although similar to (2), is separate because it deals with those instances in which a party files both a petition for rehearing en banc under this rule and a petition for panel rehearing under Rule 40.
-
-To improve the clarity of the rule, the material dealing with filing a response to a petition and with voting on a petition have been moved to new subdivisions (e) and (f).
-
-*Subdivision (c).* Two changes are made in this subdivision. First, the sentence stating that a request for a rehearing en banc does not affect the finality of the judgment or stay the issuance of the mandate is deleted. Second, the language permitting a party to include a request for rehearing en banc in a petition for panel rehearing is deleted. The Committee believes that those circuits that want to require two separate documents should have the option to do so.
-
-*Subdivision (e).* This is a new subdivision. The substance of the subdivision, however, was drawn from former subdivision (b). The only changes are stylistic; no substantive changes are intended.
-
-*Subdivision (f).* This is a new subdivision. The substance of the subdivision, however, was drawn from former subdivision (b).
-
-Because of the discretionary nature of the en banc procedure, the filing of a suggestion for rehearing en banc has not required a vote; a vote is taken only when requested by a judge. It is not the Committee's intent to change the discretionary nature of the procedure or to require a vote on a petition for rehearing en banc. The rule continues, therefore, to provide that a court is not obligated to vote on such petitions. It is necessary, however, that each court develop a procedure for disposing of such petitions because they will suspend the finality of the court's judgment and toll the time for filing a petition for certiorari.
-
-Former subdivision (b) contained language directing the clerk to distribute a "suggestion" to certain judges and indicating which judges may call for a vote. New subdivision (f) does not address those issues because they deal with internal court procedures.
-
-#### Committee Notes on Rules—2005 Amendment ####
-
-*Subdivision (a).* Two national standards—28 U.S.C. §46(c) and Rule 35(a)—provide that a hearing or rehearing en banc may be ordered by "a majority of the circuit judges who are in regular active service." Although these standards apply to all of the courts of appeals, the circuits are deeply divided over the interpretation of this language when one or more active judges are disqualified.
-
-The Supreme Court has never addressed this issue. In *Shenker v. Baltimore & Ohio R.R. Co.*, 374 U.S. 1 (1963), the Court rejected a petitioner's claim that his rights under §46(c) had been violated when the Third Circuit refused to rehear his case en banc. The Third Circuit had 8 active judges at the time; 4 voted in favor of rehearing the case, 2 against, and 2 abstained. No judge was disqualified. The Supreme Court ruled against the petitioner, holding, in essence, that §46(c) did not provide a cause of action, but instead simply gave litigants "the right to know the administrative machinery that will be followed and the right to suggest that the *en banc* procedure be set in motion in his case." *Id.* at 5. *Shenker* did stress that a court of appeals has broad discretion in establishing internal procedures to handle requests for rehearings—or, as *Shenker* put it, " 'to devise its own administrative machinery to provide the *means* whereby a majority may order such a hearing.' " *Id.* (quoting *Western Pac. R.R. Corp. v. Western Pac. R.R. Co.*, 345 U.S. 247, 250 (1953) (emphasis added)). But *Shenker* did not address what is meant by "a majority" in §46(c) (or Rule 35(a), which did not yet exist)—and *Shenker* certainly did not suggest that the phrase should have different meanings in different circuits.
-
-In interpreting that phrase, 7 of the courts of appeals follow the "absolute majority" approach. *See* Marie Leary, Defining the "Majority" Vote Requirement in Federal Rule of Appellate Procedure 35(a) for Rehearings En Banc in the United States Courts of Appeals 8 tbl.1 (Federal Judicial Center 2002). Under this approach, disqualified judges are counted in the base in calculating whether a majority of judges have voted to hear a case en banc. Thus, in a circuit with 12 active judges, 7 must vote to hear a case en banc. If 5 of the 12 active judges are disqualified, all 7 non-disqualified judges must vote to hear the case en banc. The votes of 6 of the 7 non-disqualified judges are not enough, as 6 is not a majority of 12.
-
-Six of the courts of appeals follow the "case majority" approach. *Id.* Under this approach, disqualified judges are not counted in the base in calculating whether a majority of judges have voted to hear a case en banc. Thus, in a case in which 5 of a circuit's 12 active judges are disqualified, only 4 judges (a majority of the 7 non-disqualified judges) must vote to hear a case en banc. (The First and Third Circuits explicitly qualify the case majority approach by providing that a case cannot be heard en banc unless a majority of all active judges—disqualified and non-disqualified—are eligible to participate.)
-
-Rule 35(a) has been amended to adopt the case majority approach as a uniform national interpretation of §46(c). The federal rules of practice and procedure exist to "maintain consistency," which Congress has equated with "promot[ing] the interest of justice." 28 U.S.C. §2073(b). The courts of appeals should not follow two inconsistent approaches in deciding whether sufficient votes exist to hear a case en banc, especially when there is a governing statute and governing rule that apply to all circuits and that use identical terms, and especially when there is nothing about the local conditions of each circuit that justifies conflicting approaches.
-
-The case majority approach represents the better interpretation of the phrase "the circuit judges . . . in regular active service" in the first sentence of §46(c). The second sentence of §46(c)—which defines which judges are eligible to participate in a case being heard or reheard en banc—uses the similar expression "all circuit judges in regular active service." It is clear that "all circuit judges in regular active service" in the second sentence does not include disqualified judges, as disqualified judges clearly cannot participate in a case being heard or reheard en banc. Therefore, assuming that two nearly identical phrases appearing in adjacent sentences in a statute should be interpreted in the same way, the best reading of "the circuit judges . . . in regular active service" in the first sentence of §46(c) is that it, too, does not include disqualified judges.
-
-This interpretation of §46(c) is bolstered by the fact that the case majority approach has at least two major advantages over the absolute majority approach:
-
-First, under the absolute majority approach, a disqualified judge is, as a practical matter, counted as voting against hearing a case en banc. This defeats the purpose of recusal. To the extent possible, the disqualification of a judge should not result in the equivalent of a vote for or against hearing a case en banc.
-
-Second, the absolute majority approach can leave the en banc court helpless to overturn a panel decision with which almost all of the circuit's active judges disagree. For example, in a case in which 5 of a circuit's 12 active judges are disqualified, the case cannot be heard en banc even if 6 of the 7 non-disqualified judges strongly disagree with the panel opinion. This permits one active judge—perhaps sitting on a panel with a visiting judge—effectively to control circuit precedent, even over the objection of all of his or her colleagues. *See Gulf Power Co. v. FCC*, 226 F.3d 1220, 1222–23 (11th Cir. 2000) (Carnes, J., concerning the denial of reh'g en banc), *rev'd sub nom. National Cable & Telecomm. Ass'n, Inc. v. Gulf Power Co.*, 534 U.S. 327 (2002). Even though the en banc court may, in a future case, be able to correct an erroneous legal interpretation, the en banc court will never be able to correct the injustice inflicted by the panel on the parties to the case. Morever [sic], it may take many years before sufficient non-disqualified judges can be mustered to overturn the panel's erroneous legal interpretation. In the meantime, the lower courts of the circuit must apply—and the citizens of the circuit must conform their behavior to—an interpretation of the law that almost all of the circuit's active judges believe is incorrect.
-
-The amendment to Rule 35(a) is not meant to alter or affect the quorum requirement of 28 U.S.C. §46(d). In particular, the amendment is not intended to foreclose the possibility that §46(d) might be read to require that more than half of all circuit judges in regular active service be eligible to participate in order for the court to hear or rehear a case en banc.
-
-*Changes Made After Publication and Comments.* No changes were made to the text of the proposed amendment. The Committee Note was modified in three respects. First, the Note was changed to put more emphasis on the fact that the case majority rule is the best interpretation of §46(c). Second, the Note now clarifies that nothing in the proposed amendment is intended to foreclose courts from interpreting 28 U.S.C. §46(d) to provide that a case cannot be heard or reheard en banc unless a majority of all judges in regular active service—disqualified or not—are eligible to participate. Finally, a couple of arguments made by supporters of the amendment to Rule 35(a) were incorporated into the Note.
-
-#### Committee Notes on Rules—2016 Amendment ####
-
-The page limits previously employed in Rules 5, 21, 27, 35, and 40 have been largely overtaken by changes in technology. For papers produced using a computer, those page limits are now replaced by word limits. The word limits were derived from the current page limits using the assumption that one page is equivalent to 260 words. Papers produced using a computer must include the certificate of compliance required by Rule 32(g); Form 6 in the Appendix of Forms suffices to meet that requirement. Page limits are retained for papers prepared without the aid of a computer (i.e., handwritten or typewritten papers). For both the word limit and the page limit, the calculation excludes any items listed in Rule 32(f).
-
-#### Committee Notes on Rules—2020 Amendment ####
-
-The amendment to Rule 35(e) clarifies that the length limits applicable to a petition for hearing or rehearing en banc also apply to a response to such a petition, if the court orders one.
+For the convenience of parties and counsel, the amendment addresses panel rehearing and rehearing en banc together in a single rule, consolidating what had been separate, overlapping, and duplicative provisions of Rule 35 (hearing and rehearing en banc) and Rule 40 (panel rehearing). The contents of Rule 35 are transferred to Rule 40, which is expanded to address both panel rehearing and en banc determination.
 
 ### Rule 36. Entry of Judgment; Notice ###
 
@@ -3943,11 +3829,33 @@ The amendment of subdivision (e)(3) conforms this rule with the amendment of Fed
 
 In subdivision (d)(1) the words "with proof of service" are deleted and replaced with "and serve" to conform with amendments to Rule 25(d) regarding when proof of service or acknowledgement of service is required for filed papers.
 
-### Rule 40. Petition for Panel Rehearing ###
+### Rule 40. Panel Rehearing; En Banc Determination ###
 
-(a) Time to File; Contents; Response; Action by the Court if Granted.
+(a) A Party's Options. A party may seek rehearing of a decision through a petition for panel rehearing, a petition for rehearing en banc, or both. Unless a local rule provides otherwise, a party seeking both forms of rehearing must file the petitions as a single document. Panel rehearing is the ordinary means of reconsidering a panel decision; rehearing en banc is not favored.
 
-(1) *Time.* Unless the time is shortened or extended by order or local rule, a petition for panel rehearing may be filed within 14 days after entry of judgment. But in a civil case, unless an order shortens or extends the time, the petition may be filed by any party within 45 days after entry of judgment if one of the parties is:
+(b) Content of a Petition.
+
+(1) *Petition for Panel Rehearing.* A petition for panel rehearing must:
+
+(A) state with particularity each point of law or fact that the petitioner believes the court has overlooked or misapprehended; and
+
+(B) argue in support of the petition.
+
+(2) *Petition for Rehearing En Banc.* A petition for rehearing en banc must begin with a statement that:
+
+(A) the panel decision conflicts with a decision of the court to which the petition is addressed (with citation to the conflicting case or cases) and the full court's consideration is therefore necessary to secure or maintain uniformity of the court's decisions;
+
+(B) the panel decision conflicts with a decision of the United States Supreme Court (with citation to the conflicting case or cases);
+
+(C) the panel decision conflicts with an authoritative decision of another United States court of appeals (with citation to the conflicting case or cases); or
+
+(D) the proceeding involves one or more questions of exceptional importance, each concisely stated.
+
+(c) When Rehearing En Banc May Be Ordered. On their own or in response to a party's petition, a majority of the circuit judges who are in regular active service and who are not disqualified may order that an appeal or other proceeding be reheard en banc. Unless a judge calls for a vote, a vote need not be taken to determine whether the case will be so reheard. Rehearing en banc is not favored and ordinarily will be allowed only if one of the criteria in Rule 40(b)(2)(A)–(D) is met.
+
+(d) Time to File; Form; Length; Response; Oral Argument.
+
+(1) *Time.* Unless the time is shortened or extended by order or local rule, any petition for panel rehearing or rehearing en banc must be filed within 14 days after judgment is entered—or, if the panel later amends its decision (on rehearing or otherwise), within 14 days after the amended decision is entered. But in a civil case, unless an order shortens or extends the time, the petition may be filed by any party within 45 days after entry of judgment or of an amended decision if one of the parties is:
 
 (A) the United States;
 
@@ -3955,27 +3863,33 @@ In subdivision (d)(1) the words "with proof of service" are deleted and replaced
 
 (C) a United States officer or employee sued in an official capacity; or
 
-(D) a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on the United States' behalf—including all instances in which the United States represents that person when the court of appeals' judgment is entered or files the petition for that person.
+(D) a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on the United States' behalf—including all instances in which the United States represents that person when the court of appeals' judgment is entered or files that person's petition.
 
-(2) *Contents.* The petition must state with particularity each point of law or fact that the petitioner believes the court has overlooked or misapprehended and must argue in support of the petition. Oral argument is not permitted.
+(2) *Form of the Petition.* The petition must comply in form with Rule 32. Copies must be filed and served as Rule 31 prescribes, except that the number of filed copies may be prescribed by local rule or altered by order in a particular case.
 
-(3) *Response.* Unless the court requests, no response to a petition for panel rehearing is permitted. Ordinarily, rehearing will not be granted in the absence of such a request. If a response is requested, the requirements of Rule 40(b) apply to the response.
+(3) *Length.* Unless the court or a local rule allows otherwise, the petition (or a single document containing a petition for panel rehearing and a petition for rehearing en banc) must not exceed:
 
-(4) *Action by the Court.* If a petition for panel rehearing is granted, the court may do any of the following:
+(A) 3,900 words if produced using a computer; or
 
-(A) make a final disposition of the case without reargument;
+(B) 15 pages if handwritten or typewritten.
 
-(B) restore the case to the calendar for reargument or resubmission; or
+(4) *Response.* Unless the court so requests, no response to the petition is permitted. Ordinarily, the petition will not be granted without such a request. If a response is requested, the requirements of Rule 40(d)(2)–(3) apply to the response.
 
-(C) issue any other appropriate order.
+(5) *Oral Argument.* Oral argument on whether to grant the petition is not permitted.
 
-(b) Form of Petition; Length. The petition must comply in form with Rule 32. Copies must be served and filed as Rule 31 prescribes. Except by the court's permission:	
+(e) If a Petition Is Granted. If a petition for panel rehearing or rehearing en banc is granted, the court may:
 
-(1) a petition for panel rehearing produced using a computer must not exceed 3,900 words; and
+(1) dispose of the case without further briefing or argument;
 
-(2) a handwritten or typewritten petition for panel rehearing must not exceed 15 pages.
+(2) order additional briefing or argument; or
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2020, eff. Dec. 1, 2020.)
+(3) issue any other appropriate order.
+
+(f) Panel's Authority After a Petition for Rehearing En Banc. The filing of a petition for rehearing en banc does not limit the panel's authority to take action described in Rule 40(e).
+
+(g) Initial Hearing En Banc. On its own or in response to a party's petition, a court may hear an appeal or other proceeding initially en banc. A party's petition must be filed no later than the date when its principal brief is due. The provisions of Rule 40(b)(2), (c), and (d)(2)–(5) apply to an initial hearing en banc. But initial hearing en banc is not favored and ordinarily will not be ordered.
+
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -4014,6 +3928,38 @@ The page limits previously employed in Rules 5, 21, 27, 35, and 40 have been lar
 #### Committee Notes on Rules—2020 Amendment ####
 
 The amendment to Rule 40(a)(3) clarifies that the provisions of Rule 40(b) regarding a petition for panel rehearing also apply to a response to such a petition, if the court orders a response. The amendment also changes the language to refer to a "response," rather than an "answer," to make the terminology consistent with Rule 35; this change is intended to be stylistic only.
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+For the convenience of parties and counsel, the amendment addresses panel rehearing and rehearing en banc together in a single rule, consolidating what had been separate, overlapping, and duplicative provisions of Rule 35 (hearing and rehearing en banc) and Rule 40 (panel rehearing). The contents of Rule 35 are transferred to Rule 40, which is expanded to address both panel rehearing and en banc determination.
+
+*Subdivision (a)*. The amendment makes clear that parties may seek panel rehearing, rehearing en banc, or both. It emphasizes that rehearing en banc is not favored and that rehearing by the panel is the ordinary means of reconsidering a panel decision. This description of panel rehearing is by no means designed to encourage petitions for panel rehearing or to suggest that they should in any way be routine, but merely to stress the extraordinary nature of rehearing en banc. Furthermore, the amendment's discussion of rehearing petitions is not intended to diminish the court's existing power to order rehearing sua sponte, without any petition having been filed. The amendment also preserves a party's ability to seek both forms of rehearing, requiring that both petitions be filed as a single document, but preserving the court's power (previously found in Rule 35(b)(3)) to provide otherwise by local rule.
+
+*Subdivision (b)*. Panel rehearing and rehearing en banc are designed to deal with different circumstances. The amendment clarifies the distinction by contrasting the required content of a petition for panel rehearing (preserved from Rule 40(a)(2)) with that of a petition for rehearing en banc (preserved from Rule 35(b)(1)).
+
+*Subdivision (c)*. The amendment preserves the existing criteria and voting protocols for ordering rehearing en banc, including that no vote need be taken unless a judge calls for a vote (previously found in Rule 35(a) and (f)).
+
+*Subdivision (d)*. The amendment establishes uniform time, form, and length requirements for petitions for panel rehearing and rehearing en banc, as well as uniform provisions for responses to the petition and oral argument.
+
+*Time*. The amended Rule 40(d)(1) preserves the existing time limit, after the initial entry of judgment, for filing a petition for panel rehearing (previously found in Rule 40(a)(1)) or a petition for rehearing en banc (previously found in Rule 35(c)). It adds new language extending the same time limit to a petition filed after a panel amends its decision, on rehearing or otherwise.
+
+*Form of the Petition*. The amended Rule 40(d)(2) preserves the existing form, service, and filing requirements for a petition for panel rehearing (previously found in Rule 40(b)), and it extends these same requirements to a petition for rehearing en banc. The amended rule also preserves the court's existing power (previously found in Rule 35(d)) to determine the required number of copies of a petition for rehearing en banc by local rule or by order in a particular case, and it extends this power to petitions for panel rehearing.
+
+*Length*. The amended Rule 40(d)(3) preserves the existing length requirements for a petition for panel rehearing (previously found in Rule 40(b)) and for a petition for rehearing en banc (previously found in Rule 35(b)(2)). It also preserves the court's power (previously found in Rule 35(b)(3)) to provide by local rule for other length limits on combined petitions filed as a single document, and it extends this authority to petitions generally.
+
+*Response*. The amended Rule 40(d)(4) preserves the existing requirements for a response to a petition for panel rehearing (previously found in Rule 40(a)(3)) or to a petition for rehearing en banc (previously found in Rule 35(e)). Unsolicited responses to rehearing petitions remain prohibited, and the length and form requirements for petitions and responses remain identical. The amended rule also extends to rehearing en banc the existing statement (previously found in Rule 40(a)(3)) that a petition for panel rehearing will ordinarily not be granted without a request for a response. The use of the word "ordinarily" recognizes that there may be circumstances where the need for rehearing is sufficiently clear to the court that no response is needed. But before granting rehearing without requesting a response, the court should consider that a response might raise points relevant to whether rehearing is warranted or appropriate that could otherwise be overlooked. For example, a responding party may point out that an argument raised in a rehearing petition had been waived or forfeited, or it might point to other relevant aspects of the record that had not previously been brought specifically to the court's attention.
+
+*Oral argument*. The amended Rule 40(d)(5) extends to rehearing en banc the existing prohibition (previously found in Rule 40(a)(2)) on oral argument on whether to grant a petition for panel rehearing.
+
+*Subdivision (e)*. The amendment clarifies the existing provisions empowering a court to act after granting a petition for panel rehearing (previously found in Rule 40(a)(4)), extending these provisions to rehearing en banc as well. The amended language alerts counsel that, if a petition is granted, the court might call for additional briefing or argument, or it might decide the case without additional briefing or argument. *Cf.* Supreme Court Rule 16.1 (advising counsel that an order disposing of a petition for certiorari "may be a summary disposition on the merits").
+
+*Subdivision (f)*. The amendment adds a new provision concerning the authority of a panel to act while a petition for rehearing en banc is pending.
+
+Sometimes, a panel may conclude that it can fix the problem identified in a petition for rehearing en banc by, for example, amending its decision. The amendment makes clear that the panel is free to do so, and that the filing of a petition for rehearing en banc does not limit the panel's authority.
+
+A party, however, may not agree that the panel's action has fixed the problem, or a party may think that the panel has created a new problem. If the panel amends its decision while a petition for rehearing en banc is pending, the en banc petition remains pending until its disposition by the court, and the amended Rule 40(d)(1) specifies the time during which a new rehearing petition may be filed from the amended decision. In some cases, however, there may be reasons not to allow further delay. In such cases, the court might shorten the time for filing a new petition under the amended Rule 40(d)(1), or it might shorten the time for issuance of the mandate or might order the immediate issuance of the mandate under Rule 41. In addition, in some cases, it may be clear that any additional petition for panel rehearing would be futile and would serve only to delay the proceedings. In such cases, the court might use Rule 2 to suspend the ability to file a new petition for panel rehearing. Before doing so, however, the court ought to consider the difficulty of predicting what a party filing a new petition might say.
+
+*Subdivision (g)*. The amended Rule 40 largely preserves the existing requirements concerning the rarely invoked initial hearing en banc (previously found in Rule 35). The time for filing a petition for initial hearing en banc (previously found in Rule 35(c)) is shortened, for an appellant, to the time for filing its principal brief. The other requirements and voting protocols, which were identical as to hearing and rehearing en banc, are incorporated by reference. The amendment adds new language to remind parties that initial hearing en banc is not favored and ordinarily will not be ordered.
 
 ### Rule 41. Mandate: Contents; Issuance and Effective Date; Stay ###
 
@@ -4575,20 +4521,20 @@ Signed on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_[*insert date*]
 
 ### APPENDIX ###
 
-<img src="http://uscode.house.gov/images/uscprelim/28Aapp1.png" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28Aapp2.png" width="700" />
+<img src="http://uscode.house.gov/images/uscprelim/AppAppendix1—Code.png" width="700" /><img src="http://uscode.house.gov/images/uscprelim/AppAppendix2—Code.png" width="700" />
 
-(As added Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As added Apr. 28, 2016, eff. Dec. 1, 2016; amended Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 FEDERAL RULES OF CIVIL PROCEDURE
 ==========
 
-(As amended to December 26, 2023)
+(As amended to December 1, 2024)
 
 #### Historical Note ####
 
 The original Rules of Civil Procedure for the District Courts were adopted by order of the Supreme Court on Dec. 20, 1937, transmitted to Congress by the Attorney General on Jan. 3, 1938, and became effective on Sept. 16, 1938.
 
-The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023.
+The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 11, 2022, eff. Dec. 1, 2022; Apr. 24, 2023, eff. Dec. 1, 2023; Apr. 2, 2024, eff. Dec. 1, 2024.
 
 #### TITLE I. SCOPE OF RULES; FORM OF ACTION ####
 
@@ -7076,9 +7022,9 @@ Providing an e-mail address is useful, but does not of itself signify consent to
 
 ### Rule 12. Defenses and Objections: When and How Presented; Motion for Judgment on the Pleadings; Consolidating Motions; Waiving Defenses; Pretrial Hearing ###
 
-(a) Time to Serve a Responsive Pleading.
+(a) Time to Serve a Responsive Pleading. Unless another time is specified by a federal statute, the time for serving a responsive pleading is as follows:
 
-(1) *In General.* Unless another time is specified by this rule or a federal statute, the time for serving a responsive pleading is as follows:
+(1) *In General.*
 
 (A) A defendant must serve an answer:
 
@@ -7160,7 +7106,7 @@ A motion asserting any of these defenses must be made before pleading if a respo
 
 (i) Hearing Before Trial. If a party so moves, any defense listed in Rule 12(b)(1)–(7)—whether made in a pleading or by motion—and a motion under Rule 12(c) must be heard and decided before trial unless the court orders a deferral until trial.
 
-(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -7267,6 +7213,10 @@ Former Rule 12(a)(4)(A) referred to an order that postpones disposition of a mot
 #### Committee Notes on Rules—2009 Amendment ####
 
 The times set in the former rule at 10 or 20 days have been revised to 14 or 21 days. See the Note to Rule 6.
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+Rule 12 is amended to make it clear that a federal statute that specifies another time supersedes the times to serve a responsive pleading set by paragraphs (a)(2) and (3). Paragraph (a)(1) incorporates this provision, but the structure of subdivision (a) does not seem to extend it to paragraphs (2) and (3). There is no reason to supersede an inconsistent statute by any part of Rule 12(a). The amended structure recognizes the priority of any statute for all of paragraphs (1), (2), and (3).
 
 ### Rule 13. Counterclaim and Crossclaim ###
 
@@ -7449,6 +7399,10 @@ A plaintiff should be on equal footing with the defendant in making third-party 
 #### Committee Notes on Rules—2009 Amendment ####
 
 The time set in the former rule at 10 days has been revised to 14 days. See the Note to Rule 6.
+
+#### References in Text ####
+
+Supplemental Rule C, referred to in subds. (a)(6) and (c)(1), probably means Supplemental Rule C for Admiralty or Maritime Claims and Asset Forfeiture Actions of the Federal Rules of Civil Procedure, which is set out in this Appendix.
 
 ### Rule 15. Amended and Supplemental Pleadings ###
 
@@ -9983,7 +9937,7 @@ Rule 26(f)(3) is amended in parallel with Rule 16(b)(3) to add two items to the 
 
 #### References in Text ####
 
-The Federal Rules of Evidence, referred to in subdiv. (a)(2)(A), (C)(i), (3)(B), are set out in this Appendix.
+The Federal Rules of Evidence, referred to in subds. (a)(2)(A), (C)(i), (3)(B), and (f)(3)(D), are set out in this Appendix.
 
 [<sup>1</sup> In response to concerns about the proposal raised at the June 15–16, 2005, Standing Committee meeting, the Committee Note was revised to emphasize that the courts will continue to examine whether a privilege claim was made at a reasonable time, as part of substantive law.](#Rule_26_1)
 
@@ -10659,7 +10613,7 @@ The times set in the former rule at less than 11 days and within 5 days have bee
 
 #### References in Text ####
 
-The Federal Rules of Evidence, referred to in subd. (a)(2), (8), are set out in this Appendix.
+The Federal Rules of Evidence, referred to in subd. (a)(1)(B), (2), (8), are set out in this Appendix.
 
 #### Effective Date of Amendment Proposed November 20, 1972 ####
 
@@ -14259,17 +14213,17 @@ For other statutes dealing with injunctions which are continued, see e.g.:
 
 U.S.C., Title 28:
 
- §46 [now 2324] (Suits to enjoin orders of Interstate Commerce Commission to be against United States)
+ §46 [see former §2324] (Suits to enjoin orders of Interstate Commerce Commission to be against United States)
 
- §47 [now 2325] (Injunctions as to orders of Interstate Commerce Commission; appeal to Supreme Court; time for taking)
+ §47 [see former §2325] (Injunctions as to orders of Interstate Commerce Commission; appeal to Supreme Court; time for taking)
 
  §378 [former] (Injunctions; when granted)
 
- §379 [now 2283] (Injunctions; stay in State courts)
+ §379 [see §2283] (Injunctions; stay in State courts)
 
- §380 [now 1253, 2101, 2281, 2284] (Injunctions; alleged unconstitutionality of State statutes; appeal to Supreme Court)
+ §380 [see §§1253, 2101, former 2281, 2284] (Injunctions; alleged unconstitutionality of State statutes; appeal to Supreme Court)
 
- §380a [now 1253, 2101, 2281, 2284] (Injunctions; constitutionality of Federal statute; application for hearing; appeal to Supreme Court)
+ §380a [see §§1253, 2101, former 2282, 2284] (Injunctions; constitutionality of Federal statute; application for hearing; appeal to Supreme Court)
 
 U.S.C., Title 7:
 
@@ -17054,7 +17008,7 @@ Rules 6, 7, and 8 set the times for serving the briefs: 30 days after the answer
 FEDERAL RULES OF EVIDENCE
 ==========
 
-(As amended to December 26, 2023)
+(As amended to December 1, 2024)
 
 #### Effective Date and Application of Rules ####
 
@@ -17064,7 +17018,7 @@ Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1926, provided: "That the followin
 
 The Federal Rules of Evidence were adopted by order of the Supreme Court on Nov. 20, 1972, transmitted to Congress by the Chief Justice on Feb. 5, 1973, and to have become effective on July 1, 1973. Pub. L. 93–12, Mar. 30, 1973, 87 Stat. 9, provided that the proposed rules "shall have no force or effect except to the extent, and with such amendments, as they may be expressly approved by Act of Congress". Pub. L. 93–595, Jan. 2, 1975, 88 Stat. 1926, enacted the Federal Rules of Evidence proposed by the Supreme Court, with amendments made by Congress, to take effect on July 1, 1975.
 
-The Rules have been amended Oct. 16, 1975, Pub. L. 94–113, §1, 89 Stat. 576, eff. Oct. 31, 1975; Dec. 12, 1975, Pub. L. 94–149, §1, 89 Stat. 805; Oct. 28, 1978, Pub. L. 95–540, §2, 92 Stat. 2046; Nov. 6, 1978, Pub. L. 95–598, title II, §251, 92 Stat. 2673, eff. Oct. 1, 1979; Apr. 30, 1979, eff. Dec. 1, 1980; Apr. 2, 1982, Pub. L. 97–164, title I, §142, title IV, §402, 96 Stat. 45, 57, eff. Oct. 1, 1982; Oct. 12, 1984, Pub. L. 98–473, title IV, §406, 98 Stat. 2067; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7046, 7075, 102 Stat. 4400, 4405; Jan. 26, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title IV, §40141, title XXXII, §320935, 108 Stat. 1918, 2135; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 17, 2000, eff. Dec. 1, 2000; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 12, 2006, eff. Dec. 1, 2006; Sept. 19, 2008, Pub. L. 110–322, §1(a), 122 Stat. 3537; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 24, 2023, eff. Dec. 1, 2023.
+The Rules have been amended Oct. 16, 1975, Pub. L. 94–113, §1, 89 Stat. 576, eff. Oct. 31, 1975; Dec. 12, 1975, Pub. L. 94–149, §1, 89 Stat. 805; Oct. 28, 1978, Pub. L. 95–540, §2, 92 Stat. 2046; Nov. 6, 1978, Pub. L. 95–598, title II, §251, 92 Stat. 2673, eff. Oct. 1, 1979; Apr. 30, 1979, eff. Dec. 1, 1980; Apr. 2, 1982, Pub. L. 97–164, title I, §142, title IV, §402, 96 Stat. 45, 57, eff. Oct. 1, 1982; Oct. 12, 1984, Pub. L. 98–473, title IV, §406, 98 Stat. 2067; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7046, 7075, 102 Stat. 4400, 4405; Jan. 26, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title IV, §40141, title XXXII, §320935, 108 Stat. 1918, 2135; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 17, 2000, eff. Dec. 1, 2000; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 12, 2006, eff. Dec. 1, 2006; Sept. 19, 2008, Pub. L. 110–322, §1(a), 122 Stat. 3537; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 25, 2019, eff. Dec. 1, 2019; Apr. 27, 2020, eff. Dec. 1, 2020; Apr. 24, 2023, eff. Dec. 1, 2023; Apr. 2, 2024, eff. Dec. 1, 2024.
 
 #### ARTICLE I. GENERAL PROVISIONS ####
 
@@ -17081,6 +17035,8 @@ Rule
 105. Limiting evidence that is not admissible against other parties or for other purposes.
 
 106. Remainder of or related statements.
+
+107. Illustrative aids.
 
 #### ARTICLE II. JUDICIAL NOTICE ####
 
@@ -17280,7 +17236,7 @@ The Evidence Rules are the fourth set of national procedural rules to be restyle
 
 *1. General Guidelines*
 
-Guidance in drafting, usage, and style was provided by Bryan Gamer, *Guidelines for Drafting and Editing Court Rules*, Administrative Office of the United States Courts (1969) and Bryan Gamer, *Dictionary of Modern Legal Usage* (2d ed. 1995). *See also* Joseph Kimble, *Guiding Principles for Restyling the Civil Rules*, in *Preliminary Draft of Proposed Style Revision of the Federal Rules of Civil Procedure*, at page x (Feb. 2005) (available at http://www.uscourts.gov/uscourts/RulesAndPolicies/rules/Prelim—draft—proposed—pt1.pdf); Joseph Kimble, *Lessons in Drafting from the New Federal Rules of Civil Procedure*, 12 Scribes J. Legal Writing 25 (2008-2009). For specific commentary on the Evidence restyling project, see Joseph Kimble, *Drafting Examples from the Proposed New Federal Rules of Evidence*, 88 Mich. B.J. 52 (Aug. 2009); 88 Mich. B.J. 46 (Sept. 2009); 88 Mich. B.J. 54 (Oct. 2009); 88 Mich. B.J. 50 (Nov. 2009).
+Guidance in drafting, usage, and style was provided by Bryan Garner, *Guidelines for Drafting and Editing Court Rules*, Administrative Office of the United States Courts (1969) and Bryan Garner, *Dictionary of Modern Legal Usage* (2d ed. 1995). *See also* Joseph Kimble, *Guiding Principles for Restyling the Civil Rules*, in *Preliminary Draft of Proposed Style Revision of the Federal Rules of Civil Procedure*, at page x (Feb. 2005) (available at http://www.uscourts.gov/uscourts/RulesAndPolicies/rules/Prelim—draft—proposed—pt1.pdf); Joseph Kimble, *Lessons in Drafting from the New Federal Rules of Civil Procedure*, 12 Scribes J. Legal Writing 25 (2008–2009). For specific commentary on the Evidence restyling project, see Joseph Kimble, *Drafting Examples from the Proposed New Federal Rules of Evidence*, 88 Mich. B.J. 52 (Aug. 2009); 88 Mich. B.J. 46 (Sept. 2009); 88 Mich. B.J. 54 (Oct. 2009); 88 Mich. B.J. 50 (Nov. 2009).
 
 *2. Formatting Changes*
 
@@ -17535,6 +17491,46 @@ The rule retains the language that completion is made at the time the original p
 The intent of the amendment is to displace the common-law rule of completeness. In *Beech Aircraft Corp. v. Rainey*, 488 U.S. 153, 171–72 (1988), the Court in dictum referred to Rule 106 as a partial codification of the common-law rule of completeness. There is no other rule of evidence that is interpreted as coexisting with common-law rules of evidence, and the practical problem of a rule of evidence operating with a common-law supplement is apparent—especially when the rule is one, like the rule of completeness, that arises most often during the trial.
 
 The amendment does not give a green light of admissibility to all excised portions of statements. It does not change the basic rule, which applies only to the narrow circumstances in which a party has created a misimpression about the statement, and the adverse party proffers a statement that in fact corrects the misimpression. The mere fact that a statement is probative and contradicts a statement offered by the opponent is not enough to justify completion under Rule 106. So, for example, the mere fact that a defendant denies guilt before later admitting it does not, without more, mandate the admission of his previous denial. *See United States v. Williams*, 930 F.3d 44 (2d Cir. 2019).
+
+### Rule 107. Illustrative Aids ###
+
+(a) Permitted Uses. The court may allow a party to present an illustrative aid to help the trier of fact understand the evidence or argument if the aid's utility in assisting comprehension is not substantially outweighed by the danger of unfair prejudice, confusing the issues, misleading the jury, undue delay, or wasting time.
+
+(b) Use in Jury Deliberations. An illustrative aid is not evidence and must not be provided to the jury during deliberations unless:
+
+(1) all parties consent; or
+
+(2) the court, for good cause, orders otherwise.
+
+(c) Record. When practicable, an illustrative aid used at trial must be entered into the record.
+
+(d) Summaries of Voluminous Materials Admitted as Evidence. A summary, chart, or calculation admitted as evidence to prove the content of voluminous admissible evidence is governed by Rule 1006.
+
+(Added Apr. 2, 2024, eff. Dec. 1, 2024.)
+
+#### Committee Notes on Rules—2024 ####
+
+The amendment establishes a new Rule 107 to provide standards for the use of illustrative aids. The new rule is derived from Maine Rule of Evidence 616. The term "illustrative aid" is used instead of the term "demonstrative evidence," as that latter term has been subject to differing interpretation in the courts. An illustrative aid is any presentation offered not as evidence but rather to assist the trier of fact in understanding evidence or argument. "Demonstrative evidence" is a term better applied to substantive evidence offered to prove, by demonstration, a disputed fact.
+
+Writings, objects, charts, or other presentations that are used during the trial to provide information to the trier of fact thus fall into two categories. The first category is evidence that is offered to prove a disputed fact; admissibility of such evidence is dependent upon satisfying the strictures of Rule 403, the hearsay rule, and other evidentiary screens. Usually[,] the jury is permitted to take this substantive evidence to the jury room during deliberations and use it to help determine the disputed facts.
+
+The second category—the category covered by this rule—is information offered for the narrow purpose of helping the trier of fact to understand what is being communicated to them by the witness or party presenting evidence or argument. Examples may include drawings, photos, diagrams, video depictions, charts, graphs, and computer simulations. These kinds of presentations, referred to in this rule as "illustrative aids," have also been described as "pedagogical devices" and sometimes (and less helpfully) "demonstrative presentations"—that latter term being unhelpful because the purpose for presenting the information is not to "demonstrate" how an event occurred but rather to help the trier of fact understand evidence or argument that is being or has been presented.
+
+A similar distinction must be drawn between a summary of voluminous admissible evidence offered to prove a fact, and a summary of evidence that is offered solely to assist the trier of fact in understanding the evidence. The former is subject to the strictures of Rule 1006. The latter is an illustrative aid, which the courts have previously regulated pursuant to the broad standards of Rule 611(a), and which is now to be regulated by the more particularized requirements of this Rule 107.
+
+While an illustrative aid is by definition not offered to prove a fact in dispute, this does not mean that it is free from regulation by the court. It is possible that the illustrative aid may be prepared to distort or oversimplify the evidence presented, or stoke unfair prejudice. This rule requires the court to assess the value of the illustrative aid in assisting the trier of fact to understand the evidence or argument. *Cf*. Fed. R. Evid. 703; *see* Adv. Comm. Note to the 2000 amendment to Rule 703. Against that beneficial effect, the court must weigh most of the dangers that courts take into account in balancing evidence offered to prove a fact under Rule 403—one particular problem being that the illustrative aid might appear to be substantive evidence of a disputed event. If those dangers substantially outweigh the value of the aid in assisting the trier of fact, the trial court should prohibit the use of—or order the modification of—the illustrative aid. And if the court does allow the aid to be presented at a jury trial, the adverse party may ask to have the jury instructed about the limited purpose for which the illustrative aid may be used. *Cf*. Rule 105.
+
+The intent of the rule is to clarify the distinction between substantive evidence and illustrative aids, and to provide the court with a balancing test specifically directed toward the use of illustrative aids. Illustrative aids can be critically important in helping the trier of fact understand the evidence or argument.
+
+Many courts require advance disclosure of illustrative aids, as a means of safeguarding and regulating their use. Ordinary discovery procedures concentrate on the evidence that will be presented at trial, so illustrative aids are not usually subject to discovery. Their sudden appearance may not give sufficient opportunity for analysis by other parties, particularly if they are complex. That said, there is a wide variety of illustrative aids, and a wide variety of circumstances under which they might be used. In addition, in some cases, advance disclosure may improperly preview witness examination or attorney argument. The amendment therefore leaves it to trial judges to decide whether, when, and how to require advance notice of an illustrative aid.
+
+Because an illustrative aid is not offered to prove a fact in dispute and is used only in accompaniment with presentation of evidence or argument, the amendment provides that illustrative aids are not to go to the jury room unless all parties consent or the court, for good cause, orders otherwise. The Committee determined that allowing the jury to use the aid in deliberations, free of the constraint of accompaniment with witness testimony or party presentation, runs the risk that the jury may unduly emphasize the testimony of a witness with whom it was used, or otherwise misinterpret the import, usefulness, and purpose of the illustrative aid. But the Committee concluded that trial courts should have some discretion to allow the jury to consider an illustrative aid during deliberations.
+
+If the court does allow the jury to review the illustrative aid during deliberations, the court must upon request instruct the jury that the illustrative aid is not evidence and cannot be considered as proof of any fact.
+
+This rule is intended to govern the use of an illustrative aid at any point in the trial, including in opening statement and closing argument.
+
+While an illustrative aid is not evidence, if it is used at trial[,] it must be marked as an exhibit and made part of the record, unless that is impracticable under the circumstances.
 
 ### ARTICLE II. JUDICIAL NOTICE ###
 
@@ -18228,7 +18224,7 @@ The language of Rule 410 has been amended as part of the restyling of the Eviden
 
 #### Amendment by Public Law ####
 
-**1975**—Pub. L. 94–149 substituted heading reading "Inadmissibility of Pleas, Offers of Pleas, and Related Statements" for "Offer to Plead Guilty; Nolo Contendere; Withdrawn Pleas of Guilty"; substituted in first sentence "provided in this rule" for "provided by Act of Congress", inserted therein ", and relevant to," following 'in connection with", and deleted therefrom "action, case, or" preceding "proceeding"; added second sentence relating to admissibility of statements in criminal proceedings for perjury or false statements; deleted former second sentence providing that "This rule shall not apply to the introduction of voluntary and reliable statements made in court on the record in connection with any of the foregoing pleas or offers where offered for impeachment purposes or in a subsequent prosecution of the declarant for perjury or false statement."; and deleted former second par. providing that "This rule shall not take effect until August 1, 1975, and shall be superseded by any amendment to the Federal Rules of Criminal Procedure which is inconsistent with this rule, and which takes effect after the date of the enactment of the Act establishing these Federal Rules of Evidence."
+**1975**—Pub. L. 94–149 substituted heading reading "Inadmissibility of Pleas, Offers of Pleas, and Related Statements" for "Offer to Plead Guilty; Nolo Contendere; Withdrawn Pleas of Guilty"; substituted in first sentence "provided in this rule" for "provided by Act of Congress", inserted therein ", and relevant to," following "in connection with", and deleted therefrom "action, case, or" preceding "proceeding"; added second sentence relating to admissibility of statements in criminal proceedings for perjury or false statements; deleted former second sentence providing that "This rule shall not apply to the introduction of voluntary and reliable statements made in court on the record in connection with any of the foregoing pleas or offers where offered for impeachment purposes or in a subsequent prosecution of the declarant for perjury or false statement."; and deleted former second par. providing that "This rule shall not take effect until August 1, 1975, and shall be superseded by any amendment to the Federal Rules of Criminal Procedure which is inconsistent with this rule, and which takes effect after the date of the enactment of the Act establishing these Federal Rules of Evidence."
 
 #### Effective Date of 1979 Amendment ####
 
@@ -19260,9 +19256,9 @@ The language of Rule 612 has been amended as part of the restyling of the Eviden
 
 (a) Showing or Disclosing the Statement During Examination. When examining a witness about the witness's prior statement, a party need not show it or disclose its contents to the witness. But the party must, on request, show it or disclose its contents to an adverse party's attorney.
 
-(b) Extrinsic Evidence of a Prior Inconsistent Statement. Extrinsic evidence of a witness's prior inconsistent statement is admissible only if the witness is given an opportunity to explain or deny the statement and an adverse party is given an opportunity to examine the witness about it, or if justice so requires. This subdivision (b) does not apply to an opposing party's statement under Rule 801(d)(2).
+(b) Extrinsic Evidence of a Prior Inconsistent Statement. Unless the court orders otherwise, extrinsic evidence of a witness's prior inconsistent statement may not be admitted until after the witness is given an opportunity to explain or deny the statement and an adverse party is given an opportunity to examine the witness about it. This subdivision (b) does not apply to an opposing party's statement under Rule 801(d)(2).
 
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1936; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1936; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Proposed Rules ####
 
@@ -19291,6 +19287,12 @@ The amendment is technical. No substantive change is intended.
 #### Committee Notes on Rules—2011 Amendment ####
 
 The language of Rule 613 has been amended as part of the restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+Rule 613(b) has been amended to require that a witness receive an opportunity to explain or deny a prior inconsistent statement *before* the introduction of extrinsic evidence of the statement. This requirement of a prior foundation is consistent with the common law approach to impeachment with prior inconsistent statements. *See, e.g., Wammock v. Celotex Corp.*, 793 F.2d 1518, 1521 (11th Cir. 1986) ("Traditionally, prior inconsistent statements of a witness could not be proved by extrinsic evidence unless and until the witness was first confronted with the impeaching statement."). The existing rule imposes no timing preference or sequence and thus permits an impeaching party to introduce extrinsic evidence of a witness's prior inconsistent statement before giving the witness the necessary opportunity to explain or deny it. This flexible timing can create problems concerning the witness's availability to be recalled, and lead to disputes about which party bears responsibility for recalling the witness to afford the opportunity to explain or deny. Further, recalling a witness solely to afford the requisite opportunity to explain or deny a prior inconsistent statement may be inefficient. Finally, trial judges may find extrinsic evidence of a prior inconsistent statement unnecessary in some circumstances where a witness freely acknowledges the inconsistency when afforded an opportunity to explain or deny. Affording the witness an opportunity to explain or deny a prior inconsistent statement before introducing extrinsic evidence of the statement avoids these difficulties. The prior foundation requirement gives the target of the impeaching evidence a timely opportunity to explain or deny the alleged inconsistency; promotes judges' efforts to conduct trials in an orderly manner; and conserves judicial resources.
+
+The amendment preserves the trial court's discretion to delay an opportunity to explain or deny until after the introduction of extrinsic evidence in appropriate cases, or to dispense with the requirement altogether. A trial judge may decide to delay or even forgo a witness's opportunity to explain or deny a prior inconsistent statement in certain circumstances, such as when the failure to afford the prior opportunity was inadvertent and the witness may be afforded a subsequent opportunity, or when a prior opportunity was impossible because the witness's statement was not discovered until after the witness testified.
 
 ### Rule 614. Court's Calling or Examining a Witness ###
 
@@ -19786,7 +19788,9 @@ Under the earlier cases, the confrontation clause may have been little more than
 
 The statement must be considered but does not by itself establish the declarant's authority under (C); the existence or scope of the relationship under (D); or the existence of the conspiracy or participation in it under (E).
 
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1938; Pub. L. 94–113, §1, Oct. 16, 1975, 89 Stat. 576; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 25, 2014, eff. Dec. 1, 2014.)
+If a party's claim, defense, or potential liability is directly derived from a declarant or the declarant's principal, a statement that would be admissible against the declarant or the principal under this rule is also admissible against the party.
+
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1938; Pub. L. 94–113, §1, Oct. 16, 1975, 89 Stat. 576; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Proposed Rules ####
 
@@ -19901,6 +19905,14 @@ The amendment retains the requirement set forth in *Tome v. United States*, 513 
 The amendment does not change the traditional and well-accepted limits on bringing prior consistent statements before the factfinder for credibility purposes. It does not allow impermissible bolstering of a witness. As before, prior consistent statements under the amendment may be brought before the factfinder only if they properly rehabilitate a witness whose credibility has been attacked. As before, to be admissible for rehabilitation, a prior consistent statement must satisfy the strictures of Rule 403. As before, the trial court has ample discretion to exclude prior consistent statements that are cumulative accounts of an event. The amendment does not make any consistent statement admissible that was not admissible previously—the only difference is that prior consistent statements otherwise admissible for rehabilitation are now admissible substantively as well.
 
 *Changes Made After Publication and Comment*. The text of the proposed amendment was changed to clarify that the traditional limits on using prior consistent statements to rebut a charge of recent fabrication or improper influence or motive are retained. The Committee Note was modified to accord with the change in text.
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+The rule has been amended to provide that when a party stands in the shoes of a declarant or the declarant's principal, hearsay statements made by the declarant or principal are admissible against the party. For example, if an estate is bringing a claim for damages suffered by the decedent, any hearsay statement that would have been admitted against the decedent as a party-opponent under this rule is equally admissible against the estate. Other relationships that would support this attribution include assignor/assignee and debtor/trustee when the trustee is pursuing the debtor's claims. The rule is justified because if the party is standing in the shoes of the declarant or the principal, the party should not be placed in a better position as to the admissibility of hearsay than the declarant or the principal would have been. A party that derives its interest from a declarant or principal is ordinarily subject to all the substantive limitations applicable to them, so it follows that the party should be bound by the same evidence rules as well.
+
+Reference to the declarant's principal is necessary because the statement may have been made by the agent of the person or entity whose rights or obligations have been succeeded to by the party against whom the statement is offered. The rule does not apply, however, if the statement is admissible against the agent but not against the principal—for example, if the statement was made by the agent after termination of employment. This is because the successor's potential liability is derived from the principal, not the agent.
+
+The rationale of attribution does not apply, and so the hearsay statement would not be admissible, if the declarant makes the statement after the rights or obligations have been transferred, by contract or operation of law, to the party against whom the statement is offered.
 
 #### Amendment by Public Law ####
 
@@ -20424,7 +20436,7 @@ But this subdivision (a) does not apply if the statement's proponent procured or
 
 (A) a reasonable person in the declarant's position would have made only if the person believed it to be true because, when made, it was so contrary to the declarant's proprietary or pecuniary interest or had so great a tendency to invalidate the declarant's claim against someone else or to expose the declarant to civil or criminal liability; and
 
-(B) is supported by corroborating circumstances that clearly indicate its trustworthiness, if it is offered in a criminal case as one that tends to expose the declarant to criminal liability.
+(B) if offered in a criminal case as one that tends to expose the declarant to criminal liability, is supported by corroborating circumstances that clearly indicate its trustworthiness after considering the totality of circumstances under which it was made and any evidence that supports or undermines it.
 
 (4) *Statement of Personal or Family History.* A statement about:
 
@@ -20436,7 +20448,7 @@ But this subdivision (a) does not apply if the statement's proponent procured or
 
 (6) *Statement Offered Against a Party That Wrongfully Caused the Declarant's Unavailability.* A statement offered against a party that wrongfully caused—or acquiesced in wrongfully causing—the declarant's unavailability as a witness, and did so intending that result.
 
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1942; Pub. L. 94–149, §1(12), (13), Dec. 12, 1975, 89 Stat. 806; Mar. 2, 1987, eff. Oct. 1, 1987; Pub. L. 100–690, title VII, §7075(b), Nov. 18, 1988, 102 Stat. 4405; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1942; Pub. L. 94–149, §1(12), (13), Dec. 12, 1975, 89 Stat. 806; Mar. 2, 1987, eff. Oct. 1, 1987; Pub. L. 100–690, title VII, §7075(b), Nov. 18, 1988, 102 Stat. 4405; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Proposed Rules ####
 
@@ -20598,7 +20610,13 @@ The proposed Committee Note was amended to add a short discussion on applying th
 
 The language of Rule 804 has been amended as part of the general restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
 
-No style changes were made to Rule 804(b)(3), because it was already restyled in conjunction with a substantive amendment, effective December 1,2010.
+No style changes were made to Rule 804(b)(3), because it was already restyled in conjunction with a substantive amendment, effective December 1, 2010.
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+Rule 804(b)(3)(B) has been amended to require that in assessing whether a statement is supported by "corroborating circumstances that clearly indicate its trustworthiness," the court must consider not only the totality of the circumstances under which the statement was made, but also any evidence supporting or undermining it. While most courts have considered evidence independent of the statement, some courts have refused to do so. The rule now provides for a uniform approach and recognizes that the existence or absence of independent evidence supporting the statement is relevant to, but not necessarily dispositive of, whether a statement that tends to expose the declarant to criminal liability should be admissible under this exception when offered in a criminal case. A court evaluating the admissibility of a third-party confession to a crime, for example, must consider not only circumstances such as the timing and spontaneity of the statement and the third-party declarant's likely motivations in making it. The court must also consider information, if any, supporting the statement, such as evidence placing the third party in the vicinity of the crime. Courts must also consider evidence that undermines the declarant's account.
+
+Although it utilizes slightly different language to fit within the framework of Rule 804(b)(3), the amendment is consistent with the 2019 amendment to Rule 807 that requires courts to consider corroborating evidence in the trustworthiness inquiry under that provision. The amendment is also supported by the legislative history of the corroborating circumstances requirement in Rule 804(b)(3). *See* 1974 House Judiciary Committee Report on Rule 804(b)(3) [H. Rep. No. 93–650 (1973)] (adding "corroborating circumstances clearly indicate the trustworthiness of the statement" language and noting that this standard would change the result in cases like *Donnelly v. United States*, 228 U.S. 243 (1913), that excluded a third-party confession exculpating the defendant despite the existence of independent evidence demonstrating the accuracy of the statement).
 
 #### Amendment by Public Law ####
 
@@ -20682,7 +20700,7 @@ The language of Rule 806 has been amended as part of the restyling of the Eviden
 
 (b) Notice. The statement is admissible only if the proponent gives an adverse party reasonable notice of the intent to offer the statement—including its substance and the declarant's name—so that the party has a fair opportunity to meet it. The notice must be provided in writing before the trial or hearing—or in any form during the trial or hearing if the court, for good cause, excuses a lack of earlier notice.
 
-(Added Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 25, 2019, eff. Dec. 1, 2019.)
+(Added Apr. 11, 1997, eff. Dec. 1, 1997; amended Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Notes of Advisory Committee on Rules ####
 
@@ -21114,9 +21132,13 @@ The language of Rule 1005 has been amended as part of the restyling of the Evide
 
 ### Rule 1006. Summaries to Prove Content ###
 
-The proponent may use a summary, chart, or calculation to prove the content of voluminous writings, recordings, or photographs that cannot be conveniently examined in court. The proponent must make the originals or duplicates available for examination or copying, or both, by other parties at a reasonable time and place. And the court may order the proponent to produce them in court.
+(a) Summaries of Voluminous Materials Admissible as Evidence. The court may admit as evidence a summary, chart, or calculation offered to prove the content of voluminous admissible writings, recordings, or photographs that cannot be conveniently examined in court, whether or not they have been introduced into evidence.
 
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1946; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(b) Procedures. The proponent must make the underlying originals or duplicates available for examination or copying, or both, by other parties at a reasonable time and place. And the court may order the proponent to produce them in court.
+
+(c) Illustrative Aids Not Covered. A summary, chart, or calculation that functions only as an illustrative aid is governed by Rule 107.
+
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1946; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 2, 2024, eff. Dec. 1, 2024.)
 
 #### Notes of Advisory Committee on Proposed Rules ####
 
@@ -21125,6 +21147,20 @@ The admission of summaries of voluminous books, records, or documents offers the
 #### Committee Notes on Rules—2011 Amendment ####
 
 The language of Rule 1006 has been amended as part of the restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
+
+#### Committee Notes on Rules—2024 Amendment ####
+
+Rule 1006 has been amended to correct misperceptions about the operation of the rule by some courts. Some courts have mistakenly held that a Rule 1006 summary is "not evidence" and that it must be accompanied by limiting instructions cautioning against its substantive use. But the purpose of Rule 1006 is to permit alternative proof of the content of writings, recordings, or photographs too voluminous to be conveniently examined in court. To serve their intended purpose, therefore, Rule 1006 summaries must be admitted as substantive evidence and the rule has been amended to clarify that a party may offer a Rule 1006 summary "as evidence." The court may not instruct the jury that a summary admitted under this rule is not to be considered as evidence.
+
+Rule 1006 has also been amended to clarify that a properly supported summary may be admitted into evidence whether or not the underlying voluminous materials reflected in the summary have been admitted. Some courts have mistakenly held that the underlying voluminous writings or recordings themselves must be admitted into evidence before a Rule 1006 summary may be used. Because Rule 1006 allows alternate proof of materials too voluminous to be conveniently examined during trial proceedings, admission of the underlying voluminous materials is not required and the amendment so states. Conversely, there are courts that deny resort to a properly supported Rule 1006 summary because the underlying writings or recordings—or a portion of them—*have been* admitted into evidence. Summaries that are otherwise admissible under Rule 1006 are not rendered inadmissible because the underlying documents have been admitted, in whole or in part, into evidence. In most cases, a Rule 1006 chart may be the only evidence the trier of fact will examine concerning a voluminous set of documents. In some instances, however, the summary may be admitted in addition to the underlying documents.
+
+A summary admissible under Rule 1006 must also pass the balancing test of Rule 403. For example, if the summary does not accurately reflect the underlying voluminous evidence, or if it is argumentative, its probative value may be substantially outweighed by the risk of unfair prejudice or confusion.
+
+Consistent with the original rule, the amendment requires that the proponent of a Rule 1006 summary make the underlying voluminous records available to other parties at a reasonable time and place. The trial judge has discretion in determining the reasonableness of the production in each case but must ensure that all parties have a fair opportunity to evaluate the summary. *Cf*. Fed. R. Evid. 404(b)(3) and 807(b).
+
+Although Rule 1006 refers to materials too voluminous to be examined "in court" and permits the trial judge to order production of underlying materials "in court," the rule applies to virtual proceedings just as it does to proceedings conducted in person in a courtroom.
+
+The amendment draws a distinction between summaries of voluminous admissible information offered to prove a fact, and illustrations offered solely to assist the trier of fact in understanding the evidence. The former are subject to the strictures of Rule 1006. The latter are illustrative aids, which are now regulated by Rule 107.
 
 ### Rule 1007. Testimony or Statement of a Party to Prove Content ###
 
@@ -21315,10 +21351,6 @@ Pub. L. 95–598, §251(a), struck out ", referees in bankruptcy," after "Unite
 Subd. (b). Pub. L. 95–598, §251(b), substituted "title 11, United States Code" for "the Bankruptcy Act".
 
 **1975**—Subd. (e). Pub. L. 94–149 substituted "admiralty" for "admirality".
-
-#### Change of Name ####
-
-References to United States Claims Court deemed to refer to United States Court of Federal Claims, see section 902(b) of Pub. L. 102–572, set out as a note under section 171 of this title.
 
 #### Effective Date of 1982 Amendment ####
 
