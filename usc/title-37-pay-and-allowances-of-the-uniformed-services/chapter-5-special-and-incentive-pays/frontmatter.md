@@ -176,7 +176,7 @@ Sec.
 
 **2016**—Pub. L. 114–328, div. A, title VI, §647(b), Dec. 23, 2016, 130 Stat. 2168, struck out item 328 "Combat-related injury rehabilitation pay".
 
-Pub. L. 114–328, div. A, title VI, §633(d)(2), Dec. 23, 2016, 130 Stat. 2163, 2168, substituted "Continuation pay: full TSP members with 8 to 12 years of service" for "Continuation pay: full TSP members with 12 years of service" effective Jan. 1, 2018, immediately after the coming into effect of the amendments providing for section 356 of title 37, to which the amendments made by section 633 of Pub. L. 114–328 relate.
+Pub. L. 114–328, div. A, title VI, §633(d)(2), Dec. 23, 2016, 130 Stat. 2163, 2168, substituted "Continuation pay: full TSP members with 8 to 12 years of service" for "Continuation pay: full TSP members with 12 years of service" in item 356, effective Jan. 1, 2018, immediately after the coming into effect of the amendments providing for section 356 of title 37, to which the amendments made by section 633 of Pub. L. 114–328 relate.
 
 **2015**—Pub. L. 114–92, div. A, title VI, §634(b), Nov. 25, 2015, 129 Stat. 851, which directed amendment of this analysis by adding item 356 "at the end", was executed by adding item 356 after item 355 to reflect the probable intent of Congress.
 

@@ -8,6 +8,8 @@ Sec.
 
 #### SUBCHAPTER II—EDUCATIONAL ASSISTANCE ####
 
+Sec.
+
 3311. Educational assistance for service in the Armed Forces commencing on or after September 11, 2001: entitlement.
 
 3312. Educational assistance: duration.
@@ -28,6 +30,8 @@ Sec.
 
 3319. Authority to transfer unused education benefits to family members.
 
+3320. Edith Nourse Rogers STEM Scholarship.
+
 #### SUBCHAPTER III—ADMINISTRATIVE PROVISIONS ####
 
 3321. Time limitation for use of and eligibility for entitlement.
@@ -45,6 +49,8 @@ Sec.
 3327. Election to receive educational assistance.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–48, title I, §111(b), Aug. 16, 2017, 131 Stat. 983, added item 3320.
 
 **2016**—Pub. L. 114–315, title IV, §§404(b), 405(b), Dec. 16, 2016, 130 Stat. 1554, 1558, added items 3326 and 3327.
 

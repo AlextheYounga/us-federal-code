@@ -70,13 +70,17 @@ Sec.
 
 3697A. Educational and vocational counseling.
 
+3697B. On-campus educational and vocational counseling.
+
 3698. Comprehensive policy on providing education information to veterans.
 
-#### [SUBCHAPTER III—REPEALED] ####
+3699. Effects of closure or disapproval of educational institution.
 
-[3699. Repealed.]
+3699A. Provision of certain information to educational institutions.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–48, title I, §109(a)(2), title III, §§307(b), 308(b), Aug. 16, 2017, 131 Stat. 980, 993, 994, added items 3697B, 3699, and 3699A.
 
 **2013**—Pub. L. 112–249, §1(a)(2), Jan. 10, 2013, 126 Stat. 2400, added item 3698.
 

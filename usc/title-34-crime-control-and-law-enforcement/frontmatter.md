@@ -77,6 +77,10 @@ Subtitle VI—Other Crime Control and Law Enforcement Matters
 
 605. Recidivism Prevention 60501
 
+#### Prior Provisions ####
+
+A prior Title 34, Navy, was repealed generally by act Aug. 10, 1956, ch. 1041, 70A Stat. 1, which revised and codified the statutory provisions that related to the Army, Navy, Air Force, and Marine Corps, and enacted those provisions into law as Title 10, Armed Forces. For distribution of provisions of former Title 34 in Title 10, see Table II, set out preceding the text of Title 10.
+
 |                                                                                  *Former Classification*                                                                                   |*New Classification or Disposition*|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------|
 |                                                              18:1 note prec (Ex. Ord. No. 11396, Feb. 7, 1968, 33 F.R. 2689)                                                               |        34:10101 note prec         |
