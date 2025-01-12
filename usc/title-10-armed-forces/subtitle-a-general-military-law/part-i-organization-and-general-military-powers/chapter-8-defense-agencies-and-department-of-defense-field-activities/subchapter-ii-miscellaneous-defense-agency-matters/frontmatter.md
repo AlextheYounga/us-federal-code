@@ -8,7 +8,11 @@ Sec.
 
 204. Small Business Ombudsman for defense audit agencies.
 
+205. Missile Defense Agency.
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title XVI, §1676(c)(2), Dec. 12, 2017, 131 Stat. 1773, added item 205.
 
 **2016**—Pub. L. 114–328, div. A, title V, §502(d)(2), Dec. 23, 2016, 130 Stat. 2102, which directed amendment of the "table of sections at the beginning of chapter 8" of this title by striking item 203, was executed by striking item 203 "Director of Missile Defense Agency" in the analysis preceding subchapter II of chapter 8 of this title to reflect the probable intent of Congress.
 

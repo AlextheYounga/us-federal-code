@@ -2,13 +2,13 @@
 
 Sec.
 
-251. Federal aid for State governments.
+251. 1 Federal aid for State governments.
 
-252. Use of militia and armed forces to enforce Federal authority.
+252. 2 Use of militia and armed forces to enforce Federal authority.
 
-253. Interference with State and Federal law.
+253. 3 Interference with State and Federal law.
 
-254. Proclamation to disperse.
+254. 4 Proclamation to disperse.
 
 255. Guam and Virgin Islands included as "State".
 
@@ -25,3 +25,11 @@ A prior chapter 13, consisting of sections 311 and 312, was renumbered chapter 1
 **2006**—Pub. L. 109–364, div. A, title X, §1076(a)(3), (4)(B), Oct. 17, 2006, 120 Stat. 2405, substituted "ENFORCEMENT OF THE LAWS TO RESTORE PUBLIC ORDER" for "INSURRECTION" in chapter heading and "Major public emergencies; interference with State and Federal law" for "Interference with State and Federal law" in item 333.
 
 **1980**—Pub. L. 96–513, title V, §511(11)(C), Dec. 12, 1980, 94 Stat. 2921, added item 335.
+
+[<sup>1</sup> Another item 251 appears in the analysis for chapter 9A of this title.](#CHAPTER13_1)
+
+[<sup>2</sup> Another item 252 appears in the analysis for chapter 9A of this title.](#CHAPTER13_2)
+
+[<sup>3</sup> Another item 253 appears in the analysis for chapter 9A of this title.](#CHAPTER13_3)
+
+[<sup>4</sup> Another item 254 appears in the analysis for chapter 9A of this title.](#CHAPTER13_4)

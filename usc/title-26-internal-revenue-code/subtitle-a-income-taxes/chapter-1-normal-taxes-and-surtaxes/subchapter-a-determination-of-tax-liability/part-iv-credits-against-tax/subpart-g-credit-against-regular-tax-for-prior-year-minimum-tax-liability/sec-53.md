@@ -90,7 +90,7 @@ In the case of any taxable year of less than 365 days, the AMT refundable credit
 
 #### References in Text ####
 
-The Tax Cuts and Jobs Act, referred to in subsec. (d)(3), probably means Pub. L. 115–97, Dec. 22, 2017, 131 Stat. 2054. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of Pub. L. 115–97. For complete classification of Pub. L. 115–97 to the Code, see Tables.
+The Tax Cuts and Jobs Act, referred to in subsec. (d)(3), probably means title I of Pub. L. 115–97, Dec. 22, 2017, 131 Stat. 2054. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97. For complete classification of title I of Pub. L. 115–97 to the Code, see Tables.
 
 #### Prior Provisions ####
 

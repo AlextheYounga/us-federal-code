@@ -36,7 +36,7 @@ Consistent with such regulations or other guidance as the Secretary shall prescr
 
 #### References in Text ####
 
-The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (a), probably means the date of enactment of Pub. L. 115–97, which was approved Dec. 22, 2017. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of Pub. L. 115–97.
+The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (a), probably means the date of enactment of title I of Pub. L. 115–97, which was approved Dec. 22, 2017. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97.
 
 #### Effective Date ####
 

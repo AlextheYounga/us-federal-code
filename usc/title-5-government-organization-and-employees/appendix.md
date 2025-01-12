@@ -731,25 +731,11 @@ Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, s
 
 (c) For the purposes of section 7324 of title 5, United States Code, no Inspector General shall be considered to be an employee who determines policies to be pursued by the United States in the nationwide administration of Federal laws.
 
-(d)(1) Each Inspector General shall, in accordance with applicable laws and regulations governing the civil service—
+(d) Each Inspector General shall, in accordance with applicable laws and regulations governing the civil service—
 
-(A) appoint an Assistant Inspector General for Auditing who shall have the responsibility for supervising the performance of auditing activities relating to programs and operations of the establishment;
+(1) appoint an Assistant Inspector General for Auditing who shall have the responsibility for supervising the performance of auditing activities relating to programs and operations of the establishment, and
 
-(B) appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and operations; and
-
-(C) designate a Whistleblower Protection Ombudsman who shall educate agency employees—
-
-(i) about prohibitions on retaliation for protected disclosures; and
-
-(ii) who have made or are contemplating making a protected disclosure about the rights and remedies against retaliation for protected disclosures.
-
-(2) The Whistleblower Protection Ombudsman shall not act as a legal representative, agent, or advocate of the employee or former employee.
-
-(3) For the purposes of this section, the requirement of the designation of a Whistleblower Protection Ombudsman under paragraph (1)(C) shall not apply to—
-
-(A) any agency that is an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)) [50 U.S.C. 3003(4)]); or
-
-(B) as determined by the President, any executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counter intelligence activities.
+(2) appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and operations.
 
 (e) The annual rate of basic pay for an Inspector General (as defined under section 12(3)) shall be the rate payable for level III of the Executive Schedule under section 5314 of title 5, United States Code, plus 3 percent.
 
@@ -759,21 +745,11 @@ Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, s
 
 (Pub. L. 95–452, §3, Oct. 12, 1978, 92 Stat. 1101; Pub. L. 110–409, §§3(a), 4(a)(1), 5, 6(a), Oct. 14, 2008, 122 Stat. 4302, 4305; Pub. L. 112–199, title I, §117(a), Nov. 27, 2012, 126 Stat. 1474; Pub. L. 114–317, §7(d)(3)(A), Dec. 16, 2016, 130 Stat. 1606.)
 
-#### Amendment of Section ####
-
-For termination of amendment by section 117(c) of Pub. L. 112–199, see Effective and Termination Dates of 2012 Amendment note below.
-
 #### Amendments ####
 
 **2016**—Subsec. (a). Pub. L. 114–317 substituted "subpoena" for "subpena".
 
-**2012**—Subsec. (d). Pub. L. 112–199, §117(a), (c), temporarily added subsec. (d) and struck out former subsec. (d) which read as follows: "Each Inspector General shall, in accordance with applicable laws and regulations governing the civil service—
-
-"(1) appoint an Assistant Inspector General for Auditing who shall have the responsibility for supervising the performance of auditing activities relating to programs and operations of the establishment, and
-
-"(2) appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and operations."
-
-See Effective and Termination Dates of 2012 Amendment note below.
+**2012**—Subsec. (d). Pub. L. 112–199, §117(a), (c), temporarily added subsec. (d), which, in addition to the appointment of an Assistant Inspector General for Auditing and an Assistant Inspector General for Investigations, related to the designation of a Whistleblower Protection Ombudsman, and struck out former subsec. (d). See Effective and Termination Dates of 2012 Amendment note below.
 
 **2008**—Subsec. (b). Pub. L. 110–409, §3(a), substituted "If an Inspector General is removed from office or is transferred to another position or location within an establishment, the President shall communicate in writing the reasons for any such removal or transfer to both Houses of Congress, not later than 30 days before the removal or transfer. Nothing in this subsection shall prohibit a personnel action otherwise authorized by law, other than transfer or removal." for "The President shall communicate the reasons for any such removal to both Houses of Congress."
 
@@ -1789,7 +1765,7 @@ A prior section 8C of the Inspector General Act of 1978 was renumbered section 8
 
 (i) In addition to the requirements of the first sentence of section 3(a), the Treasury Inspector General for Tax Administration should have demonstrated ability to lead a large and complex organization.
 
-(j) An individual appointed to the position of Treasury Inspector General for Tax Administration, the Assistant Inspector General for Auditing of the Office of the Treasury Inspector General for Tax Administration under section 3(d)(1)(A), the Assistant Inspector General for Investigations of the Office of the Treasury Inspector General for Tax Administration under section 3(d)(1)(B), or any position of Deputy Inspector General of the Office of the Treasury Inspector General for Tax Administration may not be an employee of the Internal Revenue Service—
+(j) An individual appointed to the position of Treasury Inspector General for Tax Administration, the Assistant Inspector General for Auditing of the Office of the Treasury Inspector General for Tax Administration under section 3(d)(1), the Assistant Inspector General for Investigations of the Office of the Treasury Inspector General for Tax Administration under section 3(d)(2), or any position of Deputy Inspector General of the Office of the Treasury Inspector General for Tax Administration may not be an employee of the Internal Revenue Service—
 
 (1) during the 2-year period preceding the date of appointment to such position; or
 
@@ -1824,10 +1800,6 @@ A prior section 8C of the Inspector General Act of 1978 was renumbered section 8
 (C) This paragraph applies regardless of whether the applicable audit or investigation is requested under paragraph (1).
 
 (Pub. L. 95–452, §8D, formerly §8C, as added Pub. L. 100–504, title I, §102(f), Oct. 18, 1988, 102 Stat. 2518; renumbered §8D, Pub. L. 103–204, §23(a)(3), Dec. 17, 1993, 107 Stat. 2408; amended Pub. L. 105–206, title I, §1103(b), (e)(1), (2), July 22, 1998, 112 Stat. 705, 709; Pub. L. 107–296, title XI, §1112(a)(1), Nov. 25, 2002, 116 Stat. 2275; Pub. L. 108–7, div. L, §104(c)(2), Feb. 20, 2003, 117 Stat. 531; Pub. L. 109–177, title VI, §605(e)(3), Mar. 9, 2006, 120 Stat. 255; Pub. L. 110–409, §14(b), Oct. 14, 2008, 122 Stat. 4316; Pub. L. 112–199, title I, §117(b), Nov. 27, 2012, 126 Stat. 1475; Pub. L. 114–317, §§6(2), 7(d)(3)(C), Dec. 16, 2016, 130 Stat. 1604, 1606.)
-
-#### Amendment of Section ####
-
-For termination of amendment by section 117(c) of Pub. L. 112–199, see Effective and Termination Dates of 2012 Amendment note below.
 
 #### References in Text ####
 
@@ -2365,6 +2337,20 @@ Pub. L. 103–82, title II, §202(g)(2)(B), Sept. 21, 1993, 107 Stat. 890, provi
 
 Section effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective Date of 1988 Amendment note under section 5 of Pub. L. 95–452 in this Appendix.
 
+#### Inspector General Oversight of Fund ####
+
+Pub. L. 115–91, div. A, title XV, §1521(e), Dec. 12, 2017, 131 Stat. 1714, provided that:
+
+"(1) Quality standards for ig products.—Except as provided in paragraph (3), each product published or issued by an Inspector General relating to the oversight of programs and activities funded under the Afghanistan Security Forces Fund shall be prepared—
+
+"(A) in accordance with the Generally Accepted Government Auditing Standards/Government Auditing Standards (GAGAS/GAS), as issued and updated by the Government Accountability Office; or
+
+"(B) if not prepared in accordance with the standards referred to in subparagraph (A), in accordance with the Quality Standards for Inspection and Evaluation issued by the Council of the Inspectors General on Integrity and Efficiency (commonly referred to as the 'CIGIE Blue Book').
+
+"(2) Specification of quality standards followed.—Each product published or issued by an Inspector General relating to the oversight of programs and activities funded under the Afghanistan Security Forces Fund shall cite within such product the quality standards followed in conducting and reporting the work concerned.
+
+"(3) Waiver.—The Lead Inspector General for Operation Freedom's Sentinel may waive the applicability of paragraph (1) to a specific product relating to the oversight by an Inspector General of activities and programs funded under the Afghanistan Security Forces Fund if the Lead Inspector General determines that the waiver would facilitate timely efforts to promote efficiency and effectiveness and prevent, detect, and deter fraud, waste, and abuse. Any product published or issued pursuant to a waiver under this paragraph shall include a statement that work for such product was not conducted in accordance with the standards referred to in paragraph (1) and an explanation why such standards were not employed."
+
 #### Inspector General for Committee for Purchase From People Who Are Blind or Severely Disabled ####
 
 Pub. L. 114–113, div. H, title IV, §401(b), Dec. 18, 2015, 129 Stat. 2640, provided that: "Not later than 180 days after the date of the enactment of this Act [Dec. 18, 2015], the Chairman of the Committee for Purchase From People Who Are Blind or Severely Disabled shall appoint an Inspector General for the Committee."
@@ -2839,7 +2825,7 @@ Pub. L. 106–422, §1(a), Nov. 1, 2000, 114 Stat. 1872, provided that: "Congres
 
 #### Amtrak Not Federal Entity; Federal Subsidy ####
 
-Section 409(b), (c) of Pub. L. 105–134 provided that:
+Pub. L. 105–134, title IV, §409(b), (c), Dec. 2, 1997, 111 Stat. 2587, provided that:
 
 "(b) Amtrak Not Federal Entity.—Amtrak shall not be considered a Federal entity for purposes of the Inspector General Act of 1978 [Pub. L. 95–452, set out in this Appendix]. The preceding sentence shall apply for any fiscal year for which Amtrak receives no Federal subsidy.
 
@@ -6382,7 +6368,7 @@ The Federal Emergency Administration of Public Works and its functions shall be 
 
 #### Sec. 306. Work Projects Administration ####
 
-The Works Progress Administration and its functions (except the National Youth Administration and its functions) shall be administered as the Work Projects Administration, with a Commissioner of Work Projects at the head thereof. The Commissioner shall be appointed by the Federal Works Administrator and shall receive a salary at the rate of $10,000 per annum. The Commissioner shall act under the direction and supervision of the Federal Works Administrator. (Functions were authorized to be carried out until June 30, 1941, and provisions concerning appointment of Commissioner were contained in Emergency Relief Appropriation Act of 1939, §1(f and g) and Emergency Relief Appropriation Act of 1941, §1(i and j), set out in note under chapter 16 of Title 15, Commerce and trade.) [Functions were authorized to be carried out until June 30, 1941, and provisions concerning appointment of Commissioner were contained in Emergency Relief Appropriation Act of 1939, §1(f and g) and Emergency Relief Appropriation Act of 1941, §1(i and j).] [Functions, records, property, personnel and administration of the Sample Surveys Section of Work Projects Administration transferred to Bureau of Census, Dept. of Commerce, see Ex. Ord. No. 9232.]
+The Works Progress Administration and its functions (except the National Youth Administration and its functions) shall be administered as the Work Projects Administration, with a Commissioner of Work Projects at the head thereof. The Commissioner shall be appointed by the Federal Works Administrator and shall receive a salary at the rate of $10,000 per annum. The Commissioner shall act under the direction and supervision of the Federal Works Administrator. [Functions were authorized to be carried out until June 30, 1941, and provisions concerning appointment of Commissioner were contained in Emergency Relief Appropriation Act of 1939, §1(f and g), and Emergency Relief Appropriation Act, fiscal year 1941, §1(i and j).] [Functions, records, property, personnel and administration of the Sample Surveys Section of Work Projects Administration transferred to Bureau of Census, Dept. of Commerce, see Ex. Ord. No. 9232.]
 
 [Liquidation of the Works Projects Administration was ordered by President's letter of December 4, 1942, and appropriations for the liquidation were authorized by act July 12, 1943, ch. 229, title I, 57 Stat. 540.]
 
@@ -6432,7 +6418,7 @@ The Federal Loan Administrator shall appoint an Assistant Federal Loan Administr
 
 #### (c) Powers and Duties of Administrator ####
 
-The Administrator shall supervise the administration, and shall be responsible for the coordination of the functions and activities, of the following agencies: Reconstruction Finance Corporation, Electric Home and Farm Authority, R.F.C. Mortgage Company, Disaster Loan Corporation, Federal National Mortgage Association, Federal Home Loan Bank Board, Home Owners' Loan Corporation, Federal Savings and Loan Insurance Corporation, Federal Housing Administration, and Export-Import Bank of Washington. The Administrator may appoint such officers and employees and make such expenditures as may be necessary. [For subsequent history, see Codification note set out under 15 U.S.C. 1801 et seq.]
+The Administrator shall supervise the administration, and shall be responsible for the coordination of the functions and activities, of the following agencies: Reconstruction Finance Corporation, Electric Home and Farm Authority, R.F.C. Mortgage Company, Disaster Loan Corporation, Federal National Mortgage Association, Federal Home Loan Bank Board, Home Owners' Loan Corporation, Federal Savings and Loan Insurance Corporation, Federal Housing Administration, and Export-Import Bank of Washington. The Administrator may appoint such officers and employees and make such expenditures as may be necessary. [For subsequent history, see Codification note set out under 12 U.S.C. 1801 et seq.]
 
 #### (d) Administrative Funds ####
 
@@ -9607,7 +9593,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 5. Performance of Functions ####
 
-[Repealed. Pub. L. 87–651, title III, §307C, Sept. 7, 1962, 76 Stat. 526. Section authorized the Secretary of Defense from time to time to make such provisions as he deemed appropriate authorizing the performance by any other officer, or by any agency or employee, of the Department of any function of the Secretary. See 10 U.S.C. 133.]
+[Repealed. Pub. L. 87–651, title III, §307C, Sept. 7, 1962, 76 Stat. 526. Section authorized the Secretary of Defense from time to time to make such provisions as he deemed appropriate authorizing the performance by any other officer, or by any agency or employee, of the Department of any function of the Secretary..]
 
 #### Sec. 6. Miscellaneous Provisions ####
 
@@ -10334,7 +10320,7 @@ Subject to the provisions of section 2(a) of this reorganization plan, and to th
 
 (7) The allocation, use, and expenditure of funds available to the Board for administrative expense purposes.
 
-(8) The calling of the Board into special session whenever any matter of business of the Board so requires, but in any event for the consideration of any matter or business upon request of one or both of the other members of the Board.
+(8) The calling of the Board into special session whenever any matter or business of the Board so requires, but in any event for the consideration of any matter or business upon request of one or both of the other members of the Board.
 
 #### Sec. 2. Performance of Transferred Functions ####
 
@@ -11623,7 +11609,7 @@ Sec. 402. *Transfer of functions to Council*. The following regulatory and other
 
 (70) Prescribing additional information to be contained in applications for pawnbrokers' licenses under D.C. Code, sec. 2–2003(b)(4).
 
-(71) Making rules and regulations for the enforcement of the Act of August 6, 1965, under D.C. Code, sec. 2–2007(a)
+(71) Making rules and regulations for the enforcement of the Act of August 6, 1956, under D.C. Code, sec. 2–2007(a)
 
 (72) Determining or fixing a maximum rate of interest for pawnbroker loans and redetermining and refixing any such maximum rate under D.C. Code, sec. 2–2009(a).
 
@@ -11633,7 +11619,7 @@ Sec. 402. *Transfer of functions to Council*. The following regulatory and other
 
 (75) Prescribing by regulation the terms and conditions for exempting solicitations from certain provisions of the Act of July 10, 1957 under D.C. Code, sec. 2–2103(d).
 
-(76) Prescribing the form or forms of application for certificate of refrigeration, and requiring by regulation the information to be contained in each such application, under D.C. Code, sec. 2–2104(a).
+(76) Prescribing the form or forms of application for certificate of registration, and requiring by regulation the information to be contained in each such application, under D.C. Code, sec. 2–2104(a).
 
 (77) Promulgating regulations to carry out the Act of July 10, 1957 (relating to charitable solicitations) under D.C. Code, sec. 2–2110.
 

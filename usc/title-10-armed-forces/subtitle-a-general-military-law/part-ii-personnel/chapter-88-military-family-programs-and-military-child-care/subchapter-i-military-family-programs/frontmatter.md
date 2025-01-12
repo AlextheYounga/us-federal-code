@@ -26,11 +26,15 @@ Sec.
 
 1788. Additional family assistance.
 
+1788a. Family support programs: immediate family members of members of special operations forces.
+
 1789. Chaplain-led programs: authorized support.
 
 1790. Military personnel citizenship processing.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title V, §555(e), Dec. 12, 2017, 131 Stat. 1403, added item 1788a.
 
 **2016**—Pub. L. 114–328, div. A, title IX, §933(a)(4)(B), (b)(5)(B), Dec. 23, 2016, 130 Stat. 2364, 2365, substituted "Office of Military Family Readiness Policy" for "Office of Family Policy" in item 1781 and "Office of Special Needs" for "Office of Community Support for Military Families With Special Needs" in item 1781c.
 

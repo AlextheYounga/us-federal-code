@@ -52,7 +52,11 @@ Sec.
 
 2651. Passengers and merchandise to Guam: sea transport.
 
+2652. Prohibition on charge of certain tariffs on aircraft traveling through channel routes.
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title X, §1044(b), Dec. 12, 2017, 131 Stat. 1555, added item 2652.
 
 **2014**—Pub. L. 113–291, div. A, title X, §1071(f)(21), Dec. 19, 2014, 128 Stat. 3511, which directed substitution of "rate" for "rates" in item 2642, could not be executed because the word "rates" did not appear after the amendment by Pub. L. 113–291, §1044(c)(2). See below.
 
@@ -107,3 +111,13 @@ Pub. L. 99–550, §2(a)(2), Oct. 27, 1986, 100 Stat. 3070, struck out item 2637
 **1962**—Pub. L. 87–651, title I, §111(c), Sept. 7, 1962, 76 Stat. 511, substituted "Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department" for "Terminal Services, furnish to commercial steamship companies" in item 2633, and added item 2634.
 
 **1957**—Pub. L. 85–44, §2, June 1, 1957, 71 Stat. 45, added item 2633.
+
+#### Air Transportation of Civilian Department of Defense Personnel to and from Afghanistan ####
+
+Pub. L. 115–91, div. A, title X, §1098, Dec. 12, 2017, 131 Stat. 1626, provided that:
+
+"(a) Policy Review.—Not later than 90 days after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall conduct a policy review regarding the use of commercial air transportation or alternative forms of air transportation to transport civilian personnel of the Department of Defense to and from Afghanistan.
+
+"(b) Report to Congress.—Not later than 90 days after the completion of the policy review required by subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the results of such review.
+
+"(c) Updated Guidelines.—Not later than 90 days after the completion of the policy review required by subsection (a), the Secretary shall issue updated guidelines, based on the report submitted under subsection (b), regarding the use of commercial air transportation or alternative forms of air transportation to transport civilian personnel of the Department to and from Afghanistan."

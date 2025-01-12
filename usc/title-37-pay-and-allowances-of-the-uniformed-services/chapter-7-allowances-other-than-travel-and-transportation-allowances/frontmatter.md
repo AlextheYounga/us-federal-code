@@ -10,7 +10,7 @@ Sec.
 
 403. Basic allowance for housing.
 
-[403a. Repealed.]
+403a. Housing treatment for certain members of the armed forces, and their spouses and other dependents, undergoing a permanent change of station within the United States.
 
 403b. Cost-of-living allowance in the continental United States.
 
@@ -63,6 +63,8 @@ Sec.
 439. Special compensation: members of the uniformed services with catastrophic injuries or illnesses requiring assistance in everyday living.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title VI, §604(a)(2), Dec. 12, 2017, 131 Stat. 1420, added item 403a.
 
 **2016**—Pub. L. 114–328, div. A, title VI, §644(b)(3), Dec. 23, 2016, 130 Stat. 2167, substituted "Allowance to cover monthly premium for Servicemembers' Group Life Insurance: members serving in a designated duty assignment" for "Allowance to cover monthly premium for Servicemembers' Group Life Insurance: members serving in Operation Enduring Freedom or Operation Iraqi Freedom" in item 437.
 

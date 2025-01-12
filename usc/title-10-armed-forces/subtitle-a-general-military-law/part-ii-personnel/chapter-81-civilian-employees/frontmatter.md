@@ -136,6 +136,214 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 
 **1958**—Pub. L. 85–577, §1(2), July 31, 1958, 72 Stat. 456, added item 1585.
 
+#### Pilot Programs on Appointment in the Excepted Service in the Department of Defense of Physically Disqualified Former Cadets and Midshipmen ####
+
+Pub. L. 115–91, div. A, title V, §549, Dec. 12, 2017, 131 Stat. 1399, provided that:
+
+"(a) Pilot Programs Authorized.—
+
+"(1) In general.—Each Secretary of a military department may carry out a pilot program under which former cadets or midshipmen described in paragraph (2) (in this section referred to as 'eligible individuals') under the jurisdiction of such Secretary may be appointed by the Secretary of Defense in the excepted service under section 3320 of title 5, United States Code, in the Department of Defense.
+
+"(2) Cadets and midshipmen.—Except as provided in paragraph (3), a former cadet or midshipman described in this paragraph is any former cadet at the United States Military Academy or the United States Air Force Academy, and any former midshipman at the United States Naval Academy, who—
+
+"(A) completed the prescribed course of instruction and graduated from the applicable service academy; and
+
+"(B) is determined to be medically disqualified to complete a period of active duty in the Armed Forces prescribed in an agreement signed by such cadet or midshipman in accordance with section 4348, 6959, or 9348 of title 10, United States Code.
+
+"(3) Exception.—A former cadet or midshipman whose medical disqualification as described in paragraph (2)(B) is the result of the gross negligence or misconduct of the former cadet or midshipman is not an eligible individual for purposes of appointment under a pilot program.
+
+"(b) Purpose.—The purpose of the pilot programs conducted under this section is to evaluate the feasibility and advisability of permitting eligible individuals who cannot accept a commission or complete a period of active duty in the Armed Forces prescribed by the Secretary of the military department concerned to fulfill an obligation for active duty service in the Armed Forces through service as a civilian employee of the Department of Defense.
+
+"(c) Positions.—
+
+"(1) In general.—The positions to which an eligible individual may be appointed under a pilot program conducted under this section are existing positions within the Department of Defense in grades up to GS–9 under the General Schedule under section 5332 of title 5, United States Code (or equivalent). The authority in subsection (a) does not authorize the creation of additional positions, or create any vacancies to which eligible individuals may be appointed under a pilot program.
+
+"(2) Term positions.—Any appointment under a pilot program shall be to a position having a term of five years or less.
+
+"(d) Scope of Authority.—
+
+"(1) Recruitment and retention of eligible individuals.—The authority in subsection (a) may be used only to the extent necessary to recruit and retain on a non-competitive basis cadets and midshipmen who are relieved of an obligation for active duty in the Armed Forces due to becoming medically disqualified from serving on active duty in the Armed Forces, and may not be used to appoint any other individuals in the excepted service.
+
+"(2) Voluntary acceptance of appointments.—A pilot program conducted under this section may not be used as an implicit or explicit basis for compelling an eligible individual to accept an appointment in the excepted service in accordance with this section.
+
+"(e) Relationship to Repayment Provisions.—Completion of a term appointment pursuant to a pilot program conducted under this section shall relieve the eligible individual concerned of any repayment obligation under section 303a(e) or 373 of title 37, United States Code, with respect to the agreement of the individual described in subsection (a)(2)(B).
+
+"(f) Termination.—
+
+"(1) In general.—The authority to appoint eligible individuals in the excepted service under a pilot program conducted under this section shall expire on the date that is four years after the date of the enactment of this Act [Dec. 12, 2017].
+
+"(2) Effect on existing appointments.—The termination by paragraph (1) of the authority in subsection (a) shall not affect any appointment made under that authority before the termination date specified in paragraph (1) in accordance with the terms of such appointment.
+
+"(g) Reporting Requirement.—
+
+"(1) Report required.—Not later than the date that is three years after the date of the enactment of this Act [Dec. 12, 2017], each Secretary of a military department shall submit to the appropriate congressional committees a report containing an evaluation of the effectiveness of the pilot program conducted by such Secretary under this section, including the number of eligible individuals appointed as civilian employees of the Department of Defense under the program and the retention rate for such employees.
+
+"(2) Appropriate congressional committees defined.—In this section, the term 'appropriate congressional committees' means the Committee on Armed Services and the Committee on Homeland Security and Government Affairs of the Senate and the Committee on Armed Services and the Committee on Oversight and Government Reform of the House of Representatives."
+
+#### Direct Hire Authority for the Department of Defense for Personnel To Assist in Business Transformation and Management Innovation ####
+
+Pub. L. 115–91, div. A, title XI, §1101, Dec. 12, 2017, 131 Stat. 1627, provided that:
+
+"(a) Authority.—The Secretary of Defense may appoint in the Department of Defense individuals described in subsection (b) without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, for the purpose of assisting and facilitating the efforts of the Department in business transformation and management innovation.
+
+"(b) Covered Individuals.—The individuals described in this subsection are individuals who have all of the following:
+
+"(1) A management or business background.
+
+"(2) Experience working with large or complex organizations.
+
+"(3) Expertise in management and organizational change, data analytics, or business process design.
+
+"(c) Limitation on Number.—The number of individuals appointed pursuant to this section at any one time may not exceed 10 individuals.
+
+"(d) Nature of Appointment.—Any appointment under this section shall be on a term basis, and shall be subject to the term appointment regulations in part 316 of title 5, Code of Federal Regulations (other than requirements in such regulations relating to competitive hiring). The term of any such appointment shall be specified by the Secretary at the time of the appointment.
+
+"(e) Briefings.—
+
+"(1) In general.—Not later than September 30, 2019, and September 30, 2021, the Secretary shall brief the appropriate committees of Congress on the exercise of the authority in this section.
+
+"(2) Elements.—Each briefing under this subsection shall include the following:
+
+"(A) A description and assessment of the results of the use of such authority as of the date of such briefing.
+
+"(B) Such recommendations as the Secretary considers appropriate for extension or modification of such authority.
+
+"(3) Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' means—
+
+"(A) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+"(B) the Committee on Armed Services and the Committee on Government Oversight and Reform of the House of Representatives.
+
+"(f) Sunset.—
+
+"(1) In general.—The authority to appoint individuals in this section shall expire on September 30, 2021.
+
+"(2) Construction with existing appointments.—The expiration in paragraph (1) of the authority in this section shall not be construed to terminate any appointment made under this section before the date of expiration that continues according to its term as of the date of expiration."
+
+#### Pilot Program on Enhanced Personnel Management System for Cybsersecurity and Legal Professionals in the Department of Defense ####
+
+Pub. L. 115–91, div. A, title XI, §1110, Dec. 12, 2017, 131 Stat. 1631, provided that:
+
+"(a) Pilot Program Required.—The Secretary of Defense shall carry out within the Department of Defense a pilot program to assess the feasability and advisability of an enhanced personnel management system in accordance with this section for cybersecurity and legal professionals in the Department described in subsection (b) who enter civilian service with the Department on or after January 1, 2020.
+
+"(b) Cybersecurity and Legal Professionals.—
+
+"(1) In general.—The cybersecurity and legal professionals described in this subsection are the following:
+
+"(A) Civilian cybersecurity professionals in the Department of Defense consisting of civilian personnel engaged in or directly supporting planning, commanding and controlling, training, developing, acquiring, modifying, and operating systems and capabilities, and military units and intelligence organizations (other than those funded by the National Intelligence Program) that are directly engaged in or used for offensive and defensive cyber and information warfare or intelligence activities in support thereof.
+
+"(B) Civilian legal professionals in the Department occupying legal or similar positions, as determined by the Secretary of Defense for purposes of the pilot program, that require eligibility to practice law in a State or territory of the United States.
+
+"(2) Inapplicability to ses positions.—The pilot program shall not apply to positions within the Senior Executive Service under subchapter VIII of chapter 53 of title 5, United States Code.
+
+"(c) Direct-appointment Authority.—
+
+"(1) Inapplicability of general civil service appointment authorities to appointments.—Under the pilot program, the Secretary of Defense, with respect to the Defense Agencies, and the Secretary of the military department concerned, with respect to the military departments, may appoint qualified candidates as cybersecurity and legal professionals without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code.
+
+"(2) Appointment on direct-hire basis.—Appointments under the pilot program shall be made on a direct-hire basis.
+
+"(d) Term Appointments.—
+
+"(1) Renewable term appointments.—Each individual shall serve with the Department of Defense as a cybersecurity or legal professional under the pilot program pursuant to an initial appointment to service with the Department for a term of not less than 2 years nor more than 8 years. Any term of appointment under the pilot program may be renewed for one or more additional terms of not less than 2 years nor more than 8 years as provided in subsection (h).
+
+"(2) Length of terms.—The length of the term of appointment to a position under the pilot program shall be prescribed by the Secretary of Defense taking into account the national security, mission, and other applicable requirements of the position. Positions having identical or similar requirements or terms may be grouped into categories for purposes of the pilot program. The Secretary may delegate any authority in this paragraph to a commissioned officer of the Armed Forces in pay grade O–7 or above or an employee in the Department in the Senior Executive Service.
+
+"(e) Nature of Service Under Appointments.—
+
+"(1) Treatment of personnel appointed as employees.—Except as otherwise provided by this section, individuals serving with the Department of Defense as cybersecurity or legal professionals under the pilot program pursuant to appointments under this section shall be considered employees (as specified in section 2105 of title 5, United States Code) for purposes of the provisions of title 5, United States Code, and other applicable provisions of law, including, in particular, for purposes as follows:
+
+"(A) Eligibility for participation in the Federal Employees' Retirement System under chapter 84 of title 5, United States Code, subject to the provisions of section 8402 of such title and the regulations prescribed pursuant to such section.
+
+"(B) Eligibility for enrollment in a health benefits plan under chapter 89 of title 5, United States Code (commonly referred as the 'Federal Employees Health Benefits Program').
+
+"(C) Eligibility for and subject to the employment protections of subpart F of part III of title 5, United States Code, relating to merit principles and protections.
+
+"(D) Eligibility for the protections of chapter 81, of title 5, United States Code, relating to workers compensation.
+
+"(2) Scope of rights and benefits.—In administering the pilot program, the Secretary of Defense shall specify, and from time to time update, a comprehensive description of the rights and benefits of individuals serving with the Department under the pilot program pursuant to this subsection and of the provisions of law under which such rights and benefits arise.
+
+"(f) Compensation.—
+
+"(1) Basic pay.—Individuals serving with the Department of Defense as cybersecurity or legal professionals under the pilot program shall be paid basic pay for such service in accordance with a schedule of pay prescribed by the Secretary of Defense for purposes of the pilot program.
+
+"(2) Treatment as basic pay.—Basic pay payable under the pilot program shall be treated for all purposes as basic pay paid under the provisions of title 5, United States Code.
+
+"(3) Performance awards.—Individuals serving with the Department as cybersecurity or legal professionals under the pilot program may be awarded such performance awards for outstanding performance as the Secretary shall prescribe for purposes of the pilot program. The performance awards may include a monetary bonus, time off with pay, or such other awards as the Secretary considers appropriate for purposes of the pilot program. The award of performance awards under the pilot program shall be based in accordance with such policies and requirements as the Secretary shall prescribe for purposes of the pilot program.
+
+"(4) Additional compensation.—Individuals serving with the Department as cybersecurity or legal professionals under the pilot program may be awarded such additional compensation above basic pay as the Secretary (or the designees of the Secretary) consider appropriate in order to promote the recruitment and retention of highly skilled and productive cybersecurity and legal professionals to and with the Department.
+
+"(g) Probationary Period.—The following terms of appointment shall be treated as a probationary period under the pilot program:
+
+"(1) The first term of appointment of an individual to service with the Department of Defense as a cybersecurity or legal professional, regardless of length.
+
+"(2) The first term of appointment of an individual to a supervisory position in the Department as a cybersecurity or legal professional, regardless of length and regardless of whether or not such term of appointment to a supervisory position is the first term of appointment of the individual concerned to service with the Department as a cybersecurity or legal professional.
+
+"(h) Renewal of Appointments.—
+
+"(1) In general.—The Secretary of Defense shall prescribe the conditions for the renewal of appointments under the pilot program. The conditions may apply to one or more categories of positions, positions on a case-by-case basis, or both.
+
+"(2) Particular conditions.—In prescribing conditions for the renewal of appointments under the pilot program, the Secretary shall take into account the following (in the order specified):
+
+"(A) The necessity for the continuation of the position concerned based on mission requirements and other applicable justifications for the position.
+
+"(B) The service performance of the individual serving in the position concerned, with individuals with satisfactory or better performance afforded preference in renewal.
+
+"(C) Input from employees on conditions for renewal.
+
+"(D) Applicable private and public sector labor market conditions.
+
+"(3) Service performance.—The assessment of the service performance of an individual under the pilot program for purposes of paragraph (2)(B) shall consist of an assessment of the ability of the individual to effectively accomplish mission goals for the position concerned as determined by the supervisor or manager of the individual based on the individual's performance evaluations and the knowledge of and review by such supervisor or manager (developed in consultation with the individual) of the individual's performance in the position. An individual's tenure of service in a position or the Department of Defense may not be the primary element of the assessment.
+
+"(i) Professional Development.—The pilot program shall provide for the professional development of individuals serving with the Department of Defense as cybersecurity and legal professionals under the pilot program in a manner that—
+
+"(1) creates opportunities for education, training, and career-broadening experiences, and for experimental opportunities in other organizations within and outside the Federal Government; and
+
+"(2) reflects the differentiated needs of personnel at different stages of their careers.
+
+"(j) Sabbaticals.—
+
+"(1) In general.—The pilot program shall provide for an individual who is in a successive term after the first 8 years with the Department of Defense as a cybersecurity or legal professional under the pilot program to take, at the election of the individual, a paid or unpaid sabbatical from service with the Department for professional development or education purposes. The length of a sabbatical shall be any length not less than 6 months nor more than 1 year (unless a different period is approved by the Secretary of the military department or head of the organization or element of the Department concerned for purposes of this subsection). The purpose of any sabbatical shall be subject to advance approval by the organization or element in the Department in which the individual is currently performing service. The taking of a sabbatical shall be contingent on the written agreement of the individual concerned to serve with the Department for an appropriate length of time at the conclusion of the term of appointment in which the sabbatical commences, with the period of such service to be in addition to the period of such term of appointment.
+
+"(2) Number of sabbaticals.—An individual may take more than one sabbatical under this subsection.
+
+"(3) Repayment.—Except as provided in paragraph (4), an individual who fails to satisfy a written agreement executed under paragraph (1) with respect to a sabbatical shall repay the Department an amount equal to any pay, allowances, and other benefits received by the individual from the Department during the period of the sabbatical.
+
+"(4) Waiver of repayment.—An agreement under paragraph (1) may include such conditions for the waiver of repayment otherwise required under paragraph (3) for failure to satisfy such agreement as the Secretary specifies in such agreement.
+
+"(k) Regulations.—The Secretary of Defense shall administer the pilot program under regulations prescribed by the Secretary for purposes of the pilot program.
+
+"(l) Termination.—
+
+"(1) In general.—The authority of the Secretary of Defense to appoint individuals for service with the Department of Defense as cybersecurity or legal professionals under the pilot program shall expire on December 31, 2029.
+
+"(2) Effect on existing appointments.—The termination of authority in paragraph (1) shall not be construed to terminate or otherwise affect any appointment made under this section before December 31, 2029, that remains valid as of that date.
+
+"(m) Implementation.—
+
+"(1) Interim final rule.—Not later than one year after the date of the enactment of this Act [Dec. 12, 2017], the Secretary of Defense shall prescribe an interim final rule to implement the pilot program.
+
+"(2) Final rule.—Not later than 180 days after prescribing the interim final rule under paragraph (1) and considering public comments with respect to such interim final rule, the Secretary shall prescribe a final rule to implement the pilot program.
+
+"(3) Objectives.—The regulations prescribed under paragraphs (1) and (2) shall accomplish the objectives set forth in subsections (a) through (j) and otherwise ensure flexibility and expedited appointment of cybersecurity and legal professionals in the Department of Defense under the pilot program.
+
+"(n) Reports.—
+
+"(1) Reports required.—Not later than January 30 of each of 2022, 2025, and 2028, the Secretary of Defense shall submit to the appropriate committees of Congress a report on the carrying out of the pilot program. Each report shall include the following:
+
+"(A) A description and assessment of the carrying out of the pilot program during the period since the commencement of the pilot program or the previous submittal of a report under this subsection, as applicable.
+
+"(B) A description and assessment of the successes in and impediments to carrying out the pilot program system during such period.
+
+"(C) Such recommendations as the Secretary considers appropriate for legislative action to improve the pilot program and to otherwise improve civilian personnel management of cybersecurity and legal professionals by the Department of Defense.
+
+"(D) In the case of the report submitted in 2028, an assessment and recommendations by the Secretary on whether to make the pilot program permanent.
+
+"(2) Appropriate committees of congress defined.—In this subsection, the term 'appropriate committees of Congress' means—
+
+"(A) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+"(B) the Committee on Armed Services and the Committee on Oversight and Government Reform of the House of Representatives."
+
 #### Temporary and Term Appointments in the Competitive Service in the Department of Defense ####
 
 Pub. L. 114–328, div. A, title XI, §1105, Dec. 23, 2016, 130 Stat. 2447, provided that:
@@ -198,13 +406,13 @@ Pub. L. 114–328, div. A, title XI, §1106, Dec. 23, 2016, 130 Stat. 2447, prov
 
 #### Direct Hire Authority for Financial Management Experts in the Department of Defense Workforce ####
 
-Pub. L. 114–328, div. A, title XI, §1110, Dec. 23, 2016, 130 Stat. 2450, provided that:
+Pub. L. 114–328, div. A, title XI, §1110, Dec. 23, 2016, 130 Stat. 2450, as amended by Pub. L. 115–91, div. A, title XI, §1106(a), Dec. 12, 2017, 131 Stat. 1629, provided that:
 
-"(a) Authority.—Each Secretary concerned may appoint qualified candidates possessing a finance, accounting, management, or actuarial science degree, or a related degree or equivalent experience, to positions specified in subsection (c) for the Defense Agencies or the applicable military department without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code.
+"(a) Authority.—Each Secretary concerned may appoint qualified candidates possessing a finance, accounting, management, or actuarial science degree, or a related degree or equivalent experience, to positions specified in subsection (c) for a Department of Defense component without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code.
 
 "(b) Secretary Concerned.—For purposes of this section, the Secretary concerned is as follows:
 
-"(1) The Secretary of Defense with respect to the Defense Agencies.
+"(1) The Secretary of Defense with respect to each Department of Defense component listed in subsection (f) other than the Department of the Army, the Department of the Navy, and the Department of the Air Force.
 
 "(2) The Secretary of a military department with respect to such military department.
 
@@ -224,19 +432,39 @@ Pub. L. 114–328, div. A, title XI, §1110, Dec. 23, 2016, 130 Stat. 2450, prov
 
 "(7) Business and business administration positions.
 
-"(d) Limitation.—Authority under this section may not, in any calendar year and with respect to any Defense Agency or military department, be exercised with respect to a number of candidates greater than the number equal to 10 percent of the total number of the financial management, accounting, auditing, and actuarial positions within the financial management workforce of such Defense Agency or military department that are filled as of the close of the fiscal year last ending before the start of such calendar year.
+"(d) Limitation.—Authority under this section may not, in any calendar year and with respect to any Department of Defense component, be exercised with respect to a number of candidates greater than the number equal to 10 percent of the total number of the financial management, accounting, auditing, and actuarial positions within the financial management workforce of such Department of Defense component that are filled as of the close of the fiscal year last ending before the start of such calendar year.
 
 "(e) Nature of Appointment.—Any appointment under this section shall be treated as an appointment on a full-time equivalent basis, unless such appointment is made on a term or temporary basis.
 
-"(f) Employee Defined.—In this section, the term 'employee' has the meaning given that term in section 2105 of title 5, United States Code.
+"(f) Department of Defense Component Defined.—In this section, the term 'Department of Defense component' means the following:
+
+"(1) A Defense Agency.
+
+"(2) The Office of the Chairman of the Joint Chiefs of Staff.
+
+"(3) The Joint Staff.
+
+"(4) A combatant command.
+
+"(5) The Office of the Inspector General of the Department of Defense.
+
+"(6) A Field Activity of the Department of Defense.
+
+"(7) The Department of the Army.
+
+"(8) The Department of the Navy.
+
+"(9) The Department of the Air Force.
 
 "(g) Termination.—The authority to make appointments under this section shall not be available after December 31, 2022."
 
+[Pub. L. 115–91, div. A, title XI, §1106(a)(1), Dec. 12, 2017, 131 Stat. 1629, which directed amendment of section 1110(a) of Pub. L. 114–328, set out above, by substituting "a Department of Defense component" for "the Defense Agencies or the applicable military Department", was executed by making the substitution for "the Defense Agencies or the applicable military department", to reflect the probable intent of Congress.]
+
 #### Temporary Direct Hire Authority for Domestic Defense Industrial Base Facilities, the Major Range and Test Facilities Base, and the Office of the Director of Operational Test and Evaluation ####
 
-Pub. L. 114–328, div. A, title XI, §1125, Dec. 23, 2016, 130 Stat. 2457, provided that:
+Pub. L. 114–328, div. A, title XI, §1125, Dec. 23, 2016, 130 Stat. 2457, as amended by Pub. L. 115–91, div. A, title XI, §1102(a), Dec. 12, 2017, 131 Stat. 1628, provided that:
 
-"(a) Defense Industrial Base Facility and MRTFB.—During fiscal years 2017 and 2018, the Secretary of Defense may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title, qualified candidates to positions in the competitive service at any defense industrial base facility or the Major Range and Test Facilities Base.
+"(a) Defense Industrial Base Facility and MRTFB.—During each of fiscal years 2017 through 2021, the Secretary of Defense may appoint, without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title, qualified candidates to positions in the competitive service at any defense industrial base facility or the Major Range and Test Facilities Base.
 
 "(b) Office of the Director of Operational Test and Evaluation.—During fiscal years 2017 through 2021, the Secretary of Defense may, acting through the Director of Operational Test and Evaluation, appoint qualified candidates possessing an advanced degree to scientific and engineering positions within the Office of the Director of Operational Test and Evaluation without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title.
 
@@ -244,9 +472,9 @@ Pub. L. 114–328, div. A, title XI, §1125, Dec. 23, 2016, 130 Stat. 2457, prov
 
 #### Temporary Personnel Flexibilities for Domestic Defense Industrial Base Facilities and Major Range and Test Facilities Base Civilian Personnel ####
 
-Pub. L. 114–328, div. A, title XI, §1132, Dec. 23, 2016, 130 Stat. 2457, provided that:
+Pub. L. 114–328, div. A, title XI, §1132, Dec. 23, 2016, 130 Stat. 2457, as amended by Pub. L. 115–91, div. A, title XI, §1107(a), Dec. 12, 2017, 131 Stat. 1630, provided that:
 
-"(a) In General.—Notwithstanding chapter 33 of title 5, United States Code, or any other provision of law relating to the examination, certification, and appointment of individuals in the competitive service, during fiscal years 2017 and 2018, an employee of a defense industrial base facility or the Major Range and Test Facilities Base serving under a time-limited appointment in the competitive service is eligible to compete for a permanent appointment in the competitive service at (A) any such facility, Base, or any other component of the Department of Defense when such facility, Base, or component (as the case may be) is accepting applications from individuals within the facility, Base, or component's workforce under merit promotion procedures, or (B) any agency when the agency is accepting applications from individuals outside its own workforce under merit promotion procedures of the applicable agency, if—
+"(a) In General.—Notwithstanding chapter 33 of title 5, United States Code, or any other provision of law relating to the examination, certification, and appointment of individuals in the competitive service, during fiscal years 2017 through 2021, an employee of a defense industrial base facility or the Major Range and Test Facilities Base serving under a time-limited appointment in the competitive service is eligible to compete for a permanent appointment in the competitive service at (A) any such facility, Base, or any other component of the Department of Defense when such facility, Base, or component (as the case may be) is accepting applications from individuals within the facility, Base, or component's workforce under merit promotion procedures, or (B) any agency when the agency is accepting applications from individuals outside its own workforce under merit promotion procedures of the applicable agency, if—
 
 "(1) the employee was appointed initially under open, competitive examination under subchapter I of chapter 33 of such title to the time-limited appointment;
 

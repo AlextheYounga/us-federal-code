@@ -94,7 +94,11 @@ Sec.
 
 2410r. Contract working dogs: requirement to transfer animals to 341st Training Squadron after service life.
 
+2410s. Security clearances for facilities of certain companies 1
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title XVI, §1621(b), Dec. 12, 2017, 131 Stat. 1732, added item 2410s.
 
 **2016**—Pub. L. 114–328, div. A, title III, §342(a)(2), title VIII, §833(b)(4)(B), Dec. 23, 2016, 130 Stat. 2082, 2285, added item 2410r and struck out item 2387 "Procurement of table and kitchen equipment for officers' quarters: limitation on".
 
@@ -183,3 +187,5 @@ Pub. L. 114–92, div. A, title XVI, §1614, Nov. 25, 2015, 129 Stat. 1105, prov
 "(a) Prohibition.—The Secretary of Defense shall ensure that the Department of Defense does not rely on, or in the future plan to rely on, space-based weather data provided by the Government of the People's Republic of China, the Government of the Russian Federation, or an entity owned or controlled by either such government for national security purposes.
 
 "(b) Certification.—Not later than 90 days after the date of the enactment of this Act [Nov. 25, 2015], the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a certification that the Secretary is in compliance with the prohibition under subsection (a)."
+
+[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER141_1)

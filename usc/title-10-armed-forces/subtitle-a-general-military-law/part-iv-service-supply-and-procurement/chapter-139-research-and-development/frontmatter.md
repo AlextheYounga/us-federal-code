@@ -28,7 +28,7 @@ Sec.
 
 2362. Research and educational programs and activities: historically black colleges and universities and minority-serving institutions of higher education.
 
-[2363. Repealed.]
+2363. Mechanisms to provide funds for defense laboratories for research and development of technologies for military missions.
 
 2364. Coordination and communication of defense research activities and technology domain awareness.
 
@@ -54,9 +54,9 @@ Sec.
 
 2371b. Authority of the Department of Defense to carry out certain prototype projects.
 
-2372. Independent research and development costs: allowable costs 1
+2372. Independent research and development costs: allowable costs.
 
-2372a. Bid and proposal costs: allowable costs 1
+2372a. Bid and proposal costs: allowable costs.
 
 2373. Procurement for experimental purposes.
 
@@ -67,6 +67,8 @@ Sec.
 [2374b. Repealed.]
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title II, §220(b), title X, §1081(a)(33), Dec. 12, 2017, 131 Stat. 1333, 1596, added item 2363 and inserted a period at end of items 2372 and 2372a.
 
 **2016**—Pub. L. 114–328, div. A, title VIII, §§808(c)(2), 824(a)(2), (b)(2), title XI, §1122(a)(2), Dec. 23, 2016, 130 Stat. 2266, 2277, 2279, 2455, added items 2358a, 2366c, 2372, and 2372a and struck out former item 2372 "Independent research and development and bid and proposal costs: payments to contractors".
 
@@ -139,5 +141,3 @@ Pub. L. 99–500, §101(c) [title X, §§909(a)(2), 910(a)(2), 912(a)(2)], Oct. 
 **1962**—Pub. L. 87–651, title II, §208(b), Sept. 7, 1962, 76 Stat. 523, added item 2358.
 
 **1958**—Pub. L. 85–599, §3(d), Aug. 6, 1958, 72 Stat. 516, struck out item 2351 "Policy, plans, and coordination".
-
-[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER139_1)

@@ -46,4 +46,8 @@
 
 (Added Pub. L. 114–328, div. A, title X, §1064(a)(1), Dec. 23, 2016, 130 Stat. 2408.)
 
+#### Annual Report on Unfunded Requirements for Laboratory Military Construction Projects ####
+
+Pub. L. 115–91, div. B, title XXVIII, §2806, Dec. 12, 2017, 131 Stat. 1847, provided that: "The Under Secretary of Defense for Research and Engineering, in coordination with the Assistant Secretary of Defense for Energy, Installations, and Environment, shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] each year, at the time the budget of the President for the fiscal year beginning in such year is submitted to Congress under section 1105(a) of title 31, United States Code, a reporting listing unfunded requirements on major and minor military construction projects for Department of Defense science and technology laboratories and facilities and test and evaluation facilities, and shall include a Department of Defense Form DD1391 for each major and minor military construction project included in the report."
+
 [<sup>1</sup> So in original. Probably should be preceded by "had".](#222a_1)

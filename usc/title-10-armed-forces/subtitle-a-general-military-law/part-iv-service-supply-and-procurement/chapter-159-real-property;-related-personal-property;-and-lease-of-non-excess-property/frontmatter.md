@@ -68,7 +68,7 @@ Sec.
 
 [2689, 2690. Renumbered.]
 
-2691. Restoration of land used by permit or lease.
+2691. Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires.
 
 2692. Storage, treatment, and disposal of nondefense toxic and hazardous materials.
 
@@ -95,6 +95,8 @@ Sec.
 This section makes necessary clerical amendments to chapter analysis.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. B, title XXVIII, §2814(c), Dec. 12, 2017, 131 Stat. 1850, substituted "Restoration of land used by permit or damaged by mishap; reimbursement of State costs of fighting wildland fires" for "Restoration of land used by permit or lease" in item 2691.
 
 **2015**—Pub. L. 114–92, div. B, title XXVIII, §2811(b), Nov. 25, 2015, 129 Stat. 1174, added item 2672.
 

@@ -75,7 +75,11 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–328, div. A, title VIII, §§805(a)(2), 846(2), Dec. 23, 2016, 130 Stat. 2255, 2292, struck out item for chapter 144A "Major Automated Information System Programs" and added item for chapter 144B.
+**2017**—Pub. L. 115–91, div. A, title X, §1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, amended directory language of Pub. L. 114–328, §805(a)(2). See 2016 Amendment note below.
+
+**2016**—Pub. L. 114–328, div. A, title VIII, §846(2), Dec. 23, 2016, 130 Stat. 2292, struck out item for chapter 144A "Major Automated Information System Programs".
+
+Pub. L. 114–328, div. A, title VIII, §805(a)(2), Dec. 23, 2016, 130 Stat. 2255, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, added item for chapter 144B.
 
 **2011**—Pub. L. 111–383, div. A, title VIII, §861(b), Jan. 7, 2011, 124 Stat. 4292, added item for chapter 149.
 

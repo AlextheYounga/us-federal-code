@@ -12,13 +12,19 @@
 
 (c) If the sentence of a member who forfeits pay and allowances under subsection (a) is set aside or disapproved or, as finally approved, does not provide for a punishment referred to in subsection (a)(2), the member shall be paid the pay and allowances which the member would have been paid, except for the forfeiture, for the period during which the forfeiture was in effect.
 
-(Added Pub. L. 104–106, div. A, title XI, §1122(a)(1), Feb. 10, 1996, 110 Stat. 463; amended Pub. L. 104–201, div. A, title X, §1068(a)(1), Sept. 23, 1996, 110 Stat. 2655; Pub. L. 105–85, div. A, title X, §1073(a)(9), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 114–328, div. E, title LVIII, §5302(b)(3), Dec. 23, 2016, 130 Stat. 2923.)
+(Added Pub. L. 104–106, div. A, title XI, §1122(a)(1), Feb. 10, 1996, 110 Stat. 463; amended Pub. L. 104–201, div. A, title X, §1068(a)(1), Sept. 23, 1996, 110 Stat. 2655; Pub. L. 105–85, div. A, title X, §1073(a)(9), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 114–328, div. E, title LVIII, §5302(b)(3), Dec. 23, 2016, 130 Stat. 2923; Pub. L. 115–91, div. A, title V, §531(g), Dec. 12, 2017, 131 Stat. 1385.)
 
 #### Amendment of Subsection (a)(1) ####
 
 Pub. L. 114–328, div. E, title LVIII, §5302(b)(3), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2923, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, subsection (a)(1) of this section is amended by striking "section 857(a) of this title (article 57(a))" and inserting "section 857 of this title (article 57)". See 2016 Amendment note below.
 
+#### Amendment of Subsection (b) ####
+
+Pub. L. 115–91, div. A, title V, §531(g), (p), Dec. 12, 2017, 131 Stat. 1385, 1388, provided that, effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), subsection (b) of this section is amended in the first sentence by striking "section 860 of this title (article 60)" and inserting "section 860a or 860b of this title (article 60a or 60b)". See 2017 Amendment note below.
+
 #### Amendments ####
+
+**2017**—Subsec. (b). Pub. L. 115–91 substituted "section 860a or 860b of this title (article 60a or 60b)" for "section 860 of this title (article 60)".
 
 **2016**—Subsec. (a)(1). Pub. L. 114–328 substituted "section 857 of this title (article 57)" for "section 857(a) of this title (article 57(a))".
 
@@ -27,6 +33,10 @@ Pub. L. 114–328, div. E, title LVIII, §5302(b)(3), title LXIII, §5542, Dec. 
 **1996**—Subsec. (a)(1). Pub. L. 104–201, §1068(a)(1)(B), substituted "two-thirds of all pay" for "two-thirds of all pay and allowances" in third sentence.
 
 Pub. L. 104–201, §1068(a)(1)(A), which directed amendment of first sentence by inserting "(if adjudged by a general court-martial)" after "all pay and", was executed by making the insertion after "of pay and" in first sentence to reflect the probable intent of Congress.
+
+#### Effective Date of 2017 Amendment ####
+
+Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 #### Effective Date of 2016 Amendment ####
 

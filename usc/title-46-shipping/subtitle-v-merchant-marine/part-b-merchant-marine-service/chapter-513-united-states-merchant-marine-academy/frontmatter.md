@@ -36,11 +36,19 @@ Sec.
 
 51317. Adjunct professors.
 
-51318. Policy on sexual harassment and sexual assault.
+51318. Policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking.
 
 51319. Sexual assault response coordinators and sexual assault victim advocates.
 
+51320. Acceptance of guarantees with gifts for major projects.
+
+51321. Grants for scientific and educational research.
+
+51322. Protection of cadets from sexual assault onboard vessels.
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. C. title XXXV, §§3510(b), 3512(b), 3514(d)(2), 3516(b), Dec. 12, 2017, 131 Stat. 1918, 1919, 1923, 1928, added items 51318 and 51320 to 51322 and struck out former item 51318 "Policy on sexual harassment and sexual assault".
 
 **2016**—Pub. L. 114–328, div. C, title XXXV, §§3510(b), 3511(b), Dec. 23, 2016, 130 Stat. 2785, 2786, added items 51318 and 51319.
 

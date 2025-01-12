@@ -42,7 +42,11 @@ Sec.
 
 239. National security space programs: major force program and budget assessment.
 
+239a. Missile defense and defeat programs: major force program and budget assessment.
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title XVI, §1676(a)(2), Dec. 12, 2017, 131 Stat. 1772, added item 239a.
 
 **2016**—Pub. L. 114–328, div. A, title X, §1064(a)(2), Dec. 23, 2016, 130 Stat. 2409, added item 222a.
 

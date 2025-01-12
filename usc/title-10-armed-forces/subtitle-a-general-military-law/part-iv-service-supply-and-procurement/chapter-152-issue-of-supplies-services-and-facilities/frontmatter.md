@@ -36,7 +36,7 @@ Sec.
 
 2566. Space and services: provision to military welfare societies.
 
-2567. Space and services: provision to WIC offices 1
+2567. Space and services: provision to WIC offices.
 
 2568. Retention of combat uniforms by members deployed in support of contingency operations.
 
@@ -45,6 +45,8 @@ Sec.
 Chapter was comprised of subchapter I, former section 2540, and subchapter II, sections 2541 to 2553, prior to amendment by Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512, which struck out headings for subchapters I and II.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title X, §1081(a)(42), Dec. 12, 2017, 131 Stat. 1596, inserted period at end of item 2567.
 
 **2016**—Pub. L. 114–328, div. A, title XII, §1253(a)(2)(C), div. B, title XXVIII, §2812(b), Dec. 23, 2016, 130 Stat. 2532, 2717, struck out item 2562 "Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs" and added item 2567.
 
@@ -91,5 +93,3 @@ Pub. L. 104–106, div. A, title XV, §1503(a)(29), Feb. 10, 1996, 110 Stat. 512
 **1972**—Pub. L. 92–249, Mar. 10, 1972, 86 Stat. 62, added item 2544.
 
 **1958**—Pub. L. 85–861, §1(48)(B), Sept. 2, 1958, 72 Stat. 1459, added item 2543.
-
-[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER152_1)

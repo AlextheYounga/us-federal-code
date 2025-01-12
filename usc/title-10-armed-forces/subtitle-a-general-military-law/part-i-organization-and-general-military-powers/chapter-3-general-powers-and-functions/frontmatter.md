@@ -64,7 +64,13 @@ Sec.
 
 130i. Protection of certain facilities and assets from unmanned aircraft.
 
+130j. Notification requirements for sensitive military cyber operations 1
+
+130k. Notification requirements for cyber weapons 1
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title XVI, §1631(b), Dec. 12, 2017, 131 Stat. 1738, added items 130j and 130k.
 
 **2016**—Pub. L. 114–328, div. A, title X, §1036(f)(2), title XI, §1101(b)(2), title XII, §§1203(a)(2), 1245(b), title XVI, §§1662(a)(3), 1682(a)(2), 1697(b), Dec. 23, 2016, 130 Stat. 2392, 2444, 2476, 2520, 2614, 2624, 2640, added items 127e, 128, 130f, 130h, and 130i, substituted "Civilian personnel management" for "Prohibition of certain civilian personnel management constraints" in item 129, and struck out former items 127d "Allied forces participating in combined operations: authority to provide logistic support, supplies, and services", 128 "Physical protection of special nuclear material: limitation on dissemination of unclassified information", 130f "Congressional notification of sensitive military operations", and 130h "Prohibitions on providing certain missile defense information to Russian Federation".
 
@@ -121,3 +127,5 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 "
 **1962**—Pub. L. 87–651, title II, §201(b), Sept. 7, 1962, 76 Stat. 517, added items 124 to 126.
 
 **1958**—Pub. L. 85–861, §1(2)(B), Sept. 2, 1958, 72 Stat. 1437, added items 122 and 123.
+
+[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER3_1)

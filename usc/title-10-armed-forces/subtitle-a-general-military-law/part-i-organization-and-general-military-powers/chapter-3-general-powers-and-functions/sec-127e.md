@@ -22,11 +22,13 @@
 
 (f) Intelligence Activities.—This section does not constitute authority to conduct a covert action, as such term is defined in section 503(e) of the National Security Act of 1947 (50 U.S.C. 3093(e)).
 
-(g) Biannual Reports.—
+(g) Oversight by ASD for SOLIC.—The Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict shall have primary responsibility within the Office of the Secretary of Defense for oversight of policies and programs for support authorized by this section.
 
-(1) Report on preceding calendar year.—Not later than March 1 each year, the Secretary shall submit to the congressional defense committees a report on the support provided under this section during the preceding calendar year.
+(h) Biannual Reports.—
 
-(2) Report on current calendar year.—Not later than September 1 each year, the Secretary shall submit to the congressional defense committees a report on the support provided under this section during the first half of the calendar year in which the report is submitted.
+(1) Report on preceding calendar year.—Not later than 120 days after the last day of each fiscal year, the Secretary shall submit to the congressional defense committees a report on the support provided under this section during the preceding calendar year.
+
+(2) Report on current calendar year.—Not later than six months after the date of the submittal of the report most recently submitted under paragraph (1), the Secretary shall submit to the congressional defense committees a report on the support provided under this section during the first half of the calendar year in which the report under this paragraph is submitted.
 
 (3) Elements.—Each report required by this subsection shall include, for the period covered by such report, the following:
 
@@ -46,4 +48,12 @@
 
 (H) A value assessment of the support provided under this section, including a summary of significant activities undertaken by foreign forces, irregular forces, groups, or individuals to support operations by United States special operations forces to combat terrorism.
 
-(Added Pub. L. 114–328, div. A, title XII, §1203(a)(1), Dec. 23, 2016, 130 Stat. 2474.)
+(Added Pub. L. 114–328, div. A, title XII, §1203(a)(1), Dec. 23, 2016, 130 Stat. 2474; amended Pub. L. 115–91, div. A, title X, §1031, Dec. 12, 2017, 131 Stat. 1550.)
+
+#### Amendments ####
+
+**2017**—Subsecs. (g), (h). Pub. L. 115–91, §1031(a), added subsec. (g) and redesignated former subsec. (g) as (h).
+
+Subsec. (h)(1). Pub. L. 115–91, §1031(b)(1), substituted "120 days after the last day of each fiscal year" for "March 1 each year".
+
+Subsec. (h)(2). Pub. L. 115–91, §1031(b)(2), substituted "six months after the date of the submittal of the report most recently submitted under paragraph (1)" for "September 1 each year" and inserted "under this paragraph" after "in which the report".

@@ -1,38 +1,54 @@
-### §137a. Principal Deputy Under Secretaries of Defense ###
+### §137a. Deputy Under Secretaries of Defense ###
 
-(a)(1) There are five Principal Deputy Under Secretaries of Defense.
+(a)(1) There are six Deputy Under Secretaries of Defense.
 
-(2) The Principal Deputy Under Secretaries of Defense shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
+(2) The Deputy Under Secretaries of Defense shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
 (3) The officials authorized under this section shall be the only Deputy Under Secretaries of Defense.
 
-(b) Each Principal Deputy Under Secretary of Defense shall be the first assistant to an Under Secretary of Defense and shall assist such Under Secretary in the performance of the duties of the position of such Under Secretary and shall act for, and exercise the powers of, such Under Secretary when such Under Secretary dies, resigns, or is otherwise unable to perform the functions and duties of the office.
+(b) Each Deputy Under Secretary of Defense shall be the first assistant to an Under Secretary of Defense and shall assist such Under Secretary in the performance of the duties of the position of such Under Secretary and shall act for, and exercise the powers of, such Under Secretary when such Under Secretary dies, resigns, or is otherwise unable to perform the functions and duties of the office.
 
-(c)(1) One of the Principal Deputy Under Secretaries is the Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics.
+(c)(1) One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Research and Engineering.
 
-(2) One of the Principal Deputy Under Secretaries is the Principal Deputy Under Secretary of Defense for Policy.
+(2) One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Acquisition and Sustainment.
 
-(3) One of the Principal Deputy Under Secretaries is the Principal Deputy Under Secretary of Defense for Personnel and Readiness.
+(3) One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Policy.
 
-(4) One of the Principal Deputy Under Secretaries is the Principal Deputy Under Secretary of Defense (Comptroller).
+(4) One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Personnel and Readiness.
 
-(5) One of the Principal Deputy Under Secretaries is the Principal Deputy Under Secretary of Defense for Intelligence, who shall be appointed from among persons who have extensive expertise in intelligence matters.
+(5) One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense (Comptroller).
 
-(d) The Principal Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense. The Principal Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
+(6) One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Intelligence, who shall be appointed from among persons who have extensive expertise in intelligence matters.
 
-(Added Pub. L. 111–84, div. A, title IX, §906(a)(1), Oct. 28, 2009, 123 Stat. 2425; amended Pub. L. 111–383, div. A, title IX, §901(b)(3), (k)(1)(A), Jan. 7, 2011, 124 Stat. 4318, 4325; Pub. L. 113–291, div. A, title IX, §901(i)(1), (j)(2)(C), (k)(3), Dec. 19, 2014, 128 Stat. 3467, 3468.)
+(d) The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense. The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-#### Amendment of Subsection (d) ####
-
-Pub. L. 113–291, div. A, title IX, §901(j)(2), Dec. 19, 2014, 128 Stat. 3467, provided that, effective Feb. 1, 2017, subsection (d) of this section is amended in the first sentence by striking all that follows after "the military departments," and inserting "and the Under Secretaries of Defense." Amendment was not executed to reflect the probable intent of Congress. See 2014 Amendment note below.
+(Added Pub. L. 111–84, div. A, title IX, §906(a)(1), Oct. 28, 2009, 123 Stat. 2425; amended Pub. L. 111–383, div. A, title IX, §901(b)(3), (k)(1)(A), Jan. 7, 2011, 124 Stat. 4318, 4325; Pub. L. 113–291, div. A, title IX, §901(i)(1), (j)(2)(C), (k)(3), Dec. 19, 2014, 128 Stat. 3467, 3468; Pub. L. 115–91, div. A, title IX, §906(a)—(c), (f)(1), title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1513, 1514, 1597.)
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, §906(f)(1), amended section catchline generally, subtituting "Deputy Under Secretaries of Defense" for "Principal Deputy Under Secretaries of Defense".
+
+Subsec. (a)(1). Pub. L. 115–91, §906(b), substituted "six" for "five".
+
+Pub. L. 115–91, §906(a), struck out "Principal" before "Deputy Under".
+
+Subsec. (a)(2). Pub. L. 115–91, §906(a), struck out "Principal" before "Deputy Under".
+
+Subsec. (b). Pub. L. 115–91, §906(a), struck out "Principal" before "Deputy Under".
+
+Subsec. (c). Pub. L. 115–91, §906(c), added pars. (1) and (2), redesignated former pars. (2) to (5) as (3) to (6), respectively, and struck out former par. (1) which read as follows: "One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics."
+
+Pub. L. 115–91, §906(a), struck out "Principal" before "Deputy Under" wherever appearing.
+
+Subsec. (d). Pub. L. 115–91, §1081(b)(1)(A), repealed Pub. L. 113–291, §901(j)(2)(C). See 2014 Amendment note below.
+
+Pub. L. 115–91, §906(a), struck out "Principal" before "Deputy Under" in two places.
 
 **2014**—Subsec. (a)(3). Pub. L. 113–291, §901(i)(1), added par. (3).
 
 Subsec. (b). Pub. L. 113–291, §901(k)(3), substituted "dies, resigns, or is otherwise unable to perform the functions and duties of the office" for "is absent or disabled".
 
-Subsec. (d). Pub. L. 113–291, §901(j)(2)(C), which directed substitution of "and the Under Secretaries of Defense." for "the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense.", effective Feb. 1, 2017, was not executed to reflect the probable intent of Congress. Section 901(a)(1) of Pub. L. 113–291, which revised section 132a of this title relating to the Deputy Chief Management Officer, effective Feb. 1, 2017, was repealed by Pub. L. 114–328, effective Dec. 23, 2016.
+Subsec. (d). Pub. L. 113–291, §901(j)(2)(C), which directed substitution of "and the Under Secretaries of Defense." for "the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense.", was repealed by Pub. L. 115–91, §1081(b)(1)(A).
 
 **2011**—Pub. L. 111–383, §901(k)(1)(A), substituted "Principal Deputy Under Secretaries of Defense" for "Deputy Under Secretaries of Defense" in section catchline.
 
@@ -54,11 +70,17 @@ Subsec. (c)(5). Pub. L. 111–383, §901(b)(3)(C)(i), (iii), (iv), substituted "
 
 Subsec. (d). Pub. L. 111–383, §901(b)(3)(A), (D), substituted "Principal Deputy Under" for "Deputy Under" and inserted at end "The Principal Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense."
 
+#### Effective Date of 2017 Amendment ####
+
+Pub. L. 115–91, div. A, title IX, §906(c), Dec. 12, 2017, 131 Stat. 1513, provided that the amendment by section 906(c) is effective on Feb. 1, 2018.
+
+Pub. L. 115–91, div. A, title X, §1081(b), Dec. 12, 2017, 131 Stat. 1597, provided that the amendment by section 1081(b)(1)(A) is effective as of Dec. 23, 2016.
+
 #### Effective Date of 2014 Amendment ####
 
 Pub. L. 113–291, div. A, title IX, §901(i)(1), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment made by section 901(i)(1) is effective Jan. 1, 2015.
 
-Pub. L. 113–291, div. A, title IX, §901(j)(2), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment made by section 901(j)(2)(C) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, prior to repeal by Pub. L. 114–328, div. A, title IX, §901(d), Dec. 23, 2016, 130 Stat. 2342.
+Pub. L. 113–291, div. A, title IX, §901(j)(2), Dec. 19, 2014, 128 Stat. 3467, which provided that the amendment made by section 901(j)(2)(C) is effective on the effective date specified in former section 901(a)(1) of Pub. L. 113–291, which was Feb. 1, 2017, was repealed by Pub. L. 115–91, div. A, title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1597.
 
 #### Effective Date of 2011 Amendment ####
 

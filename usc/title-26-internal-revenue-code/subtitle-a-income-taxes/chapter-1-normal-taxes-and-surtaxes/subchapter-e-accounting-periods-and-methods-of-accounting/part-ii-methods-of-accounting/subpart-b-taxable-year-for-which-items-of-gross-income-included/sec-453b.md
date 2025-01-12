@@ -164,7 +164,7 @@ For effective date, see section 6(a)(1), (5) of Pub. L. 96–471, set out as a n
 
 Pub. L. 106–573, §2, Dec. 28, 2000, 114 Stat. 3061, provided that:
 
-"(a) In General.—Subsection (a) of section 536 of the Ticket to Work and Work Incentives Improvement Act of 1999 (relating to modification of installment method and repeal of installment method for accrual method taxpayers) [Pub. L. 106–170, amending this section] is repealed effective with respect to sales and other dispositions occurring on or after the date of the enactment of such Act[Dec. 17, 1999].
+"(a) In General.—Subsection (a) of section 536 of the Ticket to Work and Work Incentives Improvement Act of 1999 (relating to modification of installment method and repeal of installment method for accrual method taxpayers) [Pub. L. 106–170, amending this section] is repealed effective with respect to sales and other dispositions occurring on or after the date of the enactment of such Act [Dec. 17, 1999].
 
 "(b) Applicability.—The Internal Revenue Code of 1986 shall be applied and administered as if that subsection (and the amendments made by that subsection) had not been enacted."
 
@@ -174,4 +174,4 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Treatment of Elections Under Section 453B(e)(2) ####
 
-Pub. L. 98–369, div. A, title II, §217(b), July 18, 1984, 98 Stat. 762, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If an election is made under section 453B(e)(2) before January 1, 1984, with respect to any installment obligation, any income from such obligation shall be treated as attributable to a noninsurance business (as defined in section 806(c)(3) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954])."
+Pub. L. 98–369, div. A, title II, §217(b), July 18, 1984, 98 Stat. 762, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "If an election is made under section 453B(e)(2) before January 1, 1984, with respect to any installment obligation, any income from such obligation shall be treated as attributable to a noninsurance business (as defined in [former] section 806(c)(3) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954])."

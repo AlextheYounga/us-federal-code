@@ -96,7 +96,13 @@ The Secretary shall determine any changes to the number of residents reported by
 
 #### (g) Funding ####
 
-To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, and $15,000,000 for the first quarter of fiscal year 2018.
+#### (1) In general ####
+
+To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, and $30,000,000 for the period of the first and second quarters of fiscal year 2018, to remain available until expended.
+
+#### (2) Administrative expenses ####
+
+Of the amount made available to carry out this section for any fiscal year, the Secretary may not use more than 5 percent of such amount for the expenses of administering this section.
 
 #### (h) Annual reporting required ####
 
@@ -164,7 +170,7 @@ The term "primary care residency program" has the meaning given that term in sec
 
 The term "qualified teaching health center" has the meaning given the term "teaching health center" in section 293l–1 of this title.
 
-(July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670; amended Pub. L. 114–10, title II, §221(b), Apr. 16, 2015, 129 Stat. 154; Pub. L. 115–63, title III, §301(a), Sept. 29, 2017, 131 Stat. 1171.)
+(July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670; amended Pub. L. 114–10, title II, §221(b), Apr. 16, 2015, 129 Stat. 154; Pub. L. 115–63, title III, §301(a), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–96, div. C, title I, §3101(c), Dec. 22, 2017, 131 Stat. 2048.)
 
 #### References in Text ####
 
@@ -178,7 +184,9 @@ Another section 340H of act July 1, 1944, was renumbered section 340I and is cla
 
 #### Amendments ####
 
-**2017**—Subsec. (g). Pub. L. 115–63 substituted "2015, $60,000,000" for "2015 and $60,000,000" and inserted ", and $15,000,000 for the first quarter of fiscal year 2018" before period at end.
+**2017**—Subsec. (g). Pub. L. 115–96 designated existing provisions as par. (1), inserted heading, substituted "and $30,000,000 for the period of the first and second quarters of fiscal year 2018, to remain available until expended" for "and $15,000,000 for the first quarter of fiscal year 2018", and added par. (2).
+
+Pub. L. 115–63 substituted "2015, $60,000,000" for "2015 and $60,000,000" and inserted ", and $15,000,000 for the first quarter of fiscal year 2018" before period at end.
 
 **2015**—Subsec. (g). Pub. L. 114–10 inserted "and $60,000,000 for each of fiscal years 2016 and 2017" before period at end.
 

@@ -4,17 +4,13 @@
 
 #### (b) Standard appropriation classification schedule ####
 
-The Committees on Appropriations of the two Houses are authorized and directed, acting jointly, to develop a standard appropriation classification schedule which will clearly define in concise and uniform accounts the subtotals of appropriations asked for by agencies in the executive branch of the Government. That part of the printed hearings containing each such agency's request for appropriations shall be preceded by such a schedule.
+The Committees on Appropriations of the two Houses <sup><a href="#190f_1_target" name="190f_1">1</a></sup> are authorized and directed, acting jointly, to develop a standard appropriation classification schedule which will clearly define in concise and uniform accounts the subtotals of appropriations asked for by agencies in the executive branch of the Government. That part of the printed hearings containing each such agency's request for appropriations shall be preceded by such a schedule.
 
 #### (c) Nonconsideration if a provision reappropriates unexpended balances ####
 
-No general appropriation bill or amendment thereto shall be received or considered in either House if it contains a provision reappropriating unexpended balances of appropriations; except that this provision shall not apply to appropriations in continuation of appropriations for public works on which work has commenced.
+No general appropriation bill or amendment thereto shall be received or considered in either House <sup><a href="#190f_1_target" name="190f_1">1</a></sup> if it contains a provision reappropriating unexpended balances of appropriations; except that this provision shall not apply to appropriations in continuation of appropriations for public works on which work has commenced.
 
 (Aug. 2, 1946, ch. 753, title I, §139(a), (b), (c), 60 Stat. 833; Pub. L. 91–510, title I, §108(d), Oct. 26, 1970, 84 Stat. 1149.)
-
-#### Partial Repeal ####
-
-Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.
 
 #### Codification ####
 
@@ -31,3 +27,9 @@ Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 197
 #### Effective Date ####
 
 Section effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946, ch. 753, title I, 60 Stat. 834.
+
+#### Partial Repeal ####
+
+Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.
+
+[<sup>1</sup> See Partial Repeal note below.](#190f_1)

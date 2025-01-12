@@ -14,6 +14,8 @@ Sec.
 
 2302d. Major system: definitional threshold amounts.
 
+2302e. Contract authority for advanced development of initial or additional prototype units.
+
 2303. Applicability of chapter.
 
 [2303a. Repealed.]
@@ -58,6 +60,8 @@ Sec.
 
 2313a. Defense Contract Audit Agency: annual report.
 
+2313b. Performance of incurred cost audits.
+
 2314. Laws inapplicable to agencies named in section 2303 of this title.
 
 2315. Law inapplicable to the procurement of automatic data processing equipment and services for certain defense purposes.
@@ -74,7 +78,9 @@ Sec.
 
 2321. Validation of proprietary data restrictions.
 
-[2322. Repealed.]
+2322. Management of intellectual property matters within the Department of Defense.
+
+2322a. Requirement for consideration of certain matters during acquisition of noncommercial computer software.
 
 2323. Contract goal for small disadvantaged businesses and certain institutions of higher education.
 
@@ -90,7 +96,7 @@ Sec.
 
 2328. Release of technical data under Freedom of Information Act: recovery of costs.
 
-[2329. Repealed.]
+2329. Procurement of services: data analysis and requirements validation.
 
 2330. Procurement of contract services: management structure.
 
@@ -110,13 +116,23 @@ Sec.
 
 2337. Life-cycle management and product support.
 
+2337a. Assessment, management, and control of operating and support costs for major weapon systems.
+
 2338. Micro-purchase threshold.
 
 2339. Micro-purchase threshold for basic research programs and activities of the Department of Defense science and technology reinvention laboratories.
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–328, div. A, title II, §217(a)(2), title VIII, §§821(b), 833(b)(5)(B), Dec. 23, 2016, 130 Stat. 2051, 2276, 2285, added items 2338 and 2339 and struck out item 2302c "Implementation of electronic commerce capability".
+**2017**—Pub. L. 115–91, div. A, title X, §1081(d)(1), Dec. 12, 2017, 131 Stat. 1599, amended directory language of Pub. L. 114–328, §217(a)(2), effective Dec. 23, 2016, and as if included in Pub. L. 114–328 as enacted. See 2016 Amendment note below.
+
+Pub. L. 115–91, div. A, title VIII, §§803(b), 836(a)(2), 851(a)(2), 861(a)(2), 871(a)(2), Dec. 12, 2017, 131 Stat. 1455, 1473, 1492, 1494, 1497, added items 2302e, 2313b, 2322a, 2329, and 2337a.
+
+Pub. L. 115–91, div. A, title VIII, §802(a)(2), Dec. 12, 2017, 131 Stat. 1451, which directed amendment of the table of sections for this chapter by adding item 2322 at the end, was executed by adding item 2322 after item 2321, to reflect the probable intent of Congress.
+
+**2016**—Pub. L. 114–328, div. A, title VIII, §§821(b), 833(b)(5)(B), Dec. 23, 2016, 130 Stat. 2276, 2285, added item 2338 and struck out item 2302c "Implementation of electronic commerce capability".
+
+Pub. L. 114–328, div. A, title II, §217(a)(2), Dec. 23, 2016, 130 Stat. 2051, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(1), Dec. 12, 2017, 131 Stat. 1599, added item 2339.
 
 **2014**—Pub. L. 113–291, div. A, title III, §351(c)(1), Dec. 19, 2014, 128 Stat. 3347, struck out item 2336 "Intergovernmental support agreements with State and local governments".
 

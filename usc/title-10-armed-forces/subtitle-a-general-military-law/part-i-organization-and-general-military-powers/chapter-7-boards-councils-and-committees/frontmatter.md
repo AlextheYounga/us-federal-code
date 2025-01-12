@@ -6,7 +6,7 @@ Sec.
 
 171a. Council on Oversight of the National Leadership Command, Control, and Communications System.
 
-172. Ammunition storage board.
+172. Explosive safety board.
 
 173. Advisory personnel.
 
@@ -30,6 +30,8 @@ Sec.
 
 183. Department of Defense Board of Actuaries.
 
+183a. Military Aviation and Installation Assurance Siting Clearinghouse for review of mission obstructions. 1
+
 [184 to 186. Renumbered or Repealed.]
 
 187. Strategic Materials Protection Board.
@@ -41,6 +43,8 @@ Sec.
 190. Defense Cost Accounting Standards Board.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title III, §§311(b)(4), 341(b)(2), Dec. 12, 2017, 131 Stat. 1348, 1361, substituted "Explosive safety board" for "Ammunition storage board" in item 172 and added item 183a.
 
 **2016**—Pub. L. 114–328, div. A, title VIII, §820(b)(2), title IX, §904(b), title XII, §1241(o)(3), Dec. 23, 2016, 130 Stat. 2276, 2345, 2512, struck out items 184 "Regional Centers for Security Studies" and 185 "Financial Management Modernization Executive Committee" and, effective Oct. 1, 2018, added item 190.
 
@@ -77,3 +81,5 @@ Pub. L. 110–181, div. A, title IX, §906(a)(2), Jan. 28, 2008, 122 Stat. 277, 
 Pub. L. 98–36, §2(b), May 27, 1983, 97 Stat. 201, added item 178.
 
 **1976**—Pub. L. 94–361, title VIII, §811(c), July 14, 1976, 90 Stat. 936, added items 176 and 177.
+
+[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER7_1)

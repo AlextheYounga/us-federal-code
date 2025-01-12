@@ -20,7 +20,7 @@ Sec.
 
 2878. Conveyance or lease of existing property and facilities.
 
-[2879. Repealed.]
+2879. Window fall prevention devices in military family housing units.
 
 2880. Unit size and type.
 
@@ -38,7 +38,13 @@ Sec.
 
 2885. Oversight and accountability for privatization projects.
 
+2886. Prohibiting collection of amounts in addition to rent from members assigned to units.
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. B, title XXVIII, §2817(a)(2), Dec. 12, 2017, 131 Stat. 1852, which directed amendment of the analysis at the beginning of this chapter by adding item 2879, was executed in the analysis for this subchapter to reflect the probable intent of Congress.
+
+Pub. L. 115–91, div. A, title VI, §602(b), Dec. 12, 2017, 131 Stat. 1418, added item 2886.
 
 **2008**—Pub. L. 110–417, div. B, title XXVIII, §2805(a)(2), (e)(2), Oct. 14, 2008, 122 Stat. 4722, 4724, added items 2882 and 2885 and struck out former item 2882 "Assignment of members of the armed forces to housing units".
 

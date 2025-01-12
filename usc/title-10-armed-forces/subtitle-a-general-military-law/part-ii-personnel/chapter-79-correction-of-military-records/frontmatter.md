@@ -12,6 +12,8 @@ Sec.
 
 1554a. Review of separation with disability rating of 20 percent disabled or less.
 
+1554b. Confidential review of characterization of terms of discharge of members of the armed forces who are victims of sex-related offenses.
+
 1555. Professional staff.
 
 1556. Ex parte communications prohibited.
@@ -23,6 +25,8 @@ Sec.
 1559. Personnel limitation.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title V, §522(a)(2), Dec. 12, 2017, 131 Stat. 1380, added item 1554b.
 
 **2008**—Pub. L. 110–181, div. A, title XVI, §1643(a)(2), Jan. 28, 2008, 122 Stat. 467, added item 1554a.
 

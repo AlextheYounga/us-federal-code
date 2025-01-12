@@ -326,7 +326,7 @@ The Secretary shall prescribe such regulations or other guidance as may be neces
 
 Section 15(a) of the Securities Exchange Act of 1934, referred to in subsec. (b)(3)(B)(ii), is classified to section 78o(a) of Title 15, Commerce and Trade.
 
-The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (c)(2)(B)(ii), probably means the date of enactment of Pub. L. 115–97, which was approved Dec. 22, 2017. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of Pub. L. 115–97.
+The date of the enactment of the Tax Cuts and Jobs Act, referred to in subsec. (c)(2)(B)(ii), probably means the date of enactment of title I of Pub. L. 115–97, which was approved Dec. 22, 2017. Prior versions of the bill that was enacted into law as Pub. L. 115–97 included such Short Title, but it was not enacted as part of title I of Pub. L. 115–97.
 
 #### Prior Provisions ####
 

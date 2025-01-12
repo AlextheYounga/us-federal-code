@@ -66,7 +66,11 @@ Sec.
 
 7318. Warranty requirements for shipbuilding contracts.
 
+7319. Requirements for availability of funds relating to advanced naval nuclear fuel systems based on low-enriched uranium.
+
 #### Amendments ####
+
+Pub. L. 115–91, div. C, title XXXI, §3115(b)(2), Dec. 12, 2017, 131 Stat. 1887, added item 7319.
 
 **2016**—Pub. L. 114–328, div. A, title X, §1022(a)(2), (b), Dec. 23, 2016, 130 Stat. 2388, added item 7318, effective on the later of the date of enactment of the National Defense Authorization for Fiscal Year 2018 or Sept. 30, 2017.
 

@@ -52,7 +52,7 @@ Pub. L. 115–97, title I, §11051(b)(1)(A), (c), Dec. 22, 2017, 131 Stat. 2089,
 
 #### Effective Date of 2017 Amendment ####
 
-Pub. L. 115–97, title I, §11051(c), Dec. 22, 2017, 131 Stat. 2090, provided that: "The amendments made by this section [amending this section and sections 62, 121, 152, 191, 220, 223, 382, 408, and 7701 of this title and repealing sections 71, 215, and 682 of this title] shall apply to—
+Pub. L. 115–97, title I, §11051(c), Dec. 22, 2017, 131 Stat. 2090, provided that: "The amendments made by this section [amending this section and sections 62, 121, 152, 219, 220, 223, 382, 408, 3402, 6724, and 7701 of this title and repealing sections 71, 215, and 682 of this title] shall apply to—
 
 "(1) any divorce or separation instrument (as defined in section 71(b)(2) of the Internal Revenue Code of 1986 as in effect before the date of the enactment of this Act [Dec. 22, 2017]) executed after December 31, 2018, and
 

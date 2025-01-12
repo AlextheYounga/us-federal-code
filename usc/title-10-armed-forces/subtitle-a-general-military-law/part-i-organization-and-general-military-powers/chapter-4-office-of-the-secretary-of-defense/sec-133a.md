@@ -12,11 +12,11 @@
 
 (c) Precedence in Department of Defense.—
 
-(1) Precedence in matters of responsibility.—With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary and the Deputy Secretary of Defense.
+(1) Precedence in matters of responsibility.—With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense.
 
-(2) Precedence in other matters.—With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, and the Secretaries of the military departments.
+(2) Precedence in other matters.—With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Chief Management Officer, and the Secretaries of the military departments.
 
-(Added Pub. L. 114–328, div. A, title IX, §901(a)(1), Dec. 23, 2016, 130 Stat. 2339.)
+(Added Pub. L. 114–328, div. A, title IX, §901(a)(1), Dec. 23, 2016, 130 Stat. 2339; amended Pub. L. 115–91, div. A, title IX, §910(c)(2), Dec. 12, 2017, 131 Stat. 1518.)
 
 #### Prior Provisions ####
 
@@ -24,10 +24,80 @@ A prior section 133a, added Pub. L. 99–500, §101(c) [title X, §902(a)(1)], O
 
 Another prior section 133a was renumbered section 117 of this title.
 
+#### Amendments ####
+
+**2017**—Subsec. (c)(1). Pub. L. 115–91, §910(c)(2)(A), substituted ", the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense" for "and the Deputy Secretary of Defense".
+
+Subsec. (c)(2). Pub. L. 115–91, §910(c)(2)(B), inserted "the Chief Management Officer," after "the Deputy Secretary,".
+
+#### Effective Date of 2017 Amendment ####
+
+Pub. L. 115–91, div. A, title IX, §910(c), Dec. 12, 2017, 131 Stat. 1518, provided that the amendment made by section 910(c)(2) is effective on Feb. 1, 2018, and immediately after the coming into effect of the amendments made by section 901 of Pub. L. 114–328 (see Tables for classification).
+
 #### Effective Date ####
 
 Pub. L. 114–328, div. A, title IX, §901(a)(1), Dec. 23, 2016, 130 Stat. 2339, provided that this section is effective on Feb. 1, 2018.
 
 #### Service of Incumbent USD for ATL in Position ####
 
-Pub. L. 114–328, div. A, title IX, §901(a)(2), Dec. 23, 2016, 130 Stat. 2339, provided that: "The individual serving as Under Secretary of Defense for Acquisition, Technology, and Logistics under section 133 of title 10, United States Code, as of February 1, 2018, may continue to serve as Under Secretary of Defense for Research and Engineering commencing as of that date, without further appointment under section 133a of such title, as added by paragraph (1)."
+Pub. L. 114–328, div. A, title IX, §901(a)(2), Dec. 23, 2016, 130 Stat. 2339, which provided that the Under Secretary of Defense for Acquisition, Technology, and Logistics serving as of Feb. 1, 2018, could continue as Under Secretary of Defense for Research and Engineering, without further appointment under this section, was repealed by Pub. L. 115–91, div. A, title IX, §901, Dec. 12, 2017, 131 Stat. 1511.
+
+#### Reports to Congress on Failure To Comply With Recommendations ####
+
+Pub. L. 112–239, div. A, title IX, §904(h), Jan. 2, 2013, 126 Stat. 1868, provided that:
+
+"(1) Report required.—Not later than 60 days after the end of each fiscal year, from fiscal year 2013 through fiscal year 2018, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on each case in which a major defense acquisition program, in the preceding fiscal year—
+
+"(A) proceeded to implement a test and evaluation master plan notwithstanding a decision of the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation to disapprove the developmental test and evaluation plan within that plan in accordance with former section 139b(a)(5)(B) of title 10, United States Code; or
+
+"(B) proceeded to initial operational testing and evaluation notwithstanding a determination by the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation on the basis of an assessment of operational test readiness that the program is not ready for operational testing.
+
+"(2) Matters covered.—
+
+"(A) For each program covered by paragraph (1)(A), the report shall include the following:
+
+"(i) A description of the specific aspects of the developmental test and evaluation plan that the Deputy Assistant Secretary determined to be inadequate.
+
+"(ii) An explanation of the reasons why the program disregarded the Deputy Assistant Secretary's recommendations with regard to those aspects of the developmental test and evaluation plan.
+
+"(iii) The steps taken to address those aspects of the developmental test and evaluation plan and address the concerns of the Deputy Assistant Secretary.
+
+"(B) For each program covered by paragraph (1)(B), the report shall include the following:
+
+"(i) An explanation of the reasons why the program proceeded to initial operational testing and evaluation notwithstanding the findings of the assessment of operational test readiness.
+
+"(ii) A description of the aspects of the approved testing and evaluation master plan that had to be set aside to enable the program to proceed to initial operational testing and evaluation.
+
+"(iii) A description of how the program addressed the specific areas of concern raised in the assessment of operational test readiness.
+
+"(iv) A statement of whether initial operational testing and evaluation identified any significant shortcomings in the program.
+
+"(3) Additional congressional notification.—Not later than 30 days after any decision to conduct developmental testing on a major defense acquisition program without an approved test and evaluation master plan in place, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall provide to the congressional defense committees a written explanation of the basis for the decision and a timeline for getting an approved plan in place."
+
+#### Oversight by Office of Under Secretary of Defense for Acquisition, Technology, and Logistics of Exercise of Acquisition Authority by Combatant Commanders and Heads of Defense Agencies ####
+
+Pub. L. 109–364, div. A, title IX, §905, Oct. 17, 2006, 120 Stat. 2353, as amended by Pub. L. 110–181, div. A, title IX, §905, Jan. 28, 2008, 122 Stat. 275, provided that:
+
+"(a) Designation of Official for Oversight.—The Secretary of Defense shall designate a senior acquisition official within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics to oversee the exercise of acquisition authority by—
+
+"(1) any commander of a combatant command who is authorized by section 166b, 167, or 167a of title 10, United States Code, to exercise acquisition authority; and
+
+"(2) any head of a Defense Agency who is designated by the Secretary of Defense to exercise acquisition authority.
+
+"(b) Guidance.—
+
+"(1) In general.—The senior acquisition official designated under subsection (a) shall develop guidance to ensure that the use of acquisition authority by commanders of combatant commands and the heads of Defense Agencies—
+
+"(A) is in compliance with department-wide acquisition policy; and
+
+"(B) is coordinated with acquisition programs of the military departments.
+
+"(2) Urgent requirements.—Guidance developed under paragraph (1) shall take into account the need to fulfill the urgent requirements of the commanders of combatant commands and the heads of Defense Agencies and to ensure that those requirements are addressed expeditiously.
+
+"(c) Consultation.—The senior acquisition official designated under subsection (a) shall on a regular basis consult on matters related to requirements and acquisition with the commanders of combatant commands and the heads of Defense Agencies referred to in that subsection.
+
+"(d) Deadline for Designation.—The Secretary of Defense shall make the designation required by subsection (a) not later than 180 days after the date of the enactment of this Act [Oct. 17, 2006]."
+
+#### Improvement in Defense Research and Procurement Liaison With Israel ####
+
+Pub. L. 100–456, div. A, title X, §1006, Sept. 29, 1988, 102 Stat. 2040, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that: "The Secretary of Defense, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall designate for duty in Israel an individual or individuals to serve as the primary liaison between the procurement and research and development activities of the United States Armed Forces and those of the State of Israel."

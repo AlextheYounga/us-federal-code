@@ -30,9 +30,7 @@ Sec.
 
 #### SUBCHAPTER III—RECURRING CERTIFICATIONS AND REPORTS ####
 
-3741. Annual certifications on use of facilities being constructed for Department of Defense Cooperative Threat Reduction projects or activities.
-
-3742. Requirement to submit summary of amounts requested by project category.
+3741, 3742. Repealed.
 
 3743. Reports on activities and assistance under Department of Defense Cooperative Threat Reduction Program.
 

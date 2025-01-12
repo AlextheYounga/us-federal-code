@@ -92,6 +92,6 @@ July 1, 1943, ch. 185, §1, 57 Stat. 365.
 
 July 2, 1942, ch. 477, §1, 56 Stat. 628.
 
-#### Savings Provision for Fiscal Year 2017 ####
+#### Savings Provision for Fiscal Years 2017, 2018, and 2019 ####
 
-Pub. L. 114–328, div. A, title XII, §1243(c), Dec. 23, 2016, 130 Stat. 2516, provided that: "The authority under section 1050 of title 10, United States Code, as in effect on the day before the date of the enactment of this Act [Dec. 23, 2016], shall continue to apply with respect to the Inter-American Defense College during fiscal year 2017 under regulations prescribed by the Secretary of Defense."
+Pub. L. 114–328, div. A, title XII, §1243(c), Dec. 23, 2016, 130 Stat. 2516, as amended by Pub. L. 115–91, div. A, title XII, §1208, Dec. 12, 2017, 131 Stat. 1647, provided that: "The authority under section 1050 of title 10, United States Code, as in effect on the day before the date of the enactment of this Act [Dec. 23, 2016], shall continue to apply with respect to the Inter-American Defense College during fiscal years 2017, 2018, and 2019 under regulations prescribed by the Secretary of Defense."

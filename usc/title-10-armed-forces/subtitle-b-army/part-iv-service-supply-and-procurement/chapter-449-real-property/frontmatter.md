@@ -18,13 +18,13 @@ Sec.
 
 4780. Acquisition of buildings in District of Columbia.
 
-4781 1 . Cyber Center for Education and Innovation-Home of the National Cryptologic Museum.
-
-4781 1 . Cyber Center for Education and Innovation-Home of the National Cryptologic Museum.
+4781. Cyber Center for Education and Innovation-Home of the National Cryptologic Museum.
 
 #### Amendments ####
 
-**2017**—Pub. L. 115–31, div. N, title VI, §602(b), May 5, 2017, 131 Stat. 829, added second item 4781 after first item 4781.
+**2017**—Pub. L. 115–91, div. A., title X, §1081(a)(49)(B), Dec. 12, 2017, 131 Stat. 1597, struck out second item 4781 "Cyber Center for Education and Innovation-Home of the National Cryptologic Museum" after identical first item 4781.
+
+Pub. L. 115–31, div. N, title VI, §602(b), May 5, 2017, 131 Stat. 829, added identical second item 4781 after first item 4781.
 
 **2016**—Pub. L. 114–328, div. B, title XXVIII, §2831(b), Dec. 23, 2016, 130 Stat. 2740, added item 4781 after item 4780.
 
@@ -39,5 +39,3 @@ Pub. L. 97–214, §10(a)(9)(A), July 12, 1982, 96 Stat. 175, struck out item 47
 **1971**—Pub. L. 92–145, title V, §509(a), Oct. 27, 1971, 85 Stat. 408, struck out item 4775 "Quarters: officers".
 
 **1958**—Pub. L. 85–861, §1(105)(B), Sept. 2, 1958, 72 Stat. 1490, added item 4780.
-
-[<sup>1</sup> So in original. Two sections 4781 have been enacted.](#CHAPTER449_1)

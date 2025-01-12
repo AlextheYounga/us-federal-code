@@ -12,7 +12,9 @@
 
 #### Amendment of Analysis ####
 
-Pub. L. 114–328, div. E, title LXIII, §§5541(8), 5542, Dec. 23, 2016, 130 Stat. 2967, provided in part that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking item 946 and inserting the following new item:
+Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1599, 1601, made technical amendment to Pub. L. 114–328, §5541(8), set out below in part, effective as of Dec. 23, 2016, and as if included therein as enacted. See 2017 Amendment note below.
+
+Pub. L. 114–328, div. E, title LXIII, §§5541(8), 5542, Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, provided in part that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking item 946 and inserting the following new item:
 
 |Sec.|Art.|                              |
 |----|----|------------------------------|
@@ -22,7 +24,9 @@ See 2016 Amendment note below.
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–328, div. E, title LXIII, §5541(8), Dec. 23, 2016, 130 Stat. 2967, added item 946a and substituted "Military Justice Review Panel" for "Code committee" in item 946.
+**2017**—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, §5541(8). See 2016 Amendment note below.
+
+**2016**—Pub. L. 114–328, div. E, title LXIII, §5541(8), Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, added item 946a and substituted "Military Justice Review Panel" for "Code committee" in item 946.
 
 **1994**—Pub. L. 103–337, div. A, title IX, §924(c)(3)(A), Oct. 5, 1994, 108 Stat. 2831, substituted "UNITED STATES COURT OF APPEALS FOR THE ARMED FORCES" for "COURT OF MILITARY APPEALS" as subchapter heading.
 

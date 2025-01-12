@@ -70,7 +70,7 @@
 
 (4) The amount of any adjustment in the limitation on personnel made by the Secretary of Defense or the Secretary of a military department, and, for each adjustment made pursuant to section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (10 U.S.C. 143 note), the purpose of the adjustment.
 
-(g) In each report submitted under subsection (a) during fiscal years 2013 through 2017, the Secretary shall also include a detailed discussion of the following:
+(g) In each report submitted under subsection (a), the Secretary shall also include a detailed discussion of the following:
 
 (1) The progress made in implementing the plan required by section 656 of this title to accurately measure the efforts of the Department to reflect the diverse population of the United States eligible to serve in the armed forces.
 
@@ -92,7 +92,7 @@
 
 (B) the number applicable to high-priority units and organizations (as specified in section 10216(a) of this title).
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492, 2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title V, §519(b), Jan. 2, 2013, 126 Stat. 1721.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492, 2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title V, §519(b), Jan. 2, 2013, 126 Stat. 1721; Pub. L. 115–91, div. A, title X, §1051(a)(2), Dec. 12, 2017, 131 Stat. 1560.)
 
 #### References in Text ####
 
@@ -105,6 +105,8 @@ Section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for F
 Provisions similar to those in this section were contained in section 115(b)(1)(D), (3), (c)(2) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
 #### Amendments ####
+
+**2017**—Subsec. (g). Pub. L. 115–91 struck out "during fiscal years 2013 through 2017" after "subsection (a)" in introductory provisions.
 
 **2013**—Subsec. (g). Pub. L. 112–239 added subsec. (g).
 

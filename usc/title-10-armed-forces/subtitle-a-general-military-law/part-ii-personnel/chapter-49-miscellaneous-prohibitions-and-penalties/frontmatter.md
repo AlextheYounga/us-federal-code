@@ -93,3 +93,39 @@ Pub. L. 95–485, title VIII, §815(b), Oct. 20, 1978, 92 Stat. 1626, added item
 **1968**—Pub. L. 90–235, §§4(a)(5)(B), 6(a)(6)(B), Jan. 2, 1968, 81 Stat. 759, 762, added items 973 and 974.
 
 **1958**—Pub. L. 85–861, §1(20), Sept. 2, 1958, 72 Stat. 1442, added items 971 and 972.
+
+#### Prohibition on Lobbying Activities With Respect to the Department of Defense by Certain Officers of the Armed Forces and Civilian Employees of the Department Following Separation From Military Service or Employment With the Department ####
+
+Pub. L. 115–91, div. A, title X, §1045, Dec. 12, 2017, 131 Stat. 1555, provided that:
+
+"(a) Two-year Prohibition.—
+
+"(1) Prohibition.—An individual described in paragraph (2) may not engage in lobbying activities with respect to the Department of Defense during the two-year period beginning on the date of retirement or separation from service in the Armed Forces or the date of retirement or separation from service with the Department, as applicable.
+
+"(2) Covered individuals.—An individual described in this paragraph is the following:
+
+"(A) An officer of the Armed Forces in grade O–9 or higher at the time of retirement or separation from the Armed Forces.
+
+"(B) A civilian employee of the Department of Defense who had a civilian grade equivalent to a military grade specified in subparagraph (A) at the time of the employee's retirement or separation from service with the Department.
+
+"(b) One-year Prohibition.—
+
+"(1) Prohibition.—An individual described in paragraph (2) may not engage in lobbying activities with respect to the Department of Defense during the one-year period beginning on the date of retirement or separation from service in the Armed Forces or the date of retirement or separation from service with the Department, as applicable.
+
+"(2) Covered individuals.—An individual described in this paragraph is the following:
+
+"(A) An officer of the Armed Forces in grade O–7 or O–8 at the time of retirement or separation from the Armed Forces.
+
+"(B) A civilian employee of the Department of Defense who had a civilian grade equivalent to a military grade specified in subparagraph (A) at the time of the employee's retirement or separation from service with the Department.
+
+"(c) Definitions.—In this section:
+
+"(1) The term 'lobbying activities with respect to the Department of Defense' means the following:
+
+"(A) Lobbying contacts and other lobbying activities with covered executive branch officials with respect to the Department of Defense.
+
+"(B) Lobbying contacts with covered executive branch officials described in subparagraphs (C) through (F) of section 3(3) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1602(3)) in the Department of Defense.
+
+"(2) The terms 'lobbying activities' and 'lobbying contacts' have the meaning given such terms in section 3 of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1602).
+
+"(3) The term 'covered executive branch official' has the meaning given that term in section 3(3) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1602(3))."

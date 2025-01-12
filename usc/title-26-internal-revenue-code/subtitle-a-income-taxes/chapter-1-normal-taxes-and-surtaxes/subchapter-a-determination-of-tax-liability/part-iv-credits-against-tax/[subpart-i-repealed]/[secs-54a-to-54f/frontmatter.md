@@ -14,4 +14,4 @@ Section 54F, added Pub. L. 111–5, div. B, title I, §1521(a), Feb. 17, 2009, 1
 
 #### Effective Date of Repeal ####
 
-Repeal by Pub. L. 115–97 applicable to bonds issued after Dec. 31, 2017, see section 13404(d) of Pub. L. 115–97, set out as a note under section 54 of this title.
+Repeal by Pub. L. 115–97 applicable to bonds issued after Dec. 31, 2017, see section 13404(d) of Pub. L. 115–97, set out as a note under former section 54 of this title.

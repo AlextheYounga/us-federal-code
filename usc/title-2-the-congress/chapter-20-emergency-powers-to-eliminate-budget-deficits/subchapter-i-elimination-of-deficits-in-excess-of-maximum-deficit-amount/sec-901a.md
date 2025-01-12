@@ -194,17 +194,19 @@ Pub. L. 112–240, title IX, §901(e), Jan. 2, 2013, 126 Stat. 2370, provided th
 
 " '(B) for the nonsecurity category, $499,000,000,000 in budget authority;'."
 
-#### Sequestration Order for Fiscal Year 2017 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended ####
+#### Sequestration Order for Fiscal Year 2018 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended ####
 
-Order of President of the United States, dated Feb. 9, 2016, 81 F.R. 7693, provided:
+Order of President of the United States, dated May 23, 2017, 82 F.R. 24209, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2016, direct spending budgetary resources for fiscal year 2017 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of February 9, 2016.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2017, direct spending budgetary resources for fiscal year 2018 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of May 23, 2017.
 
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of February 9, 2016, prepared pursuant to section 251A(9) of the Act.
+All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of May 23, 2017, prepared pursuant to section 251A(9) of the Act.
 
-Barack Obama.
+Donald J. Trump.
 
 Sequestration orders pursuant to this section for prior fiscal years were contained in the following:
+
+**2017**—Order of President of the United States, dated Feb. 9, 2016, 81 F.R. 7693.
 
 **2016**—Order of President of the United States, dated Feb. 2, 2015, 80 F.R. 6645.
 

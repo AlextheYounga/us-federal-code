@@ -27,3 +27,5 @@ Sec.
 1912. Funding for scholarship program for advanced English language studies by heritage community citizens.
 
 1913. National Language Service Corps.
+
+1914. Department of Defense program to protect United States students against foreign agents.

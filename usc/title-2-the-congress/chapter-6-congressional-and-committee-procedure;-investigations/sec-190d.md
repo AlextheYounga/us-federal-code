@@ -8,21 +8,17 @@ In order to assist the Congress in—
 
 (2) its formulation, consideration, and enactment of such modifications of or changes in those laws, and of such additional legislation, as may be necessary or appropriate,
 
-each standing committee of the Senate and the House of Representatives shall review and study, on a continuing basis, the application, administration, and execution of those laws, or parts of laws, the subject matter of which is within the jurisdiction of that committee. Such committees may carry out the required analysis, appraisal, and evaluation themselves, or by contract, or may require a Government agency to do so and furnish a report thereon to the Congress. Such committees may rely on such techniques as pilot testing, analysis of costs in comparison with benefits, or provision for evaluation after a defined period of time.
+each standing committee of the Senate <sup><a href="#190d_1_target" name="190d_1">1</a></sup> and the House of Representatives shall review and study, on a continuing basis, the application, administration, and execution of those laws, or parts of laws, the subject matter of which is within the jurisdiction of that committee. Such committees may carry out the required analysis, appraisal, and evaluation themselves, or by contract, or may require a Government agency to do so and furnish a report thereon to the Congress. Such committees may rely on such techniques as pilot testing, analysis of costs in comparison with benefits, or provision for evaluation after a defined period of time.
 
 #### (b) Reports to the Senate and the House of Representatives ####
 
-In each odd-numbered year beginning on or after January 1, 1973, each standing committee of the Senate shall submit, not later than March 31, to the Senate, and each standing committee of the House shall submit, not later than January 2, to the House, a report on the activities of that committee under this section during the Congress ending at noon on January 3 of such year.
+In each odd-numbered year beginning on or after January 1, 1973, each standing committee of the Senate shall submit, not later than March 31, to the Senate,<sup><a href="#190d_1_target" name="190d_1">1</a></sup> and each standing committee of the House shall submit, not later than January 2, to the House, a report on the activities of that committee under this section during the Congress ending at noon on January 3 of such year.
 
 #### (c) Exceptions ####
 
-The preceding provisions of this section do not apply to the Committees on Appropriations and the Budget of the Senate and the Committees on Appropriations, the Budget, House Oversight, Rules, and Standards of Official Conduct of the House.
+The preceding provisions of this section do not apply to the Committees on Appropriations and the Budget of the Senate <sup><a href="#190d_1_target" name="190d_1">1</a></sup> and the Committees on Appropriations, the Budget, House Oversight, Rules, and Standards of Official Conduct of the House.
 
 (Aug. 2, 1946, ch. 753, title I, §136, 60 Stat. 832; Pub. L. 91–510, title I, §118(a)(1), Oct. 26, 1970, 84 Stat. 1156; Pub. L. 92–136, §1, Oct. 11, 1971, 85 Stat. 376; Pub. L. 93–344, title VII, §701, title IX, §903(b), July 12, 1974, 88 Stat. 325, 331; Pub. L. 104–186, title II, §206(1), Aug. 20, 1996, 110 Stat. 1742.)
-
-#### Partial Repeal ####
-
-Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.
 
 #### Amendments ####
 
@@ -57,3 +53,9 @@ Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 197
 #### Effective Date ####
 
 Section effective Jan. 2, 1947, see section 142 of act Aug. 2, 1946, ch. 753, title I, 60 Stat. 834.
+
+#### Partial Repeal ####
+
+Section 2(a), S. Res. 274, Ninety-sixth Congress, Nov. 14, 1979, provided in part that this section, insofar as it relates to the Senate, is repealed. See Standing Rules of the Senate.
+
+[<sup>1</sup> See Partial Repeal note below.](#190d_1)

@@ -46,6 +46,8 @@ Sec.
 
 1074n. Annual mental health assessments for members of the armed forces.
 
+1074 o. Provision of hyperbaric oxygen therapy for certain members.
+
 1075. TRICARE Select.
 
 1075a. TRICARE Prime: cost sharing.
@@ -182,11 +184,9 @@ Sec.
 
 1110b. TRICARE program: extension of dependent coverage.
 
-#### Applicability of Amendment ####
-
-Amendment of analysis by section 701(a)(2), (b)(2), (j)(2) of Pub. L. 114–328 applicable with respect to the first contract year for chapter 89A or 89B of this title, as applicable, that begins on or after Jan. 1, 2018. See 2016 Amendment note below.
-
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title VII, §703(a)(2), Dec. 12, 2017, 131 Stat. 1435, added item 1074*o.*
 
 **2016**—Pub. L. 114–328, div. A, title VII, §§702(a)(2), 703(a)(2), 704(b), 711(b), 728(b)(2), Dec. 23, 2016, 130 Stat. 2195, 2198, 2201, 2214, 2234, added items 1073c, 1073d, 1076f, and 1077a, and substituted "Recurring reports and publication of certain data" for "Recurring reports" in item 1073b.
 

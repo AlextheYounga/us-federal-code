@@ -146,6 +146,8 @@ Sec.
 
 334. Special aviation incentive pay and bonus authorities for officers.
 
+334a. Special aviation incentive pay and bonus authorities: enlisted members who operate remotely piloted aircraft.
+
 335. Special bonus and incentive pay authorities for officers in health professions.
 
 336. Contracting bonus for cadets and midshipmen enrolled in the Senior Reserve Officers' Training Corps.
@@ -173,6 +175,8 @@ Sec.
 374. Regulations.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title VI, §617(b), Dec. 12, 2017, 131 Stat. 1426, added item 334a.
 
 **2016**—Pub. L. 114–328, div. A, title VI, §647(b), Dec. 23, 2016, 130 Stat. 2168, struck out item 328 "Combat-related injury rehabilitation pay".
 

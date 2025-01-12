@@ -4,4 +4,4 @@ Section, added Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 821
 
 #### Effective Date of Repeal ####
 
-Repeal by Pub. L. 115–97 applicable to bonds issued after Dec. 31, 2017, see section 13404(d) of Pub. L. 115–97, set out as a note under section 54 of this title.
+Repeal by Pub. L. 115–97 applicable to bonds issued after Dec. 31, 2017, see section 13404(d) of Pub. L. 115–97, set out as a note under former section 54 of this title.

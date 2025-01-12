@@ -34,7 +34,7 @@
 
 (8) The right to be treated with fairness and with respect for the dignity and privacy of the victim of an offense under this chapter.
 
-(b) Victim of an Offense Under This Chapter Defined.—In this section, the term "victim of an offense under this chapter" means an individual who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense under this chapter (the Uniform Code of Military Justice).
+(b) Victim of an Offense Under This Chapter Defined.—In this section, the term "victim of an offense under this chapter" means an individual who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense under this chapter.
 
 (c) Appointment of Individuals to Assume Rights for Certain Victims.—In the case of a victim of an offense under this chapter who is under 18 years of age (but who is not a member of the armed forces), incompetent, incapacitated, or deceased, the military judge shall designate a representative of the estate of the victim, a family member, or another suitable individual to assume the victim's rights under this section. However, in no event may the individual so designated be the accused.
 
@@ -64,9 +64,23 @@
 
 (F) Military Rule of Evidence 615, relating to the exclusion of witnesses.
 
-(Added Pub. L. 113–66, div. A, title XVII, §1701(a)(1), Dec. 26, 2013, 127 Stat. 952; amended Pub. L. 113–291, div. A, title V, §§531(f), 535, Dec. 19, 2014, 128 Stat. 3364, 3368; Pub. L. 114–92, div. A, title V, §531, Nov. 25, 2015, 129 Stat. 814; Pub. L. 114–328, div. E, title LI, §5105, title LVI, §5203(e)(1), Dec. 23, 2016, 130 Stat. 2895, 2906.)
+(Added Pub. L. 113–66, div. A, title XVII, §1701(a)(1), Dec. 26, 2013, 127 Stat. 952; amended Pub. L. 113–291, div. A, title V, §§531(f), 535, Dec. 19, 2014, 128 Stat. 3364, 3368; Pub. L. 114–92, div. A, title V, §531, Nov. 25, 2015, 129 Stat. 814; Pub. L. 114–328, div. E, title LI, §5105, title LVI, §5203(e)(1), Dec. 23, 2016, 130 Stat. 2895, 2906; Pub. L. 115–91, div. A, title V, §531(a), title X, §1081(a)(22), (c)(1)(B), Dec. 12, 2017, 131 Stat. 1384, 1595, 1597.)
 
 #### Amendment of Section ####
+
+Pub. L. 115–91, div. A, title V, §531(a), (p), Dec. 12, 2017, 131 Stat. 1384, 1388, provided that, effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), subsection (e)(3) of this section is amended—
+
+(1) by inserting "(A)" after "(3)";
+
+(2) by striking "President, and, to the extent practicable, shall have priority over all other proceedings before the court." and inserting the following; "President, subject to section 830a of this title (article 30a)."; and
+
+(3) by adding at the end the following new subparagraphs:
+
+*"(B) To the extent practicable, a petition for a writ of mandamus described in this subsection shall have priority over all other proceedings before the Court of Criminal Appeals.*
+
+*"(C) Review of any decision of the Court of Criminal Appeals on a petition for a writ of mandamus described in this subsection shall have priority in the Court of Appeals for the Armed Forces, as determined under the rules of the Court of Appeals for the Armed Forces.".*
+
+See 2017 Amendment note below.
 
 Pub. L. 114–328, div. E, title LI, §5105, title LVI, §5203(e)(1), title LXIII, §5542, Dec. 23, 2016, 130 Stat. 2895, 2906, 2967, provided that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this section is amended:
 
@@ -94,6 +108,12 @@ See 2016 Amendment notes below.
 
 #### Amendments ####
 
+**2017**—Subsec. (b). Pub. L. 115–91, §1081(a)(22), struck out "(the Uniform Code of Military Justice)" after "this chapter".
+
+Pub. L. 115–91, §1081(c)(1)(B), which directed striking out "(the Uniform Code of Military Justice)" after "this chapter", was not executed in light of the prior amendment by section 1081(a)(22) of Pub. L. 115–91 to reflect the probable intent of Congress. See amendment note above and Effective Date of 2017 Amendment note below.
+
+Subsec. (e)(3). Pub. L. 115–91, §531(a), designated existing provisions as subpar. (A), substituted "prescribed by the President, subject to section 830a of this title (article 30a)" for "prescribed by the President, and, to the extent practicable, shall have priority over all other proceedings before the court", and added subpars. (B) and (C).
+
 **2016**—Subsec. (a)(3). Pub. L. 114–328, §5203(e)(1), substituted "preliminary hearing officer" for "investigating officer".
 
 Subsec. (c). Pub. L. 114–328, §5105(a), substituted "the legal guardians of the victim or the representatives of the victim's estate, family members, or any other person designated as suitable by the military judge, may assume the rights of the victim under this section." for "the military judge shall designate a representative of the estate of the victim, a family member, or another suitable individual to assume the victim's rights under this section."
@@ -117,6 +137,12 @@ Subsec. (f). Pub. L. 114–328, §5105(c), added subsec. (f).
 Subsec. (c). Pub. L. 113–291, §531(f)(2), in heading, substituted "Appointment of Individuals to Assume Rights" for "Legal Guardian" and, in text, inserted "(but who is not a member of the armed forces)" after "under 18 years of age" and substituted "designate a representative" for "designate a legal guardian from among the representatives", "another suitable individual" for "other suitable person", and "the individual" for "the person".
 
 Subsec. (e). Pub. L. 113–291, §535, added subsec. (e).
+
+#### Effective Date of 2017 Amendment ####
+
+Amendment by section 531(a) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
+
+Amendment by section 1081(c)(1)(B) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under section 801 of this title.
 
 #### Effective Date of 2016 Amendment ####
 

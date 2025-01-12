@@ -2,7 +2,7 @@
 
 Sec.
 
-2911. Energy performance goals and master plan for the Department of Defense.
+2911. Energy policy of the Department of Defense.
 
 2912. Availability and use of energy cost savings.
 
@@ -21,6 +21,8 @@ Sec.
 2919. Department of Defense participation in programs for management of energy demand or reduction of energy usage during peak periods.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. B, title XXVIII, §2831(b), Dec. 12, 2017, 131 Stat. 1857, which directed amendment of the analysis at the beginning of this chapter by adding item 2911 and striking out former item 2911 "Energy performance goals and master plan for the Department of Defense", was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 
 **2016**—Pub. L. 114–328, div. B, title XXVIII, §2805(a)(2), Dec. 23, 2016, 130 Stat. 2714, which directed amendment of the analysis at the beginning of this chapter by adding item 2914 and striking out former item 2914 "Energy conservation construction projects", was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 

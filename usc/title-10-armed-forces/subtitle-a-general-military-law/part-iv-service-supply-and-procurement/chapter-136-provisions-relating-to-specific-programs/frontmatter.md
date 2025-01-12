@@ -4,11 +4,7 @@ Sec.
 
 2281. Global Positioning System.
 
-2282. Authority to build the capacity of foreign security forces.
-
-#### Amendment of Analysis ####
-
-Pub. L. 114–328, div. A, title XII, §1241(d)(6), Dec. 23, 2016, 130 Stat. 2505, provided that, effective as of the date that is 270 days after Dec. 23, 2016, this analysis is amended by striking item 2282. See 2016 Amendment note below.
+[2282. Repealed.]
 
 #### Amendments ####
 

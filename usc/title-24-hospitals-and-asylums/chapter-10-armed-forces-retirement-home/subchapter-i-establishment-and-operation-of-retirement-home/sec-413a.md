@@ -8,7 +8,7 @@
 
 #### (b) Responsibilities ####
 
-The Senior Medical Advisor shall provide advice to the Secretary of Defense, the Under Secretary of Defense for Personnel and Readiness, the Chief Operating Officer, and the Advisory Council regarding the direction and oversight of—
+The Senior Medical Advisor shall provide advice to the Secretary of Defense, the Chief Operating Officer, and the Advisory Council regarding the direction and oversight of—
 
 (1) medical administrative matters at each facility of the Retirement Home; and
 
@@ -28,15 +28,19 @@ In carrying out the responsibilities set forth in subsection (b), the Senior Med
 
 (B) inspections and audits to ensure that appropriate follow-up regarding issues and recommendations raised by such inspections and audits has occurred.
 
-(4) Report on the findings and recommendations developed as a result of each review conducted under paragraph (3) to the Chief Operating Officer, the Advisory Council, and the Under Secretary of Defense for Personnel and Readiness.
+(4) Report on the findings and recommendations developed as a result of each review conducted under paragraph (3) to the Chief Operating Officer, the Advisory Council, and the Secretary of Defense.
 
 #### (d) Advisory bodies ####
 
 In carrying out the responsibilities set forth in subsection (b) and the duties set forth in subsection (c), the Senior Medical Advisor may establish and seek the advice of such advisory bodies as the Senior Medical Advisor considers appropriate.
 
-(Pub. L. 101–510, div. A, title XV, §1513A, as added Pub. L. 110–181, div. A, title XIV, §1422(d)(1), Jan. 28, 2008, 122 Stat. 420; amended Pub. L. 112–81, div. A, title V, §§562, 567(c)(3), Dec. 31, 2011, 125 Stat. 1420, 1426; Pub. L. 113–291, div. A, title VII, §721, Dec. 19, 2014, 128 Stat. 3417.)
+(Pub. L. 101–510, div. A, title XV, §1513A, as added Pub. L. 110–181, div. A, title XIV, §1422(d)(1), Jan. 28, 2008, 122 Stat. 420; amended Pub. L. 112–81, div. A, title V, §§562, 567(c)(3), Dec. 31, 2011, 125 Stat. 1420, 1426; Pub. L. 113–291, div. A, title VII, §721, Dec. 19, 2014, 128 Stat. 3417; Pub. L. 115–91, div. A, title XIV, §1413(a)(1), Dec. 12, 2017, 131 Stat. 1707.)
 
 #### Amendments ####
+
+**2017**—Subsec. (b). Pub. L. 115–91, §1413(a)(1)(A), struck out "the Under Secretary of Defense for Personnel and Readiness," after "Secretary of Defense," in introductory provisions.
+
+Subsec. (c)(4). Pub. L. 115–91, §1413(a)(1)(B), substituted "the Secretary of Defense" for "the Under Secretary of Defense for Personnel and Readiness".
 
 **2014**—Subsec. (a). Pub. L. 113–291, §721(a), substituted "Deputy Director of the Defense Health Agency" for "Deputy Director of the TRICARE Management Activity" wherever appearing.
 

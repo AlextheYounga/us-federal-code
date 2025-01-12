@@ -152,7 +152,7 @@ Subsec. (g). Pub. L. 99–514, §1843(a), added subsec. (g).
 
 #### Effective Date of Repeal ####
 
-Repeal applicable to any divorce or separation instrument (as defined in former subsec. (b)(2) of this section as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018 if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11501(c) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 61 of this title.
+Repeal applicable to any divorce or separation instrument (as defined in former subsec. (b)(2) of this section as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018 if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, see section 11051(c) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 61 of this title.
 
 #### Effective Date of 1986 Amendment; Transitional Rule ####
 
@@ -160,17 +160,17 @@ Pub. L. 99–514, title XVIII, §1843(c)(2), (3), Oct. 22, 1986, 100 Stat. 2854,
 
 "(2) Effective dates.—
 
-"(A) In general.—The amendment made by paragraph (1) [amending this section] shall apply with respect to divorce or separation instruments (as defined in section 71(b)(2)) of the Internal Revenue Code of 1986 executed after December 31, 1986.
+"(A) In general.—The amendment made by paragraph (1) [amending this section] shall apply with respect to divorce or separation instruments (as defined in [former] section 71(b)(2)) of the Internal Revenue Code of 1986 executed after December 31, 1986.
 
 "(B) Modifications of instruments executed before january 1, 1987.—The amendments made by paragraph (1) [amending this section] shall also apply to any divorce or separation instrument (as so defined) executed before January 1, 1987, but modified on or after such date if the modification expressly provides that the amendments made by paragraph (1) shall apply to such modification.
 
-"(3) Transitional rule.—In the case of any instrument to which the amendment made by paragraph (1) [amending this section] does not apply, paragraph (2) of section 71(f) of the Internal Revenue Code of 1954 [now 1986] (as in effect on the day before the date of the enactment of this Act [Oct. 22, 1986]) shall apply only with respect to the first 3 post-separation years."
+"(3) Transitional rule.—In the case of any instrument to which the amendment made by paragraph (1) [amending this section] does not apply, paragraph (2) of [former] section 71(f) of the Internal Revenue Code of 1954 [now 1986] (as in effect on the day before the date of the enactment of this Act [Oct. 22, 1986]) shall apply only with respect to the first 3 post-separation years."
 
 #### Effective Date of 1984 Amendment ####
 
 Pub. L. 98–369, div. A, title IV, §422(e), July 18, 1984, 98 Stat. 798, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-"(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section and sections 215, 219, 682, 6676, and 7701 of this title] shall apply with respect to divorce or separation instruments (as defined in section 71(b)(2) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as amended by this section) executed after December 31, 1984.
+"(1) In general.—Except as otherwise provided in this subsection, the amendments made by this section [amending this section and sections 215, 219, 682, 6676, and 7701 of this title] shall apply with respect to divorce or separation instruments (as defined in [former] section 71(b)(2) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], as amended by this section) executed after December 31, 1984.
 
 "(2) Modifications of instruments executed before january 1, 1985.—The amendments made by this section shall also apply to any divorce or separation instrument (as so defined) executed before January 1, 1985, but modified on or after such date if the modification expressly provides that the amendments made by this section shall apply to such modification.
 

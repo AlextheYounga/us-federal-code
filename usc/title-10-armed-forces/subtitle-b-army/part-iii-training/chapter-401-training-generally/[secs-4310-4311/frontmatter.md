@@ -6,4 +6,4 @@ Section 4311, acts Aug. 10, 1956, ch. 1041, 70A Stat. 237; Nov. 5, 1990, Pub. L.
 
 #### Effective Date of Repeal ####
 
-Repeal effective on the earlier of the date on which the Secretary of the Army submits a certification in accordance with section 5523 of [former] Title 36, Patriotic Societies and Observances, or Oct. 1, 1996, see section 1624(c) of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 4316 of this title.
+Repeal effective on the earlier of the date on which the Secretary of the Army submits a certification in accordance with section 5523 of [former] Title 36, Patriotic Societies and Observances, or Oct. 1, 1996, see section 1624(c) of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 925 of Title 18, Crimes and Criminal Procedure.

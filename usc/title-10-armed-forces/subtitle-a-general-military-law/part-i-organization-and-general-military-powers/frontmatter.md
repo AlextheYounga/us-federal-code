@@ -21,11 +21,13 @@ Chap. Sec.
 
 9. Defense Budget Matters 221
 
+9A. Audit 251 1
+
 11. Reserve Components 261
 
 12. The Militia 246
 
-13. Insurrection 251
+13. Insurrection 251 1
 
 14. Arming of American Vessels 261
 
@@ -47,7 +49,11 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–328, div. A, title XII, §1241(o)(1), Dec. 23, 2016, 130 Stat. 2512, redesignated item for chapter 13 "The Militia" as 12 and substituted "246" for "311", redesignated item for chapter 15 "Insurrection" as 13 and substituted "251" for "331", redesignated item for chapter 17 "Arming of American Vessels" as 14 and substituted "261" for "351", redesignated item for chapter 18 "Military Support for Civilian Law Enforcement Agencies" as 15 and substituted "271" for "371", and added item for chapter 16.
+**2017**—Pub. L. 115–91, div. A, title X, §1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, made technical amendment to directory language of Pub. L. 114–328, §805(a)(2). See 2016 Amendment note below.
+
+Pub. L. 115–91, div. A, title X, §1002(a)(2), Dec. 12, 2017, 131 Stat. 1537, added item for chapter 9A.
+
+**2016**—Pub. L. 114–328, div. A, title XII, §1241(o)(1), Dec. 23, 2016, 130 Stat. 2512, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, redesignated item for chapter 13 "The Militia" as 12 and substituted "246" for "311", redesignated item for chapter 15 "Insurrection" as 13 and substituted "251" for "331", redesignated item for chapter 17 "Arming of American Vessels" as 14 and substituted "261" for "351", redesignated item for chapter 18 "Military Support for Civilian Law Enforcement Agencies" as 15 and substituted "271" for "371", and added item for chapter 16.
 
 **2015**—Pub. L. 114–92, div. A, title X, §1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted "Cyber Matters" for "Cyber matters" in item for chapter 19.
 
@@ -88,3 +94,5 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 **1981**—Pub. L. 97–86, title IX, §905(a)(2), Dec. 1, 1981, 95 Stat. 1116, added item for chapter 18.
 
 **1962**—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
+
+[<sup>1</sup> So in original. Chapters 9A and 13 both begin with a section 251.](#PARTI_1)

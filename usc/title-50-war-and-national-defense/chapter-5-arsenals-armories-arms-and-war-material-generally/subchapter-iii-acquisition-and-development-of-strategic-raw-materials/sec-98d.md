@@ -64,6 +64,8 @@ Pub. L. 99–145, title XVI, §1612, Nov. 8, 1985, 99 Stat. 776, as amended by P
 
 Provisions relating to certain materials in the National Defense Stockpile were contained in the following acts:
 
+Pub. L. 115–91, div. A, title XIV, §1414, Dec. 12, 2017, 131 Stat. 1708.
+
 Pub. L. 114–328, div. A, title XIV, §1411, Dec. 23, 2016, 130 Stat. 2569.
 
 Pub. L. 113–66, div. A, title XIV, §1412, Dec. 26, 2013, 127 Stat. 934.

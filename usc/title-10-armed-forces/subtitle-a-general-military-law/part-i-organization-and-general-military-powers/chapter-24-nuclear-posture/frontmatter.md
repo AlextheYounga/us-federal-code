@@ -20,7 +20,13 @@ Sec.
 
 498. Unilateral change in nuclear weapons stockpile of the United States.
 
+499. Annual assessment of cyber resiliency of nuclear command and control system.
+
+499a. Collection, storage, and sharing of data relating to nuclear security enterprise and nuclear forces.
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title XVI, §§1651(b), 1652(b), Dec. 12, 2017, 131 Stat. 1757, 1758, added items 499 and 499a.
 
 **2013**—Pub. L. 113–66, div. A, title X, §1051(b)(2), Dec. 26, 2013, 127 Stat. 859, added item 497a.
 

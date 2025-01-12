@@ -16,7 +16,7 @@ Sec.
 
 9314. Degree granting authority for United States Air Force Institute of Technology.
 
-9314a. United States Air Force Institute of Technology: admission of defense industry civilians.
+9314a. United States Air Force Institute of Technology: admission of certain private sector civilians.
 
 9314b. United States Air Force Institute of Technology: administration.
 
@@ -31,6 +31,8 @@ Sec.
 9320. Recruit basic training: privacy.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title V, §581(d)(2), Dec. 12, 2017, 131 Stat. 1415, added item 9314a and struck out former item 9314a "United States Air Force Institute of Technology: admission of defense industry civilians".
 
 **2011**—Pub. L. 112–81, div. A, title V, §554(b), Dec. 31, 2011, 125 Stat. 1415, added item 9314b.
 

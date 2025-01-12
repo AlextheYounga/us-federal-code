@@ -8,7 +8,7 @@ Sec.
 
 10503. Functions of National Guard Bureau: charter.
 
-10504. Chief of National Guard Bureau: annual report.
+10504. Chief of National Guard Bureau: annual reports.
 
 10505. Vice Chief of the National Guard Bureau.
 
@@ -19,6 +19,8 @@ Sec.
 10508. National Guard Bureau: general provisions.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title III, §333(b)(2), Dec. 12, 2017, 131 Stat. 1356, added item 10504 and struck out former item 10504 "Chief of National Guard Bureau: annual report".
 
 **2011**—Pub. L. 112–81, div. A, title V, §511(d)(2), Dec. 31, 2011, 125 Stat. 1393, substituted "Vice Chief of the National Guard Bureau" for "Director of the Joint Staff of the National Guard Bureau" in item 10505.
 

@@ -8,7 +8,7 @@ Sec.
 
 2273. Policy regarding assured access to space: national security payloads.
 
-2273a. Operationally Responsive Space Program Office.
+2273a. Space Rapid Capabilities Office.
 
 2274. Space situational awareness services and information: provision to non-United States Government entities.
 
@@ -16,17 +16,23 @@ Sec.
 
 2276. Commercial space launch cooperation.
 
-2277. Report on foreign counter-space programs.
+[2277. Repealed.]
 
 2278. Notification of foreign interference of national security space.
 
-2279. Foreign commercial satellite services.
+2279. Foreign commercial satellite services and foreign launches.
 
-2279a. Principal Advisor on Space Control.
+[2279a. Repealed.]
 
 2279b. Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise.
 
+2279c. 1 Air Force Space Command.
+
+2279c. 1 Limitation on construction on United States territory of satellite positioning ground monitoring stations of certain foreign governments. 2
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–91, div. A, title X, §1051(a)(13)(B), title XVI, §§1601(a)(2), (b)(2)(B), (b)(2), 1603(d)(2), Dec. 12, 2017, 131 Stat. 1561, 1719, 1720, 1723, added item 2279c "Air Force Space Command", substituted "Space Rapid Capabilities Office" for "Operationally Responsive Space Program Office" in item 2273a and "Foreign commercial satellite services and foreign launches" for "Foreign commercial satellite services" in item 2279, and struck out items 2277 "Report on foreign counter-space programs", and 2279a "Principal Advisor on Space Control".
 
 **2015**—Pub. L. 114–92, div. A, title XVI, §§1602(b), 1603(b), Nov. 25, 2015, 129 Stat. 1096, 1098, added items 2279a and 2279b.
 
@@ -41,3 +47,7 @@ Pub. L. 112–239, div. A, title IX, §§911(b), 912(b), 913(c)(2), Jan. 2, 2013
 **2004**—Pub. L. 108–375, div. A, title IX, §913(a)(2), Oct. 28, 2004, 118 Stat. 2028, added item 2273a.
 
 **2003**—Pub. L. 108–136, div. A, title IX, §§911(a)(2), 912(b), 913(b), Nov. 24, 2003, 117 Stat. 1564, 1565, 1567, added items 2272 to 2274.
+
+[<sup>1</sup> So in original. Two sections 2279c have been enacted.](#CHAPTER135_1)
+
+[<sup>2</sup> Editorially supplied. Section 2279c added by Pub. L. 115–91 without corresponding amendment of chapter analysis.](#CHAPTER135_2)

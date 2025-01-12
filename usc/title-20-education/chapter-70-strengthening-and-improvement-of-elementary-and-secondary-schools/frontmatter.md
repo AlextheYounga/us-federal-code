@@ -602,6 +602,8 @@ Sec.
 
 7703b. Assistance to local educational agencies that benefit dependents of members of the Armed Forces and Department of Defense civilian employees.
 
+7703c. Plan and authority to assist local educational agencies experiencing growth in enrollment due to force structure changes, relocation of military units, or base closures and realignments.
+
 7704. Policies and procedures relating to children residing on Indian lands.
 
 7705. Application for payments under sections 7702 and 7703 of this title.

@@ -29,6 +29,8 @@
 
 #### Amendment of Analysis ####
 
+Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1599, 1601, made technical amendment to Pub. L. 114–328, §5541(6), set out below in part, effective as of Dec. 23, 2016, and as if included therein as enacted. See 2017 Amendment note below.
+
 Pub. L. 114–328, Dec. 23, 2016, div. E, title LXIII, §§5541(6), 5542, Dec. 23, 2016, 130 Stat. 2966, 2967, provided in part that, effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, this analysis is amended by striking items 860, 61 (probably should be 861), 864 to 866, and 869 and inserting the following new items:
 
 |Sec.|Art.|                                                                    |
@@ -44,11 +46,15 @@ See 2016 Amendment notes below.
 
 #### Amendments ####
 
-Pub. L. 114–328, div. E, title LXIII, §5541(6)(B)–(D), Dec. 23, 2016, 130 Stat. 2967, substituted "Judge advocate review of finding of guilty in summary court-martial" for "Review by a judge advocate" in item 864, "Transmittal and review of records" for "Disposition of records" in item 865, "Courts of Criminal Appeals" for "Review by Court of Criminal Appeals" in item 866, and "Review by Judge Advocate General" for "Review in the office of the Judge Advocate General" in item 869 and struck out item 871 "Art. 71. Execution of sentence; suspension of sentence".
+**2017**—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, §5541(6)(A) to (C). See 2016 Amendment notes below.
 
-Pub. L. 114–328, div. E, title LXIII, §5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, added items 860a to 860c and substituted "Post-trial processing in general and special courts-martial" for "Action by the convening authority" in item 860.
+**2016**—Pub. L. 114–328, div. E, title LXIII, §5541(6)(D), Dec. 23, 2016, 130 Stat. 2967, struck out item 871 "Art. 71. Execution of sentence; suspension of sentence".
 
-Pub. L. 114–328, div. E, title LXIII, §5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, which directed amendment of analysis by striking out item "61" and inserting item 861, was amended by substituting "Waiver of right to appeal; withdrawal of appeal" for "Waiver or withdrawal of appeal" in item 861 to reflect the probable intent of Congress.
+Pub. L. 114–328, div. E, title LXIII, §5541(6)(B), (C), Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, substituted "Judge advocate review of finding of guilty in summary court-martial" for "Review by a judge advocate" in item 864, "Transmittal and review of records" for "Disposition of records" in item 865, "Courts of Criminal Appeals" for "Review by Court of Criminal Appeals" in item 866, and "Review by Judge Advocate General" for "Review in the office of the Judge Advocate General" in item 869.
+
+Pub. L. 114–328, div. E, title LXIII, §5541(6)(A), as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, Dec. 23, 2016, 130 Stat. 2966, added items 860a to 860c and substituted "Post-trial processing in general and special courts-martial" for "Action by the convening authority" in item 860.
+
+Pub. L. 114–328, div. E, title LXIII, §5541(6)(A), Dec. 23, 2016, 130 Stat. 2966, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, which directed amendment of analysis by striking out item "61" and inserting item 861, was amended by substituting "Waiver of right to appeal; withdrawal of appeal" for "Waiver or withdrawal of appeal" in item 861 to reflect the probable intent of Congress.
 
 **1996**—Pub. L. 104–106, div. A, title XI, §1133(a)(2), Feb. 10, 1996, 110 Stat. 466, added item 876b.
 
