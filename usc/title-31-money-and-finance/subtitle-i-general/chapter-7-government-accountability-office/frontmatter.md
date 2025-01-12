@@ -36,6 +36,8 @@ Sec.
 
 720. Agency reports.
 
+721. Access to certain information.
+
 #### SUBCHAPTER III—PERSONNEL ####
 
 731. General.
@@ -101,6 +103,8 @@ Sec.
 793. Authorization of appropriations.
 
 #### Amendments ####
+
+**2017**—Pub. L. 115–3, §2(d), Jan. 31, 2017, 131 Stat. 8, added item 721.
 
 **2014**—Pub. L. 113–235, div. H, title I, §1401(a)(2), Dec. 16, 2014, 128 Stat. 2541, added subchapter VII heading and items 791 to 793.
 

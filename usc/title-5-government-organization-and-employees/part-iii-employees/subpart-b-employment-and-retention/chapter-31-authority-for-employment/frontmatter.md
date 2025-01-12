@@ -58,7 +58,15 @@ Sec.
 
 3161. Employment and compensation of employees.
 
+#### SUBCHAPTER V—PRESIDENTIAL INNOVATION FELLOWS PROGRAM ####
+
+3171. Presidential Innovation Fellows Program.
+
+3172. Presidential Innovation Fellows Program Advisory Board.
+
 #### Amendments ####
+
+**2017**—Pub. L. 115–1, §2(b), Jan. 20, 2017, 131 Stat. 5, added subchapter V heading and items 3171 and 3172.
 
 **2011**—Pub. L. 112–81, div. A, title XI, §1109(b), Dec. 31, 2011, 125 Stat. 1615, added item 3111a.
 

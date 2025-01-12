@@ -56,7 +56,7 @@ Sec.
 
 #### Amendment of Analysis ####
 
-Pub. L. 114–328, title IX, §901(g)(2), Dec. 23, 2016, 130 Stat. 2342, provided that, effective on Feb. 1, 2018, this analysis is amended by striking out item 133 "Under Secretary of Defense for Acquisition, Technology, and Logistics".
+Pub. L. 114–328, div. A, title IX, §901(g)(2), Dec. 23, 2016, 130 Stat. 2342, provided that, effective on Feb. 1, 2018, this analysis is amended by striking out item 133 "Under Secretary of Defense for Acquisition, Technology, and Logistics".
 
 Pub. L. 113–291, div. A, title IX, §901(l)(1)(A), Dec. 19, 2014, 128 Stat. 3468, provided that, effective on Feb. 1, 2017, the item relating to section 132a is amended to read as follows: "132a. Under Secretary of Defense for Business Management and Information." See 2014 Amendment note below.
 
