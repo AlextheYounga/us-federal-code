@@ -22,6 +22,8 @@ Sec.
 
 Chapter 35 consolidates the laws that have specific application to the carriage of passengers. They provide special provisions for listing and counting the number of passengers on board a vessel, for notifying the general public of the safety standards that are applicable, and for related control measures.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–120, title III, §306(a)(3), Feb. 8, 2016, 130 Stat. 54, inserted a period at end of items 3507 and 3508.

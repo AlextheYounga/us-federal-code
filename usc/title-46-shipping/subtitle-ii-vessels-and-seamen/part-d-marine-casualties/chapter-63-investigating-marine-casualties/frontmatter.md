@@ -24,6 +24,8 @@ Sec.
 
 Chapter 63 sets forth the scope and procedures for the investigation of marine casualties and incidents that are required to be reported by Chapter 61, as well as the rights of parties involved in a casualty.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–265, title II, §207(b), Oct. 11, 2018, 132 Stat. 3747, added item 6309.

@@ -28,6 +28,8 @@ A bankruptcy court may issue a writ of habeas corpus—
 
 (C) before the issuance of such writ, notice and a hearing have been afforded the adverse party of such debtor in custody to contest the issuance of such writ.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 2256, added Pub. L. 95–144, §3, Oct. 28, 1977, 91 Stat. 1220, related to jurisdiction of proceedings relating to transferred offenders, prior to transfer to section 3244 of Title 18, Crimes and Criminal Procedure, by Pub. L. 95–598, title III, §314(j), Nov. 6, 1978, 92 Stat. 2677.

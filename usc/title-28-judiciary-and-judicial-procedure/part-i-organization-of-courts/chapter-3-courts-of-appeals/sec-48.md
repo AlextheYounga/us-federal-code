@@ -66,6 +66,8 @@ Changes were made in phraseology.
 
 By Senate amendment, Jacksonville (Fla.) was added as a place for holding a regular session of the Court of Appeals for the Fifth Circuit. See 80th Congress Senate Report No. 1559.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Subsecs. (e), (f). Pub. L. 109–63 added subsecs. (e) and (f).
@@ -83,6 +85,8 @@ Subsec. (d). Pub. L. 97–164, §104(c), added subsec. (d).
 **1980**—Pub. L. 96–452 substituted "New Orleans, Fort Worth, Jackson" for "New Orleans, Atlanta, Fort Worth, Jacksonville, Montgomery" in item relating to fifth circuit, and added item relating to eleventh circuit.
 
 **1951**—Act Oct. 31, 1951, inserted last par.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1992 Amendment ####
 

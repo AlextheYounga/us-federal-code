@@ -60,6 +60,14 @@ Subsec. (b). Pub. L. 110–386, §3(3), added subsec. (b) and struck out former 
 
 Subsec. (c). Pub. L. 107–372, §103(b), added subsec. (c).
 
+#### Charting and Survey Services ####
+
+Pub. L. 116–259, title V, §501, Dec. 23, 2020, 134 Stat. 1178, provided that:
+
+"(a) In General.—Not later than 270 days after the development of the strategy required by section 1002(b) of the Frank LoBiondo Coast Guard Authorization Act of 2018 [Pub. L. 115–282] (33 U.S.C. 892a note), the Secretary of Commerce shall enter into not fewer than 2 multi-year contracts with 1 or more private entities for the performance of charting and survey services by vessels.
+
+"(b) Charting and Surveys in the Arctic.—In soliciting and engaging the services of vessels under subsection (a), the Secretary shall particularly emphasize the need for charting and surveys in the Arctic."
+
 #### System for Tracking and Reporting All-Inclusive Cost of Hydrographic Surveys ####
 
 Pub. L. 115–282, title X, §1002, Dec. 4, 2018, 132 Stat. 4365, provided that:

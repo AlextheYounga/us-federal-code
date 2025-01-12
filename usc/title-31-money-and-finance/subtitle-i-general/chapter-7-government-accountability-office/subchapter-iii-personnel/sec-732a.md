@@ -16,11 +16,15 @@
 
 (Added Pub. L. 106–303, §4(a)(1), Oct. 13, 2000, 114 Stat. 1068; amended Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–323, §9(b)(1), Sept. 22, 2008, 122 Stat. 3548.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Subsec. (b). Pub. L. 110–323 substituted "paragraph (1) or (2) of section 731(e)" for "section 731(d), (e)(1), or (e)(2)".
 
 **2004**—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in introductory provisions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

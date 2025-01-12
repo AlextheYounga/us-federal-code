@@ -10,6 +10,8 @@ Based on title 28, U.S.C., 1940 ed., §321 (Mar. 3, 1911, ch. 231, §215, 36 Sta
 
 Appointment of "judges of the Supreme Court" by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, §2, cl. 2.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title of 2019 Amendment ####
 
 Pub. L. 116–73, §1, Nov. 26, 2019, 133 Stat. 1154, provided that: "This Act [amending section 83 of this title and enacting provisions set out as a note under section 83 of this title] may be cited as the 'Divisional Realignment for the Eastern District of Arkansas Act of 2019'."

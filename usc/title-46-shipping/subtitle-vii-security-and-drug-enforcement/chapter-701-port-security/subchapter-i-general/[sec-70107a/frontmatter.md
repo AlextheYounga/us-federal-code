@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 109–347, title I, §108(a), Oct. 13, 2006, 120 Stat. 1892; amended Pub. L. 111–281, title VIII, §§803, 824, Oct. 15, 2010, 124 Stat. 2990, 3003, related to interagency operational centers for port security.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Savings Clause ####
 
 Pub. L. 115–254, div. J, §1809(a)(2), Oct. 5, 2018, 132 Stat. 3537, provided that: "A repeal made by this subsection [repealing this section] shall not affect an interagency operational center established before the date of enactment of this Act [Oct. 5, 2018]."

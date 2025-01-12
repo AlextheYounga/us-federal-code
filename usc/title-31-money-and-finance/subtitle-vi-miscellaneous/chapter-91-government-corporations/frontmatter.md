@@ -22,6 +22,8 @@ Sec.
 
 9110. Standards for depository institutions holding securities of a Government-sponsored corporation for customers.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Pub. L. 101–576, title III, §306(b), Nov. 15, 1990, 104 Stat. 2854, substituted "Management" for "Audit".

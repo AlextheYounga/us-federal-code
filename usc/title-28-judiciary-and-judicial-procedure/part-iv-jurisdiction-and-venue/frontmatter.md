@@ -23,6 +23,8 @@ Chap. Sec.
 
 99. General Provisions 1631
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1992**—Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted "United States Court of Federal Claims" for "United States Claims Court" as item for chapter 91.

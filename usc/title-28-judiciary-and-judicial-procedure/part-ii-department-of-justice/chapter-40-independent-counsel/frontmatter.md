@@ -20,6 +20,8 @@ Sec.
 
 599. Termination of effect of chapter.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1987**—Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1293, amended chapter 40 heading and analysis generally, substituting items 591 to 599 for former items 591 to 598.

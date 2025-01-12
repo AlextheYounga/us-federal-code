@@ -14,6 +14,8 @@
 
 (Added Pub. L. 95–521, title VI, §602(a), Oct. 26, 1978, 92 Stat. 1873; amended Pub. L. 97–409, §2(b)(1), Jan. 3, 1983, 96 Stat. 2039; Pub. L. 99–554, title I, §144(g)(3), Oct. 27, 1986, 100 Stat. 3097; Pub. L. 100–191, §§4, 5(a), Dec. 15, 1987, 101 Stat. 1307.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of enactment of this section, referred to in subsec. (a), is Oct. 26, 1978.
@@ -31,6 +33,8 @@ Subsec. (f). Pub. L. 100–191, §5(a), substituted "involving an independent co
 Subsec. (a). Pub. L. 97–409, §2(b)(1)(B), substituted "independent counsels" for "special prosecutors".
 
 Subsec. (f). Pub. L. 97–409, §2(b)(1)(A), (C), substituted "independent counsel" for "special prosecutor" wherever appearing and "independent counsel's" for "special prosecutor's".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1986 Amendment ####
 

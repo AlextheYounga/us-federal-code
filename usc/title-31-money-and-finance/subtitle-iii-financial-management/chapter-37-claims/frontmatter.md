@@ -68,6 +68,8 @@ Sec.
 
 3733. Civil investigative demands.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–316, title II, §202(n)(2), Oct. 19, 1996, 110 Stat. 3844, substituted "Authority to settle claims" for "Authority of the Comptroller General to settle claims" in item 3702.

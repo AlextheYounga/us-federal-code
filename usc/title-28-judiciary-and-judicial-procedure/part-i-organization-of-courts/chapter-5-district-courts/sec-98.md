@@ -32,6 +32,8 @@ The parishes of Allen, Beauregard, and Jefferson Davis of the Lake Charles Divis
 
 Changes in arrangement and phraseology were made.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Subsec. (a). Pub. L. 98–353 inserted ", and Houma" after "New Orleans".
@@ -41,6 +43,8 @@ Changes in arrangement and phraseology were made.
 **1971**—Pub. L. 92–208 created a Middle District consisting of the nine parishes formerly making up Baton Rouge Division of Eastern District and designated as the entire Eastern District the thirteen parishes formerly making up New Orleans Division of Eastern District.
 
 **1961**—Pub. L. 87–36 struck out from enumeration in subsec. (a)(1) the parishes of Iberia and Saint Mary, in subsec. (b)(1) Lafayette, Saint Martin and Vermilion, and in subsec. (b)(5) Acadia, and created sixth division of subsec. (b), consisting of such parishes.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1978 Amendment; Savings Provision ####
 

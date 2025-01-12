@@ -42,6 +42,8 @@ Alaska, Canal Zone, and Virgin Islands were added to the 9th, 5th, and 3rd Circu
 
 Some of the provisions of section 864 of title 48, U.S.C., 1940 ed., have been retained in said title. For those which were incorporated in other sections of this revised title, see Distribution Table.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1982**—Pub. L. 97–164 increased number of judicial circuits from twelve to thirteen through addition of Federal circuit composed of all Federal judicial districts.
@@ -49,6 +51,8 @@ Some of the provisions of section 864 of title 48, U.S.C., 1940 ed., have been r
 **1980**—Pub. L. 96–452 substituted "twelve" for "eleven" in text preceding table, substituted "District of the Canal Zone" for "Alabama, Canal Zone, Florida, Georgia" in item relating to fifth circuit, and added new item relating to eleventh circuit.
 
 **1951**—Act Oct. 31, 1951, inserted reference to Guam in that part relating to composition of Ninth judicial circuit.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1982 Amendment ####
 
@@ -68,7 +72,7 @@ Pub. L. 105–119, title III, §305, Nov. 26, 1997, 111 Stat. 2491, established 
 
 #### Assignment of Judges and Procedure for Administration of Pending Cases With Regard to Reorganization of the Fifth Circuit Court of Appeals ####
 
-Sections 5 to 10 of Pub. L. 96–452 provided that:
+Pub. L. 96–452, §§5–10, Oct. 14, 1980, 94 Stat. 1994, 1995, provided that:
 
 "Sec. 5. Each circuit judge in regular active service of the former fifth circuit whose official station on the day before the effective date of this Act [Oct. 1, 1981]—
 

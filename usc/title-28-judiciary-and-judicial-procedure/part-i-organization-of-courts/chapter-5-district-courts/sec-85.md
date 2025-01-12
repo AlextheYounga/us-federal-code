@@ -18,11 +18,15 @@ Provisions as to clerk's and marshal's deputies and maintenance of offices were 
 
 Changes in arrangement and phraseology were made.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–455 and 108–482 amended section identically, inserting "Colorado Springs," after "Boulder,".
 
 **1984**—Pub. L. 98–620 provided for holding court at Boulder.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1984 Amendment ####
 

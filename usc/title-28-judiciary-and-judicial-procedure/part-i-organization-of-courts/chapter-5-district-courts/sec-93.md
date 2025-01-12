@@ -36,6 +36,8 @@ Provisions relating to appointment of deputy marshals and maintenance of offices
 
 Changes in arrangement and phraseology were made.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1999**—Subsec. (a)(1). Pub. L. 106–130 inserted "and Wheaton" before period at end.
@@ -63,6 +65,8 @@ Subsec. (c). Pub. L. 95–408 substituted "Southern District" for "Eastern Distr
 **1961**—Subsec. (b)(2). Pub. L. 87–36 provided for holding court at Alton.
 
 **1950**—Subsec. (b)(1). Act Aug. 10, 1950, provided for holding court at Rock Island.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1984 Amendment ####
 

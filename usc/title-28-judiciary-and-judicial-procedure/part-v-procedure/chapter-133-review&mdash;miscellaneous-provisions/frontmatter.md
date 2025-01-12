@@ -34,6 +34,8 @@ Sec.
 
 This section inserts in the chapter analysis of chapter 133 of title 28, U.S.C., a new item "2111," in view of the insertion in such title, by another section of this bill, of a new section 2111.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–352, §5(c), (d)(2), June 27, 1988, 102 Stat. 663, struck out item 2103 "Appeal from State court or from a United States court of appeals improvidently taken regarded as petition for writ of certiorari" and substituted "Reviews of State court decisions" for "Appeals from State courts" in item 2104.

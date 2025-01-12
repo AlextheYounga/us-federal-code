@@ -16,6 +16,8 @@ Sec.
 
 6207. Authorization of appropriations.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Provisions similar to this chapter were contained in Pub. L. 97–326, Oct. 15, 1982, 96 Stat. 1607, as amended, which was set out as a note under section 6102 of this title, prior to repeal by Pub. L. 99–547, §2(d), Oct. 27, 1986, 100 Stat. 3060, eff. May 1, 1986.

@@ -60,6 +60,8 @@ The following provisions were omitted as either executed or covered by section 5
 
 Changes in arrangement and phraseology were made.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1970**—Subsec. (b)(1). Pub. L. 91–272 provided for holding court at Richmond.

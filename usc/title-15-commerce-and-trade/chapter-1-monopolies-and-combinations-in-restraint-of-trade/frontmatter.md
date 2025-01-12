@@ -24,6 +24,8 @@ Sec.
 
 7a–2. Rights, authorities, and liabilities not affected.
 
+7a–3. Anti-retaliation protection for whistleblowers.
+
 8. Trusts in restraint of import trade illegal; penalty.
 
 9. Jurisdiction of courts; duty of United States attorneys; procedure.

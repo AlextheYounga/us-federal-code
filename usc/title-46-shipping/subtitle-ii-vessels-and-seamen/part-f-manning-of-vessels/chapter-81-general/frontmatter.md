@@ -22,6 +22,8 @@ Sec.
 
 Chapter 81 provides for the composition, citizenship, working hours, and other limitations affecting the complement of licensed individuals and crew on certain vessels, a safety watch onboard passenger vessels, membership in the Naval Reserve for certain deck and engineer officers, and penalties for violating, and regulatory authority for implementing its provisions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–282, title VI, §601(c)(3)(A), Dec. 4, 2018, 132 Stat. 4289, struck out item 8108 "Merchant Marine Personnel Advisory Committee".

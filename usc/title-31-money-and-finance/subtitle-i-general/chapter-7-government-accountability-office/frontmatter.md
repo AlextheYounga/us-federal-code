@@ -102,6 +102,8 @@ Sec.
 
 793. Authorization of appropriations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Pub. L. 115–3, §2(d), Jan. 31, 2017, 131 Stat. 8, added item 721.

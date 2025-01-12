@@ -46,6 +46,8 @@ Sec.
 
 2522. Notice of appeal.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Pub. L. 106–518, title II, §207, Nov. 13, 2000, 114 Stat. 2414, struck out item 2520 "Fees".

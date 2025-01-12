@@ -31,6 +31,8 @@ Chap. Sec.
 
 23. Civil justice expense and delay reduction plans 471
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Pub. L. 107–273, div. C, title I, §11042(b), Nov. 2, 2002, 116 Stat. 1855, added item for chapter 16.
@@ -46,6 +48,8 @@ Chap. Sec.
 **1980**—Pub. L. 96–417, title V, §501(1), Oct. 10, 1980, 94 Stat. 1742, substituted "Court of International Trade" for "Customs Court" in item for chapter 11.
 
 **1978**—Pub. L. 98–598, title II, §201(b), Nov. 6, 1978, 92 Stat. 2660, directed amendment of analysis of chapters comprising part I by adding item for chapter 6 "Bankruptcy courts", which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+#### **Executive Documents** ####
 
 #### Executive Order No. 11992 ####
 

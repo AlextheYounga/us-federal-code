@@ -16,6 +16,8 @@ Sec.
 
 1697. Service in multiparty, multiforum actions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Pub. L. 107–273, div. C, title I, §11020(b)(4)(A)(ii), Nov. 2, 2002, 116 Stat. 1828, added item 1697.

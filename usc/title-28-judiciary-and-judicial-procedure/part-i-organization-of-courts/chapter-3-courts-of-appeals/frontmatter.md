@@ -20,6 +20,8 @@ Sec.
 
 49. Assignment of judges to division to appoint independent counsels.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1983**—Pub. L. 97–409, §2(b)(2), Jan. 3, 1983, 96 Stat. 2039, substituted "independent counsels" for "special prosecutors" in item 49.

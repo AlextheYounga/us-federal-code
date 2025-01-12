@@ -12,9 +12,13 @@ Based on title 28, U.S.C., 1940 ed., §160 (Mar. 3, 1911, ch. 231, §85, 36 Stat
 
 Changes in arrangement and phraseology were made.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1978**—Pub. L. 95–573 struck out provision for two separate divisions, (1) the Northern Division comprising the counties of Aroostook, Hancock, Penobscot, Piscataquis, Somerset, Waldo, and Washington and (2) the Southern Division comprising the counties of Androscoggin, Cumberland, Franklin, Kennebec, Knox, Lincoln, Oxford, Sagadahoc, and York.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1978 Amendment ####
 

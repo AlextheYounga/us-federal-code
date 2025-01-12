@@ -8,6 +8,8 @@ Section 833, act June 25, 1948, ch. 646, 62 Stat. 925, authorized Court of Custo
 
 Section 834, act June 25, 1948, ch. 646, 62 Stat. 925, authorized Court of Customs and Patent Appeals to appoint necessary bailiffs and messengers and set out duties of those bailiffs and messengers.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as an Effective Date of 1982 Amendment note under section 171 of this title.

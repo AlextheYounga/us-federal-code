@@ -24,6 +24,8 @@ Sec.
 
 53111. Authorization of appropriations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. C, title XXXV, §3546(n), Aug. 13, 2018, 132 Stat. 2327, struck out item 53109 "Special rule regarding age of participating fleet vessel".

@@ -60,11 +60,15 @@ A provision relating to the maintenance of clerk's office was omitted as covered
 
 Changes in arrangement and phraseology were made.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1980**—Subsec. (b)(3). Pub. L. 96–462, §3(a)(1), added Fremont and Page counties to Western Division of Southern District.
 
 Subsec. (b)(4). Pub. L. 96–462, §3(a)(2), struck out references to Fremont and Page counties in list of counties comprising Southern Division of Southern District.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1980 Amendment; Savings Provision ####
 

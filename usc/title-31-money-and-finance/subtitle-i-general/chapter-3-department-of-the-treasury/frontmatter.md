@@ -62,6 +62,8 @@ Sec.
 
 333. Prohibition of misuse of Department of the Treasury names, symbols, etc.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Pub. L. 111–203, title V, §502(c), July 21, 2010, 124 Stat. 1588, added items 312 to 315 and struck out item 312 "Continuing in office".

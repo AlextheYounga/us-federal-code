@@ -22,6 +22,8 @@ The Federal authority to regulate uninspected vessels originated with the Motorb
 
 Thirty years later, the 1910 Act was amended by the Motorboat Act of 1940 (Public Law 76–484, 54 Stat. 163), which added to the equipment that was required and provided for other regulatory controls. In this manner the Federal Government continued to exercise some degree of maritime safety supervision over the commercial and recreational vessel sector that was "uninspected". This was important because steam towing vessels were converting to diesel propulsion and were therefore no longer subject to the detailed periodic and extensive hull, machinery, and equipment inspections of a Federal agency. In addition, the number of recreational vessels primarily propelled by gasoline were increasing and were also suffering casualties from explosions and fires.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Pub. L. 101–595, title VI, §603(3)(B), Nov. 16, 1990, 104 Stat. 2993, struck out item 4104 "Regulations".

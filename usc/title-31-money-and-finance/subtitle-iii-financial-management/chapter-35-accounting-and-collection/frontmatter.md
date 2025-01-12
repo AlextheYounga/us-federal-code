@@ -82,6 +82,8 @@ Sec.
 
 [3563 to 3567. Repealed.].
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Pub. L. 111–204, §2(h)(6)(B)(i), July 22, 2010, 124 Stat. 2231, struck out subchapter VI heading "RECOVERY AUDITS" and items 3561 "Identification of errors made by executive agencies in payments to contractors and recovery of amounts erroneously paid", 3562 "Disposition of recovered funds", 3563 "Sources of recovery services", 3564 "Management improvement programs", 3565 "Relationship to authority of Inspectors General", 3566 "Privacy protections", and 3567 "Definition of executive agency".

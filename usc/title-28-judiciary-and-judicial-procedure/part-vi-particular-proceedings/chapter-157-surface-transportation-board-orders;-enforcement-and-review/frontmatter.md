@@ -10,6 +10,8 @@ Sec.
 
 [2324, 2325. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1995**—Pub. L. 104–88, title III, §305(c)(1)(A), (E), Dec. 29, 1995, 109 Stat. 944, 945, substituted "SURFACE TRANSPORTATION BOARD" for "INTERSTATE COMMERCE COMMISSION" in chapter heading and "Board's" for "Commission's" in item 2321.

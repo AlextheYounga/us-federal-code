@@ -36,6 +36,8 @@ The provision respecting court accommodations at Fort Pierce and Panama City was
 
 Changes in arrangement and phraseology were made.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Subsec. (b). Pub. L. 100–702, §1021(a)(1), added Collier, Glades, and Hendry to the counties comprising the Middle District.
@@ -53,6 +55,8 @@ Subsec. (b). Pub. L. 95–408, §4(a)(2), struck out Madison from the counties c
 **1961**—Subsec. (a). Pub. L. 87–36 provided for holding court at Live Oak.
 
 **1952**—Subsec. (b). Act July 17, 1952, provided for holding court at Fort Myers and West Palm Beach.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1988 Amendment ####
 

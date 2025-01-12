@@ -36,6 +36,8 @@ Sec.
 
 [2647. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Pub. L. 98–620 title IV, §402(29)(G), Nov. 8, 1984, 98 Stat. 3359, struck out item 2647 "Precedence of cases".

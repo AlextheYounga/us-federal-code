@@ -142,6 +142,10 @@ Sec.
 
 894d. Applicability of policies to crews of vessels secured by National Oceanic and Atmospheric Administration under contract.
 
+894d–1. Investigation requirement.
+
+894d–2. Criminal referral.
+
 894e. Annual report on sexual assaults in the National Oceanic and Atmospheric Administration.
 
 894f. Sexual assault defined.

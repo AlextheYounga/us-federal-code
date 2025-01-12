@@ -52,6 +52,8 @@
 
 (Added Pub. L. 99–554, title I, §115(a), Oct. 27, 1986, 100 Stat. 3094; amended Pub. L. 101–162, title IV, §406(c), Nov. 21, 1989, 103 Stat. 1016; Pub. L. 102–140, title I, §111(b), (c), Oct. 28, 1991, 105 Stat. 795; Pub. L. 103–121, title I, §111(a)(2), (b)(2), (3), Oct. 27, 1993, 107 Stat. 1164; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–208, div. A, title I, §101(a) [title I, §109(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–18; Pub. L. 106–113, div. B, §1000(a)(1) [title I, title I, §113], Nov. 29, 1999, 113 Stat. 1535, 1501A–6, 1501A–20; Pub. L. 109–8, title III, §325(b), Apr. 20, 2005, 119 Stat. 99; Pub. L. 109–13, div. A, title VI, §6058(a), May 11, 2005, 119 Stat. 297; Pub. L. 110–161, div. B, title II, §212(a), Dec. 26, 2007, 121 Stat. 1914; Pub. L. 112–121, §3(b), May 25, 2012, 126 Stat. 348.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Amendment by Pub. L. 104–91 is based on section 111(b) and (c) of H.R. 2076, One Hundred Fourth Congress, as passed by the House of Representatives on Dec. 6, 1995, which was enacted into law by Pub. L. 104–91.
@@ -91,6 +93,8 @@ Subsec. (b)(5). Pub. L. 102–140, §111(b)(2), substituted "60 per centum" for 
 Subsec. (f). Pub. L. 102–140, §111(c), added subsec. (f).
 
 **1989**—Subsec. (b)(1). Pub. L. 101–162 substituted "one-fourth" for "one-third".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2012 Amendment ####
 

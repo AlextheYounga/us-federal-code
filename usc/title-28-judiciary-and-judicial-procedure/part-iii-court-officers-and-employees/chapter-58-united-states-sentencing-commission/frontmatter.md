@@ -18,6 +18,8 @@ Sec.
 
 998. Definitions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–322, title XXVIII, §280005(c)(1), Sept. 13, 1994, 108 Stat. 2097, substituted "Chair" for "Chairman" in item 993.

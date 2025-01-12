@@ -18,6 +18,8 @@ Sec.
 
 6508. Studies and reports.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Pub. L. 101–453, §5(c), Oct. 24, 1990, 104 Stat. 1061, substituted "Intergovernmental financing" for "Transfer and deposit requirements" in item 6503.

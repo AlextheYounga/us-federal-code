@@ -12,6 +12,8 @@ Sec.
 
 1585. Powers in law and equity.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–113, title IV, §423(a)(3), Jan. 29, 2020, 134 Stat. 66, added item 1584 and struck out former item 1584 "Civil actions under the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement".

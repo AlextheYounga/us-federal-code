@@ -46,6 +46,8 @@ Sec.
 
 51322. Protection of cadets from sexual assault onboard vessels.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Pub. L. 115–91, div. C. title XXXV, §§3510(b), 3512(b), 3514(d)(2), 3516(b), Dec. 12, 2017, 131 Stat. 1918, 1919, 1923, 1928, added items 51318 and 51320 to 51322 and struck out former item 51318 "Policy on sexual harassment and sexual assault".

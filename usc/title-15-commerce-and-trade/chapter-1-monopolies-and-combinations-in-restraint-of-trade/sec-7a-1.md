@@ -1,4 +1,4 @@
-### §7a—1. Limitation on recovery ###
+### §7a–1. Limitation on recovery ###
 
 #### (a) In general ####
 

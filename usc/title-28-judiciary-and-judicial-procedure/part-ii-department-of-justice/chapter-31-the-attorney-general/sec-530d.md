@@ -74,11 +74,15 @@
 
 (Added Pub. L. 107–273, div. A, title II, §202(a), Nov. 2, 2002, 116 Stat. 1771.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 6405 of the Internal Revenue Code of 1986, referred to in subsec. (a)(1)(C), is classified to section 6405 of Title 26, Internal Revenue Code.
 
 Section 6103 of the Internal Revenue Code of 1986, referred to in subsec. (c)(2)(A), is classified to section 6103 of Title 26, Internal Revenue Code.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Report on Policies and Determinations Made Prior to Enactment of Section ####
 

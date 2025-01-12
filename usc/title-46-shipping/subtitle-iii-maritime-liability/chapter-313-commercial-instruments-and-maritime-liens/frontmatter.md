@@ -60,6 +60,8 @@ Section 101 [102] of H.R. 3105 [became Pub. L. 100–710] revises, consolidates,
 
 Section 102 of this bill adds a new subtitle III to title 46, which contains a codification of the Ship Mortgage Act, 1920 and other related provisions. A previous version of this codification and the remaining sections of the bill were recently reported by the Merchant Marine and Fisheries Committee in H.R. 3105 (H. Rept. 100–918). The significant additions or changes by this provision to the version of H.R. 3105 reported by the Merchant Marine and Fisheries Committee are explained as follows: [see sections 31305, 31321, 31322, 31325, 31329, 31330, 31343 of this title].
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Pub. L. 107–295, title II, §205(a)(2), Nov. 25, 2002, 116 Stat. 2096, substituted "notices of claim of maritime lien" for "liens on preferred mortgage vessels" in item 31343.

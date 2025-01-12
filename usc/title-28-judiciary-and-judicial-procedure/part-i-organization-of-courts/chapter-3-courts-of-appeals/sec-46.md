@@ -24,6 +24,8 @@ This section preserves the interpretation established by the Textile Mills case 
 
 Whether divisions should sit simultaneously at the same or different places in the circuit is a matter for each court to determine.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 6 of Public Law 95–486 (92 Stat. 1633), referred to in subsec. (c), is section 6 of Pub. L. 95–486, Oct. 20, 1978, 92 Stat. 1633, which is set out as an Appeals Court Administrative Units note under section 41 of this title.
@@ -45,6 +47,8 @@ Subsec. (d). Pub. L. 97–164, §103(d), substituted "panel" for "division".
 Subsec. (c). Pub. L. 95–486, §5(a), substituted "panel" for "division" and struck out provision authorizing a retired circuit judge to sit as a judge of the court in banc in the rehearing of a case if he sat in the court or division in the original hearing of such case.
 
 **1963**—Subsec. (c). Pub. L. 88–176 inserted "regular" before "active service" wherever appearing, and provided that a retired circuit judge shall be competent to sit as a judge of the court in banc, in a rehearing if he sat in at the original hearing.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1982 Amendment ####
 

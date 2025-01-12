@@ -1,6 +1,6 @@
 ### §7a–2. Rights, authorities, and liabilities not affected ###
 
-Nothing in sections 7a to 7a–2 of this title shall be construed to—
+Nothing in sections 7a to 7a–3 of this title shall be construed to—
 
 (1) affect the rights of the Antitrust Division to seek a stay or protective order in a civil action based on conduct covered by an antitrust leniency agreement to prevent the cooperation described in section 7a–1(b) of this title from impairing or impeding the investigation or prosecution by the Antitrust Division of conduct covered by the agreement;
 
@@ -12,7 +12,7 @@ Nothing in sections 7a to 7a–2 of this title shall be construed to—
 
 #### References in Text ####
 
-Sections 7a to 7a–2 of this title, referred to in text, was in the original "this subtitle", meaning subtitle A (§§211–215) of title II of Pub. L. 108–237, June 22, 2004, 118 Stat. 666, which enacted this section and sections 7a and 7a–1 of this title, amended sections 1, 2, and 3 of this title, and enacted provisions formerly set out in a note under section 1 of this title. For complete classification of subtitle A to the Code, see Tables.
+Sections 7a to 7a–3 of this title, referred to in text, was in the original "this subtitle", meaning subtitle A (§§211–216) of title II of Pub. L. 108–237, June 22, 2004, 118 Stat. 666, which enacted this section and sections 7a, 7a–1, and 7a–3 of this title, amended sections 1, 2, and 3 of this title, and enacted provisions formerly set out in a note under section 1 of this title. For complete classification of subtitle A to the Code, see Tables.
 
 #### Codification ####
 

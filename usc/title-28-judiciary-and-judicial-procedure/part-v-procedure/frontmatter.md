@@ -29,6 +29,8 @@ Chap. Sec.
 
 133. Review—Miscellaneous Provisions 2101
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Pub. L. 109–2, §3(b), Feb. 18, 2005, 119 Stat. 9, added item for chapter 114.

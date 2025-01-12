@@ -12,6 +12,8 @@ Sec.
 
 51705. Training program for use of force against piracy. 1
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Pub. L. 112–213, title V, §502(c), Dec. 20, 2012, 126 Stat. 1575, added item 51705.

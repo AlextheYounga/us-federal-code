@@ -44,6 +44,8 @@ R.S. §2725, which prescribed the compensation of merchant appraisers, and secti
 
 R.S. §2727 fixed the salary of the four general appraisers at the sum of $2,500 a year each, and their actual traveling expenses. It was repealed by act Feb. 27, 1877, ch. 69, 19 Stat. 246.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–317, title V, §501(b)(3), Oct. 19, 1996, 110 Stat. 3856, substituted "Duties of chief judge" for "Duties of chief judge; precedence of judges" in item 253 and added item 258.

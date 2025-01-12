@@ -17,6 +17,8 @@ V. Procedure 1651
 
 VI. Particular Proceedings 2201
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1966**—Pub. L. 89–554, §4(a), Sept. 6, 1966, 80 Stat. 611, substituted "Department of Justice" for "United States Attorneys and Marshals" in item for part II.
@@ -721,6 +723,8 @@ VI. Particular Proceedings 2201
 <sup>1</sup> Court of Claims Rules were replaced by U.S. Claims Court Rules effective Oct. 1, 1982, and subsequently by United States Court of Federal Claims Rules effective Dec. 4, 1992.
 
 <sup>2</sup> Admiralty Rules were superseded July 1, 1966, by Supplemental Rules for Certain Admiralty and Maritime Claims.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Enactment Into Law; Citation ####
 

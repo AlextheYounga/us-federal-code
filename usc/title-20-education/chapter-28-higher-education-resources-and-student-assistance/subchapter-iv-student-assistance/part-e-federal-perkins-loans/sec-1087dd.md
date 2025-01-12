@@ -204,11 +204,11 @@ Each institution of higher education may establish, with the approval of the Sec
 
 No incentive repayment option under an incentive repayment program authorized by this subsection may be paid for with Federal funds, including any Federal funds from the student loan fund, or with institutional funds from the student loan fund.
 
-#### (j) Armed Forces student loan interest payment program ####
+#### (j) Armed Forces and NOAA Commissioned Officer Corps student loan interest payment programs ####
 
 #### (1) Authority ####
 
-Using funds received by transfer to the Secretary under section 2174 of title 10 for the payment of interest on a loan made under this part to a member of the Armed Forces, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
+Using funds received by transfer to the Secretary under section 2174 of title 10 or section 3078 of title 33 for the payment of interest on a loan made under this part to a member of the Armed Forces or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
 
 #### (2) Forbearance ####
 
@@ -226,7 +226,7 @@ The Secretary may develop such additional safeguards as the Secretary determines
 
 (2) the Secretary determines necessary.
 
-(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §8007(c), Feb. 8, 2006, 120 Stat. 160; Pub. L. 110–84, title II, §202(c), Sept. 27, 2007, 121 Stat. 792; Pub. L. 110–315, title IV, §§432(b)(7), 464(a), (b)(1), (c), Aug. 14, 2008, 122 Stat. 3246, 3266, 3267; Pub. L. 111–39, title IV, §405(4), July 1, 2009, 123 Stat. 1947; Pub. L. 115–245, div. B, title III, §309(d), Sept. 28, 2018, 132 Stat. 3106.)
+(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580; Pub. L. 109–171, title VIII, §8007(c), Feb. 8, 2006, 120 Stat. 160; Pub. L. 110–84, title II, §202(c), Sept. 27, 2007, 121 Stat. 792; Pub. L. 110–315, title IV, §§432(b)(7), 464(a), (b)(1), (c), Aug. 14, 2008, 122 Stat. 3246, 3266, 3267; Pub. L. 111–39, title IV, §405(4), July 1, 2009, 123 Stat. 1947; Pub. L. 115–245, div. B, title III, §309(d), Sept. 28, 2018, 132 Stat. 3106; Pub. L. 116–259, title II, §202(b)(2), Dec. 23, 2020, 134 Stat. 1163.)
 
 #### References in Text ####
 
@@ -237,6 +237,10 @@ Section 1087cc(a) of this title, referred to in subsec. (c)(1)(G), was amended b
 A prior section 1087dd, Pub. L. 89–329, title IV, §464, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 275; amended Pub. L. 94–482, title I, §130(d)–(g)(1), Oct. 12, 1976, 90 Stat. 2147; Pub. L. 95–43, §1(a)(39), June 15, 1977, 91 Stat. 217; Pub. L. 96–374, title IV, §§442(b)(5), 443, 444, 445(b)(2), 446, 448(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1440–1443, 1503; Pub. L. 97–35, title V, §539, Aug. 13, 1981, 95 Stat. 458; Pub. L. 99–272, title XVI, §16028, Apr. 7, 1986, 100 Stat. 353, related to terms and conditions of loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments ####
+
+**2020**—Subsec. (j). Pub. L. 116–259, §202(b)(2)(A), substituted "Armed Forces and NOAA Commissioned Officer Corps student loan interest payment programs" for "Armed Forces student loan interest payment program" in heading.
+
+Subsec. (j)(1). Pub. L. 116–259, §202(b)(2)(B), inserted "or section 3078 of title 33" after "section 2174 of title 10" and "or an officer in the commissioned officer corps of the National Oceanic and Atmospheric Administration, respectively" after "Armed Forces".
 
 **2018**—Subsec. (c)(2)(A)(vi). Pub. L. 115–245 added cl. (vi).
 

@@ -50,6 +50,8 @@ Sec.
 
 57533. Vessel chartering authority.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. C, title XXXV, §3546(t), Aug. 13, 2018, 132 Stat. 2327, inserted period at end of item 57533.

@@ -48,6 +48,8 @@ Sec.
 
 1413. Venue of cases under chapter 5 of title 3.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 112–63, title II, §§201(b), 203, Dec. 7, 2011, 125 Stat. 763, 764, added item 1390 and struck out item 1392 "Defendants or property in different districts in same State".

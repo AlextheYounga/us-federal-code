@@ -82,6 +82,8 @@ Sec.
 
 1369. Multiparty, multiforum jurisdiction.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Pub. L. 107–273, div. C, title I, §11020(b)(1)(B), Nov. 2, 2002, 116 Stat. 1827, added item 1369.

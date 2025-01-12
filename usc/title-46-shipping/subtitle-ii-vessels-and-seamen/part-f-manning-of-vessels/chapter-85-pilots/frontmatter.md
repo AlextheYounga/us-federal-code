@@ -14,6 +14,8 @@ Chapter 85 provides for State pilotage to be regulated by the States and only in
 
 This chapter permits the continuation of Federal pilotage requirements for vessels that are not required to obtain compulsory State pilotage. It confirms the practice of allowing anyone with a Federal pilotage endorsement for the waters in which the vessel is operating to be in control of a vessel when engaged in the coastwide trade. It also confirms the practice of using Federal pilots that are often organized into groups or working organizations who offer their expertise and services to vessels that are not required to obtain compulsory State pilotage.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Pub. L. 98–557, §29(f)(3)(B), Oct. 30, 1984, 98 Stat. 2874, added item 8503.

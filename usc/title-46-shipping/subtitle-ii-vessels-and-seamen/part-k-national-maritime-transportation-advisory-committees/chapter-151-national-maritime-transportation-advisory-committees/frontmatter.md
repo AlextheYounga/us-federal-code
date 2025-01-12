@@ -20,6 +20,8 @@ Sec.
 
 15109. Administration.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Treatment of Existing Councils and Committees ####
 
 Pub. L. 115–282, title VI, §601(d), Dec. 4, 2018, 132 Stat. 4290, provided that: "Notwithstanding any other provision of law—

@@ -16,6 +16,8 @@
 
 (Added Pub. L. 111–122, §2(b), Dec. 22, 2009, 123 Stat. 3480.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of the Human Rights Enforcement Act of 2009, referred to in subsec. (a), is the date of enactment of Pub. L. 111–122, which was approved Dec. 22, 2009.

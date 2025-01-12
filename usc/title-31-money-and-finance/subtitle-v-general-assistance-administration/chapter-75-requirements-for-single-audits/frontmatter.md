@@ -14,6 +14,8 @@ Sec.
 
 7506. Effective date.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–301, §2(a)(2), Dec. 16, 2016, 130 Stat. 1514, added item 7506 and struck out former items 7506 "Monitoring responsibilities of the Comptroller General" and 7507 "Effective date".

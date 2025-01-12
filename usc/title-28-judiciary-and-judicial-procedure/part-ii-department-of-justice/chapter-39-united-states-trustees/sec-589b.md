@@ -54,6 +54,8 @@ in each case by appropriate category and, in cases under subchapter V of chapter
 
 (Added Pub. L. 109–8, title VI, §602(a), Apr. 20, 2005, 119 Stat. 120; amended Pub. L. 116–54, §4(b)(2), Aug. 23, 2019, 133 Stat. 1086.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For the effective date of this section, referred to in subsec. (a), see Effective Date note set out below.
@@ -67,6 +69,8 @@ Subsec. (d). Pub. L. 116–54, §4(b)(2)(B), inserted "subchapter V of chapter 1
 #### Effective Date of 2019 Amendment ####
 
 Amendment by Pub. L. 116–54 effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as a note under section 101 of Title 11, Bankruptcy.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

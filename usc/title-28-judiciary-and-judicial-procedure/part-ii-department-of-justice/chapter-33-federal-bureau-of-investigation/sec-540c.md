@@ -58,9 +58,13 @@
 
 (Added Pub. L. 107–273, div. C, title I, §11024(a), Nov. 2, 2002, 116 Stat. 1830.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Another section 540C, added Pub. L. 107–306, title VIII, §824(a), Nov. 27, 2002, 116 Stat. 2428, related to annual report on activities of Federal Bureau of Investigation personnel outside the United States. Pub. L. 108–177, title III, §361(i), (n), Dec. 13, 2003, 117 Stat. 2625, 2626, which, under the heading "Annual Report on Activities of FBI Personnel Outside the United States", directed the repeal of section 540C of title 28, effective Dec. 31, 2003, was executed by repealing the section 540C added by Pub. L. 107–306, to reflect the probable intent of Congress.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

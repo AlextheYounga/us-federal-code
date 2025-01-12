@@ -52,7 +52,7 @@ Sec.
 
 4262. Prioritization of efforts and assistance to combat marine debris and improve plastic waste management.
 
-4263. SUnited States leadership in international FORA.
+4263. United States leadership in international FORA.
 
 4264. Enhancing international outreach and partnership of United States agencies involved in marine debris activities.
 

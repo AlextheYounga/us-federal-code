@@ -64,6 +64,8 @@ Sec.
 
 70132. Credentialing standards, training, and certification for State and local support for the enforcement of security zones for the transportation of especially hazardous cargo.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–282, title IV, §§402(b)(3), 408(c), Dec. 4, 2018, 132 Stat. 4264, 4268, added items 70102a and 70116.

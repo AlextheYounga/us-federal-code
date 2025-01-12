@@ -25,6 +25,8 @@ Chap. Sec.
 
 77. Access to information for debt collection 1 7701
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–103, §4(b), Dec. 30, 2019, 133 Stat. 3270, added item for chapter 64.

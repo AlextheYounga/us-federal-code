@@ -12,6 +12,8 @@ Section 1545, added Pub. L. 91–577, title III, §143(a), Dec. 24, 1970, 84 Sta
 
 Section 1546, added Pub. L. 96–417, title IV, §402(a), Oct. 10, 1980, 94 Stat. 1740, gave the Court of Customs and Patent Appeals all of the powers in law and in equity of, or conferred by statute upon, a court of appeals of the United States.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as an Effective Date of 1982 Amendment note under section 171 of this title.

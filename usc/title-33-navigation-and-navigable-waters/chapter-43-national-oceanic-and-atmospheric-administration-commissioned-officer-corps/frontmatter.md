@@ -14,9 +14,17 @@ Sec.
 
 3005. Number of authorized commissioned officers.
 
+3006. Obligated service requirement.
+
+3007. Training and physical fitness.
+
+3008. Aviation accession training programs.
+
+3009. Use of recruiting materials for public relations.
+
 #### SUBCHAPTER II—APPOINTMENT AND PROMOTION OF OFFICERS ####
 
-3021. Original appointments.
+3021. Original appointments and reappointments.
 
 3022. Personnel boards.
 
@@ -32,7 +40,7 @@ Sec.
 
 3028. Positions of importance and responsibility.
 
-3029. Temporary appointments and promotions generally.
+3029. Temporary appointments.
 
 3030. Temporary appointment or advancement of commissioned officers in time of war or national emergency.
 
@@ -41,6 +49,12 @@ Sec.
 3032. Service credit as deck officer or junior engineer for promotion purposes.
 
 3033. Suspension during war or emergency.
+
+3034. Officer candidates.
+
+3035. Procurement of personnel.
+
+3036. Career flexibility to enhance retention of officers.
 
 #### SUBCHAPTER III—SEPARATION AND RETIREMENT OF OFFICERS ####
 
@@ -74,6 +88,8 @@ Sec.
 
 3071. Applicability of certain provisions of title 10.
 
+3071a. Applicability of certain provisions of title 37.
+
 3072. Eligibility for veterans benefits and other rights, privileges, immunities, and benefits under certain provisions of law.
 
 3073. Medical and dental care.
@@ -83,3 +99,13 @@ Sec.
 3075. Authority to use appropriated funds for transportation and reimbursement of certain items.
 
 3076. Presentation of United States flag upon retirement.
+
+3077. Education loan repayment program.
+
+3078. Interest payment program.
+
+3079. Student pre-commissioning education assistance program.
+
+3079–1. Limitation on educational assistance.
+
+3079a. Treatment of commission in commissioned officer corps as employment in Administration for purposes of certain hiring decisions.

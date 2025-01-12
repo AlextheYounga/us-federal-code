@@ -46,6 +46,8 @@ Sec.
 
 Chapter 73 establishes the general requirements for the issuance of a merchant mariners' document to those individuals who are required to have a document prior to engagement or employment on certain vessels of the United States.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Pub. L. 98–364, title IV, §402(9)(A), July 17, 1984, 98 Stat. 448, added item 7311a.

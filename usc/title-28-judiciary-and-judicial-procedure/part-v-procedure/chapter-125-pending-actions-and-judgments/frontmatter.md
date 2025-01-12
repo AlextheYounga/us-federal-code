@@ -12,6 +12,8 @@ Sec.
 
 1964. Constructive notice of pending actions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–317, title II, §203(b), Oct. 19, 1996, 110 Stat. 3850, substituted "for enforcement in other districts" for "of the district courts and the Court of International Trade" in item 1963.

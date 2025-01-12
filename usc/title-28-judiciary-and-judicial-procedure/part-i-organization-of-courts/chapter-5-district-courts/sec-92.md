@@ -16,6 +16,8 @@ A provision as to the places for maintenance of the clerk's offices, and requiri
 
 Changes in arrangement and phraseology were made.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1970**—Pub. L. 91–272 struck out provisions which had divided the judicial district of Idaho into a Northern Division, a Central Division, a Southern Division, and an Eastern Division.

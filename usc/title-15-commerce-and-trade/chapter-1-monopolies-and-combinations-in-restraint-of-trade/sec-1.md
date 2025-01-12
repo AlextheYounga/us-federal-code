@@ -28,6 +28,8 @@ Pub. L. 94–145, §4, Dec. 12, 1974, 89 Stat. 801, provided that: "The amendmen
 
 #### Short Title of 2020 Amendment ####
 
+Pub. L. 116–257, §1, Dec. 23, 2020, 134 Stat. 1147, provided that: "This Act [enacting section 7a–3 of this title] may be cited as the 'Criminal Antitrust Anti-Retaliation Act of 2019'."
+
 Pub. L. 116–159, div. D, title III, §4301, Oct. 1, 2020, 134 Stat. 742, provided that: "This title [enacting provisions set out as notes under section 7a of this title and amending and repealing provisions set out as notes under this section] may be cited as the 'Antitrust Criminal Penalty Enhancement and Reform Permanent Extension Act'."
 
 #### Short Title of 2015 Amendment ####

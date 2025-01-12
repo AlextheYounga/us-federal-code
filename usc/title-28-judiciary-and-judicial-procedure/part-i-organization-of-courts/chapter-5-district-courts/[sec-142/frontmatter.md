@@ -2,6 +2,8 @@
 
 Section, acts June 25, 1948, ch. 646, 62 Stat. 898; Oct. 9, 1962, Pub. L. 87–764, 76 Stat. 762; Nov. 19, 1977, Pub. L. 95–196, 91 Stat. 1420, related to the providing of accommodations at places for holding court. See section 462 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as an Effective Date of 1982 Amendment note under section 171 of this title.

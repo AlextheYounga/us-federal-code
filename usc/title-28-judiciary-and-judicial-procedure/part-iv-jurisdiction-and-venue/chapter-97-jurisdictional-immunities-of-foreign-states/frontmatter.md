@@ -26,6 +26,8 @@ Sec.
 
 1611. Certain types of property immune from execution.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–222, §3(b)(1), Sept. 28, 2016, 130 Stat. 853, added item 1605B.

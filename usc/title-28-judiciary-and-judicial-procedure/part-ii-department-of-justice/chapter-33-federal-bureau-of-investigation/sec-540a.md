@@ -14,9 +14,13 @@
 
 (Added Pub. L. 103–322, title XXXII, §320916(a), Sept. 13, 1994, 108 Stat. 2129; amended Pub. L. 104–294, title VI, §604(b)(21), Oct. 11, 1996, 110 Stat. 3507.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Subsec. (c). Pub. L. 104–294 designated three undesignated pars. as pars. (1) to (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1996 Amendment ####
 

@@ -46,6 +46,8 @@ A provision relating to the place for maintenance of a clerk's office, and requi
 
 Changes in arrangement and phraseology were made.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Subsec. (b). Pub. L. 113–235 inserted "Bakersfield," after "shall be held at".
@@ -57,6 +59,8 @@ Changes in arrangement and phraseology were made.
 **1980**—Subsec. (c). Pub. L. 96–462 inserted "and Santa Ana" after "at Los Angeles".
 
 **1966**—Pub. L. 89–372 expanded the number of judicial districts in California from two to four by creating an Eastern and a Central District in addition to the existing Northern and Southern Districts, removed the provisions separating the Northern and Southern Districts into divisions, transferred to the newly created Eastern Division the counties of Alpine, Almador, Butte, Calaveras, Colusa, El Dorado, Glenn, Lassen, Modoc, Mono, Nevada, Placer, Plumas, Sacramento, San Joaquin, Shasta, Sierra, Siskiyou, Solano, Stanislaus, Sutter, Tehama, Trinity, Tuolumne, Yolo, and Yuba from the Northern District and Fresno, Inyo Kern, Kings, Madera, Mariposa, Merced, and Tulare from the Southern District, transferred to the newly created Central District the counties of Los Angeles, Orange, Riverside, San Bernardino, San Louis Obispo, Santa Barbara, and Ventura from the Southern District, substituted Eureka, Oakland, San Francisco, and San Jose for Eureka, Sacramento, and San Francisco as places for holding court for the Northern District, removed Fresno and Los Angeles from the list of places for holding court for the Southern District leaving San Diego as the only place for holding of court in the Southern District, and provided for the holding of court in Los Angeles for the Central District and in Fresno, Redding, and Sacramento for the Eastern District.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1992 Amendment ####
 

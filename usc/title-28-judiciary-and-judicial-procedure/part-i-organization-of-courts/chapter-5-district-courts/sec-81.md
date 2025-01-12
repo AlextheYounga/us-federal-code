@@ -78,6 +78,8 @@ The provisions for furnishing rooms and accommodations at Florence, Gadsden, Jas
 
 Changes in arrangement and phraseology were made.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1961**—Subsec. (a)(2). Pub. L. 87–36 provided for holding court at Decatur.

@@ -50,6 +50,8 @@ Sec.
 
 1932. 1 Revocation of earned release credit.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–317, title IV, §403(a)(2), Oct. 19, 1996, 110 Stat. 3854, added item 1932 "Judicial Panel on Multidistrict Litigation".
@@ -67,6 +69,8 @@ Pub. L. 104–134, title I, §101[(a)] [title VIII, §§805(b), 809(b)], Apr. 26
 **1982**—Pub. L. 97–164, title I, §139(p)(2), Apr. 2, 1982, 96 Stat. 44, substituted "Claims Court" for "Court of Customs and Patent Appeals" in item 1926.
 
 **1978**—Pub. L. 95–598, title II, §246(b), Nov. 6, 1978, 92 Stat. 2672, added item 1930.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

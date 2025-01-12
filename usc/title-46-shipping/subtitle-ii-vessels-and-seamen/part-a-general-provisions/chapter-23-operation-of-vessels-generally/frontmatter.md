@@ -22,6 +22,8 @@ Sec.
 
 Chapter 23 lists requirements that relate to the general operation of all vessels. These include penalties and injunctive relief for negligent operation of a vessel. It also provides penalties for failure to render assistance.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–282, title IV, §402(d), Dec. 4, 2018, 132 Stat. 4264, struck out item 2307 "Limitation of liability for Coast Guard Vessel Traffic Service pilots and non-Federal vessel traffic service operators".

@@ -22,6 +22,8 @@ Sec.
 
 629. Federal Judicial Center Foundation.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–702, title III, §§301(b), 304(b)(2), Nov. 19, 1988, 102 Stat. 4647, 4648, inserted "and Deputy Director" after "Director" in item 626 and added item 629.

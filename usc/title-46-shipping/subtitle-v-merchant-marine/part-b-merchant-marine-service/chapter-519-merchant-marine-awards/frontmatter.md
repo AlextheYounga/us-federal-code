@@ -18,6 +18,8 @@ Sec.
 
 51908. Prohibition against unauthorized manufacture, sale, possession, or display of awards.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Pub. L. 110–181, div. C, title XXXV, §3523(a)(5)(B), Jan. 28, 2008, 122 Stat. 599, substituted "Provision of decorations, medals, and replacements" for "Manufacture and sale of awards and replacements." in item 51907.

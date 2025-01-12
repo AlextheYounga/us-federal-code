@@ -42,6 +42,8 @@ Sec.
 
 Chapter 21 contains definitions that are general in nature and applicable to all references within Subtitle II—Vessels and Seamen. The chapter provides the basic authority and responsibility for the enforcement and administration of this subtitle with appropriate delegation and reporting requirements.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Pub. L. 111–281, title V, §522(b), title VI, §608(b), Oct. 15, 2010, 124 Stat. 2957, 2968, added items 2116 to 2118.

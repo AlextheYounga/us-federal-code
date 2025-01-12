@@ -62,6 +62,8 @@ The provision with reference to court accommodations at Fayetteville and Hot Spr
 
 Changes in arrangement and phraseology were made.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Subsec. (a). Pub. L. 116–73 amended subsec. (a) generally. Prior to amendment, subsec. (a) designated the Eastern, Western, Pine Bluff, Northern, and Jonesboro Divisions within the Eastern District.
@@ -69,6 +71,8 @@ Changes in arrangement and phraseology were made.
 **2004**—Subsec. (b)(1). Pub. L. 108–455 inserted ", and may be held anywhere within the Federal courthouse in Texarkana that is located astride the State line between Texas and Arkansas" after "held at Texarkana".
 
 **1961**—Subsec. (a). Pub. L. 87–36 struck out from enumeration in par. (1) the parish of Desha and in par. (2) the parishes of Arkansas, Chicot, Cleveland, Dallas, Drew, Grant, Jefferson, and Lincoln, added par. (3) consisting of such parishes, and redesignated former par. (3) and (4) as (4) and (5), respectively.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2019 Amendment ####
 

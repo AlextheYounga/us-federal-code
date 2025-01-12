@@ -24,7 +24,7 @@ The comprehensive policy developed under subsection (a) shall, at minimum, addre
 
 (A) questions regarding sexual assault can be confidentially asked and confidentially answered; and
 
-(B) incidents of sexual assault can be confidentially reported.
+(B) incidents of sexual assault can be reported on a restricted or unrestricted basis.
 
 (6) Protocols for the investigation of complaints by command and law enforcement personnel.
 
@@ -98,4 +98,8 @@ The Secretary shall ensure that the policy developed under subsection (a) is ava
 
 In developing the policy required by subsection (a), the Secretary may consult or receive assistance from such State, local, and national organizations and subject matter experts as the Secretary considers appropriate.
 
-(Pub. L. 114–328, div. C, title XXXV, §3542, Dec. 23, 2016, 130 Stat. 2801.)
+(Pub. L. 114–328, div. C, title XXXV, §3542, Dec. 23, 2016, 130 Stat. 2801; Pub. L. 116–259, title V, §504(a)(2), Dec. 23, 2020, 134 Stat. 1180.)
+
+#### Amendments ####
+
+**2020**—Subsec. (b)(5)(B). Pub. L. 116–259 substituted "can be reported on a restricted or unrestricted basis" for "can be confidentially reported".

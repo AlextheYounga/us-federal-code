@@ -8,6 +8,8 @@ Section 2603, added Pub. L. 96–417, title IV, §404(a), Oct. 10, 1980, 94 Stat
 
 Section 2604, added Pub. L. 96–417, title IV, §405(a), Oct. 10, 1980, 94 Stat. 1741, authorized the chief judge of the Court of Customs and Patent Appeals to summon annually the judges of the court to a judicial conference for the purpose of considering the business of the court and improvements in the administration of justice of the court.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as an Effective Date of 1982 Amendment note under section 171 of this title.

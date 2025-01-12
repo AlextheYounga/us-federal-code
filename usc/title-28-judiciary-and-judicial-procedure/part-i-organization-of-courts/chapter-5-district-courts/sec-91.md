@@ -22,6 +22,8 @@ Other provisions of section 641 of title 48, U.S.C., 1940 ed., are incorporated 
 
 Changes were made in phraseology.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1960**—Pub. L. 86–624 struck out Kure Island.
@@ -30,6 +32,8 @@ Changes were made in phraseology.
 
 **1949**—Act May 24, 1949, inserted provisions relating to inclusion of Canton and Enderbury Islands.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1959 Amendment ####
 
 Pub. L. 86–3, §14, Mar. 18, 1959, 73 Stat. 10, provided that the amendments of sections 91, 373, 1252, 1293, and 1294 of this title, sections 3771 and 3772 of Title 18, Crimes and Criminal Procedure, and section 644a of Title 48, Territories and Insular Possessions, the repeal of sections 536, 539, 634, 634a, and 645 of title 48, and notes set out under sections 371 and 373 of this title, are effective on admission of the State of Hawaii into the Union. See Admission of Hawaii as State note below.
@@ -37,10 +41,6 @@ Pub. L. 86–3, §14, Mar. 18, 1959, 73 Stat. 10, provided that the amendments o
 #### Canton and Enderbury Islands; Sovereignty of Kiribati ####
 
 By a treaty of friendship, TIAS 10777, which entered into force Sept. 23, 1983, the United States recognized the sovereignty of Kiribati over Canton Island and Enderbury Island.
-
-#### Admission of Hawaii as State ####
-
-Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 25 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.
 
 #### Court of the United States; District Judges ####
 
@@ -61,3 +61,9 @@ Pub. L. 86–3, §13, Mar. 18, 1959, 73 Stat. 10, provided that: "Parties shall 
 #### Extension of Jurisdiction of United States District Court for District of Hawaii and of Civil and Criminal Laws to Midway, Wake, Johnson, Sand, etc., Islands ####
 
 The jurisdiction of the United States District Court for the District of Hawaii and the laws of the United States relating to civil acts or offenses consummated or committed on the high seas on board a vessel belonging to the United States were extended to the Midway Islands, Wake, Johnson, Sand, etc., Islands by section 644a of Title 48, Territories and Insular Possessions.
+
+#### **Executive Documents** ####
+
+#### Admission of Hawaii as State ####
+
+Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 25 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as notes preceding section 491 of Title 48, Territories and Insular Possessions.

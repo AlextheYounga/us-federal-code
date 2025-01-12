@@ -4,6 +4,8 @@ Notwithstanding any other provision of law, the Personnel Management Demonstrati
 
 (Added and amended Pub. L. 109–162, title XI, §1187(b), (c)(2), Jan. 5, 2006, 119 Stat. 3127, 3128.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 102 of title I of division C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act for Fiscal Year 1999, referred to in text, probably means section 102 of title I of div. C of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, Pub. L. 105–277, which amended section 122 of Pub. L. 105–119, classified as a note under section 3104 of Title 5, Government Organization and Employees.

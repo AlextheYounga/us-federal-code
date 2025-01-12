@@ -16,6 +16,8 @@ Sec.
 
 798. Places of holding court; appointment of special masters.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1992**—Pub. L. 102–572, title IX, §902(a)(1), Oct. 29, 1992, 106 Stat. 4516, substituted "UNITED STATES COURT OF FEDERAL CLAIMS" for "UNITED STATES CLAIMS COURT" as chapter heading.

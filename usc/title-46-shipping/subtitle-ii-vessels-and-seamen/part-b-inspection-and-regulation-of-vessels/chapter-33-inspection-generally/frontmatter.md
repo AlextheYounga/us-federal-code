@@ -48,6 +48,8 @@ In the more than 100 years since then, as the public recognized the need for ves
 
 The net result has been a patchwork quilt of categories and classifications that requires a tabulation of more than seventy different classes of inspected vessels. This revision gathers into one section of the law all classes of vessels that are subject to inspection and certification without changing the application of present law as to any one class of vessel. The revision does not alter the application of the present law so as to expand inspection requirements to any vessel presently not subject to inspection nor to remove from inspection any vessel that is presently subject to inspection.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–324, title VI, §607(b)(2), Oct. 19, 1996, 110 Stat. 3932, substituted "Classification societies" for "United States classification societies" in item 3316.

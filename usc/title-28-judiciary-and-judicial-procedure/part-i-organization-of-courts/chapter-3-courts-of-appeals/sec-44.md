@@ -54,6 +54,8 @@ The effective date of the Federal Courts Improvement Act of 1982, referred to in
 
 Section 225 of the Federal Salary Act of 1967, referred to in subsec. (d), is section 225 of Pub. L. 90–206, Dec. 16, 1967, 81 Stat. 642, as amended, which is classified to chapter 11 (§351 et seq.) of Title 2, The Congress.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2008**—Subsec. (a). Pub. L. 110–177, §509(a)(2), substituted "29" for "28" in item relating to Ninth Circuit.
@@ -130,6 +132,8 @@ Subsec. (c). Pub. L. 97–164, §102(b), inserted provision relating to requirem
 **1954**—Subsec. (a). Act Feb. 10, 1954, increased the number of circuit judges in the Fifth Circuit from six to seven, and in the Ninth Circuit from seven to nine.
 
 **1949**—Subsec. (a). Act Aug. 3, 1949, increased the number of circuit judges for the District of Columbia from six to nine, for the Third Circuit from six to seven, for the Seventh Circuit from five to six, and for the Tenth Circuit from four to five.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2008 Amendment ####
 
@@ -242,6 +246,8 @@ Pub. L. 101–650, title II, §202(a), Dec. 1, 1990, 104 Stat. 5098, provided th
 "(5) 1 additional circuit judge for the eighth circuit court of appeals; and
 
 "(6) 2 additional circuit judges for the tenth circuit court of appeals."
+
+#### **Executive Documents** ####
 
 #### Executive Order No. 11972 ####
 

@@ -32,6 +32,8 @@ Sec.
 
 This chapter was renumbered "57", but without change in its section numbers, by Senate amendment. See 80th Congress Senate Report No. 1559.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–317, title II, §204(b), Oct. 19, 1996, 110 Stat. 3850, substituted "Vacancy in clerk position; absence of clerk" for "Death of clerk; duties of deputies" in item 954.

@@ -42,6 +42,8 @@ Sec.
 
 This section amends the analysis of chapter 161 of title 28, U.S.C., to conform item 2411 therein with the catch line of section 2411 of such title as amended by another section of this bill.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1980**—Pub. L. 96–481, title II, §204(b), Oct. 21, 1980, 94 Stat. 2329, substituted "Costs and fees" for "Costs" in item 2412.

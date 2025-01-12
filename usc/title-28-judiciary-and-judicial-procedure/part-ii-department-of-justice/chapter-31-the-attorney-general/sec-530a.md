@@ -8,9 +8,13 @@ There are authorized to be used from appropriations, for any fiscal year, for th
 
 (Added Pub. L. 100–690, title VI, §6281(a), Nov. 18, 1988, 102 Stat. 4368; amended Pub. L. 112–55, div. B, title II, §218, Nov. 18, 2011, 125 Stat. 621.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 901 and 904 of the Foreign Service Act of 1980, referred to in pars. (1) and (2), are classified to sections 4081 and 4084, respectively, of Title 22, Foreign Relations and Intercourse.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Amendments ####
 

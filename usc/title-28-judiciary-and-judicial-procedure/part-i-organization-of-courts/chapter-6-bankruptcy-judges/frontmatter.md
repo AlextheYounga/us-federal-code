@@ -20,6 +20,8 @@ Sec.
 
 159. Bankruptcy statistics.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Pub. L. 109–8, title VI, §601(b), Apr. 20, 2005, 119 Stat. 120, added item 159.
@@ -27,6 +29,8 @@ Sec.
 #### Prior Provisions ####
 
 A prior chapter 6, consisting of sections 151 to 160, which was added by Pub. L. 95–598, title II, §201(a), Nov. 6, 1978, 92 Stat. 2657, as amended by Pub. L. 97–164, title I, §110(d), Apr. 2, 1982, 96 Stat. 29, and which related to bankruptcy courts, did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Courts During Transition ####
 

@@ -38,6 +38,8 @@ Sec.
 
 Chapter 51 provides for the assignment of load lines and issuance of load line certificates to vessels, and requires that certain classes of vessels be marked with load lines.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Pub. L. 101–595, title VI, §603(5)(B), Nov. 16, 1990, 104 Stat. 2993, struck out item 5115 "Regulations".

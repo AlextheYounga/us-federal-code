@@ -12,11 +12,15 @@ Sec.
 
 1785. Subpoenas in multiparty, multiforum actions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Pub. L. 107–273, div. C, title I, §11020(b)(4)(B)(ii), Nov. 2, 2002, 116 Stat. 1829, added item 1785.
 
 **1964**—Pub. L. 88–619, §§8(b), 9(b), 10(b), 12(b), Oct. 3, 1964, 78 Stat. 997, 998, substituted "Transmittal of letter rogatory or request" for "Foreign witnesses" in item 1781, "Assistance to foreign and international tribunals and to litigants before such tribunals" for "Testimony for use in foreign countries" in item 1782, "person" for "witness" in item 1783, and struck out item 1785 "Privilege against incrimination".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Depositions in Admiralty Cases ####
 
