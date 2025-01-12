@@ -16,7 +16,7 @@ Reorganization Plans
 FEDERAL ADVISORY COMMITTEE ACT
 ==========
 
-Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended by Pub. L. 94–409, §5(c), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 96–523, §2, Dec. 12, 1980, 94 Stat. 3040; Pub. L. 97–375, title II, §201(c), Dec. 21, 1982, 96 Stat. 1822; Pub. L. 105–153, §2(a), (b), Dec. 17, 1997, 111 Stat. 2689; Pub. L. 111–259, title IV, §410(a), Oct. 7, 2010, 124 Stat. 2724
+Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended by Pub. L. 94–409, §5(c), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 96–523, §2, Dec. 12, 1980, 94 Stat. 3040; Pub. L. 97–375, title II, §201(c), Dec. 21, 1982, 96 Stat. 1822; Pub. L. 105–153, §2(a), (b), Dec. 17, 1997, 111 Stat. 2689; Pub. L. 111–259, title IV, §410(a), Oct. 7, 2010, 124 Stat. 2724.
 
 ### §1. Short title ###
 
@@ -619,13 +619,17 @@ Except as provided in section 7(b), this Act shall become effective upon the exp
 INSPECTOR GENERAL ACT OF 1978
 ==========
 
-Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, title V, §508(n), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1)–(3), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)–(c), Sept. 8, 1982, 96 Stat. 750–752; Pub. L. 99–93, title I, §150(a), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §§102(a)–(d), (f), (g), 104(a), 105–107, 109, 110, Oct. 18, 1988, 102 Stat. 2515–2529; Pub. L. 100–527, §13(h), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), title VII, §702(c), Aug. 9, 1989, 103 Stat. 393, 415; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(1), (2)(A), (3)(A), (4), (5), Sept. 21, 1993, 107 Stat. 889, 890; Pub. L. 103–204, §23(a), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–106, div. A, title XV, §1502(f)(6), div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 510, 677; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b), title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, 3009–393; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–206, title I, §1103(a)–(c)(1), (e)(1)–(3), July 22, 1998, 112 Stat. 705, 708, 709; Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 105–277, div. G, title XIII, §1314(b), title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–792; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–113, div. B, §1000(a)(7) [title II, §205], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 106–422, §1(b), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–189, §22(a), (c), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 107–296, title VIII, §§811(e), 812(a), title XI, §1112(a), title XVII, §1701, Nov. 25, 2002, 116 Stat. 2221, 2222, 2275, 2313; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 108–7, div. L, §104(b), (c)(2), Feb. 20, 2003, 117 Stat. 529, 531; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1078, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3695, 3868; Pub. L. 109–177, title VI, §605(e)(3), (4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–234, title XIV, §14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, §1105(c), July 30, 2008, 122 Stat. 2668; Pub. L. 110–409, §§2–4(a)(1), 5, 6(a), (b), 7(a), (d)(1), 8, 9, 11–13(a), 14, Oct. 14, 2008, 122 Stat. 4302, 4305, 4313–4316; Pub. L. 110–417, [div. A], title IX, §§907, 931(b)(2), Oct. 14, 2008, 122 Stat. 4569, 4575; Pub. L. 111–13, title IV, §4101, Apr. 21, 2009, 123 Stat. 1597; Pub. L. 111–84, div. A, title X, §1042, Oct. 28, 2009, 123 Stat. 2455; Pub. L. 111–203, title IX, §§989B–989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §§405(d), 431, Oct. 7, 2010, 124 Stat. 2719, 2731; Pub. L. 112–199, title I, §117(a), (b), Nov. 27, 2012, 126 Stat. 1474, 1475; Pub. L. 112–239, div. A, title VIII, §848, title XVI, §1614, Jan. 2, 2013, 126 Stat. 1851, 2066; Pub. L. 113–126, title III, §310, title IV, §§402, 412, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1408, 1409, 1420; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. H, title IV, §401(a), div. M, title III, §304, Dec. 18, 2015, 129 Stat. 2639, 2913; Pub. L. 114–317, §§2, 3, 4(c)–6, 7(b)(1), (c), (d)(2), (3), Dec. 16, 2016, 130 Stat. 1595–1606.
+Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, title V, §508(n), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1)–(3), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)–(c), Sept. 8, 1982, 96 Stat. 750–752; Pub. L. 99–93, title I, §150(a), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §§102(a)–(d), (f), (g), 104(a), 105–107, 109, 110, Oct. 18, 1988, 102 Stat. 2515–2529; Pub. L. 100–527, §13(h), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), title VII, §702(c), Aug. 9, 1989, 103 Stat. 393, 415; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(1), (2)(A), (3)(A), (4), (5), Sept. 21, 1993, 107 Stat. 889, 890; Pub. L. 103–204, §23(a), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–106, div. A, title XV, §1502(f)(6), div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 510, 677; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b), title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, 3009–393; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–206, title I, §1103(a)–(c)(1), (e)(1)–(3), July 22, 1998, 112 Stat. 705, 708, 709; Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 105–277, div. G, title XIII, §1314(b), title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–792; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–113, div. B, §1000(a)(7) [title II, §205], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 106–422, §1(b), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–189, §22(a), (c), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 107–296, title VIII, §§811(e), 812(a), title XI, §1112(a), title XVII, §1701, Nov. 25, 2002, 116 Stat. 2221, 2222, 2275, 2313; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 108–7, div. L, §104(b), (c)(2), Feb. 20, 2003, 117 Stat. 529, 531; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1078, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3695, 3868; Pub. L. 109–177, title VI, §605(e)(3), (4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–234, title XIV, §14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, §1105(c), July 30, 2008, 122 Stat. 2668; Pub. L. 110–409, §§2–4(a)(1), 5, 6(a), (b), 7(a), (d)(1), 8, 9, 11–13(a), 14, Oct. 14, 2008, 122 Stat. 4302, 4305, 4313–4316; Pub. L. 110–417, [div. A], title IX, §§907, 931(b)(2), Oct. 14, 2008, 122 Stat. 4569, 4575; Pub. L. 111–13, title IV, §4101, Apr. 21, 2009, 123 Stat. 1597; Pub. L. 111–84, div. A, title X, §1042, Oct. 28, 2009, 123 Stat. 2455; Pub. L. 111–203, title IX, §§989B–989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §§405(d), 431, Oct. 7, 2010, 124 Stat. 2719, 2731; Pub. L. 112–199, title I, §117(a), (b), Nov. 27, 2012, 126 Stat. 1474, 1475; Pub. L. 112–239, div. A, title VIII, §848, title XVI, §1614, Jan. 2, 2013, 126 Stat. 1851, 2066; Pub. L. 113–126, title III, §310, title IV, §§402, 412, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1408, 1409, 1420; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. H, title IV, §401(a), div. M, title III, §304, Dec. 18, 2015, 129 Stat. 2639, 2913; Pub. L. 114–317, §§2, 3, 4(c)–6, 7(b)(1), (c), (d)(2), (3), Dec. 16, 2016, 130 Stat. 1595–1606; Pub. L. 115–141, div. P, title V, §501(a), Mar. 23, 2018, 132 Stat. 1090; Pub. L. 115–192, §2(a)–(c), June 25, 2018, 132 Stat. 1502, 1503.
 
 ### §1. Short title ###
 
 This Act be cited as the "Inspector General Act of 1978".
 
 (Pub. L. 95–452, §1, Oct. 12, 1978, 92 Stat. 1101.)
+
+#### Short Title of 2018 Amendment ####
+
+Pub. L. 115–192, §1, June 25, 2018, 132 Stat. 1502, provided that: "This Act [amending sections 3, 5, and 11 of Pub. L. 95–452, set out in this Appendix, and repealing provisions set out as a note under section 3 of Pub. L. 95–452, set out in this Appendix] may be cited as the 'Whistleblower Protection Coordination Act'."
 
 #### Short Title of 2016 Amendment ####
 
@@ -715,11 +719,37 @@ Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, s
 
 (c) For the purposes of section 7324 of title 5, United States Code, no Inspector General shall be considered to be an employee who determines policies to be pursued by the United States in the nationwide administration of Federal laws.
 
-(d) Each Inspector General shall, in accordance with applicable laws and regulations governing the civil service—
+(d)(1) Each Inspector General shall, in accordance with applicable laws and regulations governing the civil service—
 
-(1) appoint an Assistant Inspector General for Auditing who shall have the responsibility for supervising the performance of auditing activities relating to programs and operations of the establishment, and
+(A) appoint an Assistant Inspector General for Auditing who shall have the responsibility for supervising the performance of auditing activities relating to programs and operations of the establishment;
 
-(2) appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and operations.
+(B) appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and operations; and
+
+(C) designate a Whistleblower Protection Coordinator who shall—
+
+(i) educate agency employees—
+
+(I) about prohibitions against retaliation for protected disclosures; and
+
+(II) who have made or are contemplating making a protected disclosure about the rights and remedies against retaliation for protected disclosures, including—
+
+(aa) the means by which employees may seek review of any allegation of reprisal, including the roles of the Office of the Inspector General, the Office of Special Counsel, the Merit Systems Protection Board, and any other relevant entities; and
+
+(bb) general information about the timeliness of such cases, the availability of any alternative dispute mechanisms, and avenues for potential relief.
+
+(ii) assist the Inspector General in promoting the timely and appropriate handling and consideration of protected disclosures and allegations of reprisal, to the extent practicable, by the Inspector General; and
+
+(iii) assist the Inspector General in facilitating communication and coordination with the Special Counsel, the Council of the Inspectors General on Integrity and Efficiency, the establishment, Congress, and any other relevant entity regarding the timely and appropriate handling and consideration of protected disclosures, allegations of reprisal, and general matters regarding the implementation and administration of whistleblower protection laws, rules, and regulations.
+
+(2) The Whistleblower Protection Coordinator shall not act as a legal representative, agent, or advocate of the employee or former employee.
+
+(3) The Whistleblower Protection Coordinator shall have direct access to the Inspector General as needed to accomplish the requirements of this subsection.
+
+(4) For the purposes of this section, the requirement of the designation of a Whistleblower Protection Ombudsman under paragraph (1)(C) shall not apply to—
+
+(A) any agency that is an element of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)) [50 U.S.C. 3003(4)]); or
+
+(B) as determined by the President, any executive agency or unit thereof the principal function of which is the conduct of foreign intelligence or counter intelligence activities.
 
 (e) The annual rate of basic pay for an Inspector General (as defined under section 12(3)) shall be the rate payable for level III of the Executive Schedule under section 5314 of title 5, United States Code, plus 3 percent.
 
@@ -727,13 +757,31 @@ Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, s
 
 (g) Each Inspector General shall, in accordance with applicable laws and regulations governing the civil service, obtain legal advice from a counsel either reporting directly to the Inspector General or another Inspector General.
 
-(Pub. L. 95–452, §3, Oct. 12, 1978, 92 Stat. 1101; Pub. L. 110–409, §§3(a), 4(a)(1), 5, 6(a), Oct. 14, 2008, 122 Stat. 4302, 4305; Pub. L. 112–199, title I, §117(a), Nov. 27, 2012, 126 Stat. 1474; Pub. L. 114–317, §7(d)(3)(A), Dec. 16, 2016, 130 Stat. 1606.)
+(Pub. L. 95–452, §3, Oct. 12, 1978, 92 Stat. 1101; Pub. L. 110–409, §§3(a), 4(a)(1), 5, 6(a), Oct. 14, 2008, 122 Stat. 4302, 4305; Pub. L. 112–199, title I, §117(a), Nov. 27, 2012, 126 Stat. 1474; Pub. L. 114–317, §7(d)(3)(A), Dec. 16, 2016, 130 Stat. 1606; Pub. L. 115–192, §2(a), June 25, 2018, 132 Stat. 1502.)
 
 #### Amendments ####
 
+**2018**—Subsec. (d)(1)(C). Pub. L. 115–192, §2(a)(1)(B), substituted "Coordinator who shall—" for "Ombudsman who shall educate agency employees—" in introductory provisions.
+
+Subsec. (d)(1)(C)(i). Pub. L. 115–192, §2(a)(1)(B), inserted cl. (i) designation and introductory provisions. Former cl. (i) redesignated subcl. (I) of cl. (i).
+
+Subsec. (d)(1)(C)(i)(I). Pub. L. 115–192, §2(a)(1)(A), (C), redesignated cl. (i) as subcl. (I) of cl. (i) and substituted "against retaliation" for "on retaliation".
+
+Subsec. (d)(1)(C)(i)(II). Pub. L. 115–192, §2(a)(1)(A), (D), redesignated cl. (ii) as subcl. (II) of cl. (i), substituted ", including—" for period at end, and added items (aa) and (bb).
+
+Subsec. (d)(1)(C)(ii), (iii). Pub. L. 115–192, §2(a)(1)(E), added cls. (ii) and (iii). Former cl. (ii) redesignated subcl. (II) of cl. (i).
+
+Subsec. (d)(2). Pub. L. 115–192, §2(a)(2), substituted "Coordinator" for "Ombudsman".
+
+Subsec. (d)(3), (4). Pub. L. 115–192, §2(a)(3), (4), added par. (3) and redesignated former par. (3) as (4).
+
 **2016**—Subsec. (a). Pub. L. 114–317 substituted "subpoena" for "subpena".
 
-**2012**—Subsec. (d). Pub. L. 112–199, §117(a), (c), temporarily added subsec. (d), which, in addition to the appointment of an Assistant Inspector General for Auditing and an Assistant Inspector General for Investigations, related to the designation of a Whistleblower Protection Ombudsman, and struck out former subsec. (d). See Effective and Termination Dates of 2012 Amendment note below.
+**2012**—Subsec. (d). Pub. L. 112–199 added subsec. (d) and struck out former subsec. (d) which read as follows: "Each Inspector General shall, in accordance with applicable laws and regulations governing the civil service—
+
+"(1) appoint an Assistant Inspector General for Auditing who shall have the responsibility for supervising the performance of auditing activities relating to programs and operations of the establishment, and
+
+"(2) appoint an Assistant Inspector General for Investigations who shall have the responsibility for supervising the performance of investigative activities relating to such programs and operations."
 
 **2008**—Subsec. (b). Pub. L. 110–409, §3(a), substituted "If an Inspector General is removed from office or is transferred to another position or location within an establishment, the President shall communicate in writing the reasons for any such removal or transfer to both Houses of Congress, not later than 30 days before the removal or transfer. Nothing in this subsection shall prohibit a personnel action otherwise authorized by law, other than transfer or removal." for "The President shall communicate the reasons for any such removal to both Houses of Congress."
 
@@ -745,11 +793,7 @@ Subsec. (g). Pub. L. 110–409, §6(a), added subsec. (g).
 
 #### Effective and Termination Dates of 2012 Amendment ####
 
-Pub. L. 112–199, title I, §117(c), Nov. 27, 2012, 126 Stat. 1475, provided that:
-
-"(1) In general.—The amendments made by this section [amending this section and section 8D of Pub. L. 95–452, set out in this Appendix] shall cease to have effect on the date that is 5 years after the date of enactment of this Act [Nov. 27, 2012].
-
-"(2) Return to prior authority.—Upon the date described in paragraph (1), section 3(d) and section 8D(j) of the Inspector General Act of 1978 (5 U.S.C. App.) shall read as such sections read on the day before the date of enactment of this Act."
+Pub. L. 112–199, title I, §117(c), Nov. 27, 2012, 126 Stat. 1475, which terminated the amendments made to this section and section 8D of Pub. L. 95–452 by section 117 of Pub. L. 112–199 5 years after Nov. 27, 2012, and revived the text as it read on the day before Nov. 27, 2012, was repealed by Pub. L. 115–192, §2(d), June 25, 2018, 132 Stat. 1503, effective Nov. 26, 2017.
 
 Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see section 202 of Pub. L. 112–199, set out as an Effective Date of 2012 Amendment note under section 1204 of this title.
 
@@ -1011,7 +1055,9 @@ Amendment by Pub. L. 100–504 effective 180 days after Oct. 18, 1988, see secti
 
 (ii) if the Department of Justice declined the referral, the date of the declination;
 
-(20) a detailed description of any instance of whistleblower retaliation, including information about the official found to have engaged in retaliation and what, if any, consequences the establishment imposed to hold that official accountable;
+(20)(A) a detailed description of any instance of whistleblower retaliation, including information about the official found to have engaged in retaliation; and
+
+(B) what, if any, consequences the establishment actually imposed to hold the official described in subparagraph (A) accountable;
 
 (21) a detailed description of any attempt by the establishment to interfere with the independence of the Office, including—
 
@@ -1055,9 +1101,11 @@ Amendment by Pub. L. 100–504 effective 180 days after Oct. 18, 1988, see secti
 
 (ii) the dollar value of recommendations that management has subsequently concluded should not or could not be implemented or completed; and
 
-(D) for which no final action has been taken by the end of the reporting period; and
+(D) for which no final action has been taken by the end of the reporting period;
 
-(4) a statement with respect to audit reports on which management decisions have been made but final action has not been taken, other than audit reports on which a management decision was made within the preceding year, containing—
+(4) whether the establishment entered into a settlement agreement with the official described in subsection (a)(20)(A), which shall be reported regardless of any confidentiality agreement relating to the settlement agreement; and
+
+(5) a statement with respect to audit reports on which management decisions have been made but final action has not been taken, other than audit reports on which a management decision was made within the preceding year, containing—
 
 (A) a list of such audit reports and the date each such report was issued;
 
@@ -1131,7 +1179,7 @@ except that such statement may exclude such audit reports that are under formal 
 
 (B) any commissioned officer in the Armed Forces in pay grades O–6 and above.
 
-(Pub. L. 95–452, §5, Oct. 12, 1978, 92 Stat. 1103; Pub. L. 97–252, title XI, §1117(c), Sept. 8, 1982, 96 Stat. 752; Pub. L. 100–504, title I, §§102(g), 106, Oct. 18, 1988, 102 Stat. 2521, 2525; Pub. L. 104–208, div. A, title I, §101(f) [title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393; Pub. L. 110–409, §12, Oct. 14, 2008, 122 Stat. 4315; Pub. L. 111–203, title IX, §989C, July 21, 2010, 124 Stat. 1945; Pub. L. 114–317, §§4(c), 7(d)(2)(B), (C), Dec. 16, 2016, 130 Stat. 1600, 1606.)
+(Pub. L. 95–452, §5, Oct. 12, 1978, 92 Stat. 1103; Pub. L. 97–252, title XI, §1117(c), Sept. 8, 1982, 96 Stat. 752; Pub. L. 100–504, title I, §§102(g), 106, Oct. 18, 1988, 102 Stat. 2521, 2525; Pub. L. 104–208, div. A, title I, §101(f) [title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393; Pub. L. 110–409, §12, Oct. 14, 2008, 122 Stat. 4315; Pub. L. 111–203, title IX, §989C, July 21, 2010, 124 Stat. 1945; Pub. L. 114–317, §§4(c), 7(d)(2)(B), (C), Dec. 16, 2016, 130 Stat. 1600, 1606; Pub. L. 115–192, §2(c), June 25, 2018, 132 Stat. 1503.)
 
 #### References in Text ####
 
@@ -1142,6 +1190,10 @@ The General Schedule, referred to in subsec. (f)(7)(A), is set out under section
 Commissioned officer pay grade O–6, referred to in subsec. (f)(7)(B), is described in section 201 of Title 37, Pay and Allowances of the Uniformed Services, and is set out under section 5332 of this title.
 
 #### Amendments ####
+
+**2018**—Subsec. (a)(20). Pub. L. 115–192, §2(c)(1), amended par. (20) generally. Prior to amendment, par. (20) read as follows: "a detailed description of any instance of whistleblower retaliation, including information about the official found to have engaged in retaliation and what, if any, consequences the establishment imposed to hold that official accountable;".
+
+Subsec. (b)(4), (5). Pub. L. 115–192, §2(c)(2), added par. (4) and redesignated former par. (4) as (5).
 
 **2016**—Subsec. (a)(5). Pub. L. 114–317, §7(d)(2)(B), substituted "section 6(c)(2)" for "section 6(b)(2)".
 
@@ -1757,7 +1809,7 @@ A prior section 8C of the Inspector General Act of 1978 was renumbered section 8
 
 (i) In addition to the requirements of the first sentence of section 3(a), the Treasury Inspector General for Tax Administration should have demonstrated ability to lead a large and complex organization.
 
-(j) An individual appointed to the position of Treasury Inspector General for Tax Administration, the Assistant Inspector General for Auditing of the Office of the Treasury Inspector General for Tax Administration under section 3(d)(1), the Assistant Inspector General for Investigations of the Office of the Treasury Inspector General for Tax Administration under section 3(d)(2), or any position of Deputy Inspector General of the Office of the Treasury Inspector General for Tax Administration may not be an employee of the Internal Revenue Service—
+(j) An individual appointed to the position of Treasury Inspector General for Tax Administration, the Assistant Inspector General for Auditing of the Office of the Treasury Inspector General for Tax Administration under section 3(d)(1)(A), the Assistant Inspector General for Investigations of the Office of the Treasury Inspector General for Tax Administration under section 3(d)(1)(B), or any position of Deputy Inspector General of the Office of the Treasury Inspector General for Tax Administration may not be an employee of the Internal Revenue Service—
 
 (1) during the 2-year period preceding the date of appointment to such position; or
 
@@ -1809,7 +1861,7 @@ Subsec. (a)(2). Pub. L. 114–317, §7(d)(3)(C)(ii), substituted "subpoena" for 
 
 Pub. L. 114–317, §6(2), inserted "from accessing information described in paragraph (1)," after "completing any audit or investigation," and ", access such information," after "complete such audit or investigation".
 
-**2012**—Subsec. (j). Pub. L. 112–199, §117(b), (c), temporarily substituted "section 3(d)(1)(A)" for "section 3(d)(1)" and "section 3(d)(1)(B)" for "section 3(d)(2)". See Effective and Termination Dates of 2012 Amendment note below.
+**2012**—Subsec. (j). Pub. L. 112–199 substituted "section 3(d)(1)(A)" for "section 3(d)(1)" and "section 3(d)(1)(B)" for "section 3(d)(2)".
 
 **2008**—Subsec. (k)(1)(C). Pub. L. 110–409 substituted "protection to the Commissioner of Internal Revenue" for "physical security".
 
@@ -1859,11 +1911,9 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 
 Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-#### Effective and Termination Dates of 2012 Amendment ####
+#### Effective Date of 2012 Amendment ####
 
-Amendment by Pub. L. 112–199 to cease to have effect on the date that is 5 years after Nov. 27, 2012, and subsec. (j) of this section to read as it read on the day before Nov. 27, 2012, see section 117(c) of Pub. L. 112–199, set out as a note under section 3 of Pub. L. 95–452 in this Appendix.
-
-Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see section 202 of Pub. L. 112–199, set out as an Effective Date of 2012 Amendment note under section 1204 of this title.
+Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see section 202 of Pub. L. 112–199, set out as a note under section 1204 of this title.
 
 #### Effective Date of 2002 Amendment ####
 
@@ -3605,6 +3655,12 @@ Section, Pub. L. 95–452, §10, Oct. 12, 1978, 92 Stat. 1108, amended sections 
 
 (C) the authority or responsibilities of individual members of the Council.
 
+(5) Additional responsibilities relating to whistleblower protection.—The Council shall—
+
+(A) facilitate the work of the Whistleblower Protection Coordinators designated under section 3(d)(C); and
+
+(B) in consultation with the Office of Special Counsel and Whistleblower Protection Coordinators from the member offices of the Inspector General, develop best practices for coordination and communication in promoting the timely and appropriate handling and consideration of protected disclosures, allegations of reprisal, and general matters regarding the implementation and administration of whistleblower protection laws, in accordance with Federal law.
+
 (d) Integrity Committee.—
 
 (1) Establishment.—The Council shall have an Integrity Committee, which shall receive, review, and refer for investigation allegations of wrongdoing that are made against Inspectors General and staff members of the various Offices of Inspector General described under paragraph (4)(C).
@@ -3771,7 +3827,7 @@ Section, Pub. L. 95–452, §10, Oct. 12, 1978, 92 Stat. 1108, amended sections 
 
 (13) Committee records.—The Chairperson of the Council shall maintain the records of the Integrity Committee.
 
-(Pub. L. 95–452, §11, as added Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305; amended Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. M, title III, §304, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 114–317, §§3, 7(b)(1)(B), (d)(2)(G), Dec. 16, 2016, 130 Stat. 1596, 1605, 1606.)
+(Pub. L. 95–452, §11, as added Pub. L. 110–409, §7(a), Oct. 14, 2008, 122 Stat. 4305; amended Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. M, title III, §304, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 114–317, §§3, 7(b)(1)(B), (d)(2)(G), Dec. 16, 2016, 130 Stat. 1596, 1605, 1606; Pub. L. 115–192, §2(b), June 25, 2018, 132 Stat. 1503.)
 
 #### References in Text ####
 
@@ -3784,6 +3840,8 @@ The date of enactment of this subsection, referred to in subsec. (c)(3)(C), is t
 A prior section 11 of the Inspector General Act of 1978 was renumbered section 12.
 
 #### Amendments ####
+
+**2018**—Subsec. (c)(5). Pub. L. 115–192 added par. (5).
 
 **2016**—Subsec. (b)(3)(B)(viii). Pub. L. 114–317, §3(1), amended cl. (viii) generally. Prior to amendment, cl. (viii) read as follows: "prepare and transmit a report annually on behalf of the Council to the President on the activities of the Council."
 
@@ -4114,7 +4172,7 @@ The provisions of this Act and the amendments made by this Act [see section 10 o
 ETHICS IN GOVERNMENT ACT OF 1978
 ==========
 
-Pub. L. 95–521, titles I–V, Oct. 26, 1978, 92 Stat. 1824–1867, as amended Pub. L. 96–19, §§2–9, June 13, 1979, 93 Stat. 37–44; Pub. L. 96–417, title VI, §601(9), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–579, §12(c), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 97–51, §130(b), Oct. 1, 1981, 95 Stat. 966; Pub. L. 97–164, title I, §163(a)(6), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–150, §§2, 3(a)–(c), 4–12, Nov. 11, 1983, 97 Stat. 959–963; Pub. L. 99–190, §148(b), Dec. 19, 1985, 99 Stat. 1325; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–573, §6, Oct. 28, 1986, 100 Stat. 3231; Pub. L. 100–191, §3(b), Dec. 15, 1987, 101 Stat. 1306; Pub. L. 100–598, §§2–9, Nov. 3, 1988, 102 Stat. 3031–3035; Pub. L. 101–194, title II, §§201, 202, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1724–1744, 1760, 1761; Pub. L. 101–280, §§3(1)–(10)(A), (C), 7(a)–(c), May 4, 1990, 104 Stat. 152–157, 161; Pub. L. 101–334, July 16, 1990, 104 Stat. 318; Pub. L. 101–650, title III, §319, title IV, §405, Dec. 1, 1990, 104 Stat. 5117, 5124; Pub. L. 102–25, title VI, §605(a), Apr. 6, 1991, 105 Stat. 110; Pub. L. 102–90, title I, §6(b), title III, §§313, 314(a), (b), Aug. 14, 1991, 105 Stat. 450, 469; Pub. L. 102–198, §6, Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–378, §4(a), (b), Oct. 2, 1992, 106 Stat. 1356, 1357; Pub. L. 102–506, §2, Oct. 24, 1992, 106 Stat. 3280; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–160, div. A, title XI, §1182(d)(3), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–337, div. A, title IX, §924(d)(3), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–359, title V, §501(m), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–65, §§20, 22(a), (b), Dec. 19, 1995, 109 Stat. 704, 705; Pub. L. 104–179, §§2, 3, 4(b)(2), Aug. 6, 1996, 110 Stat. 1566, 1567; Pub. L. 104–186, title II, §216, Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–201, div. A, title XI, §1122(b)(2), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 105–318, §7, Oct. 30, 1998, 112 Stat. 3011; Pub. L. 105–368, title V, §512(b)(1)(D), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 107–119, §2, Jan. 15, 2002, 115 Stat. 2382; Pub. L. 107–126, Jan. 16, 2002, 115 Stat. 2404; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1079(c), Dec. 17, 2004, 118 Stat. 3696; Pub. L. 109–55, title I, §1003(a), Aug. 2, 2005, 119 Stat. 572; Pub. L. 109–289, div. B, title II, §21069, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 57; Pub. L. 109–435, title VI, §604(c), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–24, §§2, 3, May 3, 2007, 121 Stat. 100; Pub. L. 110–81, title VII, §702, Sept. 14, 2007, 121 Stat. 775; Pub. L. 110–177, title I, §104, Jan. 7, 2008, 121 Stat. 2535; Pub. L. 110–323, §7, Sept. 22, 2008, 122 Stat. 3547; Pub. L. 110–417, [div. A], title IX, §931(b)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–84, §1, Jan. 3, 2012, 125 Stat. 1870; Pub. L. 112–105, §§6(a), 8(c), 13(a), 19(a), Apr. 4, 2012, 126 Stat. 293, 296, 300, 304; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537
+Pub. L. 95–521, titles I–V, Oct. 26, 1978, 92 Stat. 1824–1867, as amended by Pub. L. 96–19, §§2–9, June 13, 1979, 93 Stat. 37–44; Pub. L. 96–417, title VI, §601(9), Oct. 10, 1980, 94 Stat. 1744; Pub. L. 96–579, §12(c), Dec. 23, 1980, 94 Stat. 3369; Pub. L. 97–51, §130(b), Oct. 1, 1981, 95 Stat. 966; Pub. L. 97–164, title I, §163(a)(6), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–150, §§2, 3(a)–(c), 4–12, Nov. 11, 1983, 97 Stat. 959–963; Pub. L. 99–190, §148(b), Dec. 19, 1985, 99 Stat. 1325; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–573, §6, Oct. 28, 1986, 100 Stat. 3231; Pub. L. 100–191, §3(b), Dec. 15, 1987, 101 Stat. 1306; Pub. L. 100–598, §§2–9, Nov. 3, 1988, 102 Stat. 3031–3035; Pub. L. 101–194, title II, §§201, 202, title VI, §601(a), Nov. 30, 1989, 103 Stat. 1724–1744, 1760, 1761; Pub. L. 101–280, §§3(1)–(10)(A), (C), 7(a)–(c), May 4, 1990, 104 Stat. 152–157, 161; Pub. L. 101–334, July 16, 1990, 104 Stat. 318; Pub. L. 101–650, title III, §319, title IV, §405, Dec. 1, 1990, 104 Stat. 5117, 5124; Pub. L. 102–25, title VI, §605(a), Apr. 6, 1991, 105 Stat. 110; Pub. L. 102–90, title I, §6(b), title III, §§313, 314(a), (b), Aug. 14, 1991, 105 Stat. 450, 469; Pub. L. 102–198, §6, Dec. 9, 1991, 105 Stat. 1624; Pub. L. 102–378, §4(a), (b), Oct. 2, 1992, 106 Stat. 1356, 1357; Pub. L. 102–506, §2, Oct. 24, 1992, 106 Stat. 3280; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–160, div. A, title XI, §1182(d)(3), Nov. 30, 1993, 107 Stat. 1773; Pub. L. 103–337, div. A, title IX, §924(d)(3), Oct. 5, 1994, 108 Stat. 2832; Pub. L. 103–359, title V, §501(m), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–65, §§20, 22(a), (b), Dec. 19, 1995, 109 Stat. 704, 705; Pub. L. 104–179, §§2, 3, 4(b)(2), Aug. 6, 1996, 110 Stat. 1566, 1567; Pub. L. 104–186, title II, §216, Aug. 20, 1996, 110 Stat. 1747; Pub. L. 104–201, div. A, title XI, §1122(b)(2), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 105–318, §7, Oct. 30, 1998, 112 Stat. 3011; Pub. L. 105–368, title V, §512(b)(1)(D), Nov. 11, 1998, 112 Stat. 3342; Pub. L. 107–119, §2, Jan. 15, 2002, 115 Stat. 2382; Pub. L. 107–126, Jan. 16, 2002, 115 Stat. 2404; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1079(c), Dec. 17, 2004, 118 Stat. 3696; Pub. L. 109–55, title I, §1003(a), Aug. 2, 2005, 119 Stat. 572; Pub. L. 109–289, div. B, title II, §21069, as added Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 57; Pub. L. 109–435, title VI, §604(c), Dec. 20, 2006, 120 Stat. 3241; Pub. L. 110–24, §§2, 3, May 3, 2007, 121 Stat. 100; Pub. L. 110–81, title VII, §702, Sept. 14, 2007, 121 Stat. 775; Pub. L. 110–177, title I, §104, Jan. 7, 2008, 121 Stat. 2535; Pub. L. 110–323, §7, Sept. 22, 2008, 122 Stat. 3547; Pub. L. 110–417, [div. A], title IX, §931(b)(1), Oct. 14, 2008, 122 Stat. 4575; Pub. L. 112–84, §1, Jan. 3, 2012, 125 Stat. 1870; Pub. L. 112–105, §§6(a), 8(c), 13(a), 19(a), Apr. 4, 2012, 126 Stat. 293, 296, 300, 304; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 115–141, div. M, title VI, §601, Mar. 23, 2018, 132 Stat. 1051.
 
 #### TITLE I—FINANCIAL DISCLOSURE REQUIREMENTS OF FEDERAL PERSONNEL ####
 

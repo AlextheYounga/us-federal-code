@@ -428,7 +428,7 @@ As a result of the statutory amendments, subdivision (a) of Rule 3.1 is no longe
 
 (ii) A party intending to challenge an order disposing of any motion listed in Rule 4(a)(4)(A), or a judgment's alteration or amendment upon such a motion, must file a notice of appeal, or an amended notice of appeal—in compliance with Rule 3(c)—within the time prescribed by this Rule measured from the entry of the order disposing of the last such remaining motion.
 
-(iii)	No additional fee is required to file an amended notice.
+(iii) No additional fee is required to file an amended notice.
 
 (5) *Motion for Extension of Time.*
 
@@ -3743,7 +3743,7 @@ The language and organization of the rule are amended to make the rule more easi
 
 (b) Form of Petition; Length. The petition must comply in form with Rule 32. Copies must be served and filed as Rule 31 prescribes. Except by the court's permission:	
 
-(1)	a petition for panel rehearing produced using a computer must not exceed 3,900 words; and
+(1) a petition for panel rehearing produced using a computer must not exceed 3,900 words; and
 
 (2) a handwritten or typewritten petition for panel rehearing must not exceed 15 pages.
 
@@ -4269,9 +4269,9 @@ Signed on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_[*insert date*]
 
 (As added Apr. 28, 2016, eff. Dec. 1, 2016.)
 
-### APPENDIX ###
+####  ####
 
-### App.Appendix ###
+### APPENDIX ###
 
 <img src="http://uscode.house.gov/images/uscprelim/28Aapp1.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/28Aapp2.gif" width="700" />
 
@@ -4624,9 +4624,9 @@ This table shows the Equity Rules to which references are made in the notes to t
 |     80     |                    6                    |
 |     81     |                   86                    |
 
-### **RULES OF CIVIL PROCEDURE FOR THE UNITED STATES DISTRICT COURTS <sup><a href="#App._1_target" name="App._1">1</a></sup>** ###
+### **RULES OF CIVIL PROCEDURE FOR THE UNITED STATES DISTRICT COURTS <sup><a href="#I_1_target" name="I_1">1</a></sup>** ###
 
-[<sup>1</sup> Title amended December 29, 1948, effective October 20, 1949.](#App._1)
+[<sup>1</sup> Title amended December 29, 1948, effective October 20, 1949.](#I_1)
 
 ### TITLE I. SCOPE OF RULES; FORM OF ACTION ###
 
@@ -15093,7 +15093,7 @@ That portion of subdivision (a)(6) making the rules applicable to proceedings fo
 
 *Paragraph (6)*.—The Chinese Exclusion Acts were repealed by the Act of December 17, 1943, c. 344, §1, 57 Stat. 600, and hence the reference to the Act of September 13, 1888, as amended, is deleted. The Longshoremen's and Harbor Workers' Compensation Act of March 4, 1927, was amended by Act of June 25, 1936, c. 804, 49 Stat. 1921, and hence the words "as amended" have been added to reflect this change and, as they are sufficiently general, to include future statutory amendment. The Nationality Act of October 14, 1940, c. 876, 54 Stat. 1137, 1172, repealed and replaced the Act of June 29, 1906, as amended, and correcting statutory references are, therefore, made.
 
-*Subdivision (c)*.—In the first sentence the change in nomenclature conforms to the official designation of district courts in Title 28, U.S.C., §132(a); and the word "all" is deleted as superfluous. The need for revision of the third sentence is occasioned by the procedure for removal set forth in revised Title 28, U.S.C., §1446. Under the prior removal procedure governing civil actions, 28 U.S.C., §72 (1946), the petition for removal had to be first presented to and filed with the state court, except in the case of removal on the basis of prejudice or local influence, within the time allowed "to answer or plead to the declaration or complaint of the plaintiff"; and the defendant had to file a transcript of the record in the federal court within thirty days from the date of filing his removal petition. Under §1446(a) removal is effected by a defendant filing with the proper United States district court "a verified petition containing a short and plain statement of the facts which entitled him or them to removal together with a copy of all process, pleadings, and orders served upon him or them in such action." And §1446(b) provides: "The petition for removal of a civil action or proceeding may be filed within twenty days after commencement of the action or service of process, whichever is later." This subsection (b) gives trouble in states where an action may be both commenced and service of process made without serving or otherwise giving the defendant a copy of the complaint or other initial pleading. To cure this statutory defect, the Judge's Committee appointed pursuant to action of the Judicial Conference and headed by Judge Albert B. Maris is proposing an amendment to §1446(b) to read substantially as follows: "The petition for removal of a civil action or proceedings shall be filed within 20 days after the receipt through service or otherwise by the defendant of a copy of the initial pleading setting forth the claim for relief upon which the action or proceeding is based." The revised third sentence of Rule 81(c) is geared to this proposed statutory amendment; and it gives the defendant at least 5 days after removal within which to present his defenses.1
+*Subdivision (c)*.—In the first sentence the change in nomenclature conforms to the official designation of district courts in Title 28, U.S.C., §132(a); and the word "all" is deleted as superfluous. The need for revision of the third sentence is occasioned by the procedure for removal set forth in revised Title 28, U.S.C., §1446. Under the prior removal procedure governing civil actions, 28 U.S.C., §72 (1946), the petition for removal had to be first presented to and filed with the state court, except in the case of removal on the basis of prejudice or local influence, within the time allowed "to answer or plead to the declaration or complaint of the plaintiff"; and the defendant had to file a transcript of the record in the federal court within thirty days from the date of filing his removal petition. Under §1446(a) removal is effected by a defendant filing with the proper United States district court "a verified petition containing a short and plain statement of the facts which entitled him or them to removal together with a copy of all process, pleadings, and orders served upon him or them in such action." And §1446(b) provides: "The petition for removal of a civil action or proceeding may be filed within twenty days after commencement of the action or service of process, whichever is later." This subsection (b) gives trouble in states where an action may be both commenced and service of process made without serving or otherwise giving the defendant a copy of the complaint or other initial pleading. To cure this statutory defect, the Judge's Committee appointed pursuant to action of the Judicial Conference and headed by Judge Albert B. Maris is proposing an amendment to §1446(b) to read substantially as follows: "The petition for removal of a civil action or proceedings shall be filed within 20 days after the receipt through service or otherwise by the defendant of a copy of the initial pleading setting forth the claim for relief upon which the action or proceeding is based." The revised third sentence of Rule 81(c) is geared to this proposed statutory amendment; and it gives the defendant at least 5 days after removal within which to present his defenses.\*
 
 The change in the last sentence of subdivision (c) reflects the fact that a transcript of the record is no longer required under §1446, and safeguards the right to demand a jury trial, where the right has not already been waived and where the parties are at issue—"all necessary pleadings have been served." Only, rarely will the last sentence of Rule 81(c) have any applicability, since removal will normally occur before the pleadings are closed, and in this usual situation Rule 38(b) applies and safeguards the right to jury trial. See Moore's Federal practice (1st ed.) 3020.
 
@@ -15189,7 +15189,7 @@ The Longshore and Harbor Workers' Compensation Act, referred to in subd. (a)(6)(
 
 Abrogation of par. (7) of subdivision (a) of this rule as effective August 1, 1951, see Effective Date note under Rule 71A.
 
-[1 Note.—The Supreme Court made these changes in the committee's proposed amendment to Rule 81(c): The phrase, "or within 20 days after the service of summons upon such initial pleading, then filed," was inserted following the phrase, "within 20 days after the receipt through service or otherwise of a copy of the initial pleading setting forth the claim for relief upon which the action or proceeding is based", because in several states suit is commenced by service of summons upon the defendant, notifying him that the plaintiff's pleading has been filed with the clerk of court. Thus, he may never receive a copy of the initial pleading. The added phrase is intended to give the defendant 20 days after the service of such summons in which to answer in a removed action, or 5 days after the filing of the petition for removal, whichever is longer. In these states, the 20-day period does not begin to run until such pleading is actually filed. The last word of the third sentence was changed from "longer" to "longest" because of the added phrase.](#Rule_81_I)
+[\* Note.—The Supreme Court made these changes in the committee's proposed amendment to Rule 81(c): The phrase, "or within 20 days after the service of summons upon such initial pleading, then filed," was inserted following the phrase, "within 20 days after the receipt through service or otherwise of a copy of the initial pleading setting forth the claim for relief upon which the action or proceeding is based", because in several states suit is commenced by service of summons upon the defendant, notifying him that the plaintiff's pleading has been filed with the clerk of court. Thus, he may never receive a copy of the initial pleading. The added phrase is intended to give the defendant 20 days after the service of such summons in which to answer in a removed action, or 5 days after the filing of the petition for removal, whichever is longer. In these states, the 20-day period does not begin to run until such pleading is actually filed. The last word of the third sentence was changed from "longer" to "longest" because of the added phrase.](#Rule_81_I)
 
 [The phrase, "and who has not already waived his right to such trial," which previously appeared in the fourth sentence of subsection (c) of Rule 81, was deleted in order to afford a party who has waived his right to trial by jury in a state court an opportunity to assert that right upon removal to a federal court.](#Rule_81_I)
 
@@ -19542,7 +19542,7 @@ The limitation of the ancient documents hearsay exception is not intended to hav
 
 The Committee carefully considered, but ultimately rejected, an amendment that would preserve the ancient documents exception for hardcopy evidence only. A party will often offer hardcopy that is derived from ESI. Moreover, a good deal of old information in hardcopy has been digitized or will be so in the future. Thus, the line between ESI and hardcopy was determined to be one that could not be drawn usefully.
 
-The Committee understands that the choice of a cut-off date has a degree of arbitrariness. But January 1, 1998 is a rational date for treating concerns about old and unreliable ESI. And the date is no more arbitrary than the 20-year cutoff date in the original rule. See Committee Note to Rule 901(b)(8) ("Any time period selected is bound to be arbitrary.").
+The Committee understands that the choice of a cut-off date has a degree of arbitrariness. But January 1, 1998 is a rational date for treating concerns about old and unreliable ESI. And the date is no more arbitrary than the 20-year cutoff date in the original rule. *See* Committee Note to Rule 901(b)(8) ("Any time period selected is bound to be arbitrary.").
 
 Under the amendment, a document is "prepared" when the statement proffered was recorded in that document. For example, if a hardcopy document is prepared in 1995, and a party seeks to admit a scanned copy of that document, the date of preparation is 1995 even though the scan was made long after that—the subsequent scan does not alter the document. The relevant point is the date on which the information is recorded, not when the information is prepared for trial. However, if the content of the document is *itself* altered after the cut-off date, then the hearsay exception will not apply to statements that were added in the alteration.
 

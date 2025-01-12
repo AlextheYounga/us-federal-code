@@ -238,7 +238,7 @@ Subpar. (C) of section 42(d)(5) of title 26, referred to in subsec. (e)(2)(B), w
 
 #### Prior Provisions ####
 
-A prior section 2[34] of Pub. L. 85–536 was renumbered section 2[47] and is set out as a note under section 631 of this title.
+A prior section 2[34] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under section 631 of this title.
 
 #### Amendments ####
 

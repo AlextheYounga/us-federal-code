@@ -36,6 +36,8 @@ Sec.
 
 726. Annual report on performance awards and bonuses awarded to certain high-level employees.
 
+727. Reassignment of senior executives.
+
 #### SUBCHAPTER II—WHISTLEBLOWER COMPLAINTS ####
 
 731. Adverse actions against supervisory employees who commit prohibited personnel actions relating to whistleblower complaints.
@@ -52,7 +54,9 @@ Sec.
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–182, title V, §501(b), June 6, 2018, 132 Stat. 1475, added item 726.
+**2018**—Pub. L. 115–188, §2(b), June 21, 2018, 132 Stat. 1491, which directed adding item 727 after item 725, was executed by adding item 727 after item 726 to reflect the probable intent of Congress.
+
+Pub. L. 115–182, title V, §501(b), June 6, 2018, 132 Stat. 1475, added item 726.
 
 **2017**—Pub. L. 115–46, title II, §§202(c), 203(b), Aug. 12, 2017, 131 Stat. 962, added item 725 and added item for subchapter III and item 741.
 

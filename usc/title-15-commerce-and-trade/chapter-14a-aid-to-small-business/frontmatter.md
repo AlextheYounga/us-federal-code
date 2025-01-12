@@ -167,3 +167,7 @@ Sec.
 657r. Mentor-protege programs.
 
 657s. Limitations on subcontracting.
+
+657t. Office of Credit Risk Management.
+
+657u. Lender Oversight Committee.

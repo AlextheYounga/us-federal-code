@@ -28,7 +28,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Prior Provisions ####
 
-A prior section 2[37] of Pub. L. 85–536 was renumbered section 2[47] and is set out as a note under section 631 of this title.
+A prior section 2[37] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under section 631 of this title.
 
 #### Effective Date ####
 

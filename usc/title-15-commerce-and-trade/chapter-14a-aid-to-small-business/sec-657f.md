@@ -40,4 +40,4 @@ In subsec. (e), "section 2101(1) of title 41" substituted for "section 27(f)(5) 
 
 #### Prior Provisions ####
 
-A prior section 2[36] of Pub. L. 85–536 was renumbered section 2[47] and is set out as a note under section 631 of this title.
+A prior section 2[36] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under section 631 of this title.

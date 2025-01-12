@@ -726,7 +726,7 @@ The Secretary may from time to time revise (through addition or deletion of code
 
 (i) The amount of such additional payment shall be determined by multiplying (I) the sum of the amount determined under paragraph (1)(A)(ii)(II) (or, if applicable, the amount determined under paragraph (1)(A)(iii)) and, for cases qualifying for additional payment under subparagraph (A)(i), the amount paid to the hospital under subparagraph (A), by (II) the indirect teaching adjustment factor described in clause (ii).
 
-(ii) For purposes of clause (i)(II), the indirect teaching adjustment factor is equal to c × (((1+r) to the nth power) ^1), where "r" is the ratio of the hospital's full-time equivalent interns and residents to beds and "n" equals .405. Subject to clause (ix), for discharges occurring—
+(ii) For purposes of clause (i)(II), the indirect teaching adjustment factor is equal to c × (((1+r) to the nth power) −1), where "r" is the ratio of the hospital's full-time equivalent interns and residents to beds and "n" equals .405. Subject to clause (ix), for discharges occurring—
 
 (I) on or after October 1, 1988, and before October 1, 1997, "c" is equal to 1.89;
 
@@ -4704,9 +4704,9 @@ Subsec. (d)(4)(D). Pub. L. 101–508, §4002(g)(2)(A), struck out subpar. (D) wh
 
 Subsec. (d)(5)(B)(ii). Pub. L. 101–508, §4002(b)(3)(B)(A), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "For purposes of clause (i)(II), the indirect teaching adjustment factor for discharges occurring—
 
-"(I) on or after May 1, 1986, and before October 1, 1995, is equal to 1.89×((1+r)<sup>.405</sup>^1), or
+"(I) on or after May 1, 1986, and before October 1, 1995, is equal to 1.89×((1+r)<sup>.405</sup>−1), or
 
-"(II) on or after October 1, 1995, is equal to 1.43×((1+r)<sup>.5795</sup>^1),
+"(II) on or after October 1, 1995, is equal to 1.43×((1+r)<sup>.5795</sup>−1),
 
 where 'r' is the ratio of the hospital's full-time equivalent interns and residents to beds."
 
@@ -4798,7 +4798,7 @@ Subsec. (d)(5)(E). Pub. L. 101–239, §6003(e)(1)(A)(iii), redesignated subpar.
 
 Subsec. (d)(5)(F)(iii). Pub. L. 101–239, §6003(c)(3), substituted "30 percent" for "25 percent".
 
-Subsec. (d)(5)(F)(iv)(I). Pub. L. 101–239, §6003(c)(1)(A), substituted "the applicable formula described in clause (vii)" for "the following formula: (P^15)(.5)+2.5, where 'P' is the hospital's disproportionate patient percentage (as defined in clause (vi))".
+Subsec. (d)(5)(F)(iv)(I). Pub. L. 101–239, §6003(c)(1)(A), substituted "the applicable formula described in clause (vii)" for "the following formula: (P−15)(.5)+2.5, where 'P' is the hospital's disproportionate patient percentage (as defined in clause (vi))".
 
 Subsec. (d)(5)(F)(iv)(III). Pub. L. 101–239, §6003(c)(2)(A)(ii), inserted "in subclause (IV) or (V) or" after "described".
 
