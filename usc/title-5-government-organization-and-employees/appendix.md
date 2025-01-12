@@ -2143,7 +2143,7 @@ Pub. L. 109–435, title VI, §603(d), Dec. 20, 2006, 120 Stat. 3241, provided t
 
 #### Effective Date of 2002 Amendment ####
 
-Pub. L. 107–252, title VIII, §812(b), Oct. 29, 2002, 116 Stat. 1727, provided that: "The amendment made by subsection (a) [amending this section] shall take effect 180 days after the appointment of all members of the Election Assistance Commission under section 203 [42 U.S.C. 15323]."
+Pub. L. 107–252, title VIII, §812(b), Oct. 29, 2002, 116 Stat. 1727, provided that: "The amendment made by subsection (a) [amending this section] shall take effect 180 days after the appointment of all members of the Election Assistance Commission under section 203 [52 U.S.C. 20923]."
 
 #### Effective Date of 2000 Amendment ####
 
@@ -3896,7 +3896,7 @@ Title I of Pub. L. 95–521 was classified to chapter 18 (§701 et seq.) of Titl
 
 This Act, referred to in subsec. (b)(1), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended, known as the Ethics in Government Act of 1978. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-Section 301 of the Federal Campaign Act of 1971, referred to in subsec. (c), probably means section 301 of the Federal Election Campaign Act of 1971, Pub. L. 92–225, which is classified to section 431 of Title 2, The Congress.
+Section 301 of the Federal Campaign Act of 1971, referred to in subsec. (c), probably means section 301 of the Federal Election Campaign Act of 1971, Pub. L. 92–225, which is classified to section 30101 of Title 52, Voting and Elections.
 
 The General Schedule, referred to in subsec. (f)(3), (6), is set out under section 5332 of this title.
 
@@ -3938,7 +3938,7 @@ Pub. L. 102–25, title VI, §605(b), Apr. 6, 1991, 105 Stat. 110, provided that
 
 #### Effective Date of 1990 Amendment ####
 
-Pub. L. 101–280, §11, May 4, 1990, 104 Stat. 163, provided that: "Except as otherwise provided in this joint resolution, this Act and the amendments made by this joint resolution [amending sections 101 to 106, 109 to 111, former section 202, and sections 501 to 503 of Pub. L. 95–521, set out in this Appendix, sections 3393, 7351, 7353, and 7701 of this title, sections 31–1, 441i, and 4725 of Title 2, The Congress, sections 1601 and 2397a of Title 10, Armed Forces, sections 202, 203, 205, 207, 208, and 216 of Title 18, Crimes and Criminal Procedure, section 3945 of Title 22, Foreign Relations and Intercourse, section 1043 of Title 26, Internal Revenue Code, and sections 1353 and 3730 of Title 31, Money and Finance, renumbering section 1352 of Title 31 as section 1353, repealing section 112 of Pub. L. 95–521, set out in this Appendix, enacting provisions set out as notes under sections 101 and 105 of Pub. L. 95–521, set out in this Appendix, section 2397a of Title 10, and section 1043 of Title 26, and amending provisions set out as notes under section 207 and 208 of Title 18 and section 1344 of Title 31] take effect on the date of the enactment of this joint resolution [May 4, 1990]."
+Pub. L. 101–280, §11, May 4, 1990, 104 Stat. 163, provided that: "Except as otherwise provided in this joint resolution, this Act and the amendments made by this joint resolution [amending sections 101 to 106, 109 to 111, former section 202, and sections 501 to 503 of Pub. L. 95–521, set out in this Appendix, sections 3393, 7351, 7353, and 7701 of this title, sections 31–1 and 4725 and former section 441i of Title 2, The Congress, sections 1601 and 2397a of Title 10, Armed Forces, sections 202, 203, 205, 207, 208, and 216 of Title 18, Crimes and Criminal Procedure, section 3945 of Title 22, Foreign Relations and Intercourse, section 1043 of Title 26, Internal Revenue Code, and sections 1353 and 3730 of Title 31, Money and Finance, renumbering section 1352 of Title 31 as section 1353, repealing section 112 of Pub. L. 95–521, set out in this Appendix, enacting provisions set out as notes under sections 101 and 105 of Pub. L. 95–521, set out in this Appendix, section 2397a of Title 10, and section 1043 of Title 26, and amending provisions set out as notes under section 207 and 208 of Title 18 and section 1344 of Title 31] take effect on the date of the enactment of this joint resolution [May 4, 1990]."
 
 #### Effective Date of 1989 Amendment ####
 
@@ -4508,7 +4508,7 @@ Pub. L. 98–150, §13, Nov. 11, 1983, 97 Stat. 963, provided that: "The amendme
 
 The date of the enactment of the Ethics Reform Act of 1989, referred to in subsec. (h)(1)(A)(ii), is the date of enactment of Pub. L. 101–194, which was approved Nov. 30, 1989.
 
-Section 316(a) of the Federal Election Campaign Act of 1971, referred to in subsec. (i)(1), was probably intended to be a reference to section 312(a) of Federal Election Campaign Act of 1971, Pub. L. 92–225, which is classified to section 439(a) of Title 2, The Congress, and which directs the chief executive officer of each State to designate a State officer to receive reports and statements filed by persons under the Federal Election Campaign Act of 1971.
+Section 316(a) of the Federal Election Campaign Act of 1971, referred to in subsec. (i)(1), was probably intended to be a reference to section 312(a) of the Federal Election Campaign Act of 1971, Pub. L. 92–225, which is classified to section 30113(a) of Title 52, Voting and Elections, and which directs the chief executive officer of each State to designate a State officer to receive reports and statements filed by persons under the Federal Election Campaign Act of 1971.
 
 Section 8(b) of the Stop Trading on Congressional Knowledge Act of 2012, referred to in subsec. (i)(2), is section 8(b) of Pub. L. 112–105, which is set out as a note under section 105 of this Appendix.
 
@@ -5130,7 +5130,7 @@ For the purposes of this title, the term—
 
 (B) required to be reported by the reporting individual under section 7342 of title 5, United States Code; or
 
-(C) required to be reported under section 304 of the Federal Election Campaign Act of 1971 (2 U.S.C. 434);
+(C) required to be reported under section 304 of the Federal Election Campaign Act of 1971 (2 U.S.C. 434) [now 52 U.S.C. 30104];
 
 (16) "relative" means an individual who is related to the reporting individual, as father, mother, son, daughter, brother, sister, uncle, aunt, great aunt, great uncle, first cousin, nephew, niece, husband, wife, grandfather, grandmother, grandson, granddaughter, father-in-law, mother-in-law, son-in-law, daughter-in-law, brother-in-law, sister-in-law, stepfather, stepmother, stepson, stepdaughter, stepbrother, stepsister, half brother, half sister, or who is the grandfather or grandmother of the spouse of the reporting individual, and shall be deemed to include the fiance or fiancee of the reporting individual;
 

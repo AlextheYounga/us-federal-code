@@ -12,4 +12,4 @@ Section 805, Pub. L. 92–225, title I, §106, Feb. 7, 1972, 86 Stat. 8, related
 
 #### Effective Date of Repeal ####
 
-Sections 801 to 805 repealed effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 431 of Title 2, The Congress.
+Sections 801 to 805 repealed effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 30101 of Title 52, Voting and Elections.

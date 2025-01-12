@@ -188,6 +188,8 @@ Sec.
 
 240. Border Enforcement Security Task Force.
 
+241. Prevention of international child abduction.
+
 #### Part D—Immigration Enforcement Functions ####
 
 251. Transfer of functions to Under Secretary for Border and Transportation Security.
@@ -330,6 +332,8 @@ Sec.
 
 381. Functions transferred.
 
+382. Use of proceeds derived from criminal investigations.
+
 #### Part D—Acquisitions ####
 
 391. Research and development projects.
@@ -445,6 +449,8 @@ Sec.
 469a. Collection of fees from non-Federal participants in meetings.
 
 470. Disclosures regarding homeland security grants.
+
+471. Annual ammunition report.
 
 #### Part I—Information Sharing ####
 

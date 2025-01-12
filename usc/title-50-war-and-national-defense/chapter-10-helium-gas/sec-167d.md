@@ -214,7 +214,7 @@ Out of amounts paid to the general fund of the Treasury under paragraph (2), the
 
 Not later than 1 year after October 2, 2013, and annually thereafter, the Secretary of the Interior shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report describing all expenditures by the Bureau of Land Management to carry out this chapter.
 
-#### (f) Minimum Quantity ####
+#### (f) Minimum quantity ####
 
 The Secretary shall offer for sale or auction during each fiscal year under subsections (a), (b), and (c) a quantity of crude helium that is the lesser of—
 

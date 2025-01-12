@@ -16,7 +16,11 @@ Sec.
 
 [712. Repealed.]
 
+713. Senior executives: removal based on performance or misconduct.
+
 #### Amendments ####
+
+**2014**—Pub. L. 113–146, title VII, §707(a)(2), Aug. 7, 2014, 128 Stat. 1800, added item 713.
 
 **2001**—Pub. L. 107–103, title V, §509(a)(2), Dec. 27, 2001, 115 Stat. 997, struck out item 712 "Full-time equivalent positions: limitation on reduction".
 

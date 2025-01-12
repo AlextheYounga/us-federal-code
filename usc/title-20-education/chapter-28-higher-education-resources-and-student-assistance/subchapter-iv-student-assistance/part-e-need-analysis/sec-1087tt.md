@@ -16,13 +16,19 @@ A student financial aid administrator shall be considered to be making a necessa
 
 On a case-by-case basis, an eligible institution may refuse to certify a statement that permits a student to receive a loan under part B or C of this subchapter, or may certify a loan amount or make a loan that is less than the student's determination of need (as determined under this part), if the reason for the action is documented and provided in written form to the student. No eligible institution shall discriminate against any borrower or applicant in obtaining a loan on the basis of race, national origin, religion, sex, marital status, age, or disability status.
 
-(Pub. L. 89–329, title IV, §479A, as added Pub. L. 100–50, §14(26), June 3, 1987, 101 Stat. 352; amended Pub. L. 101–239, title II, §2009, Dec. 19, 1989, 103 Stat. 2122; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 605; Pub. L. 103–208, §2(g)(16), Dec. 20, 1993, 107 Stat. 2473; Pub. L. 105–244, title IV, §478, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 110–84, title VI, §603(a), Sept. 27, 2007, 121 Stat. 805; Pub. L. 110–315, title IV, §472(a), Aug. 14, 2008, 122 Stat. 3269.)
+(Pub. L. 89–329, title IV, §479A, as added Pub. L. 100–50, §14(26), June 3, 1987, 101 Stat. 352; amended Pub. L. 101–239, title II, §2009, Dec. 19, 1989, 103 Stat. 2122; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 605; Pub. L. 103–208, §2(g)(16), Dec. 20, 1993, 107 Stat. 2473; Pub. L. 105–244, title IV, §478, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 110–84, title VI, §603(a), Sept. 27, 2007, 121 Stat. 805; Pub. L. 110–315, title IV, §472(a), Aug. 14, 2008, 122 Stat. 3269; Pub. L. 113–128, title V, §512(n)(3), July 22, 2014, 128 Stat. 1710.)
+
+#### Amendment of Subsection (a) ####
+
+Pub. L. 113–128, title V, §§506, 512(n)(3), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a) of this section is amended by striking "a dislocated worker (as defined in section 2801 of title 29)" and inserting "a dislocated worker (as defined in section 3102 of title 29)". See 2014 Amendment note below.
 
 #### Prior Provisions ####
 
 A prior section 1087tt, Pub. L. 89–329, title IV, §479A, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472, related to discretion of student financial aid administrators under this part, prior to repeal by section 14(26) of Pub. L. 100–50.
 
 #### Amendments ####
+
+**2014**—Subsec. (a). Pub. L. 113–128 substituted "a dislocated worker (as defined in section 3102 of title 29)" for "a dislocated worker (as defined in section 2801 of title 29)".
 
 **2008**—Subsec. (a). Pub. L. 110–315 substituted "medical, dental, or nursing home expenses" for "medical or dental expenses", inserted "or dependent care" after "child care" and "student or" before "family member who is a dislocated worker", and substituted "In addition, nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator in such cases (1) to request and use supplementary information about the financial status or personal circumstances of eligible applicants in selecting recipients and determining the amount of awards under this subchapter and part C of subchapter I of chapter 34 of title 42, or (2) to offer a dependent student financial assistance under section 1078–8 of this title or a Federal Direct Unsubsidized Stafford Loan without requiring the parents of such student to file the financial aid form prescribed under section 1090 of this title if the student financial aid administrator verifies that the parent or parents of such student have ended financial support of such student and refuse to file such form." for "In addition, nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator in such cases to request and use supplementary information about the financial status or personal circumstances of eligible applicants in selecting recipients and determining the amount of awards under this subchapter and part C of subchapter I of chapter 34 of title 42."
 
@@ -37,6 +43,10 @@ Subsec. (c). Pub. L. 105–244, §478(2), amended heading and text of subsec. (c
 **1992**—Pub. L. 102–325 amended section generally, revising and restating provisions of subsecs. (a) and (b) and striking out former subsec. (c) which related to asset adjustment as example.
 
 **1989**—Subsec. (a). Pub. L. 101–239 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator, on the basis of adequate documentation, to make necessary adjustments to the cost of attendance and expected student or parent contribution (or both) to allow for treatment of individual students with special circumstances. In addition, nothing in this subchapter and part C of subchapter I of chapter 34 of title 42 shall be interpreted as limiting the authority of the student financial aid administrator to use supplementary information about the financial status or personal circumstance of eligible applicants in selecting recipients and determining the amount of awards under subparts 1 and 2 of part A and parts B and D of this subchapter and part C of subchapter I of chapter 34 of title 42."
+
+#### Effective Date of 2014 Amendment ####
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2007 Amendment ####
 

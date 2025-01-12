@@ -32,6 +32,8 @@ Section 2314, Pub. L. 101–554, §15, Nov. 15, 1990, 104 Stat. 2757, authorized
 
 Pub. L. 105–220, title I, §199(c)(1), Aug. 7, 1998, 112 Stat. 1059, provided that: "The repeals made by subsection (a) [repealing sections 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11441 to 11447, 11449, and 11450 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, and repealing provisions set out as notes below and under section 1255a of Title 8, Aliens and Nationality] shall take effect on the date of enactment of this Act."
 
+*[Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], section 199(c)(1) of Pub. L. 105–220, set out above, is repealed.]*
+
 #### Short Title ####
 
 Pub. L. 101–554, §1, Nov. 15, 1990, 104 Stat. 2751, provided that Pub. L. 101–554, which enacted this chapter, could be cited as the "Displaced Homemakers Self-Sufficiency Assistance Act", prior to repeal by Pub. L. 105–220, title I, §199(a)(3), Aug. 7, 1998, 112 Stat. 1059.

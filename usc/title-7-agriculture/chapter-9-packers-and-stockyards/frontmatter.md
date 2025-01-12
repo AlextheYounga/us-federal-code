@@ -118,7 +118,7 @@ Sec.
 
 228d. Annual assessment of cattle and hog industries.
 
-229. Annual report.
+229. Repealed.
 
 229a. Repealed.
 

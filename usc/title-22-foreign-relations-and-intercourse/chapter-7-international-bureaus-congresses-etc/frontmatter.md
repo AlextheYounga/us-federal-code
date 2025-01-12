@@ -238,7 +238,7 @@ Sec.
 
 275a. Permanent International Commission of the Congresses of Navigation; authorization of appropriations.
 
-276a to 276b. Repealed.
+276 to 276b. Repealed.
 
 276c. Designation of Senate delegates to Conferences of the Interparliamentary Union.
 

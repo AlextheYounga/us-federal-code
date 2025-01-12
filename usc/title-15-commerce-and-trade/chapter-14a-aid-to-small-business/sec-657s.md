@@ -83,3 +83,7 @@ The term "similarly situated entity" means a subcontractor that—
 (F) if a subcontractor for a small business concern owned and controlled by service-disabled veterans, is such a concern.
 
 (Pub. L. 85–536, §2[46], as added Pub. L. 112–239, div. A, title XVI, §1651, Jan. 2, 2013, 126 Stat. 2079.)
+
+#### Inapplicability of Requirement To Review and Justify Certain Contracts ####
+
+Pub. L. 113–66, div. A, title XVI, §1615, Dec. 26, 2013, 127 Stat. 950, provided that: "In the case of a contract to which the provisions of section 46 of the Small Business Act (15 U.S.C. 657s) apply, the requirements under section 802 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 1824; 10 U.S.C. 2304 note) do not apply."

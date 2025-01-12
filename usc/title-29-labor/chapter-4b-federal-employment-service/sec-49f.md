@@ -30,7 +30,7 @@ Ten percent of the sums allotted to each State pursuant to section 49e of this t
 
 (2) services for groups with special needs, carried out pursuant to joint agreements between the employment service and the appropriate local workforce investment board and chief elected official or officials or other public agencies or private nonprofit organizations; and
 
-(3) the extra costs of exemplary models for delivering services of the types described in subsection (a) of this section.
+(3) the extra costs of exemplary models for delivering services of the types described in subsection (a).
 
 #### (c) Joint funding ####
 
@@ -52,9 +52,39 @@ In addition to the services and activities otherwise authorized by this chapter,
 
 #### (e) Provision of services as part of one-stop delivery system ####
 
-All job search, placement, recruitment, labor employment statistics, and other labor exchange services authorized under subsection (a) of this section shall be provided, consistent with the other requirements of this chapter, as part of the one-stop delivery system established by the State.
+All job search, placement, recruitment, labor employment statistics, and other labor exchange services authorized under subsection (a) shall be provided, consistent with the other requirements of this chapter, as part of the one-stop delivery system established by the State.
 
-(June 6, 1933, ch. 49, §7, as added Pub. L. 97–300, title VI, §601(c), formerly title V, §501(c), Oct. 13, 1982, 96 Stat. 1394; renumbered title VI, §601(c), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 101–392, §5(b), Sept. 25, 1990, 104 Stat. 759; Pub. L. 105–220, title III, §§305, 310, Aug. 7, 1998, 112 Stat. 1081, 1086.)
+(June 6, 1933, ch. 49, §7, as added Pub. L. 97–300, title VI, §601(c), formerly title V, §501(c), Oct. 13, 1982, 96 Stat. 1394; renumbered title VI, §601(c), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 101–392, §5(b), Sept. 25, 1990, 104 Stat. 759; Pub. L. 105–220, title III, §§305, 310, Aug. 7, 1998, 112 Stat. 1081, 1086; Pub. L. 113–128, title III, §305, July 22, 2014, 128 Stat. 1626.)
+
+#### Amendment of Section ####
+
+Pub. L. 113–128, title III, §305, title V, §506, July 22, 2014, 128 Stat. 1626, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
+
+(1) in subsection (a):
+
+(A) in paragraph (1), by inserting ", including unemployment insurance claimants," after "seekers"; and
+
+(B) in paragraph (3):
+
+(i) in subparagraph (F), by inserting ", including making eligibility assessments," after "system"; and
+
+(ii) by striking "and" at the end of subparagraph (E), substituting "; and" for the period at the end of subparagraph (F), and inserting after subparagraph (F) the following:
+
+*"(G) providing unemployment insurance claimants with referrals to, and application assistance for, training and education resources and programs, including Federal Pell Grants under subpart 1 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070a et seq.), educational assistance under chapter 30 of title 38 (commonly referred to as the Montgomery GI Bill), and chapter 33 of that title (Post-9/11 Veterans Educational Assistance), student assistance under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), State student higher education assistance, and training and education programs provided under titles I and II of the Workforce Innovation and Opportunity Act, and title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.).";*
+
+(2) in subsection (b):
+
+(A) in paragraph (1), by striking "performance standards established by the Secretary" and inserting "the performance accountability measures that are based on indicators described in section 116(b)(2)(A)(i) of the Workforce Innovation and Opportunity Act";
+
+(B) in paragraph (2), by inserting "offices" after "employment service"; and
+
+(C) in paragraph (3), by inserting ", and models for enhancing professional development and career advancement opportunities of State agency staff, as described in section 49b(c)(4) of this title" after "subsection (a)";
+
+(3) in subsections (c)(2) and (d), by striking "the Workforce Investment Act of 1998" and inserting "the Workforce Innovation and Opportunity Act"; and
+
+(4) in subsection (e), by striking "labor employment statistics" and inserting "workforce and labor market information".
+
+See 2014 Amendment notes below.
 
 #### References in Text ####
 
@@ -65,6 +95,22 @@ The Workforce Investment Act of 1998, referred to in subsecs. (c)(2) and (d), is
 A prior section 49f, act June 6, 1933, ch. 49, §7, 48 Stat. 115, related to ascertainment of amounts due to States, and certification to the Secretary of the Treasury, prior to repeal by act Sept. 8, 1950, ch. 933, §3, 64 Stat. 823.
 
 #### Amendments ####
+
+**2014**—Subsec. (a)(1). Pub. L. 113–128, §305(a), inserted ", including unemployment insurance claimants," after "seekers".
+
+Subsec. (a)(3)(F). Pub. L. 113–128, §305(b)(2)(A), inserted ", including making eligibility assessments," after "system".
+
+Subsec. (a)(3)(G). Pub. L. 113–128, §305(b)(1), (2)(B), (3), added subpar. (G).
+
+Subsec. (b)(1). Pub. L. 113–128, §305(c)(1), substituted "the performance accountability measures that are based on indicators described in section 116(b)(2)(A)(i) of the Workforce Innovation and Opportunity Act" for "performance standards established by the Secretary".
+
+Subsec. (b)(2). Pub. L. 113–128, §305(c)(2), inserted "offices" after "employment service".
+
+Subsec. (b)(3). Pub. L. 113–128, §305(c)(3), inserted ", and models for enhancing professional development and career advancement opportunities of State agency staff, as described in section 49b(c)(4) of this title" after "subsection (a)".
+
+Subsecs. (c)(2), (d). Pub. L. 113–128, §305(d), substituted "the Workforce Innovation and Opportunity Act" for "the Workforce Investment Act of 1998".
+
+Subsec. (e). Pub. L. 113–128, §305(e), substituted "workforce and labor market information" for "labor employment statistics".
 
 **1998**—Subsec. (b)(2). Pub. L. 105–220, §305(1), substituted "local workforce investment board" for "private industry council".
 
@@ -81,6 +127,10 @@ Pub. L. 105–220, §305(3), substituted "Secretary or any State" for "United St
 Subsec. (e). Pub. L. 105–220, §305(4), added subsec. (e).
 
 **1990**—Subsecs. (c), (d). Pub. L. 101–392 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 2014 Amendment ####
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 1998 Amendment ####
 

@@ -26,7 +26,7 @@ For any fiscal year in which the amount appropriated to carry out this section i
 
 #### (A) Technical assistance ####
 
-For any fiscal year in which the amount appropriated to carry out this section equals or exceeds $5,500,000, the Commissioner shall set aside not less than 1.8 percent and not more than 2.2 percent of the amount to provide training and technical assistance to the systems established under this section.
+For any fiscal year in which the amount appropriated to carry out this section equals or exceeds $5,500,000, the Commissioner shall set aside not less than 1.8 percent and not more than 2.2 percent of the amount to provide a grant, contract, or cooperative agreement for training and technical assistance to the systems established under this section.
 
 #### (B) Grant for the eligible system serving the American Indian consortium ####
 
@@ -74,7 +74,7 @@ In order to receive assistance under this section, an eligible system shall subm
 
 (1) have in effect a system to protect and advocate the rights of individuals with disabilities;
 
-(2) have the same general authorities, including access to records and program income, as are set forth in subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [42 U.S.C. 15041 et seq.];
+(2) have the same general authorities, including the authority to access records and program income, as are set forth in subtitle C of title I of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 [42 U.S.C. 15041 et seq.];
 
 (3) have the authority to pursue legal, administrative, and other appropriate remedies or approaches to ensure the protection of, and advocacy for, the rights of such individuals within the State or the American Indian consortium who are individuals described in subsection (a)(1) of this section;
 
@@ -118,7 +118,7 @@ The Commissioner shall annually prepare and submit to the Committee on Education
 
 #### (l) Authorization of appropriations ####
 
-There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 1999 through 2003.
+There are authorized to be appropriated to carry out this section $17,650,000 for fiscal year 2015, $19,013,000 for fiscal year 2016, $19,408,000 for fiscal year 2017, $19,838,000 for fiscal year 2018, $20,305,000 for fiscal year 2019, and $20,735,000 for fiscal year 2020.
 
 #### (m) Definitions ####
 
@@ -132,11 +132,11 @@ The term "eligible system" means a protection and advocacy system that is establ
 
 The term "American Indian consortium" means a consortium established as described in section 142 <sup><a href="#794e_2_target" name="794e_2">2</a></sup> of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042).
 
-(Pub. L. 93–112, title V, §509, as added Pub. L. 102–569, title V, §510(a), Oct. 29, 1992, 106 Stat. 4430; amended Pub. L. 103–73, title I, §112(c), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–12, §9(n), Apr. 30, 1997, 111 Stat. 28; Pub. L. 105–220, title IV, §408(c), Aug. 7, 1998, 112 Stat. 1206; Pub. L. 105–394, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3662; Pub. L. 106–402, title IV, §401(b)(3)(C), (D), Oct. 30, 2000, 114 Stat. 1738.)
+(Pub. L. 93–112, title V, §509, as added Pub. L. 102–569, title V, §510(a), Oct. 29, 1992, 106 Stat. 4430; amended Pub. L. 103–73, title I, §112(c), Aug. 11, 1993, 107 Stat. 727; Pub. L. 105–12, §9(n), Apr. 30, 1997, 111 Stat. 28; Pub. L. 105–220, title IV, §408(c), Aug. 7, 1998, 112 Stat. 1206; Pub. L. 105–394, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3662; Pub. L. 106–402, title IV, §401(b)(3)(C), (D), Oct. 30, 2000, 114 Stat. 1738; Pub. L. 113–128, title IV, §457, July 22, 2014, 128 Stat. 1676.)
 
 #### References in Text ####
 
-The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsecs. (a)(1)(B)(i), (f)(2), (5)(B), and (m)(1), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of Title 42, The Public Health and Welfare. Subtitle C of the Act probably means subtitle C of title I of the Act which is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsecs. (a)(1)(B)(i), (f)(2), (5)(B), and (m)(1), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§15001 et seq.) of Title 42, The Public Health and Welfare. Subtitle C of title I of the Act is classified generally to part C (§15041 et seq.) of subchapter I of chapter 144 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 15001 of Title 42 and Tables.
 
 The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsecs. (a)(1)(B)(ii) and (f)(5)(B), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of Title 42 and Tables.
 
@@ -147,6 +147,12 @@ The Older Americans Act of 1965, referred to in subsec. (f)(5)(B), is Pub. L. 89
 Section 142 of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6042), referred to in subsec. (m)(2), was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737.
 
 #### Amendments ####
+
+**2014**—Subsec. (c)(1)(A). Pub. L. 113–128, §457(1), inserted "a grant, contract, or cooperative agreement for" before "training".
+
+Subsec. (f)(2). Pub. L. 113–128, §457(2), substituted "general authorities, including the authority to access records" for "general authorities, including access to records" and inserted "of title I" after "subtitle C".
+
+Subsec. (l). Pub. L. 113–128, §457(3), substituted "$17,650,000 for fiscal year 2015, $19,013,000 for fiscal year 2016, $19,408,000 for fiscal year 2017, $19,838,000 for fiscal year 2018, $20,305,000 for fiscal year 2019, and $20,735,000 for fiscal year 2020." for "such sums as may be necessary for each of the fiscal years 1999 through 2003."
 
 **2000**—Subsecs. (a)(1)(B)(i), (f)(2). Pub. L. 106–402, §401(b)(3)(C), substituted "subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000" for "part C of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6041 et seq.)".
 

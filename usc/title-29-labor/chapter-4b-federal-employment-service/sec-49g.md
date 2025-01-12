@@ -16,9 +16,15 @@ The part of the State plan described in subsection (a) of this section shall inc
 
 If such detailed plans are in conformity with the provisions of this chapter and reasonably appropriate and adequate to carry out its purposes, they shall be approved by the Secretary and due notice of such approval shall be given to the State agency.
 
-(June 6, 1933, ch. 49, §8, 48 Stat. 115; Aug. 3, 1954, ch. 655, §6(b), 68 Stat. 665; Pub. L. 97–300, title VI, §601(d), formerly title V, §501(d), Oct. 13, 1982, 96 Stat. 1395; renumbered title VI, §601(d), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, §306, Aug. 7, 1998, 112 Stat. 1081.)
+(June 6, 1933, ch. 49, §8, 48 Stat. 115; Aug. 3, 1954, ch. 655, §6(b), 68 Stat. 665; Pub. L. 97–300, title VI, §601(d), formerly title V, §501(d), Oct. 13, 1982, 96 Stat. 1395; renumbered title VI, §601(d), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 105–220, title III, §306, Aug. 7, 1998, 112 Stat. 1081; Pub. L. 113–128, title III, §306, July 22, 2014, 128 Stat. 1627.)
+
+#### Amendment of Section ####
+
+Pub. L. 113–128, title III, §306, title V, §506, July 22, 2014, 128 Stat. 1627, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended to read as follows: "Any State desiring to receive assistance under section 49e of this title shall prepare and submit to, and have approved by, the Secretary and the Secretary of Education, a State plan in accordance with section 3112 or 3113 of this title." See 2014 Amendment note below.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–128 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to submission, required content, and approval of State plans.
 
 **1998**—Subsec. (a). Pub. L. 105–220, §306(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Any State desiring to receive the benefits of this chapter shall, by the agency designated to cooperate with the United States Employment Service, submit to the Secretary of Labor detailed plans for carrying out the provisions of this chapter within such State."
 
@@ -41,6 +47,10 @@ Subsec. (d). Pub. L. 97–300, §601(d)(3), designated provisions relating to th
 Subsec. (e). Pub. L. 97–300, §601(d)(4), designated provisions relating to approval and notice by the Secretary of the State plans as subsec. (e).
 
 **1954**—Act Aug. 3, 1954, inserted provisions relating to promotion and development of employment opportunities and for job counseling and placement of handicapped persons.
+
+#### Effective Date of 2014 Amendment ####
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 1998 Amendment ####
 

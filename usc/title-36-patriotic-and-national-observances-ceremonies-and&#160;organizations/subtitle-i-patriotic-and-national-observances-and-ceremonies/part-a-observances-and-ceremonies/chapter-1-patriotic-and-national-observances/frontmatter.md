@@ -242,7 +242,7 @@ Pub. L. 112–272, Jan. 14, 2013, 126 Stat. 2448, provided that:
 
 "(A) In general.—Subject to subparagraph (B), the Chair of the Centennial Commission may fix the compensation of the executive director and any other personnel appointed under paragraph (1).
 
-"(B) Limitation.—The Chair of the Centennial Commission may not fix the compensation of the executive director or other personnel appointed under paragraph (1) at a rate that exceeds the rate of payable for level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+"(B) Limitation.—The Chair of the Centennial Commission may not fix the compensation of the executive director or other personnel appointed under paragraph (1) at a rate that exceeds the rate of payable [sic] for level IV of the Executive Schedule under section 5315 of title 5, United States Code.
 
 "(C) Work location.—If the city government for Kansas City, Missouri, and the Liberty Memorial Association make space available in the building in which the America's National World War I Museum is located, the executive director of the Centennial Commission and other personnel appointed under paragraph (1) shall work in such building to the extent practical.
 
@@ -460,15 +460,15 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
-#### Proc. No. 8984. Armed Forces Day ####
+#### Proc. No. 9129. Armed Forces Day ####
 
-Proc. No. 8984, May 17, 2013, 78 F.R. 30731, provided:
+Proc. No. 9129, May 16, 2014, 79 F.R. 29321, provided:
 
-Since the earliest days of our Union, America has been blessed with an unbroken chain of patriots willing to give of themselves so their fellow citizens might live free. Whenever our Nation has come under attack, courageous men and women in uniform have risen to her defense. Whenever our liberties have come under assault, our service members have responded with resolve. Time and again, these heroes have sacrificed to sustain that powerful promise that we hold so dear—life, liberty, and the pursuit of happiness. And on Armed Forces Day, we honor those who serve bravely and sacrifice selflessly in our name.
+In every generation, there are men and women who stand apart. They put on the uniform and put their lives on the line so the rest of us might live in a safer, freer, more just world. They defend us in times of peace, times of war, and times of crisis, both natural and man-made. On Armed Forces Day, we honor the Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen who render the highest service any American can offer.
 
-Our Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen represent the best of the American character. They serve with integrity and do whatever the country they love asks of them, choosing flag over fortune and service over self-interest. Year after year, tour after tour, their dedication to protecting us at home and preserving our ideals never wavers; their commitment to each other never falters. They are the few who carry the remarkable weight of our entire Nation, and in their example we see why America is and always will be the greatest country on Earth.
+The patriots who stand sentry for our security are a proud link in an unbroken chain that stretches through the centuries. This generation has distinguished itself on mission after mission, tour after tour. Because of their heroism, the core of al-Qaeda is severely degraded and our homeland is more secure. Thanks to their extraordinary sacrifice, we are winding down more than a decade of war and strengthening alliances that extend our values. These are the gifts they have given us, and this is why we owe them a profound debt of gratitude.
 
-Today, we pause to express our gratitude, mindful that words and ceremonies are not enough and that our thanks extend not only to those in uniform, but also to the families who serve alongside them. We are bound by a sacred obligation to ensure our service members and their loved ones have the resources and benefits they have earned and deserve, and only when we uphold this trust do we truly show our appreciation for our Armed Forces.
+It is our obligation to ensure our troops have all they need to complete their missions abroad, but we must also support them when they return home. We must care for the families who serve alongside them and fulfill our promises today, tomorrow, and forever. And we must demonstrate our thanks by building a Nation worthy of their sacrifices, a Nation that lives up to our founding ideals and allows every citizen to write their chapter of the American story.
 
 NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
 
@@ -476,15 +476,17 @@ I direct the Secretary of Defense on behalf of the Army, Navy, Air Force, and Ma
 
 I invite the Governors of the States, the Commonwealth of Puerto Rico, and other areas subject to the jurisdiction of the United States, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic leaders, and organizations to join in the observance of Armed Forces Day.
 
-Finally, I call upon all Americans to display the flag of the United States at their homes on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day. I also encourage Americans to volunteer at organizations that provide support to our troops.
+Finally, I call upon all Americans to display the flag of the United States at their homes on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day. I also encourage Americans to volunteer at organizations that provide support to our troops and their families.
 
-Proclamation 8823 of May 18, 2012, is hereby superseded.
+Proclamation 8984 of May 17, 2013, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this seventeenth day of May, in the year of our Lord two thousand thirteen, and of the Independence of the United States of America the two hundred and thirty-seventh.
+IN WITNESS WHEREOF, I have hereunto set my hand this sixteenth day of May, in the year of our Lord two thousand fourteen, and of the Independence of the United States of America the two hundred and thirty-eighth.
 
 Barack Obama.
 
 Prior similar proclamations were contained in the following:
+
+Proc. No. 8984, May 17, 2013, 78 F.R. 30731, superseded by Proc. No. 9129, May 16, 2014, 79 F.R. 29321.
 
 Proc. No. 8823, May 18, 2012, 77 F.R. 30875, superseded by Proc. No. 8984, May 17, 2013, 78 F.R. 30731.
 

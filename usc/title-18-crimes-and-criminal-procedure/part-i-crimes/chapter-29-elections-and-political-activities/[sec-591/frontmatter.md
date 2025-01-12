@@ -4,4 +4,4 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 719; May 24, 1949, ch. 139, §9, 
 
 #### Effective Date of Repeal ####
 
-Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under section 431 of Title 2, The Congress.
+Repeal effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as an Effective Date of 1980 Amendment note under section 30101 of Title 52, Voting and Elections.

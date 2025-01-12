@@ -26,6 +26,8 @@ Sec.
 
 7411. Full-time board-certified physicians and dentists: reimbursement of continuing professional education expenses.
 
+7412. Annual determination of staffing shortages; recruitment and appointment for needed occupations.
+
 #### SUBCHAPTER II—COLLECTIVE BARGAINING AND PERSONNEL ADMINISTRATION ####
 
 7421. Personnel administration: in general.
@@ -91,6 +93,8 @@ Sec.
 7474. Consultation.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–146, §301(a)(2), Aug. 7, 2014, 128 Stat. 1784, added item 7412.
 
 **2010**—Pub. L. 111–163, title VI, §602(a)(2), May 5, 2010, 124 Stat. 1173, added item 7459.
 

@@ -69,7 +69,7 @@ Chap. Sec.
 
 19B. Water Resources Planning 1962
 
-20. Elective Franchise 1971
+20. Elective Franchise [Transferred, Omitted, or Repealed] 1971
 
 20A. Civil Rights Commission 1975
 
@@ -299,7 +299,7 @@ Chap. Sec.
 
 120. Enterprise Zone Development 11501
 
-121. International Child Abduction Remedies 11601
+121. International Child Abduction Remedies [Transferred or Repealed] 11601
 
 122. Native Hawaiian Health Care 11701
 
@@ -353,7 +353,7 @@ Chap. Sec.
 
 145A. Law Enforcement Congressional Badge of Bravery 15231
 
-146. Election Administration Improvement 15301
+146. Election Administration Improvement [Transferred] 15301
 
 147. Prison Rape Elimination 15601
 

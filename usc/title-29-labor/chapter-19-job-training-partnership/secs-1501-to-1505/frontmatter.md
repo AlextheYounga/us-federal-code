@@ -14,6 +14,8 @@ Section 1505, Pub. L. 97–300, title VI, §605, formerly title V, §505, as add
 
 Pub. L. 105–220, title I, §199(c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that: "The repeal made by subsection (b)(2) [repealing this chapter and provisions set out as a note under section 801 of this title] shall take effect on July 1, 2000."
 
+*[Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], section 199(c)(2)(B) of Pub. L. 105–220, set out above, is repealed.]*
+
 #### Short Title of 1992 Amendment ####
 
 Pub. L. 102–367, §1, Sept. 7, 1992, 106 Stat. 1021, provided that: "This Act [enacting sections 1519, 1601 to 1606, 1630 to 1635, 1641 to 1646, 1673, 1734, 1735, 1782 to 1784b, and 1792 to 1792b of this title, amending sections 1501 to 1503, 1505, 1511, 1512, 1514 to 1518, 1531 to 1535, 1551 to 1554, 1571, 1572, 1574 to 1577, 1580, 1583, 1652, 1661, 1661c, 1661d, 1662a, 1662c, 1662e, 1671, 1672, 1693, 1696 to 1698, 1703, 1703a, 1706, 1707, 1731 to 1733, 1737, 1752 to 1754, 1772, 1773, 1781, and 1791 to 1791h of this title, section 2014 of Title 7, Agriculture, and sections 1205a and 2322 of Title 20, Education, repealing sections 1591, 1601 to 1605, 1630 to 1634, and 1734 to 1736 of this title, omitting sections 1791i and 1791j of this title, and enacting provisions set out as notes under sections 1501, 1602, and 1642 of this title] may be cited as the 'Job Training Reform Amendments of 1992'."

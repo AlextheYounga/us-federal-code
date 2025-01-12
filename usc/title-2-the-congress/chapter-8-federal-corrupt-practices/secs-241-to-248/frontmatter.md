@@ -18,8 +18,8 @@ Section 247, statements: verification, preservation, and inspection; and
 
 Section 248, limitation upon amount of expenditures by candidate.
 
-Such former provisions are covered generally by chapter 14 (§431 et seq.) of this title.
+Such former provisions are covered generally by chapter 301 (§30101 et seq.) of Title 52, Voting and Elections.
 
 #### Effective Date of Repeal ####
 
-Repeal effective 60 days after Feb. 7, 1972, see section 408 of Pub. L. 92–225, set out as an Effective Date note under section 431 of this title.
+Repeal effective 60 days after Feb. 7, 1972, see section 408 of Pub. L. 92–225, set out as an Effective Date note under section 30101 of Title 52, Voting and Elections.

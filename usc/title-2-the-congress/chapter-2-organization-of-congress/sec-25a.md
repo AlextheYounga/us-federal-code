@@ -22,4 +22,4 @@ The District of Columbia Election Act, referred to in subsecs. (a) and (b)(1), i
 
 #### Effective Date ####
 
-Pub. L. 91–405, title II, §206(b), Sept. 22, 1970, 84 Stat. 855, provided that: "This title and the amendments made by this title [enacting this section and section 25b of this title and amending section 2106 of Title 5, Government Organization and Employees, sections 4342, 6954, and 9342 of Title 10, Armed Forces, sections 201, 203, 204, 591, 594, and 595 of Title 18, Crimes and Criminal Procedure, and section 1973i of Title 42, The Public Health and Welfare] shall take effect on the date of its enactment [Sept. 22, 1970]."
+Pub. L. 91–405, title II, §206(b), Sept. 22, 1970, 84 Stat. 855, provided that: "This title and the amendments made by this title [enacting this section and section 25b of this title and amending section 2106 of Title 5, Government Organization and Employees, sections 4342, 6954, and 9342 of Title 10, Armed Forces, sections 201, 203, 204, 591, 594, and 595 of Title 18, Crimes and Criminal Procedure, and section 10307 of Title 52, Voting and Elections] shall take effect on the date of its enactment [Sept. 22, 1970]."

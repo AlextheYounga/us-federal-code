@@ -2,11 +2,21 @@
 
 In order to promote the establishment and maintenance of a national system of public employment offices, the United States Employment Service shall be established and maintained within the Department of Labor.
 
-(June 6, 1933, ch. 49, §1, 48 Stat. 113; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248.)
+(June 6, 1933, ch. 49, §1, 48 Stat. 113; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 113–128, title III, §301, July 22, 2014, 128 Stat. 1624.)
+
+#### Amendment of Section ####
+
+Pub. L. 113–128, title III, §301, title V, §506, July 22, 2014, 128 Stat. 1624, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended by inserting "service" before "offices". See 2014 Amendment note below.
 
 #### Amendments ####
 
+**2014**—Pub. L. 113–128 inserted "service" before "offices".
+
 **1982**—Pub. L. 97–300 substituted "the United States Employment Service shall be established and maintained within the Department of Labor" for "there is created in the Department of Labor a bureau to be known as the United States Employment Service".
+
+#### Effective Date of 2014 Amendment ####
+
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 1982 Amendment ####
 

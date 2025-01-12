@@ -54,6 +54,8 @@ Sec.
 
 3515d. Expenses of Office of Inspector General; protective services; investigating non-payment of child support.
 
+3515e. Transfer of functions regarding independent living to Department of Health and Human Services, and savings provisions.
+
 #### SUBCHAPTER II—OFFICE OF INSPECTOR GENERAL ####
 
 3521 to 3527. Repealed.

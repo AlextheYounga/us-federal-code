@@ -2,7 +2,7 @@
 
 #### (a) Establishment ####
 
-To be eligible to receive financial assistance under this part, each State shall establish a Statewide Independent Living Council (referred to in this section as the "Council"). The Council shall not be established as an entity within a State agency.
+To be eligible to receive financial assistance under this part, each State shall establish and maintain a Statewide Independent Living Council (referred to in this section as the "Council"). The Council shall not be established as an entity within a State agency.
 
 #### (b) Composition and appointment ####
 
@@ -14,15 +14,11 @@ Members of the Council shall be appointed by the Governor or, in the case of a S
 
 The Council shall include—
 
-(A) at least one director of a center for independent living chosen by the directors of centers for independent living within the State;
+(A) among its voting members, at least 1 director of a center for independent living chosen by the directors of centers for independent living within the State;
 
-(B) as ex officio, nonvoting members—
+(B) among its voting members, for a State in which 1 or more centers for independent living are run by, or in conjunction with, the governing bodies of American Indian tribes located on Federal or State reservations, at least 1 representative of the directors of such centers; and
 
-(i) a representative from the designated State unit; and
-
-(ii) representatives from other State agencies that provide services for individuals with disabilities; and
-
-(C) in a State in which one or more projects are carried out under section 741 of this title, at least one representative of the directors of the projects.
+(C) as ex officio, nonvoting members, a representative of the designated State entity, and representatives from State agencies that provide services for individuals with disabilities.
 
 #### (3) Additional members ####
 
@@ -30,15 +26,17 @@ The Council may include—
 
 (A) other representatives from centers for independent living;
 
-(B) parents and guardians of individuals with disabilities;
+(B) individuals with disabilities;
 
-(C) advocates of and for individuals with disabilities;
+(C) parents and guardians of individuals with disabilities;
 
-(D) representatives from private businesses;
+(D) advocates of and for individuals with disabilities;
 
-(E) representatives from organizations that provide services for individuals with disabilities; and
+(E) representatives from private businesses;
 
-(F) other appropriate individuals.
+(F) representatives from organizations that provide services for individuals with disabilities; and
+
+(G) other appropriate individuals.
 
 #### (4) Qualifications ####
 
@@ -74,7 +72,7 @@ Except as provided in subparagraph (B), the Council shall select a chairperson f
 
 #### (B) Designation by chief executive officer ####
 
-In States in which the Governor does not have veto power pursuant to State law, the appointing authority described in paragraph (3) shall designate a voting member of the Council to serve as the chairperson of the Council or shall require the Council to so designate such a voting member.
+In States in which the Governor does not have veto power pursuant to State law, the appointing authority described in paragraph (1) shall designate a voting member of the Council to serve as the chairperson of the Council or shall require the Council to so designate such a voting member.
 
 #### (6) Terms of appointment ####
 
@@ -88,7 +86,7 @@ Each member of the Council shall serve for a term of 3 years, except that—
 
 #### (B) Number of terms ####
 
-No member of the Council may serve more than two consecutive full terms.
+No member of the Council, other than a representative described in paragraph (2)(A) if there is only one center for independent living within the State, may serve more than two consecutive full terms.
 
 #### (7) Vacancies ####
 
@@ -100,19 +98,35 @@ Except as provided in subparagraph (B), any vacancy occurring in the membership 
 
 The appointing authority described in paragraph (3) may delegate the authority to fill such a vacancy to the remaining voting members of the Council after making the original appointment.
 
-#### (c) Duties ####
+#### (c) Functions ####
+
+#### (1) Duties ####
 
 The Council shall—
 
-(1) jointly develop and sign (in conjunction with the designated State unit) the State plan required in section 796c of this title;
+(A) develop the State plan as provided in section 796c(a)(2) of this title;
 
-(2) monitor, review, and evaluate the implementation of the State plan;
+(B) monitor, review, and evaluate the implementation of the State plan;
 
-(3) coordinate activities with the State Rehabilitation Council established under section 725 of this title, if the State has such a Council, or the commission described in section 721(a)(21)(A) of this title, if the State has such a commission, and councils that address the needs of specific disability populations and issues under other Federal law;
+(C) meet regularly, and ensure that such meetings of the Council are open to the public and sufficient advance notice of such meetings is provided;
 
-(4) ensure that all regularly scheduled meetings of the Statewide Independent Living Council are open to the public and sufficient advance notice is provided; and
+(D) submit to the Administrator such periodic reports as the Administrator may reasonably request, and keep such records, and afford such access to such records, as the Administrator finds necessary to verify the information in such reports; and
 
-(5) submit to the Commissioner such periodic reports as the Commissioner may reasonably request, and keep such records, and afford such access to such records, as the Commissioner finds necessary to verify such reports.
+(E) as appropriate, coordinate activities with other entities in the State that provide services similar to or complementary to independent living services, such as entities that facilitate the provision of or provide long-term community-based services and supports.
+
+#### (2) Authorities ####
+
+The Council may, consistent with the State plan described in section 796c of this title, unless prohibited by State law—
+
+(A) in order to improve services provided to individuals with disabilities, work with centers for independent living to coordinate services with public and private entities;
+
+(B) conduct resource development activities to support the activities described in this subsection or to support the provision of independent living services by centers for independent living; and
+
+(C) perform such other functions, consistent with the purpose of this chapter and comparable to other functions described in this subsection, as the Council determines to be appropriate.
+
+#### (3) Limitation ####
+
+The Council shall not provide independent living services directly to individuals with significant disabilities or manage such services.
 
 #### (d) Hearings and forums ####
 
@@ -122,7 +136,7 @@ The Council is authorized to hold such hearings and forums as the Council may de
 
 #### (1) In general ####
 
-The Council shall prepare, in conjunction with the designated State unit, a plan for the provision of such resources, including such staff and personnel, as may be necessary and sufficient to carry out the functions of the Council under this section, with funds made available under this part, and under section 730 of this title (consistent with section 721(a)(18) of this title), and from other public and private sources. The resource plan shall, to the maximum extent possible, rely on the use of resources in existence during the period of implementation of the plan.
+The Council shall prepare, in conjunction with the designated State entity, a plan for the provision of such resources, including such staff and personnel, as may be necessary and sufficient to carry out the functions of the Council under this section, with funds made available under this part, and under section 730 of this title (consistent with section 721(a)(18) of this title), and from other public and private sources. The resource plan shall, to the maximum extent possible, rely on the use of resources in existence during the period of implementation of the plan.
 
 #### (2) Supervision and evaluation ####
 
@@ -130,13 +144,13 @@ Each Council shall, consistent with State law, supervise and evaluate such staff
 
 #### (3) Conflict of interest ####
 
-While assisting the Council in carrying out its duties, staff and other personnel shall not be assigned duties by the designated State agency or any other agency or office of the State, that would create a conflict of interest.
+While assisting the Council in carrying out its duties, staff and other personnel shall not be assigned duties by the designated State entity or any other agency or office of the State, that would create a conflict of interest.
 
 #### (f) Compensation and expenses ####
 
-The Council may use such resources to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (including child care and personal assistance services), and to pay compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing Council duties.
+The Council may use available resources to reimburse members of the Council for reasonable and necessary expenses of attending Council meetings and performing Council duties (such as personal assistance services), and to pay reasonable compensation to a member of the Council, if such member is not employed or must forfeit wages from other employment, for each day the member is engaged in performing Council duties.
 
-(Pub. L. 93–112, title VII, §705, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1220; amended Pub. L. 105–277, div. A, §101(f) [title VIII, §402(c)(7)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416.)
+(Pub. L. 93–112, title VII, §705, as added Pub. L. 105–220, title IV, §410, Aug. 7, 1998, 112 Stat. 1220; amended Pub. L. 105–277, div. A, §101(f) [title VIII, §402(c)(7)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 113–128, title IV, §475, July 22, 2014, 128 Stat. 1687.)
 
 #### Prior Provisions ####
 
@@ -145,6 +159,36 @@ A prior section 796d, Pub. L. 93–112, title VII, §705, as added Pub. L. 102�
 Another prior section 796d, Pub. L. 93–112, title VII, §705, as added Pub. L. 95–602, title III, §301, Nov. 6, 1978, 92 Stat. 2997; amended Pub. L. 99–506, title I, §103(d)(2)(B), (C), (h)(2), title VIII, §802, title X, §1001(g)(3), Oct. 21, 1986, 100 Stat. 1810, 1811, 1837, 1843; Pub. L. 100–630, title II, §208(d), Nov. 7, 1988, 102 Stat. 3314; Pub. L. 102–119, §26(e), Oct. 7, 1991, 105 Stat. 607, related to State plans for providing comprehensive services for independent living, prior to repeal by Pub. L. 102–569, §701(1).
 
 #### Amendments ####
+
+**2014**—Subsec. (a). Pub. L. 113–128, §475(1), inserted "and maintain" after "shall establish".
+
+Subsec. (b)(2)(A). Pub. L. 113–128, §475(2)(A)(i), inserted "among its voting members," before "at least" and substituted "1" for "one".
+
+Subsec. (b)(2)(B), (C). Pub. L. 113–128, §475(2)(A)(ii), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which read as follows:
+
+"(B) as ex officio, nonvoting members—
+
+"(i) a representative from the designated State unit; and
+
+"(ii) representatives from other State agencies that provide services for individuals with disabilities; and
+
+"(C) in a State in which one or more projects are carried out under section 741 of this title, at least one representative of the directors of the projects."
+
+Subsec. (b)(3)(B). Pub. L. 113–128, §475(2)(B)(ii), struck out "parents and guardians of" before "individuals".
+
+Subsec. (b)(3)(C) to (G). Pub. L. 113–128, §475(2)(B)(i), (iii), added subpar. (C) and redesignated former subpars. (C) to (F) as (D) to (G), respectively.
+
+Subsec. (b)(5)(B). Pub. L. 113–128, §475(2)(C), substituted "paragraph (1)" for "paragraph (3)".
+
+Subsec. (b)(6)(B). Pub. L. 113–128, §475(2)(D), inserted ", other than a representative described in paragraph (2)(A) if there is only one center for independent living within the State," after "the Council".
+
+Subsec. (c). Pub. L. 113–128, §475(3), added subsec. (c) and struck out former subsec. (c) which related to duties of the Council.
+
+Subsec. (e)(1). Pub. L. 113–128, §475(4)(A), substituted "prepare, in conjunction with the designated State entity, a plan" for "prepare, in conjunction with the designated State unit, a plan".
+
+Subsec. (e)(3). Pub. L. 113–128, §475(4)(B), substituted "State entity" for "State agency".
+
+Subsec. (f). Pub. L. 113–128, §475(5), substituted "available resources" for "such resources" and "(such as personal assistance services), and to pay reasonable compensation" for "(including child care and personal assistance services), and to pay compensation".
 
 **1998**—Subsec. (b)(1). Pub. L. 105–277, §101(f) [title VIII, §402(c)(7)(A)], in first sentence, substituted "by the Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity" for "by the Governor" and, in second sentence, substituted "The appointing authority" for "The Governor".
 

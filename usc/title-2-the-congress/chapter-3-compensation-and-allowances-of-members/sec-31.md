@@ -10,7 +10,7 @@ A prior section 31, acts Feb. 26, 1907, ch. 1635, §4, 34 Stat. 993; Mar. 4, 192
 
 #### Appropriation of Funds for Compensation of Members of Congress and for Administrative Expenses at Levels Authorized by Law and Recommended by the President for Federal Employees ####
 
-Pub. L. 97–51, §130(c), Oct. 1, 1981, 95 Stat. 966, which related to appropriation of funds for compensation of Members of Congress and for administrative expenses at levels authorized by law and recommended by the President for federal employees, was editorially reclassified as section 4502 of this title.
+Pub. L. 97–51, §130(c), Oct. 1, 1981, 95 Stat. 966, which related to appropriation of funds for compensation of Members of Congress and for administrative expenses at levels authorized by law and recommended by the President for Federal employees, was editorially reclassified as section 4502 of this title.
 
 #### Commission on Judicial and Congressional Salaries ####
 

@@ -48,7 +48,7 @@ If any action is brought for declaratory or injunctive relief to challenge an an
 
 #### (A) Deadline for transmittal of absentee ballots ####
 
-In conducting a special election held under this subsection to fill a vacancy in its representation, the State shall ensure to the greatest extent practicable (including through the use of electronic means) that absentee ballots for the election are transmitted to absent uniformed services voters and overseas voters (as such terms are defined in the Uniformed and Overseas Citizens Absentee Voting Act [42 U.S.C. 1973ff et seq.]) not later than 15 days after the Speaker of the House of Representatives announces that the vacancy exists.
+In conducting a special election held under this subsection to fill a vacancy in its representation, the State shall ensure to the greatest extent practicable (including through the use of electronic means) that absentee ballots for the election are transmitted to absent uniformed services voters and overseas voters (as such terms are defined in the Uniformed and Overseas Citizens Absentee Voting Act [52 U.S.C. 20301 et seq.]) not later than 15 days after the Speaker of the House of Representatives announces that the vacancy exists.
 
 #### (B) Period for ballot transit time ####
 
@@ -66,37 +66,37 @@ This subsection shall apply—
 
 Nothing in this subsection may be construed to affect the application to special elections under this subsection of any Federal law governing the administration of elections for Federal office (including any law providing for the enforcement of any such law), including, but not limited to, the following:
 
-(A) The Voting Rights Act of 1965 (42 U.S.C. 1973 et seq.), as amended.
+(A) The Voting Rights Act of 1965 (42 U.S.C. 1973 et seq.) [now 52 U.S.C. 10301 et seq.], as amended.
 
-(B) The Voting Accessibility for the Elderly and Handicapped Act (42 U.S.C. 1973ee et seq.), as amended.
+(B) The Voting Accessibility for the Elderly and Handicapped Act (42 U.S.C. 1973ee et seq.) [now 52 U.S.C. 20101 et seq.], as amended.
 
-(C) The Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.), as amended.
+(C) The Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff et seq.) [now 52 U.S.C. 20301 et seq.], as amended.
 
-(D) The National Voter Registration Act of 1993 (42 U.S.C. 1973gg et seq.), as amended.
+(D) The National Voter Registration Act of 1993 (42 U.S.C. 1973gg et seq.) [now 52 U.S.C. 20501 et seq.], as amended.
 
 (E) The Americans With Disabilities Act of 1990 (42 U.S.C. 12101 et seq.), as amended.
 
 (F) The Rehabilitation Act of 1973 (29 U.S.C. 701 et seq.), as amended.
 
-(G) The Help America Vote Act of 2002 (42 U.S.C. 15301 et seq.), as amended.
+(G) The Help America Vote Act of 2002 (42 U.S.C. 15301 et seq.) [now 52 U.S.C. 20901 et seq.], as amended.
 
 (R.S. §26; Pub. L. 109–55, title III, §301, Aug. 2, 2005, 119 Stat. 588.)
 
 #### References in Text ####
 
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (b)(5), (7)(C), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, as amended, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (b)(5), (7)(C), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, which was formerly classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§20301 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
-The Voting Rights Act of 1965, referred to in subsec. (b)(7)(A), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, as amended, which is classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
+The Voting Rights Act of 1965, referred to in subsec. (b)(7)(A), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, which was formerly classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapters 103 (§10301 et seq.), 105 (§10501 et seq.), and 107 (§10701 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
-The Voting Accessibility for the Elderly and Handicapped Act, referred to in subsec. (b)(7)(B), is Pub. L. 98–435, Sept. 28, 1984, 98 Stat. 1678, as amended, which is classified generally to subchapter I–F (§1973ee et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
+The Voting Accessibility for the Elderly and Handicapped Act, referred to in subsec. (b)(7)(B), is Pub. L. 98–435, Sept. 28, 1984, 98 Stat. 1678, which was formerly classified generally to subchapter I–F (§1973ee et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified generally to chapter 201 (§20101 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
-The National Voter Registration Act of 1993, referred to in subsec. (b)(7)(D), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, as amended, which is classified principally to subchapter I–H (§1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
+The National Voter Registration Act of 1993, referred to in subsec. (b)(7)(D), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, which was formerly classified principally to subchapter I–H (§1973gg et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 205 (§20501 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(7)(E), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The Rehabilitation Act of 1973, referred to in subsec. (b)(7)(F), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
-The Help America Vote Act of 2002, referred to in subsec. (b)(7)(G), is Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to chapter 146 (§15301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of Title 42 and Tables.
+The Help America Vote Act of 2002, referred to in subsec. (b)(7)(G), is Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which was formerly classified principally to chapter 146 (§15301 et seq.) of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 209 (§20901 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
 #### Codification ####
 

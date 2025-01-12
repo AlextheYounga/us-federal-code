@@ -752,7 +752,7 @@ Sec.
 
 280i–2. Interagency Autism Coordinating Committee.
 
-280i–3. Report to Congress.
+280i–3. Reports to Congress.
 
 280i–4. Authorization of appropriations.
 

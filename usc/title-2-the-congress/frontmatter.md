@@ -41,7 +41,7 @@ Chap. Sec.
 
 13. Joint Committee on Congressional Operations [Repealed] 411
 
-14. Federal Election Campaigns 431
+14. Federal Election Campaigns [Transferred or Repealed] 431
 
 15. Office of Technology Assessment 471
 
@@ -180,7 +180,7 @@ Chap. Sec.
 |                                                                 43d                                                                  |                6311                 |
 |                                                                 46a                                                                  |                6117                 |
 |                            46a note (Pub. L. 108–7, div. H, title I, §2(b), Feb. 20, 2003, 117 Stat. 349)                            |              6117 note              |
-|                    46a note (Pub. L. 92–607, ch. V, §506(k), formerly §506(h), Oct. 31, 1972, 86 Stat. 15071508)                     |              6117 note              |
+|                      46a note (Pub. L. 92–607, ch. V, §506(k), formerly §506(h), Oct. 31, 1972, 86 Stat. 1507)                       |              6117 note              |
 |                                       46a note (July 15, 1952, ch. 758, Ch. II, 66 Stat. 639)                                        |              6117 note              |
 |                                      46a note (Sept. 27, 1950, ch. 1052, Ch. II, 64 Stat. 1047)                                      |              6117 note              |
 |                                       46a note (Oct. 10, 1949, ch. 662, title I, 63 Stat. 738)                                       |              6117 note              |
@@ -304,7 +304,7 @@ Chap. Sec.
 |                                                                60g–2                                                                 |                5322                 |
 |                60g–2 note (Pub. L. 93–245, ch. VI, Jan. 3, 1974, 87 Stat. 1079 [§3 of House Res. 420, 93d Congress])                 |              5322 note              |
 |                                                                 60j                                                                  |                4507                 |
-|                               60j note (Pub. L. 96–304, title I, §107(d), July 8, 1980, 94 Stat. 890 )                               |              4507 note              |
+|                               60j note (Pub. L. 96–304, title I, §107(d), July 8, 1980, 94 Stat. 890)                                |              4507 note              |
 |                              60j note (Pub. L. 95–391, title I, §110(b), Sept. 30, 1978, 92 Stat. 775)                               |              4507 note              |
 |                                60j note (Pub. L. 95–240, title II, §205, Mar. 7, 1978, 92 Stat. 117)                                 |              4507 note              |
 |                                    60j note (Pub. L. 87–730, §106(e), Oct. 2, 1962, 76 Stat. 695)                                    |              4507 note              |
@@ -313,10 +313,10 @@ Chap. Sec.
 |                                                                60j–2                                                                 |                4508                 |
 |                                                                60j–4                                                                 |                4509                 |
 |                                                                 60k                                                                  |              1313 note              |
-|                                                                 60l                                                                  |              1311 note              |
-|                                                                 60o                                                                  |                4537                 |
-|                              60o note (Pub. L. 105–55, title I, §103(b), Oct. 7, 1997, 111 Stat. 1183)                               |              4537 note              |
-|                     60o note (Pub. L. 106–554, §1(a)(2) [title I, §6], Dec. 21, 2000, 114 Stat. 2763, 2763A–97)                      |                4580                 |
+|                                                                60*l*                                                                 |              1311 note              |
+|                                                                60*o*                                                                 |                4537                 |
+|                             60*o* note (Pub. L. 105–55, title I, §103(b), Oct. 7, 1997, 111 Stat. 1183)                              |              4537 note              |
+|                    60*o* note (Pub. L. 106–554, §1(a)(2) [title I, §6], Dec. 21, 2000, 114 Stat. 2763, 2763A–97)                     |                4580                 |
 |                                                                 60p                                                                  |                4595                 |
 |                                                                 60q                                                                  |                4505                 |
 |                         60q note (Pub. L. 112–74, div. G, title I, §1401(c), Dec. 23, 2011, 125 Stat. 1134)                          |              4505 note              |
@@ -478,7 +478,7 @@ Chap. Sec.
 |                               61h–7 note (Pub. L. 101–163, title I, §9, Nov. 21, 1989, 103 Stat. 1046)                               |              6133 note              |
 |                                                                61j–2                                                                 |                6134                 |
 |                                                                 61k                                                                  |                6113                 |
-|                                                                 61l                                                                  |                6114                 |
+|                                                                61*l*                                                                 |                6114                 |
 |                                                                  62                                                                  |                6592                 |
 |                                                                 64–1                                                                 |                6542                 |
 |                                                                 64–2                                                                 |                6562                 |
@@ -699,7 +699,7 @@ Chap. Sec.
 |                         117j note (Pub. L. 110–161, div. H, title I, §103(b), Dec. 26, 2007, 121 Stat. 2225)                         |              5541 note              |
 |                                                                117j–1                                                                |                5542                 |
 |                                                                 117k                                                                 |                5543                 |
-|                                                                 117l                                                                 |                5544                 |
+|                                                                117*l*                                                                |                5544                 |
 |                                                                 117m                                                                 |                5545                 |
 |                          117m note (Pub. L. 111–8, div. G, title I, §102(c), Mar. 11, 2009, 123 Stat. 817)                           |              5545 note              |
 |                         117m note (Pub. L. 110–161, div. H, title I, §104(b), Dec. 26, 2007, 121 Stat. 2225)                         |              5545 note              |
@@ -754,7 +754,7 @@ Chap. Sec.
 |                                                                 130h                                                                 |                5546                 |
 |                                                                 130j                                                                 |                5531                 |
 |                                                                 130k                                                                 |                5547                 |
-|                                                                 130l                                                                 |                5591                 |
+|                                                                130*l*                                                                |                5591                 |
 |                                                                 331                                                                  |                4533                 |
 |                              331 note (Pub. L. 91–510, title IV, §477(b), Oct. 26, 1970, 84 Stat. 1195)                              |              4533 note              |
 |                                                                 333                                                                  |                5103                 |

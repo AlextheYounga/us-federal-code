@@ -108,7 +108,11 @@ For purposes of this subchapter:
 
 (26) Rural health clinic.—The term "rural health clinic" has the meaning given that term in section 1395x(aa) of this title.
 
-(July 1, 1944, ch. 373, title VII, §799B, formerly §799, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2066; renumbered §799B and amended Pub. L. 105–392, title I, §§106(a)(2)(E), 108, Nov. 13, 1998, 112 Stat. 3557, 3560; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 111–148, title V, §5002(b), Mar. 23, 2010, 124 Stat. 590.)
+(July 1, 1944, ch. 373, title VII, §799B, formerly §799, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2066; renumbered §799B and amended Pub. L. 105–392, title I, §§106(a)(2)(E), 108, Nov. 13, 1998, 112 Stat. 3557, 3560; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664; Pub. L. 111–148, title V, §5002(b), Mar. 23, 2010, 124 Stat. 590; Pub. L. 113–128, title V, §512(z)(3), July 22, 2014, 128 Stat. 1716.)
+
+#### Amendment of Paragraph (23) ####
+
+Pub. L. 113–128, title V, §§506, 512(z)(3), July 22, 2014, 128 Stat. 1703, 1716, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], paragraph (23) of this section is amended by striking "one-stop delivery system described in section 2864(c) of title 29" and inserting "one-stop delivery system described in section 3151(e) of title 29". See 2014 Amendment note below.
 
 #### References in Text ####
 
@@ -117,6 +121,8 @@ The reference to section 254b of this title the first place appearing and the re
 Section 256a of this title, referred to in par. (6)(B), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
 #### Amendments ####
+
+**2014**—Par. (23). Pub. L. 113–128 substituted "one-stop delivery system described in section 3151(e) of title 29" for "one-stop delivery system described in section 2864(c) of title 29".
 
 **2010**—Par. (3). Pub. L. 111–148, §5002(b)(1), added par. (3) and struck out former par. (3) which defined "program for the training of physician assistants" by describing its objective, duration, minimum enrollment, and specific areas of instruction.
 
@@ -141,6 +147,10 @@ Par. (5)(C). Pub. L. 105–392, §108(b)(2), inserted "or a degree in counseling
 Par. (6)(D). Pub. L. 105–392, §108(c), added subpar. (D).
 
 Par. (11). Pub. L. 105–392, §108(e), added par. (11).
+
+#### Effective Date of 2014 Amendment ####
+
+Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113—128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center ####
 

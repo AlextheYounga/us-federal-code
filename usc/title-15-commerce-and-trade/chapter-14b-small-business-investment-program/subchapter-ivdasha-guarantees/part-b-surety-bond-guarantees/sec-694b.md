@@ -88,7 +88,7 @@ The Administration shall administer this part on a prudent and economically just
 
 The provisions of section 693 of this title shall apply in the administration of this section.
 
-#### (j) ####
+#### (j) Administration not to deny liability based on information provided as part of application ####
 
 For bonds made or executed with the prior approval of the Administration, the Administration shall not deny liability to a surety based upon material information that was provided as part of the guarantee application.
 

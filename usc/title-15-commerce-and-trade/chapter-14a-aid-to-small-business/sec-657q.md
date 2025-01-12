@@ -70,7 +70,7 @@ A prior section 2[44] of Pub. L. 85–536 was renumbered section 2[47] and is se
 
 #### Amendments ####
 
-**2013**—Subsec. (a)(2). Pub. L. 112–239, §1671(a), substituted "or a multiple award contract—" and subpars. (A) and (B) for "or a multiple award contract to satisfy 2 or more requirements of the Federal agency for goods or services that have been provided to or performed for the Federal agency under 2 or more separate contracts lower in cost than the total cost of the contract for which the offers are solicited; and"
+**2013**—Subsec. (a)(2). Pub. L. 112–239, §1671(a), substituted "or a multiple award contract—" and subpars. (A) and (B) for "or a multiple award contract to satisfy 2 or more requirements of the Federal agency for goods or services that have been provided to or performed for the Federal agency under 2 or more separate contracts lower in cost than the total cost of the contract for which the offers are solicited; and".
 
 Subsec. (c)(1)(E). Pub. L. 112–239, §1671(b), substituted "ensures" for "certifies to the head of the Federal agency".
 

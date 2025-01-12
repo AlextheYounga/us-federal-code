@@ -40,11 +40,11 @@ Subtitle III—Federal Campaign Finance
 |            431 note (Pub. L. 96–187, title III, §301, Jan. 8, 1980, 93 Stat. 1368)            |              30101 note              |
 |            431 note (Pub. L. 93–443, title IV, §410, Oct. 15, 1974, 88 Stat. 1304)            |              30101 note              |
 |      431 note (Pub. L. 92–225, title IV, §408, formerly §406, Feb. 7, 1972, 86 Stat. 20)      |              30101 note              |
-|                431 note (Pub. L. 107–155, §1(a), Mar. 27, 2002, 116 Stat. 81)                 |              30101 note              |
-|                    431 note (Pub. L. 96–187, Jan. 8, 1980, 93 Stat. 1339)                     |              30101 note              |
-|                   431 note (Pub. L. 94–283, §1, May 11, 1976, 90 Stat. 475)                   |              30101 note              |
-|                    431 note (Pub. L. 93–443, Oct. 15, 1974, 88 Stat. 1263)                    |              30101 note              |
-|                      431 note (Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3)                      |              30101 note              |
+|                431 note (Pub. L. 107–155, §1(a), Mar. 27, 2002, 116 Stat. 81)                 |              10101 note              |
+|                    431 note (Pub. L. 96–187, Jan. 8, 1980, 93 Stat. 1339)                     |              10101 note              |
+|                   431 note (Pub. L. 94–283, §1, May 11, 1976, 90 Stat. 475)                   |              10101 note              |
+|                    431 note (Pub. L. 93–443, Oct. 15, 1974, 88 Stat. 1263)                    |              10101 note              |
+|                      431 note (Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3)                      |              10101 note              |
 |            431 note (Pub. L. 96–187, title III, §303, Jan. 8, 1980, 93 Stat. 1368)            |              30101 note              |
 |           431 note (Pub. L. 107–155, title III, §310, Mar. 27, 2002, 116 Stat. 104)           |              30101 note              |
 |            431 note (Pub. L. 96–187, title III, §302, Jan. 8, 1980, 93 Stat. 1368)            |              30101 note              |
@@ -76,7 +76,6 @@ Subtitle III—Federal Campaign Finance
 |                                             437h                                              |                30110                 |
 |           437h note (Pub. L. 107–155, title IV, §403, Mar. 27, 2002, 116 Stat. 113)           |              30110 note              |
 |                                              438                                              |                30111                 |
-|         438 note (Pub. L. 93–443, title II, §209(a)(2), Oct. 15, 1974, 88 Stat. 1287)         |              30111 note              |
 |                                             438a                                              |                30112                 |
 |                                              439                                              |                30113                 |
 |                                             439a                                              |                30114                 |
@@ -162,7 +161,6 @@ Subtitle III—Federal Campaign Finance
 |                                         1973ee–5                                         |                20106                 |
 |                                         1973ee–6                                         |                20107                 |
 |                                          1973ff                                          |                20301                 |
-|  1973ff note (Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372)  |              20301 note              |
 |  1973ff note (Pub. L. 111–84, div. A, title V, §580(f), Oct. 28, 2009, 123 Stat. 2326)   |              20301 note              |
 | 1973ff note (Pub. L. 111–84, div. A, title V, §583(a)(3), Oct. 28, 2009, 123 Stat. 2328) |              20301 note              |
 |  1973ff note (Pub. L. 111–84, div. A, title V, §584(c), Oct. 28, 2009, 123 Stat. 2331)   |              20301 note              |
@@ -179,7 +177,6 @@ Subtitle III—Federal Campaign Finance
 |   1973ff–1 note (Pub. L. 111–84, div. A, title V, §576, Oct. 28, 2009, 123 Stat. 2319)   |              20302 note              |
 |    1973ff–1 note (Pub. L. 107–252, title VII, §703(b), Oct. 29, 2002, 116 Stat. 1724)    |              20302 note              |
 |                                         1973ff–2                                         |                20303                 |
-| 1973ff–2 note (Pub. L. 111–383, div. A, title X, §1075(d), Jan. 7, 2011, 124 Stat. 4372) |              20303 note              |
 |1973ff–2 note (Pub. L. 111–84, div. A, title V, §581(a)(2), Oct. 28, 2009, 123 Stat. 2326)|              20303 note              |
 |                                        1973ff–2a                                         |                20304                 |
 |                                        1973ff–2b                                         |                20305                 |
@@ -214,7 +211,7 @@ Subtitle III—Federal Campaign Finance
 |                                          1974d                                           |                20705                 |
 |                                          1974e                                           |                20706                 |
 |                                          15301                                           |                20901                 |
-|            15301 note (Pub. L. 107–252, §1(a), Oct. 29, 2002, 116 Stat. 1666)            |              20901 note              |
+|            15301 note (Pub. L. 107–252, §1(a), Oct. 29, 2002, 116 Stat. 1666)            |              10101 note              |
 |                                          15302                                           |                20902                 |
 |   15302 note (Pub. L. 111–8, div. D, title VI, §625(b), Mar. 11, 2009, 123 Stat. 678)    |              20902 note              |
 |       15302 note (Pub. L. 110–28, title VI, §6301(b), May 25, 2007, 121 Stat. 171)       |              20902 note              |

@@ -149,7 +149,7 @@ Chap. Sec.
 |          402 note (Pub. L. 86–36, §2, as added Pub. L. 111–259, title IV, §433, Oct. 7, 2010, 124 Stat. 2732)           |                 3602                 |
 |                                 402 note (Pub. L. 86–36, §4, May 29, 1959, 73 Stat. 63)                                 |                 3603                 |
 |                                 402 note (Pub. L. 86–36, §5, May 29, 1959, 73 Stat. 63)                                 |                 3604                 |
-|                                 402 note (Pub.L. 86–36, §6, May 29, 1959, 73 Stat. 64)                                  |                 3605                 |
+|                                 402 note (Pub. L. 86–36, §6, May 29, 1959, 73 Stat. 64)                                 |                 3605                 |
 |                                 402 note (Pub. L. 86–36, §7, May 29, 1959, 73 Stat. 64)                                 |                 3606                 |
 |                                 402 note (Pub. L. 86–36, §8 May 29, 1959, 73 Stat. 64)                                  |              3604 note               |
 |             402 note (Pub. L. 86–36, §9, as added Pub. L. 96–450, §402(a)(1), Oct. 14, 1980, 94 Stat. 1977)             |                 3607                 |

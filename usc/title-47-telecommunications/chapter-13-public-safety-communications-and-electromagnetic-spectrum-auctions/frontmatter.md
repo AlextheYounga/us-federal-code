@@ -24,7 +24,7 @@ Sec.
 
 1422. Public safety broadband network.
 
-1423. Public Safety Interoperability Board.
+1423. Public safety Interoperability Board.
 
 1424. Establishment of the First Responder Network Authority.
 

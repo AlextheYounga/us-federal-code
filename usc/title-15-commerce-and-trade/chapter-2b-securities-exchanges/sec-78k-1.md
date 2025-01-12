@@ -132,6 +132,8 @@ No rule adopted pursuant to this section shall be applied to any person with res
 
 #### References in Text ####
 
+This chapter, referred to in text, was in the original "this title". See References in Text note set out under section 78a of this title.
+
 The Federal Advisory Committee Act, referred to in subsec. (a)(3)(A), is Pub. L. 92–436, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments ####
