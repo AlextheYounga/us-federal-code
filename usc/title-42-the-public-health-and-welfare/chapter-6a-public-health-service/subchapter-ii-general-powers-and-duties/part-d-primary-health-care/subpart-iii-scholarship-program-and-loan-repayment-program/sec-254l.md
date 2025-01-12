@@ -98,7 +98,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 (1) A scholarship provided to a student for a school year under a written contract under the Scholarship Program shall consist of—
 
-(A) payment to, or (in accordance with paragraph (2)) on behalf of, the student of the amount (except as provided in section 292k <sup><a href="#254l_2_target" name="254l_2">2</a></sup> of this title) of—
+(A) payment to, or (in accordance with paragraph (2)) on behalf of, the student of the amount (except as provided in section 292k <sup><a href="#254l_3_target" name="254l_3">3</a></sup> of this title) of—
 
 (i) the tuition of the student in such school year; and
 

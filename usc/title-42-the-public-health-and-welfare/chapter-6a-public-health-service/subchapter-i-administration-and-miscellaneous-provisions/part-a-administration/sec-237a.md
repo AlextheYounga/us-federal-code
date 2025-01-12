@@ -214,7 +214,7 @@ Sec. 6. *General Provisions*. (a) Nothing in this memorandum shall be construed 
 
 (b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
 
-v(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 (d) The Secretary of Health and Human Services is authorized and directed to publish this memorandum in the Federal Register.
 
