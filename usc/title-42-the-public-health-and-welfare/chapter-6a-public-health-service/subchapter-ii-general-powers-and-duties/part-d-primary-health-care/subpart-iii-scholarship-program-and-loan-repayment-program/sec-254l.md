@@ -50,7 +50,7 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (2) In providing contracts under the Scholarship Program, the Secretary shall give priority—
 
-(A) first, to any application for such a contract submitted by an individual who has previously received a scholarship under this section or under section 294z <sup><a href="#254l_1_target" name="254l_1">1</a></sup> of this title;
+(A) first, to any application for such a contract submitted by an individual who has previously received a scholarship under this section or under section 294z <sup><a href="#254l_2_target" name="254l_2">2</a></sup> of this title;
 
 (B) second, to any application for such a contract submitted by an individual who has characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) is completed; and
 

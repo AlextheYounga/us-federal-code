@@ -4,15 +4,15 @@
 
 #### (1) In general ####
 
-The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants or cooperative agreements to eligible entities for the collection, analysis, and reporting of State epidemiological data for children and adults on autism spectrum disorder and other developmental disabilities. An eligible entity shall assist with the development and coordination of State autism spectrum disorder and other developmental disability surveillance efforts within a region. In making such awards, the Secretary may provide direct technical assistance in lieu of cash.
+The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may award grants or cooperative agreements to eligible entities for the collection, analysis, and reporting of State epidemiological data for children and adults with autism spectrum disorder and other developmental disabilities. An eligible entity shall assist with the development and coordination of State autism spectrum disorder and other developmental disability surveillance efforts within a region. In making such awards, the Secretary may provide direct technical assistance in lieu of cash.
 
 #### (2) Data standards ####
 
-In submitting epidemiological data to the Secretary pursuant to paragraph (1), an eligible entity shall report data according to guidelines prescribed by the Director of the Centers for Disease Control and Prevention, after consultation with relevant State and local public health officials, private sector developmental disability researchers, and advocates for individuals with autism spectrum disorder or other developmental disabilities.
+In submitting epidemiological data to the Secretary pursuant to paragraph (1), an eligible entity shall report data according to guidelines prescribed by the Director of the Centers for Disease Control and Prevention, after consultation with relevant State, local, and Tribal public health officials, private sector developmental disability researchers, and advocates for individuals with autism spectrum disorder and other developmental disabilities.
 
 #### (3) Eligibility ####
 
-To be eligible to receive an award under paragraph (1), an entity shall be a public or nonprofit private entity (including a health department of a State or a political subdivision of a State, a university, or any other educational institution), and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+To be eligible to receive an award under paragraph (1), an entity shall be a public or nonprofit private entity (including a health department of a State or a political subdivision of a State, a university, any other educational institution, an Indian tribe, or a tribal organization), and submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (b) Centers of excellence in autism spectrum disorder epidemiology ####
 
@@ -24,7 +24,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 To be eligible to receive a grant or cooperative agreement under paragraph (1), an entity shall submit to the Secretary an application containing such agreements and information as the Secretary may require, including an agreement that the center to be established or supported under the grant or cooperative agreement shall operate in accordance with the following:
 
-(A) The center will collect, analyze, and report autism spectrum disorder and other developmental disability data according to guidelines prescribed by the Director of the Centers for Disease Control and Prevention, after consultation with relevant State and local public health officials, private sector developmental disability researchers, and advocates for individuals with developmental disabilities.
+(A) The center will collect, analyze, and report autism spectrum disorder and other developmental disability data according to guidelines prescribed by the Director of the Centers for Disease Control and Prevention, after consultation with State, local, and Tribal public health officials, private sector developmental disability researchers, advocates for individuals with autism spectrum disorder, and advocates for individuals with other developmental disabilities.
 
 (B) The center will develop or extend an area of special research expertise (including genetics, epigenetics, and epidemiological research related to environmental exposures), immunology, and other relevant research specialty areas.
 
@@ -38,21 +38,37 @@ The Secretary shall coordinate the Federal response to requests for assistance f
 
 In this part:
 
-#### (1) Other developmental disabilities ####
+#### (1) Indian tribe; tribal organization ####
+
+The terms "Indian tribe" and "tribal organization" have the meanings given such terms in section 1603 of title 25.
+
+#### (2) Other developmental disabilities ####
 
 The term "other developmental disabilities" has the meaning given the term "developmental disability" in section 15002(8) of this title.
 
-#### (2) State ####
+#### (3) State ####
 
 The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and the Trust Territory of the Pacific Islands.
 
 #### (e) Sunset ####
 
-This section shall not apply after September 30, 2019.
+This section shall not apply after September 30, 2024.
 
-(July 1, 1944, ch. 373, title III, §399AA, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2822; amended Pub. L. 112–32, §2(1), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §3, Aug. 8, 2014, 128 Stat. 1831.)
+(July 1, 1944, ch. 373, title III, §399AA, as added Pub. L. 109–416, §3(a), Dec. 19, 2006, 120 Stat. 2822; amended Pub. L. 112–32, §2(1), Sept. 30, 2011, 125 Stat. 361; Pub. L. 113–157, §3, Aug. 8, 2014, 128 Stat. 1831; Pub. L. 116–60, §3(a), Sept. 30, 2019, 133 Stat. 1111.)
 
 #### Amendments ####
+
+**2019**—Subsec. (a)(1). Pub. L. 116–60, §3(a)(1), substituted "adults with autism spectrum disorder" for "adults on autism spectrum disorder".
+
+Subsec. (a)(2). Pub. L. 116–60, §3(a)(2), substituted "State, local, and Tribal public health officials" for "State and local public health officials" and "and other developmental disabilities" for "or other developmental disabilities".
+
+Subsec. (a)(3). Pub. L. 116–60, §3(a)(3), substituted "a university, any other educational institution, an Indian tribe, or a tribal organization" for "a university, or any other educational institution".
+
+Subsec. (b)(2)(A). Pub. L. 116–60, §3(a)(4), substituted "State, local, and Tribal public health officials, private sector developmental disability researchers, advocates for individuals with autism spectrum disorder, and advocates for individuals with other developmental disabilities" for "relevant State and local public health officials, private sector developmental disability researchers, and advocates for individuals with developmental disabilities".
+
+Subsec. (d). Pub. L. 116–60, §3(a)(5), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+
+Subsec. (e). Pub. L. 116–60, §3(a)(6), substituted "2024" for "2019".
 
 **2014**—Subsec. (a)(1). Pub. L. 113–157, §3(1), inserted "for children and adults" after "reporting of State epidemiological data".
 
