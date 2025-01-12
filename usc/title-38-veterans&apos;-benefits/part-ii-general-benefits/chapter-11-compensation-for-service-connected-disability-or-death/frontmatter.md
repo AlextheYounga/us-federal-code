@@ -124,7 +124,7 @@ Sec.
 
 #### Amendments ####
 
-**2022**—Pub. L. 117–328, div. V, title IV, §404(a)(2), Dec. 29, 2022, 136 Stat. 5512, added item 1167 "Mental health consultations" at end of table of sections for this chapter.
+**2022**—Pub. L. 117–328, div. V, title IV, §404(a)(2), Dec. 29, 2022, 136 Stat. 5512, added item 1167 "Mental health consultations" at end of chapter analysis.
 
 Pub. L. 117–271, §1(b)(2), Dec. 27, 2022, 136 Stat. 4180, added item 1166 and struck out former item 1166 "Specialized teams to evaluate claims involving military sexual trauma".
 
@@ -246,4 +246,4 @@ Pub. L. 117–168, title VI, Aug. 10, 2022, 136 Stat. 1792, provided that:
 
 [<sup>1</sup> So in original. Another item 1167 follows item 1176.](#CHAPTER11_1)
 
-[<sup>2</sup> So in original. Second item 1167 added by Pub. L. 117–328 at end of analysis.](#CHAPTER11_2)
+[<sup>2</sup> So in original. Second section 1167 added by Pub. L. 117–328 in subchapter VI of this chapter, but item added at end of this analysis.](#CHAPTER11_2)
