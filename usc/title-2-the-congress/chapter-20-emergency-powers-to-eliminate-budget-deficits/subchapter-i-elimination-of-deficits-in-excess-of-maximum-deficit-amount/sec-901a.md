@@ -78,19 +78,25 @@ Except as provided by paragraphs (10), (11), (12), and (13), on the date of the 
 
 (A) On the date specified in paragraph (2) during each applicable year, OMB shall prepare and the President shall order a sequestration, effective upon issuance, of nonexempt direct spending to achieve the direct spending reduction calculated pursuant to paragraphs (3) and (4). When implementing the sequestration of direct spending pursuant to this paragraph, OMB shall follow the procedures specified in section 935 of this title, the exemptions specified in section 905 of this title, and the special rules specified in section 906 of this title, except that the percentage reduction for the Medicare programs specified in section 906(d) of this title shall not be more than 2 percent for a fiscal year.
 
-(B) On the dates OMB issues its sequestration preview reports for each of fiscal years 2022 through 2030, pursuant to section 904(c) of this title, the President shall order a sequestration, effective upon issuance such that—
+(B) On the dates OMB issues its sequestration preview reports for each of fiscal years 2022 through 2031, pursuant to section 904(c) of this title, the President shall order a sequestration, effective upon issuance such that—
 
 (i) the percentage reduction for nonexempt direct spending for the defense function is the same percent as the percentage reduction for nonexempt direct spending for the defense function for fiscal year 2021 calculated under paragraph (3)(B); and
 
 (ii) the percentage reduction for nonexempt direct spending for nondefense functions is the same percent as the percentage reduction for nonexempt direct spending for nondefense functions for fiscal year 2021 calculated under paragraph (4)(B).
 
-(C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2030 shall be applied to such payments so that—
+(C) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2022 shall be applied to such payments so that with respect to the period beginning on April 1, 2022, and ending on June 30, 2022, the payment reduction shall be 1.0 percent.
 
-(i) with respect to the first 5 ½ months in which such order is effective for such fiscal year, the payment reduction shall be 2.0 percent;
+(D) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2030 shall be applied to such payments so that—
 
-(ii) with respect to the 6-month period beginning on the day after the last day of the period described in clause (i) in which such order is so effective for such fiscal year, the payment reduction shall be 4.0 percent; and
+(i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 2.25 percent; and
 
-(iii) with respect to the remaining ½ month in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent.
+(ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 3 percent.
+
+(E) Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in section 906(d) of this title, the sequestration order of the President under such subparagraph for fiscal year 2031 shall be applied to such payments so that—
+
+(i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 4.0 percent; and
+
+(ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 0 percent.
 
 #### (7) Adjustment for Medicare ####
 
@@ -128,7 +134,7 @@ On the dates specified in paragraph (2), OMB shall submit a report to Congress c
 
 (B) Paragraph (5)(B) shall not be implemented for fiscal years 2020 and 2021.
 
-(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §222, Apr. 1, 2014, 128 Stat. 1077; Pub. L. 114–74, title I, §101(b), (c), Nov. 2, 2015, 129 Stat. 586; Pub. L. 115–123, div. C, title I, §30101(b), (c), Feb. 9, 2018, 132 Stat. 123; Pub. L. 116–37, title I, §101(d), title IV, §402, Aug. 2, 2019, 133 Stat. 1050, 1058; Pub. L. 116–136, div. A, title III, §3709(b), Mar. 27, 2020, 134 Stat. 422; Pub. L. 117–7, §1(b), Apr. 14, 2021, 135 Stat. 251.)
+(Pub. L. 99–177, title II, §251A, as added Pub. L. 112–25, title III, §302(a), Aug. 2, 2011, 125 Stat. 256; amended Pub. L. 112–240, title IX, §901(a), (c), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(b), (c), (d)(2), div. B, title II, §1205, Dec. 26, 2013, 127 Stat. 1167, 1168, 1200; Pub. L. 113–82, §1, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §222, Apr. 1, 2014, 128 Stat. 1077; Pub. L. 114–74, title I, §101(b), (c), Nov. 2, 2015, 129 Stat. 586; Pub. L. 115–123, div. C, title I, §30101(b), (c), Feb. 9, 2018, 132 Stat. 123; Pub. L. 116–37, title I, §101(d), title IV, §402, Aug. 2, 2019, 133 Stat. 1050, 1058; Pub. L. 116–136, div. A, title III, §3709(b), Mar. 27, 2020, 134 Stat. 422; Pub. L. 117–7, §1(b), Apr. 14, 2021, 135 Stat. 251; Pub. L. 117–58, div. I, §90001, Nov. 15, 2021, 135 Stat. 1341; Pub. L. 117–71, §2(b), Dec. 10, 2021, 135 Stat. 1506.)
 
 #### **Editorial Notes** ####
 
@@ -152,11 +158,27 @@ A prior section 901a, Pub. L. 99–177, title II, §251A, as added Pub. L. 103�
 
 #### Amendments ####
 
-**2021**—Par. (6)(C)(i). Pub. L. 117–7, §1(b)(1), substituted "first 5 ½ months" for "first 6 months" and "2.0 percent" for "4.0 percent" and struck out "and" at end.
+**2021**—Par. (6)(B). Pub. L. 117–58, §90001(1), substituted "2031" for "2030" in introductory provisions.
 
-Par. (6)(C)(ii). Pub. L. 117–7, §1(b)(2), substituted "6-month period beginning on the day after the last day of the period described in clause (i)" for "second 6 months" and "4.0 percent; and" for "0.0 percent."
+Par. (6)(C). Pub. L. 117–71, §2(b)(2), added subpar. (C). Former subpar. (C) redesignated (E).
 
-Par. (6)(C)(iii). Pub. L. 117–7, §1(b)(3), added cl. (iii).
+Pub. L. 117–58, §90001(2)(A), substituted "2031" for "2030" in introductory provisions.
+
+Par. (6)(C)(i). Pub. L. 117–58, §90001(2)(B), substituted "6" for "5 ½", "4.0" for "2.0", and "; and" for semicolon at end.
+
+Pub. L. 117–7, §1(b)(1), substituted "first 5 ½ months" for "first 6 months" and "2.0 percent" for "4.0 percent" and struck out "and" at end.
+
+Par. (6)(C)(ii). Pub. L. 117–58, §90001(2)(C), substituted "second 6 months" for "6-month period beginning on the day after the last day of the period described in clause (i)", "0" for "4.0", and a period for "; and" at end.
+
+Pub. L. 117–7, §1(b)(2), substituted "6-month period beginning on the day after the last day of the period described in clause (i)" for "second 6 months" and "4.0 percent; and" for "0.0 percent."
+
+Par. (6)(C)(iii). Pub. L. 117–58, §90001(2)(D), struck out cl. (iii) which read as follows: "with respect to the remaining ½ month in which such order is so effective for such fiscal year, the payment reduction shall be 0.0 percent."
+
+Pub. L. 117–7, §1(b)(3), added cl. (iii).
+
+Par. (6)(D). Pub. L. 117–71, §2(b)(2), added subpar. (D).
+
+Par. (6)(E). Pub. L. 117–71, §2(b)(1), redesignated subpar. (C) as (E).
 
 **2020**—Par. (6)(B). Pub. L. 116–136, §3709(b)(1), substituted "through 2030" for "through 2029" in introductory provisions.
 
@@ -232,9 +254,11 @@ Par. (11). Pub. L. 113–67, §101(d)(2)(C), redesignated par. (11) as (9).
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
-#### Temporary Suspension of Medicare Sequestration ####
+#### Temporary Suspension and Adjustment of Medicare Sequestration ####
 
-Pub. L. 116–136, div. A, title III, §3709(a), Mar. 27, 2020, 134 Stat. 421, as amended by Pub. L. 116–260, div. N, title I, §102(a), Dec. 27, 2020, 134 Stat. 1950; Pub. L. 117–7, §1(a)(1), Apr. 14, 2021, 135 Stat. 251, provided that: "During the period beginning on May 1, 2020 and ending on December 31, 2021, the Medicare programs under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) shall be exempt from reduction under any sequestration order issued before, on, or after the date of enactment of this Act [Mar. 27, 2020]."
+Pub. L. 116–136, div. A, title III, §3709(a), Mar. 27, 2020, 134 Stat. 421, as amended by Pub. L. 116–260, div. N, title I, §102(a), Dec. 27, 2020, 134 Stat. 1950; Pub. L. 117–7, §1(a)(1), Apr. 14, 2021, 135 Stat. 251; Pub. L. 117–71, §2(a)(1), Dec. 10, 2021, 135 Stat. 1506, provided that: "During the period beginning on May 1, 2020 and ending on March 31, 2022, the Medicare programs under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) shall be exempt from reduction under any sequestration order issued before, on, or after the date of enactment of this Act [Mar. 27, 2020]."
+
+[Pub. L. 117–71, §2(a)(2), Dec. 10, 2021, 135 Stat. 1506, provided that: "The amendments made by paragraph (1) [amending section 3709(a) of Pub. L. 116–136, set out above] shall take effect as if enacted as part of the CARES Act (Public Law 116–136)."]
 
 [Pub. L. 117–7, §1(a)(2), Apr. 14, 2021, 135 Stat. 251, provided that: "The amendment made by paragraph (1) [amending section 3709(a) of Pub. L. 116–136, set out above] shall take effect as if enacted as part of the CARES Act (Public Law 116–136)."]
 
@@ -252,17 +276,19 @@ Pub. L. 112–240, title IX, §901(e), Jan. 2, 2013, 126 Stat. 2370, provided th
 
 #### **Executive Documents** ####
 
-#### Sequestration Order for Fiscal Year 2021 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended ####
+#### Sequestration Order for Fiscal Year 2022 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended ####
 
-Order of President of the United States, dated Feb. 10, 2020, 85 F.R. 8129, provided:
+Order of President of the United States, dated May 28, 2021, 86 F.R. 29927, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2020, direct spending budgetary resources for fiscal year 2021 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of February 10, 2020.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2021, direct spending budgetary resources for fiscal year 2022 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of May 28, 2021.
 
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of February 10, 2020, prepared pursuant to section 251A(9) of the Act.
+All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of May 28, 2021, prepared pursuant to section 251A(9) of the Act.
 
-Donald J. Trump.
+J.R. Biden, Jr.
 
 Sequestration orders pursuant to this section for prior fiscal years were contained in the following:
+
+**2021**—Order of President of the United States, dated Feb. 10, 2020, 85 F.R. 8129.
 
 **2020**—Order of President of the United States, dated Mar. 18, 2019, 84 F.R. 10401.
 

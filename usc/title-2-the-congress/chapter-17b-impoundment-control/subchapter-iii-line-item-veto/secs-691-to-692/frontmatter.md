@@ -26,7 +26,7 @@ Section 692, Pub. L. 104–130, §3, Apr. 9, 1996, 110 Stat. 1211, provided for 
 
 #### Constitutionality ####
 
-For information regarding constitutionality of part C of title X of Pub. L. 93–344, as added by section 2(a) of Pub. L. 104–130, which was classified generally to this subchapter, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of part C of title X of Pub. L. 93–344, as added by section 2(a) of Pub. L. 104–130, which was classified generally to this subchapter (sections 691 et seq. of this title), see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Effective and Termination Dates ####
 
