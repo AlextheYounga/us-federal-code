@@ -16,7 +16,7 @@ If awarded a contract under section 637(a), 637(m), 644(a), 657a, or 657f of thi
 
 (C) may not expend on subcontractors, with respect to the amount determined under subparagraph (B), more than 50 percent of that amount; and
 
-(4) in the case of a contract for supplies from a regular dealer in such supplies, shall supply the product of a domestic small business manufacturer or processor, unless a waiver of such requirement is granted—
+(4) in the case of a contract which is principally for supplies from a regular dealer in such supplies, and which is not a contract principally for services or construction, shall supply the product of a domestic small business manufacturer or processor, unless a waiver of such requirement is granted—
 
 (A) by the Administrator, after reviewing a determination by the applicable contracting officer that no small business manufacturer or processor can reasonably be expected to offer a product meeting the specifications (including period for performance) required by the contract; or
 
@@ -82,7 +82,11 @@ The term "similarly situated entity" means a subcontractor that—
 
 (F) if a subcontractor for a small business concern owned and controlled by service-disabled veterans, is such a concern.
 
-(Pub. L. 85–536, §2[46], as added Pub. L. 112–239, div. A, title XVI, §1651, Jan. 2, 2013, 126 Stat. 2079.)
+(Pub. L. 85–536, §2[46], as added Pub. L. 112–239, div. A, title XVI, §1651, Jan. 2, 2013, 126 Stat. 2079; amended Pub. L. 114–92, div. A, title VIII, §864(b), Nov. 25, 2015, 129 Stat. 927.)
+
+#### Amendments ####
+
+**2015**—Subsec. (a)(4). Pub. L. 114–92 substituted "which is principally for supplies from a regular dealer in such supplies, and which is not a contract principally for services or construction" for "for supplies from a regular dealer in such supplies" in introductory provisions.
 
 #### Inapplicability of Requirement To Review and Justify Certain Contracts ####
 

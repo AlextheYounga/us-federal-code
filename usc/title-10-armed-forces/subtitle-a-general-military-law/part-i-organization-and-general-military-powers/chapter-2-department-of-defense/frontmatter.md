@@ -24,21 +24,21 @@ Sec.
 
 117. Readiness reporting system: establishment; reporting to congressional committees.
 
-118. Quadrennial defense review.
+118. Defense Strategy Review.
 
 118a. Quadrennial quality of life review.
 
-118b. Quadrennial roles and missions review.
+[118b. Repealed.]
 
 119. Special access programs: congressional oversight.
 
-#### Amendment of Analysis ####
-
-Pub. L. 113–291, div. A, title X, §1072(a)(2), (b)(2), (c), Dec. 19, 2014, 128 Stat. 3516, 3517, provided that, effective Oct. 1, 2015, this analysis is amended by substituting "Defense Strategy Review" for "Quadrennial defense review" in item 118 and by striking the item relating to section 118b. See 2014 Amendment note below.
-
 #### Amendments ####
 
-**2014**—Pub. L. 113–291, div. A, title X, §1072(a)(2), (b)(2), Dec. 19, 2014, 128 Stat. 3516, 3517, substituted "Defense Strategy Review" for "Quadrennial defense review" in item 118 and struck out item 118b "Quadrennial roles and missions review".
+**2015**—Pub. L. 114–92, div. A, title X, §1081(b)(3), Nov. 25, 2015, 129 Stat. 1001, amended directory language of Pub. L. 113–291, §1072(a)(2). See 2014 Amendment note below.
+
+**2014**—Pub. L. 113–291, div. A, title X, §1072(b)(2), Dec. 19, 2014, 128 Stat. 3517, struck out item 118b "Quadrennial roles and missions review".
+
+Pub. L. 113–291, div. A, title X, §1072(a)(2), Dec. 19, 2014, 128 Stat. 3516, as amended by Pub. L. 114–92, div. A, title X, §1081(b)(3), Nov. 25, 2015, 129 Stat. 1001, substituted "Defense Strategy Review" for "Quadrennial defense review" in item 118.
 
 **2011**—Pub. L. 112–81, div. A, title IX, §935(a)(2), Dec. 31, 2011, 125 Stat. 1545, substituted "Biennial strategic workforce plan" for "Annual strategic workforce plan" in item 115b.
 

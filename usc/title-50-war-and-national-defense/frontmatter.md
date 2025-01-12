@@ -1426,11 +1426,11 @@ See, also, notes under the Neutrality Act of 1939 (22 U.S.C. 441 et seq.).
 
 #### National Emergency of 1939 ####
 
-Proc. No. 2352, Sept. 8, 1939, 4 F.R. 3851, 54 Stat. 2643, proclaimed national emergency in connection with enforcement of neutrality which was terminated by Proc. No. 2974, set out below.
+Proc. No. 2352, Sept. 8, 1939, 4 F.R. 3851, 54 Stat. 2643, which proclaimed national emergency in connection with enforcement of neutrality, was terminated by Proc. No. 2974, set out below.
 
 #### National Emergency of 1941 ####
 
-Proc. No. 2487, May 27, 1941, 6 F.R. 2617, 55 Stat. 1647, proclaimed an unlimited national emergency which was terminated by Proc. No. 2974, set out below.
+Proc. No. 2487, May 27, 1941, 6 F.R. 2617, 55 Stat. 1647, which proclaimed an unlimited national emergency relating to aggression directed toward the Western Hemisphere, was terminated by Proc. No. 2974, set out below.
 
 #### Proc. No. 2685. Removal of Alien Enemies ####
 
@@ -1476,7 +1476,7 @@ Harry S. Truman.
 
 Proc. No. 2974, Apr. 28, 1952, 17 F.R. 3813, 66 Stat. c31, provided in part:
 
-NOW, THEREFORE, I, HARRY S. TRUMAN, President of the United States of America, do proclaim that the national emergencies declared to exist by the proclamations of September 8, 1939 [set out above], and May 27, 1941 [set out above], terminated this day upon the entry into force of the Treaty of Peace with Japan.
+NOW, THEREFORE, I, HARRY S. TRUMAN, President of the United States of America, do proclaim that the national emergencies declared to exist by the proclamations of September 8, 1939 [see above], and May 27, 1941 [see above], terminated this day upon the entry into force of the Treaty of Peace with Japan.
 
 Nothing in this proclamation shall be construed to affect Proclamation No. 2914 [set out above], issued by the President on December 16, 1950, declaring that world conquest by communist imperialism is the goal of the forces of aggression that have been loosed upon the world, and proclaiming the existence of a national emergency requiring that the military, naval, air, and civilian defenses of this country be strengthened as speedily as possible to the end that we may be able to repel any and all threats against our national security and to fulfill our responsibilities in the efforts being made through the United Nations and otherwise to bring about lasting peace; and nothing herein shall be construed to affect the continuation of the said emergency of September 8, 1939, as specified in the Emergency Powers Interim Continuation Act, approved April 14, 1952 (Public Law 313—82d Congress), for the purpose of continuing the use of property held under the Act of October 14, 1940, ch. 862, 54 Stat. 1125, as amended [42 U.S.C. 1521 to 1524, 1531 to 1536, 1541 to 1553, 1561 to 1564, 1571 to 1576, 1581 to 1590].
 

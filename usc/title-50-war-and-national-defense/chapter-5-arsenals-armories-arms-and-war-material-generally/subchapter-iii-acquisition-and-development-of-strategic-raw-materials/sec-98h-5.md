@@ -38,7 +38,7 @@ The Secretary shall also include in each report under this section an examinatio
 
 The President shall submit with each report under this section a statement of the plans of the President for meeting the recommendations of the Secretary set forth in the report.
 
-(June 7, 1939, ch. 190, §14, as added Pub. L. 100–180, div. C, title II, §3202(c), Dec. 4, 1987, 101 Stat. 1246; amended Pub. L. 102–190, div. C, title XXXIII, §3313(b)(1), (2), Dec. 5, 1991, 105 Stat. 1585; Pub. L. 103–160, div. C, title XXXIII, §3314, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 104–201, div. C, title XXXIII, §3313(a), Sept. 23, 1996, 110 Stat. 2856.)
+(June 7, 1939, ch. 190, §14, as added Pub. L. 100–180, div. C, title II, §3202(c), Dec. 4, 1987, 101 Stat. 1246; amended Pub. L. 102–190, div. C, title XXXIII, §3313(b)(1), (2), Dec. 5, 1991, 105 Stat. 1585; Pub. L. 103–160, div. C, title XXXIII, §3314, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 104–201, div. C, title XXXIII, §3311(a), Sept. 23, 1996, 110 Stat. 2856.)
 
 #### Amendments ####
 

@@ -14,11 +14,13 @@
 
 (d) Regulations.—The Secretary concerned shall prescribe regulations to carry out this section. Regulations prescribed by the Secretary of a military department shall be subject to the approval of the Secretary of Defense.
 
-(e) Termination.—No reimbursement may be provided under this section for travel that occurs after December 31, 2015.
+(e) Termination.—No reimbursement may be provided under this section for travel that occurs after December 31, 2016.
 
-(Added Pub. L. 110–181, div. A, title VI, §631(a)(1), Jan. 28, 2008, 122 Stat. 153, §408a; amended Pub. L. 111–383, div. A, title VI, §621, Jan. 7, 2011, 124 Stat. 4238; renumbered §478a and amended Pub. L. 112–81, div. A, title VI, §§621, 631(d)(2), Dec. 31, 2011, 125 Stat. 1452, 1460; Pub. L. 112–239, div. A, title VI, §611(7), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §611(7), title X, §1091(b)(3), Dec. 26, 2013, 127 Stat. 780, 876; Pub. L. 113–291, div. A, title VI, §611(7), Dec. 19, 2014, 128 Stat. 3399.)
+(Added Pub. L. 110–181, div. A, title VI, §631(a)(1), Jan. 28, 2008, 122 Stat. 153, §408a; amended Pub. L. 111–383, div. A, title VI, §621, Jan. 7, 2011, 124 Stat. 4238; renumbered §478a and amended Pub. L. 112–81, div. A, title VI, §§621, 631(d)(2), Dec. 31, 2011, 125 Stat. 1452, 1460; Pub. L. 112–239, div. A, title VI, §611(7), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §611(7), title X, §1091(b)(3), Dec. 26, 2013, 127 Stat. 780, 876; Pub. L. 113–291, div. A, title VI, §611(7), Dec. 19, 2014, 128 Stat. 3399; Pub. L. 114–92, div. A, title VI, §611(7), Nov. 25, 2015, 129 Stat. 837.)
 
 #### Amendments ####
+
+**2015**—Subsec. (e). Pub. L. 114–92 substituted "December 31, 2016" for "December 31, 2015".
 
 **2014**—Subsec. (e). Pub. L. 113–291 substituted "December 31, 2015" for "December 31, 2014".
 

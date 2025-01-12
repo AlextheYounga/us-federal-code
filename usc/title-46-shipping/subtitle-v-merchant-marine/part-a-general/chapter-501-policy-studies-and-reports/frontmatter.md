@@ -22,8 +22,12 @@ Sec.
 
 50110. Securing preference to vessels of the United States.
 
-50111. Reports to Congress.
+50111. Submission of annual MARAD authorization request.
 
 50112. National Maritime Enhancement Institutes.
 
 50113. Use and performance reports by operators of vessels.
+
+#### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title X, §1074(c)(2), Nov. 25, 2015, 129 Stat. 997, substituted "Submission of annual MARAD authorization request" for "Reports to Congress" in item 50111.

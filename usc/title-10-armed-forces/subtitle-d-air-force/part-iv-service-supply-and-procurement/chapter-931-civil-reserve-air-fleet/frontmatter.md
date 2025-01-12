@@ -16,6 +16,8 @@ Sec.
 
 9516. Airlift service.
 
+9517. Level of Readiness 1 of Civil Reserve Air Fleet carriers.
+
 #### Prior Provisions ####
 
 Chapter was comprised of subchapter I, sections 9501 to 9507, and subchapter II, sections 9511 to 9513, prior to amendment by Pub. L. 103–160, div. A, title VIII, §828(a)(8)(A)(ii), Nov. 30, 1993, 107 Stat. 1714, which struck out headings for subchapters I and II.
@@ -36,6 +38,8 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 
 #### Amendments ####
 
+**2015**—Pub. L. 114–92, div. A, title X, §1085(b)(2), Nov. 25, 2015, 129 Stat. 1005, added item 9517.
+
 **2014**—Pub. L. 113–291, div. A, title X, §§1042(b), 1045(b), Dec. 19, 2014, 128 Stat. 3493, 3494, struck out item 9513 "Use of military installations by Civil Reserve Air Fleet contractors" and added item 9516.
 
 **2011**—Pub. L. 112–81, div. A, title III, §366(b), Dec. 31, 2011, 125 Stat. 1381, added item 9511a.
@@ -51,3 +55,5 @@ Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale 
 **1989**—Pub. L. 101–189, div. A, title XVI, §1636(c)(2), Nov. 29, 1989, 103 Stat. 1610, substituted "Contracts for the inclusion or incorporation of defense features" for "Contracts to modify aircraft: cargo-convertible features" in item 9512 and "Commitment" for "Contracts to modify aircraft: commitment" in item 9513.
 
 **1981**—Pub. L. 97–86, title IX, §915, Dec. 1, 1981, 95 Stat. 1125, added analysis of subchapters, subchapter headings "SUBCHAPTER I—GENERAL" and "SUBCHAPTER II—CIVIL RESERVE AIR FLEET", and the analysis of sections for subchapter II consisting of items 9511, 9512, and 9513.
+
+[<sup>1</sup> So in original. Probably should be "readiness".](#CHAPTER931_1)

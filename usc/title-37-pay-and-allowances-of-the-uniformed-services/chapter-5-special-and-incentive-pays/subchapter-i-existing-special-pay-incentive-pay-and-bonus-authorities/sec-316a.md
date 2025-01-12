@@ -14,27 +14,21 @@
 
 (e) Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense.
 
-(f) Reports.—Not later than April 1, 2012, and annually thereafter through 2014, the Secretary of Defense shall submit to the Director of the Office of Management and Budget, and to Congress, a report on the payment of incentive pay under this section during the preceding fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
+(f) Termination of Authority.—No incentive pay may be paid under this section after December 31, 2016.
 
-(1) The number of individuals paid incentive pay under this section, the number of individuals commencing receipt of incentive pay under this section, and the number of individuals ceasing receipt of incentive pay under this section.
-
-(2) The amount of incentive pay paid to individuals under this section.
-
-(3) The aggregate amount recouped under section 303a(e) of this title in connection with receipt of incentive pay under this section.
-
-(4) The languages for which incentive pay was paid under this section, including the total amount paid for each such language.
-
-(5) The effectiveness of incentive pay under this section in assisting the Department of Defense in securing proficiency in foreign languages of strategic interest to the Department of Defense, including a description of how recipients of pay under this section are assigned and utilized following completion of the program of study.
-
-(g) Termination of Authority.—No incentive pay may be paid under this section after December 31, 2015.
-
-(Added Pub. L. 110–417, [div. A], title VI, §619(b)(1), Oct. 14, 2008, 122 Stat. 4488; amended Pub. L. 112–81, div. A, title X, §1065(b), Dec. 31, 2011, 125 Stat. 1588; Pub. L. 113–66, div. A, title VI, §616, Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §615(5), Dec. 19, 2014, 128 Stat. 3401.)
+(Added Pub. L. 110–417, [div. A], title VI, §619(b)(1), Oct. 14, 2008, 122 Stat. 4488; amended Pub. L. 112–81, div. A, title X, §1065(b), Dec. 31, 2011, 125 Stat. 1588; Pub. L. 113–66, div. A, title VI, §616, Dec. 26, 2013, 127 Stat. 781; Pub. L. 113–291, div. A, title VI, §615(5), Dec. 19, 2014, 128 Stat. 3401; Pub. L. 114–92, div. A, title VI, §615(5), title X, §1072(a), Nov. 25, 2015, 129 Stat. 839, 994.)
 
 #### Prior Provisions ####
 
 A prior section 316a, added Pub. L. 102–190, div. A, title VI, §636(a), Dec. 5, 1991, 105 Stat. 1382, related to waiver of certification requirement, prior to repeal by Pub. L. 108–375, div. A, title VI, §620(b)(1), Oct. 28, 2004, 118 Stat. 1954.
 
 #### Amendments ####
+
+**2015**—Subsec. (f). Pub. L. 114–92, §1072(a), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to annual reports on the payment of incentive pay under this section.
+
+Subsec. (g). Pub. L. 114–92, §1072(a)(2), redesignated subsec. (g) as (f).
+
+Pub. L. 114–92, §615(5), substituted "December 31, 2016" for "December 31, 2015".
 
 **2014**—Subsec. (g). Pub. L. 113–291 substituted "December 31, 2015" for "December 31, 2014".
 

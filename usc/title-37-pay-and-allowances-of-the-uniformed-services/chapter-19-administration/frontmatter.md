@@ -30,9 +30,11 @@ Sec.
 
 1014. Payment date for pay and allowances.
 
-[1015. Repealed.]
+1015. Recordation of installment payment obligations for incentive pays and similar benefits.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title VI, §662(b), Nov. 25, 2015, 129 Stat. 859, added item 1015.
 
 **2006**—Pub. L. 109–364, div. A, title X, §1046(b)(2), Oct. 17, 2006, 120 Stat. 2394, struck out item 1015 "Annual report on effects of recruitment and retention initiatives".
 

@@ -114,6 +114,8 @@ Sec.
 
 2077. Unauthorized dealings in special nuclear material.
 
+2077a. Interagency review of applications for the transfer of United States civil nuclear technology.
+
 2078. Congressional review of guaranteed purchase price, guaranteed purchase price period, and criteria for waiver of charges.
 
 #### SUBCHAPTER VI—SOURCE MATERIAL ####

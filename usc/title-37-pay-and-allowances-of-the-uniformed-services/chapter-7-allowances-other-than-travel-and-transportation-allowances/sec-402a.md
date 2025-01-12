@@ -10,7 +10,7 @@
 
 (B) $1,100.
 
-(b) Members Entitled to Allowance.—(1) Subject to subsection (d), a member of the armed forces with dependents is entitled to receive the supplemental subsistence allowance if the Secretary concerned determines that the member's income, together with the income of the rest of the member's household (if any), is within the highest income standard of eligibility, as then in effect under section 5(c) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(c)) and without regard to paragraph (1) of such section, for participation in the supplemental nutrition assistance program.
+(b) Members Entitled to Allowance.—(1) Subject to subsection (d) and paragraph (4), a member of the armed forces with dependents is entitled to receive the supplemental subsistence allowance if the Secretary concerned determines that the member's income, together with the income of the rest of the member's household (if any), is within the highest income standard of eligibility, as then in effect under section 5(c) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(c)) and without regard to paragraph (1) of such section, for participation in the supplemental nutrition assistance program.
 
 (2) In determining whether a member meets the eligibility criteria under paragraph (1), the Secretary concerned shall take into consideration the amount of the basic allowance for housing that the member receives under section 403 of this title or would otherwise receive under such section, in the case of a member who is not entitled to that allowance as a result of assignment to quarters of the United States or a housing facility under the jurisdiction of a uniformed service.
 
@@ -21,6 +21,8 @@
 (B) the amount of any special pay that is payable to the member under section 310 of this title, relating to duty subject to hostile fire or imminent danger; or
 
 (C) the amount of any family separation allowance that is payable to the member under section 427 of this title.
+
+(4) After September 30, 2016, a member is eligible for a supplemental subsistence allowance under this section only if the member is serving outside the United States, the Commonwealth of Puerto Rico, the United States Virgin Islands, or Guam.
 
 (c) Application for Allowance.—To request the supplemental subsistence allowance, a member shall submit an application to the Secretary concerned in such form and containing such information as the Secretary concerned may prescribe. A member applying for the supplemental subsistence allowance shall furnish such evidence regarding the member's satisfaction of the eligibility criteria under subsection (b) as the Secretary concerned may require.
 
@@ -60,7 +62,7 @@
 
 (3) The term "supplemental nutrition assistance program" means the program established pursuant to section 4 of the Food and Nutrition Act of 2008 (7 U.S.C. 2013).
 
-(Added Pub. L. 106–398, §1 [[div. A], title VI, §604(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–145; amended Pub. L. 107–107, div. A, title VI, §604(d), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §602(a), (b), Oct. 28, 2004, 118 Stat. 1943; Pub. L. 109–163, div. A, title VI, §608, Jan. 6, 2006, 119 Stat. 3289; Pub. L. 109–364, div. A, title X, §1071(c)(6), (e)(4), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(T), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(T), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–84, div. A, title VI, §602(a), Oct. 28, 2009, 123 Stat. 2347; Pub. L. 112–81, div. A, title X, §1063(a), Dec. 31, 2011, 125 Stat. 1586.)
+(Added Pub. L. 106–398, §1 [[div. A], title VI, §604(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A–145; amended Pub. L. 107–107, div. A, title VI, §604(d), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–375, div. A, title VI, §602(a), (b), Oct. 28, 2004, 118 Stat. 1943; Pub. L. 109–163, div. A, title VI, §608, Jan. 6, 2006, 119 Stat. 3289; Pub. L. 109–364, div. A, title X, §1071(c)(6), (e)(4), Oct. 17, 2006, 120 Stat. 2401; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(T), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(T), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–84, div. A, title VI, §602(a), Oct. 28, 2009, 123 Stat. 2347; Pub. L. 112–81, div. A, title X, §1063(a), Dec. 31, 2011, 125 Stat. 1586; Pub. L. 114–92, div. A, title VI, §602, Nov. 25, 2015, 129 Stat. 836.)
 
 #### References in Text ####
 
@@ -79,6 +81,10 @@ The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (f)(3)
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments ####
+
+**2015**—Subsec. (b)(1). Pub. L. 114–92, §602(1), inserted "and paragraph (4)" after "subsection (d)".
+
+Subsec. (b)(4). Pub. L. 114–92, §602(2), added par. (4).
 
 **2011**—Subsecs. (f) to (h). Pub. L. 112–81 redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: "Not later than March 1 of each year after 2001, the Secretary of Defense shall submit to Congress a report specifying the number of members of the armed forces who received, at any time during the preceding year, the supplemental subsistence allowance. In preparing the report, the Secretary of Defense shall consult with the Secretary of Homeland Security, with respect to the Coast Guard."
 

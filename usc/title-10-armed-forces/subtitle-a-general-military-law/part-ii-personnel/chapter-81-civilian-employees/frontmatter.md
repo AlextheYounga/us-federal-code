@@ -60,7 +60,13 @@ Sec.
 
 1599d. Financial management positions: authority to prescribe professional certification and credential standards.
 
+1599e. Probationary period for employees.
+
+1599f. United States Cyber Command recruitment and retention.
+
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title XI, §§1105(a)(2), 1107(c), Nov. 25, 2015, 129 Stat. 1024, 1027, added items 1599e and 1599f.
 
 **2011**—Pub. L. 112–81, div. A, title X, §1051(b), Dec. 31, 2011, 125 Stat. 1582, added item 1599d and struck out former item 1599d "Professional accounting positions: authority to prescribe certification and credential standards".
 

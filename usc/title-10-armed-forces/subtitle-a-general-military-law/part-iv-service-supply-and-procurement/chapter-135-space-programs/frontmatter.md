@@ -22,7 +22,13 @@ Sec.
 
 2279. Foreign commercial satellite services.
 
+2279a. Principal Advisor on Space Control.
+
+2279b. Council on Oversight of the Department of Defense Positioning, Navigation, and Timing Enterprise.
+
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title XVI, §§1602(b), 1603(b), Nov. 25, 2015, 129 Stat. 1096, 1098, added items 2279a and 2279b.
 
 **2013**—Pub. L. 113–66, div. A, title IX, §911(b), title XVI, §1602(a)(2), Dec. 26, 2013, 127 Stat. 823, 942, added items 2278 and 2279.
 

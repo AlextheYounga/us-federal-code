@@ -18,6 +18,10 @@ Sec.
 
 2922g. Preference for motor vehicles using electric or hybrid propulsion systems.
 
+2922h. Limitation on procurement of drop-in fuels.
+
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title III, §311(b), Nov. 25, 2015, 129 Stat. 787, added item 2922h.
 
 **2009**—Pub. L. 111–84, div. B, title XXVIII, §2844(b), Oct. 28, 2009, 123 Stat. 2682, added item 2922g.

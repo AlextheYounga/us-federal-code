@@ -52,7 +52,7 @@
 
 (D) specific steps that the Department has taken or plans to take to ensure that such workforce is managed in compliance with the requirements of section 129 of this title and the policies and procedures established under section 129a of this title.
 
-(d) Defense Acquisition Workforce.—(1) Each strategic workforce plan under subsection (a) shall specifically address the shaping and improvement of the defense acquisition workforce, including both military and civilian personnel.
+(d) Defense Acquisition Workforce.—(1) Each strategic workforce plan under subsection (a) shall specifically address the shaping and improvement of the military, civilian, and contractor personnel that directly support the acquisition processes of the Department of Defense, including persons serving in acquisition-related positions designated by the Secretary of Defense under section 1721 of this title.
 
 (2) For purposes of paragraph (1), each plan shall include, with respect to the defense acquisition workforce—
 
@@ -64,9 +64,13 @@
 
 (D) a plan for funding needed improvements in the acquisition workforce of the Department through the period of the future-years defense program, including—
 
-(i) the funding programmed for defense acquisition workforce improvements, including a specific identification of funding provided in the Department of Defense Acquisition Workforce Fund established under section 1705 of this title, along with a description of how such funding is being implemented and whether it is being fully used; and
+(i) the funding programmed for defense acquisition workforce improvements, including a specific identification of funding provided in the Department of Defense Acquisition Workforce Fund established under section 1705 of this title, along with a description of how such funding is being implemented and whether it is being fully used;
 
-(ii) a description of any continuing shortfalls in funding available for the acquisition workforce.
+(ii) a description of steps that will be taken to address any new or expanded critical skills and competencies the civilian employee workforce will need to address recent trends in defense acquisition, emerging best practices, changes in the Government and commercial marketplace, and new requirements established in law or regulation; and
+
+(iii) a description of any continuing shortfalls in funding available for the acquisition workforce.
+
+(3) For the purposes of paragraph (1), contractor personnel shall be treated as directly supporting the acquisition processes of the Department if, and to the extent that, such contractor personnel perform functions in support of personnel in Department of Defense positions designated by the Secretary of Defense under section 1721 of this title.
 
 (e) Financial Management Workforce.—(1) Each strategic workforce plan under subsection (a) shall specifically address the shaping and improvement of the financial management workforce of the Department of Defense, including both military and civilian personnel of that workforce.
 
@@ -116,7 +120,7 @@
 
 (3) The term "acquisition workforce" includes individuals designated under section 1721 of this title as filling acquisition positions.
 
-(Added Pub. L. 111–84, div. A, title XI, §1108(a)(1), Oct. 28, 2009, 123 Stat. 2488; amended Pub. L. 112–81, div. A, title IX, §935(a)(1), (b), (c), title X, §1053, Dec. 31, 2011, 125 Stat. 1545, 1582; Pub. L. 113–291, div. A, title IX, §911, Dec. 19, 2014, 128 Stat. 3472.)
+(Added Pub. L. 111–84, div. A, title XI, §1108(a)(1), Oct. 28, 2009, 123 Stat. 2488; amended Pub. L. 112–81, div. A, title IX, §935(a)(1), (b), (c), title X, §1053, Dec. 31, 2011, 125 Stat. 1545, 1582; Pub. L. 113–291, div. A, title IX, §911, Dec. 19, 2014, 128 Stat. 3472; Pub. L. 114–92, div. A, title VIII, §841(b), Nov. 25, 2015, 129 Stat. 914.)
 
 #### References in Text ####
 
@@ -129,6 +133,12 @@ Section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal
 A prior section 115b was renumbered section 10541 of this title.
 
 #### Amendments ####
+
+**2015**—Subsec. (d)(1). Pub. L. 114–92, §841(b)(1), substituted "the military, civilian, and contractor personnel that directly support the acquisition processes of the Department of Defense, including persons serving in acquisition-related positions designated by the Secretary of Defense under section 1721 of this title" for "the defense acquisition workforce, including both military and civilian personnel".
+
+Subsec. (d)(2)(D)(ii), (iii). Pub. L. 114–92, §841(b)(2), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+Subsec. (d)(3). Pub. L. 114–92, §841(b)(3), added par. (3).
 
 **2014**—Subsec. (b)(2)(D), (E). Pub. L. 113–291, §911(b)(1), substituted "subsection (h)(1) or (h)(2)" for "subsection (f)(1)".
 

@@ -171,3 +171,11 @@ Pub. L. 97–214, §6(a)(2), July 12, 1982, 96 Stat. 172, added item 2394.
 **1966**—Pub. L. 89–696, §1(2), Oct. 19, 1966, 80 Stat. 1057, added item 2389.
 
 **1958**—Pub. L. 85–861, §1(47), Sept. 2, 1958, 72 Stat. 1458, added items 2387 and 2388.
+
+#### Prohibition on Reliance on China and Russia for Space-based Weather Data ####
+
+Pub. L. 114–92, div. A, title XVI, §1614, Nov. 25, 2015, 129 Stat. 1105, provided that:
+
+"(a) Prohibition.—The Secretary of Defense shall ensure that the Department of Defense does not rely on, or in the future plan to rely on, space-based weather data provided by the Government of the People's Republic of China, the Government of the Russian Federation, or an entity owned or controlled by either such government for national security purposes.
+
+"(b) Certification.—Not later than 90 days after the date of the enactment of this Act [Nov. 25, 2015], the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a certification that the Secretary is in compliance with the prohibition under subsection (a)."

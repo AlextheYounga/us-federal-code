@@ -4,7 +4,7 @@ Sec.
 
 2351. Availability of appropriations.
 
-2352. Defense Advanced Research Projects Agency: biennial strategic plan.
+[2352. Repealed.]
 
 2353. Contracts: acquisition, construction, or furnishing of test facilities and equipment.
 
@@ -28,23 +28,27 @@ Sec.
 
 [2363. Repealed.]
 
-2364. Coordination and communication of defense research activities.
+2364. Coordination and communication of defense research activities and technology domain awareness.
 
 2365. Global Research Watch Program.
 
 2366. Major systems and munitions programs: survivability testing and lethality testing required before full-scale production.
 
-2366a. Major defense acquisition programs: certification required before Milestone A approval.
+2366a. Major defense acquisition programs: determination required before Milestone A approval.
 
 2366b. Major defense acquisition programs: certification required before Milestone B approval.
 
 2367. Use of federally funded research and development centers.
 
-[2368 to 2370a. Repealed.]
+2368. Centers for Science, Technology, and Engineering Partnership.
+
+[2369 to 2370a. Repealed.]
 
 2371. Research projects: transactions other than contracts and grants.
 
 2371a. Cooperative research and development agreements under Stevenson-Wydler Technology Innovation Act of 1980.
+
+2371b. Authority of the Department of Defense to carry out certain prototype projects.
 
 2372. Independent research and development and bid and proposal costs: payments to contractors.
 
@@ -57,6 +61,8 @@ Sec.
 [2374b. Repealed.]
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title II, §§211(b), 214(b), title VIII, §§815(a)(2), 823(b), title X, §1078(c)(2), Nov. 25, 2015, 129 Stat. 767, 769, 896, 903, 999, added items 2368 and 2371b, substituted "Coordination and communication of defense research activities and technology domain awareness" for "Coordination and communication of defense research activities" in item 2364 and "Major defense acquisition programs: determination required before Milestone A approval" for "Major defense acquisition programs: certification required before Milestone A approval" in item 2366a, and struck out item 2352 "Defense Advanced Research Projects Agency: biennial strategic plan".
 
 **2013**—Pub. L. 112–239, div. A, title X, §1076(g)(4), Jan. 2, 2013, 126 Stat. 1955, struck out item 2374b "Prizes for achievements in promoting science, mathematics, engineering, or technology education".
 

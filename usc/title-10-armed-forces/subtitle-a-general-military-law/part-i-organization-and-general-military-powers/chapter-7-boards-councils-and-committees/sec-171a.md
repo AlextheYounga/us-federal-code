@@ -44,7 +44,11 @@
 
 (4) A breakdown of each program element in such budget that relates to the system, including how such program element relates to the operation and sustainment, research and development, procurement, or other activity of the system.
 
-(f) Budget and Funding Matters.—(1) Not later than 30 days after the President submits to Congress the budget for a fiscal year under section 1105(a) of title 31, the Commander of the United States Strategic Command shall submit to the Chairman of the Joint Chiefs of Staff an assessment of—
+(5) An assessment of the threats and vulnerabilities described in the reports and assessments collected under subsection (f) during the previous year, including any plans to address such threats and vulnerabilities.
+
+(f) Collection of Assessments on Certain Threats.—The Council shall collect and assess (consistent with the provision of classified information and intelligence sources and methods) all reports and assessments otherwise conducted by the intelligence community (as defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)) regarding foreign threats, including cyber threats, to the command, control, and communications system for the national leadership of the United States and the vulnerabilities of such system to such threats.
+
+(g) Budget and Funding Matters.—(1) Not later than 30 days after the President submits to Congress the budget for a fiscal year under section 1105(a) of title 31, the Commander of the United States Strategic Command shall submit to the Chairman of the Joint Chiefs of Staff an assessment of—
 
 (A) whether such budget allows the Federal Government to meet the required capabilities of the command, control, and communications system for the national leadership of the United States during the fiscal year covered by the budget and the four subsequent fiscal years; and
 
@@ -58,11 +62,11 @@
 
 (3) If a House of Congress adopts a bill authorizing or appropriating funds for the activities of the command, control, and communications system for the national leadership of the United States that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
 
-(g) Notification of Anomalies.—(1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system for the national leadership of the United States that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
+(h) Notification of Anomalies.—(1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system for the national leadership of the United States that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
 
 (2) In this subsection, the term "anomaly" means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
 
-(h) National Leadership of the United States Defined.—In this section, the term "national leadership of the United States" means the following:
+(i) National Leadership of the United States Defined.—In this section, the term "national leadership of the United States" means the following:
 
 (1) The President.
 
@@ -70,4 +74,10 @@
 
 (3) Such other civilian officials of the United States Government as the President shall designate for purposes of this section.
 
-(Added Pub. L. 113–66, div. A, title X, §1052(a)(1), Dec. 26, 2013, 127 Stat. 859.)
+(Added Pub. L. 113–66, div. A, title X, §1052(a)(1), Dec. 26, 2013, 127 Stat. 859; amended Pub. L. 114–92, div. A, title XVI, §1651, Nov. 25, 2015, 129 Stat. 1121.)
+
+#### Amendments ####
+
+Subsec. (e)(5). Pub. L. 114–92, §1651(3), added par. (5).
+
+Subsecs. (f) to (i). Pub. L. 114–92, §1651(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.

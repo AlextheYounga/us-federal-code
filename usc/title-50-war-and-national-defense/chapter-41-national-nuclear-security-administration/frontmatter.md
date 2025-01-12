@@ -46,9 +46,15 @@ Sec.
 
 2441a. Authorized personnel levels of the Office of the Administrator.
 
-2442, 2443. Repealed.
+2442. Repealed.
+
+2443. Notification of employee practices affecting national security.
 
 2444. Nonproliferation and national security scholarship and fellowship program.
+
+2445. Limitation on bonuses for employees who engage in improper program management.
+
+2446. Treatment of contractors who engage in improper program management.
 
 #### SUBCHAPTER IV—BUDGET AND FINANCIAL MANAGEMENT ####
 

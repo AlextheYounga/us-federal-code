@@ -166,7 +166,7 @@ The Secretary shall have the authority to enter into other transactions under th
 
 #### (I) In general ####
 
-Subsections (b), (c), and (h) of section 845 of the National Defense Authorization Act for Fiscal Year 1994 (10 U.S.C. 2371 note) shall apply to other transactions under this subparagraph as if such transactions were for prototype projects described by subsection (a) of such section 845.
+Subsections (b), (c), and (h) of section 845 <sup><a href="#247d-7e_1_target" name="247d-7e_1">1</a></sup> of the National Defense Authorization Act for Fiscal Year 1994 (10 U.S.C. 2371 note) shall apply to other transactions under this subparagraph as if such transactions were for prototype projects described by subsection (a) of such section 845.
 
 #### (II) Written determinations required ####
 
@@ -310,7 +310,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(6)(A)(ii),
 
 Section 405 of the Pandemic and All-Hazards Preparedness Act, referred to in subsec. (c)(4)(A)(iii), is section 405 of Pub. L. 109–417, which is set out as a note under section 247d–6a of this title.
 
-Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsec. (c)(5)(A)(ii)(I), is section 845 of Pub. L. 103–160, which is set out as a note under section 2371 of Title 10, Armed Forces.
+Section 845 of the National Defense Authorization Act for Fiscal Year 1994, referred to in subsec. (c)(5)(A)(ii)(I), is section 845 of Pub. L. 103–160, which was formerly set out as a note under section 2371 of Title 10, Armed Forces, prior to repeal by Pub. L. 114–92, div. A, title VIII, §815(c), Nov. 25, 2015, 129 Stat. 896. See section 2371b of Title 10.
 
 The Federal Tort Claims Act, referred to in subsec. (c)(5)(B)(ii), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
@@ -341,3 +341,5 @@ Subsec. (d)(2). Pub. L. 113–5, §402(c), amended par. (2) generally. Prior to 
 Subsec. (e)(1)(C). Pub. L. 113–5, §402(d), substituted "12 years" for "7 years".
 
 Subsec. (f). Pub. L. 113–5, §402(f), added subsec. (f).
+
+[<sup>1</sup> See References in Text note below.](#247d-7e_1)

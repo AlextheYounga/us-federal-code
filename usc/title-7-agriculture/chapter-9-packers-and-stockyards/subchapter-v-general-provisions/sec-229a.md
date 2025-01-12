@@ -8,4 +8,4 @@ For termination of repeal by section 942 of Pub. L. 106–78, see Livestock Mand
 
 #### Termination Date of Repeal ####
 
-Repeal by Pub. L. 106–78 to terminate Sept. 30, 2015, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under section 1635 of this title.
+Repeal by Pub. L. 106–78 to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, as amended, set out in a Livestock Mandatory Reporting note under section 1635 of this title.

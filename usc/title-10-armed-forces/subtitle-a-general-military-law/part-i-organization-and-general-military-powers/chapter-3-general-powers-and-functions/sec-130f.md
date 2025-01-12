@@ -18,11 +18,13 @@
 
 (B) a specific statutory authorization for the use of force other than the authorization referred to in paragraph (1).
 
-(e) Exception.—The notification requirement under subsection (a) shall not apply with respect to a sensitive military operation executed within the territory of Afghanistan pursuant to the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note).
+(e) Exception.—(1)The notification requirement under subsection (a) shall not apply with respect to a sensitive military operation executed within the territory of Afghanistan pursuant to the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note).
+
+(2) The exception in paragraph (1) shall cease to be in effect at the close of December 31, 2017.
 
 (f) Rule of Construction.—Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution (50 U.S.C. 1541 et seq.), the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note), or any requirement under the National Security Act of 1947 (50 U.S.C. 3001 et seq.).
 
-(Added Pub. L. 113–66, div. A, title X, §1041(a)(1), Dec. 26, 2013, 127 Stat. 856.)
+(Added Pub. L. 113–66, div. A, title X, §1041(a)(1), Dec. 26, 2013, 127 Stat. 856; amended Pub. L. 114–92, div. A, title X, §1043, Nov. 25, 2015, 129 Stat. 977.)
 
 #### References in Text ####
 
@@ -31,6 +33,10 @@ The National Security Act of 1947, referred to in subsecs. (a) and (f), is act J
 The National Defense Authorization Act for Fiscal Year 2014, referred to in subsec. (a), is Pub. L. 113–66, Dec. 26, 2013, 127 Stat. 672. For complete classification of this Act to the Code, see Tables.
 
 The War Powers Resolution, referred to in subsec. (f), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
+
+#### Amendments ####
+
+**2015**—Subsec. (e). Pub. L. 114–92 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date ####
 

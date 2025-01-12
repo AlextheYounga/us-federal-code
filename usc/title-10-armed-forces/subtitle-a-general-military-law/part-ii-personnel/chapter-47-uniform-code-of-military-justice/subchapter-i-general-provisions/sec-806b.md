@@ -44,17 +44,39 @@
 
 (2) to create, to enlarge, or to imply any duty or obligation to any victim of an offense under this chapter or other person for the breach of which the United States or any of its officers or employees could be held liable in damages.
 
-(e) Enforcement by Court of Criminal Appeals.—(1) If the victim of an offense under this chapter believes that a court-martial ruling violates the victim's rights afforded by a Military Rule of Evidence specified in paragraph (2), the victim may petition the Court of Criminal Appeals for a writ of mandamus to require the court-martial to comply with the Military Rule of Evidence.
+(e) Enforcement by Court of Criminal Appeals.—(1) If the victim of an offense under this chapter believes that a preliminary hearing ruling under section 832 of this title (article 32) or a court-martial ruling violates the rights of the victim afforded by a section (article) or rule specified in paragraph (4), the victim may petition the Court of Criminal Appeals for a writ of mandamus to require the preliminary hearing officer or the court-martial to comply with the section (article) or rule.
 
-(2) Paragraph (1) applies with respect to the protections afforded by the following:
+(2) If the victim of an offense under this chapter is subject to an order to submit to a deposition, notwithstanding the availability of the victim to testify at the court-martial trying the accused for the offense, the victim may petition the Court of Criminal Appeals for a writ of mandamus to quash such order.
 
-(A) Military Rule of Evidence 513, relating to the psychotherapist-patient privilege.
+(3) A petition for a writ of mandamus described in this subsection shall be forwarded directly to the Court of Criminal Appeals, by such means as may be prescribed by the President, and, to the extent practicable, shall have priority over all other proceedings before the court.
 
-(B) Military Rule of Evidence 412, relating to the admission of evidence regarding a victim's sexual background.
+(4) Paragraph (1) applies with respect to the protections afforded by the following:
 
-(Added Pub. L. 113–66, div. A, title XVII, §1701(a)(1), Dec. 26, 2013, 127 Stat. 952; amended Pub. L. 113–291, div. A, title V, §§531(f), 535, Dec. 19, 2014, 128 Stat. 3364, 3368.)
+(A) This section (article).
+
+(B) Section 832 (article 32) of this title.
+
+(C) Military Rule of Evidence 412, relating to the admission of evidence regarding a victim's sexual background.
+
+(D) Military Rule of Evidence 513, relating to the psychotherapist-patient privilege.
+
+(E) Military Rule of Evidence 514, relating to the victim advocate-victim privilege.
+
+(F) Military Rule of Evidence 615, relating to the exclusion of witnesses.
+
+(Added Pub. L. 113–66, div. A, title XVII, §1701(a)(1), Dec. 26, 2013, 127 Stat. 952; amended Pub. L. 113–291, div. A, title V, §§531(f), 535, Dec. 19, 2014, 128 Stat. 3364, 3368; Pub. L. 114–92, div. A, title V, §531, Nov. 25, 2015, 129 Stat. 814.)
 
 #### Amendments ####
+
+**2015**—Subsec. (e). Pub. L. 114–92 amended subsec. (e) generally. Prior to amendment, text read as follows:
+
+"(1) If the victim of an offense under this chapter believes that a court-martial ruling violates the victim's rights afforded by a Military Rule of Evidence specified in paragraph (2), the victim may petition the Court of Criminal Appeals for a writ of mandamus to require the court-martial to comply with the Military Rule of Evidence.
+
+"(2) Paragraph (1) applies with respect to the protections afforded by the following:
+
+"(A) Military Rule of Evidence 513, relating to the psychotherapist-patient privilege.
+
+"(B) Military Rule of Evidence 412, relating to the admission of evidence regarding a victim's sexual background."
 
 **2014**—Subsec. (b). Pub. L. 113–291, §531(f)(1), substituted "an individual" for "a person".
 

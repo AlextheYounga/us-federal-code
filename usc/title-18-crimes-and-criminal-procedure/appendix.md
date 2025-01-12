@@ -495,7 +495,7 @@ That this Act may be cited as the "Classified Information Procedures Act".
 FEDERAL RULES OF CRIMINAL PROCEDURE
 ==========
 
-(As amended to December 1, 2015)
+(As amended to January 3, 2016)
 
 #### Historical Note ####
 

@@ -160,6 +160,8 @@ Sec.
 
 355. Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units.
 
+356. Continuation pay: full TSP members with 12 years of service.
+
 #### SUBCHAPTER III—GENERAL PROVISIONS ####
 
 371. Relationship to other incentives and pays.
@@ -171,6 +173,8 @@ Sec.
 374. Regulations.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title VI, §634(b), Nov. 25, 2015, 129 Stat. 851, which directed amendment of this analysis by adding item 356 "at the end", was executed by adding item 356 after item 355 to reflect the probable intent of Congress.
 
 **2013**—Pub. L. 113–66, div. A, title VI, §617(b), Dec. 26, 2013, 127 Stat. 782, added item 336.
 

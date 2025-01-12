@@ -20,9 +20,15 @@ Sec.
 
 429. Appropriations for Defense intelligence elements: accounts for transfers; transfer authority.
 
-430. Tactical Exploitation of National Capabilities Executive Agent. 1
+430. Tactical Exploitation of National Capabilities Executive Agent.
+
+430a. Executive agent for management and oversight of alternative compensatory control measures.
+
+430b. Executive agent for open-source intelligence tools.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title X, §§1081(a)(5), 1083(a)(2), title XVI, §1631(b), Nov. 25, 2015, 129 Stat. 1001, 1004, 1111, added items 430 to 430b.
 
 **2013**—Pub. L. 113–66, div. A, title X, §1071(b), Dec. 26, 2013, 127 Stat. 868, added item 427.
 
@@ -55,5 +61,3 @@ Pub. L. 111–84, div. A, title IX, §921(b)(2), Oct. 28, 2009, 123 Stat. 2432, 
 **1988**—Pub. L. 100–453, title VII, §§701(b), 703(b), Sept. 29, 1988, 102 Stat. 1912, 1913, in item 421 substituted "Funds for Foreign Cryptologic Support" for "Funds transfers for foreign cryptologic support" and added item 424.
 
 **1987**—Pub. L. 100–180, div. A, title XII, §1231(3), Dec. 4, 1987, 101 Stat. 1160, substituted "departments" for "department" in item 423.
-
-[<sup>1</sup> Editorially supplied. Section 430 added by Pub. L. 113–291 without corresponding amendment of subchapter analysis.](#I_1)

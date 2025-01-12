@@ -1,4 +1,4 @@
-### §130e. Treatment under Freedom of Information Act of critical infrastructure security information ###
+### §130e. Treatment under Freedom of Information Act of certain critical infrastructure security information ###
 
 (a) Exemption.—The Secretary of Defense may exempt Department of Defense critical infrastructure security information from disclosure pursuant to section 552(b)(3) of title 5, upon a written determination that—
 
@@ -14,4 +14,8 @@
 
 (e) Transparency.—Each determination of the Secretary, or the Secretary's designee, under subsection (a) shall be made in writing and accompanied by a statement of the basis for the determination. All such determinations and statements of basis shall be available to the public, upon request, through the Office of the Director of Administration and Management.
 
-(Added Pub. L. 112–81, div. A, title X, §1091(a), Dec. 31, 2011, 125 Stat. 1604.)
+(Added Pub. L. 112–81, div. A, title X, §1091(a), Dec. 31, 2011, 125 Stat. 1604; amended Pub. L. 114–92, div. A, title X, §1081(a)(2), Nov. 25, 2015, 129 Stat. 1000.)
+
+#### Amendments ####
+
+**2015**—Pub. L. 114–92 substituted "Treatment under Freedom of Information Act of certain critical infrastructure security information" for "Treatment under Freedom of Information Act of critical infrastructure security information" in section catchline.

@@ -58,7 +58,11 @@ Sec.
 
 7234. Submarine safety programs: participation of NATO naval personnel.
 
+7235. Establishment of the Southern Sea Otter Military Readiness Areas.
+
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title III, §312(b), Nov. 25, 2015, 129 Stat. 789, added item 7235.
 
 **2006**—Pub. L. 109–163, div. A, title V, §515(b)(4)(D), Jan. 6, 2006, 119 Stat. 3235, substituted "Navy Reserve" for 'Naval Reserve" in items 7225 and 7226.
 

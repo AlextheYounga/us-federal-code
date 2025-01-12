@@ -126,6 +126,8 @@ Sec.
 
 1095f. TRICARE program: referrals for specialty health care.
 
+1095g. TRICARE program: waiver of recoupment of erroneous payments caused by administrative error.
+
 1096. Military-civilian health services partnership program.
 
 1097. Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care.
@@ -171,6 +173,8 @@ Sec.
 1110b. TRICARE program: extension of dependent coverage.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title VII, §711(b), Nov. 25, 2015, 129 Stat. 864, added item 1095g.
 
 **2014**—Pub. L. 113–291, div. A, title VII, §§701(a)(2), 704(b), 711(b), Dec. 19, 2014, 128 Stat. 3408, 3413, 3414, added items 1074n, 1079c, and 1097d.
 

@@ -26,21 +26,7 @@
 
 (2) If no person described in subparagraphs (A) through (D) of paragraph (1) is provided travel and transportation allowances under paragraph (1) or (2) of subsection (a), the travel and transportation allowances may be provided to one or two other persons who are closely related to the deceased member and are selected by the person referred to in paragraph (1)(E). A person provided travel and transportation allowances under this paragraph is in addition to the person referred to in paragraph (1)(E).
 
-(d) Expanded Allowances Related to Recovery of Remains From Vietnam Conflict.—(1) The Secretary of Defense may provide round trip travel and transportation allowances for the family of a deceased member of the armed forces who died while classified as a prisoner of war or as missing in action during the Vietnam conflict and whose remains are returned to the United States in order that the family members may attend the burial ceremony of the deceased member.
-
-(2) The allowances under paragraph (1) shall include round trip transportation from the places of residence of such family members to the burial ceremony and such living expenses and other allowances as the Secretary of Defense considers appropriate.
-
-(3) For purposes of paragraph (1), eligible family members of the deceased member of the armed forces include the following:
-
-(A) The surviving spouse (including a remarried surviving spouse) of the deceased member.
-
-(B) The child or children, including children described in section 401(b)(1) of this title, of the deceased member.
-
-(C) The parent or parents of the deceased member (as defined in section 401(b)(2) of this title).
-
-(D) If no person described in subparagraph (A), (B), or (C) is provided travel and transportation allowances under paragraph (1), any brothers, sisters, halfbrothers, halfsisters, stepbrothers, and stepsisters of the deceased member.
-
-(e) Transportation to Transfer Ceremonies of Members of the Armed Forces Who Die Overseas.—(1) The Secretary of the military department concerned may provide round trip transportation to ceremonies for the transfer of a member of the armed forces who dies while located or serving overseas to the following:
+(d) Transportation to Transfer Ceremonies of Members of the Armed Forces Who Die Overseas.—(1) The Secretary of the military department concerned may provide round trip transportation to ceremonies for the transfer of a member of the armed forces who dies while located or serving overseas (including during a humanitarian relief operation) to the following:
 
 (A) The primary next of kin of the member.
 
@@ -56,7 +42,7 @@
 
 (4) The Secretary of a military department may, upon the request of the primary next of kin covered by paragraph (1)(A) and at the discretion of the Secretary, provide for the accompaniment of such next of kin in travel under this subsection by a casualty assistance officer or family liaison officer of the military department who shall act as an escort in such accompaniment.
 
-(f) Burial Ceremony Defined.—In this section, the term "burial ceremony" includes the following:
+(e) Burial Ceremony Defined.—In this section, the term "burial ceremony" includes the following:
 
 (1) An interment of casketed or cremated remains.
 
@@ -66,13 +52,21 @@
 
 (4) A burial of commingled remains that cannot be individually identified in a common grave in a national cemetery.
 
-(g) Regulations.—The Secretaries concerned shall prescribe uniform regulations to carry out this section.
+(f) Regulations.—The Secretaries concerned shall prescribe uniform regulations to carry out this section.
 
-(h) Termination.—No travel and transportation allowance or reimbursement may be provided under this section for travel that begins after the travel authorities transition expiration date.
+(g) Termination.—No travel and transportation allowance or reimbursement may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
-(Added Pub. L. 99–145, title VI, §620(a)(1), Nov. 8, 1985, 99 Stat. 642, §411f; amended Pub. L. 100–456, div. A, title VI, §632(b), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 103–35, title II, §204(a)(2), May 31, 1993, 107 Stat. 102; Pub. L. 107–107, div. A, title VI, §638(a), Dec. 28, 2001, 115 Stat. 1146; Pub. L. 108–375, div. A, title VI, §631, Oct. 28, 2004, 118 Stat. 1956; Pub. L. 110–181, div. A, title VI, §632, Jan. 28, 2008, 122 Stat. 154; Pub. L. 111–84, div. A, title V, §542(b)(1), (2)(A), title VI, §631, Oct. 28, 2009, 123 Stat. 2299, 2300, 2359; renumbered §481f and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(20), Dec. 31, 2011, 125 Stat. 1460, 1463.)
+(Added Pub. L. 99–145, title VI, §620(a)(1), Nov. 8, 1985, 99 Stat. 642, §411f; amended Pub. L. 100–456, div. A, title VI, §632(b), Sept. 29, 1988, 102 Stat. 1986; Pub. L. 103–35, title II, §204(a)(2), May 31, 1993, 107 Stat. 102; Pub. L. 107–107, div. A, title VI, §638(a), Dec. 28, 2001, 115 Stat. 1146; Pub. L. 108–375, div. A, title VI, §631, Oct. 28, 2004, 118 Stat. 1956; Pub. L. 110–181, div. A, title VI, §632, Jan. 28, 2008, 122 Stat. 154; Pub. L. 111–84, div. A, title V, §542(b)(1), (2)(A), title VI, §631, Oct. 28, 2009, 123 Stat. 2299, 2300, 2359; renumbered §481f and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(20), Dec. 31, 2011, 125 Stat. 1460, 1463; Pub. L. 114–92, div. A, title VI, §§621, 622(a), Nov. 25, 2015, 129 Stat. 841.)
 
 #### Amendments ####
+
+**2015**—Subsec. (d). Pub. L. 114–92, §622(a), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to expanded allowances related to recovery of remains from the Vietnam conflict.
+
+Subsec. (e). Pub. L. 114–92, §622(a)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (e)(1). Pub. L. 114–92, §621, inserted "(including during a humanitarian relief operation)" after "located or serving overseas" in introductory provisions.
+
+Subsecs. (f) to (h). Pub. L. 114–92, §622(a)(2), redesignated subsecs. (f) to (h) as (e) to (g), respectively.
 
 **2011**—Pub. L. 112–81, §631(d)(2), renumbered section 411f of this title as this section.
 

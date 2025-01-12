@@ -12,7 +12,13 @@ Sec.
 
 2379. Requirement for determination by Secretary of Defense and notification to Congress before procurement of major weapon systems as commercial items.
 
+2380. Commercial item determinations by Department of Defense.
+
+2380A. Treatment of goods and services provided by nontraditional defense contractors as commercial items.
+
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title VIII, §§851(a)(2), 857(b), Nov. 25, 2015, 129 Stat. 916, 921, added items 2380 and 2380A.
 
 **2006**—Pub. L. 109–163, div. A, title VIII, §803(a)(2), Jan. 6, 2006, 119 Stat. 3371, added item 2379.
 

@@ -7,3 +7,5 @@ Sec.
 2000dd–0. Additional prohibition on cruel, inhuman, or degrading treatment or punishment.
 
 2000dd–1. Protection of United States Government personnel engaged in authorized interrogations.
+
+2000dd–2. Limitation on interrogation techniques.

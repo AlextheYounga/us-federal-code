@@ -1,0 +1,5 @@
+### [§2352. Repealed. Pub. L. 114–92, div. A, title X, §1078(c)(1), Nov. 25, 2015, 129 Stat. 999] ###
+
+Section, added Pub. L. 108–136, div. A, title II, §232(a), Nov. 24, 2003, 117 Stat. 1422; amended Pub. L. 113–66, div. A, title II, §211(a), (b), Dec. 26, 2013, 127 Stat. 703, related to the biennial strategic plan of the Defense Advanced Research Projects Agency.
+
+A prior section 2352, acts Aug. 10, 1956, ch. 1041, 70A Stat. 133; Dec. 5, 1991, Pub. L. 102–190, div. A, title VIII, §803(a)(1), 105 Stat. 1414; Pub. L. 102–484, div. A, title X, §1053(4), Oct. 23, 1992, 106 Stat. 2501, required Secretary of military department to give notice to Congress of contracts performed over a period exceeding 10 years, prior to repeal by Pub. L. 104–106, div. A, title X, §1062(c)(1), Feb. 10, 1996, 110 Stat. 444.

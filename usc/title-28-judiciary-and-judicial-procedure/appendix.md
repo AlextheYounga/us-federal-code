@@ -36,7 +36,7 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 FEDERAL RULES OF APPELLATE PROCEDURE
 ==========
 
-(As amended to December 1, 2015)
+(As amended to January 3, 2016)
 
 #### Historical Note ####
 
@@ -4084,7 +4084,7 @@ Address: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 FEDERAL RULES OF CIVIL PROCEDURE
 ==========
 
-(As amended to December 1, 2015)
+(As amended to January 3, 2016)
 
 #### Historical Note ####
 
@@ -9919,13 +9919,13 @@ Amendment of this rule embraced by the order entered by the Supreme Court of the
 
 (a) In General.
 
-(1)*Number.* Unless otherwise stipulated or ordered by the court, a party may serve on any other party no more than 25 written interrogatories, including all discrete subparts. Leave to serve additional interrogatories may be granted to the extent consistent with Rule 26(b)(1) and (2).
+(1) *Number.* Unless otherwise stipulated or ordered by the court, a party may serve on any other party no more than 25 written interrogatories, including all discrete subparts. Leave to serve additional interrogatories may be granted to the extent consistent with Rule 26(b)(1) and (2).
 
 (2) *Scope.* An interrogatory may relate to any matter that may be inquired into under Rule 26(b). An interrogatory is not objectionable merely because it asks for an opinion or contention that relates to fact or the application of law to fact, but the court may order that the interrogatory need not be answered until designated discovery is complete, or until a pretrial conference or some other time.
 
 (b) Answers and Objections.
 
-(1) *Responding Party.* The interrogatories must be answered—
+(1) *Responding Party.* The interrogatories must be answered:
 
 (A) by the party to whom they are directed; or
 
@@ -16066,7 +16066,7 @@ The times set in the former rule at 20 days have been revised to 21 days. See th
 FEDERAL RULES OF EVIDENCE
 ==========
 
-(As amended to December 1, 2015)
+(As amended to January 3, 2016)
 
 #### Effective Date and Application of Rules ####
 

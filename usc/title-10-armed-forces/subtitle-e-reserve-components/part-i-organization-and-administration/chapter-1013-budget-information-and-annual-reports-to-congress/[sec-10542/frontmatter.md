@@ -1,0 +1,3 @@
+### [§10542. Repealed. Pub. L. 114–92, div. A, title X, §1073(c)(1), Nov. 25, 2015, 129 Stat. 996] ###
+
+Section, added Pub. L. 103–160, div. A, title V, §521(a), Nov. 30, 1993, 107 Stat. 1652, §3082; renumbered §10542 and amended Pub. L. 103–337, div. A, title XVI, §1661(d)(3), Oct. 5, 1994, 108 Stat. 2982; Pub. L. 104–106, div. A, title XV, §1501(b)(8), Feb. 10, 1996, 110 Stat. 496; Pub. L. 104–201, div. A, title X, §1074(a)(21), Sept. 23, 1996, 110 Stat. 2660, related to annual report on Army National Guard combat readiness.

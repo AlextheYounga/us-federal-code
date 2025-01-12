@@ -48,7 +48,7 @@ Sec.
 
 [2221. Repealed.]
 
-2222. Defense business systems: architecture, accountability, and modernization.
+2222. Defense business systems: business process reengineering; enterprise architecture; management.
 
 2223. Information technology: additional responsibilities of Chief Information Officers.
 
@@ -71,6 +71,8 @@ Sec.
 2229a. Annual report on prepositioned materiel and equipment.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title VIII, §883(a)(2), Nov. 25, 2015, 129 Stat. 947, which directed amendment of the analysis for "such chapter" by striking item 2222 and adding a new item 2222, was executed by striking item 2222 "Defense business systems: architecture, accountability, and modernization" and adding item 2222 in the analysis for this chapter, to reflect the probable intent of Congress.
 
 **2014**—Pub. L. 113–291, div. A, title X, §1022(a)(2), Dec. 19, 2014, 128 Stat. 3487, added item 2218a.
 
@@ -128,7 +130,7 @@ Pub. L. 97–214, §10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 
 
 #### Strategic Management Plan ####
 
-Pub. L. 110–181, div. A, title IX, §904(d), (e), Jan. 28, 2008, 122 Stat. 275, provided that:
+Pub. L. 110–181, div. A, title IX, §904(d), (e), Jan. 28, 2008, 122 Stat. 275, as amended by Pub. L. 114–92, div. A, title X, §1079(e), Nov. 25, 2015, 129 Stat. 999, provided that:
 
 "(d) Strategic Management Plan Required.—
 
@@ -145,7 +147,5 @@ Pub. L. 110–181, div. A, title IX, §904(d), (e), Jan. 28, 2008, 122 Stat. 275
 "(D) procedures to review and approve plans and budgets for changes in business operations, including any proposed changes to policies, procedures, processes, and systems, to ensure the compatibility of such plans and budgets with the strategic management plan of the Department of Defense; and
 
 "(E) procedures to oversee the development of, and review and approve, all budget requests for defense business systems.
-
-"(3) Updates.—The Secretary of Defense, acting through the Chief Management Officer, shall update the strategic management plan no later than July 1, 2009, and every two years thereafter and provide a copy to the Committees on Armed Services of the Senate and the House of Representatives.
 
 "(e) Report.—Not later than 180 days after the date of the enactment of this Act [Jan. 28, 2008], the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of this section and a copy of the strategic management plan required by subsection (d)."

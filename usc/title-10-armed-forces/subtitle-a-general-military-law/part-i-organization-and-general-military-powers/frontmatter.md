@@ -31,7 +31,7 @@ Chap. Sec.
 
 18. Military Support for Civilian Law Enforcement Agencies 371
 
-19. Cyber matters 1 391
+19. Cyber Matters 391
 
 20. Humanitarian and Other Assistance 401
 
@@ -44,6 +44,8 @@ Chap. Sec.
 24. Nuclear Posture 491
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title X, §1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted "Cyber Matters" for "Cyber matters" in item for chapter 19.
 
 **2014**—Pub. L. 113–291, div. A, title XVI, §1632(d), Dec. 19, 2014, 128 Stat. 3640, added item for chapter 19.
 
@@ -82,5 +84,3 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 **1981**—Pub. L. 97–86, title IX, §905(a)(2), Dec. 1, 1981, 95 Stat. 1116, added item for chapter 18.
 
 **1962**—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
-
-[<sup>1</sup> So in original. Probably should be "Matters".](#PARTI_1)

@@ -8,13 +8,17 @@ Sec.
 
 2431. Weapons development and procurement schedules.
 
+2431a. Acquisition strategy.
+
+2431b. Risk reduction in major defense acquisition programs and major systems. 1
+
 2432. Selected Acquisition Reports.
 
 2433. Unit cost reports.
 
 2433a. Critical cost growth in major defense acquisition programs.
 
-2434. Independent cost estimates; operational manpower requirements.
+2434. Independent cost estimates.
 
 2435. Baseline description.
 
@@ -29,6 +33,8 @@ Sec.
 2440. Technology and industrial base plans.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title VIII, §§821(a)(2), 822(a)(2), 831(c)(2), Nov. 25, 2015, 129 Stat. 900, 901, 912, added items 2431a and 2431b and substituted "Independent cost estimates" for "Independent cost estimates; operational manpower requirements" in item 2434.
 
 **2011**—Pub. L. 111–383, div. A, title IX, §901(k)(2)(B), Jan. 7, 2011, 124 Stat. 4326, added item 2438.
 
@@ -53,3 +59,5 @@ Sec.
 Pub. L. 99–500, §101(c) [title X, §§904(a)(2), 905(a)(2), 906(a)(2)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–134, 1783–135, 1783–137, and Pub. L. 99–591, §101(c) [title X, §§904(a)(2), 905(a)(2), 906(a)(2)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–134, 3341–135, 3341–137; Pub. L. 99–661, div. A, title IX, formerly title IV, §§904(a)(2), 905(a)(2), 906(a)(2), Nov. 14, 1986, 100 Stat. 3914–3916, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273, added items 2435 to 2437.
 
 Pub. L. 99–433, title I, §101(a)(4), Oct. 1, 1986, 100 Stat. 994, added chapter heading and analysis of sections for chapter 144, consisting of sections 2431 to 2434.
+
+[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER144_1)

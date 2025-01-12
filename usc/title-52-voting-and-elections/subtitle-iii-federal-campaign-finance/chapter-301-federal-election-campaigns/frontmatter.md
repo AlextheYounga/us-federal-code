@@ -40,7 +40,7 @@ Sec.
 
 30118. Contributions or expenditures by national banks, corporations, or labor organizations.
 
-30119. Contributions by government contractors.
+30119. Contributions by Government contractors.
 
 30120. Publication and distribution of statements and solicitations.
 

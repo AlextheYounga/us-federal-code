@@ -38,7 +38,11 @@ Sec.
 
 1414. Members eligible for retired pay who are also eligible for veterans' disability compensation for disabilities rated 50 percent or higher: concurrent payment of retired pay and veterans' disability compensation.
 
+1415. Lump sum payment of certain retired pay.
+
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title VI, §633(a)(2), Nov. 25, 2015, 129 Stat. 850, added item 1415.
 
 **2011**—Pub. L. 111–383, div. A, title VI, §632(b)(2), Jan. 7, 2011, 124 Stat. 4240, added item 1412 and struck out former item 1412 "Rounding to next lower dollar".
 

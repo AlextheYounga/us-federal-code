@@ -33,7 +33,7 @@ Chap. Sec.
 
 18. Military Support for Civilian Law Enforcement Agencies 371
 
-19. Cyber matters 1 391
+19. Cyber Matters
 
 20. Humanitarian and Other Assistance 401
 
@@ -241,6 +241,8 @@ Chap. Sec.
 
 #### Amendments ####
 
+**2015**—Pub. L. 114–92, div. A, title X, §1081(a)(1), Nov. 25, 2015, 129 Stat. 1000, substituted "Cyber Matters" for "Cyber matters" in item for chapter 19.
+
 **2014**—Pub. L. 113–291, div. A, title XVI, §1632(d), Dec. 19, 2014, 128 Stat. 3640, added item for chapter 19.
 
 **2013**—Pub. L. 113–66, div. A, title X, §1091(a)(1), Dec. 26, 2013, 127 Stat. 875, substituted "Nuclear Posture" for "Nuclear posture" in item for chapter 24.
@@ -354,5 +356,3 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 **1961**—Pub. L. 87–381, §1(2), Oct. 4, 1961, 75 Stat. 810, substituted "Retired Serviceman's Family Protection Plan" for "Annuities Based on Retired or Retainer Pay" in item for chapter 73.
 
 **1958**—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted "General Service Requirements" for "Service Requirements for Reserves" in item for chapter 37, "971" for "[No present sections]" in item for chapter 49, "Medical and Dental Care" for "Voting by Members of Armed Forces" in item for chapter 55, and struck out "Care of the Dead" and substituted "1475" for "1481" in item for chapter 75.
-
-[<sup>1</sup> So in original. Probably should be "Matters".](#PARTIanalysis_1)

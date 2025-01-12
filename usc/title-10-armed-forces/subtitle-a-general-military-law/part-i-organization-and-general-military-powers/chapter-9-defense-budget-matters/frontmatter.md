@@ -14,9 +14,7 @@ Sec.
 
 225. Acquisition accountability reports on the ballistic missile defense system.
 
-[226, 227. Repealed.]
-
-228. Biannual reports on allocation of funds within operation and maintenance budget subactivities.
+[226 to 228. Repealed.]
 
 229. Programs for combating terrorism: display of budget information.
 
@@ -40,7 +38,11 @@ Sec.
 
 238. Cyber mission forces: program elements.
 
+239. National security space programs: major force program and budget assessment.
+
 #### Amendments ####
+
+Pub. L. 114–92, div. A, title X, §1073(a)(2), title XVI, §1601(a)(2), Nov. 25, 2015, 129 Stat. 995, 1096, struck out item 228 "Biannual reports on allocation of funds within operation and maintenance budget subactivities" and added item 239.
 
 **2014**—Pub. L. 113–291, div. A, title XVI, §1631(a)(2), Dec. 19, 2014, 128 Stat. 3638, added item 238.
 

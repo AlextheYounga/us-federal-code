@@ -6,7 +6,7 @@ Sec.
 
 1252. Age 64: permanent professors at academies.
 
-1253. Age 64: regular commissioned officers in general and flag officer grades; exception.
+1253. Age 64: regular commissioned officers in general and flag officer grades; exceptions.
 
 [1255. Repealed.]
 
@@ -15,6 +15,8 @@ Sec.
 1275. Computation of retired pay: law applicable.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title V, §504(b)(2), Nov. 25, 2015, 129 Stat. 807, substituted "Age 64: regular commissioned officers in general and flag officer grades; exceptions" for "Age 64: regular commissioned officers in general and flag officer grades; exception" in item 1253.
 
 **2006**—Pub. L. 109–364, div. A, title V, §502(c), Oct. 17, 2006, 120 Stat. 2177, inserted "in grades below general and flag officer grades" after "officers" in item 1251 and added item 1253.
 

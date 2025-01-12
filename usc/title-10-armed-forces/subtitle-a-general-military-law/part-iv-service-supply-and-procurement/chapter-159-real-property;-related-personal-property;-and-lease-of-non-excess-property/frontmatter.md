@@ -30,7 +30,9 @@ Sec.
 
 2671. Military reservations and facilities: hunting, fishing, and trapping.
 
-[2672 to 2673. Repealed.]
+2672. Protection of buildings, grounds, property, and persons.
+
+[2672a, 2673. Repealed.]
 
 2674. Operation and control of Pentagon Reservation and defense facilities in National Capital Region.
 
@@ -93,6 +95,8 @@ Sec.
 This section makes necessary clerical amendments to chapter analysis.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. B, title XXVIII, §2811(b), Nov. 25, 2015, 129 Stat. 1174, added item 2672.
 
 **2014**—Pub. L. 113–291, div. A, title III, §351(c)(2), Dec. 19, 2014, 128 Stat. 3347, added item 2679.
 

@@ -24,7 +24,7 @@ Sec.
 
 127a. Operations for which funds are not provided in advance: funding mechanisms.
 
-127b. Assistance in combating terrorism: rewards.
+127b. Department of Defense rewards program.
 
 127c. Purchase of weapons overseas: force protection.
 
@@ -52,11 +52,17 @@ Sec.
 
 130d. Treatment under Freedom of Information Act of certain confidential information shared with State and local personnel.
 
-130e. Treatment under Freedom of Information Act of certain critical infrastructure security information. 1
+130e. Treatment under Freedom of Information Act of certain critical infrastructure security information.
 
 130f. Congressional notification of sensitive military operations.
 
+130g. Authorities concerning military cyber operations.
+
+130h. Prohibitions on providing certain missile defense information to Russian Federation.
+
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title X, §1042(d)(2), title XVI, §§1642(b), 1671(a)(2), Nov. 25, 2015, 129 Stat. 977, 1116, 1130, added items 130g and 130h and substituted "Department of Defense rewards program" for "Assistance in combating terrorism: rewards" in item 127b.
 
 **2014**—Pub. L. 113–291, div. A, title X, §1071(f)(2), Dec. 19, 2014, 128 Stat. 3510, substituted "Treatment under Freedom of Information Act of certain critical infrastructure security information" for "Treatment under Freedom of Information Act of critical infrastructure security information" in item 130e and "Congressional notification of sensitive military operations" for "Congressional notification regarding sensitive military operations" in item 130f.
 
@@ -109,5 +115,3 @@ Pub. L. 100–26, §9(b)(1), Apr. 21, 1987, 101 Stat. 287, struck out item 128 "
 **1962**—Pub. L. 87–651, title II, §201(b), Sept. 7, 1962, 76 Stat. 517, added items 124 to 126.
 
 **1958**—Pub. L. 85–861, §1(2)(B), Sept. 2, 1958, 72 Stat. 1437, added items 122 and 123.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER3_1)

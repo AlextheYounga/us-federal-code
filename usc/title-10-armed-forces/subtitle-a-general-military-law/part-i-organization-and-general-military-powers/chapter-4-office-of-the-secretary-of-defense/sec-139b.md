@@ -20,9 +20,9 @@
 
 (iii) the conduct of developmental test and evaluation conducted jointly by more than one military department or Defense Agency;
 
-(B) review and approve or disapprove the developmental test and evaluation plan within the test and evaluation master plan for each major defense acquisition program of the Department of Defense;
+(B) review the developmental test and evaluation plan within the test and evaluation master plan for each major defense acquisition program of the Department of Defense;
 
-(C) monitor and review the developmental test and evaluation activities of the major defense acquisition programs (including the activities of chief developmental testers and lead developmental test evaluation organizations designated in accordance with subsection (c));
+(C) monitor and review the developmental test and evaluation activities of the major defense acquisition programs (including the activities of chief developmental testers and lead developmental test evaluation organizations designated in accordance with subsection (c)) in order to advise relevant technical authorities for such programs on the incorporation of best practices for developmental test from across the Department;
 
 (D) provide advocacy, oversight, and guidance to elements of the acquisition workforce responsible for developmental test and evaluation;
 
@@ -64,9 +64,9 @@
 
 (iv) the inclusion of provisions relating to systems engineering and reliability growth in requests for proposals;
 
-(B) review and approve the systems engineering master plan for each major defense acquisition program;
+(B) review the systems engineering master plan for each major defense acquisition program;
 
-(C) monitor and review the systems engineering and development planning activities of the major defense acquisition programs;
+(C) monitor and review the systems engineering and development planning activities of the major defense acquisition programs in order to advise relevant technical authorities for such programs on the incorporation of best practices for systems engineering from across the Department;
 
 (D) provide advocacy, oversight, and guidance to elements of the acquisition workforce responsible for systems engineering, development planning, and lifecycle management and sustainability functions;
 
@@ -108,25 +108,21 @@
 
 (1) Annual report by deputy assistant secretary of defense for developmental test and evaluation.—Not later than March 31 of each year, the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation shall submit to the congressional defense committees a report on the activities undertaken pursuant to subsection (a) during the preceding year.
 
-(2) Biennial report by deputy assistant secretary of defense for systems engineering.—Not later than March 31 of every other year, the Deputy Assistant Secretary of Defense for Systems Engineering shall submit to the congressional defense committees a report on the activities undertaken pursuant to subsection (b) during the preceding two-year period.
+(2) Contents.—Each report submitted under paragraph (1) shall include a section on activities relating to the major defense acquisition programs which shall set forth, at a minimum, the following:
 
-(3) Contents.—Each report submitted under paragraph (1) or (2) shall include a section on activities relating to the major defense acquisition programs which shall set forth, at a minimum, the following:
+(A) A discussion of the extent to which the major defense acquisition programs are fulfilling the objectives of their developmental test and evaluation plans.
 
-(A) A discussion of the extent to which the major defense acquisition programs are fulfilling the objectives of their systems engineering master plans and developmental test and evaluation plans.
+(B) A discussion of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the preceding year with respect to such programs, any concerns raised by such waivers or deviations, and the actions that have been taken or are planned to be taken to address such concerns.
 
-(B) A discussion of the waivers of and deviations from requirements in test and evaluation master plans, systems engineering master plans, and other testing requirements that occurred during the preceding year with respect to such programs, any concerns raised by such waivers or deviations, and the actions that have been taken or are planned to be taken to address such concerns.
+(C) An assessment of the organization and capabilities of the Department of Defense for development planning and developmental test and evaluation with respect to such programs.
 
-(C) An assessment of the organization and capabilities of the Department of Defense for systems engineering, development planning, and developmental test and evaluation with respect to such programs.
+(D) a <sup><a href="#139b_1_target" name="139b_1">1</a></sup> separate section that covers the activities of the Department of Defense Test Resource Management Center (established under section 196 of this title) during the preceding year; and <sup><a href="#139b_2_target" name="139b_2">2</a></sup>
 
-(D) Any comments on such report that the Secretary of Defense considers appropriate.
+(E) a <sup><a href="#139b_1_target" name="139b_1">1</a></sup> separate section that addresses the adequacy of the resources available to the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and to the lead developmental test and evaluation organizations of the military departments to carry out the responsibilities prescribed by this section.
 
-(4) Additional requirements for report by deputy assistant secretary of defense for developmental test and evaluation.—With respect to the report required under paragraph (1) by the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, the report shall include—
+(F) Any comments on such report that the Secretary of Defense considers appropriate.
 
-(A) a separate section that covers the activities of the Department of Defense Test Resource Management Center (established under section 196 of this title) during the preceding year; and
-
-(B) a separate section that addresses the adequacy of the resources available to the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and to the lead developmental test and evaluation organizations of the military departments to carry out the responsibilities prescribed by this section.
-
-(e) Joint Guidance.—The Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and the Deputy Assistant Secretary of Defense for Systems Engineering shall jointly, in coordination with the official designated by the Secretary of Defense under section 103 of the Weapon Systems Acquisition Reform Act of 2009, issue guidance on the following:
+(e) Joint Guidance.—The Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and the Deputy Assistant Secretary of Defense for Systems Engineering shall jointly, in coordination with the official designated by the Secretary of Defense under section 103 of the Weapon Systems Acquisition Reform Act of 2009,<sup><a href="#139b_3_target" name="139b_3">3</a></sup> issue guidance on the following:
 
 (1) The development and tracking of detailed measurable performance criteria as part of the systems engineering master plans and the developmental test and evaluation plans within the test and evaluation master plans of major defense acquisition programs.
 
@@ -136,7 +132,7 @@
 
 (f) Major Defense Acquisition Program Defined.—In this section, the term "major defense acquisition program" has the meaning given that term in section 2430 of this title.
 
-(Added Pub. L. 111–23, title I, §102(a)(1), May 22, 2009, 123 Stat. 1710, §139d; renumbered §139b and amended Pub. L. 111–383, div. A, title IX, §901(e), (f), (k)(1)(E), title X, §1075(b)(6), Jan. 7, 2011, 124 Stat. 4321, 4322, 4325, 4369; Pub. L. 112–81, div. A, title VIII, §835(b), Dec. 31, 2011, 125 Stat. 1507; Pub. L. 112–239, div. A, title IX, §904(a)–(d), (f), (g), title X, §1076(f)(5), Jan. 2, 2013, 126 Stat. 1866, 1867, 1952; Pub. L. 113–291, div. A, title II, §221(a), Dec. 19, 2014, 128 Stat. 3330.)
+(Added Pub. L. 111–23, title I, §102(a)(1), May 22, 2009, 123 Stat. 1710, §139d; renumbered §139b and amended Pub. L. 111–383, div. A, title IX, §901(e), (f), (k)(1)(E), title X, §1075(b)(6), Jan. 7, 2011, 124 Stat. 4321, 4322, 4325, 4369; Pub. L. 112–81, div. A, title VIII, §835(b), Dec. 31, 2011, 125 Stat. 1507; Pub. L. 112–239, div. A, title IX, §904(a)–(d), (f), (g), title X, §1076(f)(5), Jan. 2, 2013, 126 Stat. 1866, 1867, 1952; Pub. L. 113–291, div. A, title II, §221(a), Dec. 19, 2014, 128 Stat. 3330; Pub. L. 114–92, div. A, title VIII, §832, title X, §1078(b), Nov. 25, 2015, 129 Stat. 913, 998.)
 
 #### References in Text ####
 
@@ -149,6 +145,30 @@ A prior section 139b was renumbered section 138c of this title.
 Another prior section 139b was renumbered section 2433 of this title.
 
 #### Amendments ####
+
+**2015**—Subsec. (a)(5)(B). Pub. L. 114–92, §832(1)(A), struck out "and approve or disapprove" after "review".
+
+Subsec. (a)(5)(C). Pub. L. 114–92, §832(1)(B), inserted "in order to advise relevant technical authorities for such programs on the incorporation of best practices for developmental test from across the Department" after "in accordance with subsection (c))".
+
+Subsec. (b)(5)(B). Pub. L. 114–92, §832(2)(A), struck out "and approve" after "review".
+
+Subsec. (b)(5)(C). Pub. L. 114–92, §832(2)(B), inserted "in order to advise relevant technical authorities for such programs on the incorporation of best practices for systems engineering from across the Department" after "programs".
+
+Subsec. (d)(2). Pub. L. 114–92, §1078(b)(1)–(3)(A), redesignated par. (3) as (2), struck out "or (2)" after "paragraph (1)" in introductory provisions, and struck out former par. (2) which related to biennial report by Deputy Assistant Secretary of Defense for Systems Engineering.
+
+Subsec. (d)(2)(A). Pub. L. 114–92, §1078(b)(3)(B), struck out "systems engineering master plans and" before "developmental test".
+
+Subsec. (d)(2)(B). Pub. L. 114–92, §1078(b)(3)(C), struck out ", systems engineering master plans," after "master plans".
+
+Subsec. (d)(2)(C). Pub. L. 114–92, §1078(b)(3)(D), substituted "development planning" for "systems engineering, development planning,".
+
+Subsec. (d)(2)(D), (E). Pub. L. 114–92, §1078(b)(4), transferred subpars. (A) and (B) of par. (4) to par. (2) and redesignated them as subpars. (D) and (E), respectively. Former subpar. (D) redesignated (F). Amendment was executed by transferring subpars. so as to appear before subpar. (F) as redesignated, to reflect the probable intent of Congress, notwithstanding directory language transferring them "to the end" of par. (2).
+
+Subsec. (d)(2)(F). Pub. L. 114–92, §1078(b)(3)(E), redesignated subpar. (D) as (F).
+
+Subsec. (d)(3). Pub. L. 114–92, §1078(b)(2), redesignated par. (3) as (2).
+
+Subsec. (d)(4). Pub. L. 114–92, §1078(b)(4), (5), transferred subpars. (A) and (B) of par. (4) to par. (2) and redesignated them as subpars. (D) and (E), respectively, and struck out par. (4). After the transfer, text of par. (4) read as follows: "With respect to the report required under paragraph (1) by the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation, the report shall include—".
 
 **2014**—Subsec. (d). Pub. L. 113–291 substituted "Annual and Biennial Reports" for "Annual Report" in heading, added pars. (1) and (2), redesignated former pars. (1) and (2) as (3) and (4), respectively, and, in par. (3), substituted "Contents.—Each report submitted under paragraph (1) or (2)" for "In general.—Not later than March 31 each year, beginning in 2010, the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation and the Deputy Assistant Secretary of Defense for Systems Engineering shall each submit to the congressional defense committees a report on the activities undertaken pursuant to subsections (a) and (b) during the preceding year. Each report".
 
@@ -211,3 +231,9 @@ Pub. L. 113–291, div. A, title II, §221(b), Dec. 19, 2014, 128 Stat. 3330, pr
 #### Effective Date of 2011 Amendment ####
 
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under section 131 of this title.
+
+[<sup>1</sup> So in original. Probably should be capitalized.](#139b_1)
+
+[<sup>2</sup> So in original. The "; and" probably should be a period.](#139b_2)
+
+[<sup>3</sup> See References in Text note below.](#139b_3)

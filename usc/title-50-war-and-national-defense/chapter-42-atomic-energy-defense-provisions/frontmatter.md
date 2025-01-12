@@ -24,7 +24,7 @@ Sec.
 
 2522. Stockpile stewardship criteria.
 
-2523. Nuclear weapons stockpile stewardship, management, and infrastructure plan.
+2523. Nuclear weapons stockpile stewardship, management, and responsiveness plan.
 
 2523a. Repealed.
 
@@ -60,11 +60,15 @@ Sec.
 
 2536. Reports on lifetime extension programs.
 
-2537. Selected Acquisition Reports and independent cost estimates and reviews of life extension programs and new nuclear facilities.
+2537. Selected Acquisition Reports and independent cost estimates and reviews of certain programs and facilities.
 
 2538. Advice to President and Congress regarding safety, security, and reliability of United States nuclear weapons stockpile.
 
 2538a. Plutonium pit production capacity.
+
+2538b. Stockpile responsiveness program.
+
+2538c. Long-term plan for meeting national security requirements for unencumbered uranium.
 
 #### Part B—Tritium ####
 
@@ -106,6 +110,8 @@ Sec.
 
 2574. Enhancing nuclear forensics capabilities.
 
+2575. Defense nuclear nonproliferation management plan.
+
 #### SUBCHAPTER IV—DEFENSE ENVIRONMENTAL CLEANUP MATTERS ####
 
 #### Part A—Defense Environmental Cleanup ####
@@ -136,6 +142,8 @@ Sec.
 
 2602. Reports in connection with permanent closures of Department of Energy defense nuclear facilities.
 
+2603. Plan for deactivation and decommissioning of nonoperational defense nuclear facilities.
+
 #### Part C—Hanford Reservation, Washington ####
 
 2621. Safety measures for waste tanks at Hanford Nuclear Reservation.
@@ -147,6 +155,8 @@ Sec.
 2624. Funding for termination costs of River Protection Project, Richland, Washington.
 
 2625. Plan for tank farm waste at Hanford Nuclear Reservation.
+
+2626. Hanford Waste Treatment and Immobilization Plant contract oversight.
 
 #### Part D—Savannah River Site, South Carolina ####
 
@@ -283,6 +293,8 @@ Sec.
 2781. Costs not allowed under covered contracts.
 
 2782. Prohibition and report on bonuses to contractors operating defense nuclear facilities.
+
+2782a. Assessments of emergency preparedness of defense nuclear facilities.
 
 2783. Contractor liability for injury or loss of property arising out of atomic weapons testing programs.
 

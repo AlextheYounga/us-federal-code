@@ -70,7 +70,11 @@ Sec.
 
 4361. Policy on sexual harassment and sexual violence.
 
+4362. Support of athletic programs.
+
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title V, §557(b), Nov. 25, 2015, 129 Stat. 827, added item 4362.
 
 **2008**—Pub. L. 110–417, [div. A], title V, §541(a)(2), Oct. 14, 2008, 122 Stat. 4455, added item 4345a.
 

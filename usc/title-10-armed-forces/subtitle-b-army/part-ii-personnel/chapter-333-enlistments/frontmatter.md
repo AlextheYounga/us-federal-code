@@ -4,9 +4,7 @@ Sec.
 
 3251. Definition.
 
-3252. Bonus to encourage Army personnel to refer persons for enlistment in the Army.
-
-[3253 to 3256. Repealed.]
+[3252 to 3256. Repealed.]
 
 3258. Regular Army: reenlistment after service as an officer.
 
@@ -17,6 +15,8 @@ Sec.
 [3263, 3264. Repealed.]
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–92, div. A, title VI, §618(b), Nov. 25, 2015, 129 Stat. 841, struck out item 3252 "Bonus to encourage Army personnel to refer persons for enlistment in the Army".
 
 **2008**—Pub. L. 110–181, div. A, title VI, §671(a)(2), Jan. 28, 2008, 122 Stat. 182, added item 3252.
 

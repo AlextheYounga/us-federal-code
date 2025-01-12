@@ -532,31 +532,33 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
-#### Proc. No. 9129. Armed Forces Day ####
+#### Proc. No. 9283. Armed Forces Day ####
 
-Proc. No. 9129, May 16, 2014, 79 F.R. 29321, provided:
+Proc. No. 9283, May 15, 2015, 80 F.R. 29199, provided:
 
-In every generation, there are men and women who stand apart. They put on the uniform and put their lives on the line so the rest of us might live in a safer, freer, more just world. They defend us in times of peace, times of war, and times of crisis, both natural and man-made. On Armed Forces Day, we honor the Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen who render the highest service any American can offer.
+At the heart of our Nation is the idea that we are each endowed with certain unalienable rights. We hold this truth to be self-evident, but from the moment a small band of patriots first came together to declare independence, we have never believed it to be self-executing. From Lexington and Concord to Iraq and Afghanistan, brave women and men have fought to defend the blessings of liberty and freedom and to protect the way of life we cherish. On Armed Forces Day, we salute the unbroken chain of Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen who have continuously secured and renewed the promise of our Nation.
 
-The patriots who stand sentry for our security are a proud link in an unbroken chain that stretches through the centuries. This generation has distinguished itself on mission after mission, tour after tour. Because of their heroism, the core of al-Qaeda is severely degraded and our homeland is more secure. Thanks to their extraordinary sacrifice, we are winding down more than a decade of war and strengthening alliances that extend our values. These are the gifts they have given us, and this is why we owe them a profound debt of gratitude.
+This year, as we celebrate the 70th anniversary of the end of World War II, we honor the generation that triumphed over tyranny and laid a foundation for peace around the world. In the face of oppression, more than 16 million Americans left everything they knew and everyone they loved to fight for freedom far from home. Today, this legacy of extraordinary service is carried forward by patriots who protect the same liberties our parents and grandparents fought for. Year after year, tour after tour, the members of our Armed Forces serve with honor and distinction. Their sacrifice makes our Nation more free and more safe, and in their example, we see the best of America.
 
-It is our obligation to ensure our troops have all they need to complete their missions abroad, but we must also support them when they return home. We must care for the families who serve alongside them and fulfill our promises today, tomorrow, and forever. And we must demonstrate our thanks by building a Nation worthy of their sacrifices, a Nation that lives up to our founding ideals and allows every citizen to write their chapter of the American story.
+As we pay tribute to today's servicemen and women, we acknowledge the obligations we have to all who serve in our name. This sacred trust requires that we fulfill our promise and guarantee that these patriots, and the families who serve alongside them, have all the resources and benefits they have earned and deserve—supporting them as they carry out their missions and ensuring they get their shot at the American dream they helped to defend. As a Nation, we are called to recognize the enormous debt of gratitude we owe the members of our Armed Forces, and we must never forget those who laid down their lives to safeguard our freedoms, or their loved ones who carry their legacies forward.
 
-NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
+Today and every day, let us celebrate the women and men who make our military the greatest fighting force the world has ever known. As a grateful Nation, let us show our appreciation by working to uphold the values they protect every day and by continuing to strive to build a country worthy of their enormous sacrifice.
 
-I direct the Secretary of Defense on behalf of the Army, Navy, Air Force, and Marine Corps, and the Secretary of Homeland Security on behalf of the Coast Guard, to plan for appropriate observances each year, with the Secretary of Defense responsible for encouraging the participation and cooperation of civil authorities and private citizens.
+NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day. I direct the Secretary of Defense on behalf of the Army, Navy, Air Force, and Marine Corps, and the Secretary of Homeland Security on behalf of the Coast Guard, to plan for appropriate observances each year, with the Secretary of Defense responsible for encouraging the participation and cooperation of civil authorities and private citizens.
 
-I invite the Governors of the States, the Commonwealth of Puerto Rico, and other areas subject to the jurisdiction of the United States, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic leaders, and organizations to join in the observance of Armed Forces Day.
+I invite the Governors of the United States and its Territories, and appropriate officials of all units of government, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic leaders, and organizations to join in the observance of Armed Forces Day.
 
 Finally, I call upon all Americans to display the flag of the United States at their homes on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day. I also encourage Americans to volunteer at organizations that provide support to our troops and their families.
 
-Proclamation 8984 of May 17, 2013, is hereby superseded.
+Proclamation 9129 of May 16, 2014, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this sixteenth day of May, in the year of our Lord two thousand fourteen, and of the Independence of the United States of America the two hundred and thirty-eighth.
+IN WITNESS WHEREOF, I have hereunto set my hand this fifteenth day of May, in the year of our Lord two thousand fifteen, and of the Independence of the United States of America the two hundred and thirty-ninth.
 
 Barack Obama.
 
 Prior similar proclamations were contained in the following:
+
+Proc. No. 9129, May 16, 2014, 79 F.R. 29321, superseded by Proc. No. 9283, May 15, 2015, 80 F.R. 29200.
 
 Proc. No. 8984, May 17, 2013, 78 F.R. 30731, superseded by Proc. No. 9129, May 16, 2014, 79 F.R. 29321.
 
