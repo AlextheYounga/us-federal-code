@@ -46,7 +46,7 @@ The Advisory Committee shall—
 
 (1) provide advice and recommendations to the Secretary concerning policy and program development and other matters of significance concerning the activities under section 293k of this title;
 
-(2) not later than 3 years after November 13, 1998, and annually thereafter, prepare and submit to the Secretary, and the Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives, a report describing the activities of the Committee, including findings and recommendations made by the Committee concerning the activities under section 293k of this title;
+(2) not later than 3 years after November 13, 1998, and annually thereafter, prepare and submit to the Secretary, and the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, a report describing the activities of the Committee, including findings and recommendations made by the Committee concerning the activities under section 293k of this title;
 
 (3) develop, publish, and implement performance measures for programs under this part;
 
@@ -78,7 +78,7 @@ The members of the Advisory Committee shall be allowed travel expenses, includin
 
 The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act do not conflict with the requirements of this section.
 
-(July 1, 1944, ch. 373, title VII, §749, formerly §748, as added Pub. L. 105–392, title I, §102(4), Nov. 13, 1998, 112 Stat. 3539; renumbered §749 and amended Pub. L. 111–148, title V, §§5103(d)(1), 5303(1), Mar. 23, 2010, 124 Stat. 605, 618.)
+(July 1, 1944, ch. 373, title VII, §749, formerly §748, as added Pub. L. 105–392, title I, §102(4), Nov. 13, 1998, 112 Stat. 3539; renumbered §749 and amended Pub. L. 111–148, title V, §§5103(d)(1), 5303(1), Mar. 23, 2010, 124 Stat. 605, 618; Pub. L. 116–136, div. A, title III, §3401(5), Mar. 27, 2020, 134 Stat. 386.)
 
 #### References in Text ####
 
@@ -98,13 +98,9 @@ Another prior section 749 of act July 1, 1944, was classified to section 294s of
 
 #### Amendments ####
 
+**2020**—Subsec. (d)(2). Pub. L. 116–136 substituted "Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives" for "Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives".
+
 **2010**—Subsec. (d)(3) to (5). Pub. L. 111–148, §5103(d)(1), added pars. (3) to (5).
-
-#### Change of Name ####
-
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Termination of Advisory Committees ####
 

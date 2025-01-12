@@ -18,7 +18,7 @@ The Advisory Council shall be composed of—
 
 (iii) 2 shall be selected from practicing professional nurses; and
 
-(iv) 9 shall be selected from among the leading authorities in the various fields of nursing, higher, secondary education, and associate degree schools of nursing, and from representatives of advanced education nursing groups (such as nurse practitioners, nurse midwives, and nurse anesthetists), hospitals, and other institutions and organizations which provide nursing services; and
+(iv) 9 shall be selected from among the leading authorities in the various fields of nursing, higher, secondary education, and associate degree schools of nursing, and from representatives of advanced education nursing groups (such as nurse practitioners, nurse midwives, nurse anesthetists, and clinical nurse specialists), hospitals, and other institutions and organizations which provide nursing services; and
 
 (B) the Secretary (or the delegate of the Secretary (who shall be an ex officio member and shall serve as the Chairperson)).
 
@@ -48,7 +48,7 @@ The Advisory Council shall—
 
 (2) provide advice to the Secretary and Congress in the preparation of general regulations and with respect to policy matters arising in the administration of this subchapter, including the range of issues relating to nurse supply, education and practice improvement; and
 
-(3) not later than 3 years after November 13, 1998, and annually thereafter, prepare and submit to the Secretary, the Committee on Labor and Human Resources of the Senate, and the Committee on Commerce of the House of Representatives, a report describing the activities of the Council, including findings and recommendations made by the Council concerning the activities under this subchapter.
+(3) not later than 2 years after the date of enactment of the Title VIII Nursing Reauthorization Act,<sup><a href="#297t_1_target" name="297t_1">1</a></sup> and annually thereafter, prepare and submit to the Secretary, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives, a report describing the activities of the Council, including findings and recommendations made by the Council concerning the activities under this subchapter.
 
 #### (e) Meetings and documents ####
 
@@ -72,15 +72,17 @@ The members of the Advisory Council shall be allowed travel expenses, including 
 
 #### (g) Funding ####
 
-Amounts appropriated under this subchapter may be utilized by the Secretary to support the nurse education and practice activities of the Council.
+Amounts appropriated for carrying out parts B, C, and D may be utilized by the Secretary to support the nurse education and practice activities of the Council.
 
 #### (h) FACA ####
 
 The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act do not conflict with the requirements of this section.
 
-(July 1, 1944, ch. 373, title VIII, §851, formerly §845, as added Pub. L. 105–392, title I, §123(5), Nov. 13, 1998, 112 Stat. 3572; renumbered §851, Pub. L. 111–148, title V, §5310(b)(8)(A), Mar. 23, 2010, 124 Stat. 631.)
+(July 1, 1944, ch. 373, title VIII, §851, formerly §845, as added Pub. L. 105–392, title I, §123(5), Nov. 13, 1998, 112 Stat. 3572; renumbered §851, Pub. L. 111–148, title V, §5310(b)(8)(A), Mar. 23, 2010, 124 Stat. 631; amended Pub. L. 116–136, div. A, title III, §3404(a)(11), Mar. 27, 2020, 134 Stat. 394.)
 
 #### References in Text ####
+
+The date of enactment of the Title VIII Nursing Reauthorization Act, referred to in subsec. (d)(3), probably means the date of the enactment of S. 1399 of the 116th Congress, which was not enacted into law but which contained a predecessor provision to section 3404(a)(11) of Pub. L. 116–136, which amended this section and was approved Mar. 27, 2020. Section 1 of S. 1399, as reported to the Senate on Nov. 5, 2019, provided that: "This Act may be cited as the 'Title VIII Nursing Workforce Reauthorization Act of 2019'."
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -90,16 +92,20 @@ November 13, 1998, referred to in subsec. (b)(2), was in the original "the date 
 
 #### Prior Provisions ####
 
-A prior section 851 of act July 1, 1944, was renumbered section 861 and is classified to section 297w of this title.
+A prior section 851 of act July 1, 1944, was renumbered section 861 and classified to section 297w of this title, prior to repeal by Pub. L. 116–136.
 
 Another prior section 851 of act July 1, 1944, was classified to section 298 of this title, prior to repeal by Pub. L. 105–392.
 
-#### Change of Name ####
+#### Amendments ####
 
-Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+**2020**—Subsec. (b)(1)(A)(iv). Pub. L. 116–136, §3404(a)(11)(A), substituted "nurse anesthetists, and clinical nurse specialists" for "and nurse anesthetists".
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Subsec. (d)(3). Pub. L. 116–136, §3404(a)(11)(B), substituted "2 years after the date of enactment of the Title VIII Nursing Reauthorization Act" for "3 years after November 13, 1998" and "Health, Education, Labor, and Pensions" for "Labor and Human Resources" and inserted "Energy and" before "Commerce".
+
+Subsec. (g). Pub. L. 116–136, §3404(a)(11)(C), substituted "for carrying out parts B, C, and D" for "under this subchapter".
 
 #### Termination of Advisory Committees ####
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+
+[<sup>1</sup> See References in Text note below.](#297t_1)

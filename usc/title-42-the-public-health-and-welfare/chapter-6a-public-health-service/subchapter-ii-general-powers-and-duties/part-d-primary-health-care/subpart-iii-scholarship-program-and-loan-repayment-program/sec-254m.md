@@ -8,13 +8,13 @@ Except as provided in section 254n of this title, each individual who has entere
 
 (1) If an individual is required under subsection (a) to provide service as specified in section 254l(f)(1)(B)(v) or 254l–1(f)(1)(B)(iv) of this title (hereinafter in this subsection referred to as "obligated service"), the Secretary shall, not later than ninety days before the date described in paragraph (5), determine if the individual shall provide such service—
 
-(A) as a member of the Corps who is a commissioned officer in the Regular or Reserve Corps of the Service or who is a civilian employee of the United States, or
+(A) as a member of the Corps who is a commissioned officer in the Regular or Reserve Corps <sup><a href="#254m_1_target" name="254m_1">1</a></sup> of the Service or who is a civilian employee of the United States, or
 
 (B) as a member of the Corps who is not such an officer or employee,
 
 and shall notify such individual of such determination.
 
-(2) If the Secretary determines that an individual shall provide obligated service as a member of the Corps who is a commissioned officer in the Service or a civilian employee of the United States, the Secretary shall, not later than sixty days before the date described in paragraph (5), provide such individual with sufficient information regarding the advantages and disadvantages of service as such a commissioned officer or civilian employee to enable the individual to make a decision on an informed basis. To be eligible to provide obligated service as a commissioned officer in the Service, an individual shall notify the Secretary, not later than thirty days before the date described in paragraph (5), of the individual's desire to provide such service as such an officer. If an individual qualifies for an appointment as such an officer, the Secretary shall, as soon as possible after the date described in paragraph (5), appoint the individual as a commissioned officer of the Regular or Reserve Corps of the Service and shall designate the individual as a member of the Corps.
+(2) If the Secretary determines that an individual shall provide obligated service as a member of the Corps who is a commissioned officer in the Service or a civilian employee of the United States, the Secretary shall, not later than sixty days before the date described in paragraph (5), provide such individual with sufficient information regarding the advantages and disadvantages of service as such a commissioned officer or civilian employee to enable the individual to make a decision on an informed basis. To be eligible to provide obligated service as a commissioned officer in the Service, an individual shall notify the Secretary, not later than thirty days before the date described in paragraph (5), of the individual's desire to provide such service as such an officer. If an individual qualifies for an appointment as such an officer, the Secretary shall, as soon as possible after the date described in paragraph (5), appoint the individual as a commissioned officer of the Regular or Reserve Corps <sup><a href="#254m_1_target" name="254m_1">1</a></sup> of the Service and shall designate the individual as a member of the Corps.
 
 (3) If an individual provided notice by the Secretary under paragraph (2) does not qualify for appointment as a commissioned officer in the Service, the Secretary shall, as soon as possible after the date described in paragraph (5), appoint such individual as a civilian employee of the United States and designate the individual as a member of the Corps.
 
@@ -40,7 +40,7 @@ and shall notify such individual of such determination.
 
 An individual shall be considered to have begun serving a period of obligated service—
 
-(1) on the date such individual is appointed as an officer in a Regular or Reserve Corps of the Service or is designated as a member of the Corps under subsection (b)(3) or (b)(4), or
+(1) on the date such individual is appointed as an officer in a Regular or Reserve Corps <sup><a href="#254m_1_target" name="254m_1">1</a></sup> of the Service or is designated as a member of the Corps under subsection (b)(3) or (b)(4), or
 
 (2) in the case of an individual who has entered into an agreement with the Secretary under section 254n of this title, on the date specified in such agreement,
 
@@ -120,6 +120,10 @@ Subsec. (b)(5)(B). Pub. L. 96–76, §202(b)(3), substituted "referred to in sub
 
 **1978**—Subsec. (d). Pub. L. 95–626 substituted "subpart II of part D" for "subpart II of part C".
 
+#### Change of Name ####
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of this title.
+
 #### Effective Date of 1981 Amendment ####
 
 Pub. L. 97–35, title XXVII, §2709(h), Aug. 13, 1981, 95 Stat. 912, provided that: "The amendments made by paragraphs (2), (3), and (5)(B) of subsection (c) [amending this section] shall apply with respect to contracts entered into under the National Health Service Corps scholarship program under subpart III of part C of title VII of the Public Health Service Act [42 U.S.C. 294r et seq.] after the date of the enactment of this Act [Aug. 13, 1981]. An individual who before such date has entered into such a contract and who has not begun the period of obligated service required under such contract shall be given the opportunity to revise such contract to permit the individual to serve such period as a member of the National Health Service Corps who is not an employee of the United States."
@@ -141,3 +145,5 @@ Similar provisions were contained in the following prior appropriation acts:
 Pub. L. 100–202, §101(g) [title II], Dec. 22, 1987, 101 Stat. 1329–213, 1329–246.
 
 Pub. L. 99–500, §101(h) [title II], Oct. 18, 1986, 100 Stat. 1783–242, 1783–277, and Pub. L. 99–591, §101(h) [title II], Oct. 30, 1986, 100 Stat. 3341–242, 3341–277.
+
+[<sup>1</sup> See Change of Name note below.](#254m_1)

@@ -2,9 +2,9 @@
 
 (a) The Secretary of Defense, with respect to the Army, Navy, and Air Force, and the Secretary of Health and Human Services, with respect to the Public Health Service, shall prescribe regulations for the administration of sections 301d, 302 through 302j, and 303 of this title.
 
-(b)(1) Except as provided in paragraph (2) or as otherwise provided under a provision of this chapter, a commissioned officer in the Regular or Reserve Corps of the Public Health Service is entitled to special pay under a provision of this chapter in the same amounts, and under the same terms and conditions, as a commissioned officer of the armed forces is entitled to special pay under that provision.
+(b)(1) Except as provided in paragraph (2) or as otherwise provided under a provision of this chapter, a commissioned officer in the Regular or Reserve Corps <sup><a href="#303a_1_target" name="303a_1">1</a></sup> of the Public Health Service is entitled to special pay under a provision of this chapter in the same amounts, and under the same terms and conditions, as a commissioned officer of the armed forces is entitled to special pay under that provision.
 
-(2) A commissioned medical officer in the Regular or Reserve Corps of the Public Health Service (other than an officer serving in the Indian Health Service) may not receive additional special pay under section 302(a)(4) of this title for any period during which the officer is providing obligated service under the following provisions of law:
+(2) A commissioned medical officer in the Regular or Reserve Corps <sup><a href="#303a_1_target" name="303a_1">1</a></sup> of the Public Health Service (other than an officer serving in the Indian Health Service) may not receive additional special pay under section 302(a)(4) of this title for any period during which the officer is providing obligated service under the following provisions of law:
 
 (A) Section 338B of the Public Health Service Act (42 U.S.C. 254l–1).
 
@@ -132,6 +132,10 @@ Subsec. (c). Pub. L. 101–510, §§611(d), 1322(c)(2), 1484(c)(1), inserted "30
 
 Subsec. (b). Pub. L. 96–513, §506(6)(B), (C), struck out reference to section 302c of this title and inserted reference to separation pay.
 
+#### Change of Name ####
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 2008 Amendment ####
 
 Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Sept. 11, 2001, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of Title 5, Government Organization and Employees.
@@ -147,3 +151,5 @@ Amendment by Pub. L. 100–140 effective Oct. 26, 1987, and applicable to pay pe
 #### Effective Date of 1980 Amendment ####
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
+
+[<sup>1</sup> See Change of Name note below.](#303a_1)

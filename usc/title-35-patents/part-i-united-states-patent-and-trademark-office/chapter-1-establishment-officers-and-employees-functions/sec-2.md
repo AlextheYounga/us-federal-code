@@ -118,6 +118,38 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
+#### Temporary Authority of Director of the USPTO During the COVID–19 Emergency ####
+
+Pub. L. 116–136, div. B, title II, §12004, Mar. 27, 2020, 134 Stat. 517, provided that:
+
+"(a) In General.—During the emergency period described in subsection (e), the Director may toll, waive, adjust, or modify, any timing deadline established by title 35, United States Code, the Trademark Act, section 18 of the Leahy-Smith America Invents Act [Pub. L. 112–29] (35 U.S.C. 321 note), or regulations promulgated thereunder, in effect during such period, if the Director determines that the emergency related to such period—
+
+"(1) materially affects the functioning of the Patent and Trademark Office;
+
+"(2) prejudices the rights of applicants, registrants, patent owners, or others appearing before the Office; or
+
+"(3) prevents applicants, registrants, patent owners, or others appearing before the Office from filing a document or fee with the Office.
+
+"(b) Public Notice.—If the Director determines that tolling, waiving, adjusting, or modifying a timing deadline under subsection (a) is appropriate, the Director shall publish publicly a notice to such effect.
+
+"(c) Statement Required.—Not later than 20 days after the Director tolls, waives, adjusts, or modifies a timing deadline under subsection (a) and such toll, waiver, adjustment, or modification is in effect for a consecutive or cumulative period exceeding 120 days, the Director shall submit to Congress a statement describing the action taken, relevant background, and rationale for the period of tolling, waiver, adjustment, or modification.
+
+"(d) Other Laws.—Notwithstanding section 301 of the National Emergencies Act (50 U.S.C. 1631), the authority of the Director under subsection (a) is not contingent on a specification made by the President under such section or any other requirement under that Act [50 U.S.C. 1601 et seq.] (other than the emergency declaration under section 201(a) of such Act (50 U.S.C. 1621(a))). The authority described in this section supersedes the authority of title II of the National Emergencies Act (50 U.S.C. 1621 et seq.).
+
+"(e) Emergency Period.—The emergency period described in this subsection includes the duration of the portion of the emergency declared by the President pursuant to the National Emergencies Act on March 13, 2020, as a result of the COVID–19 outbreak (and any renewal thereof) beginning on or after the date of the enactment of this section [Mar. 27, 2020] and the 60 day period following such duration.
+
+"(f) Rule of Construction.—Nothing in this section may be construed as limiting other statutory authorities the Director may have to grant relief regarding filings or deadlines.
+
+"(g) Sunset.—Notwithstanding subsection (a), the authorities provided under this section shall expire upon the expiration of the 2-year period after the date of the enactment of this section.
+
+"(h) Definitions.—In this section:
+
+"(1) Director.—The term 'Director' means the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office.
+
+"(2) Trademark act.—The term 'Trademark Act' means the Act entitled 'An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes', approved July 5, 1946 (15 U.S.C. 1051 et seq.).
+
+"(i) Emergency Requirement.—The amount provided by this section is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 [2 U.S.C. 901(b)(2)(A)(i)]."
+
 #### USPTO Law School Clinic Certification Program ####
 
 Pub. L. 113–227, §1, Dec. 16, 2014, 128 Stat. 2114, provided that:

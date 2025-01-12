@@ -12,7 +12,7 @@
 
 (A) of a Reserve component of the Army, Navy, or Air Force who is designated as an optometry officer; or
 
-(B) who is an optometry officer of the Reserve Corps of the Public Health Service,
+(B) who is an optometry officer of the Reserve Corps <sup><a href="#302a_1_target" name="302a_1">1</a></sup> of the Public Health Service,
 
 who is on active duty as a result of a call or order to active duty for a period of at least one year.
 
@@ -62,6 +62,10 @@ Subsecs. (b), (c). Pub. L. 95–114 reenacted subsec. (b) without change and add
 
 **1973**—Subsec. (a). Pub. L. 93–64 substituted "July 1, 1975" for "July 1, 1973" wherever appearing.
 
+#### Change of Name ####
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 1977 Amendment ####
 
 Pub. L. 95–114, §4, Sept. 30, 1977, 91 Stat. 1047, provided that: "The amendments made by sections 2 and 3 of this Act [amending this section and section 303 of this title] become effective on October 1, 1977."
@@ -89,3 +93,5 @@ Pub. L. 101–510, div. A, title VI, §617(b), Nov. 5, 1990, 104 Stat. 1579, pro
 #### Pay Continuation ####
 
 Enactment of this section not to reduce the pay to which any member of the uniformed services was entitled on June 30, 1971, see section 210 of Pub. L. 92–129, set out as a note under section 203 of this title.
+
+[<sup>1</sup> See Change of Name note below.](#302a_1)

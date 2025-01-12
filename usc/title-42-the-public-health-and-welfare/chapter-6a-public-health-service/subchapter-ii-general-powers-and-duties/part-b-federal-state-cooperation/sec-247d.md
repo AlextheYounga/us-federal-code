@@ -241,3 +241,31 @@ Subsec. (d). Pub. L. 107–188, §141, added subsec. (d).
 #### Effective Date of 2002 Amendment ####
 
 Pub. L. 107–188, title I, §144(b), June 12, 2002, 116 Stat. 630, provided that: "The amendment made by subsection (a) [amending this section] applies to any public health emergency under section 319(a) of the Public Health Service Act [42 U.S.C. 247d(a)], including any such emergency that was in effect as of the day before the date of the enactment of this Act [June 12, 2002]. In the case of such an emergency that was in effect as of such day, the 90-day period described in such section with respect to the termination of the emergency is deemed to begin on such date of enactment."
+
+#### Importance of the Blood Supply ####
+
+Pub. L. 116–136, div. A, title III, §3226, Mar. 27, 2020, 134 Stat. 383, provided that:
+
+"(a) In General.—The Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall carry out a national campaign to improve awareness of, and support outreach to the public and health care providers about the importance and safety of blood donation and the need for donations for the blood supply during the public health emergency declared by the Secretary under section 319 of the Public Health Service Act (42 U.S.C. 247d) with respect to COVID–19.
+
+"(b) Awareness Campaign.—In carrying out subsection (a), the Secretary may enter into contracts with one or more public or private nonprofit entities, to establish a national blood donation awareness campaign that may include television, radio, internet, and newspaper public service announcements, and other activities to provide for public and professional awareness and education.
+
+"(c) Consultation.—In carrying out subsection (a), the Secretary shall consult with the Commissioner of Food and Drugs, the Assistant Secretary for Health, the Director of the Centers for Disease Control and Prevention, the Director of the National Institutes of Health, and the heads of other relevant Federal agencies, and relevant accrediting bodies and representative organizations.
+
+"(d) Report to Congress.—Not later than 2 years after the date of enactment of this Act [Mar. 27, 2020], the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report that shall include—
+
+"(1) a description of the activities carried out under subsection (a);
+
+"(2) a description of trends in blood supply donations; and
+
+"(3) an evaluation of the impact of the public awareness campaign, including any geographic or population variations."
+
+#### Reporting by Laboratories of Results of Tests To Detect SARS–CoV–2 or To Diagnose COVID–19 ####
+
+Pub. L. 116–136, div. B, title VIII, §18115(a)–(c), Mar. 27, 2020, 134 Stat. 574, provided that:
+
+"(a) In General.—Every laboratory that performs or analyzes a test that is intended to detect SARS–CoV–2 or to diagnose a possible case of COVID–19 shall report the results from each such test, to the Secretary of Health and Human Services in such form and manner, and at such timing and frequency, as the Secretary may prescribe until the end of the Secretary's Public Health Emergency declaration with respect to COVID–19 or any extension of such declaration.
+
+"(b) Laboratories Covered.—The Secretary may prescribe which laboratories must submit reports pursuant to this section.
+
+"(c) Implementation.—The Secretary may make prescriptions under this section by regulation, including by interim final rule, or by guidance, and may issue such regulations or guidance without regard to the procedures otherwise required by section 553 of title 5, United States Code."

@@ -376,6 +376,22 @@ Pub. L. 111–148, title VII, §7101(e), Mar. 23, 2010, 124 Stat. 823, provided 
 
 "(2) Effectiveness.—The amendments made by this section and section 7102 shall be effective and shall be taken into account in determining whether a manufacturer is deemed to meet the requirements of section 340B(a) of the Public Health Service Act (42 U.S.C. 256b(a)), notwithstanding any other provision of law."
 
+#### Pricing of Diagnostic Testing ####
+
+Pub. L. 116–136, div. A, title III, §3202, Mar. 27, 2020, 134 Stat. 367, provided that:
+
+"(a) Reimbursement Rates.—A group health plan or a health insurance issuer providing coverage of items and services described in section 6001(a) of division F of the Families First Coronavirus Response Act (Public Law 116–127) [42 U.S.C. 1320b–5 note] with respect to an enrollee shall reimburse the provider of the diagnostic testing as follows:
+
+"(1) If the health plan or issuer has a negotiated rate with such provider in effect before the public health emergency declared under section 319 of the Public Health Service Act (42 U.S.C. 247d), such negotiated rate shall apply throughout the period of such declaration.
+
+"(2) If the health plan or issuer does not have a negotiated rate with such provider, such plan or issuer shall reimburse the provider in an amount that equals the cash price for such service as listed by the provider on a public internet website, or such plan or issuer may negotiate a rate with such provider for less than such cash price.
+
+"(b) Requirement to Publicize Cash Price for Diagnostic Testing for COVID–19.—
+
+"(1) In general.—During the emergency period declared under section 319 of the Public Health Service Act (42 U.S.C. 247d), each provider of a diagnostic test for COVID–19 shall make public the cash price for such test on a public internet website of such provider.
+
+"(2) Civil monetary penalties.—The Secretary of Health and Human Services may impose a civil monetary penalty on any provider of a diagnostic test for COVID–19 that is not in compliance with paragraph (1) and has not completed a corrective action plan to comply with the requirements of such paragraph, in an amount not to exceed $300 per day that the violation is ongoing."
+
 #### Study of Treatment of Certain Clinics as Covered Entities Eligible for Prescription Drug Discounts ####
 
 Pub. L. 102–585, title VI, §602(b), Nov. 4, 1992, 106 Stat. 4970, directed Secretary of Health and Human Services to conduct a study of feasibility and desirability of including specified entities receiving funds from a State as covered entities eligible for limitations on prices of covered outpatient drugs under 42 U.S.C. 256b(a) and, not later than 1 year after Nov. 4, 1992, to submit a report to Congress on the study, including in the report a description of the entities that were the subject of the study, an analysis of the extent to which such entities procured prescription drugs, and an analysis of the impact of the inclusion of such entities as covered entities on the quality of care provided to and the health status of the patients of such entities.

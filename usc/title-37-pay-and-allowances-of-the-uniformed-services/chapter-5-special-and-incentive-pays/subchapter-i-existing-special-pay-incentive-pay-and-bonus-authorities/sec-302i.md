@@ -8,7 +8,7 @@
 
 (b) Public Health Service Corps.—Subject to subsection (c), the Secretary of Health and Human Services may pay retention special pay under this section to an officer who—
 
-(1) is an officer in the Regular or Reserve Corps of the Public Health Service and is designated as a pharmacy officer; and
+(1) is an officer in the Regular or Reserve Corps <sup><a href="#302i_1_target" name="302i_1">1</a></sup> of the Public Health Service and is designated as a pharmacy officer; and
 
 (2) is on active duty under a call or order to active duty for a period of not less than one year.
 
@@ -40,6 +40,12 @@ Subsec. (d). Pub. L. 107–314, §615(g)(3), added subsec. (d) and struck out he
 
 "(7) $8,000 per year, if the officer has 18 or more years of creditable service."
 
+#### Change of Name ####
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of Title 42, The Public Health and Welfare.
+
 #### Application of Increase ####
 
 In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amount of special pay or bonus that may be paid during any 12-month period, the amended limitation is applicable to 12-month periods beginning after Sept. 30, 2002, see section 615(i) of Pub. L. 107–314, set out as a note under section 301d of this title.
+
+[<sup>1</sup> See Change of Name note below.](#302i_1)

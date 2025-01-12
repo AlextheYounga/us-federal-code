@@ -4063,6 +4063,254 @@ Pub. L. 110–409, §7(c), Oct. 14, 2008, 122 Stat. 4313, as amended by Pub. L. 
 
 "(B) the last day of the 180-day period beginning on the date of enactment of this Act."
 
+#### Pandemic Response Accountability Committee ####
+
+Pub. L. 116–136, div. B, title V, §15010, Mar. 27, 2020, 134 Stat. 533, provided that:
+
+"(a) In this section—
+
+"(1) the term 'agency' has the meaning given the term in section 551 of title 5, United States Code;
+
+"(2) the term 'appropriate congressional committees' means—
+
+"(A) the Committees on Appropriations of the Senate and the House of Representatives;
+
+"(B) the Committee on Homeland Security and Governmental Affairs of the Senate;
+
+"(C) the Committee on Oversight and Reform of the House of Representatives; and
+
+"(D) any other relevant congressional committee of jurisdiction;
+
+"(3) the term 'Chairperson' means the Chairperson of the Committee;
+
+"(4) the term 'Council' means the Council of the Inspectors General on Integrity and Efficiency established under section 11 of the Inspector General Act of 1978 (5 U.S.C. App);
+
+"(5) the term 'Committee' means the Pandemic Response Accountability Committee established under subsection (b);
+
+"(6) the term 'covered funds' means any funds, including loans, that are made available in any form to any non-Federal entity, not including an individual, under—
+
+"(A) this Act [div. B of Pub. L. 116–136, see Tables for classification];
+
+"(B) the Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (Public Law 116–123);
+
+"(C) the Families First Coronavirus Response Act (Public Law 116–127); or
+
+"(D) any other Act primarily making appropriations for the Coronavirus response and related activities; and
+
+"(7) the term 'Coronavirus response' means the Federal Government's response to the nationwide public health emergency declared by the Secretary of Health and Human Services, retroactive to January 27, 2020, pursuant to section 319 of the Public Health Service Act (42 U.S.C. 247d), as a result of confirmed cases of the novel coronavirus (COVID–19) in the United States.
+
+"(b) There is established within the Council the Pandemic Response Accountability Committee to promote transparency and conduct and support oversight of covered funds and the Coronavirus response to—
+
+"(1) prevent and detect fraud, waste, abuse, and mismanagement; and
+
+"(2) mitigate major risks that cut across program and agency boundaries.
+
+"(c)(1) The Chairperson of the Committee shall be selected by the Chairperson of the Council from among Inspectors General described in subparagraphs (B), (C), and (D) of paragraph (2) with experience managing oversight of large organizations and expenditures.
+
+"(2) The members of the Committee shall include—
+
+"(A) the Chairperson;
+
+"(B) the Inspectors General of the Departments of Defense, Education, Health and Human Services, Homeland Security, Justice, Labor, and the Treasury;
+
+"(C) the Inspector General of the Small Business Administration;
+
+"(D) the Treasury Inspector General for Tax Administration; and
+
+"(E) any other Inspector General, as designated by the Chairperson from any agency that expends or obligates covered funds or is involved in the Coronavirus response.
+
+"(3)(A) There shall be an Executive Director and a Deputy Executive Director of the Committee.
+
+"(B)(i)(I) Not later than 30 days after the date of enactment of this Act [Mar. 27, 2020], the Executive Director of the Committee shall be appointed by the Chairperson of the Council, in consultation with the majority leader of the Senate, the Speaker of the House of Representatives, the minority leader of the Senate, and the minority leader of the House of Representatives.
+
+"(II) Not later than 90 days after the date of enactment of this Act, the Deputy Executive Director of the Committee shall be appointed by the Chairperson of the Council, in consultation with the majority leader of the Senate, the Speaker of the House of Representatives, the minority leader of the Senate, the minority leader of the House of Representatives, and the Executive Director of the Committee.
+
+"(ii) The Executive Director and the Deputy Executive Director of the Committee shall—
+
+"(I) have demonstrated ability in accounting, auditing, and financial analysis;
+
+"(II) have experience managing oversight of large organizations and expenditures; and
+
+"(III) be full-time employees of the Committee.
+
+"(C) The Executive Director of the Committee shall—
+
+"(i) report directly to the Chairperson;
+
+"(ii) appoint staff of the Committee, subject to the approval of the Chairperson, consistent with subsection (f);
+
+"(iii) supervise and coordinate Committee functions and staff; and
+
+"(iv) perform any other duties assigned to the Executive Director by the Committee.
+
+"(4)(A) Members of the Committee may not receive additional compensation for services performed.
+
+"(B) The Executive Director and Deputy Executive Director of the Committee shall be compensated at the rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+
+"(d)(1)(A) The Committee shall conduct and coordinate oversight of covered funds and the Coronavirus response and support Inspectors General in the oversight of covered funds and the Coronavirus response in order to—
+
+"(i) detect and prevent fraud, waste, abuse, and mismanagement; and
+
+"(ii) identify major risks that cut across programs and agency boundaries.
+
+"(B) The functions of the Committee shall include—
+
+"(i) developing a strategic plan to ensure coordinated, efficient, and effective comprehensive oversight by the Committee and Inspectors General over all aspects of covered funds and the Coronavirus response;
+
+"(ii) auditing or reviewing covered funds, including a comprehensive audit and review of charges made to Federal contracts pursuant to authorities provided in the Coronavirus Aid, Relief, and Economic Security Act [Pub. L. 116–136], to determine whether wasteful spending, poor contract or grant management, or other abuses are occurring and referring matters the Committee considers appropriate for investigation to the Inspector General for the agency that disbursed the covered funds, including conducting randomized audits to identify fraud;
+
+"(iii) reviewing whether the reporting of contracts and grants using covered funds meets applicable standards and specifies the purpose of the contract or grant and measures of performance;
+
+"(iv) reviewing the economy, efficiency, and effectiveness in the administration of, and the detection of fraud, waste, abuse, and mismanagement in, Coronavirus response programs and operations;
+
+"(v) reviewing whether competition requirements applicable to contracts and grants using covered funds have been satisfied;
+
+"(vi) serving as a liaison to the Director of the Office of Management and Budget, the Secretary of the Treasury, and other officials responsible for implementing the Coronavirus response;
+
+"(vii) reviewing whether there are sufficient qualified acquisition, grant, and other applicable personnel overseeing covered funds and the Coronavirus response;
+
+"(viii) reviewing whether personnel whose duties involve the Coronavirus response or acquisitions or grants made with covered funds or are otherwise related to the Coronavirus response receive adequate training, technology support, and other resources;
+
+"(ix) reviewing whether there are appropriate mechanisms for interagency collaboration relating to the oversight of covered funds and the Coronavirus response, including coordinating and collaborating to the extent practicable with State and local government entities;
+
+"(x) expeditiously reporting to the Attorney General any instance in which the Committee has reasonable grounds to believe there has been a violation of Federal criminal law; and
+
+"(xi) coordinating and supporting Inspectors General on matters related to oversight of covered funds and the Coronavirus response.
+
+"(2)(A)(i) The Committee shall submit to the President and Congress, including the appropriate congressional committees, management alerts on potential management, risk, and funding problems that require immediate attention.
+
+"(ii) The Committee shall submit to Congress such other reports or provide such periodic updates on the work of the Committee as the Committee considers appropriate on the use of covered funds and the Coronavirus response.
+
+"(B) The Committee shall submit biannual reports to the President and Congress, including the appropriate congressional committees, and may submit additional reports as appropriate—
+
+"(i) summarizing the findings of the Committee; and
+
+"(ii) identifying and quantifying the impact of any tax expenditures or credits authorized under this Act to the extent practicable.
+
+"(C)(i) All reports submitted under this paragraph shall be made publicly available and posted on the website established under subsection (g).
+
+"(ii) Any portion of a report submitted under this paragraph may be redacted when made publicly available, if that portion would disclose information that is not subject to disclosure under sections 552 and 552a of title 5, United States Code, or is otherwise prohibited from disclosure by law.
+
+"(3)(A) The Committee shall make recommendations to agencies on measures to prevent or address fraud, waste, abuse and mismanagement, and to mitigate risks that cut across programs and agency boundaries, relating to covered funds and the Coronavirus response.
+
+"(B) Not later than 30 days after receipt of a recommendation under subparagraph (A), an agency shall submit a report to the President and the appropriate congressional committees on—
+
+"(i) whether the agency agrees or disagrees with the recommendations; and
+
+"(ii) any actions the agency will take to implement the recommendations, which shall also be included in the report required under section 2(b) of the GAO–IG Act [Pub. L. 115–414] (31 U.S.C. 1105 note).
+
+"(e)(1) The Committee shall conduct audits and reviews of programs, operations, and expenditures relating to covered funds and the Coronavirus response and coordinate on such activities with the Inspector General of the relevant agency to avoid unnecessary duplication and overlap of work.
+
+"(2) The Committee may—
+
+"(A) conduct its own independent investigations, audits, and reviews relating to covered funds or the Coronavirus response;
+
+"(B) collaborate on audits and reviews relating to covered funds with any Inspector General of an agency; and
+
+"(C) provide support to relevant agency Inspectors General in conducting investigations, audits, and reviews relating to the covered funds and Coronavirus response.
+
+"(3)(A) In conducting and supporting investigations, audits, and reviews under this subsection, the Committee—
+
+"(i) shall have the authorities provided under section 6 of the Inspector General Act of 1978 (5 U.S.C. App.);
+
+"(ii) may issue subpoenas to compel the testimony of persons who are not Federal officers or employees; and
+
+"(iii) may enforce such subpoenas in the event of a refusal to obey by order of any appropriate United States district court as provided for under section 6 of the Inspector General Act of 1978 (5 U.S.C. App).
+
+"(B) The Committee shall carry out the powers under paragraphs (1) and (2) in accordance with section 4(b)(1) of the Inspector General Act of 1978 (5 U.S.C. App.).
+
+"(C) Whenever information or assistance requested by the Committee or an Inspector General is unreasonably refused or not provided, the Committee shall immediately report the circumstances to the appropriate congressional committees.
+
+"(D) The Committee shall leverage existing information technology resources within the Council, such as oversight.gov, to carry out the duties of the Committee.
+
+"(4)(A) The Committee may hold public hearings and Committee personnel may conduct necessary inquiries.
+
+"(B) The head of each agency shall make all officers and employees of that agency available to provide testimony to the Committee and Committee personnel.
+
+"(C) The Committee may issue subpoenas to compel the testimony of persons who are not Federal officers or employees at such public hearings, which may be enforced in the same manner as provided for subpoenas under section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+
+"(5) The Committee may enter into contracts to enable the Committee to discharge its duties, including contracts and other arrangements for audits, studies, analyses, and other services with public agencies and with private persons, and make such payments as may be necessary to carry out the duties of the Committee.
+
+"(6) The Committee may establish subcommittees to facilitate the ability of the Committee to discharge its duties.
+
+"(7) The Committee may transfer funds appropriated to the Committee for expenses to support administrative support services and audits, reviews, or other activities related to oversight by the Committee of covered funds or the Coronavirus response to any Office of the Inspector General or the General Services Administration.
+
+"(f)(1)(A)(i) Subject to subparagraph (B), the Committee may exercise the authorities of subsections (b) through (i) of section 3161 of title 5, United States Code (without regard to subsection (a) of that section) to carry out the functions of the Committee under this section.
+
+"(ii) For purposes of exercising the authorities described under clause (i), the term 'Chairperson' shall be substituted for the term 'head of a temporary organization'.
+
+"(iii) In exercising the authorities described in clause (i), the Chairperson shall consult with members of the Committee.
+
+"(iv) In addition to the authority provided by section 3161(c) of title 5, United States Code, upon the request of an Inspector General, the Committee may detail, on a nonreimbursable basis, any personnel of the Council to that Inspector General to assist in carrying out any audit, review, or investigation pertaining to the oversight of covered funds or the Coronavirus response.
+
+"(B) In exercising the employment authorities under section 3161(b) of title 5, United States Code, as provided under subparagraph (A) of this paragraph—
+
+"(i) section 3161(b)(2) of that title (relating to periods of appointments) shall not apply; and
+
+"(ii) no period of appointment may exceed the date on which the Committee terminates.
+
+"(C)(i) A person employed by the Committee shall acquire competitive status for appointment to any position in the competitive service for which the employee possesses the required qualifications upon the completion of 2 years of continuous service as an employee under this subsection.
+
+"(ii) No person who is first employed as described in clause (i) more than 2 years after the date of enactment of this Act may acquire competitive status under clause (i).
+
+"(2)(A) The Committee may employ annuitants covered by section 9902(g) of title 5, United States Code, for purposes of the oversight of covered funds or the Coronavirus response.
+
+"(B) The employment of annuitants under this paragraph shall be subject to the provisions of section 9902(g) of title 5, United States Code, as if the Committee was the Department of Defense.
+
+"(3) Upon request of the Committee for information or assistance from any agency or other entity of the Federal Government, the head of such entity shall, insofar as is practicable and not in contravention of any existing law, and consistent with section 6 of the Inspector General Act of 1978 (5 U.S.C. App.), furnish such information or assistance to the Committee, or an authorized designee, including an Inspector General designated by the Chairperson.
+
+"(4) Any Inspector General responsible for conducting oversight related to covered funds or the Coronavirus response may, consistent with the duties, responsibilities, policies, and procedures of the Inspector General, provide information requested by the Committee or an Inspector General on the Committee relating to the responsibilities of the Committee.
+
+"(g)(1)(A) Not later than 30 days after the date of enactment of this Act, the Committee shall establish and maintain a user-friendly, public-facing website to foster greater accountability and transparency in the use of covered funds and the Coronavirus response, which shall have a uniform resource locator that is descriptive and memorable.
+
+"(B) The Committee shall leverage existing information technology and resources, such as oversight.gov, to the greatest extent practicable to meet the requirements under this section.
+
+"(2) The website established and maintained under paragraph (1) shall be a portal or gateway to key information relating to the oversight of covered funds and the Coronavirus response and provide connections to other Government websites with related information.
+
+"(3) In establishing and maintaining the website under paragraph (1), the Committee shall ensure the following:
+
+"(A) The website shall provide materials and information explaining the Coronavirus response and how covered funds are being used. The materials shall be easy to understand and regularly updated.
+
+"(i) The website shall provide accountability information, including findings from Inspectors General, including any progress reports, audits, inspections, or other reports, including reports from or links to reports on the website of the Government Accountability Office.
+
+"(ii) The website shall provide data on relevant operational, economic, financial, grant, subgrant, contract, and subcontract information in user-friendly visual presentations to enhance public awareness of the use of covered funds and the Coronavirus response.
+
+"(iii) The website shall provide detailed data on any Federal Government awards that expend covered funds, including a unique trackable identification number for each project, information about the process that was used to award the covered funds, and for any covered funds over $150,000, a detailed explanation of any associated agreement, where applicable.
+
+"(iv) The website shall include downloadable, machine-readable, open format reports on covered funds obligated by month to each State and congressional district, where applicable.
+
+"(v) The website shall provide a means for the public to give feedback on the performance of any covered funds and of the Coronavirus response, including confidential feedback.
+
+"(vi) The website shall include detailed information on Federal Government awards that expend covered funds, including data elements required under the Federal Funding Accountability and Transparency Act of 2006 [Pub. L. 109–282](31 U.S.C. 6101 note), allowing aggregate reporting on awards below $50,000, as prescribed by the Director of the Office of Management and Budget.
+
+"(vii) The website shall provide a link to estimates of the jobs sustained or created by this Act to the extent practicable.
+
+"(viii) The website shall include appropriate links to other government websites with information concerning covered funds and the Coronavirus response, including Federal agency and State websites.
+
+"(ix) The website shall include a plan from each Federal agency for using covered funds.
+
+"(x) The website shall provide information on Federal allocations of mandatory and other entitlement programs by State, county, or other geographical unit related to covered funds or the Coronavirus response.
+
+"(xi) The website shall present the data such that funds subawarded by recipients are not double counted in search results, data visualizations, or other reports.
+
+"(xii) The website shall include all recommendations made to agencies relating to covered funds and the Coronavirus response, as well as the status of each recommendation.
+
+"(xiii) The website shall be enhanced and updated as necessary to carry out the purposes of this section.
+
+"(4) The Committee may exclude posting contractual or other information on the website on a case-by-case basis when necessary to protect national security or to protect information that is not subject to disclosure under sections 552 and 552a of title 5, United States Code.
+
+"(h)(1) Nothing in this section shall affect the independent authority of an Inspector General to determine whether to conduct an audit or investigation of covered funds or the Coronavirus response.
+
+"(2) If the Committee requests that an Inspector General of an agency conduct or refrain from conducting an audit or investigation and the Inspector General rejects the request in whole or in part, the Inspector General shall, not later than 30 days after rejecting the request, submit a report to the Committee, the head of the applicable agency, and the appropriate congressional committees, that states the reasons that the Inspector General has rejected the request in whole or in part.
+
+"(i) The Committee shall coordinate its oversight activities with the Comptroller General of the United States and State auditors.
+
+"(j) For the purposes of carrying out the mission of the Committee under this section, there are authorized to be appropriated such sums as may be necessary to carry out the duties and functions of the Committee.
+
+"(k) The Committee shall terminate on September 30, 2025."
+
+[For definition of "coronavirus" as used in section 15010 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under section 162b of Title 2, The Congress.]
+
 #### Additional Oversight of Financial Regulatory System ####
 
 Pub. L. 111–203, title IX, §989E, July 21, 2010, 124 Stat. 1946, provided that:

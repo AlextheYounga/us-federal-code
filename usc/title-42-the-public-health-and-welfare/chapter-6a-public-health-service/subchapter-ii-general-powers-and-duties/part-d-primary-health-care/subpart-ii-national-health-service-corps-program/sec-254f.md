@@ -151,3 +151,7 @@ Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the
 #### Effective Date of 1981 Amendment ####
 
 Pub. L. 97–35, title XXVII, §2703(d), Aug. 13, 1981, 95 Stat. 905, provided that the amendment made by that section is effective Oct. 1, 1981.
+
+#### Flexibility for Members of National Health Service Corps During Emergency Period ####
+
+Pub. L. 116–136, div. A, title III, §3216, Mar. 27, 2020, 134 Stat. 375, provided that: "During the public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act (42 U.S.C. 247d) on January 31, 2020, with respect to COVID–19, the Secretary may, notwithstanding section 333 of the Public Health Service Act (42 U.S.C. 254f), assign members of the National Health Service Corps, with the voluntary agreement of such corps members, to provide such health services at such places, and for such number of hours, as the Secretary determines necessary to respond to such emergency, provided that such places are within a reasonable distance of the site to which such members were originally assigned, and the total number of hours required are the same as were required of such members prior to the date of enactment of this Act [Mar. 27, 2020]."

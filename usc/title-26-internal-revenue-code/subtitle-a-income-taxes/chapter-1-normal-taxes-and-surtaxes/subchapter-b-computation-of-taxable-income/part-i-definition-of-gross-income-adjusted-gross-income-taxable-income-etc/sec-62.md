@@ -120,6 +120,10 @@ Any deduction allowable under this chapter for attorney fees and court costs pai
 
 Subparagraph (A) shall not apply to any deduction in excess of the amount includible in the taxpayer's gross income for the taxable year on account of such award.
 
+#### (22) Charitable contributions ####
+
+In the case of taxable years beginning in 2020, the amount (not to exceed $300) of qualified charitable contributions made by an eligible individual during the taxable year.
+
 Nothing in this section shall permit the same item to be deducted more than once. Any deduction allowed by section 199A shall not be treated as a deduction described in any of the preceding paragraphs of this subsection.
 
 #### (b) Qualified performing artist ####
@@ -240,7 +244,35 @@ For purposes of subsection (a)(20), the term "unlawful discrimination" means an 
 
 (ii) regulating any aspect of the employment relationship, including claims for wages, compensation, or benefits, or prohibiting the discharge of an employee, the discrimination against an employee, or any other form of retaliation or reprisal against an employee for asserting rights or taking other actions permitted by law.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272, title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95 Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V, §521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L. 104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898; Pub. L. 106–554, §1(a)(7) [title II, §202(b)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §431(b), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §406(a), (b), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–121, title I, §109(b), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–173, title XII, §1201(b), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title III, §307(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 108–357, title VII, §703(a), (b), Oct. 22, 2004, 118 Stat. 1546, 1547; Pub. L. 109–135, title IV, §412(q), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title I, §108(a), title IV, §406(a)(3), Dec. 20, 2006, 120 Stat. 2939, 2959; Pub. L. 110–343, div. C, title II, §203(a), Oct. 3, 2008, 122 Stat. 3864; Pub. L. 111–312, title VII, §721(a), Dec. 17, 2010, 124 Stat. 3316; Pub. L. 112–240, title II, §201(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §101(a), title II, §221(a)(34)(C), Dec. 19, 2014, 128 Stat. 4012, 4042; Pub. L. 114–113, div. Q, title I, §104(a)–(c), Dec. 18, 2015, 129 Stat. 3045; Pub. L. 115–97, title I, §§11002(d)(1)(J), 11011(b)(1), 11051(b)(2)(A), Dec. 22, 2017, 131 Stat. 2060, 2070, 2089; Pub. L. 115–123, div. D, title II, §41107(a), Feb. 9, 2018, 132 Stat. 158; Pub. L. 115–141, div. T, §101(a)(2)(B), div. U, title IV, §401(a)(31), (32), Mar. 23, 2018, 132 Stat. 1155, 1185, 1186; Pub. L. 116–92, div. A, title XI, §1122(d)(2)(B), Dec. 20, 2019, 133 Stat. 1609.)
+#### (f) Definitions relating to qualified charitable contributions ####
+
+For purposes of subsection (a)(22)—
+
+#### (1) Eligible individual ####
+
+The term "eligible individual" means any individual who does not elect to itemize deductions.
+
+#### (2) Qualified charitable contributions ####
+
+The term "qualified charitable contribution" means a charitable contribution (as defined in section 170(c))—
+
+(A) which is made in cash,
+
+(B) for which a deduction is allowable under section 170 (determined without regard to subsection (b) thereof), and
+
+(C) which is—
+
+(i) made to an organization described in section 170(b)(1)(A), and
+
+(ii) not—
+
+(I) to an organization described in section 509(a)(3), or
+
+(II) for the establishment of a new, or maintenance of an existing, donor advised fund (as defined in section 4966(d)(2)).
+
+ Such term shall not include any amount which is treated as a charitable contribution made in such taxable year by reason of subsection (b)(1)(G)(ii) or (d)(1) of section 170.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 17; Pub. L. 87–792, §7(b), Oct. 10, 1962, 76 Stat. 828; Pub. L. 88–272, title II, §213(b), Feb. 26, 1964, 78 Stat. 52; Pub. L. 91–172, title V, §531(b), Dec. 30, 1969, 83 Stat. 655; Pub. L. 93–406, title II, §§2002(a)(2), 2005(c)(9), Sept. 2, 1974, 88 Stat. 959, 992; Pub. L. 93–483, §6(a), Oct. 26, 1974, 88 Stat. 1458; Pub. L. 94–455, title V, §502(a), title XV, §1501(b)(1), title XIX, §1901(a)(8), (9), Oct. 4, 1976, 90 Stat. 1559, 1735, 1765; Pub. L. 95–615, §203(b), Nov. 8, 1978, 92 Stat. 3106; Pub. L. 96–451, title III, §301(b), Oct. 14, 1980, 94 Stat. 1990; Pub. L. 96–608, §3(a), Dec. 28, 1980, 94 Stat. 3551; Pub. L. 97–34, title I, §§103(b), 112(b)(2), title III, §311(h)(1), Aug. 13, 1981, 95 Stat. 187, 195, 282; Pub. L. 97–354, §5(a)(17), Oct. 19, 1982, 96 Stat. 1693; Pub. L. 98–369, div. A, title IV, §491(d)(2), July 18, 1984, 98 Stat. 849; Pub. L. 99–514, title I, §§131(b)(1), 132(b), (c), title III, §301(b)(1), title XVIII, §1875(c)(3), Oct. 22, 1986, 100 Stat. 2113, 2115, 2116, 2217, 2894; Pub. L. 100–485, title VII, §702(a), Oct. 13, 1988, 102 Stat. 2426; Pub. L. 100–647, title I, §1001(b)(3)(A), title VI, §6007(b), Nov. 10, 1988, 102 Stat. 3349, 3687; Pub. L. 101–508, title XI, §11802(e)(1), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 102–318, title V, §521(b)(2), July 3, 1992, 106 Stat. 310; Pub. L. 102–486, title XIX, §1913(a)(2), Oct. 24, 1992, 106 Stat. 3019; Pub. L. 103–66, title XIII, §13213(c)(1), Aug. 10, 1993, 107 Stat. 474; Pub. L. 104–188, title I, §1401(b)(4), Aug. 20, 1996, 110 Stat. 1788; Pub. L. 104–191, title III, §301(b), Aug. 21, 1996, 110 Stat. 2048; Pub. L. 105–34, title II, §202(b), title IX, §975(a), Aug. 5, 1997, 111 Stat. 808, 898; Pub. L. 106–554, §1(a)(7) [title II, §202(b)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–629; Pub. L. 107–16, title IV, §431(b), June 7, 2001, 115 Stat. 68; Pub. L. 107–147, title IV, §406(a), (b), Mar. 9, 2002, 116 Stat. 43; Pub. L. 108–121, title I, §109(b), Nov. 11, 2003, 117 Stat. 1341; Pub. L. 108–173, title XII, §1201(b), Dec. 8, 2003, 117 Stat. 2476; Pub. L. 108–311, title III, §307(a), Oct. 4, 2004, 118 Stat. 1179; Pub. L. 108–357, title VII, §703(a), (b), Oct. 22, 2004, 118 Stat. 1546, 1547; Pub. L. 109–135, title IV, §412(q), Dec. 21, 2005, 119 Stat. 2638; Pub. L. 109–432, div. A, title I, §108(a), title IV, §406(a)(3), Dec. 20, 2006, 120 Stat. 2939, 2959; Pub. L. 110–343, div. C, title II, §203(a), Oct. 3, 2008, 122 Stat. 3864; Pub. L. 111–312, title VII, §721(a), Dec. 17, 2010, 124 Stat. 3316; Pub. L. 112–240, title II, §201(a), Jan. 2, 2013, 126 Stat. 2323; Pub. L. 113–295, div. A, title I, §101(a), title II, §221(a)(34)(C), Dec. 19, 2014, 128 Stat. 4012, 4042; Pub. L. 114–113, div. Q, title I, §104(a)–(c), Dec. 18, 2015, 129 Stat. 3045; Pub. L. 115–97, title I, §§11002(d)(1)(J), 11011(b)(1), 11051(b)(2)(A), Dec. 22, 2017, 131 Stat. 2060, 2070, 2089; Pub. L. 115–123, div. D, title II, §41107(a), Feb. 9, 2018, 132 Stat. 158; Pub. L. 115–141, div. T, §101(a)(2)(B), div. U, title IV, §401(a)(31), (32), Mar. 23, 2018, 132 Stat. 1155, 1185, 1186; Pub. L. 116–92, div. A, title XI, §1122(d)(2)(B), Dec. 20, 2019, 133 Stat. 1609; Pub. L. 116–136, div. A, title II, §2204(a), (b), Mar. 27, 2020, 134 Stat. 345.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -261,6 +293,10 @@ The Employee Polygraph Protection Act of 1988, referred to in subsec. (e)(9), is
 The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e)(10), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, as amended, which is classified generally to chapter 23 (§2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of Title 29 and Tables.
 
 #### Amendments ####
+
+**2020**—Subsec. (a)(22). Pub. L. 116–136, §2204(a), added par. (22).
+
+Subsec. (f). Pub. L. 116–136, §2204(b), added subsec. (f).
 
 **2019**—Subsec. (e)(2). Pub. L. 116–92 substituted "207, or 208" for "or 207".
 
@@ -397,6 +433,10 @@ Par. (11). Pub. L. 93–483 added par. (11) relating to penalties forfeited beca
 **1964**—Par. (8). Pub. L. 88–272 added par. (8).
 
 **1962**—Par. (7). Pub. L. 87–792 added par. (7).
+
+#### Effective Date of 2020 Amendment ####
+
+Pub. L. 116–136, div. A, title II, §2204(c), Mar. 27, 2020, 134 Stat. 345, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2019."
 
 #### Effective Date of 2018 Amendment ####
 

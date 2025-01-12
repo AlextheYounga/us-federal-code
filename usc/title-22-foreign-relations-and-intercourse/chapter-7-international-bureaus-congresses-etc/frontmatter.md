@@ -504,6 +504,8 @@ Sec.
 
 282 o. Selective capital increase and amendment of the Articles of Agreement.
 
+282p. Capital increases and amendment to the Articles of Agreement.
+
 #### SUBCHAPTER XII—INTER-AMERICAN DEVELOPMENT BANK ####
 
 283. Acceptance of membership by United States in Inter-American Development Bank.
@@ -667,6 +669,8 @@ Sec.
 284aa. Multilateral debt relief.
 
 284bb. Eighteenth replenishment.
+
+284cc. Nineteenth replenishment.
 
 #### SUBCHAPTER XIV—ASIAN DEVELOPMENT BANK ####
 
@@ -1090,6 +1094,8 @@ Sec.
 
 290g–24. Fourteenth replenishment.
 
+290g–25. Fifteenth replenishment.
+
 #### SUBCHAPTER XXIII—UNITED STATES AFRICAN DEVELOPMENT FOUNDATION ####
 
 290h. Congressional findings.
@@ -1137,6 +1143,8 @@ Sec.
 290i–10. Authorization of United States subscription to stock; authorization of appropriations.
 
 290i–11. Sixth capital increase.
+
+290i–12. Seventh capital increase.
 
 #### SUBCHAPTER XXV—UNITED STATES–INDIA FUND FOR CULTURAL, EDUCATIONAL, AND SCIENTIFIC COOPERATION ####
 

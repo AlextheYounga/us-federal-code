@@ -68,6 +68,16 @@ The Librarian of Congress may prescribe regulations to carry out this section.
 
 Section 205(g)(1) of the Legislative Branch Appropriations Act, 1991, referred to in subsec. (a)(1)(A), is section 205(g)(1) of Pub. L. 101–520, which is set out as a note under section 141 of this title.
 
+#### Source of Funds Used for Payment of Salaries and Expenses of Little Scholars Child Development Center ####
+
+Pub. L. 116–136, div. B, title IX, §19004, Mar. 27, 2020, 134 Stat. 578, provided that: "The Library of Congress shall reimburse Little Scholars Child Development Center for salaries for employees incurred from April 1, 2020, to September 30, 2020, for employees of such Center who have been ordered to cease working due to measures taken in the Capitol complex to combat coronavirus, not to exceed $113,000 per month, from amounts in the appropriations account 'Library of Congress—Salaries and Expenses'."
+
+[For definition of "coronavirus" as used in section 19004 of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out below.]
+
+#### Definition ####
+
+Pub. L. 116–136, div. B, title XIII, §23005, Mar. 27, 2020, 134 Stat. 614, provided that: "In this Act [div. B of Pub. L. 116–136, see Tables for classification], the term 'coronavirus' means SARS–CoV–2 or another coronavirus with pandemic potential."
+
 [<sup>1</sup> So in original. Probably should be "chapter,".](#162b_1)
 
 [<sup>2</sup> So in original. Probably should be followed by "of title 5".](#162b_2)

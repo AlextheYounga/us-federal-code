@@ -118,7 +118,7 @@ The Secretary shall determine any changes to the number of residents reported by
 
 #### (1) In general ####
 
-To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, $126,500,000 for each of fiscal years 2018 and 2019, and $81,445,205 for the period beginning on October 1, 2019, and ending on May 22, 2020, to remain available until expended.
+To carry out this section, there are appropriated such sums as may be necessary, not to exceed $230,000,000, for the period of fiscal years 2011 through 2015, $60,000,000 for each of fiscal years 2016 and 2017, $126,500,000 for each of fiscal years 2018 through fiscal year 2020, and $21,141,096 for the period beginning on October 1, 2020, and ending on November 30, 2020, to remain available until expended.
 
 #### (2) Administrative expenses ####
 
@@ -206,7 +206,7 @@ The term "primary care residency program" has the meaning given that term in sec
 
 The term "qualified teaching health center" has the meaning given the term "teaching health center" in section 293l–1 of this title.
 
-(July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670; amended Pub. L. 114–10, title II, §221(b), Apr. 16, 2015, 129 Stat. 154; Pub. L. 115–63, title III, §301(a), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–96, div. C, title I, §3101(c), Dec. 22, 2017, 131 Stat. 2048; Pub. L. 115–123, div. E, title IX, §50901(d)(1)–(3), (5), (6), Feb. 9, 2018, 132 Stat. 287–289; Pub. L. 116–59, div. B, title I, §1101(c), Sept. 27, 2019, 133 Stat. 1102; Pub. L. 116–69, div. B, title I, §1101(c), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, §401(c), Dec. 20, 2019, 133 Stat. 3113.)
+(July 1, 1944, ch. 373, title III, §340H, as added Pub. L. 111–148, title V, §5508(c), Mar. 23, 2010, 124 Stat. 670; amended Pub. L. 114–10, title II, §221(b), Apr. 16, 2015, 129 Stat. 154; Pub. L. 115–63, title III, §301(a), Sept. 29, 2017, 131 Stat. 1171; Pub. L. 115–96, div. C, title I, §3101(c), Dec. 22, 2017, 131 Stat. 2048; Pub. L. 115–123, div. E, title IX, §50901(d)(1)–(3), (5), (6), Feb. 9, 2018, 132 Stat. 287–289; Pub. L. 116–59, div. B, title I, §1101(c), Sept. 27, 2019, 133 Stat. 1102; Pub. L. 116–69, div. B, title I, §1101(c), Nov. 21, 2019, 133 Stat. 1136; Pub. L. 116–94, div. N, title I, §401(c), Dec. 20, 2019, 133 Stat. 3113; Pub. L. 116–136, div. A, title III, §3831(c), Mar. 27, 2020, 134 Stat. 434.)
 
 #### References in Text ####
 
@@ -219,6 +219,8 @@ Section 1395ww(d) of this title, referred to in subsec. (f), was in the original
 Another section 340H of act July 1, 1944, was renumbered section 340I and is classified to section 256i of this title.
 
 #### Amendments ####
+
+**2020**—Subsec. (g)(1). Pub. L. 116–136 substituted "through fiscal year 2020, and $21,141,096 for the period beginning on October 1, 2020, and ending on November 30, 2020" for "and 2019, and $81,445,205 for the period beginning on October 1, 2019, and ending on May 22, 2020".
 
 **2019**—Subsec. (g)(1). Pub. L. 116–94 substituted "$81,445,205" for "$28,072,603" and "May 22, 2020" for "December 20, 2019".
 

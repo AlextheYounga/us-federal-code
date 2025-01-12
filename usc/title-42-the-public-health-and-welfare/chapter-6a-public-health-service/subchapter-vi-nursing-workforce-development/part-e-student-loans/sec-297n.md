@@ -10,13 +10,13 @@ In the case of any individual—
 
 (3) who enters into an agreement with the Secretary to serve as nurse for a period of not less than two years at a health care facility with a critical shortage of nurses, or in a <sup><a href="#297n_2_target" name="297n_2">2</a></sup> accredited school of nursing, as defined by section 296(2) of this title, as nurse faculty;
 
-the Secretary shall make payments in accordance with subsection (b), for and on behalf of that individual, on the principal of and interest on any loan of that individual described in paragraph (2) of this subsection which is outstanding on the date the individual begins the service specified in the agreement described in paragraph (3) of this subsection. After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit.
+the Secretary shall make payments in accordance with subsection (b), for and on behalf of that individual, on the principal of and interest on any loan of that individual described in paragraph (2) of this subsection which is outstanding on the date the individual begins the service specified in the agreement described in paragraph (3) of this subsection.
 
 #### (b) Manner of payments ####
 
 The payments described in subsection (a) shall be made by the Secretary as follows:
 
-(1) Upon completion by the individual for whom the payments are to be made of the first year of the service specified in the agreement entered into with the Secretary under subsection (a), the Secretary shall pay 30 percent of the principal of, and the interest on each loan of such individual described in subsection (a)(2) which is outstanding on the date he began such practice.
+(1) Upon completion by the individual for whom the payments are to be made of the first year of the service specified in the agreement entered into with the Secretary under subsection (a), the Secretary shall pay 30 percent of the principal of, and the interest on each loan of such individual described in subsection (a)(2) which is outstanding on the date the individual began such practice.
 
 (2) Upon completion by that individual of the second year of such service, the Secretary shall pay another 30 percent of the principal of, and the interest on each such loan.
 
@@ -116,17 +116,11 @@ Not later than 18 months after August 1, 2002, and annually thereafter, the Secr
 
 (11) an evaluation of the overall costs and benefits of the programs.
 
-#### (i) Funding ####
+#### (i) Allocations ####
 
-#### (1) Authorization of appropriations ####
+Of the amounts appropriated under section 298d(b) of this title,,<sup><a href="#297n_3_target" name="297n_3">3</a></sup> the Secretary may, as determined appropriate by the Secretary, allocate amounts between the program under subsection (a) and the program under subsection (d).
 
-For the purpose of payments under agreements entered into under subsection (a) or (d), there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2003 through 2007.
-
-#### (2) Allocations ####
-
-Of the amounts appropriated under paragraph (1), the Secretary may, as determined appropriate by the Secretary, allocate amounts between the program under subsection (a) and the program under subsection (d).
-
-(July 1, 1944, ch. 373, title VIII, §846, as added Pub. L. 102–408, title II, §211(a)(3), Oct. 13, 1992, 106 Stat. 2078; amended Pub. L. 105–392, title I, §133(d), Nov. 13, 1998, 112 Stat. 3576; Pub. L. 107–205, title I, §103, Aug. 1, 2002, 116 Stat. 813; Pub. L. 111–148, title V, §5310(a), Mar. 23, 2010, 124 Stat. 631.)
+(July 1, 1944, ch. 373, title VIII, §846, as added Pub. L. 102–408, title II, §211(a)(3), Oct. 13, 1992, 106 Stat. 2078; amended Pub. L. 105–392, title I, §133(d), Nov. 13, 1998, 112 Stat. 3576; Pub. L. 107–205, title I, §103, Aug. 1, 2002, 116 Stat. 813; Pub. L. 111–148, title V, §5310(a), Mar. 23, 2010, 124 Stat. 631; Pub. L. 116–136, div. A, title III, §3404(a)(8), Mar. 27, 2020, 134 Stat. 394.)
 
 #### References in Text ####
 
@@ -141,6 +135,12 @@ A prior section 297n, act July 1, 1944, ch. 373, title VIII, §847, as added Nov
 A prior section 846 of act July 1, 1944, was classified to section 297k of this title and was repealed by Pub. L. 97–35.
 
 #### Amendments ####
+
+**2020**—Subsec. (a). Pub. L. 116–136, §3404(a)(8)(A), struck out at end of concluding provisions "After fiscal year 2007, the Secretary may not, pursuant to any agreement entered into under this subsection, assign a nurse to any private entity unless that entity is nonprofit."
+
+Subsec. (b)(1). Pub. L. 116–136, §3404(a)(8)(B), substituted "the individual began such practice" for "he began such practice".
+
+Subsec. (i). Pub. L. 116–136, §3404(a)(8)(C), substituted "Allocations" for "Funding" in subsec. (i) heading and substituted "Of the amounts appropriated under section 298d(b) of this title," for the following: par. (1) heading, par. (1) text which read "For the purpose of payments under agreements entered into under subsection (a) or (d), there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2003 through 2007.", par. (2) heading, and "Of the amounts appropriated under paragraph (1)".
 
 **2010**—Subsec. (a)(3). Pub. L. 111–148 inserted ", or in a accredited school of nursing, as defined by section 296(2) of this title, as nurse faculty" before semicolon at end.
 
@@ -183,3 +183,5 @@ Reference to community health center, migrant health center, public housing heal
 [<sup>1</sup> See References in Text note below.](#297n_1)
 
 [<sup>2</sup> So in original. Probably should be "an".](#297n_2)
+
+[<sup>3</sup> So in original.](#297n_3)

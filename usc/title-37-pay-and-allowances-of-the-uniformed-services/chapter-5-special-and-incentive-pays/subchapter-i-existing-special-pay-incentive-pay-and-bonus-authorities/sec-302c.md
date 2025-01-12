@@ -2,7 +2,7 @@
 
 (a) Public Health Service Corps.—A member who is—
 
-(1) an officer in the Regular or Reserve Corps of the Public Health Service and is designated as a psychologist; and
+(1) an officer in the Regular or Reserve Corps <sup><a href="#302c_1_target" name="302c_1">1</a></sup> of the Public Health Service and is designated as a psychologist; and
 
 (2) has been awarded a diploma as a Diplomate in Psychology by the American Board of Professional Psychology,
 
@@ -30,7 +30,7 @@ is entitled to special pay, as provided in subsection (b).
 
 (d) Nonphysician Health Care Providers.—The Secretary concerned may authorize the payment of special pay at the rates specified in subsection (b) to an officer who—
 
-(1) is an officer in the Medical Service Corps of the Army or Navy, a biomedical sciences officer in the Air Force, an officer in the Army Medical Specialist Corps, an officer of the Nurse Corps of the Army or Navy, an officer of the Air Force designated as a nurse, an officer of the Coast Guard or Coast Guard Reserve designated as a physician assistant, or an officer in the Regular or Reserve Corps of the Public Health Service;
+(1) is an officer in the Medical Service Corps of the Army or Navy, a biomedical sciences officer in the Air Force, an officer in the Army Medical Specialist Corps, an officer of the Nurse Corps of the Army or Navy, an officer of the Air Force designated as a nurse, an officer of the Coast Guard or Coast Guard Reserve designated as a physician assistant, or an officer in the Regular or Reserve Corps <sup><a href="#302c_1_target" name="302c_1">1</a></sup> of the Public Health Service;
 
 (2) is a health care provider (other than a psychologist);
 
@@ -72,6 +72,10 @@ Subsecs. (a), (b). Pub. L. 101–189, §704(c), inserted headings.
 
 Subsec. (c). Pub. L. 101–189, §704(a), added subsec. (c).
 
+#### Change of Name ####
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of Title 42, The Public Health and Welfare.
+
 #### Effective Date of 1997 Amendment ####
 
 Pub. L. 105–85, div. A, title X, §1073(c), Nov. 18, 1997, 111 Stat. 1904, provided that the amendment made by that section is effective as of Sept. 23, 1996, and as if included in the National Defense Authorization Act for Fiscal Year 1997, Pub. L. 104–201, as enacted.
@@ -103,3 +107,5 @@ Pub. L. 101–189, div. A, title VII, §704(d), Nov. 29, 1989, 103 Stat. 1471, p
 "(2) describing the manner in which that authority will be implemented."
 
 [Report submitted to Committees on Apr. 20, 1994.]
+
+[<sup>1</sup> See Change of Name note below.](#302c_1)

@@ -4,7 +4,7 @@
 
 (1) For the purpose of eliminating health manpower shortages in health professional shortage areas, there is established, within the Service, the National Health Service Corps, which shall consist of—
 
-(A) such officers of the Regular and Reserve Corps of the Service as the Secretary may designate,
+(A) such officers of the Regular and Reserve Corps <sup><a href="#254d_1_target" name="254d_1">1</a></sup> of the Service as the Secretary may designate,
 
 (B) such civilian employees of the United States as the Secretary may appoint, and
 
@@ -48,7 +48,7 @@
 
 (B) During the period beginning upon the expiration of the 36 months referred to in subparagraph (A) and ending with the month in which the member's monthly pay and allowances are equal to or exceed the monthly income he received for the last of such 36 months, the member may receive in addition to his monthly pay and allowances an amount which when added to such monthly pay and allowances equals the monthly income he received for such last month.
 
-(C) For each month in which a member is directly engaged in the delivery of health services in a health professional shortage area in accordance with an agreement with the Secretary entered into under section 294n(f)(1)(C) <sup><a href="#254d_1_target" name="254d_1">1</a></sup> of this title, under which the Secretary is obligated to make payments in accordance with section 294n(f)(2) <sup><a href="#254d_1_target" name="254d_1">1</a></sup> of this title, the amount of any monthly increase under subparagraph (A) or (B) with respect to such member shall be decreased by an amount equal to one-twelfth of the amount which the Secretary is obligated to pay upon the completion of the year of practice in which such month occurs.
+(C) For each month in which a member is directly engaged in the delivery of health services in a health professional shortage area in accordance with an agreement with the Secretary entered into under section 294n(f)(1)(C) <sup><a href="#254d_2_target" name="254d_2">2</a></sup> of this title, under which the Secretary is obligated to make payments in accordance with section 294n(f)(2) <sup><a href="#254d_2_target" name="254d_2">2</a></sup> of this title, the amount of any monthly increase under subparagraph (A) or (B) with respect to such member shall be decreased by an amount equal to one-twelfth of the amount which the Secretary is obligated to pay upon the completion of the year of practice in which such month occurs.
 
 For purposes of subparagraphs (A) and (B), the term "monthly pay" includes special pay received under chapter 5 of title 37.
 
@@ -62,11 +62,11 @@ Corps members assigned under section 254f of this title to provide health servic
 
 #### (f) Assignment of personnel provisions inapplicable to members whose service obligation incurred under Scholarship Program or Loan Repayment Program ####
 
-Sections 215 and 217 of this title shall not apply to members of the National Health Service Corps during their period of obligated service under the Scholarship Program or the Loan Repayment Program, except when such members are Commissioned Corps officers who entered into a contract with <sup><a href="#254d_2_target" name="254d_2">2</a></sup> Secretary under section 254l or 254l–1 of this title after December 31, 2006 and when the Secretary determines that exercising the authority provided under section 215 or 217 of this title with respect to any such officer to <sup><a href="#254d_3_target" name="254d_3">3</a></sup> would not cause unreasonable disruption to health care services provided in the community in which such officer is providing health care services.
+Sections 215 and 217 of this title shall not apply to members of the National Health Service Corps during their period of obligated service under the Scholarship Program or the Loan Repayment Program, except when such members are Commissioned Corps officers who entered into a contract with <sup><a href="#254d_3_target" name="254d_3">3</a></sup> Secretary under section 254l or 254l–1 of this title after December 31, 2006 and when the Secretary determines that exercising the authority provided under section 215 or 217 of this title with respect to any such officer to <sup><a href="#254d_4_target" name="254d_4">4</a></sup> would not cause unreasonable disruption to health care services provided in the community in which such officer is providing health care services.
 
 #### (g) Conversion from Corps member to commissioned officer; retirement credits ####
 
-(1) The Secretary shall, by rule, prescribe conversion provisions applicable to any individual who, within a year after completion of service as a member of the Corps described in subsection (a)(1)(C), becomes a commissioned officer in the Regular or Reserve Corps of the Service.
+(1) The Secretary shall, by rule, prescribe conversion provisions applicable to any individual who, within a year after completion of service as a member of the Corps described in subsection (a)(1)(C), becomes a commissioned officer in the Regular or Reserve Corps <sup><a href="#254d_1_target" name="254d_1">1</a></sup> of the Service.
 
 (2) The rules prescribed under paragraph (1) shall provide that in applying the appropriate provisions of this chapter which relate to retirement, any individual who becomes such an officer shall be entitled to have credit for any period of service as a member of the Corps described in subsection (a)(1)(C).
 
@@ -204,6 +204,10 @@ Subsec. (g). Pub. L. 97–35, §2701(e), substituted provisions relating to conv
 
 Subsec. (h). Pub. L. 97–35, §2701(f), in par. (1) substituted "Health and Human Services" for "Health, Education, and Welfare", in par. (2) substituted "254l" for "294t", and in par. (3) inserted reference to Commonwealth with respect to the Northern Mariana Islands.
 
+#### Change of Name ####
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of this title.
+
 #### Effective Date of 1990 Amendment ####
 
 Pub. L. 101–597, title V, §501, Nov. 16, 1990, 104 Stat. 3036, provided that: "This Act and the amendments made by this Act [enacting sections 254f–1, 254o–1, and 254r of this title, amending this section, sections 242a, 254e to 254i, 254k, 254l to 254q–1, 254s, 294h, 294n, 294aa, 295g–1, 296m, 1320c–5, 1395l, 1395u, 1395x, 3505d, and 9840 of this title, and section 2123 of Title 10, Armed Forces, and enacting provisions set out as notes under sections 201, 254l–1, and 254o of this title] shall take effect October 1, 1990, or upon the date of the enactment of this Act [Nov. 16, 1990], whichever occurs later."
@@ -230,8 +234,10 @@ Pub. L. 94–484, title IV, §407(c), Oct. 12, 1976, 90 Stat. 2278, provided tha
 
 "(3) The amendment made by subsection (b) which established an Advisory Council previously established under section 329 of the Public Health Service Act [former 42 U.S.C. 254b] shall not be construed as requiring the establishment of a new Advisory Council under such section 337 [42 U.S.C. 254j], and the amendment made by such subsection with respect to the composition of such Advisory Council shall apply with respect to appointments made to the Advisory Council after October 1, 1977, and the Secretary of Health, Education, and Welfare [now Health and Human Services] shall make appointments to the Advisory Council after such date in a manner which will bring about, at the earliest feasible time, the Advisory Council composition prescribed by the amendment."
 
-[<sup>1</sup> See References in Text note below.](#254d_1)
+[<sup>1</sup> See Change of Name note below.](#254d_1)
 
-[<sup>2</sup> So in original. The word "the" probably should appear.](#254d_2)
+[<sup>2</sup> See References in Text note below.](#254d_2)
 
-[<sup>3</sup> So in original.](#254d_3)
+[<sup>3</sup> So in original. The word "the" probably should appear.](#254d_3)
+
+[<sup>4</sup> So in original.](#254d_4)

@@ -1880,6 +1880,108 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 Pub. L. 94–455, title XIX, §1951(b)(1)(B), Oct. 4, 1976, 90 Stat. 1836, provided that: "Notwithstanding subparagraph (A) [repealing subsec. (i) of this section], if the provisions of section 72(i) applied to amounts received in taxable years beginning before January 1, 1977, under an annuity contract, then amounts received under such contract on or after such date shall be treated as if such provisions were not repealed."
 
+#### Special Rules for Use of Retirement Funds ####
+
+Pub. L. 116–136, div. A, title II, §2202, Mar. 27, 2020, 134 Stat. 340, provided that:
+
+"(a) Tax-favored Withdrawals From Retirement Plans.—
+
+"(1) In general.—Section 72(t) of the Internal Revenue Code of 1986 shall not apply to any coronavirus-related distribution.
+
+"(2) Aggregate dollar limitation.—
+
+"(A) In general.—For purposes of this subsection, the aggregate amount of distributions received by an individual which may be treated as coronavirus-related distributions for any taxable year shall not exceed $100,000.
+
+"(B) Treatment of plan distributions.—If a distribution to an individual would (without regard to subparagraph (A)) be a coronavirus-related distribution, a plan shall not be treated as violating any requirement of the Internal Revenue Code of 1986 merely because the plan treats such distribution as a coronavirus-related distribution, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer) to such individual exceeds $100,000.
+
+"(C) Controlled group.—For purposes of subparagraph (B), the term 'controlled group' means any group treated as a single employer under subsection (b), (c), (m), or (o) of section 414 of the Internal Revenue Code of 1986.
+
+"(3) Amount distributed may be repaid.—
+
+"(A) In general.—Any individual who receives a coronavirus-related distribution may, at any time during the 3-year period beginning on the day after the date on which such distribution was received, make 1 or more contributions in an aggregate amount not to exceed the amount of such distribution to an eligible retirement plan of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16), of the Internal Revenue Code of 1986, as the case may be.
+
+"(B) Treatment of repayments of distributions from eligible retirement plans other than iras.—For purposes of the Internal Revenue Code of 1986, if a contribution is made pursuant to subparagraph (A) with respect to a coronavirus-related distribution from an eligible retirement plan other than an individual retirement plan, then the taxpayer shall, to the extent of the amount of the contribution, be treated as having received the coronavirus-related distribution in an eligible rollover distribution (as defined in section 402(c)(4) of such Code) and as having transferred the amount to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
+
+"(C) Treatment of repayments of distributions from iras.—For purposes of the Internal Revenue Code of 1986, if a contribution is made pursuant to subparagraph (A) with respect to a coronavirus-related distribution from an individual retirement plan (as defined by section 7701(a)(37) of such Code), then, to the extent of the amount of the contribution, the coronavirus-related distribution shall be treated as a distribution described in section 408(d)(3) of such Code and as having been transferred to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
+
+"(4) Definitions.—For purposes of this subsection—
+
+"(A) Coronavirus-related distribution.—Except as provided in paragraph (2), the term 'coronavirus-related distribution' means any distribution from an eligible retirement plan made—
+
+"(i) on or after January 1, 2020, and before December 31, 2020,
+
+"(ii) to an individual—
+
+ "(I) who is diagnosed with the virus SARS–CoV–2 or with coronavirus disease 2019 (COVID–19) by a test approved by the Centers for Disease Control and Prevention,
+
+ "(II) whose spouse or dependent (as defined in section 152 of the Internal Revenue Code of 1986) is diagnosed with such virus or disease by such a test, or
+
+ "(III) who experiences adverse financial consequences as a result of being quarantined, being furloughed or laid off or having work hours reduced due to such virus or disease, being unable to work due to lack of child care due to such virus or disease, closing or reducing hours of a business owned or operated by the individual due to such virus or disease, or other factors as determined by the Secretary of the Treasury (or the Secretary's delegate).
+
+"(B) Employee certification.—The administrator of an eligible retirement plan may rely on an employee's certification that the employee satisfies the conditions of subparagraph (A)(ii) in determining whether any distribution is a coronavirus-related distribution.
+
+"(C) Eligible retirement plan.—The term 'eligible retirement plan' has the meaning given such term by section 402(c)(8)(B) of the Internal Revenue Code of 1986.
+
+"(5) Income inclusion spread over 3-year period.—
+
+"(A) In general.—In the case of any coronavirus-related distribution, unless the taxpayer elects not to have this paragraph apply for any taxable year, any amount required to be included in gross income for such taxable year shall be so included ratably over the 3-taxable-year period beginning with such taxable year.
+
+"(B) Special rule.—For purposes of subparagraph (A), rules similar to the rules of subparagraph (E) of section 408A(d)(3) of the Internal Revenue Code of 1986 shall apply.
+
+"(6) Special rules.—
+
+"(A) Exemption of distributions from trustee to trustee transfer and withholding rules.—For purposes of sections 401(a)(31), 402(f), and 3405 of the Internal Revenue Code of 1986, coronavirus-related distributions shall not be treated as eligible rollover distributions.
+
+"(B) Coronavirus-related distributions treated as meeting plan distribution requirements.—For purposes of the Internal Revenue Code of 1986, a coronavirus-related distribution shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(i), 403(b)(11), and 457(d)(1)(A) of such Code and section 8433(h)(1) of title 5, United States Code.
+
+"(b) Loans From Qualified Plans.—
+
+"(1) Increase in limit on loans not treated as distributions.—In the case of any loan from a qualified employer plan (as defined under section 72(p)(4) of the Internal Revenue Code of 1986) to a qualified individual made during the 180-day period beginning on the date of the enactment of this Act [Mar. 27, 2020]—
+
+"(A) clause (i) of section 72(p)(2)(A) of such Code shall be applied by substituting "$100,000" for "$50,000", and
+
+"(B) clause (ii) of such section shall be applied by substituting "the present value of the nonforfeitable accrued benefit of the employee under the plan" for "one-half of the present value of the nonforfeitable accrued benefit of the employee under the plan".
+
+"(2) Delay of repayment.—In the case of a qualified individual with an outstanding loan (on or after the date of the enactment of this Act) from a qualified employer plan (as defined in section 72(p)(4) of the Internal Revenue Code of 1986)—
+
+"(A) if the due date pursuant to subparagraph (B) or (C) of section 72(p)(2) of such Code for any repayment with respect to such loan occurs during the period beginning on the date of the enactment of this Act and ending on December 31, 2020, such due date shall be delayed for 1 year,
+
+"(B) any subsequent repayments with respect to any such loan shall be appropriately adjusted to reflect the delay in the due date under subparagraph (A) and any interest accruing during such delay, and
+
+"(C) in determining the 5-year period and the term of a loan under subparagraph (B) or (C) of section 72(p)(2) of such Code, the period described in subparagraph (A) of this paragraph shall be disregarded.
+
+"(3) Qualified individual.—For purposes of this subsection, the term 'qualified individual' means any individual who is described in subsection (a)(4)(A)(ii).
+
+"(c) Provisions Relating to Plan Amendments.—
+
+"(1) In general.—If this subsection applies to any amendment to any plan or annuity contract—
+
+"(A) such plan or contract shall be treated as being operated in accordance with the terms of the plan during the period described in paragraph (2)(B)(i), and
+
+"(B) except as provided by the Secretary of the Treasury (or the Secretary's delegate), such plan or contract shall not fail to meet the requirements of section 411(d)(6) of the Internal Revenue Code of 1986 and section 204(g) of the Employee Retirement Income Security Act of 1974 [29 U.S.C. 1054(g)] by reason of such amendment.
+
+"(2) Amendments to which subsection applies.—
+
+"(A) In general.—This subsection shall apply to any amendment to any plan or annuity contract which is made—
+
+"(i) pursuant to any provision of this section, or pursuant to any regulation issued by the Secretary of the Treasury or the Secretary of Labor (or the delegate of either such Secretary) under any provision of this section, and
+
+"(ii) on or before the last day of the first plan year beginning on or after January 1, 2022, or such later date as the Secretary of the Treasury (or the Secretary's delegate) may prescribe.
+
+ In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), clause (ii) shall be applied by substituting the date which is 2 years after the date otherwise applied under clause (ii).
+
+"(B) Conditions.—This subsection shall not apply to any amendment unless—
+
+"(i) during the period—
+
+ "(I) beginning on the date that this section or the regulation described in subparagraph (A)(i) takes effect (or in the case of a plan or contract amendment not required by this section or such regulation, the effective date specified by the plan), and
+
+ "(II) ending on the date described in subparagraph (A)(ii) (or, if earlier, the date the plan or contract amendment is adopted),
+
+ the plan or contract is operated as if such plan or contract amendment were in effect, and
+
+"(ii) such plan or contract amendment applies retroactively for such period."
+
 #### Applicability of Subsection (t) ####
 
 Pub. L. 100–647, title I, §1011A(c)(13), Nov. 10, 1988, 102 Stat. 3476, provided that: "Section 72(t) of the 1986 Code shall apply to any distribution without regard to whether such distribution is made without the consent of the participant pursuant to section 411(a)(11) or section 417(e) of the 1986 Code."

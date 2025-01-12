@@ -2,13 +2,21 @@
 
 #### (a) Requirement ####
 
-Records of the identity, diagnosis, prognosis, or treatment of any patient which are maintained in connection with the performance of any program or activity relating to substance abuse education, prevention, training, treatment, rehabilitation, or research, which is conducted, regulated, or directly or indirectly assisted by any department or agency of the United States shall, except as provided in subsection (e), be confidential and be disclosed only for the purposes and under the circumstances expressly authorized under subsection (b).
+Records of the identity, diagnosis, prognosis, or treatment of any patient which are maintained in connection with the performance of any program or activity relating to substance use disorder education, prevention, training, treatment, rehabilitation, or research, which is conducted, regulated, or directly or indirectly assisted by any department or agency of the United States shall, except as provided in subsection (e), be confidential and be disclosed only for the purposes and under the circumstances expressly authorized under subsection (b).
 
 #### (b) Permitted disclosure ####
 
 #### (1) Consent ####
 
-The content of any record referred to in subsection (a) may be disclosed in accordance with the prior written consent of the patient with respect to whom such record is maintained, but only to such extent, under such circumstances, and for such purposes as may be allowed under regulations prescribed pursuant to subsection (g).
+The following shall apply with respect to the contents of any record referred to in subsection (a):
+
+(A) Such contents may be used or disclosed in accordance with the prior written consent of the patient with respect to whom such record is maintained.
+
+(B) Once prior written consent of the patient has been obtained, such contents may be used or disclosed by a covered entity, business associate, or a program subject to this section for purposes of treatment, payment, and health care operations as permitted by the HIPAA regulations. Any information so disclosed may then be redisclosed in accordance with the HIPAA regulations. Section 17935(c) of this title shall apply to all disclosures pursuant to subsection (b)(1) of this section.
+
+(C) It shall be permissible for a patient's prior written consent to be given once for all such future uses or disclosures for purposes of treatment, payment, and health care operations, until such time as the patient revokes such consent in writing.
+
+(D) Section 17935(a) of this title shall apply to all disclosures pursuant to subsection (b)(1) of this section.
 
 #### (2) Method for disclosure ####
 
@@ -20,9 +28,19 @@ Whether or not the patient, with respect to whom any given record referred to in
 
 (C) If authorized by an appropriate order of a court of competent jurisdiction granted after application showing good cause therefor, including the need to avert a substantial risk of death or serious bodily harm. In assessing good cause the court shall weigh the public interest and the need for disclosure against the injury to the patient, to the physician-patient relationship, and to the treatment services. Upon the granting of such order, the court, in determining the extent to which any disclosure of all or any part of any record is necessary, shall impose appropriate safeguards against unauthorized disclosure.
 
-#### (c) Use of records in criminal proceedings ####
+(D) To a public health authority, so long as such content meets the standards established in section 164.514(b) of title 45, Code of Federal Regulations (or successor regulations) for creating de-identified information.
 
-Except as authorized by a court order granted under subsection (b)(2)(C), no record referred to in subsection (a) may be used to initiate or substantiate any criminal charges against a patient or to conduct any investigation of a patient.
+#### (c) Use of records in criminal, civil, or administrative contexts ####
+
+Except as otherwise authorized by a court order under subsection (b)(2)(C) or by the consent of the patient, a record referred to in subsection (a), or testimony relaying the information contained therein, may not be disclosed or used in any civil, criminal, administrative, or legislative proceedings conducted by any Federal, State, or local authority, against a patient, including with respect to the following activities:
+
+(1) Such record or testimony shall not be entered into evidence in any criminal prosecution or civil action before a Federal or State court.
+
+(2) Such record or testimony shall not form part of the record for decision or otherwise be taken into account in any proceeding before a Federal, State, or local agency.
+
+(3) Such record or testimony shall not be used by any Federal, State, or local agency for a law enforcement purpose or to conduct any law enforcement investigation.
+
+(4) Such record or testimony shall not be used in any application for a warrant.
 
 #### (d) Application ####
 
@@ -40,7 +58,15 @@ The prohibitions of this section do not apply to the reporting under State law o
 
 #### (f) Penalties ####
 
-Any person who violates any provision of this section or any regulation issued pursuant to this section shall be fined in accordance with title 18.
+The provisions of sections 1176 and 1177 of the Social Security Act [42 U.S.C. 1320d–5, 1320d–6] shall apply to a violation of this section to the extent and in the same manner as such provisions apply to a violation of part C of title XI of such Act [42 U.S.C. 1320d et seq.]. In applying the previous sentence—
+
+(1) the reference to "this subsection" in subsection (a)(2) of such section 1176 shall be treated as a reference to "this subsection (including as applied pursuant to section 290dd–2(f) of this title)"; and
+
+(2) in subsection (b) of such section 1176—
+
+(A) each reference to "a penalty imposed under subsection (a)" shall be treated as a reference to "a penalty imposed under subsection (a) (including as applied pursuant to section 290dd–2(f) of this title)"; and
+
+(B) each reference to "no damages obtained under subsection (d)" shall be treated as a reference to "no damages obtained under subsection (d) (including as applied pursuant to section 290dd–2(f) of this title)".
 
 #### (g) Regulations ####
 
@@ -48,15 +74,105 @@ Except as provided in subsection (h), the Secretary shall prescribe regulations 
 
 #### (h) Application to Department of Veterans Affairs ####
 
-The Secretary of Veterans Affairs, acting through the Under Secretary for Health, shall, to the maximum feasible extent consistent with their responsibilities under title 38, prescribe regulations making applicable the regulations prescribed by the Secretary of Health and Human Services under subsection (g) to records maintained in connection with the provision of hospital care, nursing home care, domiciliary care, and medical services under such title 38 to veterans suffering from substance abuse. In prescribing and implementing regulations pursuant to this subsection, the Secretary of Veterans Affairs shall, from time to time, consult with the Secretary of Health and Human Services in order to achieve the maximum possible coordination of the regulations, and the implementation thereof, which they each prescribe.
+The Secretary of Veterans Affairs, acting through the Under Secretary for Health, shall, to the maximum feasible extent consistent with their responsibilities under title 38, prescribe regulations making applicable the regulations prescribed by the Secretary of Health and Human Services under subsection (g) to records maintained in connection with the provision of hospital care, nursing home care, domiciliary care, and medical services under such title 38 to veterans suffering from substance use disorder. In prescribing and implementing regulations pursuant to this subsection, the Secretary of Veterans Affairs shall, from time to time, consult with the Secretary of Health and Human Services in order to achieve the maximum possible coordination of the regulations, and the implementation thereof, which they each prescribe.
 
-(July 1, 1944, ch. 373, title V, §543, formerly Pub. L. 91–616, title III, §321, Dec. 31, 1970, 84 Stat. 1852, as amended Pub. L. 93–282, title I, §121(a), May 14, 1974, 88 Stat. 130; Pub. L. 94–371, §11(a), (b), July 26, 1976, 90 Stat. 1041; Pub. L. 94–581, title I, §111(c)(1), Oct. 21, 1976, 90 Stat. 2852; renumbered §522 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(13), Apr. 26, 1983, 97 Stat. 181; renumbered §543, Pub. L. 100–77, title VI, §611(2), July 22, 1987, 101 Stat. 516; Pub. L. 102–321, title I, §131, July 10, 1992, 106 Stat. 368; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 105–392, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3588.)
+#### (i) Antidiscrimination ####
+
+#### (1) In general ####
+
+No entity shall discriminate against an individual on the basis of information received by such entity pursuant to an inadvertent or intentional disclosure of records, or information contained in records, described in subsection (a) in—
+
+(A) admission, access to, or treatment for health care;
+
+(B) hiring, firing, or terms of employment, or receipt of worker's compensation;
+
+(C) the sale, rental, or continued rental of housing;
+
+(D) access to Federal, State, or local courts; or
+
+(E) access to, approval of, or maintenance of social services and benefits provided or funded by Federal, State, or local governments.
+
+#### (2) Recipients of Federal funds ####
+
+No recipient of Federal funds shall discriminate against an individual on the basis of information received by such recipient pursuant to an intentional or inadvertent disclosure of such records or information contained in records described in subsection (a) in affording access to the services provided with such funds.
+
+#### (j) Notification in case of breach ####
+
+The provisions of section 17932 of this title shall apply to a program or activity described in subsection (a), in case of a breach of records described in subsection (a), to the same extent and in the same manner as such provisions apply to a covered entity in the case of a breach of unsecured protected health information.
+
+#### (k) Definitions ####
+
+For purposes of this section:
+
+#### (1) Breach ####
+
+The term "breach" has the meaning given such term for purposes of the HIPAA regulations.
+
+#### (2) Business associate ####
+
+The term "business associate" has the meaning given such term for purposes of the HIPAA regulations.
+
+#### (3) Covered entity ####
+
+The term "covered entity" has the meaning given such term for purposes of the HIPAA regulations.
+
+#### (4) Health care operations ####
+
+The term "health care operations" has the meaning given such term for purposes of the HIPAA regulations.
+
+#### (5) HIPAA regulations ####
+
+The term "HIPAA regulations" has the meaning given such term for purposes of parts 160 and 164 of title 45, Code of Federal Regulations.
+
+#### (6) Payment ####
+
+The term "payment" has the meaning given such term for purposes of the HIPAA regulations.
+
+#### (7) Public health authority ####
+
+The term "public health authority" has the meaning given such term for purposes of the HIPAA regulations.
+
+#### (8) Treatment ####
+
+The term "treatment" has the meaning given such term for purposes of the HIPAA regulations.
+
+#### (9) Unsecured protected health information ####
+
+The term "unprotected <sup><a href="#290dd-2_1_target" name="290dd-2_1">1</a></sup> health information" has the meaning given such term for purposes of the HIPAA regulations.
+
+(July 1, 1944, ch. 373, title V, §543, formerly Pub. L. 91–616, title III, §321, Dec. 31, 1970, 84 Stat. 1852, as amended Pub. L. 93–282, title I, §121(a), May 14, 1974, 88 Stat. 130; Pub. L. 94–371, §11(a), (b), July 26, 1976, 90 Stat. 1041; Pub. L. 94–581, title I, §111(c)(1), Oct. 21, 1976, 90 Stat. 2852; renumbered §522 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(13), Apr. 26, 1983, 97 Stat. 181; renumbered §543, Pub. L. 100–77, title VI, §611(2), July 22, 1987, 101 Stat. 516; Pub. L. 102–321, title I, §131, July 10, 1992, 106 Stat. 368; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 105–392, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3588; Pub. L. 116–136, div. A, title III, §3221(a)–(h), Mar. 27, 2020, 134 Stat. 375–378.)
+
+#### Applicability of Amendment ####
+
+Amendments by Pub. L. 116–136 to be applicable with respect to uses and disclosures of information occurring on or after the date that is 12 months after Mar. 27, 2020, based on required revisions to implementing regulations, see 2020 Amendment notes and Regulations note set out below.
+
+#### References in Text ####
+
+The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification ####
 
 Section was formerly classified to section 4581 of this title prior to renumbering by Pub. L. 98–24.
 
 #### Amendments ####
+
+**2020**—Subsec. (a). Pub. L. 116–136, §3221(a), substituted "substance use disorder" for "substance abuse".
+
+Subsec. (b)(1). Pub. L. 116–136, §3221(b), amended par. (1) generally. Prior to amendment, text read as follows: "The content of any record referred to in subsection (a) may be disclosed in accordance with the prior written consent of the patient with respect to whom such record is maintained, but only to such extent, under such circumstances, and for such purposes as may be allowed under regulations prescribed pursuant to subsection (g)."
+
+Subsec. (b)(2)(D). Pub. L. 116–136, §3221(c), added subpar. (D).
+
+Subsec. (c). Pub. L. 116–136, §3221(e), amended subsec. (c) generally. Prior to amendment, text read as follows: "Except as authorized by a court order granted under subsection (b)(2)(C), no record referred to in subsection (a) may be used to initiate or substantiate any criminal charges against a patient or to conduct any investigation of a patient."
+
+Subsec. (f). Pub. L. 116–136, §3221(f), amended subsec. (f) generally. Prior to amendment, text read as follows: "Any person who violates any provision of this section or any regulation issued pursuant to this section shall be fined in accordance with title 18."
+
+Subsec. (h). Pub. L. 116–136, §3221(a), substituted "substance use disorder" for "substance abuse".
+
+Subsec. (i). Pub. L. 116–136, §3221(g), added subsec. (i).
+
+Subsec. (j). Pub. L. 116–136, §3221(h), added subsec. (j).
+
+Subsec. (k). Pub. L. 116–136, §3221(d), added subsec. (k).
 
 **1998**—Subsec. (e)(1), (2). Pub. L. 105–392 substituted "Uniformed Services" for "Armed Forces".
 
@@ -85,6 +201,26 @@ Amendment by Pub. L. 102–321 effective Oct. 1, 1992, with provision for progra
 #### Effective Date of 1976 Amendment ####
 
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of Title 38, Veterans' Benefits.
+
+#### Regulations ####
+
+Pub. L. 116–136, div. A, title III, §3221(i), Mar. 27, 2020, 134 Stat. 378, provided that:
+
+"(1) In general.—The Secretary of Health and Human Services, in consultation with appropriate Federal agencies, shall make such revisions to regulations as may be necessary for implementing and enforcing the amendments made by this section [amending this section], such that such amendments shall apply with respect to uses and disclosures of information occurring on or after the date that is 12 months after the date of enactment of this Act [Mar. 27, 2020].
+
+"(2) Easily understandable notice of privacy practices.—Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services, in consultation with appropriate legal, clinical, privacy, and civil rights experts, shall update section 164.520 of title 45, Code of Federal Regulations, so that covered entities and entities creating or maintaining the records described in subsection (a) provide notice, written in plain language, of privacy practices regarding patient records referred to in section 543(a) of the Public Health Service Act (42 U.S.C. 290dd–2(a)), including—
+
+"(A) a statement of the patient's rights, including self-pay patients, with respect to protected health information and a brief description of how the individual may exercise these rights (as required by subsection (b)(1)(iv) of such section 164.520); and
+
+"(B) a description of each purpose for which the covered entity is permitted or required to use or disclose protected health information without the patient's written authorization (as required by subsection (b)(2) of such section 164.520)."
+
+#### Construction of 2020 Amendment ####
+
+Pub. L. 116–136, div. A, title III, §3221(j), Mar. 27, 2020, 134 Stat. 379, provided that: "Nothing in this Act [div. A of Pub. L. 116–136, see Tables for Classification] or the amendments made by this Act shall be construed to limit—
+
+"(1) a patient's right, as described in section 164.522 of title 45, Code of Federal Regulations, or any successor regulation, to request a restriction on the use or disclosure of a record referred to in section 543(a) of the Public Health Service Act (42 U.S.C. 290dd–2(a)) for purposes of treatment, payment, or health care operations; or
+
+"(2) a covered entity's choice, as described in section 164.506 of title 45, Code of Federal Regulations, or any successor regulation, to obtain the consent of the individual to use or disclose a record referred to in such section 543(a) to carry out treatment, payment, or health care operation."
 
 #### Jessie's Law ####
 
@@ -159,3 +295,5 @@ Pub. L. 115–271, title VII, §§7051–7053, Oct. 24, 2018, 132 Stat. 4017, 40
 #### Report of Administrator of Veterans' Affairs to Congressional Committees; Publication in Federal Register ####
 
 Pub. L. 93–282, title I, §121(b), May 14, 1974, 88 Stat. 131, which directed Administrator of Veterans' Affairs to submit to appropriate committees of House of Representatives and Senate a full report (1) on regulations (including guidelines, policies, and procedures thereunder) he had prescribed pursuant to section 321(b)(2) of Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 [former 42 U.S.C. 290dd–2(b)(2)], (2) explaining bases for any inconsistency between such regulations and regulations of Secretary under section 321(b)(1) of such Act [42 U.S.C. 290dd–2(b)(1)], (3) on extent, substance, and results of his consultations with Secretary respecting prescribing and implementation of Administrator's regulations, and (4) containing such recommendations for legislation and administrative actions as he determined were necessary and desirable, with Administrator to submit report not later than sixty days after effective date of regulations prescribed by Secretary under such section 321(b)(1) [42 U.S.C. 290dd–2(b)(1)], and to publish such report in Federal Register, was characterized by section 111(c)(5) of Pub. L. 94–581 as having been superseded by section 4134 [now 7334] of Title 38, Veterans' Benefits.
+
+[<sup>1</sup> So in original.](#290dd-2_1)

@@ -60,9 +60,9 @@ In entering into contracts under this subsection, the Secretary shall give prior
 
 #### (e) Authorization of appropriations ####
 
-There is authorized to be appropriated $30,000,000 for each of fiscal years 2010 through 2014 to carry out subsection (c)(1)(A) and $20,000,000 for each of fiscal years 2010 through 2013 to carry out subsection (c)(1)(B).
+There is authorized to be appropriated such sums as may be necessary for each of fiscal years 2021 through 2025.
 
-(July 1, 1944, ch. 373, title VII, §775, as added Pub. L. 111–148, title V, §5203, Mar. 23, 2010, 124 Stat. 607.)
+(July 1, 1944, ch. 373, title VII, §775, as added Pub. L. 111–148, title V, §5203, Mar. 23, 2010, 124 Stat. 607; amended Pub. L. 116–136, div. A, title III, §3401(13), Mar. 27, 2020, 134 Stat. 387.)
 
 #### References in Text ####
 
@@ -73,3 +73,7 @@ The calendar year in which this section is enacted, referred to in subsec. (c)(1
 A prior section 295f, act July 1, 1944, ch. 373, title VII, §770, as added Oct. 22, 1965, Pub. L. 89–290, §2(a), 79 Stat. 1052; amended Aug. 16, 1968, Pub. L. 90–490, title I, §111(a), 82 Stat. 774; Nov. 18, 1971, Pub. L. 92–157, title I, §104(a), 85 Stat. 437; Oct. 12, 1976, Pub. L. 94–484, title I, §101(k), title V, §501(a)–(c), 90 Stat. 2245, 2290, 2291; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2746(a)(1), 95 Stat. 927; Oct. 22, 1985, Pub. L. 99–129, title II, §211(a)(1), 99 Stat. 537; Nov. 4, 1988, Pub. L. 100–607, title VI, §606(a), 102 Stat. 3127, related to capitation grants for schools of public health, prior to repeal by act July 1, 1944, ch. 373, title VII, §773, as added Nov. 4, 1988, Pub. L. 100–607, title VI, §606(b), 102 Stat. 3127, effective Oct. 1, 1990.
 
 A prior section 775 of act July 1, 1944, was renumbered section 772 by Pub. L. 94–484, and was classified to section 295f–2 of this title prior to repeal by act July 1, 1944, ch. 373, title VII, §773, as added Nov. 4, 1988, Pub. L. 100–607, title VI, §606(b), 102 Stat. 3127.
+
+#### Amendments ####
+
+**2020**—Subsec. (e). Pub. L. 116–136 substituted "such sums as may be necessary for each of fiscal years 2021 through 2025." for "$30,000,000 for each of fiscal years 2010 through 2014 to carry out subsection (c)(1)(A) and $20,000,000 for each of fiscal years 2010 through 2013 to carry out subsection (c)(1)(B)."

@@ -20,7 +20,7 @@ Sec.
 
 709. Delay in delivery caused by disruption of postal or other services.
 
-[710. Repealed.]
+710. Emergency relief authority.
 
 #### Historical and Revision Notes ####
 
@@ -53,6 +53,8 @@ Subsection (e) of section 704 establishes a new procedure under which a copyrigh
 **Reproductions for the Blind and Handicapped.** Section 710 directs the Register of Copyrights to establish by regulation forms and procedures by which the copyright owners of certain categories of works may voluntarily grant to the Library of Congress a license to reproduce and distribute copies or phonorecords of the work solely for the use of the blind and physically handicapped.
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–136, div. B, title IX, §19011(b), Mar. 27, 2020, 134 Stat. 582, added item 710.
 
 **2000**—Pub. L. 106–379, §3(a)(1), Oct. 27, 2000, 114 Stat. 1445, struck out item 710 "Reproduction for use of the blind and physically handicapped: Voluntary licensing forms and procedures."
 

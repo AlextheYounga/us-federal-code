@@ -20,6 +20,10 @@ Sec.
 
 6309. Honorable discharge certificate in lieu of birth certificate.
 
+#### Federal Contractor Authority ####
+
+Pub. L. 116–136, div. A, title III, §3610, Mar. 27, 2020, 134 Stat. 414, provided that: "Notwithstanding any other provision of law, and subject to the availability of appropriations, funds made available to an agency by this Act [div. A of Pub. L. 116–136, see Tables for classification] or any other Act may be used by such agency to modify the terms and conditions of a contract, or other agreement, without consideration, to reimburse at the minimum applicable contract billing rates not to exceed an average of 40 hours per week any paid leave, including sick leave, a contractor provides to keep its employees or subcontractors in a ready state, including to protect the life and safety of Government and contractor personnel, but in no event beyond September 30, 2020. Such authority shall apply only to a contractor whose employees or subcontractors cannot perform work on a site that has been approved by the Federal Government, including a federally-owned or leased facility or site, due to facility closures or other restrictions, and who cannot telework because their job duties cannot be performed remotely during the public health emergency declared on January 31, 2020 for COVID–19: *Provided*, That the maximum reimbursement authorized by this section shall be reduced by the amount of credit a contractor is allowed pursuant to division G [§§7001–7005] of Public Law 116–127 [set out as notes under sections 1401 and 3111 of Title 26, Internal Revenue Code] and any applicable credits a contractor is allowed under this Act."
+
 #### Ex. Ord. No. 13658. Establishing a Minimum Wage for Contractors ####
 
 Ex. Ord. No. 13658, Feb. 12, 2014, 79 F.R. 9851, as amended by Ex. Ord. 13838, §2, May 25, 2018, 83 F.R. 25341, provided:

@@ -105,3 +105,11 @@ Notwithstanding any other provision of law, the Secretary shall promulgate regul
 The Secretary shall finalize the regulations under this section not later than 27 months after November 26, 2014.
 
 (June 25, 1938, ch. 675, §586F, as added Pub. L. 113–195, §3, Nov. 26, 2014, 128 Stat. 2046.)
+
+#### Treatment of Non-Sunscreen Time and Extent Applications ####
+
+Pub. L. 116–136, div. A, title III, §3854(d), Mar. 27, 2020, 134 Stat. 457, provided that:
+
+"(1) In general.—Any application described in section 586F of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360fff–6) that was submitted to the Secretary pursuant to section 330.14 of title 21, Code of Federal Regulations, as such provisions were in effect immediately prior to the date of enactment date of this Act [Mar. 27, 2020], shall be extinguished as of such date of enactment, subject to paragraph (2).
+
+"(2) Order request.—Nothing in paragraph (1) precludes the submission of an order request under section 505G(b) of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355h(b)], as added by section 3851 of this subtitle, with respect to a drug that was the subject of an application extinguished under paragraph (1)."

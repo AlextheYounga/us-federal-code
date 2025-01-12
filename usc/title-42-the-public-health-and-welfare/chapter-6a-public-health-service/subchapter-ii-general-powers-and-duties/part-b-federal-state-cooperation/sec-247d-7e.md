@@ -266,7 +266,17 @@ To the maximum extent practicable, competitive procedures shall be used when ent
 
 The authority of this subparagraph may be exercised for a project that is expected to cost the Department of Health and Human Services in excess of $100,000,000 only upon a written determination by the Assistant Secretary for Financial Resources, that the use of such authority is essential to promoting the success of the project. The authority of the Assistant Secretary for Financial Resources under this subclause may not be delegated.
 
-#### (iii) Guidelines ####
+#### (iii) Authority during a public health emergency ####
+
+#### (I) In general ####
+
+Notwithstanding clause (ii), the Secretary, shall, to the maximum extent practicable, use competitive procedures when entering into transactions to carry out projects under this subsection for purposes of a public health emergency declared by the Secretary under section 247d of this title. Any such transactions entered into during such public health emergency shall not be terminated solely due to the expiration of such public health emergency, if such public health emergency ends before the completion of the terms of such agreement.
+
+#### (II) Report ####
+
+After the expiration of the public health emergency declared by the Secretary under section 247d of this title, the Secretary shall provide a report to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives regarding the use of any funds pursuant to the authority under subclause (I), including any outcomes, benefits, and risks associated with the use of such funds, and a description of the reasons for the use of such authority for the project or projects.
+
+#### (iv) Guidelines ####
 
 The Secretary shall establish guidelines regarding the use of the authority under clause (i). Such guidelines shall include auditing requirements.
 
@@ -412,7 +422,7 @@ Not later than 1 year after March 13, 2013, the Comptroller General of the Unite
 
 (ii) meet the surge manufacturing capacity needs presented by novel and emerging threats, including chemical, biological, radiological, and nuclear agents.
 
-(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §303(b), title IV, §404(a), title V, §504(b), title VI, §§601, 602, title VII, §701(d), (e)(2)(B), (f), June 24, 2019, 133 Stat. 935, 948, 951–953, 961.)
+(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §303(b), title IV, §404(a), title V, §504(b), title VI, §§601, 602, title VII, §701(d), (e)(2)(B), (f), June 24, 2019, 133 Stat. 935, 948, 951–953, 961; Pub. L. 116–136, div. A, title III, §3301, Mar. 27, 2020, 134 Stat. 383.)
 
 #### References in Text ####
 
@@ -429,6 +439,8 @@ In subsec. (c)(5)(C), "section 6101 of title 41" substituted for "section 3709 o
 In subsec. (c)(5)(F), "section 3304(a)(3) of title 41" substituted for "section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(3))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
+
+**2020**—Subsec. (c)(5)(A)(iii), (iv). Pub. L. 116–136 added cl. (iii) and redesignated former cl. (iii) as (iv).
 
 **2019**—Subsec. (a)(3). Pub. L. 116–22, §602(1), struck out ", such as the Secretary of Defense may enter into under section 2371 of title 10" before period at end.
 

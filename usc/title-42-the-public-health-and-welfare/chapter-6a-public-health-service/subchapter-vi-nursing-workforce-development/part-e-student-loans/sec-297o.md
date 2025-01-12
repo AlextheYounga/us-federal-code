@@ -62,17 +62,17 @@ For purposes of this section, the term "eligible individual" means an individual
 
 For the purposes of this section and section 297n–1 of this title, funding priority will be awarded to School of Nursing Student Loans <sup><a href="#297o_2_target" name="297o_2">2</a></sup> that support doctoral nursing students or Individual Student Loan Repayment <sup><a href="#297o_3_target" name="297o_3">3</a></sup> that support doctoral nursing students.
 
-#### (g) Authorization of appropriations ####
-
-There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014.
-
-(July 1, 1944, ch. 373, title VIII, §847, as added Pub. L. 111–148, title V, §5311(b), Mar. 23, 2010, 124 Stat. 632.)
+(July 1, 1944, ch. 373, title VIII, §847, as added Pub. L. 111–148, title V, §5311(b), Mar. 23, 2010, 124 Stat. 632; amended Pub. L. 116–136, div. A, title III, §3404(a)(10), Mar. 27, 2020, 134 Stat. 394.)
 
 #### Prior Provisions ####
 
 A prior section 847 of act July 1, 1944, was classified to section 297n of this title prior to repeal by Pub. L. 102–408.
 
 A prior section 297q, act July 1, 1944, ch. 373, title VIII, §841, as added Pub. L. 105–392, title I, §123(5), Nov. 13, 1998, 112 Stat. 3569, was renumbered section 871 of act July 1, 1944, and amended by Pub. L. 111–148, title V, §§5310(b)(7), 5312, Mar. 23, 2010, 124 Stat. 631, 633, and transferred to section 298d of this title.
+
+#### Amendments ####
+
+**2020**—Subsec. (g). Pub. L. 116–136 struck out subsec. (g). Text read as follows: "There are authorized to be appropriated to carry out this section such sums as may be necessary for each of fiscal years 2010 through 2014."
 
 [<sup>1</sup> So in original. Probably should be followed by a comma.](#297o_1)
 

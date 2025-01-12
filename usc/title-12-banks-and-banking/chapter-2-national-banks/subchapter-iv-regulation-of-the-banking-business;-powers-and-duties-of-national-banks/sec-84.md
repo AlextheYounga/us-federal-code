@@ -38,7 +38,7 @@ The limitations contained in subsection (a) shall be subject to the following ex
 
 (6) Loans or extensions of credit secured by a segregated deposit account in the lending bank shall not be subject to any limitation based on capital and surplus.
 
-(7) Loans or extensions of credit to any financial institution or to any receiver, conservator, superintendent of banks, or other agent in charge of the business and property of such financial institution, when such loans or extensions of credit are approved by the Comptroller of the Currency, shall not be subject to any limitation based on capital and surplus.
+(7) Loans or extensions of credit to any nonbank financial company (as that term is defined in section 5311 of this title), any financial institution, or to any receiver, conservator, superintendent of banks, or other agent in charge of the business and property of such financial institution, when such loans or extensions of credit are approved by the Comptroller of the Currency, shall not be subject to any limitation based on capital and surplus.
 
 (8)(A) Loans and extensions of credit arising from the discount of negotiable or nonnegotiable installment consumer paper which carries a full recourse endorsement or unconditional guarantee by the person transferring the paper shall be subject under this section to a maximum limitation equal to 25 per centum of such capital and surplus, notwithstanding the collateral requirements set forth in subsection (a)(2).
 
@@ -52,11 +52,15 @@ The limitations contained in subsection (a) shall be subject to the following ex
 
 #### (d) Authority of Comptroller of the Currency ####
 
-(1) The Comptroller of the Currency may prescribe rules and regulations to administer and carry out the purposes of this section, including rules or regulations to define or further define terms used in this section and to establish limits or requirements other than those specified in this section for particular classes or categories of loans or extensions of credit.
+(1) The Comptroller of the Currency may prescribe rules and regulations to administer and carry out the purposes of this section, including rules or regulations to define or further define terms used in this section and to establish limits or requirements other than those specified in this section for particular classes or categories of loans or extensions of credit. The Comptroller of the Currency may, by order, exempt any transaction or series of transactions from the requirements of this section upon a finding by the Comptroller that such exemption is in the public interest and consistent with the purposes of this section.
 
 (2) The Comptroller of the Currency also shall have authority to determine when a loan putatively made to a person shall for purposes of this section be attributed to another person.
 
-(R.S. §5200; June 22, 1906, ch. 3516, 34 Stat. 451; Sept. 24, 1918, ch. 176, §6, 40 Stat. 967; Oct. 22, 1919, ch. 79, §1, 41 Stat. 296; Feb. 25, 1927, ch. 191, §10, 44 Stat. 1229; May 20, 1933, ch. 35, §1, 48 Stat. 73; June 16, 1933, ch. 89, §26(a), 48 Stat. 191; Aug. 23, 1935, ch. 614, title III, §321(b), 49 Stat. 713; June 11, 1942, ch. 404, §8, 56 Stat. 356; July 15, 1949, ch. 338, title VI, §602(b), 63 Stat. 440; July 22, 1937, ch. 517, §15(a), as added Aug. 14, 1946, ch. 964, §5, 60 Stat. 1079; amended Pub. L. 85–748, §1(c), Aug. 25, 1958, 72 Stat. 841; Pub. L. 86–251, §3, Sept. 9, 1959, 73 Stat. 488; Pub. L. 87–723, §4(c)(4), Sept. 28, 1962, 76 Stat. 672; Pub. L. 90–19, §27(b), May 25, 1967, 81 Stat. 29; Pub. L. 92–318, title I, §133(c)(2), June 23, 1972, 86 Stat. 270; Pub. L. 97–320, title IV, §401(a), Oct. 15, 1982, 96 Stat. 1508; Pub. L. 97–457, §17(a), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 111–203, title VI, §610(a), July 21, 2010, 124 Stat. 1611.)
+(R.S. §5200; June 22, 1906, ch. 3516, 34 Stat. 451; Sept. 24, 1918, ch. 176, §6, 40 Stat. 967; Oct. 22, 1919, ch. 79, §1, 41 Stat. 296; Feb. 25, 1927, ch. 191, §10, 44 Stat. 1229; May 20, 1933, ch. 35, §1, 48 Stat. 73; June 16, 1933, ch. 89, §26(a), 48 Stat. 191; Aug. 23, 1935, ch. 614, title III, §321(b), 49 Stat. 713; June 11, 1942, ch. 404, §8, 56 Stat. 356; July 15, 1949, ch. 338, title VI, §602(b), 63 Stat. 440; July 22, 1937, ch. 517, §15(a), as added Aug. 14, 1946, ch. 964, §5, 60 Stat. 1079; amended Pub. L. 85–748, §1(c), Aug. 25, 1958, 72 Stat. 841; Pub. L. 86–251, §3, Sept. 9, 1959, 73 Stat. 488; Pub. L. 87–723, §4(c)(4), Sept. 28, 1962, 76 Stat. 672; Pub. L. 90–19, §27(b), May 25, 1967, 81 Stat. 29; Pub. L. 92–318, title I, §133(c)(2), June 23, 1972, 86 Stat. 270; Pub. L. 97–320, title IV, §401(a), Oct. 15, 1982, 96 Stat. 1508; Pub. L. 97–457, §17(a), Jan. 12, 1983, 96 Stat. 2509; Pub. L. 111–203, title VI, §610(a), July 21, 2010, 124 Stat. 1611; Pub. L. 116–136, div. A, title IV, §4011(a), Mar. 27, 2020, 134 Stat. 478.)
+
+#### Amendment of Subsections (c)(7) and (d)(1) ####
+
+For termination of amendment by section 4011(a) of Pub. L. 116–136, see Effective and Termination Dates of 2020 Amendment note below.
 
 #### References in Text ####
 
@@ -67,6 +71,10 @@ Section 372 of this title, referred to in subsec. (c)(2), was in the original a 
 R.S. §5200 derived from act June 3, 1864, ch. 106, §29, 13 Stat. 108, which was the National Bank Act. See section 38 of this title.
 
 #### Amendments ####
+
+**2020**—Subsec. (c)(7). Pub. L. 116–136, §4011(a)(1), temporarily inserted "any nonbank financial company (as that term is defined in section 5311 of this title)," after "Loans or extensions of credit to" and temporarily substituted "financial institution, or to" for "financial institution or to".
+
+Subsec. (d)(1). Pub. L. 116–136, §4011(a)(2), temporarily inserted at end "The Comptroller of the Currency may, by order, exempt any transaction or series of transactions from the requirements of this section upon a finding by the Comptroller that such exemption is in the public interest and consistent with the purposes of this section."
 
 **2010**—Subsec. (b)(1). Pub. L. 111–203, §610(a)(1), substituted "shall include—" for "shall include all direct or indirect advances of funds to a person made on the basis of any obligation of that person to repay the funds or repayable from specific property pledged by or on behalf of the person and, to the extent specified by the Comptroller of the Currency, such term shall also include any liability of a national banking association to advance funds to or on behalf of a person pursuant to a contractual commitment; and" and added subpars. (A) to (C).
 
@@ -131,6 +139,14 @@ Par. (13). Pub. L. 86–251, §3(d), added par. (13).
 Par. (9). Act May 20, 1933, added par. (9).
 
 **1927**—Act Feb. 25, 1927, reenacted section, subdividing it into eight numbered exceptions.
+
+#### Effective and Termination Dates of 2020 Amendment ####
+
+Pub. L. 116–136, div. A, title IV, §4011(b), Mar. 27, 2020, 134 Stat. 479, provided that: "This section, and the amendments made by this section [amending this section], shall be effective during the period beginning on the date of enactment of this Act [Mar. 27, 2020] and ending on the sooner of—
+
+"(1) the termination date of the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020 under the National Emergencies Act (50 U.S.C. 1601 et seq.); or
+
+"(2) December 31, 2020."
 
 #### Effective Date of 2010 Amendment ####
 

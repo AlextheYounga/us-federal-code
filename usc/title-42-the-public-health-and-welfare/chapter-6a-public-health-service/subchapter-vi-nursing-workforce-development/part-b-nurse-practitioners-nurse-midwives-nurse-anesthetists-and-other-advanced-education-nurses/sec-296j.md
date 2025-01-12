@@ -10,7 +10,7 @@ The Secretary may award grants to and enter into contracts with eligible entitie
 
 #### (b) Definition of advanced education nurses ####
 
-For purposes of this section, the term "advanced education nurses" means individuals trained in advanced degree programs including individuals in combined R.N./Master's degree programs, post-nursing master's certificate programs, or, in the case of nurse midwives, in certificate programs in existence on the date that is one day prior to November 13, 1998, to serve as nurse practitioners, clinical nurse specialists, nurse midwives, nurse anesthetists, nurse educators, nurse administrators, or public health nurses, or in other nurse specialties determined by the Secretary to require advanced education.
+For purposes of this section, the term "advanced education nurses" means individuals trained in advanced degree programs including individuals in combined R.N./graduate degree programs, post-nursing master's certificate programs, or, in the case of nurse midwives, in certificate programs in existence on the date that is one day prior to November 13, 1998, to serve as nurse practitioners, clinical nurse specialists, nurse midwives, nurse anesthetists, nurse educators, nurse administrators, clinical nurse leaders, or public health nurses, or in other nurse specialties determined by the Secretary to require advanced education.
 
 #### (c) Authorized nurse practitioner ####
 
@@ -36,11 +36,19 @@ Nurse anesthesia programs eligible for support under this section are education 
 
 (2) are accredited by the Council on Accreditation of Nurse Anesthesia Educational Programs.
 
-#### (f) Other authorized educational programs ####
+#### (f) Authorized clinical nurse specialist programs ####
+
+Clinical nurse specialist programs eligible for support under this section are education programs that—
+
+(1) provide registered nurses with full-time clinical nurse specialist education; and
+
+(2) have as their objective the education of clinical nurse specialists who will, upon completion of such a program, be qualified to effectively provide care through the wellness and illness continuum to inpatients and outpatients experiencing acute and chronic illness.
+
+#### (g) Other authorized educational programs ####
 
 The Secretary shall prescribe guidelines as appropriate for other advanced nurse education programs eligible for support under this section.
 
-#### (g) Traineeships ####
+#### (h) Traineeships ####
 
 #### (1) In general ####
 
@@ -54,13 +62,17 @@ The Secretary may not award a grant to an applicant under subsection (a) unless 
 
 In making awards of grants and contracts under subsection (a)(2), the Secretary shall give special consideration to an eligible entity that agrees to expend the award to train advanced education nurses who will practice in health professional shortage areas designated under section 254e of this title.
 
-(July 1, 1944, ch. 373, title VIII, §811, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3566; amended Pub. L. 111–148, title V, §5308, Mar. 23, 2010, 124 Stat. 629.)
+(July 1, 1944, ch. 373, title VIII, §811, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3566; amended Pub. L. 111–148, title V, §5308, Mar. 23, 2010, 124 Stat. 629; Pub. L. 116–136, div. A, title III, §3404(a)(5), Mar. 27, 2020, 134 Stat. 393.)
 
 #### Prior Provisions ####
 
 A prior section 296j, act July 1, 1944, ch. 373, title VIII, §815, as added July 29, 1975, Pub. L. 94–63, title IX, §921, 89 Stat. 358; amended Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2752, 95 Stat. 929, set forth provisions relating to authorization, terms and conditions, etc., respecting grants for operational costs or meeting accreditation requirements, prior to repeal by Pub. L. 99–92, §§9(a)(1), 10(a), Aug. 16, 1985, 99 Stat. 400, 402, effective Oct. 1, 1985.
 
 #### Amendments ####
+
+**2020**—Subsec. (b). Pub. L. 116–136, §3404(a)(5)(A), substituted "R.N./graduate" for "R.N./Master's" and inserted "clinical nurse leaders," after "nurse administrators,".
+
+Subsecs. (f) to (h). Pub. L. 116–136, §3404(a)(5)(B), (C), added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 **2010**—Subsec. (c). Pub. L. 111–148, §5308(1), struck out "and nurse midwifery programs" after "practitioner" in heading and "and nurse midwifery" after "practitioner" in introductory provisions.
 

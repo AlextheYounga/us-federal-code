@@ -150,6 +150,8 @@ Sec.
 
 355g. Utilizing real world evidence.
 
+355h. Regulation of certain nonprescription drugs that are marketed without an approved drug application.
+
 356. Expedited approval of drugs for serious or life-threatening diseases or conditions.
 
 356–1. Accelerated approval of priority countermeasures.
@@ -174,6 +176,8 @@ Sec.
 
 356i. Prompt reports of marketing status.
 
+356j. Discontinuance or interruption in the production of medical devices.
+
 357. Qualification of drug development tools.
 
 358. Authority to designate official names.
@@ -189,6 +193,8 @@ Sec.
 360a–2. Susceptibility test interpretive criteria for microorganisms.
 
 360b. New animal drugs.
+
+360b–1. Priority zoonotic animal drugs.
 
 360c. Classification of devices intended for human use.
 
@@ -354,11 +360,13 @@ Sec.
 
 360fff–4. Guidance; other provisions.
 
-360fff–5. Sunscreen monograph.
+360fff–5. Repealed.
 
 360fff–6. Non-sunscreen time and extent applications.
 
 360fff–7. Report.
+
+360fff–8. Sunset.
 
 #### SUBCHAPTER VI—COSMETICS ####
 
@@ -483,6 +491,14 @@ Sec.
 379j–61. Definitions.
 
 379j–62. Authority to assess and use outsourcing facility fees.
+
+#### subpart 10—fees relating to over-the-counter drugs ####
+
+379j–71. Definitions.
+
+379j–72. Authority to assess and use OTC monograph fees.
+
+379j–73. Reauthorization; reporting requirements.
 
 #### Part D—Information and Education ####
 

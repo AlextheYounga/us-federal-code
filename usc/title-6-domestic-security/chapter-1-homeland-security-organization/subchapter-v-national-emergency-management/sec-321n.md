@@ -26,8 +26,6 @@ The Secretary shall submit to the Committee on Homeland Security of the House of
 
 #### (2) Publication ####
 
-Each report required under paragraph (1) shall be made publically <sup><a href="#321n_1_target" name="321n_1">1</a></sup> available.
+Each report required under paragraph (1) shall be made publically available.
 
 (Pub. L. 107–296, title V, §525, as added Pub. L. 111–245, §2(a)(1), Sept. 30, 2010, 124 Stat. 2620.)
-
-[<sup>1</sup> So in original. Probably should be "publicly".](#321n_1)

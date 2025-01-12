@@ -42,9 +42,9 @@ For purposes of subsection (a), a requirement that relates to the regulation of 
 
 #### (1) In general ####
 
-In the case of a drug described in subsection (a)(1) that is not the subject of an application approved under section 355 of this title or section 357 of this title (as in effect on the day before November 21, 1997) or a final regulation promulgated by the Secretary establishing conditions under which the drug is generally recognized as safe and effective and not misbranded, subsection (a) shall apply only with respect to a requirement of a State or political subdivision of a State that relates to the same subject as, but is different from or in addition to, or that is otherwise not identical with—
+In the case of a drug described in subsection (a)(1) that is not the subject of an application approved under section 355 of this title or section 357 of this title (as in effect on the day before November 21, 1997) or a final order under section 355h of this title by the Secretary establishing conditions under which the drug is generally recognized as safe and effective, subsection (a) shall apply only with respect to a requirement of a State or political subdivision of a State that relates to the same subject as, but is different from or in addition to, or that is otherwise not identical with—
 
-(A) a regulation in effect with respect to the drug pursuant to a statute described in subsection (a)(2); or
+(A) a regulation or order in effect with respect to the drug pursuant to a statute described in subsection (a)(2); or
 
 (B) any other requirement in effect with respect to the drug pursuant to an amendment to such a statute made on or after November 21, 1997.
 
@@ -60,13 +60,19 @@ Nothing in this section shall be construed to modify or otherwise affect any act
 
 Nothing in this section shall prevent a State or political subdivision thereof from enforcing, under any relevant civil or other enforcement authority, a requirement that is identical to a requirement of this chapter.
 
-(June 25, 1938, ch. 675, §751, as added Pub. L. 105–115, title IV, §412(a), Nov. 21, 1997, 111 Stat. 2373.)
+(June 25, 1938, ch. 675, §751, as added Pub. L. 105–115, title IV, §412(a), Nov. 21, 1997, 111 Stat. 2373; amended Pub. L. 116–136, div. A, title III, §3851(c), Mar. 27, 2020, 134 Stat. 454.)
 
 #### References in Text ####
 
 The Poison Prevention Packaging Act of 1970, referred to in subsec. (a)(2), is Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, as amended, which is classified principally to chapter 39A (§1471 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of Title 15 and Tables.
 
 The Fair Packaging and Labeling Act, referred to in subsec. (a)(2), is Pub. L. 89–755, Nov. 3, 1966, 80 Stat. 1296, as amended, which is classified generally to chapter 39 (§1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1451 of Title 15 and Tables.
+
+#### Amendments ####
+
+**2020**—Subsec. (d)(1). Pub. L. 116–136, §3851(c)(1), in introductory provisions, substituted "final order under section 355h of this title" for "final regulation promulgated" and struck out "and not misbranded" after "safe and effective".
+
+Subsec. (d)(1)(A). Pub. L. 116–136, §3851(c)(2), substituted "regulation or order in effect" for "regulation in effect".
 
 #### Effective Date ####
 

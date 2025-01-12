@@ -14,7 +14,7 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (1) be accepted for enrollment, or be enrolled, as a full-time student (A) in an accredited (as determined by the Secretary) educational institution in a State and (B) in a course of study or program, offered by such institution and approved by the Secretary, leading to a degree in medicine, osteopathic medicine, dentistry, or other health profession, or an appropriate degree from a graduate program of behavioral and mental health;
 
-(2) be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps of the Service or be eligible for selection for civilian service in the Corps;
+(2) be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps <sup><a href="#254l_1_target" name="254l_1">1</a></sup> of the Service or be eligible for selection for civilian service in the Corps;
 
 (3) submit an application to participate in the Scholarship Program; and
 
@@ -46,11 +46,11 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (B) the Secretary, in considering applications from individuals accepted for enrollment or enrolled in dental school, shall consider applications from all individuals accepted for enrollment or enrolled in any accredited dental school in a State; and
 
-(C) may <sup><a href="#254l_1_target" name="254l_1">1</a></sup> consider such other factors regarding the applicants as the Secretary determines to be relevant to selecting qualified individuals to participate in such Program.
+(C) may <sup><a href="#254l_2_target" name="254l_2">2</a></sup> consider such other factors regarding the applicants as the Secretary determines to be relevant to selecting qualified individuals to participate in such Program.
 
 (2) In providing contracts under the Scholarship Program, the Secretary shall give priority—
 
-(A) first, to any application for such a contract submitted by an individual who has previously received a scholarship under this section or under section 294z <sup><a href="#254l_2_target" name="254l_2">2</a></sup> of this title;
+(A) first, to any application for such a contract submitted by an individual who has previously received a scholarship under this section or under section 294z <sup><a href="#254l_3_target" name="254l_3">3</a></sup> of this title;
 
 (B) second, to any application for such a contract submitted by an individual who has characteristics that increase the probability that the individual will continue to serve in a health professional shortage area after the period of obligated service pursuant to subsection (f) is completed; and
 
@@ -204,6 +204,10 @@ Subsec. (i). Pub. L. 95–623 substituted March 1 for December 1 as the date for
 
 **1977**—Subsec. (d)(2). Pub. L. 95–215 substituted provisions relating to the school years beginning in calendar years 1978 and 1979 for provisions relating to the school year ending in the fiscal year beginning Oct. 1, 1977.
 
+#### Change of Name ####
+
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of this title.
+
 #### Effective Date of 2003 Amendment ####
 
 Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the enactment of Pub. L. 107–251, see section 3 of Pub. L. 108–163, set out as a note under section 233 of this title.
@@ -252,6 +256,8 @@ Pub. L. 94–484, title IV, §408(b)(2), Oct. 12, 1976, 90 Stat. 2288, as amende
 
 Pub. L. 107–251, title III, §302(c), Oct. 26, 2002, 116 Stat. 1644, provided that: "The Secretary of Health and Human Services, in consultation with organizations representing individuals in the dental field and organizations representing publicly funded health care providers, shall develop and implement a plan for increasing the participation of dentists and dental hygienists in the National Health Service Corps Scholarship Program under section 338A of the Public Health Service Act (42 U.S.C. 254l) and the Loan Repayment Program under section 338B of such Act (42 U.S.C. 254l–1)."
 
-[<sup>1</sup> So in original.](#254l_1)
+[<sup>1</sup> See Change of Name note below.](#254l_1)
 
-[<sup>2</sup> See References in Text note below.](#254l_2)
+[<sup>2</sup> So in original.](#254l_2)
+
+[<sup>3</sup> See References in Text note below.](#254l_3)

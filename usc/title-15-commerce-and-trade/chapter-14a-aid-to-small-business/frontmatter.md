@@ -130,7 +130,7 @@ Sec.
 
 655. Pilot Technology Access Program.
 
-656. Women's business center program.
+656. Women's Business Center program.
 
 657. Oversight of regulatory enforcement.
 

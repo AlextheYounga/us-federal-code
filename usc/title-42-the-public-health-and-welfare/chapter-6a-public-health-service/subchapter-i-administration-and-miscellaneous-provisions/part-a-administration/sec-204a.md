@@ -8,7 +8,7 @@ The Secretary, with respect to members of the following Corps components, shall 
 
 (A) Active duty Regular Corps.
 
-(B) Active Reserves.
+(B) Ready Reserve Corps.
 
 #### (2) Annual assessment of members ####
 
@@ -66,13 +66,17 @@ The Secretary shall—
 
 For purposes of pay, allowances, and benefits of a Commissioned Corps officer who is detailed or assigned to a Federal entity, the deployment of such officer by the Secretary in response to an urgent or emergency public health care need shall be deemed to be an authorized activity of the Federal entity to which the officer is detailed or assigned.
 
-(July 1, 1944, ch. 373, title II, §203A, as added Pub. L. 109–417, title II, §206(b), Dec. 19, 2006, 120 Stat. 2851.)
+(July 1, 1944, ch. 373, title II, §203A, as added Pub. L. 109–417, title II, §206(b), Dec. 19, 2006, 120 Stat. 2851; amended Pub. L. 116–136, div. A, title III, §3214(b), Mar. 27, 2020, 134 Stat. 373.)
 
 #### References in Text ####
 
 The National Emergencies Act, referred to in subsec. (a)(5)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(5)(B), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
+#### Amendments ####
+
+**2020**—Subsec. (a)(1)(B). Pub. L. 116–136 substituted "Ready Reserve Corps" for "Active Reserves".
 
 #### Purpose ####
 

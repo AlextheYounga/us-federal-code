@@ -8,7 +8,7 @@ The Secretary may make grants or contracts for the operation of public health tr
 
 #### (1) In general ####
 
-A public health training center shall be an accredited school of public health, or another public or nonprofit private institution accredited for the provision of graduate or specialized training in public health, that plans, develops, operates, and evaluates projects that are in furtherance of the goals established by the Secretary for the year 2000 in the areas of preventive medicine, health promotion and disease prevention, or improving access to and quality of health services in medically underserved communities.
+A public health training center shall be an accredited school of public health, or another public or nonprofit private institution accredited for the provision of graduate or specialized training in public health, that plans, develops, operates, and evaluates projects to improve preventive medicine, health promotion and disease prevention, or access to and quality of health care services in rural or medically underserved communities.
 
 #### (2) Preference ####
 
@@ -26,7 +26,7 @@ With respect to a public health training center, an award may not be made under 
 
 (4) will assess the health personnel needs of the area to be served by the center and assist in the planning and development of training programs to meet such needs.
 
-(July 1, 1944, ch. 373, title VII, §766, as added Pub. L. 105–392, title I, §105, Nov. 13, 1998, 112 Stat. 3554.)
+(July 1, 1944, ch. 373, title VII, §766, as added Pub. L. 105–392, title I, §105, Nov. 13, 1998, 112 Stat. 3554; amended Pub. L. 116–136, div. A, title III, §3401(11), Mar. 27, 2020, 134 Stat. 387.)
 
 #### Prior Provisions ####
 
@@ -41,3 +41,7 @@ A prior section 766 of act July 1, 1944, was classified to section 294d of this 
 Another prior section 766 of act July 1, 1944, was classified to section 295d–1 of this title prior to repeal by Pub. L. 99–129.
 
 Another prior section 766 of act July 1, 1944, was classified to section 295d–1 of this title prior to the general amendment of part D of this subchapter by Pub. L. 91–696.
+
+#### Amendments ####
+
+**2020**—Subsec. (b)(1). Pub. L. 116–136 substituted "that plans, develops, operates, and evaluates projects to improve preventive medicine, health promotion and disease prevention, or access to and quality of health care services in rural or medically underserved communities." for "that plans, develops, operates, and evaluates projects that are in furtherance of the goals established by the Secretary for the year 2000 in the areas of preventive medicine, health promotion and disease prevention, or improving access to and quality of health services in medically underserved communities."

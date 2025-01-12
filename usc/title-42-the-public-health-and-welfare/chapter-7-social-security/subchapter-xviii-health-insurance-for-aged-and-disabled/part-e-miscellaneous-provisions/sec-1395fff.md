@@ -188,7 +188,7 @@ If a beneficiary elects to transfer to, or receive services from, another home h
 
 With respect to home health services furnished on or after October 1, 1998, no claim for such a service may be paid under this subchapter unless—
 
-(1) the claim has the unique identifier (provided under section 1395u(r) of this title) for the physician who prescribed the services or made the certification described in section 1395f(a)(2) or 1395n(a)(2)(A) of this title;
+(1) the claim has the unique identifier for the physician <sup><a href="#1395fff_2_target" name="1395fff_2">2</a></sup> the nurse practitioner or clinical nurse specialist (as those terms are defined in section 1395x(aa)(5) of this title), or the physician assistant (as defined in section 1395x(aa)(5) of this title) who prescribed the services or made the certification described in section 1395f(a)(2) or 1395n(a)(2)(A) of this title;
 
 (2) in the case of a service visit described in paragraph (1), (2), (3), or (4) of section 1395x(m) of this title, the claim contains a code (or codes) specified by the Secretary that identifies the length of time of the service visit, as measured in 15 minute increments; and
 
@@ -216,21 +216,27 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 Nothing in this section shall be construed as preventing a home health agency furnishing a home health unit of service for which payment is made under the prospective payment system established by this section for such units of service from furnishing services via a telecommunication system if such services—
 
-(A) do not substitute for in-person home health services ordered as part of a plan of care certified by a physician pursuant to section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title; and
+(A) do not substitute for in-person home health services ordered as part of a plan of care certified by a physician <sup><a href="#1395fff_2_target" name="1395fff_2">2</a></sup> a nurse practitioner or clinical nurse specialist, or a physician assistant pursuant to section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title; and
 
 (B) are not considered a home health visit for purposes of eligibility or payment under this subchapter.
 
-#### (2) Physician certification ####
+#### (2) Rule of construction regarding requirement for certification ####
 
-Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
+Nothing in this section shall be construed as waiving the requirement for a certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) [title III, §§302(b), 303(b), 306, 321(k)(19)], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) [title V, §§501(a), (c)(1), 504], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §§3131(a)(1), (b), 3401(e), title X, §§10315(a), 10319(d), Mar. 23, 2010, 124 Stat. 427, 428, 483, 944, 949; Pub. L. 113–185, §2(c)(1), Oct. 6, 2014, 128 Stat. 1962; Pub. L. 114–10, title IV, §411(c), Apr. 16, 2015, 129 Stat. 161; Pub. L. 115–123, div. E, title II, §50208(a)(2), title X, §51001(a), title XII, §53110, Feb. 9, 2018, 132 Stat. 189, 289, 304.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) [title III, §§302(b), 303(b), 306, 321(k)(19)], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) [title V, §§501(a), (c)(1), 504], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §§3131(a)(1), (b), 3401(e), title X, §§10315(a), 10319(d), Mar. 23, 2010, 124 Stat. 427, 428, 483, 944, 949; Pub. L. 113–185, §2(c)(1), Oct. 6, 2014, 128 Stat. 1962; Pub. L. 114–10, title IV, §411(c), Apr. 16, 2015, 129 Stat. 161; Pub. L. 115–123, div. E, title II, §50208(a)(2), title X, §51001(a), title XII, §53110, Feb. 9, 2018, 132 Stat. 189, 289, 304; Pub. L. 116–136, div. A, title III, §3708(d), Mar. 27, 2020, 134 Stat. 421.)
 
 #### References in Text ####
 
 Section 5201(d) of the Deficit Reduction Act of 2005, referred to in subsec. (b)(3)(B)(v)(I), is section 5201(d) of title V of Pub. L. 109–171, Feb. 8, 2006, 120 Stat. 47, which is not classified to the Code.
 
 #### Amendments ####
+
+**2020**—Subsec. (c)(1). Pub. L. 116–136, §3708(d)(1), struck out "(provided under section 1395u(r) of this title)" after "unique identifier" and inserted "the nurse practitioner or clinical nurse specialist (as those terms are defined in section 1395x(aa)(5) of this title), or the physician assistant (as defined in section 1395x(aa)(5) of this title)" after "physician".
+
+Subsec. (e)(1)(A). Pub. L. 116–136, §3708(d)(2)(A), inserted "a nurse practitioner or clinical nurse specialist, or a physician assistant" after "physician".
+
+Subsec. (e)(2). Pub. L. 116–136, §3708(d)(2)(B), substituted "Rule of construction regarding requirement for certification" for "Physician certification" in heading and struck out "physician" before "certification" in text.
 
 **2018**—Subsec. (b)(2). Pub. L. 115–123, §51001(a)(1), inserted subpar. (A) designation and heading before "In defining" and added subpar. (B).
 
@@ -333,6 +339,10 @@ Subsec. (b)(3)(B)(i). Pub. L. 105–277, §5101(d)(2)(A), substituted "home heal
 Pub. L. 105–277, §5101(c)(1)(B)(iii), substituted "fiscal year 2002" for "fiscal year 2001".
 
 Subsec. (b)(3)(B)(ii), (iii). Pub. L. 105–277, §5101(d)(2)(B), (C), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+#### Effective Date of 2020 Amendment ####
+
+Secretary of Health and Human Services to prescribe regulations to apply the amendments made by Pub. L. 116–136 to items and services furnished, which shall become effective no later than 6 months after Mar. 27, 2020, see section 3708(f) of Pub. L. 116–136, set out as a note under section 1395f of this title.
 
 #### Effective Date of 2000 Amendment ####
 

@@ -10,7 +10,7 @@ Activities of the type described in this subsection include the following:
 
 (1) Assisting entities in meeting the costs associated with expanding or establishing programs that will increase the number of individuals trained in allied health professions. Programs and activities funded under this paragraph may include—
 
-(A) those that expand enrollments in allied health professions with the greatest shortages or whose services are most needed by the elderly;
+(A) those that expand enrollments in allied health professions with the greatest shortages or whose services are most needed by geriatric populations or for maternal and child health;
 
 (B) those that provide rapid transition training programs in allied health fields to individuals who have baccalaureate degrees in health-related sciences;
 
@@ -40,7 +40,7 @@ that shall be utilized to assist in the payment of all or part of the costs asso
 
 (3) Carrying out demonstration projects in which chiropractors and physicians collaborate to identify and provide effective treatment for spinal and lower-back conditions.
 
-(July 1, 1944, ch. 373, title VII, §755, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3548.)
+(July 1, 1944, ch. 373, title VII, §755, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3548; amended Pub. L. 116–136, div. A, title III, §3401(8), Mar. 27, 2020, 134 Stat. 386.)
 
 #### Prior Provisions ####
 
@@ -49,3 +49,7 @@ A prior section 294e, act July 1, 1944, ch. 373, title VII, §767, as added Pub.
 Another prior section 294e, act July 1, 1944, ch. 373, title VII, §732, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §401(b)(3), 90 Stat. 2260; amended Aug. 1, 1977, Pub. L. 95–83, title III, §307(c)(3), (4), 91 Stat. 390; Dec. 19, 1977, Pub. L. 95–215, §4(e)(8), (9), 91 Stat. 1506; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2729, 95 Stat. 918; Oct. 22, 1985, Pub. L. 99–129, title II, §208(e), 99 Stat. 531; Nov. 4, 1988, Pub. L. 100–607, title VI, §602(g), 102 Stat. 3123, related to certificates of loan insurance, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 292e of this title.
 
 Another prior section 294e, act July 1, 1944, ch. 373, title VII, §744, formerly §745, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 173; amended Nov. 18, 1971, Pub. L. 92–157, title I, §105(f)(2), 85 Stat. 451; renumbered §744, Oct. 12, 1976, Pub. L. 94–484, title IV, §406(a)(2), 90 Stat. 2268, which related to administrative provisions, was transferred to section 294q of this title.
+
+#### Amendments ####
+
+**2020**—Subsec. (b)(1)(A). Pub. L. 116–136 substituted "geriatric populations or for maternal and child health" for "the elderly".
