@@ -66,7 +66,7 @@
 
 (B) In addition, on filing a brief in support of the appeal, $540, and on requesting an oral hearing in the appeal before the Patent Trial and Appeal Board, $1,080.
 
-(7) Revival fees.—On filing each petition for the revival of an unintentionally abandoned application for a patent, for the unintentionally delayed payment of the fee for issuing each patent, or for an unintentionally delayed response by the patent owner in any reexamination proceeding, $1,620, unless the petition is filed under section 133 or 151, in which case the fee shall be $540.
+(7) Revival fees.—On filing each petition for the revival of an abandoned application for a patent, for the delayed payment of the fee for issuing each patent, for the delayed response by the patent owner in any reexamination proceeding, for the delayed payment of the fee for maintaining a patent in force, for the delayed submission of a priority or benefit claim, or for the extension of the 12-month period for filing a subsequent application, $1,700.00. The Director may refund any part of the fee specified in this paragraph, in exceptional circumstances as determined by the Director <sup><a href="#41_1_target" name="41_1">1</a></sup>
 
 (8) Extension fees.—For petitions for 1-month extensions of time to take actions required by the Director in an application—
 
@@ -92,7 +92,7 @@
 
 (c) Delays in Payment of Maintenance Fees.—
 
-(1) Acceptance.—The Director may accept the payment of any maintenance fee required by subsection (b) of this section which is made within twenty-four months after the six-month grace period if the delay is shown to the satisfaction of the Director to have been unintentional, or at any time after the six-month grace period if the delay is shown to the satisfaction of the Director to have been unavoidable. The Director may require the payment of a surcharge as a condition of accepting payment of any maintenance fee after the six-month grace period. If the Director accepts payment of a maintenance fee after the six-month grace period, the patent shall be considered as not having expired at the end of the grace period.
+(1) Acceptance.—The Director may accept the payment of any maintenance fee required by subsection (b) after the 6-month grace period if the delay is shown to the satisfaction of the Director to have been unintentional. The Director may require the payment of the fee specified in subsection (a)(7) as a condition of accepting payment of any maintenance fee after the 6-month grace period. If the Director accepts payment of a maintenance fee after the 6-month grace period, the patent shall be considered as not having expired at the end of the grace period.
 
 (2) Effect on rights of others.—A patent, the term of which has been maintained as a result of the acceptance of a payment of a maintenance fee under this subsection, shall not abridge or affect the right of any person or that person's successors in business who made, purchased, offered to sell, or used anything protected by the patent within the United States, or imported anything protected by the patent into the United States after the 6-month grace period but prior to the acceptance of a maintenance fee under this subsection, to continue the use of, to offer for sale, or to sell to others to be used, offered for sale, or sold, the specific thing so made, purchased, offered for sale, used, or imported. The court before which such matter is in question may provide for the continued manufacture, use, offer for sale, or sale of the thing made, purchased, offered for sale, or used within the United States, or imported into the United States, as specified, or for the manufacture, use, offer for sale, or sale in the United States of which substantial preparation was made after the 6-month grace period but before the acceptance of a maintenance fee under this subsection, and the court may also provide for the continued practice of any process that is practiced, or for the practice of which substantial preparation was made, after the 6-month grace period but before the acceptance of a maintenance fee under this subsection, to the extent and under such terms as the court deems equitable for the protection of investments made or business commenced after the 6-month grace period but before the acceptance of a maintenance fee under this subsection.
 
@@ -155,20 +155,6 @@
 (4) Annual report to congress.—The Director shall submit to the Congress an annual report on the automated search systems of the Patent and Trademark Office and the access by the public to such systems. The Director shall also publish such report in the Federal Register. The Director shall provide an opportunity for the submission of comments by interested persons on each such report.
 
 (July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 89–83, §§1, 2, July 24, 1965, 79 Stat. 259; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §3, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §2, Dec. 12, 1980, 94 Stat. 3017; Pub. L. 97–247, §3(a)–(e), Aug. 27, 1982, 96 Stat. 317–319; Pub. L. 97–256, title I, §101(1)–(4), Sept. 8, 1982, 96 Stat. 816; Pub. L. 98–622, title II, §204(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 99–607, §1(b)(2), Nov. 6, 1986, 100 Stat. 3470; Pub. L. 102–204, §5(a)–(c)(1), (d)(1), (2)(A), Dec. 10, 1991, 105 Stat. 1637–1639; Pub. L. 102–444, §1, Oct. 23, 1992, 106 Stat. 2245; Pub. L. 103–465, title V, §§532(b)(2), 533(b)(1), Dec. 8, 1994, 108 Stat. 4986, 4988; Pub. L. 105–358, §3, Nov. 10, 1998, 112 Stat. 3272; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §§4202, 4605(a), 4732(a)(5), (10)(A), 4804(d)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A–554, 1501A–570, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§11(a)–(e), 20(j), Sept. 16, 2011, 125 Stat. 320–323, 335; Pub. L. 112–211, title II, §202(b)(1), Dec. 18, 2012, 126 Stat. 1535.)
-
-#### Amendment of Subsections (a)(7) and (c)(1) ####
-
-Pub. L. 112–211, title II, §§202(b)(1), 203, Dec. 18, 2012, 126 Stat. 1535, 1536, provided that, effective on the date that is 1 year after Dec. 18, 2012, applicable to patents issued before, on, or after that effective date and patent applications pending on or filed after that effective date, and not effective with respect to patents in litigation commenced before that effective date, this section is amended as follows:
-
-(1) in subsection (a), by striking paragraph (7) and inserting the following:
-
-*"(7)* *Revival fees**.—On filing each petition for the revival of an abandoned application for a patent, for the delayed payment of the fee for issuing each patent, for the delayed response by the patent owner in any reexamination proceeding, for the delayed payment of the fee for maintaining a patent in force, for the delayed submission of a priority or benefit claim, or for the extension of the 12-month period for filing a subsequent application, $1,700.00. The Director may refund any part of the fee specified in this paragraph, in exceptional circumstances as determined by the Director"; and*
-
-(2) in subsection (c), by striking paragraph (1) and inserting the following:
-
-*"(1)* *Acceptance**.—The Director may accept the payment of any maintenance fee required by subsection (b) after the 6-month grace period if the delay is shown to the satisfaction of the Director to have been unintentional. The Director may require the payment of the fee specified in subsection (a)(7) as a condition of accepting payment of any maintenance fee after the 6-month grace period. If the Director accepts payment of a maintenance fee after the 6-month grace period, the patent shall be considered as not having expired at the end of the grace period."*
-
-See 2012 Amendment notes below.
 
 #### Historical and Revision Notes ####
 
@@ -909,3 +895,5 @@ Pub. L. 98–622, title IV, §404, Nov. 8, 1984, 98 Stat. 3392, provided that:
 "(a) Notwithstanding section 41 of title 35, United States Code, as in effect before the enactment of Public Law 97–247 (96 Stat. 317) [Aug. 27, 1982], no fee shall be collected for maintaining a plant patent in force.
 
 "(b) Notwithstanding section 41(c) of title 35, United States Code, as in effect before the enactment of Public Law 97–247 (96 Stat. 317) [Aug. 27, 1982], the Commissioner of Patents and Trademarks [now Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office] may accept, after the six-month grace period referred to in such section 41(c), the payment of any maintenance fee due on any patent based on an application filed in the Patent and Trademark Office on or after December 12, 1980, and before August 27, 1982, to the same extent as in the case of patents based on applications filed in the Patent and Trademark Office on or after August 27, 1982."
+
+[<sup>1</sup> So in original. Probably should be followed by a period.](#41_1)
