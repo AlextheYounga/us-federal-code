@@ -34,6 +34,10 @@ Sec.
 
 2057c. Prohibition on sale of certain products containing specified phthalates.
 
+2057d. Banning of inclined sleepers for infants.
+
+2057e. Banning of crib bumpers.
+
 2058. Procedure for consumer product safety rules.
 
 2059. Repealed.
