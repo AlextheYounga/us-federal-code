@@ -12,6 +12,10 @@ Appointment of "judges of the Supreme Court" by the President by and with the ad
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Short Title of 2023 Amendment ####
+
+Pub. L. 117–354, §1, Jan. 5, 2023, 136 Stat. 6270, provided that: "This Act [enacting section 540D of this title and section 20306 of Title 34, Crime Control and Law Enforcement, amending sections 20301 to 20305 of Title 34, and repealing section 20306 of Title 34] may be cited as the 'Respect for Child Survivors Act'."
+
 #### Short Title of 2022 Amendment ####
 
 Pub. L. 117–252, §1, Dec. 20, 2022, 136 Stat. 2359, provided that: "This Act [amending provisions set out as a note preceding section 81 of this title] may be cited as the 'Pro bono Work to Empower and Represent Act of 2021' or the 'POWER 2.0 Act'."

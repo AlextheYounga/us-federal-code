@@ -10,6 +10,8 @@ Sec.
 
 7103a. Creating, building, and strengthening partnerships against significant trafficking in persons.
 
+7103b. United States Advisory Council on Human Trafficking.
+
 7104. Prevention of trafficking.
 
 7104a. Compliance plan and certification requirement.
@@ -49,3 +51,5 @@ Sec.
 7113. Accountability.
 
 7114. Efforts to end modern slavery.
+
+7115. Ensuring protection and confidentiality for survivors of human trafficking.

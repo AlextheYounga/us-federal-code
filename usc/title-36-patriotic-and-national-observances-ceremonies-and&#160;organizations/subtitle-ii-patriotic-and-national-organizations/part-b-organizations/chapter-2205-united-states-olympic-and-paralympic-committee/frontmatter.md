@@ -30,6 +30,8 @@ Sec.
 
 220513. Annual amateur athlete survey.
 
+220514. Annual report on equal treatment of athletes.
+
 #### SUBCHAPTER II—NATIONAL GOVERNING BODIES ####
 
 220521. Certification of national governing bodies.
@@ -52,7 +54,9 @@ Sec.
 
 220530. Other amateur sports organizations.
 
-#### SUBCHAPTER III <sup><a href="#CHAPTER2205_1_target" name="CHAPTER2205_1">1</a></sup> —GRANT TO KEEP YOUNG ATHLETES SAFE ####
+220530A. Annual report on equal treatment of athletes.
+
+#### SUBCHAPTER III—GRANT TO KEEP YOUNG ATHLETES SAFE ####
 
 220531. Grant to protect young athletes from abuse.
 
@@ -74,6 +78,8 @@ Sec.
 
 #### Amendments ####
 
+**2023**—Pub. L. 117–340, §2(a)(2)(B), (b)(2)(B), Jan. 5, 2023, 136 Stat. 6176, 6177, which directed amendment of the analyses for subchapters I and II of this chapter by adding items 220514 and 220530A, respectively, was executed by adding items 220514 and 220530A to the analysis for this chapter to reflect the probable intent of Congress.
+
 **2020**—Pub. L. 116–189, §§4(a)(1), 6(c)(2), (f)(2), (g)(2), 7(a)(2)(B), 8(a)(2)(B), Oct. 30, 2020, 134 Stat. 944, 949, 955, 957, 966, added item 220513 and substituted "Powers and duties" for "Powers" in item 220505, "Reports and audits" for "Report" in item 220511, "Certification of national governing bodies" for "Recognition of amateur sports organizations as national governing bodies" in item 220521, and "Designation of United States Center for SafeSport" for "Designation of United States Center for Safe Sport" in item 220541.
 
 Pub. L. 116–189, §5(b), Oct. 30, 2020, 134 Stat. 947, substituted item for subchapter IV "UNITED STATES CENTER FOR SAFESPORT" for item for subchapter III relating to United States Center for Safe Sport, and added item for subchapter V and items 220551 and 220552.
@@ -85,5 +91,3 @@ Pub. L. 115–126, title II, §§202(c), 204(b), Feb. 14, 2018, 132 Stat. 323, 3
 **2006**—Pub. L. 109–284, §5(12), Sept. 27, 2006, 120 Stat. 1212, substituted "Short title and definitions" for "Definitions" in item 220501.
 
 **1998**—Pub. L. 105–277, div. C. title I, §142(j)(2), (k)(2), Oct. 21, 1998, 112 Stat. 2681–606, 2681–607, substituted "Report" for "Annual report" in item 220511 and added item 220512.
-
-[<sup>1</sup> So in original. Two items for subchapter III have been enacted.](#CHAPTER2205_1)

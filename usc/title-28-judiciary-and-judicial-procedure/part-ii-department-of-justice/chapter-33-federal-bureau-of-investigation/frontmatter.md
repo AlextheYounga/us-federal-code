@@ -28,9 +28,13 @@ Sec.
 
 540C. FBI police.
 
+540D. Multidisciplinary teams.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 117–354, §2(b), Jan. 5, 2023, 136 Stat. 6274, added item 540D.
 
 **2003**—Pub. L. 108–177, title III, §361(m)(2), Dec. 13, 2003, 117 Stat. 2626, which directed amendment of table of sections by striking the item relating to section 540C, was executed by striking out item 540C relating to annual report on activities of Federal Bureau of Investigation personnel outside the United States to reflect the probable intent of Congress, because corresponding section was repealed.
 

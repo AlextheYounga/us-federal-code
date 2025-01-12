@@ -8,6 +8,10 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2023 Amendment ####
+
+Pub. L. 117–351, §1, Jan. 5, 2023, 136 Stat. 6265, provided that: "This Act [amending section 2441 of this title] may be cited as the 'Justice for Victims of War Crimes Act'."
+
 #### Short Title of 2022 Amendment ####
 
 Pub. L. 117–272, §1, Dec. 27, 2022, 136 Stat. 4181, provided that: "This Act [amending section 879 of this title] may be cited as the '21st Century President Act'."

@@ -26,7 +26,7 @@ Sec.
 
 2410A. Arlington National Cemetery: other administrative matters.
 
-2411. Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing Federal or State capital crimes.
+2411. Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing certain Federal or State crimes.
 
 2412. Lease of land and buildings.
 
@@ -37,6 +37,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 117–355, §6(b), Jan. 5, 2023, 136 Stat. 6281, added item 2411 and struck out former item 2411 "Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing Federal or State capital crimes".
 
 **2021**—Pub. L. 116–315, title II, §2205(b)(2), Jan. 5, 2021, 134 Stat. 4987, inserted ", counties, and tribal organizations" after "States" in item 2408.
 

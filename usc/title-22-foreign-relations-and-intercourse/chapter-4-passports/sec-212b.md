@@ -14,6 +14,10 @@ Except as provided under paragraph (2), the Secretary of State shall not issue a
 
 Notwithstanding paragraph (1), the Secretary of State may reissue a passport that does not include a unique identifier if an individual described in subsection (a) reapplies for a passport and the Angel Watch Center provides a written determination, through the process developed for that purpose under section 21507 of title 34, to the Secretary of State that the individual is no longer required to register as a covered sex offender.
 
+#### (3) Clarification with respect to continuing registration ####
+
+An individual may not be issued or reissued a passport without a unique identifier solely because the individual has moved or otherwise resides outside the United States.
+
 #### (c) Defined terms ####
 
 In this section—
@@ -40,4 +44,10 @@ In furtherance of this section, the Secretary of State may require a passport ap
 
 This section shall take effect upon certification by the Secretary of State, the Secretary of Homeland Security, and the Attorney General, that the process developed and reported to the appropriate congressional committees under section 21507 of title 34 has been successfully implemented.
 
-(Pub. L. 110–457, title II, §240, as added Pub. L. 114–119, §8, Feb. 8, 2016, 130 Stat. 24.)
+(Pub. L. 110–457, title II, §240, as added Pub. L. 114–119, §8, Feb. 8, 2016, 130 Stat. 24; amended Pub. L. 117–347, title III, §323(b), Jan. 5, 2023, 136 Stat. 6207.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2023**—Subsec. (b)(3). Pub. L. 117–347 added par. (3).

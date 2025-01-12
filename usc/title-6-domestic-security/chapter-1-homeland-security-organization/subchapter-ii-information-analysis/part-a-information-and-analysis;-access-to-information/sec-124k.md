@@ -120,7 +120,7 @@ Subsection (d)(5) and (6), referred to in subsec. (f)(2), was redesignated subse
 
 #### Amendments ####
 
-**2022**—Subsec. (g). Pub. L. 117–286 which directed amendment of subsec. (h) by substituting "chapter 10 of title 5" for "the Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text, was executed by making the substitutions in subsec. (g) to reflect the probable intent of Congress and the prior amendment by Pub. L. 116–92. See 2019 Amendment below.
+**2022**—Subsec. (g). Pub. L. 117–286, which directed amendment of subsec. (h) by substituting "chapter 10 of title 5" for "the Federal Advisory Committee Act" in heading and "Chapter 10 of title 5" for "The Federal Advisory Committee Act (5 U.S.C. App.)" in text, was executed by making the substitutions in subsec. (g) to reflect the probable intent of Congress and the prior amendment by Pub. L. 116–92. See 2019 Amendment below.
 
 **2019**—Subsec. (c). Pub. L. 116–92, §6726(b)(1), (2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to responsibilities of program manager.
 

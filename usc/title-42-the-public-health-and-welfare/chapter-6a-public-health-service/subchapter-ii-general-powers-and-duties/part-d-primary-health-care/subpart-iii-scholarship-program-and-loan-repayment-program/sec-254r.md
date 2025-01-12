@@ -94,13 +94,13 @@ The Secretary may not make payments under subsection (a) to a State office of ru
 
 #### (1) In general ####
 
-For the purpose of making grants under subsection (a), there are authorized to be appropriated $12,500,000 for each of fiscal years 2018 through 2022.
+For the purpose of making grants under subsection (a), there are authorized to be appropriated $12,500,000 for each of fiscal years 2023 through 2027.
 
 #### (2) Availability ####
 
 Amounts appropriated under paragraph (1) shall remain available until expended.
 
-(July 1, 1944, ch. 373, title III, §338J, as added Pub. L. 101–597, title III, §302, Nov. 16, 1990, 104 Stat. 3032; amended Pub. L. 105–392, title III, §301, Nov. 13, 1998, 112 Stat. 3585; Pub. L. 115–408, §2, Dec. 31, 2018, 132 Stat. 5384.)
+(July 1, 1944, ch. 373, title III, §338J, as added Pub. L. 101–597, title III, §302, Nov. 16, 1990, 104 Stat. 3032; amended Pub. L. 105–392, title III, §301, Nov. 13, 1998, 112 Stat. 3585; Pub. L. 115–408, §2, Dec. 31, 2018, 132 Stat. 5384; Pub. L. 117–356, §2, Jan. 5, 2023, 136 Stat. 6282.)
 
 #### **Editorial Notes** ####
 
@@ -111,6 +111,8 @@ A prior section 254r, act July 1, 1944, ch. 373, title III, §338I, formerly tit
 A prior section 338J of act July 1, 1944, was renumbered section 338K by Pub. L. 101–597 and is classified to section 254s of this title.
 
 #### Amendments ####
+
+**2023**—Subsec. (i)(1). Pub. L. 117–356 substituted "fiscal years 2023 through 2027" for "fiscal years 2018 through 2022".
 
 **2018**—Pub. L. 115–408 amended section generally. Prior to amendment, section related to grants to States for operation of offices of rural health.
 

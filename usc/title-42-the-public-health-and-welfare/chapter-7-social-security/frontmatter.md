@@ -168,7 +168,7 @@ Sec.
 
 #### Part B—Child and Family Services ####
 
-#### subpart 1—child welfare services ####
+#### subpart 1—stephanie tubbs jones child welfare services program ####
 
 620. Repealed.
 
@@ -191,6 +191,8 @@ Sec.
 628a. Transferred.
 
 628b. National random sample study of child welfare.
+
+628c. Grants to States to enhance collaboration between State child welfare and juvenile justice systems.
 
 #### subpart 2—promoting safe and stable families ####
 

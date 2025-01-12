@@ -152,6 +152,8 @@ Sec.
 
 1862v. National Science Foundation research.
 
+1862w. NSF support of research on impacts of social media on human trafficking.
+
 1863. National Science Board.
 
 1864. Director of Foundation.

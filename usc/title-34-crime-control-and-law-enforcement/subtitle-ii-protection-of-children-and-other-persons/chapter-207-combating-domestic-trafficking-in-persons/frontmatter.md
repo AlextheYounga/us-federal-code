@@ -12,6 +12,8 @@ Sec.
 
 20705. Enhancing State and local efforts to combat trafficking in persons.
 
+20705a. Enhancing the ability of State, local, and Tribal child welfare agencies to identify and respond to children who are, or are at risk of being, victims of trafficking.
+
 20706. Senior Policy Operating Group.
 
 20707. Definitions.
@@ -20,12 +22,14 @@ Sec.
 
 20709. Combat Human Trafficking Act.
 
-20709a. Holistic training for Federal law enforcement officers and prosecutors.
-
-20709b. Encouraging a victim-centered approach to training of Federal law enforcement personnel.
-
-20709c. Training of tribal law enforcement and prosecutorial personnel.
+20709a to 20709c. Transferred
 
 20710. Education and outreach to trafficking survivors.
 
 20711. Establishing a national strategy to combat human trafficking.
+
+20712. Holistic training for Federal law enforcement officers and prosecutors.
+
+20713. Encouraging a victim-centered approach to training of Federal law enforcement personnel.
+
+20714. Training of tribal law enforcement and prosecutorial personnel.

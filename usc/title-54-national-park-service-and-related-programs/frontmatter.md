@@ -54,8 +54,14 @@ Chap. Sec.
 
 #### **DIVISION B—SYSTEM UNITS AND RELATED AREAS—RESERVED** ####
 
+#### **DIVISION C—NATIONAL HERITAGE AREAS** ####
+
+1201. National Heritage Area System 120101
+
 Subtitle II—Outdoor Recreation Programs
 ----------
+
+Chap. Sec.
 
 2001. Coordination of Programs 200101
 
@@ -153,6 +159,8 @@ Subtitle III—National Preservation Programs
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 117–339, §2(d), Jan. 5, 2023, 136 Stat. 6163, which directed amendment of the analysis for subtitle I of this title by adding item for division C and chapter 1201, was executed to this analysis to reflect the probable intent of Congress.
 
 **2020**—Pub. L. 116–152, §2(b), Aug. 4, 2020, 134 Stat. 685, which directed amendment of the analysis for subtitle II of this title by adding item for chapter 2004, was executed to this analysis to reflect the probable intent of Congress.
 
