@@ -72,6 +72,8 @@ Subtitle V—Law Enforcement and Criminal Justice Personnel
 
 505. National Blue Alert 50501
 
+507. Law Enforcement Suicide Data Collection 50701
+
 Subtitle VI—Other Crime Control and Law Enforcement Matters
 ----------
 
