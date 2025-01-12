@@ -1,0 +1,3 @@
+### [§485. Repealed. Pub. L. 112–81, div. A, title X, §1061(7)(A), Dec. 31, 2011, 125 Stat. 1583] ###
+
+Section, added Pub. L. 105–261, div. A, title IX, §923(b)(1), Oct. 17, 1998, 112 Stat. 2105; amended Pub. L. 106–65, div. A, title IX, §931, title X, §1067(1), Oct. 5, 1999, 113 Stat. 726, 774; Pub. L. 107–107, div. A, title IX, §922, Dec. 28, 2001, 115 Stat. 1198; Pub. L. 110–417, [div. A], title II, §241(a), Oct. 14, 2008, 122 Stat. 4395, related to biennial reports on joint and service concept development and experimentation.

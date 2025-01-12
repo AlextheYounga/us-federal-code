@@ -1,0 +1,1 @@
+### Requisites of Articles and Certificate ###
