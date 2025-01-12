@@ -532,7 +532,7 @@ Subsec. (g)(4)(B)(iii). Pub. L. 110–289 added cl. (iii).
 
 **2007**—Subsec. (g)(4)(C)(ii)(I). Pub. L. 110–172, §11(g)(1), substituted "921 (as in effect before its repeal by the FSC Repeal and Extraterritorial Income Exclusion Act of 2000)" for "921".
 
-Subsec. (g)(4)(C)(iv). Pub. L. 110–172, §11(g)(2), which purported to amend subsec. (g)(4)(C)(iv) of this section, but directed the amendment of section 54(g)(4)(C)(iv) of this title, by substituting "an organization to which part I of subchapter T (relating to tax treatment of cooperatives) applies which is engaged in the marketing of agricultural or horticultural products" for "a cooperative described in section 927(a)(4)", was not executed in light of the identical amendment made by Pub. L. 113–295, §215(b), effective as if included in Pub. L. 110–172.
+Subsec. (g)(4)(C)(iv). Pub. L. 110–172, §11(g)(2), which purported to amend subsec. (g)(4)(C)(iv) of this section, but directed the amendment of section 54(g)(4)(C)(iv) of this title, by substituting "an organization to which part I of subchapter T (relating to tax treatment of cooperatives) applies which is engaged in the marketing of agricultural or horticultural products" for "a cooperative described in section 927(a)(4)", was not executed in light of the identical amendment made by Pub. L. 113–295, §215(b), effective as if included in Pub. L. 110–172. See 2014 Amendment note above.
 
 **2006**—Subsec. (c)(2). Pub. L. 109–304, in introductory provisions, substituted "chapter 535 of title 46, United States Code" for "section 607 of the Merchant Marine Act, 1936 (46 U.S.C. 1177)", and, in subpars. (A) and (B), substituted "such chapter 535" for "such section 607".
 

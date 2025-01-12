@@ -184,7 +184,7 @@ Sec.
 
 796. Purpose.
 
-796–1.Administration of the Independent Living program.
+796–1.Administration of the independent living program.
 
 796a. Definitions.
 

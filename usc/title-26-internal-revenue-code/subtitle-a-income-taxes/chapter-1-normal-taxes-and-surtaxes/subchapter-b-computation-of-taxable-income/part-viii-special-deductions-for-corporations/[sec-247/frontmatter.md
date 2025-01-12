@@ -4,6 +4,6 @@ Section, Aug. 16, 1954, ch. 736, 68A Stat. 75; Pub. L. 94–455, title XIX, §19
 
 #### Effective Date of Repeal ####
 
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under section 1 of this title.
-
 Repeal not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under this section as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under section 172 of this title.
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, repeal effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under section 1 of this title.

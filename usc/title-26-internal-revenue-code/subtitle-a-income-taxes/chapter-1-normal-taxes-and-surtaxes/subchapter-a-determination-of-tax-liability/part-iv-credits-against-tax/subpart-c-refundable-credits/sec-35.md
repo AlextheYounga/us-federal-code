@@ -346,11 +346,11 @@ Subsec. (c)(2). Pub. L. 111–5, §1899C(a), amended par. (2) generally. Prior t
 
 Subsec. (e)(1)(K). Pub. L. 111–5, §1899G(a), added subpar. (K).
 
-Subsec. (g)(9), (10). Pub. L. 111–5, §3001(a)(14)(A), as amended by Pub. L. 113–295, §209(j)(3), added par. (9) relating to COBRA premium assistance and redesignated former par. (9) relating to continued qualification of family members after certain events as (10). Former par. (10) relating to Regulations redesignated (11).
+Subsec. (g)(9), (10). Pub. L. 111–5, §3001(a)(14)(A), as amended by Pub. L. 113–295, §209(j)(3), added par. (9) relating to COBRA premium assistance and redesignated former par. (9) relating to continued qualification of family members after certain events as (10). Former par. (10) relating to regulations redesignated (11).
 
-Pub. L. 111–5, §1899E(a), added par. (9) relating to continued qualification of family members after certain events and redesignated former par. (9) relating to Regulations as (10).
+Pub. L. 111–5, §1899E(a), added par. (9) relating to continued qualification of family members after certain events and redesignated former par. (9) relating to regulations as (10).
 
-Subsec. (g)(11). Pub. L. 111–5, §3001(a)(14)(A), as amended by Pub. L. 113–295, §209(j)(3), redesignated par. (10) relating to Regulations as (11).
+Subsec. (g)(11). Pub. L. 111–5, §3001(a)(14)(A), as amended by Pub. L. 113–295, §209(j)(3), redesignated par. (10) relating to regulations as (11).
 
 **2007**—Subsec. (d)(2). Pub. L. 110–172 struck out "paragraph (2) or (4) of" before "section 152(e)" and substituted "(as defined in section 152(e)(4)(A))" for "(within the meaning of section 152(e)(1))".
 

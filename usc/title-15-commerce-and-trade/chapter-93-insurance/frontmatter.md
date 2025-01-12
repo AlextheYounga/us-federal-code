@@ -34,37 +34,33 @@ Sec.
 
 #### SUBCHAPTER III—NATIONAL ASSOCIATION OF REGISTERED AGENTS AND BROKERS ####
 
-6751. State flexibility in multistate licensing reforms.
+6751. National Association of Registered Agents and Brokers.
 
-6752. National Association of Registered Agents and Brokers.
+6752. Purpose.
 
-6753. Purpose.
+6753. Membership.
 
-6754. Relationship to the Federal Government.
+6754. Board of directors.
 
-6755. Membership.
+6755. Bylaws, standards, and disciplinary actions.
 
-6756. Board of directors.
+6756. Powers.
 
-6757. Officers.
+6757. Report by the Association.
 
-6758. Bylaws, rules, and disciplinary action.
+6758. Liability of the Association and the Board members, officers, and employees of the Association.
 
-6759. Assessments.
+6759. Presidential oversight.
 
-6760. Functions of the NAIC.
+6760. Relationship to State law.
 
-6761. Liability of the Association and the directors, officers, and employees of the Association.
+6761. Coordination with Financial Industry Regulatory Authority.
 
-6762. Elimination of NAIC oversight.
+6762. Right of action.
 
-6763. Relationship to State law.
+6763. Federal funding prohibited.
 
-6764. Coordination with other regulators.
-
-6765. Judicial review.
-
-6766. Definitions.
+6764. Definitions.
 
 #### SUBCHAPTER IV—RENTAL CAR AGENCY INSURANCE ACTIVITIES ####
 

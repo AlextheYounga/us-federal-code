@@ -30,7 +30,7 @@ If the election provided in subsection (a) is in effect with respect to any cred
 
 (B) be allowed credits against the tax imposed by this chapter equal to the amount of such distribution, subject to the provisions of this title applicable to the credit involved.
 
-#### (c) Notice to shareholders ####
+#### (c) Statements <sup><a href="#853A_1_target" name="853A_1">1</a></sup> to shareholders ####
 
 The amount treated as a distribution of money received by a shareholder under subsection (b)(2)(A) (and as credits allowed to such shareholder under subsection (b)(2)(B)) shall not exceed the amount so reported by the regulated investment company in a written statement furnished to such shareholder.
 
@@ -80,17 +80,17 @@ Subsec. (a)(2). Pub. L. 113–295, §209(h)(1), inserted "(determined after the 
 
 Subsec. (b). Pub. L. 113–295, §209(h)(3), amended subsec. (b) generally. Prior to amendment, subsec. (b) consisted of pars. (1) to (3) relating to effects of elections under subsec. (a).
 
-Subsec. (c). Pub. L. 113–295, §209(h)(4), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to ad as follows: "For purposes of subsection (b)(3), the shareholder's proportionate share of—
+Subsec. (c). Pub. L. 113–295, §209(h)(4), amended subsec. (c) generally. The amendment was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. As enacted by Pub. L. 111–5, §1541(a), subsec. (c) read as follows: "Notice to Shareholders.—For purposes of subsection (b)(3), the shareholder's proportionate share of—
 
 "(1) credits described in subsection (a), and
 
 "(2) gross income in respect of such credits,
 
-shall not exceed the amounts so reported by the regulated investment company in a written statement furnished to such shareholder."
+shall not exceed the amounts so designated by the regulated investment company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year."
 
 Subsec. (e)(1)(A)(ii). Pub. L. 113–295, §209(h)(5), inserted "other than a qualified bond described in section 54AA(g)" after "as defined in section 54AA(d))".
 
-**2010**—Subsec. (c). Pub. L. 111–325, §301(d)(1), substituted "Statements" for "Notice" in heading and "so reported by the regulated investment company in a written statement furnished to such shareholder" for "so designated by the regulated investment company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year" in concluding provisions.
+**2010**—Subsec. (c). Pub. L. 111–325, §301(d)(1), which directed substitution of "Statements" for "Notice" in heading and "so reported by the regulated investment company in a written statement furnished to such shareholder" for "so designated by the regulated investment company in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year" in text, could not be executed to the text because the words "so reported by the regulated investment company in a written statement furnished to such shareholder" already appeared after the subsequent general amendment of subsec. (c) by Pub. L. 113–295 which was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. However, the substitution was executed to the heading to reflect the probable intent of Congress. See 2014 Amendment note above and Effective Date of 2014 Amendment note below.
 
 Subsec. (d). Pub. L. 111–325, §301(d)(2), struck out "and notifying shareholders" after "election" in heading and "and the notice to shareholders required by subsection (c)" after "subsection (a)" in text.
 
@@ -105,3 +105,5 @@ Amendment by Pub. L. 111–325 applicable to taxable years beginning after Dec. 
 #### Effective Date ####
 
 Section applicable to taxable years ending after Feb. 17, 2009, see section 1541(c) of Pub. L. 111–5, set out as an Effective Date of 2009 Amendment note under section 54 of this title.
+
+[<sup>1</sup> See 2010 Amendment note below.](#853A_1)

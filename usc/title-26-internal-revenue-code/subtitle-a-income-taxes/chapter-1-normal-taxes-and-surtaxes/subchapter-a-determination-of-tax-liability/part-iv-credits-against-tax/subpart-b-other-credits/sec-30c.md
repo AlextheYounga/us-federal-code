@@ -146,7 +146,7 @@ Subsec. (e)(2). Pub. L. 109–135, §402(k), inserted at end "For purposes of su
 
 Pub. L. 113–295, div. A, title I, §161(b), Dec. 19, 2014, 128 Stat. 4023, provided that: "The amendment made by this section [amending this section] shall apply to property placed in service after December 31, 2013."
 
-Amendment by section 218(b) of Pub. L. 113–295 effective as if included in the provision of the Energy Tax Incentives Act of 2005, title XIII of Pub. L. 109–58, to which such amendment relates, see section 218(c) of Pub. L. 113–295, set out as a note under section 30B of this title.
+Amendment by section 218(b) of Pub. L. 113–295 effective as if included in the provision of the Energy Tax Incentives Act of 2005, Pub. L. 109–58, title XIII, to which such amendment relates, see section 218(c) of Pub. L. 113–295, set out as a note under section 30B of this title.
 
 Amendment by section 221(a)(34)(B) of Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 

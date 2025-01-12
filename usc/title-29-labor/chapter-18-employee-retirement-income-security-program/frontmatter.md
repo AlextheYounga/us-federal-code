@@ -394,7 +394,7 @@ Sec.
 
 1412. Transfers between a multiemployer plan and a single-employer plan.
 
-1413. Partition.
+1413. Partitions of eligible multiemployer plans.
 
 1414. Asset transfer rules.
 

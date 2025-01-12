@@ -24,6 +24,8 @@ Sec.
 
 1709A. Teleconsultation.
 
+1709B. Evaluations of mental health care and suicide prevention programs.
+
 #### SUBCHAPTER II—HOSPITAL, NURSING HOME, OR DOMICILIARY CARE AND MEDICAL TREATMENT ####
 
 1710. Eligibility for hospital, nursing home, and domiciliary care.
@@ -165,6 +167,8 @@ Sec.
 1787. Health care of family members of veterans stationed at Camp Lejeune, North Carolina.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–2, §2(a)(2), Feb. 12, 2015, 129 Stat. 31, added item 1709B.
 
 **2012**—Pub. L. 112–154, title I, §§102(b)(2), 103(b), 106(b), 108(a)(2), Aug. 6, 2012, 126 Stat. 1168, 1169, 1173, 1174, added items 1709, 1709A, 1722B, and 1787.
 

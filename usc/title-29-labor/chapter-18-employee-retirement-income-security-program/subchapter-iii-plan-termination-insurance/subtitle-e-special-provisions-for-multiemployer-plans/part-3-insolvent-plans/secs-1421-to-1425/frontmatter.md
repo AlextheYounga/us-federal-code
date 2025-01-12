@@ -8,7 +8,7 @@ Section 1423, Pub. L. 93–406, title IV, §4243, as added Pub. L. 96–364, tit
 
 Section 1424, Pub. L. 93–406, title IV, §4244, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1255, related to overburden credit against minimum contribution requirement.
 
-Section 1425, Pub. L. 93–406, title IV, §4244A, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1257; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445, realted to adjustments in accrued benefits.
+Section 1425, Pub. L. 93–406, title IV, §4244A, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1257; amended Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445, related to adjustments in accrued benefits.
 
 #### Effective Date of Repeal ####
 

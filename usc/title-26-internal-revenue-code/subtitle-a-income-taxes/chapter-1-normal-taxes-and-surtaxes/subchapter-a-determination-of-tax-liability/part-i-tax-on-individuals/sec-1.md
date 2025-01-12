@@ -1144,6 +1144,10 @@ Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that
 
 Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title [amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title] shall apply with respect to taxable years beginning after December 31, 1963."
 
+#### Short Title of 2015 Amendment ####
+
+Pub. L. 114–14, §1, May 22, 2015, 129 Stat. 198, provided that: "This Act [amending section 104 of this title] may be cited as the 'Don't Tax Our Fallen Public Safety Heroes Act'."
+
 #### Short Title of 2014 Amendment ####
 
 Pub. L. 113–295, div. A, §1(a), Dec. 19, 2014, 128 Stat. 4010, provided that: "This division [see Tables for classification] may be cited as the 'Tax Increase Prevention Act of 2014'."

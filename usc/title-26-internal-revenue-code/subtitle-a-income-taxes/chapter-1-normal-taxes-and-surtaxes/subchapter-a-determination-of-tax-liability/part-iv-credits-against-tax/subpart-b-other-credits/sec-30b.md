@@ -556,7 +556,7 @@ Subsec. (h)(6). Pub. L. 109–135, §402(j), inserted at end "For purposes of su
 
 #### Effective Date of 2014 Amendment ####
 
-Pub. L. 113–295, div. A, title II, §218(c), Dec. 19, 2014, 128 Stat. 4035, provided that: "The amendments made by this section [amending this section and section 30C of this title] shall take effect as if included in the provision of the Energy Tax Incentives Act of 2005 [title XIII of Pub. L. 109–58] to which it relates."
+Pub. L. 113–295, div. A, title II, §218(c), Dec. 19, 2014, 128 Stat. 4035, provided that: "The amendments made by this section [amending this section and section 30C of this title] shall take effect as if included in the provision of the Energy Tax Incentives Act of 2005 [Pub. L. 109–58, title XIII] to which it relates."
 
 #### Effective Date of 2013 Amendment ####
 

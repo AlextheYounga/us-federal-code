@@ -36,7 +36,7 @@ A State that receives an allotment under this subchapter shall reserve and expen
 
 #### References in Text ####
 
-Part B of this subchapter (as in effect on September 30, 1992), referred to in subsec. (a)(1)(B), consisted of sections 795g to 795i and related to Projects With Industry and business opportunities for individuals with handicaps.
+Part B of this subchapter (as in effect on September 30, 1992), referred to in subsec. (a)(1)(B), consisted of sections 795g to 795i and related to projects with industry and business opportunities for individuals with handicaps.
 
 #### Prior Provisions ####
 

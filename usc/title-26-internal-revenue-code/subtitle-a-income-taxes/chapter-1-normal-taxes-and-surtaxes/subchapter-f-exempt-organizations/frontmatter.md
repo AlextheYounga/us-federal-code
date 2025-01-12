@@ -32,4 +32,4 @@ VIII. Certain Savings Entities. 1
 
 **1969**—Pub. L. 91–172, title I, §101(j)(58), Dec. 30, 1969, 83 Stat. 532, added part II heading, and redesignated former parts II, III and IV as parts III, IV and V, respectively.
 
-[<sup>1</sup> So in original. Probably should be "Certain savings entities".](#SubchapterF_1)
+[<sup>1</sup> So in original. Probably should be "Certain savings entities."](#SubchapterF_1)

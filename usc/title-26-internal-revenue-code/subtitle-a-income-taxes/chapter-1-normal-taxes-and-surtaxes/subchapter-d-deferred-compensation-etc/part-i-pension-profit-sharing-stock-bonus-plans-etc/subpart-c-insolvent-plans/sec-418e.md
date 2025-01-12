@@ -100,7 +100,7 @@ The plan sponsor of a plan in critical status, as described in subsection <sup>
 
 If the plan sponsor of a plan in critical status, as described in subsection <sup><a href="#418E_1_target" name="418E_1">1</a></sup> 432(b)(2), determines under subsection (d)(1) or (2) that the plan may become insolvent (within the meaning of subsection (b)(1)), the plan sponsor shall—
 
-(A) notify the Secretary, the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974 of that determination, and
+(A) notify the Secretary,<sup><a href="#418E_3_target" name="418E_3">3</a></sup> the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974 of that determination, and
 
 (B) inform the parties described in section 101(f)(1) of the Employee Retirement Income Security Act of 1974 that if insolvency occurs certain benefit payments will be suspended, but that basic benefits will continue to be paid.
 
@@ -185,3 +185,5 @@ Section effective, with respect to each plan, on the first day of the first plan
 [<sup>1</sup> So in original. Probably should be "section".](#418E_1)
 
 [<sup>2</sup> So in original.](#418E_2)
+
+[<sup>3</sup> So in original. The comma probably should be "and".](#418E_3)

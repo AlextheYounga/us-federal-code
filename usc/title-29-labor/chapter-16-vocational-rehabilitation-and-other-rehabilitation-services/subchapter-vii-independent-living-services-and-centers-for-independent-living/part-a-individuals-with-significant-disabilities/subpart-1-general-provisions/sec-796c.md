@@ -180,7 +180,7 @@ Subsec. (a)(4). Pub. L. 113–128, §474(1)(D), substituted "Administrator" for 
 
 Subsec. (a)(5). Pub. L. 113–128, §474(1)(E), added par. (5).
 
-Subsec. (c). Pub. L. 113–128, §474(2)(A), (B), substituted "entity" for "unit" in heading and "a State entity of such State (referred to in this subchapter as the 'designated State entity')" in introductory provisions.
+Subsec. (c). Pub. L. 113–128, §474(2)(A), (B), substituted "entity" for "unit" in heading and "a State entity of such State (referred to in this subchapter as the 'designated State entity')" for "the designated State unit of such State" in introductory provisions.
 
 Subsec. (c)(3), (4). Pub. L. 113–128, §474(2)(C), substituted "Administrator" for "Commissioner".
 

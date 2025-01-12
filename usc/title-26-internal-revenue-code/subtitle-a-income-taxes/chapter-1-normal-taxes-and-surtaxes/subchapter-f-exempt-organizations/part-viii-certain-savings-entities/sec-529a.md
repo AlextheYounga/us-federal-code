@@ -124,7 +124,7 @@ Subparagraph (A) shall not apply to the distribution of any contribution made du
 
 Any net income described in clause (ii) shall be included in gross income for the taxable year in which such excess contribution was made.
 
-#### (4) Loss of able account treatment ####
+#### (4) Loss of ABLE account treatment ####
 
 If an ABLE account is established for a designated beneficiary, no account subsequently established for such beneficiary shall be treated as an ABLE account. The preceding sentence shall not apply in the case of an account established for purposes of a rollover described in paragraph (1)(C)(i) of this section if the transferor account is closed as of the end of the 60th day referred to in paragraph (1)(C)(i).
 
@@ -226,9 +226,9 @@ The Secretary shall prescribe such regulations or other guidance as the Secretar
 
 #### References in Text ####
 
-Achieving a Better Life Experience Act of 2014, referred to in subsec. (d)(4), probably means div. B of Pub. L. 113-295, Dec. 19, 2014, 128 Stat. 4056, known as the "Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014" and also as the "Stephen Beck, Jr., ABLE Act of 2014". No section 4 of the Act was enacted.
+The Achieving a Better Life Experience Act of 2014, referred to in subsec. (d)(4), probably means div. B of Pub. L. 113–295, Dec. 19, 2014, 128 Stat. 4056, known as the "Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014" and also as the "Stephen Beck, Jr., ABLE Act of 2014". No section 4 of the Act was enacted.
 
-The Social Security Act, referred to in subsecs. (e)(1)(A), (2)(B), and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XIX (§1396 et seq.) respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§401 et seq.), XVI (§1381 et seq.), and XIX (§1396 et seq.) respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Effective Date ####
 
@@ -246,7 +246,7 @@ Pub. L. 113–295, div. B, title I, §101, Dec. 19, 2014, 128 Stat. 4056, provid
 
 "(2) To provide secure funding for disability-related expenses on behalf of designated beneficiaries with disabilities that will supplement, but not supplant, benefits provided through private insurance, the Medicaid program under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.], the supplemental security income program under title XVI of such Act [42 U.S.C. 1381 et seq.], the beneficiary's employment, and other sources."
 
-#### Treatment of Able Accounts Under Certain Federal Programs ####
+#### Treatment of ABLE Accounts Under Certain Federal Programs ####
 
 Pub. L. 113–295, div. B, title I, §103, Dec. 19, 2014, 128 Stat. 4063, provided that:
 

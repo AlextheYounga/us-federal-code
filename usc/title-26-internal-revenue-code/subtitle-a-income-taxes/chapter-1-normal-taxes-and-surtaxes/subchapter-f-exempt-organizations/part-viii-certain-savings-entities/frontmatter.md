@@ -4,7 +4,7 @@ Sec.
 
 529. Qualified tuition programs.
 
-Sec. 529A. Qualified ABLE programs.
+529A. Qualified ABLE programs.
 
 530. Coverdell education savings accounts.
 

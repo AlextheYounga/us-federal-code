@@ -232,6 +232,8 @@ Sec.
 
 2160d. Further restrictions on exports.
 
+2160e. Congressional review and oversight of agreements with Iran.
+
 #### SUBCHAPTER XI—CONTROL OF INFORMATION ####
 
 2161. Policy of Commission.

@@ -12,7 +12,7 @@ In the case of any dividend on debt-financed portfolio stock, there shall be sub
 
 Subsection (a) shall not apply to—
 
-(1) qualifying dividends (as defined in section 243(b) without regard to section 243(d)(4) <sup><a href="#246A_1_target" name="246A_1">1</a></sup>), and
+(1) qualifying dividends (as defined in section 243(b) without regard to section 243(d)(4)),<sup><a href="#246A_1_target" name="246A_1">1</a></sup> and
 
 (2) dividends received by a small business investment company operating under the Small Business Investment Act of 1958.
 
@@ -130,9 +130,9 @@ Subsec. (a)(1). Pub. L. 99–514, §611(a)(4), substituted "80 percent" for "85 
 
 #### Effective Date of 2014 Amendment ####
 
-Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
-
 Amendment by Pub. L. 113–295 not applicable to preferred stock issued before Oct. 1, 1942 (determined in the same manner as under section 247 of this title as in effect before its repeal by Pub. L. 113–295), see section 221(a)(41)(K) of Pub. L. 113–295, set out as a note under section 172 of this title.
+
+Except as otherwise provided in section 221(a) of Pub. L. 113–295, amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under section 1 of this title.
 
 #### Effective Date of 1988 Amendment ####
 
