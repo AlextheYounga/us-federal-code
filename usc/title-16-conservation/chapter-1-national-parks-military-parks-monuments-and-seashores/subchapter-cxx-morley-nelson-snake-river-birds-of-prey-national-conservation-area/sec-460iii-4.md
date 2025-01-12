@@ -22,7 +22,7 @@ The Secretary shall, within 4 years after August 4, 1993, study, identify, and i
 
 #### Boundary Modification ####
 
-Section 2 of H.R. 2104, One Hundred Fifteenth Congress, as introduced on Apr. 20, 2017, which was enacted into law by Pub. L. 115–31, div. G, title IV, §431(a)(1), May 5, 2017, 131 Stat. 502, provided that:
+Pub. L. 115–31, div. G, title IV, §431(a)(1) [§2], May 5, 2017, 131 Stat. 502, 842A–3, provided that:
 
 "(a) Definitions.—In this section:
 

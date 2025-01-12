@@ -130,7 +130,7 @@ Any payment by the Secretary under this subsection shall be subject to an agreem
 
 Nothing in this section authorizes the Secretary to assume overall financial responsibility for the operation, maintenance, or management of the Historic District.
 
-(Pub. L. 115–141, div. G, title I, §121(a)(2), Mar. 23, 2018, 132 Stat. 661; Pub. L. 116–9, title II, §2109(a), Mar. 12, 2019, 133 Stat. 731.)
+(Pub. L. 115–141, div. G, title I, §121(a)(2) [div. B, title VII, §7134], Mar. 23, 2018, 132 Stat. 661, 1225A–5; Pub. L. 116–9, title II, §2109(a), Mar. 12, 2019, 133 Stat. 731.)
 
 #### Codification ####
 

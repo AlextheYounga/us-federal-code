@@ -58,7 +58,7 @@ In subsec. (a), "chapters 1 to 11 of title 40 and division C (except sections 33
 
 **2019**—Pub. L. 116–9, §2107(b)(1), inserted section catchline.
 
-Subsec. (a). Pub. L. 116–9, §2107(b)(1), (2), inserted subsec. heading and in six sentences of existing provisions: designated first sentence as par. (1) and inserted heading; designated second to fifth sentences collectively as par. (2) and individually as subpars. (A), (B)(i), (B)(ii), and (C) thereof, respectively, and inserted par., subpar., and cl. headings; and struck out sixth sentence which read as follows: "Lands within the boundaries of the park owned by the State of Minnesota, or any political subdivision thereof, may be acquired only by donation."
+Subsec. (a). Pub. L. 116–9, §2107(b)(1), (2), inserted subsec. heading and in six sentences of existing provisions: designated first sentence as par. (1) and inserted heading; designated second to fifth sentences collectively as par. (2) and individually as subpars. (A), (B)(i), (B)(ii), and (C) of par. (2), respectively, and inserted par., subpar., and cl. headings; and struck out sixth sentence which read as follows: "Lands within the boundaries of the park owned by the State of Minnesota, or any political subdivision thereof, may be acquired only by donation."
 
 Subsec. (a)(2)(A). Pub. L. 116–9, §2107(b)(2)(A), substituted "In any case in which only a portion of a tract of land is within the boundaries of the park" for "When any tract of land is only partly within such boundaries".
 
