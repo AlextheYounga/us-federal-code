@@ -71,3 +71,7 @@ For purposes of this section, in the Senate, the levels of Federal mandates for 
 #### Change of Name ####
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+
+#### Effective Date ####
+
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.

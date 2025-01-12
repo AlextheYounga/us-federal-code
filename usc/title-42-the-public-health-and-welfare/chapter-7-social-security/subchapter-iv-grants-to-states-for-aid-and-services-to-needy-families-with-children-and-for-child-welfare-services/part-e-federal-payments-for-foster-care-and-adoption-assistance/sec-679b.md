@@ -4,7 +4,7 @@
 
 The Secretary, in consultation with Governors, State legislatures, State and local public officials responsible for administering child welfare programs, and child welfare advocates, shall—
 
-(1) develop a set of outcome measures (including length of stay in foster care, number of foster care placements, and number of adoptions) that can be used to assess the performance of States in operating child protection and child welfare programs pursuant to part B of this subchapter and this part to ensure the safety of children;
+(1) develop a set of outcome measures (including length of stay in foster care, number of foster care placements, and number of adoptions) that can be used to assess the performance of States in operating child protection and child welfare programs pursuant to part B and this part to ensure the safety of children;
 
 (2) to the maximum extent possible, the outcome measures should be developed from data available from the Adoption and Foster Care Analysis and Reporting System;
 

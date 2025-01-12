@@ -6,7 +6,7 @@ In addition to any amount otherwise made available to carry out this subpart, th
 
 #### (b) Reservation of certain amounts ####
 
-From the amount specified in subsection (a) of this section for a fiscal year, the Secretary shall reserve amounts as follows:
+From the amount specified in subsection (a) for a fiscal year, the Secretary shall reserve amounts as follows:
 
 #### (1) Evaluation, research, training, and technical assistance ####
 

@@ -34,4 +34,8 @@ This chapter, referred to in subsecs. (a)(3) and (c), was in the original "this 
 
 **2004**—Subsec. (a)(3). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
+#### Effective Date ####
+
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.
+
 [<sup>1</sup> So in original. Probably should be "of the".](#288g_1)

@@ -6,11 +6,11 @@
 
 #### (A) Requirement for States that have no directory ####
 
-Except as provided in subparagraph (B), not later than October 1, 1997, each State shall establish an automated directory (to be known as the "State Directory of New Hires") which shall contain information supplied in accordance with subsection (b) of this section by employers on each newly hired employee.
+Except as provided in subparagraph (B), not later than October 1, 1997, each State shall establish an automated directory (to be known as the "State Directory of New Hires") which shall contain information supplied in accordance with subsection (b) by employers on each newly hired employee.
 
 #### (B) States with new hire reporting law in existence ####
 
-A State which has a new hire reporting law in existence on August 22, 1996, may continue to operate under the State law, but the State must meet the requirements of subsection (g)(2) of this section not later than October 1, 1997, and the requirements of this section (other than subsection (g)(2) of this section) not later than October 1, 1998.
+A State which has a new hire reporting law in existence on August 22, 1996, may continue to operate under the State law, but the State must meet the requirements of subsection (g)(2) not later than October 1, 1997, and the requirements of this section (other than subsection (g)(2)) not later than October 1, 1998.
 
 #### (2) Definitions ####
 
@@ -68,7 +68,7 @@ Each State may provide the time within which the report required by paragraph (1
 
 #### (c) Reporting format and method ####
 
-Each report required by subsection (b) of this section shall, to the extent practicable, be made on a W–4 form or, at the option of the employer, an equivalent form, and may be transmitted by 1st class mail, magnetically, or electronically.
+Each report required by subsection (b) shall, to the extent practicable, be made on a W–4 form or, at the option of the employer, an equivalent form, and may be transmitted by 1st class mail, magnetically, or electronically.
 
 #### (d) Civil money penalties on noncomplying employers ####
 
@@ -80,13 +80,13 @@ The State shall have the option to set a State civil money penalty which shall n
 
 #### (e) Entry of employer information ####
 
-Information shall be entered into the data base maintained by the State Directory of New Hires within 5 business days of receipt from an employer pursuant to subsection (b) of this section.
+Information shall be entered into the data base maintained by the State Directory of New Hires within 5 business days of receipt from an employer pursuant to subsection (b).
 
 #### (f) Information comparisons ####
 
 #### (1) In general ####
 
-Not later than May 1, 1998, an agency designated by the State shall, directly or by contract, conduct automated comparisons of the social security numbers reported by employers pursuant to subsection (b) of this section and the social security numbers appearing in the records of the State case registry for cases being enforced under the State plan.
+Not later than May 1, 1998, an agency designated by the State shall, directly or by contract, conduct automated comparisons of the social security numbers reported by employers pursuant to subsection (b) and the social security numbers appearing in the records of the State case registry for cases being enforced under the State plan.
 
 #### (2) Notice of match ####
 
@@ -116,7 +116,7 @@ As used in this subsection, the term "business day" means a day on which State o
 
 #### (1) Location of child support obligors ####
 
-The agency administering the State plan approved under this part shall use information received pursuant to subsection (f)(2) of this section to locate individuals for purposes of establishing paternity and establishing, modifying, and enforcing child support obligations, and may disclose such information to any agent of the agency that is under contract with the agency to carry out such purposes.
+The agency administering the State plan approved under this part shall use information received pursuant to subsection (f)(2) to locate individuals for purposes of establishing paternity and establishing, modifying, and enforcing child support obligations, and may disclose such information to any agent of the agency that is under contract with the agency to carry out such purposes.
 
 #### (2) Verification of eligibility for certain programs ####
 
@@ -124,7 +124,7 @@ A State agency responsible for administering a program specified in section 1320
 
 #### (3) Administration of employment security and workers' compensation ####
 
-State agencies operating employment security and workers' compensation programs shall have access to information reported by employers pursuant to subsection (b) of this section for the purposes of administering such programs.
+State agencies operating employment security and workers' compensation programs shall have access to information reported by employers pursuant to subsection (b) for the purposes of administering such programs.
 
 (Aug. 14, 1935, ch. 531, title IV, §453A, as added Pub. L. 104–193, title III, §313(b), Aug. 22, 1996, 110 Stat. 2209; amended Pub. L. 105–33, title V, §5533, Aug. 5, 1997, 111 Stat. 627; Pub. L. 111–291, title VIII, §802(a), (b), Dec. 8, 2010, 124 Stat. 3157; Pub. L. 112–40, title II, §253(a), Oct. 21, 2011, 125 Stat. 422.)
 
@@ -138,7 +138,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (a)(2), (b)(1)(A), an
 
 **2010**—Subsec. (b)(1)(A). Pub. L. 111–291, §802(a), inserted "the date services for remuneration were first performed by the employee," after "of the employee,".
 
-Subsec. (c). Pub. L. 111–291, §802(b), inserted ", to the extent practicable," after "Each report required by subsection (b) of this section shall".
+Subsec. (c). Pub. L. 111–291, §802(b), inserted ", to the extent practicable," after "Each report required by subsection (b) shall".
 
 **1997**—Subsec. (d). Pub. L. 105–33, §5533(1), substituted "shall not exceed" for "shall be less than" in introductory provisions and "$25 per failure to meet the requirements of this section with respect to a newly hired employee" for "$25" in par. (1).
 

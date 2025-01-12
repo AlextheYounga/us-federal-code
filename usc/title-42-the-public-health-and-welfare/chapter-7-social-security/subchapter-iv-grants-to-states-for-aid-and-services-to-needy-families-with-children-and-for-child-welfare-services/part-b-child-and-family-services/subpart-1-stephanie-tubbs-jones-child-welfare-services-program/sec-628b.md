@@ -6,7 +6,7 @@ The Secretary shall conduct (directly, or by grant, contract, or interagency agr
 
 #### (b) Requirements ####
 
-The study required by subsection (a) of this section shall—
+The study required by subsection (a) shall—
 
 (1) have a longitudinal component; and
 
@@ -14,7 +14,7 @@ The study required by subsection (a) of this section shall—
 
 #### (c) Preferred contents ####
 
-In conducting the study required by subsection (a) of this section, the Secretary should—
+In conducting the study required by subsection (a), the Secretary should—
 
 (1) carefully consider selecting the sample from cases of confirmed abuse or neglect; and
 
@@ -34,7 +34,7 @@ In conducting the study required by subsection (a) of this section, the Secretar
 
 #### (1) In general ####
 
-From time to time, the Secretary shall prepare reports summarizing the results of the study required by subsection (a) of this section.
+From time to time, the Secretary shall prepare reports summarizing the results of the study required by subsection (a).
 
 #### (2) Availability ####
 

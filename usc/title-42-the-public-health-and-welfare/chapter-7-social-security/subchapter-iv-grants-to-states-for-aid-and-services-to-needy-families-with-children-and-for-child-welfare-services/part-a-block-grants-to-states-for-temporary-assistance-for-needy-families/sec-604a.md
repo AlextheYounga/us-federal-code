@@ -24,17 +24,17 @@ The programs described in this paragraph are the following programs:
 
 #### (b) Religious organizations ####
 
-The purpose of this section is to allow States to contract with religious organizations, or to allow religious organizations to accept certificates, vouchers, or other forms of disbursement under any program described in subsection (a)(2) of this section, on the same basis as any other nongovernmental provider without impairing the religious character of such organizations, and without diminishing the religious freedom of beneficiaries of assistance funded under such program.
+The purpose of this section is to allow States to contract with religious organizations, or to allow religious organizations to accept certificates, vouchers, or other forms of disbursement under any program described in subsection (a)(2), on the same basis as any other nongovernmental provider without impairing the religious character of such organizations, and without diminishing the religious freedom of beneficiaries of assistance funded under such program.
 
 #### (c) Nondiscrimination against religious organizations ####
 
-In the event a State exercises its authority under subsection (a) of this section, religious organizations are eligible, on the same basis as any other private organization, as contractors to provide assistance, or to accept certificates, vouchers, or other forms of disbursement, under any program described in subsection (a)(2) of this section so long as the programs are implemented consistent with the Establishment Clause of the United States Constitution. Except as provided in subsection (k) of this section, neither the Federal Government nor a State receiving funds under such programs shall discriminate against an organization which is or applies to be a contractor to provide assistance, or which accepts certificates, vouchers, or other forms of disbursement, on the basis that the organization has a religious character.
+In the event a State exercises its authority under subsection (a), religious organizations are eligible, on the same basis as any other private organization, as contractors to provide assistance, or to accept certificates, vouchers, or other forms of disbursement, under any program described in subsection (a)(2) so long as the programs are implemented consistent with the Establishment Clause of the United States Constitution. Except as provided in subsection (k), neither the Federal Government nor a State receiving funds under such programs shall discriminate against an organization which is or applies to be a contractor to provide assistance, or which accepts certificates, vouchers, or other forms of disbursement, on the basis that the organization has a religious character.
 
 #### (d) Religious character and freedom ####
 
 #### (1) Religious organizations ####
 
-A religious organization with a contract described in subsection (a)(1)(A) of this section, or which accepts certificates, vouchers, or other forms of disbursement under subsection (a)(1)(B) of this section, shall retain its independence from Federal, State, and local governments, including such organization's control over the definition, development, practice, and expression of its religious beliefs.
+A religious organization with a contract described in subsection (a)(1)(A), or which accepts certificates, vouchers, or other forms of disbursement under subsection (a)(1)(B), shall retain its independence from Federal, State, and local governments, including such organization's control over the definition, development, practice, and expression of its religious beliefs.
 
 #### (2) Additional safeguards ####
 
@@ -44,31 +44,31 @@ Neither the Federal Government nor a State shall require a religious organizatio
 
 (B) remove religious art, icons, scripture, or other symbols;
 
-in order to be eligible to contract to provide assistance, or to accept certificates, vouchers, or other forms of disbursement, funded under a program described in subsection (a)(2) of this section.
+in order to be eligible to contract to provide assistance, or to accept certificates, vouchers, or other forms of disbursement, funded under a program described in subsection (a)(2).
 
 #### (e) Rights of beneficiaries of assistance ####
 
 #### (1) In general ####
 
-If an individual described in paragraph (2) has an objection to the religious character of the organization or institution from which the individual receives, or would receive, assistance funded under any program described in subsection (a)(2) of this section, the State in which the individual resides shall provide such individual (if otherwise eligible for such assistance) within a reasonable period of time after the date of such objection with assistance from an alternative provider that is accessible to the individual and the value of which is not less than the value of the assistance which the individual would have received from such organization.
+If an individual described in paragraph (2) has an objection to the religious character of the organization or institution from which the individual receives, or would receive, assistance funded under any program described in subsection (a)(2), the State in which the individual resides shall provide such individual (if otherwise eligible for such assistance) within a reasonable period of time after the date of such objection with assistance from an alternative provider that is accessible to the individual and the value of which is not less than the value of the assistance which the individual would have received from such organization.
 
 #### (2) Individual described ####
 
-An individual described in this paragraph is an individual who receives, applies for, or requests to apply for, assistance under a program described in subsection (a)(2) of this section.
+An individual described in this paragraph is an individual who receives, applies for, or requests to apply for, assistance under a program described in subsection (a)(2).
 
 #### (f) Employment practices ####
 
-A religious organization's exemption provided under section 2000e–1 of this title regarding employment practices shall not be affected by its participation in, or receipt of funds from, programs described in subsection (a)(2) of this section.
+A religious organization's exemption provided under section 2000e–1 of this title regarding employment practices shall not be affected by its participation in, or receipt of funds from, programs described in subsection (a)(2).
 
 #### (g) Nondiscrimination against beneficiaries ####
 
-Except as otherwise provided in law, a religious organization shall not discriminate against an individual in regard to rendering assistance funded under any program described in subsection (a)(2) of this section on the basis of religion, a religious belief, or refusal to actively participate in a religious practice.
+Except as otherwise provided in law, a religious organization shall not discriminate against an individual in regard to rendering assistance funded under any program described in subsection (a)(2) on the basis of religion, a religious belief, or refusal to actively participate in a religious practice.
 
 #### (h) Fiscal accountability ####
 
 #### (1) In general ####
 
-Except as provided in paragraph (2), any religious organization contracting to provide assistance funded under any program described in subsection (a)(2) of this section shall be subject to the same regulations as other contractors to account in accord with generally accepted auditing principles for the use of such funds provided under such programs.
+Except as provided in paragraph (2), any religious organization contracting to provide assistance funded under any program described in subsection (a)(2) shall be subject to the same regulations as other contractors to account in accord with generally accepted auditing principles for the use of such funds provided under such programs.
 
 #### (2) Limited audit ####
 
@@ -80,7 +80,7 @@ Any party which seeks to enforce its rights under this section may assert a civi
 
 #### (j) Limitations on use of funds for certain purposes ####
 
-No funds provided directly to institutions or organizations to provide services and administer programs under subsection (a)(1)(A) of this section shall be expended for sectarian worship, instruction, or proselytization.
+No funds provided directly to institutions or organizations to provide services and administer programs under subsection (a)(1)(A) shall be expended for sectarian worship, instruction, or proselytization.
 
 #### (k) Preemption ####
 

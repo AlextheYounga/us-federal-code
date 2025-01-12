@@ -51,3 +51,7 @@ If the statement is not published in the report, or if the bill or joint resolut
 #### Amendments ####
 
 **1999**—Subsec. (d)(3). Pub. L. 106–141 added par. (3).
+
+#### Effective Date ####
+
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.

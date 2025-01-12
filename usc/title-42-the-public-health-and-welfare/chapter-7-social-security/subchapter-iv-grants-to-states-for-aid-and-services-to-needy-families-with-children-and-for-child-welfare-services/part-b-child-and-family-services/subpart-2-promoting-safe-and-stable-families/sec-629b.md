@@ -14,7 +14,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 (i) after the end of each of the 1st 4 fiscal years covered by a set of goals, will perform an interim review of progress toward accomplishment of the goals, and on the basis of the interim review will revise the statement of goals in the plan, if necessary, to reflect changed circumstances; and
 
-(ii) after the end of the last fiscal year covered by a set of goals, will perform a final review of progress toward accomplishment of the goals, and on the basis of the final review (I) will prepare, transmit to the Secretary, and make available to the public a final report on progress toward accomplishment of the goals, and (II) will develop (in consultation with the entities required to be consulted pursuant to subsection (b) of this section) and add to the plan a statement of the goals intended to be accomplished by the end of the 5th succeeding fiscal year;
+(ii) after the end of the last fiscal year covered by a set of goals, will perform a final review of progress toward accomplishment of the goals, and on the basis of the final review (I) will prepare, transmit to the Secretary, and make available to the public a final report on progress toward accomplishment of the goals, and (II) will develop (in consultation with the entities required to be consulted pursuant to subsection (b)) and add to the plan a statement of the goals intended to be accomplished by the end of the 5th succeeding fiscal year;
 
 (3) provides for coordination, to the extent feasible and appropriate, of the provision of services under the plan and the provision of services or benefits under other Federal or federally assisted programs serving the same populations;
 
@@ -66,7 +66,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 #### (1) In general ####
 
-The Secretary shall approve a plan that meets the requirements of subsection (a) of this section only if the plan was developed jointly by the Secretary and the State, after consultation by the State agency with appropriate public and nonprofit private agencies and community-based organizations with experience in administering programs of services for children and families (including family preservation, family support, time-limited family reunification, and adoption promotion and support services).
+The Secretary shall approve a plan that meets the requirements of subsection (a) only if the plan was developed jointly by the Secretary and the State, after consultation by the State agency with appropriate public and nonprofit private agencies and community-based organizations with experience in administering programs of services for children and families (including family preservation, family support, time-limited family reunification, and adoption promotion and support services).
 
 #### (2) Plans of Indian tribes or tribal consortia ####
 

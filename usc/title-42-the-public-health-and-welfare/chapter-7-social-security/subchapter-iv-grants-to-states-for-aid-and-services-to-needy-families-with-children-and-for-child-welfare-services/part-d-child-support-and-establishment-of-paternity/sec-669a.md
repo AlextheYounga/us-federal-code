@@ -6,17 +6,17 @@ Notwithstanding any other provision of Federal or State law, a financial institu
 
 #### (b) Prohibition of disclosure of financial record obtained by State child support enforcement agency ####
 
-A State child support enforcement agency which obtains a financial record of an individual from a financial institution pursuant to subsection (a) of this section may disclose such financial record only for the purpose of, and to the extent necessary in, establishing, modifying, or enforcing a child support obligation of such individual.
+A State child support enforcement agency which obtains a financial record of an individual from a financial institution pursuant to subsection (a) may disclose such financial record only for the purpose of, and to the extent necessary in, establishing, modifying, or enforcing a child support obligation of such individual.
 
 #### (c) Civil damages for unauthorized disclosure ####
 
 #### (1) Disclosure by State officer or employee ####
 
-If any person knowingly, or by reason of negligence, discloses a financial record of an individual in violation of subsection (b) of this section, such individual may bring a civil action for damages against such person in a district court of the United States.
+If any person knowingly, or by reason of negligence, discloses a financial record of an individual in violation of subsection (b), such individual may bring a civil action for damages against such person in a district court of the United States.
 
 #### (2) No liability for good faith but erroneous interpretation ####
 
-No liability shall arise under this subsection with respect to any disclosure which results from a good faith, but erroneous, interpretation of subsection (b) of this section.
+No liability shall arise under this subsection with respect to any disclosure which results from a good faith, but erroneous, interpretation of subsection (b).
 
 #### (3) Damages ####
 

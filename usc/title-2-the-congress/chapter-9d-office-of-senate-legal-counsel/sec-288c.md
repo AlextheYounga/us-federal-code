@@ -9,3 +9,7 @@
 (b) Representation of a Member, officer, or employee under subsection (a) shall be undertaken by the Counsel only upon the consent of such Member, officer, or employee.
 
 (Pub. L. 95–521, title VII, §704, Oct. 26, 1978, 92 Stat. 1877.)
+
+#### Effective Date ####
+
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.

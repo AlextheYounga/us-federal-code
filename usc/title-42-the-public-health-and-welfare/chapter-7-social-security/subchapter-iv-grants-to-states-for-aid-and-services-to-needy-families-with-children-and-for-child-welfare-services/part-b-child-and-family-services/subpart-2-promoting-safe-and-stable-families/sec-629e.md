@@ -10,7 +10,7 @@ The Secretary shall evaluate and report to the Congress biennially on the effect
 
 In developing the criteria to be used in evaluations under paragraph (1), the Secretary shall consult with appropriate parties, such as—
 
-(A) State agencies administering programs under this part and part E of this subchapter;
+(A) State agencies administering programs under this part and part E;
 
 (B) persons administering child and family services programs (including family preservation and family support programs) for private, nonprofit organizations with an interest in child welfare; and
 
@@ -18,7 +18,7 @@ In developing the criteria to be used in evaluations under paragraph (1), the Se
 
 #### (3) Timing of report ####
 
-Beginning in 2003, the Secretary shall submit the biennial report required by this subsection not later than April 1 of every other year, and shall include in each such report the funding level, the status of ongoing evaluations, findings to date, and the nature of any technical assistance provided to States under subsection (d) of this section.
+Beginning in 2003, the Secretary shall submit the biennial report required by this subsection not later than April 1 of every other year, and shall include in each such report the funding level, the status of ongoing evaluations, findings to date, and the nature of any technical assistance provided to States under subsection (d).
 
 #### (b) Coordination of evaluations ####
 

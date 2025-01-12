@@ -6,7 +6,7 @@ In addition to any amount appropriated pursuant to section 629f of this title, t
 
 #### (b) Reservation of certain amounts ####
 
-From the amount (if any) appropriated pursuant to subsection (a) of this section for a fiscal year, the Secretary shall reserve amounts as follows:
+From the amount (if any) appropriated pursuant to subsection (a) for a fiscal year, the Secretary shall reserve amounts as follows:
 
 #### (1) Evaluation, research, training, and technical assistance ####
 
@@ -18,21 +18,21 @@ The Secretary shall reserve 3.3 percent for grants under section 629h of this ti
 
 #### (3) Indian tribes or tribal consortia ####
 
-The Secretary shall reserve 3 percent for allotment to Indian tribes or tribal consortia in accordance with subsection (c)(1) of this section.
+The Secretary shall reserve 3 percent for allotment to Indian tribes or tribal consortia in accordance with subsection (c)(1).
 
 #### (c) Allotments ####
 
 #### (1) Indian tribes or tribal consortia ####
 
-From the amount (if any) reserved pursuant to subsection (b)(3) of this section for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, as determined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes applies and is approved for a grant under this section, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
+From the amount (if any) reserved pursuant to subsection (b)(3) for any fiscal year, the Secretary shall allot to each Indian tribe with a plan approved under this subpart an amount that bears the same ratio to such reserved amount as the number of children in the Indian tribe bears to the total number of children in all Indian tribes with State plans so approved, as determined by the Secretary on the basis of the most current and reliable information available to the Secretary. If a consortium of Indian tribes applies and is approved for a grant under this section, the Secretary shall allot to the consortium an amount equal to the sum of the allotments determined for each Indian tribe that is part of the consortium.
 
 #### (2) Territories ####
 
-From the amount (if any) appropriated pursuant to subsection (a) of this section for any fiscal year that remains after applying subection <sup><a href="#629g_1_target" name="629g_1">1</a></sup> (b) of this section for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title.
+From the amount (if any) appropriated pursuant to subsection (a) for any fiscal year that remains after applying subection <sup><a href="#629g_1_target" name="629g_1">1</a></sup> (b) for the fiscal year, the Secretary shall allot to each of the jurisdictions of Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, and American Samoa an amount determined in the same manner as the allotment to each of such jurisdictions is determined under section 623 of this title.
 
 #### (3) Other States ####
 
-From the amount (if any) appropriated pursuant to subsection (a) of this section for any fiscal year that remains after applying subsection (b) of this section and paragraph (2) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) which is not specified in paragraph (2) of this subsection an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage (as defined in section 629c(c)(2) of this title) of the State for the fiscal year.
+From the amount (if any) appropriated pursuant to subsection (a) for any fiscal year that remains after applying subsection (b) and paragraph (2) of this subsection for the fiscal year, the Secretary shall allot to each State (other than an Indian tribe) which is not specified in paragraph (2) of this subsection an amount equal to such remaining amount multiplied by the supplemental nutrition assistance program benefits percentage (as defined in section 629c(c)(2) of this title) of the State for the fiscal year.
 
 #### (d) Grants ####
 
@@ -40,7 +40,7 @@ The Secretary may make a grant to a State which has a plan approved under this s
 
 (1) 75 percent of the total expenditures by the State for activities under the plan during the fiscal year or the immediately succeeding fiscal year; or
 
-(2) the allotment of the State under subsection (c) of this section for the fiscal year.
+(2) the allotment of the State under subsection (c) for the fiscal year.
 
 #### (e) Applicability of certain rules ####
 

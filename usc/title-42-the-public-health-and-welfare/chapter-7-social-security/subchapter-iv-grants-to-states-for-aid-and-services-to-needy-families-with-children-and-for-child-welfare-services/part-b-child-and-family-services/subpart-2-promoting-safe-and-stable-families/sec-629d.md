@@ -20,11 +20,11 @@ Each State that has a plan approved under section 629b of this title shall, subj
 
 #### (1) No use of other Federal funds for State match ####
 
-Each State receiving an amount paid under subsection (a) of this section may not expend any Federal funds to meet the costs of services under the State plan under section 629b of this title not covered by the amount so paid.
+Each State receiving an amount paid under subsection (a) may not expend any Federal funds to meet the costs of services under the State plan under section 629b of this title not covered by the amount so paid.
 
 #### (2) Availability of funds ####
 
-A State may not expend any amount paid under subsection (a) of this section for any fiscal year after the end of the immediately succeeding fiscal year.
+A State may not expend any amount paid under subsection (a) for any fiscal year after the end of the immediately succeeding fiscal year.
 
 #### (c) Direct payments to tribal organizations of Indian tribes or tribal consortia ####
 

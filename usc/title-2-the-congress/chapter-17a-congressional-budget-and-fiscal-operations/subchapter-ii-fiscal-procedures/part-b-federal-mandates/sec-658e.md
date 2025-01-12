@@ -27,3 +27,7 @@ A question of consideration under this section shall be debatable for 10 minutes
 The disposition of the question of consideration under this subsection with respect to a bill or joint resolution shall be considered also to determine the question of consideration under this subsection with respect to an amendment made in order as original text.
 
 (Pub. L. 93–344, title IV, §426, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 59.)
+
+#### Effective Date ####
+
+Section effective Jan. 1, 1996, or on the date 90 days after appropriations are made available as authorized under section 1516 of this title, whichever is earlier, and applicable to legislation considered on and after such date, see section 110 of Pub. L. 104–4, set out as a note under section 1511 of this title.

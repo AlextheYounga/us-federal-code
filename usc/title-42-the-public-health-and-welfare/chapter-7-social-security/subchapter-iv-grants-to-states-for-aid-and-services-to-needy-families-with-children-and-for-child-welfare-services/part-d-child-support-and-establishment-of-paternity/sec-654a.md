@@ -110,7 +110,7 @@ Exchanging information with the Federal Parent Locator Service for the purposes 
 
 #### (3) Temporary family assistance and medicaid agencies ####
 
-Exchanging information with State agencies (of the State and of other States) administering programs funded under part A of this subchapter, programs operated under a State plan approved under subchapter XIX of this chapter, and other programs designated by the Secretary, as necessary to perform State agency responsibilities under this part and under such programs.
+Exchanging information with State agencies (of the State and of other States) administering programs funded under part A, programs operated under a State plan approved under subchapter XIX, and other programs designated by the Secretary, as necessary to perform State agency responsibilities under this part and under such programs.
 
 #### (4) Intrastate and interstate information comparisons ####
 
@@ -118,7 +118,7 @@ Exchanging information with other agencies of the State, agencies of other State
 
 #### (5) Private industry councils receiving welfare-to-work grants ####
 
-Disclosing to a private industry council (as defined in section 603(a)(5)(D)(ii) of this title) to which funds are provided under section 603(a)(5) of this title the names, addresses, telephone numbers, and identifying case number information in the State program funded under part A of this subchapter, of noncustodial parents residing in the service delivery area of the private industry council, for the purpose of identifying and contacting noncustodial parents regarding participation in the program under section 603(a)(5) of this title.
+Disclosing to a private industry council (as defined in section 603(a)(5)(D)(ii) of this title) to which funds are provided under section 603(a)(5) of this title the names, addresses, telephone numbers, and identifying case number information in the State program funded under part A, of noncustodial parents residing in the service delivery area of the private industry council, for the purpose of identifying and contacting noncustodial parents regarding participation in the program under section 603(a)(5) of this title.
 
 #### (g) Collection and distribution of support payments ####
 

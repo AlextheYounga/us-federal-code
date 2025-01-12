@@ -4,13 +4,13 @@
 
 #### (1) Promulgations of regulations ####
 
-The Secretary shall promulgate regulations and make initial determinations with respect to benefits under part A of this subchapter or part B of this subchapter in accordance with those regulations for the following:
+The Secretary shall promulgate regulations and make initial determinations with respect to benefits under part A or part B in accordance with those regulations for the following:
 
 (A) The initial determination of whether an individual is entitled to benefits under such parts.
 
 (B) The initial determination of the amount of benefits available to the individual under such parts.
 
-(C) Any other initial determination with respect to a claim for benefits under such parts, including an initial determination by the Secretary that payment may not be made, or may no longer be made, for an item or service under such parts, an initial determination made by a quality improvement organization under section 1320c–3(a)(2) of this title, and an initial determination made by an entity pursuant to a contract (other than a contract under section 1395w–22 of this title) with the Secretary to administer provisions of this subchapter or subchapter XI of this chapter.
+(C) Any other initial determination with respect to a claim for benefits under such parts, including an initial determination by the Secretary that payment may not be made, or may no longer be made, for an item or service under such parts, an initial determination made by a quality improvement organization under section 1320c–3(a)(2) of this title, and an initial determination made by an entity pursuant to a contract (other than a contract under section 1395w–22 of this title) with the Secretary to administer provisions of this subchapter or subchapter XI.
 
 #### (2) Deadlines for making initial determinations ####
 
@@ -32,7 +32,7 @@ In promulgating regulations under paragraph (1) with respect to initial determin
 
 #### (i) Appeal rights ####
 
-No initial determination may be reconsidered or appealed under subsection (b) of this section unless the fiscal intermediary or carrier has made a redetermination of that initial determination under this paragraph.
+No initial determination may be reconsidered or appealed under subsection (b) unless the fiscal intermediary or carrier has made a redetermination of that initial determination under this paragraph.
 
 #### (ii) Decisionmaker ####
 
@@ -64,7 +64,7 @@ With respect to an initial determination insofar as it results in a denial of a 
 
 (iii) notification of the right to seek a redetermination or otherwise appeal the determination and instructions on how to initiate such a redetermination under this section;
 
-(B) such written notice shall be provided in printed form and written in a manner calculated to be understood by the individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both; and
+(B) such written notice shall be provided in printed form and written in a manner calculated to be understood by the individual entitled to benefits under part A or enrolled under part B, or both; and
 
 (C) the individual provided such written notice may obtain, upon request, information on the specific provision of the policy, manual, or regulation used in making the redetermination.
 
@@ -82,7 +82,7 @@ With respect to a redetermination insofar as it results in a denial of a claim f
 
 (iv) notification of the right to appeal the redetermination and instructions on how to initiate such an appeal under this section;
 
-(B) such written notice shall be provided in printed form and written in a manner calculated to be understood by the individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both; and
+(B) such written notice shall be provided in printed form and written in a manner calculated to be understood by the individual entitled to benefits under part A or enrolled under part B, or both; and
 
 (C) the individual provided such written notice may obtain, upon request, information on the specific provision of the policy, manual, or regulation used in making the redetermination.
 
@@ -92,7 +92,7 @@ With respect to a redetermination insofar as it results in a denial of a claim f
 
 #### (A) Reconsideration of initial determination ####
 
-Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) of this section shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the "Commissioner of Social Security" or the "Social Security Administration" in subsection (g) or (l) of section 405 of this title shall be considered a reference to the "Secretary" or the "Department of Health and Human Services", respectively.
+Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and, subject to paragraph (2), to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the "Commissioner of Social Security" or the "Social Security Administration" in subsection (g) or (l) of section 405 of this title shall be considered a reference to the "Secretary" or the "Department of Health and Human Services", respectively.
 
 #### (B) Representation by provider or supplier ####
 
@@ -120,7 +120,7 @@ The right of an individual to an appeal under this section with respect to an it
 
 #### (i) Reconsiderations ####
 
-Reconsideration under subparagraph (A) shall be available only if the individual described in subparagraph (A) files notice with the Secretary to request reconsideration by not later than the end of the 180-day period beginning on the date the individual receives notice of the redetermination under subsection (a)(3) of this section, or within such additional time as the Secretary may allow.
+Reconsideration under subparagraph (A) shall be available only if the individual described in subparagraph (A) files notice with the Secretary to request reconsideration by not later than the end of the 180-day period beginning on the date the individual receives notice of the redetermination under subsection (a)(3), or within such additional time as the Secretary may allow.
 
 #### (ii) Hearings conducted by the Secretary ####
 
@@ -154,7 +154,7 @@ In the case of an individual who has received notice from a provider of services
 
 (II) to discharge the individual from the provider of services,
 
- the individual may request, in writing or orally, an expedited determination or an expedited reconsideration of an initial determination made under subsection (a)(1) of this section, as the case may be, and the Secretary shall provide such expedited determination or expedited reconsideration.
+ the individual may request, in writing or orally, an expedited determination or an expedited reconsideration of an initial determination made under subsection (a)(1), as the case may be, and the Secretary shall provide such expedited determination or expedited reconsideration.
 
 #### (ii) Reference to expedited access to judicial review ####
 
@@ -168,7 +168,7 @@ The Secretary may reopen or revise any initial determination or reconsidered det
 
 #### (A) In general ####
 
-The Secretary shall establish a process under which a provider of services or supplier that furnishes an item or service or an individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, who has filed an appeal under paragraph (1) (other than an appeal filed under paragraph (1)(F)(i)) may obtain access to judicial review when a review entity (described in subparagraph (D)), on its own motion or at the request of the appellant, determines that the Departmental Appeals Board does not have the authority to decide the question of law or regulation relevant to the matters in controversy and that there is no material issue of fact in dispute. The appellant may make such request only once with respect to a question of law or regulation for a specific matter in dispute in a case of an appeal.
+The Secretary shall establish a process under which a provider of services or supplier that furnishes an item or service or an individual entitled to benefits under part A or enrolled under part B, or both, who has filed an appeal under paragraph (1) (other than an appeal filed under paragraph (1)(F)(i)) may obtain access to judicial review when a review entity (described in subparagraph (D)), on its own motion or at the request of the appellant, determines that the Departmental Appeals Board does not have the authority to decide the question of law or regulation relevant to the matters in controversy and that there is no material issue of fact in dispute. The appellant may make such request only once with respect to a question of law or regulation for a specific matter in dispute in a case of an appeal.
 
 #### (B) Prompt determinations ####
 
@@ -208,17 +208,17 @@ For purposes of this subsection, the term "review entity" means an entity of up 
 
 #### (3) Requiring full and early presentation of evidence by providers ####
 
-A provider of services or supplier may not introduce evidence in any appeal under this section that was not presented at the reconsideration conducted by the qualified independent contractor under subsection (c) of this section, unless there is good cause which precluded the introduction of such evidence at or before that reconsideration.
+A provider of services or supplier may not introduce evidence in any appeal under this section that was not presented at the reconsideration conducted by the qualified independent contractor under subsection (c), unless there is good cause which precluded the introduction of such evidence at or before that reconsideration.
 
 #### (c) Conduct of reconsiderations by independent contractors ####
 
 #### (1) In general ####
 
-The Secretary shall enter into contracts with qualified independent contractors to conduct reconsiderations of initial determinations made under subparagraphs (B) and (C) of subsection (a)(1) of this section. Contracts shall be for an initial term of three years and shall be renewable on a triennial basis thereafter.
+The Secretary shall enter into contracts with qualified independent contractors to conduct reconsiderations of initial determinations made under subparagraphs (B) and (C) of subsection (a)(1). Contracts shall be for an initial term of three years and shall be renewable on a triennial basis thereafter.
 
 #### (2) Qualified independent contractor ####
 
-For purposes of this subsection, the term "qualified independent contractor" means an entity or organization that is independent of any organization under contract with the Secretary that makes initial determinations under subsection (a)(1) of this section, and that meets the requirements established by the Secretary consistent with paragraph (3).
+For purposes of this subsection, the term "qualified independent contractor" means an entity or organization that is independent of any organization under contract with the Secretary that makes initial determinations under subsection (a)(1), and that meets the requirements established by the Secretary consistent with paragraph (3).
 
 #### (3) Requirements ####
 
@@ -260,7 +260,7 @@ In the case of a failure by the qualified independent contractor to mail the not
 
 #### (iii) Expedited reconsiderations ####
 
-The qualified independent contractor shall perform an expedited reconsideration under subsection (b)(1)(F) of this section as follows:
+The qualified independent contractor shall perform an expedited reconsideration under subsection (b)(1)(F) as follows:
 
 #### (I) Deadline for decision ####
 
@@ -280,19 +280,19 @@ An individual requesting a reconsideration under this subparagraph may be grante
 
 #### (D) Qualifications for reviewers ####
 
-The requirements of subsection (g) of this section shall be met (relating to qualifications of reviewing professionals).
+The requirements of subsection (g) shall be met (relating to qualifications of reviewing professionals).
 
 #### (E) Explanation of decision ####
 
-Any decision with respect to a reconsideration of a qualified independent contractor shall be in writing, be written in a manner calculated to be understood by the individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, and shall include (to the extent appropriate) and shall include <sup><a href="#1395ff_1_target" name="1395ff_1">1</a></sup> a detailed explanation of the decision as well as a discussion of the pertinent facts and applicable regulations applied in making such decision, and <sup><a href="#1395ff_2_target" name="1395ff_2">2</a></sup> a notification of the right to appeal such determination and instructions on how to initiate such appeal under this section <sup><a href="#1395ff_3_target" name="1395ff_3">3</a></sup> and <sup><a href="#1395ff_3_target" name="1395ff_3">3</a></sup> in the case of a determination of whether an item or service is reasonable and necessary for the diagnosis or treatment of illness or injury (under section 1395y(a)(1)(A) of this title) <sup><a href="#1395ff_3_target" name="1395ff_3">3</a></sup> an explanation of the medical and scientific rationale for the decision.
+Any decision with respect to a reconsideration of a qualified independent contractor shall be in writing, be written in a manner calculated to be understood by the individual entitled to benefits under part A or enrolled under part B, or both, and shall include (to the extent appropriate) and shall include <sup><a href="#1395ff_1_target" name="1395ff_1">1</a></sup> a detailed explanation of the decision as well as a discussion of the pertinent facts and applicable regulations applied in making such decision, and <sup><a href="#1395ff_2_target" name="1395ff_2">2</a></sup> a notification of the right to appeal such determination and instructions on how to initiate such appeal under this section <sup><a href="#1395ff_3_target" name="1395ff_3">3</a></sup> and <sup><a href="#1395ff_3_target" name="1395ff_3">3</a></sup> in the case of a determination of whether an item or service is reasonable and necessary for the diagnosis or treatment of illness or injury (under section 1395y(a)(1)(A) of this title) <sup><a href="#1395ff_3_target" name="1395ff_3">3</a></sup> an explanation of the medical and scientific rationale for the decision.
 
 #### (F) Notice requirements ####
 
-Whenever a qualified independent contractor makes a decision with respect to a reconsideration under this subsection, the qualified independent contractor shall promptly notify the entity responsible for the payment of claims under part A of this subchapter or part B of this subchapter of such decision.
+Whenever a qualified independent contractor makes a decision with respect to a reconsideration under this subsection, the qualified independent contractor shall promptly notify the entity responsible for the payment of claims under part A or part B of such decision.
 
 #### (G) Dissemination of decisions on reconsiderations ####
 
-Each qualified independent contractor shall make available all decisions with respect to reconsiderations of such qualified independent contractors to fiscal intermediaries (under section 1395h of this title), carriers (under section 1395u of this title), quality improvement organizations (under part B of subchapter XI of this chapter), Medicare+Choice organizations offering Medicare+Choice plans under part C of this subchapter, other entities under contract with the Secretary to make initial determinations under part A of this subchapter or part B of this subchapter or subchapter XI of this chapter, and to the public. The Secretary shall establish a methodology under which qualified independent contractors shall carry out this subparagraph.
+Each qualified independent contractor shall make available all decisions with respect to reconsiderations of such qualified independent contractors to fiscal intermediaries (under section 1395h of this title), carriers (under section 1395u of this title), quality improvement organizations (under part B of subchapter XI), Medicare+Choice organizations offering Medicare+Choice plans under part C, other entities under contract with the Secretary to make initial determinations under part A or part B or subchapter XI, and to the public. The Secretary shall establish a methodology under which qualified independent contractors shall carry out this subparagraph.
 
 #### (H) Ensuring consistency in decisions ####
 
@@ -330,7 +330,7 @@ The qualified independent contractor shall (i) submit such information as is req
 
 Subject to clause (ii), a qualified independent contractor shall not conduct any activities in a case unless the entity—
 
-(I) is not a related party (as defined in subsection (g)(5) of this section);
+(I) is not a related party (as defined in subsection (g)(5));
 
 (II) does not have a material familial, financial, or professional relationship with such a party in relation to such case; and
 
@@ -358,7 +358,7 @@ No qualified independent contractor having a contract with the Secretary under t
 
 #### (A) In general ####
 
-Except as provided in subparagraph (B), an administrative law judge shall conduct and conclude a hearing on a decision of a qualified independent contractor under subsection (c) of this section and render a decision on such hearing by not later than the end of the 90-day period beginning on the date a request for hearing has been timely filed.
+Except as provided in subparagraph (B), an administrative law judge shall conduct and conclude a hearing on a decision of a qualified independent contractor under subsection (c) and render a decision on such hearing by not later than the end of the 90-day period beginning on the date a request for hearing has been timely filed.
 
 #### (B) Waiver of deadline by party seeking hearing ####
 
@@ -386,7 +386,7 @@ In the case of a failure by the Departmental Appeals Board to render a decision 
 
 #### (4) Notice ####
 
-Notice of the decision of an administrative law judge shall be in writing in a manner calculated to be understood by the individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, and shall include—
+Notice of the decision of an administrative law judge shall be in writing in a manner calculated to be understood by the individual entitled to benefits under part A or enrolled under part B, or both, and shall include—
 
 (A) the specific reasons for the determination (including, to the extent appropriate, a summary of the clinical or scientific evidence used in making the determination);
 
@@ -398,7 +398,7 @@ Notice of the decision of an administrative law judge shall be in writing in a m
 
 #### (1) Limitation on review of certain regulations ####
 
-A regulation or instruction that relates to a method for determining the amount of payment under part B of this subchapter and that was initially issued before January 1, 1981, shall not be subject to judicial review.
+A regulation or instruction that relates to a method for determining the amount of payment under part B and that was initially issued before January 1, 1981, shall not be subject to judicial review.
 
 #### (2) Outreach ####
 
@@ -406,7 +406,7 @@ The Secretary shall perform such outreach activities as are necessary to inform 
 
 #### (3) Continuing education requirement for qualified independent contractors and administrative law judges ####
 
-The Secretary shall provide to each qualified independent contractor, and, in consultation with the Commissioner of Social Security, to administrative law judges that decide appeals of reconsiderations of initial determinations or other decisions or determinations under this section, such continuing education with respect to coverage of items and services under this subchapter or policies of the Secretary with respect to part B of subchapter XI of this chapter as is necessary for such qualified independent contractors and administrative law judges to make informed decisions with respect to appeals.
+The Secretary shall provide to each qualified independent contractor, and, in consultation with the Commissioner of Social Security, to administrative law judges that decide appeals of reconsiderations of initial determinations or other decisions or determinations under this section, such continuing education with respect to coverage of items and services under this subchapter or policies of the Secretary with respect to part B of subchapter XI as is necessary for such qualified independent contractors and administrative law judges to make informed decisions with respect to appeals.
 
 #### (4) Reports ####
 
@@ -468,7 +468,7 @@ Review of any local coverage determination shall be subject to the following lim
 
 #### (B) Definition of local coverage determination ####
 
-For purposes of this section, the term "local coverage determination" means a determination by a fiscal intermediary or a carrier under part A of this subchapter or part B of this subchapter, as applicable, respecting whether or not a particular item or service is covered on an intermediary- or carrier-wide basis under such parts, in accordance with section 1395y(a)(1)(A) of this title.
+For purposes of this section, the term "local coverage determination" means a determination by a fiscal intermediary or a carrier under part A or part B, as applicable, respecting whether or not a particular item or service is covered on an intermediary- or carrier-wide basis under such parts, in accordance with section 1395y(a)(1)(A) of this title.
 
 #### (C) Local coverage determinations for clinical diagnostic laboratory tests ####
 
@@ -508,7 +508,7 @@ When issuing a determination under subparagraph (A), the Secretary shall include
 
 #### (5) Standing ####
 
-An action under this subsection seeking review of a national coverage determination or local coverage determination may be initiated only by individuals entitled to benefits under part A of this subchapter, or enrolled under part B of this subchapter, or both, who are in need of the items or services that are the subject of the coverage determination.
+An action under this subsection seeking review of a national coverage determination or local coverage determination may be initiated only by individuals entitled to benefits under part A, or enrolled under part B, or both, who are in need of the items or services that are the subject of the coverage determination.
 
 #### (6) Publication on the Internet of decisions of hearings of the Secretary ####
 
@@ -538,7 +538,7 @@ In reviewing determinations under this section, a qualified independent contract
 
 (B) compensation provided by the contractor to each such reviewer is consistent with paragraph (3); and
 
-(C) in the case of a review by a panel described in subsection (c)(3)(B) of this section composed of physicians or other health care professionals (each in this subsection referred to as a "reviewing professional"), a reviewing professional meets the qualifications described in paragraph (4) and, where a claim is regarding the furnishing of treatment by a physician (allopathic or osteopathic) or the provision of items or services by a physician (allopathic or osteopathic), a reviewing professional shall be a physician (allopathic or osteopathic).
+(C) in the case of a review by a panel described in subsection (c)(3)(B) composed of physicians or other health care professionals (each in this subsection referred to as a "reviewing professional"), a reviewing professional meets the qualifications described in paragraph (4) and, where a claim is regarding the furnishing of treatment by a physician (allopathic or osteopathic) or the provision of items or services by a physician (allopathic or osteopathic), a reviewing professional shall be a physician (allopathic or osteopathic).
 
 #### (2) Independence ####
 
@@ -560,7 +560,7 @@ Nothing in subparagraph (A) shall be construed to—
 
 (I) the individual is not involved in the provision of items or services in the case under review;
 
-(II) the fact of such an agreement is disclosed to the Secretary and the individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, or such individual's authorized representative, and neither party objects; and
+(II) the fact of such an agreement is disclosed to the Secretary and the individual entitled to benefits under part A or enrolled under part B, or both, or such individual's authorized representative, and neither party objects; and
 
 (III) the individual is not an employee of the intermediary, carrier, or contractor and does not provide services exclusively or primarily to or on behalf of such intermediary, carrier, or contractor;
 
@@ -584,7 +584,7 @@ Each reviewing professional shall be—
 
 #### (5) Related party defined ####
 
-For purposes of this section, the term "related party" means, with respect to a case under this subchapter involving a specific individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, any of the following:
+For purposes of this section, the term "related party" means, with respect to a case under this subchapter involving a specific individual entitled to benefits under part A or enrolled under part B, or both, any of the following:
 
 (A) The Secretary, the medicare administrative contractor involved, or any fiduciary, officer, director, or employee of the Department of Health and Human Services, or of such contractor.
 
@@ -644,7 +644,7 @@ Under such process, the contractor shall provide the eligible requester with wri
 
 #### (i) Noncoverage ####
 
-If the contractor makes the determination described in subparagraph (A)(ii), the contractor shall include in the notice a brief explanation of the basis for the determination, including on what national or local coverage or noncoverage determination (if any) the determination is based, and a description of any applicable rights under subsection (a) of this section.
+If the contractor makes the determination described in subparagraph (A)(ii), the contractor shall include in the notice a brief explanation of the basis for the determination, including on what national or local coverage or noncoverage determination (if any) the determination is based, and a description of any applicable rights under subsection (a).
 
 #### (ii) Insufficient information ####
 
@@ -652,7 +652,7 @@ If the contractor makes the determination described in subparagraph (A)(iii), th
 
 #### (C) Deadline to respond ####
 
-Such notice shall be provided within the same time period as the time period applicable to the contractor providing notice of initial determinations on a claim for benefits under subsection (a)(2)(A) of this section.
+Such notice shall be provided within the same time period as the time period applicable to the contractor providing notice of initial determinations on a claim for benefits under subsection (a)(2)(A).
 
 #### (D) Informing beneficiary in case of physician request ####
 
@@ -724,7 +724,7 @@ Subsec. (c)(3)(C)(i). Pub. L. 108–173, §940(a)(2), substituted "60-day period
 
 Subsec. (c)(3)(D). Pub. L. 108–173, §933(d)(2)(A), amended heading and text of subpar. (D) generally, substituting provisions directing that subsec. (g) requirements be met for provisions prohibiting a physician or health care professional from reviewing a determination where such physician or health care professional had been directly responsible for furnishing services or had had a significant financial interest in the institution, organization, or agency which provided the services.
 
-Subsec. (c)(3)(E). Pub. L. 108–173, §933(c)(2), inserted "be written in a manner calculated to be understood by the individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, and shall include (to the extent appropriate)" after "in writing," and "and a notification of the right to appeal such determination and instructions on how to initiate such appeal under this section" after "such decision,".
+Subsec. (c)(3)(E). Pub. L. 108–173, §933(c)(2), inserted "be written in a manner calculated to be understood by the individual entitled to benefits under part A or enrolled under part B, or both, and shall include (to the extent appropriate)" after "in writing," and "and a notification of the right to appeal such determination and instructions on how to initiate such appeal under this section" after "such decision,".
 
 Subsec. (c)(3)(I)(ii)(III). Pub. L. 108–173, §948(b)(1)(A), substituted "determination" for "policy".
 

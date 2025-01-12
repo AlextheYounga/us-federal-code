@@ -2,7 +2,7 @@
 
 #### (a) Medical screening requirement ####
 
-In the case of a hospital that has a hospital emergency department, if any individual (whether or not eligible for benefits under this subchapter) comes to the emergency department and a request is made on the individual's behalf for examination or treatment for a medical condition, the hospital must provide for an appropriate medical screening examination within the capability of the hospital's emergency department, including ancillary services routinely available to the emergency department, to determine whether or not an emergency medical condition (within the meaning of subsection (e)(1) of this section) exists.
+In the case of a hospital that has a hospital emergency department, if any individual (whether or not eligible for benefits under this subchapter) comes to the emergency department and a request is made on the individual's behalf for examination or treatment for a medical condition, the hospital must provide for an appropriate medical screening examination within the capability of the hospital's emergency department, including ancillary services routinely available to the emergency department, to determine whether or not an emergency medical condition (within the meaning of subsection (e)(1)) exists.
 
 #### (b) Necessary stabilizing treatment for emergency medical conditions and labor ####
 
@@ -12,7 +12,7 @@ If any individual (whether or not eligible for benefits under this subchapter) c
 
 (A) within the staff and facilities available at the hospital, for such further medical examination and such treatment as may be required to stabilize the medical condition, or
 
-(B) for transfer of the individual to another medical facility in accordance with subsection (c) of this section.
+(B) for transfer of the individual to another medical facility in accordance with subsection (c).
 
 #### (2) Refusal to consent to treatment ####
 
@@ -20,13 +20,13 @@ A hospital is deemed to meet the requirement of paragraph (1)(A) with respect to
 
 #### (3) Refusal to consent to transfer ####
 
-A hospital is deemed to meet the requirement of paragraph (1) with respect to an individual if the hospital offers to transfer the individual to another medical facility in accordance with subsection (c) of this section and informs the individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such transfer, but the individual (or a person acting on the individual's behalf) refuses to consent to the transfer. The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such transfer.
+A hospital is deemed to meet the requirement of paragraph (1) with respect to an individual if the hospital offers to transfer the individual to another medical facility in accordance with subsection (c) and informs the individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such transfer, but the individual (or a person acting on the individual's behalf) refuses to consent to the transfer. The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such transfer.
 
 #### (c) Restricting transfers until individual stabilized ####
 
 #### (1) Rule ####
 
-If an individual at a hospital has an emergency medical condition which has not been stabilized (within the meaning of subsection (e)(3)(B) of this section), the hospital may not transfer the individual unless—
+If an individual at a hospital has an emergency medical condition which has not been stabilized (within the meaning of subsection (e)(3)(B)), the hospital may not transfer the individual unless—
 
 (A)(i) the individual (or a legally responsible person acting on the individual's behalf) after being informed of the hospital's obligations under this section and of the risk of transfer, in writing requests transfer to another medical facility,
 
@@ -50,7 +50,7 @@ An appropriate transfer to a medical facility is a transfer—
 
 (ii) has agreed to accept transfer of the individual and to provide appropriate medical treatment;
 
-(C) in which the transferring hospital sends to the receiving facility all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(1)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment;
+(C) in which the transferring hospital sends to the receiving facility all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(1)(C)) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment;
 
 (D) in which the transfer is effected through qualified personnel and transportation equipment, as required including the use of necessary and medically appropriate life support measures during the transfer; and
 
@@ -64,7 +64,7 @@ An appropriate transfer to a medical facility is a transfer—
 
 (B) Subject to subparagraph (C), any physician who is responsible for the examination, treatment, or transfer of an individual in a participating hospital, including a physician on-call for the care of such an individual, and who negligently violates a requirement of this section, including a physician who—
 
-(i) signs a certification under subsection (c)(1)(A) of this section that the medical benefits reasonably to be expected from a transfer to another facility outweigh the risks associated with the transfer, if the physician knew or should have known that the benefits did not outweigh the risks, or
+(i) signs a certification under subsection (c)(1)(A) that the medical benefits reasonably to be expected from a transfer to another facility outweigh the risks associated with the transfer, if the physician knew or should have known that the benefits did not outweigh the risks, or
 
 (ii) misrepresents an individual's condition or other information, including a hospital's obligations under this section,
 
@@ -88,7 +88,7 @@ No action may be brought under this paragraph more than two years after the date
 
 #### (3) Consultation with quality improvement organizations ####
 
-In considering allegations of violations of the requirements of this section in imposing sanctions under paragraph (1) or in terminating a hospital's participation under this subchapter, the Secretary shall request the appropriate quality improvement organization (with a contract under part B of subchapter XI of this chapter) to assess whether the individual involved had an emergency medical condition which had not been stabilized, and provide a report on its findings. Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall request such a review before effecting a sanction under paragraph (1) and shall provide a period of at least 60 days for such review. Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall also request such a review before making a compliance determination as part of the process of terminating a hospital's participation under this subchapter for violations related to the appropriateness of a medical screening examination, stabilizing treatment, or an appropriate transfer as required by this section, and shall provide a period of 5 days for such review. The Secretary shall provide a copy of the organization's report to the hospital or physician consistent with confidentiality requirements imposed on the organization under such part B.
+In considering allegations of violations of the requirements of this section in imposing sanctions under paragraph (1) or in terminating a hospital's participation under this subchapter, the Secretary shall request the appropriate quality improvement organization (with a contract under part B of subchapter XI) to assess whether the individual involved had an emergency medical condition which had not been stabilized, and provide a report on its findings. Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall request such a review before effecting a sanction under paragraph (1) and shall provide a period of at least 60 days for such review. Except in the case in which a delay would jeopardize the health or safety of individuals, the Secretary shall also request such a review before making a compliance determination as part of the process of terminating a hospital's participation under this subchapter for violations related to the appropriateness of a medical screening examination, stabilizing treatment, or an appropriate transfer as required by this section, and shall provide a period of 5 days for such review. The Secretary shall provide a copy of the organization's report to the hospital or physician consistent with confidentiality requirements imposed on the organization under such part B.
 
 #### (4) Notice upon closing an investigation ####
 
@@ -134,11 +134,11 @@ A participating hospital that has specialized capabilities or facilities (such a
 
 #### (h) No delay in examination or treatment ####
 
-A participating hospital may not delay provision of an appropriate medical screening examination required under subsection (a) of this section or further medical examination and treatment required under subsection (b) of this section in order to inquire about the individual's method of payment or insurance status.
+A participating hospital may not delay provision of an appropriate medical screening examination required under subsection (a) or further medical examination and treatment required under subsection (b) in order to inquire about the individual's method of payment or insurance status.
 
 #### (i) Whistleblower protections ####
 
-A participating hospital may not penalize or take adverse action against a qualified medical person described in subsection (c)(1)(A)(iii) of this section or a physician because the person or physician refuses to authorize the transfer of an individual with an emergency medical condition that has not been stabilized or against any hospital employee because the employee reports a violation of a requirement of this section.
+A participating hospital may not penalize or take adverse action against a qualified medical person described in subsection (c)(1)(A)(iii) or a physician because the person or physician refuses to authorize the transfer of an individual with an emergency medical condition that has not been stabilized or against any hospital employee because the employee reports a violation of a requirement of this section.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1867, as added Pub. L. 99–272, title IX, §9121(b), Apr. 7, 1986, 100 Stat. 164; amended Pub. L. 99–509, title IX, §9307(c)(4), Oct. 21, 1986, 100 Stat. 1996; Pub. L. 99–514, title XVIII, §1895(b)(4), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4009(a)(1), formerly §4009(a)(1), (2), Dec. 22, 1987, 101 Stat. 1330–56, 1330–57; Pub. L. 100–360, title IV, §411(b)(8)(A)(i), July 1, 1988, 102 Stat. 772; Pub. L. 100–485, title VI, §608(d)(18)(E), Oct. 13, 1988, 102 Stat. 2419; Pub. L. 101–239, title VI, §§6003(g)(3)(D)(xiv), 6211(a)–(h), Dec. 19, 1989, 103 Stat. 2154, 2245–2248; Pub. L. 101–508, title IV, §§4008(b)(1)–(3)(A), 4207(a)(1)(A), (2), (3), (k)(3), formerly 4027(a)(1)(A), (2), (3), (k)(3), Nov. 5, 1990, 104 Stat. 1388–44, 1388–117, 1388–124, renumbered and amended Pub. L. 103–432, title I, §160(d)(4), (5)(A), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373; Pub. L. 108–173, title VII, §736(a)(14), title IX, §944(b), (c)(1), Dec. 8, 2003, 117 Stat. 2355, 2423; Pub. L. 112–40, title II, §261(a)(3)(A), (E), Oct. 21, 2011, 125 Stat. 423.)
 
@@ -184,7 +184,7 @@ Subsec. (i). Pub. L. 101–508, §4207(k)(3), formerly §4027(k)(3), as renumber
 
 **1989**—Pub. L. 101–239, §6211(h)(2)(A), struck out "active" before "labor" in section catchline.
 
-Subsec. (a). Pub. L. 101–239, §6211(h)(2)(B), which directed the amendment of subsec. (a) by striking out "or to determine if the individual is in active labor (within the meaning of section (e)(2) of this section)" was executed by striking out "or to determine if the individual is in active labor (within the meaning of subsection (e)(2) of this section)" after "exists".
+Subsec. (a). Pub. L. 101–239, §6211(h)(2)(B), which directed the amendment of subsec. (a) by striking out "or to determine if the individual is in active labor (within the meaning of section (e)(2))" was executed by striking out "or to determine if the individual is in active labor (within the meaning of subsection (e)(2))" after "exists".
 
 Pub. L. 101–239, §6211(a), substituted "hospital's emergency department, including ancillary services routinely available to the emergency department," for "hospital's emergency department".
 
@@ -196,11 +196,11 @@ Subsec. (b)(1)(A). Pub. L. 101–239, §6211(h)(2)(D)(ii), struck out "or to pro
 
 Subsec. (b)(2). Pub. L. 101–239, §6211(b)(1), inserted "and informs the individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such examination and treatment," after "in that paragraph", substituted "and treatment." for "or treatment.", and inserted at end "The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such examination and treatment."
 
-Subsec. (b)(3). Pub. L. 101–239, §6211(b)(2), inserted "and informs the individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such transfer," after "subsection (c) of this section" and inserted at end "The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such transfer."
+Subsec. (b)(3). Pub. L. 101–239, §6211(b)(2), inserted "and informs the individual (or a person acting on the individual's behalf) of the risks and benefits to the individual of such transfer," after "subsection (c)" and inserted at end "The hospital shall take all reasonable steps to secure the individual's (or person's) written informed consent to refuse such transfer."
 
 Subsec. (c). Pub. L. 101–239, §6211(g)(1)(A), substituted "individual" for "patient" in heading.
 
-Subsec. (c)(1). Pub. L. 101–239, §6211(c)(4), (g)(1)(B), (h)(2)(E), in introductory provisions, substituted "an individual" for "a patient", "subsection (e)(3)(B) of this section)" for "subsection (e)(4)(B) of this section) or is in active labor", and "the individual" for "the patient", and inserted at end "A certification described in clause (ii) or (iii) of subparagraph (A) shall include a summary of the risks and benefits upon which the certification is based."
+Subsec. (c)(1). Pub. L. 101–239, §6211(c)(4), (g)(1)(B), (h)(2)(E), in introductory provisions, substituted "an individual" for "a patient", "subsection (e)(3)(B))" for "subsection (e)(4)(B)) or is in active labor", and "the individual" for "the patient", and inserted at end "A certification described in clause (ii) or (iii) of subparagraph (A) shall include a summary of the risks and benefits upon which the certification is based."
 
 Subsec. (c)(1)(A)(i). Pub. L. 101–239, §6211(c)(1), (g)(1)(B), substituted "the individual" for "the patient", "the individual's behalf" for "the patient's behalf", and "after being informed of the hospital's obligations under this section and of the risk of transfer, in writing requests transfer to another medical facility" for "requests that the transfer be effected".
 
@@ -212,7 +212,7 @@ Subsec. (c)(2)(A). Pub. L. 101–239, §6211(c)(5), added subpar. (A). Former su
 
 Subsec. (c)(2)(B). Pub. L. 101–239, §6211(c)(5)(A), (g)(1)(B), redesignated subpar. (A) as (B) and substituted "the individual" for "the patient" in cls. (i) and (ii). Former subpar. (B) redesignated (C).
 
-Subsec. (c)(2)(C). Pub. L. 101–239, §6211(c)(5)(A), (d), redesignated subpar. (B) as (C) and substituted "sends to" for "provides" and "all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(2)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment" for "with appropriate medical records (or copies thereof) of the examination and treatment effected at the transferring hospital". Former subpar. (C) redesignated (D).
+Subsec. (c)(2)(C). Pub. L. 101–239, §6211(c)(5)(A), (d), redesignated subpar. (B) as (C) and substituted "sends to" for "provides" and "all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(2)(C)) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment" for "with appropriate medical records (or copies thereof) of the examination and treatment effected at the transferring hospital". Former subpar. (C) redesignated (D).
 
 Subsec. (c)(2)(D). Pub. L. 101–239, §6211(c)(5)(A), redesignated subpar. (C) as (D). Former subpar. (D) redesignated (E).
 

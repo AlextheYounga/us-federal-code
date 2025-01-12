@@ -1,6 +1,6 @@
 ### §1395ii. Application of certain provisions of subchapter II ###
 
-The provisions of sections 406 and 416(j) of this title, and of subsections (a), (d), (e), (h), (i), (j), (k), and (l) of section 405 of this title, shall also apply with respect to this subchapter to the same extent as they are applicable with respect to subchapter II of this chapter, except that, in applying such provisions with respect to this subchapter, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
+The provisions of sections 406 and 416(j) of this title, and of subsections (a), (d), (e), (h), (i), (j), (k), and (l) of section 405 of this title, shall also apply with respect to this subchapter to the same extent as they are applicable with respect to subchapter II, except that, in applying such provisions with respect to this subchapter, any reference therein to the Commissioner of Social Security or the Social Security Administration shall be considered a reference to the Secretary or the Department of Health and Human Services, respectively.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1872, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 332; amended Pub. L. 92–603, title II, §242(a), Oct. 30, 1972, 86 Stat. 1419; Pub. L. 98–369, div. B, title III, §2354(b)(36), July 18, 1984, 98 Stat. 1102; Pub. L. 103–296, title I, §108(c)(4), Aug. 15, 1994, 108 Stat. 1485.)
 

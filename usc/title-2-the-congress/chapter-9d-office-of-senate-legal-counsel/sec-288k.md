@@ -21,3 +21,7 @@
 #### Effective Date of 2003 Amendment ####
 
 Amendment by Pub. L. 108–7 effective as if included in the enactment of the 21st Century Department of Justice Appropriations Authorization Act, Pub. L. 107–273, see section 110(c) of Pub. L. 108–7, set out as a note under section 5571 of this title.
+
+#### Effective Date ####
+
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of this title.

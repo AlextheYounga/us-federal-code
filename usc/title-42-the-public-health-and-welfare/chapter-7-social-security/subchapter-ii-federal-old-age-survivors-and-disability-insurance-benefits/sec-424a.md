@@ -34,7 +34,7 @@ For purposes of clause (5), an individual's average current earnings means the l
 
 #### (b) Reduction where benefits payable on other than monthly basis ####
 
-If any periodic benefit for a total or partial disability under a law or plan described in subsection (a)(2) of this section is payable on other than a monthly basis (excluding a benefit payable as a lump sum except to the extent that it is a commutation of, or a substitute for, periodic payments), the reduction under this section shall be made at such time or times and in such amounts as the Commissioner of Social Security finds will approximate as nearly as practicable the reduction prescribed by subsection (a) of this section.
+If any periodic benefit for a total or partial disability under a law or plan described in subsection (a)(2) is payable on other than a monthly basis (excluding a benefit payable as a lump sum except to the extent that it is a commutation of, or a substitute for, periodic payments), the reduction under this section shall be made at such time or times and in such amounts as the Commissioner of Social Security finds will approximate as nearly as practicable the reduction prescribed by subsection (a).
 
 #### (c) Reductions and deductions under other provisions ####
 
@@ -42,7 +42,7 @@ Reduction of benefits under this section shall be made after any reduction under
 
 #### (d) Exception ####
 
-The reduction of benefits required by this section shall not be made if the law or plan described in subsection (a)(2) of this section under which a periodic benefit is payable provides for the reduction thereof when anyone is entitled to benefits under this subchapter on the basis of the wages and self-employment income of an individual entitled to benefits under section 423 of this title, and such law or plan so provided on February 18, 1981.
+The reduction of benefits required by this section shall not be made if the law or plan described in subsection (a)(2) under which a periodic benefit is payable provides for the reduction thereof when anyone is entitled to benefits under this subchapter on the basis of the wages and self-employment income of an individual entitled to benefits under section 423 of this title, and such law or plan so provided on February 18, 1981.
 
 #### (e) Conditions for payment ####
 
@@ -52,9 +52,9 @@ If it appears to the Commissioner of Social Security that an individual may be e
 
 (1) In the second calendar year after the year in which reduction under this section in the total of an individual's benefits under section 423 of this title and any benefits under section 402 of this title based on his wages and self-employment income was first required (in a continuous period of months), and in each third year thereafter, the Commissioner of Social Security shall redetermine the amount of such benefits which are still subject to reduction under this section; but such redetermination shall not result in any decrease in the total amount of benefits payable under this subchapter on the basis of such individual's wages and self-employment income. Such redetermined benefit shall be determined as of, and shall become effective with, the January following the year in which such redetermination was made.
 
-(2) In making the redetermination required by paragraph (1), the individual's average current earnings (as defined in subsection (a) of this section) shall be deemed to be the product of—
+(2) In making the redetermination required by paragraph (1), the individual's average current earnings (as defined in subsection (a)) shall be deemed to be the product of—
 
-(A) his average current earnings as initially determined under subsection (a) of this section; and
+(A) his average current earnings as initially determined under subsection (a); and
 
 (B) the ratio of (i) the national average wage index (as defined in section 409(k)(1) of this title) for the calendar year before the year in which such redetermination is made to (ii) the national average wage index (as so defined) for the calendar year before the year in which the reduction was first computed (but not counting any reduction made in benefits for a previous period of disability).
 
@@ -116,9 +116,9 @@ Pub. L. 99–272, §12109(a)(2), substituted "all or substantially all of which"
 
 **1981**—Subsec. (a). Pub. L. 97–35, §2208(a)(2)–(4), in provision preceding par. (1) substituted "age of 65" for "age of 62", in par. (2) inserted provisions including periodic benefits under any other law or plan of the United States, a State, a political subdivision, or an instrumentality of two or more States and excluding specified benefits and struck out provision requiring that the Secretary receive notice, in a prior month, of the entitlement for such month, and in par. (4) substituted "such laws or plans" for "the workmen's compensation law or plan".
 
-Subsec. (b). Pub. L. 97–35, §2208(a)(5), substituted "for a total or partial disability under a law or plan described in subsection (a)(2) of this section" for "under a workmen's compensation law or plan".
+Subsec. (b). Pub. L. 97–35, §2208(a)(5), substituted "for a total or partial disability under a law or plan described in subsection (a)(2)" for "under a workmen's compensation law or plan".
 
-Subsec. (d). Pub. L. 97–35, §2208(a)(6), substituted "law or plan described in subsection (a)(2) of this section" for "workmen's compensation law or plan" and "section 423 of this title, and such law or plan so provided on February 18, 1981" for "section 423 of this title".
+Subsec. (d). Pub. L. 97–35, §2208(a)(6), substituted "law or plan described in subsection (a)(2)" for "workmen's compensation law or plan" and "section 423 of this title, and such law or plan so provided on February 18, 1981" for "section 423 of this title".
 
 Subsec. (e). Pub. L. 97–35, §2208(a)(7), struck out "workmen's compensation" after "periodic benefits under a".
 

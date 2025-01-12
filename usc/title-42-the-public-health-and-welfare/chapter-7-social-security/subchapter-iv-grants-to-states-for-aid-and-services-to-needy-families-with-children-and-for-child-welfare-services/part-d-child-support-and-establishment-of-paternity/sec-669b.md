@@ -8,9 +8,9 @@ The Administration for Children and Families shall make grants under this sectio
 
 The amount of the grant to be made to a State under this section for a fiscal year shall be an amount equal to the lesser of—
 
-(1) 90 percent of State expenditures during the fiscal year for activities described in subsection (a) of this section; or
+(1) 90 percent of State expenditures during the fiscal year for activities described in subsection (a); or
 
-(2) the allotment of the State under subsection (c) of this section for the fiscal year.
+(2) the allotment of the State under subsection (c) for the fiscal year.
 
 #### (c) Allotments to States ####
 
@@ -28,7 +28,7 @@ The Administration for Children and Families shall adjust allotments to States u
 
 #### (d) No supplantation of State expenditures for similar activities ####
 
-A State to which a grant is made under this section may not use the grant to supplant expenditures by the State for activities specified in subsection (a) of this section, but shall use the grant to supplement such expenditures at a level at least equal to the level of such expenditures for fiscal year 1995.
+A State to which a grant is made under this section may not use the grant to supplant expenditures by the State for activities specified in subsection (a), but shall use the grant to supplement such expenditures at a level at least equal to the level of such expenditures for fiscal year 1995.
 
 #### (e) State administration ####
 

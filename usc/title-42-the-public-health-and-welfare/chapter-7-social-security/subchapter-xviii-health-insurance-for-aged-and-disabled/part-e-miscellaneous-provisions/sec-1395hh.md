@@ -18,7 +18,7 @@
 
 #### (b) Notice of proposed regulations; public comment ####
 
-(1) Except as provided in paragraph (2), before issuing in final form any regulation under subsection (a) of this section, the Secretary shall provide for notice of the proposed regulation in the Federal Register and a period of not less than 60 days for public comment thereon.
+(1) Except as provided in paragraph (2), before issuing in final form any regulation under subsection (a), the Secretary shall provide for notice of the proposed regulation in the Federal Register and a period of not less than 60 days for public comment thereon.
 
 (2) Paragraph (1) shall not apply where—
 
@@ -34,7 +34,7 @@
 
 (A) are promulgated to carry out this subchapter, but
 
-(B) are not published pursuant to subsection (a)(1) of this section and have not been previously published in a list under this subsection.
+(B) are not published pursuant to subsection (a)(1) and have not been previously published in a list under this subsection.
 
 (2) Effective June 1, 1988, each fiscal intermediary and carrier administering claims for extended care, post-hospital extended care, home health care, and durable medical equipment benefits under this subchapter shall make available to the public all interpretative materials, guidelines, and clarifications of policies which relate to payments for such benefits.
 
@@ -62,7 +62,7 @@
 
 (iii) the guidance was in error;
 
-the provider of services or supplier shall not be subject to any penalty or interest under this subchapter or the provisions of subchapter XI of this chapter insofar as they relate to this subchapter (including interest under a repayment plan under section 1395ddd of this title or otherwise) relating to the provision of such items or service or such claim if the provider of services or supplier reasonably relied on such guidance.
+the provider of services or supplier shall not be subject to any penalty or interest under this subchapter or the provisions of subchapter XI insofar as they relate to this subchapter (including interest under a repayment plan under section 1395ddd of this title or otherwise) relating to the provision of such items or service or such claim if the provider of services or supplier reasonably relied on such guidance.
 
 (B) Subparagraph (A) shall not be construed as preventing the recoupment or repayment (without any additional penalty) relating to an overpayment insofar as the overpayment was solely the result of a clerical or technical operational error.
 
@@ -72,7 +72,7 @@ the provider of services or supplier shall not be subject to any penalty or inte
 
 (2) In preparing a report under paragraph (1), the Secretary shall collect—
 
-(A) information from individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, providers of services, and suppliers and from the Medicare Beneficiary Ombudsman with respect to such areas of inconsistency and conflict; and
+(A) information from individuals entitled to benefits under part A or enrolled under part B, or both, providers of services, and suppliers and from the Medicare Beneficiary Ombudsman with respect to such areas of inconsistency and conflict; and
 
 (B) information from medicare contractors that tracks the nature of written and telephone inquiries.
 

@@ -10,7 +10,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 (1) the State has a plan approved under this part for the fiscal year;
 
-(2) the State is in compliance with subsection (c) of this section for the fiscal year;
+(2) the State is in compliance with subsection (c) for the fiscal year;
 
 (3) the State provides health insurance coverage to any child with special needs (as determined under section 673(c) of this title) for whom there is in effect an adoption assistance agreement between a State and an adoptive parent or parents; and
 
@@ -108,7 +108,7 @@ Payments to a State under this section in a fiscal year shall remain available f
 
 #### (f) Limitations on use of incentive payments ####
 
-A State shall not expend an amount paid to the State under this section except to provide to children or families any service (including post-adoption services) that may be provided under part B of this subchapter or this part, and shall use the amount to supplement, and not supplant, any Federal or non-Federal funds used to provide any service under part B or E. Amounts expended by a State in accordance with the preceding sentence shall be disregarded in determining State expenditures for purposes of Federal matching payments under sections 624, 629d, and 674 of this title.
+A State shall not expend an amount paid to the State under this section except to provide to children or families any service (including post-adoption services) that may be provided under part B or E, and shall use the amount to supplement, and not supplant, any Federal or non-Federal funds used to provide any service under part B or E. Amounts expended by a State in accordance with the preceding sentence shall be disregarded in determining State expenditures for purposes of Federal matching payments under sections 624, 629d, and 674 of this title.
 
 #### (g) Definitions ####
 
@@ -218,7 +218,7 @@ The term "foster child guardianship" means, with respect to a State, the exit of
 
 #### (1) In general ####
 
-For grants under subsection (a) of this section, there are authorized to be appropriated to the Secretary—
+For grants under subsection (a), there are authorized to be appropriated to the Secretary—
 
 (A) $20,000,000 for fiscal year 1999;
 
@@ -230,7 +230,7 @@ For grants under subsection (a) of this section, there are authorized to be appr
 
 #### (2) Availability ####
 
-Amounts appropriated under paragraph (1), or under any other law for grants under subsection (a) of this section, are authorized to remain available until expended, but not after fiscal year 2016.
+Amounts appropriated under paragraph (1), or under any other law for grants under subsection (a), are authorized to remain available until expended, but not after fiscal year 2016.
 
 #### (i) Technical assistance ####
 
@@ -382,7 +382,7 @@ Subsec. (g)(5), (6). Pub. L. 108–145, §3(a)(4)(C), added pars. (5) and (6).
 
 Subsec. (h)(1)(D). Pub. L. 108–145, §3(a)(5)(A), added subpar. (D).
 
-Subsec. (h)(2). Pub. L. 108–145, §3(a)(5)(B), inserted ", or under any other law for grants under subsection (a) of this section," after "(1)" and substituted "2008" for "2003".
+Subsec. (h)(2). Pub. L. 108–145, §3(a)(5)(B), inserted ", or under any other law for grants under subsection (a)," after "(1)" and substituted "2008" for "2003".
 
 Subsec. (i)(4). Pub. L. 108–145, §3(a)(6), substituted "2004 through 2006" for "1998 through 2000".
 

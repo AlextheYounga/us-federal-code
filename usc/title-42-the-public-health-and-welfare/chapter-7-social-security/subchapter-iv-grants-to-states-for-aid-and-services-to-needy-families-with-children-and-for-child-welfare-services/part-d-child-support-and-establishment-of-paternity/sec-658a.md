@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-In addition to any other payment under this part, the Secretary shall, subject to subsection (f) of this section, make an incentive payment to each State for each fiscal year in an amount determined under subsection (b) of this section.
+In addition to any other payment under this part, the Secretary shall, subject to subsection (f), make an incentive payment to each State for each fiscal year in an amount determined under subsection (b).
 
 #### (b) Amount of incentive payment ####
 
@@ -82,7 +82,7 @@ For purposes of subparagraph (A), the State collections base for a fiscal year i
 
 (i) 2 times the sum of—
 
-(I) the total amount of support collected during the fiscal year under the State plan approved under this part in cases in which the support obligation involved is required to be assigned to the State pursuant to part A or E of this subchapter or subchapter XIX of this chapter; and
+(I) the total amount of support collected during the fiscal year under the State plan approved under this part in cases in which the support obligation involved is required to be assigned to the State pursuant to part A or E of this subchapter or subchapter XIX; and
 
 (II) the total amount of support collected during the fiscal year under the State plan approved under this part in cases in which the support obligation involved was so assigned but, at the time of collection, is not required to be so assigned; and
 

@@ -54,7 +54,7 @@ The provisions of this section apply to a covered countermeasure regardless of w
 
 #### (6) Rebuttable presumption ####
 
-For purposes of paragraph (1), there shall be a rebuttable presumption that any administration or use, during the effective period of the emergency declaration by the Secretary under subsection (b) of this section, of a covered countermeasure shall have been for the category or categories of diseases, health conditions, or threats to health with respect to which such declaration was issued.
+For purposes of paragraph (1), there shall be a rebuttable presumption that any administration or use, during the effective period of the emergency declaration by the Secretary under subsection (b), of a covered countermeasure shall have been for the category or categories of diseases, health conditions, or threats to health with respect to which such declaration was issued.
 
 #### (b) Declaration by Secretary ####
 

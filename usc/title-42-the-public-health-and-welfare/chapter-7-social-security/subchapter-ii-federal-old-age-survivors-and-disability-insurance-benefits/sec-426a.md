@@ -18,7 +18,7 @@ shall (subject to the limitations in this section) be deemed, solely for purpose
 
 #### (b) Persons ineligible ####
 
-The provisions of subsection (a) of this section shall not apply to any individual who—
+The provisions of subsection (a) shall not apply to any individual who—
 
 (1) is, at the beginning of the first month in which he meets the requirements of subsection (a), a member of any organization referred to in section 410(a)(17) <sup><a href="#426a_1_target" name="426a_1">1</a></sup> of this title,
 
