@@ -34,7 +34,7 @@ The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Cong
 
 **2018**—Par. (4). Pub. L. 115–334 added par. (4).
 
-**2000**—Par. (4). Pub. L. 106–554, §1(a)(4) [div. B, title I, §153(b)], which directed amendment of "section 382A of 'The Delta Regional Authority Act of 2000' as incorporated in this Act" by adding par. (4), could not be executed because this section is not section 382A of such Act, but rather section 382A of the Consolidated Farm and Rural Development Act, as added by section 503 of the Delta Regional Authority Act of 2000.
+**2000**—Par. (4). Pub. L. 106–554, §1(a)(4) [div. B, title I, §153(b)], which directed amendment of "section 382A of 'The Delta Regional Authority Act of 2000' as incorporated in this Act" by adding par. (4), could not be executed as directed because this section is not section 382A of such Act, but rather section 382A of the Consolidated Farm and Rural Development Act, as added by section 503 of the Delta Regional Authority Act of 2000. Corrected amendment was made by Pub. L. 115–334, effective as if included in Pub. L. 106–554. See 2018 Amendment note above and 2018 Effective Date of 2018 Amendment note below.
 
 #### Effective Date of 2018 Amendment ####
 

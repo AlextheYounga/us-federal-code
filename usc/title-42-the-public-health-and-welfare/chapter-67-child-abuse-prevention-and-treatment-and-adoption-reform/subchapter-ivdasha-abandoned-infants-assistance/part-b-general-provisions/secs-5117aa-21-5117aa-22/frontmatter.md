@@ -1,5 +1,0 @@
-### §§5117aa–21, 5117aa–22. Repealed. Pub. L. 115–271, title VII, §7065(b), Oct. 24, 2018, 132 Stat. 4028 ###
-
-Section 5117aa–21, Pub. L. 100–505, title III, §301, Oct. 18, 1988, 102 Stat. 2537; Pub. L. 108–36, title III, §305(a), June 25, 2003, 117 Stat. 824; Pub. L. 111–320, title IV, §401(c), Dec. 20, 2010, 124 Stat. 3513, provided definitions for this subchapter.
-
-Section 5117aa–22, Pub. L. 100–505, title III, §302, formerly title I, §104, Oct. 18, 1988, 102 Stat. 2536; Pub. L. 102–236, §6, Dec. 12, 1991, 105 Stat. 1815; Pub. L. 104–235, title II, §222, Oct. 3, 1996, 110 Stat. 3092; renumbered title III, §302, and amended Pub. L. 108–36, title III, §304, June 25, 2003, 117 Stat. 824; Pub. L. 111–320, title IV, §401(d), Dec. 20, 2010, 124 Stat. 3513, related to authorization of appropriations.

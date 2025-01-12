@@ -780,7 +780,7 @@ For effective date of section, see section 4 of Pub. L. 92–516, set out as a n
 
 #### Biological Pesticide Handling Study ####
 
-Pub. L. 101–624, title XIV, §1498, Nov. 28, 1990, 104 Stat. 3631, provided that the National Academy of Sciences would conduct a study of the biological control programs and registration procedures utilized by the Food and Drug Administration, the Animal and Plant Health Inspection Service, and the Environmental Protection Agency, and within 1 year after completion of the study, develop and implement a common process for reviewing and approving biological control applications submitted to such agencies and offices based on the study conducted the recommendation of the National Academy of Sciences and other public comment.
+Pub. L. 101–624, title XIV, §1498, Nov. 28, 1990, 104 Stat. 3631, provided that the National Academy of Sciences would conduct a study of the biological control programs and registration procedures utilized by the Food and Drug Administration, the Animal and Plant Health Inspection Service, and the Environmental Protection Agency, and within 1 year after completion of the study, develop and implement a common process for reviewing and approving biological control applications submitted to such agencies and offices based on the study conducted, the recommendation of the National Academy of Sciences, and other public comment.
 
 #### Education, Study, and Report ####
 

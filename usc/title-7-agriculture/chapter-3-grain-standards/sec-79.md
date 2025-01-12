@@ -112,7 +112,7 @@ Official certificates setting out the results of official inspection issued and 
 
 (I) the eligible grain handling facility and the former excepted official agency agree to restore that exception; and
 
-(II) the eligible grain handling facility notifies the Secretary of the preferred date for restoration of the exception within 90 days of enactment of the Agriculture Improvement Act of 2018.
+(II) the eligible grain handling facility notifies the Secretary of the preferred date for restoration of the exception within 90 days of December 20, 2018.
 
 (3) Except as authorized by the Secretary, no official agency or State delegated authority pursuant to subsection (e)(2) of this section shall officially inspect under this chapter any official or other sample drawn from a lot of grain and submitted for inspection unless such lot of grain is physically located within the geographic area assigned to the agency by the Secretary at the time such sample is drawn.
 
@@ -161,10 +161,6 @@ The Secretary is authorized to cause official inspection under this chapter to b
 (5) The duties imposed by paragraph (2) on designated official agencies and State agencies described in such paragraph and the investment authority provided by paragraph (3) shall expire on September 30, 2020. After that date, the fees established by the Secretary pursuant to paragraph (1) shall not cover administrative and supervisory costs related to the official inspection of grain.
 
 (Aug. 11, 1916, ch. 313, pt. B, §7, 39 Stat. 484; Pub. L. 90–487, §1, Aug. 15, 1968, 82 Stat. 763; Pub. L. 94–582, §8, formerly §8(a), Oct. 21, 1976, 90 Stat. 2870, renumbered Pub. L. 106–472, title I, §110(a)(1), Nov. 9, 2000, 114 Stat. 2060; Pub. L. 95–113, title XVI, §§1602(a), 1604(d), 1606(d), Sept. 29, 1977, 91 Stat. 1025, 1027, 1030; Pub. L. 97–35, title I, §155(1), Aug. 13, 1981, 95 Stat. 371; Pub. L. 97–98, title IX, §1113(a), Dec. 22, 1981, 95 Stat. 1268; Pub. L. 98–469, §2(1), Oct. 11, 1984, 98 Stat. 1831; Pub. L. 100–518, §2(1), Oct. 24, 1988, 102 Stat. 2584; Pub. L. 103–156, §§4(a), 5(a), 12(d), 14(a), Nov. 24, 1993, 107 Stat. 1525, 1526, 1528, 1529; Pub. L. 103–354, title II, §293(a)(4), (7), (8), Oct. 13, 1994, 108 Stat. 3237; Pub. L. 106–472, title I, §§102(a), 103(a), Nov. 9, 2000, 114 Stat. 2059, 2060; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–83, §1(a), Sept. 30, 2005, 119 Stat. 2053; Pub. L. 114–54, title III, §301(b)(1)–(3)(A), (4), (5), Sept. 30, 2015, 129 Stat. 517, 518; Pub. L. 115–334, title XII, §12610(a), (c), Dec. 20, 2018, 132 Stat. 5011, 5013.)
-
-#### References in Text ####
-
-Within 90 days of enactment of the Agriculture Improvement Act of 2018, referred to in subsec. (f)(2)(D)(ii)(II), means within 90 days of enactment of Pub. L. 115–334, which was approved December 20, 2018.
 
 #### Codification ####
 
