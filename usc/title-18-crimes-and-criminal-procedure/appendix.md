@@ -3,11 +3,11 @@
 TITLE 18—APPENDIX
 ==========
 
-Item Page
+Item
 
-Unlawful Possession or Receipt of Firearms (Repealed) 809
+Unlawful Possession or Receipt of Firearms (Repealed)
 
-Interstate Agreement on Detainers (Pub. L. 91–538) 810
+Interstate Agreement on Detainers (Pub. L. 91–538)
 
 Classified Information Procedures Act (Pub. L. 96–456)
 
@@ -410,7 +410,7 @@ Effective this 15th day of January, 2011, having taken into account the views of
 
 #### References in Text ####
 
-Executive Order No. 12958, referred to in subsec. (c), which was formerly set out as a note under section 435 of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731, and was reclassified as a note under section 3161 of this title.
+Executive Order No. 12958, referred to in subsec. (c), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Amendments ####
 
@@ -1497,7 +1497,7 @@ The times set in the former rule at 10 or 20 days have been revised to 14 or 21 
 
 (C) An attorney for the government may disclose any grand-jury matter to another federal grand jury.
 
-(D) An attorney for the government may disclose any grand-jury matter involving foreign intelligence, counterintelligence (as defined in 50 U.S.C. §401a <sup><a href="#Rule_6_1_target" name="Rule_6_1">1</a></sup> ), or foreign intelligence information (as defined in Rule 6(e)(3)(D)(iii)) to any federal law enforcement, intelligence, protective, immigration, national defense, or national security official to assist the official receiving the information in the performance of that official's duties. An attorney for the government may also disclose any grand-jury matter involving, within the United States or elsewhere, a threat of attack or other grave hostile acts of a foreign power or its agent, a threat of domestic or international sabotage or terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by its agent, to any appropriate federal, state, state subdivision, Indian tribal, or foreign government official, for the purpose of preventing or responding to such threat or activities.
+(D) An attorney for the government may disclose any grand-jury matter involving foreign intelligence, counterintelligence (as defined in 50 U.S.C. §401a <sup><a href="#Rule_6_1_target" name="Rule_6_1">1</a></sup> ), or foreign intelligence information (as defined in Rule 6(e)(3)(D)(iii)) to any federal law enforcement, intelligence, protective, immigration, national defense, or national security official to assist the official receiving the information in the performance of that official's duties. An attorney for the government may also disclose any grand-jury matter involving, within the United States or elsewhere, a threat of attack or other grave hostile acts of a foreign power or its agent, a threat of domestic or international sabotage or terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by its agent, to any appropriate federal, state, state subdivision, Indian tribal, or foreign government official, for the purpose of preventing or responding to such threat or activities.
 
 (i) Any official who receives information under Rule 6(e)(3)(D) may use the information only as necessary in the conduct of that person's official duties subject to any limitations on the unauthorized disclosure of such information. Any state, state subdivision, Indian tribal, or foreign government official who receives information under Rule 6(e)(3)(D) may use the information only in a manner consistent with any guidelines issued by the Attorney General and the Director of National Intelligence.
 
@@ -4053,7 +4053,7 @@ Prior to restyling in 2002, Rule 16(a)(1)(C) required the government to allow th
 
 With one exception not relevant here, the 2002 restyling of Rule 16 was intended to work no substantive change. Nevertheless, because restyled Rule 16(a)(2) eliminated the enumerated subparagraphs of its successor and contained no express exception for the materials previously covered by Rule 16(a)(1)(C) (redesignated as subparagraph (a)(1)(E)), some courts have been urged to construe the restyled rule as eliminating protection for government work product.
 
-Courts have uniformly declined to construe the restyling changes to Rule 16(a)(2) to effect a substantive alteration in the scope of protection previously afforded to government work product by that rule. Correctly recognizing that restyling was intended to effect no substantive change, courts have invoked the doctrine of the scrivener's error to excuse confusion caused by the elimination of the enumerated subparagraphs from the restyled rules.*See, e.g.*, *United States v. Rudolph*, 224 F.R.D. 503, 504–11 (N.D. Ala. 2004), and *United States v. Fort*, 472 F.3d 1106, 1110 n.2 (9th Cir. 2007) (adopting the *Rudolph* court's analysis).
+Courts have uniformly declined to construe the restyling changes to Rule 16(a)(2) to effect a substantive alteration in the scope of protection previously afforded to government work product by that rule. Correctly recognizing that restyling was intended to effect no substantive change, courts have invoked the doctrine of the scrivener's error to excuse confusion caused by the elimination of the enumerated subparagraphs from the restyled rules. *See, e.g.*, *United States v. Rudolph*, 224 F.R.D. 503, 504–11 (N.D. Ala. 2004), and *United States v. Fort*, 472 F.3d 1106, 1110 n.2 (9th Cir. 2007) (adopting the *Rudolph* court's analysis).
 
 By restoring the enumerated subparagraphs, the amendment makes it clear that a defendant's pretrial access to books, papers, and documents under Rule 16(a)(1)(E) remains subject to the limitations imposed by Rule 16(a)(2).
 

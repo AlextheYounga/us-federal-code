@@ -46,6 +46,8 @@ The Secretary is authorized, upon the request of an Indian tribe, to make a gran
 
 Section 450g of this title, referred to in subsec. (b)(2), was in the original "section 103 of this Act", meaning section 103 of Pub. L. 93–638, the Indian Self-Determination Act. Section 103(a) and (b) and the first sentence of section 103(c) of Pub. L. 93–638 were repealed, and the remainder of section 103(c) of Pub. L. 93–638 was redesignated as section 102(d) of Pub. L. 93–638 (section 450f(d) of this title) by Pub. L. 100–472, title II, §201(b)(1), Oct. 5, 1988, 102 Stat. 2289. Section 104 of Pub. L. 93–638 was renumbered as section 103 of Pub. L. 93–638 by section 202(a) of Pub. L. 100–472, and is classified to this section.
 
+This subchapter, referred to in subsec. (d)(1), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
 #### Prior Provisions ####
 
 A prior section 103 of Pub. L. 93–638 was classified to section 450g of this title and was repealed in part and transferred in part by Pub. L. 100–472, title II, §201(b)(1), Oct. 5, 1988, 102 Stat. 2289.

@@ -13,3 +13,5 @@ At the request of a participating Indian tribe, any other provision of part A of
 #### References in Text ####
 
 Section 314 of Pub. L. 101–512, referred to in subsec. (a), is section 314 of Pub. L. 101–512, as amended, which is set out as a note under section 450f of this title.
+
+Part A of this subchapter, referred to in subsec. (b), was in the original "title I", meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.

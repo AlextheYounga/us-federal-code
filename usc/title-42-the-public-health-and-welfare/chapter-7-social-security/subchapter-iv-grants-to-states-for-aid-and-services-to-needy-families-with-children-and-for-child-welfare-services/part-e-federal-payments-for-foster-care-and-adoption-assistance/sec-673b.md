@@ -1,8 +1,8 @@
-### §673b. Adoption incentive payments ###
+### §673b. Adoption and legal guardianship incentive payments ###
 
 #### (a) Grant authority ####
 
-Subject to the availability of such amounts as may be provided in advance in appropriations Acts for this purpose, the Secretary shall make a grant to each State that is an incentive-eligible State for a fiscal year in an amount equal to the adoption incentive payment payable to the State under this section for the fiscal year, which shall be payable in the immediately succeeding fiscal year.
+Subject to the availability of such amounts as may be provided in advance in appropriations Acts for this purpose, the Secretary shall make a grant to each State that is an incentive-eligible State for a fiscal year in an amount equal to the adoption and legal guardianship incentive payment payable to the State under this section for the fiscal year, which shall be payable in the immediately succeeding fiscal year.
 
 #### (b) Incentive-eligible State ####
 
@@ -10,17 +10,11 @@ A State is an incentive-eligible State for a fiscal year if—
 
 (1) the State has a plan approved under this part for the fiscal year;
 
-(2)(A) the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;
+(2) the State is in compliance with subsection (c) of this section for the fiscal year;
 
-(B) the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year; or
+(3) the State provides health insurance coverage to any child with special needs (as determined under section 673(c) of this title) for whom there is in effect an adoption assistance agreement between a State and an adoptive parent or parents; and
 
-(C) the State's foster child adoption rate for the fiscal year exceeds the highest ever foster child adoption rate determined for the State;
-
-(3) the State is in compliance with subsection (c) of this section for the fiscal year;
-
-(4) the State provides health insurance coverage to any child with special needs (as determined under section 673(c) of this title) for whom there is in effect an adoption assistance agreement between a State and an adoptive parent or parents; and
-
-(5) the fiscal year is any of fiscal years 2008 through 2012.
+(4) the fiscal year is any of fiscal years 2013 through 2015.
 
 #### (c) Data requirements ####
 
@@ -32,121 +26,193 @@ A State is in compliance with this subsection for a fiscal year if the State has
 
 (B) for each succeeding fiscal year that precedes the fiscal year.
 
-#### (2) Determination of numbers of adoptions based on AFCARS data ####
+#### (2) Determination of rates of adoptions and guardianships based on AFCARS data ####
 
-The Secretary shall determine the numbers of foster child adoptions, of special needs adoptions that are not older child adoptions, and of older child adoptions in a State during a fiscal year, and the foster child adoption rate for the State for the fiscal year, for purposes of this section, on the basis of data meeting the requirements of the system established pursuant to section 679 of this title, as reported by the State and approved by the Secretary by August 1 of the succeeding fiscal year.
+The Secretary shall determine each of the rates required to be determined under this section with respect to a State and a fiscal year, on the basis of data meeting the requirements of the system established pursuant to section 679 of this title, as reported by the State and approved by the Secretary by August 1 of the succeeding fiscal year, and, with respect to the determination of the rates related to foster child guardianships, on the basis of information reported to the Secretary under paragraph (12) of subsection (g).
 
 #### (3) No waiver of AFCARS requirements ####
 
 This section shall not be construed to alter or affect any requirement of section 679 of this title or of any regulation prescribed under such section with respect to reporting of data by States, or to waive any penalty for failure to comply with such a requirement.
 
-#### (d) Adoption incentive payment ####
+#### (d) Adoption and legal guardianship incentive payment ####
 
 #### (1) In general ####
 
-Except as provided in paragraphs (2) and (3), the adoption incentive payment payable to a State for a fiscal year under this section shall be equal to the sum of—
+Except as provided in paragraphs (2) and (3), the adoption and legal guardianship incentive payment payable to a State for a fiscal year under this section shall be equal to the sum of—
 
-(A) $4,000, multiplied by the amount (if any) by which the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;
+(A) $5,000, multiplied by the amount (if any) by which—
 
-(B) $4,000, multiplied by the amount (if any) by which the number of special needs adoptions that are not older child adoptions in the State during the fiscal year exceeds the base number of special needs adoptions that are not older child adoptions for the State for the fiscal year; and
+(i) the number of foster child adoptions in the State during the fiscal year; exceeds
 
-(C) $8,000, multiplied by the amount (if any) by which the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year.
+(ii) the product (rounded to the nearest whole number) of—
+
+(I) the base rate of foster child adoptions for the State for the fiscal year; and
+
+(II) the number of children in foster care under the supervision of the State on the last day of the preceding fiscal year;
+
+(B) $7,500, multiplied by the amount (if any) by which—
+
+(i) the number of pre-adolescent child adoptions and pre-adolescent foster child guardianships in the State during the fiscal year; exceeds
+
+(ii) the product (rounded to the nearest whole number) of—
+
+(I) the base rate of pre-adolescent child adoptions and pre-adolescent foster child guardianships for the State for the fiscal year; and
+
+(II) the number of children in foster care under the supervision of the State on the last day of the preceding fiscal year who have attained 9 years of age but not 14 years of age; and
+
+(C) $10,000, multiplied by the amount (if any) by which—
+
+(i) the number of older child adoptions and older foster child guardianships in the State during the fiscal year; exceeds
+
+(ii) the product (rounded to the nearest whole number) of—
+
+(I) the base rate of older child adoptions and older foster child guardianships for the State for the fiscal year; and
+
+(II) the number of children in foster care under the supervision of the State on the last day of the preceding fiscal year who have attained 14 years of age; and
+
+(D) $4,000, multiplied by the amount (if any) by which—
+
+(i) the number of foster child guardianships in the State during the fiscal year; exceeds
+
+(ii) the product (rounded to the nearest whole number) of—
+
+(I) the base rate of foster child guardianships for the State for the fiscal year; and
+
+(II) the number of children in foster care under the supervision of the State on the last day of the preceding fiscal year.
 
 #### (2) Pro rata adjustment if insufficient funds available ####
 
 For any fiscal year, if the total amount of adoption incentive payments otherwise payable under paragraph (1) for a fiscal year exceeds the amount appropriated pursuant to subsection (h) for the fiscal year, the amount of the adoption incentive payment payable to each State under paragraph (1) for the fiscal year shall be—
 
-(A) the amount of the adoption incentive payment that would otherwise be payable to the State under paragraph (1) for the fiscal year; multiplied by
+(A) the amount of the adoption and legal guardianship incentive payment that would otherwise be payable to the State under paragraph (1) for the fiscal year; multiplied by
 
-(B) the percentage represented by the amount so appropriated for the fiscal year, divided by the total amount of adoption incentive payments otherwise payable under paragraph (1) for the fiscal year.
+(B) the percentage represented by the amount so appropriated for the fiscal year, divided by the total amount of adoption and legal guardianship incentive payments otherwise payable under paragraph (1) for the fiscal year.
 
-#### (3) Increased incentive payment for exceeding the highest ever foster child adoption rate ####
+#### (3) Increased adoption and legal guardianship incentive payment for timely adoptions ####
 
 #### (A) In general ####
 
-If—
+If for any of fiscal years 2013 through 2015, the total amount of adoption and legal guardianship incentive payments payable under paragraph (1) of this subsection are less than the amount appropriated under subsection (h) for the fiscal year, then, from the remainder of the amount appropriated for the fiscal year that is not required for such payments (in this paragraph referred to as the "timely adoption award pool"), the Secretary shall increase the adoption incentive payment determined under paragraph (1) for each State that the Secretary determines is a timely adoption award State for the fiscal year by the award amount determined for the fiscal year under subparagraph (C).
 
-(i) for fiscal year 2009 or any fiscal year thereafter the total amount of adoption incentive payments payable under paragraph (1) of this subsection are less than the amount appropriated under subsection (h) for the fiscal year; and
+#### (B) Timely adoption award State defined ####
 
-(ii) a State's foster child adoption rate for that fiscal year exceeds the highest ever foster child adoption rate determined for the State,
+A State is a timely adoption award State for a fiscal year if the Secretary determines that, for children who were in foster care under the supervision of the State at the time of adoptive placement, the average number of months from removal of children from their home to the placement of children in finalized adoptions is less than 24 months.
 
-then the adoption incentive payment otherwise determined under paragraph (1) of this subsection for the State shall be increased, subject to subparagraph (C) of this paragraph, by the amount determined for the State under subparagraph (B) of this paragraph.
+#### (C) Award amount ####
 
-#### (B) Amount of increase ####
+For purposes of subparagraph (A), the award amount determined under this subparagraph with respect to a fiscal year is the amount equal to the timely adoption award pool for the fiscal year divided by the number of timely adoption award States for the fiscal year.
 
-For purposes of subparagraph (A), the amount determined under this subparagraph with respect to a State and a fiscal year is the amount equal to the product of—
+#### (e) 36-month availability of incentive payments ####
 
-(i) $1,000; and
-
-(ii) the excess of—
-
-(I) the number of foster child adoptions in the State in the fiscal year; over
-
-(II) the product (rounded to the nearest whole number) of—
-
-(aa) the highest ever foster child adoption rate determined for the State; and
-
-(bb) the number of children in foster care under the supervision of the State on the last day of the preceding fiscal year.
-
-#### (C) Pro rata adjustment if insufficient funds available ####
-
-For any fiscal year, if the total amount of increases in adoption incentive payments otherwise payable under this paragraph for a fiscal year exceeds the amount available for such increases for the fiscal year, the amount of the increase payable to each State under this paragraph for the fiscal year shall be—
-
-(i) the amount of the increase that would otherwise be payable to the State under this paragraph for the fiscal year; multiplied by
-
-(ii) the percentage represented by the amount so available for the fiscal year, divided by the total amount of increases otherwise payable under this paragraph for the fiscal year.
-
-#### (e) 24-month availability of incentive payments ####
-
-Payments to a State under this section in a fiscal year shall remain available for use by the State for the 24-month period beginning with the month in which the payments are made.
+Payments to a State under this section in a fiscal year shall remain available for use by the State for the 36-month period beginning with the month in which the payments are made.
 
 #### (f) Limitations on use of incentive payments ####
 
-A State shall not expend an amount paid to the State under this section except to provide to children or families any service (including post-adoption services) that may be provided under part B of this subchapter or this part. Amounts expended by a State in accordance with the preceding sentence shall be disregarded in determining State expenditures for purposes of Federal matching payments under sections 624, 629d, and 674 of this title.
+A State shall not expend an amount paid to the State under this section except to provide to children or families any service (including post-adoption services) that may be provided under part B of this subchapter or this part, and shall use the amount to supplement, and not supplant, any Federal or non-Federal funds used to provide any service under part B or E. Amounts expended by a State in accordance with the preceding sentence shall be disregarded in determining State expenditures for purposes of Federal matching payments under sections 624, 629d, and 674 of this title.
 
 #### (g) Definitions ####
 
 As used in this section:
 
-#### (1) Foster child adoption ####
-
-The term "foster child adoption" means the final adoption of a child who, at the time of adoptive placement, was in foster care under the supervision of the State.
-
-#### (2) Special needs adoption ####
-
-The term "special needs adoption" means the final adoption of a child for whom an adoption assistance agreement is in effect under section 673 of this title.
-
-#### (3) Base number of foster child adoptions ####
-
-The term "base number of foster child adoptions for a State" means, with respect to any fiscal year, the number of foster child adoptions in the State in fiscal year 2007.
-
-#### (4) Base number of special needs adoptions that are not older child adoptions ####
-
-The term "base number of special needs adoptions that are not older child adoptions for a State" means, with respect to any fiscal year, the number of special needs adoptions that are not older child adoptions in the State in fiscal year 2007.
-
-#### (5) Base number of older child adoptions ####
-
-The term "base number of older child adoptions for a State" means, with respect to any fiscal year, the number of older child adoptions in the State in fiscal year 2007.
-
-#### (6) Older child adoptions ####
-
-The term "older child adoptions" means the final adoption of a child who has attained 9 years of age if—
-
-(A) at the time of the adoptive placement, the child was in foster care under the supervision of the State; or
-
-(B) an adoption assistance agreement was in effect under section 673 of this title with respect to the child.
-
-#### (7) Highest ever foster child adoption rate ####
-
-The term "highest ever foster child adoption rate" means, with respect to any fiscal year, the highest foster child adoption rate determined for any fiscal year in the period that begins with fiscal year 2002 and ends with the preceding fiscal year.
-
-#### (8) Foster child adoption rate ####
+#### (1) Foster child adoption rate ####
 
 The term "foster child adoption rate" means, with respect to a State and a fiscal year, the percentage determined by dividing—
 
 (A) the number of foster child adoptions finalized in the State during the fiscal year; by
 
 (B) the number of children in foster care under the supervision of the State on the last day of the preceding fiscal year.
+
+#### (2) Base rate of foster child adoptions ####
+
+The term "base rate of foster child adoptions" means, with respect to a State and a fiscal year, the lesser of—
+
+(A) the foster child adoption rate for the State for the then immediately preceding fiscal year; or
+
+(B) the foster child adoption rate for the State for the average of the then immediately preceding 3 fiscal years.
+
+#### (3) Foster child adoption ####
+
+The term "foster child adoption" means the final adoption of a child who, at the time of adoptive placement, was in foster care under the supervision of the State.
+
+#### (4) Pre-adolescent child adoption and pre-adolescent foster child guardianship rate ####
+
+The term "pre-adolescent child adoption and pre-adolescent foster child guardianship rate" means, with respect to a State and a fiscal year, the percentage determined by dividing—
+
+(A) the number of pre-adolescent child adoptions and pre-adolescent foster child guardianships finalized in the State during the fiscal year; by
+
+(B) the number of children in foster care under the supervision of the State on the last day of the preceding fiscal year, who have attained 9 years of age but not 14 years of age.
+
+#### (5) Base rate of pre-adolescent child adoptions and pre-adolescent foster child guardianships ####
+
+The term "base rate of pre-adolescent child adoptions and pre-adolescent foster child guardianships" means, with respect to a State and a fiscal year, the lesser of—
+
+(A) the pre-adolescent child adoption and pre-adolescent foster child guardianship rate for the State for the then immediately preceding fiscal year; or
+
+(B) the pre-adolescent child adoption and pre-adolescent foster child guardianship rate for the State for the average of the then immediately preceding 3 fiscal years.
+
+#### (6) Pre-adolescent child adoption and pre-adolescent foster child guardianship ####
+
+The term "pre-adolescent child adoption and pre-adolescent foster child guardianship" means the final adoption, or the placement into foster child guardianship (as defined in paragraph (12)) of a child who has attained 9 years of age but not 14 years of age if—
+
+(A) at the time of the adoptive or foster child guardianship placement, the child was in foster care under the supervision of the State; or
+
+(B) an adoption assistance agreement was in effect under section 673(a) of this title with respect to the child.
+
+#### (7) Older child adoption and older foster child guardianship rate ####
+
+The term "older child adoption and older foster child guardianship rate" means, with respect to a State and a fiscal year, the percentage determined by dividing—
+
+(A) the number of older child adoptions and older foster child guardianships finalized in the State during the fiscal year; by
+
+(B) the number of children in foster care under the supervision of the State on the last day of the preceding fiscal year, who have attained 14 years of age.
+
+#### (8) Base rate of older child adoptions and older foster child guardianships ####
+
+The term "base rate of older child adoptions and older foster child guardianships" means, with respect to a State and a fiscal year, the lesser of—
+
+(A) the older child adoption and older foster child guardianship rate for the State for the then immediately preceding fiscal year; or
+
+(B) the older child adoption and older foster child guardianship rate for the State for the average of the then immediately preceding 3 fiscal years.
+
+#### (9) Older child adoption and older foster child guardianship ####
+
+The term "older child adoption and older foster child guardianship" means the final adoption, or the placement into foster child guardianship (as defined in paragraph (12)) of a child who has attained 14 years of age if—
+
+(A) at the time of the adoptive or foster child guardianship placement, the child was in foster care under the supervision of the State; or
+
+(B) an adoption assistance agreement was in effect under section 673(a) of this title with respect to the child.
+
+#### (10) Foster child guardianship rate ####
+
+The term "foster child guardianship rate" means, with respect to a State and a fiscal year, the percentage determined by dividing—
+
+(A) the number of foster child guardianships occurring in the State during the fiscal year; by
+
+(B) the number of children in foster care under the supervision of the State on the last day of the preceding fiscal year.
+
+#### (11) Base rate of foster child guardianships ####
+
+The term "base rate of foster child guardianships" means, with respect to a State and a fiscal year, the lesser of—
+
+(A) the foster child guardianship rate for the State for the then immediately preceding fiscal year; or
+
+(B) the foster child guardianship rate for the State for the average of the then immediately preceding 3 fiscal years.
+
+#### (12) Foster child guardianship ####
+
+The term "foster child guardianship" means, with respect to a State, the exit of a child from foster care under the responsibility of the State to live with a legal guardian, if the State has reported to the Secretary—
+
+(A) that the State agency has determined that—
+
+(i) the child has been removed from his or her home pursuant to a voluntary placement agreement or as a result of a judicial determination to the effect that continuation in the home would be contrary to the welfare of the child;
+
+(ii) being returned home or adopted are not appropriate permanency options for the child;
+
+(iii) the child demonstrates a strong attachment to the prospective legal guardian, and the prospective legal guardian has a strong commitment to caring permanently for the child; and
+
+(iv) if the child has attained 14 years of age, the child has been consulted regarding the legal guardianship arrangement; or
+
+(B) the alternative procedures used by the State to determine that legal guardianship is the appropriate option for the child.
 
 #### (h) Limitations on authorization of appropriations ####
 
@@ -160,11 +226,11 @@ For grants under subsection (a) of this section, there are authorized to be appr
 
 (C) $20,000,000 for each of fiscal years 2001 through 2003; and
 
-(D) $43,000,000 for each of fiscal years 2004 through 2013.
+(D) $43,000,000 for each of fiscal years 2004 through 2016.
 
 #### (2) Availability ####
 
-Amounts appropriated under paragraph (1), or under any other law for grants under subsection (a) of this section, are authorized to remain available until expended, but not after fiscal year 2013.
+Amounts appropriated under paragraph (1), or under any other law for grants under subsection (a) of this section, are authorized to remain available until expended, but not after fiscal year 2016.
 
 #### (i) Technical assistance ####
 
@@ -196,9 +262,51 @@ Not less than 50 percent of any amount appropriated pursuant to paragraph (4) sh
 
 To carry out this subsection, there are authorized to be appropriated to the Secretary of Health and Human Services not to exceed $10,000,000 for each of fiscal years 2004 through 2006.
 
-(Aug. 14, 1935, ch. 531, title IV, §473A, as added Pub. L. 105–89, title II, §201(a), Nov. 19, 1997, 111 Stat. 2122; amended Pub. L. 105–200, title IV, §410(f), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title I, §131, Dec. 14, 1999, 113 Stat. 1830; Pub. L. 108–145, §3(a), Dec. 2, 2003, 117 Stat. 1879; Pub. L. 109–288, §6(f)(7), Sept. 28, 2006, 120 Stat. 1248; Pub. L. 110–351, title IV, §401, Oct. 7, 2008, 122 Stat. 3973.)
+(Aug. 14, 1935, ch. 531, title IV, §473A, as added Pub. L. 105–89, title II, §201(a), Nov. 19, 1997, 111 Stat. 2122; amended Pub. L. 105–200, title IV, §410(f), July 16, 1998, 112 Stat. 673; Pub. L. 106–169, title I, §131, Dec. 14, 1999, 113 Stat. 1830; Pub. L. 108–145, §3(a), Dec. 2, 2003, 117 Stat. 1879; Pub. L. 109–288, §6(f)(7), Sept. 28, 2006, 120 Stat. 1248; Pub. L. 110–351, title IV, §401, Oct. 7, 2008, 122 Stat. 3973; Pub. L. 113–183, title II, §§201—205, Sept. 29, 2014, 128 Stat. 1935—1939.)
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–183, §203(a), amended section catchline generally. Prior to amendment, catchline read as follows: "Adoption incentive payments".
+
+Subsec. (a). Pub. L. 113–183, §203(b)(1), inserted "and legal guardianship" after "adoption".
+
+Subsec. (b)(2) to (4). Pub. L. 113–183, §202(a), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows:
+
+"(2)(A) the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;
+
+"(B) the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year; or
+
+"(C) the State's foster child adoption rate for the fiscal year exceeds the highest ever foster child adoption rate determined for the State;".
+
+Subsec. (b)(5). Pub. L. 113–183, §202(a), redesignated par. (5) as (4).
+
+Pub. L. 113–183, §201(1), substituted "2013 through 2015" for "2008 through 2012".
+
+Subsec. (c)(2). Pub. L. 113–183, §202(b), substituted "rates of adoptions and guardianships" for "numbers of adoptions" in heading, substituted "each of the rates required to be determined under this section with respect to a State and a fiscal year," for "the numbers of foster child adoptions, of special needs adoptions that are not older child adoptions, and of older child adoptions in a State during a fiscal year, and the foster child adoption rate for the State for the fiscal year, for purposes of this section," in text, and inserted before period at end ", and, with respect to the determination of the rates related to foster child guardianships, on the basis of information reported to the Secretary under paragraph (12) of subsection (g)".
+
+Subsec. (d). Pub. L. 113–183, §203(b)(2), inserted "and legal guardianship" after "Adoption" in heading.
+
+Subsec. (d)(1). Pub. L. 113–183, §203(b)(1), inserted "and legal guardianship" after "adoption" in introductory provisions.
+
+Subsec. (d)(1)(A) to (D). Pub. L. 113–183, §202(c)(1), added subpars. (A) to (D) and struck out formers subpars. (A) to (C) which read as follows:
+
+"(A) $4,000, multiplied by the amount (if any) by which the number of foster child adoptions in the State during the fiscal year exceeds the base number of foster child adoptions for the State for the fiscal year;
+
+"(B) $4,000, multiplied by the amount (if any) by which the number of special needs adoptions that are not older child adoptions in the State during the fiscal year exceeds the base number of special needs adoptions that are not older child adoptions for the State for the fiscal year; and
+
+"(C) $8,000, multiplied by the amount (if any) by which the number of older child adoptions in the State during the fiscal year exceeds the base number of older child adoptions for the State for the fiscal year."
+
+Subsec. (d)(2)(A), (B). Pub. L. 113–183, §203(b)(1), inserted "and legal guardianship" after "adoption".
+
+Subsec. (d)(3). Pub. L. 113–183, §202(c)(2), added par. (3) and struck out former par. (3) which related to increased incentive payment for exceeding the highest ever foster child adoption rate.
+
+Subsec. (e). Pub. L. 113–183, §205, substituted "36-month" for "24-month" in heading and text.
+
+Subsec. (f). Pub. L. 113–183, §204, inserted ", and shall use the amount to supplement, and not supplant, any Federal or non-Federal funds used to provide any service under part B or E" before period in the first sentence.
+
+Subsec. (g)(1) to (12). Pub. L. 113–183, §202(d), added pars. (1) to (12) and struck out former pars. (1) to (8) which defined "foster child adoption", "special needs adoption", "base number of foster child adoptions for a State", "base number of special needs adoptions that are not older child adoptions for a State", "base number of older child adoptions for a State", "older child adoptions", "highest ever foster child adoption rate", and "foster child adoption rate", respectively.
+
+Subsec. (h)(1)(D), (2). Pub. L. 113–183, §201(2), substituted "2016" for "2013".
 
 **2008**—Subsec. (b)(2)(C). Pub. L. 110–351, §401(e)(3)(A), added subpar. (C).
 
@@ -285,6 +393,12 @@ Subsec. (j). Pub. L. 108–145, §3(a)(7), struck out subsec. (j) which related 
 Subsec. (j). Pub. L. 106–169, §131(a), added subsec. (j).
 
 **1998**—Subsec. (c)(2)(B). Pub. L. 105–200 substituted "April 30, 1998" for "November 30, 1997" and "July 1, 1998" for "March 1, 1998".
+
+#### Effective Date of 2014 Amendment ####
+
+Amendment by sections 201 and 205 of Pub. L. 113–183 effective Oct. 1, 2013, see section 210(a) of Pub. L. 113–183, set out as a note under section 671 of this title.
+
+Amendment by sections 202 and 203 of Pub. L. 113–183 effective Oct. 1, 2014, see section 210(b) of Pub. L. 113–183, set out as a note under section 671 of this title.
 
 #### Effective Date of 2008 Amendment ####
 

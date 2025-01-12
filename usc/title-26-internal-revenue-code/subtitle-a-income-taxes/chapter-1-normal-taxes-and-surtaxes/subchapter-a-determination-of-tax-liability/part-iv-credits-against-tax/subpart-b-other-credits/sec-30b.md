@@ -54,143 +54,41 @@ For purposes of subparagraph (A), the 2002 model year city fuel economy with res
 
 (i) In the case of a passenger automobile:
 
-**The 2002**
-
-**model year**
-
-**city**
-
-**If vehicle inertia weight class is:**
-
-**fuel economy**
-
-**is:**
-
- 1,500 or 1,750 lbs
-
-45.2 mpg
-
- 2,000 lbs
-
-39.6 mpg
-
- 2,250 lbs
-
-35.2 mpg
-
- 2,500 lbs
-
-31.7 mpg
-
- 2,750 lbs
-
-28.8 mpg
-
- 3,000 lbs
-
-26.4 mpg
-
- 3,500 lbs
-
-22.6 mpg
-
- 4,000 lbs
-
-19.8 mpg
-
- 4,500 lbs
-
-17.6 mpg
-
- 5,000 lbs
-
-15.9 mpg
-
- 5,500 lbs
-
-14.4 mpg
-
- 6,000 lbs
-
-13.2 mpg
-
- 6,500 lbs
-
-12.2 mpg
-
- 7,000 to 8,500 lbs
-
-11.3 mpg.   
+|**If vehicle inertia weight class is:**|**The 2002 model year city fuel economy is:**|
+|---------------------------------------|---------------------------------------------|
+|          1,500 or 1,750 lbs           |                  45.2 mpg                   |
+|               2,000 lbs               |                  39.6 mpg                   |
+|               2,250 lbs               |                  35.2 mpg                   |
+|               2,500 lbs               |                  31.7 mpg                   |
+|               2,750 lbs               |                  28.8 mpg                   |
+|               3,000 lbs               |                  26.4 mpg                   |
+|               3,500 lbs               |                  22.6 mpg                   |
+|               4,000 lbs               |                  19.8 mpg                   |
+|               4,500 lbs               |                  17.6 mpg                   |
+|               5,000 lbs               |                  15.9 mpg                   |
+|               5,500 lbs               |                  14.4 mpg                   |
+|               6,000 lbs               |                  13.2 mpg                   |
+|               6,500 lbs               |                  12.2 mpg                   |
+|           7,000 to 8,500 lbs          |                  11.3 mpg.                  |
 
 (ii) In the case of a light truck:
 
-**The 2002**
-
-**model year**
-
-**city**
-
-**If vehicle inertia weight class is:**
-
-**fuel economy**
-
-**is:**
-
- 1,500 or 1,750 lbs
-
-39.4 mpg
-
- 2,000 lbs
-
-35.2 mpg
-
- 2,250 lbs
-
-31.8 mpg
-
- 2,500 lbs
-
-29.0 mpg
-
- 2,750 lbs
-
-26.8 mpg
-
- 3,000 lbs
-
-24.9 mpg
-
- 3,500 lbs
-
-21.8 mpg
-
- 4,000 lbs
-
-19.4 mpg
-
- 4,500 lbs
-
-17.6 mpg
-
- 5,000 lbs
-
-16.1 mpg
-
- 5,500 lbs
-
-14.8 mpg
-
- 6,000 lbs
-
-13.7 mpg
-
- 6,500 lbs
-
-12.8 mpg
-
- 7,000 to 8,500 lbs
-
-12.1 mpg.   
+|**If vehicle inertia weight class is:**|**The 2002 model year city fuel economy is:**|
+|---------------------------------------|---------------------------------------------|
+|          1,500 or 1,750 lbs           |                  39.4 mpg                   |
+|               2,000 lbs               |                  35.2 mpg                   |
+|               2,250 lbs               |                  31.8 mpg                   |
+|               2,500 lbs               |                  29.0 mpg                   |
+|               2,750 lbs               |                  26.8 mpg                   |
+|               3,000 lbs               |                  24.9 mpg                   |
+|               3,500 lbs               |                  21.8 mpg                   |
+|               4,000 lbs               |                  19.4 mpg                   |
+|               4,500 lbs               |                  17.6 mpg                   |
+|               5,000 lbs               |                  16.1 mpg                   |
+|               5,500 lbs               |                  14.8 mpg                   |
+|               6,000 lbs               |                  13.7 mpg                   |
+|               6,500 lbs               |                  12.8 mpg                   |
+|          7,000 to 8,500 lbs           |                  12.1 mpg.                  |
 
 #### (C) Vehicle inertia weight class ####
 

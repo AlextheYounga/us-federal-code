@@ -44,19 +44,45 @@ The Secretary of Health and Human Services and the Secretary of State, in consul
 
 #### (c) Designation of United States Central Authority ####
 
-It shall be the responsibility of the Secretary of Health and Human Services to facilitate support enforcement in cases involving residents of the United States and residents of foreign countries that are the subject of a declaration under this section, by activities including—
+It shall be the responsibility of the Secretary of Health and Human Services to facilitate support enforcement in cases involving residents of the United States and residents of foreign reciprocating countries or foreign treaty countries, by activities including—
 
 (1) development of uniform forms and procedures for use in such cases;
 
-(2) notification of foreign reciprocating countries of the State of residence of individuals sought for support enforcement purposes, on the basis of information provided by the Federal Parent Locator Service; and
+(2) notification of foreign reciprocating countries and foreign treaty countries of the State of residence of individuals sought for support enforcement purposes, on the basis of information provided by the Federal Parent Locator Service; and
 
 (3) such other oversight, assistance, and coordination activities as the Secretary may find necessary and appropriate.
 
 #### (d) Effect on other laws ####
 
-States may enter into reciprocal arrangements for the establishment and enforcement of support obligations with foreign countries that are not the subject of a declaration pursuant to subsection (a) of this section, to the extent consistent with Federal law.
+States may enter into reciprocal arrangements for the establishment and enforcement of support obligations with foreign countries that are not foreign reciprocating countries or foreign treaty countries, to the extent consistent with Federal law.
 
-(Aug. 14, 1935, ch. 531, title IV, §459A, as added Pub. L. 104–193, title III, §371(a), Aug. 22, 1996, 110 Stat. 2252.)
+#### (e) References ####
+
+In this part:
+
+#### (1) Foreign reciprocating country ####
+
+The term "foreign reciprocating country" means a foreign country (or political subdivision thereof) with respect to which the Secretary has made a declaration pursuant to subsection (a).
+
+#### (2) Foreign treaty country ####
+
+The term "foreign treaty country" means a foreign country for which the 2007 Family Maintenance Convention is in force.
+
+#### (3) 2007 Family Maintenance Convention ####
+
+The term "2007 Family Maintenance Convention" means the Hague Convention of 23 November 2007 on the International Recovery of Child Support and Other Forms of Family Maintenance.
+
+(Aug. 14, 1935, ch. 531, title IV, §459A, as added Pub. L. 104–193, title III, §371(a), Aug. 22, 1996, 110 Stat. 2252; amended Pub. L. 113–183, title III, §301(d), Sept. 29, 2014, 128 Stat. 1944.)
+
+#### Amendments ####
+
+**2014**—Subsec. (c). Pub. L. 113–183, §301(d)(2)(A), substituted "foreign reciprocating countries or foreign treaty countries" for "foreign countries that are the subject of a declaration under this section" in introductory provisions.
+
+Subsec. (c)(2). Pub. L. 113–183, §301(d)(2)(B), inserted "and foreign treaty countries" after "foreign reciprocating countries".
+
+Subsec. (d). Pub. L. 113–183, §301(d)(3), substituted "foreign reciprocating countries or foreign treaty countries" for "the subject of a declaration pursuant to subsection (a)".
+
+Subsec. (e). Pub. L. 113–183, §301(d)(1), added subsec. (e).
 
 #### Effective Date ####
 

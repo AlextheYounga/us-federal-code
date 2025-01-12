@@ -82,4 +82,8 @@ For the period for which, and to the extent to which, funding is provided under 
 
 (Pub. L. 93–638, title V, §506, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 717.)
 
+#### References in Text ####
+
+Part A of this subchapter, referred to in subsec. (g)(2), (3), was in the original "title I", meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
+
 [<sup>1</sup> So in original.](#458aaa-5_1)

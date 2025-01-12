@@ -86,7 +86,7 @@ Chap. Sec.
 
 #### Positive Law; Citation ####
 
-This title has been made positive law by act Aug. 31, 1954, ch. 1158, §1, 68 Stat. 1012, which provided in part "That title 13 of the United States Code, entitled 'Census' is revised, codified and enacted into law and may , be cited as 'Title 13, United States Code, section—'."
+This title has been made positive law by act Aug. 31, 1954, ch. 1158, §1, 68 Stat. 1012, which provided in part "That title 13 of the United States Code, entitled 'Census', is revised, codified, and enacted into law, and may be cited as 'Title 13, United States Code, section—' ".
 
 #### References to Census Office ####
 

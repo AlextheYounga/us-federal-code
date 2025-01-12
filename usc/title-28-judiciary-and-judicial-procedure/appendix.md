@@ -3,7 +3,7 @@
 TITLE 28—APPENDIX
 ==========
 
-Item Page
+Item
 
 Judicial Personnel Financial Disclosure Requirements (Repealed) 1
 
@@ -1834,7 +1834,7 @@ When Rule 23 was adopted it used the same language as Supreme Court Rule 49, whi
 
 (1) in an appeal from the United States Tax Court; and
 
-(2)	when an appeal or review of a proceeding before an administrative agency, board, commission, or officer proceeds directly in the court of appeals.
+(2) when an appeal or review of a proceeding before an administrative agency, board, commission, or officer proceeds directly in the court of appeals.
 
 (c) Leave to Use Original Record. A party allowed to proceed on appeal in forma pauperis may request that the appeal be heard on the original record without reproducing any part.
 
@@ -11063,13 +11063,13 @@ Amendment of this rule embraced by the order entered by the Supreme Court of the
 
 (2) *Service in the United States.* A subpoena may be served at any place within the United States.
 
-(3) *Service in a Foreign Country.* 28 U.S.C. §1783 governs issuing and serving a subpoena directed to a United States national or resident who is in a foreign country.
+(3) *Service in a Foreign Country.* 28 U.S.C. §1783 governs issuing and serving a subpoena directed to a United States national or resident who is in a foreign country.
 
 (4) *Proof of Service.* Proving service, when necessary, requires filing with the issuing court a statement showing the date and manner of service and the names of the persons served. The statement must be certified by the server.
 
 (c) Place of Compliance.
 
-(1)*For a Trial, Hearing, or Deposition.* A subpoena may command a person to attend a trial, hearing, or deposition only as follows:
+(1) *For a Trial, Hearing, or Deposition.* A subpoena may command a person to attend a trial, hearing, or deposition only as follows:
 
 (A) within 100 miles of where the person resides, is employed, or regularly transacts business in person; or
 
@@ -11095,7 +11095,7 @@ Amendment of this rule embraced by the order entered by the Supreme Court of the
 
 (B) *Objections.* A person commanded to produce documents or tangible things or to permit inspection may serve on the party or attorney designated in the subpoena a written objection to inspecting, copying, testing, or sampling any or all of the materials or to inspecting the premises—or to producing electronically stored information in the form or forms requested. The objection must be served before the earlier of the time specified for compliance or 14 days after the subpoena is served. If an objection is made, the following rules apply:
 
-(i)	At any time, on notice to the commanded person, the serving party may move the court for the district where compliance is required for an order compelling production or inspection.
+(i) At any time, on notice to the commanded person, the serving party may move the court for the district where compliance is required for an order compelling production or inspection.
 
 (ii) These acts may be required only as directed in the order, and the order must protect a person who is neither a party nor a party's officer from significant expense resulting from compliance.
 
@@ -11121,7 +11121,7 @@ Amendment of this rule embraced by the order entered by the Supreme Court of the
 
 (i) shows a substantial need for the testimony or material that cannot be otherwise met without undue hardship; and
 
-(ii)	ensures that the subpoenaed person will be reasonably compensated.
+(ii) ensures that the subpoenaed person will be reasonably compensated.
 
 (e) Duties in Responding to a Subpoena.
 

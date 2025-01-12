@@ -37,3 +37,7 @@ The lack of promulgated regulations shall not limit the effect of this part.
 Unless expressly agreed to by the participating Indian tribe in the compact or funding agreement, the participating Indian tribe shall not be subject to any agency circular, policy, manual, guidance, or rule adopted by the Indian Health Service, except for the eligibility provisions of section 450j(g) of this title and regulations promulgated under this section.
 
 (Pub. L. 93–638, title V, §517, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 730.)
+
+#### References in Text ####
+
+This subchapter, referred to in subsec. (b)(1), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.

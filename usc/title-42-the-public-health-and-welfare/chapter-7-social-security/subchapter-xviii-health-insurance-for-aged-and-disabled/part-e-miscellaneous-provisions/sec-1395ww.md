@@ -2264,7 +2264,7 @@ The Secretary shall adjust the proportion (as estimated by the Secretary from ti
 
 #### (i) In general ####
 
-For purposes of fiscal year 2014 and each subsequent fiscal year, in the case of a rehabilitation facility that does not submit data to the Secretary in accordance with subparagraph (C) with respect to such a fiscal year, after determining the increase factor described in paragraph (3)(C), and after application of paragraph (3)(D), the Secretary shall reduce such increase factor for payments for discharges occurring during such fiscal year by 2 percentage points.
+For purposes of fiscal year 2014 and each subsequent fiscal year, in the case of a rehabilitation facility that does not submit data to the Secretary in accordance with subparagraphs (C) and (F) with respect to such a fiscal year, after determining the increase factor described in paragraph (3)(C), and after application of paragraph (3)(D), the Secretary shall reduce such increase factor for payments for discharges occurring during such fiscal year by 2 percentage points.
 
 #### (ii) Special rule ####
 
@@ -2276,7 +2276,7 @@ Any reduction under subparagraph (A) shall apply only with respect to the fiscal
 
 #### (C) Submission of quality data ####
 
-For fiscal year 2014 and each subsequent rate year, each rehabilitation facility shall submit to the Secretary data on quality measures specified under subparagraph (D). Such data shall be submitted in a form and manner, and at a time, specified by the Secretary for purposes of this subparagraph.
+Subject to subparagraph (G), for fiscal year 2014 and each subsequent fiscal year, each rehabilitation facility shall submit to the Secretary data on quality measures specified under subparagraph (D). Such data shall be submitted in a form and manner, and at a time, specified by the Secretary for purposes of this subparagraph.
 
 #### (D) Quality measures ####
 
@@ -2294,7 +2294,25 @@ Not later than October 1, 2012, the Secretary shall publish the measures selecte
 
 #### (E) Public availability of data submitted ####
 
-The Secretary shall establish procedures for making data submitted under subparagraph (C) available to the public. Such procedures shall ensure that a rehabilitation facility has the opportunity to review the data that is to be made public with respect to the facility prior to such data being made public. The Secretary shall report quality measures that relate to services furnished in inpatient settings in rehabilitation facilities on the Internet website of the Centers for Medicare & Medicaid Services.
+The Secretary shall establish procedures for making data submitted under subparagraph (C) and subparagraph (F)(i) available to the public. Such procedures shall ensure that a rehabilitation facility has the opportunity to review the data that is to be made public with respect to the facility prior to such data being made public. The Secretary shall report quality measures that relate to services furnished in inpatient settings in rehabilitation facilities on the Internet website of the Centers for Medicare & Medicaid Services.
+
+#### (F) Submission of additional data ####
+
+#### (i) In general ####
+
+For the fiscal year beginning on the specified application date (as defined in subsection (a)(2)(E) of section 1395lll of this title), as applicable with respect to inpatient rehabilitation facilities and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, and each subsequent fiscal year, in addition to such data on the quality measures described in subparagraph (C), each rehabilitation facility shall submit to the Secretary data on the quality measures under such subsection (c)(1) and any necessary data specified by the Secretary under such subsection (d)(1).
+
+#### (ii) Standardized patient assessment data ####
+
+For fiscal year 2019 and each subsequent fiscal year, in addition to such data described in clause (i), each rehabilitation facility shall submit to the Secretary standardized patient assessment data required under subsection (b)(1) of section 1395lll of this title.
+
+#### (iii) Submission ####
+
+Such data shall be submitted in the form and manner, and at the time, specified by the Secretary for purposes of this subparagraph.
+
+#### (G) Non-duplication ####
+
+To the extent data submitted under subparagraph (F) duplicates other data required to be submitted under subparagraph (C), the submission of such data under subparagraph (F) shall be in lieu of the submission of such data under subparagraph (C). The previous sentence shall not apply insofar as the Secretary determines it is necessary to avoid a delay in the implementation of section 1395lll of this title, taking into account the different specified application dates under subsection (a)(2)(E) of such section.
 
 #### (8) Limitation on review ####
 
@@ -2398,7 +2416,7 @@ For purposes of paragraph (3)(A)(ii), the other adjustment described in this par
 
 #### (i) In general ####
 
-Under the system described in paragraph (1), for rate year 2014 and each subsequent rate year, in the case of a long-term care hospital that does not submit data to the Secretary in accordance with subparagraph (C) with respect to such a rate year, any annual update to a standard Federal rate for discharges for the hospital during the rate year, and after application of paragraph (3), shall be reduced by 2 percentage points.
+Under the system described in paragraph (1), for rate year 2014 and each subsequent rate year, in the case of a long-term care hospital that does not submit data to the Secretary in accordance with subparagraphs (C) and (F) with respect to such a rate year, any annual update to a standard Federal rate for discharges for the hospital during the rate year, and after application of paragraph (3), shall be reduced by 2 percentage points.
 
 #### (ii) Special rule ####
 
@@ -2410,7 +2428,7 @@ Any reduction under subparagraph (A) shall apply only with respect to the rate y
 
 #### (C) Submission of quality data ####
 
-For rate year 2014 and each subsequent rate year, each long-term care hospital shall submit to the Secretary data on quality measures specified under subparagraph (D). Such data shall be submitted in a form and manner, and at a time, specified by the Secretary for purposes of this subparagraph.
+Subject to subparagraph (G), for rate year 2014 and each subsequent rate year, each long-term care hospital shall submit to the Secretary data on quality measures specified under subparagraph (D). Such data shall be submitted in a form and manner, and at a time, specified by the Secretary for purposes of this subparagraph.
 
 #### (D) Quality measures ####
 
@@ -2432,7 +2450,25 @@ Not later than October 1, 2015, the Secretary shall establish a functional statu
 
 #### (E) Public availability of data submitted ####
 
-The Secretary shall establish procedures for making data submitted under subparagraph (C) available to the public. Such procedures shall ensure that a long-term care hospital has the opportunity to review the data that is to be made public with respect to the hospital prior to such data being made public. The Secretary shall report quality measures that relate to services furnished in inpatient settings in long-term care hospitals on the Internet website of the Centers for Medicare & Medicaid Services.
+The Secretary shall establish procedures for making data submitted under subparagraph (C) and subparagraph (F)(i) available to the public. Such procedures shall ensure that a long-term care hospital has the opportunity to review the data that is to be made public with respect to the hospital prior to such data being made public. The Secretary shall report quality measures that relate to services furnished in inpatient settings in long-term care hospitals on the Internet website of the Centers for Medicare & Medicaid Services.
+
+#### (F) Submission of additional data ####
+
+#### (i) In general ####
+
+For the rate year beginning on the specified application date (as defined in subsection (a)(2)(E) of 1395lll of this title), as applicable with respect to long-term care hospitals and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, and each subsequent rate year, in addition to the data on the quality measures described in subparagraph (C), each long-term care hospital (other than a hospital classified under subsection (d)(1)(B)(iv)(II)) shall submit to the Secretary data on the quality measures under such subsection (c)(1) and any necessary data specified by the Secretary under such subsection (d)(1).
+
+#### (ii) Standardized patient assessment data ####
+
+For rate year 2019 and each subsequent rate year, in addition to such data described in clause (i), each long-term care hospital (other than a hospital classified under subsection (d)(1)(B)(iv)(II)) shall submit to the Secretary standardized patient assessment data required under subsection (b)(1) of section 1395lll of this title.
+
+#### (iii) Submission ####
+
+Such data shall be submitted in the form and manner, and at the time, specified by the Secretary for purposes of this subparagraph.
+
+#### (G) Non-duplication ####
+
+To the extent data submitted under subparagraph (F) duplicates other data required to be submitted under subparagraph (C), the submission of such data under subparagraph (F) shall be in lieu of the submission of such data under subparagraph (C). The previous sentence shall not apply insofar as the Secretary determines it is necessary to avoid a delay in the implementation of section 1395lll of this title, taking into account the different specified application dates under subsection (a)(2)(E) of such section.
 
 #### (6) Application of site neutral IPPS payment rate in certain cases ####
 
@@ -3364,7 +3400,7 @@ Not later than October 1, 2012, the Secretary shall publish the measures selecte
 
 The Secretary shall establish procedures for making data submitted under subparagraph (C) available to the public. Such procedures shall ensure that a psychiatric hospital and a psychiatric unit has the opportunity to review the data that is to be made public with respect to the hospital or unit prior to such data being made public. The Secretary shall report quality measures that relate to services furnished in inpatient settings in psychiatric hospitals and psychiatric units on the Internet website of the Centers for Medicare & Medicaid Services.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1886, as added and amended Pub. L. 97–248, title I, §§101(a)(1), 110, Sept. 3, 1982, 96 Stat. 331, 339; Pub. L. 97–448, title III, §309(b)(13)–(15), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §601(a)(1), (2), (b), (c), (d)(2), (e), Apr. 20, 1983, 97 Stat. 149, 150, 152; Pub. L. 98–369, div. B, title III, §§2307(b)(1), 2310(a), 2311(a)–(c), 2312(a), (b), 2313(a), (b), (d), 2315(a)–(c), 2354(b)(42)–(44), July 18, 1984, 98 Stat. 1073, 1075–1080, 1102; Pub. L. 98–617, §3(b)(9), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–272, title IX, §§9101(b), (c), 9102(a)–(c), 9104(a), (b), 9105(a)–(c), 9106(a), 9107(a), 9109(a), 9111(a), 9127(a), 9202(a), Apr. 7, 1986, 100 Stat. 153–155, 157–162, 170, 171; Pub. L. 99–349, title II, §206, July 2, 1986, 100 Stat. 749; Pub. L. 99–509, title IX, §§9302(a)(1), (2), (b)(1), (c), (d)(1)(A), (e), 9303, 9304(a)–(c), 9306(a)–(c), 9307(c)(1), 9314(a), 9320(g), 9321(e)(2), Oct. 21, 1986, 100 Stat. 1982–1985, 1988, 1995, 2005, 2015, 2018; Pub. L. 99–514, §2, title XVIII, §1895(b)(1)(A)–(C), (2)(A)–(C), (3), (9), Oct. 22, 1986, 100 Stat. 2095, 2931–2933; Pub. L. 100–93, §8(c)(4), Aug. 18, 1987, 101 Stat. 693; Pub. L. 100–203, title IV, §§4002(a)–(f)(1), 4003(a)–(c), 4004(a), 4005(a)(1), (c)(1), (d)(1)(A), 4006(a)–(b)(2), 4007(b)(1), 4009(d)(1), (j)(1)–(6)(B), 4083(b)(1), Dec. 22, 1987, 101 Stat. 1330–42 to 1330–44, 1330–46, 1330–47, 1330–49, 1330–52, 1330–53, 1330–57 to 1330–59, 1330–129, as amended Pub. L. 100–360, title IV, §411(b)(1)(E), (3), (4)(C)(i), (5)(B), (6)(B), (8)(B), July 1, 1988, 102 Stat. 769, 770, 772; Pub. L. 100–360, title IV, §411(b)(1)(A)–(D), (F)–(H)(i), (4)(A), (B), (5)(A), July 1, 1988, 102 Stat. 768–770; Pub. L. 100–485, title VI, §608(d)(18)(A), (B), Oct. 13, 1988, 102 Stat. 2418; Pub. L. 100–647, title I, §1018(r)(1), title VIII, §§8401, 8403(a), Nov. 10, 1988, 102 Stat. 3586, 3798; Pub. L. 101–234, title III, §301(b)(3), (c)(3), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §§6002, 6003(a)(1), (b)–(c)(3), (e)(1), (2)(B)–(E), (f), (g)(2), (4)–(h)(4), (6), 6004(a)(1), (2), (b)(1), 6011(a), 6015(a), 6022, Dec. 19, 1989, 103 Stat. 2140–2144, 2151, 2154–2157, 2159–2161, 2164, 2167; Pub. L. 101–403, title I, §115(b)(1), Oct. 1, 1990, 104 Stat. 870; Pub. L. 101–508, title IV, §§4001, 4002(a)(1), (b)(1)–(4), (c)(1), (2), (e)(1), (g)(1), (2), (h)(1)(A), (2)(B), 4003(a), 4005(a)(1), (c)(1)(B), (2), 4008(f)(1), (m)(2)(A), Nov. 5, 1990, 104 Stat. 1388–31 to 1388–38, 1388–40, 1388–42, 1388–45, 1388–53; Pub. L. 103–66, title XIII, §§13501(a), (b)(1), (c), (e)(1), (f), 13502, 13506, 13563(a), (b)(1), (c)(1), Aug. 10, 1993, 107 Stat. 572, 574, 575, 577, 579, 605; Pub. L. 103–432, title I, §§101(a)(1), (b), (c), 102(b)(1)(B), 105, 108–110(a), (c), 153(a), Oct. 31, 1994, 108 Stat. 4400–4402, 4405, 4407, 4408, 4437; Pub. L. 105–33, title IV, §§4022(b)(1)(A), 4201(c)(1), (4), 4202(a), 4204(a)(1), (2), 4401(a), 4402, 4403(a), 4405(a)–(c), 4406, 4407, 4411–4415(c), 4416, 4417(a)(1), (b)(1), 4418(a), 4419(a)(1), 4421(a), (b), 4621–4626(a), 4627(a), 4644(a)(1), (b)(1), (c)(1), Aug. 5, 1997, 111 Stat. 354, 373–375, 397, 398, 400, 401, 403–410, 413, 475–480, 483, 488; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§111(a), (c), 112(a), 121(a), 122, 125(a), title III, §§311, 312(a), 321(b), (e), (f), (h), (k)(15)–(17), title IV, §§401(a), 402(a), 404(a), (b)(1), 405–407(a)(2), (b)(1), (2), (c)(1), title V, §541], Nov. 29, 1999, 113 Stat. 1536, 1501A–329 to 1501A–332, 1501A–362 to 150A–366, 1501A–368, 1501A–369, 1501A–372 to 1501A–374, 1501A–391; Pub. L. 106–554, §1(a)(4) [div. B, title I, §152(a), (b)], §1(a)(6) [title II, §§211, 212(a), 213(a), title III, §§301(a), (e)(1), 302(a), (c), (d), 303(a), (c), (d)(1), 304(a), (c)(2), 305(a), (b), 307(a)(1), title V, §§511, 512(a), 533(b)(1), (3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, 2763A–252, 2763A–483, 2763A–485, 2763A–491 to 2763A–496, 2763A–533, 2763A–548, 2763A–550; Pub. L. 108–173, title IV, §§401(a)–(c), 402, 403, 406, 407(a), 422(a), (b)(1), title V, §§501(a), (b), 502(a), (b), 503(a)–(d)(1), 504, 505(a), title VII, §§711, 736(a)(9), (15), (c)(6), Dec. 8, 2003, 117 Stat. 2262–2265, 2269, 2270, 2284, 2286, 2289–2293, 2340, 2355, 2356; Pub. L. 109–171, title V, §§5001(a), (c), 5002(a), 5003(a)(1), (2)(A), (b)–(d), Feb. 8, 2006, 120 Stat. 28, 30–32; Pub. L. 109–432, div. B, title I, §§106(c), 109(a)(2), title II, §205(b)(1), Dec. 20, 2006, 120 Stat. 2983, 2985, 2989; Pub. L. 110–161, div. G, title II, §225(a), (b)(1), Dec. 26, 2007, 121 Stat. 2189; Pub. L. 110–173, title I, §§114(e)(1), 115(a)(1), Dec. 29, 2007, 121 Stat. 2504, 2506; Pub. L. 110–275, title I, §122, July 15, 2008, 122 Stat. 2514; Pub. L. 111–5, div. B, title IV, §4102(a)(1), (b)(1), Feb. 17, 2009, 123 Stat. 477, 482; Pub. L. 111–148, title III, §§3001(a)(1)–(3), 3004(a), (b), 3008(a), 3025(a), 3124(a), (b)(1), 3125, 3133, 3401(a), (c), (d), (f), title V, §§5503(a), (b), 5504(a), (b), 5505(a), (b), 5506(a), (b), (e), title X, §§10309, 10314, 10316, 10319(a)–(c), (e), 10322(a), 10324(a), 10335, Mar. 23, 2010, 124 Stat. 353–360, 368, 369, 376, 408, 424, 425, 432, 480–483, 655, 658–663, 942, 944, 946, 948, 949, 952, 959, 974; Pub. L. 111–152, title I, §§1104–1105(d), Mar. 30, 2010, 124 Stat. 1047, 1048; Pub. L. 111–192, title I, §102(a), June 25, 2010, 124 Stat. 1281; Pub. L. 111–309, title II, §203, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–40, title II, §261(a)(3)(A), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–240, title VI, §§605–606(b)(1), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §§1105–1106(b)(1), title II, §1206(a)(1), (c), Dec. 26, 2013, 127 Stat. 1197, 1200, 1204; Pub. L. 113–93, title I, §§105–106(b)(1), 112(a), Apr. 1, 2014, 128 Stat. 1042, 1044.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1886, as added and amended Pub. L. 97–248, title I, §§101(a)(1), 110, Sept. 3, 1982, 96 Stat. 331, 339; Pub. L. 97–448, title III, §309(b)(13)–(15), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §601(a)(1), (2), (b), (c), (d)(2), (e), Apr. 20, 1983, 97 Stat. 149, 150, 152; Pub. L. 98–369, div. B, title III, §§2307(b)(1), 2310(a), 2311(a)–(c), 2312(a), (b), 2313(a), (b), (d), 2315(a)–(c), 2354(b)(42)–(44), July 18, 1984, 98 Stat. 1073, 1075–1080, 1102; Pub. L. 98–617, §3(b)(9), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–272, title IX, §§9101(b), (c), 9102(a)–(c), 9104(a), (b), 9105(a)–(c), 9106(a), 9107(a), 9109(a), 9111(a), 9127(a), 9202(a), Apr. 7, 1986, 100 Stat. 153–155, 157–162, 170, 171; Pub. L. 99–349, title II, §206, July 2, 1986, 100 Stat. 749; Pub. L. 99–509, title IX, §§9302(a)(1), (2), (b)(1), (c), (d)(1)(A), (e), 9303, 9304(a)–(c), 9306(a)–(c), 9307(c)(1), 9314(a), 9320(g), 9321(e)(2), Oct. 21, 1986, 100 Stat. 1982–1985, 1988, 1995, 2005, 2015, 2018; Pub. L. 99–514, §2, title XVIII, §1895(b)(1)(A)–(C), (2)(A)–(C), (3), (9), Oct. 22, 1986, 100 Stat. 2095, 2931–2933; Pub. L. 100–93, §8(c)(4), Aug. 18, 1987, 101 Stat. 693; Pub. L. 100–203, title IV, §§4002(a)–(f)(1), 4003(a)–(c), 4004(a), 4005(a)(1), (c)(1), (d)(1)(A), 4006(a)–(b)(2), 4007(b)(1), 4009(d)(1), (j)(1)–(6)(B), 4083(b)(1), Dec. 22, 1987, 101 Stat. 1330–42 to 1330–44, 1330–46, 1330–47, 1330–49, 1330–52, 1330–53, 1330–57 to 1330–59, 1330–129, as amended Pub. L. 100–360, title IV, §411(b)(1)(E), (3), (4)(C)(i), (5)(B), (6)(B), (8)(B), July 1, 1988, 102 Stat. 769, 770, 772; Pub. L. 100–360, title IV, §411(b)(1)(A)–(D), (F)–(H)(i), (4)(A), (B), (5)(A), July 1, 1988, 102 Stat. 768–770; Pub. L. 100–485, title VI, §608(d)(18)(A), (B), Oct. 13, 1988, 102 Stat. 2418; Pub. L. 100–647, title I, §1018(r)(1), title VIII, §§8401, 8403(a), Nov. 10, 1988, 102 Stat. 3586, 3798; Pub. L. 101–234, title III, §301(b)(3), (c)(3), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §§6002, 6003(a)(1), (b)–(c)(3), (e)(1), (2)(B)–(E), (f), (g)(2), (4)–(h)(4), (6), 6004(a)(1), (2), (b)(1), 6011(a), 6015(a), 6022, Dec. 19, 1989, 103 Stat. 2140–2144, 2151, 2154–2157, 2159–2161, 2164, 2167; Pub. L. 101–403, title I, §115(b)(1), Oct. 1, 1990, 104 Stat. 870; Pub. L. 101–508, title IV, §§4001, 4002(a)(1), (b)(1)–(4), (c)(1), (2), (e)(1), (g)(1), (2), (h)(1)(A), (2)(B), 4003(a), 4005(a)(1), (c)(1)(B), (2), 4008(f)(1), (m)(2)(A), Nov. 5, 1990, 104 Stat. 1388–31 to 1388–38, 1388–40, 1388–42, 1388–45, 1388–53; Pub. L. 103–66, title XIII, §§13501(a), (b)(1), (c), (e)(1), (f), 13502, 13506, 13563(a), (b)(1), (c)(1), Aug. 10, 1993, 107 Stat. 572, 574, 575, 577, 579, 605; Pub. L. 103–432, title I, §§101(a)(1), (b), (c), 102(b)(1)(B), 105, 108–110(a), (c), 153(a), Oct. 31, 1994, 108 Stat. 4400–4402, 4405, 4407, 4408, 4437; Pub. L. 105–33, title IV, §§4022(b)(1)(A), 4201(c)(1), (4), 4202(a), 4204(a)(1), (2), 4401(a), 4402, 4403(a), 4405(a)–(c), 4406, 4407, 4411–4415(c), 4416, 4417(a)(1), (b)(1), 4418(a), 4419(a)(1), 4421(a), (b), 4621–4626(a), 4627(a), 4644(a)(1), (b)(1), (c)(1), Aug. 5, 1997, 111 Stat. 354, 373–375, 397, 398, 400, 401, 403–410, 413, 475–480, 483, 488; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§111(a), (c), 112(a), 121(a), 122, 125(a), title III, §§311, 312(a), 321(b), (e), (f), (h), (k)(15)–(17), title IV, §§401(a), 402(a), 404(a), (b)(1), 405–407(a)(2), (b)(1), (2), (c)(1), title V, §541], Nov. 29, 1999, 113 Stat. 1536, 1501A–329 to 1501A–332, 1501A–362 to 150A–366, 1501A–368, 1501A–369, 1501A–372 to 1501A–374, 1501A–391; Pub. L. 106–554, §1(a)(4) [div. B, title I, §152(a), (b)], §1(a)(6) [title II, §§211, 212(a), 213(a), title III, §§301(a), (e)(1), 302(a), (c), (d), 303(a), (c), (d)(1), 304(a), (c)(2), 305(a), (b), 307(a)(1), title V, §§511, 512(a), 533(b)(1), (3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, 2763A–252, 2763A–483, 2763A–485, 2763A–491 to 2763A–496, 2763A–533, 2763A–548, 2763A–550; Pub. L. 108–173, title IV, §§401(a)–(c), 402, 403, 406, 407(a), 422(a), (b)(1), title V, §§501(a), (b), 502(a), (b), 503(a)–(d)(1), 504, 505(a), title VII, §§711, 736(a)(9), (15), (c)(6), Dec. 8, 2003, 117 Stat. 2262–2265, 2269, 2270, 2284, 2286, 2289–2293, 2340, 2355, 2356; Pub. L. 109–171, title V, §§5001(a), (c), 5002(a), 5003(a)(1), (2)(A), (b)–(d), Feb. 8, 2006, 120 Stat. 28, 30–32; Pub. L. 109–432, div. B, title I, §§106(c), 109(a)(2), title II, §205(b)(1), Dec. 20, 2006, 120 Stat. 2983, 2985, 2989; Pub. L. 110–161, div. G, title II, §225(a), (b)(1), Dec. 26, 2007, 121 Stat. 2189; Pub. L. 110–173, title I, §§114(e)(1), 115(a)(1), Dec. 29, 2007, 121 Stat. 2504, 2506; Pub. L. 110–275, title I, §122, July 15, 2008, 122 Stat. 2514; Pub. L. 111–5, div. B, title IV, §4102(a)(1), (b)(1), Feb. 17, 2009, 123 Stat. 477, 482; Pub. L. 111–148, title III, §§3001(a)(1)–(3), 3004(a), (b), 3008(a), 3025(a), 3124(a), (b)(1), 3125, 3133, 3401(a), (c), (d), (f), title V, §§5503(a), (b), 5504(a), (b), 5505(a), (b), 5506(a), (b), (e), title X, §§10309, 10314, 10316, 10319(a)–(c), (e), 10322(a), 10324(a), 10335, Mar. 23, 2010, 124 Stat. 353–360, 368, 369, 376, 408, 424, 425, 432, 480–483, 655, 658–663, 942, 944, 946, 948, 949, 952, 959, 974; Pub. L. 111–152, title I, §§1104–1105(d), Mar. 30, 2010, 124 Stat. 1047, 1048; Pub. L. 111–192, title I, §102(a), June 25, 2010, 124 Stat. 1281; Pub. L. 111–309, title II, §203, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–40, title II, §261(a)(3)(A), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–240, title VI, §§605–606(b)(1), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §§1105–1106(b)(1), title II, §1206(a)(1), (c), Dec. 26, 2013, 127 Stat. 1197, 1200, 1204; Pub. L. 113–93, title I, §§105–106(b)(1), 112(a), Apr. 1, 2014, 128 Stat. 1042, 1044; Pub. L. 113–185, §2(c)(2), (3), Oct. 6, 2014, 128 Stat. 1963, 1964.)
 
 #### References in Text ####
 
@@ -3431,6 +3467,22 @@ Subsec. (d)(12)(B). Pub. L. 113–93, §105(1), substituted "in fiscal year 2015
 Subsec. (d)(12)(C)(i). Pub. L. 113–93, §105(2), substituted "fiscal years 2011 through 2014 and fiscal year 2015 (before April 1, 2015)," for "fiscal years 2011, 2012, and 2013, and the portion of fiscal year 2014 before" in two places.
 
 Subsec. (d)(12)(D). Pub. L. 113–93, §105(3), substituted "fiscal years 2011 through 2014 and fiscal year 2015 (before April 1, 2015)," for "fiscal years 2011, 2012, and 2013, and the portion of fiscal year 2014 before April 1, 2014,".
+
+Subsec. (j)(7)(A)(i). Pub. L. 113–185, §2(c)(2)(A), substituted "subparagraphs (C) and (F)" for "subparagraph (C)".
+
+Subsec. (j)(7)(C). Pub. L. 113–185, §2(c)(2)(B), substituted "Subject to subparagraph (G), for fiscal year 2014 and each subsequent fiscal year" for "For fiscal year 2014 and each subsequent rate year".
+
+Subsec. (j)(7)(E). Pub. L. 113–185, §2(c)(2)(C), inserted "and subparagraph (F)(i)" after "subparagraph (C)".
+
+Subsec. (j)(7)(F), (G). Pub. L. 113–185, §2(c)(2)(D), added subpars. (F) and (G).
+
+Subsec. (m)(5)(A)(i). Pub. L. 113–185, §2(c)(3)(A), substituted "subparagraphs (C) and (F)" for "subparagraph (C)".
+
+Subsec. (m)(5)(C). Pub. L. 113–185, §2(c)(3)(B), substituted "Subject to subparagraph (G), for rate year" for "For rate year".
+
+Subsec. (m)(5)(E). Pub. L. 113–185, §2(c)(3)(C), inserted "and subparagraph (F)(i)" after "subparagraph (C)".
+
+Subsec. (m)(5)(F), (G). Pub. L. 113–185, §2(c)(3)(D), added subpars. (F) and (G).
 
 Subsec. (m)(6)(C)(iv). Pub. L. 113–93, §112(a), substituted "Medicare fee-for-service discharges" for "discharges" in subcls. (I) and (II).
 

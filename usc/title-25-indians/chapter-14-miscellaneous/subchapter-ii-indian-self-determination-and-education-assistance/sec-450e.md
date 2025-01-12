@@ -28,6 +28,8 @@ Act of April 16, 1934, referred to in subsec. (b), is act Apr. 16, 1934, ch. 147
 
 #### Codification ####
 
+This subchapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
 In subsec. (a), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494), as amended" and "section 3145 of title 40" substituted for "section 2 of the Act of June 13, 1934 (48 Stat. 948, 40 U.S.C. 276c)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments ####

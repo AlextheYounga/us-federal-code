@@ -4,9 +4,9 @@
 
 The Director of the Trade and Development Agency shall carry out a program of tied aid credits for United States exports. The program shall be carried out in cooperation with the Export-Import Bank of the United States and with private financial institutions or entities, as appropriate. The program may include—
 
-(1) the combined use of the credits, loans, or guarantees offered by the Bank with concessional financing or grants made available under subsection (d) of this section, by methods including the blending of the financing of, or parallel financing by, the Bank and the Trade and Development Agency; and
+(1) the combined use of the credits, loans, or guarantees offered by the Bank with concessional financing or grants made available under subsection (d), by methods including the blending of the financing of, or parallel financing by, the Bank and the Trade and Development Agency; and
 
-(2) the combination of concessional financing or grants made available under subsection (d) of this section with financing offered by private financial institutions or entities, by methods including the blending of the financing of, or parallel financing by, the Trade and Development Agency and private institutions or entities.
+(2) the combination of concessional financing or grants made available under subsection (d) with financing offered by private financial institutions or entities, by methods including the blending of the financing of, or parallel financing by, the Trade and Development Agency and private institutions or entities.
 
 #### (b) Combination of funds with financing by Export-Import Bank or private commercial financing ####
 
@@ -14,7 +14,7 @@ These funds may be combined with financing by the Export-Import Bank of the Unit
 
 #### (c) Limitation on use of Agency funds; authorization for establishment of fund ####
 
-(1) Funds which are used to carry out a tied aid credit program authorized by subsections (a) and (b) of this section shall be offered only to finance United States exports which can reasonably be expected to contribute to the advancement of the development objectives of the importing country or countries, and shall be consistent with the economic, security, and political criteria used to establish country allocations of Economic Support Funds.
+(1) Funds which are used to carry out a tied aid credit program authorized by subsections (a) and (b) shall be offered only to finance United States exports which can reasonably be expected to contribute to the advancement of the development objectives of the importing country or countries, and shall be consistent with the economic, security, and political criteria used to establish country allocations of Economic Support Funds.
 
 (2) The Director of the Trade and Development Agency is authorized to establish a fund, as necessary, for carrying out a tied aid credit financing program as described in this section.
 

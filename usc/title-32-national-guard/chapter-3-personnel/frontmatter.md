@@ -73,3 +73,19 @@ Sec.
 **1961**—Pub. L. 87–378, §5(2), Oct. 4, 1961, 75 Stat. 808, inserted ", reenlistments, and extensions" in item 302.
 
 **1958**—Pub. L. 85–861, §2(8), Sept. 2, 1958, 72 Stat. 1544, added items 309 and 310.
+
+#### Removal of Restrictions on the Transfer of Officers Between the Active and Inactive National Guard ####
+
+Pub. L. 113–66, div. A, title V, §512, Dec. 26, 2013, 127 Stat. 752, provided that:
+
+"(a) Army National Guard.—During the period ending on December 31, 2016, under regulations prescribed by the Secretary of the Army:
+
+"(1) An officer of the Army National Guard who fills a vacancy in a federally recognized unit of the Army National Guard may be transferred from the active Army National Guard to the inactive Army National Guard.
+
+"(2) An officer of the Army National Guard transferred to the inactive Army National Guard pursuant to paragraph (1) may be transferred from the inactive Army National Guard to the active Army National Guard to fill a vacancy in a federally recognized unit.
+
+"(b) Air National Guard.—During the period ending on December 31, 2016, under regulations prescribed by the Secretary of the Air Force:
+
+"(1) An officer of the Air National Guard who fills a vacancy in a federally recognized unit of the Air National Guard may be transferred from the active Air National Guard to the inactive Air National Guard.
+
+"(2) An officer of the Air National Guard transferred to the inactive Air National Guard pursuant to paragraph (1) may be transferred from the inactive Air National Guard to the active Air National Guard to fill a vacancy in a federally recognized unit."

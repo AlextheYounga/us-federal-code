@@ -76,15 +76,33 @@ Insofar as the Secretary determines that the adjustments under paragraph (4)(A)(
 
 #### (I) Adjustment ####
 
-For purposes of clause (ii)(V), for 2007 and each subsequent year, in the case of a home health agency that does not submit data to the Secretary in accordance with subclause (II) with respect to such a year, the home health market basket percentage increase applicable under such clause for such year shall be reduced by 2 percentage points. Such reduction shall apply only with respect to the year involved, and the Secretary shall not take into account such reduction in computing the prospective payment amount under this section for a subsequent year, and the Medicare Payment Advisory Commission shall carry out the requirements under section 5201(d) of the Deficit Reduction Act of 2005.
+For purposes of clause (ii)(V), for 2007 and each subsequent year, in the case of a home health agency that does not submit data to the Secretary in accordance with subclauses (II) and (IV) with respect to such a year, the home health market basket percentage increase applicable under such clause for such year shall be reduced by 2 percentage points. Such reduction shall apply only with respect to the year involved, and the Secretary shall not take into account such reduction in computing the prospective payment amount under this section for a subsequent year, and the Medicare Payment Advisory Commission shall carry out the requirements under section 5201(d) of the Deficit Reduction Act of 2005.
 
 #### (II) Submission of quality data ####
 
-For 2007 and each subsequent year, each home health agency shall submit to the Secretary such data that the Secretary determines are appropriate for the measurement of health care quality. Such data shall be submitted in a form and manner, and at a time, specified by the Secretary for purposes of this clause.
+Subject to subclause (V), for 2007 and each subsequent year, each home health agency shall submit to the Secretary such data that the Secretary determines are appropriate for the measurement of health care quality. Such data shall be submitted in a form and manner, and at a time, specified by the Secretary for purposes of this clause.
 
 #### (III) Public availability of data submitted ####
 
-The Secretary shall establish procedures for making data submitted under subclause (II) available to the public. Such procedures shall ensure that a home health agency has the opportunity to review the data that is to be made public with respect to the agency prior to such data being made public.
+The Secretary shall establish procedures for making data submitted under subclause (II) and subclause (IV)(aa) available to the public. Such procedures shall ensure that a home health agency has the opportunity to review the data that is to be made public with respect to the agency prior to such data being made public.
+
+#### (IV) Submission of additional data ####
+
+#### (aa) In general ####
+
+For the year beginning on the specified application date (as defined in subsection (a)(2)(E) of section 1395lll of this title), as applicable with respect to home health agencies and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, and each subsequent year, in addition to the data described in subclause (II), each home health agency shall submit to the Secretary data on such quality measures and any necessary data specified by the Secretary under such subsection (d)(1).
+
+#### (bb) Standardized patient assessment data ####
+
+For 2019 and each subsequent year, in addition to such data described in item (aa), each home health agency shall submit to the Secretary standardized patient assessment data required under subsection (b)(1) of section 1395lll of this title.
+
+#### (cc) Submission ####
+
+Data shall be submitted under items (aa) and (bb) in the form and manner, and at the time, specified by the Secretary for purposes of this clause.
+
+#### (V) Non-duplication ####
+
+To the extent data submitted under subclause (IV) duplicates other data required to be submitted under subclause (II), the submission of such data under subclause (IV) shall be in lieu of the submission of such data under subclause (II). The previous sentence shall not apply insofar as the Secretary determines it is necessary to avoid a delay in the implementation of section 1395lll of this title, taking into account the different specified application dates under subsection (a)(2)(E) of such section.
 
 #### (vi) Adjustments ####
 
@@ -174,13 +192,21 @@ Nothing in this section shall be construed as preventing a home health agency fu
 
 Nothing in this section shall be construed as waiving the requirement for a physician certification under section 1395f(a)(2)(C) or 1395n(a)(2)(A) of this title for the payment for home health services, whether or not furnished via a telecommunications system.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) [title III, §§302(b), 303(b), 306, 321(k)(19)], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) [title V, §§501(a), (c)(1), 504], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §§3131(a)(1), (b), 3401(e), title X, §§10315(a), 10319(d), Mar. 23, 2010, 124 Stat. 427, 428, 483, 944, 949.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1895, as added Pub. L. 105–33, title IV, §4603(a), Aug. 5, 1997, 111 Stat. 467; amended Pub. L. 105–277, div. J, title V, §5101(c)(1), (d)(2), Oct. 21, 1998, 112 Stat. 2681–914; Pub. L. 106–113, div. B, §1000(a)(6) [title III, §§302(b), 303(b), 306, 321(k)(19)], Nov. 29, 1999, 113 Stat. 1536, 1501A–359, 1501A–361, 1501A–362, 1501A–368; Pub. L. 106–554, §1(a)(6) [title V, §§501(a), (c)(1), 504], Dec. 21, 2000, 114 Stat. 2763, 2763A–529, 2763A–531; Pub. L. 108–173, title VII, §701, Dec. 8, 2003, 117 Stat. 2334; Pub. L. 109–171, title V, §5201(a), (c), Feb. 8, 2006, 120 Stat. 46; Pub. L. 111–148, title III, §§3131(a)(1), (b), 3401(e), title X, §§10315(a), 10319(d), Mar. 23, 2010, 124 Stat. 427, 428, 483, 944, 949; Pub. L. 113–185, §2(c)(1), Oct. 6, 2014, 128 Stat. 1962.)
 
 #### References in Text ####
 
 Section 5201(d) of the Deficit Reduction Act of 2005, referred to in subsec. (b)(3)(B)(v)(I), is section 5201(d) of title V of Pub. L. 109–171, Feb. 8, 2006, 120 Stat. 47, which is not classified to the Code.
 
 #### Amendments ####
+
+**2014**—Subsec. (b)(3)(B)(v)(I). Pub. L. 113–185, §2(c)(1)(A), substituted "subclauses (II) and (IV)" for "subclause (II)".
+
+Subsec. (b)(3)(B)(v)(II). Pub. L. 113–185, §2(c)(1)(B), substituted "Subject to subclause (V), for 2007" for "For 2007".
+
+Subsec. (b)(3)(B)(v)(III). Pub. L. 113–185, §2(c)(1)(C), inserted "and subclause (IV)(aa)" after "subclause (II)".
+
+Subsec. (b)(3)(B)(v)(IV), (V). Pub. L. 113–185, §2(c)(1)(D), added subcls. (IV) and (V).
 
 **2010**—Subsec. (b)(3)(A)(i)(III). Pub. L. 111–148, §3131(a)(1)(A), substituted "Subject to clause (iii), for periods" for "For periods".
 

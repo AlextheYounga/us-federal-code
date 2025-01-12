@@ -282,13 +282,15 @@ Sec.
 
 673a. Interstate compacts.
 
-673b. Adoption incentive payments.
+673b. Adoption and legal guardianship incentive payments.
 
 673c. Timely interstate home study incentive payments.
 
 674. Payments to States.
 
 675. Definitions.
+
+675a. Additional case plan and case review system requirements.
 
 676. Administration.
 
@@ -493,6 +495,8 @@ Sec.
 1314. Public advisory groups.
 
 1314a. Measurement and reporting of welfare receipt.
+
+1314b. National Advisory Committee on the Sex Trafficking of Children and Youth in the United States.
 
 1315. Demonstration projects.
 
@@ -1050,13 +1054,15 @@ Sec.
 
 1395hhh. Health care infrastructure improvement program.
 
-1395iii. Transitional Fund for Sustainable Growth Rate (SGR) Reform.
+1395iii. Medicare Improvement Fund.
 
 1395jjj. Shared savings program.
 
 1395kkk. Independent Payment Advisory Board.
 
 1395kkk–1. GAO study and report on determination and implementation of payment and coverage policies under the Medicare program.
+
+1395 lll. Standardized post-acute care (PAC) assessment data for quality, payment, and discharge planning.
 
 #### SUBCHAPTER XIX—GRANTS TO STATES FOR MEDICAL ASSISTANCE PROGRAMS ####
 

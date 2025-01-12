@@ -262,9 +262,41 @@ Subject to clause (ii), the term "skilled nursing facility market basket percent
 
 For fiscal year 2012 and each subsequent fiscal year, after determining the percentage described in clause (i), the Secretary shall reduce such percentage by the productivity adjustment described in section 1395ww(b)(3)(B)(xi)(II) of this title. The application of the preceding sentence may result in such percentage being less than 0.0 for a fiscal year, and may result in payment rates under this subsection for a fiscal year being less than such payment rates for the preceding fiscal year.
 
-#### (6) Submission of resident assessment data ####
+#### (6) Reporting of assessment and quality data ####
 
-A skilled nursing facility, or a facility described in paragraph (7)(B), shall provide the Secretary, in a manner and within the timeframes prescribed by the Secretary, the resident assessment data necessary to develop and implement the rates under this subsection. For purposes of meeting such requirement, a skilled nursing facility, or a facility described in paragraph (7), may submit the resident assessment data required under section 1395i–3(b)(3) of this title, using the standard instrument designated by the State under section 1395i–3(e)(5) of this title.
+#### (A) Reduction in update for failure to report ####
+
+#### (i) In general ####
+
+For fiscal years beginning with fiscal year 2018, in the case of a skilled nursing facility that does not submit data, as applicable, in accordance with subclauses (II) and (III) of subparagraph (B)(i) with respect to such a fiscal year, after determining the percentage described in paragraph (5)(B)(i), and after application of paragraph (5)(B)(ii), the Secretary shall reduce such percentage for payment rates during such fiscal year by 2 percentage points.
+
+#### (ii) Special rule ####
+
+The application of this subparagraph may result in the percentage described in paragraph (5)(B)(i), after application of paragraph (5)(B)(ii), being less than 0.0 for a fiscal year, and may result in payment rates under this subsection for a fiscal year being less than such payment rates for the preceding fiscal year.
+
+#### (iii) Noncumulative application ####
+
+Any reduction under clause (i) shall apply only with respect to the fiscal year involved and the Secretary shall not take into account such reduction in computing the payment amount under this subsection for a subsequent fiscal year.
+
+#### (B) Assessment and measure data ####
+
+#### (i) In general ####
+
+A skilled nursing facility, or a facility (other than a critical access hospital) described in paragraph (7)(B), shall submit to the Secretary, in a manner and within the timeframes prescribed by the Secretary—
+
+(I) subject to clause (iii), the resident assessment data necessary to develop and implement the rates under this subsection;
+
+(II) for fiscal years beginning on or after the specified application date (as defined in subsection (a)(2)(E) of section 1395lll of this title), as applicable with respect to skilled nursing facilities and quality measures under subsection (c)(1) of such section and measures under subsection (d)(1) of such section, data on such quality measures under such subsection (c)(1) and any necessary data specified by the Secretary under such subsection (d)(1); and
+
+(III) for fiscal years beginning on or after October 1, 2018, standardized patient assessment data required under subsection (b)(1) of section 1395lll of this title.
+
+#### (ii) Use of standard instrument ####
+
+For purposes of meeting the requirement under clause (i), a skilled nursing facility, or a facility (other than a critical access hospital) described in paragraph (7)(B), may submit the resident assessment data required under section 1395i–3(b)(3) of this title, using the standard instrument designated by the State under section 1395i–3(e)(5) of this title.
+
+#### (iii) Non-duplication ####
+
+To the extent data submitted under subclause (II) or (III) of clause (i) duplicates other data required to be submitted under clause (i)(I), the submission of such data under such a subclause shall be in lieu of the submission of such data under clause (i)(I). The previous sentence shall not apply insofar as the Secretary determines it is necessary to avoid a delay in the implementation of section 1395lll of this title, taking into account the different specified application dates under subsection (a)(2)(E) of such section.
 
 #### (7) Treatment of medicare swing bed hospitals ####
 
@@ -520,7 +552,7 @@ The Secretary shall provide for the one time transfer from the Federal Hospital 
 
 Such funds shall remain available until expended.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) [title II, §203(a), title III, §311(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497; Pub. L. 108–173, title IV, §410(a), title V, §511(a), Dec. 8, 2003, 117 Stat. 2271, 2298; Pub. L. 110–275, title I, §149(b), July 15, 2008, 122 Stat. 2549; Pub. L. 111–148, title III, §3401(b), title VI, §6104, Mar. 23, 2010, 124 Stat. 481, 711; Pub. L. 113–93, title II, §215(a), (b), Apr. 1, 2014, 128 Stat. 1048, 1049.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) [title II, §203(a), title III, §311(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497; Pub. L. 108–173, title IV, §410(a), title V, §511(a), Dec. 8, 2003, 117 Stat. 2271, 2298; Pub. L. 110–275, title I, §149(b), July 15, 2008, 122 Stat. 2549; Pub. L. 111–148, title III, §3401(b), title VI, §6104, Mar. 23, 2010, 124 Stat. 481, 711; Pub. L. 113–93, title II, §215(a), (b), Apr. 1, 2014, 128 Stat. 1048, 1049; Pub. L. 113–185, §2(c)(4)(A), Oct. 6, 2014, 128 Stat. 1965.)
 
 #### References in Text ####
 
@@ -530,7 +562,9 @@ Section 314(a) of Medicare, Medicaid, and SCHIP Benefits Improvement and Protect
 
 #### Amendments ####
 
-**2014**—Subsec. (g). Pub. L. 113–93, §215(a), added subsec. (g).
+**2014**—Subsec. (e)(6). Pub. L. 113–185 amended par. (6) generally. Prior to amendment, text read as follows: "A skilled nursing facility, or a facility described in paragraph (7)(B), shall provide the Secretary, in a manner and within the timeframes prescribed by the Secretary, the resident assessment data necessary to develop and implement the rates under this subsection. For purposes of meeting such requirement, a skilled nursing facility, or a facility described in paragraph (7), may submit the resident assessment data required under section 1395i–3(b)(3) of this title, using the standard instrument designated by the State under section 1395i–3(e)(5) of this title."
+
+Subsec. (g). Pub. L. 113–93, §215(a), added subsec. (g).
 
 Subsec. (h). Pub. L. 113–93, §215(b), added subsec. (h).
 

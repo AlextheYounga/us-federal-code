@@ -786,8 +786,6 @@ The Board shall make recommendations submitted to Congress and the President und
 
 The Patient Protection and Affordable Care Act, referred to in subsec. (c)(2)(A)(iii), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119. Section 3401 of the Act amended sections 1395f, 1395l, 1395m, 1395u, 1395rr, 1395ww, 1395yy, and 1395fff of this title. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
-Parts A, B, C, and D, referred to in subsecs. (c)(2)(A)(iv), (6)(B)(i), (e)(2)(A)(ii), and (l)(2)–(4), are classified to sections 1395c et seq., 1395j et seq., 1395w–21 et seq., and 1395w–101 et seq., respectively, of this title.
-
 Section 1395w–23(n) of this title, referred to in subsec. (c)(2)(A)(iv), as relating to performance bonuses for Medicare Advantage plans, was repealed by Pub. L. 111–152, title I, §1102(a), Mar. 30, 2010, 124 Stat. 1040.
 
 Section 1899A of the Social Security Act, referred to in subsecs. (e)(3)(A)(i), (f)(1)(C), (D), is section 1899A of act Aug. 14, 1935, which is classified to this section.

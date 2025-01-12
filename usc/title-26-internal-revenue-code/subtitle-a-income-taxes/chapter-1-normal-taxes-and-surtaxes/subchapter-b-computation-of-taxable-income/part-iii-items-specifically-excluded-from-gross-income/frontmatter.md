@@ -88,9 +88,13 @@ Sec.
 
 139D. Indian health care benefits.
 
+139E. Indian general welfare benefits.
+
 140. Cross references to other Acts.
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–168, §2(b), Sept. 26, 2014, 128 Stat. 1884, added item 139E.
 
 **2011**—Pub. L. 112–10, div. B, title VIII, §1858(b)(2)(B), Apr. 15, 2011, 125 Stat. 168, struck out item 139D "Free choice vouchers".
 

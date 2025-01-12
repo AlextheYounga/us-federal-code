@@ -74,9 +74,15 @@ If a supplier of medical equipment and supplies (as defined in section 1395m(j)(
 
 any expenses incurred for items and services furnished to an individual by such a supplier on an assignment-related basis shall be the responsibility of such supplier. The individual shall have no financial responsibility for such expenses and the supplier shall refund on a timely basis to the individual (and shall be liable to the individual for) any amounts collected from the individual for such items or services. The provisions of section 1395m(a)(18) of this title shall apply to refunds required under the previous sentence in the same manner as such provisions apply to refunds under such section.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1879, as added Pub. L. 92–603, title II, §213(a), Oct. 30, 1972, 86 Stat. 1384; amended Pub. L. 96–499, title IX, §956(a), Dec. 5, 1980, 94 Stat. 2648; Pub. L. 97–248, title I, §§145, 148(e), Sept. 3, 1982, 96 Stat. 393, 394; Pub. L. 99–509, title IX, §§9305(g)(1), 9341(a)(3), Oct. 21, 1986, 100 Stat. 1991, 2038; Pub. L. 100–203, title IV, §4096(b), Dec. 22, 1987, 101 Stat. 1330–139; Pub. L. 101–239, title VI, §6214(a), (b), Dec. 19, 1989, 103 Stat. 2252; Pub. L. 103–432, title I, §133(b), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 105–33, title IV, §4447, Aug. 5, 1997, 111 Stat. 424; Pub. L. 112–40, title II, §261(a)(3)(A), (B), Oct. 21, 2011, 125 Stat. 423.)
+#### (i) Hospice program eligibility recertification ####
+
+The provisions of this section shall apply with respect to a denial of a payment under this subchapter by reason of section 1395f(a)(7)(E) of this title in the same manner as such provisions apply with respect to a denial of a payment under this subchapter by reason of section 1395y(a)(1) of this title.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1879, as added Pub. L. 92–603, title II, §213(a), Oct. 30, 1972, 86 Stat. 1384; amended Pub. L. 96–499, title IX, §956(a), Dec. 5, 1980, 94 Stat. 2648; Pub. L. 97–248, title I, §§145, 148(e), Sept. 3, 1982, 96 Stat. 393, 394; Pub. L. 99–509, title IX, §§9305(g)(1), 9341(a)(3), Oct. 21, 1986, 100 Stat. 1991, 2038; Pub. L. 100–203, title IV, §4096(b), Dec. 22, 1987, 101 Stat. 1330–139; Pub. L. 101–239, title VI, §6214(a), (b), Dec. 19, 1989, 103 Stat. 2252; Pub. L. 103–432, title I, §133(b), Oct. 31, 1994, 108 Stat. 4421; Pub. L. 105–33, title IV, §4447, Aug. 5, 1997, 111 Stat. 424; Pub. L. 112–40, title II, §261(a)(3)(A), (B), Oct. 21, 2011, 125 Stat. 423; Pub. L. 113–185, §3(b), Oct. 6, 2014, 128 Stat. 1969.)
 
 #### Amendments ####
+
+**2014**—Subsec. (i). Pub. L. 113–185 added subsec. (i).
 
 **2011**—Subsec. (a). Pub. L. 112–40, §261(a)(3)(A), substituted "quality improvement" for "utilization and quality control peer review" in concluding provisions.
 

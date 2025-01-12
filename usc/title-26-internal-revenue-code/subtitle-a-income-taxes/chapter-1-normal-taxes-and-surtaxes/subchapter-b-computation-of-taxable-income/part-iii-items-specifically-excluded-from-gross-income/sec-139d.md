@@ -44,7 +44,7 @@ The term "dependent" has the meaning given such term by section 152, determined 
 
 Subsection (a) shall not apply to the amount of any qualified Indian health care benefit which is not includible in gross income of the beneficiary of such benefit under any other provision of this chapter, or to the amount of any such benefit for which a deduction is allowed to such beneficiary under any other provision of this chapter.
 
-(Pub. L. 111–148, title IX, §9021(a), Mar. 23, 2010, 124 Stat. 873.)
+(Added Pub. L. 111–148, title IX, §9021(a), Mar. 23, 2010, 124 Stat. 873.)
 
 #### References in Text ####
 

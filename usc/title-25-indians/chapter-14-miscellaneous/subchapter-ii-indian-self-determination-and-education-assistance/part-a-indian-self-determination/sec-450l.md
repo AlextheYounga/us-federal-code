@@ -196,6 +196,8 @@ shall be required prior to the expenditure of such funds.
 
 #### References in Text ####
 
+This subchapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
 The Indian Self-Determination and Education Assistance Act, referred to in section 1(a), (b)(6)(B)(i), (11) of the provisions of subsec. (c) setting out the model agreement, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to this subchapter (§450 et seq.). Title I of the Act is classified principally to this part (§450f et seq.). Section 102(a) of the Act is classified to section 450f(a) of this title. Section 108(b) of the Act is classified to subsec. (b) of this section. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 The Indian Civil Rights Act of 1968, referred to in section 1(b)(13) of the provisions of subsec. (c) setting out the model agreement, is title II of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 77, which is classified generally to subchapter I (§1301 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Tables.

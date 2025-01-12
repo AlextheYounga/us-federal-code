@@ -1128,6 +1128,8 @@ Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub.
 
 #### Short Title of 2014 Amendment ####
 
+Pub. L. 113–168, §1, Sept. 26, 2014, 128 Stat. 1883, provided that: "This Act [enacting section 139E of this title and provisions set out as notes under section 139E of this title] may be cited as the 'Tribal General Welfare Exclusion Act of 2014'."
+
 Pub. L. 113–94, §1, Apr. 3, 2014, 128 Stat. 1085, provided that: "This Act [amending sections 9006, 9008, 9009, 9012, and 9037 of this title and sections 282 and 282a of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under section 282a of Title 42] may be cited as the 'Gabriella Miller Kids First Research Act'."
 
 #### Short Title of 2013 Amendment ####

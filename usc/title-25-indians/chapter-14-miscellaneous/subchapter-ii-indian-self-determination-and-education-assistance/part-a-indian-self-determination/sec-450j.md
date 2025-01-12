@@ -188,6 +188,8 @@ Patient records that are deemed to be Federal records under those provisions of 
 
 #### References in Text ####
 
+This subchapter, referred to in subsecs. (a)(3)(A)(iii), (C)(i), (d)(1), (e), (f)(3), (k), (l)(1), and (m)(1), (4)(C)(i), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
 Section 9(c) of the Act of Aug. 2, 1946, referred to in subsec. (a)(3)(C)(ii)(III), was section 9(c) of act Aug. 2, 1946, ch. 744, 60 Stat. 809, which amended section 5 of former Title 41, Public Contracts, and was repealed by Pub. L. 111–350, §7(b), Jan. 4, 2011, 124 Stat. 3855, which Act enacted Title 41, Public Contracts.
 
 The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
@@ -272,7 +274,7 @@ Subsec. (h). Pub. L. 100–472, §204(g), (h), redesignated former subsec. (g) a
 
 #### Continued Availability of Certain Funds ####
 
-Pub. L. 105–277, div. A, §101(e) [title I], Oct. 21, 1998, 105 Stat. 2681–231, 2681–246, provided in part that: "hereafter funds made available to tribes and tribal organizations through contracts, compact agreements, or grants, as authorized by the Indian Self-Determination Act of 1975 [25 U.S.C. 450f et seq.] or grants authorized by the Indian Education Amendments of 1988 (25 U.S.C. 2001 and 2008A [probably means prior versions of 25 U.S.C. 2001 and 2008a]) shall remain available until expended by the contractor or grantee".
+Pub. L. 105–277, div. A, §101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246, provided in part that: "hereafter funds made available to tribes and tribal organizations through contracts, compact agreements, or grants, as authorized by the Indian Self-Determination Act of 1975 [25 U.S.C. 450f et seq.] or grants authorized by the Indian Education Amendments of 1988 (25 U.S.C. 2001 and 2008A [probably means prior versions of 25 U.S.C. 2001 and 2008a]) shall remain available until expended by the contractor or grantee".
 
 [<sup>1</sup> So in original. Probably should be "provisions".](#450j_1)
 

@@ -13712,13 +13712,15 @@ The powers granted in this section shall not be used to control the general dist
 
 The head of each Federal agency to which the President delegates authority under this section shall—
 
-(1) not later than 270 days after the date of enactment of the Defense Production Act Reauthorization of 2009 [Sept. 30, 2009], issue final rules, in accordance with section 553 of title 5, United States Code, that establish standards and procedures by which the priorities and allocations authority under this section is used to promote the national defense, under both emergency and nonemergency conditions; and
+(1) issue, and annually review and update whenever appropriate, final rules, in accordance with section 553 of title 5, United States Code, that establish standards and procedures by which the priorities and allocations authority under this section is used to promote the national defense, under both emergency and nonemergency conditions; and
 
 (2) as appropriate and to the extent practicable, consult with the heads of other Federal agencies to develop a consistent and unified Federal priorities and allocations system.
 
-(Sept. 8, 1950, ch. 932, title I, §101, 64 Stat. 799; July 31, 1951, ch. 275, title I, §101(a), 65 Stat. 131; June 30, 1952, ch. 530, title I, §§101, 102, 66 Stat. 296, 297; June 30, 1953, ch. 171, §3, 67 Stat. 129; Pub. L. 94–163, title I, §104(a), Dec. 22, 1975, 89 Stat. 878; Pub. L. 102–99, §6, Aug. 17, 1991, 105 Stat. 490; Pub. L. 111–67, §4, Sept. 30, 2009, 123 Stat. 2009.)
+(Sept. 8, 1950, ch. 932, title I, §101, 64 Stat. 799; July 31, 1951, ch. 275, title I, §101(a), 65 Stat. 131; June 30, 1952, ch. 530, title I, §§101, 102, 66 Stat. 296, 297; June 30, 1953, ch. 171, §3, 67 Stat. 129; Pub. L. 94–163, title I, §104(a), Dec. 22, 1975, 89 Stat. 878; Pub. L. 102–99, §6, Aug. 17, 1991, 105 Stat. 490; Pub. L. 111–67, §4, Sept. 30, 2009, 123 Stat. 2009; Pub. L. 113–172, §3, Sept. 26, 2014, 128 Stat. 1897.)
 
 #### Amendments ####
+
+**2014**—Subsec. (d)(1). Pub. L. 113–172 substituted "issue, and annually review and update whenever appropriate, final rules" for "not later than 270 days after the date of enactment of the Defense Production Act Reauthorization of 2009, issue final rules".
 
 **2009**—Subsec. (d). Pub. L. 111–67 added subsec. (d).
 
@@ -14220,11 +14222,13 @@ No purchase or commitment to purchase any imported agricultural commodity shall 
 
 #### (5) Presidential determinations ####
 
-Except as provided in paragraph (7), the President may not execute a contract under this subsection unless the President determines that—
+Except as provided in paragraph (7), the President may not execute a contract under this subsection unless the President, on a non-delegable basis, determines, with appropriate explanatory material and in writing, that—
 
-(A) the industrial resource, material, or critical technology item is essential to the national defense; and
+(A) the industrial resource, material, or critical technology item is essential to the national defense;
 
-(B) without Presidential action under this section, United States industry cannot reasonably be expected to provide the capability for the needed industrial resource, material, or critical technology item in a timely manner.
+(B) without Presidential action under this section, United States industry cannot reasonably be expected to provide the capability for the needed industrial resource, material, or critical technology item in a timely manner; and
+
+(C) purchases, purchase commitments, or other action pursuant to this section are the most cost effective, expedient, and practical alternative method for meeting the need.
 
 #### (6) Notification to Congress of shortfall ####
 
@@ -14235,6 +14239,10 @@ Except as provided in paragraph (7), the President shall provide written notice 
 #### (B) Aggregate amounts ####
 
 If the taking of any action under this subsection to correct a domestic industrial base shortfall would cause the aggregate outstanding amount of all such actions for such shortfall to exceed $50,000,000, the action or actions may be taken only after the 30-day period following the date on which the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives have been notified in writing of the proposed action.
+
+#### (C) Limitation ####
+
+If the taking of any action or actions under this section to correct an industrial resource shortfall would cause the aggregate outstanding amount of all such actions for such industrial resource shortfall to exceed $50,000,000, no such action or actions may be taken, unless such action or actions are authorized to exceed such amount by an Act of Congress.
 
 #### (7) Waivers authorized ####
 
@@ -14302,7 +14310,7 @@ Transfers made pursuant to this subsection shall be made without charge against 
 
 When, in the judgement of the President, it will aid the national defense, the President may make provision for the development of substitutes for strategic and critical materials, critical components, critical technology items, and other industrial resources.
 
-(Sept. 8, 1950, ch. 932, title III, §303, as added Pub. L. 111–67, §7, Sept. 30, 2009, 123 Stat. 2013.)
+(Sept. 8, 1950, ch. 932, title III, §303, as added Pub. L. 111–67, §7, Sept. 30, 2009, 123 Stat. 2013; amended Pub. L. 113–172, §4(a), Sept. 26, 2014, 128 Stat. 1897.)
 
 #### References in Text ####
 
@@ -14313,6 +14321,18 @@ The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (f
 #### Prior Provisions ####
 
 A prior section 2093, act Sept. 8, 1950, ch. 932, title III, §303, 64 Stat. 801; July 31, 1951, ch. 275, title I, §103(a), 65 Stat. 133; June 30, 1953, ch. 171, §§5, 6, 67 Stat. 130; Aug. 9, 1955, ch. 655, §3, 69 Stat. 580; June 29, 1956, ch. 474, §2, 70 Stat. 408; Pub. L. 88–343, §2, June 30, 1964, 78 Stat. 235; Pub. L. 92–325, §1, June 30, 1972, 86 Stat. 390; Pub. L. 94–273, §2(29), Apr. 21, 1976, 90 Stat. 376; Pub. L. 96–41, §3(c), July 30, 1979, 93 Stat. 325; Pub. L. 96–294, title I, §104(d), June 30, 1980, 94 Stat. 618; Pub. L. 98–265, §§3(c), 4(c), Apr. 17, 1984, 98 Stat. 150, 151; Pub. L. 102–558, title I, §121(c), (d), Oct. 28, 1992, 106 Stat. 4204, 4206; Pub. L. 107–47, §4(3), Oct. 5, 2001, 115 Stat. 260, related to purchase of raw materials and installation of equipment, prior to the general amendment of title III of this Act by Pub. L. 111–67.
+
+#### Amendments ####
+
+**2014**—Subsec. (a)(5). Pub. L. 113–172, §4(a)(1)(A), substituted ", on a non-delegable basis, determines, with appropriate explanatory material and in writing," for "determines" in introductory provisions.
+
+Subsec. (a)(5)(C). Pub. L. 113–172, §4(a)(1)(B)–(D), added subpar. (C).
+
+Subsec. (a)(6)(C). Pub. L. 113–172, §4(a)(2), added subpar. (C).
+
+#### Effective Date of 2014 Amendment ####
+
+Pub. L. 113–172, §4(b), Sept. 26, 2014, 128 Stat. 1897, provided that: "Section 303(a)(6)(C) of the Defense Production Act of 1950 [50 U.S.C. App. 2093(a)(6)(C)], as added by subsection (a)(2), shall not apply to a project undertaken pursuant to a determination made before the date of the enactment of this Act [Sept. 26, 2014]."
 
 #### Termination Date ####
 
@@ -15734,11 +15754,13 @@ Ex. Ord. No. 10647, Nov. 28, 1955, 20 F.R. 8769, as amended by Ex. Ord. No. 1135
 
 ### §2161. Authorization of appropriations; availability of funds ###
 
-There are hereby authorized to be appropriated such sums as may be necessary and appropriate for the carrying out of the provisions and purposes of this Act [sections 2061 to 2170, 2171, and 2172 of this Appendix] by the President and such agencies as he may designate or create. Funds made available pursuant to this paragraph for the purposes of this Act may be allocated or transferred for any of the purposes of this Act, with the approval of the Office of Management and Budget, to any agency designated to assist in carrying out this Act. Funds so allocated or transferred shall remain available for such period as may be specified in the Acts making such funds available.
+There is authorized to be appropriated $133,000,000 for fiscal year 2015 and each fiscal year thereafter for the carrying out of the provisions and purposes of this Act [sections 2061 to 2170, 2171, and 2172 of this Appendix] by the President and such agencies as he may designate or create.
 
-(Sept. 8, 1950, ch. 932, title VII, §711, 64 Stat. 820; Pub. L. 93–426, §3, Sept. 30, 1974, 88 Stat. 1167; Pub. L. 96–294, title I, §105(a), June 30, 1980, 94 Stat. 632; Pub. L. 98–265, §5, Apr. 17, 1984, 98 Stat. 151; Pub. L. 99–441, §3, Oct. 3, 1986, 100 Stat. 1117; Pub. L. 101–137, §9(b), Nov. 3, 1989, 103 Stat. 826; Pub. L. 102–99, §3, Aug. 17, 1991, 105 Stat. 487; Pub. L. 102–558, title I, §§144, 152, 161, Oct. 28, 1992, 106 Stat. 4218, 4219; Pub. L. 104–64, §3, Dec. 18, 1995, 109 Stat. 689; Pub. L. 105–261, div. A, title X, §1072(b), Oct. 17, 1998, 112 Stat. 2137; Pub. L. 106–65, div. A, title X, §1063(b), Oct. 5, 1999, 113 Stat. 769; Pub. L. 106–363, §2, Oct. 27, 2000, 114 Stat. 1407; Pub. L. 107–47, §3, Oct. 5, 2001, 115 Stat. 260; Pub. L. 108–195, §2(b), Dec. 19, 2003, 117 Stat. 2892; Pub. L. 110–367, §3, Oct. 8, 2008, 122 Stat. 4026; Pub. L. 111–67, §2(b), Sept. 30, 2009, 123 Stat. 2007.)
+(Sept. 8, 1950, ch. 932, title VII, §711, 64 Stat. 820; Pub. L. 93–426, §3, Sept. 30, 1974, 88 Stat. 1167; Pub. L. 96–294, title I, §105(a), June 30, 1980, 94 Stat. 632; Pub. L. 98–265, §5, Apr. 17, 1984, 98 Stat. 151; Pub. L. 99–441, §3, Oct. 3, 1986, 100 Stat. 1117; Pub. L. 101–137, §9(b), Nov. 3, 1989, 103 Stat. 826; Pub. L. 102–99, §3, Aug. 17, 1991, 105 Stat. 487; Pub. L. 102–558, title I, §§144, 152, 161, Oct. 28, 1992, 106 Stat. 4218, 4219; Pub. L. 104–64, §3, Dec. 18, 1995, 109 Stat. 689; Pub. L. 105–261, div. A, title X, §1072(b), Oct. 17, 1998, 112 Stat. 2137; Pub. L. 106–65, div. A, title X, §1063(b), Oct. 5, 1999, 113 Stat. 769; Pub. L. 106–363, §2, Oct. 27, 2000, 114 Stat. 1407; Pub. L. 107–47, §3, Oct. 5, 2001, 115 Stat. 260; Pub. L. 108–195, §2(b), Dec. 19, 2003, 117 Stat. 2892; Pub. L. 110–367, §3, Oct. 8, 2008, 122 Stat. 4026; Pub. L. 111–67, §2(b), Sept. 30, 2009, 123 Stat. 2007; Pub. L. 113–172, §5, Sept. 26, 2014, 128 Stat. 1898.)
 
 #### Amendments ####
+
+**2014**—Pub. L. 113–172 substituted "is authorized to be appropriated $133,000,000 for fiscal year 2015 and each fiscal year thereafter" for "are hereby authorized to be appropriated such sums as may be necessary and appropriate" and struck out at end "Funds made available pursuant to this paragraph for the purposes of this Act may be allocated or transferred for any of the purposes of this Act, with the approval of the Office of Management and Budget, to any agency designated to assist in carrying out this Act. Funds so allocated or transferred shall remain available for such period as may be specified in the Acts making such funds available."
 
 **2009**—Pub. L. 111–67 struck out subsec. (a) designation and heading at beginning of section, substituted "There" for "Except as provided in subsection (b), there" and "by" for "(including sections 302 and 303, but excluding sections 305 and 306) by", and struck out subsec. (b). Text of subsec. (b) read as follows: "There are authorized to be appropriated for each of fiscal years 1996 through 2009, such sums as may be necessary to carry out title III."
 
@@ -15872,7 +15894,7 @@ Repeal deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 
 
 ### §2166. Termination of Act ###
 
-(a) Title I [sections 2071 to 2078 of this Appendix] (except section 104 [section 2074 of this Appendix]), title III [sections 2091 to 2094 of this Appendix], and title VII [sections 2151 to 2170, 2171, and 2172 of this Appendix] (except sections 707, 708, and 721 [sections 2157, 2158, and 2170 of this Appendix]) shall terminate on September 30, 2014, except that all authority extended under title III on or after the date of enactment of the Defense Production Act Reauthorization of 2009 [Sept. 30, 2009] shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriations Acts.
+(a) Title I [sections 2071 to 2078 of this Appendix] (except section 104 [section 2074 of this Appendix]), title III [sections 2091 to 2094 of this Appendix], and title VII [sections 2151 to 2170, 2171, and 2172 of this Appendix] (except sections 707, 708, and 721 [sections 2157, 2158, and 2170 of this Appendix]) shall terminate on September 30, 2019, except that all authority extended under title III shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 (b) Notwithstanding subsection (a), any agency created under a provision of law that is terminated under subsection (a) may continue in existence, for purposes of liquidation, for a period not to exceed 6 months, beginning on the date of termination of the provision authorizing the creation of such agency under subsection (a).
 
@@ -15880,13 +15902,15 @@ Repeal deemed to have become effective Mar. 1, 1992, see section 304 of Pub. L. 
 
 (d) No action for the recovery of any cooperative payment made to a cooperative association by a Market Administrator under an invalid provision of a milk marketing order issued by the Secretary of Agriculture pursuant to the Agricultural Marketing Agreement Act of 1937 [7 U.S.C. 671 et seq.] shall be maintained unless such action is brought by producers specifically named as party plaintiffs to recover their respective share of such payments within ninety days after the date of enactment of the Defense Production Act Amendments of 1952 [June 30, 1952] with respect to any cause of action heretofore accrued and not otherwise barred, or within ninety days after accrual with respect to future payments, and unless each claimant shall allege and prove (1) that he objected at the hearing to the provisions of the order under which such payments were made and (2) that he either refused to accept payments computed with such deduction or accepted them under protest to either the Secretary or the Administrator. The district courts of the United States shall have exclusive original jurisdiction of all such actions regardless of the amount involved. This subsection shall not apply to funds held in escrow pursuant to court order. Notwithstanding any other provision of this Act [sections 2061 to 2170, 2171, and 2172 of this Appendix], no termination date shall be applicable to this subsection.
 
-(Sept. 8, 1950, ch. 932, title VII, §717, formerly §716, 64 Stat. 822; June 30, 1951, ch. 198, §1, 65 Stat. 110; renumbered §717, July 31, 1951, ch. 275, title I, §§110(b), 111, 65 Stat. 144; June 30, 1952, ch. 530, title I, §§120, 121(b), 66 Stat. 306; June 30, 1953, ch. 170, §20, 67 Stat. 126; June 30, 1953, ch. 171, §§11, 12, 67 Stat. 131; June 30, 1955, ch. 251, §5, 69 Stat. 225; Aug. 9, 1955, ch. 655, §10, 69 Stat. 583; June 29, 1956, ch. 474, §1, 70 Stat. 408; Pub. L. 85–471, June 28, 1958, 72 Stat. 241; Pub. L. 86–560, §1, June 30, 1960, 74 Stat. 282; Pub. L. 87–505, June 28, 1962, 76 Stat. 112; Pub. L. 88–343, §1, June 30, 1964, 78 Stat. 235; Pub. L. 89–482, §1, June 30, 1966, 80 Stat. 235; Pub. L. 90–370, §1, July 1, 1968, 82 Stat. 279; Pub. L. 91–300, June 30, 1970, 84 Stat. 367; Pub. L. 91–371, Aug. 1, 1970, 84 Stat. 694; Pub. L. 91–379, title I, §101, Aug. 15, 1970, 84 Stat. 796; Pub. L. 92–15, §2, May 18, 1971, 85 Stat. 38; Pub. L. 92–325, §2, June 30, 1972, 86 Stat. 390; Pub. L. 93–323, June 30, 1974, 88 Stat. 280; Pub. L. 93–367, Aug. 7, 1974, 88 Stat. 419; Pub. L. 93–426, §4, Sept. 30, 1974, 88 Stat. 1167; Pub. L. 94–42, §1, June 28, 1975, 89 Stat. 232; Pub. L. 94–100, §1, Oct. 1, 1975, 89 Stat. 483; Pub. L. 94–152, §2, Dec. 16, 1975, 89 Stat. 810; Pub. L. 95–37, §2, June 1, 1977, 91 Stat. 178; Pub. L. 96–77, Sept. 29, 1979, 93 Stat. 588; Pub. L. 96–188, Jan. 28, 1980, 94 Stat. 3; Pub. L. 96–225, Apr. 3, 1980, 94 Stat. 310; Pub. L. 96–250, May 26, 1980, 94 Stat. 371; Pub. L. 96–294, title I, §105(b), June 30, 1980, 94 Stat. 633; Pub. L. 97–47, §1, Sept. 30, 1981, 95 Stat. 954; Pub. L. 97–336, Oct. 15, 1982, 96 Stat. 1630; Pub. L. 98–12, Mar. 29, 1983, 97 Stat. 53; Pub. L. 98–181, title I [title VII, §703], Nov. 30, 1983, 97 Stat. 1267; Pub. L. 98–265, §2, Apr. 17, 1984, 98 Stat. 149; Pub. L. 99–441, §2, Oct. 3, 1986, 100 Stat. 1117; Pub. L. 101–137, §9(a), Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–351, §1, Aug. 9, 1990, 104 Stat. 404; Pub. L. 101–407, §1, Oct. 4, 1990, 104 Stat. 882; Pub. L. 101–411, §1, Oct. 6, 1990, 104 Stat. 893; Pub. L. 102–99, §§2, 8, Aug. 17, 1991, 105 Stat. 487, 490; Pub. L. 102–193, §1, Dec. 6, 1991, 105 Stat. 1593; Pub. L. 102–558, title I, §162, Oct. 28, 1992, 106 Stat. 4219; Pub. L. 104–64, §2, Dec. 18, 1995, 109 Stat. 689; Pub. L. 105–261, div. A, title X, §1072(a), Oct. 17, 1998, 112 Stat. 2137; Pub. L. 106–65, div. A, title X, §1063(a), Oct. 5, 1999, 113 Stat. 769; Pub. L. 106–363, §1, Oct. 27, 2000, 114 Stat. 1407; Pub. L. 107–47, §2, Oct. 5, 2001, 115 Stat. 260; Pub. L. 108–195, §2(a), Dec. 19, 2003, 117 Stat. 2892; Pub. L. 110–367, §2, Oct. 8, 2008, 122 Stat. 4026; Pub. L. 111–67, §2(a)(1), Sept. 30, 2009, 123 Stat. 2006.)
+(Sept. 8, 1950, ch. 932, title VII, §717, formerly §716, 64 Stat. 822; June 30, 1951, ch. 198, §1, 65 Stat. 110; renumbered §717, July 31, 1951, ch. 275, title I, §§110(b), 111, 65 Stat. 144; June 30, 1952, ch. 530, title I, §§120, 121(b), 66 Stat. 306; June 30, 1953, ch. 170, §20, 67 Stat. 126; June 30, 1953, ch. 171, §§11, 12, 67 Stat. 131; June 30, 1955, ch. 251, §5, 69 Stat. 225; Aug. 9, 1955, ch. 655, §10, 69 Stat. 583; June 29, 1956, ch. 474, §1, 70 Stat. 408; Pub. L. 85–471, June 28, 1958, 72 Stat. 241; Pub. L. 86–560, §1, June 30, 1960, 74 Stat. 282; Pub. L. 87–505, June 28, 1962, 76 Stat. 112; Pub. L. 88–343, §1, June 30, 1964, 78 Stat. 235; Pub. L. 89–482, §1, June 30, 1966, 80 Stat. 235; Pub. L. 90–370, §1, July 1, 1968, 82 Stat. 279; Pub. L. 91–300, June 30, 1970, 84 Stat. 367; Pub. L. 91–371, Aug. 1, 1970, 84 Stat. 694; Pub. L. 91–379, title I, §101, Aug. 15, 1970, 84 Stat. 796; Pub. L. 92–15, §2, May 18, 1971, 85 Stat. 38; Pub. L. 92–325, §2, June 30, 1972, 86 Stat. 390; Pub. L. 93–323, June 30, 1974, 88 Stat. 280; Pub. L. 93–367, Aug. 7, 1974, 88 Stat. 419; Pub. L. 93–426, §4, Sept. 30, 1974, 88 Stat. 1167; Pub. L. 94–42, §1, June 28, 1975, 89 Stat. 232; Pub. L. 94–100, §1, Oct. 1, 1975, 89 Stat. 483; Pub. L. 94–152, §2, Dec. 16, 1975, 89 Stat. 810; Pub. L. 95–37, §2, June 1, 1977, 91 Stat. 178; Pub. L. 96–77, Sept. 29, 1979, 93 Stat. 588; Pub. L. 96–188, Jan. 28, 1980, 94 Stat. 3; Pub. L. 96–225, Apr. 3, 1980, 94 Stat. 310; Pub. L. 96–250, May 26, 1980, 94 Stat. 371; Pub. L. 96–294, title I, §105(b), June 30, 1980, 94 Stat. 633; Pub. L. 97–47, §1, Sept. 30, 1981, 95 Stat. 954; Pub. L. 97–336, Oct. 15, 1982, 96 Stat. 1630; Pub. L. 98–12, Mar. 29, 1983, 97 Stat. 53; Pub. L. 98–181, title I [title VII, §703], Nov. 30, 1983, 97 Stat. 1267; Pub. L. 98–265, §2, Apr. 17, 1984, 98 Stat. 149; Pub. L. 99–441, §2, Oct. 3, 1986, 100 Stat. 1117; Pub. L. 101–137, §9(a), Nov. 3, 1989, 103 Stat. 826; Pub. L. 101–351, §1, Aug. 9, 1990, 104 Stat. 404; Pub. L. 101–407, §1, Oct. 4, 1990, 104 Stat. 882; Pub. L. 101–411, §1, Oct. 6, 1990, 104 Stat. 893; Pub. L. 102–99, §§2, 8, Aug. 17, 1991, 105 Stat. 487, 490; Pub. L. 102–193, §1, Dec. 6, 1991, 105 Stat. 1593; Pub. L. 102–558, title I, §162, Oct. 28, 1992, 106 Stat. 4219; Pub. L. 104–64, §2, Dec. 18, 1995, 109 Stat. 689; Pub. L. 105–261, div. A, title X, §1072(a), Oct. 17, 1998, 112 Stat. 2137; Pub. L. 106–65, div. A, title X, §1063(a), Oct. 5, 1999, 113 Stat. 769; Pub. L. 106–363, §1, Oct. 27, 2000, 114 Stat. 1407; Pub. L. 107–47, §2, Oct. 5, 2001, 115 Stat. 260; Pub. L. 108–195, §2(a), Dec. 19, 2003, 117 Stat. 2892; Pub. L. 110–367, §2, Oct. 8, 2008, 122 Stat. 4026; Pub. L. 111–67, §2(a)(1), Sept. 30, 2009, 123 Stat. 2006; Pub. L. 113–172, §1, Sept. 26, 2014, 128 Stat. 1896.)
 
 #### References in Text ####
 
 The Agricultural Marketing Agreement Act of 1937, referred to in subsec. (d), is act June 3, 1937, ch. 296, 50 Stat. 246, which is classified principally to chapter 26A (§671 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 674 of Title 7 and Tables.
 
 #### Amendments ####
+
+**2014**—Subsec. (a). Pub. L. 113–172 substituted "2019" for "2014" and struck out"on or after the date of enactment of the Defense Production Act Reauthorization of 2009" before "shall be effective".
 
 **2009**—Subsec. (a). Pub. L. 111–67, §2(a)(1)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: "Title I (except section 104), title III, and title VII (except sections 707, 708, and 721), and all authority conferred thereunder, shall terminate at the close of September 30, 2009: *Provided*, That all authority hereby or hereafter extended under title III of this Act shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts. Section 714 of this Act, and all authority conferred thereunder, shall terminate at the close of July 31, 1953. Section 104, and title II, and title VI of this Act, and all authority conferred thereunder, shall terminate at the close of June 30, 1953. Title IV and V of this Act, and all authority conferred thereunder, shall terminate at the close of April 30, 1953."
 
@@ -16894,63 +16918,83 @@ Subsec. (c). Pub. L. 112–87, §311(c)(2), substituted "report referred to in s
 
 #### (a) Committee established ####
 
-There is established the Defense Production Act Committee (in this section referred to as the "Committee"), which shall advise the President on the effective use of the authority under this Act [sections 2061 to 2170, 2171, and 2172 of this Appendix] by the departments, agencies, and independent establishments of the Federal Government to which the President has delegated authority under this Act.
+There is established the Defense Production Act Committee (in this section referred to as the "Committee"), which shall coordinate and plan for on <sup><a href="#2171_1_target" name="2171_1">1</a></sup> the effective use of the priorities and allocations authorities under this Act [sections 2061 to 2170, 2171, and 2172 of this Appendix] by the departments, agencies, and independent establishments of the Federal Government to which the President has delegated authority under this Act.
 
 #### (b) Membership ####
 
-#### (1) In general ####
-
-The members of the Committee shall be—
+(1) In general.—The members of the Committee shall be—
 
 (A) the head of each Federal agency to which the President has delegated authority under this Act [sections 2061 to 2170, 2171, and 2172 of this Appendix]; and
 
 (B) the Chairperson of the Council of Economic Advisors.
 
-#### (2) Chairperson ####
+(2) The Chairperson of the Committee shall be the head of the agency to which the President has delegated primary responsibility for government-wide coordination of the authorities in this Act.
 
-The President shall designate 1 member of the Committee as the Chairperson of the Committee.
+#### (c) Coordination of Committee activities ####
 
-#### (c) Executive Director ####
+The Chairperson shall appoint one person to coordinate all of the activities of the Committee, and such person shall—
 
-#### (1) In general ####
+(1) be a full-time employee of the Federal Government;
 
-The President shall appoint an Executive Director of the Defense Production Act Committee (in this section referred to as the "Executive Director"), who shall—
+(2) report to the Chairperson; and
 
-(A) be responsible to the Chairperson of the Committee; and
-
-(B) carry out such activities relating to the Committee as the Chairperson may determine.
-
-#### (2) Appointment ####
-
-The appointment by the President shall not be subject to the advice and consent of the Senate.
-
-#### (3) Compensation ####
-
-For pay periods beginning on or after the date on which each Chairperson is appointed, funds for the pay of the Executive Director shall be paid from appropriations to the salaries and expenses account of the department or agency of the Chairperson of the Committee. The Executive Director shall be compensated at a rate of pay equivalent to that of a Deputy Assistant Secretary (or a comparable position) of the Federal agency of the Chairperson of the Committee.
+(3) carry out such activities relating to the Committee as the Chairperson may determine appropriate.
 
 #### (d) Report ####
 
-Not later than the end of the first quarter of each calendar year, the Committee shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report signed by each member of the Committee that contains—
+The Committee shall issue a report each year by March 31 to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report signed by the Chairperson that contains—
 
-(1) a review of the authority under this Act [sections 2061 to 2170, 2171, and 2172 of this Appendix] of each department, agency, or independent establishment of the Federal Government to which the President has delegated authority under this Act;
+(1) a description of the contingency planning by each department, agency, or independent establishment of the Federal Government to which the President has delegated authority under this Act [sections 2061 to 2170, 2171, and 2172 of this Appendix] for events that might require the use of the priorities and allocations authorities;
 
-(2) recommendations for the effective use of the authority described in paragraph (1) in a manner consistent with the statement of policy under section 2(b) [section 2062(b) of this Appendix];
+(2) recommendations for the effective use of the priorities and allocations authorities in this Act in a manner consistent with the statement of policy under section 2(b) [section 2062(b) of this Appendix];
 
-(3) recommendations for legislation, regulations, executive orders, or other action by the Federal Government necessary to improve the use of the authority described in paragraph (1); and
+(3) recommendations for legislation actions, as appropriate, to support the effective use of the priorities and allocations authorities in this Act;
 
-(4) recommendations for improving information sharing between departments, agencies, and independent establishments of the Federal Government relating to all aspects of the authority described in paragraph (1).
+(4) recommendations for improving information sharing between departments, agencies, and independent establishments of the Federal Government relating to the use of the priorities and allocations authorities in this Act;
+
+(5) up-to-date copies of the rules described under section 101(d)(1) [section 2071(d)(1) of this Appendix]; and
+
+(6) short attestations signed by each member of the Committee stating their concurrence in the report.
 
 #### (e) Federal Advisory Committee Act ####
 
 The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
 
-(Sept. 8, 1950, ch. 932, title VII, §722, as added Pub. L. 102–558, title I, §135, Oct. 28, 1992, 106 Stat. 4212; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 111–67, §11, Sept. 30, 2009, 123 Stat. 2019.)
+(Sept. 8, 1950, ch. 932, title VII, §722, as added Pub. L. 102–558, title I, §135, Oct. 28, 1992, 106 Stat. 4212; amended Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 111–67, §11, Sept. 30, 2009, 123 Stat. 2019; Pub. L. 113–172, §2, Sept. 26, 2014, 128 Stat. 1896.)
 
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments ####
+
+**2014**—Subsec. (a). Pub. L. 113–172, §2(1), substituted "coordinate and plan for" for "advise the President" and "the priorities and allocations authorities" for "the authority".
+
+Subsec. (b)(2). Pub. L. 113–172, §2(2), amended par. (2) generally. Prior to amendment, text read as follows: "The President shall designate 1 member of the Committee as the Chairperson of the Committee."
+
+Subsec. (c). Pub. L. 113–172, §2(3), amended subsec. (c) generally. Prior to amendment, text read as follows:
+
+"(1) In general.—The President shall appoint an Executive Director of the Defense Production Act Committee (in this section referred to as the 'Executive Director'), who shall—
+
+"(A) be responsible to the Chairperson of the Committee; and
+
+"(B) carry out such activities relating to the Committee as the Chairperson may determine.
+
+"(2) Appointment.—The appointment by the President shall not be subject to the advice and consent of the Senate.
+
+"(3) Compensation.—For pay periods beginning on or after the date on which each Chairperson is appointed, funds for the pay of the Executive Director shall be paid from appropriations to the salaries and expenses account of the department or agency of the Chairperson of the Committee. The Executive Director shall be compensated at a rate of pay equivalent to that of a Deputy Assistant Secretary (or a comparable position) of the Federal agency of the Chairperson of the Committee."
+
+Subsec. (d). Pub. L. 113–172, §2(4)(A), (B), in introductory provisions, substituted "The Committee shall issue a report each year by March 31" for "Not later than the end of the first quarter of each calendar year, the Committee shall submit" and "the Chairperson" for "each member of the Committee".
+
+Subsec. (d)(1). Pub. L. 113–172, §2(4)(C), substituted "a description of the contingency planning by" for "a review of the authority under this Act of" and inserted before semicolon at end "for events that might require the use of the priorities and allocations authorities".
+
+Subsec. (d)(2). Pub. L. 113–172, §2(4)(D), substituted "priorities and allocations authorities in this Act" for "authority described in paragraph (1)".
+
+Subsec. (d)(3). Pub. L. 113–172, §2(4)(E), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "recommendations for legislation, regulations, executive orders, or other action by the Federal Government necessary to improve the use of the authority described in paragraph (1); and".
+
+Subsec. (d)(4). Pub. L. 113–172, §2(4)(F), substituted "the use of the priorities and allocations authorities in this Act;" for "all aspects of the authority described in paragraph (1)."
+
+Subsec. (d)(5), (6). Pub. L. 113–172, §2(4)(G), added pars. (5) and (6).
 
 **2009**—Pub. L. 111–67 amended section generally. Prior to amendment, section related to defense industrial base information system with regard to its establishment, sources of information, strategic plan for developing comprehensive system, capabilities, and required report on subcontractor and supplier base.
 
@@ -16975,6 +17019,8 @@ Furthermore, the Chairperson shall invite to each meeting of the Committee all M
 The Secretary of Homeland Security is hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.
+
+[<sup>1</sup> So in original. The word "on" probably should not appear.](#2171_1)
 
 ### §2172. Annual report on impact of offsets ###
 
