@@ -224,7 +224,29 @@ There are authorized to be appropriated to carry out this section $60,153,000 fo
 
 In this section, the term "local area" means the smallest geographical area for which data can be produced with statistical reliability.
 
-(June 6, 1933, ch. 49, §15, as added Pub. L. 105–220, title III, §309(2), Aug. 7, 1998, 112 Stat. 1082; amended Pub. L. 105–277, div. A, §101(f) [title VIII, §403(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 105–332, §5(b)(1), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 109–270, §2(g), Aug. 12, 2006, 120 Stat. 747; Pub. L. 113–128, title III, §308, July 22, 2014, 128 Stat. 1627.)
+(June 6, 1933, ch. 49, §15, as added Pub. L. 105–220, title III, §309(2), Aug. 7, 1998, 112 Stat. 1082; amended Pub. L. 105–277, div. A, §101(f) [title VIII, §403(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 105–332, §5(b)(1), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 109–270, §2(g), Aug. 12, 2006, 120 Stat. 747; Pub. L. 113–128, title III, §308, July 22, 2014, 128 Stat. 1627; Pub. L. 115–224, title III, §301, July 31, 2018, 132 Stat. 1622.)
+
+#### Amendment of Subsection (e)(2) ####
+
+Pub. L. 115–224, §4, title III, §301, July 31, 2018, 132 Stat. 1564, 1622, provided that, effective July 1, 2019, subsection (e)(2) of this section is amended—
+
+(1) by striking subparagraph (B) and inserting the following:
+
+*"(B) consult with eligible agencies (defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302)), State educational agencies, and local educational agencies concerning the provision of workforce and labor market information in order to—*
+
+*"(i) meet the needs of secondary school and postsecondary school students who seek such information; and*
+
+*"(ii) annually inform the development and implementation of programs of study defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302), and career pathways;";*
+
+(2) in subparagraph (G), by striking "and" after the semicolon;
+
+(3) in subparagraph (H), by striking the period at the end and inserting "; and"; and
+
+(4) by adding at the end the following:
+
+*"(I) provide, on an annual and timely basis to each eligible agency (defined in section 3 of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302)), the data and information described in subparagraphs (A) and (B) of subsection (a)(1)."*
+
+See 2018 Amendment notes below.
 
 #### References in Text ####
 
@@ -239,6 +261,10 @@ The Carl D. Perkins Career and Technical Education Act of 2006, referred to in s
 A prior section 15 of act of June 6, 1933, was renumbered section 16, and is set out as a Short Title note under section 49 of this title.
 
 #### Amendments ####
+
+**2018**—Subsec. (e)(2)(B). Pub. L. 115–224, §301(1), added subpar. (B) and struck out former subpar. (B) which read as follows: "consult with State educational agencies and local educational agencies concerning the provision of workforce and labor market information in order to meet the needs of secondary school and postsecondary school students who seek such information;".
+
+Subsec. (e)(2)(I). Pub. L. 115–224, §301(2)–(4), added subpar. (I).
 
 **2014**—Pub. L. 113–128, §308(a), substituted "Workforce and labor market information system" for "Employment statistics" in section catchline.
 
@@ -271,6 +297,10 @@ Subsec. (g). Pub. L. 113–128, §308(g), substituted "$60,153,000 for fiscal ye
 Pub. L. 105–277, §101(f) [title VIII, §403(a)(1)(A)], struck out "of this section" after "statistical purposes".
 
 Subsec. (e)(2)(G). Pub. L. 105–277, §101(f) [title VIII, §403(a)(1)(B)], and Pub. L. 105–332, §5(b)(1)(B), amended subpar. (G) identically, substituting "complementarity" for "complementary".
+
+#### Effective Date of 2018 Amendment ####
+
+Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of Title 20, Education.
 
 #### Effective Date of 2014 Amendment ####
 
