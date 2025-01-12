@@ -134,7 +134,7 @@ Pub. L. 117–263, div. A, title II, §219, Dec. 23, 2022, 136 Stat. 2477, provi
 
 "(2) National security agency.—The Director of the National Security Agency shall take such actions as may be necessary to satisfy the requirements established under paragraph (1).
 
-"(3) Briefing.—Not later than 120 days after the date of the enactment of this Act, the Under Secretary of Defense for Research and Engineering and the Director of the National Security Agency shall jointly provide the congressional defense committees a briefing on the requirements and the schedule for support established under paragraph (1).
+"(3) Briefing.—Not later than 120 days after the date of the enactment of this Act, the Under Secretary of Defense for Research and Engineering and the Director of the National Security Agency shall jointly provide the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on the requirements and the schedule for support established under paragraph (1).
 
 "(c) Assessment.—
 
@@ -144,7 +144,7 @@ Pub. L. 117–263, div. A, title II, §219, Dec. 23, 2022, 136 Stat. 2477, provi
 
 "(B) expand the use of unprogrammed custom-designed integrated circuits that are not controlled by such regulations.
 
-"(2) Briefing.—Not later than April 1, 2023, the Secretary of Defense shall provide the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on the findings of the Secretary with respect to the assessment conducted under paragraph (1)."
+"(2) Briefing.—Not later than April 1, 2023, the Secretary of Defense shall provide the congressional defense committees a briefing on the findings of the Secretary with respect to the assessment conducted under paragraph (1)."
 
 #### Government-Industry-Academia Working Group on Microelectronics ####
 

@@ -19,3 +19,5 @@ Sec.
 1708. Actions to address economic or industrial espionage in cyberspace.
 
 1709. Imposition of sanctions with respect to theft of trade secrets of United States persons.
+
+1710. Confronting asymmetric and malicious cyber activities.

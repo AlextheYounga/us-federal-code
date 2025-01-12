@@ -276,9 +276,9 @@ Pub. L. 117–263, div. A, title XV, §1509, Dec. 23, 2022, 136 Stat. 2886, prov
 
 "(10) The physical locations of the offices established pursuant to subsection (a)(1).
 
-"(i) Briefing Required.—Not later than 540 days after the date of the enactment of this Act [Dec. 23, 2022], the Under Secretary of Defense for Acquisition and Sustainment and the Commander of the United States Cyber Command shall jointly provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] briefing on the status of the implementation of this section.
+"(i) Briefing Required.—Not later than 540 days after the date of the enactment of this Act [Dec. 23, 2022], the Under Secretary of Defense for Acquisition and Sustainment and the Commander of the United States Cyber Command shall jointly provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on the status of the implementation of this section.
 
-"(j) Repeal.—Section 1645 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 4571 note prec.) is repealed.
+"(j) Repeal.—[Repealed section 1645 of Pub. L. 114–92, formerly set out as a note preceding section 4571 of this title.]
 
 "(k) Joint Cyber Warfighting Architecture Defined.—In this section, the term 'Joint Cyber Warfighting Architecture' means the range of joint cyber warfighting systems and capabilities that support the full spectrum of military cyber operations, as designated by the Commander of the United States Cyber Command, and includes any such successor effort."
 

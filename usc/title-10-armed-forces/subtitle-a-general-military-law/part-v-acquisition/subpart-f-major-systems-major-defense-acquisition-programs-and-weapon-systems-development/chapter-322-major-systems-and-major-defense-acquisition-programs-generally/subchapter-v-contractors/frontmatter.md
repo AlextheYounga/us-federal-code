@@ -14,7 +14,7 @@ Sec.
 
 Pub. L. 114–328, div. A, title VIII, §883, Dec. 23, 2016, 130 Stat. 2316, as amended by Pub. L. 117–263, div. A, title VIII, §819, Dec. 23, 2022, 136 Stat. 2709; Pub. L. 118–31, div. A, title VIII, §855, Dec. 22, 2023, 137 Stat. 345, provided that:
 
-"(a) Authority.—The Secretary of Defense may carry out a eight-year pilot program under which the Secretary may make available storage and distribution services support to a contractor in support of the performance by the contractor of a contract for the production, modification, maintenance, or repair of a weapon system that is entered into by the Department of Defense.
+"(a) Authority.—The Secretary of Defense may carry out a [sic] eight-year pilot program under which the Secretary may make available storage and distribution services support to a contractor in support of the performance by the contractor of a contract for the production, modification, maintenance, or repair of a weapon system that is entered into by the Department of Defense.
 
 "(b) Support Contracts.—
 

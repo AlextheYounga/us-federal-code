@@ -335,7 +335,7 @@ Chap. Sec.
 
 325. Cost Growth-Unit Cost Reports (Nunn-McCurdy) 4371
 
-326. 4 Weapon Systems Development And Related Matters 4401
+326. 4 Weapon Systems Development And 5 Related Matters 4401
 
 #### subpart f—major systems, major defense acquisition programs, and weapon systems development <sup><a href="#PARTVanalysis_3_target" name="PARTVanalysis_3">3</a></sup> ####
 
@@ -544,3 +544,5 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 [<sup>3</sup> See Amendment note below for Pub. L. 118–31, div. A, title XVIII, §1801(a)(1)(G).](#PARTVanalysis_3)
 
 [<sup>4</sup> So in original. Probably should be "327."](#PARTVanalysis_4)
+
+[<sup>5</sup> So in original. Probably should not be capitalized.](#PARTVanalysis_5)

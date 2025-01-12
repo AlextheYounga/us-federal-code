@@ -18,4 +18,4 @@ Pub. L. 118–47, div. F, title VII, §7071(d)(2), Mar. 23, 2024, 138 Stat. 852,
 
 #### Effective Date of Repeal ####
 
-Pub. L. 118–47, div. F, title VII, §7071(d)(2), Mar. 23, 2024, 138 Stat. 852, provided that, effective on the date that is 10 years after Mar. 23, 2024, this section, as added by subsec. (d)(1) of section 7071 of title VII of div. F of Pub. L. 118–47, is repealed.
+Pub. L. 118–47, div. F, title VII, §7071(d)(2), Mar. 23, 2024, 138 Stat. 852, provided that the repeal of this section is effective on the date that is 10 years after Mar. 23, 2024.

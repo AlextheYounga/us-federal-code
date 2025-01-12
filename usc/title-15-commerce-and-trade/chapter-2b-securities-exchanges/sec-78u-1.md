@@ -188,7 +188,7 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 
 Section not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out as an Effective Date of 1988 Amendment note under section 78o of this title.
 
-#### Affirmation of Duty Of Government Officers and Employees ####
+#### Affirmation of Duty of Government Officers and Employees ####
 
 Pub. L. 112–105, §4(b)(1), Apr. 4, 2012, 126 Stat. 292, provided that: "The purpose of the amendment made by this subsection [amending this section] is to affirm a duty arising from a relationship of trust and confidence owed by each Member of Congress and each employee of Congress."
 

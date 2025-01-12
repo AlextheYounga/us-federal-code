@@ -14,6 +14,8 @@ Sec.
 
 2313. Description of sanctions.
 
+2313a. Designation of transactions of sanctioned persons as of primary money laundering concern.
+
 2314. Waivers.
 
 2315. Procedures for judicial review of classified information.

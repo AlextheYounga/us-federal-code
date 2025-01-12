@@ -460,7 +460,7 @@ Pub. L. 115–91, div. A, title XI, §1101, Dec. 12, 2017, 131 Stat. 1627, autho
 
 Pub. L. 115–91, div. A, title XI, §1110, Dec. 12, 2017, 131 Stat. 1631, provided that:
 
-"(a) Pilot Program Required.—The Secretary of Defense shall carry out within the Department of Defense a pilot program to assess the feasability and advisability of an enhanced personnel management system in accordance with this section for cybersecurity and legal professionals in the Department described in subsection (b) who enter civilian service with the Department on or after January 1, 2020.
+"(a) Pilot Program Required.—The Secretary of Defense shall carry out within the Department of Defense a pilot program to assess the feasability [sic] and advisability of an enhanced personnel management system in accordance with this section for cybersecurity and legal professionals in the Department described in subsection (b) who enter civilian service with the Department on or after January 1, 2020.
 
 "(b) Cybersecurity and Legal Professionals.—
 

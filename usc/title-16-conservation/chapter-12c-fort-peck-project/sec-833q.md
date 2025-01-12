@@ -8,7 +8,7 @@ Under regulations prescribed by the Secretary of the Army, payments may be made,
 
 #### Codification ####
 
-Section was not enacted as part of act May 18, 1938 which comprises this chapter.
+Section was not enacted as part of act May 18, 1938, which comprises this chapter.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

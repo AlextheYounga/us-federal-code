@@ -106,7 +106,7 @@ Pub. L. 118–31, div. A, title III, §318, Dec. 22, 2023, 137 Stat. 218, provid
 
 "(c) Definitions.—In this section:
 
-(1) The term 'greenhouse gas' means—
+"(1) The term 'greenhouse gas' means—
 
 "(A) carbon dioxide;
 

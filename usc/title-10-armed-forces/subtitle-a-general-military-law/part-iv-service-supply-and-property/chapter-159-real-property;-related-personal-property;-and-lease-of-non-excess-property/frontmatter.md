@@ -442,7 +442,7 @@ Pub. L. 116–92, div. A, title III, §§322–324, Dec. 20, 2019, 133 Stat. 130
 
 "(1) The term 'perfluoroalkyl substances' means aliphatic substances for which all of the H atoms attached to C atoms in the nonfluorinated substance from which they are notionally derived have been replaced by F atoms, except those H atoms whose substitution would modify the nature of any functional groups present.
 
-"(2) The term 'polyfluoroalkyl substances'means aliphatic substances for which all H atoms attached to at least one (but not all) C atoms have been replaced by F atoms, in such a manner that they contain the perfluoroalkyl moiety CnF2n+1\_\_ (for example, C8F17CH2CH2OH).
+"(2) The term 'polyfluoroalkyl substances' means aliphatic substances for which all H atoms attached to at least one (but not all) C atoms have been replaced by F atoms, in such a manner that they contain the perfluoroalkyl moiety CnF2n+1\_\_ (for example, C8F17CH2CH2OH).
 
 #### "SEC. 323. PROHIBITION OF UNCONTROLLED RELEASE OF FLUORINATED AQUEOUS FILM-FORMING FOAM AT MILITARY INSTALLATIONS. ####
 

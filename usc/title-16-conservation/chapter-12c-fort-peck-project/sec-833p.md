@@ -8,4 +8,4 @@ All designations of Indian lands pursuant to sections 833l to 833p of this title
 
 #### Codification ####
 
-Section was not enacted as part of act May 18, 1938 which comprises this chapter.
+Section was not enacted as part of act May 18, 1938, which comprises this chapter.
