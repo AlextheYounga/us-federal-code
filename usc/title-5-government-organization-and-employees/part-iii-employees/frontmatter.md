@@ -123,7 +123,7 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 117–81, §5312(c), Dec. 27, 2021, 135 Stat. 2365, which directed amendment of the table of chapters at the beginning of title 5 by inserting item for chapter 103, was executed by making the amendment in the front matter to this part to reflect the probable intent of Congress.
+**2021**—Pub. L. 117–81, Div. E, title LIII, §5312(c), Dec. 27, 2021, 135 Stat. 2365, which directed amendment of the table of chapters at the beginning of title 5 by inserting item for chapter 103, was executed by making the amendment in the front matter to this part to reflect the probable intent of Congress.
 
 **2019**—Pub. L. 116–92, div. A, title XI, §1122(c), Dec. 20, 2019, 133 Stat. 1608, added item for chapter 92.
 

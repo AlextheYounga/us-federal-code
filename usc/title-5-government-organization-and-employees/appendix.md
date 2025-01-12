@@ -468,11 +468,11 @@ William J. Clinton.
 
 #### Continuance of Certain Federal Advisory Committees ####
 
-Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, as amended by Ex. Ord. No. 13935, §4(a), July 9, 2020, 85 F.R. 42685, provided:
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, provided:
 
 By the authority vested in me as President, by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
 
-Section 1. Each advisory committee listed below is continued until September 30, 2021.
+Section 1. Each advisory committee listed below is continued or, to the extent necessary, reestablished until September 30, 2023.
 
 (a) Committee for the Preservation of the White House; Executive Order 11145, as amended (Department of the Interior).
 
@@ -480,49 +480,49 @@ Section 1. Each advisory committee listed below is continued until September 30,
 
 (c) President's Committee on the National Medal of Science; Executive Order 11287, as amended (National Science Foundation).
 
-(d) President's Export Council; Executive Order 12131, as amended (Department of Commerce).
+(d) Federal Advisory Council on Occupational Safety and Health; Executive Order 11612, as amended (Department of Labor).
 
-(e) President's Committee on the International Labor Organization; Executive Order 12216, as amended (Department of Labor).
+(e) President's Export Council; Executive Order 12131, as amended (Department of Commerce).
 
-(f) President's National Security Telecommunications Advisory Committee; Executive Order 12382, as amended (Department of Homeland Security).
+(f) President's Committee on the International Labor Organization; Executive Order 12216, as amended (Department of Labor).
 
-(g) National Industrial Security Program Policy Advisory Committee; Executive Order 12829, as amended (National Archives and Records Administration).
+(g) President's National Security Telecommunications Advisory Committee; Executive Order 12382, as amended (Department of Homeland Security).
 
-(h) Trade and Environment Policy Advisory Committee; Executive Order 12905 (Office of the United States Trade Representative).
+(h) National Industrial Security Program Policy Advisory Committee; Executive Order 12829, as amended (National Archives and Records Administration).
 
-(i) Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation; Executive Order 12915 (Environmental Protection Agency).
+(i) Trade and Environment Policy Advisory Committee; Executive Order 12905 (Office of the United States Trade Representative).
 
-(j) National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation; Executive Order 12915 (Environmental Protection Agency).
+(j) Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation; Executive Order 12915 (Environmental Protection Agency).
 
-(k) Good Neighbor Environmental Board; Executive Order 12916, as amended (Environmental Protection Agency).
+(k) National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation; Executive Order 12915 (Environmental Protection Agency).
 
-(l) Presidential Advisory Council on HIV/AIDS; Executive Order 12963, as amended (Department of Health and Human Services).
+(l) Good Neighbor Environmental Board; Executive Order 12916, as amended (Environmental Protection Agency).
 
-(m) President's Committee for People with Intellectual Disabilities; Executive Order 12994, as amended (Department of Health and Human Services).
+(m) Presidential Advisory Council on HIV/AIDS; Executive Order 12963, as amended (Department of Health and Human Services).
 
-(n) Advisory Board on Radiation and Worker Health; Executive Order 13179 (Department of Health and Human Services).
+(n) President's Committee for People with Intellectual Disabilities; Executive Order 12994, as amended (Department of Health and Human Services).
 
-(o) National Infrastructure Advisory Council; Executive Order 13231, as amended (Department of Homeland Security).
+(o) Invasive Species Advisory Committee; Executive Order 13112, as amended (Department of the Interior).
 
-(p) President's Council on Sports, Fitness, and Nutrition; Executive Order 13265, as amended (Department of Health and Human Services).
+(p) Advisory Board on Radiation and Worker Health; Executive Order 13179 (Department of Health and Human Services).
 
-(q) President's Advisory Commission on Asian Americans and Pacific Islanders; Executive Order 13872 (Department of Commerce).
+(q) National Infrastructure Advisory Council; Executive Order 13231, as amended (Department of Homeland Security).
 
-(r) President's Council of Advisors on Science and Technology; Executive Order 13539, as amended (Department of Energy).
+(r) President's Council on Sports, Fitness, and Nutrition; Executive Order 13265, as amended (Department of Health and Human Services).
 
 (s) Interagency Task Force on Veterans Small Business Development; Executive Order 13540 (Small Business Administration).
 
 (t) State, Local, Tribal, and Private Sector (SLTPS) Policy Advisory Committee; Executive Order 13549 (National Archives and Records Administration).
 
-(u) [Superseded by Ex. Ord. No. 13935, §4(a), July 9, 2020, 85 F.R. 42685, set out as a note under section 3411 of Title 20, Education.]
+(u) President's Advisory Commission on Educational Excellence for African Americans; Executive Order 13621 (Department of Education).
 
-(v) President's Advisory Commission on Educational Excellence for African Americans; Executive Order 13621 (Department of Education).
+(v) President's Advisory Council on Doing Business in Africa; Executive Order 13675, as amended (Department of Commerce).
 
-(w) President's Advisory Council on Doing Business in Africa; Executive Order 13675, as amended (Department of Commerce).
+(w) Commerce Spectrum Management Advisory Committee; initially established pursuant to Presidential Memorandum on Improving Spectrum Management for the 21st Century (November 29, 2004) (Department of Commerce).
 
-(x) Commerce Spectrum Management Advisory Committee; initially established pursuant to Presidential Memorandum on Improving Spectrum Management for the 21st Century (November 30, 2004) (Department of Commerce).
+(x) National Space-Based Positioning, Navigation, and Timing Advisory Board; National Security Presidential Directive-39, "U.S. National Space-Based Position, Navigation, and Timing Policy" (December 8, 2004) (National Aeronautics and Space Administration).
 
-(y) National Space-Based Positioning, Navigation, and Timing Advisory Board; National Security Presidential Directive-39, "U.S. National Space-Based Position, Navigation, and Timing Policy" (December 8, 2004) (National Aeronautics and Space Administration).
+(y) Grand Staircase-Escalante National Monument Advisory Committee; Proclamation 6920 of September 18, 1996, as amended (Department of the Interior).
 
 (z) San Juan Islands National Monument Advisory Committee; Proclamation 8947 of March 25, 2013 (Department of the Interior).
 
@@ -530,19 +530,35 @@ Section 1. Each advisory committee listed below is continued until September 30,
 
 (bb) Gold Butte National Monument Advisory Committee; Proclamation 9559 of December 28, 2016 (Department of the Interior).
 
-(cc) Grand Staircase-Escalante National Monument Advisory Committee; Proclamation 9682 of December 4, 2017 (Department of the Interior).
+(cc) President's Council of Advisors on Science and Technology; Executive Order 14007, as amended (Department of Energy).
 
-(dd) President's Board of Advisors on Historically Black Colleges and Universities; Executive Order 13779 (Department of Education).
+(dd) White House Environmental Justice Advisory Council; Executive Order 14008 (Environmental Protection Agency).
+
+(ee) President's Advisory Commission on Asian Americans, Native Hawaiians, and Pacific Islanders; Executive Order 14031 (Department of Health and Human Services).
+
+(ff) President's Board of Advisors on Historically Black Colleges and Universities; Executive Order 14041 (Department of Education).
+
+(gg) Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics; Executive Order 14045 (Department of Education).
 
 Sec. 2. Notwithstanding the provisions of any other Executive Order, the functions of the President under the Federal Advisory Committee Act that are applicable to the committees listed in section 1 of this order shall be performed by the head of the department or agency designated after each committee, in accordance with the regulations, guidelines, and procedures established by the Administrator of General Services.
 
-Sec. 3. Sections 1 and 2 of Executive Order 13811 of September 29, 2017, are hereby superseded by sections 1 and 2 of this order.
+Sec. 3. Sections 1 and 2 of Executive Order 13889 of September 27, 2019, are hereby superseded by sections 1 and 2 of this order.
 
-Sec. 4. This order shall be effective September 30, 2019.
+Sec. 4. [Amended Ex. Ord. No. 11287, set out as a note under section 1881 of Title 42, The Public Health and Welfare.]
 
-Donald J. Trump.
+Sec. 5. [Amended Ex. Ord. No. 12382, set out as a note under section 901 of Title 47, Telecommunications.]
+
+Sec. 6. [Amended Ex. Ord. No. 13231, set out as a note under section 121 of Title 6, Domestic Security.]
+
+Sec. 7. [Amended Ex. Ord. No. 13265, set out as a note under section 300u of Title 42.]
+
+Sec. 8. This order shall be effective September 30, 2021.
+
+J.R. Biden, Jr.
 
 Provisions providing for the continuance of certain Federal advisory committees were contained in the following:
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, as amended by Ex. Ord. No. 13935, §4(a), July 9, 2020, 85 F.R. 42685, partially superseded by Ex. Ord. No. 14048, §3, Sept. 30, 2021, 86 F.R. 55466.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, partially superseded by Ex. Ord. No. 13889, §3, Sept. 27, 2019, 84 F.R. 52745.
 
@@ -665,7 +681,7 @@ Except as provided in section 7(b), this Act shall become effective upon the exp
 INSPECTOR GENERAL ACT OF 1978
 ==========
 
-Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, title V, §508(n), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1)–(3), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)–(c), Sept. 8, 1982, 96 Stat. 750–752; Pub. L. 99–93, title I, §150(a), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §§102(a)–(d), (f), (g), 104(a), 105–107, 109, 110, Oct. 18, 1988, 102 Stat. 2515–2529; Pub. L. 100–527, §13(h), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), title VII, §702(c), Aug. 9, 1989, 103 Stat. 393, 415; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(1), (2)(A), (3)(A), (4), (5), Sept. 21, 1993, 107 Stat. 889, 890; Pub. L. 103–204, §23(a), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–106, div. A, title XV, §1502(f)(6), div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 510, 677; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b), title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, 3009–393; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–206, title I, §1103(a)–(c)(1), (e)(1)–(3), July 22, 1998, 112 Stat. 705, 708, 709; Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 105–277, div. G, title XIII, §1314(b), title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–792; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–113, div. B, §1000(a)(7) [title II, §205], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 106–422, §1(b), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–189, §22(a), (c), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 107–296, title VIII, §§811(e), 812(a), title XI, §1112(a), title XVII, §1701, Nov. 25, 2002, 116 Stat. 2221, 2222, 2275, 2313; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 108–7, div. L, §104(b), (c)(2), Feb. 20, 2003, 117 Stat. 529, 531; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1078, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3695, 3868; Pub. L. 109–177, title VI, §605(e)(3), (4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–234, title XIV, §14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, §1105(c), July 30, 2008, 122 Stat. 2668; Pub. L. 110–409, §§2–4(a)(1), 5, 6(a), (b), 7(a), (d)(1), 8, 9, 11–13(a), 14, Oct. 14, 2008, 122 Stat. 4302, 4305, 4313–4316; Pub. L. 110–417, [div. A], title IX, §§907, 931(b)(2), Oct. 14, 2008, 122 Stat. 4569, 4575; Pub. L. 111–13, title IV, §4101, Apr. 21, 2009, 123 Stat. 1597; Pub. L. 111–84, div. A, title X, §1042, Oct. 28, 2009, 123 Stat. 2455; Pub. L. 111–203, title IX, §§989B–989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §§405(d), 431, Oct. 7, 2010, 124 Stat. 2719, 2731; Pub. L. 112–199, title I, §117(a), (b), Nov. 27, 2012, 126 Stat. 1474, 1475; Pub. L. 112–239, div. A, title VIII, §848, title XVI, §1614, Jan. 2, 2013, 126 Stat. 1851, 2066; Pub. L. 113–126, title III, §310, title IV, §§402, 412, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1408, 1409, 1420; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. H, title IV, §401(a), div. M, title III, §304, Dec. 18, 2015, 129 Stat. 2639, 2913; Pub. L. 114–317, §§2, 3, 4(c)–6, 7(b)(1), (c), (d)(2), (3), Dec. 16, 2016, 130 Stat. 1595–1606; Pub. L. 115–141, div. P, title V, §501(a), Mar. 23, 2018, 132 Stat. 1090; Pub. L. 115–192, §2(a)–(c), June 25, 2018, 132 Stat. 1502, 1503; Pub. L. 115–254, div. F, title I, §1414, Oct. 5, 2018, 132 Stat. 3492; Pub. L. 116–92, div. A, title XVII, §§1710, 1732(b)–1734, div. E, title LXVII, §6726(c), Dec. 20, 2019, 133 Stat. 1801, 1817, 1818, 2236; Pub. L. 116–260, div. U, title V, §501(a), Dec. 27, 2020, 134 Stat. 2293.
+Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended by Pub. L. 96–88, title V, §508(n), Oct. 17, 1979, 93 Stat. 694; Pub. L. 97–113, title VII, §705(a)(1)–(3), Dec. 29, 1981, 95 Stat. 1544; Pub. L. 97–252, title XI, §1117(a)–(c), Sept. 8, 1982, 96 Stat. 750–752; Pub. L. 99–93, title I, §150(a), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99–399, title IV, §412(a), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100–504, title I, §§102(a)–(d), (f), (g), 104(a), 105–107, 109, 110, Oct. 18, 1988, 102 Stat. 2515–2529; Pub. L. 100–527, §13(h), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 101–73, title V, §501(b)(1), title VII, §702(c), Aug. 9, 1989, 103 Stat. 393, 415; Pub. L. 102–233, title III, §315(a), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 103–82, title II, §202(g)(1), (2)(A), (3)(A), (4), (5), Sept. 21, 1993, 107 Stat. 889, 890; Pub. L. 103–204, §23(a), Dec. 17, 1993, 107 Stat. 2407; Pub. L. 103–296, title I, §108(l), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 103–325, title I, §118(a), Sept. 23, 1994, 108 Stat. 2188; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–106, div. A, title XV, §1502(f)(6), div. D, title XLIII, §4322(b)(1), (3), Feb. 10, 1996, 110 Stat. 510, 677; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b), title VIII, §805(c)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379, 3009–393; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–206, title I, §1103(a)–(c)(1), (e)(1)–(3), July 22, 1998, 112 Stat. 705, 708, 709; Pub. L. 105–272, title VII, §702(b), Oct. 20, 1998, 112 Stat. 2415; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 105–277, div. G, title XIII, §1314(b), title XIV, §1422(b)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–792; Pub. L. 106–65, div. A, title X, §1067(17), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–113, div. B, §1000(a)(7) [title II, §205], Nov. 29, 1999, 113 Stat. 1536, 1501A–422; Pub. L. 106–422, §1(b), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–108, title III, §309(b), Dec. 28, 2001, 115 Stat. 1400; Pub. L. 107–189, §22(a), (c), (d), June 14, 2002, 116 Stat. 707, 708; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 107–273, div. A, title III, §308, Nov. 2, 2002, 116 Stat. 1784; Pub. L. 107–296, title VIII, §§811(e), 812(a), title XI, §1112(a), title XVII, §1701, Nov. 25, 2002, 116 Stat. 2221, 2222, 2275, 2313; Pub. L. 107–306, title VIII, §825, Nov. 27, 2002, 116 Stat. 2429; Pub. L. 108–7, div. L, §104(b), (c)(2), Feb. 20, 2003, 117 Stat. 529, 531; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–458, title I, §1078, title VIII, §8304, Dec. 17, 2004, 118 Stat. 3695, 3868; Pub. L. 109–177, title VI, §605(e)(3), (4), Mar. 9, 2006, 120 Stat. 255; Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–234, title XIV, §14217(c), May 22, 2008, 122 Stat. 1482; Pub. L. 110–246, §4(a), title XIV, §14217(c), June 18, 2008, 122 Stat. 1664, 2244; Pub. L. 110–289, div. A, title I, §1105(c), July 30, 2008, 122 Stat. 2668; Pub. L. 110–409, §§2–4(a)(1), 5, 6(a), (b), 7(a), (d)(1), 8, 9, 11–13(a), 14, Oct. 14, 2008, 122 Stat. 4302, 4305, 4313–4316; Pub. L. 110–417, [div. A], title IX, §§907, 931(b)(2), Oct. 14, 2008, 122 Stat. 4569, 4575; Pub. L. 111–13, title IV, §4101, Apr. 21, 2009, 123 Stat. 1597; Pub. L. 111–84, div. A, title X, §1042, Oct. 28, 2009, 123 Stat. 2455; Pub. L. 111–203, title IX, §§989B–989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §§405(d), 431, Oct. 7, 2010, 124 Stat. 2719, 2731; Pub. L. 112–199, title I, §117(a), (b), Nov. 27, 2012, 126 Stat. 1474, 1475; Pub. L. 112–239, div. A, title VIII, §848, title XVI, §1614, Jan. 2, 2013, 126 Stat. 1851, 2066; Pub. L. 113–126, title III, §310, title IV, §§402, 412, title VI, §603(a), July 7, 2014, 128 Stat. 1398, 1408, 1409, 1420; Pub. L. 113–235, div. H, title I, §1301(b), Dec. 16, 2014, 128 Stat. 2537; Pub. L. 114–113, div. H, title IV, §401(a), div. M, title III, §304, Dec. 18, 2015, 129 Stat. 2639, 2913; Pub. L. 114–317, §§2, 3, 4(c)–6, 7(b)(1), (c), (d)(2), (3), Dec. 16, 2016, 130 Stat. 1595–1606; Pub. L. 115–141, div. P, title V, §501(a), Mar. 23, 2018, 132 Stat. 1090; Pub. L. 115–192, §2(a)–(c), June 25, 2018, 132 Stat. 1502, 1503; Pub. L. 115–254, div. F, title I, §1414, Oct. 5, 2018, 132 Stat. 3492; Pub. L. 116–92, div. A, title XVII, §§1710, 1732(b)–1734, div. E, title LXVII, §6726(c), Dec. 20, 2019, 133 Stat. 1801, 1817, 1818, 2236; Pub. L. 116–260, div. U, title V, §501(a), Dec. 27, 2020, 134 Stat. 2293; Pub. L. 117–81, div. E, title LIII, §5321, Dec. 27, 2021, 135 Stat. 2368; Pub. L. 117–108, title II, §209(a), Apr. 6, 2022, 136 Stat. 1151.
 
 ### §1. Short title ###
 
@@ -2305,11 +2321,59 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 (C) summarizes any matters relating to the personnel, programs, and operations of the Federal entity referred to prosecutive authorities, including a summary description of any preliminary investigation conducted by or at the request of the Federal entity concerning these matters, and the prosecutions and convictions which have resulted.
 
-(Pub. L. 95–452, §8G, formerly §8E, as added Pub. L. 100–504, title I, §104(a), Oct. 18, 1988, 102 Stat. 2522; amended Pub. L. 101–73, title VII, §702(c), Aug. 9, 1989, 103 Stat. 415; renumbered §8F and amended Pub. L. 103–82, title II, §202(g)(1), (2)(A), Sept. 21, 1993, 107 Stat. 889, 890; renumbered §8G and amended Pub. L. 103–204, §23(a)(3), (4), Dec. 17, 1993, 107 Stat. 2408; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b)(1), (2)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 106–422, §1(b)(1), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–409, §§2, 3(b), 6(b), 7(d)(1), Oct. 14, 2008, 122 Stat. 4302, 4305, 4313; Pub. L. 111–203, title IX, §§989B, 989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §431(a), (c), Oct. 7, 2010, 124 Stat. 2731; Pub. L. 113–126, title IV, §§402(1), 412(1), July 7, 2014, 128 Stat. 1408, 1409; Pub. L. 114–113, div. H, title IV, §401(a), Dec. 18, 2015, 129 Stat. 2639; Pub. L. 114–317, §§6(4), 7(d)(2)(F), (3)(E), Dec. 16, 2016, 130 Stat. 1604, 1606; Pub. L. 115–141, div. P, title V, §501(a)(1), Mar. 23, 2018, 132 Stat. 1090; Pub. L. 115–254, div. F, title I, §1414, Oct. 5, 2018, 132 Stat. 3492.)
+(Pub. L. 95–452, §8G, formerly §8E, as added Pub. L. 100–504, title I, §104(a), Oct. 18, 1988, 102 Stat. 2522; amended Pub. L. 101–73, title VII, §702(c), Aug. 9, 1989, 103 Stat. 415; renumbered §8F and amended Pub. L. 103–82, title II, §202(g)(1), (2)(A), Sept. 21, 1993, 107 Stat. 889, 890; renumbered §8G and amended Pub. L. 103–204, §23(a)(3), (4), Dec. 17, 1993, 107 Stat. 2408; Pub. L. 104–88, title III, §319, Dec. 29, 1995, 109 Stat. 949; Pub. L. 104–208, div. A, title I, §101(f) [title VI, §662(b)(1), (2)], Sept. 30, 1996, 110 Stat. 3009–314, 3009–379; Pub. L. 105–134, title IV, §409(a)(1), Dec. 2, 1997, 111 Stat. 2586; Pub. L. 105–277, div. C, title III, §306(h), as added Pub. L. 106–31, title I, §105(a)(5), May 21, 1999, 113 Stat. 63; Pub. L. 106–422, §1(b)(1), Nov. 1, 2000, 114 Stat. 1872; Pub. L. 107–252, title VIII, §812(a), Oct. 29, 2002, 116 Stat. 1727; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–435, title VI, §§603(b), 605(a), Dec. 20, 2006, 120 Stat. 3240, 3242; Pub. L. 110–409, §§2, 3(b), 6(b), 7(d)(1), Oct. 14, 2008, 122 Stat. 4302, 4305, 4313; Pub. L. 111–203, title IX, §§989B, 989D, title X, §1081, July 21, 2010, 124 Stat. 1945, 1946, 2080; Pub. L. 111–259, title IV, §431(a), (c), Oct. 7, 2010, 124 Stat. 2731; Pub. L. 113–126, title IV, §§402(1), 412(1), July 7, 2014, 128 Stat. 1408, 1409; Pub. L. 114–113, div. H, title IV, §401(a), Dec. 18, 2015, 129 Stat. 2639; Pub. L. 114–317, §§6(4), 7(d)(2)(F), (3)(E), Dec. 16, 2016, 130 Stat. 1604, 1606; Pub. L. 115–141, div. P, title V, §501(a)(1), Mar. 23, 2018, 132 Stat. 1090; Pub. L. 115–254, div. F, title I, §1414, Oct. 5, 2018, 132 Stat. 3492; Pub. L. 117–108, title II, §209(a), Apr. 6, 2022, 136 Stat. 1151.)
 
 #### Amendment of Subsection (a)(2) ####
 
 Pub. L. 105–134, title IV, §409(a), Dec. 2, 1997, 111 Stat. 2586, provided that effective at beginning of first fiscal year after fiscal year for which Amtrak receives no Federal subsidy, subsection (a)(2) of this section is amended by striking "Amtrak,".
+
+#### Amendment of Subsections (a)(2) and (f) ####
+
+Pub. L. 117–108, title II, §209(a), (e), Apr. 6, 2022, 136 Stat. 1151, 1152, provided that, effective 180 days after Apr. 6, 2022, this section is amended as follows:
+
+(1) in subsection (a)(2), by striking "the Postal Regulatory Commission,"; and
+
+(2) by making a number of amendments to subsection (f), after which subsection (f) will read as follows:
+
+*(f)(1) For purposes of carrying out subsection (c) with respect to the United States Postal Service, the appointment provisions of section 202(e) of title 39, United States Code, shall be applied.*
+
+*(2)(A) In carrying out the duties and responsibilities specified in this Act, the Inspector General of the United States Postal Service (hereinafter in this subsection referred to as the "Inspector General") shall have oversight responsibility for all activities of the Postal Inspection Service, including any internal investigation performed by the Postal Inspection Service. The Chief Postal Inspector shall promptly report the significant activities being carried out by the Postal Inspection Service to such Inspector General.*
+
+*(B) In carrying out the duties and responsibilities specified in this Act, the Inspector General of the United States Postal Service shall function as the Inspector General for the Postal Regulatory Commission, and shall have equal responsibility over the United States Postal Service and the Postal Regulatory Commission. The Commission shall comply with the Inspector General's oversight as if the Commission were a designated Federal entity under subsection (a)(2) and as if the Inspector General were the inspector general of the Commission. The Governors of the Postal Service shall not direct oversight activities for the Postal Regulatory Commission.*
+
+*(3)(A)(i) Notwithstanding subsection (d), the Inspector General shall be under the authority, direction, and control of the Governors with respect to audits or investigations, or the issuance of subpoenas, pertaining to the United States Postal Service which require access to sensitive information concerning—*
+
+*(I) ongoing civil or criminal investigations or proceedings;*
+
+*(II) undercover operations;*
+
+*(III) the identity of confidential sources, including protected witnesses;*
+
+*(IV) intelligence or counterintelligence matters; or*
+
+*(V) other matters the disclosure of which would constitute a serious threat to national security.*
+
+*(ii) With respect to the information described under clause (i), the Governors may prohibit the Inspector General from carrying out or completing any audit or investigation, or from issuing any subpoena, after such Inspector General has decided to initiate, carry out, or complete such audit or investigation or to issue such subpoena, if the Governors determine that such prohibition is necessary to prevent the disclosure of any information described under clause (i) or to prevent the significant impairment to the national interests of the United States.*
+
+*(iii) If the Governors exercise any power under clause (i) or (ii), the Governors shall notify the Inspector General in writing stating the reasons for such exercise. Within 30 days after receipt of any such notice, the Inspector General shall transmit a copy of such notice to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives, and to other appropriate committees or subcommittees of the Congress.*
+
+*(B) In carrying out the duties and responsibilities specified in this Act, the Inspector General—*
+
+*(i) may initiate, conduct and supervise such audits and investigations in the United States Postal Service and the Postal Regulatory Commission as the Inspector General considers appropriate; and*
+
+*(ii) shall give particular regard to the activities of the Postal Inspection Service with a view toward avoiding duplication and insuring effective coordination and cooperation.*
+
+*(C) Any report required to be transmitted by the Governors or the Postal Regulatory Commission to the appropriate committees or subcommittees of the Congress under section 5(d) shall also be transmitted, within the seven-day period specified under such section, to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives.*
+
+(4) For activities pertaining to the Postal Regulatory Commission, sections 4, 5, 6 (other than subsection (g) thereof), and 7 of this Act shall be applied by substituting the term "head of the Postal Regulatory Commission" for "head of the establishment".
+
+*(5) Nothing in this Act shall restrict, eliminate, or otherwise adversely affect any of the rights, privileges, or benefits of either employees of the United States Postal Service, or labor organizations representing employees of the United States Postal Service, under chapter 12 of title 39, United States Code, the National Labor Relations Act, any handbook or manual affecting employee labor relations with the United States Postal Service, or any collective bargaining agreement.*
+
+*(6) As used in this subsection, the term "Governors" has the meaning given such term by section 102(3) of title 39, United States Code.*
+
+*(7) There are authorized to be appropriated, out of the Postal Service Fund, such sums as may be necessary for the Office of Inspector General of the United States Postal Service.*
+
+See 2022 Amendment notes below.
 
 #### **Editorial Notes** ####
 
@@ -2324,6 +2388,18 @@ Subsection (d) of this section, referred to in subsec. (g)(3), was redesignated 
 A prior section 8G of the Inspector General Act of 1978 was renumbered section 8J.
 
 #### Amendments ####
+
+**2022**—Subsec. (a)(2). Pub. L. 117–108, §209(a)(1), struck out "the Postal Regulatory Commission," after "the United States International Trade Commission,".
+
+Subsec. (f)(2). Pub. L. 117–108, §209(a)(2)(A), designated existing provisions as subpar. (A) and added subpar. (B).
+
+Subsec. (f)(3)(A)(i). Pub. L. 117–108, §209(a)(2)(B), inserted "pertaining to the United States Postal Service" after "subpoenas," in introductory provisions.
+
+Subsec. (f)(3)(B)(i). Pub. L. 117–108, §209(a)(2)(C), inserted "and the Postal Regulatory Commission" after "United States Postal Service".
+
+Subsec. (f)(3)(C). Pub. L. 117–108, §209(a)(2)(D), inserted "or the Postal Regulatory Commission" after "Governors".
+
+Subsec. (f)(4) to (7). Pub. L. 117–108, §209(a)(2)(E), (F), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
 **2018**—Subsec. (a)(2). Pub. L. 115–254, §1414(a), inserted "the United States International Development Finance Corporation," after "the Smithsonian Institution,".
 
@@ -2408,6 +2484,10 @@ Pub. L. 103–82, §202(g)(2)(A), struck out "ACTION," before "Amtrak,".
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
+#### Effective Date of 2022 Amendment ####
+
+Pub. L. 117–108, title II, §209(e), Apr. 6, 2022, 136 Stat. 1152, provided that: "This section [amending this section and sections 202 and 504 of Title 39, Postal Service, and enacting provisions set out as a note under this section] and the amendments made by this section shall take effect on the date that is 180 days after the date of enactment of this Act [Apr. 6, 2022]."
 
 #### Effective Date of 2015 Amendment ####
 
@@ -2500,6 +2580,22 @@ Pub. L. 103–82, title II, §202(g)(2)(B), Sept. 21, 1993, 107 Stat. 890, provi
 #### Effective Date ####
 
 Section effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective Date of 1988 Amendment note under section 5 of Pub. L. 95–452 in this Appendix.
+
+#### Savings Provision; References to Inspector General of the Postal Regulatory Commission ####
+
+Pub. L. 117–108, title II, §209(c), Apr. 6, 2022, 136 Stat. 1152, provided that:
+
+"(1) Personnel, documents, assets.—All personnel, documents, assets, unexpended balances of appropriations, and obligations of the Inspector General for the Postal Regulatory Commission shall transfer to the Inspector General of the Postal Service on the effective date of this section [see Effective Date of 2022 Amendment note above].
+
+"(2) Legal documents.—Any order, determination, rule, regulation, permit, grant, loan, contract, agreement, certificate, license, or privilege that has been issued, made, granted, or allowed to become effective by the Inspector General of the Postal Regulatory Commission that is in effect on the effective date of this section shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law.
+
+"(3) Proceedings.—This section and the amendments made by this section shall not affect any proceeding pending on the effective date of this section before the Inspector General of the Postal Regulatory Commission, but such proceeding shall be continued by the Inspector General of the Postal Service, at the discretion of that Inspector General. Nothing in this paragraph shall be construed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that the proceeding could have been discontinued or modified if this section and those amendments had not been enacted.
+
+"(4) Suits.—This section and the amendments made by this section shall not affect any suit commenced before the effective date of this section, and in any such suit, proceeding shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this section or such amendments had not been enacted.
+
+"(5) References.—Any reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document relating to the Inspector General of the Postal Regulatory Commission shall be deemed to refer to the Inspector General of the United States Postal Service."
+
+[For definition of "Postal Service" as used in section 209(c) of Pub. L. 117–108, set out above, see section 102 of Title 39, Postal Service, as made applicable by section 2(b) of Pub. L. 117–108, which is set out as a note under section 501 of Title 39.]
 
 #### Inspector General Oversight of Fund ####
 
@@ -2761,11 +2857,7 @@ Pub. L. 110–181, div. A, title XII, §1229, Jan. 28, 2008, 122 Stat. 378, as a
 
 #### Deadline Relating to Postal Regulatory Commission ####
 
-Pub. L. 109–435, title VI, §605(c), Dec. 20, 2006, 120 Stat. 3242, provided that: "No later than 180 days after the date of the enactment of this Act [Dec. 20, 2006]—
-
-"(1) the first Inspector General of the Postal Regulatory Commission shall be appointed; and
-
-"(2) the Office of Inspector General of the Postal Regulatory Commission shall be established."
+Pub. L. 109–435, title VI, §605(c), Dec. 20, 2006, 120 Stat. 3242, required, by no later than 180 days after Dec. 20, 2006, the establishment of the Office of Inspector General of the Postal Regulatory Commission and the appointment of the first Inspector General of the Postal Regulatory Commission.
 
 #### Inspector General of Chemical Safety and Hazard Investigation Board ####
 

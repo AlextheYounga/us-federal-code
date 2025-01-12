@@ -15,8 +15,6 @@ IV. Mail Matter 3001
 
 V. Transportation of Mail 5001
 
-#### **Editorial Notes** ####
-
 |       *Title 39<br/><br/>Former Sections*       |        *Title 39<br/><br/>1960 Revision Sections*        |
 |-------------------------------------------------|----------------------------------------------------------|
 |                       1–3                       |                           701                            |

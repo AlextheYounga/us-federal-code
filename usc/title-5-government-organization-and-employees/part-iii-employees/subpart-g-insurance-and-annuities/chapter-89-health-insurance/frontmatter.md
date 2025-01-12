@@ -14,6 +14,8 @@ Sec.
 
 8903b. Authority to readmit an employee organization plan.
 
+8903c. Postal Service Health Benefits Program.
+
 8904. Types of benefits.
 
 8905. Election of coverage.
@@ -30,7 +32,7 @@ Sec.
 
 8909. Employees Health Benefits Fund.
 
-8909a. Postal Service Retiree Health Benefits Fund. 1
+8909a. Postal Service Retiree Health Benefits Fund.
 
 8910. Studies, reports, and audits.
 
@@ -46,6 +48,8 @@ Sec.
 
 #### Amendments ####
 
+**2022**—Pub. L. 117–108, title I, §102(a)(2)(B), Apr. 6, 2022, 136 Stat. 1135, added item 8903c.
+
 **2006**—Pub. L. 109–435, title VIII, §803(a)(2), Dec. 20, 2006, 120 Stat. 3252, added item 8909a.
 
 **1998**—Pub. L. 105–266, §6(a)(2), Oct. 19, 1998, 112 Stat. 2369, added item 8903b.
@@ -59,5 +63,3 @@ Pub. L. 100–238, title I, §108(a)(3)(B), Jan. 8, 1988, 101 Stat. 1748, added 
 **1984**—Pub. L. 98–615, §3(8), Nov. 8, 1984, 98 Stat. 3204, substituted "Information to individuals eligible to enroll" for "Information to employees" in item 8907.
 
 **1976**—Pub. L. 94–342, §1(b), July 6, 1976, 90 Stat. 808, substituted "employees and survivor annuitants" for "employee" in item 8908.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER89_1)
