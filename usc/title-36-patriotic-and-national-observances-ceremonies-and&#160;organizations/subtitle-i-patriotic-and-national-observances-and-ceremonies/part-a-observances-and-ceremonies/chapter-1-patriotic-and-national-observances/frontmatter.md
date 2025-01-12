@@ -570,7 +570,7 @@ Pub. L. 115–77, Nov. 2, 2017, 131 Stat. 1251, provided that:
 
 #### Women's Suffrage Centennial Commission ####
 
-S. 847, One Hundred Fifteenth Congress, as introduced on Apr. 5, 2017, which was enacted into law by Pub. L. 115–31, div. G, title IV, §431(a)(3), May 5, 2017, 131 Stat. 502, provided that:
+Pub. L. 115–31, div. G, title IV, §431(a)(3) [§§1–8], May 5, 2017, 131 Stat. 502, 842A–17—842A–21, provided that:
 
 #### "SECTION 1. SHORT TITLE; TABLE OF CONTENTS. ####
 
