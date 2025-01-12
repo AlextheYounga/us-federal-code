@@ -204,13 +204,19 @@ The Secretary shall establish a standard methodology for medicare contractors to
 
 #### (A) In general ####
 
-The Secretary shall enter into contracts with eligible entities for the purpose of ensuring that, beginning with 2006, the Medicare-Medicaid Data Match Program (commonly referred to as the "Medi-Medi Program") is conducted with respect to the program established under this subchapter and State Medicaid programs under subchapter XIX for the purpose of—
+The Secretary shall enter into contracts with eligible entities or otherwise for the purpose of ensuring that, beginning with 2006, the Medicare-Medicaid Data Match Program (commonly referred to as the "Medi-Medi Program") is conducted with respect to the program established under this subchapter and State Medicaid programs under subchapter XIX for the purpose of—
 
-(i) identifying program vulnerabilities in the program established under this subchapter and the Medicaid program established under subchapter XIX through the use of computer algorithms to look for payment anomalies (including billing or billing patterns identified with respect to service, time, or patient that appear to be suspect or otherwise implausible);
+(i) identifying program vulnerabilities in the program established under this subchapter and the Medicaid program established under subchapter XIX through the use of computer algorithms to review claims data to look for payment anomalies (including billing or billing patterns identified with respect to provider, service, time, or patient that appear to be suspect or otherwise implausible);
 
-(ii) working with States, the Attorney General, and the Inspector General of the Department of Health and Human Services to coordinate appropriate actions to protect the Federal and State share of expenditures under the Medicaid program under subchapter XIX, as well as the program established under this subchapter; and
+(ii) working with States, the Attorney General, and the Inspector General of the Department of Health and Human Services to coordinate appropriate actions to investigate and recover amounts with respect to suspect claims to protect the Federal and State share of expenditures under the Medicaid program under subchapter XIX, as well as the program established under this subchapter;
 
-(iii) increasing the effectiveness and efficiency of both such programs through cost avoidance, savings, and recoupments of fraudulent, wasteful, or abusive expenditures.
+(iii) increasing the effectiveness and efficiency of both such programs through cost avoidance, savings, and recoupments of fraudulent, wasteful, or abusive expenditures; and
+
+(iv) furthering the Secretary's design, development, installation, or enhancement of an automated data system architecture—
+
+(I) to collect, integrate, and assess data for purposes of program integrity, program oversight, and administration, including the Medi-Medi Program; and
+
+(II) that improves the coordination of requests for data from States.
 
 #### (B) Reporting requirements ####
 
@@ -322,7 +328,7 @@ Not later than 180 days after the end of each fiscal year (beginning with fiscal
 
 (B) the effectiveness of the use of such funds.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1893, as added Pub. L. 104–191, title II, §202(a), Aug. 21, 1996, 110 Stat. 1996; amended Pub. L. 108–173, title VII, §736(c)(7), title IX, §935(a), Dec. 8, 2003, 117 Stat. 2356, 2407; Pub. L. 109–171, title VI, §6034(d)(1), Feb. 8, 2006, 120 Stat. 77; Pub. L. 109–432, div. B, title III, §302(a), Dec. 20, 2006, 120 Stat. 2991; Pub. L. 111–148, title VI, §§6402(j)(1), 6411(b), Mar. 23, 2010, 124 Stat. 762, 775; Pub. L. 114–10, title V, §§505(b), 510, Apr. 16, 2015, 129 Stat. 167, 170.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1893, as added Pub. L. 104–191, title II, §202(a), Aug. 21, 1996, 110 Stat. 1996; amended Pub. L. 108–173, title VII, §736(c)(7), title IX, §935(a), Dec. 8, 2003, 117 Stat. 2356, 2407; Pub. L. 109–171, title VI, §6034(d)(1), Feb. 8, 2006, 120 Stat. 77; Pub. L. 109–432, div. B, title III, §302(a), Dec. 20, 2006, 120 Stat. 2991; Pub. L. 111–148, title VI, §§6402(j)(1), 6411(b), Mar. 23, 2010, 124 Stat. 762, 775; Pub. L. 114–10, title V, §§505(b), 510, Apr. 16, 2015, 129 Stat. 167, 170; Pub. L. 114–115, §9(b), Dec. 28, 2015, 129 Stat. 3135.)
 
 #### References in Text ####
 
@@ -334,7 +340,15 @@ Section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, refe
 
 #### Amendments ####
 
-**2015**—Subsec. (g)(3). Pub. L. 114–10, §510, added par. (3).
+**2015**—Subsec. (g)(1)(A). Pub. L. 114–115, §9(b)(1), inserted "or otherwise" after "eligible entities" in introductory provisions.
+
+Subsec. (g)(1)(A)(i). Pub. L. 114–115, §9(b)(2), inserted "to review claims data" after "algorithms" and substituted "provider, service, time, or patient" for "service, time, or patient".
+
+Subsec. (g)(1)(A)(ii). Pub. L. 114–115, §9(b)(3)(A), inserted "to investigate and recover amounts with respect to suspect claims" after "appropriate actions".
+
+Subsec. (g)(1)(A)(iv). Pub. L. 114–115, §9(b)(3)(B)–(5), added cl. (iv).
+
+Subsec. (g)(3). Pub. L. 114–10, §510, added par. (3).
 
 Subsec. (h)(2). Pub. L. 114–10, §505(b)(1), inserted "or paragraph (10)" after "paragraph (1)(C)".
 
@@ -385,6 +399,20 @@ Pub. L. 108–173, title IX, §935(b), Dec. 8, 2003, 117 Stat. 2411, provided th
 "(7) Payment audits.—Section 1893A(f)(7) [1893(f)(7)] of the Social Security Act [probably means 42 U.S.C. 1395ddd(f)(7)], as added by subsection (a), shall apply to audits initiated after the date of the enactment of this Act.
 
 "(8) Standard for abnormal billing patterns.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall first establish a standard methodology for selection of sample claims for abnormal billing patterns under section 1893(f)(8) of the Social Security Act [42 U.S.C. 1395ddd(f)(8)], as added by subsection (a)."
+
+#### Improving the Sharing of Data Between the Federal Government and State Medicaid Programs ####
+
+Pub. L. 114–115, §9, Dec. 28, 2015, 129 Stat. 3135, provided that:
+
+"(a) In General.—The Secretary of Health and Human Services (in this section referred to as the 'Secretary') shall establish a plan to encourage and facilitate the participation of States in the Medicare-Medicaid Data Match Program (commonly referred to as the 'Medi-Medi Program') under section 1893(g) of the Social Security Act (42 U.S.C. 1395ddd(g)).
+
+"(b) Program Revisions To Improve Medi-Medi Data Match Program Participation by States.—[Amended this section.]
+
+"(c) Providing States With Data on Improper Payments Made for Items or Services Provided to Dual Eligible Individuals.—
+
+"(1) In general.—The Secretary shall develop and implement a plan that allows each State agency responsible for administering a State plan for medical assistance under title XIX of the Social Security Act [42 U.S.C. 1396 et seq.] access to relevant data on improper or fraudulent payments made under the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.) for health care items or services provided to dual eligible individuals.
+
+"(2) Dual eligible individual defined.—In this section, the term 'dual eligible individual' means an individual who is entitled to, or enrolled for, benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), or enrolled for benefits under part B of title XVIII of such Act (42 U.S.C. 1395j et seq.), and is eligible for medical assistance under a State plan under title XIX of such Act (42 U.S.C. 1396 et seq.) or under a waiver of such plan."
 
 #### Extension of Two-Midnight Rule ####
 

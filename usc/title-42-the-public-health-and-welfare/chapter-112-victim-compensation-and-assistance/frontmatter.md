@@ -27,3 +27,5 @@ Sec.
 10607. Services to victims.
 
 10608. Closed circuit televised court proceedings for victims of crime.
+
+10609. Justice for United States victims of state sponsored terrorism.

@@ -52,7 +52,7 @@ Sec.
 
 180. Expenditures by farmers for fertilizer, etc.
 
-181. Treatment of certain qualified film and television productions.
+181. Treatment of certain qualified film and television and live theatrical productions.
 
 [182. Repealed.]
 
@@ -89,6 +89,8 @@ Sec.
 199. Income attributable to domestic production activities.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–113, div. Q, title I, §169(b)(3), Dec. 18, 2015, 129 Stat. 3068, substituted "Treatment of certain qualified film and television and live theatrical productions" for "Treatment of certain qualified film and television productions" in item 181.
 
 **2014**—Pub. L. 113–295, div. A, title II, §221(a)(34)(A), (35), Dec. 19, 2014, 128 Stat. 4042, which directed amendment of table of sections for part VI of subchapter A of this chapter by striking items 179A and 198A, was executed by striking items 179A "Deduction for clean-fuel vehicles and certain refueling property" and 198A "Expensing of Qualified Disaster Expenses" in table of sections for part VI of this subchapter to reflect the probable intent of Congress.
 

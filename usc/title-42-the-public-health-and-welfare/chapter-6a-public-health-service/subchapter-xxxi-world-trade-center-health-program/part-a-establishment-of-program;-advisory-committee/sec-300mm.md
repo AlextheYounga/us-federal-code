@@ -140,4 +140,36 @@ The Secretary shall promptly notify the Congress of each of the following:
 
 The WTC Program Administrator shall engage in ongoing outreach and consultation with relevant stakeholders, including the WTC Health Program Steering Committees and the Advisory Committee under section 300mm–1 of this title, regarding the implementation and improvement of programs under this subchapter.
 
-(July 1, 1944, ch. 373, title XXXIII, §3301, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3624.)
+#### (i) GAO studies ####
+
+#### (1) Report ####
+
+Not later than 18 months after December 18, 2015, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that assesses, with respect to the WTC Program, the effectiveness of each of the following:
+
+(A) The quality assurance program developed and implemented under subsection (e).
+
+(B) The procedures for providing certifications of coverage of conditions as WTC-related health conditions for enrolled WTC responders under section 300mm–22(b)(2)(B)(iii) of this title and for screening-eligible WTC survivors and certified-eligible WTC survivors under such section as applied under section 300mm–32(a) of this title.
+
+(C) Any action under the WTC Program to ensure appropriate payment (including the avoidance of improper payments), including determining the extent to which individuals enrolled in the WTC Program are eligible for workers compensation or sources of health coverage, ascertaining the liability of such compensation or sources of health coverage, and making recommendations for ensuring effective and efficient coordination of benefits for individuals enrolled in the WTC Program that does not place an undue burden on such individuals.
+
+#### (2) Subsequent assessments ####
+
+Not later than 6 years and 6 months after December 18, 2015, and every 5 years thereafter through fiscal year 2042, the Comptroller General of the United States shall—
+
+(A) consult the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate on the objectives in assessing the WTC Program; and
+
+(B) prepare and submit to such Committees a report that assesses the WTC Program for the applicable reporting period, including the objectives described in subparagraph (A).
+
+#### (j) Regulations ####
+
+The WTC Program Administrator is authorized to promulgate such regulations as the Administrator determines necessary to administer this subchapter.
+
+#### (k) Termination ####
+
+The WTC Program shall terminate on October 1, 2090.
+
+(July 1, 1944, ch. 373, title XXXIII, §3301, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3624; amended Pub. L. 114–113, div. O, title III, §302(b), Dec. 18, 2015, 129 Stat. 2998.)
+
+#### Amendments ####
+
+**2015**—Subsecs. (i) to (k). Pub. L. 114–113 added subsecs. (i) to (k).

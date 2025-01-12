@@ -2,7 +2,7 @@
 
 #### (a) General rule ####
 
-For purposes of section 38, in the case of an eligible small business employer, the differential wage payment credit for any taxable year is an amount equal to 20 percent of the sum of the eligible differential wage payments for each of the qualified employees of the taxpayer during such taxable year.
+For purposes of section 38, the differential wage payment credit for any taxable year is an amount equal to 20 percent of the sum of the eligible differential wage payments for each of the qualified employees of the taxpayer during such taxable year.
 
 #### (b) Definitions ####
 
@@ -16,19 +16,9 @@ The term "eligible differential wage payments" means, with respect to each quali
 
 The term "qualified employee" means a person who has been an employee of the taxpayer for the 91-day period immediately preceding the period for which any differential wage payment is made.
 
-#### (3) Eligible small business employer ####
+#### (3) Controlled groups ####
 
-#### (A) In general ####
-
-The term "eligible small business employer" means, with respect to any taxable year, any employer which—
-
-(i) employed an average of less than 50 employees on business days during such taxable year, and
-
-(ii) under a written plan of the employer, provides eligible differential wage payments to every qualified employee of the employer.
-
-#### (B) Controlled groups ####
-
-For purposes of subparagraph (A), all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as a single employer.
+All persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as a single employer.
 
 #### (c) Coordination with other credits ####
 
@@ -46,11 +36,7 @@ No credit shall be allowed under subsection (a) to a taxpayer for—
 
 For purposes of this section, rules similar to the rules of subsections (c), (d), and (e) of section 52 shall apply.
 
-#### (f) Termination ####
-
-This section shall not apply to any payments made after December 31, 2014.
-
-(Added Pub. L. 110–245, title I, §111(a), June 17, 2008, 122 Stat. 1634; amended Pub. L. 111–312, title VII, §736(a), Dec. 17, 2010, 124 Stat. 3318; Pub. L. 112–240, title III, §308(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §118(a), Dec. 19, 2014, 128 Stat. 4015.)
+(Added Pub. L. 110–245, title I, §111(a), June 17, 2008, 122 Stat. 1634; amended Pub. L. 111–312, title VII, §736(a), Dec. 17, 2010, 124 Stat. 3318; Pub. L. 112–240, title III, §308(a), Jan. 2, 2013, 126 Stat. 2329; Pub. L. 113–295, div. A, title I, §118(a), Dec. 19, 2014, 128 Stat. 4015; Pub. L. 114–113, div. Q, title I, §122(a), (b), Dec. 18, 2015, 129 Stat. 3052.)
 
 #### References in Text ####
 
@@ -58,11 +44,25 @@ The date of the enactment of this section, referred to in subsec. (d)(1), is the
 
 #### Amendments ####
 
+**2015**—Subsec. (a). Pub. L. 114–113, §122(b)(1), struck out ", in the case of an eligible small business employer" after "section 38".
+
+Subsec. (b)(3). Pub. L. 114–113, §122(b)(2), amended par. (3) generally. Prior to amendment, par. (3) defined "eligible small business employer".
+
+Subsec. (f). Pub. L. 114–113, §122(a), struck out subsec. (f). Text read as follows: "This section shall not apply to any payments made after December 31, 2014."
+
 **2014**—Subsec. (f). Pub. L. 113–295 substituted "December 31, 2014" for "December 31, 2013".
 
 **2013**—Subsec. (f). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011".
 
 **2010**—Subsec. (f). Pub. L. 111–312 substituted "December 31, 2011" for "December 31, 2009".
+
+#### Effective Date of 2015 Amendment ####
+
+Pub. L. 114–113, div. Q, title I, §122(c), Dec. 18, 2015, 129 Stat. 3052, provided that:
+
+"(1) Extension.—The amendment made by subsection (a) [amending this section] shall apply to payments made after December 31, 2014.
+
+"(2) Modification.—The amendments made by subsection (b) [amending this section] shall apply to taxable years beginning after December 31, 2015."
 
 #### Effective Date of 2014 Amendment ####
 

@@ -254,6 +254,8 @@ Sec.
 
 7278. Availability of appropriations for Department of Energy for transportation, uniforms, security, and price support and loan guarantee programs; transfer of funds; acceptance of contributions.
 
+7278a. Availability of funds for energy and water development for multiyear contracts, grants, or cooperative agreements of $1,000,000 or less.
+
 7279. Identification in budget materials of amounts for certain Department of Energy pension obligations.
 
 7279a. Future-years energy program annual submission and budgeting.
@@ -384,7 +386,7 @@ Sec.
 
 7383a to 7383d. Transferred.
 
-7383e. Annual report by the President on espionage by the People's Republic of China.
+7383e. Repealed.
 
 7383f to 7383h–1. Transferred.
 

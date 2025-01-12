@@ -90,9 +90,13 @@ Sec.
 
 139E. Indian general welfare benefits.
 
+139F. Certain amounts received by wrongfully incarcerated individuals.
+
 140. Cross references to other Acts.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–113, div. Q, title III, §304(b), Dec. 18, 2015, 129 Stat. 3088, added item 139F.
 
 **2014**—Pub. L. 113–295, div. A, title II, §221(a)(19)(A), Dec. 19, 2014, 128 Stat. 4039, which directed amendment of part III by striking out item 120 in table of sections for "such subpart", was executed by striking out item 120 "Amounts received under qualified group legal services plans" in table of sections for this part to reflect the probable intent of Congress.
 
@@ -159,6 +163,20 @@ Pub. L. 95–600, title I, §§134(b), 164(c), title IV, §404(c)(3), title V, �
 **1964**—Pub. L. 88–272, title II, §206(b)(2), Feb. 26, 1964, 78 Stat. 40, redesignated former item 121 as 122, and added item 121.
 
 **1958**—Pub. L. 85–866, title I, §3(b), Sept. 2, 1958, 72 Stat. 1607, struck out item 120 "Statutory subsistence allowance received by police".
+
+#### Exclusion From Gross Income of Certain Clean Coal Power Grants to Non-Corporate Taxpayers ####
+
+Pub. L. 114–113, div. Q, title III, §343, Dec. 18, 2015, 129 Stat. 3114, provided that:
+
+"(a) General Rule.—In the case of an eligible taxpayer other than a corporation, gross income for purposes of the Internal Revenue Code of 1986 shall not include any amount received under section 402 of the Energy Policy Act of 2005 [42 U.S.C. 15962].
+
+"(b) Reduction in Basis.—The basis of any property subject to the allowance for depreciation under the Internal Revenue Code of 1986 which is acquired with any amount to which subsection (a) applies during the 12-month period beginning on the day such amount is received shall be reduced by an amount equal to such amount. The excess (if any) of such amount over the amount of the reduction under the preceding sentence shall be applied to the reduction (as of the last day of the period specified in the preceding sentence) of the basis of any other property held by the taxpayer. The particular properties to which the reductions required by this subsection are allocated shall be determined by the Secretary of the Treasury (or the Secretary's delegate) under regulations similar to the regulations under section 362(c)(2) of such Code.
+
+"(c) Limitation to Amounts Which Would Be Contributions to Capital.—Subsection (a) shall not apply to any amount unless such amount, if received by a corporation, would be excluded from gross income under section 118 of the Internal Revenue Code of 1986.
+
+"(d) Eligible Taxpayer.—For purposes of this section, with respect to any amount received under section 402 of the Energy Policy Act of 2005 [42 U.S.C. 15962], the term 'eligible taxpayer' means a taxpayer that makes a payment to the Secretary of the Treasury (or the Secretary's delegate) equal to 1.18 percent of the amount so received. Such payment shall be made at such time and in such manner as such Secretary (or the Secretary's delegate) shall prescribe. In the case of a partnership, such Secretary (or the Secretary's delegate) shall prescribe regulations to determine the allocation of such payment amount among the partners.
+
+"(e) Effective Date.—This section shall apply to amounts received under section 402 of the Energy Policy Act of 2005 [42 U.S.C. 15962] in taxable years beginning after December 31, 2011."
 
 #### No Federal Income Tax on Restitution Received by Victims of the Nazi Regime or Their Heirs or Estates ####
 

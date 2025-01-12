@@ -94,4 +94,4 @@ Sec.
 
 2370. Notification of Committees on Armed Services with respect to certain nonproliferation and proliferation activities.
 
-2371. Report on nuclear aspirations of non-state entities, nuclear weapons and related programs in non-nuclear-weapons states and countries not parties to the Nuclear Non-Proliferation Treaty, and certain foreign persons.
+2371. Repealed.

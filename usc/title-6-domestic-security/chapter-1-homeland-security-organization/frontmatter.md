@@ -90,9 +90,11 @@ Sec.
 
 148. National cybersecurity and communications integration center.
 
-149. Cyber incident response plan.
+149. Cybersecurity plans.
 
 150. Clearances.
+
+151. Federal intrusion detection and prevention system.
 
 #### Part D—Office of Science and Technology ####
 

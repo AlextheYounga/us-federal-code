@@ -178,6 +178,8 @@ Sec.
 
 2171. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the House of Representatives at no net cost to the Federal Government.
 
+2171a. Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the Librarian of Congress at no net cost to the Federal Government.
+
 2172. Office of Congressional Accessibility Services.
 
 #### SUBCHAPTER VIII—MISCELLANEOUS ####

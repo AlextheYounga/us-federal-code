@@ -202,7 +202,7 @@ If any amount as adjusted under subparagraph (A) is not a multiple of $1,000, su
 
 #### (i) American opportunity tax credit ####
 
-In the case of any taxable year beginning after 2008 and before 2018—
+In the case of any taxable year beginning after 2008—
 
 #### (1) Increase in credit ####
 
@@ -236,15 +236,45 @@ In lieu of applying subsection (d) with respect to the Hope Scholarship Credit, 
 
 40 percent of so much of the credit allowed under subsection (a) as is attributable to the Hope Scholarship Credit (determined after application of paragraph (4) and without regard to this paragraph and section 26(a)) shall be treated as a credit allowable under subpart C (and not allowed under subsection (a)). The preceding sentence shall not apply to any taxpayer for any taxable year if such taxpayer is a child to whom subsection (g) of section 1 applies for such taxable year.
 
-#### (6) Coordination with midwestern disaster area benefits ####
+#### (6) Identification numbers ####
 
-In the case of a taxpayer with respect to whom section 702(a)(1)(B) of the Heartland Disaster Tax Relief Act of 2008 applies for any taxable year, such taxpayer may elect to waive the application of this subsection to such taxpayer for such taxable year.
+#### (A) Student ####
+
+The requirements of subsection (g)(1) shall not be treated as met with respect to the Hope Scholarship Credit unless the individual's taxpayer identification number was issued on or before the due date for filing the return of tax for the taxable year.
+
+#### (B) Taxpayer ####
+
+No Hope Scholarship Credit shall be allowed under this section if the identifying number of the taxpayer was issued after the due date for filing the return for the taxable year.
+
+#### (C) Institution ####
+
+No Hope Scholarship Credit shall be allowed under this section unless the taxpayer includes the employer identification number of any institution to which qualified tuition and related expenses were paid with respect to the individual.
+
+#### (7) Restrictions on taxpayers who improperly claimed credit in prior year ####
+
+#### (A) Taxpayers making prior fraudulent or reckless claims ####
+
+#### (i) In general ####
+
+No credit shall be allowed under this section for any taxable year in the disallowance period.
+
+#### (ii) Disallowance period ####
+
+For purposes of clause (i), the disallowance period is—
+
+(I) the period of 10 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of credit under this section was due to fraud, and
+
+(II) the period of 2 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of credit under this section was due to reckless or intentional disregard of rules and regulations (but not due to fraud).
+
+#### (B) Taxpayers making improper prior claims ####
+
+In the case of a taxpayer who is denied credit under this section for any taxable year as a result of the deficiency procedures under subchapter B of chapter 63, no credit shall be allowed under this section for any subsequent taxable year unless the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit.
 
 #### (j) Regulations ####
 
 The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.
 
-(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §804(a), June 29, 2015, 129 Stat. 415.)
+(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §804(a), June 29, 2015, 129 Stat. 415; Pub. L. 114–113, div. Q, title I, §102(a), title II, §§206(a), 208(a)(2), 211(a), Dec. 18, 2015, 129 Stat. 3044, 3082, 3083, 3085.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -256,13 +286,21 @@ The date of the enactment of this section, referred to in subsecs. (b)(3)(A) and
 
 The Higher Education Act of 1965, referred to in subsec. (f)(2)(B), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
-Section 702(a)(1)(B) of the Heartland Disaster Tax Relief Act of 2008, referred to in subsec. (i)(6), is section 702(a)(1)(B) of Pub. L. 110–343, div. C, title VII, Oct. 3, 2008, 122 Stat. 3912, which is not classified to the Code.
-
 #### Amendments ####
 
-Subsec. (g)(3)(C). Pub. L. 114–27, §804(a)(2), added subpar. (C).
+**2015**—Subsec. (g)(3)(C). Pub. L. 114–27, §804(a)(2), added subpar. (C).
 
 Subsec. (g)(8). Pub. L. 114–27, §804(a)(1), added par. (8).
+
+Subsec. (i). Pub. L. 114–113, §102(a), struck out "and before 2018" after "2008" in introductory provisions.
+
+Subsec. (i)(6). Pub. L. 114–113, §206(a)(2), added par. (6).
+
+Pub. L. 114–113, §206(a)(1), struck out par. (6). Text read as follows: "In the case of a taxpayer with respect to whom section 702(a)(1)(B) of the Heartland Disaster Tax Relief Act of 2008 applies for any taxable year, such taxpayer may elect to waive the application of this subsection to such taxpayer for such taxable year."
+
+Subsec. (i)(6)(C). Pub. L. 114–113, §211(a), added subpar. (C).
+
+Subsec. (i)(7). Pub. L. 114–113, §208(a)(2), added par. (7).
 
 **2014**—Subsec. (i)(3). Pub. L. 113–295 substituted "For purposes of determining the Hope Scholarship Credit, subsection (f)(1)(A) shall be applied" for "Subsection (f)(1)(A) shall be applied".
 
@@ -283,6 +321,20 @@ Subsec. (i)(5)(B). Pub. L. 111–148, §10909(b)(2)(C), (c), as amended by Pub. 
 "(2) Coordination with exclusions.—An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2)."
 
 #### Effective Date of 2015 Amendment ####
+
+Pub. L. 114–113, div. Q, title I, §102(c), Dec. 18, 2015, 129 Stat. 3044, provided that: "The amendments made by this section [amending this section and provisions set out as a note below] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 18, 2015]."
+
+Pub. L. 114–113, div. Q, title II, §206(b), Dec. 18, 2015, 129 Stat. 3082, provided that:
+
+"(1) In general.—Except as provided in paragraph (2), the amendment made by subsection (a)(2) [amending this section] shall apply to any return of tax, and any amendment or supplement to any return of tax, which is filed after the date of the enactment of this Act [Dec. 18, 2015].
+
+"(2) Exception for timely-filed 2015 returns.—The amendment made by subsection (a)(2) shall not apply to any return of tax (other than an amendment or supplement to any return of tax) for any taxable year which includes the date of the enactment of this Act if such return is filed on or before the due date for such return of tax.
+
+"(3) Repeal of deadwood.—The amendment made by subsection (a)(1) [amending this section] shall take effect on the date of the enactment of this Act."
+
+Amendment by section 208(a)(2) of Pub. L. 114–113 applicable to taxable years beginning after Dec. 31, 2015, see section 208(c) of Pub. L. 114–113, set out as a note under section 24 of this title.
+
+Pub. L. 114–113, div. Q, title II, §211(c)(1), Dec. 18, 2015, 129 Stat. 3085, provided that: "The amendments made by subsection (a) [amending this section] shall apply to taxable years beginning after December 31, 2015."
 
 Pub. L. 114–27, title VIII, §804(d), June 29, 2015, 129 Stat. 416, provided that: "The amendments made by this section [amending this section and sections 222 and 6050S of this title] shall apply to taxable years beginning after the date of the enactment of this Act [June 29, 2015]."
 
@@ -322,13 +374,13 @@ Pub. L. 105–34, title II, §201(f), Aug. 5, 1997, 111 Stat. 806, provided that
 
 #### Treatment of Possessions ####
 
-Pub. L. 111–5, div. B, title I, §1004(c), Feb. 17, 2009, 123 Stat. 314, as amended by Pub. L. 111–312, title I, §103(a)(2), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §103(a)(2), Jan. 2, 2013, 126 Stat. 2319, provided that:
+Pub. L. 111–5, div. B, title I, §1004(c), Feb. 17, 2009, 123 Stat. 314, as amended by Pub. L. 111–312, title I, §103(a)(2), Dec. 17, 2010, 124 Stat. 3299; Pub. L. 112–240, title I, §103(a)(2), Jan. 2, 2013, 126 Stat. 2319; Pub. L. 114–113, div. Q, title I, §102(b), Dec. 18, 2015, 129 Stat. 3044, provided that:
 
 "(1) Payments to possessions.—
 
-"(A) Mirror code possession.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of section 25A(i)(6) [now 25A(i)(5)] of the Internal Revenue Code of 1986 (as added by this section) with respect to taxable years beginning after 2008 and before 2018. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
+"(A) Mirror code possession.—The Secretary of the Treasury shall pay to each possession of the United States with a mirror code tax system amounts equal to the loss to that possession by reason of the application of section 25A(i)(6) [now 25A(i)(5)] of the Internal Revenue Code of 1986 (as added by this section) with respect to taxable years beginning after 2008. Such amounts shall be determined by the Secretary of the Treasury based on information provided by the government of the respective possession.
 
-"(B) Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) [now 25A(i)(5)] of such Code (as so added) for taxable years beginning after 2008 and before 2018 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
+"(B) Other possessions.—The Secretary of the Treasury shall pay to each possession of the United States which does not have a mirror code tax system amounts estimated by the Secretary of the Treasury as being equal to the aggregate benefits that would have been provided to residents of such possession by reason of the application of section 25A(i)(6) [now 25A(i)(5)] of such Code (as so added) for taxable years beginning after 2008 if a mirror code tax system had been in effect in such possession. The preceding sentence shall not apply with respect to any possession of the United States unless such possession has a plan, which has been approved by the Secretary of the Treasury, under which such possession will promptly distribute such payments to the residents of such possession.
 
 "(2) Coordination with credit allowed against united states income taxes.—Section 25A(i)(6) [now 25A(i)(5)] of such Code (as added by this section) shall not apply to a bona fide resident of any possession of the United States.
 
@@ -339,3 +391,5 @@ Pub. L. 111–5, div. B, title I, §1004(c), Feb. 17, 2009, 123 Stat. 314, as am
 "(B) Mirror code tax system.—For purposes of this subsection, the term 'mirror code tax system' means, with respect to any possession of the United States, the income tax system of such possession if the income tax liability of the residents of such possession under such system is determined by reference to the income tax laws of the United States as if such possession were the United States.
 
 "(C) Treatment of payments.—For purposes of section 1324(b)(2) of title 31, United States Code, the payments under this subsection shall be treated in the same manner as a refund due from the credit allowed under section 25A of the Internal Revenue Code of 1986 by reason of subsection (i)(6) [now (i)(5)] of such section (as added by this section)."
+
+[Amendments by Pub. L. 112–240, §103(a)(2), and Pub. L. 114–113, §102(b), were executed as the probable intent of Congress to section 1004(c)(1) of the American Recovery and Reinvestment Tax Act of 2009, set out above, which act is title I of div. B of Pub. L. 111–5, notwithstanding directory language amending section 1004(c)(1) of division B of the American Recovery and Reinvestment Tax Act of 2009.]

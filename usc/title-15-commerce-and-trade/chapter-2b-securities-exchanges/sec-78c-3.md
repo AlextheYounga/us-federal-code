@@ -178,9 +178,19 @@ The Commission shall consider whether to exempt small banks, savings association
 
 #### (A) In general ####
 
-An affiliate of a person that qualifies for an exception under this subsection (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate, acting on behalf of the person and as an agent, uses the security-based swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity.
+An affiliate of a person that qualifies for an exception under this subsection (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate—
 
-#### (B) Prohibition relating to certain affiliates ####
+(i) enters into the security-based swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, and the commercial risk that the affiliate is hedging or mitigating has been transferred to the affiliate;
+
+(ii) is directly and wholly-owned by another affiliate qualified for the exception under this paragraph or an entity that is not a financial entity;
+
+(iii) is not indirectly majority-owned by a financial entity;
+
+(iv) is not ultimately owned by a parent company that is a financial entity; and
+
+(v) does not provide any services, financial or otherwise, to any affiliate that is a nonbank financial company supervised by the Board of Governors (as defined under section 5311 of title 12).
+
+#### (B) Limitation on qualifying affiliates ####
 
 The exception in subparagraph (A) shall not apply if the affiliate is—
 
@@ -192,15 +202,51 @@ The exception in subparagraph (A) shall not apply if the affiliate is—
 
 (iv) a major security-based swap participant;
 
-(v) an issuer that would be an investment company, as defined in section 80a–3 of this title, but for paragraph (1) or (7) of subsection (c) of that section;
+(v) a commodity pool;
 
-(vi) a commodity pool; or
+(vi) a bank holding company;
 
-(vii) a bank holding company with over $50,000,000,000 in consolidated assets.
+(vii) a private fund, as defined in section 80b–2(a) of this title;
 
-#### (C) Transition rule for affiliates ####
+(viii) an employee benefit plan or government <sup><a href="#78c-3_1_target" name="78c-3_1">1</a></sup> plan, as defined in paragraphs (3) and (32) of section 1002 of title 29;
+
+(ix) an insured depository institution;
+
+(x) a farm credit system institution;
+
+(xi) a credit union;
+
+(xii) a nonbank financial company supervised by the Board of Governors (as defined under section 5311 of title 12); or
+
+(xiii) an entity engaged in the business of insurance and subject to capital requirements established by an insurance governmental authority of a State, a territory of the United States, the District of Columbia, a country other than the United States, or a political subdivision of a country other than the United States that is engaged in the supervision of insurance companies under insurance law.
+
+#### (C) Limitation on affiliates' affiliates ####
+
+Unless the Commission determines, by order, rule, or regulation, that it is in the public interest, the exception in subparagraph (A) shall not apply with respect to an affiliate if such affiliate is itself affiliated with—
+
+(i) a major security-based swap participant;
+
+(ii) a security-based swap dealer;
+
+(iii) a major swap participant; or
+
+(iv) a swap dealer.
+
+#### (D) Conditions on transactions ####
+
+With respect to an affiliate that qualifies for the exception in subparagraph (A)—
+
+(i) such affiliate may not enter into any security-based swap other than for the purpose of hedging or mitigating commercial risk; and
+
+(ii) neither such affiliate nor any person affiliated with such affiliate that is not a financial entity may enter into a security-based swap with or on behalf of any affiliate that is a financial entity or otherwise assume, net, combine, or consolidate the risk of security-based swaps entered into by any such financial entity, except one that is an affiliate that qualifies for the exception under subparagraph (A).
+
+#### (E) Transition rule for affiliates ####
 
 An affiliate, subsidiary, or a wholly owned entity of a person that qualifies for an exception under subparagraph (A) and is predominantly engaged in providing financing for the purchase or lease of merchandise or manufactured goods of the person shall be exempt from the margin requirement described in section 78o–10(e) of this title and the clearing requirement described in subsection (a) with regard to security-based swaps entered into to mitigate the risk of the financing activities for not less than a 2-year period beginning on July 21, 2010.
+
+#### (F) Risk management program ####
+
+Any security-based swap entered into by an affiliate that qualifies for the exception in subparagraph (A) shall be subject to a centralized risk management program of the affiliate, which is reasonably designed both to monitor and manage the risks associated with the security-based swap and to identify each of the affiliates on whose behalf a security-based swap was entered into.
 
 #### (5) Election of counterparty ####
 
@@ -288,7 +334,7 @@ A compliance report under subparagraph (A) shall—
 
 (ii) include a certification that, under penalty of law, the compliance report is accurate and complete.
 
-(June 6, 1934, ch. 404, title I, §3C, as added Pub. L. 111–203, title VII, §763(a), July 21, 2010, 124 Stat. 1762.)
+(June 6, 1934, ch. 404, title I, §3C, as added Pub. L. 111–203, title VII, §763(a), July 21, 2010, 124 Stat. 1762; amended Pub. L. 114–113, div. O, title VII, §705(b), Dec. 18, 2015, 129 Stat. 3027.)
 
 #### References in Text ####
 
@@ -298,6 +344,12 @@ For the effective date of this section, referred to in subsec. (e), see section 
 
 Subsection (c) of that section, referred to in subsec. (g)(4)(B)(v), was in the original "subsection (c) of that Act", and was translated as meaning subsec. (c) of section 3 of act Aug. 22, 1940, ch. 686, to reflect the probable intent of Congress.
 
+#### Amendments ####
+
+**2015**—Subsec. (g)(4). Pub. L. 114–113 added subpars. (A) to (D) and (F), redesignated former subpar. (C) as (E), and struck out former subpars. (A) and (B) which related to application of exception to affiliates and prohibition relating to certain affiliates, respectively.
+
 #### Effective Date ####
 
 Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 77b of this title.
+
+[<sup>1</sup> So in original. Probably should be "governmental".](#78c-3_1)

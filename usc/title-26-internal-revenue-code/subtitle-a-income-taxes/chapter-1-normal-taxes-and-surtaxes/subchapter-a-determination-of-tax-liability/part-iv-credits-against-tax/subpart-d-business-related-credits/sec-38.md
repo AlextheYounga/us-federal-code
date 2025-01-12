@@ -154,25 +154,29 @@ For purposes of this subsection, the term "specified credits" means—
 
 (i) for taxable years beginning after December 31, 2004, the credit determined under section 40,
 
-(ii) the credit determined under section 42 to the extent attributable to buildings placed in service after December 31, 2007,
+(ii) the credit determined under section 41 for the taxable year with respect to an eligible small business (as defined in paragraph (5)(C), after application of rules similar to the rules of paragraph (5)(D)),
 
-(iii) the credit determined under section 45 to the extent that such credit is attributable to electricity or refined coal produced—
+(iii) the credit determined under section 42 to the extent attributable to buildings placed in service after December 31, 2007,
+
+(iv) the credit determined under section 45 to the extent that such credit is attributable to electricity or refined coal produced—
 
 (I) at a facility which is originally placed in service after the date of the enactment of this paragraph, and
 
 (II) during the 4-year period beginning on the date that such facility was originally placed in service,
 
-(iv) the credit determined under section 45B,
+(v) the credit determined under section 45 to the extent that such credit is attributable to section 45(e)(10) (relating to Indian coal production facilities),
 
-(v) the credit determined under section 45G,
+(vi) the credit determined under section 45B,
 
-(vi) the credit determined under section 45R,
+(vii) the credit determined under section 45G,
 
-(vii) the credit determined under section 46 to the extent that such credit is attributable to the energy credit determined under section 48,
+(viii) the credit determined under section 45R,
 
-(viii) the credit determined under section 46 to the extent that such credit is attributable to the rehabilitation credit under section 47, but only with respect to qualified rehabilitation expenditures properly taken into account for periods after December 31, 2007, and
+(ix) the credit determined under section 46 to the extent that such credit is attributable to the energy credit determined under section 48,
 
-(ix) the credit determined under section 51.
+(x) the credit determined under section 46 to the extent that such credit is attributable to the rehabilitation credit under section 47, but only with respect to qualified rehabilitation expenditures properly taken into account for periods after December 31, 2007, and
+
+(xi) the credit determined under section 51.
 
 #### (5) Special rules for eligible small business credits in 2010 ####
 
@@ -238,11 +242,11 @@ The order in which such credits are used shall be determined on the basis of the
 
 The order in which the credits listed in section 46 are used shall be determined on the basis of the order in which such credits are listed in section 46 as of the close of the taxable year in which the credit is used.
 
-(Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870; Pub. L. 106–554, §1(a)(7) [title I, §121(b)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–609; Pub. L. 107–16, title II, §205(b)(1), title VI, §619(b), June 7, 2001, 115 Stat. 53, 110; Pub. L. 107–147, title III, §301(b)(1), (2), title IV, §411(d)(2), Mar. 9, 2002, 116 Stat. 39, 46; Pub. L. 108–357, title II, §245(c)(1), title III, §§302(b), 339(b), 341(b), title VII, §711(a), (b), Oct. 22, 2004, 118 Stat. 1448, 1465, 1484, 1487, 1557, 1558; Pub. L. 109–58, title XIII, §§1306(b), 1322(a)(2), 1332(b), 1334(b), 1341(b)(1), 1342(b)(1), Aug. 8, 2005, 119 Stat. 999, 1011, 1026, 1033, 1049, 1051; Pub. L. 109–59, title XI, §§11126(b), 11151(d)(1), Aug. 10, 2005, 119 Stat. 1958, 1968; Pub. L. 109–135, title I, §103(b)(1), title II, §201(b)(1), title IV, §412(f), Dec. 21, 2005, 119 Stat. 2595, 2607, 2637; Pub. L. 109–432, div. A, title IV, §405(b), Dec. 20, 2006, 120 Stat. 2957; Pub. L. 110–28, title VIII, §8214(a), May 25, 2007, 121 Stat. 193; Pub. L. 110–172, §11(a)(6), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15343(b), May 22, 2008, 122 Stat. 1519; Pub. L. 110–245, title I, §111(b), June 17, 2008, 122 Stat. 1635; Pub. L. 110–246, §4(a), title XV, §15343(b), June 18, 2008, 122 Stat. 1664, 2281; Pub. L. 110–289, div. C, title I, §3022(b), (c), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. B, title I, §§103(b), 115(b), title II, §205(c), div. C, title III, §316(b), Oct. 3, 2008, 122 Stat. 3811, 3831, 3838, 3872; Pub. L. 111–5, div. B, title I, §1141(b)(2), Feb. 17, 2009, 123 Stat. 328; Pub. L. 111–148, title I, §1421(b), (c), Mar. 23, 2010, 124 Stat. 241, 242; Pub. L. 111–240, title II, §2013(a), (c), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 113–295, div. A, title II, §§209(f)(1), 220(b), 221(a)(2)(B), (6), Dec. 19, 2014, 128 Stat. 4028, 4035, 4037, 4038.)
+(Added and amended Pub. L. 98–369, div. A, title IV, §473, title VI, §612(e)(1), July 18, 1984, 98 Stat. 827, 912; Pub. L. 99–514, title II, §§221(a), 231(d)(1), (3)(B), 252(b), title VII, §701(c)(4), title XI, §1171(b)(1), (2), Oct. 22, 1986, 100 Stat. 2173, 2178, 2179, 2205, 2341, 2513; Pub. L. 100–647, title I, §§1002(e)(8)(A), 1007(g)(2), (8), Nov. 10, 1988, 102 Stat. 3368, 3434, 3435; Pub. L. 101–508, title XI, §§11511(b)(1), 11611(b)(1), 11813(b)(2), Nov. 5, 1990, 104 Stat. 1388–485, 1388–503, 1388–551; Pub. L. 102–486, title XIX, §1914(b), Oct. 24, 1992, 106 Stat. 3023; Pub. L. 103–66, title XIII, §§13302(a)(1), (c)(1), 13322(a), 13443(b)(1), Aug. 10, 1993, 107 Stat. 555, 559, 569; Pub. L. 104–188, title I, §§1201(e)(1), 1205(a)(2), 1702(e)(4), Aug. 20, 1996, 110 Stat. 1772, 1775, 1870; Pub. L. 106–554, §1(a)(7) [title I, §121(b)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–609; Pub. L. 107–16, title II, §205(b)(1), title VI, §619(b), June 7, 2001, 115 Stat. 53, 110; Pub. L. 107–147, title III, §301(b)(1), (2), title IV, §411(d)(2), Mar. 9, 2002, 116 Stat. 39, 46; Pub. L. 108–357, title II, §245(c)(1), title III, §§302(b), 339(b), 341(b), title VII, §711(a), (b), Oct. 22, 2004, 118 Stat. 1448, 1465, 1484, 1487, 1557, 1558; Pub. L. 109–58, title XIII, §§1306(b), 1322(a)(2), 1332(b), 1334(b), 1341(b)(1), 1342(b)(1), Aug. 8, 2005, 119 Stat. 999, 1011, 1026, 1033, 1049, 1051; Pub. L. 109–59, title XI, §§11126(b), 11151(d)(1), Aug. 10, 2005, 119 Stat. 1958, 1968; Pub. L. 109–135, title I, §103(b)(1), title II, §201(b)(1), title IV, §412(f), Dec. 21, 2005, 119 Stat. 2595, 2607, 2637; Pub. L. 109–432, div. A, title IV, §405(b), Dec. 20, 2006, 120 Stat. 2957; Pub. L. 110–28, title VIII, §8214(a), May 25, 2007, 121 Stat. 193; Pub. L. 110–172, §11(a)(6), Dec. 29, 2007, 121 Stat. 2485; Pub. L. 110–234, title XV, §15343(b), May 22, 2008, 122 Stat. 1519; Pub. L. 110–245, title I, §111(b), June 17, 2008, 122 Stat. 1635; Pub. L. 110–246, §4(a), title XV, §15343(b), June 18, 2008, 122 Stat. 1664, 2281; Pub. L. 110–289, div. C, title I, §3022(b), (c), July 30, 2008, 122 Stat. 2894; Pub. L. 110–343, div. B, title I, §§103(b), 115(b), title II, §205(c), div. C, title III, §316(b), Oct. 3, 2008, 122 Stat. 3811, 3831, 3838, 3872; Pub. L. 111–5, div. B, title I, §1141(b)(2), Feb. 17, 2009, 123 Stat. 328; Pub. L. 111–148, title I, §1421(b), (c), Mar. 23, 2010, 124 Stat. 241, 242; Pub. L. 111–240, title II, §2013(a), (c), Sept. 27, 2010, 124 Stat. 2555; Pub. L. 113–295, div. A, title II, §§209(f)(1), 220(b), 221(a)(2)(B), (6), Dec. 19, 2014, 128 Stat. 4028, 4035, 4037, 4038; Pub. L. 114–113, div. Q, title I, §§121(b), 186(d)(1), Dec. 18, 2015, 129 Stat. 3049, 3074.)
 
 #### References in Text ####
 
-The date of the enactment of this paragraph, referred to in subsec. (c)(4)(B)(iii)(I), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
+The date of the enactment of this paragraph, referred to in subsec. (c)(4)(B)(iv)(I), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (c)(6)(C), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
@@ -257,6 +261,14 @@ A prior section 38, added Pub. L. 87–834, §2(a), Oct. 16, 1962, 76 Stat. 962;
 Another prior section 38 was renumbered section 37 of this title.
 
 #### Amendments ####
+
+**2015**—Subsec. (c)(4)(B)(ii) to (iv). Pub. L. 114–113, §121(b), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively. Former cl. (iv) redesignated (v).
+
+Subsec. (c)(4)(B)(v) to (x). Pub. L. 114–113, §186(d)(1), added cl. (v) and redesignated former cls. (v) to (ix) as (vi) to (x), respectively. Former cl. (x) redesignated (xi).
+
+Pub. L. 114–113, §121(b), redesignated cls. (v) to (ix) as (vi) to (x), respectively.
+
+Subsec. (c)(4)(B)(xi). Pub. L. 114–113, §186(d)(1), redesignated cl. (x) as (xi).
 
 **2014**—Subsec. (b)(35) to (37). Pub. L. 113–295, §221(a)(2)(B), inserted "plus" at end of par. (35), redesignated par. (37) as (36), and struck out former par. (36) which read as follows: "the portion of the qualified plug-in electric vehicle credit to which section 30(c)(1) applies, plus".
 
@@ -463,6 +475,18 @@ Pub. L. 99–514, §1171(b)(2), substituted "and 196(a)" for "196(a), and 404(i)
 Pub. L. 99–514, §231(d)(3)(B), inserted "41(a)," after "40(a),".
 
 **1984**—Subsec. (c)(2). Pub. L. 98–369, §612(e)(1), substituted "section 26(b)" for "section 25(b)".
+
+#### Effective Date of 2015 Amendment ####
+
+Pub. L. 114–113, div. Q, title I, §121(d), Dec. 18, 2015, 129 Stat. 3052, provided that:
+
+"(1) Extension.—The amendments made by subsection (a) [amending sections 41 and 45C of this title] shall apply to shall apply to [sic] amounts paid or incurred after December 31, 2014.
+
+"(2) Credit allowed against alternative minimum tax in case of eligible small business.—The amendments made by subsection (b) [amending this section] shall apply to credits determined for taxable years beginning after December 31, 2015.
+
+"(3) Treatment of research credit for certain startup companies.—The amendments made by subsection (c) [amending sections 41 and 3111 of this title] shall apply to taxable years beginning after December 31, 2015."
+
+Pub. L. 114–113, div. Q, title I, §186(e)(3), Dec. 18, 2015, 129 Stat. 3074, provided that: "The amendments made by subsection (d) [amending this section and section 45 of this title] shall apply to credits determined for taxable years beginning after December 31, 2015."
 
 #### Effective Date of 2014 Amendment ####
 

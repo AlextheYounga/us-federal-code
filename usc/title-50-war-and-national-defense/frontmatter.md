@@ -1224,7 +1224,7 @@ Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), act Sept. 8, 1950,
 
 Domestic Minerals Program Extension (50 U.S.C. App. 2181 et seq.), act Aug. 7, 1953, ch. 339, 67 Stat. 417—see 50 U.S.C. 4502 note.
 
-Export Regulation (50 U.S.C. App. 2401 et seq.), Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503—see 50 U.S.C. 4701 et seq.
+Export Regulation (50 U.S.C. App. 2401 et seq.), Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503—see 50 U.S.C. 4601 et seq.
 
 For disposition of particular provisions that appeared with these acts, see Table II, above. Provisions not repealed or eliminated as obsolete that appeared under the heading "Proclamations, Executive Orders, Joint Resolutions and Treaties Respecting War, Neutrality and Peace" in material preceding section 1 of Title 50, Appendix, can be found under the same heading below.
 

@@ -148,6 +148,10 @@ In the case of contumacy or failure to obey a subpoena issued pursuant to paragr
 
 Whenever information or assistance requested under subparagraph (A) or (B) of paragraph (1) is, in the judgment of the Board, unreasonably refused or not provided, the Board shall report the circumstances to the head of the department, agency, or element concerned without delay. The head of the department, agency, or element concerned shall ensure that the Board is given access to the information, assistance, material, or personnel the Board determines to be necessary to carry out its functions.
 
+#### (5) Access ####
+
+Nothing in this section shall be construed to authorize the Board, or any agent thereof, to gain access to information regarding an activity covered by section 3093(a) of title 50.
+
 #### (h) Membership ####
 
 #### (1) Members ####
@@ -240,7 +244,7 @@ There are authorized to be appropriated to carry out this section amounts as fol
 
 (5) For fiscal year 2012 and each subsequent fiscal year, such sums as may be necessary.
 
-(Pub. L. 108–458, title I, §1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, §801(a), Aug. 3, 2007, 121 Stat. 352.)
+(Pub. L. 108–458, title I, §1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, §801(a), Aug. 3, 2007, 121 Stat. 352; Pub. L. 114–113, div. M, title III, §305, Dec. 18, 2015, 129 Stat. 2913.)
 
 #### References in Text ####
 
@@ -253,6 +257,8 @@ Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (l)(2
 Section was formerly set out as a note under section 601 of Title 5, Government Organization and Employees.
 
 #### Amendments ####
+
+**2015**—Subsec. (g)(5). Pub. L. 114–113 added par. (5).
 
 **2007**—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (l).
 

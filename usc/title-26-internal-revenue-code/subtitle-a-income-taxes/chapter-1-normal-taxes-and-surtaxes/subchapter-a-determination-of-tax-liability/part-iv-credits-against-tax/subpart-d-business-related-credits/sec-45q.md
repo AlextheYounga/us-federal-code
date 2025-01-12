@@ -122,6 +122,8 @@ Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 11
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+**2015**—Internal Revenue Notice 2015–44.
+
 **2014**—Internal Revenue Notice 2014–40.
 
 **2013**—Internal Revenue Notice 2013–34.

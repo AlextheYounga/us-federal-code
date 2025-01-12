@@ -1,8 +1,8 @@
 ### §250a. Transfer of appropriations ###
 
-The Attorney General may transfer to the Health Resources and Services Administration such amounts as may be necessary for direct expenditures by that Administration for medical relief for inmates of Federal penal and correctional institutions.
+The Attorney General may transfer to the Department of Health and Human Services such amounts as may be necessary for direct expenditures by that Department for medical relief for inmates of Federal penal and correctional institutions.
 
-(Pub. L. 113–235, div. B, title II, Dec. 16, 2014, 128 Stat. 2188.)
+(Pub. L. 114–113, div. B, title II, Dec. 18, 2015, 129 Stat. 2302.)
 
 #### Codification ####
 
@@ -13,6 +13,8 @@ Section was formerly classified to section 341h of title 5 prior to the general 
 #### Prior Provisions ####
 
 Provisions similar to those in this section were contained in the following prior appropriation acts:
+
+Pub. L. 113–235, div. B, title II, Dec. 16, 2014, 128 Stat. 2188.
 
 Pub. L. 113–76, div. B, title II, Jan. 17, 2014, 128 Stat. 57.
 

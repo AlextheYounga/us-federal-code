@@ -894,6 +894,10 @@ Sec.
 
 286vv. Capital stock increases.
 
+286ww. Acceptance of amendments to the Articles of Agreement of the Fund.
+
+286xx. Quota increase.
+
 #### SUBCHAPTER XVI—UNITED NATIONS ORGANIZATION ####
 
 287. Representation in Organization.

@@ -26,10 +26,6 @@ For purposes of subparagraph (A), subsection (b) of section 41 shall be applied�
 
 The term "qualified clinical testing expenses" shall not include any amount to the extent such amount is funded by any grant, contract, or otherwise by another person (or any governmental entity).
 
-#### (D) Special rule ####
-
-If section 41 is not in effect for any period, such section shall be deemed to remain in effect for such period for purposes of this paragraph.
-
 #### (2) Clinical testing ####
 
 #### (A) In general ####
@@ -94,7 +90,7 @@ Rules similar to the rules of paragraphs (1) and (2) of section 41(f) shall appl
 
 This section shall apply to any taxpayer for any taxable year only if such taxpayer elects (at such time and in such manner as the Secretary may by regulations prescribe) to have this section apply for such taxable year.
 
-(Added Pub. L. 97–414, §4(a), Jan. 4, 1983, 96 Stat. 2053, §44H; renumbered §28 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(g), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; Pub. L. 99–514, title II, §§231(d)(3)(A), 232, title VII, §701(c)(2), title XII, §1275(c)(4), title XVIII, §1879(b)(1), (2), Oct. 22, 1986, 100 Stat. 2178, 2180, 2340, 2599, 2905; Pub. L. 100–647, title I, §1018(q)(1), title IV, §4008(c)(1), Nov. 10, 1988, 102 Stat. 3585, 3653; Pub. L. 101–239, title VII, §7110(a)(3), Dec. 19, 1989, 103 Stat. 2323; Pub. L. 101–508, title XI, §§11402(b)(2), 11411, Nov. 5, 1990, 104 Stat. 1388–473, 1388–479; Pub. L. 102–227, title I, §§102(b), 111(a), Dec. 11, 1991, 105 Stat. 1686, 1688; Pub. L. 103–66, title XIII, §13111(a)(2), (b), Aug. 10, 1993, 107 Stat. 420; renumbered §45C and amended Pub. L. 104–188, title I, §§1204(e), 1205(a)(1), (b), (d)(1), (2), Aug. 20, 1996, 110 Stat. 1775, 1776; Pub. L. 105–34, title VI, §§601(b)(2), 604(a), Aug. 5, 1997, 111 Stat. 862, 863; Pub. L. 105–115, title I, §125(b)(2)(O), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 105–277, div. J, title I, §1001(b), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(2), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–432, div. A, title I, §104(a)(2), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §301(a)(2), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §731(b), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(2), Jan. 2, 2013, 126 Stat. 2326; Pub. L. 113–295, div. A, title I, §111(b), Dec. 19, 2014, 128 Stat. 4014.)
+(Added Pub. L. 97–414, §4(a), Jan. 4, 1983, 96 Stat. 2053, §44H; renumbered §28 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(g), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; Pub. L. 99–514, title II, §§231(d)(3)(A), 232, title VII, §701(c)(2), title XII, §1275(c)(4), title XVIII, §1879(b)(1), (2), Oct. 22, 1986, 100 Stat. 2178, 2180, 2340, 2599, 2905; Pub. L. 100–647, title I, §1018(q)(1), title IV, §4008(c)(1), Nov. 10, 1988, 102 Stat. 3585, 3653; Pub. L. 101–239, title VII, §7110(a)(3), Dec. 19, 1989, 103 Stat. 2323; Pub. L. 101–508, title XI, §§11402(b)(2), 11411, Nov. 5, 1990, 104 Stat. 1388–473, 1388–479; Pub. L. 102–227, title I, §§102(b), 111(a), Dec. 11, 1991, 105 Stat. 1686, 1688; Pub. L. 103–66, title XIII, §13111(a)(2), (b), Aug. 10, 1993, 107 Stat. 420; renumbered §45C and amended Pub. L. 104–188, title I, §§1204(e), 1205(a)(1), (b), (d)(1), (2), Aug. 20, 1996, 110 Stat. 1775, 1776; Pub. L. 105–34, title VI, §§601(b)(2), 604(a), Aug. 5, 1997, 111 Stat. 862, 863; Pub. L. 105–115, title I, §125(b)(2)(O), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 105–277, div. J, title I, §1001(b), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(2), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(2), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–432, div. A, title I, §104(a)(2), Dec. 20, 2006, 120 Stat. 2934; Pub. L. 110–343, div. C, title III, §301(a)(2), Oct. 3, 2008, 122 Stat. 3865; Pub. L. 111–312, title VII, §731(b), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(2), Jan. 2, 2013, 126 Stat. 2326; Pub. L. 113–295, div. A, title I, §111(b), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §121(a)(2), Dec. 18, 2015, 129 Stat. 3049.)
 
 #### References in Text ####
 
@@ -103,6 +99,8 @@ Sections 505(b), (i) and 526 of the Federal Food, Drug, and Cosmetic Act, referr
 Section 351 of the Public Health Service Act, referred to in subsec. (b)(2)(A)(ii)(II), is classified to section 262 of Title 42, The Public Health and Welfare.
 
 #### Amendments ####
+
+**2015**—Subsec. (b)(1)(D). Pub. L. 114–113 struck out subpar. (D). Text read as follows: "If section 41 is not in effect for any period, such section shall be deemed to remain in effect for such period for purposes of this paragraph."
 
 **2014**—Subsec. (b)(1)(D). Pub. L. 113–295 amended subpar. (D) generally. Prior to amendment, text read as follows: "For purposes of this paragraph, section 41 shall be deemed to remain in effect for periods after June 30, 1995, and before July 1, 1996, and periods after December 31, 2013."
 
@@ -195,6 +193,10 @@ Subsec. (d)(2). Pub. L. 98–369, §612(e)(1), substituted "section 26(b)" for "
 Pub. L. 98–369, §474(g)(2), amended par. (2) generally, substituting "shall not exceed the taxpayer's tax liability for the taxable year (as defined in section 25(b), reduced by the sum of the credits allowable under subpart A and section 27" for "shall not exceed the amount of the tax imposed by this chapter for the taxable year reduced by the sum of the credits allowable under a section of this subpart having a lower number or letter designation than this section, other than the credits allowable by sections 31, 39, and 43. For purposes of the preceding sentence, the term 'tax imposed by this chapter' shall not include any tax treated as not imposed by this chapter under the last sentence of section 53(a)".
 
 Subsec. (d)(4). Pub. L. 98–369, §474(g)(1)(C), substituted "section 30(f)" for "section 44F(f)".
+
+#### Effective Date of 2015 Amendment ####
+
+Amendment by Pub. L. 114–113 applicable to amounts paid or incurred after Dec. 31, 2014, see section 121(d)(1) of Pub. L. 114–113, set out as a note under section 38 of this title.
 
 #### Effective Date of 2014 Amendment ####
 

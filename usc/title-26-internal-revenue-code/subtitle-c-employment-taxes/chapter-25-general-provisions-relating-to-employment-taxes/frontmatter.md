@@ -24,7 +24,11 @@ Sec.
 
 3511. Certified professional employer organizations.
 
+3512. Treatment of certain persons as employers with respect to motion picture projects.
+
 #### Amendments ####
+
+**2015**—Pub. L. 114–113, div. Q, title III, §346(b), Dec. 18, 2015, 129 Stat. 3116, added item 3512.
 
 **2014**—Pub. L. 113–295, div. B, title II, §206(d)(1), Dec. 19, 2014, 128 Stat. 4071, added item 3511.
 

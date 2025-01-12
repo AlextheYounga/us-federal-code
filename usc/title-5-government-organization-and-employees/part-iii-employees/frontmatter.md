@@ -111,9 +111,15 @@ Chap. Sec.
 
 102. United States Secret Service Uniformed Division Personnel 10201
 
+### **Subpart J—Enhanced Personnel Security Programs** ###
+
+110. Enhanced personnel 2 security 2 programs 2 11001
+
 #### Amendments ####
 
-**2015**—Pub. L. 114–47, §2(b), Aug. 7, 2015, 129 Stat. 487, added item for chapter 96.
+**2015**—Pub. L. 114–113, div. M, title III, §306(a)(2), Dec. 18, 2015, 129 Stat. 2916, added items for subpart J and chapter 110.
+
+Pub. L. 114–47, §2(b), Aug. 7, 2015, 129 Stat. 487, added item for chapter 96.
 
 **2011**—Pub. L. 112–81, div. A, title XI, §1101(d)(2), Dec. 31, 2011, 125 Stat. 1610, added item for chapter 99 and struck out former item for chapter 99 "Department of Defense National Security Personnel System".
 

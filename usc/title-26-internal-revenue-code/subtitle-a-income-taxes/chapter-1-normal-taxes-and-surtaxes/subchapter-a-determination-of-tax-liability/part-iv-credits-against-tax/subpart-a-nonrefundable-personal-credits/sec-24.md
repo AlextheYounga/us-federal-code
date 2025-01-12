@@ -44,7 +44,7 @@ The aggregate credits allowed to a taxpayer under subpart C shall be increased b
 
 (B) the amount by which the aggregate amount of credits allowed by this subpart (determined without regard to this subsection) would increase if the limitation imposed by section 26(a) were increased by the greater of—
 
-(i) 15 percent of so much of the taxpayer's earned income (within the meaning of section 32) which is taken into account in computing taxable income for the taxable year as exceeds $10,000, or
+(i) 15 percent of so much of the taxpayer's earned income (within the meaning of section 32) which is taken into account in computing taxable income for the taxable year as exceeds $3,000, or
 
 (ii) in the case of a taxpayer with 3 or more qualifying children, the excess (if any) of—
 
@@ -76,33 +76,47 @@ The term "social security taxes" shall not include any taxes to the extent the t
 
 Any amounts paid pursuant to an agreement under section 3121(l) (relating to agreements entered into by American employers with respect to foreign affiliates) which are equivalent to the taxes referred to in subparagraph (A)(i) shall be treated as taxes referred to in such subparagraph.
 
-#### (3) Inflation adjustment ####
-
-In the case of any taxable year beginning in a calendar year after 2001, the $10,000 amount contained in paragraph (1)(B) shall be increased by an amount equal to—
-
-(A) such dollar amount, multiplied by
-
-(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2000" for "calendar year 1992" in subparagraph (B) thereof.
-
-Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $50.
-
-#### (4) Special rule for certain years ####
-
-In the case of any taxable year beginning after 2008 and before 2018, paragraph (1)(B)(i) shall be applied by substituting "$3,000" for "$10,000".
+#### [(3), (4) Repealed. Pub. L. 114–113, div. Q, title I, §101(b), Dec. 18, 2015, 129 Stat. 3044] ####
 
 #### (5) Exception for taxpayers excluding foreign earned income ####
 
 Paragraph (1) shall not apply to any taxpayer for any taxable year if such taxpayer elects to exclude any amount from gross income under section 911 for such taxable year.
 
-#### (e) Identification requirement ####
+#### (e) Identification requirements ####
 
-No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year.
+#### (1) Qualifying child identification requirement ####
+
+No credit shall be allowed under this section to a taxpayer with respect to any qualifying child unless the taxpayer includes the name and taxpayer identification number of such qualifying child on the return of tax for the taxable year and such taxpayer identification number was issued on or before the due date for filing such return.
+
+#### (2) Taxpayer identification requirement ####
+
+No credit shall be allowed under this section if the identifying number of the taxpayer was issued after the due date for filing the return for the taxable year.
 
 #### (f) Taxable year must be full taxable year ####
 
 Except in the case of a taxable year closed by reason of the death of the taxpayer, no credit shall be allowable under this section in the case of a taxable year covering a period of less than 12 months.
 
-(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–343, div. B, title I, §106(e)(2)(B), title II, §205(d)(1)(A), div. C, title V, §501(a), Oct. 3, 2008, 122 Stat. 3817, 3838, 3876; Pub. L. 110–351, title V, §501(c)(1), Oct. 7, 2008, 122 Stat. 3979; Pub. L. 111–5, div. B, title I, §§1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, 123 Stat. 313, 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(A), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(b), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(b), 104(c)(2)(B), Jan. 2, 2013, 126 Stat. 2319, 2321; Pub. L. 113–295, div. A, title II, §209(a), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §807(a), June 29, 2015, 129 Stat. 418.)
+#### (g) Restrictions on taxpayers who improperly claimed credit in prior year ####
+
+#### (1) Taxpayers making prior fraudulent or reckless claims ####
+
+#### (A) In general ####
+
+No credit shall be allowed under this section for any taxable year in the disallowance period.
+
+#### (B) Disallowance period ####
+
+For purposes of subparagraph (A), the disallowance period is—
+
+(i) the period of 10 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of credit under this section was due to fraud, and
+
+(ii) the period of 2 taxable years after the most recent taxable year for which there was a final determination that the taxpayer's claim of credit under this section was due to reckless or intentional disregard of rules and regulations (but not due to fraud).
+
+#### (2) Taxpayers making improper prior claims ####
+
+In the case of a taxpayer who is denied credit under this section for any taxable year as a result of the deficiency procedures under subchapter B of chapter 63, no credit shall be allowed under this section for any subsequent taxable year unless the taxpayer provides such information as the Secretary may require to demonstrate eligibility for such credit.
+
+(Added Pub. L. 105–34, title I, §101(a), Aug. 5, 1997, 111 Stat. 796; amended Pub. L. 105–206, title VI, §6003(a), July 22, 1998, 112 Stat. 790; Pub. L. 105–277, div. J, title II, §2001(b), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–170, title V, §501(b)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 107–16, title II, §§201(a)–(b)(2)(C), (c)(1), (2), (d), 202(f)(2)(B), title VI, §618(b)(2)(A), June 7, 2001, 115 Stat. 45–47, 49, 108; Pub. L. 107–90, title II, §204(e)(1), Dec. 21, 2001, 115 Stat. 893; Pub. L. 107–147, title IV, §§411(b), 417(23)(A), Mar. 9, 2002, 116 Stat. 45, 57; Pub. L. 108–27, title I, §101(a), May 28, 2003, 117 Stat. 753; Pub. L. 108–311, title I, §§101(a), 102(a), 104(a), title II, §204, title IV, §408(b)(4), Oct. 4, 2004, 118 Stat. 1167, 1168, 1176, 1192; Pub. L. 109–135, title IV, §402(i)(3)(B), Dec. 21, 2005, 119 Stat. 2613; Pub. L. 110–172, §11(c)(1), Dec. 29, 2007, 121 Stat. 2488; Pub. L. 110–343, div. B, title I, §106(e)(2)(B), title II, §205(d)(1)(A), div. C, title V, §501(a), Oct. 3, 2008, 122 Stat. 3817, 3838, 3876; Pub. L. 110–351, title V, §501(c)(1), Oct. 7, 2008, 122 Stat. 3979; Pub. L. 111–5, div. B, title I, §§1003(a), 1004(b)(1), 1142(b)(1)(A), 1144(b)(1)(A), Feb. 17, 2009, 123 Stat. 313, 314, 330, 332; Pub. L. 111–148, title X, §10909(b)(2)(A), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(b), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(b), 104(c)(2)(B), Jan. 2, 2013, 126 Stat. 2319, 2321; Pub. L. 113–295, div. A, title II, §209(a), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §807(a), June 29, 2015, 129 Stat. 418; Pub. L. 114–113, div. Q, title I, §101(a), (b), title II, §§205(a), (b), 208(a)(1), Dec. 18, 2015, 129 Stat. 3044, 3081, 3083.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -114,7 +128,15 @@ A prior section 24, added Pub. L. 92–178, title VII, §701(a), Dec. 10, 1971, 
 
 #### Amendments ####
 
-**2015**—Subsec. (d)(5). Pub. L. 114–27 added par. (5).
+**2015**—Subsec. (d)(1)(B)(i). Pub. L. 114–113, §101(a), substituted "$3,000" for "$10,000".
+
+Subsec. (d)(3), (4). Pub. L. 114–113, §101(b), struck out pars. (3) and (4) which related to inflation adjustment and special rule for certain years, respectively.
+
+Subsec. (d)(5). Pub. L. 114–27 added par. (5).
+
+Subsec. (e). Pub. L. 114–113, §205(a), (b), substituted "requirements" for "requirement" in subsec. heading, designated existing provisions as par. (1), inserted par. heading and "and such taxpayer identification number was issued on or before the due date for filing such return" before period at end, and added par. (2).
+
+Subsec. (g). Pub. L. 114–113, §208(a)(1), added subsec. (g).
 
 **2014**—Subsec. (d)(4). Pub. L. 113–295 amended par. (4) generally. The amendment was effective as if included in the provisions of the American Recovery and Reinvestment Tax Act of 2009 (Pub. L. 111–5, div. B, title I) to which it relates. As amended by Pub. L. 111–5, §1003(a), par. (4) read as follows: "Special rule for 2009 and 2010.—Notwithstanding paragraph (3), in the case of any taxable year beginning in 2009 or 2010, the dollar amount in effect for such taxable year under paragraph (1)(B)(i) shall be $3,000." See 2009 Amendment and Effective Date of 2014 Amendment notes below.
 
@@ -263,6 +285,16 @@ Subsec. (d)(4). Pub. L. 105–206, §6003(a)(1)(A), struck out heading and text 
 Subsec. (d)(5). Pub. L. 105–206, §6003(a)(1)(B), redesignated par. (5) as (3).
 
 #### Effective Date of 2015 Amendment ####
+
+Pub. L. 114–113, div. Q, title I, §101(c), Dec. 18, 2015, 129 Stat. 3044, provided that: "The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 18, 2015]."
+
+Pub. L. 114–113, div. Q, title II, §205(c), Dec. 18, 2015, 129 Stat. 3081, provided that:
+
+"(1) In general.—The amendments made by this section [amending this section] shall apply to any return of tax, and any amendment or supplement to any return of tax, which is filed after the date of the enactment of this Act [Dec. 18, 2015].
+
+"(2) Exception for timely-filed 2015 returns.—The amendments made by this section shall not apply to any return of tax (other than an amendment or supplement to any return of tax) for any taxable year which includes the date of the enactment of this Act if such return is filed on or before the due date for such return of tax."
+
+Pub. L. 114–113, div. Q, title II, §208(c), Dec. 18, 2015, 129 Stat. 3084, provided that: "The amendments made by this section [amending this section and sections 25A and 6213 of this title] shall apply to taxable years beginning after December 31, 2015."
 
 Pub. L. 114–27, title VIII, §807(b), June 29, 2015, 129 Stat. 418, provided that: "The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2014."
 

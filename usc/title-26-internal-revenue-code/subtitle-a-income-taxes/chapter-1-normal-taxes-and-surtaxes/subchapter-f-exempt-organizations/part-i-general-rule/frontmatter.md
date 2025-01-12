@@ -12,7 +12,11 @@ Sec.
 
 505. Additional requirements for organizations described in paragraph (9), (17), or (20) of section 501(c).
 
+506. Organizations required to notify Secretary of intent to operate under 501(c)(4).
+
 #### Amendments ####
+
+**2015**—Pub. L. 114–113, div. Q, title IV, §405(d), Dec. 18, 2015, 129 Stat. 3119, added item 506.
 
 **1987**—Pub. L. 100–203, title X, §10711(b)(2)(B), Dec. 22, 1987, 101 Stat. 1330–464, substituted "substantial lobbying or because of political activities" for "substantial lobbying" in item 504.
 

@@ -718,25 +718,103 @@ In the case of an individual who—
 
 the amount determined under subsection (a) for any taxable year shall not exceed an amount (separately computed with respect to such person's interest in such trade or business or entity) equal to the amount of tax attributable to that portion of a person's taxable income which is allocable or apportionable to the person's interest in such trade or business or entity. If the amount determined under subsection (a) for any taxable year exceeds the limitation of the preceding sentence, such amount may be carried to other taxable years under the rules of section 39; except that the limitation of the preceding sentence shall be taken into account in lieu of the limitation of section 38(c) in applying section 39.
 
-#### (h) Termination ####
+#### (h) Treatment of credit for qualified small businesses ####
 
 #### (1) In general ####
 
-This section shall not apply to any amount paid or incurred after December 31, 2014.
+At the election of a qualified small business for any taxable year, section 3111(f) shall apply to the payroll tax credit portion of the credit otherwise determined under subsection (a) for the taxable year and such portion shall not be treated (other than for purposes of section 280C) as a credit determined under subsection (a).
 
-#### (2) Termination of alternative incremental credit ####
+#### (2) Payroll tax credit portion ####
 
-No election under subsection (c)(4) shall apply to taxable years beginning after December 31, 2008.
+For purposes of this subsection, the payroll tax credit portion of the credit determined under subsection (a) with respect to any qualified small business for any taxable year is the least of—
 
-#### (2) <sup><a href="#41_1_target" name="41_1">1</a></sup> Computation for taxable year in which credit terminates ####
+(A) the amount specified in the election made under this subsection,
 
-In the case of any taxable year with respect to which this section applies to a number of days which is less than the total number of days in such taxable year—
+(B) the credit determined under subsection (a) for the taxable year (determined before the application of this subsection), or
 
-(A) the amount determined under subsection (c)(1)(B) with respect to such taxable year shall be the amount which bears the same ratio to such amount (determined without regard to this paragraph) as the number of days in such taxable year to which this section applies bears to the total number of days in such taxable year, and
+(C) in the case of a qualified small business other than a partnership or S corporation, the amount of the business credit carryforward under section 39 carried from the taxable year (determined before the application of this subsection to the taxable year).
 
-(B) for purposes of subsection (c)(5), the average qualified research expenses for the preceding 3 taxable years shall be the amount which bears the same ratio to such average qualified research expenses (determined without regard to this paragraph) as the number of days in such taxable year to which this section applies bears to the total number of days in such taxable year.
+#### (3) Qualified small business ####
 
-(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(b)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)[(c)], 7814(e)(2)(C), Dec. 19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774; Pub. L. 105–34, title VI, §601(a), (b)(1), Aug. 5, 1997, 111 Stat. 861; Pub. L. 105–277, div. J, title I, §1001(a), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(1), (b)(1), (c)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(1), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–58, title XIII, §1351(a), (b), Aug. 8, 2005, 119 Stat. 1056, 1057; Pub. L. 109–135, title IV, §402(l), Dec. 21, 2005, 119 Stat. 2615; Pub. L. 109–432, div. A, title I, §104(a)(1), (b)(1), (c)(1), Dec. 20, 2006, 120 Stat. 2934, 2935; Pub. L. 110–172, §§6(c), 11(e)(2), Dec. 29, 2007, 121 Stat. 2479, 2489; Pub. L. 110–343, div. C, title III, §301(a)(1), (b)–(d), Oct. 3, 2008, 122 Stat. 3865, 3866; Pub. L. 111–312, title VII, §731(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(1), (b), (c), Jan. 2, 2013, 126 Stat. 2326, 2328; Pub. L. 113–295, div. A, title I, §111(a), Dec. 19, 2014, 128 Stat. 4014.)
+For purposes of this subsection—
+
+#### (A) In general ####
+
+The term "qualified small business" means, with respect to any taxable year—
+
+(i) a corporation or partnership, if—
+
+(I) the gross receipts (as determined under the rules of section 448(c)(3), without regard to subparagraph (A) thereof) of such entity for the taxable year is less than $5,000,000, and
+
+(II) such entity did not have gross receipts (as so determined) for any taxable year preceding the 5-taxable-year period ending with such taxable year, and
+
+(ii) any person (other than a corporation or partnership) who meets the requirements of subclauses (I) and (II) of clause (i), determined—
+
+(I) by substituting "person" for "entity" each place it appears, and
+
+(II) by only taking into account the aggregate gross receipts received by such person in carrying on all trades or businesses of such person.
+
+#### (B) Limitation ####
+
+Such term shall not include an organization which is exempt from taxation under section 501.
+
+#### (4) Election ####
+
+#### (A) In general ####
+
+Any election under this subsection for any taxable year—
+
+(i) shall specify the amount of the credit to which such election applies,
+
+(ii) shall be made on or before the due date (including extensions) of—
+
+(I) in the case of a qualified small business which is a partnership, the return required to be filed under section 6031,
+
+(II) in the case of a qualified small business which is an S corporation, the return required to be filed under section 6037, and
+
+(III) in the case of any other qualified small business, the return of tax for the taxable year, and
+
+(iii) may be revoked only with the consent of the Secretary.
+
+#### (B) Limitations ####
+
+#### (i) Amount ####
+
+The amount specified in any election made under this subsection shall not exceed $250,000.
+
+#### (ii) Number of taxable years ####
+
+A person may not make an election under this subsection if such person (or any other person treated as a single taxpayer with such person under paragraph (5)(A)) has made an election under this subsection for 5 or more preceding taxable years.
+
+#### (C) Special rule for partnerships and S corporations ####
+
+In the case of a qualified small business which is a partnership or S corporation, the election made under this subsection shall be made at the entity level.
+
+#### (5) Aggregation rules ####
+
+#### (A) In general ####
+
+Except as provided in subparagraph (B), all persons or entities treated as a single taxpayer under subsection (f)(1) shall be treated as a single taxpayer for purposes of this subsection.
+
+#### (B) Special rules ####
+
+For purposes of this subsection and section 3111(f)—
+
+(i) each of the persons treated as a single taxpayer under subparagraph (A) may separately make the election under paragraph (1) for any taxable year, and
+
+(ii) the $250,000 amount under paragraph (4)(B)(i) shall be allocated among all persons treated as a single taxpayer under subparagraph (A) in the same manner as under subparagraph (A)(ii) or (B)(ii) of subsection (f)(1), whichever is applicable.
+
+#### (6) Regulations ####
+
+The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including—
+
+(A) regulations to prevent the avoidance of the purposes of the limitations and aggregation rules under this subsection through the use of successor companies or other means,
+
+(B) regulations to minimize compliance and record-keeping burdens under this subsection, and
+
+(C) regulations for recapturing the benefit of credits determined under section 3111(f) in cases where there is a subsequent adjustment to the payroll tax credit portion of the credit determined under subsection (a), including requiring amended income tax returns in the cases where there is such an adjustment.
+
+(Added Pub. L. 97–34, title II, §221(a), Aug. 13, 1981, 95 Stat. 241, §44F; amended Pub. L. 97–354, §5(a)(3), Oct. 19, 1982, 96 Stat. 1692; Pub. L. 97–448, title I, §102(b)(2), Jan. 12, 1983, 96 Stat. 2372; renumbered §30 and amended Pub. L. 98–369, div. A, title IV, §§471(c), 474(i)(1), title VI, §612(e)(1), July 18, 1984, 98 Stat. 826, 831, 912; renumbered §41 and amended Pub. L. 99–514, title II, §231(a)(1), (b), (c), (d)(2), (3)(C)(ii), (e), title XVIII, §1847(b)(1), Oct. 22, 1986, 100 Stat. 2173, 2175, 2178–2180, 2856; Pub. L. 100–647, title I, §1002(h)(1), title IV, §§4007(a), 4008(b)(1), Nov. 10, 1988, 102 Stat. 3370, 3652; Pub. L. 101–239, title VII, §§7110(a)(1), (b), (b)[(c)], 7814(e)(2)(C), Dec. 19, 1989, 103 Stat. 2322, 2323, 2325, 2414; Pub. L. 101–508, title XI, §§11101(d)(1)(C), 11402(a), Nov. 5, 1990, 104 Stat. 1388–405, 1388–473; Pub. L. 102–227, title I, §102(a), Dec. 11, 1991, 105 Stat. 1686; Pub. L. 103–66, title XIII, §§13111(a)(1), 13112(a), (b), 13201(b)(3)(C), Aug. 10, 1993, 107 Stat. 420, 421, 459; Pub. L. 104–188, title I, §§1201(e)(1), (4), 1204(a)–(d), Aug. 20, 1996, 110 Stat. 1772–1774; Pub. L. 105–34, title VI, §601(a), (b)(1), Aug. 5, 1997, 111 Stat. 861; Pub. L. 105–277, div. J, title I, §1001(a), Oct. 21, 1998, 112 Stat. 2681–888; Pub. L. 106–170, title V, §502(a)(1), (b)(1), (c)(1), Dec. 17, 1999, 113 Stat. 1919; Pub. L. 108–311, title III, §301(a)(1), Oct. 4, 2004, 118 Stat. 1178; Pub. L. 109–58, title XIII, §1351(a), (b), Aug. 8, 2005, 119 Stat. 1056, 1057; Pub. L. 109–135, title IV, §402(l), Dec. 21, 2005, 119 Stat. 2615; Pub. L. 109–432, div. A, title I, §104(a)(1), (b)(1), (c)(1), Dec. 20, 2006, 120 Stat. 2934, 2935; Pub. L. 110–172, §§6(c), 11(e)(2), Dec. 29, 2007, 121 Stat. 2479, 2489; Pub. L. 110–343, div. C, title III, §301(a)(1), (b)–(d), Oct. 3, 2008, 122 Stat. 3865, 3866; Pub. L. 111–312, title VII, §731(a), Dec. 17, 2010, 124 Stat. 3317; Pub. L. 112–240, title III, §301(a)(1), (b), (c), Jan. 2, 2013, 126 Stat. 2326, 2328; Pub. L. 113–295, div. A, title I, §111(a), Dec. 19, 2014, 128 Stat. 4014; Pub. L. 114–113, div. Q, title I, §121(a)(1), (c)(1), Dec. 18, 2015, 129 Stat. 3049.)
 
 #### References in Text ####
 
@@ -749,6 +827,10 @@ A prior section 41, added Pub. L. 97–34, title III, §331(a), Aug. 13, 1981, 9
 Another prior section 41 was renumbered section 24 of this title.
 
 #### Amendments ####
+
+**2015**—Subsec. (h). Pub. L. 114–113, §121(c)(1), added subsec. (h).
+
+Pub. L. 114–113, §121(a)(1), struck out subsec. (h) which provided the termination date for applicability of this section and the alternative incremental credit and provided the computation for taxable year in which credit terminates.
 
 **2014**—Subsec. (h)(1). Pub. L. 113–295 substituted "paid or incurred after December 31, 2014." for "paid or incurred—
 
@@ -945,6 +1027,12 @@ Pub. L. 98–369, §474(i)(1)(B), amended subpar. (A) generally, substituting "s
 **1982**—Subsec. (f)(2)(A). Pub. L. 97–354, §5(a)(3)(A), substituted "Pass-thru in the case of estates and trusts" for "Pass-through in the case of subchapter S corporations, etc." in subpar. heading, and substituted provisions relating to the applicability of rules similar to rules of subsec. (d) of section 52 for provisions relating to the applicability of rules similar to rules of subsecs. (d) and (e) of section 52.
 
 Subsec. (g)(1)(B)(iv). Pub. L. 97–354, §5(a)(3)(B), substituted "an S corporation" for "an electing small business corporation (within the meaning of section 1371(b))".
+
+#### Effective Date of 2015 Amendment ####
+
+Amendment by section 121(a)(1) of Pub. L. 114–113 applicable to amounts paid or incurred after Dec. 31, 2014, see section 121(d)(1) of Pub. L. 114–113, set out as a note under section 38 of this title.
+
+Amendment by section 121(c)(1) of Pub. L. 114–113 applicable to taxable years beginning after Dec. 31, 2015, see section 121(d)(3) of Pub. L. 114–113, set out as a note under section 38 of this title.
 
 #### Effective Date of 2014 Amendment ####
 
@@ -1203,5 +1291,3 @@ Pub. L. 98–369, div. A, title IV, §474(i)(2), July 18, 1984, 98 Stat. 832, pr
 "(B) the period during which new section 30 [now 41] is in effect,
 
 new section 30 [now 41] shall be treated as a continuation of old section 44F (and shall apply only to the extent old section 44F would have applied)."
-
-[<sup>1</sup> So in original. Probably should be "(3)".](#41_1)

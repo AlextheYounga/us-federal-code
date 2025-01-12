@@ -10,9 +10,9 @@ Sec.
 
 #### Part A—Domestic Supply ####
 
-6211. Repealed.
+6211, 6212. Repealed.
 
-6212. Domestic use of energy supplies and related materials and equipment.
+6212a. Oil exports, safety valve, and maritime security.
 
 6213. Certain lease bidding arrangements prohibited.
 

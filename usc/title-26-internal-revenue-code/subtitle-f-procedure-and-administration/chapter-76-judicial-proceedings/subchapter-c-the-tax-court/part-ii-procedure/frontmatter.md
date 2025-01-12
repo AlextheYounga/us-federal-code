@@ -32,7 +32,11 @@ Sec.
 
 7465. Provisions of special application to transferees.
 
+7466. Judicial conduct and disability procedures.
+
 #### Amendments ####
+
+**2015**—Pub. L. 114–113, div. Q, title IV, §431(b), Dec. 18, 2015, 129 Stat. 3125, added item 7466.
 
 **1998**—Pub. L. 105–206, title III, §3103(b)(2), July 22, 1998, 112 Stat. 731, substituted "$50,000" for "$10,000" in item 7463.
 

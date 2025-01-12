@@ -226,9 +226,9 @@ increased by the applicable percentage increase under subparagraph (B) for that 
 
 (XI) The Secretary shall establish a process to validate measures specified under this clause as appropriate. Such process shall include the auditing of a number of randomly selected hospitals sufficient to ensure validity of the reporting program under this clause as a whole and shall provide a hospital with an opportunity to appeal the validation of measures reported by such hospital.
 
-(ix)(I) For purposes of clause (i) for fiscal year 2015 and each subsequent fiscal year, in the case of an eligible hospital (as defined in subsection (n)(6)(A)) <sup><a href="#1395ww_3_target" name="1395ww_3">3</a></sup> that is not a meaningful EHR user (as defined in subsection (n)(3)) for an EHR reporting period for such fiscal year, three-quarters of the applicable percentage increase otherwise applicable under clause (i) (determined without regard to clause (viii), (xi), or (xii)) for such fiscal year shall be reduced by 331/3 percent for fiscal year 2015, 662/3 percent for fiscal year 2016, and 100 percent for fiscal year 2017 and each subsequent fiscal year. Such reduction shall apply only with respect to the fiscal year involved and the Secretary shall not take into account such reduction in computing the applicable percentage increase under clause (i) for a subsequent fiscal year.
+(ix)(I) For purposes of clause (i) for fiscal year 2015 and each subsequent fiscal year, in the case of an eligible hospital (as defined in subsection (n)(6)) that is not a meaningful EHR user (as defined in subsection (n)(3)) for an EHR reporting period for such fiscal year, three-quarters of the applicable percentage increase otherwise applicable under clause (i) (determined without regard to clause (viii), (xi), or (xii)) for such fiscal year shall be reduced by 331/3 percent for fiscal year 2015, 662/3 percent for fiscal year 2016, and 100 percent for fiscal year 2017 and each subsequent fiscal year. Such reduction shall apply only with respect to the fiscal year involved and the Secretary shall not take into account such reduction in computing the applicable percentage increase under clause (i) for a subsequent fiscal year.
 
-(II) The Secretary may, on a case-by-case basis, exempt a subsection (d) hospital from the application of subclause (I) with respect to a fiscal year if the Secretary determines, subject to annual renewal, that requiring such hospital to be a meaningful EHR user during such fiscal year would result in a significant hardship, such as in the case of a hospital in a rural area without sufficient Internet access. In no case may a hospital be granted an exemption under this subclause for more than 5 years.
+(II) The Secretary may, on a case-by-case basis (and, with respect to the application of subclause (I) for fiscal year 2017, for categories of subsection (d) hospitals, as established by the Secretary and posted on the Internet website of the Centers for Medicare & Medicaid Services prior to December 15, 2015, an application for which must be submitted to the Secretary by not later than April 1, 2016), exempt an eligible hospital from the application of subclause (I) with respect to a fiscal year if the Secretary determines, subject to annual renewal, that requiring such hospital to be a meaningful EHR user during such fiscal year would result in a significant hardship, such as in the case of a hospital in a rural area without sufficient Internet access. In no case may a hospital be granted an exemption under this subclause for more than 5 years.
 
 (III) For fiscal year 2015 and each subsequent fiscal year, a State in which hospitals are paid for services under section 1395f(b)(3) of this title shall adjust the payments to each subsection (d) hospital in the State that is not a meaningful EHR user (as defined in subsection (n)(3)) in a manner that is designed to result in an aggregate reduction in payments to hospitals in the State that is equivalent to the aggregate reduction that would have occurred if payments had been reduced to each subsection (d) hospital in the State in a manner comparable to the reduction under the previous provisions of this clause. The State shall report to the Secretary the methodology it will use to make the payment adjustment under the previous sentence.
 
@@ -536,7 +536,7 @@ The Secretary shall respond to requests of States under this paragraph within 60
 
 (II) a hospital that first received payment under this subsection in 1986 which has an average inpatient length of stay (as determined by the Secretary) of greater than 20 days and that has 80 percent or more of its annual medicare inpatient discharges with a principal diagnosis that reflects a finding of neoplastic disease in the 12-month cost reporting period ending in fiscal year 1997, or
 
-(v)(I) a hospital that the Secretary has classified, at any time on or before December 31, 1990,<sup><a href="#1395ww_4_target" name="1395ww_4">4</a></sup> (or, in the case of a hospital that, as of December 19, 1989, is located in a State operating a demonstration project under section 1395f(b) of this title, on or before December 31, 1991) for purposes of applying exceptions and adjustments to payment amounts under this subsection, as a hospital involved extensively in treatment for or research on cancer,
+(v)(I) a hospital that the Secretary has classified, at any time on or before December 31, 1990,<sup><a href="#1395ww_3_target" name="1395ww_3">3</a></sup> (or, in the case of a hospital that, as of December 19, 1989, is located in a State operating a demonstration project under section 1395f(b) of this title, on or before December 31, 1991) for purposes of applying exceptions and adjustments to payment amounts under this subsection, as a hospital involved extensively in treatment for or research on cancer,
 
 (II) a hospital that was recognized as a comprehensive cancer center or clinical cancer research center by the National Cancer Institute of the National Institutes of Health as of April 20, 1983, that is located in a State which, as of December 19, 1989, was not operating a demonstration project under section 1395f(b) of this title, that applied and was denied, on or before December 31, 1990, for classification as a hospital involved extensively in treatment for or research on cancer under this clause (as in effect on the day before August 5, 1997), that as of August 5, 1997, is licensed for less than 50 acute care beds, and that demonstrates for the 4-year period ending on December 31, 1996, that at least 50 percent of its total discharges have a principal finding of neoplastic disease, as defined in subparagraph (E), or
 
@@ -580,7 +580,7 @@ and, in accordance with regulations of the Secretary, does not include a psychia
 
 (iii) adjusting for variations in case mix among hospitals, and
 
-(iv) for discharges occurring on or after October 1, 1986, excluding an estimate of the additional payments to certain hospitals to be made under paragraph (5)(F), except that the Secretary shall not exclude additional payments under such paragraph made as a result of the enactment of section 6003(c) of the Omnibus Budget Reconciliation Act of 1989, the enactment of section 4002(b) of the Omnibus Budget Reconciliation Act of 1990, the enactment of section 303 of the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, or the enactment of section 402(a)(1) <sup><a href="#1395ww_5_target" name="1395ww_5">5</a></sup> of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
+(iv) for discharges occurring on or after October 1, 1986, excluding an estimate of the additional payments to certain hospitals to be made under paragraph (5)(F), except that the Secretary shall not exclude additional payments under such paragraph made as a result of the enactment of section 6003(c) of the Omnibus Budget Reconciliation Act of 1989, the enactment of section 4002(b) of the Omnibus Budget Reconciliation Act of 1990, the enactment of section 303 of the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, or the enactment of section 402(a)(1) <sup><a href="#1395ww_4_target" name="1395ww_4">4</a></sup> of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
 
 (D) Computing urban and rural averages.—The Secretary shall compute an average of the standardized amounts determined under subparagraph (C) for the United States and for each region—
 
@@ -774,9 +774,9 @@ In the case of the first cost reporting period beginning on or after October 1, 
 
 (ix) For discharges occurring on or after July 1, 2005, insofar as an additional payment amount under this subparagraph is attributable to resident positions redistributed to a hospital under subsection (h)(7)(B) of this section, in computing the indirect teaching adjustment factor under clause (ii) the adjustment shall be computed in a manner as if "c" were equal to 0.66 with respect to such resident positions.
 
-(x) <sup><a href="#1395ww_6_target" name="1395ww_6">6</a></sup> For discharges occurring on or after July 1, 2011, insofar as an additional payment amount under this subparagraph is attributable to resident positions distributed to a hospital under subsection (h)(8)(B), the indirect teaching adjustment factor shall be computed in the same manner as provided under clause (ii) with respect to such resident positions.
+(x) <sup><a href="#1395ww_5_target" name="1395ww_5">5</a></sup> For discharges occurring on or after July 1, 2011, insofar as an additional payment amount under this subparagraph is attributable to resident positions distributed to a hospital under subsection (h)(8)(B), the indirect teaching adjustment factor shall be computed in the same manner as provided under clause (ii) with respect to such resident positions.
 
-(x)(I) <sup><a href="#1395ww_6_target" name="1395ww_6">6</a></sup> The provisions of subparagraph (K) of subsection (h)(4) shall apply under this subparagraph in the same manner as they apply under such subsection.
+(x)(I) <sup><a href="#1395ww_5_target" name="1395ww_5">5</a></sup> The provisions of subparagraph (K) of subsection (h)(4) shall apply under this subparagraph in the same manner as they apply under such subsection.
 
 (II) In determining the hospital's number of full-time equivalent residents for purposes of this subparagraph, all the time spent by an intern or resident in an approved medical residency training program in non-patient care activities, such as didactic conferences and seminars, as such time and activities are defined by the Secretary, that occurs in the hospital shall be counted toward the determination of full-time equivalency if the hospital—
 
@@ -880,7 +880,7 @@ In determining under subclause (II) the number of the hospital's patient days fo
 
 (a) for discharges occurring on or after April 1, 1990, and on or before December 31, 1990, (P−15)(.6) + 2.5,
 
-(b) for discharges occurring on or after January 1, 1991, and on or before September 30, 1993, (P−15)(.6) + 2.5,<sup><a href="#1395ww_7_target" name="1395ww_7">7</a></sup>
+(b) for discharges occurring on or after January 1, 1991, and on or before September 30, 1993, (P−15)(.6) + 2.5,<sup><a href="#1395ww_6_target" name="1395ww_6">6</a></sup>
 
 (c) for discharges occurring on or after October 1, 1993, (P−15)(.65) + 2.5,
 
@@ -1182,9 +1182,11 @@ As used in this section, the term "subsection (d) Puerto Rico hospital" means a 
 
 (ii) on or after October 1, 1997, and before April 1, 2004, the applicable Puerto Rico percentage is 50 percent and the applicable Federal percentage is 50 percent;
 
-(iii) on or after April 1, 2004, and before October 1, 2004, the applicable Puerto Rico percentage is 37.5 percent and the applicable Federal percentage is 62.5 percent; and
+(iii) on or after April 1, 2004, and before October 1, 2004, the applicable Puerto Rico percentage is 37.5 percent and the applicable Federal percentage is 62.5 percent;
 
-(iv) on or after October 1, 2004, the applicable Puerto Rico percentage is 25 percent and the applicable Federal percentage is 75 percent.
+(iv) on or after October 1, 2004, and before January 1, 2016, the applicable Puerto Rico percentage is 25 percent and the applicable Federal percentage is 75 percent; and
+
+(v) on or after January 1, 2016, the applicable Puerto Rico percentage is 0 percent and the applicable Federal percentage is 100 percent.
 
 (10)(A) There is hereby established the Medicare Geographic Classification Review Board (hereinafter in this paragraph referred to as the "Board").
 
@@ -1202,7 +1204,7 @@ As used in this section, the term "subsection (d) Puerto Rico hospital" means a 
 
 (iii)(I) The Board shall render a decision on an application submitted under clause (i) not later than 180 days after the deadline referred to in clause (ii).
 
-(II) Appeal of decisions of the Board shall be subject to the provisions of section 557b <sup><a href="#1395ww_8_target" name="1395ww_8">8</a></sup> of title 5. The Secretary shall issue a decision on such an appeal not later than 90 days after the date on which the appeal is filed. The decision of the Secretary shall be final and shall not be subject to judicial review.
+(II) Appeal of decisions of the Board shall be subject to the provisions of section 557b <sup><a href="#1395ww_7_target" name="1395ww_7">7</a></sup> of title 5. The Secretary shall issue a decision on such an appeal not later than 90 days after the date on which the appeal is filed. The decision of the Secretary shall be final and shall not be subject to judicial review.
 
 (D)(i) The Secretary shall publish guidelines to be utilized by the Board in rendering decisions on applications submitted under this paragraph, and shall include in such guidelines the following:
 
@@ -1604,7 +1606,7 @@ On or after July 1, 1986, but before July 1, 1987, in the case of a foreign medi
 
 Subject to subparagraphs (J) and (K), such rules shall provide that only time spent in activities relating to patient care shall be counted and that—
 
-(i) effective for cost reporting periods beginning before July 1, 2010, all the time; <sup><a href="#1395ww_9_target" name="1395ww_9">9</a></sup> so spent by a resident under an approved medical residency training program shall be counted towards the determination of full-time equivalency, without regard to the setting in which the activities are performed, if the hospital incurs all, or substantially all, of the costs for the training program in that setting; and
+(i) effective for cost reporting periods beginning before July 1, 2010, all the time; <sup><a href="#1395ww_8_target" name="1395ww_8">8</a></sup> so spent by a resident under an approved medical residency training program shall be counted towards the determination of full-time equivalency, without regard to the setting in which the activities are performed, if the hospital incurs all, or substantially all, of the costs for the training program in that setting; and
 
 (ii) effective for cost reporting periods beginning on or after July 1, 2010, all the time so spent by a resident shall be counted towards the determination of full-time equivalency, without regard to the setting in which the activities are performed, if a hospital incurs the costs of the stipends and fringe benefits of the resident during the time the resident spends in that setting. If more than one hospital incurs these costs, either directly or through a third party, such hospitals shall count a proportional share of the time, as determined by written agreement between the hospitals, that a resident spends training in that setting.
 
@@ -1656,7 +1658,7 @@ The Secretary may require any entity that operates a medical residency training 
 
 #### (iv) Nonrural hospitals operating training programs in rural areas ####
 
-In the case of a hospital that is not located in a rural area but establishes separately accredited approved medical residency training programs (or rural tracks) in an <sup><a href="#1395ww_10_target" name="1395ww_10">10</a></sup> rural area or has an accredited training program with an integrated rural track, the Secretary shall adjust the limitation under subparagraph (F) in an appropriate manner insofar as it applies to such programs in such rural areas in order to encourage the training of physicians in rural areas.
+In the case of a hospital that is not located in a rural area but establishes separately accredited approved medical residency training programs (or rural tracks) in an <sup><a href="#1395ww_9_target" name="1395ww_9">9</a></sup> rural area or has an accredited training program with an integrated rural track, the Secretary shall adjust the limitation under subparagraph (F) in an appropriate manner insofar as it applies to such programs in such rural areas in order to encourage the training of physicians in rural areas.
 
 #### (v) Special provider agreement ####
 
@@ -1696,7 +1698,7 @@ The aggregate number of increases in the otherwise applicable resident limits fo
 
 Chapter 35 of title 44 shall not apply to the implementation of this clause.
 
-#### (J) <sup><a href="#1395ww_11_target" name="1395ww_11">11</a></sup> Treatment of certain nonprovider and didactic activities ####
+#### (J) <sup><a href="#1395ww_10_target" name="1395ww_10">10</a></sup> Treatment of certain nonprovider and didactic activities ####
 
 Such rules shall provide that all time spent by an intern or resident in an approved medical residency training program in a nonprovider setting that is primarily engaged in furnishing patient care (as defined in paragraph (5)(K)) in non-patient care activities, such as didactic conferences and seminars, but not including research not associated with the treatment or diagnosis of a particular patient, as such time and activities are defined by the Secretary, shall be counted toward the determination of full-time equivalency.
 
@@ -1824,7 +1826,7 @@ The determination of the amounts under clauses (i) and (ii) for any year shall b
 
 The Secretary may not approve the application of an qualifying entity unless—
 
-(i) the application is submitted in a form and manner specified by the Secretary and by not later than November 1, 1999,<sup><a href="#1395ww_12_target" name="1395ww_12">12</a></sup>
+(i) the application is submitted in a form and manner specified by the Secretary and by not later than November 1, 1999,<sup><a href="#1395ww_11_target" name="1395ww_11">11</a></sup>
 
 (ii) the application provides for the operation of a plan for the reduction in the number of full-time equivalent residents in the approved medical residency training programs of the entity consistent with the requirements of subparagraph (D);
 
@@ -2004,7 +2006,7 @@ the Secretary shall apply subparagraph (A)(i)(I) using the higher resident refer
 
 #### (E) Judicial review ####
 
-There shall be no administrative or judicial review under section 1395ff, 1395oo of this title, or otherwise, with respect to determinations made under this this <sup><a href="#1395ww_13_target" name="1395ww_13">13</a></sup> paragraph, paragraph (8), or paragraph (4)(H)(vi).
+There shall be no administrative or judicial review under section 1395ff, 1395oo of this title, or otherwise, with respect to determinations made under this this <sup><a href="#1395ww_12_target" name="1395ww_12">12</a></sup> paragraph, paragraph (8), or paragraph (4)(H)(vi).
 
 #### (8) Distribution of additional residency positions ####
 
@@ -2064,7 +2066,7 @@ In determining for which hospitals the increase in the otherwise applicable resi
 
 (ii) Whether the hospital is located in a State, a territory of the United States, or the District of Columbia that is among the top 10 States, territories, or Districts in terms of the ratio of—
 
-(I) the total population of the State, territory, or District living in an area designated (under such section 332(a)(1)(A) <sup><a href="#1395ww_5_target" name="1395ww_5">5</a></sup>) as a health professional shortage area (as of the date of enactment of this paragraph); to
+(I) the total population of the State, territory, or District living in an area designated (under such section 332(a)(1)(A) <sup><a href="#1395ww_4_target" name="1395ww_4">4</a></sup>) as a health professional shortage area (as of the date of enactment of this paragraph); to
 
 (II) the total population of the State, territory, or District (as determined by the Secretary based on the most recent available population data published by the Bureau of the Census).
 
@@ -2340,7 +2342,7 @@ For cost reporting periods beginning on or after October 1, 1997, the Secretary 
 
 For purposes of this subsection, the term "qualified nonhospital providers" means—
 
-(A) a Federally <sup><a href="#1395ww_14_target" name="1395ww_14">14</a></sup> qualified health center, as defined in section 1395x(aa)(4) of this title;
+(A) a Federally <sup><a href="#1395ww_13_target" name="1395ww_13">13</a></sup> qualified health center, as defined in section 1395x(aa)(4) of this title;
 
 (B) a rural health clinic, as defined in section 1395x(aa)(2) of this title;
 
@@ -2484,7 +2486,7 @@ To the extent data submitted under subparagraph (F) duplicates other data requir
 
 #### (i) In general ####
 
-For a discharge in cost reporting periods beginning on or after October 1, 2015, except as provided in clause (ii) and subparagraph (C), payment under this subchapter to a long-term care hospital for inpatient hospital services shall be made at the applicable site neutral payment rate (as defined in subparagraph (B)).
+For a discharge in cost reporting periods beginning on or after October 1, 2015, except as provided in clause (ii) and subparagraphs (C) and (E), payment under this subchapter to a long-term care hospital for inpatient hospital services shall be made at the applicable site neutral payment rate (as defined in subparagraph (B)).
 
 #### (ii) Exception for certain discharges meeting criteria ####
 
@@ -2567,6 +2569,24 @@ In this subparagraph, the term "LTCH discharge payment percentage" means, with r
 #### (D) Inclusion of subsection (d) Puerto Rico hospitals ####
 
 In this paragraph, any reference in this paragraph to a subsection (d) hospital shall be deemed to include a reference to a subsection (d) Puerto Rico hospital.
+
+#### (E) Temporary exception for certain severe wound discharges from certain long-term care hospitals ####
+
+#### (i) In general ####
+
+In the case of a discharge occurring prior to January 1, 2017, subparagraph (A)(i) shall not apply (and payment shall be made to a long-term care hospital without regard to this paragraph) if such discharge—
+
+(I) is from a long-term care hospital that is—
+
+(aa) identified by the amendment made by section 4417(a) of the Balanced Budget Act of 1997 (42 U.S.C. 1395ww note, Public Law 105–33); and
+
+(bb) located in a rural area (as defined in subsection (d)(2)(D)) or treated as being so located pursuant to subsection (d)(8)(E); and
+
+(II) the individual discharged has a severe wound.
+
+#### (ii) Severe wound defined ####
+
+In this subparagraph, the term "severe wound" means a stage 3 wound, stage 4 wound, unstageable wound, non-healing surgical wound, infected wound, fistula, osteomyelitis, or wound with morbid obesity, as identified in the claim from the long-term care hospital.
 
 #### (n) Incentives for adoption and meaningful use of certified EHR technology ####
 
@@ -2730,7 +2750,7 @@ There shall be no administrative or judicial review under section 1395ff of this
 
 (ii) the methodology and standards for determining a meaningful EHR user under paragraph (3), including selection of measures under paragraph (3)(B), specification of the means of demonstrating meaningful EHR use under paragraph (3)(C), and the hardship exception under subsection (b)(3)(B)(ix)(II); and
 
-(iii) the specification of EHR reporting periods under paragraph (6)(B) <sup><a href="#1395ww_15_target" name="1395ww_15">15</a></sup> and the selection of the form of payment under paragraph (2)(F).
+(iii) the specification of EHR reporting periods under paragraph (6)(B) <sup><a href="#1395ww_14_target" name="1395ww_14">14</a></sup> and the selection of the form of payment under paragraph (2)(F).
 
 #### (B) Posting on website ####
 
@@ -2750,7 +2770,7 @@ The term "EHR reporting period" means, with respect to a payment year, any perio
 
 #### (B) Eligible hospital ####
 
-The term "eligible hospital" means a subsection (d) hospital.
+The term "eligible hospital" means a hospital that is a subsection (d) hospital or a subsection (d) Puerto Rico hospital.
 
 #### (o) Hospital value-based purchasing program ####
 
@@ -3408,7 +3428,7 @@ Not later than October 1, 2012, the Secretary shall publish the measures selecte
 
 The Secretary shall establish procedures for making data submitted under subparagraph (C) available to the public. Such procedures shall ensure that a psychiatric hospital and a psychiatric unit has the opportunity to review the data that is to be made public with respect to the hospital or unit prior to such data being made public. The Secretary shall report quality measures that relate to services furnished in inpatient settings in psychiatric hospitals and psychiatric units on the Internet website of the Centers for Medicare & Medicaid Services.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1886, as added and amended Pub. L. 97–248, title I, §§101(a)(1), 110, Sept. 3, 1982, 96 Stat. 331, 339; Pub. L. 97–448, title III, §309(b)(13)–(15), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §601(a)(1), (2), (b), (c), (d)(2), (e), Apr. 20, 1983, 97 Stat. 149, 150, 152; Pub. L. 98–369, div. B, title III, §§2307(b)(1), 2310(a), 2311(a)–(c), 2312(a), (b), 2313(a), (b), (d), 2315(a)–(c), 2354(b)(42)–(44), July 18, 1984, 98 Stat. 1073, 1075–1080, 1102; Pub. L. 98–617, §3(b)(9), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–272, title IX, §§9101(b), (c), 9102(a)–(c), 9104(a), (b), 9105(a)–(c), 9106(a), 9107(a), 9109(a), 9111(a), 9127(a), 9202(a), Apr. 7, 1986, 100 Stat. 153–155, 157–162, 170, 171; Pub. L. 99–349, title II, §206, July 2, 1986, 100 Stat. 749; Pub. L. 99–509, title IX, §§9302(a)(1), (2), (b)(1), (c), (d)(1)(A), (e), 9303, 9304(a)–(c), 9306(a)–(c), 9307(c)(1), 9314(a), 9320(g), 9321(e)(2), Oct. 21, 1986, 100 Stat. 1982–1985, 1988, 1995, 2005, 2015, 2018; Pub. L. 99–514, §2, title XVIII, §1895(b)(1)(A)–(C), (2)(A)–(C), (3), (9), Oct. 22, 1986, 100 Stat. 2095, 2931–2933; Pub. L. 100–93, §8(c)(4), Aug. 18, 1987, 101 Stat. 693; Pub. L. 100–203, title IV, §§4002(a)–(f)(1), 4003(a)–(c), 4004(a), 4005(a)(1), (c)(1), (d)(1)(A), 4006(a)–(b)(2), 4007(b)(1), 4009(d)(1), (j)(1)–(6)(B), 4083(b)(1), Dec. 22, 1987, 101 Stat. 1330–42 to 1330–44, 1330–46, 1330–47, 1330–49, 1330–52, 1330–53, 1330–57 to 1330–59, 1330–129, as amended Pub. L. 100–360, title IV, §411(b)(1)(E), (3), (4)(C)(i), (5)(B), (6)(B), (8)(B), July 1, 1988, 102 Stat. 769, 770, 772; Pub. L. 100–360, title IV, §411(b)(1)(A)–(D), (F)–(H)(i), (4)(A), (B), (5)(A), July 1, 1988, 102 Stat. 768–770; Pub. L. 100–485, title VI, §608(d)(18)(A), (B), Oct. 13, 1988, 102 Stat. 2418; Pub. L. 100–647, title I, §1018(r)(1), title VIII, §§8401, 8403(a), Nov. 10, 1988, 102 Stat. 3586, 3798; Pub. L. 101–234, title III, §301(b)(3), (c)(3), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §§6002, 6003(a)(1), (b)–(c)(3), (e)(1), (2)(B)–(E), (f), (g)(2), (4)–(h)(4), (6), 6004(a)(1), (2), (b)(1), 6011(a), 6015(a), 6022, Dec. 19, 1989, 103 Stat. 2140–2144, 2151, 2154–2157, 2159–2161, 2164, 2167; Pub. L. 101–403, title I, §115(b)(1), Oct. 1, 1990, 104 Stat. 870; Pub. L. 101–508, title IV, §§4001, 4002(a)(1), (b)(1)–(4), (c)(1), (2), (e)(1), (g)(1), (2), (h)(1)(A), (2)(B), 4003(a), 4005(a)(1), (c)(1)(B), (2), 4008(f)(1), (m)(2)(A), Nov. 5, 1990, 104 Stat. 1388–31 to 1388–38, 1388–40, 1388–42, 1388–45, 1388–53; Pub. L. 103–66, title XIII, §§13501(a), (b)(1), (c), (e)(1), (f), 13502, 13506, 13563(a), (b)(1), (c)(1), Aug. 10, 1993, 107 Stat. 572, 574, 575, 577, 579, 605; Pub. L. 103–432, title I, §§101(a)(1), (b), (c), 102(b)(1)(B), 105, 108–110(a), (c), 153(a), Oct. 31, 1994, 108 Stat. 4400–4402, 4405, 4407, 4408, 4437; Pub. L. 105–33, title IV, §§4022(b)(1)(A), 4201(c)(1), (4), 4202(a), 4204(a)(1), (2), 4401(a), 4402, 4403(a), 4405(a)–(c), 4406, 4407, 4411–4415(c), 4416, 4417(a)(1), (b)(1), 4418(a), 4419(a)(1), 4421(a), (b), 4621–4626(a), 4627(a), 4644(a)(1), (b)(1), (c)(1), Aug. 5, 1997, 111 Stat. 354, 373–375, 397, 398, 400, 401, 403–410, 413, 475–480, 483, 488; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§111(a), (c), 112(a), 121(a), 122, 125(a), title III, §§311, 312(a), 321(b), (e), (f), (h), (k)(15)–(17), title IV, §§401(a), 402(a), 404(a), (b)(1), 405–407(a)(2), (b)(1), (2), (c)(1), title V, §541], Nov. 29, 1999, 113 Stat. 1536, 1501A–329 to 1501A–332, 1501A–362 to 150A–366, 1501A–368, 1501A–369, 1501A–372 to 1501A–374, 1501A–391; Pub. L. 106–554, §1(a)(4) [div. B, title I, §152(a), (b)], §1(a)(6) [title II, §§211, 212(a), 213(a), title III, §§301(a), (e)(1), 302(a), (c), (d), 303(a), (c), (d)(1), 304(a), (c)(2), 305(a), (b), 307(a)(1), title V, §§511, 512(a), 533(b)(1), (3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, 2763A–252, 2763A–483, 2763A–485, 2763A–491 to 2763A–496, 2763A–533, 2763A–548, 2763A–550; Pub. L. 108–173, title IV, §§401(a)–(c), 402, 403, 406, 407(a), 422(a), (b)(1), title V, §§501(a), (b), 502(a), (b), 503(a)–(d)(1), 504, 505(a), title VII, §§711, 736(a)(9), (15), (c)(6), Dec. 8, 2003, 117 Stat. 2262–2265, 2269, 2270, 2284, 2286, 2289–2293, 2340, 2355, 2356; Pub. L. 109–171, title V, §§5001(a), (c), 5002(a), 5003(a)(1), (2)(A), (b)–(d), Feb. 8, 2006, 120 Stat. 28, 30–32; Pub. L. 109–432, div. B, title I, §§106(c), 109(a)(2), title II, §205(b)(1), Dec. 20, 2006, 120 Stat. 2983, 2985, 2989; Pub. L. 110–161, div. G, title II, §225(a), (b)(1), Dec. 26, 2007, 121 Stat. 2189; Pub. L. 110–173, title I, §§114(e)(1), 115(a)(1), Dec. 29, 2007, 121 Stat. 2504, 2506; Pub. L. 110–275, title I, §122, July 15, 2008, 122 Stat. 2514; Pub. L. 111–5, div. B, title IV, §4102(a)(1), (b)(1), Feb. 17, 2009, 123 Stat. 477, 482; Pub. L. 111–148, title III, §§3001(a)(1)–(3), 3004(a), (b), 3008(a), 3025(a), 3124(a), (b)(1), 3125, 3133, 3401(a), (c), (d), (f), title V, §§5503(a), (b), 5504(a), (b), 5505(a), (b), 5506(a), (b), (e), title X, §§10309, 10314, 10316, 10319(a)–(c), (e), 10322(a), 10324(a), 10335, Mar. 23, 2010, 124 Stat. 353–360, 368, 369, 376, 408, 424, 425, 432, 480–483, 655, 658–663, 942, 944, 946, 948, 949, 952, 959, 974; Pub. L. 111–152, title I, §§1104–1105(d), Mar. 30, 2010, 124 Stat. 1047, 1048; Pub. L. 111–192, title I, §102(a), June 25, 2010, 124 Stat. 1281; Pub. L. 111–309, title II, §203, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–40, title II, §261(a)(3)(A), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–240, title VI, §§605–606(b)(1), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §§1105–1106(b)(1), title II, §1206(a)(1), (c), Dec. 26, 2013, 127 Stat. 1197, 1200, 1204; Pub. L. 113–93, title I, §§105–106(b)(1), 112(a), Apr. 1, 2014, 128 Stat. 1042, 1044; Pub. L. 113–185, §2(c)(2), (3), Oct. 6, 2014, 128 Stat. 1963, 1964; Pub. L. 114–10, title I, §106(b)(2)(B), title II, §§204–205(b)(1), title IV, §411(b), (e), Apr. 16, 2015, 129 Stat. 139, 144, 145, 161, 162.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1886, as added and amended Pub. L. 97–248, title I, §§101(a)(1), 110, Sept. 3, 1982, 96 Stat. 331, 339; Pub. L. 97–448, title III, §309(b)(13)–(15), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–21, title VI, §601(a)(1), (2), (b), (c), (d)(2), (e), Apr. 20, 1983, 97 Stat. 149, 150, 152; Pub. L. 98–369, div. B, title III, §§2307(b)(1), 2310(a), 2311(a)–(c), 2312(a), (b), 2313(a), (b), (d), 2315(a)–(c), 2354(b)(42)–(44), July 18, 1984, 98 Stat. 1073, 1075–1080, 1102; Pub. L. 98–617, §3(b)(9), Nov. 8, 1984, 98 Stat. 3296; Pub. L. 99–272, title IX, §§9101(b), (c), 9102(a)–(c), 9104(a), (b), 9105(a)–(c), 9106(a), 9107(a), 9109(a), 9111(a), 9127(a), 9202(a), Apr. 7, 1986, 100 Stat. 153–155, 157–162, 170, 171; Pub. L. 99–349, title II, §206, July 2, 1986, 100 Stat. 749; Pub. L. 99–509, title IX, §§9302(a)(1), (2), (b)(1), (c), (d)(1)(A), (e), 9303, 9304(a)–(c), 9306(a)–(c), 9307(c)(1), 9314(a), 9320(g), 9321(e)(2), Oct. 21, 1986, 100 Stat. 1982–1985, 1988, 1995, 2005, 2015, 2018; Pub. L. 99–514, §2, title XVIII, §1895(b)(1)(A)–(C), (2)(A)–(C), (3), (9), Oct. 22, 1986, 100 Stat. 2095, 2931–2933; Pub. L. 100–93, §8(c)(4), Aug. 18, 1987, 101 Stat. 693; Pub. L. 100–203, title IV, §§4002(a)–(f)(1), 4003(a)–(c), 4004(a), 4005(a)(1), (c)(1), (d)(1)(A), 4006(a)–(b)(2), 4007(b)(1), 4009(d)(1), (j)(1)–(6)(B), 4083(b)(1), Dec. 22, 1987, 101 Stat. 1330–42 to 1330–44, 1330–46, 1330–47, 1330–49, 1330–52, 1330–53, 1330–57 to 1330–59, 1330–129, as amended Pub. L. 100–360, title IV, §411(b)(1)(E), (3), (4)(C)(i), (5)(B), (6)(B), (8)(B), July 1, 1988, 102 Stat. 769, 770, 772; Pub. L. 100–360, title IV, §411(b)(1)(A)–(D), (F)–(H)(i), (4)(A), (B), (5)(A), July 1, 1988, 102 Stat. 768–770; Pub. L. 100–485, title VI, §608(d)(18)(A), (B), Oct. 13, 1988, 102 Stat. 2418; Pub. L. 100–647, title I, §1018(r)(1), title VIII, §§8401, 8403(a), Nov. 10, 1988, 102 Stat. 3586, 3798; Pub. L. 101–234, title III, §301(b)(3), (c)(3), Dec. 13, 1989, 103 Stat. 1985, 1986; Pub. L. 101–239, title VI, §§6002, 6003(a)(1), (b)–(c)(3), (e)(1), (2)(B)–(E), (f), (g)(2), (4)–(h)(4), (6), 6004(a)(1), (2), (b)(1), 6011(a), 6015(a), 6022, Dec. 19, 1989, 103 Stat. 2140–2144, 2151, 2154–2157, 2159–2161, 2164, 2167; Pub. L. 101–403, title I, §115(b)(1), Oct. 1, 1990, 104 Stat. 870; Pub. L. 101–508, title IV, §§4001, 4002(a)(1), (b)(1)–(4), (c)(1), (2), (e)(1), (g)(1), (2), (h)(1)(A), (2)(B), 4003(a), 4005(a)(1), (c)(1)(B), (2), 4008(f)(1), (m)(2)(A), Nov. 5, 1990, 104 Stat. 1388–31 to 1388–38, 1388–40, 1388–42, 1388–45, 1388–53; Pub. L. 103–66, title XIII, §§13501(a), (b)(1), (c), (e)(1), (f), 13502, 13506, 13563(a), (b)(1), (c)(1), Aug. 10, 1993, 107 Stat. 572, 574, 575, 577, 579, 605; Pub. L. 103–432, title I, §§101(a)(1), (b), (c), 102(b)(1)(B), 105, 108–110(a), (c), 153(a), Oct. 31, 1994, 108 Stat. 4400–4402, 4405, 4407, 4408, 4437; Pub. L. 105–33, title IV, §§4022(b)(1)(A), 4201(c)(1), (4), 4202(a), 4204(a)(1), (2), 4401(a), 4402, 4403(a), 4405(a)–(c), 4406, 4407, 4411–4415(c), 4416, 4417(a)(1), (b)(1), 4418(a), 4419(a)(1), 4421(a), (b), 4621–4626(a), 4627(a), 4644(a)(1), (b)(1), (c)(1), Aug. 5, 1997, 111 Stat. 354, 373–375, 397, 398, 400, 401, 403–410, 413, 475–480, 483, 488; Pub. L. 106–113, div. B, §1000(a)(6) [title I, §§111(a), (c), 112(a), 121(a), 122, 125(a), title III, §§311, 312(a), 321(b), (e), (f), (h), (k)(15)–(17), title IV, §§401(a), 402(a), 404(a), (b)(1), 405–407(a)(2), (b)(1), (2), (c)(1), title V, §541], Nov. 29, 1999, 113 Stat. 1536, 1501A–329 to 1501A–332, 1501A–362 to 150A–366, 1501A–368, 1501A–369, 1501A–372 to 1501A–374, 1501A–391; Pub. L. 106–554, §1(a)(4) [div. B, title I, §152(a), (b)], §1(a)(6) [title II, §§211, 212(a), 213(a), title III, §§301(a), (e)(1), 302(a), (c), (d), 303(a), (c), (d)(1), 304(a), (c)(2), 305(a), (b), 307(a)(1), title V, §§511, 512(a), 533(b)(1), (3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, 2763A–252, 2763A–483, 2763A–485, 2763A–491 to 2763A–496, 2763A–533, 2763A–548, 2763A–550; Pub. L. 108–173, title IV, §§401(a)–(c), 402, 403, 406, 407(a), 422(a), (b)(1), title V, §§501(a), (b), 502(a), (b), 503(a)–(d)(1), 504, 505(a), title VII, §§711, 736(a)(9), (15), (c)(6), Dec. 8, 2003, 117 Stat. 2262–2265, 2269, 2270, 2284, 2286, 2289–2293, 2340, 2355, 2356; Pub. L. 109–171, title V, §§5001(a), (c), 5002(a), 5003(a)(1), (2)(A), (b)–(d), Feb. 8, 2006, 120 Stat. 28, 30–32; Pub. L. 109–432, div. B, title I, §§106(c), 109(a)(2), title II, §205(b)(1), Dec. 20, 2006, 120 Stat. 2983, 2985, 2989; Pub. L. 110–161, div. G, title II, §225(a), (b)(1), Dec. 26, 2007, 121 Stat. 2189; Pub. L. 110–173, title I, §§114(e)(1), 115(a)(1), Dec. 29, 2007, 121 Stat. 2504, 2506; Pub. L. 110–275, title I, §122, July 15, 2008, 122 Stat. 2514; Pub. L. 111–5, div. B, title IV, §4102(a)(1), (b)(1), Feb. 17, 2009, 123 Stat. 477, 482; Pub. L. 111–148, title III, §§3001(a)(1)–(3), 3004(a), (b), 3008(a), 3025(a), 3124(a), (b)(1), 3125, 3133, 3401(a), (c), (d), (f), title V, §§5503(a), (b), 5504(a), (b), 5505(a), (b), 5506(a), (b), (e), title X, §§10309, 10314, 10316, 10319(a)–(c), (e), 10322(a), 10324(a), 10335, Mar. 23, 2010, 124 Stat. 353–360, 368, 369, 376, 408, 424, 425, 432, 480–483, 655, 658–663, 942, 944, 946, 948, 949, 952, 959, 974; Pub. L. 111–152, title I, §§1104–1105(d), Mar. 30, 2010, 124 Stat. 1047, 1048; Pub. L. 111–192, title I, §102(a), June 25, 2010, 124 Stat. 1281; Pub. L. 111–309, title II, §203, Dec. 15, 2010, 124 Stat. 3289; Pub. L. 112–40, title II, §261(a)(3)(A), Oct. 21, 2011, 125 Stat. 423; Pub. L. 112–240, title VI, §§605–606(b)(1), Jan. 2, 2013, 126 Stat. 2349; Pub. L. 113–67, div. B, title I, §§1105–1106(b)(1), title II, §1206(a)(1), (c), Dec. 26, 2013, 127 Stat. 1197, 1200, 1204; Pub. L. 113–93, title I, §§105–106(b)(1), 112(a), Apr. 1, 2014, 128 Stat. 1042, 1044; Pub. L. 113–185, §2(c)(2), (3), Oct. 6, 2014, 128 Stat. 1963, 1964; Pub. L. 114–10, title I, §106(b)(2)(B), title II, §§204–205(b)(1), title IV, §411(b), (e), Apr. 16, 2015, 129 Stat. 139, 144, 145, 161, 162; Pub. L. 114–113, div. H, title II, §231, div. O, title VI, §§601–602(b)(1), Dec. 18, 2015, 129 Stat. 2626, 3023, 3024; Pub. L. 114–115, §4(b), Dec. 28, 2015, 129 Stat. 3133.)
 
 #### Amendment of Subsection (n)(3)(A)(ii) ####
 
@@ -3460,15 +3480,29 @@ Section 123 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act 
 
 Section 307(b) of the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, referred to in subsec. (m)(1), is section 1(a)(6) [title III, §307(b)] of Pub. L. 106–554, which enacted provisions set out as a note under this section.
 
+The amendment made by section 4417(a) of the Balanced Budget Act of 1997, referred to in subsec. (m)(6)(E)(i)(I)(aa), is the amendment made by section 4417(a) of Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 408, which amended subsec. (d)(1)(B) of this section. See 1997 Amendment note below.
+
 The Health Care and Education Reconciliation Act of 2010, referred to in subsec. (r)(2)(B)(i)(I), is Pub. L. 111–152, Mar. 30, 2010, 124 Stat. 1029. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 1305 of this title and Tables.
 
 Section 124 of the Medicare, Medicaid, and SCHIP Balanced Budget Refinement Act of 1999, referred to in subsec. (s)(1), is section 1000(a)(6) [title I, §124] of Pub. L. 106–113, which enacted provisions set out as a note under this section.
 
 #### Amendments ####
 
-**2015**—Subsec. (b)(3)(D). Pub. L. 114–10, §205(b)(1)(A), substituted "October 1, 2017" for "April 1, 2015" in introductory provisions.
+**2015**—Subsec. (b)(3)(B)(ix)(I). Pub. L. 114–115, §4(b)(1), which directed substitution of "(n)(6)" for "(n)(6)(A)", was executed by making the substitution for "(n)(6)(B)" to reflect the probable intent of Congress and the intervening amendment by Pub. L. 114–113, §602(b)(1)(A). See below.
+
+Pub. L. 114–113, §602(b)(1)(A), substituted "(n)(6)(B)" for "(n)(6)(A)".
+
+Subsec. (b)(3)(B)(ix)(II). Pub. L. 114–115, §4(b)(2), inserted "(and, with respect to the application of subclause (I) for fiscal year 2017, for categories of subsection (d) hospitals, as established by the Secretary and posted on the Internet website of the Centers for Medicare & Medicaid Services prior to December 15, 2015, an application for which must be submitted to the Secretary by not later than April 1, 2016)" after "case-by-case basis".
+
+Pub. L. 114–113, §602(b)(1)(B), substituted "an eligible hospital" for "a subsection (d) hospital".
+
+Subsec. (b)(3)(D). Pub. L. 114–10, §205(b)(1)(A), substituted "October 1, 2017" for "April 1, 2015" in introductory provisions.
 
 Subsec. (b)(3)(D)(iv). Pub. L. 114–10, §205(b)(1)(B), substituted "through fiscal year 2017" for "through fiscal year 2014 and the portion of fiscal year 2015 before April 1, 2015".
+
+Subsec. (d)(9)(E)(iv). Pub. L. 114–113, §601(2)(A), inserted "and before January 1, 2016," after "2004,".
+
+Subsec. (d)(9)(E)(v). Pub. L. 114–113, §601(1), (2)(B), (3), added cl. (v).
 
 Subsec. (d)(5)(G)(i). Pub. L. 114–10, §205(a)(1), substituted "October 1, 2017" for "April 1, 2015".
 
@@ -3492,7 +3526,13 @@ Subsec. (m)(3)(A). Pub. L. 114–10, §411(e)(1), substituted "Subject to subpar
 
 Subsec. (m)(3)(C). Pub. L. 114–10, §411(e)(2), added subpar. (C).
 
+Subsec. (m)(6)(A)(i). Pub. L. 114–113, §231(1), substituted "subparagraphs (C) and (E)" for "subparagraph (C)".
+
+Subsec. (m)(6)(E). Pub. L. 114–113, §231(2), added subpar. (E).
+
 Subsec. (n)(3)(A)(ii). Pub. L. 114–10, §106(b)(2)(B), inserted before period at end ", and the hospital demonstrates (through a process specified by the Secretary, such as the use of an attestation) that the hospital has not knowingly and willfully taken action (such as to disable functionality) to limit or restrict the compatibility or interoperability of the certified EHR technology".
+
+Subsec. (n)(6)(B). Pub. L. 114–113, §602(a), substituted "hospital that is a subsection (d) hospital or a subsection (d) Puerto Rico hospital" for "subsection (d) hospital".
 
 **2014**—Subsec. (b)(3)(D). Pub. L. 113–93, §106(b)(1)(A), substituted "April 1, 2015" for "April 1, 2014" in introductory provisions.
 
@@ -4964,6 +5004,8 @@ References to Medicare+Choice deemed to refer to Medicare Advantage or MA, subje
 
 #### Effective Date of 2015 Amendment ####
 
+Pub. L. 114–113, div. O, title VI, §602(d), Dec. 18, 2015, 129 Stat. 3024, provided that: "The amendments made by this section [amending this section and section 1395w–23 of this title] shall apply as if included in the enactment of the American Recovery and Reinvestment Act of 2009 (Public Law 111–5), except that, in order to take into account delays in the implementation of this section, in applying subsections (b)(3)(B)(ix), (n)(2)(E)(ii), and (n)(2)(G)(i) of section 1886 of the Social Security Act [42 U.S.C. 1395ww], as amended by this section, any reference in such subsections to a particular year shall be treated with respect to a subsection (d) Puerto Rico hospital as a reference to the year that is 5 years after such particular year (or 7 years after such particular year in the case of applying subsection (b)(3)(B)(ix) of such section)."
+
 Amendment by section 106(b)(2)(B) of Pub. L. 114–10 applicable to meaningful EHR users as of the date that is one year after Apr. 16, 2015, see section 106(b)(2)(C) of Pub. L. 114–10, set out as a note under section 1395w–4 of this title.
 
 #### Effective Date of 2014 Amendment ####
@@ -5399,6 +5441,10 @@ Pub. L. 111–148, title V, §5506(c), Mar. 23, 2010, 124 Stat. 662, provided th
 #### Transfer of Functions ####
 
 Prospective Payment Assessment Commission (ProPAC) was terminated and its assets and staff transferred to the Medicare Payment Advisory Commission (MedPAC) by section 4022(c)(2), (3) of Pub. L. 105–33, set out as a note under section 1395b–6 of this title. Section 4022(c)(2), (3) further provided that MedPAC was to be responsible for preparation and submission of reports required by law to be submitted by ProPAC, and that, for that purpose, any reference in law to ProPAC was to be deemed, after the appointment of MedPAC, to refer to MedPAC.
+
+#### Implementation of Amendment by Pub. L. 114–113 ####
+
+Pub. L. 114–113, div. O, title VI, §602(c), Dec. 18, 2015, 129 Stat. 3024, provided that: "Notwithstanding any other provision of law, the Secretary of Health and Human Services may implement the amendments made by this section [amending this section and section 1395w–23 of this title] by program instruction or otherwise."
 
 #### Calculation of Length of Stay Excluding Cases Paid on a Site Neutral Basis ####
 
@@ -7366,28 +7412,26 @@ Pub. L. 97–248, title I, §101(b)(2)(B), Sept. 3, 1982, 96 Stat. 335, as amend
 
 [<sup>2</sup> So in original. The semicolon probably should be a comma.](#1395ww_2)
 
-[<sup>3</sup> So in original. Probably should be "(n)(6)(B))".](#1395ww_3)
+[<sup>3</sup> So in original. The comma probably should not appear.](#1395ww_3)
 
-[<sup>4</sup> So in original. The comma probably should not appear.](#1395ww_4)
+[<sup>4</sup> See References in Text note below.](#1395ww_4)
 
-[<sup>5</sup> See References in Text note below.](#1395ww_5)
+[<sup>5</sup> So in original. Two cls. (x) have been enacted.](#1395ww_5)
 
-[<sup>6</sup> So in original. Two cls. (x) have been enacted.](#1395ww_6)
+[<sup>6</sup> So in original. Probably should be followed by "and".](#1395ww_6)
 
-[<sup>7</sup> So in original. Probably should be followed by "and".](#1395ww_7)
+[<sup>7</sup> So in original. Probably should be section "557(b)".](#1395ww_7)
 
-[<sup>8</sup> So in original. Probably should be section "557(b)".](#1395ww_8)
+[<sup>8</sup> So in original. The semicolon probably should not appear.](#1395ww_8)
 
-[<sup>9</sup> So in original. The semicolon probably should not appear.](#1395ww_9)
+[<sup>9</sup> So in original. Probably should be "a".](#1395ww_9)
 
-[<sup>10</sup> So in original. Probably should be "a".](#1395ww_10)
+[<sup>10</sup> So in original. No subpar. (I) has been enacted.](#1395ww_10)
 
-[<sup>11</sup> So in original. No subpar. (I) has been enacted.](#1395ww_11)
+[<sup>11</sup> So in original. The comma probably should be a semicolon.](#1395ww_11)
 
-[<sup>12</sup> So in original. The comma probably should be a semicolon.](#1395ww_12)
+[<sup>12</sup> So in original.](#1395ww_12)
 
-[<sup>13</sup> So in original.](#1395ww_13)
+[<sup>13</sup> So in original. Probably should not be capitalized.](#1395ww_13)
 
-[<sup>14</sup> So in original. Probably should not be capitalized.](#1395ww_14)
-
-[<sup>15</sup> So in original. Probably should be "(6)(A)".](#1395ww_15)
+[<sup>14</sup> So in original. Probably should be "(6)(A)".](#1395ww_14)

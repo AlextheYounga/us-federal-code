@@ -80,6 +80,8 @@ Sec.
 
 1187. Visa waiver program for certain visitors.
 
+1187a. Provision of assistance to non-program countries.
+
 1188. Admission of temporary H–2A workers.
 
 1189. Designation of foreign terrorist organizations.

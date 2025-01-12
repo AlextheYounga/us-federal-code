@@ -232,7 +232,7 @@ Pub. L. 111–148, title IX, §9009, Mar. 23, 2010, 124 Stat. 862, as amended by
 
 #### Imposition of Annual Fee on Health Insurance Providers ####
 
-Pub. L. 111–148, title IX, §9010, title X, §10905(a)–(f), Mar. 23, 2010, 124 Stat. 865, 1017–1019, as amended by Pub. L. 111–152, title I, §1406(a), Mar. 30, 2010, 124 Stat. 1065, provided that:
+Pub. L. 111–148, title IX, §9010, title X, §10905(a)–(f), Mar. 23, 2010, 124 Stat. 865, 1017–1019, as amended by Pub. L. 111–152, title I, §1406(a), Mar. 30, 2010, 124 Stat. 1065; Pub. L. 114–113, div. P, title II, §201, Dec. 18, 2015, 129 Stat. 3037, provided that:
 
 "(a) Imposition of Fee.—
 
@@ -375,7 +375,11 @@ If any entity described in subparagraph (C) or (D) of paragraph (2) is treated a
 
 "(i) Guidance.—The Secretary shall publish guidance necessary to carry out the purposes of this section and shall prescribe such regulations as are necessary or appropriate to prevent avoidance of the purposes of this section, including inappropriate actions taken to qualify as an exempt entity under subsection (c)(2).
 
-"(j) Effective Date.—This section shall apply to calendar years beginning after December 31, 2013."
+"(j) Effective Date.—This section shall apply to calendar years—
+
+"(1) beginning after December 31, 2013, and ending before January 1, 2017, and
+
+"(2) beginning after December 31, 2017."
 
 [Pub. L. 111–152, title I, §1406(a)(3)(C), Mar. 30, 2010, 124 Stat. 1065, which directed amendment of section 9010(c) of Pub. L. 111–148, set out above, by substituting "subparagraph (C) or (D)" for "subparagraph (C)(i)(I), (D)(i)(I), or (E)(i)" in par. (3)(A), was executed by making the substitution in concluding provisions of par. (3), to reflect the probable intent of Congress.]
 

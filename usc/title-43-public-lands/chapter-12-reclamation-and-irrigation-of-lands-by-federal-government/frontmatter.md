@@ -642,6 +642,8 @@ Sec.
 
 509a. Project beneficiaries.
 
+509b. Additional Project Benefits Through the Construction of New or Supplementary Works.
+
 #### SUBCHAPTER XI–B—AGING INFRASTRUCTURE ####
 
 510. Definitions.

@@ -810,9 +810,19 @@ Such definition shall not include an entity whose primary business is providing 
 
 #### (i) In general ####
 
-An affiliate of a person that qualifies for an exception under subparagraph (A) (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate, acting on behalf of the person and as an agent, uses the swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity.
+An affiliate of a person that qualifies for an exception under subparagraph (A) (including affiliate entities predominantly engaged in providing financing for the purchase of the merchandise or manufactured goods of the person) may qualify for the exception only if the affiliate—
 
-#### (ii) Prohibition relating to certain affiliates ####
+(I) enters into the swap to hedge or mitigate the commercial risk of the person or other affiliate of the person that is not a financial entity, and the commercial risk that the affiliate is hedging or mitigating has been transferred to the affiliate;
+
+(II) is directly and wholly-owned by another affiliate qualified for the exception under this subparagraph or an entity that is not a financial entity;
+
+(III) is not indirectly majority-owned by a financial entity;
+
+(IV) is not ultimately owned by a parent company that is a financial entity; and
+
+(V) does not provide any services, financial or otherwise, to any affiliate that is a nonbank financial company supervised by the Board of Governors (as defined under section 5311 of title 12).
+
+#### (ii) Limitation on qualifying affiliates ####
 
 The exception in clause (i) shall not apply if the affiliate is—
 
@@ -824,15 +834,51 @@ The exception in clause (i) shall not apply if the affiliate is—
 
 (IV) a major security-based swap participant;
 
-(V) an issuer that would be an investment company, as defined in section 3 of the Investment Company Act of 1940 (15 U.S.C. 80a–3), but for paragraph (1) or (7) of subsection (c) of that Act <sup><a href="#2_8_target" name="2_8">8</a></sup> (15 U.S.C. 80a–3(c));
+(V) a commodity pool;
 
-(VI) a commodity pool; or
+(VI) a bank holding company;
 
-(VII) a bank holding company with over $50,000,000,000 in consolidated assets.
+(VII) a private fund, as defined in section 80b–2(a) of title 15;
 
-#### (iii) Transition rule for affiliates ####
+(VIII) an employee benefit plan or government <sup><a href="#2_8_target" name="2_8">8</a></sup> plan, as defined in paragraphs (3) and (32) of section 1002 of title 29;
+
+(IX) an insured depository institution;
+
+(X) a farm credit system institution;
+
+(XI) a credit union;
+
+(XII) a nonbank financial company supervised by the Board of Governors (as defined under section 5311 of title 12); or
+
+(XIII) an entity engaged in the business of insurance and subject to capital requirements established by an insurance governmental authority of a State, a territory of the United States, the District of Columbia, a country other than the United States, or a political subdivision of a country other than the United States that is engaged in the supervision of insurance companies under insurance law.
+
+#### (iii) Limitation on affiliates' affiliates ####
+
+Unless the Commission determines, by order, rule, or regulation, that it is in the public interest, the exception in clause (i) shall not apply with respect to an affiliate if the affiliate is itself affiliated with—
+
+(I) a major security-based swap participant;
+
+(II) a security-based swap dealer;
+
+(III) a major swap participant; or
+
+(IV) a swap dealer.
+
+#### (iv) Conditions on transactions ####
+
+With respect to an affiliate that qualifies for the exception in clause (i)—
+
+(I) the affiliate may not enter into any swap other than for the purpose of hedging or mitigating commercial risk; and
+
+(II) neither the affiliate nor any person affiliated with the affiliate that is not a financial entity may enter into a swap with or on behalf of any affiliate that is a financial entity or otherwise assume, net, combine, or consolidate the risk of swaps entered into by any such financial entity, except one that is an affiliate that qualifies for the exception under clause (i).
+
+#### (v) Transition rule for affiliates ####
 
 An affiliate, subsidiary, or a wholly owned entity of a person that qualifies for an exception under subparagraph (A) and is predominantly engaged in providing financing for the purchase or lease of merchandise or manufactured goods of the person shall be exempt from the margin requirement described in section 6s(e) of this title and the clearing requirement described in paragraph (1) with regard to swaps entered into to mitigate the risk of the financing activities for not less than a 2-year period beginning on July 21, 2010.
+
+#### (vi) Risk management program ####
+
+Any swap entered into by an affiliate that qualifies for the exception in clause (i) shall be subject to a centralized risk management program of the affiliate, which is reasonably designed both to monitor and manage the risks associated with the swap and to identify each of the affiliates on whose behalf a swap was entered into.
 
 #### (E) Election of counterparty ####
 
@@ -878,7 +924,7 @@ The provisions of this chapter relating to swaps that were enacted by the Wall S
 
 Exemptions from the requirements of subsection (h)(1) to clear a swap and subsection (h)(8) to execute a swap through a board of trade or swap execution facility shall be available to a counterparty that is an issuer of securities that are registered under section 12 of the Securities Exchange Act of 1934 (15 U.S.C. 78l) or that is required to file reports pursuant to section 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78o[d]) only if an appropriate committee of the issuer's board or governing body has reviewed and approved its decision to enter into swaps that are subject to such exemptions.
 
-(Sept. 21, 1922, ch. 369, §2, 42 Stat. 998; June 15, 1936, ch. 545, §§2, 3, 49 Stat. 1491; Apr. 7, 1938, ch. 108, 52 Stat. 205; Oct. 9, 1940, ch. 786, §1, 54 Stat. 1059; Aug. 28, 1954, ch. 1041, title VII, §710(a), 68 Stat. 913; July 26, 1955, ch. 382, §1, 69 Stat. 375; Pub. L. 90–258, §1, Feb. 19, 1968, 82 Stat. 26; Pub. L. 90–418, July 23, 1968, 82 Stat. 413; Pub. L. 93–463, title I, §101(a), title II, §§201, 202, Oct. 23, 1974, 88 Stat. 1389, 1395; Pub. L. 95–405, §2, Sept. 30, 1978, 92 Stat. 865; Pub. L. 97–444, title I, §101, title II, §§201, 202, Jan. 11, 1983, 96 Stat. 2294, 2297, 2298; Pub. L. 99–641, title I, §110(1), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title II, §§209(b)(1), 215, 226, title IV, §404(b), title V, §501, Oct. 28, 1992, 106 Stat. 3606, 3611, 3618, 3628; Pub. L. 106–554, §1(a)(5) [title I, §§102—105(b), 106, 107, 123(a)(2), title II, §251(a), (b), (i), (j)], Dec. 21, 2000, 114 Stat. 2763, 2763A–376 to 2763A–379, 2763A–382, 2763A–405, 2763A–436, 2763A–441, 2763A–445; Pub. L. 107–171, title X, §10702(a), May 13, 2002, 116 Stat. 516; Pub. L. 110–234, title XIII, §§13101(a), 13201(b), 13203(c)–(f), May 22, 2008, 122 Stat. 1427, 1436, 1439; Pub. L. 110–246, §4(a), title XIII, §§13101(a), 13201(b), 13203(c)–(f), June 18, 2008, 122 Stat. 1664, 2189, 2198, 2201; Pub. L. 111–203, title VII, §§717(a), 721(e)(1), 722(a), (c)–(e), 723(a), (b), 727, 734(b)(1), 741(b)(8), (9), 742(a), (c), 751, July 21, 2010, 124 Stat. 1651, 1671–1673, 1675, 1681, 1696, 1718, 1731–1733, 1749.)
+(Sept. 21, 1922, ch. 369, §2, 42 Stat. 998; June 15, 1936, ch. 545, §§2, 3, 49 Stat. 1491; Apr. 7, 1938, ch. 108, 52 Stat. 205; Oct. 9, 1940, ch. 786, §1, 54 Stat. 1059; Aug. 28, 1954, ch. 1041, title VII, §710(a), 68 Stat. 913; July 26, 1955, ch. 382, §1, 69 Stat. 375; Pub. L. 90–258, §1, Feb. 19, 1968, 82 Stat. 26; Pub. L. 90–418, July 23, 1968, 82 Stat. 413; Pub. L. 93–463, title I, §101(a), title II, §§201, 202, Oct. 23, 1974, 88 Stat. 1389, 1395; Pub. L. 95–405, §2, Sept. 30, 1978, 92 Stat. 865; Pub. L. 97–444, title I, §101, title II, §§201, 202, Jan. 11, 1983, 96 Stat. 2294, 2297, 2298; Pub. L. 99–641, title I, §110(1), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title II, §§209(b)(1), 215, 226, title IV, §404(b), title V, §501, Oct. 28, 1992, 106 Stat. 3606, 3611, 3618, 3628; Pub. L. 106–554, §1(a)(5) [title I, §§102—105(b), 106, 107, 123(a)(2), title II, §251(a), (b), (i), (j)], Dec. 21, 2000, 114 Stat. 2763, 2763A–376 to 2763A–379, 2763A–382, 2763A–405, 2763A–436, 2763A–441, 2763A–445; Pub. L. 107–171, title X, §10702(a), May 13, 2002, 116 Stat. 516; Pub. L. 110–234, title XIII, §§13101(a), 13201(b), 13203(c)–(f), May 22, 2008, 122 Stat. 1427, 1436, 1439; Pub. L. 110–246, §4(a), title XIII, §§13101(a), 13201(b), 13203(c)–(f), June 18, 2008, 122 Stat. 1664, 2189, 2198, 2201; Pub. L. 111–203, title VII, §§717(a), 721(e)(1), 722(a), (c)–(e), 723(a), (b), 727, 734(b)(1), 741(b)(8), (9), 742(a), (c), 751, July 21, 2010, 124 Stat. 1651, 1671–1673, 1675, 1681, 1696, 1718, 1731–1733, 1749; Pub. L. 114–113, div. O, title VII, §705(a), Dec. 18, 2015, 129 Stat. 3025.)
 
 #### References in Text ####
 
@@ -907,6 +953,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Subsec. (a)(1)(B) of this section was formerly classified to section 4 of this title. Subsec. (a)(1)(C) of this section was formerly classified to section 2a of this title. Subsec. (a)(2) to (11) of this section was formerly classified to section 4a of this title. Subsec. (b) of this section was formerly classified to section 3 of this title.
 
 #### Amendments ####
+
+**2015**—Subsec. (h)(7)(D). Pub. L. 114–113 added cls. (i) to (iv) and (vi), redesignated former cl. (iii) as (v), and struck out former cls. (i) and (ii) which related to application of exception to affiliates and prohibition relating to certain affiliates, respectively.
 
 **2010**—Subsec. (a)(1)(A). Pub. L. 111–203, §734(b)(1)(A), which directed amendment of subpar. (A) by striking "or 7a", could not be executed because of prior amendment by Pub. L. 111–203, §722(a)(1). See below.
 
@@ -1286,6 +1334,6 @@ Pub. L. 93–463, title IV, §412, Oct. 23, 1974, 88 Stat. 1414, provided that: 
 
 [<sup>7</sup> So in original. Probably should be "subparagraph".](#2_7)
 
-[<sup>8</sup> So in original. Probably should be "section".](#2_8)
+[<sup>8</sup> So in original. Probably should be "governmental".](#2_8)
 
 [<sup>9</sup> So in original. Probably should be preceded by "section".](#2_9)

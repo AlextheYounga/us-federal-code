@@ -72,7 +72,7 @@ The sponsor of a human drug application that provides notification of the intent
 
 #### (5) Termination of authority ####
 
-The Secretary may not award any priority review vouchers under paragraph (1) after the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section.
+The Secretary may not award any priority review vouchers under paragraph (1) after September 30, 2016.
 
 #### (c) Priority review user fee ####
 
@@ -204,12 +204,16 @@ In conducting the study under subparagraph (A), the Comptroller General shall ex
 
 Not later than 1 year after the date under paragraph (1)(A), the Comptroller General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, a report containing the results of the study under paragraph (1).
 
-(June 25, 1938, ch. 675, §529, as added Pub. L. 112–144, title IX, §908, July 9, 2012, 126 Stat. 1094.)
+(June 25, 1938, ch. 675, §529, as added Pub. L. 112–144, title IX, §908, July 9, 2012, 126 Stat. 1094; amended Pub. L. 114–113, div. A, title VII, §765, Dec. 18, 2015, 129 Stat. 2286.)
 
 #### References in Text ####
 
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (a)(1), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title.
 
 The Public Health Service Act, referred to in subsec. (h), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+#### Amendments ####
+
+**2015**—Subsec. (b)(5). Pub. L. 114–113 substituted "September 30, 2016." for "the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section."
 
 [<sup>1</sup> So in original. The word "that" probably should not appear.](#360ff_1)

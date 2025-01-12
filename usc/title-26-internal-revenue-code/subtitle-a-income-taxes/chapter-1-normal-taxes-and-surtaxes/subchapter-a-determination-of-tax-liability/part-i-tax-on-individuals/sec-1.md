@@ -1146,6 +1146,8 @@ Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub.
 
 #### Short Title of 2015 Amendment ####
 
+Pub. L. 114–113, div. Q, §1(a), Dec. 18, 2015, 129 Stat. 3040, provided that: "This division [see Tables for classification] may be cited as the 'Protecting Americans from Tax Hikes Act of 2015'."
+
 Pub. L. 114–74, §1, Nov. 2, 2015, 129 Stat. 584, provided that: "This Act [see Tables for classification] may be cited as the 'Bipartisan Budget Act of 2015'."
 
 Pub. L. 114–55, §1(a), Sept. 30, 2015, 129 Stat. 522, provided that: "This Act [amending sections 4081, 4083, 4261, 4271, and 9502 of this title, sections 106, 41742, 47104, 47107, 47115, 47124, 47141, 48101 to 48103, and 48114 of Title 49, Transportation, section 50905 of Title 51, National and Commercial Space Programs, amending provisions set out as a note preceding section 42301 of Title 49, and provisions set out as notes under sections 41731 and 47141 of Title 49] may be cited as the 'Airport and Airway Extension Act of 2015'."
@@ -1930,9 +1932,11 @@ Pub. L. 88–272, §1, Feb. 26, 1964, 78 Stat. 19, provided that: "It is the sen
 
 #### Inflation Adjusted Items for Certain Years ####
 
-Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 63, 68, 125, 132, 135, 137, 146, 147, 151, 179, 213, 219, 220, 221, 223, 408A, 512, 513, 685, 877, 877A, 911, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 7430, and 7702B of this title for certain years were contained in the following:
+Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 63, 68, 125, 132, 135, 137, 146, 147, 151, 179, 213, 219, 220, 221, 223, 408A, 512, 513, 685, 877, 877A, 911, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7430, and 7702B of this title for certain years were contained in the following:
 
-**2015**—Revenue Procedure 2014–61.
+**2016**—Revenue Procedure 2015–53, as modified by Revenue Procedure 2016–11.
+
+**2015**—Revenue Procedures 2014–61 and 2016–11.
 
 **2014**—Revenue Procedure 2013–35.
 
