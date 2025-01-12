@@ -72,6 +72,8 @@ Sec.
 
 7330A. Epilepsy centers of excellence.
 
+7330B. Annual report on Veterans Health Administration and furnishing of hospital care, medical services, and nursing home care.
+
 #### SUBCHAPTER III—PROTECTION OF PATIENT RIGHTS ####
 
 7331. Informed consent.
@@ -102,7 +104,9 @@ Sec.
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–198, title IX, §924(b), July 22, 2016, 130 Stat. 769, added item 7309A.
+**2016**—Pub. L. 114–315, title VI, §612(b), Dec. 16, 2016, 130 Stat. 1576, added item 7330B.
+
+Pub. L. 114–198, title IX, §924(b), July 22, 2016, 130 Stat. 769, added item 7309A.
 
 **2013**—Pub. L. 112–239, div. A, title VII, §728(b), Jan. 2, 2013, 126 Stat. 1813, added item 7309.
 

@@ -42,7 +42,11 @@ Sec.
 
 4114. Credentialing and licensure of veterans: demonstration project.
 
+4115. Longitudinal study of job counseling, training, and placement service for veterans.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–315, title V, §502(b), Dec. 16, 2016, 130 Stat. 1568, added item 4115.
 
 **2011**—Pub. L. 112–56, title II, §§223(a)(2), 234(c), Nov. 21, 2011, 125 Stat. 718, 722, added item 4104A and substituted "Transition Assistance Program personnel" for "Outstationing of Transition Assistance Program personnel" in item 4113.
 

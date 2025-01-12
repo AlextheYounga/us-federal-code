@@ -40,7 +40,13 @@ Sec.
 
 3325. Reporting requirement.
 
+3326. Report on student progress.
+
+3327. Election to receive educational assistance.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–315, title IV, §§404(b), 405(b), Dec. 16, 2016, 130 Stat. 1554, 1558, added items 3326 and 3327.
 
 **2012**—Pub. L. 112–154, title IV, §402(a)(2), Aug. 6, 2012, 126 Stat. 1189, added item 3325.
 

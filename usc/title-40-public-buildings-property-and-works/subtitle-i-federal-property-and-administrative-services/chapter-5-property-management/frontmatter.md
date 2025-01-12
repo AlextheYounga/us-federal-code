@@ -137,3 +137,17 @@ Sec.
 610. Discontinuance of motor vehicle pool or system.
 
 611. Duty to report violations.
+
+#### SUBCHAPTER VII—PROPERTY MANAGEMENT ####
+
+621. Definitions.
+
+622. Collocation among United States Postal Service properties.
+
+623. Establishment of a Federal Real Property Council.
+
+624. Information on certain leasing authorities.
+
+#### Amendments ####
+
+**2016**—Pub. L. 114–318, §3(b)(1), Dec. 16, 2016, 130 Stat. 1613, added item for subchapter VII and items 621 to 624.

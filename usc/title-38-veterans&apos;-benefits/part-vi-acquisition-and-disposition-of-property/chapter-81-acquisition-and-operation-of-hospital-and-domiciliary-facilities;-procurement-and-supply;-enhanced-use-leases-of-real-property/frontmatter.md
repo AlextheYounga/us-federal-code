@@ -44,6 +44,8 @@ Sec.
 
 8119. Annual report on outpatient clinics.
 
+8120. Quarterly report on super construction projects.
+
 #### SUBCHAPTER II—PROCUREMENT AND SUPPLY ####
 
 8121. Revolving supply fund.
@@ -123,6 +125,8 @@ Sec.
 Pub. L. 108–422, title IV, §411(c)(2), (f), Nov. 30, 2004, 118 Stat. 2389, 2390, provided that, effective at the end of the 30-day period beginning on the date on which the Secretary of Veterans Affairs certifies to Congress that the Secretary is in compliance with section 1710B(b) of this title, this analysis is amended by striking out item 8116.
 
 #### Amendments ####
+
+**2016**—Par. 8120. Pub. L. 114–315, title VIII, §801(d)(2), Dec. 16, 2016, 130 Stat. 1591, added item 8120.
 
 **2012**—Pub. L. 112—154, title II, §211(i)(3), Aug. 6, 2012, 126 Stat. 1182, added item 8168.
 

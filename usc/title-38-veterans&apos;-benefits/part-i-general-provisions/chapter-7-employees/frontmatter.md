@@ -24,6 +24,10 @@ Sec.
 
 715. Congressional testimony by employees: treatment as official duty.
 
+[716. Renumbered.]
+
+717. Limitation on administrative leave.
+
 #### SUBCHAPTER II—WHISTLEBLOWER COMPLAINTS ####
 
 731. Whistleblower complaint defined.
@@ -40,7 +44,9 @@ Sec.
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–223, div. A, title II, §247(a)(2)(B), (b)(2), Sept. 29, 2016, 130 Stat. 890, 891, added item for subchapter I, added item 715, and added item for subchapter II and items 731 to 736.
+**2016**—Pub. L. 114–315, title V, §503(a)(2), Dec. 16, 2016, 130 Stat. 1568, added item 717.
+
+Pub. L. 114–223, div. A, title II, §247(a)(2)(B), (b)(2), Sept. 29, 2016, 130 Stat. 890, 891, added item for subchapter I, added item 715, and added item for subchapter II and items 731 to 736.
 
 **2014**—Pub. L. 113–146, title VII, §707(a)(2), Aug. 7, 2014, 128 Stat. 1800, added item 713.
 

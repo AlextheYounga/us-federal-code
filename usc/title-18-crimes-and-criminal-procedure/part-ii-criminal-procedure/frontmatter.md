@@ -22,7 +22,7 @@ Chap. Sec.
 
 212. Military extraterritorial jurisdiction 3261
 
-212A. Extraterritorial jurisdiction over certain trafficking in persons offenses 3271
+212A. Extraterritorial jurisdiction over certain offenses 3271
 
 213. Limitations 3281
 
@@ -66,7 +66,9 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–236, §2(b), Oct. 7, 2016, 130 Stat. 967, added item for chapter 238.
+**2016**—Pub. L. 114–316, §2(b)(1), Dec. 16, 2016, 130 Stat. 1593, struck out "trafficking in persons" before "offenses" in item for chapter 212A.
+
+Pub. L. 114–236, §2(b), Oct. 7, 2016, 130 Stat. 967, added item for chapter 238.
 
 **2006**—Pub. L. 109–164, title I, §103(a)(2), Jan. 10, 2006, 119 Stat. 3563, added item for chapter 212A.
 

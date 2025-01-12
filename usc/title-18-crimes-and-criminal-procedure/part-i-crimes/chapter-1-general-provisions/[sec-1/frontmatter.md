@@ -8,6 +8,8 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2016 Amendment ####
 
+Pub. L. 114–316, §1, Dec. 16, 2016, 130 Stat. 1593, provided that: "This Act [enacting section 3273 of this title and provisions set out as a note under section 3273 of this title] may be cited as the 'Promoting Travel, Commerce, and National Security Act of 2016'."
+
 Pub. L. 114–236, §1, Oct. 7, 2016, 130 Stat. 966, provided that: "This Act [enacting chapter 238 of this title and sections 10603f and 14043g–1 of Title 42, The Public Health and Welfare, and amending section 10601 of Title 42] may be cited as the 'Survivors' Bill of Rights Act of 2016'."
 
 Pub. L. 114–222, §1, Sept. 28, 2016, 130 Stat. 852, provided that: "This Act [enacting section 1605B of Title 28, Judiciary and Judicial Procedure, amending section 2333 of this title and section 1605 of Title 28, and enacting provisions set out as notes under section 2333 of this title and section 1605B of Title 28] may be cited as the 'Justice Against Sponsors of Terrorism Act'."

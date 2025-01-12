@@ -14,6 +14,8 @@ Sec.
 
 1705. Management of health care: patient enrollment system.
 
+1705A. Management of health care: information regarding health-plan contracts.
+
 1706. Management of health care: other requirements.
 
 1707. Limitations.
@@ -36,9 +38,9 @@ Sec.
 
 1710C. Traumatic brain injury: plans for rehabilitation and reintegration into the community.
 
-1710D. Traumatic brain injury: comprehensive plan for long-term rehabilitation. 1
+1710D. Traumatic brain injury: comprehensive program for long-term rehabilitation.
 
-1710E. Traumatic brain injury: use of non-Departmental facilities for rehabilitation. 1
+1710E. Traumatic brain injury: use of non-Department facilities for rehabilitation.
 
 1711. Care during examinations and in emergencies.
 
@@ -79,6 +81,8 @@ Sec.
 1720F. Comprehensive program for suicide prevention among veterans.
 
 1720G. Assistance and support services for caregivers.
+
+1720H. Mental health treatment for veterans who served in classified missions.
 
 #### SUBCHAPTER III—MISCELLANEOUS PROVISIONS RELATING TO HOSPITAL AND NURSING HOME CARE AND MEDICAL TREATMENT OF VETERANS ####
 
@@ -162,6 +166,8 @@ Sec.
 
 1784. Humanitarian care.
 
+1784A. Examination and treatment for emergency medical conditions and women in labor.
+
 1785. Care and services during certain disasters and emergencies.
 
 1786. Care for newborn children of women veterans receiving maternity care.
@@ -170,7 +176,9 @@ Sec.
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–218, §2(a)(2), July 29, 2016, 130 Stat. 843, added item 1712C.
+**2016**—Pub. L. 114–315, title VI, §§604(b), 605(c), 606(b), title VIII, §802(2), Dec. 16, 2016, 130 Stat. 1571, 1572, 1575, 1591, added items 1705A, 1720H, and 1784A and substituted "Traumatic brain injury: comprehensive program for long-term rehabilitation" for "Traumatic brain injury: comprehensive plan for long-term rehabilitation" in item 1710D and "Traumatic brain injury: use of non-Department facilities for rehabilitation" for "Traumatic brain injury: use of non-Departmental facilities for rehabilitation" in item 1710E.
+
+Pub. L. 114–218, §2(a)(2), July 29, 2016, 130 Stat. 843, added item 1712C.
 
 **2015**—Pub. L. 114–2, §2(a)(2), Feb. 12, 2015, 129 Stat. 31, added item 1709B.
 
@@ -261,5 +269,3 @@ Pub. L. 93–43, §4(c)(2), June 18, 1973, 87 Stat. 79, struck out item 625 "Arr
 Pub. L. 87–574, §2(2), Aug. 6, 1962, 76 Stat. 308, added item 618.
 
 **1959**—Pub. L. 86–211, §7(b), Aug. 29, 1959, 73 Stat. 436, added item 617.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER17_1)

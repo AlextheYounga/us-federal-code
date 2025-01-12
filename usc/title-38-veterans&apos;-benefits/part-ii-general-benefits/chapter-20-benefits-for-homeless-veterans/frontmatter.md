@@ -16,7 +16,9 @@ Sec.
 
 2012. Per diem payments.
 
-2013. Authorization of appropriations.
+2013. Program to improve retention of housing by formerly homeless veterans and veterans at risk of becoming homeless.
+
+2014. Authorization of appropriations.
 
 #### SUBCHAPTER III—TRAINING AND OUTREACH ####
 
@@ -72,7 +74,11 @@ Sec.
 
 2066. Advisory Committee on Homeless Veterans.
 
+2067. National Center on Homelessness Among Veterans.
+
 #### Amendments ####
+
+**2016**—Pub. L. 114–315, title VII, §§712(a)(2), 713(b), Dec. 16, 2016, 130 Stat. 1587, 1588, added items 2013, 2014, and 2067 and struck out former item 2013 "Authorization of appropriations".
 
 **2010**—Pub. L. 111–275, title II, §202(b), Oct. 13, 2010, 124 Stat. 2874, added item 2021A.
 

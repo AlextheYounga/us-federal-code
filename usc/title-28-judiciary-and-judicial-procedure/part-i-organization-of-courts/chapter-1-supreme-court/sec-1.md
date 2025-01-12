@@ -12,6 +12,8 @@ Appointment of "judges of the Supreme Court" by the President by and with the ad
 
 #### Short Title of 2016 Amendment ####
 
+Pub. L. 114–319, §1, Dec. 16, 2016, 130 Stat. 1618, provided that: "This Act [amending section 1605 of this title and enacting provisions set out as notes under section 1605 of this title] may be cited as the 'Foreign Cultural Exchange Jurisdictional Immunity Clarification Act'."
+
 #### Short Title of 2015 Amendment ####
 
 Pub. L. 114–74, title VII, §701(a), Nov. 2, 2015, 129 Stat. 599, provided that: "This section [amending and repealing provisions set out as notes under section 2461 of this title] may be cited as the 'Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015'."
