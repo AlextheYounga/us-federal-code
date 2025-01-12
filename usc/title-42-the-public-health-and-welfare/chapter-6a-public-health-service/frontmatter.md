@@ -238,7 +238,7 @@ Sec.
 
 247b–4f. Research relating to preterm labor and delivery and the care, treatment, and outcomes of preterm and low birthweight infants.
 
-247b–4g. Interagency Coordinating Council on Prematurity and Low Birthweight.
+247b–4g. Repealed.
 
 247b–5. Preventive health measures with respect to prostate cancer.
 

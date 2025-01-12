@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-Sections 351(a)(2)(B), 352(f)(1), and 355 of this title shall not apply to a drug product if the drug product is compounded for an identified individual patient based on the unsolicited receipt of a valid prescription order or a notation, approved by the prescribing practitioner, on the prescription order that a compounded product is necessary for the identified patient, if the drug product meets the requirements of this section, and if the compounding—
+Sections 351(a)(2)(B), 352(f)(1), and 355 of this title shall not apply to a drug product if the drug product is compounded for an identified individual patient based on the receipt of a valid prescription order or a notation, approved by the prescribing practitioner, on the prescription order that a compounded product is necessary for the identified patient, if the drug product meets the requirements of this section, and if the compounding—
 
 (1) is by—
 
@@ -36,7 +36,7 @@ A drug product may be compounded under subsection (a) of this section if the lic
 
 (II) if such a monograph does not exist, are drug substances that are components of drugs approved by the Secretary; or
 
-(III) if such a monograph does not exist and the drug substance is not a component of a drug approved by the Secretary, that appear on a list developed by the Secretary through regulations issued by the Secretary under subsection (d) of this section;
+(III) if such a monograph does not exist and the drug substance is not a component of a drug approved by the Secretary, that appear on a list developed by the Secretary through regulations issued by the Secretary under subsection (c) of this section;
 
 (ii) that are manufactured by an establishment that is registered under section 360 of this title (including a foreign establishment that is registered under section 360(i) of this title); and
 
@@ -66,11 +66,7 @@ A drug product may be compounded under subsection (a) only if—
 
 The Secretary shall, in consultation with the National Association of Boards of Pharmacy, develop a standard memorandum of understanding for use by the States in complying with subparagraph (B)(i).
 
-#### (c) Advertising and promotion ####
-
-A drug may be compounded under subsection (a) of this section only if the pharmacy, licensed pharmacist, or licensed physician does not advertise or promote the compounding of any particular drug, class of drug, or type of drug. The pharmacy, licensed pharmacist, or licensed physician may advertise and promote the compounding service provided by the licensed pharmacist or licensed physician.
-
-#### (d) Regulations ####
+#### (c) Regulations ####
 
 #### (1) In general ####
 
@@ -80,7 +76,7 @@ The Secretary shall issue regulations to implement this section. Before issuing 
 
 The Secretary, in consultation with the United States Pharmacopoeia Convention, Incorporated, shall promulgate regulations identifying drug substances that may be used in compounding under subsection (b)(1)(A)(i)(III) of this section for which a monograph does not exist or which are not components of drug products approved by the Secretary. The Secretary shall include in the regulation the criteria for such substances, which shall include historical use, reports in peer reviewed medical literature, or other criteria the Secretary may identify.
 
-#### (e) Application ####
+#### (d) Application ####
 
 This section shall not apply to—
 
@@ -88,15 +84,19 @@ This section shall not apply to—
 
 (2) radiopharmaceuticals.
 
-#### (f) “Compounding” defined ####
+#### (e) “Compounding” defined ####
 
 As used in this section, the term “compounding” does not include mixing, reconstituting, or other such acts that are performed in accordance with directions contained in approved labeling provided by the product's manufacturer and other manufacturer directions consistent with that labeling.
 
-(June 25, 1938, ch. 675, §503A, as added Pub. L. 105–115, title I, §127(a), Nov. 21, 1997, 111 Stat. 2328.)
+(June 25, 1938, ch. 675, §503A, as added Pub. L. 105–115, title I, §127(a), Nov. 21, 1997, 111 Stat. 2328; amended Pub. L. 113–54, title I, §106(a), Nov. 27, 2013, 127 Stat. 598.)
 
-#### Constitutionality ####
+#### Amendments ####
 
-For information regarding constitutionality of section 503A of act June 25, 1938, as added by section 127(a) of Pub. L. 105–115, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+**2013**—Subsec. (a). Pub. L. 113–54, §106(a)(1), struck out “unsolicited” before “receipt of a valid prescription” in introductory provisions.
+
+Subsec. (b)(1)(A)(i)(III). Pub. L. 113–54, §106(a)(4), substituted “subsection (c)” for “subsection (d)”.
+
+Subsec. (c) to (e). Pub. L. 113–54, §106(a)(2), (3), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c). Prior to amendment, subsec. (c) read as follows: “A drug may be compounded under subsection (a) of this section only if the pharmacy, licensed pharmacist, or licensed physician does not advertise or promote the compounding of any particular drug, class of drug, or type of drug. The pharmacy, licensed pharmacist, or licensed physician may advertise and promote the compounding service provided by the licensed pharmacist or licensed physician.”
 
 #### Effective Date ####
 

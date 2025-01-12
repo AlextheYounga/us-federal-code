@@ -174,17 +174,33 @@ The term “surplus chimpanzees” has the meaning given that term in subsection
 
 #### (1) In general ####
 
-Of the amount appropriated under this chapter for fiscal year 2001 and each subsequent fiscal year, the Secretary, subject to paragraph (2), shall reserve a portion for purposes of the operation (and establishment, as applicable) of the sanctuary system and for purposes of paragraph (3), except that the Secretary may not for such purposes reserve any further funds from such amount after the aggregate total of the funds so reserved for such fiscal years reaches $30,000,000. The purposes for which funds reserved under the preceding sentence may be expended include the construction and renovation of facilities for the sanctuary system.
+Of the amount appropriated for the National Institutes of Health, there are authorized to be appropriated to carry out this section and for the care, maintenance, and transportation of all chimpanzees otherwise under the ownership or control of the National Institutes of Health, and to enable the National Institutes of Health to operate more efficiently and economically by decreasing the overall Federal cost of providing for the care, maintenance, and transportation of chimpanzees—
 
-#### (2) Limitation ####
+(A) for fiscal year 2014, $12,400,000;
 
-Funds may not be reserved for a fiscal year under paragraph (1) unless the amount appropriated under this chapter for such year equals or exceeds the amount appropriated under this chapter for fiscal year 1999.
+(B) for fiscal year 2015, $11,650,000;
 
-#### (3) Use of funds for other compliant facilities ####
+(C) for fiscal year 2016, $10,900,000;
 
-With respect to amounts reserved under paragraph (1) for a fiscal year, the Secretary may use a portion of such amounts to make awards of grants or contracts to public or private entities operating facilities that, as determined by the board of directors of the nonprofit private entity that receives the contract under subsection (e) of this section, provide for the retirement of chimpanzees in accordance with the same standards that apply to the sanctuary system pursuant to regulations under subsection (d) of this section. Such an award may be expended for the expenses of operating the facilities involved.
+(D) for fiscal year 2017, $10,150,000; and
 
-(July 1, 1944, ch. 373, title IV, §404K, formerly §481C, as added Pub. L. 106–551, §2, Dec. 20, 2000, 114 Stat. 2752; amended Pub. L. 110–170, §2(a), Dec. 26, 2007, 121 Stat. 2465; renumbered §404K and amended Pub. L. 112–74, div. F, title II, §221(b)(3), Dec. 23, 2011, 125 Stat. 1088.)
+(E) for fiscal year 2018, $9,400,000.
+
+#### (2) Use of funds for other compliant facilities ####
+
+With respect to amounts authorized to be appropriated by paragraph (1) for a fiscal year, the Secretary may use a portion of such amounts to make awards of grants or contracts to public or private entities operating facilities that, as determined by the Secretary in consultation with the board of directors of the nonprofit private entity that receives the contract under subsection (e) of this section, provide for the retirement of chimpanzees in accordance with the same standards that apply to the sanctuary system pursuant to regulations under subsection (d) of this section. Such an award may be expended for the expenses of operating the facilities involved.
+
+#### (3) Biennial report ####
+
+Not later than 180 days after November 27, 2013, the Director of the National Institutes of Health shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate and the Committee on Energy and Commerce and the Committee on Appropriations in the House of Representatives a report, to be updated biennially, regarding—
+
+(A) the care, maintenance, and transportation of the chimpanzees under the ownership or control of the National Institutes of Health;
+
+(B) costs related to such care, maintenance, and transportation, and any other related costs; and
+
+(C) the research status of such chimpanzees.
+
+(July 1, 1944, ch. 373, title IV, §404K, formerly §481C, as added Pub. L. 106–551, §2, Dec. 20, 2000, 114 Stat. 2752; amended Pub. L. 110–170, §2(a), Dec. 26, 2007, 121 Stat. 2465; renumbered §404K and amended Pub. L. 112–74, div. F, title II, §221(b)(3), Dec. 23, 2011, 125 Stat. 1088; Pub. L. 113–55, title III, §302(a), (c), Nov. 27, 2013, 127 Stat. 646, 647.)
 
 #### References in Text ####
 
@@ -196,7 +212,19 @@ Section 3 of the Chimpanzee Health Improvement, Maintenance, and Protection Act,
 
 Section was formerly classified to section 287a–3a of this title.
 
+November 27, 2013, referred to in subsec. (g)(3), was in the original “the date enactment of this Act” (sic), which was translated as meaning the date of enactment of Pub. L. 113–55, which enacted par. (3), to reflect the probable intent of Congress.
+
 #### Amendments ####
+
+**2013**—Subsec. (g)(1). Pub. L. 113–55, §302(a)(1), amended par. (1) generally. Prior to amendment, text read as follows: “Of the amount appropriated under this chapter for fiscal year 2001 and each subsequent fiscal year, the Secretary, subject to paragraph (2), shall reserve a portion for purposes of the operation (and establishment, as applicable) of the sanctuary system and for purposes of paragraph (3), except that the Secretary may not for such purposes reserve any further funds from such amount after the aggregate total of the funds so reserved for such fiscal years reaches $30,000,000. The purposes for which funds reserved under the preceding sentence may be expended include the construction and renovation of facilities for the sanctuary system.”
+
+Subsec. (g)(2). Pub. L. 113–55, §302(a)(4), substituted “With respect to amounts authorized to be appropriated by paragraph (1)” for “With respect to amounts reserved under paragraph (1)” and “Secretary in consultation with the board of directors” for “board of directors”.
+
+Pub. L. 113–55, §302(a)(2), (3), redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “Funds may not be reserved for a fiscal year under paragraph (1) unless the amount appropriated under this chapter for such year equals or exceeds the amount appropriated under this chapter for fiscal year 1999.”
+
+Subsec. (g)(3). Pub. L. 113–55, §302(c), added par. (3). Former par. (3) redesignated (2).
+
+Pub. L. 113–55, §302(a)(3), redesignated par. (3) as (2).
 
 **2011**—Subsec. (d)(4)(A)(ii). Pub. L. 112–74, §221(b)(3)(B), substituted “that is carried out by the Director of NIH, acting through the Office of the Director of NIH,” for “that is carried out by the National Center for Research Resources”.
 

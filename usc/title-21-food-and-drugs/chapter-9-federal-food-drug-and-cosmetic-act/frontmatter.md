@@ -120,7 +120,11 @@ Sec.
 
 353a. Pharmacy compounding.
 
-353b. Prereview of television advertisements.
+353a–1. Enhanced communication.
+
+353b. Outsourcing facilities.
+
+353c. Prereview of television advertisements.
 
 354. Veterinary feed directive drugs.
 
@@ -298,6 +302,18 @@ Sec.
 
 360ddd–2. Inapplicability of drug fees to designated medical gases.
 
+#### Part H—Pharmaceutical Distribution Supply Chain ####
+
+360eee. Definitions.
+
+360eee–1. Requirements.
+
+360eee–2. National standards for prescription drug wholesale distributors.
+
+360eee–3. National standards for third-party logistics providers.
+
+360eee–4. Uniform national policy.
+
 #### SUBCHAPTER VI—COSMETICS ####
 
 361. Adulterated cosmetics.
@@ -413,6 +429,12 @@ Sec.
 379j–52. Authority to assess and use biosimilar biological product fees.
 
 379j–53. Reauthorization; reporting requirements.
+
+#### subpart 9—fees relating to outsourcing facilities ####
+
+379j–61. Definitions.
+
+379j–62. Authority to assess and use outsourcing facility fees.
 
 #### Part D—Information and Education ####
 

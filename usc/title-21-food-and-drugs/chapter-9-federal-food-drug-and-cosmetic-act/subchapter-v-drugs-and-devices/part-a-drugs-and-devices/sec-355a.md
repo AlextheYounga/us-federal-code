@@ -474,7 +474,7 @@ Pub. L. 107–109, §11(b), Jan. 4, 2002, 115 Stat. 1416, provided that: “The 
 
 #### Construction of 2007 Amendments on Pediatric Studies ####
 
-Pub. L. 110–85, title IX, §901(e), Sept. 27, 2007, 121 Stat. 942, provided that: “This title [enacting sections 353b, 355–1, 355e, 360a, and 360bbb–6 of this title, amending sections 331, 333, 334, 352, 355, and 381 of this title and section 262 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 331, 352, and 355 of this title] and the amendments made by this title may not be construed as affecting the authority of the Secretary of Health and Human Services to request pediatric studies under section 505A of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355a] or to require such studies under section 505B of such Act [21 U.S.C. 355c].”
+Pub. L. 110–85, title IX, §901(e), Sept. 27, 2007, 121 Stat. 942, provided that: “This title [enacting sections 353c, 355–1, 355e, 360a, and 360bbb–6 of this title, amending sections 331, 333, 334, 352, 355, and 381 of this title and section 262 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 331, 352, and 355 of this title] and the amendments made by this title may not be construed as affecting the authority of the Secretary of Health and Human Services to request pediatric studies under section 505A of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355a] or to require such studies under section 505B of such Act [21 U.S.C. 355c].”
 
 #### Communication With Pediatric Review Committee ####
 
