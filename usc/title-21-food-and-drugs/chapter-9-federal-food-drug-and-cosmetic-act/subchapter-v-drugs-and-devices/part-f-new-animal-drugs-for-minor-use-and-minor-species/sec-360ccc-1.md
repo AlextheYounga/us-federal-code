@@ -146,9 +146,9 @@ For purposes of indexing new animal drugs under this section, to the extent cons
 
 The labeling of a new animal drug that is the subject of an index listing shall state, prominently and conspicuously—
 
-(1) "Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label use is prohibited.";
+(1) "LEGAL STATUS—In order to be legally marketed, a new animal drug intended for a minor species must be Approved, Conditionally Approved, or Indexed by the Food and Drug Administration. THIS PRODUCT IS INDEXED—MIF #" (followed by the applicable minor species index file number and a period) "Extra-label use is prohibited.";
 
-(2) except in the case of new animal drugs indexed for use in an early life stage of a food-producing animal, "This product is not to be used in animals intended for use as food for humans or other animals."; and
+(2) except in the case of new animal drugs indexed for use in an early life stage of a food-producing animal, "This product is not to be used in animals intended for use as food for humans or food-producing animals."; and
 
 (3) such other information as may be prescribed by the Secretary in the index listing.
 
@@ -180,7 +180,7 @@ The labeling of a new animal drug that is the subject of an index listing shall 
 
 In the case of a request under subsection (d) to add a drug to the index under subsection (a) with respect to a drug for which the Secretary provides notice to the person filing the request that the Secretary intends to issue a scientific and medical evaluation and recommend controls under the Controlled Substances Act [21 U.S.C. 801 et seq.], a determination to grant the request to add such drug to the index shall not take effect until the interim final rule controlling the drug is issued in accordance with section 201(j) of the Controlled Substances Act [21 U.S.C. 811(j)].
 
-(June 25, 1938, ch. 675, §572, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 896; amended Pub. L. 114–89, §2(a)(3)(C), Nov. 25, 2015, 129 Stat. 699.)
+(June 25, 1938, ch. 675, §572, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 896; amended Pub. L. 114–89, §2(a)(3)(C), Nov. 25, 2015, 129 Stat. 699; Pub. L. 115–234, title III, §302, Aug. 14, 2018, 132 Stat. 2436.)
 
 #### References in Text ####
 
@@ -192,4 +192,12 @@ The Controlled Substances Act, referred to in subsec. (k), is title II of Pub. L
 
 #### Amendments ####
 
+**2018**—Subsec. (h)(1). Pub. L. 115–234, §302(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: " 'Not approved by fda.—Legally marketed as an FDA indexed product. Extra-label use is prohibited.';"
+
+Subsec. (h)(2). Pub. L. 115–234, §302(2), substituted "or food-producing animals" for "or other animals".
+
 **2015**—Subsec. (k). Pub. L. 114–89 added subsec. (k).
+
+#### Effective Date of 2018 Amendment ####
+
+Pub. L. 115–234, title III, §302, Aug. 14, 2018, 132 Stat. 2436, provided that the amendment made by section 302 is effective Oct. 1, 2018.

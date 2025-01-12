@@ -1,8 +1,22 @@
-### §360ccc. Conditional approval of new animal drugs for minor use and minor species ###
+### §360ccc. Conditional approval of new animal drugs for minor use and minor species and certain new animal drugs ###
 
-#### (a) Application requirements; contents; restrictions ####
+#### (a) Application requirements ####
 
-(1) Except as provided in paragraph (3) of this section,<sup><a href="#360ccc_1_target" name="360ccc_1">1</a></sup> any person may file with the Secretary an application for conditional approval of a new animal drug intended for a minor use or a minor species. Such an application may not be a supplement to an application approved under section 360b of this title. Such application must comply in all respects with the provisions of section 360b of this title except sections 360b(a)(4), 360b(b)(2), 360b(c)(1), 360b(c)(2), 360b(c)(3), 360b(d)(1), 360b(e), 360b(h), and 360b(n) of this title unless otherwise stated in this section, and any additional provisions of this section. New animal drugs are subject to application of the same safety standards that would be applied to such drugs under section 360b(d) of this title (including, for antimicrobial new animal drugs, with respect to antimicrobial resistance).
+(1)(A) Except as provided in paragraph (3), any person may file with the Secretary an application for conditional approval of—
+
+(i) a new animal drug intended for a minor use or a minor species; or
+
+(ii) a new animal drug not intended for a minor use or minor species—
+
+(I) that is intended to treat a serious or life-threatening disease or condition or addresses an unmet animal or human health need; and
+
+(II) for which the Secretary determines that a demonstration of effectiveness would require a complex or particularly difficult study or studies.
+
+(B) The Secretary shall, not later than September 30, 2019, issue guidance or regulations further clarifying the criteria specified in subparagraph (A)(ii).
+
+(C) An application under this paragraph shall comply in all respects with the provisions of section 360b of this title except for subsections (a)(4), (b)(2), (c)(1), (c)(2), (c)(3), (d)(1), (e), (h), and (n) of such section unless otherwise stated in this section, and any additional provisions of this section.
+
+(D) New animal drugs for which conditional approval is sought under this section are subject to the same safety standards that would be applied to new animal drugs under section 360b(d) of this title (including, for antimicrobial new animal drugs, with respect to antimicrobial resistance).
 
 (2) The applicant shall submit to the Secretary as part of an application for the conditional approval of a new animal drug—
 
@@ -18,13 +32,17 @@
 
 (F) a commitment that the applicant will conduct additional investigations to meet the requirements for the full demonstration of effectiveness under section 360b(d)(1)(E) of this title within 5 years.
 
-(3) A person may not file an application under paragraph (1) if—
+(3)(A) A person may not file an application under paragraph (1) if—
 
-(A) the application seeks conditional approval of a new animal drug that is contained in, or is a product of, a transgenic animal.<sup><a href="#360ccc_2_target" name="360ccc_2">2</a></sup>
+(i) the application seeks conditional approval of a new animal drug that is contained in, or is a product of, a transgenic animal.<sup><a href="#360ccc_1_target" name="360ccc_1">1</a></sup>
 
-(B) the person has previously filed an application for conditional approval under paragraph (1) for the same drug in the same dosage form for the same intended use whether or not subsequently conditionally approved by the Secretary under subsection (b), or
+(ii) the person has previously filed an application for conditional approval under paragraph (1) for the same drug in the same dosage form for the same intended use whether or not subsequently conditionally approved by the Secretary under subsection (b); or
 
-(C) the person obtained the application, or data or other information contained therein, directly or indirectly from the person who filed for conditional approval under paragraph (1) for the same drug in the same dosage form for the same intended use whether or not subsequently conditionally approved by the Secretary under subsection (b).
+(iii) the person obtained the application, or data or other information contained therein, directly or indirectly from the person who filed for conditional approval under paragraph (1) for the same drug in the same dosage form for the same intended use whether or not subsequently conditionally approved by the Secretary under subsection (b).
+
+(B) A person may not file an application under paragraph (1)(A)(ii) if the application seeks conditional approval of a new animal drug that contains an antimicrobial active ingredient.
+
+(4) Beginning on October 1, 2018, all applications or submissions pursuant to this subsection shall be submitted by electronic means in such format as the Secretary may require.
 
 #### (b) Order of approval or hearing ####
 
@@ -90,13 +108,13 @@ A conditional approval under this section is effective for a 1-year period and i
 
 #### (f) Labeling ####
 
-(1) The label and labeling of a new animal drug with a conditional approval under this section shall—
+(1) The label and labeling of a new animal drug with a conditional approval under this section shall for the conditionally approved use—
 
 (A) bear the statement, "conditionally approved by FDA pending a full demonstration of effectiveness under application number"; and
 
 (B) contain such other information as prescribed by the Secretary.
 
-(2) An intended use that is the subject of a conditional approval under this section shall not be included in the same product label with any intended use approved under section 360b of this title.
+(2) The Secretary shall, through regulation or guidance, determine under what conditions an intended use that is the subject of a conditional approval under this section may be included in the same product label with any intended use approved under section 360b of this title.
 
 #### (g) Amendment of application ####
 
@@ -120,13 +138,39 @@ The decision of the Secretary under subsection (c), (d), or (e) of this section 
 
 In this section and section 360ccc–1 of this title, the term "transgenic animal" means an animal whose genome contains a nucleotide sequence that has been intentionally modified in vitro, and the progeny of such an animal; Provided that the term "transgenic animal" does not include an animal of which the nucleotide sequence of the genome has been modified solely by selective breeding.
 
-(June 25, 1938, ch. 675, §571, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 892; amended Pub. L. 114–89, §2(a)(3)(B), Nov. 25, 2015, 129 Stat. 699.)
+#### (k) Sunset ####
+
+(1) The Secretary's authority to grant conditional approval of new animal drugs not intended for a minor use or minor species pursuant to subsection (a)(1)(A)(ii) terminates on October 1, 2028.
+
+(2) The Secretary—
+
+(A) may not accept any new applications for such conditional approval pursuant to subsection (a)(1)(A)(ii) on or after such date; and
+
+(B) may continue all activities under this section with respect to drugs that were conditionally approved pursuant to <sup><a href="#360ccc_2_target" name="360ccc_2">2</a></sup> (a)(1)(A)(ii) prior to such date.
+
+(3) The Secretary may, until October 1, 2032, accept applications for approval under <sup><a href="#360ccc_3_target" name="360ccc_3">3</a></sup> 360b of this title of drugs conditionally approved pursuant to <sup><a href="#360ccc_2_target" name="360ccc_2">2</a></sup> (a)(1)(A)(ii).
+
+(June 25, 1938, ch. 675, §571, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 892; amended Pub. L. 114–89, §2(a)(3)(B), Nov. 25, 2015, 129 Stat. 699; Pub. L. 115–234, title III, §§301(b), 304(a), Aug. 14, 2018, 132 Stat. 2436.)
 
 #### References in Text ####
 
 The Controlled Substances Act, referred to in subsec. (d)(4)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–234, §304(a)(1), substituted "species and certain new animal drugs" for "species" in section catchline.
+
+Subsec. (a)(1). Pub. L. 115–234, §304(a)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Except as provided in paragraph (3) of this section, any person may file with the Secretary an application for conditional approval of a new animal drug intended for a minor use or a minor species. Such an application may not be a supplement to an application approved under section 360b of this title. Such application must comply in all respects with the provisions of section 360b of this title except sections 360b(a)(4), 360b(b)(2), 360b(c)(1), 360b(c)(2), 360b(c)(3), 360b(d)(1), 360b(e), 360b(h), and 360b(n) of this title unless otherwise stated in this section, and any additional provisions of this section. New animal drugs are subject to application of the same safety standards that would be applied to such drugs under section 360b(d) of this title (including, for antimicrobial new animal drugs, with respect to antimicrobial resistance)."
+
+Subsec. (a)(3). Pub. L. 115–234, §304(a)(2)(B), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A), and added subpar. (B).
+
+Subsec. (a)(4). Pub. L. 115–234, §301(b), added par. (4).
+
+Subsec. (f)(1). Pub. L. 115–234, §304(a)(3)(A), inserted "for the conditionally approved use" after "shall" in introductory provisions.
+
+Subsec. (f)(2). Pub. L. 115–234, §304(a)(3)(B), substituted "The Secretary shall, through regulation or guidance, determine under what conditions an intended use" for "An intended use" and "may be included" for "shall not be included".
+
+Subsec. (k). Pub. L. 115–234, §304(a)(4), added subsec. (k).
 
 **2015**—Subsec. (d)(4). Pub. L. 114–89 added par. (4).
 
@@ -150,6 +194,8 @@ Pub. L. 108–282, title I, §102(a), Aug. 2, 2004, 118 Stat. 891, provided that
 
 Pub. L. 108–282, title I, §102(b)(6), Aug. 2, 2004, 118 Stat. 905, provided that: "On the date of enactment of this Act [Aug. 2, 2004], the Secretary of Health and Human Services shall implement sections 571 and 573 of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 360ccc, 360ccc–2] and subsequently publish implementing regulations. Not later than 12 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 573 of the Federal Food, Drug, and Cosmetic Act (as added by this Act), and not later than 24 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 573 of the Federal Food, Drug, and Cosmetic Act. Not later than 18 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 572 of the Federal Food, Drug, and Cosmetic Act (as added by this Act) [21 U.S.C. 360ccc–1], and not later than 36 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 572 of the Federal Food, Drug, and Cosmetic Act. Not later than 30 months after the date of enactment of this Act, the Secretary shall issue proposed regulations to implement section 571 of the Federal Food, Drug, and Cosmetic Act (as added by this Act), and not later than 42 months after the date of enactment of this Act, the Secretary shall issue final regulations implementing section 571 of the Federal Food, Drug, and Cosmetic Act. These timeframes shall be extended by 12 months for each fiscal year, in which the funds authorized to be appropriated under subsection (i) [no subsection (i) of section 102 has been enacted] are not in fact appropriated."
 
-[<sup>1</sup> So in original. Probably should be "this subsection,".](#360ccc_1)
+[<sup>1</sup> So in original. The period probably should be a semicolon.](#360ccc_1)
 
-[<sup>2</sup> So in original. The period probably should be a comma.](#360ccc_2)
+[<sup>2</sup> So in original. The word "subsection" probably should appear.](#360ccc_2)
+
+[<sup>3</sup> So in original. The word "section" probably should appear.](#360ccc_3)

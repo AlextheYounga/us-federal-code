@@ -6,7 +6,7 @@ Sec.
 
 2201. Performance standards.
 
-2202. National Agriculture and Food Defense strategy.
+2202. National Agriculture and Food Defense Strategy.
 
 2203. Food and Agriculture Coordinating Councils.
 

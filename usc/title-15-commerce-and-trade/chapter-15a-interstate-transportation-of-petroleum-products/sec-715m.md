@@ -6,7 +6,7 @@ The Secretary of the Interior, in carrying out this chapter, is authorized to co
 
 #### Codification ####
 
-Section was not enacted as a part act Feb. 22, 1935, which comprises this chapter.
+Section was not enacted as a part of act Feb. 22, 1935, which comprises this chapter.
 
 #### Delegation of Functions ####
 

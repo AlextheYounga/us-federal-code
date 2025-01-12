@@ -310,7 +310,7 @@ Sec.
 
 #### Part F—New Animal Drugs for Minor Use and Minor Species ####
 
-360ccc. Conditional approval of new animal drugs for minor use and minor species.
+360ccc. Conditional approval of new animal drugs for minor use and minor species and certain new animal drugs.
 
 360ccc–1. Index of legally marketed unapproved new animal drugs for minor species.
 
