@@ -56,6 +56,10 @@ The plan of reorganization, with an estimate of the expenses of the same, was co
 
 "Wm. H. Taft."
 
+#### Short Title of 2018 Amendment ####
+
+Pub. L. 115–239, §1(a), Sept. 13, 2018, 132 Stat. 2451, provided that: "This Act [amending section 58c of this title and the Harmonized Tariff Schedule of the United States, which is not set out in the Code, and enacting provisions set out as a note under section 58c of this title] may be cited as the 'Miscellaneous Tariff Bill Act of 2018'."
+
 #### Short Title of 2010 Amendment ####
 
 Pub. L. 111–227, §1(a), Aug. 11, 2010, 124 Stat. 2409, provided that: "This Act [amending section 58c of this title and enacting provisions set out as notes under section 58c of this title and section 6655 of Title 26, Internal Revenue Code] may be cited as the 'United States Manufacturing Enhancement Act of 2010'."
