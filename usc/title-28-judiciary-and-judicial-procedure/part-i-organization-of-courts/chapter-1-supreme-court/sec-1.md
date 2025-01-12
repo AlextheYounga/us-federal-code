@@ -12,6 +12,10 @@ Appointment of "judges of the Supreme Court" by the President by and with the ad
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Short Title of 2024 Amendment ####
+
+Pub. L. 118–73, §1, July 30, 2024, 138 Stat. 1504, provided that: "This Act [amending sections 124 and 128 of this title] may be cited as the 'Improving Access to Our Courts Act'."
+
 #### Short Title of 2023 Amendment ####
 
 Pub. L. 117–354, §1, Jan. 5, 2023, 136 Stat. 6270, provided that: "This Act [enacting section 540D of this title and section 20306 of Title 34, Crime Control and Law Enforcement, amending sections 20301 to 20305 of Title 34, and repealing section 20306 of Title 34] may be cited as the 'Respect for Child Survivors Act'."

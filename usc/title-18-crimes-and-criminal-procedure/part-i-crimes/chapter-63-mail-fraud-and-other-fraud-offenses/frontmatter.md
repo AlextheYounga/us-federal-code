@@ -24,9 +24,13 @@ Sec.
 
 1351. Fraud in foreign labor contracting.
 
+1352. Demands by foreign officials for bribes.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–78, §2(b)(2), July 30, 2024, 138 Stat. 1514, added item 1352.
 
 **2009**—Pub. L. 111–21, §2(e)(2), May 20, 2009, 123 Stat. 1618, inserted "and commodities" after "Securities" in item 1348.
 

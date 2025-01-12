@@ -20,6 +20,14 @@ Sec.
 
 6309. Honorable discharge certificate in lieu of birth certificate.
 
+6310. Requirement for agencies to buy domestically made United States flags.
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2024**—Pub. L. 118–74, §2(a)(2), July 30, 2024, 138 Stat. 1506, added item 6310.
+
 #### **Statutory Notes and Related Subsidiaries** ####
 
 #### Federal Contractor Authority ####
