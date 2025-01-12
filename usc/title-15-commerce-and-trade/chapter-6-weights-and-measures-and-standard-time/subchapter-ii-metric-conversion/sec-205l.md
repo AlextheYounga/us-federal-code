@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-Construction services and materials for Federal facilities shall be procured in accordance with the policies and procedures set forth in the provisions of title 10, referred to in section 3016 of such title as "chapter 137 legacy provisions", section 3453 of such title, division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, and section 205b(2) of this title. Determination of a design method shall be based upon preliminary market research as required under section 3453(c) of title 10 and section 3307(d) of title 41. If the requirements of this subchapter conflict with the provisions of section 3453 of title 10 or section 3307(b) to (d) of title 41, then the provisions of such sections 3453 or 3307(b) to (d) shall take precedence.
+Construction services and materials for Federal facilities shall be procured in accordance with the policies and procedures set forth in the provisions of title 10, referred to in section 3016 of such title as "chapter 137 legacy provisions", section 3453 of such title, division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, and section 205b(2) of this title. Determination of a design method shall be based upon preliminary market research as required under section 3453(c) of title 10 and section 3307(d) of title 41. If the requirements of this subchapter conflict with the provisions of section 3453 of title 10 or section 3307(b) to (d) of title 41, then the provisions of such sections <sup><a href="#205l_1_target" name="205l_1">1</a></sup> 3453 or 3307(b) to (d) shall take precedence.
 
 #### (b) Concrete masonry units ####
 
@@ -68,13 +68,9 @@ The construction metrication ombudsman shall be independent of the contracting o
 
 The effective date of the Savings in Construction Act of 1996, referred to in subsecs. (b)(1) and (c)(2), is 90 days after Oct. 11, 1996. See Effective Date of 1996 Amendment; Savings Provision note set out under section 205c of this title.
 
-#### Codification ####
-
-In subsec. (a), "division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)", "section 3307(d) of title 41" substituted for "section 314B(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 264b(c))", "section 3307(b) to (d) of title 41" substituted for "section 314B of the Federal Property and Administrative Services Act of 1949", and "or 3307(b) to (d)" substituted for "or 314B" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
 #### Amendments ####
 
-**2021**—Subsec. (a). Pub. L. 117–81 substituted "set forth in the provisions of title 10, referred to in section 3016 of such title as 'chapter 137 legacy provisions', section 3453 of such title, division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41," for "set forth in chapter 137 of title 10, section 2377 of title 10, division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41,"; "under section 3453(c) of title 10 and section 3307(d) of title 41." for "under section 2377(c) of title 10 and section 3307(d) of title 41."; and "section 3453 of title 10 or section 3307(b) to (d) of title 41, then the provisions of such sections 3453 or 3307(b) to (d) shall take" for "section 2377 of title 10 or section 3307(b) to (d) of title 41, then the provisions of 2377 or 3307(b) to (d) shall take".
+**2021**—Subsec. (a). Pub. L. 117–81 substituted "set forth in the provisions of title 10, referred to in section 3016 of such title as 'chapter 137 legacy provisions', section 3453 of such title, division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41," for "set forth in chapter 137 of title 10, section 2377 of title 10, title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.),"; "under section 3453(c) of title 10 and section 3307(d) of title 41." for "under section 2377(c) of title 10 and section 314B(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 264b(c))."; and "section 3453 of title 10 or section 3307(b) to (d) of title 41, then the provisions of such sections 3453 or 3307(b) to (d) shall take" for "section 2377 of title 10 or section 314B of the Federal Property and Administrative Services Act of 1949, then the provisions of 2377 or 314B shall take".
 
 **2004**—Subsec. (e). Pub. L. 108–423 struck out heading and text of subsec. (e). Text read as follows: "The provisions contained in subsections (b) and (c) of this section shall expire 10 years from the effective date of the Savings in Construction Act of 1996."
 
@@ -85,3 +81,5 @@ In subsec. (a), "division C (except sections 3302, 3307(e), 3501(b), 3509, 3906,
 #### Effective Date; Savings Provision ####
 
 Section effective 90 days after Oct. 11, 1996, and inapplicable to contracts awarded and solicitations issued on or before that date, unless head of Federal agency makes written determination that it would be in public interest to apply one or more provisions of Pub. L. 104–289 to these existing contracts or solicitations, see section 6(b) of Pub. L. 104–289, set out as an Effective Date of 1996 Amendment; Savings Provision note under section 205c of this title.
+
+[<sup>1</sup> So in original. Probably should be "section".](#205l_1)
