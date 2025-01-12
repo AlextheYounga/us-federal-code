@@ -36,6 +36,32 @@ Pub. L. 99–91, §8, Aug. 15, 1985, 99 Stat. 392, provided that:
 
 "(b) Exception.—The amendments made by sections 2, 3, and 6(a) [amending this section and sections 360bb and 360cc of this title] shall take effect on the date of the enactment of this Act [Aug. 15, 1985]. The amendment made by section 6(b) [amending section 6022 of Title 42] shall take effect October 19, 1984. The amendments made by section 7 [amending section 295g–1 of Title 42] shall take effect October 1, 1984 and shall cease to be in effect after September 30, 1985."
 
+#### ALS and Other Rare Neurodegenerative Disease Action Plan ####
+
+Pub. L. 117–79, §4, Dec. 23, 2021, 135 Stat. 1536, provided that:
+
+"(a) In General.—Not later than 6 months after the date of enactment of this Act [Dec. 23, 2021], the Commissioner of Food and Drugs shall publish on the website of the Food and Drug Administration an action plan describing actions the Food and Drug Administration intends to take during the 5-year period following publication of the plan with respect to program enhancements, policy development, regulatory science initiatives, and other appropriate initiatives to—
+
+"(1) foster the development of safe and effective drugs that improve or extend, or both, the lives of people living with amyotrophic lateral sclerosis and other rare neurodegenerative diseases; and
+
+"(2) facilitate access to investigational drugs for amyotrophic lateral sclerosis and other rare neurodegenerative diseases.
+
+"(b) Contents.—The initial action plan published under subsection (a) shall—
+
+"(1) identify appropriate representation from within the Food and Drug Administration to be responsible for implementation of such action plan;
+
+"(2) include elements to facilitate—
+
+"(A) interactions and collaboration between the Food and Drug Administration, including the review centers thereof, and stakeholders including patients, sponsors, and the external biomedical research community;
+
+"(B) consideration of cross-cutting clinical and regulatory policy issues, including consistency of regulatory advice and decisionmaking;
+
+"(C) identification of key regulatory science and policy issues critical to advancing development of safe and effective drugs; and
+
+"(D) enhancement of collaboration and engagement of the relevant centers and offices of the Food and Drug Administration with other operating divisions within the Department of Health and Human Services, the Partnership, and the broader neurodegenerative disease community; and
+
+"(3) be subject to revision, as determined appropriate by the Secretary of Health and Human Services."
+
 #### Review Groups on Rare Diseases and Neglected Diseases of the Developing World; Report; Guidance; Standards ####
 
 Pub. L. 111–80, title VII, §740, Oct. 21, 2009, 123 Stat. 2127, provided that:

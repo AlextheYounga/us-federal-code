@@ -744,6 +744,8 @@ Sec.
 
 280g–7a. Surveillance of neurological diseases.
 
+280g–7b. HHS public-private partnership for rare neurodegenerative diseases.
+
 280g–8. Support for patients receiving a positive diagnosis of Down syndrome or other prenatally or postnatally diagnosed conditions.
 
 280g–9. Programs to improve quality of life for persons with paralysis and other physical disabilities.

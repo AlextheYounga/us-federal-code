@@ -80,6 +80,50 @@ Subsec. (c). Pub. L. 99–91, §5(b), substituted provisions authorizing appropr
 
 Amendment by Pub. L. 99–91 effective Oct. 1, 1985, see section 8(a) of Pub. L. 99–91, set out as a note under section 360aa of this title.
 
+#### Grants for Research on Therapies for ALS ####
+
+Pub. L. 117–79, §2, Dec. 23, 2021, 135 Stat. 1533, provided that:
+
+"(a) In General.—The Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall award grants to participating entities for purposes of scientific research utilizing data from expanded access to investigational drugs for individuals who are not otherwise eligible for clinical trials for the prevention, diagnosis, mitigation, treatment, or cure of amyotrophic lateral sclerosis. In the case of a participating entity seeking such a grant, an expanded access request must be submitted, and allowed to proceed by the Secretary, under section 561 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb) and part 312 of title 21, Code of Federal Regulations (or any successor regulations), before the application for such grant is submitted.
+
+"(b) Application.—
+
+"(1) In general.—A participating entity seeking a grant under this section shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary shall specify.
+
+"(2) Use of data.—An application submitted under paragraph (1) shall include a description of how data generated through an expanded access request under section 561 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bbb) with respect to the investigational drug involved will be used to support research or development related to the prevention, diagnosis, mitigation, treatment, or cure of amyotrophic lateral sclerosis.
+
+"(3) Noninterference with clinical trials.—An application submitted under paragraph (1) shall include a description of how the proposed expanded access program will be designed so as not to interfere with patient enrollment in ongoing clinical trials for investigational therapies for the prevention, diagnosis, mitigation, treatment, or cure of amyotrophic lateral sclerosis.
+
+"(c) Selection.—Consistent with sections 406 and 492 of the Public Health Service Act (42 U.S.C. 284a, 289a), the Secretary shall, in determining whether to award a grant under this section, confirm that—
+
+"(1) such grant will be used to support a scientific research objective relating to the prevention, diagnosis, mitigation, treatment, or cure of amyotrophic lateral sclerosis (as described in subsection (a));
+
+"(2) such grant shall not have the effect of diminishing eligibility for, or impeding enrollment of, ongoing clinical trials for the prevention, diagnosis, mitigation, treatment, or cure of amyotrophic lateral sclerosis by determining that individuals who receive expanded access to investigational drugs through such a grant are not eligible for enrollment in—
+
+"(A) ongoing clinical trials that are registered on ClinicalTrials.gov (or successor website), with respect to a drug for the prevention, diagnosis, mitigation, treatment, or cure of amyotrophic lateral sclerosis; or
+
+"(B) clinical trials for the prevention, diagnosis, mitigation, treatment, or cure of amyotrophic lateral sclerosis for which an exemption under section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)) has been granted by the Food and Drug Administration and which are expected to begin enrollment within one year; and
+
+"(3) the resulting project funded by such grant will allow for equitable access to investigational drugs by minority and underserved populations.
+
+"(d) Use of Funds.—A participating entity shall use funds received through the grant—
+
+"(1) to pay the manufacturer or sponsor for the direct costs of the investigational drug, as authorized under section 312.8(d) of title 21, Code of Federal Regulations (or successor regulations), to prevent, diagnose, mitigate, treat, or cure amyotrophic lateral sclerosis that is the subject of an expanded access request described in subsection (a), if such costs are justified as part of peer review of the grant;
+
+"(2) for the entity's direct costs incurred in providing such drug consistent with the research mission of the grant; or
+
+"(3) for the direct and indirect costs of the entity in conducting research with respect to such drug.
+
+"(e) Definitions.—In this section:
+
+"(1) The term 'participating entity' means a participating clinical trial site or sites sponsored by a small business concern (as defined in section 3(a) of the Small Business Act (15 U.S.C. 632(a))) that is the sponsor of a drug that is the subject of an investigational new drug application under section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)) to prevent, diagnose, mitigate, treat, or cure amyotrophic lateral sclerosis.
+
+"(2) The term 'participating clinical trial' means a phase 3 clinical trial conducted pursuant to an exemption under section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)) or section 351(a) of the Public Health Service Act (42 U.S.C. 262(a)) to investigate a drug intended to prevent, diagnose, mitigate, treat, or cure amyotrophic lateral sclerosis.
+
+"(3) The term 'participating clinical trial site' means a health care facility, or network of facilities, at which patients participating in a participating clinical trial receive an investigational drug through such trial.
+
+"(f) Sunset.—The Secretary may not award grants under this section on or after September 30, 2026."
+
 #### Findings and Purposes ####
 
 Pub. L. 107–281, §2, Nov. 6, 2002, 116 Stat. 1992, provided that:
