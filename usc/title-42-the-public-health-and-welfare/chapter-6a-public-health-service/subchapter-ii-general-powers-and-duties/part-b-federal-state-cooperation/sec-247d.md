@@ -176,7 +176,7 @@ In this subsection—
 
 #### (8) Sunset ####
 
-This subsection shall terminate on January 19, 2024.
+This subsection shall terminate on March 8, 2024.
 
 #### (f) Determination with respect to Paperwork Reduction Act waiver during a public health emergency ####
 
@@ -282,7 +282,7 @@ The Secretary shall, not later than 30 days after the deployment of contents of 
 
 (3) plans to replenish such products, as appropriate, including related timeframes and any barriers or limitations to replenishment.
 
-(July 1, 1944, ch. 373, title III, §319, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315; amended Pub. L. 107–188, title I, §§141, 144(a), 158, June 12, 2002, 116 Stat. 626, 630, 633; Pub. L. 113–5, title II, §201, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–255, div. A, title III, §3087, Dec. 13, 2016, 130 Stat. 1147; Pub. L. 116–22, title II, §206, title VII, §701(c), June 24, 2019, 133 Stat. 925, 961; Pub. L. 117–328, div. FF, title II, §§2103(a), 2223(a), 2407, Dec. 29, 2022, 136 Stat. 5711, 5747, 5788; Pub. L. 118–15, div. B, title III, §2332, Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, §203(a), Nov. 17, 2023, 137 Stat. 120.)
+(July 1, 1944, ch. 373, title III, §319, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315; amended Pub. L. 107–188, title I, §§141, 144(a), 158, June 12, 2002, 116 Stat. 626, 630, 633; Pub. L. 113–5, title II, §201, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–255, div. A, title III, §3087, Dec. 13, 2016, 130 Stat. 1147; Pub. L. 116–22, title II, §206, title VII, §701(c), June 24, 2019, 133 Stat. 925, 961; Pub. L. 117–328, div. FF, title II, §§2103(a), 2223(a), 2407, Dec. 29, 2022, 136 Stat. 5711, 5747, 5788; Pub. L. 118–15, div. B, title III, §2332, Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, §203(a), Nov. 17, 2023, 137 Stat. 120; Pub. L. 118–35, div. B, title I, §103(a), Jan. 19, 2024, 138 Stat. 5.)
 
 #### **Editorial Notes** ####
 
@@ -297,6 +297,8 @@ A prior section 247d, act July 1, 1944, ch. 373, title III, §319, as added Pub.
 Another prior section 247d, act July 1, 1944, ch. 373, title III, §319, formerly §310, as added Sept. 25, 1962, Pub. L. 87–692, 76 Stat. 592, and amended and renumbered, which related to migrant health centers, was renumbered section 329 of act July 1, 1944, by Pub. L. 95–626, title I, §102(a), Nov. 10, 1978, 92 Stat. 3551, and transferred to section 254b of this title, prior to being omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2.
 
 #### Amendments ####
+
+**2024**—Subsec. (e)(8). Pub. L. 118–35 substituted "March 8, 2024" for "January 19, 2024".
 
 **2023**—Subsec. (e)(8). Pub. L. 118–22 substituted "January 19, 2024" for "November 17, 2023".
 

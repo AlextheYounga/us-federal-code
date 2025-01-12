@@ -90,7 +90,7 @@ Not later than one year after the date of enactment of this Act <sup><a href="#
 
 #### (b) Sunset ####
 
-The applicability of this section shall expire after January 19, 2024.
+The applicability of this section shall expire after March 8, 2024.
 
 #### (c) Definitions ####
 
@@ -140,7 +140,7 @@ The term "covered activities" shall not include, with respect to a meeting or co
 
 (vii) Entering into any agreement or engaging in any other conduct restricting or setting the price at which a countermeasure or product is offered for sale, whether by bid or otherwise.
 
-(July 1, 1944, ch. 373, title III, §319L–1, as added Pub. L. 116–22, title VII, §701(e)(1)(C), (D), June 24, 2019, 133 Stat. 961; amended Pub. L. 118–22, div. B, title II, §203(c), Nov. 17, 2023, 137 Stat. 120.)
+(July 1, 1944, ch. 373, title III, §319L–1, as added Pub. L. 116–22, title VII, §701(e)(1)(C), (D), June 24, 2019, 133 Stat. 961; amended Pub. L. 118–22, div. B, title II, §203(c), Nov. 17, 2023, 137 Stat. 120; Pub. L. 118–35, div. B, title I, §103(c), Jan. 19, 2024, 138 Stat. 5.)
 
 #### **Editorial Notes** ####
 
@@ -159,6 +159,8 @@ Section 405 of Pub. L. 109–417, formerly set out as a note under section 247d�
 A prior section 247d–7f, act July 1, 1944, ch. 373, title III, §319M, as added Pub. L. 109–417, title IV, §402, Dec. 19, 2006, 120 Stat. 2872; amended Pub. L. 113–5, title IV, §404, Mar. 13, 2013, 127 Stat. 197, which related to National Biodefense Science Board and working groups, was transferred to section 247d–7g of this title.
 
 #### Amendments ####
+
+**2024**—Subsec. (b). Pub. L. 118–35 substituted "March 8, 2024" for "January 19, 2024".
 
 **2023**—Subsec. (b). Pub. L. 118–22 substituted "after January 19, 2024" for "at the end of the 17-year period that begins on the date of enactment of this Act".
 

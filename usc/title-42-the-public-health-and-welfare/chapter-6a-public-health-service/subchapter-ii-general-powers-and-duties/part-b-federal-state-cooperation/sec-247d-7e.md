@@ -418,7 +418,7 @@ One year after June 24, 2019, and annually thereafter, the Secretary shall repor
 
 #### (D) Sunset ####
 
-This paragraph shall cease to have force or effect after January 19, 2024.
+This paragraph shall cease to have force or effect after March 8, 2024.
 
 #### (2) Review ####
 
@@ -446,7 +446,7 @@ Not later than 1 year after December 29, 2022, the Comptroller General of the Un
 
 (D) plans for the near-, mid-, and long-term sustainment of manufacturing activities carried out under this section, including such activities pursuant to subsection (c)(5)(H), specific actions to regularly assess the ability of recipients of an award under subsection (c)(4)(B)(v) to rapidly manufacture countermeasures as required by the Secretary, and recommendations to address challenges, if any, related to such activities.
 
-(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §303(b), title IV, §404(a), title V, §504(b), title VI, §§601, 602, title VII, §701(d), (e)(2)(B), (f), June 24, 2019, 133 Stat. 935, 948, 951–953, 961; Pub. L. 116–136, div. A, title III, §3301, Mar. 27, 2020, 134 Stat. 383; Pub. L. 117–286, §4(a)(228), Dec. 27, 2022, 136 Stat. 4331; Pub. L. 117–328, div. FF, title II, §2401(a), Dec. 29, 2022, 136 Stat. 5782; Pub. L. 118–22, div. B, title II, §203(b), Nov. 17, 2023, 137 Stat. 120.)
+(July 1, 1944, ch. 373, title III, §319L, as added Pub. L. 109–417, title IV, §401, Dec. 19, 2006, 120 Stat. 2865; amended Pub. L. 113–5, title IV, §402(a)–(d), (f), Mar. 13, 2013, 127 Stat. 194, 195; Pub. L. 114–255, div. A, title III, §§3082(b), 3084, Dec. 13, 2016, 130 Stat. 1141; Pub. L. 116–22, title III, §303(b), title IV, §404(a), title V, §504(b), title VI, §§601, 602, title VII, §701(d), (e)(2)(B), (f), June 24, 2019, 133 Stat. 935, 948, 951–953, 961; Pub. L. 116–136, div. A, title III, §3301, Mar. 27, 2020, 134 Stat. 383; Pub. L. 117–286, §4(a)(228), Dec. 27, 2022, 136 Stat. 4331; Pub. L. 117–328, div. FF, title II, §2401(a), Dec. 29, 2022, 136 Stat. 5782; Pub. L. 118–22, div. B, title II, §203(b), Nov. 17, 2023, 137 Stat. 120; Pub. L. 118–35, div. B, title I, §103(b), Jan. 19, 2024, 138 Stat. 5.)
 
 #### **Editorial Notes** ####
 
@@ -463,6 +463,8 @@ In subsec. (c)(5)(C), "section 6101 of title 41" substituted for "section 3709 o
 In subsec. (c)(5)(F), "section 3304(a)(3) of title 41" substituted for "section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(3))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments ####
+
+**2024**—Subsec. (e)(1)(D). Pub. L. 118–35 substituted "March 8, 2024" for "January 19, 2024".
 
 **2023**—Subsec. (e)(1)(D). Pub. L. 118–22 substituted "after January 19, 2024" for "on the date that is 17 years after December 19, 2006".
 
