@@ -32,7 +32,7 @@ Prior to enactment of this chapter by Pub. L. 99–433, provisions relating to c
 
 #### Amendments ####
 
-**2019**—Pub. L. 116–92, div. A, title XVI, §1601(b)(1), title XVII, §1731(a)(9), Dec. 20, 2019, 133 Stat. 1722, 1812, struck out item 169 "Subordinate unified command of the United States Strategic Command."
+**2019**—Pub. L. 116–92, div. A, title XVI, §1601(b)(1), title XVII, §1731(a)(9), Dec. 20, 2019, 133 Stat. 1722, 1812, inserted period at end of item 169 "Subordinate unified command of the United States Strategic Command" and then struck it out.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §812(a)(1)(B), title XVI, §1601(a)(2), Aug. 13, 2018, 132 Stat. 1846, 2103, struck out item 167a "Unified combatant command for joint warfighting experimentation: acquisition authority" and added item 169.
 

@@ -68,7 +68,7 @@ Sec.
 
 Pub. L. 112–239, div. A, title X, §§1076(f)(6), 1081(1)(B), Jan. 2, 2013, 126 Stat. 1952, 1960, transferred item 225 to appear after item 224 and struck out item 232 "United States Joint Forces Command: amounts for research, development, test, and evaluation to be derived only from Defense-wide amounts".
 
-**2011**—Pub. L. 112–81, div. A, title X, §§1011(b), 1061(3)(B), 1064(4)(B)(ii), 1069(c), Dec. 31, 2011, 125 Stat. 1560, 1583, 1587, 1592, struck out former item 226 "Scoring of outlays", added item 228 and struck out former item 228 "Quarterly reports on allocation of funds within operation and maintenance budget subactivities", added item 231 and struck out former item 231 "Long-range plan for construction of naval vessels", and amended item 231a generally. Prior to amendment, item 231a read as follows: "Budgeting for procurement of aircraft for the Navy and Air Force: annual plan and certification".
+**2011**—Pub. L. 112–81, div. A, title X, §§1011(b), 1061(3)(B), 1064(4)(B)(ii), 1069(c), Dec. 31, 2011, 125 Stat. 1560, 1583, 1587, 1592, struck out item 226 "Scoring of outlays", added item 228 and struck out former item 228 "Quarterly reports on allocation of funds within operation and maintenance budget subactivities", added item 231 and struck out former item 231 "Long-range plan for construction of naval vessels", and amended item 231a generally. Prior to amendment, item 231a read as follows: "Budgeting for procurement of aircraft for the Navy and Air Force: annual plan and certification".
 
 Pub. L. 112–81, div. A, title II, §231(a)(2), Dec. 31, 2011, 125 Stat. 1339, added item 225 at the end of this analysis.
 

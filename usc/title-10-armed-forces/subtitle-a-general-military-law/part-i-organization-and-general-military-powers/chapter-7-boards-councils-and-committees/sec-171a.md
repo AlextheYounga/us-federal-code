@@ -68,7 +68,7 @@
 
 (2) In this subsection, the term "anomaly" means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
 
-(i) Reports on Space Architecture Development.—(1) Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisitions and Sustainment shall submit to the congressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
+(i) Reports on Space Architecture Development.—(1) Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisitions <sup><a href="#171a_1_target" name="171a_1">1</a></sup> and Sustainment shall submit to the congressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
 
 (2) A system described in this paragraph is any of the following:
 
@@ -201,3 +201,5 @@ Pub. L. 115–91, div. A, title XVI, §1654(b), Dec. 12, 2017, 131 Stat. 1759, p
 "(A) not later than 180 days after the date of the enactment of this Act [Dec. 12, 2017]; and
 
 "(B) upon completion of the database."
+
+[<sup>1</sup> So in original. Probably should be "Acquisition".](#171a_1)

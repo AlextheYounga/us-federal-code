@@ -106,7 +106,7 @@
 
 **2019**—Subsec. (c)(1). Pub. L. 116–92, §311, substituted "75 days" for "60 days" in introductory provisions.
 
-Subsec. (c)(6). Pub. L. 116–92, §371(1), in second sentence substituted "air route surveillance radar, airport surveillance radar, or wide area surveillance over-the-horizon radar" for "air route surveillance radar or airport surveillance radar" and inserted after second sentence "Any setback for a project pursuant to the previous sentence shall not be more than what is determined to be necessary by a technical analysis conducted by the Lincoln Laboratory at the Massachusetts Institute of Technology or any successor entity."
+Subsec. (c)(6). Pub. L. 116–92, §371(1), in second sentence, substituted "air route surveillance radar, airport surveillance radar, or wide area surveillance over-the-horizon radar" for "air route surveillance radar or airport surveillance radar" and inserted after second sentence "Any setback for a project pursuant to the previous sentence shall not be more than what is determined to be necessary by a technical analysis conducted by the Lincoln Laboratory at the Massachusetts Institute of Technology or any successor entity."
 
 Subsec. (d)(2)(E). Pub. L. 116–92, §371(2)(A), substituted "the Deputy Secretary of Defense, an Under Secretary of Defense, or a Deputy Under Secretary of Defense" for "a Deputy Secretary of Defense, an Under Secretary of Defense, or a Principal Deputy Under Secretary of Defense".
 

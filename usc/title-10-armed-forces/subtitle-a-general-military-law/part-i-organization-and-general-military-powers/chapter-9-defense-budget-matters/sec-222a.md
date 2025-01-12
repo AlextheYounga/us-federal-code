@@ -48,7 +48,7 @@
 
 (C) would have been recommended for funding through the budget referred to in subparagraph (1) by the officer submitting the report required by subsection (a) in connection with the budget if—
 
-(i) additional resources been available for the budget to fund the program, activity, or mission requirement; or
+(i) additional resources been <sup><a href="#222a_1_target" name="222a_1">1</a></sup> available for the budget to fund the program, activity, or mission requirement; or
 
 (ii) the program, activity, or mission requirement has emerged since the budget was formulated.
 
@@ -66,7 +66,7 @@
 
 Subsec. (d). Pub. L. 116–92, §1005(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) defined the term "unfunded priority".
 
-Subsec. (d)(3)(A). Pub. L. 116–92, §1731(a)(12), inserted "had" before "been". See Amendment note above and Coordination of Amendments by Pub. L. 116–92 note below.
+Subsec. (d)(3)(A). Pub. L. 116–92, §1731(a)(12), inserted "had" before "been" prior to the general amendment of subsec. (d). See Amendment note above and Coordination of Amendments by Pub. L. 116–92 note below.
 
 #### Coordination of Amendments by Pub. L. 116–92 ####
 
@@ -75,3 +75,5 @@ Amendments to this section by section 1731 of Pub. L. 116–92 to be treated as 
 #### Annual Report on Unfunded Requirements for Laboratory Military Construction Projects ####
 
 Pub. L. 115–91, div. B, title XXVIII, §2806, Dec. 12, 2017, 131 Stat. 1847, as amended by Pub. L. 116–92, div. B, title XXVIII, §2807, Dec. 20, 2019, 133 Stat. 1885, provided that: "The Under Secretary of Defense for Research and Engineering, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] each year, at the time the budget of the President for the fiscal year beginning in such year is submitted to Congress under section 1105(a) of title 31, United States Code, a report listing unfunded requirements on major and minor military construction projects for Department of Defense science and technology laboratories and facilities and test and evaluation facilities, in prioritized order, with specific accounts and program elements identified, and shall include a Department of Defense Form DD1391 for each major and minor military construction project included in the report."
+
+[<sup>1</sup> So in original. Probably should be preceded by "had".](#222a_1)

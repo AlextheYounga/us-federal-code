@@ -38,7 +38,7 @@ Sec.
 
 #### Amendments ####
 
-**2019**—Pub. L. 116–92, div. A, title XVII, §1731(b), Dec. 20, 2019, 133 Stat. 1816, amended directory language of Pub. L. 115–232, §331(g)(2), effective Aug. 13, 2018, and as if included in Pub. L. 115–232 as enacted. See 2018 Amendment note below.
+**2019**—Pub. L. 116–92, div. A, title XVII, §1731(b), Dec. 20, 2019, 133 Stat. 1816, amended directory language of Pub. L. 115–232, §331(g)(2), and provided that the amendment is effective Aug. 13, 2018, and as if included in Pub. L. 115–232 as enacted. See 2018 Amendment note below.
 
 Pub. L. 116–92, div. A, title XVII, §1701(c)(2), Dec. 20, 2019, 133 Stat. 1795, which directed amendment of item 115a in the analysis for chapter 3 of this title by substituting "profile report and related reports" for "requirements report", was executed by making the substitution in item 115a in the analysis for this chapter, to reflect the probable intent of Congress.
 
