@@ -96,7 +96,7 @@ Pub. L. 116–94, §3, Dec. 20, 2019, 133 Stat. 2536, provided that: "Except as 
 
 Pub. L. 116–94, div. F, title VI, §612, Dec. 20, 2019, 133 Stat. 2815, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in this division [div. F of Pub. L. 116–94, see Tables for classification] shall be treated as referring only to the provisions of this division."
 
-Pub. L. 116–94, div. H, title IV, §420, Dec. 20, 2019, 133 Stat. 3017, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in this division [div. H of Pub. L. 116–94, see Tables for classifcation] shall be treated as referring only to the provisions of this division."
+Pub. L. 116–94, div. H, title IV, §420, Dec. 20, 2019, 133 Stat. 3017, provided that: "Except as expressly provided otherwise, any reference to 'this Act' contained in this division [div. H of Pub. L. 116–94, see Tables for classification] shall be treated as referring only to the provisions of this division."
 
 #### References in Pub. L. 116–93 ####
 

@@ -10,13 +10,13 @@ There shall be allowed as a credit against the tax imposed by this chapter for t
 
 The amount determined under this subsection with respect to any new clean vehicle is the sum of the amounts determined under paragraphs (2) and (3) with respect to such vehicle.
 
-#### (2) Base amount ####
+#### (2) Critical minerals ####
 
-The amount determined under this paragraph is $2,500.
+In the case of a vehicle with respect to which the requirement described in subsection (e)(1)(A) is satisfied, the amount determined under this paragraph is $3,750.
 
-#### (3) Battery capacity ####
+#### (3) Battery components ####
 
-In the case of a vehicle which draws propulsion energy from a battery with not less than 5 kilowatt hours of capacity, the amount determined under this paragraph is $417, plus $417 for each kilowatt hour of capacity in excess of 5 kilowatt hours. The amount determined under this paragraph shall not exceed $5,000.
+In the case of a vehicle with respect to which the requirement described in subsection (e)(2)(A) is satisfied, the amount determined under this paragraph is $3,750.
 
 #### (c) Application with other credits ####
 
@@ -85,6 +85,78 @@ For purposes of paragraph (1)(G), the term "final assembly" means the process by
 #### (6) New qualified fuel cell motor vehicle ####
 
 For purposes of this section, the term "new clean vehicle" shall include any new qualified fuel cell motor vehicle (as defined in section 30B(b)(3)) which meets the requirements under subparagraphs (G) and (H) of paragraph (1).
+
+#### (7) Excluded entities ####
+
+For purposes of this section, the term "new clean vehicle" shall not include—
+
+(A) any vehicle placed in service after December 31, 2024, with respect to which any of the applicable critical minerals contained in the battery of such vehicle (as described in subsection (e)(1)(A)) were extracted, processed, or recycled by a foreign entity of concern (as defined in section 40207(a)(5) of the Infrastructure Investment and Jobs Act (42 U.S.C. 18741(a)(5))), or
+
+(B) any vehicle placed in service after December 31, 2023, with respect to which any of the components contained in the battery of such vehicle (as described in subsection (e)(2)(A)) were manufactured or assembled by a foreign entity of concern (as so defined).
+
+#### (e) Critical mineral and battery component requirements ####
+
+#### (1) Critical minerals requirement ####
+
+#### (A) In general ####
+
+The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the applicable critical minerals (as defined in section 45X(c)(6)) contained in such battery that were—
+
+(i) extracted or processed—
+
+(I) in the United States, or
+
+(II) in any country with which the United States has a free trade agreement in effect, or
+
+(ii) recycled in North America,
+
+is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary).
+
+#### (B) Applicable percentage ####
+
+For purposes of subparagraph (A), the applicable percentage shall be—
+
+(i) in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 40 percent,
+
+(ii) in the case of a vehicle placed in service during calendar year 2024, 50 percent,
+
+(iii) in the case of a vehicle placed in service during calendar year 2025, 60 percent,
+
+(iv) in the case of a vehicle placed in service during calendar year 2026, 70 percent, and
+
+(v) in the case of a vehicle placed in service after December 31, 2026, 80 percent.
+
+#### (2) Battery components ####
+
+#### (A) In general ####
+
+The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the components contained in such battery that were manufactured or assembled in North America is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary).
+
+#### (B) Applicable percentage ####
+
+For purposes of subparagraph (A), the applicable percentage shall be—
+
+(i) in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 50 percent,
+
+(ii) in the case of a vehicle placed in service during calendar year 2024 or 2025, 60 percent,
+
+(iii) in the case of a vehicle placed in service during calendar year 2026, 70 percent,
+
+(iv) in the case of a vehicle placed in service during calendar year 2027, 80 percent,
+
+(v) in the case of a vehicle placed in service during calendar year 2028, 90 percent,
+
+(vi) in the case of a vehicle placed in service after December 31, 2028, 100 percent.
+
+#### (3) Regulations and guidance ####
+
+#### (A) In general ####
+
+The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+
+#### (B) Deadline for proposed guidance ####
+
+Not later than December 31, 2022, the Secretary shall issue proposed guidance with respect to the requirements under this subsection.
 
 #### (f) Special rules ####
 
@@ -229,96 +301,6 @@ No credit shall be allowed under this section with respect to any vehicle placed
 (Added Pub. L. 110–343, div. B, title II, §205(a), Oct. 3, 2008, 122 Stat. 3835; amended Pub. L. 111–5, div. B, title I, §1141(a), Feb. 17, 2009, 123 Stat. 326; Pub. L. 111–148, title X, §10909(b)(2)(H), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298; Pub. L. 112–240, title I, §104(c)(2)(I), title IV, §403(a), (b), Jan. 2, 2013, 126 Stat. 2322, 2337, 2338; Pub. L. 113–295, div. A, title II, §209(e), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–113, div. Q, title I, §183(a), Dec. 18, 2015, 129 Stat. 3072; Pub. L. 115–123, div. D, title I, §40405(a), Feb. 9, 2018, 132 Stat. 148; Pub. L. 116–94, div. Q, title I, §126(a), Dec. 20, 2019, 133 Stat. 3231; Pub. L. 116–260, div. EE, title I, §144(a), Dec. 27, 2020, 134 Stat. 3054; Pub. L. 117–169, title I, §13401(a)–(i)(1), Aug. 16, 2022, 136 Stat. 1954–1961.)
 
 #### Amendment of Section ####
-
-Pub. L. 117–169, title I, §13401(a), (e), (k)(3), Aug. 16, 2022, 136 Stat. 1954, 1956, 1961, provided that, applicable to vehicles placed in service after the date on which the proposed guidance described in subsection (e)(3)(B) of this section, set out below, is issued by the Secretary of the Treasury (or the Secretary's delegate), this section is amended as follows:
-
-(1) in subsection (b), by striking paragraphs (2) and (3) and inserting the following:
-
-#### *"(2) Critical minerals* ####
-
-*"In the case of a vehicle with respect to which the requirement described in subsection (e)(1)(A) is satisfied, the amount determined under this paragraph is $3,750.*
-
-#### *"(3) Battery components* ####
-
-*"In the case of a vehicle with respect to which the requirement described in subsection (e)(2)(A) is satisfied, the amount determined under this paragraph is $3,750.";*
-
-(2) in subsection (d), by adding at the end the following:
-
-#### *"(7) Excluded entities* ####
-
-*"For purposes of this section, the term 'new clean vehicle' shall not include—*
-
-*"(A) any vehicle placed in service after December 31, 2024, with respect to which any of the applicable critical minerals contained in the battery of such vehicle (as described in subsection (e)(1)(A)) were extracted, processed, or recycled by a foreign entity of concern (as defined in section 40207(a)(5) of the Infrastructure Investment and Jobs Act (42 U.S.C. 18741(a)(5))), or*
-
-*"(B) any vehicle placed in service after December 31, 2023, with respect to which any of the components contained in the battery of such vehicle (as described in subsection (e)(2)(A)) were manufactured or assembled by a foreign entity of concern (as so defined)."; and*
-
-(3) by inserting after subsection (d) the following:
-
-#### *"(e) Critical mineral and battery component requirements* ####
-
-#### *"(1) Critical minerals requirement* ####
-
-#### *"(A) In general* ####
-
-*"The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the applicable critical minerals (as defined in section 45X(c)(6)) contained in such battery that were—*
-
-*"(i) extracted or processed—*
-
-*"(I) in the United States, or*
-
-*"(II) in any country with which the United States has a free trade agreement in effect, or*
-
-*"(ii) recycled in North America,*
-
-*is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary).*
-
-#### *"(B) Applicable percentage* ####
-
-*"For purposes of subparagraph (A), the applicable percentage shall be—*
-
-*"(i) in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 40 percent,*
-
-*"(ii) in the case of a vehicle placed in service during calendar year 2024, 50 percent,*
-
-*"(iii) in the case of a vehicle placed in service during calendar year 2025, 60 percent,*
-
-*"(iv) in the case of a vehicle placed in service during calendar year 2026, 70 percent, and*
-
-*"(v) in the case of a vehicle placed in service after December 31, 2026, 80 percent.*
-
-#### *"(2) Battery components* ####
-
-#### *"(A) In general* ####
-
-*"The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the components contained in such battery that were manufactured or assembled in North America is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary).*
-
-#### *"(B) Applicable percentage* ####
-
-*"For purposes of subparagraph (A), the applicable percentage shall be—*
-
-*"(i) in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 50 percent,*
-
-*"(ii) in the case of a vehicle placed in service during calendar year 2024 or 2025, 60 percent,*
-
-*"(iii) in the case of a vehicle placed in service during calendar year 2026, 70 percent,*
-
-*"(iv) in the case of a vehicle placed in service during calendar year 2027, 80 percent,*
-
-*"(v) in the case of a vehicle placed in service during calendar year 2028, 90 percent,*
-
-*"(vi) in the case of a vehicle placed in service after December 31, 2028, 100 percent.*
-
-#### *"(3) Regulations and guidance* ####
-
-#### *"(A) In general* ####
-
-*"The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.*
-
-#### *"(B) Deadline for proposed guidance* ####
-
-*"Not later than December 31, 2022, the Secretary shall issue proposed guidance with respect to the requirements under this subsection."*
-
-See 2022 Amendment notes below.
 
 Pub. L. 117–169, title I, §13401(g), (k)(4), Aug. 16, 2022, 136 Stat. 1958, 1962, provided that, applicable to vehicles placed in service after Dec. 31, 2023, this section is amended as follows:
 
@@ -504,7 +486,7 @@ Pub. L. 117–169, title I, §13401(k), Aug. 16, 2022, 136 Stat. 1961, provided 
 
 "(2) Final assembly.—The amendments made by subsection (b) [amending this section] shall apply to vehicles sold after the date of enactment of this Act [Aug. 16, 2022].
 
-"(3) Per vehicle dollar limitation and related requirements.—The amendments made by subsections (a) and (e) [amending this section] shall apply to vehicles placed in service after the date on which the proposed guidance described in paragraph (3)(B) of section 30D(e) of the Internal Revenue Code of 1986 (as added by subsection (e)) is issued by the Secretary of the Treasury (or the Secretary's delegate).
+"(3) Per vehicle dollar limitation and related requirements.—The amendments made by subsections (a) and (e) [amending this section] shall apply to vehicles placed in service after the date on which the proposed guidance described in paragraph (3)(B) of section 30D(e) of the Internal Revenue Code of 1986 (as added by subsection (e)) is issued by the Secretary of the Treasury (or the Secretary's delegate) [proposed guidance issued Apr. 17, 2023, see 88 F.R. 23370].
 
 "(4) Transfer of credit.—The amendments made by subsection (g) [amending this section] shall apply to vehicles placed in service after December 31, 2023.
 

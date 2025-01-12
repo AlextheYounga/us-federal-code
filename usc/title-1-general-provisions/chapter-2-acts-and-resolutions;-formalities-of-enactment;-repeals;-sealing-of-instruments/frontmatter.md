@@ -32,15 +32,11 @@ Sec.
 
 112a. United States Treaties and Other International Agreements; contents; admissibility in evidence.
 
-112b. United States international agreements; transmission to Congress.
+112b. United States international agreements and non-binding instruments; transparency provisions.
 
 113. "Little and Brown's" edition of laws and treaties; slip laws; Treaties and Other International Act 1 Series; admissibility in evidence.
 
 114. Sealing of instruments.
-
-#### Amendment of Analysis ####
-
-Pub. L. 117–263, div. E, title LIX, §5947(a)(2), (c), Dec. 23, 2022, 136 Stat. 3481, 3482, provided that, effective 270 days after Dec. 23, 2022, this analysis is amended by striking item 112b and inserting new item 112b "United States international agreements and non-binding instruments; transparency provisions." See 2022 Amendment note below.
 
 #### **Editorial Notes** ####
 

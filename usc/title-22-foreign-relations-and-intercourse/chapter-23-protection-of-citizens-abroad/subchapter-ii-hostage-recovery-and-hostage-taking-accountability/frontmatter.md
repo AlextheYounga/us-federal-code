@@ -233,3 +233,7 @@ Sec. 15. (a) Nothing in this order shall be construed to impair or otherwise aff
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 J.R. Biden, Jr.
+
+Continuation of national emergency declared by Ex. Ord. No. 14078 was contained in the following:
+
+Notice of President of the United States, dated July 12, 2023, 88 F.R. 45327.

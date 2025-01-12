@@ -34,4 +34,4 @@ Sec.
 
 #### Amendments ####
 
-**2022**—Pub. L. 117–263, div. K, title CXV, §11503(e), Dec. 23, 2022, 136 Stat. 4131, inserted subchapter headings, substituted "Definitions" for "Definition" in item 30501, and renumbered items 30503 to 30512 as 30521 to 30530, respectively.
+**2022**—Pub. L. 117–263, div. K, title CXV, §11503(e), Dec. 23, 2022, 136 Stat. 4131, inserted subchapter headings, added item 30501 and struck out former item 30501 "Definition", and renumbered items 30503 to 30512 as 30521 to 30530, respectively.

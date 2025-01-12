@@ -347,11 +347,11 @@ Chap. Sec.
 
 361. Contract Administration 4601
 
-363. Prohibitions and Penalties 4651
+363. Prohibitions and Penalties 3 4651
 
 365. Contractor Workforce 4701
 
-367. Other Administrative and Miscellaneous Provisions 4751
+367. Other Administrative and Miscellaneous Provisions 3 4751
 
 #### subpart i—defense industrial base ####
 

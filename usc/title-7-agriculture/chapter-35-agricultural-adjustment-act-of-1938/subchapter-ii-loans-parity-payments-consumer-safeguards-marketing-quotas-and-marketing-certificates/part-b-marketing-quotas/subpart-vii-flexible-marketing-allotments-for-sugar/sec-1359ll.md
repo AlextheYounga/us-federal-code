@@ -18,6 +18,8 @@ The date of enactment of this section, referred to in subsec. (b), is the date o
 
 #### Codification ####
 
+Provisions of law applicable to sugarcane or sugar beets for the 2023 crop year pursuant to title I of Pub. L. 113–79 and amendment made by section 1301 of Pub. L. 115–334 applicable to the 2024 crop year for sugarcane or sugar beets, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under section 9001 of this title.
+
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments ####

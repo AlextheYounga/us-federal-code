@@ -2080,7 +2080,7 @@ Pub. L. 117–328, div. T, title III, §311(b), Dec. 29, 2022, 136 Stat. 5347, p
 
 "(1) In general.—Except as provided in paragraph (2), the amendment made by this section [amending this section] shall apply to distributions made after the date of the enactment of this Act [Dec. 29, 2022].
 
-"(2) Temporary rule with respect to distributions already made.—In the case of a qualified birth or adoption distribution (as defined in section 72(t)(2)(H)(iii)(I) of the Internal Revenue Code of 1986) made on or before the date of the enactment of this Act, section 72(t)(2)(H)(v)(I) of such Code (as amended by this Act) shall apply to such distribution by substituting 'after such distribution and before January 1, 2026' for 'during the 3-year period beginning on the day after the date on which such distribution was received'."
+"(2) Temporary rule with respect to distributions already made.—In the case of a qualified birth or adoption distribution (as defined in section 72(t)(2)(H)(iii)(I) of the Internal Revenue Code of 1986) made on or before the date of the enactment of this Act, section 72(t)(2)(H)(v)(I) of such Code (as amended by this Act [div. T of Pub. L. 117–328]) shall apply to such distribution by substituting 'after such distribution and before January 1, 2026' for 'during the 3-year period beginning on the day after the date on which such distribution was received'."
 
 Pub. L. 117–328, div. T, title III, §314(b), Dec. 29, 2022, 136 Stat. 5350, provided that: "The amendments made by this section [amending this section] shall apply to distributions made after December 31, 2023."
 

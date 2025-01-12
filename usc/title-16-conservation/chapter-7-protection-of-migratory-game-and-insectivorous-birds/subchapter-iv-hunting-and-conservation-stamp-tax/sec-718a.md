@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-Except as provided in paragraph (2), no individual who has attained the age of 16 years shall take any migratory waterfowl unless, at the time of the taking, the individual carries on the person of the individual a valid Migratory Bird Hunting and Conservation Stamp, validated by the signature of the individual written in ink across the face of the stamp prior to the time of the taking by the individual of the waterfowl.
+Except as provided in paragraph (2), no individual who has attained the age of 16 years shall take any migratory waterfowl unless, at the time of the taking, the individual carries on the person of the individual a valid Migratory Bird Hunting and Conservation Stamp, as an electronic stamp (as defined in section 718o of this title) or validated by the signature of the individual written in ink across the face of the actual stamp (as defined in that section) prior to the time of the taking by the individual of the waterfowl.
 
 #### (2) Exception ####
 
@@ -30,11 +30,13 @@ Any individual to whom a stamp has been sold under this subchapter shall, upon r
 
 Nothing in this section requires any individual to affix the Migratory Bird Hunting and Conservation Stamp to any other license prior to taking 1 or more migratory waterfowl.
 
-(Mar. 16, 1934, ch. 71, §1, 48 Stat. 451; June 15, 1935, ch. 261, title I, §1, 49 Stat. 378; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 30, 1956, ch. 782, §1, 70 Stat. 722; Pub. L. 94–215, §3(a), Feb. 17, 1976, 90 Stat. 189; Pub. L. 109–266, §10(a), Aug. 3, 2006, 120 Stat. 674; Pub. L. 113–264, §4, Dec. 18, 2014, 128 Stat. 2940.)
+(Mar. 16, 1934, ch. 71, §1, 48 Stat. 451; June 15, 1935, ch. 261, title I, §1, 49 Stat. 378; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 30, 1956, ch. 782, §1, 70 Stat. 722; Pub. L. 94–215, §3(a), Feb. 17, 1976, 90 Stat. 189; Pub. L. 109–266, §10(a), Aug. 3, 2006, 120 Stat. 674; Pub. L. 113–264, §4, Dec. 18, 2014, 128 Stat. 2940; Pub. L. 118–25, §2(d), Dec. 19, 2023, 137 Stat. 130.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Subsec. (a)(1). Pub. L. 118–25 inserted "as an electronic stamp (as defined in section 718o of this title) or" after "Conservation Stamp," and substituted "face of the actual stamp (as defined in that section)" for "face of the stamp".
 
 **2014**—Subsec. (a)(2)(D). Pub. L. 113–264 added subpar. (D).
 

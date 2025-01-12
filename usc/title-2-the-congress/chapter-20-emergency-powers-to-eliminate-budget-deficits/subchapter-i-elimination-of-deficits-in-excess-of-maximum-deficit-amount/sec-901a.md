@@ -286,17 +286,19 @@ Pub. L. 112–240, title IX, §901(e), Jan. 2, 2013, 126 Stat. 2370, provided th
 
 #### **Executive Documents** ####
 
-#### Sequestration Order for Fiscal Year 2022 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended ####
+#### Sequestration Order for Fiscal Year 2024 Pursuant to Section 251A of the Balanced Budget and Emergency Deficit Control Act, as Amended ####
 
-Order of President of the United States, dated Mar. 28, 2022, 87 F.R. 18603, provided:
+Order of President of the United States, dated Mar. 13, 2023, 88 F.R. 16171, provided:
 
-By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2022, direct spending budgetary resources for fiscal year 2023 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 28, 2022.
+By the authority vested in me as President by the laws of the United States of America, and in accordance with section 251A of the Balanced Budget and Emergency Deficit Control Act (the "Act"), as amended, 2 U.S.C. 901a, I hereby order that, on October 1, 2023, direct spending budgetary resources for fiscal year 2024 in each non-exempt budget account be reduced by the amount calculated by the Office of Management and Budget in its report to the Congress of March 13, 2023.
 
-All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of March 28, 2022, prepared pursuant to section 251A(9) of the Act.
+All sequestrations shall be made in strict accordance with the requirements of section 251A of the Act and the specifications of the Office of Management and Budget's report of March 13, 2023, prepared pursuant to section 251A(9) of the Act.
 
 J.R. Biden, Jr.
 
 Sequestration orders pursuant to this section for prior fiscal years were contained in the following:
+
+**2023**—Order of President of the United States, dated Mar. 28, 2022, 87 F.R. 18603.
 
 **2022**—Order of President of the United States, dated May 28, 2021, 86 F.R. 29927.
 

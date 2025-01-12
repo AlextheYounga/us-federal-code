@@ -254,7 +254,7 @@ Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450
 
 "(A) the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
 
-"(B) the Committee on Armed Services, the Committee on Oversight and Government Reform, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
+"(B) the Committee on Armed Services, the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability], the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
 
 "(2) Contingency operation.—The term 'contingency operation' has the meaning given that term in section 101(a)(13) of title 10, United States Code.
 

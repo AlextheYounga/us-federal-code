@@ -289,8 +289,7 @@ REORGANIZATION PLANS
 
 This portion of the Appendix contains Reorganization Plans which took effect in accordance with the provisions of section 901 et seq. of this title or corresponding prior provisions of law.
 
-**REORGANIZATION PLAN NO. I OF 1939**
-----------
+#### **REORGANIZATION PLAN NO. I OF 1939** ####
 
 #### Eff. July 1, 1939, 4 F.R. 2727, 53 Stat. 1423, by act June 7, 1939, ch. 193, 53 Stat. 813, as amended Sept. 13, 1982, Pub. L. 97–258, §5(b), 96 Stat. 1068, 1085 ####
 
@@ -372,7 +371,7 @@ The Social Security Board and its functions shall be administered as a part of t
 
 (a) The Public Health Service and its functions shall be administered by the Surgeon General of the Public Health Service under the direction and supervision of the Federal Security Administrator.
 
-(b) All the functions of the Secretary of the Treasury relating to the administration of the Public Health Service, except those functions relating to the acceptance and investment of gifts as authorized by sections 23(b) and 137(e),<sup><a href="#REORGANIZATION_PLAN_NO_I_OF_1939_1_target" name="REORGANIZATION_PLAN_NO_I_OF_1939_1">1</a></sup> title 42, U.S. Code [see 42 U.S.C. 219, 286d], are hereby transferred to, and shall be exercised by, the Federal Security Administrator.
+(b) All the functions of the Secretary of the Treasury relating to the administration of the Public Health Service, except those functions relating to the acceptance and investment of gifts as authorized by sections 23(b) and 137(e),<sup><a href="#[501_to_505_1_target" name="[501_to_505_1">1</a></sup> title 42, U.S. Code [see 42 U.S.C. 219, 286d], are hereby transferred to, and shall be exercised by, the Federal Security Administrator.
 
 #### Sec. 206. National Youth Administration ####
 
@@ -642,10 +641,7 @@ Franklin D. Roosevelt.
 
 The White House, April 25, 1939.
 
-[<sup>1</sup> So in original. Probably should be "sections 23b and 137e,".](#REORGANIZATION_PLAN_NO_I_OF_1939_1)
-
-**REORGANIZATION PLAN NO. II OF 1939**
-----------
+#### **REORGANIZATION PLAN NO. II OF 1939** ####
 
 #### Eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1431, by act June 7, 1939, ch. 193, 53 Stat. 813, as amended Aug. 13, 1946, ch. 957, title XI, §1131(65), 60 Stat. 1040; Aug. 12, 1963, Pub. L. 88–94, §2(f), 77 Stat. 122; Sept. 13, 1982, Pub. L. 97–258, §5(b), 96 Stat. 1068, 1085 ####
 
@@ -913,8 +909,7 @@ Under the authority vested in me by section 1(b) of Part I of Reorganization Pla
 
 3. The officers designated by the Secretary of Commerce and the Secretary of Agriculture under subdivision (4) of the said section 1(b) of Part I of Reorganization Plan No. II to serve in the Department of State as liaison officers shall, when acceptable to the Secretary of State, serve in matters of interest to their respective departments.
 
-**REORGANIZATION PLAN NO. III OF 1940**
-----------
+#### **REORGANIZATION PLAN NO. III OF 1940** ####
 
 #### Eff. June 30, 1940, 5 F.R. 2107, 54 Stat. 1231, by act June 4, 1940, ch. 231, §4, 54 Stat. 231, as amended Aug. 23, 1958, Pub. L. 85–726, title XIV, §1401(c), 72 Stat. 806; Sept. 13, 1982, Pub. L. 97–258, §5(b), 96 Stat. 1068, 1085 ####
 
@@ -1034,8 +1029,7 @@ Franklin D. Roosevelt.
 
 The White House, April 2, 1940.
 
-**REORGANIZATION PLAN NO. IV OF 1940**
-----------
+#### **REORGANIZATION PLAN NO. IV OF 1940** ####
 
 #### Eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, by act June 4, 1940, ch. 231, §4, 54 Stat. 231, as amended Aug. 23, 1958, Pub. L. 85–726, title XIV, §1401(c), 72 Stat. 806; Sept. 13, 1982, Pub. L. 97–258, §5(b), 96 Stat. 1068, 1085 ####
 
@@ -1221,8 +1215,7 @@ Franklin D. Roosevelt.
 
 The White House, April 11, 1940.
 
-**REORGANIZATION PLAN NO. V OF 1940**
-----------
+#### **REORGANIZATION PLAN NO. V OF 1940** ####
 
 #### Eff. June 15, 1940, 5 F.R. 2223, 54 Stat. 1238, by act June 4, 1940, ch. 231, §1, 54 Stat. 230 ####
 
@@ -1268,13 +1261,11 @@ Franklin D. Roosevelt.
 
 The White House, May 22, 1940.
 
-**REORGANIZATION PLAN NO. 1 OF 1946**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1946** ####
 
 Reorganization Plan No. 1 of 1946, which proposed abolition of the Office of Inter-American Affairs and transfer of its functions to the Department of State, abolition of the Office of United States High Commissioner to the Philippine Islands, transfer of functions of the Attorney General under the National Prohibition Act to the Commissioner of Internal Revenue, transfer of functions of six research bureaus, the Office of Experiment Stations, and the Agricultural Research Center to the Secretary of Agriculture, transfer of functions of the Director and Office of Contract Settlement under the Contract Settlement Act of 1944 to the Director and Office of War Mobilization and Reconversion, consolidation of the agencies and functions of the National Housing Agency into a permanent agency of the same name, and transfer of the functions of the Farm Credit Administration and the Governor thereof and of the Secretary of Agriculture under the Federal Credit Union Act to the Federal Deposit Insurance Corporation, was submitted to Congress on May 16, 1946, and was disapproved by Congress on July 15, 1946.
 
-**REORGANIZATION PLAN NO. 2 OF 1946**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1946** ####
 
 #### Eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095, by act Dec. 20, 1945, ch. 582, 59 Stat. 613, as amended Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 662 ####
 
@@ -1410,8 +1401,7 @@ Harry S. Truman.
 
 The White House, May 16, 1946.
 
-**REORGANIZATION PLAN NO. 3 OF 1946**
-----------
+#### **REORGANIZATION PLAN NO. 3 OF 1946** ####
 
 #### Eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097, by act Dec. 20, 1945, ch. 582, 59 Stat. 613, as amended Reorg. Plan No. 1 of 1963, eff. July 27, 1963, 28 F.R. 7659, 77 Stat. 869 ####
 
@@ -1681,8 +1671,7 @@ Harry S. Truman.
 
 The White House, May 16, 1946.
 
-**REORGANIZATION PLAN NO. 1 OF 1947**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1947** ####
 
 #### 12 F.R. 4534, 61 Stat. 951, as amended act June 30, 1949, ch. 288, title VI, §602(a)(1), formerly title V, §502(a)(1), 63 Stat. 399, redesignated Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583; Sept. 13, 1982, Pub. L. 97–258, §5(b), 96 Stat. 1068, 1085 ####
 
@@ -1814,13 +1803,11 @@ Harry S. Truman.
 
 The White House, May 1, 1947.
 
-**REORGANIZATION PLAN NO. 2 OF 1947**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1947** ####
 
 Reorganization Plan No. 2 of 1947, which proposed to permanently transfer the United States Employment Service to the Department of Labor, to transfer functions of the Administrator of the Wage and Hour Division to the Secretary of Labor, and to authorize the Secretary of Labor to coordinate administration of the acts for regulation of wages and hours on Federal public works, was submitted to Congress on May 1, 1947, and was disapproved by Congress on June 30, 1947.
 
-**REORGANIZATION PLAN NO. 3 OF 1947**
-----------
+#### **REORGANIZATION PLAN NO. 3 OF 1947** ####
 
 #### Eff. July 27, 1947, 12 F.R. 4981, 61 Stat. 954 ####
 
@@ -1930,13 +1917,11 @@ Harry S. Truman.
 
 The White House, May 27, 1947.
 
-**REORGANIZATION PLAN NO. 1 OF 1949**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1949** ####
 
 Reorganization Plan No. 1 of 1949, which proposed establishment of a Department of Welfare, was submitted to Congress on June 20, 1949, and was disapproved by the Senate on Aug. 16, 1949.
 
-**REORGANIZATION PLAN NO. 2 OF 1949**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1949** ####
 
 #### Eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1065 ####
 
@@ -2002,8 +1987,7 @@ Harry S. Truman.
 
 The White House, June 20, 1949.
 
-**REORGANIZATION PLAN NO. 3 OF 1949**
-----------
+#### **REORGANIZATION PLAN NO. 3 OF 1949** ####
 
 #### Eff. Aug. 20, 1949, 14 F.R. 5225, 63 Stat. 1066 ####
 
@@ -2063,8 +2047,7 @@ Harry S. Truman.
 
 The White House, June 20, 1949.
 
-**REORGANIZATION PLAN NO. 4 OF 1949**
-----------
+#### **REORGANIZATION PLAN NO. 4 OF 1949** ####
 
 #### Eff. Aug. 20, 1949, 14 F.R. 5227, 63 Stat. 1067 ####
 
@@ -2100,18 +2083,15 @@ Harry S. Truman.
 
 The White House, June 20, 1949.
 
-**REORGANIZATION PLAN NO. 5 OF 1949**
-----------
+#### **REORGANIZATION PLAN NO. 5 OF 1949** ####
 
 Reorg. Plan No. 5 of 1949, 14 F.R. 5227, 63 Stat. 1067, which related to the Civil Service Commission, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See sections 1103, 1104, 1105, and 1306 of Title 5, Government Organization and Employees.
 
-**REORGANIZATION PLAN NO. 6 OF 1949**
-----------
+#### **REORGANIZATION PLAN NO. 6 OF 1949** ####
 
 Reorg. Plan No. 6 of 1949, 14 F.R. 5228, 63 Stat. 1069, which related to the United States Maritime Commission, was repealed by Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710. See section 46101 of Title 46, Shipping.
 
-**REORGANIZATION PLAN NO. 7 OF 1949**
-----------
+#### **REORGANIZATION PLAN NO. 7 OF 1949** ####
 
 #### Eff. Aug. 20, 1949, 14 F.R. 5228, 63 Stat. 1070, as amended Jan. 12, 1983, Pub. L. 97–449, §2(b), 96 Stat. 2439 ####
 
@@ -2159,18 +2139,15 @@ Harry S. Truman.
 
 The White House, June 20, 1949.
 
-**REORGANIZATION PLAN NO. 8 OF 1949**
-----------
+#### **REORGANIZATION PLAN NO. 8 OF 1949** ####
 
 Reorganization Plan No. 8 of 1949, which proposed reorganization of the National Military Establishment into a Department of Defense, was submitted to Congress on July 18, 1949, and was disapproved by act Aug. 10, 1949, ch. 412, §12(i), 63 Stat. 592.
 
-**REORGANIZATION PLAN NO. 1 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1950** ####
 
 Reorganization Plan No. 1 of 1950, which proposed reorganizations in the Department of the Treasury, was submitted to Congress on Mar. 13, 1950, and was disapproved by the Senate on May 11, 1950.
 
-**REORGANIZATION PLAN NO. 2 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1950** ####
 
 #### Eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, as amended Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 662 ####
 
@@ -2200,8 +2177,7 @@ Harry S. Truman.
 
 The White House, March 13, 1950.
 
-**REORGANIZATION PLAN NO. 3 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 3 OF 1950** ####
 
 #### Eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, as amended June 1, 1971, Pub. L. 92–22, §3, 85 Stat. 76 ####
 
@@ -2247,13 +2223,11 @@ Harry S. Truman.
 
 The White House, March 13, 1950.
 
-**REORGANIZATION PLAN NO. 4 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 4 OF 1950** ####
 
 Reorganization Plan No. 4 of 1950, which proposed reorganizations in the Department of Agriculture, was submitted to Congress on Mar. 13, 1950, and was disapproved by the Senate on May 18, 1950.
 
-**REORGANIZATION PLAN NO. 5 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 5 OF 1950** ####
 
 #### Eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, as amended July 2, 1954, ch. 456, title III, §304, 68 Stat. 430 ####
 
@@ -2295,8 +2269,7 @@ Harry S. Truman.
 
 The White House, March 13, 1950.
 
-**REORGANIZATION PLAN NO. 6 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 6 OF 1950** ####
 
 #### Eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, as amended Pub. L. 99–619, §2(c)(1), Nov. 6, 1986, 100 Stat. 3491 ####
 
@@ -2340,13 +2313,11 @@ Harry S. Truman.
 
 The White House, March 13, 1950.
 
-**REORGANIZATION PLAN NO. 7 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 7 OF 1950** ####
 
 Reorganization Plan No. 7 of 1950, which proposed reorganizations in the Interstate Commerce Commission, was submitted to Congress on Mar. 13, 1950, and was disapproved by the Senate on May 17, 1950.
 
-**REORGANIZATION PLAN NO. 8 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 8 OF 1950** ####
 
 #### Eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264 ####
 
@@ -2388,8 +2359,7 @@ Harry S. Truman.
 
 The White House, March 13, 1950.
 
-**REORGANIZATION PLAN NO. 9 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 9 OF 1950** ####
 
 #### Eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265 ####
 
@@ -2433,8 +2403,7 @@ Harry S. Truman.
 
 The White House, March 13, 1950.
 
-**REORGANIZATION PLAN NO. 10 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 10 OF 1950** ####
 
 #### Eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265 ####
 
@@ -2476,23 +2445,19 @@ Harry S. Truman.
 
 The White House, March 13, 1950.
 
-**REORGANIZATION PLAN NO. 11 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 11 OF 1950** ####
 
 Reorganization Plan No. 11 of 1950, which proposed reorganizations in the Federal Communications Commission, was submitted to Congress on Mar. 13, 1950, and was disapproved by the Senate on May 17, 1950.
 
-**REORGANIZATION PLAN NO. 12 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 12 OF 1950** ####
 
 Reorganization Plan No. 12 of 1950, which proposed reorganizations in the National Labor Relations Board, was submitted to Congress on Mar. 13, 1950, and was disapproved by the Senate on May 11, 1950.
 
-**REORGANIZATION PLAN NO. 13 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 13 OF 1950** ####
 
 Reorganization Plan No. 13 of 1950, 15 F.R. 3176, 64 Stat. 1266, which transferred executive and administrative functions of Civil Aeronautics Board to Chairman of Board, was repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
 
-**REORGANIZATION PLAN NO. 14 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 14 OF 1950** ####
 
 #### Eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, as amended May 21, 1970, Pub. L. 91–258, title I, §52(b)(7), 84 Stat. 235 ####
 
@@ -2528,8 +2493,7 @@ Harry S. Truman.
 
 The White House, March 13, 1950.
 
-**REORGANIZATION PLAN NO. 15 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 15 OF 1950** ####
 
 #### Eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267 ####
 
@@ -2565,8 +2529,7 @@ Harry S. Truman.
 
 The White House, March 13, 1950.
 
-**REORGANIZATION PLAN NO. 16 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 16 OF 1950** ####
 
 #### Eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1268 ####
 
@@ -2604,8 +2567,7 @@ Harry S. Truman.
 
 The White House, March 13, 1950.
 
-**REORGANIZATION PLAN NO. 17 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 17 OF 1950** ####
 
 #### Eff. May 24, 1950, 15 F.R. 3177, 64 Stat. 1269 ####
 
@@ -2653,8 +2615,7 @@ Harry S. Truman.
 
 The White House, March 13, 1950.
 
-**REORGANIZATION PLAN NO. 18 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 18 OF 1950** ####
 
 #### Eff. July 1, 1950, 15 F.R. 3177, 64 Stat. 1270 ####
 
@@ -2738,13 +2699,11 @@ Harry S. Truman.
 
 The White House, March 13, 1950.
 
-**REORGANIZATION PLAN NO. 19 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 19 OF 1950** ####
 
 Reorg. Plan No. 19 of 1950, 15 F.R. 3178, 64 Stat. 1271, which related to employees' compensation functions, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See sections 8145 and 8149 of Title 5, Government Organization and Employees.
 
-**REORGANIZATION PLAN NO. 20 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 20 OF 1950** ####
 
 #### Eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1272 ####
 
@@ -2802,8 +2761,7 @@ Harry S. Truman.
 
 The White House, March 13, 1950.
 
-**REORGANIZATION PLAN NO. 21 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 21 OF 1950** ####
 
 #### Eff. May 24, 1950, 15 F.R. 3178, 64 Stat. 1273, as amended Reorg. Plan No. 7 of 1961, §305, eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840; Oct. 21, 1970, Pub. L. 91–469, §37, 84 Stat. 1036; Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710 ####
 
@@ -2885,8 +2843,7 @@ Harry S. Truman.
 
 The White House, March 13, 1950.
 
-**REORGANIZATION PLAN NO. 22 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 22 OF 1950** ####
 
 #### Eff. Sept. 7, 1950, 15 F.R. 4365, 64 Stat. 1277 ####
 
@@ -2960,8 +2917,7 @@ Harry S. Truman.
 
 The White House, May 9, 1950.
 
-**REORGANIZATION PLAN NO. 23 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 23 OF 1950** ####
 
 #### Eff. Sept. 7, 1950, 15 F.R. 4365, 64 Stat. 1279 ####
 
@@ -3019,13 +2975,11 @@ Harry S. Truman.
 
 The White House, May 9, 1950.
 
-**REORGANIZATION PLAN NO. 24 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 24 OF 1950** ####
 
 Reorganization Plan No. 24 of 1950, which proposed transfer of the Reconstruction Finance Corporation to the Department of Commerce, was submitted to Congress on May 9, 1950, and was disapproved by the Senate on July 6, 1950.
 
-**REORGANIZATION PLAN NO. 25 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 25 OF 1950** ####
 
 #### Eff. July 9, 1950, 15 F.R. 4565, 64 Stat. 1280 ####
 
@@ -3079,8 +3033,7 @@ Harry S. Truman.
 
 The White House, May 9, 1950.
 
-**REORGANIZATION PLAN NO. 26 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 26 OF 1950** ####
 
 #### Eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, as amended May 18, 1972, Pub. L. 92–302, §1(d), 86 Stat. 149; Sept. 13, 1982, Pub. L. 97–258, §5(b), 96 Stat. 1068, 1085 ####
 
@@ -3128,13 +3081,11 @@ The White House, May 31, 1950.
 
 Section 616 of the Revenue Act of 1951 act, Oct. 20, 1951, ch. 521, title VI, 65 Stat. 569, provided that the provisions of 1950 Reorg. Plan No. 26 should be applicable to all functions vested by such act in any officer, employee, or agency of the Department of the Treasury.
 
-**REORGANIZATION PLAN NO. 27 OF 1950**
-----------
+#### **REORGANIZATION PLAN NO. 27 OF 1950** ####
 
 Reorganization Plan No. 27 of 1950, which proposed establishment of a Department of Health, Education, and Security, was submitted to Congress on May 31, 1950, and was disapproved by the House of Representatives on July 10, 1950.
 
-**REORGANIZATION PLAN NO. 1 OF 1951**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1951** ####
 
 #### Eff. May 1, 1951, 16 F.R. 3690, 65 Stat. 773 ####
 
@@ -3214,8 +3165,7 @@ Harry S. Truman.
 
 The White House, February 19, 1951.
 
-**REORGANIZATION PLAN NO. 1 OF 1952**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1952** ####
 
 #### Effective Mar. 14, 1952, 17 F.R. 2243, 66 Stat. 823, as amended June 28, 1955, ch. 189, §12(c)(19), 69 Stat. 182; Sept. 13, 1982, Pub. L. 97–258, §5(b), 96 Stat. 1068, 1085 ####
 
@@ -3303,8 +3253,7 @@ Harry S. Truman.
 
 The White House, January 14, 1952.
 
-**REORGANIZATION PLAN NO. 1 OF 1953**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1953** ####
 
 #### Eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631, as amended Aug. 14, 1964, Pub. L. 88–426, title III, §305(44), 78 Stat. 428; Sept. 11, 1967, Pub. L. 90–83, §10(c), 81 Stat. 224 ####
 
@@ -3382,8 +3331,7 @@ Dwight D. Eisenhower.
 
 The White House, March 12, 1953.
 
-**REORGANIZATION PLAN NO. 2 OF 1953**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1953** ####
 
 #### Eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, as amended Oct. 15, 1982, Pub. L. 97–325, §8(d), 96 Stat. 1606; Oct. 13, 1994, Pub. L. 103–354, title II, §218(e)(1), 108 Stat. 3213 ####
 
@@ -3459,8 +3407,7 @@ Dwight D. Eisenhower.
 
 The White House, March 25, 1953.
 
-**REORGANIZATION PLAN NO. 3 OF 1953**
-----------
+#### **REORGANIZATION PLAN NO. 3 OF 1953** ####
 
 #### Eff. June 12, 1953, 18 F.R. 3375, 67 Stat. 634 ####
 
@@ -3552,13 +3499,11 @@ Dwight D. Eisenhower.
 
 The White House, April 2, 1953.
 
-**REORGANIZATION PLAN NO. 4 OF 1953**
-----------
+#### **REORGANIZATION PLAN NO. 4 OF 1953** ####
 
 Reorg. Plan No. 4 of 1953, 18 F.R. 3577, 67 Stat. 636, which related to the Department of Justice, was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 662. See sections 506 and 508 of Title 28, Judiciary and Judicial Procedure.
 
-**REORGANIZATION PLAN NO. 5 OF 1953**
-----------
+#### **REORGANIZATION PLAN NO. 5 OF 1953** ####
 
 #### Eff. June 30, 1953, 18 F.R. 3741, 67 Stat. 637 ####
 
@@ -3624,8 +3569,7 @@ Dwight D. Eisenhower.
 
 The White House, April 30, 1953.
 
-**REORGANIZATION PLAN NO. 6 OF 1953**
-----------
+#### **REORGANIZATION PLAN NO. 6 OF 1953** ####
 
 #### Eff. June 30, 1953, 18 F.R. 3743, 67 Stat. 638, as amended Aug. 6, 1958, Pub. L. 85–559, §10(b), 72 Stat. 521; Sept. 7, 1962, Pub. L. 87–651, title III, §307C, 76 Stat. 526 ####
 
@@ -3791,13 +3735,11 @@ Dwight D. Eisenhower.
 
 The White House, April 30, 1953.
 
-**REORGANIZATION PLAN NO. 7 OF 1953**
-----------
+#### **REORGANIZATION PLAN NO. 7 OF 1953** ####
 
 Reorg. Plan No. 7 of 1953, 18 F.R. 4541, 67 Stat. 639, which established the Foreign Operations Administration and transferred certain functions to the Director, including functions of the Director for Mutual Security, was repealed by Pub. L. 87–195, pt. III, §642(a)(1), Sept. 4, 1961, 75 Stat. 460.
 
-**REORGANIZATION PLAN NO. 8 OF 1953**
-----------
+#### **REORGANIZATION PLAN NO. 8 OF 1953** ####
 
 #### Eff. Aug. 1, 1953, 18 F.R. 4542, 67 Stat. 642, as amended act June 28, 1955, ch. 189, §12(c)(21), 69 Stat. 183; Reorg. Plan No. 2 of 1977, §9(b), eff. Oct. 11, 1977, 42 F.R. 62461, 91 Stat. 1639 ####
 
@@ -3851,8 +3793,7 @@ Dwight D. Eisenhower.
 
 The White House, June 1, 1953.
 
-**REORGANIZATION PLAN NO. 9 OF 1953**
-----------
+#### **REORGANIZATION PLAN NO. 9 OF 1953** ####
 
 #### Eff. Aug. 1, 1953, 18 F.R. 4543, 67 Stat. 644 ####
 
@@ -3918,13 +3859,11 @@ Dwight D. Eisenhower.
 
 The White House, June 1, 1953.
 
-**REORGANIZATION PLAN NO. 10 OF 1953**
-----------
+#### **REORGANIZATION PLAN NO. 10 OF 1953** ####
 
 Reorg. Plan No. 10 of 1953, 18 F.R. 4543, 67 Stat. 644, which authorized payments to air carriers, was repealed by Pub. L. 85–726, title XIV, §1401(c), Aug. 23, 1958, 72 Stat. 806.
 
-**REORGANIZATION PLAN NO. 1 OF 1954**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1954** ####
 
 #### Eff. July 1, 1954, 19 F.R. 3985, 68 Stat. 1279 ####
 
@@ -4018,8 +3957,7 @@ Dwight D. Eisenhower.
 
 The White House, April 29, 1954.
 
-**REORGANIZATION PLAN NO. 2 OF 1954**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1954** ####
 
 #### Eff. July 1, 1954, 19 F.R. 3986, 68 Stat. 1280 ####
 
@@ -4089,8 +4027,7 @@ Dwight D. Eisenhower.
 
 The White House, April 29, 1954.
 
-**REORGANIZATION PLAN NO. 1 OF 1957**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1957** ####
 
 #### Eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647 ####
 
@@ -4215,8 +4152,7 @@ Dwight D. Eisenhower.
 
 The White House, April 29, 1957.
 
-**REORGANIZATION PLAN NO. 1 OF 1958**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1958** ####
 
 #### Eff. July 1, 1958, 23 F.R. 4991, 72 Stat. 1799, as amended Pub. L. 85–763, Aug. 26, 1958, 72 Stat. 861; Pub. L. 87–296, §1, Sept. 22, 1961, 75 Stat. 630; Pub. L. 87–367, title I, §103(10), Oct. 4, 1961, 75 Stat. 788; Pub. L. 88–426, title III, §305(11), Aug. 14, 1964, 78 Stat. 423; Pub. L. 90–608, ch. IV, §402, Oct. 21, 1968, 82 Stat. 1194; Reorg. Plan No. 1 of 1973, §3(a), eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089 ####
 
@@ -4298,23 +4234,19 @@ Dwight D. Eisenhower.
 
 The White House, April 24, 1958.
 
-**REORGANIZATION PLAN NO. 1 OF 1961**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1961** ####
 
 Reorganization Plan No. 1 of 1961, which proposed reorganizations in the Securities and Exchange Commission, was submitted to Congress on Apr. 27, 1961, and was disapproved by the Senate on June 21, 1961.
 
-**REORGANIZATION PLAN NO. 2 OF 1961**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1961** ####
 
 Reorganization Plan No. 2 of 1961, which proposed reorganizations in the Federal Communications Commission, was submitted to Congress on Apr. 27, 1961, and was disapproved by the House of Representatives on June 15, 1961.
 
-**REORGANIZATION PLAN NO. 3 OF 1961**
-----------
+#### **REORGANIZATION PLAN NO. 3 OF 1961** ####
 
 Reorganization Plan No. 3 of 1961, 26 F.R. 5989, 75 Stat. 837, which gave Civil Aeronautics Board authority to delegate its functions to a division of Board, an individual Board member, a hearing examiner, or an employee or employee board, was repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379.
 
-**REORGANIZATION PLAN NO. 4 OF 1961**
-----------
+#### **REORGANIZATION PLAN NO. 4 OF 1961** ####
 
 #### Eff. July 9, 1961, 26 F.R. 6191, 75 Stat. 837 ####
 
@@ -4358,13 +4290,11 @@ John F. Kennedy.
 
 The White House, May 9, 1961.
 
-**REORGANIZATION PLAN NO. 5 OF 1961**
-----------
+#### **REORGANIZATION PLAN NO. 5 OF 1961** ####
 
 Reorganization Plan No. 5 of 1961, which proposed reorganizations in the National Labor Relations Board, was submitted to Congress on May 24, 1961, and was disapproved by the House of Representatives on July 20, 1961.
 
-**REORGANIZATION PLAN NO. 6 OF 1961**
-----------
+#### **REORGANIZATION PLAN NO. 6 OF 1961** ####
 
 #### Eff. Aug. 12, 1961, 26 F.R. 7541, 75 Stat. 838 ####
 
@@ -4430,8 +4360,7 @@ John F. Kennedy.
 
 The White House, June 12, 1961.
 
-**REORGANIZATION PLAN NO. 7 OF 1961**
-----------
+#### **REORGANIZATION PLAN NO. 7 OF 1961** ####
 
 #### Eff. Aug. 12, 1961, 26 F.R. 7315, 75 Stat. 840, as amended Pub. L. 88–426, title III, §305(19), Aug. 14, 1964, 78 Stat. 425; Pub. L. 91–469, §38, Oct. 21, 1970, 84 Stat. 1036; Pub. L. 105–258, title II, §202, Oct. 14, 1998, 112 Stat. 1915; Pub. L. 109–304, §19, Oct. 6, 2006, 120 Stat. 1710 ####
 
@@ -4519,13 +4448,11 @@ John F. Kennedy.
 
 The White House, June 12, 1961.
 
-**REORGANIZATION PLAN NO. 1 OF 1962**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1962** ####
 
 Reorganization Plan No. 1 of 1962, which proposed establishment of a Department of Urban Affairs and Housing, was submitted to Congress on Jan. 30, 1962, and was disapproved by the House of Representatives on Feb. 21, 1962.
 
-**REORGANIZATION PLAN NO. 2 OF 1962**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1962** ####
 
 #### Eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, as amended Pub. L. 88–426, title III, §305(41), Aug. 14, 1964, 78 Stat. 427; Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472 ####
 
@@ -4661,8 +4588,7 @@ John F. Kennedy.
 
 The White House, March 29, 1962.
 
-**REORGANIZATION PLAN NO. 1 OF 1963**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1963** ####
 
 #### Eff. July 27, 1963, 28 F.R. 7659, 77 Stat. 869 ####
 
@@ -4710,8 +4636,7 @@ John F. Kennedy.
 
 The White House, May 27, 1963
 
-**REORGANIZATION PLAN NO. 1 OF 1965**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1965** ####
 
 #### Eff. May 25, 1965, 30 F.R. 7035, 79 Stat. 1317 ####
 
@@ -4779,8 +4704,7 @@ Lyndon B. Johnson.
 
 The White House, March 25, 1965.
 
-**REORGANIZATION PLAN NO. 2 OF 1965**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1965** ####
 
 #### Eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318, as amended Pub. L. 90–83, §10(c), Sept. 11, 1967, 81 Stat. 224 ####
 
@@ -4868,13 +4792,11 @@ Lyndon B. Johnson.
 
 The White House, May 13, 1965.
 
-**REORGANIZATION PLAN NO. 3 OF 1965**
-----------
+#### **REORGANIZATION PLAN NO. 3 OF 1965** ####
 
 Reorganization Plan No. 3 of 1965, 30 F.R. 9351, 79 Stat. 1320, which transferred functions of director of locomotive inspection, assistant directors of locomotive inspection, and district inspectors of locomotives to Interstate Commerce Commission, was repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379. See sections 20702, 20703, and 21302 of Title 49, Transportation.
 
-**REORGANIZATION PLAN NO. 4 OF 1965**
-----------
+#### **REORGANIZATION PLAN NO. 4 OF 1965** ####
 
 #### Eff. July 27, 1965, 30 F.R. 9353, 79 Stat. 1321, as amended Pub. L. 90–83, §10(c), Sept. 11, 1967, 81 Stat. 224 ####
 
@@ -4964,8 +4886,7 @@ Lyndon B. Johnson.
 
 The White House, May 27, 1965.
 
-**REORGANIZATION PLAN NO. 5 OF 1965**
-----------
+#### **REORGANIZATION PLAN NO. 5 OF 1965** ####
 
 #### Eff. July 27, 1965, 30 F.R. 9355, 79 Stat. 1323 ####
 
@@ -5007,8 +4928,7 @@ Lyndon B. Johnson.
 
 The White House, May 27, 1965.
 
-**REORGANIZATION PLAN NO. 1 OF 1966**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1966** ####
 
 #### Eff. Apr. 22, 1966, 31 F.R. 6187, 80 Stat. 1607 ####
 
@@ -5086,8 +5006,7 @@ Lyndon B. Johnson.
 
 The White House, February 10, 1966.
 
-**REORGANIZATION PLAN NO. 2 OF 1966**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1966** ####
 
 #### Eff. May 10, 1966, 31 F.R. 6857, 80 Stat. 1608, as amended Pub. L. 90–83, §10(c), Sept. 11, 1967, 81 Stat. 224 ####
 
@@ -5217,8 +5136,7 @@ Lyndon B. Johnson.
 
 The White House, February 28, 1966.
 
-**REORGANIZATION PLAN NO. 3 OF 1966**
-----------
+#### **REORGANIZATION PLAN NO. 3 OF 1966** ####
 
 #### Eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610 ####
 
@@ -5362,8 +5280,7 @@ Lyndon B. Johnson.
 
 The White House, April 25, 1966.
 
-**REORGANIZATION PLAN NO. 4 OF 1966**
-----------
+#### **REORGANIZATION PLAN NO. 4 OF 1966** ####
 
 #### Eff. Aug. 23, 1966, 31 F.R. 11137, 80 Stat. 1611 ####
 
@@ -5395,8 +5312,7 @@ Lyndon B. Johnson.
 
 The White House, June 13, 1966.
 
-**REORGANIZATION PLAN NO. 5 OF 1966**
-----------
+#### **REORGANIZATION PLAN NO. 5 OF 1966** ####
 
 #### Eff. Sept. 8, 1966, 31 F.R. 11857, 80 Stat. 1611 ####
 
@@ -5456,18 +5372,15 @@ Lyndon B. Johnson.
 
 The White House, June 29, 1966.
 
-**REORGANIZATION PLAN NO. 1 OF 1967**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1967** ####
 
 Reorganization Plan No. 1 of 1967, 32 F.R. 7049, 81 Stat. 947, which transferred certain functions relating to ship mortgages from the Secretary of Commerce to the Secretary of Transportation, was repealed by Pub. L. 100–710, title I, §106(b)(4), Nov. 23, 1988, 102 Stat. 4752.
 
-**REORGANIZATION PLAN NO. 2 OF 1967**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1967** ####
 
 Reorganization Plan No. 2 of 1967, which proposed to strengthen the operations of the Tariff Commission by transferring to its chairman certain routine executive and administrative functions, was submitted to Congress on March 9, 1967, and was disapproved by the Senate on May 15, 1967.
 
-**REORGANIZATION PLAN NO. 3 OF 1967 <sup><a href="#REORGANIZATION_PLAN_NO_3_OF_1967_1_target" name="REORGANIZATION_PLAN_NO_3_OF_1967_1">1</a></sup>**
-----------
+#### **REORGANIZATION PLAN NO. 3 OF 1967 <sup><a href="#[501_to_505_1_target" name="[501_to_505_1">1</a></sup>** ####
 
 #### Eff. Aug. 11, 1967 (in part), 32 F.R. 11669, 81 Stat. 948, as amended Pub. L. 90–623, §7(b), Oct. 22, 1968, 82 Stat. 1315 ####
 
@@ -6627,10 +6540,7 @@ Lyndon B. Johnson.
 
 The White House, June 1, 1967.
 
-[<sup>1</sup> D.C. Code citations in this Reorganization Plan are based on the 1967 edition. See Parallel Reference Tables in D.C. Code for corresponding citations.](#REORGANIZATION_PLAN_NO_3_OF_1967_1)
-
-**REORGANIZATION PLAN NO. 1 OF 1968**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1968** ####
 
 #### Eff. Apr. 8, 1968, 33 F.R. 5611, 82 Stat. 1367, as amended Pub. L. 90–623, §7(c), Oct. 22, 1968, 82 Stat. 1316; Reorg. Plan No. 2 of 1973, §3, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091 ####
 
@@ -6738,13 +6648,11 @@ Lyndon B. Johnson.
 
 The White House, February 7, 1968.
 
-**REORGANIZATION PLAN NO. 2 OF 1968**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1968** ####
 
 Reorganization Plan No. 2 of 1968, 33 F.R. 6965, 82 Stat. 1369, as amended Pub. L. 90–623, §7(d), Oct. 22, 1968, 82 Stat. 1316, which transferred urban mass transportation programs to Secretary of Transportation and established Urban Mass Transportation Administration, was repealed by Pub. L. 97–449, §7(b), Jan. 12, 1983, 96 Stat. 2445; Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379; Pub. L. 104–287, §7(2), Oct. 11, 1996, 110 Stat. 3400.
 
-**REORGANIZATION PLAN NO. 3 OF 1968**
-----------
+#### **REORGANIZATION PLAN NO. 3 OF 1968** ####
 
 #### Eff. June 30, 1968, 33 F.R. 7747, 82 Stat. 1370 ####
 
@@ -6810,8 +6718,7 @@ Lyndon B. Johnson.
 
 The White House, March 13, 1968.
 
-**REORGANIZATION PLAN NO. 4 OF 1968**
-----------
+#### **REORGANIZATION PLAN NO. 4 OF 1968** ####
 
 #### Eff. May 23, 1968, 33 F.R. 7749, 82 Stat. 1371 ####
 
@@ -6865,13 +6772,11 @@ Lyndon B. Johnson.
 
 The White House, March 13, 1968.
 
-**REORGANIZATION PLAN NO. 1 OF 1969**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1969** ####
 
 Reorganization Plan No. 1 of 1969, 34 F.R. 15783, 83 Stat. 859, which transferred all of the executive and administrative functions of the Interstate Commerce Commission to the Chairman of the Commission with respect to the appointment and supervision of personnel, the distribution of business among the administrative units of the Commission, and the use and expenditure of funds, was repealed by Pub. L. 95–473, §4(b), Oct. 17, 1978, 92 Stat. 1466, 1470.
 
-**REORGANIZATION PLAN NO. 1 OF 1970**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1970** ####
 
 #### Eff. Apr. 20, 1970, 35 F.R. 6421, 84 Stat. 2083 ####
 
@@ -6949,8 +6854,7 @@ Richard Nixon.
 
 The White House, February 9, 1970.
 
-**REORGANIZATION PLAN NO. 2 OF 1970**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1970** ####
 
 #### Eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085, as amended Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1085 ####
 
@@ -7134,8 +7038,7 @@ Richard Nixon.
 
 The White House, March 12, 1970.
 
-**REORGANIZATION PLAN NO. 3 OF 1970**
-----------
+#### **REORGANIZATION PLAN NO. 3 OF 1970** ####
 
 #### Eff. Dec. 2, 1970, 35 F.R. 15623, 84 Stat. 2086, as amended Pub. L. 98–80, §2(a)(2), (b)(2), (c)(2)(C), Aug. 23, 1983, 97 Stat. 485, 486 ####
 
@@ -7447,8 +7350,7 @@ Richard Nixon.
 
 The White House, July 9, 1970.
 
-**REORGANIZATION PLAN NO. 4 OF 1970**
-----------
+#### **REORGANIZATION PLAN NO. 4 OF 1970** ####
 
 #### Eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, as amended Pub. L. 94–461, §4(c)(1), Oct. 8, 1976, 90 Stat. 1969; Pub. L. 95–219, §3(a)(1), Dec. 28, 1977, 91 Stat. 1613; Pub. L. 98–498, title III, §320(c)(3), Oct. 19, 1984, 98 Stat. 2309; Pub. L. 99–659, title IV, §407(d), Nov. 14, 1986, 100 Stat. 3739; Pub. L. 112–166, §2(b)(1), Aug. 10, 2012, 126 Stat. 1283 ####
 
@@ -7548,8 +7450,7 @@ Richard Nixon.
 
 The White House, July 9, 1970.
 
-**REORGANIZATION PLAN NO. 1 OF 1971**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1971** ####
 
 #### Eff. July 1, 1971, 36 F.R. 11181, 85 Stat. 819, as amended Pub. L. 93–313, title VI, §601(a), Oct. 1, 1973, 87 Stat. 416 ####
 
@@ -7685,8 +7586,7 @@ Richard Nixon.
 
 The White House, March 24, 1971.
 
-**REORGANIZATION PLAN NO. 1 OF 1973**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1973** ####
 
 #### Eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, as amended Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472 ####
 
@@ -7802,8 +7702,7 @@ Richard Nixon.
 
 The White House, January 26, 1973.
 
-**REORGANIZATION PLAN NO. 2 OF 1973**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1973** ####
 
 #### Eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, as amended Pub. L. 93–253, §1, Mar. 16, 1974, 88 Stat. 50 ####
 
@@ -7975,12 +7874,11 @@ Richard Nixon.
 
 The White House, March 28, 1973.
 
-**REORGANIZATION PLAN NO. 1 OF 1977**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1977** ####
 
 #### 42 F.R. 56101, 91 Stat. 1633, as amended Pub. L. 97–195, §1(c)(5), June 16, 1982, 96 Stat. 115 ####
 
-Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, July 15, 1977,<sup><a href="#REORGANIZATION_PLAN_NO_1_OF_1977_1_target" name="REORGANIZATION_PLAN_NO_1_OF_1977_1">1</a></sup> pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
+Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, July 15, 1977,<sup><a href="#[501_to_505_1_target" name="[501_to_505_1">1</a></sup> pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
 
 #### EXECUTIVE OFFICE OF THE PRESIDENT ####
 
@@ -8274,14 +8172,11 @@ Jimmy Carter.
 
 The White House, July 15, 1977.
 
-[<sup>1</sup> As amended Sept. 15, 1977.](#REORGANIZATION_PLAN_NO_1_OF_1977_1)
-
-**REORGANIZATION PLAN NO. 2 OF 1977**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1977** ####
 
 #### 42 F.R. 62461, 91 Stat. 1636, as amended Pub. L. 101–246, title II, §204(c), Feb. 16, 1990, 104 Stat. 50; Pub. L. 105–277, div. G, subdiv. A, title XIII, §§1334(b), 1336(6), Oct. 21, 1998, 112 Stat. 2681–786, 2681–790; Pub. L. 106–113, div. B, §1000(a)(7) [div. A, title IV, §404(a), (c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, §407(c), Nov. 28, 2001, 115 Stat. 790 ####
 
-Prepared by the President and transmitted to the Senate and House of Representatives in Congress assembled, October 11, 1977,<sup><a href="#REORGANIZATION_PLAN_NO_2_OF_1977_1_target" name="REORGANIZATION_PLAN_NO_2_OF_1977_1">1</a></sup> pursuant to the provisions of chapter 9 of title 5 of the United States Code.<sup><a href="#REORGANIZATION_PLAN_NO_2_OF_1977_2_target" name="REORGANIZATION_PLAN_NO_2_OF_1977_2">2</a></sup>
+Prepared by the President and transmitted to the Senate and House of Representatives in Congress assembled, October 11, 1977,<sup><a href="#[501_to_505_1_target" name="[501_to_505_1">1</a></sup> pursuant to the provisions of chapter 9 of title 5 of the United States Code.<sup><a href="#[501_to_505_2_target" name="[501_to_505_2">2</a></sup>
 
 #### INTERNATIONAL COMMUNICATION AGENCY ####
 
@@ -8465,12 +8360,7 @@ Jimmy Carter.
 
 The White House, October 11, 1977.
 
-[<sup>1</sup> Actually transmitted Oct. 12, 1977.](#REORGANIZATION_PLAN_NO_2_OF_1977_1)
-
-[<sup>2</sup> As amended Nov. 1, 1977, and Nov. 3, 1977.](#REORGANIZATION_PLAN_NO_2_OF_1977_2)
-
-**REORGANIZATION PLAN NO. 1 OF 1978**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1978** ####
 
 #### 43 F.R. 19807, 92 Stat. 3781 ####
 
@@ -8620,12 +8510,11 @@ The White House, February 23, 1978.
 
 Pub. L. 95–454, title IX, §905, Oct. 13, 1978, 92 Stat. 1224, provided that: "Any provision in either Reorganization Plan Numbered 1 [set out above] or 2 [set out below] of 1978 inconsistent with any provision in this Act [see Tables for classification] is hereby superseded."
 
-**REORGANIZATION PLAN NO. 2 OF 1978**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1978** ####
 
 #### 43 F.R. 36037, 92 Stat. 3783 ####
 
-Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, May 23, 1978,<sup><a href="#REORGANIZATION_PLAN_NO_2_OF_1978_1_target" name="REORGANIZATION_PLAN_NO_2_OF_1978_1">1</a></sup> pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
+Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, May 23, 1978,<sup><a href="#[501_to_505_1_target" name="[501_to_505_1">1</a></sup> pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
 
 #### PART I. OFFICE OF PERSONNEL MANAGEMENT ####
 
@@ -8815,10 +8704,7 @@ Jimmy Carter.
 
 The White House, May 23, 1978.
 
-[<sup>1</sup> As amended July 11, 1978.](#REORGANIZATION_PLAN_NO_2_OF_1978_1)
-
-**REORGANIZATION PLAN NO. 3 OF 1978**
-----------
+#### **REORGANIZATION PLAN NO. 3 OF 1978** ####
 
 #### 43 F.R. 41943, 92 Stat. 3788 ####
 
@@ -8946,12 +8832,11 @@ Jimmy Carter.
 
 The White House, June 19, 1978.
 
-**REORGANIZATION PLAN NO. 4 OF 1978**
-----------
+#### **REORGANIZATION PLAN NO. 4 OF 1978** ####
 
 #### 43 F.R. 47713, 92 Stat. 3790, as amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 109–280, title I, §108(c), formerly §107(c), Aug. 17, 2006, 120 Stat. 820, renumbered §108(c), Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297 ####
 
-Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, August 10, 1978, pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.<sup><a href="#REORGANIZATION_PLAN_NO_4_OF_1978_1_target" name="REORGANIZATION_PLAN_NO_4_OF_1978_1">1</a></sup>
+Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, August 10, 1978, pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.<sup><a href="#[501_to_505_1_target" name="[501_to_505_1">1</a></sup>
 
 #### EMPLOYEE RETIREMENT INCOME SECURITY ACT TRANSFERS ####
 
@@ -9065,10 +8950,7 @@ Jimmy Carter.
 
 The White House, August 10, 1978.
 
-[<sup>1</sup> As amended Sept. 20, 1978.](#REORGANIZATION_PLAN_NO_4_OF_1978_1)
-
-**REORGANIZATION PLAN NO. 1 OF 1979**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1979** ####
 
 #### Eff. July 1, 1979, 44 F.R. 33663, 93 Stat. 1373 ####
 
@@ -9166,13 +9048,11 @@ The White House, April 2, 1979.
 
 [The Office of Federal Inspector for the Alaska Natural Gas Transportation System was abolished and all functions and authority vested in the Inspector were transferred to the Secretary of Energy, see section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector of Construction note under section 719e of Title 15, Commerce and Trade. Functions were subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.]
 
-**REORGANIZATION PLAN NO. 2 OF 1979**
-----------
+#### **REORGANIZATION PLAN NO. 2 OF 1979** ####
 
 Reorganization Plan No. 2 of 1979, 44 F.R. 41165, 93 Stat. 1378, which established the United States International Development Cooperation Agency, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIV, §§1401, 1422(a)(1), Oct. 21, 1998, 112 Stat. 2681–790, 2681–792, effective Apr. 1, 1999.
 
-**REORGANIZATION PLAN NO. 3 OF 1979**
-----------
+#### **REORGANIZATION PLAN NO. 3 OF 1979** ####
 
 #### 44 F.R. 69273, 93 Stat. 1381, as amended Pub. L. 97–195, §1(c)(6), June 16, 1982, 96 Stat. 115; Pub. L. 97–377, title I, §122, Dec. 21, 1982, 96 Stat. 1913; Pub. L. 117–328, div. BB, title VI, §604, Dec. 29, 2022, 136 Stat. 5566 ####
 
@@ -9390,12 +9270,11 @@ Jimmy Carter.
 
 The White House, September 25, 1979.
 
-**REORGANIZATION PLAN NO. 1 OF 1980**
-----------
+#### **REORGANIZATION PLAN NO. 1 OF 1980** ####
 
 #### 45 F.R. 40561, 94 Stat. 3585 ####
 
-Prepared by the President and submitted to the Senate and the House of Representatives in Congress assembled March 27, 1980,<sup><a href="#REORGANIZATION_PLAN_NO_1_OF_1980_1_target" name="REORGANIZATION_PLAN_NO_1_OF_1980_1">1</a></sup> pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
+Prepared by the President and submitted to the Senate and the House of Representatives in Congress assembled March 27, 1980,<sup><a href="#[501_to_505_1_target" name="[501_to_505_1">1</a></sup> pursuant to the provisions of Chapter 9 of Title 5 of the United States Code.
 
 #### NUCLEAR REGULATORY COMMISSION ####
 
@@ -9559,4 +9438,18 @@ Jimmy Carter.
 
 The White House, May 5, 1980.
 
-[<sup>1</sup> As amended May 5, 1980.](#REORGANIZATION_PLAN_NO_1_OF_1980_1)
+[<sup>1</sup> So in original. Probably should be "sections 23b and 137e,".](#[501_to_505_1)
+
+[<sup>1</sup> D.C. Code citations in this Reorganization Plan are based on the 1967 edition. See Parallel Reference Tables in D.C. Code for corresponding citations.](#[501_to_505_1)
+
+[<sup>1</sup> As amended Sept. 15, 1977.](#[501_to_505_1)
+
+[<sup>1</sup> Actually transmitted Oct. 12, 1977.](#[501_to_505_1)
+
+[<sup>2</sup> As amended Nov. 1, 1977, and Nov. 3, 1977.](#[501_to_505_2)
+
+[<sup>1</sup> As amended July 11, 1978.](#[501_to_505_1)
+
+[<sup>1</sup> As amended Sept. 20, 1978.](#[501_to_505_1)
+
+[<sup>1</sup> As amended May 5, 1980.](#[501_to_505_1)

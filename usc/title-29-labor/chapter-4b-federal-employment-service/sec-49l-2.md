@@ -286,10 +286,6 @@ Subsec. (e)(2)(G). Pub. L. 105–277, §101(f) [title VIII, §403(a)(1)(B)], and
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
-#### Change of Name ####
-
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date of 2018 Amendment ####
 
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under section 2301 of Title 20, Education.

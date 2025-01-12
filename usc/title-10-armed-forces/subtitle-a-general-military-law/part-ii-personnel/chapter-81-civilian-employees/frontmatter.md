@@ -484,7 +484,7 @@ Pub. L. 115–91, div. A, title V, §549, Dec. 12, 2017, 131 Stat. 1399, as amen
 
 "(1) Report required.—Not later than the date that is three years after the date of the enactment of this Act [Dec. 12, 2017], each Secretary of a military department shall submit to the appropriate congressional committees a report containing an evaluation of the effectiveness of the pilot program conducted by such Secretary under this section, including the number of eligible individuals appointed as civilian employees of the Department of Defense under the program and the retention rate for such employees.
 
-"(2) Appropriate congressional committees defined.—In this section, the term 'appropriate congressional committees' means the Committee on Armed Services and the Committee on Homeland Security and Government Affairs of the Senate and the Committee on Armed Services and the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives."
+"(2) Appropriate congressional committees defined.—In this section, the term 'appropriate congressional committees' means the Committee on Armed Services and the Committee on Homeland Security and Government Affairs of the Senate and the Committee on Armed Services and the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] of the House of Representatives."
 
 #### Direct Hire Authority for the Department of Defense for Personnel To Assist in Business Transformation and Management Innovation ####
 
@@ -518,7 +518,7 @@ Pub. L. 115–91, div. A, title XI, §1101, Dec. 12, 2017, 131 Stat. 1627, provi
 
 "(A) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
-"(B) the Committee on Armed Services and the Committee on Government Oversight and Reform [probably means Committee on Oversight and Government Reform, now Committee on Oversight and Reform] of the House of Representatives.
+"(B) the Committee on Armed Services and the Committee on Government Oversight and Reform [probably means Committee on Oversight and Government Reform, now Committee on Oversight and Accountability] of the House of Representatives.
 
 "(f) Sunset.—
 
@@ -648,7 +648,7 @@ Pub. L. 115–91, div. A, title XI, §1110, Dec. 12, 2017, 131 Stat. 1631, provi
 
 "(A) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate; and
 
-"(B) the Committee on Armed Services and the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives."
+"(B) the Committee on Armed Services and the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] of the House of Representatives."
 
 #### Temporary and Term Appointments in the Competitive Service in the Department of Defense ####
 
@@ -812,7 +812,7 @@ Pub. L. 114–328, div. A, title XI, §1132, Dec. 23, 2016, 130 Stat. 2457, as a
 
 "(2) providing information to the leadership of the Department and Congress on the implementation of the pilot program and related policy issues.
 
-"(g) Briefing.—Not later than 90 days after the end of each of fiscal years 2022 through 2026, the Secretary of Defense shall provide a briefing to the Committee on Armed Services of the House of Representatives, the Committee on Armed Services of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate including—
+"(g) Briefing.—Not later than 90 days after the end of each of fiscal years 2022 through 2026, the Secretary of Defense shall provide a briefing to the Committee on Armed Services of the House of Representatives, the Committee on Armed Services of the Senate, the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate including—
 
 "(1) a description of the effect of this section on the management of civilian personnel at domestic defense industrial base facilities and Major Range and Test Facilities Base during the most recently ended fiscal year; and
 

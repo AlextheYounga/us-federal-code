@@ -28,7 +28,7 @@ Chapter 63 sets forth the scope and procedures for the investigation of marine c
 
 #### Amendments ####
 
-**2022**—Pub. L. 117–263, div. K, title CXVIII, §11807(b), Dec. 23, 2022, 136 Stat. 4165, substituted "Subpoena authority" for "Subpena authority" in item 6304.
+**2022**—Pub. L. 117–263, div. K, title CXVIII, §11807(b), Dec. 23, 2022, 136 Stat. 4165, added item 6304 and struck out former item 6304 "Subpena authority".
 
 **2018**—Pub. L. 115–265, title II, §207(b), Oct. 11, 2018, 132 Stat. 3747, added item 6309.
 

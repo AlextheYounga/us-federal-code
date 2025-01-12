@@ -1094,7 +1094,7 @@ Pub. L. 114–215, July 29, 2016, 130 Stat. 830, provided that:
 
 #### "SEC. 9. ANNUAL AUDIT. ####
 
-"The Inspector General of the Department of the Interior may perform an audit of the Commission, shall make the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+"The Inspector General of the Department of the Interior may perform an audit of the Commission, shall make the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
 #### "SEC. 10. PROHIBITION ON OBLIGATION OF FEDERAL FUNDS. ####
 
@@ -1780,7 +1780,7 @@ Pub. L. 111–25, June 2, 2009, 123 Stat. 1767, as amended by Pub. L. 112–13, 
 
 #### "SEC. 9. ANNUAL AUDIT. ####
 
-"The Inspector General of the Department of the Interior may perform an audit of the Commission, shall make the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
+"The Inspector General of the Department of the Interior may perform an audit of the Commission, shall make the results of any audit performed available to the public, and shall transmit such results to the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate.
 
 #### "SEC. 10. PROHIBITION ON OBLIGATION OF FEDERAL FUNDS. ####
 
@@ -1866,25 +1866,19 @@ Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, 
 
 #### **Executive Documents** ####
 
-#### Proc. No. 10400. Armed Forces Day ####
+#### Proc. No. 10585. Armed Forces Day ####
 
-Proc. No. 10400, May 20, 2022, 87 F.R. 31701, provided:
+Proc. No. 10585, May 19, 2023, 88 F.R. 33529, provided:
 
-On Armed Forces Day, we share our unending appreciation for the proud patriots who answer the call to serve, taking the sacred oath to defend our Constitution. The brave members of our Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, and National Guard and Reserve forces represent the best of our Nation. Today and every day, we honor their immeasurable service on behalf of our grateful Nation.
+On Armed Forces Day, we honor all the members of our Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, and National Guard and Reserve forces. United by a common call to serve, these brave patriots not only comprise the finest fighting force the world has ever known but also represent the very best of our Nation.
 
-On this special day of tribute, we recognize the sacrifices that our service members and their families make on our behalf, and we recommit to our solemn duty to support them as they protect us. Our Nation has a sacred obligation to properly equip and prepare our troops when we send them in to harm's way and to support them—both while they are serving abroad and when they return home—as well as their families, caregivers, and survivors. We must meet this obligation.
+Today, less than 1 percent of Americans currently wear the uniform—stepping up to defend the other 99 percent of our Nation with honor and courage. Through trials and testing as well as dangers and deployments, our service members remain resilient and resolved in their mission. They—and their families, caregivers, and survivors—also shoulder unique burdens, serving and sacrificing for our Nation's core values: freedom, democracy, and liberty. And this year, as we mark the 50th anniversary of our all-volunteer force and the 75th anniversaries of a desegregated military and women's integration, we are reminded that our Armed Forces are stronger and more capable than ever because of the diverse range of skillsets and experiences of our service members.
 
-My Administration's unity agenda focuses on key issues that bring Americans together: supporting our veterans, beating the opioid epidemic, addressing our national mental health crisis, and ending cancer as we know it. Each of these issues impact our military community, and each is essential to meeting our obligation to our troops, their families, caregivers, and survivors. Mental health issues pose a real challenge to our service members and their families, and my Administration will continue to strengthen the tools, resources, and support for our military community so our brave service members, who have answered the call to serve, can thrive. This includes taking bold action to reduce suicide among service members, veterans, and their families.
+On Armed Forces Day, we also renew our sacred obligation to all those who serve: to prepare them when we send them into harm's way and care for them and their families while they are deployed and when they return home. That is exactly what my Administration is doing. I have signed more than 25 bipartisan bills, including the [Honoring our] PACT Act [of 2022, Pub. L. 117–168, see Tables for classification]—the most significant law in our Nation's history to help millions of veterans who were exposed to toxic fumes from burn pits or other toxic substances during their military service—to ensure our service members and veterans and their families, caregivers, and survivors get the support they deserve. We have also expanded access to mental health care for our service members and veterans—a critical step in reducing suicides, which continue to claim far too many lives of our military members. My Administration has also worked to fix the Public Service Loan Forgiveness program—a key step in meeting our commitment to service members and those who have chosen other professions in public service. To date, we have helped over 450,000 borrowers who work in public service, including service members, get nearly $31 billion in student loan forgiveness. And, through the First Lady's Joining Forces initiative, we are helping military spouses find good-paying jobs, ensuring military-connected children are supported in their classrooms, and aiding this community with resources to improve their health and well-being.
 
-The success of our Armed Forces also rests on every member of our military community feeling that their safety and ability to prosper is prioritized as they defend our Nation. That is why my Administration is so focused on addressing the potential adverse consequences related to toxic exposures or exposures to other environmental hazards during deployment or in garrison.
+Our Nation also has an obligation to ensure that every service member—regardless of gender, gender identity, sexual orientation, race, or religious background—feels safe in the ranks and has their contributions fully valued. Within my first month in office, I was proud to rescind the ban on openly transgender people serving in the military because no patriot should be barred from serving their country for being their authentic self. My Administration worked with the Congress to reform how the military investigates and prosecutes sexual assault, sexual harassment, domestic violence, and other related crimes, including by shifting authority from commanders to independent prosecutors. Working with leaders across the Department of Defense, I will continue to ensure that a culture of decency and respect always prevails within our ranks—including speaking out and standing up against harassment, abuse, and hate in all its forms.
 
-Safety for our troops also means addressing the scourge of sexual harassment and sexual assault in our military. We have already taken important steps. In December, I was proud to sign into law historic military justice reforms as part of the 2022 National Defense Authorization Act [Pub. L. 117–81]. The Department of Defense is working to implement these critical changes, alongside recommendations from the Independent Review Commission on Sexual Assault in the Military for prevention, climate and culture, and victim care and support. Much work still lies ahead to deliver the progress that our troops deserve, and this will remain a top priority for my Administration.
-
-Our diversity is one of our greatest strengths as a Nation, and we will continue to strive for our Armed Forces to reflect society at every level within its ranks. Ensuring equal opportunity and greater inclusivity will bolster the strength of our military and make sure every American knows they can succeed and thrive as a member of the United States Armed Forces. We are renewing our efforts to address the recruitment, retention, and well-being of women in the military as well as providing a path to service for other under-represented groups.
-
-As we look around the world today, we are reminded again that freedom comes at great cost. Throughout our history, brave Americans have always stepped forward to defend our liberties—willing to pay the price to keep our country safe. Our Nation's Armed Forces are the best in the world. And we know that it is not only the person who wears our Nation's uniform that serves. Their loved ones serve as well. Today, we also honor the families, caregivers, and survivors of our Armed Forces—all those who sacrifice on our behalf and who give their all to support the service members they stand behind.
-
-On Armed Forces Day, we salute our brave service members, whose dedication and sacrifice ensure that our Nation's Armed Forces are unmatched in strength, unity, and resilience. They are the greatest fighting force the world has ever known.
+Throughout our history, America's Armed Forces have been sentinels of liberty and defenders of dignity. By keeping the flame of freedom burning bright, they have made our Nation stronger and the world safer. So today, let us all join together in honoring their courage, sacrifice, and service.
 
 NOW, THEREFORE, I, JOSEPH R. BIDEN JR., President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
 
@@ -1892,19 +1886,21 @@ I direct the Secretary of Defense, on behalf of the Army, Navy, Air Force, Marin
 
 Finally, I call upon all Americans to display the flag of the United States at their homes and businesses on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day.
 
-Proclamation 10210 of May 14, 2021, is hereby superseded.
+Proclamation 10400 of May 20, 2022, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this twentieth day of May, in the year of our Lord two thousand twenty-two, and of the Independence of the United States of America the two hundred and forty-sixth.
+IN WITNESS WHEREOF, I have hereunto set my hand this nineteenth day of May, in the year of our Lord two thousand twenty-three, and of the Independence of the United States of America the two hundred and forty-seventh.
 
 J.R. Biden, Jr.
 
 Prior similar proclamations were contained in the following:
 
-Proc. No. 10210, May 14, 2021, 86 F.R. 27017, superseded by Proc. No. 10400, May 20, 2022, 87 F.R. 31702.
+Proc. No. 10400, May 20, 2022, 87 F.R. 31701, superseded by Proc. No. 10585, May 19, 2023, 88 F.R. 33529.
+
+Proc. No. 10210, May 14, 2021, 86 F.R. 27017, superseded by Proc. No. 10400, May 20, 2022, 87 F.R. 31701.
 
 Proc. No. 10034, May 15, 2020, 85 F.R. 30585, superseded by Proc. No. 10210, May 14, 2021, 86 F.R. 27017.
 
-Proc. No. 9892, May 17, 2019, 84 F.R. 23701, superseded by Proc. No. 10034, May 15, 2020, 85 F.R. 30586.
+Proc. No. 9892, May 17, 2019, 84 F.R. 23701, superseded by Proc. No. 10034, May 15, 2020, 85 F.R. 30585.
 
 Proc. No. 9753, May 18, 2018, 83 F.R. 24215, superseded by Proc. No. 9892, May 17, 2019, 84 F.R. 23701.
 

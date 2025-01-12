@@ -361,7 +361,7 @@ Pub. L. 117–263, div. E, title LIX, subtitle D, Dec. 23, 2022, 136 Stat. 3458,
 
 "(C) The United States Tax Court is authorized to perform such functions and support for the Federal judges described in subparagraphs (H) and (I) of section 5933(4).
 
-"(3) Technical and conforming amendment.—[Amended section 604 of Title 28, Judiciary and Judicial Procedure.]
+"(3) Technical and conforming amendment.—[Amended section 604 of this title.]
 
 "(b) Expansion of Capabilities of Office of Protective Intelligence.—
 

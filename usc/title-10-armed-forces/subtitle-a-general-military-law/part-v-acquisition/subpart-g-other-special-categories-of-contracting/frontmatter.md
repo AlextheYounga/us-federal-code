@@ -441,7 +441,7 @@ Pub. L. 110–181, div. A, title VIII, subtitle F, Jan. 28, 2008, 122 Stat. 253,
 
 "(A) The Committees on Armed Services of the Senate and the House of Representatives.
 
-"(B) The Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives.
+"(B) The Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] of the House of Representatives.
 
 "(C) The Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 

@@ -14,7 +14,7 @@ Sec.
 
 #### Access to Congressionally Mandated Reports ####
 
-Pub. L. 117–263, div. G, title LXXII, subtitle D, , Dec. 23, 2022, 136 Stat. 3677, provided that:
+Pub. L. 117–263, div. G, title LXXII, subtitle D, Dec. 23, 2022, 136 Stat. 3677, provided that:
 
 #### "SEC. 7241. SHORT TITLE. ####
 

@@ -2,19 +2,19 @@
 
 Sec.
 
-3001. Findings and purposes.
+3001. Purposes.
 
 3002. Definitions.
 
-3003. State grants for assistive technology.
+3003. Grants for State assistive technology programs.
 
-3004. State grants for protection and advocacy services related to assistive technology.
+3004. Grants for protection and advocacy services related to assistive technology.
 
-3005. National activities.
+3005. Technical assistance and data collection support.
 
-3006. Administrative provisions.
+3006. Projects of national significance.
 
-3007. Authorization of appropriations.
+3007. Administrative provisions.
 
 3008. Authorization of appropriations; reservations and distribution of funds.
 
