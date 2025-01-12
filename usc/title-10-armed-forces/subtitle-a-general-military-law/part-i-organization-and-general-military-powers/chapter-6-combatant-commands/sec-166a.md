@@ -96,7 +96,7 @@ Pub. L. 102–396, §9128(c), inserted before period at end "(c) Priority.—The
 
 "(2) the provision of funds to be used for activities with respect to an area or areas not within the area of responsibility of a commander of a combatant command that would reduce the threat to, or otherwise increase, the national security of the United States."
 
-Subsec. (e)(1)(C). Pub. L. 102–484, §934(d), amended subpar. (C) generally. Prior to amendment, subsec. (C) read as follows: "not more than $5,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7)."
+Subsec. (e)(1)(C). Pub. L. 102–484, §934(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "not more than $5,000,000 may be used to provide military education and training (including transportation, translation, and administrative expenses) to military and related civilian personnel of foreign countries as authorized by subsection (b)(7)."
 
 Pub. L. 102–396, §9128(d), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "not more than $500,000 may be used to provide military education and training to military and related civilian personnel of foreign countries as authorized by subsection (b)(7)."
 

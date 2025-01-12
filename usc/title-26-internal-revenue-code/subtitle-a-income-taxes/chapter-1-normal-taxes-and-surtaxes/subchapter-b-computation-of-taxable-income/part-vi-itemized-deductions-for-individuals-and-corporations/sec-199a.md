@@ -258,7 +258,7 @@ The term "qualified cooperative dividend" means any patronage dividend (as defin
 
 The term "qualified publicly traded partnership income" means, with respect to any qualified trade or business of a taxpayer, the sum of—
 
-(A) the net amount of such taxpayer's allocable share of each qualified item of income, gain, deduction, and loss (as defined in subsection (c)(3) and determined after the application of subsection (c)(4)) from a publicly traded partnership (as defined in section 7704(a) <sup><a href="#199A_1_target" name="199A_1">1</a></sup>) which is not treated as a corporation under section 7704(c), plus
+(A) the net amount of such taxpayer's allocable share of each qualified item of income, gain, deduction, and loss (as defined in subsection (c)(3) and determined after the application of subsection (c)(4)) from a publicly traded partnership (as defined in section 7704(a)) <sup><a href="#199A_1_target" name="199A_1">1</a></sup> which is not treated as a corporation under section 7704(c), plus
 
 (B) any gain recognized by such taxpayer upon disposition of its interest in such partnership to the extent such gain is treated as an amount realized from the sale or exchange of property other than a capital asset under section 751(a).
 
@@ -358,8 +358,10 @@ This section shall not apply to taxable years beginning after December 31, 2025.
 
 The enactment of subchapter T, referred to in subsec. (e)(4)(B)(ii), means the enactment of subchapter T (§1381 et seq.) of chapter 1 of this title, which was added by Pub. L. 87–834, §17(a), Oct. 16, 1962, 76 Stat. 1045.
 
+Section 199(d)(1)(B)(i) (as in effect on December 1, 2017), referred to in subsec. (f)(1)(B), means section 199(d)(1)(B)(i) of this title prior to repeal of section 199 by Pub. L. 115–97, title I, §13305(a), Dec. 22, 2017, 131 Stat. 2126.
+
 #### Effective Date ####
 
 Section applicable to taxable years beginning after Dec. 31, 2017, see section 11011(e) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under section 62 of this title.
 
-[<sup>1</sup> So in original. Probably should be "7704(b)".](#199A_1)
+[<sup>1</sup> So in original. Probably should be "7704(b))".](#199A_1)

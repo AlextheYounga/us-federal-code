@@ -118,13 +118,29 @@ Notwithstanding subsection (e)(2)(A) and section 1315(a) of this title:
 
 (2) The Secretary may not approve, extend, renew, or amend a waiver, experimental, pilot, or demonstration project with respect to a State after February 4, 2009, that would waive or modify the requirements of section 1397kk of this title.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565; amended Pub. L. 106–554, §1(a)(6) [title VIII, §803], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 109–171, title VI, §6102(a), Feb. 8, 2006, 120 Stat. 131; Pub. L. 111–3, title I, §112(a)(2)(A), title II, §§203(a)(2), (d)(2), 214(b), title V, §§501(d)(2), 503(a)(1), Feb. 4, 2009, 123 Stat. 33, 46, 49, 57, 87, 89; Pub. L. 111–5, div. B, title V, §5006(b)(2), (d)(2), (e)(2)(B), Feb. 17, 2009, 123 Stat. 506, 510; Pub. L. 111–148, title II, §2101(d)(2), (e), title VI, §6401(c), Mar. 23, 2010, 124 Stat. 287, 753; Pub. L. 111–152, title I, §1004(b)(2)(B), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 111–309, title II, §205(f)(2), Dec. 15, 2010, 124 Stat. 3291; Pub. L. 114–255, div. A, title V, §5005(c)(1), Dec. 13, 2016, 130 Stat. 1194.)
+#### (g) Use of blended risk pools ####
+
+#### (1) In general ####
+
+Nothing in this subchapter (or any other provision of Federal law) shall be construed as preventing a State from considering children enrolled in a qualified CHIP look-alike program and children enrolled in a State child health plan under this subchapter (or a waiver of such plan) as members of a single risk pool.
+
+#### (2) Qualified CHIP look-alike program ####
+
+In this subsection, the term "qualified CHIP look-alike program" means a State program—
+
+(A) under which children who are under the age of 19 and are not eligible to receive medical assistance under subchapter XIX or child health assistance under this subchapter may purchase coverage through the State that provides benefits that are at least identical to the benefits provided under the State child health plan under this subchapter (or a waiver of such plan); and
+
+(B) that is funded exclusively through non-Federal funds, including funds received by the State in the form of premiums for the purchase of such coverage.
+
+(Aug. 14, 1935, ch. 531, title XXI, §2107, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 565; amended Pub. L. 106–554, §1(a)(6) [title VIII, §803], Dec. 21, 2000, 114 Stat. 2763, 2763A–582; Pub. L. 109–171, title VI, §6102(a), Feb. 8, 2006, 120 Stat. 131; Pub. L. 111–3, title I, §112(a)(2)(A), title II, §§203(a)(2), (d)(2), 214(b), title V, §§501(d)(2), 503(a)(1), Feb. 4, 2009, 123 Stat. 33, 46, 49, 57, 87, 89; Pub. L. 111–5, div. B, title V, §5006(b)(2), (d)(2), (e)(2)(B), Feb. 17, 2009, 123 Stat. 506, 510; Pub. L. 111–148, title II, §2101(d)(2), (e), title VI, §6401(c), Mar. 23, 2010, 124 Stat. 287, 753; Pub. L. 111–152, title I, §1004(b)(2)(B), Mar. 30, 2010, 124 Stat. 1034; Pub. L. 111–309, title II, §205(f)(2), Dec. 15, 2010, 124 Stat. 3291; Pub. L. 114–255, div. A, title V, §5005(c)(1), Dec. 13, 2016, 130 Stat. 1194; Pub. L. 115–120, div. C, §3002(g)(1), Jan. 22, 2018, 132 Stat. 35.)
 
 #### Codification ####
 
 Amendment by section 501(d)(2) of Pub. L. 111–3 executed after amendment by section 214(b) of Pub. L. 111–3 to reflect the probable intent of Congress, notwithstanding section 501(d)(3) of Pub. L. 111–3, set out as an Effective Date of 2009 Amendment note under section 1396a of this title.
 
 #### Amendments ####
+
+**2018**—Subsec. (g). Pub. L. 115–120 added subsec. (g).
 
 **2016**—Subsec. (e)(1)(B) to (R). Pub. L. 114–255 added subpars. (B), (C), and (L), redesignated former subpars. (B) to (I) as (D) to (K) and (J) to (O) as (M) to (R), respectively, and in subpar. (P), as so redesignated, substituted "(a)(2)(C) (relating to Indian enrollment), (d)(5) (relating to contract requirement for managed care entities), (d)(6) (relating to enrollment of providers participating with a managed care entity), and (h) (relating to special rules with respect to Indian enrollees, Indian health care providers, and Indian managed care entities)" for "(a)(2)(C) and (h)".
 

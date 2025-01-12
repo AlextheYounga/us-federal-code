@@ -106,11 +106,11 @@ Not less than 2 reports submitted each year under paragraph (1)(B) shall include
 
 #### (f) Informing the public ####
 
-The Board shall—
+The Board—
 
-(1) make its reports, including its reports to Congress, available to the public to the greatest extent that is consistent with the protection of classified information and applicable law; and
+(1) shall make its reports, including its reports to Congress, available to the public to the greatest extent that is consistent with the protection of classified information and applicable law; and
 
-(2) hold public hearings and otherwise inform the public of its activities, as appropriate and in a manner consistent with the protection of classified information and applicable law.
+(2) shall hold public hearings and otherwise inform the public of its activities, as appropriate and in a manner consistent with the protection of classified information and applicable law, but may, notwithstanding section 552b of title 5, meet or otherwise communicate in any number to confer or deliberate in a manner that is closed to the public.
 
 #### (g) Access to information ####
 
@@ -204,11 +204,15 @@ Members of the Board shall be allowed travel expenses, including per diem in lie
 
 The chairman of the Board, in accordance with rules agreed upon by the Board, shall appoint and fix the compensation of a full-time executive director and such other personnel as may be necessary to enable the Board to carry out its functions, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable for a position at level V of the Executive Schedule under section 5316 of title 5.
 
-#### (2) Detailees ####
+#### (2) Appointment in absence of chairman ####
+
+If the position of chairman of the Board is vacant, during the period of the vacancy, the Board, at the direction of the unanimous vote of the serving members of the Board, may exercise the authority of the chairman under paragraph (1).
+
+#### (3) Detailees ####
 
 Any Federal employee may be detailed to the Board without reimbursement from the Board, and such detailee shall retain the rights, status, and privileges of the detailee's regular employment without interruption.
 
-#### (3) Consultant services ####
+#### (4) Consultant services ####
 
 The Board may procure the temporary or intermittent services of experts and consultants in accordance with section 3109 of title 5, at rates that do not exceed the daily rate paid a person occupying a position at level IV of the Executive Schedule under section 5315 of such title.
 
@@ -244,7 +248,7 @@ There are authorized to be appropriated to carry out this section amounts as fol
 
 (5) For fiscal year 2012 and each subsequent fiscal year, such sums as may be necessary.
 
-(Pub. L. 108–458, title I, §1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, §801(a), Aug. 3, 2007, 121 Stat. 352; Pub. L. 114–113, div. M, title III, §305, Dec. 18, 2015, 129 Stat. 2913.)
+(Pub. L. 108–458, title I, §1061, Dec. 17, 2004, 118 Stat. 3684; Pub. L. 110–53, title VIII, §801(a), Aug. 3, 2007, 121 Stat. 352; Pub. L. 114–113, div. M, title III, §305, Dec. 18, 2015, 129 Stat. 2913; Pub. L. 115–118, title I, §108, Jan. 19, 2018, 132 Stat. 15.)
 
 #### References in Text ####
 
@@ -257,6 +261,14 @@ Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (l)(2
 Section was formerly set out as a note under section 601 of Title 5, Government Organization and Employees.
 
 #### Amendments ####
+
+**2018**—Subsec. (f). Pub. L. 115–118, §108(b)(1), substituted "The Board" for "The Board shall" in introductory provisions.
+
+Subsec. (f)(1). Pub. L. 115–118, §108(b)(2), substituted "shall make its" for "make its".
+
+Subsec. (f)(2). Pub. L. 115–118, §108(b)(3), substituted "shall hold public" for "hold public" and inserted before period at end ", but may, notwithstanding section 552b of title 5, meet or otherwise communicate in any number to confer or deliberate in a manner that is closed to the public".
+
+Subsec. (j)(2) to (4). Pub. L. 115–118, §108(a), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 **2015**—Subsec. (g)(5). Pub. L. 114–113 added par. (5).
 
