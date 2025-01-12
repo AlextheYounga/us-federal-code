@@ -4,6 +4,8 @@ There are authorized to be appropriated, out of any moneys in the Treasury not o
 
 (July 22, 1954, ch. 559, §4, 68 Stat. 517.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was not enacted as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.

@@ -72,9 +72,13 @@ The Advisory Committee shall make and maintain a transcript of any proceeding of
 
 (June 25, 1938, ch. 675, §917, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1824.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(3), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Modification of Deadlines for Secretarial Action ####
 

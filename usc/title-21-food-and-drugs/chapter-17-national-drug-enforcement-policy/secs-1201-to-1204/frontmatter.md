@@ -8,6 +8,8 @@ Section 1203, Pub. L. 98–473, title II, §1304, Oct. 12, 1984, 98 Stat. 2169, 
 
 Section 1204, Pub. L. 98–473, title II, §1305, Oct. 12, 1984, 98 Stat. 2170, related to reports to Congress.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 100–690, title I, §1007(a)(3), Nov. 18, 1988, 102 Stat. 4187, provided that the repeal of this chapter is effective on 30th day after first Director of National Drug Control Policy is confirmed by the Senate.
@@ -15,6 +17,8 @@ Pub. L. 100–690, title I, §1007(a)(3), Nov. 18, 1988, 102 Stat. 4187, provide
 #### Short Title ####
 
 Pub. L. 98–473, title II, §1301, Oct. 12, 1984, 98 Stat. 2168, which provided that chapter XIII (§§1301 to 1307) of title II of Pub. L. 98–473 was to be cited as the National Narcotics Act of 1984, was repealed by Pub. L. 100–690, title I, §1007(a)(3), Nov. 18, 1988, 102 Stat. 4187.
+
+#### **Executive Documents** ####
 
 #### Executive Order No. 12590 ####
 

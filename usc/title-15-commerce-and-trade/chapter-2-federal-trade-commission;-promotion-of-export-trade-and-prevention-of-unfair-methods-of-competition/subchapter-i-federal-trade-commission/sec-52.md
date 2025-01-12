@@ -21,3 +21,29 @@ The dissemination or the causing to be disseminated of any false advertisement w
 **1975**—Subsec. (a). Pub. L. 93–637 substituted "in or having an effect upon commerce," for "in commerce".
 
 Subsec. (b). Pub. L. 93–637 substituted "in or affecting commerce" for "in commerce".
+
+#### Information About Scams Related to COVID–19 ####
+
+Pub. L. 116–287, §2, Jan. 5, 2021, 134 Stat. 4882, provided that:
+
+"(a) Dissemination of Information.—
+
+"(1) In general.—As expeditiously as possible after the date of the enactment of this Act [Jan. 5, 2021], the Commission, in consultation with the Attorney General, the Secretary of Health and Human Services, the Postmaster General, the Chief Postal Inspector, and the Internet Crime Complaint Center, shall develop and disseminate information to the public about scams related to the novel coronavirus (COVID–19).
+
+"(2) Requirements.—In carrying out paragraph (1), the Commission shall—
+
+"(A) include—
+
+"(i) information regarding mail, telemarketing, and internet fraud and illegal robocalls related to COVID–19 that identifies the most common scams; and
+
+"(ii) information regarding where and how to report instances of scams related to COVID–19, including instructions on how to file a complaint with the appropriate law enforcement agency;
+
+"(B) disseminate information under such paragraph in a manner that prioritizes, and that is easily accessible by and user-friendly to, senior citizens and people with infirmities and disabilities;
+
+"(C) disseminate information under such paragraph on an internet website of the Commission that serves as a source of information for the public about scams related to COVID–19; and
+
+"(D) regularly update the information developed and disseminated under such paragraph to keep pace with the changing nature of scams related to COVID–19.
+
+"(b) Database.—As expeditiously as possible after the date of the enactment of this Act, the Commission shall, in consultation with State law enforcement agencies, the Director of the Bureau of Consumer Financial Protection, the Attorney General, the Secretary of Health and Human Services, and other relevant Federal officials, establish a comprehensive national database, either within or separate from the Consumer Sentinel Network, that tracks instances of scams related to COVID–19.
+
+"(c) Commission Defined.—In this section, the term 'Commission' means the Federal Trade Commission."

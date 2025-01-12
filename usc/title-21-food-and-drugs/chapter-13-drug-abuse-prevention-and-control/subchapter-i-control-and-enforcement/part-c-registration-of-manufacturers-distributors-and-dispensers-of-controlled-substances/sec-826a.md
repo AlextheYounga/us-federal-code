@@ -10,6 +10,8 @@ Not later than 6 months after July 9, 2012, and annually thereafter, the Attorne
 
 (Pub. L. 112–144, title X, §1006, July 9, 2012, 126 Stat. 1105.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 1005 of this Act, referred to in par. (1), means section 1005 of Pub. L. 112–144, which amended section 826 of this title.
@@ -17,6 +19,8 @@ Section 1005 of this Act, referred to in par. (1), means section 1005 of Pub. L.
 #### Codification ####
 
 Section was enacted as part of the Food and Drug Administration Safety and Innovation Act, and not as part of the Controlled Substances Act which comprises this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definition of "Secretary" ####
 

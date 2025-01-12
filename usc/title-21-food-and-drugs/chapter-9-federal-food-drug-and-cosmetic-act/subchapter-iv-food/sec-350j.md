@@ -110,9 +110,13 @@ For purposes of this section, the term "facility" means a domestic facility or a
 
 (June 25, 1938, ch. 675, §421, as added Pub. L. 111–353, title II, §201(a), Jan. 4, 2011, 124 Stat. 3923.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 203 of the Food Allergen Labeling and Consumer Protection Act of 2004, referred to in subsec. (c)(2)(E), is section 203 of Pub. L. 108–282, Aug. 2, 2004, 118 Stat. 906, which amended sections 321, 343, and 343–1 of this title and enacted provisions set out as notes under sections 321 and 343 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Construction ####
 

@@ -14,6 +14,8 @@ Notwithstanding any other provision of law, food shall be refused admission into
 
 (June 25, 1938, ch. 675, §807, as added Pub. L. 111–353, title III, §306(a), Jan. 4, 2011, 124 Stat. 3958.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Construction ####
 
 Nothing in this section to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.

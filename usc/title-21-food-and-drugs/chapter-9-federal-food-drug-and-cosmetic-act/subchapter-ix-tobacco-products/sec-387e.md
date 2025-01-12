@@ -104,6 +104,8 @@ Not later than 15 months after June 22, 2009, the Secretary shall issue regulati
 
 (June 25, 1938, ch. 675, §905, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1792.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (b), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables.
@@ -111,6 +113,8 @@ The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (b
 #### Prior Provisions ####
 
 A prior section 905 of act June 25, 1938, was renumbered section 1005 and is classified to section 395 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Modification of Deadlines for Secretarial Action ####
 

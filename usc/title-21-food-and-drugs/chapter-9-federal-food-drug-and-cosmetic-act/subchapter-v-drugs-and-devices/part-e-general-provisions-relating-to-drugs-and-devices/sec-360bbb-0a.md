@@ -70,9 +70,13 @@ The Secretary shall post an annual summary report of the use of this section on 
 
 (June 25, 1938, ch. 675, §561B, as added Pub. L. 115–176, §2(a), May 30, 2018, 132 Stat. 1372.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Public Health Service Act, referred to in subsec. (c)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Limitation of Liability ####
 

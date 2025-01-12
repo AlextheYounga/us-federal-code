@@ -42,6 +42,8 @@ The remedy provided by this subsection shall be in addition to remedies provided
 
 (June 25, 1938, ch. 675, §908, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1804.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 908 of act June 25, 1938, was renumbered section 1008 and is classified to section 398 of this title.

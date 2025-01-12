@@ -18,6 +18,8 @@ It shall be the duty of every manufacturer offering an electronic product for im
 
 (June 25, 1938, ch. 675, §536, formerly act July 1, 1944, ch. 373, title III, §536, formerly §360, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1181; renumbered §536 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(D), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was classified to section 263h of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
@@ -33,6 +35,8 @@ Section was classified to section 263h of Title 42, The Public Health and Welfar
 Subsec. (b). Pub. L. 101–629, §19(a)(2)(D), substituted "section 360kk" for "section 263f".
 
 Subsec. (d). Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this subpart" in two places.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Noninterference With Other Federal Agencies ####
 

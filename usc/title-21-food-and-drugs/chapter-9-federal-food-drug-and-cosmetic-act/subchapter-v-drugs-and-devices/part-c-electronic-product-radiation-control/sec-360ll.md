@@ -42,6 +42,8 @@ This section shall not apply to any electronic product that was manufactured bef
 
 (June 25, 1938, ch. 675, §535, formerly act July 1, 1944, ch. 373, title III, §535, formerly §359, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1180; renumbered §535 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(C), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was classified to section 263g of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
@@ -57,6 +59,8 @@ Subsec. (d). Pub. L. 101–629, §19(a)(1)(B), (2)(C)(ii), substituted "section 
 Subsec. (e). Pub. L. 101–629, §19(a)(1)(B), (2)(C), substituted "this part" for "this subpart" and "section 360nn" for "section 263i" in introductory provisions and "section 360kk" for "section 263f" in par. (1) and concluding provisions.
 
 Subsec. (f). Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this subpart" in two places.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Noninterference With Other Federal Agencies ####
 

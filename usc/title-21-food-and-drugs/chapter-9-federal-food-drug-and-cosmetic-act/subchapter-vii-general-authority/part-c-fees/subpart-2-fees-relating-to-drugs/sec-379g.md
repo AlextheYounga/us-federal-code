@@ -78,6 +78,8 @@ Such term does not include whole blood or a blood component for transfusion, doe
 
 For termination of section by section 104(a) of Pub. L. 115–52, see Termination Date note below.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Par. (1)(B). Pub. L. 112–144, §407, struck out "or (k)" after "subsection (a)".
@@ -141,6 +143,8 @@ Par. (8)(A). Pub. L. 105–115, §102(6)(A), substituted "April of the preceding
 Par. (8)(B). Pub. L. 105–115, §102(6)(B), substituted "section 254(c)" for "section 254(d)", "fiscal year 1997" for "fiscal year 1992", and "105th Congress, 1st Session" for "102d Congress, 2d Session".
 
 Par. (9). Pub. L. 105–115, §102(7), added par. (9).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

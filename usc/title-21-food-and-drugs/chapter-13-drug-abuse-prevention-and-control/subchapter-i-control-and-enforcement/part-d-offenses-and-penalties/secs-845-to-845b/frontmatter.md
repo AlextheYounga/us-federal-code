@@ -1,5 +1,7 @@
 ### §§845 to 845b. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 845, Pub. L. 91–513, title II, §405, Oct. 27, 1970, 84 Stat. 1265, as amended, which related to distribution of controlled substances to persons under age twenty-one, was renumbered §418 of Pub. L. 91–513 by Pub. L. 101–647, title X, §1002(a)(1), Nov. 29, 1990, 104 Stat. 4827, and transferred to section 859 of this title.

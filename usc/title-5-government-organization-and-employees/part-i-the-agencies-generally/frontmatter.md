@@ -17,6 +17,8 @@ Chap. Sec.
 
 9. Executive Reorganization 901
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–121, title II, §253, Mar. 29, 1996, 110 Stat. 874, added item for chapter 8.

@@ -56,6 +56,8 @@ For purposes of this section, the term "patient experience data" includes data t
 
 (June 25, 1938, ch. 675, §569C, as added Pub. L. 112–144, title XI, §1137, July 9, 2012, 126 Stat. 1124; amended Pub. L. 114–255, div. A, title III, §3001, Dec. 13, 2016, 130 Stat. 1083; Pub. L. 115–52, title VI, §605, Aug. 18, 2017, 131 Stat. 1048.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (a)(4), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title.
@@ -69,6 +71,8 @@ Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to
 Subsecs. (b), (c). Pub. L. 114–255, §3001(3), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated pars. (2) and (3), respectively, of subsec. (a).
 
 Subsecs. (d), (e). Pub. L. 114–255, §3001(2), redesignated subsecs. (d) and (e) as pars. (4) and (5), respectively, of subsec. (a).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Patient-Focused Drug Development Guidance ####
 

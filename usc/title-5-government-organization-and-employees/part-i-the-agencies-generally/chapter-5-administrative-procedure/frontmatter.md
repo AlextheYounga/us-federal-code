@@ -106,6 +106,8 @@ Sec.
 
 596. Authorization of appropriations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–401, §2(b)(2), Oct. 30, 2004, 118 Stat. 2255, substituted "Purposes" for "Purpose" in item 591.

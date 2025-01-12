@@ -14,6 +14,8 @@ If the Secretary does not provide the statement within the 60-day period describ
 
 (June 25, 1938, ch. 675, §563, as added Pub. L. 105–115, title IV, §416, Nov. 21, 1997, 111 Stat. 2378.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as an Effective Date of 1997 Amendment note under section 321 of this title.

@@ -428,6 +428,8 @@ that any information provided by such applicants, recipients, holders, and indiv
 
 (Added Pub. L. 93–579, §3, Dec. 31, 1974, 88 Stat. 1897; amended Pub. L. 94–183, §2(2), Dec. 31, 1975, 89 Stat. 1057; Pub. L. 97–365, §2, Oct. 25, 1982, 96 Stat. 1749; Pub. L. 97–375, title II, §201(a), (b), Dec. 21, 1982, 96 Stat. 1821; Pub. L. 97–452, §2(a)(1), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 98–477, §2(c), Oct. 15, 1984, 98 Stat. 2211; Pub. L. 98–497, title I, §107(g), Oct. 19, 1984, 98 Stat. 2292; Pub. L. 100–503, §§2–6(a), 7, 8, Oct. 18, 1988, 102 Stat. 2507–2514; Pub. L. 101–508, title VII, §7201(b)(1), Nov. 5, 1990, 104 Stat. 1388–334; Pub. L. 103–66, title XIII, §13581(c), Aug. 10, 1993, 107 Stat. 611; Pub. L. 104–193, title I, §110(w), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 104–226, §1(b)(3), Oct. 2, 1996, 110 Stat. 3033; Pub. L. 104–316, title I, §115(g)(2)(B), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–34, title X, §1026(b)(2), Aug. 5, 1997, 111 Stat. 925; Pub. L. 105–362, title XIII, §1301(d), Nov. 10, 1998, 112 Stat. 3293; Pub. L. 106–170, title IV, §402(a)(2), Dec. 17, 1999, 113 Stat. 1908; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 111–148, title VI, §6402(b)(2), Mar. 23, 2010, 124 Stat. 756; Pub. L. 111–203, title X, §1082, July 21, 2010, 124 Stat. 2080; Pub. L. 113–295, div. B, title I, §102(d), Dec. 19, 2014, 128 Stat. 4062.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 552(e) of this title, referred to in subsec. (a)(1), was redesignated section 552(f) of this title by section 1802(b) of Pub. L. 99–570.
@@ -517,6 +519,8 @@ Subsec. (m). Pub. L. 97–365, §2(b), designated existing provisions as par. (1
 Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records, and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of this section during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
 
 **1975**—Subsec. (g)(5). Pub. L. 94–183 substituted "to September 27, 1975" for "to the effective date of this section".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 
@@ -797,6 +801,8 @@ Pub. L. 93–579, §7, Dec. 31, 1974, 88 Stat. 1909, provided that:
 #### Authorization of Appropriations to Privacy Protection Study Commission ####
 
 Pub. L. 93–579, §9, Dec. 31, 1974, 88 Stat. 1910, as amended by Pub. L. 94–394, Sept. 3, 1976, 90 Stat. 1198, authorized appropriations for the period beginning July 1, 1975, and ending on September 30, 1977.
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 9397. Numbering System for Federal Accounts Relating to Individual Persons ####
 

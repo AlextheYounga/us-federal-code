@@ -8,6 +8,10 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2021 Amendment ####
+
+Pub. L. 116–309, §1, Jan. 5, 2021, 134 Stat. 4922, provided that: "This Act [enacting section 41312 of Title 34, Crime Control and Law Enforcement, amending section 116 of this title, and enacting provisions set out as notes under section 116 of this title] may be cited as the 'Strengthening the Opposition to Female Genital Mutilation Act of 2020' or the 'STOP FGM Act of 2020'."
+
 #### Short Title of 2020 Amendment ####
 
 Pub. L. 116–249, §1, Dec. 22, 2020, 134 Stat. 1126, provided that: "This Act [enacting section 2261B of this title and amending section 2261A of this title] may be cited as the 'Combat Online Predators Act'."

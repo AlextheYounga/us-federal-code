@@ -16,6 +16,8 @@ Section 1547, Pub. L. 100–690, title I, §1047, as added Pub. L. 105–20, §2
 
 Section 1548, Pub. L. 100–690, title I, §1048, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 234; amended Pub. L. 107–82, §3, Dec. 14, 2001, 115 Stat. 820, terminated the Commission at the end of fiscal year 2007.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2019 Amendment ####
 
 Amendment by Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out a note under section 1522 of this title.

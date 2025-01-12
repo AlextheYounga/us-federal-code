@@ -20,6 +20,8 @@ Sec.
 
 5134. Interagency task force.
 
+5135. Grants to entities for establishment of hazard mitigation revolving loan funds.
+
 #### SUBCHAPTER III—MAJOR DISASTER AND EMERGENCY ASSISTANCE ADMINISTRATION ####
 
 5141. Waiver of administrative conditions.

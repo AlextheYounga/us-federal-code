@@ -256,6 +256,8 @@ Payment of the fee under section 379j–62 of this title, as described in subsec
 
 (June 25, 1938, ch. 675, §503B, as added Pub. L. 113–54, title I, §102(a)(2), Nov. 27, 2013, 127 Stat. 588.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 503B of act June 25, 1938, ch. 675, was renumbered section 503C by Pub. L. 113–54, §102(a)(1), Nov. 27, 2013, 127 Stat. 587, and transferred to section 353c of this title.

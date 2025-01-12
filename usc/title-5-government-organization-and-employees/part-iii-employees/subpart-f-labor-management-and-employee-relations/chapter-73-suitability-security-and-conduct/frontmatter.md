@@ -56,6 +56,8 @@ Sec.
 
 7371. Mandatory removal from employment of law enforcement officers convicted of felonies.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2003**—Pub. L. 108–136, div. A, title XI, §1125(b)(3), Nov. 24, 2003, 117 Stat. 1640, added item 7302.

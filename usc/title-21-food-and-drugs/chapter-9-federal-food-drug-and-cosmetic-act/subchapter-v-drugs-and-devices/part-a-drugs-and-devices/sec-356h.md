@@ -62,6 +62,8 @@ In this section:
 
 (June 25, 1938, ch. 675, §506H, as added Pub. L. 115–52, title VIII, §803(a), Aug. 18, 2017, 131 Stat. 1070.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Guidance; Amended Regulations ####
 
 Pub. L. 115–52, title VIII, §803(b), Aug. 18, 2017, 131 Stat. 1071, provided that:

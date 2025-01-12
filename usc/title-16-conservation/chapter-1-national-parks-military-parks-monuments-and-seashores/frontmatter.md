@@ -2388,6 +2388,20 @@ Sec.
 
 410dddd. White Sands National Park.
 
+#### SUBCHAPTER LIX–DDD—WEIR FARM NATIONAL HISTORICAL PARK ####
+
+410ffff. Definitions.
+
+410ffff–1. Findings and purposes.
+
+410ffff–2. Establishment of Weir Farm National Historical Park.
+
+410ffff–3. Acquisition of real and personal property and services.
+
+410ffff–4. Administration of historical park.
+
+410ffff–5. Authorization of appropriations.
+
 #### SUBCHAPTER LX—NATIONAL MILITARY PARKS ####
 
 411 to 421. Omitted, Repealed, or Transferred.

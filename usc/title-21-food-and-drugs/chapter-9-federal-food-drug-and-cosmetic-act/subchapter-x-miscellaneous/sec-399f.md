@@ -32,6 +32,8 @@ The Secretary, acting through the Commissioner of Food and Drugs, shall publicly
 
 (Pub. L. 112–144, title XI, §1138, July 9, 2012, 126 Stat. 1125.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Food and Drug Administration Safety and Innovation Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.

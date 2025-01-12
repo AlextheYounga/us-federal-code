@@ -88,6 +88,8 @@ The requirements of this subsection shall apply only in instances where the cons
 
 (June 25, 1938, ch. 675, §569, as added Pub. L. 112–144, title IX, §903, July 9, 2012, 126 Stat. 1088; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(O), Dec. 13, 2016, 130 Stat. 1154.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsecs. (a)(1) and (f)(2), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title.

@@ -20,6 +20,8 @@ Section 1142, Pub. L. 92–255, title II, §232, Mar. 21, 1972, 86 Stat. 73, pro
 
 Section 1143, Pub. L. 92–255, title II, §233, Mar. 21, 1972, 86 Stat. 73, provided for an annual written report to the President by the Director.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Section 1104 of this title, prior to repeal by Pub. L. 94–237, §4(c)(1), Mar. 19, 1976, 90 Stat. 244, provided for repeal of sections effective June 30, 1975.

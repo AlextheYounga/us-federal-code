@@ -62,6 +62,8 @@ In carrying out this section, the Secretary shall consult with the Attorney Gene
 
 (June 25, 1938, ch. 675, §920, as added Pub. L. 111–31, div. A, title III, §301, June 22, 2009, 123 Stat. 1850.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 201 of the Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (a)(1), is section 201 of div. A of Pub. L. 111–31.

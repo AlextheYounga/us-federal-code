@@ -54,9 +54,13 @@ Not later than 24 months after June 22, 2009, the Secretary shall establish, and
 
 (June 25, 1938, ch. 675, §904, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1790.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 904 of act June 25, 1938, was renumbered section 1004 and is classified to section 394 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Modification of Deadlines for Secretarial Action ####
 

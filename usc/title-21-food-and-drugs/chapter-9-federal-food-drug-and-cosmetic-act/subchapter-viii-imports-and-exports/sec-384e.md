@@ -20,6 +20,8 @@ The results of inspections performed by a foreign government or an agency of a f
 
 (June 25, 1938, ch. 675, §809, as added Pub. L. 112–144, title VII, §712, July 9, 2012, 126 Stat. 1072; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(X), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title VII, §701(b), Aug. 18, 2017, 131 Stat. 1055.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (a)(1). Pub. L. 115–52 substituted "paragraph (2) or (3) of section 360(h)" for "section 360(h)(3)".

@@ -14,6 +14,8 @@ No amounts may be transferred pursuant to this section that are designated by th
 
 (Pub. L. 115–141, div. A, title VII, §722, Mar. 23, 2018, 132 Stat. 387.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsec. (b), is div. A of Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 351, known as the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2018. For complete classification of this Act to the Code, see Tables.

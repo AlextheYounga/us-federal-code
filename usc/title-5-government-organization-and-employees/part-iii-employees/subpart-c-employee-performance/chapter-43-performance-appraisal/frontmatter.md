@@ -28,6 +28,8 @@ Sec.
 
 4315. Regulations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1993**—Pub. L. 103–89, §3(b)(1)(B)(ii), Sept. 30, 1993, 107 Stat. 981, struck out item 4302a "Establishment of performance appraisal systems for performance management and recognition system employees".

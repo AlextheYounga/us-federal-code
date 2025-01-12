@@ -1,5 +1,7 @@
 ### §§94 to 95. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 94, act June 30, 1914, ch. 131, 38 Stat. 420, which related to inspection of reindeer, was transferred to section 692 of this title.

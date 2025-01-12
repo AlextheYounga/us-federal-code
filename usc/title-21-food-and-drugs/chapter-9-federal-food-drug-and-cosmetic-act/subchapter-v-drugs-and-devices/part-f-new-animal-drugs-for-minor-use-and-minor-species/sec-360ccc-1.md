@@ -182,6 +182,8 @@ In the case of a request under subsection (d) to add a drug to the index under s
 
 (June 25, 1938, ch. 675, §572, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 896; amended Pub. L. 114–89, §2(a)(3)(C), Nov. 25, 2015, 129 Stat. 699; Pub. L. 115–234, title III, §302, Aug. 14, 2018, 132 Stat. 2436.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(1)(E), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
@@ -197,6 +199,8 @@ The Controlled Substances Act, referred to in subsec. (k), is title II of Pub. L
 Subsec. (h)(2). Pub. L. 115–234, §302(2), substituted "or food-producing animals" for "or other animals".
 
 **2015**—Subsec. (k). Pub. L. 114–89 added subsec. (k).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2018 Amendment ####
 

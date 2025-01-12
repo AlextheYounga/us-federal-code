@@ -4,6 +4,8 @@ Notwithstanding any other provision of law, States shall not be prohibited by th
 
 (Pub. L. 104–193, title IX, §902, Aug. 22, 1996, 110 Stat. 2347.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, and not as part of the Controlled Substances Act which comprises this subchapter.

@@ -62,6 +62,8 @@ Nothing in this section shall prevent a State or political subdivision thereof f
 
 (June 25, 1938, ch. 675, §751, as added Pub. L. 105–115, title IV, §412(a), Nov. 21, 1997, 111 Stat. 2373; amended Pub. L. 116–136, div. A, title III, §3851(c), Mar. 27, 2020, 134 Stat. 454.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Poison Prevention Packaging Act of 1970, referred to in subsec. (a)(2), is Pub. L. 91–601, Dec. 30, 1970, 84 Stat. 1670, as amended, which is classified principally to chapter 39A (§1471 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of Title 15 and Tables.
@@ -73,6 +75,8 @@ The Fair Packaging and Labeling Act, referred to in subsec. (a)(2), is Pub. L. 8
 **2020**—Subsec. (d)(1). Pub. L. 116–136, §3851(c)(1), in introductory provisions, substituted "final order under section 355h of this title" for "final regulation promulgated" and struck out "and not misbranded" after "safe and effective".
 
 Subsec. (d)(1)(A). Pub. L. 116–136, §3851(c)(2), substituted "regulation or order in effect" for "regulation in effect".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

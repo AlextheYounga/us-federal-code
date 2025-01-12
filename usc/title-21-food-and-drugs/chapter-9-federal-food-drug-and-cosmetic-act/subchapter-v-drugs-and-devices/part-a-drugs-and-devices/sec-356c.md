@@ -128,6 +128,8 @@ Each manufacturer of a drug described in subsection (a) or of any active pharmac
 
 (June 25, 1938, ch. 675, §506C, as added Pub. L. 105–115, title I, §131(a), Nov. 21, 1997, 111 Stat. 2332; amended Pub. L. 112–144, title X, §1001(a), July 9, 2012, 126 Stat. 1099; Pub. L. 114–255, div. A, title III, §3101(a)(2)(E), Dec. 13, 2016, 130 Stat. 1153; Pub. L. 116–136, div. A, title III, §§3111–3112(b), Mar. 27, 2020, 134 Stat. 361, 362.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Subsec. (a). Pub. L. 116–136, §3112(a)(2), in concluding provisions, inserted ", or a permanent discontinuance in the manufacture of an active pharmaceutical ingredient or an interruption in the manufacture of the active pharmaceutical ingredient of such drug that is likely to lead to a meaningful disruption in the supply of the active pharmaceutical ingredient of such drug," before "and the reasons" and inserted at end "Notification under this subsection shall include disclosure of reasons for the discontinuation or interruption, and if applicable, an active pharmaceutical ingredient is a reason for, or risk factor in, such discontinuation or interruption, the source of the active pharmaceutical ingredient and any alternative sources for the active pharmaceutical ingredient known by the manufacturer; whether any associated device used for preparation or administration included in the drug is a reason for, or a risk factor in, such discontinuation or interruption; the expected duration of the interruption; and such other information as the Secretary may require."
@@ -148,6 +150,8 @@ Subsec. (g)(1). Pub. L. 114–255, §3101(a)(2)(E)(ii), substituted "section 355
 
 **2012**—Pub. L. 112–144 amended section generally. Prior to amendment, section related to discontinuance of life saving products.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2020 Amendment ####
 
 Pub. L. 116–136, div. A, title III, §3112(g), Mar. 27, 2020, 134 Stat. 363, provided that: "The amendments made by this section [amending this section and sections 356e, 360, and 374 of this title] and section 3111 [amending this section] shall take effect on the date that is 180 days after the date of enactment of this Act [Mar. 27, 2020]."
@@ -167,6 +171,8 @@ Pub. L. 112–144, title X, §1001(b), July 9, 2012, 126 Stat. 1101, provided th
 "(1) as an admission that any product that is the subject of such notification violates any provision of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.); or
 
 "(2) as evidence of an intention to promote or market the product for an indication or use for which the product has not been approved by the Secretary."
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 13588. Reducing Prescription Drug Shortages ####
 

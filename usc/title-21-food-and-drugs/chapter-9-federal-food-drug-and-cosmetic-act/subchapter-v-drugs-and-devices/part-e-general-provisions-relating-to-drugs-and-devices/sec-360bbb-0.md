@@ -40,6 +40,8 @@ This section shall apply to a manufacturer or distributor with respect to an inv
 
 (June 25, 1938, ch. 675, §561A, as added Pub. L. 114–255, div. A, title III, §3032, Dec. 13, 2016, 130 Stat. 1100; amended Pub. L. 115–52, title VI, §610(c), Aug. 18, 2017, 131 Stat. 1053.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (f). Pub. L. 115–52 substituted "earlier" for "later" in introductory provisions, added par. (2), redesignated former par. (2) as (1), and struck out former par. (1) which read as follows: "the date that is 60 calendar days after December 13, 2016; or".

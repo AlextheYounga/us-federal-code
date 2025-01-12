@@ -8,6 +8,8 @@ Section 1803, Pub. L. 105–277, div. D, title I, §104, Oct. 21, 1998, 112 Stat
 
 Section 1804, Pub. L. 105–277, div. D, title I, §105, Oct. 21, 1998, 112 Stat. 2681–753, related to authorization of appropriations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 105–277, div. D, §1(a), Oct. 21, 1998, 112 Stat. 2681–751, provided that: "This division [enacting this chapter and section 7144 of Title 20, Education, and enacting provisions set out as notes under this section, section 1703 of this title, section 6301 of Title 20, and section 3751 of Title 42, The Public Health and Welfare] may be cited as the 'Drug Demand Reduction Act'."

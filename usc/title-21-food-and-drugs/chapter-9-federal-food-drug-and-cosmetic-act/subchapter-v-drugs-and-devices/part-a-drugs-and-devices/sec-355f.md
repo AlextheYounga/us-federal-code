@@ -106,6 +106,8 @@ The term "qualified infectious disease product" means an antibacterial or antifu
 
 (June 25, 1938, ch. 675, §505E, as added Pub. L. 112–144, title VIII, §801(a), July 9, 2012, 126 Stat. 1077.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 112–144, title VIII, §801(b), July 9, 2012, 126 Stat. 1079, provided that: "Section 505E of the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 355f], as added by subsection (a), applies only with respect to a drug that is first approved under section 505(c) of such Act (21 U.S.C. 355(c)) on or after the date of the enactment of this Act [July 9, 2012]."

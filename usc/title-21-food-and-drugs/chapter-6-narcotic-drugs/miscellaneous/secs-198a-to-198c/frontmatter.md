@@ -1,5 +1,7 @@
 ### §§198a to 198c. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 198a, act Aug. 11, 1955, ch. 800, §1, 69 Stat. 684, as amended, which related to the authority of Secretary of the Treasury to issue subpenas, administer oaths and compel attendance of witnesses for purpose of any investigation, was transferred to section 967 of this title.

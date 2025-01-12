@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 101–194, title V, §506(a)(1), Nov. 30, 1989, 103 Stat. 1756, related to recertification of career appointees.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.

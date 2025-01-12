@@ -210,6 +210,8 @@ Nothing in this subsection shall be construed to limit the Secretary's authority
 
 (June 25, 1938, ch. 675, §907, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1799.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 907 of act June 25, 1938, was renumbered section 1007 and is classified to section 397 of this title.

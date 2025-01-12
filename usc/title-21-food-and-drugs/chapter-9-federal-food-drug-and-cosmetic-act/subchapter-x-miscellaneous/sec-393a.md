@@ -26,6 +26,8 @@ At least one of the individuals described in subsection (c)(2) shall have expert
 
 (Pub. L. 107–109, §6, Jan. 4, 2002, 115 Stat. 1414; Pub. L. 110–85, title III, §306(a), Sept. 27, 2007, 121 Stat. 864; Pub. L. 112–144, title V, §511, July 9, 2012, 126 Stat. 1050; Pub. L. 115–52, title V, §505(d)(1), Aug. 18, 2017, 131 Stat. 1047.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Best Pharmaceuticals for Children Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.

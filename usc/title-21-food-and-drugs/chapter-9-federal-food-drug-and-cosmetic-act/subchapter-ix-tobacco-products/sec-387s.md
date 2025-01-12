@@ -164,6 +164,8 @@ If the date of enactment of the Family Smoking Prevention and Tobacco Control Ac
 
 (June 25, 1938, ch. 675, §919, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1826.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (c)(2)(A), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of this title.

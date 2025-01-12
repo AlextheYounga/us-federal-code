@@ -10,6 +10,8 @@ Section 173a, act June 14, 1930, ch. 488, §6, 46 Stat. 587, provided for import
 
 Section 174, acts Feb. 9, 1909, ch. 100, §2(c), (f), 35 Stat. 614; Jan. 17, 1914, ch. 9, 38 Stat. 275; May 26, 1922, ch. 202, §1, 42 Stat. 596; June 7, 1924, ch. 352, 43 Stat. 657; Nov. 2, 1951, ch. 666, §§1, 5(1), 65 Stat. 767; July 18, 1956, ch. 629, title I, §105, 70 Stat. 570, set penalties for bringing narcotic drugs into the United States contrary to law. See chapter 13 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on first day of seventh calendar month that begins after Oct. 27, 1970, see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of this title.

@@ -168,6 +168,8 @@ Sec.
 
 8480. Subpoena authority.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–126, §2(b)(3)(B), Mar. 18, 2020, 134 Stat. 175, added item 8466a.
@@ -215,6 +217,8 @@ Pub. L. 100–654, title IV, §401(b), Nov. 14, 1988, 102 Stat. 3847, added item
 Pub. L. 100–238, title I, §124(a)(2), (b)(2), Jan. 8, 1988, 101 Stat. 1756, added item 8464a, redesignated item 8457 as 8456, and struck out former item 8456 "Relationship to workers' compensation".
 
 **1986**—Pub. L. 99–556, title I, §110(b), Oct. 27, 1986, 100 Stat. 3132, added item 8478a.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

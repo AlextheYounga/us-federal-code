@@ -20,6 +20,8 @@ With respect to the requirements of section 4 of the Federal Cigarette Labeling 
 
 (June 25, 1938, ch. 675, §914, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1820.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Cigarette Labeling and Advertising Act, referred to in subsec. (b), is Pub. L. 89–92, July 27, 1965, 79 Stat. 282, which is classified generally to chapter 36 (§1331 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 15 and Tables.

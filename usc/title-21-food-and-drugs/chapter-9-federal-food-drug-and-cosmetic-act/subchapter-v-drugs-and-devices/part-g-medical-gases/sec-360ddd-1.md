@@ -100,6 +100,8 @@ For oxygen provided pursuant to subparagraph (A), the requirements of section 35
 
 (June 25, 1938, ch. 675, §576, as added Pub. L. 112–144, title XI, §1111, July 9, 2012, 126 Stat. 1109; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(S), Dec. 13, 2016, 130 Stat. 1155.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsec. (a)(1). Pub. L. 114–255, §3101(a)(2)(S)(i), inserted "who seeks to initially introduce or deliver for introduction a designated medical gas into interstate commerce" after "any person" in introductory provisions.

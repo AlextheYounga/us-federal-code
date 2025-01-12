@@ -361,6 +361,8 @@ This section may not be construed to require that the number of full-time equiva
 
 For termination of section by section 210(a) of Pub. L. 115–52, see Effective and Termination Dates note below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Indian Self Determination and Educational Assistance Act, referred to in subsec. (a)(3)(B), probably means the Indian Self-Determination and Education Assistance Act, Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 25 and Tables.
@@ -602,6 +604,8 @@ Subsec. (f). Pub. L. 108–214, §2(a)(2)(D), struck out "for filing" after "acc
 Subsec. (h)(2)(B). Pub. L. 108–214, §2(a)(2)(E), designated existing provisions as cl. (i), inserted heading, redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, of cl. (i), redesignated former subcls. (I) and (II) of cl. (i) as items (aa) and (bb), respectively, of cl. (i)(II), and added cl. (ii).
 
 Subsec. (j). Pub. L. 108–214, §2(d)(2)(B)(iv), substituted "subsection (a)(2)(D)" for "subsection (a)(1)(D)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

@@ -4,6 +4,8 @@ The Secretary is authorized (1) to accept from State and local authorities engag
 
 (June 25, 1938, ch. 675, §541, formerly act July 1, 1944, ch. 373, title III, §541, formerly §360E, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1186; renumbered §541 and amended Pub. L. 101–629, §19(a)(1)(B), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was classified to section 263m of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
@@ -13,6 +15,8 @@ Section was classified to section 263m of Title 42, The Public Health and Welfar
 **1993**—Pub. L. 103–80 amended directory language of Pub. L. 101–629, §19(a)(4), which renumbered section 263m of Title 42, The Public Health and Welfare, as this section.
 
 **1990**—Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this subpart".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Noninterference With Other Federal Agencies ####
 

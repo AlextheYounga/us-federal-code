@@ -16,6 +16,8 @@
 
 (June 25, 1938, ch. 675, §538, formerly act July 1, 1944, ch. 373, title III, §538, formerly §360B, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1184; renumbered §538 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(F), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was classified to section 263j of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
@@ -33,6 +35,8 @@ Subsec. (a)(3). Pub. L. 101–629, §19(a)(1)(B), (2)(F)(iii), substituted "this
 Subsec. (a)(4). Pub. L. 101–629, §19(a)(2)(F)(iii), substituted "section 360nn(b)" for "section 263i(b)" and "section 360nn(f)" for "section 263i(f)".
 
 Subsec. (a)(5). Pub. L. 101–629, §19(a)(2)(F)(i), substituted "section 360kk(h)" for "section 263f(h)" in two places.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Noninterference With Other Federal Agencies ####
 

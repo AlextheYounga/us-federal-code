@@ -28,6 +28,8 @@ The report under paragraph (1) shall include the recommendations of the Secretar
 
 (June 25, 1938, ch. 675, §918, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1825.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Modification of Deadlines for Secretarial Action ####
 
 With respect to any time periods specified in an amendment by div. A of Pub. L. 111–31 that begin on June 22, 2009, within which the Secretary of Health and Human Services is required to carry out and complete specified activities, with certain limitations, the calculation of such time periods shall commence on the first day of the first fiscal quarter following the initial 2 consecutive fiscal quarters of fiscal year 2010 for which the Secretary has collected fees under section 387s of this title, and the Secretary may extend or reduce the duration of one or more such time periods, except that no such period shall be extended for more than 90 days, see section 6 of Pub. L. 111–31, set out as a note under section 387 of this title.

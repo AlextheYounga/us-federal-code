@@ -4,6 +4,8 @@ The word "package" where it occurs the second and last time in the act entitled 
 
 (July 24, 1919, ch. 26, 41 Stat. 271.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 An act approved March 3, 1913, referred to in text, is act Mar. 3, 1913, ch. 117, 37 Stat. 732, which amended section 10 of this title. For complete classification of this Act to the Code, see Tables.

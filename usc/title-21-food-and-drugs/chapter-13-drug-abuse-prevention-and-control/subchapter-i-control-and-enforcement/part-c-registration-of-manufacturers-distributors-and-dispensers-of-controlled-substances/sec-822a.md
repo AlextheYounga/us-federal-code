@@ -24,9 +24,13 @@ The Attorney General, in coordination with the Administrator of the Drug Enforce
 
 (Pub. L. 114–198, title II, §203, July 22, 2016, 130 Stat. 717.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Comprehensive Addiction and Recovery Act of 2016, and not as part of the Controlled Substances Act which comprises this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Access to Increased Drug Disposal ####
 

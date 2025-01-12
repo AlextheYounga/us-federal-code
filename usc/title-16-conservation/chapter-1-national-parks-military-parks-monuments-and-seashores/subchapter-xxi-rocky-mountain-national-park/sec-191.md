@@ -16,6 +16,10 @@ The Reclamation Service, established in July 1902, changed to the Bureau of Recl
 
 The following provisions authorized the addition of lands to Rocky Mountain National Park:
 
+Pub. L. 116–302, Jan. 5, 2021, 134 Stat. 4912.
+
+Pub. L. 116–301, Jan. 5, 2021, 134 Stat. 4910.
+
 Pub. L. 109–93, Oct. 26, 2005, 119 Stat. 2104.
 
 Pub. L. 104–158, §2(b)(1), July 9, 1996, 110 Stat. 1406.

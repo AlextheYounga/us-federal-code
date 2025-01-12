@@ -16,6 +16,8 @@ Section 13, act June 30, 1906, ch. 3915, §9, 34 Stat. 771, provided for a selle
 
 Section 14, act June 30, 1906, ch. 3915, §10, 34 Stat. 771, provided for seizure of articles by libel for condemnation, at suit of and in name of United States, in United States district court where found, conforming to proceedings in admiralty, with right to trial by jury, destruction or sale of adulterated or misbranded articles, bond and payment of proceeds into Treasury of United States. See sections 332, 334 and 337 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 For effective date of repeal, see section 1002(a) of act June 25, 1938, set out as a note under sections 1 to 5 of this title.

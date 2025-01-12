@@ -26,6 +26,8 @@ Section 184a, acts July 11, 1941, ch. 289, §1, 55 Stat. 584; July 18, 1956, ch.
 
 Section 185, act Feb. 9, 1909, ch. 100, §9, as added May 26, 1922, ch. 202, §4, 42 Stat. 598, authorized the citation of act Feb. 9, 1909, ch. 100, as the "Narcotic Drugs Import and Export Act".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 1105(a) of Pub. L. 91–513, set out as an Effective Date note under section 951 of this title.

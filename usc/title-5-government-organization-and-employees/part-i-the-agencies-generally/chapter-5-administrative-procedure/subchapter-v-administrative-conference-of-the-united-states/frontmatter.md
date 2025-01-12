@@ -1,8 +1,12 @@
 ### SUBCHAPTER V—ADMINISTRATIVE CONFERENCE OF THE UNITED STATES ###
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1992**—Pub. L. 102–354, §2(1), Aug. 26, 1992, 106 Stat. 944, redesignated subchapter III of this chapter as this subchapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Administrative Conference of United States ####
 

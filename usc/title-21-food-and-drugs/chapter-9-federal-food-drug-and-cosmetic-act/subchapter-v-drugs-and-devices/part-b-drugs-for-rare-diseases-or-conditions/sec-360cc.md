@@ -8,7 +8,7 @@ Except as provided in subsection (b), if the Secretary—
 
 (2) issues a license under section 262 of title 42
 
-for a drug designated under section 360bb of this title for a rare disease or condition, the Secretary may not approve another application under section 355 of this title or issue another license under section 262 of title 42 for the same drug for the same disease or condition for a person who is not the holder of such approved application or of such license until the expiration of seven years from the date of the approval of the approved application or the issuance of the license. Section 355(c)(2) of this title does not apply to the refusal to approve an application under the preceding sentence.
+for a drug designated under section 360bb of this title for a rare disease or condition, the Secretary may not approve another application under section 355 of this title or issue another license under section 262 of title 42 for the same drug for the same disease or condition for a person who is not the holder of such approved application or of such license until the expiration of seven years from the date of the approval of the approved application or the issuance of the license. Section 355(c)(2) <sup><a href="#360cc_1_target" name="360cc_1">1</a></sup> of this title does not apply to the refusal to approve an application under the preceding sentence.
 
 #### (b) Exceptions ####
 
@@ -42,7 +42,11 @@ To assist sponsors in demonstrating clinical superiority as described in subsect
 
 (June 25, 1938, ch. 675, §527, as added Pub. L. 97–414, §2(a), Jan. 4, 1983, 96 Stat. 2050; amended Pub. L. 98–417, title I, §102(b)(6), Sept. 24, 1984, 98 Stat. 1593; Pub. L. 99–91, §§2, 3(a)(3), Aug. 15, 1985, 99 Stat. 387, 388; Pub. L. 103–80, §3(v), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(J), (K), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §4, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 115–52, title VI, §607(a), Aug. 18, 2017, 131 Stat. 1049.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
+
+Section 355(c)(2) of this title, referred to in subsec. (a), was redesignated as section 355(c)(1)(B) of this title by Pub. L. 98–417, title I, §102(a)(2), Sept. 24, 1984, 98 Stat. 1592.
 
 This section, as amended by such Act, referred to in subsec. (d), means this section as amended by the FDA Reauthorization Act of 2017, Pub. L. 115–52.
 
@@ -78,6 +82,8 @@ Subsec. (b). Pub. L. 99–91, §§2(2), 3(a)(3)(E)–(K), struck out "and if a U
 
 **1984**—Subsecs. (a), (b). Pub. L. 98–417 substituted "section 355" for "section 355(b)" wherever appearing.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1985 Amendment ####
 
 Amendment by Pub. L. 99–91 effective Aug. 15, 1985, see section 8(b) of Pub. L. 99–91, set out as a note under section 360aa of this title.
@@ -85,3 +91,5 @@ Amendment by Pub. L. 99–91 effective Aug. 15, 1985, see section 8(b) of Pub. L
 #### Construction ####
 
 Pub. L. 115–52, title VI, §607(b), Aug. 18, 2017, 131 Stat. 1050, provided that: "Nothing in the amendments made by subsection (a) [amending this section] shall affect any determination under sections 526 and 527 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360bb, 360cc) made prior to the date of enactment of the FDA Reauthorization Act of 2017 [Aug. 18, 2017]."
+
+[<sup>1</sup> See References in Text note below.](#360cc_1)

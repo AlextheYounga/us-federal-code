@@ -8,6 +8,8 @@ The Secretary of Health and Human Services shall conduct inspections consistent 
 
 (Pub. L. 108–282, title II, §205, Aug. 2, 2004, 118 Stat. 909.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as a part of the Food Allergen Labeling and Consumer Protection Act of 2004, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.

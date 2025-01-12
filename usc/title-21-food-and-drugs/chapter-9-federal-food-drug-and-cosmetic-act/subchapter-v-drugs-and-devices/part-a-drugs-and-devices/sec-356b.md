@@ -36,6 +36,8 @@ With respect to studies of the type required under section 356(c)(2)(A) of this 
 
 (June 25, 1938, ch. 675, §506B, as added Pub. L. 105–115, title I, §130(a), Nov. 21, 1997, 111 Stat. 2331; amended Pub. L. 107–188, title V, §506, June 12, 2002, 116 Stat. 693; Pub. L. 112–144, title IX, §902(c), July 9, 2012, 126 Stat. 1088.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The effective date of this subsection, referred to in subsec. (e), is Oct. 1, 2002, see Effective Date of 2002 Amendment note set out below.
@@ -45,6 +47,8 @@ The effective date of this subsection, referred to in subsec. (e), is Oct. 1, 20
 **2012**—Subsec. (e). Pub. L. 112–144 substituted "section 356(c)(2)(A) of this title" for "section 356(b)(2)(A) of this title" in two places.
 
 **2002**—Subsecs. (d), (e). Pub. L. 107–188 added subsecs. (d) and (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2002 Amendment ####
 

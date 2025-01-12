@@ -106,6 +106,8 @@ The Secretary shall finalize the regulations under this section not later than 2
 
 (June 25, 1938, ch. 675, §586F, as added Pub. L. 113–195, §3, Nov. 26, 2014, 128 Stat. 2046.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Treatment of Non-Sunscreen Time and Extent Applications ####
 
 Pub. L. 116–136, div. A, title III, §3854(d), Mar. 27, 2020, 134 Stat. 457, provided that:

@@ -82,6 +82,8 @@ From funds available to the Secretary to carry out this chapter and the Poultry 
 
 (Mar. 4, 1907, ch. 2907, title IV, §410, as added Pub. L. 104–127, title IX, §918(a)(1)(B), Apr. 4, 1996, 110 Stat. 1188.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -93,6 +95,8 @@ The Poultry Products Inspection Act, referred to in subsec. (i), is Pub. L. 85�
 #### Prior Provisions ####
 
 A prior section 410 of act Mar. 4, 1907, was renumbered section 411, and is classified to section 680 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Use of Appropriated Funds ####
 

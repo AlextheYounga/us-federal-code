@@ -14,6 +14,8 @@ It is not a violation of any section of this chapter or of the Public Health Ser
 
 (June 25, 1938, ch. 675, §564B, as added Pub. L. 113–5, title III, §302(d), Mar. 13, 2013, 127 Stat. 185; amended Pub. L. 114–255, div. A, title III, §3088(d), Dec. 13, 2016, 130 Stat. 1149; Pub. L. 116–22, title VII, §705(d), June 24, 2019, 133 Stat. 964.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.

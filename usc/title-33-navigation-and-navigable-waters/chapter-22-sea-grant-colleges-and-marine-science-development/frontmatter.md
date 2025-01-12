@@ -41,3 +41,13 @@ Sec.
 1130. Repealed.
 
 1131. Authorization of appropriations.
+
+#### SUBCHAPTER III—YOUNG FISHERMEN'S DEVELOPMENT ####
+
+1141. Definitions.
+
+1142. Establishment of program.
+
+1143. Grants.
+
+1144. Funding.

@@ -74,9 +74,13 @@ The Secretary shall publish and maintain on the Internet Web site of the Food an
 
 (June 25, 1938, ch. 675, §805, as added Pub. L. 111–353, title III, §301(a), Jan. 4, 2011, 124 Stat. 3953.)
 
+#### **Editorial Notes** ####
+
 #### Effective Date ####
 
 Section effective 2 years after Jan. 4, 2011, see section 301(d) of Pub. L. 111–353, set out as an Effective Date of 2011 Amendment note under section 331 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Construction ####
 

@@ -218,6 +218,8 @@ Sec.
 
 1660h. Health information technology.
 
+1660i. Deeming an Urban Indian organization and employees thereof to be a part of the public health service for the purposes of certain claims for personal injury.
+
 #### SUBCHAPTER V—ORGANIZATIONAL IMPROVEMENTS ####
 
 1661. Establishment of the Indian Health Service as an agency of the Public Health Service.

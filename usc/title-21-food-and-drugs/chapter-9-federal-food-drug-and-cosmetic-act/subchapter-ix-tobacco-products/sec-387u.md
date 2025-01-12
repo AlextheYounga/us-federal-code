@@ -26,6 +26,8 @@ The Secretary of Health and Human Services and the Comptroller General of the Un
 
 (Pub. L. 111–31, div. A, title I, §106, June 22, 2009, 123 Stat. 1841.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This division, referred to in subsecs. (a)(1), (2), (4) and (b)(1), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776, known as Family Smoking Prevention and Tobacco Control Act. For complete classification of division A to the Code, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables.
@@ -33,6 +35,8 @@ This division, referred to in subsecs. (a)(1), (2), (4) and (b)(1), is div. A of
 #### Codification ####
 
 Section was enacted as part of the Family Smoking Prevention and Tobacco Control Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Modification of Deadlines for Secretarial Action ####
 

@@ -30,6 +30,8 @@ The Secretary shall by regulation promulgate procedures for the implementation o
 
 (June 25, 1938, ch. 675, §526, as added Pub. L. 97–414, §2(a), Jan. 4, 1983, 96 Stat. 2050; amended Pub. L. 98–551, §4(a), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §3(a)(2), Aug. 15, 1985, 99 Stat. 387; Pub. L. 100–290, §2, Apr. 18, 1988, 102 Stat. 90; Pub. L. 105–115, title I, §125(b)(2)(H), (I), Nov. 21, 1997, 111 Stat. 2326.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1997**—Subsec. (a)(1). Pub. L. 105–115, §125(b)(2)(H), struck out "the submission of an application for certification of the drug under section 357 of this title," before "or the submission of an application for licensing of the drug" in introductory provisions, inserted "or" at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: "if a certification for such drug is issued under section 357 of this title, or".
@@ -45,6 +47,8 @@ Subsecs. (b) to (d). Pub. L. 100–290, §2(b), added subsec. (b) and redesignat
 **1985**—Subsec. (a)(1). Pub. L. 99–91 struck out "or" at end of subpar. (A), struck out subpar. (B) and substituted subpars. (B) and (C), and inserted ", certification," after "approval".
 
 **1984**—Subsec. (a)(2). Pub. L. 98–551 substituted "which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which" for "which occurs so infrequently in the United States that".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1985 Amendment ####
 

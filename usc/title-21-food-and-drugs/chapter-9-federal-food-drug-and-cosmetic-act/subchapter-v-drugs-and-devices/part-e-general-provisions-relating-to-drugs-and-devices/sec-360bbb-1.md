@@ -4,9 +4,13 @@ If, regarding an obligation concerning drugs or devices under this Act or sectio
 
 (June 25, 1938, ch. 675, §562, as added Pub. L. 105–115, title IV, §404, Nov. 21, 1997, 111 Stat. 2368.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

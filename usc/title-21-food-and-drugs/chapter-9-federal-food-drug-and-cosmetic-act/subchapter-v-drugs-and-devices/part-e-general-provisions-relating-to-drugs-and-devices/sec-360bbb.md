@@ -48,9 +48,13 @@ In this section, the terms "investigational drug", "investigational device", "tr
 
 (June 25, 1938, ch. 675, §561, as added Pub. L. 105–115, title IV, §402, Nov. 21, 1997, 111 Stat. 2365; amended Pub. L. 109–482, title I, §102(f)(2), Jan. 15, 2007, 120 Stat. 3685.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2007**—Subsec. (c). Pub. L. 109–482 substituted "section 282(i)(3)" for "section 282(j)(3)" in concluding provisions.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2007 Amendment ####
 

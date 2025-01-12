@@ -124,6 +124,8 @@ Sec.
 
 6391. Authority for leave transfer program in disasters and emergencies.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–328, div. A, title XI, §1138(c)(2), (d)(4), (e)(2), Dec. 23, 2016, 130 Stat. 2462, 2469, 2470, which directed amendment of the table of sections for subchapter II of chapter 63 by adding items 6329a to 6329c, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
@@ -157,6 +159,8 @@ Pub. L. 90–367, §2(b), June 29, 1968, 82 Stat. 277, added item 6312.
 **1967**—Pub. L. 90–221, §3(b), Dec. 23, 1967, 81 Stat. 671, added item 6325.
 
 **1966**—Pub. L. 89–747, §1(3), Nov. 2, 1966, 80 Stat. 1179, inserted reference to leave for crews of vessels in item 6305.
+
+#### **Executive Documents** ####
 
 #### Modernizing Federal Leave Policies for Childbirth, Adoption, and Foster Care To Recruit and Retain Talent and Improve Productivity ####
 

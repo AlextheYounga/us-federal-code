@@ -11,6 +11,8 @@ II. Civil Service Functions and Responsibilities 1101
 
 III. Employees 2101
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1979**—Pub. L. 96–54, §2(a)(1), Aug. 14, 1979, 93 Stat. 381, substituted "Civil Service Functions and Responsibilities" for "The United States Civil Service Commission" in item for part II.
@@ -1405,6 +1407,8 @@ III. Employees 2101
 |                                                                                                             3105(e)                                                                                                              |                                          Elim.                                          |
 |                                                                                                             3105(f)                                                                                                              |                                          5533                                           |
 |                                                                                                            3121–3127                                                                                                             |                                          5911                                           |
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Enacting Clause ####
 

@@ -130,6 +130,8 @@ Subsection (a) shall not apply with respect to an employee of an entity engaged 
 
 (June 25, 1938, ch. 675, §1013, formerly §1012, as added Pub. L. 111–353, title IV, §402, Jan. 4, 2011, 124 Stat. 3968; renumbered §1013, Pub. L. 114–255, div. A, title III, §3073(b)(1), Dec. 13, 2016, 130 Stat. 1137.)
 
+#### **Editorial Notes** ####
+
 #### Construction ####
 
 Nothing in this section to be construed to alter jurisdiction and authorities established under certain other Acts or in a manner inconsistent with international agreements to which the United States is a party, see sections 2251 and 2252 of this title.

@@ -1,5 +1,7 @@
 ### SUBCHAPTER III—NEGOTIATED RULEMAKING PROCEDURE ###
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter III (§571 et seq.) was redesignated subchapter V (§591 et seq.) of this chapter.

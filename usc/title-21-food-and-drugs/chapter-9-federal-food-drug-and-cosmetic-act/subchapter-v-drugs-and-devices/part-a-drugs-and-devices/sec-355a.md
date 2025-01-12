@@ -322,6 +322,8 @@ This subsection does not affect—
 
 (June 25, 1938, ch. 675, §505A, as added Pub. L. 105–115, title I, §111, Nov. 21, 1997, 111 Stat. 2305; amended Pub. L. 107–109, §§2, 4, 5(b)(2), 7–11(a), 18(a), 19, Jan. 4, 2002, 115 Stat. 1408, 1411, 1413–1415, 1423, 1424; Pub. L. 108–155, §§2(b)(2), 3(a), (b)(1), Dec. 3, 2003, 117 Stat. 1941; Pub. L. 108–173, title XI, §1104, Dec. 8, 2003, 117 Stat. 2461; Pub. L. 110–85, title V, §502(a)(1), Sept. 27, 2007, 121 Stat. 876; Pub. L. 111–148, title VII, §7002(g)(2)(B), Mar. 23, 2010, 124 Stat. 820; Pub. L. 112–144, title V, §§501(a), 502(a)(1), (b), 509(a), July 9, 2012, 126 Stat. 1039, 1040, 1047; Pub. L. 113–5, title III, §307(a), Mar. 13, 2013, 127 Stat. 191; Pub. L. 114–255, div. A, title III, §3102(2), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title V, §505(a)–(b)(2)(A), title VI, §608, Aug. 18, 2017, 131 Stat. 1046, 1050.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsecs. (b), (c). Pub. L. 115–52, §505(b)(2)(A), substituted "subsection (d)(4)" for "subsection (d)(3)" in introductory provisions of par. (1) and in par. (2).
@@ -475,6 +477,8 @@ Pub. L. 107–109, §10, added subsec. (n).
 Subsec. (o). Pub. L. 107–109, §19(2), (3), redesignated subsec. (o) as (l).
 
 Pub. L. 107–109, §11(a), added subsec. (o).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2012 Amendment ####
 

@@ -270,6 +270,8 @@ A determination under this subsection shall be effective for purposes of section
 
 (June 25, 1938, ch. 675, §564, as added Pub. L. 108–136, div. A, title XVI, §1603(a), Nov. 24, 2003, 117 Stat. 1684; amended Pub. L. 108–276, §4(a), July 21, 2004, 118 Stat. 853; Pub. L. 113–5, title III, §302(a), Mar. 13, 2013, 127 Stat. 179; Pub. L. 114–255, div. A, title III, §3088(a), Dec. 13, 2016, 130 Stat. 1148; Pub. L. 115–92, §1(a), Dec. 12, 2017, 131 Stat. 2023.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Public Health Service Act, referred to in subsec. (a)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
@@ -353,6 +355,8 @@ Subsec. (j)(4). Pub. L. 113–5, §302(a)(8), added par. (4).
 Subsec. (m). Pub. L. 113–5, §302(a)(9), added subsec. (m).
 
 **2004**—Pub. L. 108–276 amended section generally, substituting provisions of subsecs. (a) to (l) for similar former provisions, except for additional provisions in subsec. (b)(1) allowing Secretary to authorize use of medical products in actual or potential domestic and public health emergencies in addition to actual or potential military emergencies.
+
+#### **Executive Documents** ####
 
 #### Making General Use Respirators Available ####
 

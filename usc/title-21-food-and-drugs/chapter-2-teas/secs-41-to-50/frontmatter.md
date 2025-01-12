@@ -22,6 +22,8 @@ Section 49, acts Mar. 2, 1897, ch. 358, §9, 29 Stat. 606; May 31, 1920, ch. 217
 
 Section 50, acts Mar. 2, 1897, ch. 358, §10, 29 Stat. 607; May 31, 1920, ch. 217, 41 Stat. 712; 1940 Reorg. Plan No. IV, §12, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1237; 1953 Reorg. Plan No. 1, §5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979, Pub. L. 96–88, title V, §509(b), 93 Stat. 695, authorized issuance of regulations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Pub. L. 104–128, §3, Apr. 9, 1996, 110 Stat. 1198, provided that: "This Act [repealing this chapter] shall take effect on the date of enactment of this Act [Apr. 9, 1996]."

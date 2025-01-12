@@ -90,6 +90,8 @@ As used in this section, the term "compounding" does not include mixing, reconst
 
 (June 25, 1938, ch. 675, §503A, as added Pub. L. 105–115, title I, §127(a), Nov. 21, 1997, 111 Stat. 2328; amended Pub. L. 113–54, title I, §106(a), Nov. 27, 2013, 127 Stat. 598.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2013**—Subsec. (a). Pub. L. 113–54, §106(a)(1), struck out "unsolicited" before "receipt of a valid prescription" in introductory provisions.
@@ -97,6 +99,8 @@ As used in this section, the term "compounding" does not include mixing, reconst
 Subsec. (b)(1)(A)(i)(III). Pub. L. 113–54, §106(a)(4), substituted "subsection (c)" for "subsection (d)".
 
 Subsecs. (c) to (f). Pub. L. 113–54, §106(a)(2), (3), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c). Prior to amendment, subsec. (c) read as follows: "A drug may be compounded under subsection (a) of this section only if the pharmacy, licensed pharmacist, or licensed physician does not advertise or promote the compounding of any particular drug, class of drug, or type of drug. The pharmacy, licensed pharmacist, or licensed physician may advertise and promote the compounding service provided by the licensed pharmacist or licensed physician."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

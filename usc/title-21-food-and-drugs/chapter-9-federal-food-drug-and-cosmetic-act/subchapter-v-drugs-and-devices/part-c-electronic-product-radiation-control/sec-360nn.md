@@ -26,6 +26,8 @@ The Secretary may by regulation (1) require dealers and distributors of electron
 
 (June 25, 1938, ch. 675, §537, formerly act July 1, 1944, ch. 373, title III, §537, formerly §360A, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1182; renumbered §537 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(E), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was classified to section 263i of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
@@ -39,6 +41,8 @@ Section was classified to section 263i of Title 42, The Public Health and Welfar
 Subsecs. (b) to (e). Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this subpart" wherever appearing.
 
 Subsec. (f). Pub. L. 101–629, §19(a)(1)(B), (2)(E)(ii), substituted "this part" for "this subpart", "section 360ll" for "section 263g" in three places, and "section 360ll(a)" for "section 263g(a)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Noninterference With Other Federal Agencies ####
 

@@ -124,6 +124,8 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 (June 25, 1938, ch. 675, §761, as added Pub. L. 109–462, §3(a), Dec. 22, 2006, 120 Stat. 3472.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective 1 year after Dec. 22, 2006, see section 3(d)(1) of Pub. L. 109–462, set out as an Effective Date of 2006 Amendment note under section 343 of this title.

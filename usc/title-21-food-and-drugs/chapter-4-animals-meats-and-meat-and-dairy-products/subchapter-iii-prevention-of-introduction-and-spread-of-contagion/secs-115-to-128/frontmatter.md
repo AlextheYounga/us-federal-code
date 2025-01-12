@@ -28,6 +28,8 @@ Section 127, act Mar. 3, 1905, ch. 1496, §6, 33 Stat. 1265; Pub. L. 97–461, �
 
 Section 128, act June 30, 1914, ch. 131, 38 Stat. 419; Pub. L. 87–518, §9, July 2, 1962, 76 Stat. 131, related to extension of quarantine law to carriers in interstate commerce.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Act Mar. 3, 1905, ch. 1496, 33 Stat. 1264, which enacted sections 123 to 127 of this title, was popularly known as the "Cattle Contagious Diseases Act of 1905".

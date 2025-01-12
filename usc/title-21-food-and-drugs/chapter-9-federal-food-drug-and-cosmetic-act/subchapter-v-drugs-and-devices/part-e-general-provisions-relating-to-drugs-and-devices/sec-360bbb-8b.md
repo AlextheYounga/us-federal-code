@@ -10,6 +10,8 @@ If the Secretary finds under subsection (a) that the data from clinical investig
 
 (June 25, 1938, ch. 675, §569B, as added Pub. L. 112–144, title XI, §1123, July 9, 2012, 126 Stat. 1113; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(Q), Dec. 13, 2016, 130 Stat. 1155.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–255 substituted "drug, biological product, or device" for "drug or device" wherever appearing.

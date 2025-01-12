@@ -1,5 +1,7 @@
 ### [§§4306 to 4308. Omitted] ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 4306 to 4308, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 441, 442, were omitted in the general revision of this chapter by the Civil Service Reform Act of 1978, Pub. L. 95–454, §203(a), Oct. 13, 1978, 92 Stat. 1131.

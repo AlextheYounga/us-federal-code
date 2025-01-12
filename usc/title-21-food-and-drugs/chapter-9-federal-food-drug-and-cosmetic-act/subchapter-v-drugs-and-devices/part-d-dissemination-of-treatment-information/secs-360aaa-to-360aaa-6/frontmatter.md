@@ -1,5 +1,7 @@
 ### §§360aaa to 360aaa–6. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections 360aaa to 360aaa–6 ceased to be effective pursuant to section 401(e) of Pub. L. 105–115, set out as an Effective and Termination Dates note below.
@@ -17,6 +19,8 @@ Section 360aaa–4, act June 25, 1938, ch. 675, §555, as added Pub. L. 105–11
 Section 360aaa–5, act June 25, 1938, ch. 675, §556, as added Pub. L. 105–115, title IV, §401(a), Nov. 21, 1997, 111 Stat. 2362, related to definitions.
 
 Section 360aaa–6, act June 25, 1938, ch. 675, §557, as added Pub. L. 105–115, title IV, §401(a), Nov. 21, 1997, 111 Stat. 2363, related to rules of construction.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective and Termination Dates ####
 

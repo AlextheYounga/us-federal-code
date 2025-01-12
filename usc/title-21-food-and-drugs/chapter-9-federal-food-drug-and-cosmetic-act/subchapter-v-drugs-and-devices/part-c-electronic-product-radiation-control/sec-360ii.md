@@ -36,6 +36,8 @@ In carrying out the purposes of subsection (a), the Secretary is authorized to�
 
 (June 25, 1938, ch. 675, §532, formerly act July 1, 1944, ch. 373, title III, §532, formerly §356, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1174; renumbered §532 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(A), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (b)(3), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -51,6 +53,8 @@ Section was classified to section 263d of Title 42, The Public Health and Welfar
 Subsec. (b)(3). Pub. L. 101–629, §19(a)(2)(A)(ii), substituted reference to section 3324 of title 31 for reference to section 3648 of the Revised Statutes (31 U.S.C. 529).
 
 Subsec. (c)(1), (2). Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this subpart".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

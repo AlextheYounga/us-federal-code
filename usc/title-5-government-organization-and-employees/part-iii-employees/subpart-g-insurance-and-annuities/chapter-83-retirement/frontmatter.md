@@ -82,6 +82,8 @@ Sec.
 
 8351. Participation in the Thrift Savings Plan.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Pub. L. 116–126, §2(b)(3)(A), Mar. 18, 2020, 134 Stat. 175, added item 8345a.

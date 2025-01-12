@@ -26,6 +26,8 @@ The term "controlled substance and chemical diversion control activities" means 
 
 (Pub. L. 102–395, title I, §111(b), Oct. 6, 1992, 106 Stat. 1843; Pub. L. 105–362, title X, §1001(b), Nov. 10, 1998, 112 Stat. 3291; Pub. L. 108–447, div. B, title VI, §633(a), Dec. 8, 2004, 118 Stat. 2921.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1993, and not as part of the Controlled Substances Act which comprises this subchapter.

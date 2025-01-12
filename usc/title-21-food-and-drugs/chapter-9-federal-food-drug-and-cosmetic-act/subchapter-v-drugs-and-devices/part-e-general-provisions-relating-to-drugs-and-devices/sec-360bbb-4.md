@@ -198,6 +198,8 @@ Not later than 180 days after March 13, 2013, and annually thereafter, the Secre
 
 (June 25, 1938, ch. 675, §565, as added Pub. L. 109–417, title IV, §404, Dec. 19, 2006, 120 Stat. 2875; amended Pub. L. 113–5, title III, §§303–306, Mar. 13, 2013, 127 Stat. 185–190; Pub. L. 116–22, title V, §503, June 24, 2019, 133 Stat. 951.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Subsec. (f)(3) to (5). Pub. L. 116–22, §503(1), (2), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively. Former par. (5) redesignated (6).
@@ -221,6 +223,8 @@ Subsecs. (c) to (e). Pub. L. 113–5, §304(3), added subsecs. (c) to (e).
 Subsec. (f). Pub. L. 113–5, §305, added subsec. (f).
 
 Subsec. (g). Pub. L. 113–5, §306, added subsec. (g).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Predictable Review Timelines of Vaccines by the Advisory Committee on Immunization Practices ####
 

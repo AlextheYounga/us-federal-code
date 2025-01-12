@@ -12,6 +12,8 @@ Not later than 9 months after October 24, 2018, the Secretary, acting through th
 
 (Pub. L. 115–271, title III, §3022(a), Oct. 24, 2018, 132 Stat. 3938.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Controlled Substances Act, referred to in subsec. (a)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
@@ -19,6 +21,8 @@ The Controlled Substances Act, referred to in subsec. (a)(1), is title II of Pub
 The Controlled Substances Import and Export Act, referred to in subsec. (a)(1), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 301 of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Codification ####
 

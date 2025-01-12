@@ -12,6 +12,10 @@ For repeal of amendment renumbering this section by section 13 of Pub. L. 109–
 
 Amendment by Pub. L. 109–455 repealed effective Sept. 30, 2027, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, as amended, set out as a note under section 44 of this title.
 
+#### Short Title of 2021 Amendment ####
+
+Pub. L. 116–287, §1, Jan. 5, 2021, 134 Stat. 4882, provided that: "This Act [enacting provisions set out as a note under section 52 of this title] may be cited as the 'Combating Pandemic Scams Act of 2020'."
+
 #### Short Title of 2018 Amendment ####
 
 Pub. L. 115–271, title VIII, §8021, Oct. 24, 2018, 132 Stat. 4082, provided that: "This subtitle [subtitle B (§§8021–8023) of title VIII of Pub. L. 115–271, enacting section 45d of this title and provisions set out as a note under section 45d of this title] may be cited as the 'Opioid Addiction Recovery Fraud Prevention Act of 2018'."

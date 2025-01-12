@@ -126,6 +126,8 @@ For the purposes of subsection (a), the term "vessel" does not include any ferry
 
 (Pub. L. 101–624, title XXV, §2509, Nov. 28, 1990, 104 Stat. 4069; Pub. L. 101–508, title I, §1203, Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 102–237, title X, §1015, Dec. 13, 1991, 105 Stat. 1902; Pub. L. 104–127, title IX, §917, Apr. 4, 1996, 110 Stat. 1187; Pub. L. 107–171, title X, §10418(b)(5), May 13, 2002, 116 Stat. 509.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Animal Health Protection Act, referred to in subsecs. (c)(2), (f)(1)(C), is subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to chapter 109 (§8301 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 7 and Tables.
@@ -183,6 +185,8 @@ Subsec. (a)(4). Pub. L. 102–237, §1015(3), substituted "Subject to the limits
 Subsec. (a)(3)(B)(ii). Pub. L. 101–508, §1203(2)(A), inserted at end "Any such reimbursement shall be subject to appropriations under clause (v)."
 
 Subsec. (a)(3)(B)(v). Pub. L. 101–508, §1203(2)(B), added cl. (v).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1990 Amendment ####
 

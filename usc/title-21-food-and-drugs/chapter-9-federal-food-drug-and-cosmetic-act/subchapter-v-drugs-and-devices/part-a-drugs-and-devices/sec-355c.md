@@ -476,6 +476,8 @@ Nothing in paragraph (1) shall be construed—
 
 (June 25, 1938, ch. 675, §505B, as added Pub. L. 108–155, §2(a), Dec. 3, 2003, 117 Stat. 1936; amended Pub. L. 110–85, title IV, §402(a), Sept. 27, 2007, 121 Stat. 866; Pub. L. 111–148, title VII, §7002(d)(2), Mar. 23, 2010, 124 Stat. 816; Pub. L. 112–144, title V, §§501(b), 505–506(b), 509(b), July 9, 2012, 126 Stat. 1040–1044, 1048; Pub. L. 114–255, div. A, title III, §§3101(a)(2)(D), 3102(3), Dec. 13, 2016, 130 Stat. 1153, 1156; Pub. L. 115–52, title V, §§503–504(b), 505(e), Aug. 18, 2017, 131 Stat. 1038–1041, 1047.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (a)(1). Pub. L. 115–52, §504(a)(1)(A), designated existing provisions as subpar. (A) and inserted heading, substituted "Except with respect to an application for which subparagraph (B) applies, a person" for "A person", redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, substituted "; or" for ", or" at end of subpar. (A)(i), and added subpar. (B).
@@ -591,6 +593,8 @@ Subsecs. (m), (n). Pub. L. 112–144, §501(b), redesignated subsec. (n) as (m) 
 **2010**—Subsec. (n). Pub. L. 111–148 added subsec. (n).
 
 **2007**—Pub. L. 110–85 amended section generally. Prior to amendment, section related to required submission of assessments with an application for a new drug or new biological product and by order of the Secretary for certain marketed drugs and biological products used for pediatric patients, a definition of meaningful therapeutic benefit, consequences of failure to submit required assessments, meetings of the Secretary and the sponsor of a new drug or biological product, a limitation of the scope of the Secretary's authority, application to orphan drugs, and integration with other pediatric studies.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2012 Amendment ####
 

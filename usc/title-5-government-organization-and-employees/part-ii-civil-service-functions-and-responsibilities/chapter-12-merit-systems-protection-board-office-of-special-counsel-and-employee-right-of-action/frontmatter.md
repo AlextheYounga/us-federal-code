@@ -42,6 +42,8 @@ Sec.
 
 1222. Availability of other remedies.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1989**—Pub. L. 101–12, §3(b)(2), (3), Apr. 10, 1989, 103 Stat. 31, substituted ", OFFICE OF SPECIAL COUNSEL, AND EMPLOYEE RIGHT OF ACTION" for "AND SPECIAL COUNSEL" in chapter heading, and amended chapter analysis generally, inserting subchapter I heading, and in item 1204 substituting "Powers and functions of the Merit Systems Protection Board" for "Special Counsel; appointment and removal", in item 1205 substituting "Transmittal of information to Congress" for "Powers and functions of the Merit Systems Protection Board and Special Counsel", in item 1206 substituting "Annual report" for "Authority and responsibilities of the Special Counsel", omitting items 1207 "Hearings and decisions on complaints filed by the Special Counsel", 1208 "Stays of certain personnel actions", and 1209 "Information", and inserting subchapters II and III headings and items 1211 to 1219, 1221, and 1222.

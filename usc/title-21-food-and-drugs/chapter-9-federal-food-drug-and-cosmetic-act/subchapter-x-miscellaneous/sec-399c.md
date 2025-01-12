@@ -58,6 +58,8 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (June 25, 1938, ch. 675, §1012, formerly §1011, as added Pub. L. 111–353, title II, §209(a), Jan. 4, 2011, 124 Stat. 3945; renumbered §1012, Pub. L. 114–255, div. A, title III, §3073(b)(2), Dec. 13, 2016, 130 Stat. 1137.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The FDA Food Safety Modernization Act, referred to in subsec. (c), is Pub. L. 111–353, Jan. 4, 2011, 124 Stat. 3885, which enacted chapter 27 (§2201 et seq.) and sections 350g to 350l–1, 379j–31, 384a to 384d, 399c, and 399d of this title, section 7625 of Title 7, Agriculture, and section 280g–16 of Title 42, The Public Health and Welfare, amended sections 331, 333, 334, 350b to 350d, 350f, 374, 381, 393, and 399 of this title and section 247b–20 of Title 42, and enacted provisions set out as notes under sections 331, 334, 342, 350b, 350d, 350e, 350g to 350j, 350l, and 381 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
@@ -65,6 +67,8 @@ The FDA Food Safety Modernization Act, referred to in subsec. (c), is Pub. L. 11
 #### Prior Provisions ####
 
 A prior section 1012 of act June 25, 1938, was renumbered section 1013 and is classified to section 399d of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Construction ####
 

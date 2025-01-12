@@ -40,9 +40,13 @@ Nothing in this section may be construed as having any effect on requirements un
 
 (June 25, 1938, ch. 675, §503C, formerly §503B, as added Pub. L. 110–85, title IX, §901(d)(2), Sept. 27, 2007, 121 Stat. 939, renumbered §503C, Pub. L. 113–54, title I, §102(a)(1), Nov. 27, 2013, 127 Stat. 587.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 353b of this title prior to renumbering by Pub. L. 113–54.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

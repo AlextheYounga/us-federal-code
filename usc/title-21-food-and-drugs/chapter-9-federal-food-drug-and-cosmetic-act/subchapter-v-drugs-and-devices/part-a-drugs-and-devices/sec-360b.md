@@ -504,6 +504,8 @@ For purposes of this section, with respect to an application described in paragr
 
 (June 25, 1938, ch. 675, §512, as added Pub. L. 90–399, §101(b), July 13, 1968, 82 Stat. 343; amended Pub. L. 100–670, title I, §§101, 102, 104, 107(a)(2), Nov. 16, 1988, 102 Stat. 3971, 3981, 3982, 3984; Pub. L. 102–108, §2(e), Aug. 17, 1991, 105 Stat. 550; Pub. L. 103–80, §3(r), Aug. 13, 1993, 107 Stat. 777; Pub. L. 103–396, §2(a), (b)(2), (3), Oct. 22, 1994, 108 Stat. 4153, 4154; Pub. L. 104–250, §§2(a)–(d), 3, 4, 5(c), 6(a), (b), Oct. 9, 1996, 110 Stat. 3151–3153, 3155–3157; Pub. L. 105–115, title I, §124(b), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 105–277, div. A, §101(a) [title VII, §737], Oct. 21, 1998, 112 Stat. 2681, 2681–30; Pub. L. 106–113, div. B, §1000(a)(9) [title IV, §4732(b)(11)], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 108–282, title I, §102(b)(2), (3), (5)(I)–(S), Aug. 2, 2004, 118 Stat. 892, 903, 904; Pub. L. 110–316, title I, §105(a), Aug. 14, 2008, 122 Stat. 3513; Pub. L. 114–89, §2(a)(3)(A), Nov. 25, 2015, 129 Stat. 699; Pub. L. 114–255, div. A, title III, §3088(b), Dec. 13, 2016, 130 Stat. 1149; Pub. L. 115–234, title III, §301(a), Aug. 14, 2018, 132 Stat. 2436.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 342(a)(2) of this title, referred to in subsec. (a)(6), was amended by Pub. L. 104–170, title IV, §404, Aug. 3, 1996, 110 Stat. 1514, and, as so amended, no longer contains a subcl. (D). See section 342(a)(2)(C)(ii) of this title.
@@ -621,6 +623,8 @@ Subsec. (e)(1)(D) to (F). Pub. L. 100–670, §102(b)(4), added subpar. (D) and 
 Subsecs. (n), (o). Pub. L. 100–670, §101(b), added subsecs. (n) and (o) and struck out former subsec. (n) which related to certification of new drugs containing penicillin, streptomycin, chlortetracycline, chloramphenicol, or bacitracin, and release prior to certification.
 
 Subsec. (p). Pub. L. 100–670, §104, added subsec. (p).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1999 Amendment ####
 

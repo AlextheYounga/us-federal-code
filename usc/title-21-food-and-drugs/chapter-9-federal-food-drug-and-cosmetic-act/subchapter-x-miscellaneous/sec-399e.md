@@ -28,6 +28,8 @@ In conducting activities related to nanotechnology, the Secretary may—
 
 (Pub. L. 112–144, title XI, §1126, July 9, 2012, 126 Stat. 1116.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 301 of this title and Tables.

@@ -28,6 +28,8 @@ The remedies provided for in this part shall be in addition to and not in substi
 
 (June 25, 1938, ch. 675, §539, formerly act July 1, 1944, ch. 373, title III, §539, formerly §360C, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1184; renumbered §539 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(G), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was classified to section 263k of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
@@ -45,6 +47,8 @@ Subsec. (d). Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this
 Subsec. (e). Pub. L. 101–629, §19(a)(1)(B), (2)(G)(iii), substituted "section 360ss" for "section 263n" and "this part" for "this subpart".
 
 Subsec. (f). Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this subpart".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Noninterference With Other Federal Agencies ####
 

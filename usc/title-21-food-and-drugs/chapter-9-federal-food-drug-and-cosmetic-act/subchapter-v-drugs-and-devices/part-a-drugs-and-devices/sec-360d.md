@@ -162,6 +162,8 @@ As of October 1, 2022—
 
 (June 25, 1938, ch. 675, §514, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 546; amended Pub. L. 94–460, title III, §304, Oct. 8, 1976, 90 Stat. 1960; Pub. L. 101–629, §§6(a), (b)(1), 18(b), Nov. 28, 1990, 104 Stat. 4519, 4528; Pub. L. 102–300, §6(g), June 16, 1992, 106 Stat. 241; Pub. L. 103–80, §4(a)(1), Aug. 13, 1993, 107 Stat. 779; Pub. L. 105–115, title II, §204(a), (d), Nov. 21, 1997, 111 Stat. 2335, 2336; Pub. L. 112–144, title VI, §608(a)(2)(B), July 9, 2012, 126 Stat. 1056; Pub. L. 114–255, div. A, title III, §§3044(b)(3), 3053(a), Dec. 13, 2016, 130 Stat. 1121, 1125; Pub. L. 115–52, title II, §205(a), Aug. 18, 2017, 131 Stat. 1016.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (d). Pub. L. 115–52 added subsec. (d).
@@ -221,6 +223,8 @@ Subsecs. (c) to (f). Pub. L. 101–629, §6(a)(2), struck out subsec. (c) relati
 Subsec. (g). Pub. L. 101–629, §6(a)(3), redesignated subsec. (g) as (b).
 
 **1976**—Subsec. (a). Pub. L. 94–460 redesignated pars. (4) and (5) as (3) and (4), respectively. Section as originally enacted contained no par. (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

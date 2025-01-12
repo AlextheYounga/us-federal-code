@@ -22,6 +22,8 @@ Any person that is the subject of an adverse decision under subsection (a) may o
 
 (June 25, 1938, ch. 675, §308, as added Pub. L. 102–282, §4, May 13, 1992, 106 Stat. 160.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Construction ####
 
 This section not to preclude any other civil, criminal, or administrative remedy provided under Federal or State law, including any private right of action against any person for the same action subject to any action or civil penalty under an amendment made by Pub. L. 102–282, see section 7 of Pub. L. 102–282, set out as a note under section 335a of this title.

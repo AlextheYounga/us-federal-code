@@ -10,6 +10,8 @@ There is authorized to be appropriated such sums as are necessary to carry out t
 
 (Pub. L. 107–171, title X, §10808(a), May 13, 2002, 116 Stat. 530.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Federal Meat Inspection Act which is classified to subchapters I to IV–A of this chapter.

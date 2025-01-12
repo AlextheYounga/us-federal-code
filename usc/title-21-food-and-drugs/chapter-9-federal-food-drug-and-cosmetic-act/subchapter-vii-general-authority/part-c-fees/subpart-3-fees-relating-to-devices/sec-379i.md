@@ -88,6 +88,8 @@ Such term does not include a supplement, a premarket report, or a premarket noti
 
 For termination of section by section 210(a) of Pub. L. 115–52, see Effective and Termination Dates note below.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Par. (8). Pub. L. 115–52, §202(a)(2), added par. (8). Former par. (8) redesignated (9).
@@ -129,6 +131,8 @@ Par. (4)(D). Pub. L. 108–214, §2(a)(1)(B), struck out "manufacturing," after 
 Par. (5)(J). Pub. L. 108–214, §2(a)(1)(C), substituted "a premarket application or premarket report under section 360e of this title or a premarket application under section 262 of title 42." for "a premarket application under section 360e of this title or section 262 of title 42."
 
 Par. (8). Pub. L. 108–214, §2(a)(1)(D), substituted "The term 'affiliate' means a business entity that has a relationship with a second business entity (whether domestic or international)" for "The term 'affiliate' means a business entity that has a relationship with a second business entity".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

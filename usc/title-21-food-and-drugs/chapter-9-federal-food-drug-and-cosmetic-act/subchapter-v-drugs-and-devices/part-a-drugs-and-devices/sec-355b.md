@@ -22,6 +22,8 @@ Paragraph (1) may not be construed as restricting the authority of the Secretary
 
 (Pub. L. 107–109, §17, Jan. 4, 2002, 115 Stat. 1422; Pub. L. 108–155, §3(b)(5), Dec. 3, 2003, 117 Stat. 1942.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(1), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 301 of this title and Tables.
@@ -33,6 +35,8 @@ Section was enacted as part of the Best Pharmaceuticals for Children Act, and no
 #### Amendments ####
 
 **2003**—Subsec. (b)(1). Pub. L. 108–155 struck out "Advisory Subcommittee of the Anti-Infective Drugs" before "Advisory Committee".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2003 Amendment ####
 

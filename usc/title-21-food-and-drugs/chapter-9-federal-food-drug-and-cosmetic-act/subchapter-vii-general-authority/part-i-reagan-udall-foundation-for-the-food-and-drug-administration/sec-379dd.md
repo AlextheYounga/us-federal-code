@@ -280,6 +280,8 @@ From amounts appropriated to the Food and Drug Administration for each fiscal ye
 
 (June 25, 1938, ch. 675, §770, as added Pub. L. 110–85, title VI, §601(a), Sept. 27, 2007, 121 Stat. 890; amended Pub. L. 114–255, div. A, title III, §3076, Dec. 13, 2016, 130 Stat. 1139.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsec. (d)(1)(C)(ii). Pub. L. 114–255, §3076(a)(1)(B), added cl. (ii). Former cl. (ii) redesignated (iii).

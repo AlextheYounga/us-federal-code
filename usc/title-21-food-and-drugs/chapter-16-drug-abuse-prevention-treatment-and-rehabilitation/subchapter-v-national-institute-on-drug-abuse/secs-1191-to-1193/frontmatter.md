@@ -1,5 +1,7 @@
 ### §§1191 to 1193. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1191, Pub. L. 92–255, title V, §501, Mar. 21, 1972, 86 Stat. 85; Pub. L. 93–282, title II, §204, May 14, 1974, 88 Stat. 136; Pub. L. 94–237, §12(a), Mar. 19, 1976, 90 Stat. 247; Pub. L. 96–181, §10, Jan. 2, 1980, 93 Stat. 1314; Pub. L. 97–35, title IX, §973(f), Aug. 13, 1981, 95 Stat. 598, which established the National Institute on Drug Abuse, was redesignated section 503(a)–(d) of the Public Health Service Act by Pub. L. 98–24, §2(b)(4), Apr. 26, 1983, 97 Stat. 177, transferred to section 290aa–2(a)–(d) of Title 42, The Public Health and Welfare, and subsequently repealed.

@@ -134,6 +134,8 @@ The Secretary may enter into contracts for research, testing, and demonstrations
 
 (June 25, 1938, ch. 675, §906, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1795; amended Pub. L. 116–94, div. N, title I, §603(a), Dec. 20, 2019, 133 Stat. 3123.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 906 of act June 25, 1938, was renumbered section 1006 and is classified to section 396 of this title.
@@ -143,6 +145,8 @@ A prior section 906 of act June 25, 1938, was renumbered section 1006 and is cla
 **2019**—Subsec. (d)(3)(A)(ii). Pub. L. 116–94, §603(a)(1), substituted "21 years" for "18 years".
 
 Subsec. (d)(5). Pub. L. 116–94, §603(a)(2), added par. (5).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Regulations ####
 

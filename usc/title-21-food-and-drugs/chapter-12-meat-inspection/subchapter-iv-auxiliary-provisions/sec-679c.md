@@ -18,6 +18,8 @@ There is authorized to be appropriated to carry out this section, $15,000,000 fo
 
 (Pub. L. 107–188, title III, §332, June 12, 2002, 116 Stat. 679.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, and not as part of the Federal Meat Inspection Act which is classified to subchapters I to IV–A of this chapter.

@@ -110,6 +110,8 @@ The Secretary may not award any priority review vouchers under subsection (b) af
 
 (June 25, 1938, ch. 675, §565A, as added Pub. L. 114–255, div. A, title III, §3086, Dec. 13, 2016, 130 Stat. 1144.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 101(b) of the Food and Drug Administration Safety and Innovation Act, referred to in subsec. (a)(2), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title.

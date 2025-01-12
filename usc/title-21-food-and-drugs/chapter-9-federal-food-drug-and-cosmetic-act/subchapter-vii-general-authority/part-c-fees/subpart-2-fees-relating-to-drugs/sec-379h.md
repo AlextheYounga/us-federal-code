@@ -332,6 +332,8 @@ An exemption under paragraph (1) applies with respect to a drug only if the appl
 
 For termination of section by section 104(a) of Pub. L. 115–52, see Termination Date note below.
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 357 of this title, referred to in subsec. (a)(2)(B)(iii), was repealed by Pub. L. 105–115, title I, §125(b)(1), Nov. 21, 1997, 111 Stat. 2325.
@@ -591,6 +593,8 @@ Subsec. (g)(3), (4). Pub. L. 105–115, §103(f)(3), added pars. (3) and (4) and
 as adjusted to reflect increases in the total fee revenues made under subsection (c)(1) of this section."
 
 Subsecs. (i), (j). Pub. L. 105–115, §103(g), added subsec. (i) and redesignated former subsec. (i) as (j).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

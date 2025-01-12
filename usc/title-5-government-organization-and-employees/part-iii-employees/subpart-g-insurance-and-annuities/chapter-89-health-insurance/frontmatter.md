@@ -42,6 +42,8 @@ Sec.
 
 8914. Effect of other statutes.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–435, title VIII, §803(a)(2), Dec. 20, 2006, 120 Stat. 3252, added item 8909a.

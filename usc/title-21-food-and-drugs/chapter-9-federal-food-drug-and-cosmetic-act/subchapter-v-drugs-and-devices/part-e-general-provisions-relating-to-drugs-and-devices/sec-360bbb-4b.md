@@ -74,11 +74,15 @@ In this section:
 
 (June 25, 1938, ch. 675, §565B, as added Pub. L. 116–22, title VI, §603(b), June 24, 2019, 133 Stat. 953.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsec. (e), is the Federal Food, Drug, and Cosmetic Act, act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to this chapter (§301 et seq.). For complete classification of this Act to the Code, see section 301 of this title and Tables.
 
 The Public Health Service Act, referred to in subsec. (e)(3), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Medical Countermeasure Master Files ####
 

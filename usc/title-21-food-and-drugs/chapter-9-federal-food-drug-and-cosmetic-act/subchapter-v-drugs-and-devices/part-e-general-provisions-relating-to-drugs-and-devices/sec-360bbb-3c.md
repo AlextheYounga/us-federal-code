@@ -38,6 +38,8 @@ In this subsection, the term "medical product" means a drug (as defined in secti
 
 (Pub. L. 115–92, §1(b), Dec. 12, 2017, 131 Stat. 2023.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of Pub. L. 115–92, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.

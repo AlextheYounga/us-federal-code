@@ -96,6 +96,8 @@ Nothing in this section shall be construed to authorize the Secretary to require
 
 (June 25, 1938, ch. 675, §415, as added Pub. L. 107–188, title III, §305(a), June 12, 2002, 116 Stat. 667; amended Pub. L. 111–353, title I, §102(a)–(b)(1), (d)(2), Jan. 4, 2011, 124 Stat. 3887, 3889.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Subsec. (a)(2). Pub. L. 111–353, §102(a)(1), (b)(1)(A), substituted "conducts business, the e-mail address for the contact person of the facility or, in the case of a foreign facility, the United States agent for the facility, and" for "conducts business and", inserted ", or any other food categories as determined appropriate by the Secretary, including by guidance" after "Code of Federal Regulations", and inserted after first sentence "The registration shall contain an assurance that the Secretary will be permitted to inspect such facility at the times and in the manner permitted by this chapter."
@@ -105,6 +107,8 @@ Subsec. (a)(3) to (5). Pub. L. 111–353, §102(a)(2), (3), added par. (3) and r
 Subsecs. (b), (c). Pub. L. 111–353, §102(b)(1)(B), (C), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 111–353, §102(b)(1)(B), (d)(2), redesignated subsec. (c) as (d) and inserted "for a facility to be registered, except with respect to the reinstatement of a registration that is suspended under subsection (b)" before period at end.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Regulations ####
 

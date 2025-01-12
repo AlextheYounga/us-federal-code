@@ -10,6 +10,8 @@ Section 4, act June 30, 1906, ch. 3915, §12, 34 Stat. 772, provided that act or
 
 Section 5, act June 30, 1906, ch. 3915, §12, 34 Stat. 772, defined "territory" and "person". See section 321 of this title and section 1 of Title 1, General Provisions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Act June 25, 1938, ch. 675, §1002(a), formerly §902(a), 52 Stat. 1059; renumbered §1002(a), Pub. L. 111–31, div. A, title I, §101(b)(2), June 22, 2009, 123 Stat. 1784, which repealed sections 1 to 5, 7 to 14, and 15 of this title, provided that the repeal of those sections should take effect upon the effective date of act June 25, 1938, which was to take effect twelve months after the date of its enactment. Act June 23, 1939, ch. 242, §2(b), 53 Stat. 854, provided that: "The provisions of such act of June 30, 1906, as amended, to the extent that they impose, or authorize the imposition of, any requirement imposed by section 403(k) of the Federal Food, Drug, and Cosmetic Act [section 343(k) of this title], shall remain in force until January 1, 1940."

@@ -230,6 +230,8 @@ Not later than 1 year after the date under paragraph (1)(A), the Comptroller Gen
 
 (June 25, 1938, ch. 675, §529, as added Pub. L. 112–144, title IX, §908, July 9, 2012, 126 Stat. 1094; amended Pub. L. 114–113, div. A, title VII, §765, Dec. 18, 2015, 129 Stat. 2286; Pub. L. 114–229, §2(a), Sept. 30, 2016, 130 Stat. 943; Pub. L. 114–255, div. A, title III, §3013(a), Dec. 13, 2016, 130 Stat. 1093; Pub. L. 116–159, div. C, title I, §2105, Oct. 1, 2020, 134 Stat. 729; Pub. L. 116–215, div. B, title II, §1211, Dec. 11, 2020, 134 Stat. 1045.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 101(b) of the Prescription Drug User Fee Amendments of 2012, referred to in subsec. (a)(1), is section 101(b) of Pub. L. 112–144, which is set out as a note under section 379g of this title.
@@ -259,6 +261,8 @@ Pub. L. 114–229, §2(a)(2)(B), added par. (5) and struck out former par. (5). 
 Subsec. (g). Pub. L. 114–229, §2(a)(3), inserted before period at end ", except that no sponsor of a rare pediatric disease product application may receive more than one priority review voucher issued under any section of this chapter with respect to the drug for which the application is made."
 
 **2015**—Subsec. (b)(5). Pub. L. 114–113 substituted "September 30, 2016." for "the last day of the 1-year period that begins on the date that the Secretary awards the third rare pediatric disease priority voucher under this section."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Construction ####
 

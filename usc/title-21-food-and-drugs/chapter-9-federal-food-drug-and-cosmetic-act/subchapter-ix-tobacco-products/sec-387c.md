@@ -56,6 +56,8 @@ The Secretary may, by regulation, require prior approval of statements made on t
 
 (June 25, 1938, ch. 675, §903, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1788; amended Pub. L. 116–94, div. N, title I, §603(d)(3), Dec. 20, 2019, 133 Stat. 3124.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (b), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables.
@@ -69,6 +71,8 @@ Another prior section 903 of act June 25, 1938, was renumbered section 1004 and 
 #### Amendments ####
 
 **2019**—Subsec. (a)(7)(B). Pub. L. 116–94 inserted "section 387f(d)(5) of this title or of" after "violation of".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

@@ -78,6 +78,8 @@ In providing the notice required by clause (ii), the Secretary may use the assis
 
 (June 25, 1938, ch. 675, §518, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 562; amended Pub. L. 101–629, §8, Nov. 28, 1990, 104 Stat. 4520; Pub. L. 102–300, §4, June 16, 1992, 106 Stat. 239.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1992**—Subsec. (b)(1)(A)(ii). Pub. L. 102–300 substituted "or" for "and" after "properly designed" and "time of its design".

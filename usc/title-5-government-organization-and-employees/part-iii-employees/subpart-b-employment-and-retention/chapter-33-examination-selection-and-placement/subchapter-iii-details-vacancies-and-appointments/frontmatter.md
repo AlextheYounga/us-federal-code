@@ -1,8 +1,12 @@
 ### SUBCHAPTER III—DETAILS, VACANCIES, AND APPOINTMENTS ###
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Pub. L. 105–277, div. C, title I, §151(c)(2), Oct. 21, 1998, 112 Stat. 2681–616, substituted "DETAILS, VACANCIES, AND APPOINTMENTS" for "DETAILS" as subchapter heading.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Annual Report to Congress on Employees or Members of Armed Services Detailed to Executive Agencies; Exemptions ####
 

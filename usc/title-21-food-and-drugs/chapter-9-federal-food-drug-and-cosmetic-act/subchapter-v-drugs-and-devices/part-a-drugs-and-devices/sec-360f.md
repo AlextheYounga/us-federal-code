@@ -16,6 +16,8 @@ The Secretary may declare a proposed regulation under subsection (a) to be effec
 
 (June 25, 1938, ch. 675, §516, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 560; amended Pub. L. 101–629, §18(d), Nov. 28, 1990, 104 Stat. 4529.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1990**—Subsec. (a). Pub. L. 101–629 struck out "and after consultation with the appropriate panel or panels under section 360c of this title" after "data and information" in introductory provisions and struck out at end "The Secretary shall afford all interested persons opportunity for an informal hearing on a regulation proposed under this subsection."

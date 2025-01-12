@@ -198,6 +198,8 @@ The Secretary may exempt tobacco products intended for investigational use from 
 
 (June 25, 1938, ch. 675, §910, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1807.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 910 of act June 25, 1938, was renumbered section 1010 and is classified to section 399a of this title.

@@ -52,6 +52,8 @@ For purposes of this section, the term "importer" means the person that brings f
 
 (June 25, 1938, ch. 675, §806, as added Pub. L. 111–353, title III, §302, Jan. 4, 2011, 124 Stat. 3955.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Construction ####
 
 Nothing in this section to be construed to alter jurisdiction and authorities established under certain other Acts or in a manner inconsistent with international agreements to which the United States is a party, see sections 2251 and 2252 of this title.

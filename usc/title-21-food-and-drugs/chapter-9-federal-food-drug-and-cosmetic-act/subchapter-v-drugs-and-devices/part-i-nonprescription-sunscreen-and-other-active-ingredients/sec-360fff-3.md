@@ -172,6 +172,8 @@ Requestors shall submit to the Secretary at the time when a drug subject to such
 
 (June 25, 1938, ch. 675, §586C, as added Pub. L. 113–195, §2(a), Nov. 26, 2014, 128 Stat. 2039; amended Pub. L. 116–136, div. A, title III, §3854(b)(1)–(3), Mar. 27, 2020, 134 Stat. 455, 456.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2020**—Subsec. (b)(7). Pub. L. 116–136, §3854(b)(2), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
@@ -179,6 +181,8 @@ Requestors shall submit to the Secretary at the time when a drug subject to such
 Subsec. (e)(3). Pub. L. 116–136, §3854(b)(1), amended par. (3) generally. Prior to amendment, par. (3) related to inclusion of ingredients that are subjects of final orders in the sunscreen monograph.
 
 Subsec. (f). Pub. L. 116–136, §3854(b)(3), added subsec. (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Review of Nonprescription Sunscreen Active Ingredients ####
 

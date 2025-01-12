@@ -1,5 +1,7 @@
 ### §§881–1, 881a. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 881–1, Pub. L. 91–513, title II, §511A, as added Pub. L. 100–690, title VI, §6080(a), Nov. 18, 1988, 102 Stat. 4326, which related to expedited procedures for seized conveyances, was renumbered §518 of Pub. L. 91–513 by Pub. L. 101–647, title X, §1002(h)(1), Nov. 29, 1990, 104 Stat. 4828, transferred to section 888 of this title and subsequently repealed.

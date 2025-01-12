@@ -12,6 +12,8 @@ Sec.
 
 9905. Direct hire authority for certain personnel of the Department of Defense.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title XI, §1101(b), Aug. 13, 2018, 132 Stat. 2000, added item 9905.

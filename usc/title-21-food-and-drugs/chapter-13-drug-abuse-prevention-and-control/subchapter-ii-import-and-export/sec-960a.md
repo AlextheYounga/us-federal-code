@@ -28,6 +28,8 @@ As used in this section, the term "anything of pecuniary value" has the meaning 
 
 (Pub. L. 91–513, title III, §1010A, as added Pub. L. 109–177, title I, §122, Mar. 9, 2006, 120 Stat. 225.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 841, referred to in the original in subsec. (a), probably should have been a reference to section 401 of Pub. L. 91–513, which is classified to section 841 of this title. Pub. L. 91–513 does not contain a section 841.

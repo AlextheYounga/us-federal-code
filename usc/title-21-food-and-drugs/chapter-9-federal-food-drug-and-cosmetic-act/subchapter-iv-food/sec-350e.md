@@ -80,6 +80,8 @@ The Secretary of Transportation, the Secretary of Agriculture, the Administrator
 
 (June 25, 1938, ch. 675, §416, as added Pub. L. 109–59, title VII, §7202(b), Aug. 10, 2005, 119 Stat. 1911.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective Oct. 1, 2005, see section 7204 of Pub. L. 109–59, set out as an Effective Date of 2005 Amendment note under section 331 of this title.

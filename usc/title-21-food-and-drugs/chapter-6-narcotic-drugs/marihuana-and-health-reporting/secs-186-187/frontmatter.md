@@ -1,5 +1,7 @@
 ### §§186, 187. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 186, Pub. L. 91–296, title V, §501, June 30, 1970, 84 Stat. 352, which related to congressional findings as to marihuana use, the need for a better understanding of the health consequences, and the lack of information thereto, was transferred and set out as a note under section 242 of Title 42, The Public Health and Welfare.

@@ -18,6 +18,8 @@ There are authorized to be appropriated for each of the fiscal years 1991 throug
 
 (Pub. L. 101–624, title XXV, §2506, Nov. 28, 1990, 104 Stat. 4068; Pub. L. 104–127, title IX, §916, Apr. 4, 1996, 110 Stat. 1187; Pub. L. 107–171, title X, §10505, May 13, 2002, 116 Stat. 511.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Subsec. (d). Pub. L. 107–171 substituted "2007" for "2002".

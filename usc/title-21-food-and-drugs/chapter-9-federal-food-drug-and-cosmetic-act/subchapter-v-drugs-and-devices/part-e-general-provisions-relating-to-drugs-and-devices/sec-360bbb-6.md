@@ -34,6 +34,8 @@ The systems developed under paragraph (1) shall—
 
 (June 25, 1938, ch. 675, §567, as added Pub. L. 110–85, title IX, §917, Sept. 27, 2007, 121 Stat. 960.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (a)(4), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.

@@ -688,6 +688,8 @@ Nothing in this section shall be construed to amend or modify the provisions of 
 
 (June 25, 1938, ch. 675, §408, as added July 22, 1954, ch. 559, §3, 68 Stat. 511; amended Pub. L. 85–791, §20, Aug. 28, 1958, 72 Stat. 947; Pub. L. 91–515, title VI, §601(d)(1), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 92–157, title III, §303(a), Nov. 18, 1971, 85 Stat. 464; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 98–620, title IV, §402(25)(A), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 102–300, §6(b)(1), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(7), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(k), Aug. 13, 1993, 107 Stat. 776; Pub. L. 104–170, title IV, §405, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 105–324, §2(b), Oct. 30, 1998, 112 Stat. 3036; Pub. L. 110–94, §4(d)(2), Oct. 9, 2007, 121 Stat. 1002; Pub. L. 112–177, §2(a)(3), Sept. 28, 2012, 126 Stat. 1329; Pub. L. 116–8, §2(c), Mar. 8, 2019, 133 Stat. 485.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in subsec. (g)(2)(B), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -743,6 +745,8 @@ Subsec. (g). Pub. L. 102–571 substituted "379e" for "376".
 **1958**—Subsec. (i)(2). Pub. L. 85–791, §20(a), in first sentence, substituted "transmitted by the clerk of the court to the Secretary, or" for "served upon the Secretary, or upon", substituted "file in the court the record of the proceedings" for "certify and file in the court a transcript of the proceedings and the record", and inserted "as provided in section 2112 of title 28", and which, in second sentence, substituted "the filing of such petition" for "such filing".
 
 Subsec. (i)(3). Pub. L. 85–791, §20(b), in first sentence, substituted "transmitted by the clerk of the court to the Secretary of Agriculture, or" for "served upon the Secretary of Agriculture, or upon", substituted "file in the court the record of the proceedings" for "certify and file in the court a transcript of the proceedings and the record", and inserted "as provided in section 2112 of title 28", and, in second sentence, substituted "the filing of such petition" for "such filing".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2012 Amendment ####
 

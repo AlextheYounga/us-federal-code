@@ -152,6 +152,8 @@ In this section and section 360ccc–1 of this title, the term "transgenic anima
 
 (June 25, 1938, ch. 675, §571, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 892; amended Pub. L. 114–89, §2(a)(3)(B), Nov. 25, 2015, 129 Stat. 699; Pub. L. 115–234, title III, §§301(b), 304(a), Aug. 14, 2018, 132 Stat. 2436.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Controlled Substances Act, referred to in subsec. (d)(4)(A), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
@@ -173,6 +175,8 @@ Subsec. (f)(2). Pub. L. 115–234, §304(a)(3)(B), substituted "The Secretary sh
 Subsec. (k). Pub. L. 115–234, §304(a)(4), added subsec. (k).
 
 **2015**—Subsec. (d)(4). Pub. L. 114–89 added par. (4).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Findings ####
 

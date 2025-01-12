@@ -117,6 +117,8 @@ Chap. Sec.
 
 110. Enhanced personnel 2 security 2 programs 2 11001
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–92, div. A, title XI, §1122(c), Dec. 20, 2019, 133 Stat. 1608, added item for chapter 92.

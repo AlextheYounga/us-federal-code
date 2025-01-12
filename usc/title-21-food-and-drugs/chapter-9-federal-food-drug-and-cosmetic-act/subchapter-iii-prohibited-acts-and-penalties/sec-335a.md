@@ -370,6 +370,8 @@ Subsections (c)(3), (d), (e), (i), (j), and (l)(1) apply with respect to a perso
 
 (June 25, 1938, ch. 675, §306, as added Pub. L. 102–282, §2, May 13, 1992, 106 Stat. 150; amended Pub. L. 105–115, title I, §125(b)(2)(C), Nov. 21, 1997, 111 Stat. 2325; Pub. L. 107–188, title III, §304(a)–(c), June 12, 2002, 116 Stat. 665, 666; Pub. L. 107–250, title II, §203, Oct. 26, 2002, 116 Stat. 1610; Pub. L. 115–271, title III, §3022(b)(2), Oct. 24, 2018, 132 Stat. 3938.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 306 of act June 25, 1938, was renumbered section 309 and is classified to section 336 of this title.
@@ -413,6 +415,8 @@ Subsec. (l)(2). Pub. L. 107–188, §304(c), in first sentence struck out "and" 
 Subsec. (m). Pub. L. 107–250 added subsec. (m).
 
 **1997**—Subsec. (d)(4)(B)(ii). Pub. L. 105–115 struck out "or 357" after "355".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Construction ####
 

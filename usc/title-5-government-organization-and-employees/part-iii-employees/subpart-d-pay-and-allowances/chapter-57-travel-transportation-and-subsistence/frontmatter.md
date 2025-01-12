@@ -114,6 +114,8 @@ Sec.
 
 5761. Foreign language proficiency pay awards for the Federal Bureau of Investigation.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–92, div. A, title XI, §1114(b), Dec. 20, 2019, 133 Stat. 1604, substituted "Taxes on reimbursements for travel, transportation, and relocation expenses" for "Taxes on reimbursements for travel, transportation, and relocation expenses of employees transferred" in item 5724b.

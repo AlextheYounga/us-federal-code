@@ -34,6 +34,8 @@ Not later than 6 months after October 24, 2018, the Secretary, in consultation w
 
 (Pub. L. 115–271, title III, §3014, Oct. 24, 2018, 132 Stat. 3937.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Codification ####
 
 Section was enacted as part of the Stop Counterfeit Drugs by Regulating and Enhancing Enforcement Now Act, also known as the SCREEN Act, and also as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.

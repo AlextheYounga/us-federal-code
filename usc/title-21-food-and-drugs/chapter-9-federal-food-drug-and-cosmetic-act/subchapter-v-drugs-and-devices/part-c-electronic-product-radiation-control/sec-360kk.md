@@ -72,6 +72,8 @@ Every manufacturer of an electronic product to which is applicable a standard in
 
 (June 25, 1938, ch. 675, §534, formerly act July 1, 1944, ch. 373, title III, §534, formerly §358, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1177; amended Pub. L. 91–515, title VI, §601(b)(2), (3), Oct. 30, 1970, 84 Stat. 1311; renumbered §534 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(B), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §§3(w), 4(a)(2), Aug. 13, 1993, 107 Stat. 778, 779.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was classified to section 263f of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 101–629.
@@ -87,6 +89,8 @@ Subsec. (f)(2). Pub. L. 103–80, §3(w), made technical amendment to reference 
 Subsecs. (e), (f)(1)(A). Pub. L. 101–629, §19(a)(1)(B), substituted "this part" for "this subpart".
 
 **1970**—Subsec. (f)(2). Pub. L. 91–515 struck out provisions related to payment of compensation and travel expenses of members of the Committee who are not officers or employees of the United States, and substituted "to members of the Committee who are not officers or employees of the United States pursuant to subsection (c) of section 210 of title 42" for "under this subsection".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Noninterference With Other Federal Agencies ####
 

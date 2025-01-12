@@ -18,6 +18,8 @@ A prior section 114d, act Feb. 28, 1947, ch. 8, §3, 61 Stat. 8, related to repo
 
 Section 114d–1, act Feb. 28, 1947, ch. 8, §5, as added Pub. L. 89–521, §2, July 27, 1966, 80 Stat. 330; amended Pub. L. 101–255, §1(5), Mar. 15, 1990, 104 Stat. 114, related to cooperation with public and private entities.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Section 6 of act Feb. 28, 1947, ch. 8, as added by Pub. L. 101–255, §1(6), Mar. 15, 1990, 104 Stat. 114, provided that the act Feb. 28, 1947, ch. 8, which enacted sections 114b to 114d–1 of this title and provisions set out as a note under former section 114b of this title, could be referred to as the "Animal Disease Control Cooperation Act of 1947".

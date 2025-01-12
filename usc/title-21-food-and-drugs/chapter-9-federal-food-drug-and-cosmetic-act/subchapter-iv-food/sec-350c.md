@@ -36,6 +36,8 @@ This section shall not be construed—
 
 (June 25, 1938, ch. 675, §414, as added Pub. L. 107–188, title III, §306(a), June 12, 2002, 116 Stat. 669; amended Pub. L. 111–353, title I, §101(a), Jan. 4, 2011, 124 Stat. 3886.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Meat Inspection Act, referred to in subsec. (d)(2), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, §11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
@@ -47,6 +49,8 @@ The Egg Products Inspection Act, referred to in subsec. (d)(2), is Pub. L. 91–
 #### Amendments ####
 
 **2011**—Subsec. (a). Pub. L. 111–353 reenacted heading without change, designated existing provisions as par. (1) and inserted heading, substituted "If the Secretary has a reasonable belief that an article of food, and any other article of food that the Secretary reasonably believes is likely to be affected in a similar manner, is" for "If the Secretary has a reasonable belief that an article of food is", inserted ", and to any other article of food that the Secretary reasonably believes is likely to be affected in a similar manner," after "relating to such article", struck out at end "The requirement under the preceding sentence applies to all records relating to the manufacture, processing, packing, distribution, receipt, holding, or importation of such article maintained by or on behalf of such person in any format (including paper and electronic formats) and at any location.", and added pars. (2) and (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Expedited Rulemaking ####
 

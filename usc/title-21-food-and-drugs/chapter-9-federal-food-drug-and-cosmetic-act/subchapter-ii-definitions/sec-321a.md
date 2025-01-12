@@ -4,6 +4,8 @@ For the purposes of the Food and Drug Act of June 30, 1906 (Thirty-fourth Statut
 
 (Mar. 4, 1923, ch. 268, 42 Stat. 1500.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Food and Drug Act of June 30, 1906, referred to in text, is act June 30, 1906, ch. 3915, 34 Stat. 768, which was classified to subchapter I (§1 et seq.) of chapter 1 of this title, was repealed (except for section 14a which was transferred to section 376 of this title) by act June 25, 1938, ch. 675, §1002(a), formerly §902(a), 52 Stat. 1059; renumbered §1002(a), Pub. L. 111–31, div. A, title I, §101(b)(2), June 22, 2009, 123 Stat. 1784, and is covered by this chapter.

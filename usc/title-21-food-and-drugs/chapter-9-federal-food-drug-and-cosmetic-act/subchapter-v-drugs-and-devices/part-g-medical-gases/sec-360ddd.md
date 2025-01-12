@@ -28,9 +28,13 @@ In this part:
 
 (June 25, 1938, ch. 675, §575, as added Pub. L. 112–144, title XI, §1111, July 9, 2012, 126 Stat. 1108; amended Pub. L. 114–255, div. A, title III, §3101(a)(2)(R), Dec. 13, 2016, 130 Stat. 1155.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Par. (1)(H). Pub. L. 114–255 inserted "for a new drug" after "any period of exclusivity" and "or any period of exclusivity for a new animal drug under section 360b(c)(2)(F) of this title," after "section 355a of this title,".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Changes to Regulations ####
 

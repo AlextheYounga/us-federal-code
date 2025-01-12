@@ -42,6 +42,8 @@ For purposes of this section, the term "farm" has the meaning given that term in
 
 (June 25, 1938, ch. 675, §420, as added Pub. L. 111–353, title I, §106(a), Jan. 4, 2011, 124 Stat. 3905.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Construction ####
 
 Nothing in this section to be construed to apply to certain alcohol-related facilities, to alter jurisdiction and authorities established under certain other Acts, or in a manner inconsistent with international agreements to which the United States is a party, see sections 2206, 2251, and 2252 of this title.

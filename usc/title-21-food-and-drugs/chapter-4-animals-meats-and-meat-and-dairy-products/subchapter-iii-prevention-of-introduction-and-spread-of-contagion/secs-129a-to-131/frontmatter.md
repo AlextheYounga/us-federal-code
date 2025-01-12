@@ -6,6 +6,8 @@ Section 130, act May 29, 1884, ch. 60, §8, 23 Stat. 33; 1967 Reorg. Plan No. 3,
 
 Section 131, act May 26, 1910, ch. 256, 36 Stat. 440, related to fences along international boundary lines to keep out diseased animals.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 97–46, §2, Sept. 25, 1981, 95 Stat. 953, provided that section 129a of this title was to become effective Sept. 25, 1981, prior to repeal by Pub. L. 107–171, title X, §10418(a)(1), May 13, 2002, 116 Stat. 507.

@@ -42,6 +42,8 @@ A manufacturer may request review under section 360bbb–1 of this title of any 
 
 (June 25, 1938, ch. 675, §522, as added Pub. L. 101–629, §10, Nov. 28, 1990, 104 Stat. 4521; amended Pub. L. 102–300, §3(b), June 16, 1992, 106 Stat. 239; Pub. L. 105–115, title II, §212, Nov. 21, 1997, 111 Stat. 2346; Pub. L. 110–85, title III, §307, Sept. 27, 2007, 121 Stat. 865; Pub. L. 112–144, title VI, §616, July 9, 2012, 126 Stat. 1062.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2012**—Subsec. (a)(1)(A). Pub. L. 112–144, §616(1), inserted ", at the time of approval or clearance of a device or at any time thereafter," after "by order" in introductory provisions.
@@ -63,6 +65,8 @@ Subsec. (c). Pub. L. 110–85, §307(3)(D), added subsec. (c).
 **1997**—Pub. L. 105–115 amended section generally, substituting present provisions for former provisions which related to required surveillance, discretionary surveillance, and surveillance approval.
 
 **1992**—Subsec. (b). Pub. L. 102–300 substituted "(a)(1)" for "(a)", inserted comma after "commerce", and inserted after first sentence "Each manufacturer required to conduct a surveillance of a device under subsection (a)(2) of this section shall, within 30 days after receiving notice that the manufacturer is required to conduct such surveillance, submit, for the approval of the Secretary, a protocol for the required surveillance."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1997 Amendment ####
 

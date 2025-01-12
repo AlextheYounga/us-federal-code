@@ -198,6 +198,8 @@ is exempt from the requirements of subsections (a), (b), and (c). The manufactur
 
 (June 25, 1938, ch. 675, §412, as added Pub. L. 96–359, §2, Sept. 26, 1980, 94 Stat. 1190; amended Pub. L. 99–570, title IV, §4014(a), (b)(1), Oct. 27, 1986, 100 Stat. 3207–116, 3207–120; Pub. L. 103–80, §3(l), Aug. 13, 1993, 107 Stat. 777.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1993**—Subsec. (h)(1). Pub. L. 103–80 substituted "(e)(1)(B)" for "(c)(1)(B)," in concluding provisions.
@@ -217,6 +219,8 @@ Pub. L. 99–570, §4014(a)(5), which directed that "(d)(1)(B)" be substituted f
 Subsec. (h)(2). Pub. L. 99–570, §4014(a)(6), substituted "(a), (b), and (c)" for "(a) and (b)".
 
 Subsec. (i). Pub. L. 99–570, §4014(a)(1), (b)(1), redesignated subsec. (g) as (i), designated existing provisions as par. (1), substituted "paragraph (2)" for "subsection (a)(2) of this section", substituted a period for the colon after "as so revised", and added par. (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1980 Amendment ####
 

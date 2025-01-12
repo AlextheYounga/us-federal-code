@@ -16,6 +16,8 @@ In this section—
 
 (Pub. L. 114–255, div. A, title III, §3016, Dec. 13, 2016, 130 Stat. 1095.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the 21st Century Cures Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.

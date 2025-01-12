@@ -130,6 +130,8 @@ The authority provided by this section terminates October 1, 2022.
 
 (June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609; Pub. L. 110–85, title II, §221, Sept. 27, 2007, 121 Stat. 852; Pub. L. 111–31, div. A, title I, §103(f), June 22, 2009, 123 Stat. 1837; Pub. L. 112–144, title VI, §611, July 9, 2012, 126 Stat. 1059; Pub. L. 114–255, div. A, title III, §3102(4), Dec. 13, 2016, 130 Stat. 1156; Pub. L. 115–52, title II, §206, Aug. 18, 2017, 131 Stat. 1018.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 360e–3 of this title, referred to in subsec. (a)(3)(A)(ii), was in the original a reference to section 515C of act June 25, 1938, which was renumbered section 515B by Pub. L. 115–52, title IX, §901(f)(2), Aug. 18, 2017, 131 Stat. 1077.
@@ -173,6 +175,8 @@ Subsec. (c). Pub. L. 112–144, §611(b), substituted "October 1, 2017" for "Oct
 whichever occurs first."
 
 Subsec. (d). Pub. L. 107–250, §202(2), added subsec. (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

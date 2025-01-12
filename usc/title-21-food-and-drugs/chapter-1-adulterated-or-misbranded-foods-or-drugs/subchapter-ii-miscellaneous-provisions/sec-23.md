@@ -4,6 +4,8 @@ Any person, firm or corporation, or association who shall knowingly pack or caus
 
 (Aug. 3, 1912, ch. 273, §6, 37 Stat. 251.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is also set out as section 233 of Title 15, Commerce and Trade.

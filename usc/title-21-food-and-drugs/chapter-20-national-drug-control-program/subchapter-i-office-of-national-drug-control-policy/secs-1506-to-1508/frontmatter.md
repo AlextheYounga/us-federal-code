@@ -6,6 +6,8 @@ Section 1507, Pub. L. 100–690, title I, §1010, Nov. 18, 1988, 102 Stat. 4188;
 
 Section 1508, Pub. L. 100–690, title I, §1011, Nov. 18, 1988, 102 Stat. 4189; Pub. L. 103–322, title IX, §90206, Sept. 13, 1994, 108 Stat. 1995; Pub. L. 105–20, §2(b), June 27, 1997, 111 Stat. 234, authorized appropriations to carry out this subchapter. See section 1711 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2019 Amendment ####
 
 Amendment by Pub. L. 116–74 effective as if included in the enactment of subtitle K of title VIII of Pub. L. 115–271, see section 2(c)(2) of Pub. L. 116–74, set out as a note under section 1522 of this title.

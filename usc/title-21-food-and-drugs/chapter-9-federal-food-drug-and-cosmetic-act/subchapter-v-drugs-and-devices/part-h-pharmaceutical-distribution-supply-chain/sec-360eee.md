@@ -286,6 +286,8 @@ The term "wholesale distributor" means a person (other than a manufacturer, a ma
 
 (June 25, 1938, ch. 675, §581, as added Pub. L. 113–54, title II, §202, Nov. 27, 2013, 127 Stat. 599.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in par. (24)(B)(xiii)(II), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.

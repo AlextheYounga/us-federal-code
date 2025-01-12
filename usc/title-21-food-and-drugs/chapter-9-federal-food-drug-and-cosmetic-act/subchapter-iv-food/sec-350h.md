@@ -186,11 +186,15 @@ This section shall not apply to activities of a facility that are subject to sec
 
 (June 25, 1938, ch. 675, §419, as added Pub. L. 111–353, title I, §105(a), Jan. 4, 2011, 124 Stat. 3899.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Organic Foods Production Act of 1990, referred to in subsec. (a)(1)(A), (3)(E), is title XXI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3935, which is classified generally to chapter 94 (§6501 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 6501 of Title 7 and Tables.
 
 The FDA Food Safety Modernization Act, referred to in subsec. (a)(3)(E), is Pub. L. 111–353, Jan. 4, 2011, 124 Stat. 3885, which enacted chapter 27 (§2201 et seq.) and sections 350g to 350l–1, 379j–31, 384a to 384d, 399c, and 399d of this title, section 7625 of Title 7, Agriculture, and section 280g–16 of Title 42, The Public Health and Welfare, amended sections 331, 333, 334, 350b to 350d, 350f, 374, 381, 393, and 399 of this title and section 247b–20 of Title 42, and enacted provisions set out as notes under sections 331, 334, 342, 350b, 350d, 350e, 350g to 350j, 350l, and 381 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2201 of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Construction ####
 

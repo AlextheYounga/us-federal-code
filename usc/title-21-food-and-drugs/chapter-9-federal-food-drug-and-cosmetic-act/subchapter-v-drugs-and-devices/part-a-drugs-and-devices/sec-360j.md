@@ -514,6 +514,8 @@ An over-the-counter hearing aid shall be subject to the regulations promulgated 
 
 (June 25, 1938, ch. 675, §520, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 565; amended Pub. L. 101–629, §§3(b)(2), 4(b)(2), 5(c)(2), 6(b)(2), 11, 14(a), 18(e), (f), Nov. 28, 1990, 104 Stat. 4514, 4516, 4518, 4519, 4522, 4524, 4529; Pub. L. 102–571, title I, §107(10), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 105–115, title I, §125(b)(2)(E), title II, §§201(a), 203, 216(a)(1), title IV, §410(a), Nov. 21, 1997, 111 Stat. 2325, 2332, 2334, 2349, 2372; Pub. L. 109–96, §1, Nov. 9, 2005, 119 Stat. 2119; Pub. L. 110–85, title III, §303(a), title VIII, §801(b)(3)(E), Sept. 27, 2007, 121 Stat. 860, 921; Pub. L. 112–144, title V, §507(c), title VI, §§601, 606, 613(a), 617, July 9, 2012, 126 Stat. 1045, 1051, 1054, 1060, 1062; Pub. L. 114–255, div. A, title III, §§3024(a), 3038(b), 3052(a), 3056, 3060(a), Dec. 13, 2016, 130 Stat. 1099, 1110, 1124, 1128, 1130; Pub. L. 115–52, title V, §502(b), title VII, §§706(a), 709(a), Aug. 18, 2017, 131 Stat. 1037, 1058, 1065.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 July 9, 2012, referred to in subsec. (b)(3), was in the original "the date of enactment of this section", which was translated as meaning the date of enactment of Pub. L. 112–144, which amended subsec. (b) generally, to reflect the probable intent of Congress.
@@ -645,6 +647,8 @@ Pub. L. 101–629, §5(c)(2), substituted "The Secretary may initiate the reclas
 Subsec. (l)(5). Pub. L. 101–629, §4(b)(2), added par. (5).
 
 Subsec. (m). Pub. L. 101–629, §14(a), added subsec. (m).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1997 Amendment ####
 

@@ -23,3 +23,5 @@ Sec.
 41310. Report on theft of trade secrets occurring abroad.
 
 41311. Improving Department of Justice data collection on mental illness involved in crime.
+
+41312. Report on female genital mutilation.

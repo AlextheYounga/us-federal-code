@@ -44,6 +44,8 @@ In this part—
 
 (June 25, 1938, ch. 675, §586, as added Pub. L. 113–195, §2(a), Nov. 26, 2014, 128 Stat. 2035.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Construction ####
 
 Pub. L. 113–195, §2(b), Nov. 26, 2014, 128 Stat. 2045, provided that: "Nothing in the amendment made by this section [enacting this section and sections 360fff–1 to [former] 360fff–5 of this title] shall be construed to—

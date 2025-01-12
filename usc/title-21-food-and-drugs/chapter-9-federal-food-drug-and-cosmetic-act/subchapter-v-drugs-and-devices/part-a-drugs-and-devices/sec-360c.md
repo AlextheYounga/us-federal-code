@@ -332,6 +332,8 @@ For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 
 
 (June 25, 1938, ch. 675, §513, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 540; amended Pub. L. 101–629, §§4(a), 5(a)–(c)(1), (3), 12(a), 18(a), Nov. 28, 1990, 104 Stat. 4515, 4517, 4518, 4523, 4528; Pub. L. 102–300, §6(e), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(s), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§205(a), (b), 206(b), (c), 207, 208, 217, Nov. 21, 1997, 111 Stat. 2336, 2337, 2339, 2340, 2350; Pub. L. 107–250, title II, §208, Oct. 26, 2002, 116 Stat. 1613; Pub. L. 112–144, title VI, §§602, 607–608(a)(2)(A), July 9, 2012, 126 Stat. 1051, 1054–1056; Pub. L. 114–255, div. A, title III, §§3055, 3058(a), 3060(c), 3101(a)(2)(I), Dec. 13, 2016, 130 Stat. 1127, 1128, 1133, 1154; Pub. L. 115–52, title VII, §707(a), (b), title IX, §901(h), Aug. 18, 2017, 131 Stat. 1060, 1062, 1077.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(1), (8), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -415,6 +417,8 @@ Subsec. (f)(2)(B)(i). Pub. L. 101–629, §18(a), substituted "the Secretary may
 Subsec. (f)(3). Pub. L. 101–629, §4(a), added par. (3).
 
 Subsec. (i). Pub. L. 101–629, §12(a), added subsec. (i).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

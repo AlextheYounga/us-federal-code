@@ -8,6 +8,8 @@ Section 1505, Pub. L. 100–690, title I, §1008, formerly §1003A, as added Pub
 
 A prior section 1505, Pub. L. 100–690, title I, §1008, Nov. 18, 1988, 102 Stat. 4188, provided for an executive reorganization study and report to Congress and the President no later than Jan. 15, 1990, prior to repeal by Pub. L. 103–322, §90204(c)(1).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Sept. 30, 1997, see section 1009 of Pub. L. 100–690, as amended, which was formerly classified to section 1506 of this title.

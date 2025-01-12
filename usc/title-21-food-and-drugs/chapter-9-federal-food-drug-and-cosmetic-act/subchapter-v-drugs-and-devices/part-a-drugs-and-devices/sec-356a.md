@@ -70,6 +70,8 @@ In the case of a manufacturing change to which paragraph (1)(B) applies:
 
 (June 25, 1938, ch. 675, §506A, as added Pub. L. 105–115, title I, §116(a), Nov. 21, 1997, 111 Stat. 2313.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Pub. L. 105–115, title I, §116(b), Nov. 21, 1997, 111 Stat. 2315, provided that: "The amendment made by subsection (a) [enacting this section] takes effect upon the effective date of regulations promulgated by the Secretary of Health and Human Services to implement such amendment, or upon the expiration of the 24-month period beginning on the date of the enactment of this Act [Nov. 21, 1997], whichever occurs first."

@@ -662,6 +662,8 @@ In this section:
 
 (June 25, 1938, ch. 675, §505G, as added Pub. L. 116–136, div. A, title III, §3851(a), Mar. 27, 2020, 134 Stat. 435.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Drugs Excluded From the Over-the-Counter Drug Review ####
 
 Pub. L. 116–136, div. A, title III, §3853, Mar. 27, 2020, 134 Stat. 454, provided that:

@@ -2,6 +2,8 @@
 
 Section, act June 30, 1906, ch. 3915, §11, 34 Stat. 772, provided for examination of samples of imports, refusal of admission and delivery to consignee, delivery to consignee pending examination and decision on bond and charges for storage and lien therefor. See section 381 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 For effective date of repeal, see section 1002(a) of act June 25, 1938, set out as a note under sections 1 to 5 of this title.

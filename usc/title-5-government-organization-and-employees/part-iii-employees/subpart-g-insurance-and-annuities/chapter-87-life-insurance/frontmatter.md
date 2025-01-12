@@ -42,6 +42,8 @@ Sec.
 
 8716. Regulations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–409, §2(b), Oct. 25, 1994, 108 Stat. 4232, added item 8714d.

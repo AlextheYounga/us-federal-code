@@ -32,6 +32,8 @@ Sec.
 
 5115. Regulations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1992**—Pub. L. 102–378, §2(22), Oct. 2, 1992, 106 Stat. 1348, substituted "above GS–15" for "at GS–16, 17, and 18" in item 5108.

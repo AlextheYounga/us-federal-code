@@ -10,6 +10,8 @@ Sec.
 
 64. Regulations for enforcement.
 
+#### **Editorial Notes** ####
+
 #### Federal Food, Drug, and Cosmetic Act ####
 
 Nothing contained in chapter 9 (§301 et seq.) of this title shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of sections 61 to 64 of this title, see section 392(b) of this title.

@@ -34,6 +34,8 @@ For grants and contracts under subsection (a), there is authorized to be appropr
 
 (Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91; Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §3, Nov. 6, 2002, 116 Stat. 1993; Pub. L. 110–85, title XI, §1112(b), Sept. 27, 2007, 121 Stat. 976; Pub. L. 112–144, title IX, §906, July 9, 2012, 126 Stat. 1092; Pub. L. 114–255, div. A, title III, §3015, Dec. 13, 2016, 130 Stat. 1094; Pub. L. 115–52, title VI, §603, Aug. 18, 2017, 131 Stat. 1048.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as part of the Orphan Drug Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
@@ -71,6 +73,8 @@ Subsec. (b)(1). Pub. L. 99–91, §5(a)(2), substituted provisions defining "qua
 Subsec. (c). Pub. L. 99–91, §5(b), substituted provisions authorizing appropriations for fiscal years 1986 to 1988, for provisions authorizing appropriations for fiscal years 1983 and the two succeeding fiscal years.
 
 **1984**—Subsec. (b)(2). Pub. L. 98–551 substituted "which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which" for "which occurs so infrequently in the United States that".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1985 Amendment ####
 

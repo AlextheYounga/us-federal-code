@@ -82,9 +82,13 @@ Nothing in subsection (d) or (e) shall be construed to authorize the extension o
 
 (June 25, 1938, ch. 675, §915, as added Pub. L. 111–31, div. A, title I, §101(b)(3), June 22, 2009, 123 Stat. 1820.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (f), is div. A of Pub. L. 111–31, June 22, 2009, 123 Stat. 1776. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 301 of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Modification of Deadlines for Secretarial Action ####
 

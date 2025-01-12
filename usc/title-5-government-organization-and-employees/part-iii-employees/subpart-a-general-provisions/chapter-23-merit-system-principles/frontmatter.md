@@ -16,6 +16,8 @@ Sec.
 
 [2307. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Pub. L. 115–91, div. A, title X, §1097(b)(1)(A), Dec. 12, 2017, 131 Stat. 1616, struck out item 2307 "Information on whistleblower protections".

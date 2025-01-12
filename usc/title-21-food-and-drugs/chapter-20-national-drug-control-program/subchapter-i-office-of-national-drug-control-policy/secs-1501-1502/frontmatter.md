@@ -4,6 +4,8 @@ Section 1501, Pub. L. 100–690, title I, §1002, Nov. 18, 1988, 102 Stat. 4181,
 
 Section 1502, Pub. L. 100–690, title I, §1003, Nov. 18, 1988, 102 Stat. 4182; Pub. L. 103–322, title IX, §§90201, 90202, 90207, Sept. 13, 1994, 108 Stat. 1990, 1991, 1995, related to appointment and duties of Director, Deputy Directors, and Associate Director of Office of National Drug Control Policy. See section 1703 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Sept. 30, 1997, see section 1009 of Pub. L. 100–690, as amended, which was formerly classified to section 1506 of this title.

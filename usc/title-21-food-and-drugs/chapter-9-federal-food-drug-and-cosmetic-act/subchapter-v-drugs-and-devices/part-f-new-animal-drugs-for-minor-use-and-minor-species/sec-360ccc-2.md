@@ -50,6 +50,8 @@
 
 (June 25, 1938, ch. 675, §573, as added Pub. L. 108–282, title I, §102(b)(4), Aug. 2, 2004, 118 Stat. 900; amended Pub. L. 114–89, §2(a)(4), Nov. 25, 2015, 129 Stat. 700.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Controlled Substances Act, referred to in subsec. (c)(3), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.

@@ -36,6 +36,8 @@ The provisions of this section shall in no way derogate from authority for conde
 
 (Pub. L. 85–172, §20, as added Pub. L. 90–492, §17, Aug. 18, 1968, 82 Stat. 806; amended Pub. L. 101–205, §2, Dec. 7, 1989, 103 Stat. 1830.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1989**—Subsec. (a). Pub. L. 101–205 designated first sentence as par. (1) and redesignated cls. (1) to (3) as cls. (A) to (C), respectively, designated second sentence as par. (2) and inserted "(A) be distributed in accordance with paragraph (5), or (B)" after "entry of the decree,", designated third and fourth sentences as pars. (3) and (4), respectively, and added par. (5).

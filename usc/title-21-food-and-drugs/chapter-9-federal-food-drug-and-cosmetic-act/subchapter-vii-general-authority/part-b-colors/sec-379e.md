@@ -84,6 +84,8 @@ The Secretary shall by regulations (issued without regard to subsection (d)) pro
 
 (June 25, 1938, ch. 675, §721, formerly §706, 52 Stat. 1058; Pub. L. 86–618, title I, §103(b), July 12, 1960, 74 Stat. 399; Pub. L. 87–781, title I, §104(f)(2), Oct. 10, 1962, 76 Stat. 785; Pub. L. 91–515, title VI, §601(d)(2), Oct. 30, 1970, 84 Stat. 1311; Pub. L. 94–295, §9(a), May 28, 1976, 90 Stat. 583; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–300, §6(b)(2), June 16, 1992, 106 Stat. 240; renumbered §721, Pub. L. 102–571, title I, §106(4), Oct. 29, 1992, 106 Stat. 4498; Pub. L. 103–80, §3(bb), Aug. 13, 1993, 107 Stat. 778.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 376 of this title prior to renumbering by Pub. L. 102–571.
@@ -107,6 +109,8 @@ Subsec. (f). Pub. L. 94–295, §9(a)(1), substituted "drug or device" for "drug
 **1962**—Subsec. (b)(5)(B). Pub. L. 87–781 provided that clause (i) of this subparagraph shall not apply to a color additive in feed of animals raised for food production, if under the conditions of use specified in proposed labeling, and which conditions are reasonably certain to be followed in practice, such additive will not adversely affect the animals and no residue will be found in any edible portion of such animal after slaughter or in any food from the living animal.
 
 **1960**—Pub. L. 86–618 amended section generally. Prior to amendment, section read as follows: "The admitting to listing and certification of coal-tar colors, in accordance with regulations prescribed under this chapter, shall be performed only upon payment of such fees, which shall be specified in such regulations, as may be necessary to provide, maintain, and equip an adequate service for such purposes."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1962 Amendment ####
 

@@ -34,9 +34,13 @@ For purposes of this section, the term "new dietary ingredient" means a dietary 
 
 (June 25, 1938, ch. 675, §413, as added Pub. L. 103–417, §8, Oct. 25, 1994, 108 Stat. 4331; amended Pub. L. 111–353, title I, §113(a), Jan. 4, 2011, 124 Stat. 3920.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Subsecs. (c), (d). Pub. L. 111–353 added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Guidance ####
 

@@ -1,5 +1,7 @@
 ### §§1118 to 1120. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1118, Pub. L. 92–255, title II, §208, as added Pub. L. 94–237, §4(b), Mar. 19, 1976, 90 Stat. 243, which related to giving of notice to Director prior to initiation of a section 811(a) proceeding, was omitted in the general revision of title II of Pub. L. 92–255 by Pub. L. 96–181, §4, Jan. 2, 1980, 93 Stat. 1309. See section 1115 of this title.

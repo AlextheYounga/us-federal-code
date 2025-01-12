@@ -52,6 +52,8 @@ The Secretary, in promulgating any regulation pursuant to this section, shall, n
 
 (June 25, 1938, ch. 675, §583, as added Pub. L. 113–54, title II, §204(a)(5), Nov. 27, 2013, 127 Stat. 634.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective Jan. 1, 2015, see section 204(c) of Pub. L. 113–54, set out as an Effective Date of 2013 Amendment note under section 353 of this title.

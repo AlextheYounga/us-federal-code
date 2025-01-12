@@ -180,6 +180,8 @@ Pub. L. 115–232, div. A, title XI, §1107(c), (d), Aug. 13, 2018, 132 Stat. 20
 
 Pub. L. 115–232, div. A, title V, §573(e), Aug. 13, 2018, 132 Stat. 1779, provided that, effective 5 years after Aug. 13, 2018, the amendment made by section 573(b) of Pub. L. 115–232 would expire. See 2018 Amendment note below.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title XI, §1107(c), Aug. 13, 2018, 132 Stat. 2005, substituted "certification using numerical ratings" for "certification from registers." in item 3317, "selection using numerical ratings" for "selection from certificates." in item 3318, and "Competitive service; selection using category rating" for "Alternative ranking and selection procedures." in item 3319.

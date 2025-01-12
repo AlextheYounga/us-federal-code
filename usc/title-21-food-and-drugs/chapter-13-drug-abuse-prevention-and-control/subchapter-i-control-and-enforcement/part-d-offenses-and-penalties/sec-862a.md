@@ -66,6 +66,8 @@ Nothing in this section shall be construed to deny the following Federal benefit
 
 (Pub. L. 104–193, title I, §115, Aug. 22, 1996, 110 Stat. 2180; Pub. L. 105–33, title V, §5516(a), Aug. 5, 1997, 111 Stat. 620; Pub. L. 110–234, title IV, §4115(c)(2)(C), May 22, 2008, 122 Stat. 1109; Pub. L. 110–246, §4(a), title IV, §4115(c)(2)(C), June 18, 2008, 122 Stat. 1664, 1871; Pub. L. 113–79, title IV, §4030(n), Feb. 7, 2014, 128 Stat. 814.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Social Security Act, referred to in subsecs. (a)(1), (b)(1), (e)(1), and (f)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
@@ -91,6 +93,8 @@ Subsec. (e)(2). Pub. L. 113–79, §4030(n)(3), substituted "section 3 of the Fo
 Subsec. (e)(2). Pub. L. 110–246, §4115(c)(2)(C), substituted "section 3(s)" for "section 3(m)" and "section 3(l)" for "section 3(h)".
 
 **1997**—Subsec. (d)(2). Pub. L. 105–33 substituted "a conviction if the conviction is for conduct" for "convictions".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

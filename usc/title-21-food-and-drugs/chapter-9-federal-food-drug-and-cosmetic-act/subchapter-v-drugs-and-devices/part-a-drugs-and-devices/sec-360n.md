@@ -134,6 +134,8 @@ Fees collected pursuant to this subsection for any fiscal year—
 
 (June 25, 1938, ch. 675, §524, as added Pub. L. 110–85, title XI, §1102, Sept. 27, 2007, 121 Stat. 972; amended Pub. L. 113–233, §2, Dec. 16, 2014, 128 Stat. 2127; Pub. L. 114–146, §2, Apr. 19, 2016, 130 Stat. 357; Pub. L. 114–255, div. A, title III, §3101(a)(2)(M), Dec. 13, 2016, 130 Stat. 1154; Pub. L. 115–52, title VI, §611(a), Aug. 18, 2017, 131 Stat. 1054.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 101(c) of the Food and Drug Administration Amendments Act of 2007, referred to in subsec. (a)(1), is section 101(c) of Pub. L. 110–85, which is set out as a note under section 379g of this title.
@@ -153,6 +155,8 @@ Subsec. (c)(4)(A). Pub. L. 114–255 made technical amendment to reference in or
 Subsec. (b)(2). Pub. L. 113–233, §2(2)(A), inserted at end "There is no limit on the number of times a priority review voucher may be transferred before such voucher is used."
 
 Subsec. (b)(4). Pub. L. 113–233, §2(2)(B), substituted "90 days" for "365 days".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

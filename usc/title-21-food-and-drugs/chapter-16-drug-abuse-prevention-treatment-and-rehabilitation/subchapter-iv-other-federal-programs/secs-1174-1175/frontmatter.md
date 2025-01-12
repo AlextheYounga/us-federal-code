@@ -1,5 +1,7 @@
 ### §§1174, 1175. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 1174, Pub. L. 92–255, title IV, §407, Mar. 21, 1972, 86 Stat. 78; Pub. L. 94–237, §6(a), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–581, title I, §111(c)(2), Oct. 21, 1976, 90 Stat. 2852, which prohibited discrimination against drug abusers by general hospitals, was redesignated section 526 of the Public Health Service Act by Pub. L. 98–24, §2(b)(16)(B), Apr. 26, 1983, 97 Stat. 182, and is classified to section 290ee–2 of Title 42, The Public Health and Welfare.
