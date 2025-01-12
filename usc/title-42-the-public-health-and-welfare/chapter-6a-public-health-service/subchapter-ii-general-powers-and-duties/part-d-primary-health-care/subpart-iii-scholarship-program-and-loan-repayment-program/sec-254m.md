@@ -122,7 +122,7 @@ Subsec. (b)(5)(B). Pub. L. 96–76, §202(b)(3), substituted "referred to in sub
 
 #### Change of Name ####
 
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of this title.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of this title.
 
 #### Effective Date of 1981 Amendment ####
 

@@ -7374,7 +7374,7 @@ Pub. L. 101–239, title VI, §6205(b), Dec. 19, 1989, 103 Stat. 2243, provided 
 
 #### Inner-City Hospital Triage Demonstration Project ####
 
-Pub. L. 101–2399, title VI, §6217, Dec. 19, 1989, 103 Stat. 2253, as amended by Pub. L. 101–508, title IV, §4207(k)(5), formerly §4027(k)(5), Nov. 5, 1990, 104 Stat. 1388–125, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that:
+Pub. L. 101–239, title VI, §6217, Dec. 19, 1989, 103 Stat. 2253, as amended by Pub. L. 101–508, title IV, §4207(k)(5), formerly §4027(k)(5), Nov. 5, 1990, 104 Stat. 1388–125, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444, provided that:
 
 "(a) Establishment.—The Secretary of Health and Human Services shall establish a demonstration project in a public hospital that is located in a large urban area and that has established a triage system, under which the Secretary shall make payments out of the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund (in such proportions as the Secretary determines to be appropriate in a year) for 3 years to reimburse the hospital for the reasonable costs of operating the system, including costs—
 

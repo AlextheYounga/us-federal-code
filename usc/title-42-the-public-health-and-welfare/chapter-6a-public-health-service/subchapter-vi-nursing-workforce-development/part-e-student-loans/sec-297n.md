@@ -140,7 +140,7 @@ A prior section 846 of act July 1, 1944, was classified to section 297k of this 
 
 Subsec. (b)(1). Pub. L. 116–136, §3404(a)(8)(B), substituted "the individual began such practice" for "he began such practice".
 
-Subsec. (i). Pub. L. 116–136, §3404(a)(8)(C), substituted "Allocations" for "Funding" in subsec. (i) heading and substituted "Of the amounts appropriated under section 298d(b) of this title," for the following: par. (1) heading, par. (1) text which read "For the purpose of payments under agreements entered into under subsection (a) or (d), there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2003 through 2007.", par. (2) heading, and "Of the amounts appropriated under paragraph (1)".
+Subsec. (i). Pub. L. 116–136, §3404(a)(8)(C), substituted "Allocations" for "Funding" in heading, struck out par. (1) and par. (2) designation and heading, and substituted "Of the amounts appropriated under section 298d(b) of this title," for "Of the amounts appropriated under paragraph (1)". Prior to amendment, text of par. (1) read as follows: "For the purpose of payments under agreements entered into under subsection (a) or (d), there are authorized to be appropriated such sums as may be necessary for each of fiscal years 2003 through 2007."
 
 **2010**—Subsec. (a)(3). Pub. L. 111–148 inserted ", or in a accredited school of nursing, as defined by section 296(2) of this title, as nurse faculty" before semicolon at end.
 

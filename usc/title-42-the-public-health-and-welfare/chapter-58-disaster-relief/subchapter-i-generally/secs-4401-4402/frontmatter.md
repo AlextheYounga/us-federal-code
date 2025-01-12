@@ -16,13 +16,9 @@ Pub. L. 91–606, §1, Dec. 31, 1970, 84 Stat. 1744, provided that Pub. L. 91–
 
 Section 703, formerly section 603, of Pub. L. 93–288, as renumbered by Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided in part that notwithstanding repeal of the provisions of Disaster Relief Act of 1970, such provisions should continue in effect with respect to any major disaster declared prior to May 22, 1974.
 
-#### Delegation of Functions ####
-
-Functions of President under the Disaster Relief Acts of 1970 and 1974 delegated, with certain exceptions, to Secretary of Homeland Security, see sections 4–201 and 4–203 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended, set out as a note under section 5195 of this title.
-
 #### References to Disaster Relief Act of 1970 ####
 
-Section 702(m), formerly section 602(m), of Pub. L. 93–288, as renumbered by Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: "Whenever reference is made in any provision of law (other than this Act [the Disaster Relief Act of 1974, see Short Title note set out under section 5121 of this title]), regulation rule, record, or documents of the United States to provisions of the Disaster Relief Act of 1970 (84 Stat. 1744) [see Short Title note above], repealed by this Act such reference shall be deemed to be a reference to the appropriate provision of this Act."
+Pub. L. 93–288, title VII, §702(m), formerly title VI, §602(m), May 22, 1974, 88 Stat. 164, as renumbered by Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: "Whenever reference is made in any provision of law (other than this Act [the Disaster Relief Act of 1974, see Short Title note set out under section 5121 of this title]), regulation rule, record, or documents of the United States to provisions of the Disaster Relief Act of 1970 (84 Stat. 1744) [see Short Title note above], repealed by this Act such reference shall be deemed to be a reference to the appropriate provision of this Act."
 
 #### References to Act of September 30, 1950 ####
 
@@ -30,7 +26,7 @@ Pub. L. 91–606, title III, §301(l), Dec. 31, 1970, 84 Stat. 1758, provided th
 
 #### Availability of Funds Appropriated Under This Chapter for Use Under Chapter 68 ####
 
-Section 704, formerly section 604, of Pub. L. 93–288, as renumbered by Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: "Funds heretofore appropriated and available under Public Laws 91–606, as amended [this chapter], and 92–385 [amending section 4451 of this title and sections 633 and 636 of Title 15, Commerce and Trade, repealing section 1969 of Title 7, Agriculture, enacting provisions set out as notes under section 4401 of this title and section 636 of Title 15] shall continue to be available for the purpose of providing assistance under those Acts as well as for the purposes of this Act [see Short Title note set out under section 5121 of this title]."
+Pub. L. 93–288, title VII, §704, formerly title VI, §604, May 22, 1974, 88 Stat. 164, as renumbered by Pub. L. 103–337, div. C, title XXXIV, §3411(a)(1), (2), Oct. 5, 1994, 108 Stat. 3100, provided that: "Funds heretofore appropriated and available under Public Laws 91–606, as amended [this chapter], and 92–385 [amending section 4451 of this title and sections 633 and 636 of Title 15, Commerce and Trade, repealing section 1969 of Title 7, Agriculture, enacting provisions set out as notes under section 4401 of this title and section 636 of Title 15] shall continue to be available for the purpose of providing assistance under those Acts as well as for the purposes of this Act [see Short Title note set out under section 5121 of this title]."
 
 #### Use of Funds Allocated Before December 31, 1970 ####
 
@@ -39,6 +35,10 @@ Pub. L. 91–606, title III, §303, Dec. 31, 1970, 84 Stat. 1759, provided that 
 #### Report to Congress; Proposals for Legislation ####
 
 Pub. L. 92–385, §3, Aug. 16, 1972, 86 Stat. 556, required President to conduct a thorough review of existing disaster relief legislation and to submit a report to Congress not later than Jan. 1, 1973.
+
+#### Delegation of Functions ####
+
+Functions of President under the Disaster Relief Acts of 1970 and 1974 delegated, with certain exceptions, to Secretary of Homeland Security, see sections 4–201 and 4–203 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended, set out as a note under section 5195 of this title.
 
 #### Executive Order No. 11526 ####
 

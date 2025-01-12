@@ -496,7 +496,7 @@ Subsec. (a)(1)(N). Pub. L. 116–260, §125(b)(2)(A)(ii)(I), substituted ", cri
 
 Subsec. (a)(1)(N)(i). Pub. L. 116–260, §125(b)(2)(A)(ii)(II), substituted ", critical access hospital, or rural emergency hospital" for "or critical access hospital".
 
-Subsec. (a)(1)(N)(iv). Pub. L. 116–260, §125(b)(2)(A)(ii)(III), substituted ", critical access hospital, or rural emergency hospital" for "hospital".
+Subsec. (a)(1)(N)(iv). Pub. L. 116–260, §125(b)(2)(A)(ii)(III), inserted ", critical access hospital, or rural emergency hospital" after "hospital".
 
 Subsec. (a)(3)(A). Pub. L. 116–260, §125(b)(1)(B)(i), inserted "rural emergency hospital," after "critical access hospital,".
 

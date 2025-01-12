@@ -206,7 +206,7 @@ Subsec. (h). Pub. L. 97–35, §2701(f), in par. (1) substituted "Health and Hum
 
 #### Change of Name ####
 
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of this title.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of this title.
 
 #### Effective Date of 1990 Amendment ####
 

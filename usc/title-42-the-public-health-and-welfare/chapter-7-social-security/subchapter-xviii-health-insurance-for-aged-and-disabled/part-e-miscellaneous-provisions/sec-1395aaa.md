@@ -308,7 +308,7 @@ Pub. L. 116–159 substituted "December 11, 2020" for "November 30, 2020" in two
 
 Pub. L. 116–136, §3802, substituted "$20,000,000 for fiscal year 2020, and for the period beginning on October 1, 2020, and ending on November 30, 2020, the amount equal to the pro rata portion of the amount appropriated for such period for fiscal year 2020" for "and $4,830,000 for the period beginning on October 1, 2019, and ending on May 22, 2020" in first sentence and ", 2019, and 2020, and for the period beginning on October 1, 2020, and ending on November 30, 2020," for "and 2019 and for the period beginning on October 1, 2019, and ending on May 22, 2020" in last sentence.
 
-Subsec. (e). Pub. L. 116–260, §102(b)(1)(A), (B), (G), designated existing provisions as par. (1), redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
+Subsec. (e). Pub. L. 116–260, §102(b)(1)(A), (B), (G), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added par. (2).
 
 Subsec. (e)(1)(A). Pub. L. 116–260, §102(b)(1)(C), struck out at end "In years after the first plan under this paragraph is submitted, the requirements of this paragraph may be met by providing an update to the plan."
 

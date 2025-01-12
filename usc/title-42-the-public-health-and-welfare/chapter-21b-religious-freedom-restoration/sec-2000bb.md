@@ -30,7 +30,7 @@ This chapter, referred to in subsec. (b), was in the original "this Act", meanin
 
 #### Constitutionality ####
 
-For constitutionality of section 2 of Pub. L. 103–141, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For constitutionality of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
 
 #### Short Title ####
 

@@ -142,10 +142,6 @@ The term "unprotected <sup><a href="#290dd-2_1_target" name="290dd-2_1">1</a></
 
 (July 1, 1944, ch. 373, title V, §543, formerly Pub. L. 91–616, title III, §321, Dec. 31, 1970, 84 Stat. 1852, as amended Pub. L. 93–282, title I, §121(a), May 14, 1974, 88 Stat. 130; Pub. L. 94–371, §11(a), (b), July 26, 1976, 90 Stat. 1041; Pub. L. 94–581, title I, §111(c)(1), Oct. 21, 1976, 90 Stat. 2852; renumbered §522 of act July 1, 1944, and amended Pub. L. 98–24, §2(b)(13), Apr. 26, 1983, 97 Stat. 181; renumbered §543, Pub. L. 100–77, title VI, §611(2), July 22, 1987, 101 Stat. 516; Pub. L. 102–321, title I, §131, July 10, 1992, 106 Stat. 368; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 105–392, title IV, §402(c), Nov. 13, 1998, 112 Stat. 3588; Pub. L. 116–136, div. A, title III, §3221(a)–(h), Mar. 27, 2020, 134 Stat. 375–378.)
 
-#### Applicability of Amendment ####
-
-Amendments by Pub. L. 116–136 to be applicable with respect to uses and disclosures of information occurring on or after the date that is 12 months after Mar. 27, 2020, based on required revisions to implementing regulations, see 2020 Amendment notes and Regulations note set out below.
-
 #### References in Text ####
 
 The Social Security Act, referred to in subsec. (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XI of the Act is classified generally to part C (§1320d et seq.) of subchapter XI of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
