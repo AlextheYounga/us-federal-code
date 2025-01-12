@@ -1,1 +1,0 @@
-### Part R—Programs Relating to Autism ###

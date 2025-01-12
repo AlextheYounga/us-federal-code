@@ -1,1 +1,0 @@
-### **CHAPTER 27—COTTON MARKETING** ###

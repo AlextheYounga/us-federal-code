@@ -1,1 +1,0 @@
-### Part A—Powers and Duties ###

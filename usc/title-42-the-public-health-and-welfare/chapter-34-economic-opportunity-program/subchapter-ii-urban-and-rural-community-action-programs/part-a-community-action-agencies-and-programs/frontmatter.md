@@ -1,1 +1,0 @@
-### Part A—Community Action Agencies and Programs ###

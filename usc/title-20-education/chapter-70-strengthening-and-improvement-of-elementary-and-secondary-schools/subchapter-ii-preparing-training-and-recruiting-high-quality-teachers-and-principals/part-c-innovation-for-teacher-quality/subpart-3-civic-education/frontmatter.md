@@ -1,1 +1,0 @@
-### subpart 3—civic education ###

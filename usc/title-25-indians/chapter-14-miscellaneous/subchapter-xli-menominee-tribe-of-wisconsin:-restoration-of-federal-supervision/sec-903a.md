@@ -10,7 +10,7 @@ The Act of June 17, 1954 (68 Stat. 250; 25 U.S.C. 891–902) as amended, is here
 
 #### (c) Continuation of tribal rights and privileges ####
 
-Nothing contained in this subchapter shall diminish any rights or privileges enjoyed by the tribe or its members now or prior to June 17, 1954, under Federal treaty, statute, or otherwise, which are now inconsistent with the provisions of this subchapter.
+Nothing contained in this subchapter shall diminish any rights or privileges enjoyed by the tribe or its members now or prior to June 17, 1954, under Federal treaty, statute, or otherwise, which are not inconsistent with the provisions of this subchapter.
 
 #### (d) Continuation of property or contractual rights or obligations and tax obligations ####
 

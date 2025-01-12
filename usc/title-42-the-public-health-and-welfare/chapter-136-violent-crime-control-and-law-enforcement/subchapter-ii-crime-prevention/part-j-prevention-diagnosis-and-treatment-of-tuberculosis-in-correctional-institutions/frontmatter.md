@@ -1,1 +1,0 @@
-### Part J—Prevention, Diagnosis, and Treatment of Tuberculosis in Correctional Institutions ###

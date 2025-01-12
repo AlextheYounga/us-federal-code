@@ -1,1 +1,0 @@
-### SUBCHAPTER VI—POLAR BEARS ###

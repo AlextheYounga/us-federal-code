@@ -1,1 +1,0 @@
-### Part C—Cost of Higher Education ###

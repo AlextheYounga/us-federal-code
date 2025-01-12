@@ -1,1 +1,0 @@
-### Part A—Dwight D. Eisenhower Mathematics and Science Education Act ###

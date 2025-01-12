@@ -1,1 +1,0 @@
-### Part J—Urban and Rural Education Assistance ###

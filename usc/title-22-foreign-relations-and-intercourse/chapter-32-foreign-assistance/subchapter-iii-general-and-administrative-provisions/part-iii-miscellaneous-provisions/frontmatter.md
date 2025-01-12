@@ -1,1 +1,0 @@
-### Part III—Miscellaneous Provisions ###

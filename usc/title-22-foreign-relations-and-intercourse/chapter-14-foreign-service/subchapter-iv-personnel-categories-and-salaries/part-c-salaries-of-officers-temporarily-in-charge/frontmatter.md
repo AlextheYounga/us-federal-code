@@ -1,1 +1,0 @@
-### Part C—Salaries of Officers Temporarily in Charge ###

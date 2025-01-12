@@ -1,1 +1,0 @@
-### Part S—Training for Realtime Writers ###

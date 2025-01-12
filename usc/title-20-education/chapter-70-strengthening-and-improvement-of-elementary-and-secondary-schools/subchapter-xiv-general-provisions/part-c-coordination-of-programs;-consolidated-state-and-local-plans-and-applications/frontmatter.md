@@ -1,1 +1,0 @@
-### Part C—Coordination of Programs; Consolidated State and Local Plans and Applications ###

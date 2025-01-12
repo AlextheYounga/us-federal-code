@@ -1,1 +1,0 @@
-### Part C—Replication of Technical Education Programs ###

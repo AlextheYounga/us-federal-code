@@ -1,1 +1,0 @@
-### Part 3—Administration of Education Programs and Projects by States and Local Educational Agencies ###

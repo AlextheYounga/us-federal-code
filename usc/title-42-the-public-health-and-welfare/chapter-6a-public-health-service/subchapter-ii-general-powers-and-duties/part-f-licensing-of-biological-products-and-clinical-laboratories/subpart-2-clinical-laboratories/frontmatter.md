@@ -1,1 +1,0 @@
-### subpart 2—clinical laboratories ###

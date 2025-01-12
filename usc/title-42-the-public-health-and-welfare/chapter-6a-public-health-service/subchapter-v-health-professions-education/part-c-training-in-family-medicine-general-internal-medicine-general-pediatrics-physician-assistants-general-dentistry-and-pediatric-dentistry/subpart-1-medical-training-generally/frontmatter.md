@@ -1,1 +1,0 @@
-### subpart 1—medical training generally ###

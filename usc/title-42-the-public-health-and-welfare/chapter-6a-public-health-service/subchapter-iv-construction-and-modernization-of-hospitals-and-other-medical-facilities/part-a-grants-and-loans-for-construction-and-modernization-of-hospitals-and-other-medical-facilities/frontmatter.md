@@ -1,1 +1,0 @@
-### Part A—Grants and Loans for Construction and Modernization of Hospitals and Other Medical Facilities ###

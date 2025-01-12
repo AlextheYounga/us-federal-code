@@ -1,1 +1,0 @@
-### Part F—Civic Education ###

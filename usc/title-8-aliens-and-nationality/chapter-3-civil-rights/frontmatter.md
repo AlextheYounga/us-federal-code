@@ -1,1 +1,0 @@
-### **CHAPTER 3—CIVIL RIGHTS** ###

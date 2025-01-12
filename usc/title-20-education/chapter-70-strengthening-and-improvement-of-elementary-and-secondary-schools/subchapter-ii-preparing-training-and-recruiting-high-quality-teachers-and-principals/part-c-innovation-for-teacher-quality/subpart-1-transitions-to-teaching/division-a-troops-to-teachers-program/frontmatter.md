@@ -1,1 +1,0 @@
-### Division A—Troops-to-Teachers Program ###

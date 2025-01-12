@@ -1,1 +1,0 @@
-### Part A—Basic Programs Operated by Local Educational Agencies ###

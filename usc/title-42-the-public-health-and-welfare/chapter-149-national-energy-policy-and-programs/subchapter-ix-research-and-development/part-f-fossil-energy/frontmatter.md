@@ -1,1 +1,0 @@
-### Part F—Fossil Energy ###

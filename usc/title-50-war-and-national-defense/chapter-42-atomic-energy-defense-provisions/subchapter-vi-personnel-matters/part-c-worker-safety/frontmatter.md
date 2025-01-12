@@ -1,1 +1,0 @@
-### Part C—Worker Safety ###

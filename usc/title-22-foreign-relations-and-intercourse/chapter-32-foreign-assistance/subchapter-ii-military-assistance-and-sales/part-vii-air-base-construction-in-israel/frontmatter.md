@@ -1,1 +1,0 @@
-### Part VII—Air Base Construction in Israel ###

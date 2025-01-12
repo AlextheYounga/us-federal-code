@@ -1,1 +1,0 @@
-### Part A—Establishment and Activities of Federal Agricultural Mortgage Corporation ###

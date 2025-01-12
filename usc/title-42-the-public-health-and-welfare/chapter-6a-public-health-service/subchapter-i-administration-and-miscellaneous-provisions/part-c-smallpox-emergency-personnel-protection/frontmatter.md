@@ -1,1 +1,0 @@
-### Part C—Smallpox Emergency Personnel Protection ###

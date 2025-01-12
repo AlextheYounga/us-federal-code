@@ -1,1 +1,0 @@
-### subpart 3—programs for neglected and delinquent children ###

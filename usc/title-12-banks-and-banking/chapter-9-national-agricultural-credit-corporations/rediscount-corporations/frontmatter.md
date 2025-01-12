@@ -1,1 +1,0 @@
-### Rediscount Corporations ###

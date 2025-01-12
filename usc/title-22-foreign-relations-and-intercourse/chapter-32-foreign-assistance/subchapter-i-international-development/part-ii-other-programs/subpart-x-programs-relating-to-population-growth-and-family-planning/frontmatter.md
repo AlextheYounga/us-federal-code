@@ -1,1 +1,0 @@
-### subpart x—programs relating to population growth and family planning ###

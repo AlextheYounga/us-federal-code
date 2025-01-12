@@ -1,1 +1,0 @@
-### Division A—Block Grants to States for Social Services ###

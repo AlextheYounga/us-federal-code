@@ -1,1 +1,0 @@
-### subpart a—program requirements ###

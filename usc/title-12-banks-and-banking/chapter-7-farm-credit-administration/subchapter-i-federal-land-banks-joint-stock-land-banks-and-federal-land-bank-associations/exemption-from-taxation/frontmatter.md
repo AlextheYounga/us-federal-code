@@ -1,1 +1,0 @@
-### Exemption From Taxation ###

@@ -53,3 +53,15 @@ Pub. L. 107–295, title IV, §401, Nov. 25, 2002, 116 Stat. 2113, provided that
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 931. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of this title. See section 108 of Title 49, Transportation.
+
+#### Designation of Coast Guard Headquarters Building ####
+
+Pub. L. 113–31, Aug. 9, 2013, 127 Stat. 511, provided that:
+
+#### “SECTION 1. DESIGNATION. ####
+
+“The headquarters building of the Coast Guard on the campus located at 2701 Martin Luther King, Jr., Avenue Southeast in the District of Columbia shall be known and designated as the ‘Douglas A. Munro Coast Guard Headquarters Building’.
+
+#### “SEC. 2. REFERENCES. ####
+
+“Any reference in a law, map, regulation, document, paper, or other record of the United States to the building referred to in section 1 shall be deemed to be a reference to the ‘Douglas A. Munro Coast Guard Headquarters Building’.”

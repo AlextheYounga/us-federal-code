@@ -1,1 +1,0 @@
-### Part A—Assistance to Promote Clean and Efficient Energy Technologies in Foreign Countries ###

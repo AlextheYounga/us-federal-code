@@ -1,1 +1,0 @@
-### Part A—Industry Program With Federal Financial Assistance ###

@@ -1,1 +1,0 @@
-### Division 2—Federal, State, and Local Partnership for Educational Improvement ###

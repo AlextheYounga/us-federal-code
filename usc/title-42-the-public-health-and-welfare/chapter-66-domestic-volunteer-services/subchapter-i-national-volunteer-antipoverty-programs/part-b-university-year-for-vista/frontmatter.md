@@ -1,1 +1,0 @@
-### Part B—University Year for VISTA ###

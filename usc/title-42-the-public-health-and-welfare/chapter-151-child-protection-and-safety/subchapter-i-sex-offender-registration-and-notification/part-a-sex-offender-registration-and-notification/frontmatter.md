@@ -1,1 +1,0 @@
-### Part A—Sex Offender Registration and Notification ###

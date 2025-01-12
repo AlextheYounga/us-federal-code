@@ -1,1 +1,0 @@
-### Part C—Promotion of Foreign Service Officers and Reserve Officers ###

@@ -158,7 +158,7 @@ Pub. L. 110–85, title I, §107, Sept. 27, 2007, 121 Stat. 842, provided that: 
 
 Amendment by Pub. L. 107–188 effective Oct. 1, 2002, see section 508 of Pub. L. 107–188, set out as an Effective Date of 2002 Amendment note under section 356b of this title.
 
-Pub. L. 107–188, title V, §509, June 12, 2002, 116 Stat. 694, which provided that the amendments made by section 503 and 504 of Pub. L. 107–188 (amending this section and section 379h of this title) would cease to be effective Oct. 1, 2007, and the amendment by section 505 of Pub. L. 107–188 (enacting provisions set out as a note below) would cease to be effective 120 days after Oct. 1, 2007, was repealed by Pub. L. 112–144, title I, §105(d)(1)(A), July 9, 2012, 126 Stat. 1001.
+Pub. L. 107–188, title V, §509, June 12, 2002, 116 Stat. 694, which provided that the amendments made by sections 503 and 504 of Pub. L. 107–188 (amending this section and section 379h of this title) would cease to be effective Oct. 1, 2007, and the amendment by section 505 of Pub. L. 107–188 (enacting provisions set out as a note below) would cease to be effective 120 days after Oct. 1, 2007, was repealed by Pub. L. 112–144, title I, §105(d)(1)(A), July 9, 2012, 126 Stat. 1001.
 
 [Pub. L. 112–144, title I, §105(d)(1), July 9, 2012, 126 Stat. 1001, provided that the repeal of section 509 of Pub. L. 107–188, formerly set out above, is effective Sept. 30, 2007.]
 

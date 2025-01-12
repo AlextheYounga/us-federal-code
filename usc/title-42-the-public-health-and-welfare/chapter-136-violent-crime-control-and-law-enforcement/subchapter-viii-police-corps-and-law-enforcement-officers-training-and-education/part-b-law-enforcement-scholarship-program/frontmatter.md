@@ -1,1 +1,0 @@
-### Part B—Law Enforcement Scholarship Program ###

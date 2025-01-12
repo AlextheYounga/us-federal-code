@@ -1,1 +1,0 @@
-### **CHAPTER 29—POTATO ACT OF 1935** ###

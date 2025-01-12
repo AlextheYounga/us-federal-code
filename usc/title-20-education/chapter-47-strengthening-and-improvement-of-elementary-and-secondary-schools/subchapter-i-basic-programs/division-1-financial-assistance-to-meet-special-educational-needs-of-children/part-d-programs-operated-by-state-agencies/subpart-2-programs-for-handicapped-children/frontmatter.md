@@ -1,1 +1,0 @@
-### subpart 2—programs for handicapped children ###

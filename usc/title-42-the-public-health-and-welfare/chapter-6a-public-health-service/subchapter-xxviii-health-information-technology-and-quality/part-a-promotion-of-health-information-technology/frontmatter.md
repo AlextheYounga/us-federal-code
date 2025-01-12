@@ -1,1 +1,0 @@
-### Part A—Promotion of Health Information Technology ###

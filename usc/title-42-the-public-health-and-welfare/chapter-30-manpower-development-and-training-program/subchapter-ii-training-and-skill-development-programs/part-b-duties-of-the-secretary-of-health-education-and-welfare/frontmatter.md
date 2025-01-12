@@ -1,1 +1,0 @@
-### Part B—Duties of the Secretary of Health, Education, and Welfare ###

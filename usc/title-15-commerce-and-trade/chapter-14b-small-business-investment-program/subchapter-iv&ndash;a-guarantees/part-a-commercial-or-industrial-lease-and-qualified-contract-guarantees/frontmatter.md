@@ -1,1 +1,0 @@
-### Part A—Commercial or Industrial Lease and Qualified Contract Guarantees ###

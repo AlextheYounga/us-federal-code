@@ -1,1 +1,0 @@
-### Part C—Approval of Disclosure Information and Issuance of Charters by the Farm Credit Administration Board ###

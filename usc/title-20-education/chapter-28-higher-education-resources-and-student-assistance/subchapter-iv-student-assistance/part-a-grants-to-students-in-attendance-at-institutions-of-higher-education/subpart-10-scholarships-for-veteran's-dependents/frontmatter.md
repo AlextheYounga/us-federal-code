@@ -1,1 +1,0 @@
-### subpart 10—scholarships for veteran's dependents ###

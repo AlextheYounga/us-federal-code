@@ -1,1 +1,0 @@
-### Part D—Enhancing Education Through Technology ###

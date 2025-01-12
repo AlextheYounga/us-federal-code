@@ -1,1 +1,0 @@
-### Part A—General Authority and Duties of Secretary ###

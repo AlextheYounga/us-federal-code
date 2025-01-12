@@ -1,2 +1,0 @@
-Subtitle VI—Earth Observations
-----------

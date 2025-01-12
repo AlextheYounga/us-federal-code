@@ -1,1 +1,0 @@
-### subpart 2—education and training for judges and court personnel in federal courts ###

@@ -1,1 +1,0 @@
-### Part A—Prohibition Against Discrimination and Other Generally Applicable Provisions ###

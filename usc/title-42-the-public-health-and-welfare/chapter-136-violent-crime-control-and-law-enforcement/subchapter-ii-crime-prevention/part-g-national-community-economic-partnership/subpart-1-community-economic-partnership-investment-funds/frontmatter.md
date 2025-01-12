@@ -1,1 +1,0 @@
-### subpart 1—community economic partnership investment funds ###

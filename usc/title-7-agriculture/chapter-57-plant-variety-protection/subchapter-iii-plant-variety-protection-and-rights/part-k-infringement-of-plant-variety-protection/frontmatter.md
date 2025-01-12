@@ -1,1 +1,0 @@
-### Part K—Infringement of Plant Variety Protection ###

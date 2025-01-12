@@ -1,1 +1,0 @@
-### Part I—Requirement Relating to the Rights of Residents of Certain Non-Medical, Community-Based Facilities for Children and Youth ###

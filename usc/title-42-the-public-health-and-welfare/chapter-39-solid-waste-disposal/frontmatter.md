@@ -1,1 +1,0 @@
-### **CHAPTER 39—SOLID WASTE DISPOSAL** ###

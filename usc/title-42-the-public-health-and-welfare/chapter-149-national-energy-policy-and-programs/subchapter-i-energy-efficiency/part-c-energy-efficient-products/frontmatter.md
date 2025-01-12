@@ -1,1 +1,0 @@
-### Part C—Energy Efficient Products ###

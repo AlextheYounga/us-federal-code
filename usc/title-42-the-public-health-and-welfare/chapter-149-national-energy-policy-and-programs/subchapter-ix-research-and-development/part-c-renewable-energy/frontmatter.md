@@ -1,1 +1,0 @@
-### Part C—Renewable Energy ###

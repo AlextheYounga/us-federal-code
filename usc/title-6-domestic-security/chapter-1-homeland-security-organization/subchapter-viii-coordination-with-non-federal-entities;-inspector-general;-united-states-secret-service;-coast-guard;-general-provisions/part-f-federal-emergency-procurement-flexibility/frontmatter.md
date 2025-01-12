@@ -1,1 +1,0 @@
-### Part F—Federal Emergency Procurement Flexibility ###

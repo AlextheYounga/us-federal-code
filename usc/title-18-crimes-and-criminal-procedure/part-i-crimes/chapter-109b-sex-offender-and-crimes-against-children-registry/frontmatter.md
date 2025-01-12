@@ -1,5 +1,0 @@
-### **CHAPTER 109B—SEX OFFENDER AND CRIMES AGAINST CHILDREN REGISTRY** ###
-
-Sec.
-
-2250. Failure to register.

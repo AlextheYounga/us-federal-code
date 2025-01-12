@@ -1,1 +1,0 @@
-### Part A—Individual Responsibility ###

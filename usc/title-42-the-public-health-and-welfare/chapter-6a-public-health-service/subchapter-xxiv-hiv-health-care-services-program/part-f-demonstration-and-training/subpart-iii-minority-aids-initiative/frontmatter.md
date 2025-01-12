@@ -1,1 +1,0 @@
-### subpart iii—minority aids initiative ###

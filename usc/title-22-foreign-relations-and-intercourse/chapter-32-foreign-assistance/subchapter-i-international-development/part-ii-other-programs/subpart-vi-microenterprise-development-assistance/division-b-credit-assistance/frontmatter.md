@@ -1,1 +1,0 @@
-### Division B—Credit Assistance ###

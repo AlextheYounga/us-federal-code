@@ -1,1 +1,0 @@
-### Part A—Establishment of Compensation Program and Compensation Fund ###

@@ -1,1 +1,0 @@
-### Part B—Contributions to the Fund ###

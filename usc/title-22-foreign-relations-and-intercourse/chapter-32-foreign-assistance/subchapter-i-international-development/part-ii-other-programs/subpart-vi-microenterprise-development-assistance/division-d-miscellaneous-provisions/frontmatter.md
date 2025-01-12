@@ -1,1 +1,0 @@
-### Division D—Miscellaneous Provisions ###

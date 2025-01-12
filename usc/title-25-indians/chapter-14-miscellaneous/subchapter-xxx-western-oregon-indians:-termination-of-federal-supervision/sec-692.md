@@ -6,7 +6,7 @@ For the purposes of this subchapter:
 
 (b) “Secretary” means the Secretary of the Interior.
 
-(c) “Lands” means real property interest therein, or improvements thereon, and includes water rights.
+(c) “Lands” means real property, interest therein, or improvements thereon, and includes water rights.
 
 (d) “Tribal property” means any real or personal property, including water rights, or any interest in real or personal property, that belongs to the tribe and either is held by the United States in trust for the tribe or is subject to a restriction against alienation imposed by the United States.
 

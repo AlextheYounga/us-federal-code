@@ -1,1 +1,0 @@
-### Part B—Transfer of the Bureau of Alcohol, Tobacco and Firearms to the Department of Justice ###

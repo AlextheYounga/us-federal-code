@@ -1,1 +1,0 @@
-### Part C—HOPE for Youth: Youthbuild ###

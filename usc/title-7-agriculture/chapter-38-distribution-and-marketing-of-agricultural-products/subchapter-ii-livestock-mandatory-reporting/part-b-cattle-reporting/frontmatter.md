@@ -1,1 +1,0 @@
-### Part B—Cattle Reporting ###

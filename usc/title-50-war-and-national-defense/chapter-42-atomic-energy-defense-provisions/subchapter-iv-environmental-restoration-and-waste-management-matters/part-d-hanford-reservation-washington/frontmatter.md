@@ -1,1 +1,0 @@
-### Part D—Hanford Reservation, Washington ###

@@ -1,1 +1,0 @@
-### Investment in Farm-Loan Bonds ###

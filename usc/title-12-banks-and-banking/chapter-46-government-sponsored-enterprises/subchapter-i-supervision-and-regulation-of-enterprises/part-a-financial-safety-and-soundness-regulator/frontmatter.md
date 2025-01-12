@@ -1,1 +1,0 @@
-### Part A—Financial Safety and Soundness Regulator ###

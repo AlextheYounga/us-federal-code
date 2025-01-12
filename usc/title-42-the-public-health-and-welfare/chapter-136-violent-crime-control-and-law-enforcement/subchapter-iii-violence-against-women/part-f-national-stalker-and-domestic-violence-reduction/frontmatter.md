@@ -1,1 +1,0 @@
-### Part F—National Stalker and Domestic Violence Reduction ###

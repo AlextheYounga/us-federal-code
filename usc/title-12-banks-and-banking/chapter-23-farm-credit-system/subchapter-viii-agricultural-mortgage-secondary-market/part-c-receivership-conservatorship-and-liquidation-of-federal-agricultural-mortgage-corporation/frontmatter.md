@@ -1,1 +1,0 @@
-### Part C—Receivership, Conservatorship, and Liquidation of Federal Agricultural Mortgage Corporation ###

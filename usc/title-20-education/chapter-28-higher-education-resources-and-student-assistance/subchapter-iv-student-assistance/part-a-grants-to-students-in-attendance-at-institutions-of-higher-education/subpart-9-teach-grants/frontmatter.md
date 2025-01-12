@@ -1,1 +1,0 @@
-### subpart 9—teach grants ###

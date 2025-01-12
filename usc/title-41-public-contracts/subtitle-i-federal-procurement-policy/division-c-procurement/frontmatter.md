@@ -1,2 +1,0 @@
-Division C—Procurement
-----------

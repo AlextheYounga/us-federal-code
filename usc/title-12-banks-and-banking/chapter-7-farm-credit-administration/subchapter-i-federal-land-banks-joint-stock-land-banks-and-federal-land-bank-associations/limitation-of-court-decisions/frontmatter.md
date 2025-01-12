@@ -1,1 +1,0 @@
-### Limitation of Court Decisions ###

@@ -1,1 +1,0 @@
-### Part D—Mineral Withdrawal Area ###

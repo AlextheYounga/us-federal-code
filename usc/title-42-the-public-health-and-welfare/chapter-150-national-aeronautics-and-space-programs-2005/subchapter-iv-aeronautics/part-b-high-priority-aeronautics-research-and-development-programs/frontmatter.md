@@ -1,1 +1,0 @@
-### Part B—High Priority Aeronautics Research and Development Programs ###

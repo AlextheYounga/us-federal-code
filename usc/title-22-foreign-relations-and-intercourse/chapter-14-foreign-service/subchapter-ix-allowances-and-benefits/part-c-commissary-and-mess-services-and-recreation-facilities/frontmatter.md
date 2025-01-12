@@ -1,1 +1,0 @@
-### Part C—Commissary and Mess Services and Recreation Facilities ###

@@ -1,1 +1,0 @@
-### Part A—Targeted Responses to Violations of Religious Freedom Abroad ###

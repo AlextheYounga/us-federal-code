@@ -1,1 +1,0 @@
-### Part C—Studies and Other Activities To Promote Effective Administration of Federal Elections ###

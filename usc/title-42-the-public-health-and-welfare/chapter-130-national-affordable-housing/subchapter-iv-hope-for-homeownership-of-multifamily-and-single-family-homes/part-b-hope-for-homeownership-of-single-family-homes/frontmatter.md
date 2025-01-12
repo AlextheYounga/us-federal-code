@@ -1,1 +1,0 @@
-### Part B—HOPE for Homeownership of Single Family Homes ###

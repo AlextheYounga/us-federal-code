@@ -1,1 +1,0 @@
-### Part B—Joshua Tree National Park ###

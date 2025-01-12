@@ -1,1 +1,0 @@
-### subpart 3—partnerships in character education ###

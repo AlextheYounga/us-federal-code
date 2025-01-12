@@ -1,1 +1,0 @@
-### **CHAPTER 7B—PLANT PESTS** ###

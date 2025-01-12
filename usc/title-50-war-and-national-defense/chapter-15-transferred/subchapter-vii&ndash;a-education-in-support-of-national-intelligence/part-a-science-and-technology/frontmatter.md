@@ -1,1 +1,0 @@
-### Part A—Science and Technology ###

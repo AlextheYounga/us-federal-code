@@ -1,1 +1,0 @@
-### subpart 1—fund for the improvement of education ###

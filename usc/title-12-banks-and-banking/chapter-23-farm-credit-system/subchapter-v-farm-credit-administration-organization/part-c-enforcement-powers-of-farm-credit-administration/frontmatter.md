@@ -1,1 +1,0 @@
-### Part C—Enforcement Powers of Farm Credit Administration ###

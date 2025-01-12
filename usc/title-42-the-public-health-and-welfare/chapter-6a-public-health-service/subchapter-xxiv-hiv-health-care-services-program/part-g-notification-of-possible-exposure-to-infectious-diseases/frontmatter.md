@@ -1,1 +1,0 @@
-### Part G—Notification of Possible Exposure to Infectious Diseases ###

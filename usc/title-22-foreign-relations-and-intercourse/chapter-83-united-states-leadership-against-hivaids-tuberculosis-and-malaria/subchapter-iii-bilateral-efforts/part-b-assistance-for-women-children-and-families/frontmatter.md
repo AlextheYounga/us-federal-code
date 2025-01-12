@@ -1,1 +1,0 @@
-### Part B—Assistance for Women, Children, and Families ###

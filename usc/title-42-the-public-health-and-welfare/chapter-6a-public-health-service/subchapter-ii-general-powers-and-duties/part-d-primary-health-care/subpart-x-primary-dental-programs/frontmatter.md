@@ -1,1 +1,0 @@
-### subpart x—primary dental programs ###

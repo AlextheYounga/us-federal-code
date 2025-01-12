@@ -1,1 +1,0 @@
-### Part D—Residential Energy Efficiency Rating Guidelines ###

@@ -1,1 +1,0 @@
-### Part A—Formula Grants to States ###

@@ -1,1 +1,0 @@
-### Part B—Supplementary Medical Insurance Benefits for Aged and Disabled ###

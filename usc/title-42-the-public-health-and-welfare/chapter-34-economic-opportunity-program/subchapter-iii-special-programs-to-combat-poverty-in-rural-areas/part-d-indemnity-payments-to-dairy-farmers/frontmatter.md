@@ -1,1 +1,0 @@
-### Part D—Indemnity Payments to Dairy Farmers ###
