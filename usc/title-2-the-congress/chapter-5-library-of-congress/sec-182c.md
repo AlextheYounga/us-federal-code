@@ -56,7 +56,7 @@ Amounts in the accounts of the revolving fund under this section shall be availa
 
 #### (1) FEDLINK ####
 
-In this section, the "FEDLINK program" is the program of the Library of Congress under which the Librarian provides the following services on behalf of participating Federal libraries, Federal information centers, other entities of the Federal Government, tribal governments (as defined in 40 U.S.C. 502(c)(2)(B)) <sup><a href="#182c_2_target" name="182c_2">2</a></sup> and the District of Columbia:
+In this section, the "FEDLINK program" is the program of the Library of Congress under which the Librarian provides the following services on behalf of participating Federal libraries, Federal information centers, other entities of the Federal Government, tribal governments (as defined in 40 U.S.C. 502(c)(2)(B)) and the District of Columbia:
 
 (A) The procurement of commercial information services, publications in any format, and library support services.
 
@@ -83,5 +83,3 @@ Sections 182a to 182d of this title, referred to in subsec. (a), was in the orig
 Section applicable with respect to fiscal year 2002 and each succeeding fiscal year, see section 105 of Pub. L. 106–481, set out as a note under section 182a of this title.
 
 [<sup>1</sup> So in original. Probably should not be capitalized.](#182c_1)
-
-[<sup>2</sup> So in original. Probably should be followed by a comma.](#182c_2)

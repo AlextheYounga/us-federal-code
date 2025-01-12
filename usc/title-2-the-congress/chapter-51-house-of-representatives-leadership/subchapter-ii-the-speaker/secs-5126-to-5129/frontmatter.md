@@ -10,4 +10,4 @@ Section 5129, Pub. L. 103–69, title I, §101A(a), Aug. 11, 1993, 107 Stat. 699
 
 #### Effective Date of Repeal ####
 
-Amendment by Pub. L. 115–244 applicable with respect to any individual who serves as a Representative in Congress during the One Hundred Fifteenth Congress or any succeeding Congress, see section 118(c) of Pub. L. 115–244, set out as a note under section 5125 of this title.
+Repeal applicable with respect to any individual who serves as a Representative in Congress during the One Hundred Fifteenth Congress or any succeeding Congress, see section 118(c) of Pub. L. 115–244, set out as a note under section 5125 of this title.

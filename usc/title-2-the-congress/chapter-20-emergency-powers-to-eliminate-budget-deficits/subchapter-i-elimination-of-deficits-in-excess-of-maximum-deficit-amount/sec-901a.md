@@ -132,7 +132,7 @@ The Bipartisan Budget Act of 2013, referred to in par. (10)(A), is div. A of Pub
 
 The Bipartisan Budget Act of 2015, referred to in par. (11)(A), is Pub. L. 114–74, Nov. 2, 2015, 129 Stat. 584. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
-The Bipartisan Budget Act of 2018, referred to in par. (12)(A), is Pub. L. 115–123, Feb 9, 2018, 132 Stat. 64. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 1305 of Title 42, The Public Health and Welfare, and Tables.
+The Bipartisan Budget Act of 2018, referred to in par. (12)(A), is Pub. L. 115–123, Feb. 9, 2018, 132 Stat. 64. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under section 1305 of Title 42, The Public Health and Welfare, and Tables.
 
 #### Prior Provisions ####
 

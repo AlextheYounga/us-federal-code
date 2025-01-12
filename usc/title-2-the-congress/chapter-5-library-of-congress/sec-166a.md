@@ -62,7 +62,7 @@ Notwithstanding any other provision of law, the Librarian of Congress may not ch
 
 The Librarian of Congress, in consultation with the CRS Director, shall ensure that the Website—
 
-(A) is updated contemporaneously, automatically, and electronically to include each new or updated CRS Report released on or after March 23, 2018;
+(A) is updated contemporaneously, automatically, and electronically to include each new or updated CRS Report released on or after the effective date of this section;
 
 (B) shows the status of each CRS Report as new, updated, or archived; and
 
@@ -174,9 +174,9 @@ In the event of technical difficulties encountered in planning or implementing t
 
 #### References in Text ####
 
-The effective date of this Act and such effective date, referred to in subsec. (a)(2)(B)(ii), probably means the date of enactment of div. I of Pub. L. 115–141, which was approved Mar. 23, 2018.
+The effective date of this Act and such effective date, referred to in subsec. (a)(2)(B)(ii), are the date of enactment of div. I of Pub. L. 115–141, which was approved Mar. 23, 2018. For the effective date of this section, see subsec. (f) of this section.
 
-Pursuant to 2 U.S.C. 136–1, referred to in subsec. (a)(3)(D), probably means pursuant to section 2 of Pub. L. 114–86, Nov. 5, 2015, 129 Stat. 675, which is classified to section 136–1 of this title.
+2 U.S.C. 136–1, referred to in subsec. (a)(3)(D), was so in the original, but probably should have been a reference to section 2 of the Librarian of Congress Succession Modernization Act of 2015, Pub. L. 114–86, which is classified to section 136–1 of this title.
 
 For the amendments made by this section, referred to in subsec. (f)(1), (2)(C), see Codification note below.
 
