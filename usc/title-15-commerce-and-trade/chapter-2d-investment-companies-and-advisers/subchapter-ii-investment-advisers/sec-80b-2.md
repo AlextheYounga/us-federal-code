@@ -54,7 +54,7 @@ When used in this subchapter, unless the context otherwise requires, the followi
 
 (C) the securities which may be purchased pursuant to section 80a–54(a) of this title may be purchased from any person.
 
-For purposes of this paragraph, all terms in sections 80a–2(a)(48) and 80a–54 of this title shall have the same meaning set forth in subchapter I of this chapter as if such company were a registered closed-end investment company, except that the value of the assets of a business development company which is not subject to the provisions of sections 80a–54 through 80a–64 of this title shall be determined as of the date of the most recent financial statements which it furnished to all holders of its securities, and shall be determined no less frequently than annually.
+For purposes of this paragraph, all terms in sections 80a–2(a)(48) and 80a–54 of this title shall have the same meaning set forth in subchapter I as if such company were a registered closed-end investment company, except that the value of the assets of a business development company which is not subject to the provisions of sections 80a–54 through 80a–64 of this title shall be determined as of the date of the most recent financial statements which it furnished to all holders of its securities, and shall be determined no less frequently than annually.
 
 (23) "Foreign securities authority" means any foreign government, or any governmental body or regulatory organization empowered by a foreign government to administer or enforce its laws as they relate to securities matters.
 

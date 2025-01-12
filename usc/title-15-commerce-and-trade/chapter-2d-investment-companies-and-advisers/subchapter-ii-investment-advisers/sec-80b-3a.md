@@ -48,7 +48,7 @@ Nothing in this subsection shall prohibit the securities commission (or any agen
 
 #### (c) Exemptions ####
 
-Notwithstanding subsection (a) of this section, the Commission, by rule or regulation upon its own motion, or by order upon application, may permit the registration with the Commission of any person or class of persons to which the application of subsection (a) of this section would be unfair, a burden on interstate commerce, or otherwise inconsistent with the purposes of this section.
+Notwithstanding subsection (a), the Commission, by rule or regulation upon its own motion, or by order upon application, may permit the registration with the Commission of any person or class of persons to which the application of subsection (a) would be unfair, a burden on interstate commerce, or otherwise inconsistent with the purposes of this section.
 
 #### (d) State assistance ####
 

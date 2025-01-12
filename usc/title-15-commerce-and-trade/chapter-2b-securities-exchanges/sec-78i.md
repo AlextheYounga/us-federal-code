@@ -62,7 +62,7 @@ Any person who willfully participates in any act or transaction in violation of 
 
 #### (g) Subsection (a) not applicable to exempted securities ####
 
-The provisions of subsection (a) of this section shall not apply to an exempted security.
+The provisions of subsection (a) shall not apply to an exempted security.
 
 #### (h) Foreign currencies and security futures products ####
 
@@ -148,7 +148,7 @@ Subsec. (i). Pub. L. 106–554, §1(a)(5) [title III, §303(c)], added subsec. (
 
 **1990**—Subsec. (h). Pub. L. 101–432 added subsec. (h).
 
-**1982**—Subsec. (f). Pub. L. 97–303, §3(1), substituted "The provisions of subsection (a) of this section shall not apply" for "The provisions of this section shall not apply".
+**1982**—Subsec. (f). Pub. L. 97–303, §3(1), substituted "The provisions of subsection (a) shall not apply" for "The provisions of this section shall not apply".
 
 Subsec. (g). Pub. L. 97–303, §3(2), added subsec. (g).
 

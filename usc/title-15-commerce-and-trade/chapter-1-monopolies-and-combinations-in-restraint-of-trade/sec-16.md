@@ -26,13 +26,13 @@ The United States shall also cause to be published, commencing at least 60 days 
 
 (i) a summary of the terms of the proposal for consent judgment,
 
-(ii) a summary of the competitive impact statement filed under subsection (b) of this section,
+(ii) a summary of the competitive impact statement filed under subsection (b),
 
-(iii) and a list of the materials and documents under subsection (b) of this section which the United States shall make available for purposes of meaningful public comment, and the place where such materials and documents are available for public inspection.
+(iii) and a list of the materials and documents under subsection (b) which the United States shall make available for purposes of meaningful public comment, and the place where such materials and documents are available for public inspection.
 
 #### (d) Consideration of public comments by Attorney General and publication of response ####
 
-During the 60-day period as specified in subsection (b) of this section, and such additional time as the United States may request and the court may grant, the United States shall receive and consider any written comments relating to the proposal for the consent judgment submitted under subsection (b) of this section. The Attorney General or his designee shall establish procedures to carry out the provisions of this subsection, but such 60-day time period shall not be shortened except by order of the district court upon a showing that (1) extraordinary circumstances require such shortening and (2) such shortening is not adverse to the public interest. At the close of the period during which such comments may be received, the United States shall file with the district court and cause to be published in the Federal Register a response to such comments. Upon application by the United States, the district court may, for good cause (based on a finding that the expense of publication in the Federal Register exceeds the public interest benefits to be gained from such publication), authorize an alternative method of public dissemination of the public comments received and the response to those comments.
+During the 60-day period as specified in subsection (b) of this section, and such additional time as the United States may request and the court may grant, the United States shall receive and consider any written comments relating to the proposal for the consent judgment submitted under subsection (b). The Attorney General or his designee shall establish procedures to carry out the provisions of this subsection, but such 60-day time period shall not be shortened except by order of the district court upon a showing that (1) extraordinary circumstances require such shortening and (2) such shortening is not adverse to the public interest. At the close of the period during which such comments may be received, the United States shall file with the district court and cause to be published in the Federal Register a response to such comments. Upon application by the United States, the district court may, for good cause (based on a finding that the expense of publication in the Federal Register exceeds the public interest benefits to be gained from such publication), authorize an alternative method of public dissemination of the public comments received and the response to those comments.
 
 #### (e) Public interest determination ####
 
@@ -46,7 +46,7 @@ During the 60-day period as specified in subsection (b) of this section, and suc
 
 #### (f) Procedure for public interest determination ####
 
-In making its determination under subsection (e) of this section, the court may—
+In making its determination under subsection (e), the court may—
 
 (1) take testimony of Government officials or experts or such other expert witnesses, upon motion of any party or participant or upon its own motion, as the court may deem appropriate;
 
@@ -54,13 +54,13 @@ In making its determination under subsection (e) of this section, the court may�
 
 (3) authorize full or limited participation in proceedings before the court by interested persons or agencies, including appearance amicus curiae, intervention as a party pursuant to the Federal Rules of Civil Procedure, examination of witnesses or documentary materials, or participation in any other manner and extent which serves the public interest as the court may deem appropriate;
 
-(4) review any comments including any objections filed with the United States under subsection (d) of this section concerning the proposed judgment and the responses of the United States to such comments and objections; and
+(4) review any comments including any objections filed with the United States under subsection (d) concerning the proposed judgment and the responses of the United States to such comments and objections; and
 
 (5) take such other action in the public interest as the court may deem appropriate.
 
 #### (g) Filing of written or oral communications with the district court ####
 
-Not later than 10 days following the date of the filing of any proposal for a consent judgment under subsection (b) of this section, each defendant shall file with the district court a description of any and all written or oral communications by or on behalf of such defendant, including any and all written or oral communications on behalf of such defendant by any officer, director, employee, or agent of such defendant, or other person, with any officer or employee of the United States concerning or relevant to such proposal, except that any such communications made by counsel of record alone with the Attorney General or the employees of the Department of Justice alone shall be excluded from the requirements of this subsection. Prior to the entry of any consent judgment pursuant to the antitrust laws, each defendant shall certify to the district court that the requirements of this subsection have been complied with and that such filing is a true and complete description of such communications known to the defendant or which the defendant reasonably should have known.
+Not later than 10 days following the date of the filing of any proposal for a consent judgment under subsection (b), each defendant shall file with the district court a description of any and all written or oral communications by or on behalf of such defendant, including any and all written or oral communications on behalf of such defendant by any officer, director, employee, or agent of such defendant, or other person, with any officer or employee of the United States concerning or relevant to such proposal, except that any such communications made by counsel of record alone with the Attorney General or the employees of the Department of Justice alone shall be excluded from the requirements of this subsection. Prior to the entry of any consent judgment pursuant to the antitrust laws, each defendant shall certify to the district court that the requirements of this subsection have been complied with and that such filing is a true and complete description of such communications known to the defendant or which the defendant reasonably should have known.
 
 #### (h) Inadmissibility as evidence of proceedings before the district court and the competitive impact statement ####
 

@@ -1,12 +1,8 @@
 ### §49. United States Employment Service established ###
 
-In order to promote the establishment and maintenance of a national system of public employment offices, the United States Employment Service shall be established and maintained within the Department of Labor.
+In order to promote the establishment and maintenance of a national system of public employment service offices, the United States Employment Service shall be established and maintained within the Department of Labor.
 
 (June 6, 1933, ch. 49, §1, 48 Stat. 113; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 113–128, title III, §301, July 22, 2014, 128 Stat. 1624.)
-
-#### Amendment of Section ####
-
-Pub. L. 113–128, title III, §301, title V, §506, July 22, 2014, 128 Stat. 1624, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended by inserting "service" before "offices". See 2014 Amendment note below.
 
 #### Amendments ####
 
@@ -16,7 +12,7 @@ Pub. L. 113–128, title III, §301, title V, §506, July 22, 2014, 128 Stat. 16
 
 #### Effective Date of 2014 Amendment ####
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 1982 Amendment ####
 
@@ -63,3 +59,7 @@ Act Apr. 28, 1947, ch. 43, §2, 61 Stat. 55, provided:
 "(a) The provisions of the Farm Labor Supply Appropriation Act, 1944 (Public Law 229, Seventy-eighth Congress, second session, title I [sections 1351 to 1355 of Appendix to Title 50, War and National Defense]), as amended and supplemented, and as extended by this Act, shall not be construed to limit or interfere with any of the functions of the United States Employment Service or State public employment services with respect to maintaining a farm placement service as authorized under the Act of June 6, 1933 (48 Stat. 113) [this chapter].
 
 "(b) The Secretary of Agriculture and the Secretary of Labor shall take such action as may be necessary to assure maximum cooperation between the agricultural extension services of the land-grant colleges and the State public employment agencies in the recruitment and placement of domestic farm labor and in the keeping of such records and information with respect thereto as may be necessary for the proper and efficient administration of the State unemployment compensation laws and of title V of the Servicemen's Readjustment Act of 1944, as amended (58 Stat. 295)."
+
+#### Definitions of Terms in Pub. L. 113–128 ####
+
+Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.

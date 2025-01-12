@@ -24,7 +24,7 @@ Section was not enacted as part of the Social Security Act which comprises this 
 
 #### Effective Date of 1998 Amendment ####
 
-Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L. 105–220, set out as a note under section 49a of Title 29, Labor.
+Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L. 105–220, formerly set out as a note under section 49a of Title 29, Labor.
 
 #### Effective Date of 1996 Amendment ####
 

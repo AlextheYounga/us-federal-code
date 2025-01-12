@@ -2,11 +2,11 @@
 
 #### (a) Inapplicability of antitrust laws ####
 
-Except as provided in subsection (d) of this section, the antitrust laws, and any State law similar to any of the antitrust laws, shall not apply to charitable gift annuities or charitable remainder trusts.
+Except as provided in subsection (d), the antitrust laws, and any State law similar to any of the antitrust laws, shall not apply to charitable gift annuities or charitable remainder trusts.
 
 #### (b) Immunity ####
 
-Except as provided in subsection (d) of this section, any person subjected to any legal proceeding for damages, injunction, penalties, or other relief of any kind under the antitrust laws, or any State law similar to any of the antitrust laws, on account of setting or agreeing to rates of return or other terms for, negotiating, issuing, participating in, implementing, or otherwise being involved in the planning, issuance, or payment of charitable gift annuities or charitable remainder trusts shall have immunity from suit under the antitrust laws, including the right not to bear the cost, burden, and risk of discovery and trial, for the conduct set forth in this subsection.
+Except as provided in subsection (d), any person subjected to any legal proceeding for damages, injunction, penalties, or other relief of any kind under the antitrust laws, or any State law similar to any of the antitrust laws, on account of setting or agreeing to rates of return or other terms for, negotiating, issuing, participating in, implementing, or otherwise being involved in the planning, issuance, or payment of charitable gift annuities or charitable remainder trusts shall have immunity from suit under the antitrust laws, including the right not to bear the cost, burden, and risk of discovery and trial, for the conduct set forth in this subsection.
 
 #### (c) Treatment of certain annuities and trusts ####
 
@@ -20,7 +20,7 @@ shall be conclusively presumed for the purposes of this section and section 37a 
 
 #### (d) Limitation ####
 
-Subsections (a) and (b) of this section shall not apply with respect to the enforcement of a State law similar to any of the antitrust laws, with respect to charitable gift annuities, or charitable remainder trusts, created after the State enacts a statute, not later than December 8, 1998, that expressly provides that subsections (a) and (b) of this section shall not apply with respect to such charitable gift annuities and such charitable remainder trusts.
+Subsections (a) and (b) shall not apply with respect to the enforcement of a State law similar to any of the antitrust laws, with respect to charitable gift annuities, or charitable remainder trusts, created after the State enacts a statute, not later than December 8, 1998, that expressly provides that subsections (a) and (b) shall not apply with respect to such charitable gift annuities and such charitable remainder trusts.
 
 (Pub. L. 104–63, §2, Dec. 8, 1995, 109 Stat. 687; Pub. L. 105–26, §2(1), July 3, 1997, 111 Stat. 241.)
 

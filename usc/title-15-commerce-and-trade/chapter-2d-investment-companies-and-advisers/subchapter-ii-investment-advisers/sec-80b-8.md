@@ -6,7 +6,7 @@ It shall be unlawful for any person registered under section 80b–3 of this tit
 
 #### (b) Statement of registration under Securities Exchange Act of 1934 provisions ####
 
-No provision of subsection (a) of this section shall be construed to prohibit a statement that a person is registered under this subchapter or under the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], if such statement is true in fact and if the effect of such registration is not misrepresented.
+No provision of subsection (a) shall be construed to prohibit a statement that a person is registered under this subchapter or under the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], if such statement is true in fact and if the effect of such registration is not misrepresented.
 
 #### (c) Use of name "investment counsel" as descriptive of business ####
 

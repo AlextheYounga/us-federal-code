@@ -18,7 +18,7 @@ Management companies are further divided into diversified companies and non-dive
 
 #### (c) Loss of status as diversified company ####
 
-A registered diversified company which at the time of its qualification as such meets the requirements of paragraph (1) of subsection (b) of this section shall not lose its status as a diversified company because of any subsequent discrepancy between the value of its various investments and the requirements of said paragraph, so long as any such discrepancy existing immediately after its acquisition of any security or other property is neither wholly nor partly the result of such acquisition.
+A registered diversified company which at the time of its qualification as such meets the requirements of paragraph (1) of subsection (b) shall not lose its status as a diversified company because of any subsequent discrepancy between the value of its various investments and the requirements of said paragraph, so long as any such discrepancy existing immediately after its acquisition of any security or other property is neither wholly nor partly the result of such acquisition.
 
 (Aug. 22, 1940, ch. 686, title I, §5, 54 Stat. 800; Pub. L. 100–181, title VI, §607, Dec. 4, 1987, 101 Stat. 1261.)
 

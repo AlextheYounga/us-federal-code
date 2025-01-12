@@ -40,7 +40,7 @@ A security may be registered on a national securities exchange by the issuer fil
 
 #### (c) Additional or alternative information ####
 
-If in the judgment of the Commission any information required under subsection (b) of this section is inapplicable to any specified class or classes of issuers, the Commission shall require in lieu thereof the submission of such other information of comparable character as it may deem applicable to such class of issuers.
+If in the judgment of the Commission any information required under subsection (b) is inapplicable to any specified class or classes of issuers, the Commission shall require in lieu thereof the submission of such other information of comparable character as it may deem applicable to such class of issuers.
 
 #### (d) Effective date of registration; withdrawal of registration ####
 
@@ -56,7 +56,7 @@ Notwithstanding the foregoing provisions of this section, the Commission may by 
 
 (i) any security that is listed and registered on a national securities exchange, subject to subparagraph (B); and
 
-(ii) any security that is otherwise registered pursuant to this section, or that would be required to be so registered except for the exemption from registration provided in subparagraph (B) or (G) of subsection (g)(2) of this section, subject to subparagraph (E) of this paragraph.
+(ii) any security that is otherwise registered pursuant to this section, or that would be required to be so registered except for the exemption from registration provided in subparagraph (B) or (G) of subsection (g)(2), subject to subparagraph (E) of this paragraph.
 
 (B) A national securities exchange may not extend unlisted trading privileges to a security described in subparagraph (A)(i) during such interval, if any, after the commencement of an initial public offering of such security, as is or may be required pursuant to subparagraph (C).
 

@@ -6,7 +6,7 @@
 
 (B) The requirement of paragraph (1) shall take effect on November 30, 1983.
 
-(b)(1) Subject to subsection (a) of this section, the appropriate Federal banking agencies shall promulgate regulations for accounting for agency, commitment, management and other fees charged by a banking institution in connection with an international loan.
+(b)(1) Subject to subsection (a), the appropriate Federal banking agencies shall promulgate regulations for accounting for agency, commitment, management and other fees charged by a banking institution in connection with an international loan.
 
 (2) Such regulations shall establish the accounting treatment of such fees for regulatory, supervisory, and disclosure purposes to assure that the appropriate portion of such fees is accrued in income over the effective life of each such loan.
 

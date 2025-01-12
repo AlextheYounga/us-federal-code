@@ -2,7 +2,7 @@
 
 #### (a) Authority of Commission to prescribe rules and general statements of policy ####
 
-(1) Except as provided in subsection (h) of this section, the Commission may prescribe—
+(1) Except as provided in subsection (h), the Commission may prescribe—
 
 (A) interpretive rules and general statements of policy with respect to unfair or deceptive acts or practices in or affecting commerce (within the meaning of section 45(a)(1) of this title), and
 
@@ -12,7 +12,7 @@
 
 #### (b) Procedures applicable ####
 
-(1) When prescribing a rule under subsection (a)(1)(B) of this section, the Commission shall proceed in accordance with section 553 of title 5 (without regard to any reference in such section to sections 556 and 557 of such title), and shall also (A) publish a notice of proposed rulemaking stating with particularity the text of the rule, including any alternatives, which the Commission proposes to promulgate, and the reason for the proposed rule; (B) allow interested persons to submit written data, views, and arguments, and make all such submissions publicly available; (C) provide an opportunity for an informal hearing in accordance with subsection (c) of this section; and (D) promulgate, if appropriate, a final rule based on the matter in the rulemaking record (as defined in subsection (e)(1)(B) of this section), together with a statement of basis and purpose.
+(1) When prescribing a rule under subsection (a)(1)(B) of this section, the Commission shall proceed in accordance with section 553 of title 5 (without regard to any reference in such section to sections 556 and 557 of such title), and shall also (A) publish a notice of proposed rulemaking stating with particularity the text of the rule, including any alternatives, which the Commission proposes to promulgate, and the reason for the proposed rule; (B) allow interested persons to submit written data, views, and arguments, and make all such submissions publicly available; (C) provide an opportunity for an informal hearing in accordance with subsection (c); and (D) promulgate, if appropriate, a final rule based on the matter in the rulemaking record (as defined in subsection (e)(1)(B)), together with a statement of basis and purpose.
 
 (2)(A) Prior to the publication of any notice of proposed rulemaking pursuant to paragraph (1)(A), the Commission shall publish an advance notice of proposed rulemaking in the Federal Register. Such advance notice shall—
 
@@ -56,19 +56,19 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 #### (d) Statement of basis and purpose accompanying rule; "Commission" defined; judicial review of amendment or repeal of rule; violation of rule ####
 
-(1) The Commission's statement of basis and purpose to accompany a rule promulgated under subsection (a)(1)(B) of this section shall include (A) a statement as to the prevalence of the acts or practices treated by the rule; (B) a statement as to the manner and context in which such acts or practices are unfair or deceptive; and (C) a statement as to the economic effect of the rule, taking into account the effect on small business and consumers.
+(1) The Commission's statement of basis and purpose to accompany a rule promulgated under subsection (a)(1)(B) shall include (A) a statement as to the prevalence of the acts or practices treated by the rule; (B) a statement as to the manner and context in which such acts or practices are unfair or deceptive; and (C) a statement as to the economic effect of the rule, taking into account the effect on small business and consumers.
 
-(2)(A) The term "Commission" as used in this subsection and subsections (b) and (c) of this section includes any person authorized to act in behalf of the Commission in any part of the rulemaking proceeding.
+(2)(A) The term "Commission" as used in this subsection and subsections (b) and (c) includes any person authorized to act in behalf of the Commission in any part of the rulemaking proceeding.
 
-(B) A substantive amendment to, or repeal of, a rule promulgated under subsection (a)(1)(B) of this section shall be prescribed, and subject to judicial review, in the same manner as a rule prescribed under such subsection. An exemption under subsection (g) of this section shall not be treated as an amendment or repeal of a rule.
+(B) A substantive amendment to, or repeal of, a rule promulgated under subsection (a)(1)(B) shall be prescribed, and subject to judicial review, in the same manner as a rule prescribed under such subsection. An exemption under subsection (g) shall not be treated as an amendment or repeal of a rule.
 
-(3) When any rule under subsection (a)(1)(B) of this section takes effect a subsequent violation thereof shall constitute an unfair or deceptive act or practice in violation of section 45(a)(1) of this title, unless the Commission otherwise expressly provides in such rule.
+(3) When any rule under subsection (a)(1)(B) takes effect a subsequent violation thereof shall constitute an unfair or deceptive act or practice in violation of section 45(a)(1) of this title, unless the Commission otherwise expressly provides in such rule.
 
 #### (e) Judicial review; petition; jurisdiction and venue; rulemaking record; additional submissions and presentations; scope of review and relief; review by Supreme Court; additional remedies ####
 
-(1)(A) Not later than 60 days after a rule is promulgated under subsection (a)(1)(B) of this section by the Commission, any interested person (including a consumer or consumer organization) may file a petition, in the United States Court of Appeals for the District of Columbia circuit or for the circuit in which such person resides or has his principal place of business, for judicial review of such rule. Copies of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by it for that purpose. The provisions of section 2112 of title 28 shall apply to the filing of the rulemaking record of proceedings on which the Commission based its rule and to the transfer of proceedings in the courts of appeals.
+(1)(A) Not later than 60 days after a rule is promulgated under subsection (a)(1)(B) by the Commission, any interested person (including a consumer or consumer organization) may file a petition, in the United States Court of Appeals for the District of Columbia circuit or for the circuit in which such person resides or has his principal place of business, for judicial review of such rule. Copies of the petition shall be forthwith transmitted by the clerk of the court to the Commission or other officer designated by it for that purpose. The provisions of section 2112 of title 28 shall apply to the filing of the rulemaking record of proceedings on which the Commission based its rule and to the transfer of proceedings in the courts of appeals.
 
-(B) For purposes of this section, the term "rulemaking record" means the rule, its statement of basis and purpose, the transcript required by subsection (c)(5) of this section, any written submissions, and any other information which the Commission considers relevant to such rule.
+(B) For purposes of this section, the term "rulemaking record" means the rule, its statement of basis and purpose, the transcript required by subsection (c)(5), any written submissions, and any other information which the Commission considers relevant to such rule.
 
 (2) If the petitioner or the Commission applies to the court for leave to make additional oral submissions or written presentations and shows to the satisfaction of the court that such submissions and presentations would be material and that there were reasonable grounds for the submissions and failure to make such submissions and presentations in the proceeding before the Commission, the court may order the Commission to provide additional opportunity to make such submissions and presentations. The Commission may modify or set aside its rule or make a new rule by reason of the additional submissions and presentations and shall file such modified or new rule, and the rule's statement of basis of purpose, with the return of such submissions and presentations. The court shall thereafter review such new or modified rule.
 
@@ -78,9 +78,9 @@ The Commission shall conduct any informal hearings required by subsection (b)(1)
 
 (B) the court finds that—
 
-(i) a Commission determination under subsection (c) of this section that the petitioner is not entitled to conduct cross-examination or make rebuttal submissions, or
+(i) a Commission determination under subsection (c) that the petitioner is not entitled to conduct cross-examination or make rebuttal submissions, or
 
-(ii) a Commission rule or ruling under subsection (c) of this section limiting the petitioner's cross-examination or rebuttal submissions,
+(ii) a Commission rule or ruling under subsection (c) limiting the petitioner's cross-examination or rebuttal submissions,
 
 has precluded disclosure of disputed material facts which was necessary for fair determination by the Commission of the rulemaking proceeding taken as a whole.
 
@@ -90,9 +90,9 @@ The term "evidence", as used in this paragraph, means any matter in the rulemaki
 
 (5)(A) Remedies under the preceding paragraphs of this subsection are in addition to and not in lieu of any other remedies provided by law.
 
-(B) The United States Courts of Appeal shall have exclusive jurisdiction of any action to obtain judicial review (other than in an enforcement proceeding) of a rule prescribed under subsection (a)(1)(B) of this section, if any district court of the United States would have had jurisdiction of such action but for this subparagraph. Any such action shall be brought in the United States Court of Appeals for the District of Columbia circuit, or for any circuit which includes a judicial district in which the action could have been brought but for this subparagraph.
+(B) The United States Courts of Appeal shall have exclusive jurisdiction of any action to obtain judicial review (other than in an enforcement proceeding) of a rule prescribed under subsection (a)(1)(B), if any district court of the United States would have had jurisdiction of such action but for this subparagraph. Any such action shall be brought in the United States Court of Appeals for the District of Columbia circuit, or for any circuit which includes a judicial district in which the action could have been brought but for this subparagraph.
 
-(C) A determination, rule, or ruling of the Commission described in paragraph (3)(B)(i) or (ii) may be reviewed only in a proceeding under this subsection and only in accordance with paragraph (3)(B). Section 706(2)(E) of title 5 shall not apply to any rule promulgated under subsection (a)(1)(B) of this section. The contents and adequacy of any statement required by subsection (b)(1)(D) of this section shall not be subject to judicial review in any respect.
+(C) A determination, rule, or ruling of the Commission described in paragraph (3)(B)(i) or (ii) may be reviewed only in a proceeding under this subsection and only in accordance with paragraph (3)(B). Section 706(2)(E) of title 5 shall not apply to any rule promulgated under subsection (a)(1)(B). The contents and adequacy of any statement required by subsection (b)(1)(D) shall not be subject to judicial review in any respect.
 
 #### (f) Definitions of banks, savings and loan institutions, and Federal credit unions ####
 
@@ -116,9 +116,9 @@ The terms used in this paragraph <sup><a href="#57a_1_target" name="57a_1">1</a
 
 (1) Any person to whom a rule under subsection (a)(1)(B) of this section applies may petition the Commission for an exemption from such rule.
 
-(2) If, on its own motion or on the basis of a petition under paragraph (1), the Commission finds that the application of a rule prescribed under subsection (a)(1)(B) of this section to any person or class or <sup><a href="#57a_2_target" name="57a_2">2</a></sup> persons is not necessary to prevent the unfair or deceptive act or practice to which the rule relates, the Commission may exempt such person or class from all or part of such rule. Section 553 of title 5 shall apply to action under this paragraph.
+(2) If, on its own motion or on the basis of a petition under paragraph (1), the Commission finds that the application of a rule prescribed under subsection (a)(1)(B) to any person or class or <sup><a href="#57a_2_target" name="57a_2">2</a></sup> persons is not necessary to prevent the unfair or deceptive act or practice to which the rule relates, the Commission may exempt such person or class from all or part of such rule. Section 553 of title 5 shall apply to action under this paragraph.
 
-(3) Neither the pendency of a proceeding under this subsection respecting an exemption from a rule, nor the pendency of judicial proceedings to review the Commission's action or failure to act under this subsection, shall stay the applicability of such rule under subsection (a)(1)(B) of this section.
+(3) Neither the pendency of a proceeding under this subsection respecting an exemption from a rule, nor the pendency of judicial proceedings to review the Commission's action or failure to act under this subsection, shall stay the applicability of such rule under subsection (a)(1)(B).
 
 #### (h) Restriction on rulemaking authority of Commission respecting children's advertising proceedings pending on May 28, 1980 ####
 
@@ -196,7 +196,7 @@ Subsec. (f)(2). Pub. L. 102–242, §212(g)(2)(A), added par. (2) and struck out
 
 Subsec. (f)(4) to (7). Pub. L. 100–86, §715(c)(3), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
-**1980**—Subsec. (a)(1). Pub. L. 96–252, §§7, 11(a)(2), in provisions preceding subpar. (A) substituted "Except as provided in subsection (i) of this section, the" for "The" and in subpar. (B) inserted ", except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section" after "section 45(a)(1) of this title)".
+**1980**—Subsec. (a)(1). Pub. L. 96–252, §§7, 11(a)(2), in provisions preceding subpar. (A) substituted "Except as provided in subsection (i), the" for "The" and in subpar. (B) inserted ", except that the Commission shall not develop or promulgate any trade rule or regulation with regard to the regulation of the development and utilization of the standards and certification activities pursuant to this section" after "section 45(a)(1) of this title)".
 
 Subsec. (b). Pub. L. 96–252, §§8(a), 11(a)(3), designated existing provisions as par. (1) and cls. (1) to (4) thereof as subpars. (A) to (D) and, subpar. (A) thereof, inserted "the text of the rule, including any alternatives, which the Commission proposes to promulgate, and" after "particularity", and added par. (2).
 

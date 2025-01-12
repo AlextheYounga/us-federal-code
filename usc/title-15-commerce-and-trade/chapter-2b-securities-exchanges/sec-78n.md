@@ -80,7 +80,7 @@ If, pursuant to any arrangement or understanding with the person or persons acqu
 
 #### (1) Proxy rules to contain special provisions ####
 
-It shall be unlawful for any person to solicit any proxy, consent, or authorization concerning a limited partnership rollup transaction, or to make any tender offer in furtherance of a limited partnership rollup transaction, unless such transaction is conducted in accordance with rules prescribed by the Commission under subsections (a) and (d) of this section as required by this subsection. Such rules shall—
+It shall be unlawful for any person to solicit any proxy, consent, or authorization concerning a limited partnership rollup transaction, or to make any tender offer in furtherance of a limited partnership rollup transaction, unless such transaction is conducted in accordance with rules prescribed by the Commission under subsections (a) and (d) as required by this subsection. Such rules shall—
 
 (A) permit any holder of a security that is the subject of the proposed limited partnership rollup transaction to engage in preliminary communications for the purpose of determining whether to solicit proxies, consents, or authorizations in opposition to the proposed limited partnership rollup transaction, without regard to whether any such communication would otherwise be considered a solicitation of proxies, and without being required to file soliciting material with the Commission prior to making that determination, except that—
 
@@ -140,7 +140,7 @@ The Commission may, consistent with the public interest, the protection of inves
 
 #### (3) Effect on Commission authority ####
 
-Nothing in this subsection limits the authority of the Commission under subsection (a) or (d) of this section or any other provision of this chapter or precludes the Commission from imposing, under subsection (a) or (d) of this section or any other provision of this chapter, a remedy or procedure required to be imposed under this subsection.
+Nothing in this subsection limits the authority of the Commission under subsection (a) or (d) or any other provision of this chapter or precludes the Commission from imposing, under subsection (a) or (d) or any other provision of this chapter, a remedy or procedure required to be imposed under this subsection.
 
 #### (4) "Limited partnership rollup transaction" defined ####
 

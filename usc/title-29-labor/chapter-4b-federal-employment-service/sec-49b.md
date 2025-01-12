@@ -1,8 +1,8 @@
 ### §49b. Duties of Secretary ###
 
-#### (a) Assistance to State public employment services ####
+#### (a) Assistance to State public employment service offices ####
 
-The Secretary shall assist in coordinating the State public employment services throughout the country and in increasing their usefulness by developing and prescribing minimum standards of efficiency, assisting them in meeting problems peculiar to their localities, promoting uniformity in their administrative and statistical procedure, furnishing and publishing information as to opportunities for employment and other information of value in the operation of the system, and maintaining a system for clearing labor between the States.
+The Secretary shall assist in coordinating the State public employment service offices throughout the country and in increasing their usefulness by developing and prescribing minimum standards of efficiency, assisting them in meeting problems peculiar to their localities, promoting uniformity in their administrative and statistical procedure, furnishing and publishing information as to opportunities for employment and other information of value in the operation of the system, and maintaining a system for clearing labor between the States.
 
 #### (b) Provision of unemployment compensation information ####
 
@@ -14,37 +14,21 @@ The Secretary shall—
 
 (1) assist in the coordination and development of a nationwide system of public labor exchange services, provided as part of the one-stop customer service systems of the States;
 
-(2) assist in the development of continuous improvement models for such nationwide system that ensure private sector satisfaction with the system and meet the demands of jobseekers relating to the system; and
+(2) assist in the development of continuous improvement models for such nationwide system that ensure private sector satisfaction with the system and meet the demands of jobseekers relating to the system, and identify and disseminate information on best practices for such system; and and <sup><a href="#49b_1_target" name="49b_1">1</a></sup>
 
-(3) ensure, for individuals otherwise eligible to receive unemployment compensation, the provision of reemployment services and other activities in which the individuals are required to participate to receive the compensation.
+(3) ensure, for individuals otherwise eligible to receive unemployment compensation, the provision of reemployment services and other activities in which the individuals are required to participate to receive the compensation.<sup><a href="#49b_2_target" name="49b_2">2</a></sup>
+
+(4) in coordination with the State agencies and the staff of such agencies, assist in the planning and implementation of activities to enhance the professional development and career advancement opportunities of such staff, in order to strengthen the provision of a broad range of career guidance services, the identification of job openings (including providing intensive outreach to small and medium-sized employers and enhanced employer services), the provision of technical assistance and training to other providers of workforce development activities (including workplace learning advisors) relating to counseling and employment-related services, and the development of new strategies for coordinating counseling and technology.
+
+#### (d) Colocation of employment service offices and one-stop centersIn order to improve service delivery, avoid duplication of services, and enhance coordination of services, including location of staff to ensure access to services under section 49f(a) of this title statewide in underserved areas, employment service offices in each State shall be colocated with one-stop centers. ####
+
+#### (e) Development of national electronic toolsThe Secretary, in consultation with States, is authorized to assist the States in the development of national electronic tools that may be used to improve access to workforce information for individuals through— ####
+
+(1) the one-stop delivery systems established as described in section 3151(e) of this title; and
+
+(2) such other delivery systems as the Secretary determines to be appropriate.
 
 (June 6, 1933, ch. 49, §3, 48 Stat. 114; Sept. 8, 1950, ch. 933, §1, 64 Stat. 822; Aug. 3, 1954, ch. 655, §6(a), 68 Stat. 665; Aug. 1, 1956, ch. 852, §17(a), 70 Stat. 910; Pub. L. 86–624, §21(a), July 12, 1960, 74 Stat. 417; Pub. L. 93–198, title II, §204(c), Dec. 24, 1973, 87 Stat. 783; Pub. L. 94–566, title V, §508(a), Oct. 20, 1976, 90 Stat. 2689; Pub. L. 97–300, title VI, §601(a), formerly title V, §501(a), Oct. 13, 1982, 96 Stat. 1392; renumbered title VI, §601(a), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; Pub. L. 99–198, title XV, §1535(b)(2), Dec. 23, 1985, 99 Stat. 1584; Pub. L. 104–193, title I, §110(m), Aug. 22, 1996, 110 Stat. 2173; Pub. L. 105–220, title III, §§302(a), 310, Aug. 7, 1998, 112 Stat. 1080, 1086; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(Q), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(Q), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 113–128, title III, §303, July 22, 2014, 128 Stat. 1625.)
-
-#### Amendment of Section ####
-
-Pub. L. 113–128, title III, §303, title V, §506, July 22, 2014, 128 Stat. 1625, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
-
-(1) in subsection (a), by striking "services" and inserting "service offices";
-
-(2) in subsection (c):
-
-(A) in paragraph (2), by striking the semicolon and inserting ", and identify and disseminate information on best practices for such system; and"; and
-
-(B) by adding at the end the following:
-
-*"(4) in coordination with the State agencies and the staff of such agencies, assist in the planning and implementation of activities to enhance the professional development and career advancement opportunities of such staff, in order to strengthen the provision of a broad range of career guidance services, the identification of job openings (including providing intensive outreach to small and medium-sized employers and enhanced employer services), the provision of technical assistance and training to other providers of workforce development activities (including workplace learning advisors) relating to counseling and employment-related services, and the development of new strategies for coordinating counseling and technology."; and*
-
-(3) by inserting after subsection (c) the following:
-
-*(d) In order to improve service delivery, avoid duplication of services, and enhance coordination of services, including location of staff to ensure access to services under section 49f(a) of this title statewide in underserved areas, employment service offices in each State shall be colocated with one-stop centers.*
-
-*(e) The Secretary, in consultation with States, is authorized to assist the States in the development of national electronic tools that may be used to improve access to workforce information for individuals through—*
-
-*(1) the one-stop delivery systems established as described in section 3151(e) of this title; and*
-
-*(2) such other delivery systems as the Secretary determines to be appropriate.*
-
-See 2014 Amendment notes below.
 
 #### References in Text ####
 
@@ -96,7 +80,7 @@ Subsec. (b). Pub. L. 93–198, §204(c)(2), included District of Columbia in def
 
 #### Effective Date of 2014 Amendment ####
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 2008 Amendment ####
 
@@ -106,7 +90,7 @@ Amendment by section 4002(b)(1)(A), (B), (2)(Q) of Pub. L. 110–246 effective O
 
 #### Effective Date of 1998 Amendment ####
 
-Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L. 105–220, set out as a note under section 49a of this title.
+Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L. 105–220, formerly set out as a note under section 49a of this title.
 
 #### Effective Date of 1996 Amendment ####
 
@@ -123,3 +107,11 @@ Pub. L. 93–198, title VII, §771(b), Dec. 24, 1973, 87 Stat. 836, provided in 
 #### Effective Date of 1954 Amendment ####
 
 Act Aug. 3, 1954, ch. 655, §8, 68 Stat. 665, provided that: "The amendments made by this Act [enacting section 107e–1 of Title 20, Education, and amending this section, sections 31 to 41, 42, and 49g of this title, sections 107, 107a, 107b, 107e, and 107f of Title 20, and section 155a of former Title 36, Patriotic Societies and Observances] shall become effective July 1, 1954."
+
+#### Definitions of Terms in Pub. L. 113–128 ####
+
+Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.
+
+[<sup>1</sup> So in original.](#49b_1)
+
+[<sup>2</sup> So in original. The period probably should be "; and".](#49b_2)

@@ -14,7 +14,7 @@ Sec.
 
 1304. Marking of imported articles and containers.
 
-1304a. Technical assistance to CBP.
+1304a. Technical assistance to U.S. Customs and Border Protection.
 
 1305. Immoral articles; importation prohibited.
 

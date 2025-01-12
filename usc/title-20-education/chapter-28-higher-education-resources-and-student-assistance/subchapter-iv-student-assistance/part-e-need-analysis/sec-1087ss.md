@@ -114,7 +114,7 @@ In this section:
 
 #### (1) Dislocated worker ####
 
-The term "dislocated worker" has the meaning given the term in section 2801 of title 29.
+The term "dislocated worker" has the meaning given the term in section 3102 of title 29.
 
 #### (2) Means-tested Federal benefit program ####
 
@@ -133,10 +133,6 @@ The term "means-tested Federal benefit program" means a mandatory spending progr
 (F) other programs identified by the Secretary.
 
 (Pub. L. 89–329, title IV, §479, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(23)–(25), June 3, 1987, 101 Stat. 352; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–26, §11, Apr. 9, 1991, 105 Stat. 129; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 604; Pub. L. 103–208, §2(g)(10)–(15), Dec. 20, 1993, 107 Stat. 2472; Pub. L. 105–244, title IV, §477, Oct. 7, 1998, 112 Stat. 1731; Pub. L. 109–171, title VIII, §8018(a), Feb. 8, 2006, 120 Stat. 174; Pub. L. 110–84, title VI, §602(a), Sept. 27, 2007, 121 Stat. 804; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(N), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(N), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 111–39, title IV, §406(a)(4), July 1, 2009, 123 Stat. 1948; Pub. L. 112–74, div. F, title III, §309(b), Dec. 23, 2011, 125 Stat. 1100; Pub. L. 113–128, title V, §512(n)(2), July 22, 2014, 128 Stat. 1710.)
-
-#### Amendment of Subsection (d)(1) ####
-
-Pub. L. 113–128, title V, §§506, 512(n)(2), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (d)(1) of this section is amended by striking "The term 'dislocated worker' has the meaning given the term in section 2801 of title 29" and inserting "The term 'dislocated worker' has the meaning given the term in section 3102 of title 29". See 2014 Amendment note below.
 
 #### References in Text ####
 
@@ -242,7 +238,7 @@ Subsec. (c). Pub. L. 100–50, §14(25), added subsec. (c).
 
 #### Effective Date of 2014 Amendment ####
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2011 Amendment ####
 

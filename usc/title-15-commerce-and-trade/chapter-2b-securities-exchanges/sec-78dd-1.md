@@ -30,11 +30,11 @@ in order to assist such issuer in obtaining or retaining business for or with, o
 
 #### (b) Exception for routine governmental action ####
 
-Subsections (a) and (g) of this section shall not apply to any facilitating or expediting payment to a foreign official, political party, or party official the purpose of which is to expedite or to secure the performance of a routine governmental action by a foreign official, political party, or party official.
+Subsections (a) and (g) shall not apply to any facilitating or expediting payment to a foreign official, political party, or party official the purpose of which is to expedite or to secure the performance of a routine governmental action by a foreign official, political party, or party official.
 
 #### (c) Affirmative defenses ####
 
-It shall be an affirmative defense to actions under subsection (a) or (g) of this section that—
+It shall be an affirmative defense to actions under subsection (a) or (g) that—
 
 (1) the payment, gift, offer, or promise of anything of value that was made, was lawful under the written laws and regulations of the foreign official's, political party's, party official's, or candidate's country; or
 

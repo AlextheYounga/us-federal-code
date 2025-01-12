@@ -6,7 +6,7 @@ No damages, interest on damages, costs or attorney's fees may be recovered under
 
 #### (b) Nonapplication of prohibition for cases commenced before effective date of provisions ####
 
-Subsection (a) of this section shall not apply with respect to cases commenced before the effective date of this Act.
+Subsection (a) shall not apply with respect to cases commenced before the effective date of this Act.
 
 (Pub. L. 98–544, §4, Oct. 24, 1984, 98 Stat. 2750.)
 

@@ -10,9 +10,9 @@ Section 1534, Pub. L. 97–300, title I, §124, Oct. 13, 1982, 96 Stat. 1341; Pu
 
 Section 1535, Pub. L. 97–300, title I, §125, Oct. 13, 1982, 96 Stat. 1342; Pub. L. 97–404, §1(e), Dec. 31, 1982, 96 Stat. 2026; Pub. L. 98–524, §4(a)(3), Oct. 19, 1984, 98 Stat. 2487; Pub. L. 102–367, title I, §124, title VII, §702(a)(6), Sept. 7, 1992, 106 Stat. 1041, 1112, related to State labor market information programs.
 
-Section 1536, Pub. L. 97–300, title I, §126, Oct. 13, 1982, 96 Stat. 1343, related to authority of State legislature. See section 2941 of this title.
+Section 1536, Pub. L. 97–300, title I, §126, Oct. 13, 1982, 96 Stat. 1343, related to authority of State legislature.
 
-Section 1537, Pub. L. 97–300, title I, §127, Oct. 13, 1982, 96 Stat. 1343, related to interstate agreements. See section 2941 of this title.
+Section 1537, Pub. L. 97–300, title I, §127, Oct. 13, 1982, 96 Stat. 1343, related to interstate agreements.
 
 #### Effective Date of Repeal ####
 

@@ -20,13 +20,13 @@ Except as otherwise provided in this section, and without limiting the powers an
 
 #### (b) Payments to customers ####
 
-After receipt of a written statement of claim pursuant to subsection (a)(2), of this section, the trustee shall promptly discharge, in accordance with the provisions of this section, all obligations of the debtor to a customer relating to, or net equity claims based upon, securities or cash, by the delivery of securities or the making of payments to or for the account of such customer (subject to the provisions of subsection (d) of this section and section 78fff–3(a) of this title) insofar as such obligations are ascertainable from the books and records of the debtor or are otherwise established to the satisfaction of the trustee. For purposes of distributing securities to customers, all securities shall be valued as of the close of business on the filing date. For purposes of this subsection, the court shall, among other things—
+After receipt of a written statement of claim pursuant to subsection (a)(2), the trustee shall promptly discharge, in accordance with the provisions of this section, all obligations of the debtor to a customer relating to, or net equity claims based upon, securities or cash, by the delivery of securities or the making of payments to or for the account of such customer (subject to the provisions of subsection (d) and section 78fff–3(a) of this title) insofar as such obligations are ascertainable from the books and records of the debtor or are otherwise established to the satisfaction of the trustee. For purposes of distributing securities to customers, all securities shall be valued as of the close of business on the filing date. For purposes of this subsection, the court shall, among other things—
 
 (1) with respect to net equity claims, authorize the trustee to satisfy claims out of moneys made available to the trustee by SIPC notwithstanding the fact that there has not been any showing or determination that there are sufficient funds of the debtor available to satisfy such claims; and
 
 (2) with respect to claims relating to, or net equities based upon, securities of a class and series of an issuer which are ascertainable from the books and records of the debtor or are otherwise established to the satisfaction of the trustee, authorize the trustee to deliver securities of such class and series if and to the extent available to satisfy such claims in whole or in part, with partial deliveries to be made pro rata to the greatest extent considered practicable by the trustee.
 
-Any payment or delivery of property pursuant to this subsection may be conditioned upon the trustee requiring claimants to execute, in a form to be determined by the trustee, appropriate receipts, supporting affidavits, releases, and assignments, but shall be without prejudice to any right of a claimant to file formal proof of claim within the period specified in subsection (a)(3) of this section for any balance of securities or cash to which such claimant considers himself entitled.
+Any payment or delivery of property pursuant to this subsection may be conditioned upon the trustee requiring claimants to execute, in a form to be determined by the trustee, appropriate receipts, supporting affidavits, releases, and assignments, but shall be without prejudice to any right of a claimant to file formal proof of claim within the period specified in subsection (a)(3) for any balance of securities or cash to which such claimant considers himself entitled.
 
 #### (c) Customer related property ####
 
@@ -54,7 +54,7 @@ Whenever customer property is not sufficient to pay in full the claims set forth
 
 #### (d) Purchase of securities ####
 
-The trustee shall, to the extent that securities can be purchased in a fair and orderly market, purchase securities as necessary for the delivery of securities to customers in satisfaction of their claims for net equities based on securities under section 78fff–1(b)(1) of this title and for the transfer of customer accounts under subsection (f) of this section, in order to restore the accounts of such customers as of the filing date. To the extent consistent with subsection (c) of this section, customer property and moneys advanced by SIPC may be used by the trustee to pay for securities so purchased. Moneys advanced by SIPC for each account of a separate customer may not be used to purchase securities to the extent that the aggregate value of such securities on the filing date exceeded the amount permitted to be advanced by SIPC under the provisions of section 78fff–3(a) of this title.
+The trustee shall, to the extent that securities can be purchased in a fair and orderly market, purchase securities as necessary for the delivery of securities to customers in satisfaction of their claims for net equities based on securities under section 78fff–1(b)(1) of this title and for the transfer of customer accounts under subsection (f), in order to restore the accounts of such customers as of the filing date. To the extent consistent with subsection (c), customer property and moneys advanced by SIPC may be used by the trustee to pay for securities so purchased. Moneys advanced by SIPC for each account of a separate customer may not be used to purchase securities to the extent that the aggregate value of such securities on the filing date exceeded the amount permitted to be advanced by SIPC under the provisions of section 78fff–3(a) of this title.
 
 #### (e) Closeouts ####
 
@@ -92,7 +92,7 @@ A claiming broker or dealer shall be deemed to have been acting on behalf of its
 
 In order to facilitate the prompt satisfaction of customer claims and the orderly liquidation of the debtor, the trustee may, pursuant to terms satisfactory to him and subject to the prior approval of SIPC, sell or otherwise transfer to another member of SIPC, without consent of any customer, all or any part of the account of a customer of the debtor. In connection with any such sale or transfer to another member of SIPC and subject to the prior approval of SIPC, the trustee may—
 
-(1) waive or modify the need to file a written statement of claim pursuant to subsection (a)(2) of this section; and
+(1) waive or modify the need to file a written statement of claim pursuant to subsection (a)(2); and
 
 (2) enter into such agreements as the trustee considers appropriate under the circumstances to indemnify any such member of SIPC against shortages of cash or securities in the customer accounts sold or transferred.
 

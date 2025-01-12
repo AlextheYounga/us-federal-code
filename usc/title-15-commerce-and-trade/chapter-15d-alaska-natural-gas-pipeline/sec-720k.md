@@ -12,7 +12,7 @@ The Secretary of Labor (in this section referred to as the "Secretary") shall ma
 
 #### (2) Coordination with existing programs ####
 
-The training program established with the grants authorized under paragraph (1) shall be consistent with the vision and goals set forth in the State of Alaska Unified Plan, as developed pursuant to the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.).
+The training program established with the grants authorized under paragraph (1) shall be consistent with the vision and goals set forth in the State of Alaska unified plan or combined plan, as appropriate, as developed pursuant to section 3112 or 3113, as appropriate, of title 29.
 
 #### (b) Requirements for grants ####
 
@@ -34,18 +34,10 @@ There are authorized to be appropriated to the Secretary to carry out this secti
 
 (Pub. L. 108–324, div. C, §113, Oct. 13, 2004, 118 Stat. 1264; Pub. L. 113–128, title V, §512(c), July 22, 2014, 128 Stat. 1706.)
 
-#### Amendment of Subsection (a)(2) ####
-
-Pub. L. 113–128, title V, §§506, 512(c), July 22, 2014, 128 Stat. 1703, 1706, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (a)(2) of this section is amended by striking "consistent with the vision and goals set forth in the State of Alaska Unified Plan, as developed pursuant to the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)" and inserting "consistent with the vision and goals set forth in the State of Alaska unified plan or combined plan, as appropriate, as developed pursuant to section 3112 or 3113, as appropriate, of title 29". See 2014 Amendment note below.
-
-#### References in Text ####
-
-The Workforce Investment Act of 1998, referred to in subsec. (a)(2), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
-
 #### Amendments ####
 
 **2014**—Subsec. (a)(2). Pub. L. 113–128 substituted "consistent with the vision and goals set forth in the State of Alaska unified plan or combined plan, as appropriate, as developed pursuant to section 3112 or 3113, as appropriate, of title 29" for "consistent with the vision and goals set forth in the State of Alaska Unified Plan, as developed pursuant to the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)".
 
 #### Effective Date of 2014 Amendment ####
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.

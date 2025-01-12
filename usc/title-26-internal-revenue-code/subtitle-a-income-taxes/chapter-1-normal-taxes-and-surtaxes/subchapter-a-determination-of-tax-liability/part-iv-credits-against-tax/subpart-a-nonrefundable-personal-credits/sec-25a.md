@@ -144,9 +144,11 @@ The amount of qualified tuition and related expenses otherwise taken into accoun
 
 If a deduction under section 151 with respect to an individual is allowed to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins—
 
-(A) no credit shall be allowed under subsection (a) to such individual for such individual's taxable year, and
+(A) no credit shall be allowed under subsection (a) to such individual for such individual's taxable year,
 
-(B) qualified tuition and related expenses paid by such individual during such individual's taxable year shall be treated for purposes of this section as paid by such other taxpayer.
+(B) qualified tuition and related expenses paid by such individual during such individual's taxable year shall be treated for purposes of this section as paid by such other taxpayer, and
+
+(C) a statement described in paragraph (8) and received by such individual shall be treated as received by the taxpayer.
 
 #### (4) Treatment of certain prepayments ####
 
@@ -163,6 +165,10 @@ If the taxpayer is a married individual (within the meaning of section 7703), th
 #### (7) Nonresident aliens ####
 
 If the taxpayer is a nonresident alien individual for any portion of the taxable year, this section shall apply only if such individual is treated as a resident alien of the United States for purposes of this chapter by reason of an election under subsection (g) or (h) of section 6013.
+
+#### (8) Payee statement requirement ####
+
+Except as otherwise provided by the Secretary, no credit shall be allowed under this section unless the taxpayer receives a statement furnished under section 6050S(d) which contains all of the information required by paragraph (2) thereof.
 
 #### (h) Inflation adjustments ####
 
@@ -238,7 +244,7 @@ In the case of a taxpayer with respect to whom section 702(a)(1)(B) of the Heart
 
 The Secretary may prescribe such regulations as may be necessary or appropriate to carry out this section, including regulations providing for a recapture of the credit allowed under this section in cases where there is a refund in a subsequent taxable year of any amount which was taken into account in determining the amount of such credit.
 
-(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028.)
+(Added Pub. L. 105–34, title II, §201(a), Aug. 5, 1997, 111 Stat. 799; amended Pub. L. 107–16, title IV, §401(g)(2)(A), June 7, 2001, 115 Stat. 59; Pub. L. 111–5, div. B, title I, §1004(a), Feb. 17, 2009, 123 Stat. 313; Pub. L. 111–148, title X, §10909(b)(2)(C), (c), Mar. 23, 2010, 124 Stat. 1023; Pub. L. 111–312, title I, §§101(b)(1), 103(a)(1), Dec. 17, 2010, 124 Stat. 3298, 3299; Pub. L. 112–240, title I, §§103(a)(1), 104(c)(2)(D), Jan. 2, 2013, 126 Stat. 2319, 2322; Pub. L. 113–295, div. A, title II, §209(b), Dec. 19, 2014, 128 Stat. 4028; Pub. L. 114–27, title VIII, §804(a), June 29, 2015, 129 Stat. 415.)
 
 #### Inflation Adjusted Items for Certain Years ####
 
@@ -253,6 +259,10 @@ The Higher Education Act of 1965, referred to in subsec. (f)(2)(B), is Pub. L. 8
 Section 702(a)(1)(B) of the Heartland Disaster Tax Relief Act of 2008, referred to in subsec. (i)(6), is section 702(a)(1)(B) of Pub. L. 110–343, div. C, title VII, Oct. 3, 2008, 122 Stat. 3912, which is not classified to the Code.
 
 #### Amendments ####
+
+Subsec. (g)(3)(C). Pub. L. 114–27, §804(a)(2), added subpar. (C).
+
+Subsec. (g)(8). Pub. L. 114–27, §804(a)(1), added par. (8).
 
 **2014**—Subsec. (i)(3). Pub. L. 113–295 substituted "For purposes of determining the Hope Scholarship Credit, subsection (f)(1)(A) shall be applied" for "Subsection (f)(1)(A) shall be applied".
 
@@ -271,6 +281,10 @@ Subsec. (i)(5)(B). Pub. L. 111–148, §10909(b)(2)(C), (c), as amended by Pub. 
 "(1) In general.—No credit shall be allowed under subsection (a) for a taxable year with respect to the qualified tuition and related expenses of an individual unless the taxpayer elects to have this section apply with respect to such individual for such year.
 
 "(2) Coordination with exclusions.—An election under this subsection shall not take effect with respect to an individual for any taxable year if any portion of any distribution during such taxable year from an education individual retirement account is excluded from gross income under section 530(d)(2)."
+
+#### Effective Date of 2015 Amendment ####
+
+Pub. L. 114–27, title VIII, §804(d), June 29, 2015, 129 Stat. 416, provided that: "The amendments made by this section [amending this section and sections 222 and 6050S of this title] shall apply to taxable years beginning after the date of the enactment of this Act [June 29, 2015]."
 
 #### Effective Date of 2014 Amendment ####
 

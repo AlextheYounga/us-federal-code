@@ -14,7 +14,7 @@ Each audit required pursuant to this chapter of the financial statements of an i
 
 #### (1) Investigation and report to management ####
 
-If, in the course of conducting an audit pursuant to this chapter to which subsection (a) of this section applies, the registered public accounting firm detects or otherwise becomes aware of information indicating that an illegal act (whether or not perceived to have a material effect on the financial statements of the issuer) has or may have occurred, the firm shall, in accordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
+If, in the course of conducting an audit pursuant to this chapter to which subsection (a) applies, the registered public accounting firm detects or otherwise becomes aware of information indicating that an illegal act (whether or not perceived to have a material effect on the financial statements of the issuer) has or may have occurred, the firm shall, in accordance with generally accepted auditing standards, as may be modified or supplemented from time to time by the Commission—
 
 (A)(i) determine whether it is likely that an illegal act has occurred; and
 
@@ -48,15 +48,15 @@ If a registered public accounting firm resigns from an engagement under paragrap
 
 #### (c) Auditor liability limitation ####
 
-No registered public accounting firm shall be liable in a private action for any finding, conclusion, or statement expressed in a report made pursuant to paragraph (3) or (4) of subsection (b) of this section, including any rule promulgated pursuant thereto.
+No registered public accounting firm shall be liable in a private action for any finding, conclusion, or statement expressed in a report made pursuant to paragraph (3) or (4) of subsection (b), including any rule promulgated pursuant thereto.
 
 #### (d) Civil penalties in cease-and-desist proceedings ####
 
-If the Commission finds, after notice and opportunity for hearing in a proceeding instituted pursuant to section 78u–3 of this title, that a registered public accounting firm has willfully violated paragraph (3) or (4) of subsection (b) of this section, the Commission may, in addition to entering an order under section 78u–3 of this title, impose a civil penalty against the registered public accounting firm and any other person that the Commission finds was a cause of such violation. The determination to impose a civil penalty and the amount of the penalty shall be governed by the standards set forth in section 78u–2 of this title.
+If the Commission finds, after notice and opportunity for hearing in a proceeding instituted pursuant to section 78u–3 of this title, that a registered public accounting firm has willfully violated paragraph (3) or (4) of subsection (b), the Commission may, in addition to entering an order under section 78u–3 of this title, impose a civil penalty against the registered public accounting firm and any other person that the Commission finds was a cause of such violation. The determination to impose a civil penalty and the amount of the penalty shall be governed by the standards set forth in section 78u–2 of this title.
 
 #### (e) Preservation of existing authority ####
 
-Except as provided in subsection (d) of this section, nothing in this section shall be held to limit or otherwise affect the authority of the Commission under this chapter.
+Except as provided in subsection (d), nothing in this section shall be held to limit or otherwise affect the authority of the Commission under this chapter.
 
 #### (f) Definitions ####
 
@@ -64,7 +64,7 @@ As used in this section, the term "illegal act" means an act or omission that vi
 
 #### (g) Prohibited activities ####
 
-Except as provided in subsection (h) of this section, it shall be unlawful for a registered public accounting firm (and any associated person of that firm, to the extent determined appropriate by the Commission) that performs for any issuer any audit required by this chapter or the rules of the Commission under this chapter or, beginning 180 days after the date of commencement of the operations of the Public Company Accounting Oversight Board established under section 7211 of this title (in this section referred to as the "Board"), the rules of the Board, to provide to that issuer, contemporaneously with the audit, any non-audit service, including—
+Except as provided in subsection (h), it shall be unlawful for a registered public accounting firm (and any associated person of that firm, to the extent determined appropriate by the Commission) that performs for any issuer any audit required by this chapter or the rules of the Commission under this chapter or, beginning 180 days after the date of commencement of the operations of the Public Company Accounting Oversight Board established under section 7211 of this title (in this section referred to as the "Board"), the rules of the Board, to provide to that issuer, contemporaneously with the audit, any non-audit service, including—
 
 (1) bookkeeping or other services related to the accounting records or financial statements of the audit client;
 
@@ -86,7 +86,7 @@ Except as provided in subsection (h) of this section, it shall be unlawful for a
 
 #### (h) Preapproval required for non-audit services ####
 
-A registered public accounting firm may engage in any non-audit service, including tax services, that is not described in any of paragraphs (1) through (9) of subsection (g) of this section for an audit client, only if the activity is approved in advance by the audit committee of the issuer, in accordance with subsection (i) of this section.
+A registered public accounting firm may engage in any non-audit service, including tax services, that is not described in any of paragraphs (1) through (9) of subsection (g) for an audit client, only if the activity is approved in advance by the audit committee of the issuer, in accordance with subsection (i).
 
 #### (i) Preapproval requirements ####
 
@@ -116,7 +116,7 @@ The audit committee of an issuer may delegate to 1 or more designated members of
 
 #### (4) Approval of audit services for other purposes ####
 
-In carrying out its duties under subsection (m)(2) of this section, if the audit committee of an issuer approves an audit service within the scope of the engagement of the auditor, such audit service shall be deemed to have been preapproved for purposes of this subsection.
+In carrying out its duties under subsection (m)(2), if the audit committee of an issuer approves an audit service within the scope of the engagement of the auditor, such audit service shall be deemed to have been preapproved for purposes of this subsection.
 
 #### (j) Audit partner rotation ####
 

@@ -2,11 +2,11 @@
 
 #### (a) Major league baseball subject to antitrust laws ####
 
-Subject to subsections (b) through (d) of this section, the conduct, acts, practices, or agreements of persons in the business of organized professional major league baseball directly relating to or affecting employment of major league baseball players to play baseball at the major league level are subject to the antitrust laws to the same extent such conduct, acts, practices, or agreements would be subject to the antitrust laws if engaged in by persons in any other professional sports business affecting interstate commerce.
+Subject to subsections (b) through (d), the conduct, acts, practices, or agreements of persons in the business of organized professional major league baseball directly relating to or affecting employment of major league baseball players to play baseball at the major league level are subject to the antitrust laws to the same extent such conduct, acts, practices, or agreements would be subject to the antitrust laws if engaged in by persons in any other professional sports business affecting interstate commerce.
 
 #### (b) Limitation of section ####
 
-No court shall rely on the enactment of this section as a basis for changing the application of the antitrust laws to any conduct, acts, practices, or agreements other than those set forth in subsection (a) of this section. This section does not create, permit or imply a cause of action by which to challenge under the antitrust laws, or otherwise apply the antitrust laws to, any conduct, acts, practices, or agreements that do not directly relate to or affect employment of major league baseball players to play baseball at the major league level, including but not limited to—
+No court shall rely on the enactment of this section as a basis for changing the application of the antitrust laws to any conduct, acts, practices, or agreements other than those set forth in subsection (a). This section does not create, permit or imply a cause of action by which to challenge under the antitrust laws, or otherwise apply the antitrust laws to, any conduct, acts, practices, or agreements that do not directly relate to or affect employment of major league baseball players to play baseball at the major league level, including but not limited to—
 
 (1) any conduct, acts, practices, or agreements of persons engaging in, conducting or participating in the business of organized professional baseball relating to or affecting employment to play baseball at the minor league level, any organized professional baseball amateur or first-year player draft, or any reserve clause as applied to minor league players;
 
@@ -36,13 +36,13 @@ Only a major league baseball player has standing to sue under this section. For 
 
 (1) As used in this section, "person" means any entity, including an individual, partnership, corporation, trust or unincorporated association or any combination or association thereof. As used in this section, the National Association of Professional Baseball Leagues, its member leagues and the clubs of those leagues, are not "in the business of organized professional major league baseball".
 
-(2) In cases involving conduct, acts, practices, or agreements that directly relate to or affect both employment of major league baseball players to play baseball at the major league level and also relate to or affect any other aspect of organized professional baseball, including but not limited to employment to play baseball at the minor league level and the other areas set forth in subsection (b) of this section, only those components, portions or aspects of such conduct, acts, practices, or agreements that directly relate to or affect employment of major league players to play baseball at the major league level may be challenged under subsection (a) of this section and then only to the extent that they directly relate to or affect employment of major league baseball players to play baseball at the major league level.
+(2) In cases involving conduct, acts, practices, or agreements that directly relate to or affect both employment of major league baseball players to play baseball at the major league level and also relate to or affect any other aspect of organized professional baseball, including but not limited to employment to play baseball at the minor league level and the other areas set forth in subsection (b), only those components, portions or aspects of such conduct, acts, practices, or agreements that directly relate to or affect employment of major league players to play baseball at the major league level may be challenged under subsection (a) and then only to the extent that they directly relate to or affect employment of major league baseball players to play baseball at the major league level.
 
-(3) As used in subsection (a) of this section, interpretation of the term "directly" shall not be governed by any interpretation of section 151 et seq. of title 29, United States Code (as amended).
+(3) As used in subsection (a), interpretation of the term "directly" shall not be governed by any interpretation of section 151 et seq. of title 29, United States Code (as amended).
 
 (4) Nothing in this section shall be construed to affect the application to organized professional baseball of the nonstatutory labor exemption from the antitrust laws.
 
-(5) The scope of the conduct, acts, practices, or agreements covered by subsection (b) of this section shall not be strictly or narrowly construed.
+(5) The scope of the conduct, acts, practices, or agreements covered by subsection (b) shall not be strictly or narrowly construed.
 
 (Oct. 15, 1914, ch. 323, §27, as added Pub. L. 105–297, §3, Oct. 27, 1998, 112 Stat. 2824.)
 

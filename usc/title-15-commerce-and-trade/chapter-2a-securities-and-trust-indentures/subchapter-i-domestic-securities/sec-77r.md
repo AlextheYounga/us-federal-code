@@ -12,7 +12,7 @@ Except as otherwise provided in this section, no law, rule, regulation, or order
 
 (2) shall directly or indirectly prohibit, limit, or impose any conditions upon the use of—
 
-(A) with respect to a covered security described in subsection (b) of this section, any offering document that is prepared by or on behalf of the issuer; or
+(A) with respect to a covered security described in subsection (b), any offering document that is prepared by or on behalf of the issuer; or
 
 (B) any proxy statement, report to shareholders, or other disclosure document relating to a covered security or the issuer thereof that is required to be and is filed with the Commission or any national securities organization registered under section 78o–3 of this title, except that this subparagraph does not apply to the laws, rules, regulations, or orders, or other administrative actions of the State of incorporation of the issuer; or
 
@@ -92,7 +92,7 @@ Until otherwise provided by law, rule, regulation, or order, or other administra
 
 #### (ii) Schedule ####
 
-The fees required by this subparagraph shall be paid, and all necessary supporting data on sales or offers for sales required under subparagraph (A), shall be reported on the same schedule as would have been applicable had the issuer not relied on the exemption provided in subsection (a) of this section.
+The fees required by this subparagraph shall be paid, and all necessary supporting data on sales or offers for sales required under subparagraph (A), shall be reported on the same schedule as would have been applicable had the issuer not relied on the exemption provided in subsection (a).
 
 #### (C) Availability of preemption contingent on payment of fees ####
 
@@ -106,7 +106,7 @@ For purposes of this subparagraph, delays in payment of fees or underpayments of
 
 #### (D) Fees not permitted on listed securities ####
 
-Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(1) of this section, or will be such a covered security upon completion of the transaction, or is a security of the same issuer that is equal in seniority or that is a senior security to a security that is a covered security pursuant to subsection (b)(1) of this section.
+Notwithstanding subparagraphs (A), (B), and (C), no filing or fee may be required with respect to any security that is a covered security pursuant to subsection (b)(1), or will be such a covered security upon completion of the transaction, or is a security of the same issuer that is equal in seniority or that is a senior security to a security that is a covered security pursuant to subsection (b)(1).
 
 #### (F) <sup><a href="#77r_5_target" name="77r_5">5</a></sup> Fees not permitted on crowdfunded securities ####
 

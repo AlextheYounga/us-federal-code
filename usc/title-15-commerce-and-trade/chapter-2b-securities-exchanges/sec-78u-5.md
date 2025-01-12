@@ -56,7 +56,7 @@ Except to the extent otherwise specifically provided by rule, regulation, or ord
 
 #### (1) In general ####
 
-Except as provided in subsection (b) of this section, in any private action arising under this chapter that is based on an untrue statement of a material fact or omission of a material fact necessary to make the statement not misleading, a person referred to in subsection (a) of this section shall not be liable with respect to any forward-looking statement, whether written or oral, if and to the extent that—
+Except as provided in subsection (b), in any private action arising under this chapter that is based on an untrue statement of a material fact or omission of a material fact necessary to make the statement not misleading, a person referred to in subsection (a) shall not be liable with respect to any forward-looking statement, whether written or oral, if and to the extent that—
 
 (A) the forward-looking statement is—
 
@@ -98,7 +98,7 @@ Any document filed with the Commission or generally disseminated shall be deemed
 
 #### (4) Effect on other safe harbors ####
 
-The exemption provided for in paragraph (1) shall be in addition to any exemption that the Commission may establish by rule or regulation under subsection (g) of this section.
+The exemption provided for in paragraph (1) shall be in addition to any exemption that the Commission may establish by rule or regulation under subsection (g).
 
 #### (d) Duty to update ####
 
@@ -106,7 +106,7 @@ Nothing in this section shall impose upon any person a duty to update a forward-
 
 #### (e) Dispositive motion ####
 
-On any motion to dismiss based upon subsection (c)(1) of this section, the court shall consider any statement cited in the complaint and any cautionary statement accompanying the forward-looking statement, which are not subject to material dispute, cited by the defendant.
+On any motion to dismiss based upon subsection (c)(1), the court shall consider any statement cited in the complaint and any cautionary statement accompanying the forward-looking statement, which are not subject to material dispute, cited by the defendant.
 
 #### (f) Stay pending decision on motion ####
 

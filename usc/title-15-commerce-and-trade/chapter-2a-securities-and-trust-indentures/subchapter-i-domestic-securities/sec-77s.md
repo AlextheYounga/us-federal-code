@@ -8,7 +8,7 @@ The Commission shall have authority from time to time to make, amend, and rescin
 
 #### (1) In general ####
 
-In carrying out its authority under subsection (a) of this section and under section 13(b) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(b)], the Commission may recognize, as "generally accepted" for purposes of the securities laws, any accounting principles established by a standard setting body—
+In carrying out its authority under subsection (a) and under section 13(b) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(b)], the Commission may recognize, as "generally accepted" for purposes of the securities laws, any accounting principles established by a standard setting body—
 
 (A) that—
 
@@ -22,7 +22,7 @@ In carrying out its authority under subsection (a) of this section and under sec
 
 (v) considers, in adopting accounting principles, the need to keep standards current in order to reflect changes in the business environment, the extent to which international convergence on high quality accounting standards is necessary or appropriate in the public interest and for the protection of investors; and
 
-(B) that the Commission determines has the capacity to assist the Commission in fulfilling the requirements of subsection (a) of this section and section 13(b) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(b)], because, at a minimum, the standard setting body is capable of improving the accuracy and effectiveness of financial reporting and the protection of investors under the securities laws.
+(B) that the Commission determines has the capacity to assist the Commission in fulfilling the requirements of subsection (a) and section 13(b) of the Securities Exchange Act of 1934 [15 U.S.C. 78m(b)], because, at a minimum, the standard setting body is capable of improving the accuracy and effectiveness of financial reporting and the protection of investors under the securities laws.
 
 #### (2) Annual report ####
 

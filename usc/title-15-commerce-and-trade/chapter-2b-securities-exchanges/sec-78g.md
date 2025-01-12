@@ -20,7 +20,7 @@ Notwithstanding the provisions of subsection (a) of this section, the Board of G
 
 It shall be unlawful for any member of a national securities exchange or any broker or dealer, directly or indirectly, to extend or maintain credit or arrange for the extension or maintenance of credit to or for any customer—
 
-(A) on any security (other than an exempted security), except as provided in paragraph (2), in contravention of the rules and regulations which the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the "Board") shall prescribe under subsections (a) and (b) of this section; or
+(A) on any security (other than an exempted security), except as provided in paragraph (2), in contravention of the rules and regulations which the Board of Governors of the Federal Reserve System (hereafter in this section referred to as the "Board") shall prescribe under subsections (a) and (b); or
 
 (B) without collateral or on any collateral other than securities, except in accordance with such rules and regulations as the Board may prescribe—
 
@@ -72,7 +72,7 @@ except that the Board may impose such rules and regulations, in whole or in part
 
 #### (1) Prohibition ####
 
-It shall be unlawful for any person not subject to subsection (c) of this section to extend or maintain credit or to arrange for the extension or maintenance of credit for the purpose of purchasing or carrying any security, in contravention of such rules and regulations as the Board shall prescribe to prevent the excessive use of credit for the purchasing or carrying of or trading in securities in circumvention of the other provisions of this section. Such rules and regulations may impose upon all loans made for the purpose of purchasing or carrying securities limitations similar to those imposed upon members, brokers, or dealers by subsection (c) of this section and the rules and regulations thereunder.
+It shall be unlawful for any person not subject to subsection (c) to extend or maintain credit or to arrange for the extension or maintenance of credit for the purpose of purchasing or carrying any security, in contravention of such rules and regulations as the Board shall prescribe to prevent the excessive use of credit for the purchasing or carrying of or trading in securities in circumvention of the other provisions of this section. Such rules and regulations may impose upon all loans made for the purpose of purchasing or carrying securities limitations similar to those imposed upon members, brokers, or dealers by subsection (c) and the rules and regulations thereunder.
 
 #### (2) Exceptions ####
 

@@ -26,9 +26,9 @@ Complaints, orders, and other processes of the commission, board, or Secretary u
 
 #### (g) Finality of orders generally ####
 
-Any order issued under subsection (b) of this section shall become final—
+Any order issued under subsection (b) shall become final—
 
-(1) upon the expiration of the time allowed for filing a petition for review, if no such petition has been duly filed within such time; but the commission, board, or Secretary may thereafter modify or set aside its order to the extent provided in the last sentence of subsection (b) of this section; or
+(1) upon the expiration of the time allowed for filing a petition for review, if no such petition has been duly filed within such time; but the commission, board, or Secretary may thereafter modify or set aside its order to the extent provided in the last sentence of subsection (b); or
 
 (2) upon the expiration of the time allowed for filing a petition for certiorari, if the order of the commission, board, or Secretary has been affirmed, or the petition for review has been dismissed by the court of appeals, and no petition for certiorari has been duly filed; or
 
@@ -54,7 +54,7 @@ As used in this section the term "mandate", in case a mandate has been recalled 
 
 #### (l) Penalties ####
 
-Any person who violates any order issued by the commission, board, or Secretary under subsection (b) of this section after such order has become final, and while such order is in effect, shall forfeit and pay to the United States a civil penalty of not more than $5,000 for each violation, which shall accrue to the United States and may be recovered in a civil action brought by the United States. Each separate violation of any such order shall be a separate offense, except that in the case of a violation through continuing failure or neglect to obey a final order of the commission, board, or Secretary each day of continuance of such failure or neglect shall be deemed a separate offense.
+Any person who violates any order issued by the commission, board, or Secretary under subsection (b) after such order has become final, and while such order is in effect, shall forfeit and pay to the United States a civil penalty of not more than $5,000 for each violation, which shall accrue to the United States and may be recovered in a civil action brought by the United States. Each separate violation of any such order shall be a separate offense, except that in the case of a violation through continuing failure or neglect to obey a final order of the commission, board, or Secretary each day of continuance of such failure or neglect shall be deemed a separate offense.
 
 (Oct. 15, 1914, ch. 323, §11, 38 Stat. 734; June 19, 1934, ch. 652, title VII, §702(d), formerly title VI, §602(d), 48 Stat. 1102; renumbered Pub. L. 98–549, §6(a), Oct. 30, 1984, 98 Stat. 2804; Aug. 23, 1935, ch. 614, §203(a), 49 Stat. 704; June 23, 1938, ch. 601, §1107(g), 52 Stat. 1028; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Dec. 29, 1950, ch. 1184, 64 Stat. 1125; Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806; Pub. L. 85–791, §4, Aug. 28, 1958, 72 Stat. 943; Pub. L. 86–107, §1, July 23, 1959, 73 Stat. 243; Pub. L. 98–443, §9(m), Oct. 4, 1984, 98 Stat. 1708; Pub. L. 98–620, title IV, §402(10)(B), Nov. 8, 1984, 98 Stat. 3358; Pub. L. 104–88, title III, §318(2), Dec. 29, 1995, 109 Stat. 949.)
 

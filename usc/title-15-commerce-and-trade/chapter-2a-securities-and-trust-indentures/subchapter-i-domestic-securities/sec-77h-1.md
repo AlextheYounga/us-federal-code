@@ -6,13 +6,13 @@ If the Commission finds, after notice and opportunity for hearing, that any pers
 
 #### (b) Hearing ####
 
-The notice instituting proceedings pursuant to subsection (a) of this section shall fix a hearing date not earlier than 30 days nor later than 60 days after service of the notice unless an earlier or a later date is set by the Commission with the consent of any respondent so served.
+The notice instituting proceedings pursuant to subsection (a) shall fix a hearing date not earlier than 30 days nor later than 60 days after service of the notice unless an earlier or a later date is set by the Commission with the consent of any respondent so served.
 
 #### (c) Temporary order ####
 
 #### (1) In general ####
 
-Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to subsection (a) of this section, or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceedings, the Commission may enter a temporary order requiring the respondent to cease and desist from the violation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceeding. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondent and, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
+Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to subsection (a), or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceedings, the Commission may enter a temporary order requiring the respondent to cease and desist from the violation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceeding. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondent and, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
 
 #### (2) Applicability ####
 
@@ -22,7 +22,7 @@ This subsection shall apply only to a respondent that acts, or, at the time of t
 
 #### (1) Commission review ####
 
-At any time after the respondent has been served with a temporary cease-and-desist order pursuant to subsection (c) of this section, the respondent may apply to the Commission to have the order set aside, limited, or suspended. If the respondent has been served with a temporary cease-and-desist order entered without a prior Commission hearing, the respondent may, within 10 days after the date on which the order was served, request a hearing on such application and the Commission shall hold a hearing and render a decision on such application at the earliest possible time.
+At any time after the respondent has been served with a temporary cease-and-desist order pursuant to subsection (c), the respondent may apply to the Commission to have the order set aside, limited, or suspended. If the respondent has been served with a temporary cease-and-desist order entered without a prior Commission hearing, the respondent may, within 10 days after the date on which the order was served, request a hearing on such application and the Commission shall hold a hearing and render a decision on such application at the earliest possible time.
 
 #### (2) Judicial review ####
 
@@ -44,11 +44,11 @@ Section 77i(a) of this title shall not apply to a temporary order entered pursua
 
 #### (e) Authority to enter order requiring accounting and disgorgement ####
 
-In any cease-and-desist proceeding under subsection (a) of this section, the Commission may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
+In any cease-and-desist proceeding under subsection (a), the Commission may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
 
 #### (f) Authority of the Commission to prohibit persons from serving as officers or directors ####
 
-In any cease-and-desist proceeding under subsection (a) of this section, the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated section 77q(a)(1) of this title or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, if the conduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.
+In any cease-and-desist proceeding under subsection (a), the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated section 77q(a)(1) of this title or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78l of this title, or that is required to file reports pursuant to section 78o(d) of this title, if the conduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.
 
 #### (g) Authority to impose money penalties ####
 

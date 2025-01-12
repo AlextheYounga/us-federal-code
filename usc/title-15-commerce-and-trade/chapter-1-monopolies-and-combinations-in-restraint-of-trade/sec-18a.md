@@ -2,7 +2,7 @@
 
 #### (a) Filing ####
 
-Except as exempted pursuant to subsection (c) of this section, no person shall acquire, directly or indirectly, any voting securities or assets of any other person, unless both persons (or in the case of a tender offer, the acquiring person) file notification pursuant to rules under subsection (d)(1) of this section and the waiting period described in subsection (b)(1) of this section has expired, if—
+Except as exempted pursuant to subsection (c), no person shall acquire, directly or indirectly, any voting securities or assets of any other person, unless both persons (or in the case of a tender offer, the acquiring person) file notification pursuant to rules under subsection (d)(1) and the waiting period described in subsection (b)(1) has expired, if—
 
 (1) the acquiring person, or the person whose voting securities or assets are being acquired, is engaged in commerce or in any activity affecting commerce; and
 
@@ -18,21 +18,21 @@ Except as exempted pursuant to subsection (c) of this section, no person shall a
 
 (III) any voting securities or assets of a person with annual net sales or total assets of $100,000,000 (as so adjusted and published) or more are being acquired by any person with total assets or annual net sales of $10,000,000 (as so adjusted and published) or more.
 
-In the case of a tender offer, the person whose voting securities are sought to be acquired by a person required to file notification under this subsection shall file notification pursuant to rules under subsection (d) of this section.
+In the case of a tender offer, the person whose voting securities are sought to be acquired by a person required to file notification under this subsection shall file notification pursuant to rules under subsection (d).
 
 #### (b) Waiting period; publication; voting securities ####
 
-(1) The waiting period required under subsection (a) of this section shall—
+(1) The waiting period required under subsection (a) shall—
 
 (A) begin on the date of the receipt by the Federal Trade Commission and the Assistant Attorney General in charge of the Antitrust Division of the Department of Justice (hereinafter referred to in this section as the "Assistant Attorney General") of—
 
-(i) the completed notification required under subsection (a) of this section, or
+(i) the completed notification required under subsection (a), or
 
 (ii) if such notification is not completed, the notification to the extent completed and a statement of the reasons for such noncompliance,
 
 from both persons, or, in the case of a tender offer, the acquiring person; and
 
-(B) end on the thirtieth day after the date of such receipt (or in the case of a cash tender offer, the fifteenth day), or on such later date as may be set under subsection (e)(2) or (g)(2) of this section.
+(B) end on the thirtieth day after the date of such receipt (or in the case of a cash tender offer, the fifteenth day), or on such later date as may be set under subsection (e)(2) or (g)(2).
 
 (2) The Federal Trade Commission and the Assistant Attorney General may, in individual cases, terminate the waiting period specified in paragraph (1) and allow any person to proceed with any acquisition subject to this section, and promptly shall cause to be published in the Federal Register a notice that neither intends to take any action within such period with respect to such acquisition.
 
@@ -68,13 +68,13 @@ The following classes of transactions are exempt from the requirements of this s
 
 (11) acquisitions, solely for the purpose of investment, by any bank, banking association, trust company, investment company, or insurance company, of (A) voting securities pursuant to a plan of reorganization or dissolution; or (B) assets in the ordinary course of its business; and
 
-(12) such other acquisitions, transfers, or transactions, as may be exempted under subsection (d)(2)(B) of this section.
+(12) such other acquisitions, transfers, or transactions, as may be exempted under subsection (d)(2)(B).
 
 #### (d) Commission rules ####
 
 The Federal Trade Commission, with the concurrence of the Assistant Attorney General and by rule in accordance with section 553 of title 5, consistent with the purposes of this section—
 
-(1) shall require that the notification required under subsection (a) of this section be in such form and contain such documentary material and information relevant to a proposed acquisition as is necessary and appropriate to enable the Federal Trade Commission and the Assistant Attorney General to determine whether such acquisition may, if consummated, violate the antitrust laws; and
+(1) shall require that the notification required under subsection (a) be in such form and contain such documentary material and information relevant to a proposed acquisition as is necessary and appropriate to enable the Federal Trade Commission and the Assistant Attorney General to determine whether such acquisition may, if consummated, violate the antitrust laws; and
 
 (2) may—
 
@@ -108,7 +108,7 @@ The Federal Trade Commission, with the concurrence of the Assistant Attorney Gen
 
 (III) the effects of such reforms.
 
-(2) The Federal Trade Commission or the Assistant Attorney General, in its or his discretion, may extend the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section for an additional period of not more than 30 days (or in the case of a cash tender offer, 10 days) after the date on which the Federal Trade Commission or the Assistant Attorney General, as the case may be, receives from any person to whom a request is made under paragraph (1), or in the case of tender offers, the acquiring person, (A) all the information and documentary material required to be submitted pursuant to such a request, or (B) if such request is not fully complied with, the information and documentary material submitted and a statement of the reasons for such noncompliance. Such additional period may be further extended only by the United States district court, upon an application by the Federal Trade Commission or the Assistant Attorney General pursuant to subsection (g)(2) of this section.
+(2) The Federal Trade Commission or the Assistant Attorney General, in its or his discretion, may extend the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section for an additional period of not more than 30 days (or in the case of a cash tender offer, 10 days) after the date on which the Federal Trade Commission or the Assistant Attorney General, as the case may be, receives from any person to whom a request is made under paragraph (1), or in the case of tender offers, the acquiring person, (A) all the information and documentary material required to be submitted pursuant to such a request, or (B) if such request is not fully complied with, the information and documentary material submitted and a statement of the reasons for such noncompliance. Such additional period may be further extended only by the United States district court, upon an application by the Federal Trade Commission or the Assistant Attorney General pursuant to subsection (g)(2).
 
 #### (f) Preliminary injunctions; hearings ####
 
@@ -118,11 +118,11 @@ If a proceeding is instituted or an action is filed by the Federal Trade Commiss
 
 (1) Any person, or any officer, director, or partner thereof, who fails to comply with any provision of this section shall be liable to the United States for a civil penalty of not more than $10,000 for each day during which such person is in violation of this section. Such penalty may be recovered in a civil action brought by the United States.
 
-(2) If any person, or any officer, director, partner, agent, or employee thereof, fails substantially to comply with the notification requirement under subsection (a) of this section or any request for the submission of additional information or documentary material under subsection (e)(1) of this section within the waiting period specified in subsection (b)(1) of this section and as may be extended under subsection (e)(2) of this section, the United States district court—
+(2) If any person, or any officer, director, partner, agent, or employee thereof, fails substantially to comply with the notification requirement under subsection (a) or any request for the submission of additional information or documentary material under subsection (e)(1) of this section within the waiting period specified in subsection (b)(1) and as may be extended under subsection (e)(2), the United States district court—
 
 (A) may order compliance;
 
-(B) shall extend the waiting period specified in subsection (b)(1) of this section and as may have been extended under subsection (e)(2) of this section until there has been substantial compliance, except that, in the case of a tender offer, the court may not extend such waiting period on the basis of a failure, by the person whose stock is sought to be acquired, to comply substantially with such notification requirement or any such request; and
+(B) shall extend the waiting period specified in subsection (b)(1) and as may have been extended under subsection (e)(2) until there has been substantial compliance, except that, in the case of a tender offer, the court may not extend such waiting period on the basis of a failure, by the person whose stock is sought to be acquired, to comply substantially with such notification requirement or any such request; and
 
 (C) may grant such other equitable relief as the court in its discretion determines necessary or appropriate,
 

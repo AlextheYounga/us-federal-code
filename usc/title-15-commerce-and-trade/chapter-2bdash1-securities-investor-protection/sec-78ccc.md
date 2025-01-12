@@ -60,7 +60,7 @@ In addition to the powers granted to SIPC elsewhere in this chapter, SIPC shall 
 
 (6) to lease, purchase, accept gifts or donations of or otherwise acquire, to own, hold, improve, use, or otherwise deal in or with, and to sell, convey, mortgage, pledge, lease, exchange or otherwise dispose of, any property, real, personal or mixed, or any interest therein, wherever situated;
 
-(7) subject to the provisions of subsection (c) of this section, to elect or appoint such officers, attorneys, employees, and agents as may be required, to determine their qualifications, to define their duties, to fix their salaries, require bonds for them and fix the penalty thereof;
+(7) subject to the provisions of subsection (c), to elect or appoint such officers, attorneys, employees, and agents as may be required, to determine their qualifications, to define their duties, to fix their salaries, require bonds for them and fix the penalty thereof;
 
 (8) to enter into contracts, to execute instruments, to incur liabilities, and to do any and all other acts and things as may be necessary or incidental to the conduct of its business and the exercise of all other rights and powers granted to SIPC by this chapter; and
 

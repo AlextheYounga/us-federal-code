@@ -30,7 +30,7 @@ As used in this part:
 
 (H) payments to individual retirement accounts and Keogh accounts excluded from income for Federal income tax purposes; and
 
-(I) any other untaxed income and benefits, such as Black Lung Benefits, Refugee Assistance, or railroad retirement benefits, or benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.).
+(I) any other untaxed income and benefits, such as Black Lung Benefits, Refugee Assistance, or railroad retirement benefits, or benefits received through participation in employment and training activities under title I of the Workforce Innovation and Opportunity Act [29 U.S.C. 3111 et seq.].
 
 (2) The term "untaxed income and benefits" shall not include—
 
@@ -222,15 +222,11 @@ The term "special combat pay" means pay received by a member of the Armed Forces
 
 (Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) [title VIII, §405(d)(15)(B), (f)(12)(B)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 109–171, title VIII, §8019, Feb. 8, 2006, 120 Stat. 176; Pub. L. 110–84, title VI, §604(a), Sept. 27, 2007, 121 Stat. 806; Pub. L. 110–153, §1(a), Dec. 21, 2007, 121 Stat. 1824; Pub. L. 110–315, title IV, §473(a)–(e), Aug. 14, 2008, 122 Stat. 3270, 3271; Pub. L. 111–39, title IV, §406(a)(6)–(8), July 1, 2009, 123 Stat. 1949, 1950; Pub. L. 113–128, title V, §512(n)(4), July 22, 2014, 128 Stat. 1710.)
 
-#### Amendment of Subsection (b)(1)(I) ####
-
-Pub. L. 113–128, title V, §§506, 512(n)(4), July 22, 2014, 128 Stat. 1703, 1710, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], subsection (b)(1)(I) of this section is amended by striking "benefits received through participation in employment and training activities under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.)" and inserting "benefits received through participation in employment and training activities under title I of the Workforce Innovation and Opportunity Act". See 2014 Amendment note below.
-
 #### References in Text ####
 
 The National and Community Service Act of 1990, referred to in subsecs. (a)(2), (e)(3), and (j)(1), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to chapter 129 (§12501 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act enacted subchapter I (§12511 et seq.) of chapter 129 of Title 42 and amended this section and section 1070a–6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
-The Workforce Investment Act of 1998, referred to in subsec. (b)(1)(I), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of this title and Tables.
+The Workforce Innovation and Opportunity Act, referred to in subsec. (b)(1)(I), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
 The Social Security Act, referred to in subsecs. (b)(2)(B) and (e)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Parts A and E of title IV of the Act are classified generally to parts A (§601 et seq.) and E (§670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -360,7 +356,7 @@ Subsecs. (f) to (h). Pub. L. 100–50, §14(28)(G), added subsecs. (f) to (h).
 
 #### Effective Date of 2014 Amendment ####
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of Title 29, Labor.
 
 #### Effective Date of 2009 Amendment ####
 

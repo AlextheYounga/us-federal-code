@@ -28,7 +28,7 @@ There are authorized to be appropriated each fiscal year such sums as may be nec
 
 #### References in Text ####
 
-The Federal Meat Inspection Act, referred to in subsec. (a), is titles I to IV of act Mar. 4, 1907, ch. 2907, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, and amended, which are classified generally to subchapters I to IV (§601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
+The Federal Meat Inspection Act, referred to in subsec. (a), is titles I to V of act Mar. 4, 1907, ch. 2907, as added Pub. L. 90–201, Dec. 15, 1967, 81 Stat. 584, and Pub. L. 110–246, title XI, §11015(a), June 18, 2008, 122 Stat. 2124, which are classified generally to subchapters I to IV–A (§601 et seq.) of chapter 12 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 21 and Tables.
 
 The Poultry Products Inspection Act, referred to in subsec. (a), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, as amended, which is classified generally to chapter 10 (§451 et seq.) of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 451 of Title 21 and Tables.
 

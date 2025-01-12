@@ -76,6 +76,8 @@ Sec.
 
 3193. Establishment.
 
+3193a. Transfer of administration of Job Corps program to Employment and Training Administration.
+
 3194. Individuals eligible for the Job Corps.
 
 3195. Recruitment, screening, selection, and assignment of enrollees.
@@ -124,9 +126,13 @@ Sec.
 
 3224. Evaluations and research.
 
+3224a. Job training grants.
+
 3225. National dislocated worker grants.
 
 3226. YouthBuild program.
+
+3226a. Re-enrollment in alternative school by high-school dropout.
 
 3227. Authorization of appropriations.
 
@@ -154,7 +160,7 @@ Sec.
 
 3251. State legislative authority.
 
-3252. Transfer of Federal equity in State employment security agency real property to the states.
+3252. Transfer of Federal equity in State employment security agency real property to the States.
 
 3253. Continuation of State activities and policies.
 
@@ -179,6 +185,8 @@ Sec.
 3291. Reservation of funds; grants to eligible agencies; allotments.
 
 3292. Performance accountability system.
+
+3293. Educational assistance and training.
 
 #### Part B—State Provisions ####
 

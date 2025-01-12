@@ -2,7 +2,7 @@
 
 #### (a) Registration; application ####
 
-An association of brokers and dealers may be registered as a national securities association pursuant to subsection (b) of this section, or as an affiliated securities association pursuant to subsection (d) of this section, under the terms and conditions hereinafter provided in this section and in accordance with the provisions of section 78s(a) of this title, by filing with the Commission an application for registration in such form as the Commission, by rule, may prescribe containing the rules of the association and such other information and documents as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+An association of brokers and dealers may be registered as a national securities association pursuant to subsection (b), or as an affiliated securities association pursuant to subsection (d), under the terms and conditions hereinafter provided in this section and in accordance with the provisions of section 78s(a) of this title, by filing with the Commission an application for registration in such form as the Commission, by rule, may prescribe containing the rules of the association and such other information and documents as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
 #### (b) Determinations by Commission requisite to registration of applicant as national securities association ####
 
@@ -26,7 +26,7 @@ An association of brokers and dealers shall not be registered as a national secu
 
 (9) The rules of the association do not impose any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter.
 
-(10) The requirements of subsection (c) of this section, insofar as these may be applicable, are satisfied.
+(10) The requirements of subsection (c), insofar as these may be applicable, are satisfied.
 
 (11) The rules of the association include provisions governing the form and content of quotations relating to securities sold otherwise than on a national securities exchange which may be distributed or published by any member or person associated with a member, and the persons to whom such quotations may be supplied. Such rules relating to quotations shall be designed to produce fair and informative quotations, to prevent fictitious or misleading quotations, and to promote orderly procedures for collecting, distributing, and publishing quotations.
 
@@ -98,15 +98,15 @@ As used in this paragraph, the term "dissenting limited partner" means a person 
 
 #### (c) National association rules; provision for registration of affiliated securities association ####
 
-The Commission may permit or require the rules of an association applying for registration pursuant to subsection (b) of this section, to provide for the admission of an association registered as an affiliated securities association pursuant to subsection (d) of this section, to participation in said applicant association as an affiliate thereof, under terms permitting such powers and responsibilities to such affiliate, and under such other appropriate terms and conditions, as may be provided by the rules of said applicant association, if such rules appear to the Commission to be necessary or appropriate in the public interest or for the protection of investors and to carry out the purposes of this section. The duties and powers of the Commission with respect to any national securities association or any affiliated securities association shall in no way be limited by reason of any such affiliation.
+The Commission may permit or require the rules of an association applying for registration pursuant to subsection (b), to provide for the admission of an association registered as an affiliated securities association pursuant to subsection (d), to participation in said applicant association as an affiliate thereof, under terms permitting such powers and responsibilities to such affiliate, and under such other appropriate terms and conditions, as may be provided by the rules of said applicant association, if such rules appear to the Commission to be necessary or appropriate in the public interest or for the protection of investors and to carry out the purposes of this section. The duties and powers of the Commission with respect to any national securities association or any affiliated securities association shall in no way be limited by reason of any such affiliation.
 
 #### (d) Registration as affiliated association; prerequisites; association rules ####
 
 An applicant association shall not be registered as an affiliated securities association unless it appears to the Commission that—
 
-(1) such association, notwithstanding that it does not satisfy the requirements set forth in paragraph (1) of subsection (b) of this section, will, forthwith upon the registration thereof, be admitted to affiliation with an association registered as a national securities association pursuant to subsection (b) of this section, in the manner and under the terms and conditions provided by the rules of said national securities association in accordance with subsection (c) of this section; and
+(1) such association, notwithstanding that it does not satisfy the requirements set forth in paragraph (1) of subsection (b), will, forthwith upon the registration thereof, be admitted to affiliation with an association registered as a national securities association pursuant to subsection (b), in the manner and under the terms and conditions provided by the rules of said national securities association in accordance with subsection (c); and
 
-(2) such association and its rules satisfy the requirements set forth in paragraphs (2) to (10), inclusive, and paragraph (12),<sup><a href="#78o-3_1_target" name="78o-3_1">1</a></sup> of subsection (b) of this section; except that in the case of any such association any restrictions upon membership therein of the type authorized by paragraph (3) of subsection (b) of this section shall not be less stringent than in the case of the national securities association with which such association is to be affiliated.
+(2) such association and its rules satisfy the requirements set forth in paragraphs (2) to (10), inclusive, and paragraph (12),<sup><a href="#78o-3_1_target" name="78o-3_1">1</a></sup> of subsection (b); except that in the case of any such association any restrictions upon membership therein of the type authorized by paragraph (3) of subsection (b) shall not be less stringent than in the case of the national securities association with which such association is to be affiliated.
 
 #### (e) Dealings with nonmember professionals ####
 
@@ -200,7 +200,7 @@ Such a securities association shall—
 
 (B) have rules that—
 
-(i) are designed to prevent fraudulent and manipulative acts and practices, to promote just and equitable principles of trade, and, in general, to protect investors and the public interest, including rules governing sales practices and the advertising of security futures products reasonably comparable to those of other national securities associations registered pursuant to subsection (a) of this section that are applicable to security futures products; and
+(i) are designed to prevent fraudulent and manipulative acts and practices, to promote just and equitable principles of trade, and, in general, to protect investors and the public interest, including rules governing sales practices and the advertising of security futures products reasonably comparable to those of other national securities associations registered pursuant to subsection (a) that are applicable to security futures products; and
 
 (ii) are not designed to regulate by virtue of any authority conferred by this chapter matters not related to the purposes of this chapter or the administration of the association;
 
@@ -240,7 +240,7 @@ Consistent with this chapter, each national securities association registered pu
 
 #### (m) Procedures and rules for security future products ####
 
-A national securities association registered pursuant to subsection (a) of this section shall, not later than 8 months after December 21, 2000, implement the procedures specified in section 78f(h)(5)(A) of this title and adopt the rules specified in subparagraphs (B) and (C) of section 78f(h)(5) of this title.
+A national securities association registered pursuant to subsection (a) shall, not later than 8 months after December 21, 2000, implement the procedures specified in section 78f(h)(5)(A) of this title and adopt the rules specified in subparagraphs (B) and (C) of section 78f(h)(5) of this title.
 
 (June 6, 1934, ch. 404, title I, §15A, as added June 25, 1938, ch. 677, §1, 52 Stat. 1070; amended Pub. L. 88–467, §7, Aug. 20, 1964, 78 Stat. 574; Pub. L. 94–29, §12, June 4, 1975, 89 Stat. 127; Pub. L. 99–571, title I, §102(g), Oct. 28, 1986, 100 Stat. 3218; Pub. L. 101–429, title V, §509, Oct. 15, 1990, 104 Stat. 957; Pub. L. 103–202, title I, §106(b)(1), title III, §303(a), (c), Dec. 17, 1993, 107 Stat. 2350, 2364, 2366; Pub. L. 106–102, title II, §203, Nov. 12, 1999, 113 Stat. 1391; Pub. L. 106–554, §1(a)(5) [title II, §§203(c), 206(j), (k)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–422, 2763A–433; Pub. L. 109–290, §§5, 6, Sept. 29, 2006, 120 Stat. 1319, 1320; Pub. L. 111–203, title IX, §975(f), July 21, 2010, 124 Stat. 1923.)
 

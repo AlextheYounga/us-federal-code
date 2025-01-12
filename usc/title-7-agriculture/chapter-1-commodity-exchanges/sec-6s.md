@@ -148,6 +148,10 @@ The entities described in clause (i) shall, to the maximum extent practicable, e
 
 (II) major swap participants.
 
+#### (4) Applicability with respect to counterparties ####
+
+The requirements of paragraphs (2)(A)(ii) and (2)(B)(ii), including the initial and variation margin requirements imposed by rules adopted pursuant to paragraphs (2)(A)(ii) and (2)(B)(ii), shall not apply to a swap in which a counterparty qualifies for an exception under section 2(h)(7)(A) of this title, or an exemption issued under section 6(c)(1) of this title from the requirements of section 2(h)(1)(A) of this title for cooperative entities as defined in such exemption, or satisfies the criteria in section 2(h)(7)(D) of this title.
+
 #### (f) Reporting and recordkeeping ####
 
 #### (1) In general ####
@@ -468,7 +472,7 @@ The segregated account described in paragraph (1) shall be—
 
 If the counterparty does not choose to require segregation of the funds or other property supplied to margin, guarantee, or secure the obligations of the counterparty, the swap dealer or major swap participant shall report to the counterparty of the swap dealer or major swap participant on a quarterly basis that the back office procedures of the swap dealer or major swap participant relating to margin and collateral requirements are in compliance with the agreement of the counterparties.
 
-(Sept. 21, 1922, ch. 369, §4s, as added and amended Pub. L. 111–203, title VII, §§724(c), 731, July 21, 2010, 124 Stat. 1684, 1703.)
+(Sept. 21, 1922, ch. 369, §4s, as added and amended Pub. L. 111–203, title VII, §§724(c), 731, July 21, 2010, 124 Stat. 1684, 1703; Pub. L. 114–1, title III, §302(a), Jan. 12, 2015, 129 Stat. 28.)
 
 #### References in Text ####
 
@@ -478,11 +482,27 @@ The Employee Retirement Income Security Act of 1974, referred to in subsec. (h)(
 
 #### Amendments ####
 
+**2015**—Subsec. (e)(4). Pub. L. 114–1 added par. (4).
+
 **2010**—Subsec. (l). Pub. L. 111–203, §724(c), added subsec. (l).
 
 #### Effective Date ####
 
 Section and amendment by Pub. L. 111–203 effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle A (§§711–754) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle A, see section 754 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 1a of this title.
+
+#### Implementation ####
+
+Pub. L. 114–1, title III, §303, Jan. 12, 2015, 129 Stat. 28, provided that: "The amendments made by this title to the Commodity Exchange Act [amending this section] shall be implemented—
+
+"(1) without regard to—
+
+"(A) chapter 35 of title 44, United States Code; and
+
+"(B) the notice and comment provisions of section 553 of title 5, United States Code;
+
+"(2) through the promulgation of an interim final rule, pursuant to which public comment will be sought before a final rule is issued; and
+
+"(3) such that paragraph (1) shall apply solely to changes to rules and regulations, or proposed rules and regulations, that are limited to and directly a consequence of such amendments."
 
 [<sup>1</sup> So in original. Probably should be followed by a third closing parenthesis.](#6s_1)
 

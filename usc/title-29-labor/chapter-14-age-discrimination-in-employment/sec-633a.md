@@ -70,9 +70,7 @@ Amendment by Pub. L. 111–2 effective as if enacted May 28, 2007, and applicabl
 
 #### Effective Date of 1998 Amendment ####
 
-Pub. L. 105–220, title III, §341(d), Aug. 7, 1998, 112 Stat. 1092, provided that: "The amendments made by subsections (a), (b), and (c) [amending this section, section 791 of this title, and section 2000e–16 of Title 42, The Public Health and Welfare] shall take effect on the date of enactment of this Act [Aug. 7, 1998] and shall apply to and may be raised in any administrative or judicial claim or action brought before such date of enactment but pending on such date, and any administrative or judicial claim or action brought after such date regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations."
-
-*[Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], section 341(d) of Pub. L. 105–220, set out above, is repealed.]*
+Pub. L. 105–220, title III, §341(d), Aug. 7, 1998, 112 Stat. 1092, which provided that amendments made by subsections (a), (b), and (c) (amending this section, section 791 of this title, and section 2000e–16 of Title 42, The Public Health and Welfare) would take effect on Aug. 7, 1998, and would be applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after Aug. 7, 1998, regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, was repealed by Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705.
 
 #### Effective Date of 1995 Amendment ####
 

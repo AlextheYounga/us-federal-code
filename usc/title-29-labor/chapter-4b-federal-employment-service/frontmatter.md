@@ -36,6 +36,6 @@ Sec.
 
 49l–1. Authorization of appropriations.
 
-49l–2. Employment statistics.
+49l–2. Workforce and labor market information system.
 
 49m, 49n. Omitted.

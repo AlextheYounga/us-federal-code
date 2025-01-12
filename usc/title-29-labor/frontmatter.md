@@ -69,7 +69,7 @@ Chap. Sec.
 
 29. Workers Technology Skill Development 2701
 
-30. Workforce Investment Systems 2801
+30. Workforce Investment Systems [Repealed, Transferred, or Omitted] 2801
 
 31. Assistive Technology for Individuals With Disabilities 3001
 

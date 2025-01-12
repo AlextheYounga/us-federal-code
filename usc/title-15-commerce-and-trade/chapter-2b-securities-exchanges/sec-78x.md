@@ -10,11 +10,11 @@ It shall be unlawful for any member, officer, or employee of the Commission to d
 
 #### (c) Confidential disclosures ####
 
-The Commission may, in its discretion and upon a showing that such information is needed, provide all "records" (as defined in subsection (a) of this section) and other information in its possession to such persons, both domestic and foreign, as the Commission by rule deems appropriate if the person receiving such records or information provides such assurances of confidentiality as the Commission deems appropriate.
+The Commission may, in its discretion and upon a showing that such information is needed, provide all "records" (as defined in subsection (a)) and other information in its possession to such persons, both domestic and foreign, as the Commission by rule deems appropriate if the person receiving such records or information provides such assurances of confidentiality as the Commission deems appropriate.
 
 #### (d) Records obtained from foreign securities authorities ####
 
-Except as provided in subsection (g) of this section, the Commission shall not be compelled to disclose records obtained from a foreign securities authority if (1) the foreign securities authority has in good faith determined and represented to the Commission that public disclosure of such records would violate the laws applicable to that foreign securities authority, and (2) the Commission obtains such records pursuant to (A) such procedure as the Commission may authorize for use in connection with the administration or enforcement of the securities laws, or (B) a memorandum of understanding. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
+Except as provided in subsection (g), the Commission shall not be compelled to disclose records obtained from a foreign securities authority if (1) the foreign securities authority has in good faith determined and represented to the Commission that public disclosure of such records would violate the laws applicable to that foreign securities authority, and (2) the Commission obtains such records pursuant to (A) such procedure as the Commission may authorize for use in connection with the administration or enforcement of the securities laws, or (B) a memorandum of understanding. For purposes of section 552 of title 5, this subsection shall be considered a statute described in subsection (b)(3)(B) of such section 552.
 
 #### (e) Freedom of Information Act ####
 

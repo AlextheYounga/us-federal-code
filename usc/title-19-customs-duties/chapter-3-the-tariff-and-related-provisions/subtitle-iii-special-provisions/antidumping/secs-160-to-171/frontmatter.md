@@ -1,4 +1,4 @@
-### §§160 to 171**. Repealed. Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193** ###
+### §§160 to 171. Repealed. Pub. L. 96–39, title I, §106(a), July 26, 1979, 93 Stat. 193 ###
 
 Section 160, acts May 27, 1921, ch. 14, §201, 42 Stat. 11; Sept. 1, 1954, ch. 1213, title III, §301, 68 Stat. 1138; Aug. 14, 1958, Pub. L. 85–630, §§1, 4(b), 72 Stat. 583, 585; Jan. 3, 1975, Pub. L. 93–618, title III, §321(a), 88 Stat. 2043, related to initiation of a dumping investigation. See section 1673 et seq. of this title.
 

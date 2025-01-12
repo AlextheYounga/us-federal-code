@@ -136,7 +136,7 @@ An exchange that lists or trades security futures products may register as a nat
 
 #### (A) Form and content ####
 
-An exchange required to register only because such exchange lists or trades security futures products may register for purposes of this section by filing with the Commission a written notice in such form as the Commission, by rule, may prescribe containing the rules of the exchange and such other information and documents concerning such exchange, comparable to the information and documents required for national securities exchanges under subsection (a) of this section, as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. If such exchange has filed documents with the Commodity Futures Trading Commission, to the extent that such documents contain information satisfying the Commission's informational requirements, copies of such documents may be filed with the Commission in lieu of the required written notice.
+An exchange required to register only because such exchange lists or trades security futures products may register for purposes of this section by filing with the Commission a written notice in such form as the Commission, by rule, may prescribe containing the rules of the exchange and such other information and documents concerning such exchange, comparable to the information and documents required for national securities exchanges under subsection (a), as the Commission, by rule, may prescribe as necessary or appropriate in the public interest or for the protection of investors. If such exchange has filed documents with the Commodity Futures Trading Commission, to the extent that such documents contain information satisfying the Commission's informational requirements, copies of such documents may be filed with the Commission in lieu of the required written notice.
 
 #### (B) Immediate effectiveness ####
 
@@ -286,11 +286,11 @@ Consistent with this chapter, each national securities exchange registered pursu
 
 (1) rules of such national securities exchange of the type specified in section 78o(c)(3)(B) of this title involving security futures products; and
 
-(2) similar rules of national securities exchanges registered pursuant to subsection (g) of this section and national securities associations registered pursuant to section 78o–3(k) of this title involving security futures products.
+(2) similar rules of national securities exchanges registered pursuant to subsection (g) and national securities associations registered pursuant to section 78o–3(k) of this title involving security futures products.
 
 #### (j) Procedures and rules for security future products ####
 
-A national securities exchange registered pursuant to subsection (a) of this section shall implement the procedures specified in subsection (h)(5)(A) of this section and adopt the rules specified in subparagraphs (B) and (C) of subsection (h)(5) of this section not later than 8 months after the date of receipt of a request from an alternative trading system for such implementation and rules.
+A national securities exchange registered pursuant to subsection (a) shall implement the procedures specified in subsection (h)(5)(A) and adopt the rules specified in subparagraphs (B) and (C) of subsection (h)(5) not later than 8 months after the date of receipt of a request from an alternative trading system for such implementation and rules.
 
 #### (k) Rules relating to security futures products traded on foreign boards of trade ####
 

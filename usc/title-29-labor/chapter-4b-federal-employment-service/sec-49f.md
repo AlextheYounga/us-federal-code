@@ -4,7 +4,7 @@
 
 Ninety percent of the sums allotted to each State pursuant to section 49e of this title may be used—
 
-(1) for job search and placement services to job seekers including counseling, testing, occupational and labor market information, assessment, and referral to employers;
+(1) for job search and placement services to job seekers, including unemployment insurance claimants, including counseling, testing, occupational and labor market information, assessment, and referral to employers;
 
 (2) for appropriate recruitment services and special technical services for employers; and
 
@@ -18,19 +18,21 @@ Ninety percent of the sums allotted to each State pursuant to section 49e of thi
 
 (D) developing and providing labor market and occupational information;
 
-(E) developing a management information system and compiling and analyzing reports therefrom; and
+(E) developing a management information system and compiling and analyzing reports therefrom;
 
-(F) administering the work test for the State unemployment compensation system and providing job finding and placement services for unemployment insurance claimants.
+(F) administering the work test for the State unemployment compensation system, including making eligibility assessments, and providing job finding and placement services for unemployment insurance claimants; and
+
+(G) providing unemployment insurance claimants with referrals to, and application assistance for, training and education resources and programs, including Federal Pell Grants under subpart 1 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070a et seq.), educational assistance under chapter 30 of title 38 (commonly referred to as the Montgomery GI Bill), and chapter 33 of that title (Post-9/11 Veterans Educational Assistance), student assistance under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.) [and 42 U.S.C. 2751 et seq.], State student higher education assistance, and training and education programs provided under titles I and II of the Workforce Innovation and Opportunity Act [29 U.S.C. 3111 et seq., 3271 et seq.], and title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.).
 
 #### (b) Use of 10 percent of funds allotted ####
 
 Ten percent of the sums allotted to each State pursuant to section 49e of this title shall be reserved for use in accordance with this subsection by the Governor of each such State to provide—
 
-(1) performance incentives for public employment service offices and programs, consistent with performance standards established by the Secretary, taking into account direct or indirect placements (including those resulting from self-directed job search or group job search activities assisted by such offices or programs), wages on entered employment, retention, and other appropriate factors;
+(1) performance incentives for public employment service offices and programs, consistent with the performance accountability measures that are based on indicators described in section 116(b)(2)(A)(i) of the Workforce Innovation and Opportunity Act [29 U.S.C. 3141(b)(2)(A)(i)], taking into account direct or indirect placements (including those resulting from self-directed job search or group job search activities assisted by such offices or programs), wages on entered employment, retention, and other appropriate factors;
 
-(2) services for groups with special needs, carried out pursuant to joint agreements between the employment service and the appropriate local workforce investment board and chief elected official or officials or other public agencies or private nonprofit organizations; and
+(2) services for groups with special needs, carried out pursuant to joint agreements between the employment service offices and the appropriate local workforce investment board and chief elected official or officials or other public agencies or private nonprofit organizations; and
 
-(3) the extra costs of exemplary models for delivering services of the types described in subsection (a).
+(3) the extra costs of exemplary models for delivering services of the types described in subsection (a), and models for enhancing professional development and career advancement opportunities of State agency staff, as described in section 49b(c)(4) of this title.
 
 #### (c) Joint funding ####
 
@@ -44,51 +46,25 @@ Ten percent of the sums allotted to each State pursuant to section 49e of this t
 
 (D) such funds would be used to supplement, and not supplant, funds provided from non-Federal sources.
 
-(2) For purposes of this subsection, the term "applicable program" means any workforce investment activity carried out under the Workforce Investment Act of 1998.
+(2) For purposes of this subsection, the term "applicable program" means any workforce investment activity carried out under the Workforce Innovation and Opportunity Act.
 
 #### (d) Performance of services and activities under contract ####
 
-In addition to the services and activities otherwise authorized by this chapter, the Secretary or any State agency designated under this chapter may perform such other services and activities as shall be specified in contracts for payment or reimbursement of the costs thereof made with the Secretary or with any Federal, State, or local public agency, or administrative entity under the Workforce Investment Act of 1998, or private nonprofit organization.
+In addition to the services and activities otherwise authorized by this chapter, the Secretary or any State agency designated under this chapter may perform such other services and activities as shall be specified in contracts for payment or reimbursement of the costs thereof made with the Secretary or with any Federal, State, or local public agency, or administrative entity under the Workforce Innovation and Opportunity Act, or private nonprofit organization.
 
 #### (e) Provision of services as part of one-stop delivery system ####
 
-All job search, placement, recruitment, labor employment statistics, and other labor exchange services authorized under subsection (a) shall be provided, consistent with the other requirements of this chapter, as part of the one-stop delivery system established by the State.
+All job search, placement, recruitment, workforce and labor market information, and other labor exchange services authorized under subsection (a) shall be provided, consistent with the other requirements of this chapter, as part of the one-stop delivery system established by the State.
 
 (June 6, 1933, ch. 49, §7, as added Pub. L. 97–300, title VI, §601(c), formerly title V, §501(c), Oct. 13, 1982, 96 Stat. 1394; renumbered title VI, §601(c), Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248; amended Pub. L. 101–392, §5(b), Sept. 25, 1990, 104 Stat. 759; Pub. L. 105–220, title III, §§305, 310, Aug. 7, 1998, 112 Stat. 1081, 1086; Pub. L. 113–128, title III, §305, July 22, 2014, 128 Stat. 1626.)
 
-#### Amendment of Section ####
-
-Pub. L. 113–128, title III, §305, title V, §506, July 22, 2014, 128 Stat. 1626, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
-
-(1) in subsection (a):
-
-(A) in paragraph (1), by inserting ", including unemployment insurance claimants," after "seekers"; and
-
-(B) in paragraph (3):
-
-(i) in subparagraph (F), by inserting ", including making eligibility assessments," after "system"; and
-
-(ii) by striking "and" at the end of subparagraph (E), substituting "; and" for the period at the end of subparagraph (F), and inserting after subparagraph (F) the following:
-
-*"(G) providing unemployment insurance claimants with referrals to, and application assistance for, training and education resources and programs, including Federal Pell Grants under subpart 1 of part A of title IV of the Higher Education Act of 1965 (20 U.S.C. 1070a et seq.), educational assistance under chapter 30 of title 38 (commonly referred to as the Montgomery GI Bill), and chapter 33 of that title (Post-9/11 Veterans Educational Assistance), student assistance under title IV of the Higher Education Act of 1965 (20 U.S.C. 1070 et seq.), State student higher education assistance, and training and education programs provided under titles I and II of the Workforce Innovation and Opportunity Act, and title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.).";*
-
-(2) in subsection (b):
-
-(A) in paragraph (1), by striking "performance standards established by the Secretary" and inserting "the performance accountability measures that are based on indicators described in section 116(b)(2)(A)(i) of the Workforce Innovation and Opportunity Act";
-
-(B) in paragraph (2), by inserting "offices" after "employment service"; and
-
-(C) in paragraph (3), by inserting ", and models for enhancing professional development and career advancement opportunities of State agency staff, as described in section 49b(c)(4) of this title" after "subsection (a)";
-
-(3) in subsections (c)(2) and (d), by striking "the Workforce Investment Act of 1998" and inserting "the Workforce Innovation and Opportunity Act"; and
-
-(4) in subsection (e), by striking "labor employment statistics" and inserting "workforce and labor market information".
-
-See 2014 Amendment notes below.
-
 #### References in Text ####
 
-The Workforce Investment Act of 1998, referred to in subsecs. (c)(2) and (d), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(3)(G), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. Subpart 1 of part A of title IV of the Act is classified generally to subpart 1 (§1070a et seq.) of part A of subchapter IV of chapter 28 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+
+The Workforce Innovation and Opportunity Act, referred to in subsecs. (a)(3)(G), (c)(2), and (d), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of this title, repealed chapter 30 (§2801 et seq.) of this title and chapter 73 (§9201 et seq.) of Title 20, Education, and made conforming amendments to numerous other sections and notes in the Code. Titles I and II of the Act are classified generally to subchapters I (§3111 et seq.) and II (§3271 et seq.), respectively, of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+
+The Rehabilitation Act of 1973, referred to in subsec. (a)(3)(G), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 #### Prior Provisions ####
 
@@ -130,11 +106,11 @@ Subsec. (e). Pub. L. 105–220, §305(4), added subsec. (e).
 
 #### Effective Date of 2014 Amendment ####
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 1998 Amendment ####
 
-Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L. 105–220, set out as a note under section 49a of this title.
+Amendment by Pub. L. 105–220 effective July 1, 1999, see section 311 of Pub. L. 105–220, formerly set out as a note under section 49a of this title.
 
 #### Effective Date of 1990 Amendment ####
 
@@ -143,3 +119,7 @@ Amendment by Pub. L. 101–392 effective July 1, 1991, see section 702(a) of Pub
 #### Effective Date ####
 
 Section effective Oct. 1, 1983, but with Secretary authorized to use funds appropriated for fiscal 1983 to plan for orderly implementation of section, see section 181(i) of Pub. L. 97–300, which was formerly classified to section 1591(i) of this title.
+
+#### Definitions of Terms in Pub. L. 113–128 ####
+
+Except as otherwise provided, terms defined in section 3 of Pub. L. 113–128, which is classified to section 3102 of this title, apply to this section.

@@ -10,11 +10,11 @@
 
 (C) is engaged or proposes to engage in the business of investing, reinvesting, owning, holding, or trading in securities, and owns or proposes to acquire investment securities having a value exceeding 40 per centum of the value of such issuer's total assets (exclusive of Government securities and cash items) on an unconsolidated basis.
 
-(2) As used in this section, "investment securities" includes all securities except (A) Government securities, (B) securities issued by employees' securities companies, and (C) securities issued by majority-owned subsidiaries of the owner which (i) are not investment companies, and (ii) are not relying on the exception from the definition of investment company in paragraph (1) or (7) of subsection (c) of this section.
+(2) As used in this section, "investment securities" includes all securities except (A) Government securities, (B) securities issued by employees' securities companies, and (C) securities issued by majority-owned subsidiaries of the owner which (i) are not investment companies, and (ii) are not relying on the exception from the definition of investment company in paragraph (1) or (7) of subsection (c).
 
 #### (b) Exemption from provisions ####
 
-Notwithstanding paragraph (1)(C) of subsection (a) of this section, none of the following persons is an investment company within the meaning of this subchapter:
+Notwithstanding paragraph (1)(C) of subsection (a), none of the following persons is an investment company within the meaning of this subchapter:
 
 (1) Any issuer primarily engaged, directly or through a wholly-owned subsidiary or subsidiaries, in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities.
 
@@ -24,7 +24,7 @@ Notwithstanding paragraph (1)(C) of subsection (a) of this section, none of the 
 
 #### (c) Further exemptions ####
 
-Notwithstanding subsection (a) of this section, none of the following persons is an investment company within the meaning of this subchapter:
+Notwithstanding subsection (a), none of the following persons is an investment company within the meaning of this subchapter:
 
 (1) Any issuer whose outstanding securities (other than short-term paper) are beneficially owned by not more than one hundred persons and which is not making and does not presently propose to make a public offering of its securities. Such issuer shall be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title governing the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer. For purposes of this paragraph:
 

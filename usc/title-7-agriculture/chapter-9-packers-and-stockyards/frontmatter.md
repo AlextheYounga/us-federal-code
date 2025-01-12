@@ -118,9 +118,7 @@ Sec.
 
 228d. Annual assessment of cattle and hog industries.
 
-229. Repealed.
-
-229a. Repealed.
+229, 229a. Repealed.
 
 229b. Right to discuss terms of contract.
 

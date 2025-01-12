@@ -24,4 +24,4 @@ Section 12899i, Pub. L. 101–625, title IV, §461, formerly §460, as added Pub
 
 #### Transfer of Functions ####
 
-All functions which the Secretary of Housing and Urban Development exercised before Sept. 22, 2006, relating to subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12899 et seq.) transferred to the Department of Labor, see section 3(b) of Pub. L. 109–281, set out as a Transfer of Functions and Savings Provisions note under section 2918a of Title 29, Labor.
+All functions which the Secretary of Housing and Urban Development exercised before Sept. 22, 2006, relating to subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12899 et seq.) transferred to the Department of Labor, see section 3(b) of Pub. L. 109–281, set out as a Transfer of Functions and Savings Provisions note under section 3226 of Title 29, Labor.

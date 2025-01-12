@@ -8,7 +8,7 @@ If the Commission or any self-regulatory organization is aware of facts which le
 
 #### (2) Action by self-regulatory organization ####
 
-If a self-regulatory organization has given notice to SIPC pursuant to subsection (a)(1) of this section with respect to a broker or dealer, and such broker or dealer undertakes to liquidate or reduce its business either pursuant to the direction of a self-regulatory organization or voluntarily, such self-regulatory organization may render such assistance or oversight to such broker or dealer as it considers appropriate to protect the interests of customers of such broker or dealer. The assistance or oversight by a self-regulatory organization shall not be deemed the assumption or adoption by such self-regulatory organization of any obligation or liability to customers, other creditors, shareholders, or partners of the broker or dealer, and shall not prevent or act as a bar to any action by SIPC.
+If a self-regulatory organization has given notice to SIPC pursuant to subsection (a)(1) with respect to a broker or dealer, and such broker or dealer undertakes to liquidate or reduce its business either pursuant to the direction of a self-regulatory organization or voluntarily, such self-regulatory organization may render such assistance or oversight to such broker or dealer as it considers appropriate to protect the interests of customers of such broker or dealer. The assistance or oversight by a self-regulatory organization shall not be deemed the assumption or adoption by such self-regulatory organization of any obligation or liability to customers, other creditors, shareholders, or partners of the broker or dealer, and shall not prevent or act as a bar to any action by SIPC.
 
 #### (3) Action by SIPC ####
 
@@ -18,7 +18,7 @@ SIPC may, upon notice to a member of SIPC, file an application for a protective 
 
 (A) <sup><a href="#78eee_1_target" name="78eee_1">1</a></sup> the member (including any person who was a member within one hundred eighty days prior to such determination) has failed or is in danger of failing to meet its obligations to customers; and
 
-(B) <sup><a href="#78eee_2_target" name="78eee_2">2</a></sup> one or more of the conditions specified in subsection (b)(1) of this section exist with respect to such member.
+(B) <sup><a href="#78eee_2_target" name="78eee_2">2</a></sup> one or more of the conditions specified in subsection (b)(1) exist with respect to such member.
 
 #### (B) Consent required ####
 
@@ -28,7 +28,7 @@ No member of SIPC that has a customer may enter into an insolvency, receivership
 
 An application with respect to a member of SIPC filed with a court under paragraph (3)—
 
-(A) may, with the consent of the Commission, be combined with any action brought by the Commission, including an action by the Commission for a temporary receiver pending an appointment of a trustee under subsection (b)(3) of this section; and
+(A) may, with the consent of the Commission, be combined with any action brought by the Commission, including an action by the Commission for a temporary receiver pending an appointment of a trustee under subsection (b)(3); and
 
 (B) may be filed notwithstanding the pendency in the same or any other court of any bankruptcy, mortgage foreclosure, or equity receivership proceeding or any proceeding to reorganize, conserve, or liquidate such member or its property, or any proceeding to enforce a lien against property of such member.
 
@@ -36,7 +36,7 @@ An application with respect to a member of SIPC filed with a court under paragra
 
 #### (1) Issuance of protective decree ####
 
-Upon receipt of an application by SIPC under subsection (a)(3) of this section, the court shall forthwith issue a protective decree if the debtor consents thereto, if the debtor fails to contest such application, or if the court finds that such debtor—
+Upon receipt of an application by SIPC under subsection (a)(3), the court shall forthwith issue a protective decree if the debtor consents thereto, if the debtor fails to contest such application, or if the court finds that such debtor—
 
 (A) is insolvent within the meaning of section 101 of title 11, or is unable to meet its obligations as they mature;
 
@@ -74,7 +74,7 @@ Pending the issuance of a protective decree under paragraph (1), the court with 
 
 #### (C) Exception from stay ####
 
-(i) Notwithstanding section 362 of title 11, neither the filing of an application under subsection (a)(3) of this section nor any order or decree obtained by SIPC from the court shall operate as a stay of any contractual rights of a creditor to liquidate, terminate, or accelerate a securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, or master netting agreement, as those terms are defined in sections 101, 741, and 761 of title 11, to offset or net termination values, payment amounts, or other transfer obligations arising under or in connection with one or more of such contracts or agreements, or to foreclose on any cash collateral pledged by the debtor, whether or not with respect to one or more of such contracts or agreements.
+(i) Notwithstanding section 362 of title 11, neither the filing of an application under subsection (a)(3) nor any order or decree obtained by SIPC from the court shall operate as a stay of any contractual rights of a creditor to liquidate, terminate, or accelerate a securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, or master netting agreement, as those terms are defined in sections 101, 741, and 761 of title 11, to offset or net termination values, payment amounts, or other transfer obligations arising under or in connection with one or more of such contracts or agreements, or to foreclose on any cash collateral pledged by the debtor, whether or not with respect to one or more of such contracts or agreements.
 
 (ii) Notwithstanding clause (i), such application, order, or decree may operate as a stay of the foreclosure on, or disposition of, securities collateral pledged by the debtor, whether or not with respect to one or more of such contracts or agreements, securities sold by the debtor under a repurchase agreement, or securities lent under a securities lending agreement.
 

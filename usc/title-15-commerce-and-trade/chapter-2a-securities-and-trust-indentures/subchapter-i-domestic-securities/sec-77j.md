@@ -2,7 +2,7 @@
 
 #### (a) Information in registration statement; documents not required ####
 
-Except to the extent otherwise permitted or required pursuant to this subsection or subsections (c), (d), or (e) of this section—
+Except to the extent otherwise permitted or required pursuant to this subsection or subsections (c), (d), or (e)—
 
 (1) a prospectus relating to a security other than a security issued by a foreign government or political subdivision thereof, shall contain the information contained in the registration statement, but it need not include the documents referred to in paragraphs (28) to (32), inclusive, of schedule A of section 77aa of this title;
 
@@ -14,7 +14,7 @@ Except to the extent otherwise permitted or required pursuant to this subsection
 
 #### (b) Summarizations and omissions allowed by rules and regulations ####
 
-In addition to the prospectus permitted or required in subsection (a) of this section, the Commission shall by rules or regulations deemed necessary or appropriate in the public interest or for the protection of investors permit the use of a prospectus for the purposes of subsection (b)(1) of section 77e of this title which omits in part or summarizes information in the prospectus specified in subsection (a) of this section. A prospectus permitted under this subsection shall, except to the extent the Commission by rules or regulations deemed necessary or appropriate in the public interest or for the protection of investors otherwise provides, be filed as part of the registration statement but shall not be deemed a part of such registration statement for the purposes of section 77k of this title. The Commission may at any time issue an order preventing or suspending the use of a prospectus permitted under this subsection, if it has reason to believe that such prospectus has not been filed (if required to be filed as part of the registration statement) or includes any untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which such prospectus is or is to be used, not misleading. Upon issuance of an order under this subsection, the Commission shall give notice of the issuance of such order and opportunity for hearing by personal service or the sending of confirmed telegraphic notice. The Commission shall vacate or modify the order at any time for good cause or if such prospectus has been filed or amended in accordance with such order.
+In addition to the prospectus permitted or required in subsection (a), the Commission shall by rules or regulations deemed necessary or appropriate in the public interest or for the protection of investors permit the use of a prospectus for the purposes of subsection (b)(1) of section 77e of this title which omits in part or summarizes information in the prospectus specified in subsection (a). A prospectus permitted under this subsection shall, except to the extent the Commission by rules or regulations deemed necessary or appropriate in the public interest or for the protection of investors otherwise provides, be filed as part of the registration statement but shall not be deemed a part of such registration statement for the purposes of section 77k of this title. The Commission may at any time issue an order preventing or suspending the use of a prospectus permitted under this subsection, if it has reason to believe that such prospectus has not been filed (if required to be filed as part of the registration statement) or includes any untrue statement of a material fact or omits to state any material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which such prospectus is or is to be used, not misleading. Upon issuance of an order under this subsection, the Commission shall give notice of the issuance of such order and opportunity for hearing by personal service or the sending of confirmed telegraphic notice. The Commission shall vacate or modify the order at any time for good cause or if such prospectus has been filed or amended in accordance with such order.
 
 #### (c) Additional information required by rules and regulations ####
 
@@ -22,11 +22,11 @@ Any prospectus shall contain such other information as the Commission may by rul
 
 #### (d) Classification of prospectuses ####
 
-In the exercise of its powers under subsections (a), (b), or (c) of this section, the Commission shall have authority to classify prospectuses according to the nature and circumstances of their use or the nature of the security, issue, issuer, or otherwise, and, by rules and regulations and subject to such terms and conditions as it shall specify therein, to prescribe as to each class the form and contents which it may find appropriate and consistent with the public interest and the protection of investors.
+In the exercise of its powers under subsections (a), (b), or (c), the Commission shall have authority to classify prospectuses according to the nature and circumstances of their use or the nature of the security, issue, issuer, or otherwise, and, by rules and regulations and subject to such terms and conditions as it shall specify therein, to prescribe as to each class the form and contents which it may find appropriate and consistent with the public interest and the protection of investors.
 
 #### (e) Information in conspicuous part of prospectus ####
 
-The statements or information required to be included in a prospectus by or under authority of subsections (a), (b), (c), or (d) of this section, when written, shall be placed in a conspicuous part of the prospectus and, except as otherwise permitted by rules or regulations, in type as large as that used generally in the body of the prospectus.
+The statements or information required to be included in a prospectus by or under authority of subsections (a), (b), (c), or (d), when written, shall be placed in a conspicuous part of the prospectus and, except as otherwise permitted by rules or regulations, in type as large as that used generally in the body of the prospectus.
 
 #### (f) Prospectus consisting of radio or television broadcast ####
 

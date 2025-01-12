@@ -1,10 +1,10 @@
-### §49*l*–2. Employment statistics ###
+### §49*l*–2. Workforce and labor market information system ###
 
 #### (a) System content ####
 
 #### (1) In general ####
 
-The Secretary, in accordance with the provisions of this section, shall oversee the development, maintenance, and continuous improvement of a nationwide employment statistics system of employment statistics that includes—
+The Secretary, in accordance with the provisions of this section, shall oversee the development, maintenance, and continuous improvement of a nationwide workforce and labor market information system that includes—
 
 (A) statistical data from cooperative statistical survey and projection programs and data from administrative reporting systems that, taken together, enumerate, estimate, and project employment opportunities and conditions at national, State, and local levels in a timely manner, including statistics on—
 
@@ -76,51 +76,107 @@ Nothing in this section shall be construed to provide immunity from the legal pr
 
 #### (1) In general ####
 
-The employment statistics system described in subsection (a) of this section shall be planned, administered, overseen, and evaluated through a cooperative governance structure involving the Federal Government and States.
+#### (A) Structure ####
+
+The workforce and labor market information system described in subsection (a) shall be evaluated and improved by the Secretary, in consultation with the Workforce Information Advisory Council established in subsection (d).
+
+#### (B) Grants and responsibilities ####
+
+#### (i) In general ####
+
+The Secretary shall carry out the provisions of this section in a timely manner, through grants to or agreements with States.
+
+#### (ii) Distribution of funds ####
+
+Using amounts appropriated under subsection (g), the Secretary shall provide funds through those grants and agreements. In distributing the funds (relating to workforce and labor market information funding) for fiscal years 2015 through 2020, the Secretary shall continue to distribute the funds to States in the manner in which the Secretary distributed funds to the States under this section for fiscal years 2004 through 2008.
 
 #### (2) Duties ####
 
-The Secretary, with respect to data collection, analysis, and dissemination of labor employment statistics for the system, shall carry out the following duties:
+The Secretary, with respect to data collection, analysis, and dissemination of workforce and labor market information for the system, shall carry out the following duties:
 
-(A) Assign responsibilities within the Department of Labor for elements of the employment statistics system described in subsection (a) of this section to ensure that all statistical and administrative data collected is consistent with appropriate Bureau of Labor Statistics standards and definitions.
+(A) Assign responsibilities within the Department of Labor for elements of the workforce and labor market information system described in subsection (a) to ensure that the statistical and administrative data collected is consistent with appropriate Bureau of Labor Statistics standards and definitions, and that the information is accessible and understandable to users of such data.
 
-(B) Actively seek the cooperation of other Federal agencies to establish and maintain mechanisms for ensuring complementarity and nonduplication in the development and operation of statistical and administrative data collection activities.
+(B) Actively seek the cooperation of heads of other Federal agencies to establish and maintain mechanisms for ensuring complementarity and nonduplication in the development and operation of statistical and administrative data collection activities.
 
-(C) Eliminate gaps and duplication in statistical undertakings, with the systemization of wage surveys as an early priority.
+(C) Solicit, receive, and evaluate the recommendations from the Workforce Information Advisory Council established in subsection (d) concerning the evaluation and improvement of the workforce and labor market information system described in subsection (a) and respond in writing to the Council regarding the recommendations.
 
-(D) In collaboration with the Bureau of Labor Statistics and States, develop and maintain the elements of the employment statistics system described in subsection (a) of this section, including the development of consistent procedures and definitions for use by the States in collecting the data and information described in subparagraphs (A) and (B) of subsection (a)(1) of this section.
+(D) Eliminate gaps and duplication in statistical undertakings.
 
-(E) Establish procedures for the system to ensure that—
+(E) Through the Bureau of Labor Statistics and the Employment and Training Administration, and in collaboration with States, develop and maintain the elements of the workforce and labor market information system described in subsection (a), including the development of consistent procedures and definitions for use by the States in collecting the data and information described in subparagraphs (A) and (B) of subsection (a)(1).
 
-(i) such data and information are timely;
+(F) Establish procedures for the system to ensure that—
 
-(ii) paperwork and reporting for the system are reduced to a minimum; and
+(i) such data and information are timely; and
 
-(iii) States and localities are fully involved in the development and continuous improvement of the system at all levels, including ensuring the provision, to such States and localities, of budget information necessary for carrying out their responsibilities under subsection (e) of this section.
+(ii) paperwork and reporting for the system are reduced to a minimum.
 
-#### (c) Annual plan ####
+#### (c) Two-year plan ####
 
-The Secretary, working through the Bureau of Labor Statistics, and in cooperation with the States, and with the assistance of other appropriate Federal agencies, shall prepare an annual plan which shall be the mechanism for achieving cooperative management of the nationwide employment statistics system described in subsection (a) of this section and the statewide employment statistics systems that comprise the nationwide system. The plan shall—
+The Secretary, acting through the Commissioner of Labor Statistics and the Assistant Secretary for Employment and Training, and in consultation with the Workforce Information Advisory Council described in subsection (d) and heads of other appropriate Federal agencies, shall prepare a 2-year plan for the workforce and labor market information system. The plan shall be developed and implemented in a manner that takes into account the activities described in State plans submitted by States under section 3112 or 3113 of this title and shall be submitted to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate. The plan shall include—
 
-(1) describe the steps the Secretary has taken in the preceding year and will take in the following 5 years to carry out the duties described in subsection (b)(2) of this section;
+(1) a description of how the Secretary will work with the States to manage the nationwide workforce and labor market information system described in subsection (a) and the statewide workforce and labor market information systems that comprise the nationwide system;
 
-(2) include a report on the results of an annual consumer satisfaction review concerning the performance of the system, including the performance of the system in addressing the needs of Congress, States, localities, employers, jobseekers, and other consumers;
+(2) a description of the steps to be taken in the following 2 years to carry out the duties described in subsection (b)(2);
 
-(3) evaluate the performance of the system and recommend needed improvements, taking into consideration the results of the consumer satisfaction review, with particular attention to the improvements needed at the State and local levels;
+(3) an evaluation of the performance of the system, with particular attention to the improvements needed at the State and local levels;
 
-(4) justify the budget request for annual appropriations by describing priorities for the fiscal year succeeding the fiscal year in which the plan is developed and priorities for the 5 subsequent fiscal years for the system;
+(4) a description of the involvement of States in the development of the plan, through consultation by the Secretary with the Workforce Information Advisory Council in accordance with subsection (d); and
 
-(5) describe current (as of the date of the submission of the plan) spending and spending needs to carry out activities under this section, including the costs to States and localities of meeting the requirements of subsection (e)(2) of this section; and
+(5) a description of the written recommendations received from the Workforce Information Advisory Council established under subsection (d), and the extent to which those recommendations were incorporated into the plan.
 
-(6) describe the involvement of States in the development of the plan, through formal consultations conducted by the Secretary in cooperation with representatives of the Governors of every State, and with representatives of local workforce investment boards, pursuant to a process established by the Secretary in cooperation with the States.
+#### (d) Workforce Information Advisory Council ####
 
-#### (d) Coordination with the States ####
+#### (1) In general ####
 
-The Secretary, working through the Bureau of Labor Statistics, and in cooperation with the States, shall—
+The Secretary, through the Commissioner of Labor Statistics and the Assistant Secretary for Employment and Training, shall formally consult at least twice annually with the Workforce Information Advisory Council established in accordance with paragraph (2). Such consultations shall address the evaluation and improvement of the nationwide workforce and labor market information system described in subsection (a) and the statewide workforce and labor market information systems that comprise the nationwide system and how the Department of Labor and the States will cooperate in the management of such systems. The Council shall provide written recommendations to the Secretary concerning the evaluation and improvement of the nationwide system, including any recommendations regarding the 2-year plan described in subsection (c).
 
-(1) develop the annual plan described in subsection (c) of this section and address other employment statistics issues by holding formal consultations, at least once each quarter (beginning with the calendar quarter in which the Workforce Investment Act of 1998 is enacted) on the products and administration of the nationwide employment statistics system; and
+#### (2) Establishment of Council ####
 
-(2) hold the consultations with representatives from each of the 10 Federal regions of the Department of Labor, elected (pursuant to a process established by the Secretary) by and from the State employment statistics directors affiliated with the State agencies that perform the duties described in subsection (e)(2) of this section.
+#### (A) Establishment ####
+
+The Secretary shall establish an advisory council that shall be known as the Workforce Information Advisory Council (referred to in this section as the "Council") to participate in the consultations and provide the recommendations described in paragraph (1).
+
+#### (B) Membership ####
+
+The Secretary shall appoint the members of the Council, which shall consist of—
+
+(i) 4 members who are representatives of lead State agencies with responsibility for workforce investment activities, or State agencies described in section 49c of this title, who have been nominated by such agencies or by a national organization that represents such agencies;
+
+(ii) 4 members who are representatives of the State workforce and labor market information directors affiliated with the State agencies that perform the duties described in subsection (e)(2), who have been nominated by the directors;
+
+(iii) 1 member who is a representative of providers of training services under section 3152 of this title;
+
+(iv) 1 member who is a representative of economic development entities;
+
+(v) 1 member who is a representative of businesses, who has been nominated by national business organizations or trade associations;
+
+(vi) 1 member who is a representative of labor organizations, who has been nominated by a national labor federation;
+
+(vii) 1 member who is a representative of local workforce development boards, who has been nominated by a national organization representing such boards; and
+
+(viii) 1 member who is a representative of research entities that utilize workforce and labor market information.
+
+#### (C) Geographic diversity ####
+
+The Secretary shall ensure that the membership of the Council is geographically diverse and that no 2 of the members appointed under clauses (i), (ii), and (vii) represent the same State.
+
+#### (D) Period of appointment; vacancies ####
+
+#### (i) In general ####
+
+Each member of the Council shall be appointed for a term of 3 years, except that the initial terms for members may be 1, 2, or 3 years in order to establish a rotation in which one-third of the members are selected each year. Any such member may be appointed for not more than 2 consecutive terms.
+
+#### (ii) Vacancies ####
+
+Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office.
+
+#### (E) Travel expenses ####
+
+The members of the Council shall not receive compensation for the performance of services for the Council, but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Council. Notwithstanding section 1342 of title 31, the Secretary may accept the voluntary and uncompensated services of members of the Council.
+
+#### (F) Permanent Council ####
+
+Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
 
 #### (e) State responsibilities ####
 
@@ -128,7 +184,7 @@ The Secretary, working through the Bureau of Labor Statistics, and in cooperatio
 
 In order to receive Federal financial assistance under this section, the Governor of a State shall—
 
-(A) designate a single State agency to be responsible for the management of the portions of the employment statistics system described in subsection (a) of this section that comprise a statewide employment statistics system and for the State's participation in the development of the annual plan; and
+(A) designate a single State agency to be responsible for the management of the portions of the workforce and labor market information system described in subsection (a) of this section that comprise a statewide workforce and labor market information system and for the State's participation in the development of the plan described in subsection (c); and
 
 (B) establish a process for the oversight of such system.
 
@@ -136,23 +192,21 @@ In order to receive Federal financial assistance under this section, the Governo
 
 In order to receive Federal financial assistance under this section, the State agency shall—
 
-(A) consult with State and local employers, participants, and local workforce investment boards about the labor market relevance of the data to be collected and disseminated through the statewide employment statistics system;
+(A) consult with State and local employers, participants, and local workforce investment boards about the labor market relevance of the data to be collected and disseminated through the statewide workforce and labor market information system;
 
-(B) consult with State educational agencies and local educational agencies concerning the provision of employment statistics in order to meet the needs of secondary school and postsecondary school students who seek such information;
+(B) consult with State educational agencies and local educational agencies concerning the provision of workforce and labor market information in order to meet the needs of secondary school and postsecondary school students who seek such information;
 
 (C) collect and disseminate for the system, on behalf of the State and localities in the State, the information and data described in subparagraphs (A) and (B) of subsection (a)(1) of this section;
 
-(D) maintain and continuously improve the statewide employment statistics system in accordance with this section;
+(D) maintain and continuously improve the statewide workforce and labor market information system in accordance with this section;
 
 (E) perform contract and grant responsibilities for data collection, analysis, and dissemination for such system;
 
-(F) conduct such other data collection, analysis, and dissemination activities as will ensure an effective statewide employment statistics system;
+(F) conduct such other data collection, analysis, and dissemination activities as will ensure an effective statewide workforce and labor market information system;
 
-(G) actively seek the participation of other State and local agencies in data collection, analysis, and dissemination activities in order to ensure complementarity, compatibility, and usefulness of data;
+(G) actively seek the participation of other State and local agencies in data collection, analysis, and dissemination activities in order to ensure complementarity, compatibility, and usefulness of data; and
 
-(H) participate in the development of the annual plan described in subsection (c) of this section; and
-
-(I) utilize the quarterly records described in section 136(f)(2) of the Workforce Investment Act of 1998 [29 U.S.C. 2871(f)(2)] to assist the State and other States in measuring State progress on State performance measures.
+(H) utilize the quarterly records described in section 3141(i)(2) of this title to assist the State and other States in measuring State progress on State performance measures.
 
 #### (3) Rule of construction ####
 
@@ -164,7 +218,7 @@ None of the functions and activities carried out pursuant to this section shall 
 
 #### (g) Authorization of appropriations ####
 
-There are authorized to be appropriated to carry out this section such sums as may be necessary for each of the fiscal years 1999 through 2004.
+There are authorized to be appropriated to carry out this section $60,153,000 for fiscal year 2015, $64,799,000 for fiscal year 2016, $66,144,000 for fiscal year 2017, $67,611,000 for fiscal year 2018, $69,200,000 for fiscal year 2019, and $70,667,000 for fiscal year 2020.
 
 #### (h) "Local area" defined ####
 
@@ -172,143 +226,11 @@ In this section, the term "local area" means the smallest geographical area for 
 
 (June 6, 1933, ch. 49, §15, as added Pub. L. 105–220, title III, §309(2), Aug. 7, 1998, 112 Stat. 1082; amended Pub. L. 105–277, div. A, §101(f) [title VIII, §403(a)(1)], Oct. 21, 1998, 112 Stat. 2681–337, 2681–416; Pub. L. 105–332, §5(b)(1), Oct. 31, 1998, 112 Stat. 3127; Pub. L. 109–270, §2(g), Aug. 12, 2006, 120 Stat. 747; Pub. L. 113–128, title III, §308, July 22, 2014, 128 Stat. 1627.)
 
-#### Amendment of Section ####
-
-Pub. L. 113–128, title III, §308, title V, §506, July 22, 2014, 128 Stat. 1627, 1703, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], this section is amended as follows:
-
-(1) in the section catchline, by striking "Employment statistics" and inserting "Workforce and labor market information system";
-
-(2) in subsection (a)(1), by striking "employment statistics system of employment statistics" and inserting "workforce and labor market information system";
-
-(3) in subsection (b), by striking paragraphs (1) and (2) and inserting the following:
-
-#### *"(1) In general* ####
-
-#### *"(A) Structure* ####
-
-*"The workforce and labor market information system described in subsection (a) shall be evaluated and improved by the Secretary, in consultation with the Workforce Information Advisory Council established in subsection (d).*
-
-#### *"(B) Grants and responsibilities* ####
-
-#### *"(i) In general* ####
-
-*"The Secretary shall carry out the provisions of this section in a timely manner, through grants to or agreements with States.*
-
-#### *"(ii) Distribution of funds* ####
-
-*"Using amounts appropriated under subsection (g), the Secretary shall provide funds through those grants and agreements. In distributing the funds (relating to workforce and labor market information funding) for fiscal years 2015 through 2020, the Secretary shall continue to distribute the funds to States in the manner in which the Secretary distributed funds to the States under this section for fiscal years 2004 through 2008.*
-
-#### *"(2) Duties* ####
-
-*"The Secretary, with respect to data collection, analysis, and dissemination of workforce and labor market information for the system, shall carry out the following duties:*
-
-*"(A) Assign responsibilities within the Department of Labor for elements of the workforce and labor market information system described in subsection (a) to ensure that the statistical and administrative data collected is consistent with appropriate Bureau of Labor Statistics standards and definitions, and that the information is accessible and understandable to users of such data.*
-
-*"(B) Actively seek the cooperation of heads of other Federal agencies to establish and maintain mechanisms for ensuring complementarity and nonduplication in the development and operation of statistical and administrative data collection activities.*
-
-*"(C) Solicit, receive, and evaluate the recommendations from the Workforce Information Advisory Council established in subsection (d) concerning the evaluation and improvement of the workforce and labor market information system described in subsection (a) and respond in writing to the Council regarding the recommendations.*
-
-*"(D) Eliminate gaps and duplication in statistical undertakings.*
-
-*"(E) Through the Bureau of Labor Statistics and the Employment and Training Administration, and in collaboration with States, develop and maintain the elements of the workforce and labor market information system described in subsection (a), including the development of consistent procedures and definitions for use by the States in collecting the data and information described in subparagraphs (A) and (B) of subsection (a)(1).*
-
-*"(F) Establish procedures for the system to ensure that—*
-
-*"(i) such data and information are timely; and*
-
-*"(ii) paperwork and reporting for the system are reduced to a minimum.";*
-
-(4) by striking subsections (c) and (d) and inserting the following:
-
-#### *"(c) Two-year plan* ####
-
-*"The Secretary, acting through the Commissioner of Labor Statistics and the Assistant Secretary for Employment and Training, and in consultation with the Workforce Information Advisory Council described in subsection (d) and heads of other appropriate Federal agencies, shall prepare a 2-year plan for the workforce and labor market information system. The plan shall be developed and implemented in a manner that takes into account the activities described in State plans submitted by States under section 3112 or 3113 of this title and shall be submitted to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate. The plan shall include—*
-
-*"(1) a description of how the Secretary will work with the States to manage the nationwide workforce and labor market information system described in subsection (a) and the statewide workforce and labor market information systems that comprise the nationwide system;*
-
-*"(2) a description of the steps to be taken in the following 2 years to carry out the duties described in subsection (b)(2);*
-
-*"(3) an evaluation of the performance of the system, with particular attention to the improvements needed at the State and local levels;*
-
-*"(4) a description of the involvement of States in the development of the plan, through consultation by the Secretary with the Workforce Information Advisory Council in accordance with subsection (d); and*
-
-*"(5) a description of the written recommendations received from the Workforce Information Advisory Council established under subsection (d), and the extent to which those recommendations were incorporated into the plan.*
-
-#### *"(d) Workforce Information Advisory Council* ####
-
-#### *"(1) In general* ####
-
-*"The Secretary, through the Commissioner of Labor Statistics and the Assistant Secretary for Employment and Training, shall formally consult at least twice annually with the Workforce Information Advisory Council established in accordance with paragraph (2). Such consultations shall address the evaluation and improvement of the nationwide workforce and labor market information system described in subsection (a) and the statewide workforce and labor market information systems that comprise the nationwide system and how the Department of Labor and the States will cooperate in the management of such systems. The Council shall provide written recommendations to the Secretary concerning the evaluation and improvement of the nationwide system, including any recommendations regarding the 2-year plan described in subsection (c).*
-
-#### *"(2) Establishment of Council* ####
-
-#### *"(A) Establishment* ####
-
-*"The Secretary shall establish an advisory council that shall be known as the Workforce Information Advisory Council (referred to in this section as the 'Council') to participate in the consultations and provide the recommendations described in paragraph (1).*
-
-#### *"(B) Membership* ####
-
-*"The Secretary shall appoint the members of the Council, which shall consist of—*
-
-*"(i) 4 members who are representatives of lead State agencies with responsibility for workforce investment activities, or State agencies described in section 49c of this title, who have been nominated by such agencies or by a national organization that represents such agencies;*
-
-*"(ii) 4 members who are representatives of the State workforce and labor market information directors affiliated with the State agencies that perform the duties described in subsection (e)(2), who have been nominated by the directors;*
-
-*"(iii) 1 member who is a representative of providers of training services under section 3152 of this title;*
-
-*"(iv) 1 member who is a representative of economic development entities;*
-
-*"(v) 1 member who is a representative of businesses, who has been nominated by national business organizations or trade associations;*
-
-*"(vi) 1 member who is a representative of labor organizations, who has been nominated by a national labor federation;*
-
-*"(vii) 1 member who is a representative of local workforce development boards, who has been nominated by a national organization representing such boards; and*
-
-*"(viii) 1 member who is a representative of research entities that utilize workforce and labor market information.*
-
-#### *"(C) Geographic diversity* ####
-
-*"The Secretary shall ensure that the membership of the Council is geographically diverse and that no 2 of the members appointed under clauses (i), (ii), and (vii) represent the same State.*
-
-#### *"(D) Period of appointment; vacancies* ####
-
-#### *"(i) In general* ####
-
-*"Each member of the Council shall be appointed for a term of 3 years, except that the initial terms for members may be 1, 2, or 3 years in order to establish a rotation in which one-third of the members are selected each year. Any such member may be appointed for not more than 2 consecutive terms.*
-
-#### *"(ii) Vacancies* ####
-
-*"Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member's term until a successor has taken office.*
-
-#### *"(E) Travel expenses* ####
-
-*"The members of the Council shall not receive compensation for the performance of services for the Council, but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Council. Notwithstanding section 1342 of title 31, the Secretary may accept the voluntary and uncompensated services of members of the Council.*
-
-#### *"(F) Permanent Council* ####
-
-*"Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.";*
-
-(5) in subsection (e):
-
-(A) by striking "employment statistics" each place it appears and inserting "workforce and labor market information";
-
-(B) in paragraph (1)(A), by striking "annual plan" and inserting "plan described in subsection (c)"; and
-
-(C) in paragraph (2):
-
-(i) in subparagraph (I), by striking "section 136(f)(2) of the Workforce Investment Act of 1998" and inserting "section 3141(i)(2) of this title"; and
-
-(ii) by inserting "and" at the end of subparagraph (G), striking subparagraph (H), and redesignating subparagraph (I) as subparagraph (H); and
-
-(6) in subsection (g), by striking "such sums as may be necessary for each of the fiscal years 1999 through 2004" and inserting "$60,153,000 for fiscal year 2015, $64,799,000 for fiscal year 2016, $66,144,000 for fiscal year 2017, $67,611,000 for fiscal year 2018, $69,200,000 for fiscal year 2019, and $70,667,000 for fiscal year 2020".
-
-See 2014 Amendment notes below.
-
 #### References in Text ####
 
 Section 134(d), referred to in subsec. (a)(1)(B)(iii), probably means section 134(d) of the Workforce Investment Act of 1998, Pub. L. 105–220, which is classified to section 2864(d) of this title. The Wagner-Peyser Act, of which this section is a part, does not contain a section 134.
 
-The Workforce Investment Act of 1998, referred to in subsec. (d)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(2)(F), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (f), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
 
@@ -352,7 +274,7 @@ Subsec. (e)(2)(G). Pub. L. 105–277, §101(f) [title VIII, §403(a)(1)(B)], and
 
 #### Effective Date of 2014 Amendment ####
 
-Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
+Amendment by Pub. L. 113–128 effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as an Effective Date note under section 3101 of this title.
 
 #### Effective Date of 1998 Amendments ####
 
@@ -362,6 +284,6 @@ Pub. L. 105–277, div. A, §101(f) [title VIII, §403(a)(2)], Oct. 21, 1998, 11
 
 #### Effective Date ####
 
-Section effective July 1, 1999, see section 311 of Pub. L. 105–220, set out as an Effective Date of 1998 Amendment note under section 49a of this title.
+Section effective July 1, 1999, see section 311 of Pub. L. 105–220, formerly set out as an Effective Date of 1998 Amendment note under section 49a of this title.
 
 [<sup>1</sup> See References in Text note below.](#49l-2_1)

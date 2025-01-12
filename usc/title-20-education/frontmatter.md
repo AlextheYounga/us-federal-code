@@ -159,7 +159,7 @@ Chap. Sec.
 
 72. Museum and Library Services 9101
 
-73. Adult Education and Literacy 9201
+73. Adult Education and Literacy [Repealed] 9201
 
 74. Troops-to-Teachers Program 9301
 

@@ -4,17 +4,15 @@ Section 1501, Pub. L. 97–300, §2, Oct. 13, 1982, 96 Stat. 1324; Pub. L. 102�
 
 Section 1502, Pub. L. 97–300, §3, Oct. 13, 1982, 96 Stat. 1324; Pub. L. 100–418, title VI, §6303, Aug. 23, 1988, 102 Stat. 1538; Pub. L. 100–628, title VII, §714(d), Nov. 7, 1988, 102 Stat. 3256; Pub. L. 101–549, title XI, §1101(b)(2), Nov. 15, 1990, 104 Stat. 2712; Pub. L. 102–367, title I, §102(a), Sept. 7, 1992, 106 Stat. 1023, authorized appropriations.
 
-Section 1503, Pub. L. 97–300, §4, Oct. 13, 1982, 96 Stat. 1325; Pub. L. 98–524, §4(a)(1), Oct. 19, 1984, 98 Stat. 2487; Pub. L. 99–159, title VII, §713(b)(1), Nov. 22, 1985, 99 Stat. 907; Pub. L. 99–496, §§14(b)(1), 15(a), Oct. 16, 1986, 100 Stat. 1265; Pub. L. 100–77, title VII, §740(a), July 22, 1987, 101 Stat. 531; Pub. L. 102–54, §13(k)(2)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–235, §3, Dec. 12, 1991, 105 Stat. 1807; Pub. L. 102–367, title I, §103(a), (b)(1), title VII, §702(a)(1)–(3), Sept. 7, 1992, 106 Stat. 1024, 1026, 1111, 1112; Pub. L. 103–382, title III, §391(n)(1), Oct. 20, 1994, 108 Stat. 4023; Pub. L. 104–193, title I, §110(n)(1), Aug. 22, 1996, 110 Stat. 2174, defined terms used in this chapter. See section 2801 of this title.
+Section 1503, Pub. L. 97–300, §4, Oct. 13, 1982, 96 Stat. 1325; Pub. L. 98–524, §4(a)(1), Oct. 19, 1984, 98 Stat. 2487; Pub. L. 99–159, title VII, §713(b)(1), Nov. 22, 1985, 99 Stat. 907; Pub. L. 99–496, §§14(b)(1), 15(a), Oct. 16, 1986, 100 Stat. 1265; Pub. L. 100–77, title VII, §740(a), July 22, 1987, 101 Stat. 531; Pub. L. 102–54, §13(k)(2)(A), June 13, 1991, 105 Stat. 276; Pub. L. 102–235, §3, Dec. 12, 1991, 105 Stat. 1807; Pub. L. 102–367, title I, §103(a), (b)(1), title VII, §702(a)(1)–(3), Sept. 7, 1992, 106 Stat. 1024, 1026, 1111, 1112; Pub. L. 103–382, title III, §391(n)(1), Oct. 20, 1994, 108 Stat. 4023; Pub. L. 104–193, title I, §110(n)(1), Aug. 22, 1996, 110 Stat. 2174, defined terms used in this chapter.
 
-Section 1504, Pub. L. 97–300, title VI, §604, formerly title V, §504, Oct. 13, 1982, 96 Stat. 1399; renumbered title VI, §604, Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248, related to enforcement of Military Selective Service Act. See section 2939 of this title.
+Section 1504, Pub. L. 97–300, title VI, §604, formerly title V, §504, Oct. 13, 1982, 96 Stat. 1399; renumbered title VI, §604, Pub. L. 100–628, title VII, §712(a)(1), (2), Nov. 7, 1988, 102 Stat. 3248, related to enforcement of Military Selective Service Act.
 
 Section 1505, Pub. L. 97–300, title VI, §605, formerly title V, §505, as added Pub. L. 100–418, title VI, §6307(a), Aug. 23, 1988, 102 Stat. 1541; renumbered title VI, §505, Pub. L. 100–628, title VII, §712(a)(1), Nov. 7, 1988, 102 Stat. 3248; renumbered §605, Pub. L. 102–367, title VII, §702(a)(20), Sept. 7, 1992, 106 Stat. 1113, related to State job bank systems.
 
 #### Effective Date of Repeal ####
 
-Pub. L. 105–220, title I, §199(c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, provided that: "The repeal made by subsection (b)(2) [repealing this chapter and provisions set out as a note under section 801 of this title] shall take effect on July 1, 2000."
-
-*[Pub. L. 113–128, title V, §§506, 511(a), July 22, 2014, 128 Stat. 1703, 1705, provided that, effective on the first day of the first full program year after July 22, 2014 [probably July 1, 2015], section 199(c)(2)(B) of Pub. L. 105–220, set out above, is repealed.]*
+Pub. L. 105–220, title I, §199(c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, which provided that the repeal made by subsection (b)(2) [repealing this chapter and provisions set out as a note under section 801 of this title] would take effect on July 1, 2000, was repealed by Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705.
 
 #### Short Title of 1992 Amendment ####
 

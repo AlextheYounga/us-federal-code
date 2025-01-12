@@ -66,7 +66,7 @@ Any successor designated under paragraph (2)(A) as a result of the requirements 
 
 #### (c) Information considered confidential ####
 
-(1) All information reported to or otherwise obtained by the Commission which is not subject to the requirements of subsection (b) of this section shall be considered confidential when so marked by the person supplying the information and shall not be disclosed, except in accordance with the procedures established in paragraph (2) and paragraph (3).
+(1) All information reported to or otherwise obtained by the Commission which is not subject to the requirements of subsection (b) shall be considered confidential when so marked by the person supplying the information and shall not be disclosed, except in accordance with the procedures established in paragraph (2) and paragraph (3).
 
 (2) If the Commission determines that a document marked confidential by the person supplying it may be disclosed because it is not a trade secret or commercial or financial information which is obtained from any person and which is privileged or confidential, within the meaning of section 46(f) of this title, then the Commission shall notify such person in writing that the Commission intends to disclose the document at a date not less than 10 days after the date of receipt of notification.
 
@@ -74,7 +74,7 @@ Any successor designated under paragraph (2)(A) as a result of the requirements 
 
 #### (d) Particular disclosures allowed ####
 
-(1) The provisions of subsection (c) of this section shall not be construed to prohibit—
+(1) The provisions of subsection (c) shall not be construed to prohibit—
 
 (A) the disclosure of information to either House of the Congress or to any committee or subcommittee of the Congress, except that the Commission immediately shall notify the owner or provider of any such information of a request for information designated as confidential by the owner or provider;
 

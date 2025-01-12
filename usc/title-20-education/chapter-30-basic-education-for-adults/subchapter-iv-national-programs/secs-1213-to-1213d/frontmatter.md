@@ -6,7 +6,7 @@ Section 1213a, Pub. L. 89–750, title III, §382, as added Pub. L. 100–297, t
 
 Section 1213b, Pub. L. 89–750, title III, §383, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 318, related to State program analysis assistance and policy studies.
 
-Section 1213c, Pub. L. 89–750, title III, §384, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 319; amended Pub. L. 102–73, title I, §102(c), July 25, 1991, 105 Stat. 334; Pub. L. 103–382, title III, §335(b), Oct. 20, 1994, 108 Stat. 3966, related to national research activities and establishment of National Institute for Literacy. See section 9252 of this title.
+Section 1213c, Pub. L. 89–750, title III, §384, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 319; amended Pub. L. 102–73, title I, §102(c), July 25, 1991, 105 Stat. 334; Pub. L. 103–382, title III, §335(b), Oct. 20, 1994, 108 Stat. 3966, related to national research activities and establishment of National Institute for Literacy.
 
 Section 1213d, Pub. L. 89–750, title III, §385, as added Pub. L. 100–297, title II, §2102, Apr. 28, 1988, 102 Stat. 319, related to limitation on grants for sectarian instruction or religious worship or to a school or department of divinity.
 

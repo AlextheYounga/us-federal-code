@@ -1146,6 +1146,8 @@ Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub.
 
 #### Short Title of 2015 Amendment ####
 
+Pub. L. 114–26, §1, June 29, 2015, 129 Stat. 319, provided that: "This Act [see Tables for classification] may be cited as the 'Defending Public Safety Employees' Retirement Act'."
+
 Pub. L. 114–14, §1, May 22, 2015, 129 Stat. 198, provided that: "This Act [amending section 104 of this title] may be cited as the 'Don't Tax Our Fallen Public Safety Heroes Act'."
 
 #### Short Title of 2014 Amendment ####

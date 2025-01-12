@@ -2,11 +2,11 @@
 
 #### (a) Necessity of registration ####
 
-Except as provided in subsection (b) of this section and section 80b–3a of this title, it shall be unlawful for any investment adviser, unless registered under this section, to make use of the mails or any means or instrumentality of interstate commerce in connection with his or its business as an investment adviser.
+Except as provided in subsection (b) and section 80b–3a of this title, it shall be unlawful for any investment adviser, unless registered under this section, to make use of the mails or any means or instrumentality of interstate commerce in connection with his or its business as an investment adviser.
 
 #### (b) Investment advisers who need not be registered ####
 
-The provisions of subsection (a) of this section shall not apply to—
+The provisions of subsection (a) shall not apply to—
 
 (1) any investment adviser, other than an investment adviser who acts as an investment adviser to any private fund, all of whose clients are residents of the State within which such investment adviser maintains his or its principal office and place of business, and who does not furnish advice or issue analyses or reports with respect to securities listed or admitted to unlisted trading privileges on any national securities exchange;
 
@@ -122,7 +122,7 @@ The Commission, by order, shall censure, place limitations on the activities, fu
 
 #### (f) Bar or suspension from association with investment adviser; notice and hearing ####
 
-The Commission, by order, shall censure or place limitations on the activities of any person associated, seeking to become associated, or, at the time of the alleged misconduct, associated or seeking to become associated with an investment adviser, or suspend for a period not exceeding 12 months or bar any such person from being associated with an investment adviser, broker, dealer, municipal securities dealer, municipal advisor, transfer agent, or nationally recognized statistical rating organization, if the Commission finds, on the record after notice and opportunity for hearing, that such censure, placing of limitations, suspension, or bar is in the public interest and that such person has committed or omitted any act or omission enumerated in paragraph (1), (5), (6), (8), or (9) of subsection (e) of this section or has been convicted of any offense specified in paragraph (2) or (3) of subsection (e) of this section within ten years of the commencement of the proceedings under this subsection, or is enjoined from any action, conduct, or practice specified in paragraph (4) of subsection (e) of this section. It shall be unlawful for any person as to whom such an order suspending or barring him from being associated with an investment adviser is in effect willfully to become, or to be, associated with an investment adviser without the consent of the Commission, and it shall be unlawful for any investment adviser to permit such a person to become, or remain, a person associated with him without the consent of the Commission, if such investment adviser knew, or in the exercise of reasonable care, should have known, of such order.
+The Commission, by order, shall censure or place limitations on the activities of any person associated, seeking to become associated, or, at the time of the alleged misconduct, associated or seeking to become associated with an investment adviser, or suspend for a period not exceeding 12 months or bar any such person from being associated with an investment adviser, broker, dealer, municipal securities dealer, municipal advisor, transfer agent, or nationally recognized statistical rating organization, if the Commission finds, on the record after notice and opportunity for hearing, that such censure, placing of limitations, suspension, or bar is in the public interest and that such person has committed or omitted any act or omission enumerated in paragraph (1), (5), (6), (8), or (9) of subsection (e) or has been convicted of any offense specified in paragraph (2) or (3) of subsection (e) within ten years of the commencement of the proceedings under this subsection, or is enjoined from any action, conduct, or practice specified in paragraph (4) of subsection (e). It shall be unlawful for any person as to whom such an order suspending or barring him from being associated with an investment adviser is in effect willfully to become, or to be, associated with an investment adviser without the consent of the Commission, and it shall be unlawful for any investment adviser to permit such a person to become, or remain, a person associated with him without the consent of the Commission, if such investment adviser knew, or in the exercise of reasonable care, should have known, of such order.
 
 #### (g) Registration of successor to business of investment adviser ####
 
@@ -138,15 +138,15 @@ Any person registered under this section may, upon such terms and conditions as 
 
 #### (A) In general ####
 
-In any proceeding instituted pursuant to subsection (e) or (f) of this section against any person, the Commission may impose a civil penalty if it finds, on the record after notice and opportunity for hearing, that such penalty is in the public interest and that such person—
+In any proceeding instituted pursuant to subsection (e) or (f) against any person, the Commission may impose a civil penalty if it finds, on the record after notice and opportunity for hearing, that such penalty is in the public interest and that such person—
 
-(i) has willfully violated any provision of the Securities Act of 1933 [15 U.S.C. 77a et seq.], the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], subchapter I of this chapter, or this subchapter, or the rules or regulations thereunder;
+(i) has willfully violated any provision of the Securities Act of 1933 [15 U.S.C. 77a et seq.], the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.], the Investment Company Act of 1940 [15 U.S.C. 80a–1 et seq.], or this subchapter, or the rules or regulations thereunder;
 
 (ii) has willfully aided, abetted, counseled, commanded, induced, or procured such a violation by any other person;
 
 (iii) has willfully made or caused to be made in any application for registration or report required to be filed with the Commission under this subchapter, or in any proceeding before the Commission with respect to registration, any statement which was, at the time and in the light of the circumstances under which it was made, false or misleading with respect to any material fact, or has omitted to state in any such application or report any material fact which was required to be stated therein; or
 
-(iv) has failed reasonably to supervise, within the meaning of subsection (e)(6) of this section, with a view to preventing violations of the provisions of this subchapter and the rules and regulations thereunder, another person who commits such a violation, if such other person is subject to his supervision; <sup><a href="#80b-3_4_target" name="80b-3_4">4</a></sup>
+(iv) has failed reasonably to supervise, within the meaning of subsection (e)(6), with a view to preventing violations of the provisions of this subchapter and the rules and regulations thereunder, another person who commits such a violation, if such other person is subject to his supervision; <sup><a href="#80b-3_4_target" name="80b-3_4">4</a></sup>
 
 #### (B) Cease-and-desist proceedings ####
 
@@ -184,7 +184,7 @@ In considering under this section whether a penalty is in the public interest, t
 
 (C) the extent to which any person was unjustly enriched, taking into account any restitution made to persons injured by such behavior;
 
-(D) whether such person previously has been found by the Commission, another appropriate regulatory agency, or a self-regulatory organization to have violated the Federal securities laws, State securities laws, or the rules of a self-regulatory organization, has been enjoined by a court of competent jurisdiction from violations of such laws or rules, or has been convicted by a court of competent jurisdiction of violations of such laws or of any felony or misdemeanor described in subsection (e)(2) of this section;
+(D) whether such person previously has been found by the Commission, another appropriate regulatory agency, or a self-regulatory organization to have violated the Federal securities laws, State securities laws, or the rules of a self-regulatory organization, has been enjoined by a court of competent jurisdiction from violations of such laws or rules, or has been convicted by a court of competent jurisdiction of violations of such laws or of any felony or misdemeanor described in subsection (e)(2);
 
 (E) the need to deter such person and other persons from committing such acts or omissions; and
 
@@ -276,7 +276,7 @@ The Securities Act of 1933, referred to in subsecs. (e)(5), (6) and (i)(1)(A)(i)
 
 The Securities Exchange Act of 1934, referred to in subsecs. (e)(5), (6) and (i)(1)(A)(i), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (e)(5), (6), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (e)(5), (6) and (i)(1)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of this chapter. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 #### Amendments ####
 
@@ -314,7 +314,7 @@ Subsec. (f). Pub. L. 107–204, §604(c)(2), substituted "(8), or (9)" for "or (
 
 **1998**—Subsec. (e)(8)(B). Pub. L. 105–353 inserted "or" after semicolon at end.
 
-**1996**—Subsec. (a). Pub. L. 104–290, §303(d), which directed substitution of "subsection (b) of this section and section 80b–3a of this title" for "subsection (b) of this section", was executed by making the substitution for "subsection (b)" to reflect the probable intent of Congress.
+**1996**—Subsec. (a). Pub. L. 104–290, §303(d), which directed substitution of "subsection (b) and section 80b–3a of this title" for "subsection (b) of this section", was executed by making the substitution for "subsection (b)" to reflect the probable intent of Congress.
 
 Subsec. (b)(5). Pub. L. 104–290, §508(d), added par. (5).
 
@@ -328,11 +328,11 @@ Pub. L. 104–290, §305(a)(1), redesignated par. (5) as (6). Former par. (6) re
 
 Subsec. (e)(7), (8). Pub. L. 104–290, §305(a)(1), redesignated pars. (6) and (7) as (7) and (8), respectively.
 
-Subsec. (f). Pub. L. 104–290, §305(b)(2), substituted "paragraph (1), (5), (6), or (8) of subsection (e) of this section" for "paragraph (1), (4), (5), or (7) of subsection (e) of this section" and "paragraph (4)" for "paragraph (3)" and substituted "subsection (e)" for "said subsection (e)" in two places.
+Subsec. (f). Pub. L. 104–290, §305(b)(2), substituted "paragraph (1), (5), (6), or (8) of subsection (e)" for "paragraph (1), (4), (5), or (7) of subsection (e) of this section" and "paragraph (4)" for "paragraph (3)" and substituted "subsection (e)" for "said subsection (e)" in two places.
 
 Subsec. (h). Pub. L. 104–290, §303(b)(2), substituted "existence," for "existence or" and inserted "or is prohibited from registering as an investment adviser under section 80b–3a of this title," after "investment adviser,".
 
-Subsec. (i)(1)(D). Pub. L. 104–290, §305(b)(3), substituted "subsection (e)(6) of this section" for "subsection (e)(5) of this section".
+Subsec. (i)(1)(D). Pub. L. 104–290, §305(b)(3), substituted "subsection (e)(6)" for "subsection (e)(5)".
 
 **1995**—Subsec. (b)(4). Pub. L. 104–62 added par. (4).
 
