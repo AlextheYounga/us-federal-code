@@ -32,7 +32,7 @@ The exclusions in subsection (a) shall not apply to an identified bank product t
 
 #### References in Text ####
 
-The Commodity Exchange Act, referred to in subsecs. (a)(1), (b)(2), and (c)(3), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 1 of this title and Tables.
+The Commodity Exchange Act, referred to in subsecs. (a)(1), (b)(2), and (c)(3), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 1 of this title and Tables.
 
 The Securities Act of 1933, referred to in subsecs. (b)(2) and (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 

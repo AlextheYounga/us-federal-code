@@ -24,9 +24,9 @@ A determination by the Secretary under this section shall not be subject to judi
 
 #### References in Text ####
 
-The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
-The Tobacco Inspection Act, referred to in par. (2)(B), is act Aug. 23, 1935, ch. 623, 49 Stat. 731, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 511q of this title and Tables.
+The Tobacco Inspection Act, referred to in par. (2)(B), is act Aug. 23, 1935, ch. 623, 49 Stat. 731, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 511q of this title and Tables.
 
 #### Codification ####
 

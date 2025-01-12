@@ -30,7 +30,7 @@ Notwithstanding any other provision of law, the State of Alabama shall be a full
 
 #### References in Text ####
 
-The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Congress, as introduced on Sept. 27, 1988, and incorporated by reference by, and made a part of, Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended. Section 4 of the Delta Development Act, which was set out in a note under section 3121 of Title 42, The Public Health and Welfare, was omitted from the Code. See Lower Mississippi Delta Development Commission note under section 3121 of Title 42 and Tables.
+The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Congress, as introduced on Sept. 27, 1988, and incorporated by reference by, and made a part of, Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246. Section 4 of the Delta Development Act, which was set out in a note under section 3121 of Title 42, The Public Health and Welfare, was omitted from the Code. See Lower Mississippi Delta Development Commission note under section 3121 of Title 42 and Tables.
 
 #### Amendments ####
 

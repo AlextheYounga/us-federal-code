@@ -178,11 +178,11 @@ Section 12(e) of this title, referred to in subsec. (c)(1)(A)(i)(I), was in the 
 
 The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (c)(1)(A)(ii), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Section 721(c) of the Act is classified to section 8321(b) of Title 15, Commerce and Trade. Section 742 of the Act amended section 2 of this title and provisions set out as a note under section 78c of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 12, Banks and Banking, and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (c)(3)(D), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in subsec. (c)(3)(D), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
-The Investment Advisers Act of 1940, referred to in subsec. (c)(3)(G), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
+The Investment Advisers Act of 1940, referred to in subsec. (c)(3)(G), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (c)(3)(I), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (c)(3)(I), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
 #### Amendments ####
 

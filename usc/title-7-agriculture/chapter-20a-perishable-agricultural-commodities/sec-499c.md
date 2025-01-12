@@ -46,7 +46,7 @@ A licensee may conduct business in more than one trade name or change the name u
 
 #### References in Text ####
 
-The Act to prevent the destruction or dumping of farm produce, approved March 3, 1927, referred to in subsec. (b)(2), (5), is act Mar. 3, 1927, ch. 309, 44 Stat. 1355, as amended, which is classified generally to chapter 20 (§491 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Act to prevent the destruction or dumping of farm produce, approved March 3, 1927, referred to in subsec. (b)(2), (5), is act Mar. 3, 1927, ch. 309, 44 Stat. 1355, which is classified generally to chapter 20 (§491 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification ####
 

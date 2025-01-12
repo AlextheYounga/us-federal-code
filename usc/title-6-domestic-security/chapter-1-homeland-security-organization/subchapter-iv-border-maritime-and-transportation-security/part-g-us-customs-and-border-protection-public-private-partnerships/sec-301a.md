@@ -162,7 +162,7 @@ Except as provided in subsections (a) and (b) regarding the acceptance of donati
 
 #### (B) Certification requirement ####
 
-Before accepting any donations pursuant to an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection shall certify to the congressional committees set forth in paragraph (7) that <sup><a href="#301a_1_target" name="301a_1">1</a></sup>
+Before accepting any donations pursuant to an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection shall certify to the congressional committees set forth in paragraph (7) that <sup><a href="#301a_2_target" name="301a_2">2</a></sup>
 
 (i) the donation will not be used for the construction of a detention facility or a border fence or wall; and
 
@@ -194,7 +194,7 @@ The Commissioner of U.S. Customs and Border Protection, in collaboration with th
 
 #### (d) GAO report ####
 
-The Comptroller General of the United States shall submit an biennial report to the congressional committees referred to in subsection (c)(7) that evaluates—
+The Comptroller General of the United States shall submit an <sup><a href="#301a_3_target" name="301a_3">3</a></sup> biennial report to the congressional committees referred to in subsection (c)(7) that evaluates—
 
 (1) fee agreements entered into pursuant to section 301 of this title;
 
@@ -224,7 +224,7 @@ Subsec. (a)(1)(C)(ii). Pub. L. 117–81, §6410(1)(A)(ii)(III), amended cl. (ii)
 
 Subsec. (a)(3). Pub. L. 117–81, §6410(1)(B), inserted "or -leased" before "land" in introductory provisions.
 
-Subsec. (b). Pub. L. 117–81, §6410(2)(A), which directed substitution of "Administrator of General Services" for "Administrator of the General Services Administration" in the matter preceding par. (1), was executed in par. (1) to reflect the probable intent of Congress.
+Subsec. (b)(1). Pub. L. 117–81, §6410(2)(A), which directed substitution of "Administrator of General Services" for "Administrator of the General Services Administration" in the matter preceding par. (1), was executed in par. (1) to reflect the probable intent of Congress.
 
 Subsec. (b)(1)(C)(i). Pub. L. 117–81, §6410(2)(B)(i), substituted "$75,000,000" for "$50,000,000".
 
@@ -234,7 +234,7 @@ Subsec. (b)(4)(A). Pub. L. 117–81, §6410(2)(C)(i), substituted "terminate on 
 
 Subsec. (b)(4)(B). Pub. L. 117–81, §6410(2)(C)(ii), substituted "a proposal accepted for consideration by U.S. Customs and Border Protection or the General Services Administration pursuant to this section or a prior pilot program prior to such termination date" for "carrying out the terms of an agreement under this subsection if such agreement is entered into before such termination date".
 
-Subsec. (c)(6)(B). Pub. L. 117–81, §6410(3), substituted cls. (i) and (ii) for "the donation will not be used for the construction of a detention facility or a border fence or wall.".
+Subsec. (c)(6)(B). Pub. L. 117–81, §6410(3), substituted cls. (i) and (ii) for "the donation will not be used for the construction of a detention facility or a border fence or wall."
 
 Subsec. (d). Pub. L. 117–81, §6401(4), substituted "biennial" for "annual" in introductory provisions.
 
@@ -243,3 +243,7 @@ Subsec. (e). Pub. L. 117–81, §6410(d), substituted "Administrator of General 
 **2020**—Subsec. (b)(4)(A). Pub. L. 116–260, which directed substitution of "December 16, 2021" for "4 years after December 16, 2016", was executed by making the substitution for original text reading "4 years after the date of the enactment of this section", which had been translated as "4 years after December 16, 2016", to reflect the probable intent of Congress.
 
 [<sup>1</sup> So in original.](#301a_1)
+
+[<sup>2</sup> So in original. Probably should be followed by a dash.](#301a_2)
+
+[<sup>3</sup> So in original. Probably should be "a".](#301a_3)

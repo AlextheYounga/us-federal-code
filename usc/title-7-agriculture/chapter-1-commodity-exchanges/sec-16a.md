@@ -32,7 +32,7 @@ Nothing in this section shall limit the authority of the Commission to promulgat
 
 #### References in Text ####
 
-The Commodity Exchange Act, referred to in subsec. (c), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables.
+The Commodity Exchange Act, referred to in subsec. (c), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables.
 
 #### Codification ####
 

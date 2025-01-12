@@ -310,7 +310,7 @@ For the purpose of ascertaining whether the issuance of an order is approved or 
 
 #### References in Text ####
 
-The Naval Stores Act, referred to in subsec. (2)(A), is act Mar. 3, 1923, ch. 217, 42 Stat. 1435, as amended, which is classified generally to chapter 4 (§91 et seq.) of this title. For complete classification of this Act to the Code, see section 91 of this title and Tables.
+The Naval Stores Act, referred to in subsec. (2)(A), is act Mar. 3, 1923, ch. 217, 42 Stat. 1435, which is classified generally to chapter 4 (§91 et seq.) of this title. For complete classification of this Act to the Code, see section 91 of this title and Tables.
 
 For the effective date of this sentence, referred to in subsec. (5)(A), see section 1403(b) of Pub. L. 115–334, set out as an Effective Date of 2018 Amendment note below.
 

@@ -54,10 +54,14 @@ The term "information system" has the meaning given such term in section 1501(9)
 
 The authority to carry out a program under this section shall terminate on the date that is seven years after December 27, 2021.
 
-(Pub. L. 107–296, title XXII, §2220C, as added Pub. L. 117–81, div. A, title XV, §1548(a), Dec. 27, 2021, 135 Stat. 2062.)
+(Pub. L. 107–296, title XXII, §2220C, as added Pub. L. 117–81, div. A, title XV, §1548(a), Dec. 27, 2021, 135 Stat. 2061.)
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
 
 Section 1501 of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (b)(5), is section 1501 of Pub. L. 117–81, div. A, title XV, Dec. 27, 2021, 135 Stat. 2020, related to development of taxonomy of cyber capabilities, which is not classified to the Code.
+
+#### Codification ####
+
+Section 1548(a) of Pub. L. 117–81, which directed that this section be added at the end of title XXII of the Homeland Security Act of 2002, was executed by adding this section at the end of subtitle A of title XXII of that Act, to reflect the probable intent of Congress.

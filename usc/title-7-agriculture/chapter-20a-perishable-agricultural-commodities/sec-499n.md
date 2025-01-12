@@ -14,7 +14,7 @@ Whoever shall falsely make, issue, alter, forge, or counterfeit, or cause or pro
 
 #### References in Text ####
 
-The Commodities Exchange Act, referred to in subsec. (a), probably means act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, known as the Commodity Exchange Act, which is classified generally to chapter 1 (§1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables.
+The Commodities Exchange Act, referred to in subsec. (a), probably means act Sept. 21, 1922, ch. 369, 42 Stat. 998, known as the Commodity Exchange Act, which is classified generally to chapter 1 (§1 et seq.) of this title. For complete classification of this Act to the Code, see section 1 of this title and Tables.
 
 #### Codification ####
 

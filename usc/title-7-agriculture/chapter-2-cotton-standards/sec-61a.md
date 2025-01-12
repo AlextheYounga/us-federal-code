@@ -8,11 +8,11 @@ The Secretary of Agriculture shall hold annual meetings with representatives of 
 
 #### References in Text ####
 
-The Cotton Standards Act, referred to in text, probably meaning the United States Cotton Standards Act, is act Mar. 4, 1923, ch. 288, 42 Stat. 1517, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 51 of this title and Tables.
+The Cotton Standards Act, referred to in text, probably meaning the United States Cotton Standards Act, is act Mar. 4, 1923, ch. 288, 42 Stat. 1517, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 51 of this title and Tables.
 
-The Cotton Statistics and Estimates Act, referred to in text, is act Mar. 3, 1927, ch. 337, 44 Stat. 1372, as amended, which is classified generally to chapter 19 (§471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 471 of this title and Tables.
+The Cotton Statistics and Estimates Act, referred to in text, is act Mar. 3, 1927, ch. 337, 44 Stat. 1372, which is classified generally to chapter 19 (§471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 471 of this title and Tables.
 
-The United States Warehouse Act, referred to in text, is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, as amended, which is classified generally to chapter 10 (§241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
+The United States Warehouse Act, referred to in text, is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, which is classified generally to chapter 10 (§241 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 241 of this title and Tables.
 
 #### Codification ####
 

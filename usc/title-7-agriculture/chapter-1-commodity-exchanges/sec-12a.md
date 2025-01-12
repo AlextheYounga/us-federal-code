@@ -110,21 +110,21 @@ The Commission is authorized—
 
 #### References in Text ####
 
-The Securities Act of 1933, referred to in pars. (2)(E) and (3)(B), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in pars. (2)(E) and (3)(B), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
-The Securities Exchange Act of 1934, referred to in pars. (2)(E) and (3)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
+The Securities Exchange Act of 1934, referred to in pars. (2)(E) and (3)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§78a et seq.) of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 
-The Public Utility Holding Company Act of 1935, referred to in pars. (2)(E) and (3)(B), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+The Public Utility Holding Company Act of 1935, referred to in pars. (2)(E) and (3)(B), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
-The Trust Indenture Act of 1939, referred to in pars. (2)(E) and (3)(B), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of Title 15. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
+The Trust Indenture Act of 1939, referred to in pars. (2)(E) and (3)(B), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, which is classified generally to subchapter III (§77aaa et seq.) of chapter 2A of Title 15. For complete classification of this Act to the Code, see section 77aaa of Title 15 and Tables.
 
-The Investment Advisers Act of 1940, referred to in pars. (2)(E) and (3)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
+The Investment Advisers Act of 1940, referred to in pars. (2)(E) and (3)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§80b–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80b–20 of Title 15 and Tables.
 
-The Investment Company Act of 1940, referred to in pars. (2)(E) and (3)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
+The Investment Company Act of 1940, referred to in pars. (2)(E) and (3)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see section 80a–51 of Title 15 and Tables.
 
-The Securities Investor Protection Act of 1970, referred to in pars. (2)(E) and (3)(B), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
+The Securities Investor Protection Act of 1970, referred to in pars. (2)(E) and (3)(B), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§78aaa et seq.) of Title 15. For complete classification of this Act to the Code, see section 78aaa of Title 15 and Tables.
 
-The Foreign Corrupt Practices Act of 1977, referred to in pars. (2)(E) and (3)(B), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, as amended, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 78a of Title 15 and Tables.
+The Foreign Corrupt Practices Act of 1977, referred to in pars. (2)(E) and (3)(B), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 78a of Title 15 and Tables.
 
 #### Amendments ####
 

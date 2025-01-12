@@ -50,7 +50,7 @@ Sec.
 
 #### Part B—Miscellaneous ####
 
-18761. Clean energy demonstration program on current and former mine land
+18761. Clean energy demonstration program on current and former mine land.
 
 #### SUBCHAPTER IV—ENERGY INFORMATION ADMINISTRATION ####
 
@@ -90,9 +90,9 @@ Sec.
 
 18811. Definitions.
 
-18812. Leveraging Existing Agency Programs To Assist Small and Medium Manufacturers.
+18812. Leveraging existing agency programs to assist small and medium manufacturers.
 
-18813. Leveraging Smart Manufacturing Infrastructure at National Laboratories.
+18813. Leveraging smart manufacturing infrastructure at National Laboratories.
 
 18814. State manufacturing leadership.
 
@@ -116,4 +116,4 @@ Sec.
 
 #### SUBCHAPTER VII—MISCELLANEOUS ####
 
-18861. Office of clean energy demonstrations.
+18861. Office of Clean Energy Demonstrations.

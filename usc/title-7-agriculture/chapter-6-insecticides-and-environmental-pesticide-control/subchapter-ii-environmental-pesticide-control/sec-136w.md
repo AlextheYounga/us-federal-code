@@ -76,7 +76,7 @@ The Poison Prevention Packaging Act, referred to in subsec. (c)(3), probably mea
 
 References in subsec. (c)(4) to "section 136(q)(1)" was, in the original, a reference to "paragraph 2(q)(1)" and has been editorially translated as "section 136(q)(1)" as the probable intent of Congress.
 
-The Environmental Research, Development, and Demonstration Authorization Act of 1978, referred to in subsec. (d), is Pub. L. 95–155, Nov. 8, 1977, 91 Stat. 1257, as amended. Provisions of the Act establishing the Science Advisory Board are classified to section 4365 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
+The Environmental Research, Development, and Demonstration Authorization Act of 1978, referred to in subsec. (d), is Pub. L. 95–155, Nov. 8, 1977, 91 Stat. 1257. Provisions of the Act establishing the Science Advisory Board are classified to section 4365 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments ####
 

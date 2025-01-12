@@ -8,7 +8,7 @@ The Secretary of Agriculture is authorized to establish from time to time standa
 
 #### References in Text ####
 
-The United States Cotton Futures Act, referred to in text, is part A of act Aug. 11, 1916, ch. 313, 39 Stat. 476, as amended, which was repealed by section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1. For complete classification of this Act to the Code prior to its repeal, see Tables.
+The United States Cotton Futures Act, referred to in text, is part A of act Aug. 11, 1916, ch. 313, 39 Stat. 476, which was repealed by section 4 of act Feb. 10, 1939, ch. 2, 53 Stat. 1. For complete classification of this Act to the Code prior to its repeal, see Tables.
 
 #### Codification ####
 

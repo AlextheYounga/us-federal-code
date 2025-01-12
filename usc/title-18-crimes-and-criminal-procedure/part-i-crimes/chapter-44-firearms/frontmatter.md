@@ -38,11 +38,19 @@ Sec.
 
 931. Prohibition on purchase, ownership, or possession of body armor by violent felons.
 
+932. Straw purchasing of firearms.
+
+933. Trafficking in firearms.
+
+934. Forfeiture and fines.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
 
-**2022**—Pub. L. 117–103, div. W, title XI, §§1101(d), 1102(b), 1103(b), Mar. 15, 2022, 136 Stat. 920, 921, added items 925B to 925D.
+**2022**—Pub. L. 117–159, div. A, title II, §12004(a)(6), June 25, 2022, 136 Stat. 1329, added items 932 to 934.
+
+Pub. L. 117–103, div. W, title XI, §§1101(d), 1102(b), 1103(b), Mar. 15, 2022, 136 Stat. 920, 921, added items 925B to 925D.
 
 **2004**—Pub. L. 108–277, §§2(b), 3(b), July 22, 2004, 118 Stat. 866, 867, added items 926B and 926C.
 

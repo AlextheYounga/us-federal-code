@@ -14,7 +14,7 @@ Sections 27 to 27f of this title shall supersede and preempt the application of 
 
 #### References in Text ####
 
-The Commodity Exchange Act, referred to in subsec. (a), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 1 of this title and Tables.
+The Commodity Exchange Act, referred to in subsec. (a), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to this chapter. For complete classification of this Act to the Code, see section 1 of this title and Tables.
 
 #### Codification ####
 

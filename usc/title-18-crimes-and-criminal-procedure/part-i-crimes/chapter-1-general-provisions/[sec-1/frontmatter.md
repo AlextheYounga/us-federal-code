@@ -10,6 +10,8 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2022 Amendment ####
 
+Pub. L. 117–159, §3(a), June 25, 2022, 136 Stat. 1313, provided that: "This Act [see Tables for classification] may be cited as the 'Bipartisan Safer Communities Act'."
+
 Pub. L. 117–107, §1, Mar. 29, 2022, 136 Stat. 1125, provided that: "This Act [amending section 249 of this title] may be cited as the 'Emmett Till Antilynching Act'."
 
 Pub. L. 117–103, div. W, title X, §1001(a), Mar. 15, 2022, 136 Stat. 912, provided that: "This section [enacting section 4051 of this title, amending section 3621 of this title, and enacting provisions set out as a note under section 3621 of this title] may be cited as the 'Ramona Brant Improvement of Conditions for Women in Federal Custody Act'."

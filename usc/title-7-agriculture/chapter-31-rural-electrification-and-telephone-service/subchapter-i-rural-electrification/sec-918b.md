@@ -8,7 +8,7 @@ On and after November 28, 2001, notwithstanding any other provision of law, the 
 
 #### References in Text ####
 
-The Rural Electrification Act of 1936, referred to in text, is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to this chapter (§901 et seq.). For complete classification of this Act to the Code, see section 901 of this title and Tables.
+The Rural Electrification Act of 1936, referred to in text, is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to this chapter (§901 et seq.). For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
 #### Codification ####
 
