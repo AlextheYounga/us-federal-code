@@ -58,9 +58,9 @@ Sec.
 
 1076c. Dental insurance plan: certain retirees and their surviving spouses and other dependents.
 
-1076d. TRICARE program: TRICARE Standard coverage for members of the Selected Reserve.
+1076d. TRICARE program: TRICARE Reserve Select coverage for members of the Selected Reserve.
 
-1076e. TRICARE program: TRICARE Standard coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60.
+1076e. TRICARE program: TRICARE Retired Reserve coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60.
 
 1076f. TRICARE program: extension of coverage for certain members of the National Guard and dependents during certain disaster response duty.
 
@@ -76,7 +76,7 @@ Sec.
 
 1079. Contracts for medical care for spouses and children: plans.
 
-1079a. CHAMPUS: treatment of refunds and other amounts collected.
+1079a. TRICARE program: treatment of refunds and other amounts collected.
 
 1079b. Procedures for charging fees for care provided to civilians; retention and use of fees collected.
 
@@ -134,7 +134,7 @@ Sec.
 
 1095e. TRICARE program: beneficiary counseling and assistance coordinators.
 
-1095f. TRICARE program: referrals for specialty health care.
+1095f. TRICARE program: referrals and preauthorizations under TRICARE Prime.
 
 1095g. TRICARE program: waiver of recoupment of erroneous payments caused by administrative error.
 
@@ -182,19 +182,9 @@ Sec.
 
 1110b. TRICARE program: extension of dependent coverage.
 
-#### Amendment of Analysis ####
+#### Applicability of Amendment ####
 
-Pub. L. 114–328, div. A, title VII, §701(j)(2), (k), Dec. 23, 2016, 130 Stat. 2192, 2193, provided that, applicable with respect to the provision of health care under the TRICARE program beginning on Jan. 1, 2018, this analysis is amended as follows:
-
-(1) in the item relating to section 1076d, by striking "TRICARE Standard" and inserting "TRICARE Reserve Select";
-
-(2) in the item relating to section 1076e, by striking "TRICARE Standard" and inserting "TRICARE Retired Reserve";
-
-(3) in the item relating to section 1079a, by striking "CHAMPUS" and inserting "TRICARE program"; and
-
-(4) in the item relating to section 1095f, by striking "for specialty health care" and inserting "and preauthorizations under TRICARE Prime".
-
-See 2016 Amendment note below.
+Amendment of analysis by section 701(a)(2), (b)(2), (j)(2) of Pub. L. 114–328 applicable with respect to the first contract year for chapter 89A or 89B of this title, as applicable, that begins on or after Jan. 1, 2018. See 2016 Amendment note below.
 
 #### Amendments ####
 

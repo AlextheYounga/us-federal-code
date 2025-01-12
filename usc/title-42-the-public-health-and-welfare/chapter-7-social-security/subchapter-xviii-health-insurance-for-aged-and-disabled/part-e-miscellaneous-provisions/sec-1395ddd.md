@@ -328,37 +328,35 @@ Not later than 180 days after the end of each fiscal year (beginning with fiscal
 
 (B) the effectiveness of the use of such funds.
 
+#### (j) Expanding activities of Medicare drug integrity contractors (MEDICs) ####
+
+#### (1) Access to information ####
+
+Under contracts entered into under this section with Medicare drug integrity contractors (including any successor entity to a Medicare drug integrity contractor), the Secretary shall authorize such contractors to directly accept prescription and necessary medical records from entities such as pharmacies, prescription drug plans, MA–PD plans, and physicians with respect to an individual in order for such contractors to provide information relevant to the determination of whether such individual is an at-risk beneficiary for prescription drug abuse, as defined in section 1395w–104(c)(5)(C) of this title.
+
+#### (2) Requirement for acknowledgment of referrals ####
+
+If a PDP sponsor or MA organization refers information to a contractor described in paragraph (1) in order for such contractor to assist in the determination described in such paragraph, the contractor shall—
+
+(A) acknowledge to the sponsor or organization receipt of the referral; and
+
+(B) in the case that any PDP sponsor or MA organization contacts the contractor requesting to know the determination by the contractor of whether or not an individual has been determined to be an individual described in such paragraph, shall <sup><a href="#1395ddd_2_target" name="1395ddd_2">2</a></sup> inform such sponsor or organization of such determination on a date that is not later than 15 days after the date on which the sponsor or organization contacts the contractor.
+
+#### (3) Making data available to other entities ####
+
+#### (A) In general ####
+
+For purposes of carrying out this subsection, subject to subparagraph (B), the Secretary shall authorize MEDICs to respond to requests for information from PDP sponsors and MA organizations, State prescription drug monitoring programs, and other entities delegated by such sponsors or organizations using available programs and systems in the effort to prevent fraud, waste, and abuse.
+
+#### (B) HIPAA compliant information only ####
+
+Information may only be disclosed by a MEDIC under subparagraph (A) if the disclosure of such information is permitted under the Federal regulations (concerning the privacy of individually identifiable health information) promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).
+
 (Aug. 14, 1935, ch. 531, title XVIII, §1893, as added Pub. L. 104–191, title II, §202(a), Aug. 21, 1996, 110 Stat. 1996; amended Pub. L. 108–173, title VII, §736(c)(7), title IX, §935(a), Dec. 8, 2003, 117 Stat. 2356, 2407; Pub. L. 109–171, title VI, §6034(d)(1), Feb. 8, 2006, 120 Stat. 77; Pub. L. 109–432, div. B, title III, §302(a), Dec. 20, 2006, 120 Stat. 2991; Pub. L. 111–148, title VI, §§6402(j)(1), 6411(b), Mar. 23, 2010, 124 Stat. 762, 775; Pub. L. 114–10, title V, §§505(b), 510, Apr. 16, 2015, 129 Stat. 167, 170; Pub. L. 114–115, §9(b), Dec. 28, 2015, 129 Stat. 3135; Pub. L. 114–198, title VII, §704(c)(1), July 22, 2016, 130 Stat. 749.)
 
-#### Amendment of Section ####
+#### Applicability of Amendment ####
 
-Pub. L. 114–198, title VII, §704(c)(1), (g)(1), July 22, 2016, 130 Stat. 749, 751, provided that, applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after Jan. 1, 2019, this section is amended by adding at the end the following new subsection:
-
-#### *(j) Expanding activities of Medicare drug integrity contractors (MEDICs)* ####
-
-#### *(1) Access to information* ####
-
-*Under contracts entered into under this section with Medicare drug integrity contractors (including any successor entity to a Medicare drug integrity contractor), the Secretary shall authorize such contractors to directly accept prescription and necessary medical records from entities such as pharmacies, prescription drug plans, MA–PD plans, and physicians with respect to an individual in order for such contractors to provide information relevant to the determination of whether such individual is an at-risk beneficiary for prescription drug abuse, as defined in section 1395w–104(c)(5)(C) of this title.*
-
-#### *(2) Requirement for acknowledgment of referrals* ####
-
-*If a PDP sponsor or MA organization refers information to a contractor described in paragraph (1) in order for such contractor to assist in the determination described in such paragraph, the contractor shall—*
-
-*(A) acknowledge to the sponsor or organization receipt of the referral; and*
-
-*(B) in the case that any PDP sponsor or MA organization contacts the contractor requesting to know the determination by the contractor of whether or not an individual has been determined to be an individual described in such paragraph, shall inform such sponsor or organization of such determination on a date that is not later than 15 days after the date on which the sponsor or organization contacts the contractor.*
-
-#### *(3) Making data available to other entities* ####
-
-#### *(A) In general* ####
-
-*For purposes of carrying out this subsection, subject to subparagraph (B), the Secretary shall authorize MEDICs to respond to requests for information from PDP sponsors and MA organizations, State prescription drug monitoring programs, and other entities delegated by such sponsors or organizations using available programs and systems in the effort to prevent fraud, waste, and abuse.*
-
-#### *(B) HIPAA compliant information only* ####
-
-*Information may only be disclosed by a MEDIC under subparagraph (A) if the disclosure of such information is permitted under the Federal regulations (concerning the privacy of individually identifiable health information) promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).*
-
-See 2016 Amendment note below.
+Amendment of section by section 704(c)(1) of Pub. L. 114–198 applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after Jan. 1, 2019. See 2016 Amendment note below.
 
 #### References in Text ####
 
@@ -367,6 +365,8 @@ Section 202(b) of the Health Insurance Portability and Accountability Act of 199
 Section 1395l(z) of this title, referred to in subsec. (h)(10)(A), probably means the subsec. (z) of section 1395l of this title which relates to medical review of spinal subluxation services and was added by Pub. L. 114–10, title V, §514(a), Apr. 16, 2015, 129 Stat. 171.
 
 Section 514(b) of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (h)(10)(A), is section 514(b) of Pub. L. 114–10, which is set out as a note under section 1395l of this title.
+
+Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (j)(3)(B), is section 264(c) of Pub. L. 104–191, title II, Aug. 21, 1996, 110 Stat. 2033, which is set out as a note under section 1320d–2 of this title.
 
 #### Amendments ####
 
@@ -465,3 +465,5 @@ Pub. L. 113–93, title I, §111, Apr. 1, 2014, 128 Stat. 1044, as amended by Pu
 Pub. L. 109–432, div. B, title III, §302(b), Dec. 20, 2006, 120 Stat. 2992, provided that: "The Secretary of Health and Human Services shall provide for access by recovery audit contractors conducting audit and recovery activities under section 1893(h) of the Social Security Act [42 U.S.C. 1395ddd(h)], as added by subsection (a), to the database of the Coordination of Benefits Contractor of the Centers for Medicare & Medicaid Services with respect to the audit and recovery periods described in paragraph (4) of such section 1893(h)."
 
 [<sup>1</sup> See References in Text note below.](#1395ddd_1)
+
+[<sup>2</sup> So in original. The word "shall" probably should not appear.](#1395ddd_2)

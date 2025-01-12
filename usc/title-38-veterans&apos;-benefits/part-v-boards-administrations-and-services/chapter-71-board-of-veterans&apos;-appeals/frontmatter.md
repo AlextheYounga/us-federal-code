@@ -12,17 +12,17 @@ Sec.
 
 7104. Jurisdiction of the Board.
 
-7105. Filing of notice of disagreement and appeal.
+7105. Filing of appeal.
 
 7105A. Simultaneously contested claims.
 
-7106. Administrative appeals.
+[7106. Repealed.]
 
 7107. Appeals: dockets; hearings.
 
 7108. Rejection of applications.
 
-7109. Independent medical opinions.
+[7109. Repealed.]
 
 [7110. Repealed.]
 
@@ -32,9 +32,9 @@ Sec.
 
 7113. Evidentiary record before the Board of Veterans' Appeals.
 
-#### Amendment of Analysis ####
+#### Applicability of Amendment ####
 
-Pub. L. 115–55, §2(q)(2), (s)(2), (u)(3), (w)(3), (x), Aug. 23, 2017, 131 Stat. 1112, 1113, 1115, provided that, applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, this analysis is amended by striking item 7105 and inserting new item 7105 "Filing of appeal" and by striking items 7106 and 7109. See 2017 Amendment note below.
+Amendment of analysis by section 2(q)(2), (s)(2), (u)(3), (w)(3) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.
 
 #### Amendments ####
 

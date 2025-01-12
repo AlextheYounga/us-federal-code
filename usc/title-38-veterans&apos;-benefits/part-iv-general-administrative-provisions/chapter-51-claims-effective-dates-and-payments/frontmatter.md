@@ -28,13 +28,13 @@ Sec.
 
 5107. Claimant responsibility; benefit of the doubt.
 
-5108. Reopening disallowed claims.
+5108. Supplemental claims.
 
 5109. Independent medical opinions.
 
 5109A. Revision of decisions on grounds of clear and unmistakable error.
 
-5109B. Expedited treatment of remanded claims.
+5109B. Expedited treatment of returned and remanded claims.
 
 #### SUBCHAPTER II—EFFECTIVE DATES ####
 
@@ -64,9 +64,9 @@ Sec.
 
 5126. Benefits not to be denied based on lack of mailing address.
 
-#### Amendment of Analysis ####
+#### Applicability of Amendment ####
 
-Pub. L. 115–55, §2(i)(3), (k)(2), (x), Aug. 23, 2017, 131 Stat. 1109, 1115, provided that, applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims, this analysis is amended by striking items 5108 and 5109B and inserting new items 5108 "Supplemental claims" and 5109B "Expedited treatment of returned and remanded claims". See 2017 Amendment note below.
+Amendment of analysis by section 2(f)(2), (g)(2), (h)(2), (i)(3), (k)(2) of Pub. L. 115–55 applicable to all claims for which the Secretary of Veterans Affairs provides notice of a decision under section 5104 of this title on or after the later of 540 days after Aug. 23, 2017, or 30 days after the date on which the Secretary submits to Congress a certification of certain capabilities of the Department of Veterans Affairs to carry out the new appeals system established by Pub. L. 115–55 and to address appeals of decisions on legacy claims, with provision for early applicability of the new appeals system to certain claims. See 2017 Amendment note below.
 
 #### Amendments ####
 

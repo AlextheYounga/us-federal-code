@@ -234,7 +234,7 @@ that was not described as a deficiency in the written description provided by th
 
 (B) setting forth the results of the trials required by the protocol and all the information required by subsection (c)(1).
 
-(6)(A) The Secretary may, after providing the person who has an approved protocol and opportunity for an informal hearing and at any time prior to receipt of notice of completion of such protocol, issue a final order to revoke such protocol if he finds that—
+(6)(A) The Secretary may, after providing the person who has an approved protocol an opportunity for an informal hearing and at any time prior to receipt of notice of completion of such protocol, issue a final order to revoke such protocol if he finds that—
 
 (i) such person has failed substantially to comply with the requirements of the protocol,
 
