@@ -10,6 +10,8 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2022 Amendment ####
 
+Pub. L. 117–176, §1, Sept. 16, 2022, 136 Stat. 2108, provided that: "This Act [amending section 2255 of this title and enacting provisions set out as a note under section 2255 of this title] may be cited as the 'Eliminating Limits to Justice for Child Sex Abuse Victims Act of 2022'."
+
 Pub. L. 117–159, §3(a), June 25, 2022, 136 Stat. 1313, provided that: "This Act [see Tables for classification] may be cited as the 'Bipartisan Safer Communities Act'."
 
 Pub. L. 117–107, §1, Mar. 29, 2022, 136 Stat. 1125, provided that: "This Act [amending section 249 of this title] may be cited as the 'Emmett Till Antilynching Act'."
@@ -239,6 +241,10 @@ Pub. L. 99–646, §1, Nov. 10, 1986, 100 Stat. 3592, provided that: "This Act [
 #### Short Title of 1984 Amendment ####
 
 Pub. L. 98–473, title II, §200, Oct. 12, 1984, 98 Stat. 1976, provided that: "This title [see Tables for classification] may be cited as the 'Comprehensive Crime Control Act of 1984'."
+
+#### Short Title of 1974 Amendment ####
+
+Pub. L. 93–412, §1, Sept. 3, 1974, 88 Stat. 1089, provided: "That this Act [amending section 3006A of this title and enacting provisions set out as a note under section 3006A of this title] may be cited as the 'District of Columbia Criminal Justice Act'."
 
 #### Severability ####
 
