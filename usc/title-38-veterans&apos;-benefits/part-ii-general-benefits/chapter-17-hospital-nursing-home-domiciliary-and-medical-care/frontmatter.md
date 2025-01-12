@@ -214,7 +214,7 @@ Sec.
 
 **2022**—Pub. L. 117–328, div. U, title I, §193A(a), Dec. 29, 2022, 136 Stat. 5439, added item 1722C.
 
-Pub. L. 117–328, div. U, title I, §§141(a)(2), 194(b), Dec. 29, 2022, 136 Stat. 5423, 5444, which directed amendment of subchapter analysis for this chapter by adding items 1703F and 1704A, was executed by making the amendment to the analysis for this chapter, to reflect the probable intent of Congress.
+Pub. L. 117–328, div. U, title I, §§141(a)(2), 194(b), Dec. 29, 2022, 136 Stat. 5423, 5444, which directed amendment of the analysis for subchapter I of this chapter by adding items 1703F and 1704A, was executed by adding the items to the analysis for this chapter, to reflect the probable intent of Congress.
 
 **2021**—Pub. L. 116–315, title III, §3002(b), title V, §5107(a)(3), Jan. 5, 2021, 134 Stat. 4991, 5031, added item 1709C and substituted "Prohibition on collection of copayments from certain veterans" for "Prohibition on collection of copayments from catastrophically disabled veterans" in item 1730A.
 

@@ -128,7 +128,7 @@ Sec.
 
 Pub. L. 117–271, §1(b)(2), Dec. 27, 2022, 136 Stat. 4180, added item 1166 and struck out former item 1166 "Specialized teams to evaluate claims involving military sexual trauma".
 
-Pub. L. 117–168, §1(b)(2), title II, §§202(a), 203(a), title III, §§302, 303, title IV, §§403(d), 406(b), Aug. 10, 2022, 136 Stat. 1759, 1766, 1775, 1777, 1779, 1781, 1784, added item for subchapter VII and items 1119, 1120, 1167, and 1168 and substituted "certain locations" for "the Republic of Vietnam" in item 1116.
+Pub. L. 117–168, §1(b)(2), title II, §§202(a), 203(a), title III, §§302, 303, title IV, §§403(d), 406(b), Aug. 10, 2022, 136 Stat. 1759, 1766, 1775, 1777, 1779, 1781, 1784, added items 1119, 1120, 1167, and 1168, item for subchapter VII, and items 1171 to 1176 and substituted "certain locations" for "the Republic of Vietnam" in item 1116.
 
 **2021**—Pub. L. 117–16, §7(a)(1), (b)(3), June 8, 2021, 135 Stat. 284, 285, renumbered item 1164 "Specialized teams to evaluate claims involving military sexual trauma" as 1166 and made technical amendment to directory language of Pub. L. 116–315, §4101(b). See Amendment note below.
 

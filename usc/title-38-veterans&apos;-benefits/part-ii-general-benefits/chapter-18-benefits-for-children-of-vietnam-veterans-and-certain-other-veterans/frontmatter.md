@@ -46,9 +46,19 @@ Sec.
 
 1834. Nonduplication of benefits.
 
+1835. Advisory council.
+
+1836. Care and coordination teams.
+
+1837. Duration of health care and benefits provided.
+
+1838. Biennial report.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–18, §1(e), Oct. 6, 2023, 137 Stat. 105, added items 1835 to 1838.
 
 **2019**—Pub. L. 116–23, §4(c)(2), June 25, 2019, 133 Stat. 971, substituted "CHILDREN OF CERTAIN KOREA AND THAILAND SERVICE VETERANS BORN WITH SPINA BIFIDA" for "CHILDREN OF CERTAIN KOREA SERVICE VETERANS BORN WITH SPINA BIFIDA" in item for subchapter III and added item 1822.
 
