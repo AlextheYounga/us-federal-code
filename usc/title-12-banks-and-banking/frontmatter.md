@@ -1,8 +1,6 @@
 TITLE 12—BANKS AND BANKING
 ==========
 
-Current through 113–36
-
 Chap. Sec.
 
 1. The Comptroller of the Currency 1

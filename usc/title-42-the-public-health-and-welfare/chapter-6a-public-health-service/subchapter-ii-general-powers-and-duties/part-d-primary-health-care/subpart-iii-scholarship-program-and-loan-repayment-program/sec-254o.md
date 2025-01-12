@@ -82,7 +82,7 @@ except that the amount the United States is entitled to recover under this parag
 
 (B)(i) Subparagraph (A) shall apply to any financial obligation of an individual under the provision of law specified in clause (ii) to the same extent and in the same manner as such subparagraph applies to any obligation of an individual under the Scholarship or Loan Repayment Program (or contract thereunder) for payment of damages.
 
-(ii) The provision of law referred to in clause (i) is subsection (f) of section 234 <sup><a href="#254o_2_target" name="254o_2">2</a></sup> of this title, as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484.
+(ii) The provision of law referred to in clause (i) is subsection (f) of section 234 <sup><a href="#254o_1_target" name="254o_1">1</a></sup> of this title, as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484.
 
 #### (e) Inapplicability of Federal and State statute of limitations on actions for collection ####
 
@@ -195,5 +195,3 @@ Pub. L. 100–177, title II, §204, Dec. 1, 1987, 101 Stat. 1000, provided that 
 Pub. L. 100–177, title III, §308(b), Dec. 1, 1987, 101 Stat. 1006, provided that: “The amendment made by subsection (a) [amending this section] applies to any bankruptcy proceeding in which discharge of an obligation under section 338E(d)(3) of the Public Health Service Act [42 U.S.C. 254o(d)(3)] (as redesignated by sections 201(2) and 202(e)(3) of this Act) has not been granted before the date that is 31 days after the date of enactment of this Act [Dec. 1, 1987].”
 
 [<sup>1</sup> See References in Text note below.](#254o_1)
-
-[<sup>2</sup> See References in Text note below.](#254o_2)

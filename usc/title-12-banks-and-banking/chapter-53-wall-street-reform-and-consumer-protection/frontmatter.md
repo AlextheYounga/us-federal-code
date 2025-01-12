@@ -242,7 +242,7 @@ Sec.
 
 5537. Senior investor protections.
 
-5538. Mortgages loans; rulemaking procedures; enforcement.
+5538. Mortgage loans; rulemaking procedures; enforcement.
 
 #### Part D—Preservation of State Law ####
 
