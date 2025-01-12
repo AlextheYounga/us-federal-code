@@ -592,6 +592,8 @@ Sec.
 
 274f–4. Report relating to organ donation and the recovery, preservation, and transportation of organs.
 
+274f–5. Criteria, standards, and regulations with respect to organs infected with HIV.
+
 274g. Authorization of appropriations.
 
 #### Part H–1—Stephanie Tubbs Jones Gift of Life Medal ####
