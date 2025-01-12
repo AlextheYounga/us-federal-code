@@ -744,7 +744,7 @@ Except as provided in clauses (iii) and (iv), for fiscal year 2014 and each succ
 
 (II) the amount of any payments made to the State under subsection (n) for such preceding fiscal year,
 
-multiplied by the allotment increase factor under paragraph (6) for such even-numbered fiscal year.
+ multiplied by the allotment increase factor under paragraph (6) for such even-numbered fiscal year.
 
 #### (iii) Special rule for 2016 ####
 

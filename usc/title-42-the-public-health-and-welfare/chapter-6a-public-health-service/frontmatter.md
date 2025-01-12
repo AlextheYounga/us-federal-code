@@ -690,6 +690,8 @@ Sec.
 
 280e–4. Authorization of appropriations.
 
+280e–5. Voluntary registry for firefighter cancer incidence.
+
 #### Part N—National Foundation for the Centers for Disease Control and Prevention ####
 
 280e–11. Establishment and duties of Foundation.

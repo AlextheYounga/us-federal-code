@@ -38,7 +38,7 @@
 
 #### Amendments ####
 
-**2017**—Subsec. (a). Pub. L. 115–91 subtituted "December 31, 2018" for "December 31, 2017".
+**2017**—Subsec. (a). Pub. L. 115–91 substituted "December 31, 2018" for "December 31, 2017".
 
 **2016**—Subsec. (a). Pub. L. 114–328 substituted "December 31, 2017" for "December 31, 2016".
 
