@@ -154,6 +154,10 @@ Nothing in this section shall be construed as requiring any health benefits cove
 
 Nothing in this subchapter shall be construed as limiting a State's ability to provide child health assistance for covered items and services that are furnished through school-based health centers (as defined in section 1397jj(c)(9) of this title).
 
+#### (10) Certain in vitro diagnostic products for COVID–19 testing ####
+
+The child health assistance provided to a targeted low-income child shall include coverage of any in vitro diagnostic product described in section 1396d(a)(3)(B) of this title that is administered during any portion of the emergency period described in such section beginning on or after March 18, 2020 <sup><a href="#1397cc_1_target" name="1397cc_1">1</a></sup> (and the administration of such product).
+
 #### (d) Description of existing comprehensive State-based coverage ####
 
 #### (1) In general ####
@@ -190,9 +194,9 @@ A State child health plan shall include a description, consistent with this subs
 
 The State child health plan may only vary premiums, deductibles, coinsurance, and other cost sharing based on the family income of targeted low-income children in a manner that does not favor children from families with higher income over children from families with lower income.
 
-#### (2) No cost sharing on benefits for preventive services or pregnancy-related assistance ####
+#### (2) No cost sharing on benefits for preventive services, COVID–19 testing, or pregnancy-related assistance ####
 
-The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the category of services described in subsection (c)(1)(D) or for pregnancy-related assistance.
+The State child health plan may not impose deductibles, coinsurance, or other cost sharing with respect to benefits for services within the categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), visits described in section 1396o(a)(2)(G) of this title, or for pregnancy-related assistance.
 
 #### (3) Limitations on premiums and cost-sharing ####
 
@@ -246,15 +250,21 @@ Coverage offered under this section shall comply with the requirements of subpar
 
 The State child health plan shall provide for the application of subsections (a)(4), (a)(5), (b), (c), (d), and (e) of section 1396u–2 of this title (relating to requirements for managed care) to coverage, State agencies, enrollment brokers, managed care entities, and managed care organizations under this subchapter in the same manner as such subsections apply to coverage and such entities and organizations under subchapter XIX.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90; Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), Oct. 24, 2018, 132 Stat. 3964, 3965.)
+(Aug. 14, 1935, ch. 531, title XXI, §2103, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 554; amended Pub. L. 111–3, title I, §111(b)(1), title IV, §403(a), title V, §§501(a)(1), 502, 504(a), 505(a), Feb. 4, 2009, 123 Stat. 28, 84, 89, 90; Pub. L. 115–271, title V, §5022(a)–(b)(2)(A), (d), Oct. 24, 2018, 132 Stat. 3964, 3965; Pub. L. 116–127, div. F, §6004(b)(1), (3), Mar. 18, 2020, 134 Stat. 206.)
 
 #### References in Text ####
+
+March 18, 2020, referred to in subsec. (c)(10), was in the original "the date of the enactment of this subparagraph", and was translated as if it had read "the date of the enactment of this paragraph" to reflect the probable intent of Congress.
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 832. Part 7 of subtitle B of title I of the Act is classified generally to part 7 (§1181 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 The Public Health Service Act, referred to in subsec. (f), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXVII of the Act is classified generally to subchapter XXV (§300gg et seq.) of chapter 6A of this title. Subpart 2 of part A of title XXVII of the Act may refer to subpart II of part A of subchapter XXV of chapter 6A of this title. Pub. L. 111–148, title I, §§1001(5), 1563(c)(2), (11), formerly §1562(c)(2), (11), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 265, 268, 911, amended part A by inserting "subpart ii—improving coverage" (preceding section 300gg–11 of this title), by striking out "subpart 2—other requirements" (preceding section 300gg–4 of this title), and by redesignating subpart 4 as subpart 2 "exclusion of plans; enforcement; preemption" (preceding section 300gg–21 of this title). For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Amendments ####
+
+**2020**—Subsec. (c)(10). Pub. L. 116–127, §6004(b)(1), added par. (10).
+
+Subsec. (e)(2). Pub. L. 116–127, §6004(b)(3), in heading, inserted ", COVID–19 testing," before "or pregnancy-related assistance" and, in text, substituted "categories of services described in subsection (c)(1)(D), in vitro diagnostic products described in subsection (c)(10) (and administration of such products), visits described in section 1396o(a)(2)(G) of this title, or" for "category of services described in subsection (c)(1)(D) or".
 
 **2018**—Subsec. (a). Pub. L. 115–271, §5022(b)(2)(A), substituted "paragraphs (5), (6), (7), and (8)" for "paragraphs (5), (6), and (7)" in introductory provisions.
 
@@ -301,3 +311,5 @@ Pub. L. 111–3, title IV, §403(b), Feb. 4, 2009, 123 Stat. 84, provided that: 
 Amendment by section 501(a)(1) of Pub. L. 111–3 applicable to coverage of items and services furnished on or after Oct. 1, 2009, see section 501(a)(3) of Pub. L. 111–3, set out as a note under section 1397bb of this title.
 
 Pub. L. 111–3, title V, §504(b), Feb. 4, 2009, 123 Stat. 90, provided that: "The amendment made by subsection (a) [amending this section] shall apply to new coverage periods beginning on or after the date of the enactment of this Act [Feb. 4, 2009]."
+
+[<sup>1</sup> See References in Text note below.](#1397cc_1)

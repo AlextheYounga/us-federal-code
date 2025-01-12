@@ -424,8 +424,6 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e)(2),
 
 #### Codification ####
 
-In subsec. (c)(5)(A)(ii)(II), "section 1702(c) of title 41" substituted for "section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
 In subsec. (c)(5)(C), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 In subsec. (c)(5)(F), "section 3304(a)(3) of title 41" substituted for "section 303(c)(3) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c)(3))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -446,7 +444,7 @@ Subsec. (c)(5)(A)(i). Pub. L. 116–22, §602(2)(A), substituted "(as defined in
 
 Subsec. (c)(5)(A)(ii)(I). Pub. L. 116–22, §602(2)(B)(i), amended subcl. (I) generally. Prior to amendment, text read as follows: "Subsections (b), (c), and (h) of section 845 of the National Defense Authorization Act for Fiscal Year 1994 (10 U.S.C. 2371 note) shall apply to other transactions under this subparagraph as if such transactions were for prototype projects described by subsection (a) of such section 845."
 
-Subsec. (c)(5)(A)(ii)(II). Pub. L. 116–22, §602(2)(B)(ii), substituted "$100,000,000" for "$20,000,000", "Assistant Secretary for Financial Resources" for "senior procurement executive for the Department (as designated for purpose of section 1702(c) of title 41)", and "Assistant Secretary for Financial Resources under" for "senior procurement executive under".
+Subsec. (c)(5)(A)(ii)(II). Pub. L. 116–22, §602(2)(B)(ii), substituted "$100,000,000" for "$20,000,000", "Assistant Secretary for Financial Resources" for "senior procurement executive for the Department (as designated for purpose of section 16(c) of the Office of Federal Procurement Policy Act (41 U.S.C. 414(c)))", and "Assistant Secretary for Financial Resources under" for "senior procurement executive under".
 
 Subsec. (c)(6). Pub. L. 116–22, §303(b), substituted "older adults" for "elderly" and inserted "with relevant characteristics that warrant consideration during the process of researching and developing such countermeasures and products" before period at end.
 

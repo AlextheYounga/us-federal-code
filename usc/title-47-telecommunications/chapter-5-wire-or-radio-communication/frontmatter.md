@@ -392,6 +392,8 @@ Sec.
 
 510. Forfeiture of communications devices.
 
+511. Enhanced penalties for pirate radio broadcasting; enforcement sweeps; reporting.
+
 #### SUBCHAPTER V–A—CABLE COMMUNICATIONS ####
 
 #### Part I—General Provisions ####
@@ -531,3 +533,17 @@ Sec.
 623. Configuration of multi-line telephone systems for direct dialing of 9–1–1.
 
 624. Disclosure requirements for United States-based foreign media outlets.
+
+#### SUBCHAPTER VII—BROADBAND DATA ####
+
+641. Definitions.
+
+642. Broadband maps.
+
+643. Enforcement.
+
+644. Improving data accuracy.
+
+645. Cost.
+
+646. Other provisions.

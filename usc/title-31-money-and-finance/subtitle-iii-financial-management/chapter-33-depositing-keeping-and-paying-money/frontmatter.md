@@ -56,7 +56,27 @@ Sec.
 
 3343. Check forgery insurance fund.
 
+#### SUBCHAPTER IV—IMPROPER PAYMENTS ####
+
+3351. Definitions.
+
+3352. Estimates of improper payments and reports on actions to reduce improper payments.
+
+3353. Compliance.
+
+3354. Do Not Pay Initiative.
+
+3355. Improving recovery of improper payments.
+
+3356. Improving the use of data by executive agencies for curbing improper payments.
+
+3357. Financial and administrative controls relating to fraud and improper payments.
+
+3358. Interagency working group for Governmentwide payment integrity improvement.
+
 #### Amendments ####
+
+**2020**—Pub. L. 116–117, §2(b), Mar. 2, 2020, 134 Stat. 133, added subchapter IV heading and items 3351 to 3358.
 
 **1994**—Pub. L. 103–356, title IV, §402(b), Oct. 13, 1994, 108 Stat. 3413, substituted "Required direct deposit" for "Checks payable to financial organizations designated by Government officers and employees" in item 3332.
 

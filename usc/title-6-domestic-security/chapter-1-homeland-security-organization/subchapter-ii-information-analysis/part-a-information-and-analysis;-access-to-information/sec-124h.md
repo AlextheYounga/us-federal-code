@@ -192,7 +192,23 @@ The Secretary, in consultation with the Attorney General, shall establish guidel
 
 (10) incorporate law enforcement officers, other emergency response providers, and, as appropriate, the private sector, into all relevant phases of the intelligence and fusion process, consistent with the mission statement developed under paragraph (1), either through full time representatives or liaison relationships with the fusion center to enable the receipt and sharing of information and intelligence.
 
-#### (j) Definitions ####
+#### (j) Fusion center information sharing strategy ####
+
+Not later than 1 year after March 2, 2020, and not less frequently than once every 5 years thereafter, the Secretary shall develop or update a strategy for Department engagement with fusion centers. Such strategy shall be developed and updated in consultation with the heads of intelligence components of the Department, the Chief Privacy Officer, the Officer for Civil Rights and Civil Liberties, officials of fusion centers, officers designated as Homeland Security Advisors, and the heads of other relevant agencies, as appropriate. Such strategy shall include the following:
+
+(1) Specific goals and objectives for sharing information and engaging with fusion centers—
+
+(A) through the direct deployment of personnel from intelligence components of the Department;
+
+(B) through the use of Department unclassified and classified information sharing systems, including the Homeland Security Information Network and the Homeland Secure Data Network, or any successor systems; and
+
+(C) through any additional means.
+
+(2) The performance metrics to be used to measure success in achieving the goals and objectives referred to in paragraph (1).
+
+(3) A 5-year plan for continued engagement with fusion centers.
+
+#### (k) Definitions ####
 
 In this section—
 
@@ -206,15 +222,37 @@ In this section—
 
 (5) the term "terrorism information" has the meaning given that term in section 485 of this title.
 
-#### (k) Authorization of appropriations ####
+#### (l) Authorization of appropriations ####
 
 There is authorized to be appropriated $10,000,000 for each of fiscal years 2008 through 2012, to carry out this section, except for subsection (i), including for hiring officers and intelligence analysts to replace officers and intelligence analysts who are assigned to fusion centers under this section.
 
-(Pub. L. 107–296, title II, §210A, as added Pub. L. 110–53, title V, §511(a), Aug. 3, 2007, 121 Stat. 317; amended Pub. L. 115–278, §2(g)(2)(F), Nov. 16, 2018, 132 Stat. 4177.)
+(Pub. L. 107–296, title II, §210A, as added Pub. L. 110–53, title V, §511(a), Aug. 3, 2007, 121 Stat. 317; amended Pub. L. 115–278, §2(g)(2)(F), Nov. 16, 2018, 132 Stat. 4177; Pub. L. 116–116, §2, Mar. 2, 2020, 134 Stat. 110.)
 
 #### Amendments ####
 
+**2020**—Subsecs. (j) to (l). Pub. L. 116–116 added subsec. (j) and redesignated former subsecs. (j) and (k) as (k) and (l), respectively.
+
 **2018**—Subsec. (c)(2)(B). Pub. L. 115–278 substituted "Cybersecurity and Infrastructure Security Agency" for "Office of Infrastructure Protection".
+
+#### Office of Intelligence and Analysis Field Personnel Support to Fusion Centers ####
+
+Pub. L. 116–116, §3, Mar. 2, 2020, 134 Stat. 111, provided that:
+
+"(a) Performance Metrics.—Not later than 180 days after the date of the enactment of this Act [Mar. 2, 2020], the Under Secretary for Intelligence and Analysis shall—
+
+"(1) consider the effectiveness of existing processes to identify and prepare field personnel for deployment to support fusion centers and internal mechanisms to ensure oversight and accountability of such field personnel, including field personnel assigned to one center and field personnel assigned to multiple centers; and
+
+"(2) publish and disseminate performance metrics, taking into account, as appropriate, regional and threat diversity, for—
+
+"(A) field personnel from the Office of Intelligence and Analysis assigned to an individual fusion center;
+
+"(B) field personnel from the Office of Intelligence and Analysis assigned to multiple fusion centers; and
+
+"(C) Regional Directors of the Office of Intelligence and Analysis to ensure accountability for monitoring all field personnel under the supervision of such Regional Directors.
+
+"(b) Training.—In consultation with the Chief Information Officer, the Under Secretary for Intelligence and Analysis shall develop and implement a formalized training module for fusion center personnel regarding the classified Homeland Secure Data Network, or any successor system.
+
+"(c) Fusion Center Defined.—In this section, the term 'fusion center' has the meaning given such term in section 210A(k) of the Homeland Security Act of 2002 [6 U.S.C. 124h(k)], as so redesignated by section 2 [amending this section]."
 
 #### Training for Predeployed Officers and Analysts ####
 

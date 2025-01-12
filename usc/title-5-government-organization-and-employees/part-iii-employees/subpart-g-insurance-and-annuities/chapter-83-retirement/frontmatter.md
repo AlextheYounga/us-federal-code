@@ -68,6 +68,8 @@ Sec.
 
 8345. Payment of benefits; commencement, termination, and waiver of annuity.
 
+8345a. Embezzlement or conversion of payments.
+
 8346. Exemption from legal process; recovery of payments.
 
 8347. Administration; regulations.
@@ -81,6 +83,8 @@ Sec.
 8351. Participation in the Thrift Savings Plan.
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–126, §2(b)(3)(A), Mar. 18, 2020, 134 Stat. 175, added item 8345a.
 
 **2012**—Pub. L. 112–141, div. F, title I, §100121(a)(3), July 6, 2012, 126 Stat. 910, added item 8336a.
 

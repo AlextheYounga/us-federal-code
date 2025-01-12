@@ -26,7 +26,7 @@ The State does not provide coverage for pregnant women with higher family income
 
 #### (4) Application of requirements for coverage of targeted low-income children ####
 
-The State provides pregnancy-related assistance for targeted low-income pregnant women in the same manner, and subject to the same requirements, as the State provides child health assistance for targeted low-income children under the State child health plan, and in addition to providing child health assistance for such women.
+The State provides pregnancy-related assistance for targeted low-income pregnant women in the same manner, and subject to the same requirements under section 1397cc(c) of this title, as the State provides child health assistance for targeted low-income children under the State child health plan, and in addition to providing child health assistance for such women.
 
 #### (5) No preexisting condition exclusion or waiting period ####
 
@@ -88,7 +88,11 @@ Nothing in this subsection shall be construed—
 
 (B) to modify the authority to provide pregnancy-related services under a waiver specified in paragraph (1)(B).
 
-(Aug. 14, 1935, ch. 531, title XXI, §2112, as added Pub. L. 111–3, title I, §111(a), Feb. 4, 2009, 123 Stat. 26.)
+(Aug. 14, 1935, ch. 531, title XXI, §2112, as added Pub. L. 111–3, title I, §111(a), Feb. 4, 2009, 123 Stat. 26; amended Pub. L. 116–127, div. F, §6004(b)(2), Mar. 18, 2020, 134 Stat. 206.)
+
+#### Amendments ####
+
+**2020**—Subsec. (b)(4). Pub. L. 116–127 inserted "under section 1397cc(c) of this title" after "same requirements".
 
 #### Effective Date ####
 

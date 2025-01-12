@@ -146,6 +146,8 @@ Sec.
 
 1862s–9. Translational research grants.
 
+1862t. Supporting veterans in STEM education and computer science.
+
 1863. National Science Board.
 
 1864. Director of Foundation.

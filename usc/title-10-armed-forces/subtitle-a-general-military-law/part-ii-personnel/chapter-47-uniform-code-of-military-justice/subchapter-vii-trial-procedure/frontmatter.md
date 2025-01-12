@@ -3,7 +3,7 @@
 |Sec. |        Art.        |                                                                                 |
 |-----|--------------------|---------------------------------------------------------------------------------|
 |836. |        36.         |                         President may prescribe rules.                          |
-|837. |Art. 37.<sup>1</sup>|                               Command influence.                                |
+|837. |Art.<sup>1</sup> 37.|                               Command influence.                                |
 |838. |        38.         |                  Duties of trial counsel and defense counsel.                   |
 |839. |        39.         |                                    Sessions.                                    |
 |840. |        40.         |                                  Continuances.                                  |

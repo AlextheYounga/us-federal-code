@@ -134,6 +134,8 @@ Sec.
 
 8466. Application for benefits.
 
+8466a. Embezzlement or conversion of payments.
+
 8467. Court orders.
 
 8468. Annuities and pay on reemployment.
@@ -167,6 +169,8 @@ Sec.
 8480. Subpoena authority.
 
 #### Amendments ####
+
+**2020**—Pub. L. 116–126, §2(b)(3)(B), Mar. 18, 2020, 134 Stat. 175, added item 8466a.
 
 **2012**—Pub. L. 112–141, div. F, title I, §100121(b)(2), July 6, 2012, 126 Stat. 914, added item 8412a.
 

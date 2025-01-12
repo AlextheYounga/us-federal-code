@@ -67,4 +67,24 @@ Pub. L. 93–508, title IV, §404(b), Dec. 3, 1974, 88 Stat. 1600, added item fo
 
 **1965**—Pub. L. 89–50, §1(b), June 24, 1965, 79 Stat. 173, struck out item for chapter 43 "Mustering-Out Payments".
 
+#### Continuation of Department of Veterans Affairs Educational Assistance Benefits for Certain Programs of Education Converted to Distance Learning by Reason of Emergencies and Health-Related Situations ####
+
+Pub. L. 116–128, §1, Mar. 21, 2020, 134 Stat. 221, provided that:
+
+"(a) In General.—In the case of a program of education approved by a State approving agency, or the Secretary of Veterans Affairs when acting in the role of a State approving agency, that is converted from being offered on-site at an educational institution to being offered by distance learning by reason of an emergency or health-related situation, as determined by the Secretary, the Secretary may continue to provide educational assistance under the laws administered by the Secretary without regard to such conversion, including with respect to paying any—
+
+"(1) monthly housing stipends under chapter 33 of title 38, United States Code; or
+
+"(2) payments or subsistence allowances under chapters 30, 31, 32, and 35 of such title and chapters 1606 and 1607 of title 10, United States Code.
+
+"(b) Applicability Period.—Subsection (a) shall apply during the period beginning on March 1, 2020, and ending on December 21, 2020.
+
+"(c) Definitions.—In this section:
+
+"(1) Educational institution.—The term 'educational institution' has the meaning given that term in section 3452 of title 38, United States Code, and includes an institution of higher learning (as defined in such section).
+
+"(2) Program of education.—The term 'program of education' has the meaning given that term in section 3002 of title 38, United States Code.
+
+"(3) State approving agency.—The term 'State approving agency' has the meaning given that term in section 3671 of title 38, United States Code."
+
 [<sup>1</sup> So in original. The period probably should not appear.](#PARTIII_1)
