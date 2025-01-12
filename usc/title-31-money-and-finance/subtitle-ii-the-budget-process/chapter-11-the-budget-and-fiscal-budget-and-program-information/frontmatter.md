@@ -52,6 +52,8 @@ Sec.
 
 1125. Elimination of unnecessary agency reporting.
 
+1126. Program Management Improvement Officers and Program Management Policy Council. 2
+
 #### Amendments ####
 
 **2011**—Pub. L. 111–352, §13(b), (c), Jan. 4, 2011, 124 Stat. 3882, added items 1115, 1116, and 1120 to 1125, and struck out former items 1115 "Performance plans" and 1116 "Program performance reports".
@@ -61,3 +63,5 @@ Sec.
 **1993**—Pub. L. 103–62, §11(b)(1), Aug. 3, 1993, 107 Stat. 295, added items 1115 to 1119.
 
 [<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER11_1)
+
+[<sup>2</sup> Editorially supplied. Section 1126 added by Pub. L. 114–264 without corresponding amendment of chapter analysis.](#CHAPTER11_2)

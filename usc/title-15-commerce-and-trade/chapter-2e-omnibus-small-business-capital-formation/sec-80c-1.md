@@ -18,6 +18,10 @@ A summary of the proceedings of such forums and any findings or recommendations 
 
 (Pub. L. 96–477, title V, §503, Oct. 21, 1980, 94 Stat. 2292.)
 
+#### Effective Date ####
+
+Section effective Jan. 1, 1981, see section 507 of Pub. L. 96–477, set out as a note under section 80c of this title.
+
 #### Termination of Reporting Requirements ####
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (d) of this section is listed on page 190), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.

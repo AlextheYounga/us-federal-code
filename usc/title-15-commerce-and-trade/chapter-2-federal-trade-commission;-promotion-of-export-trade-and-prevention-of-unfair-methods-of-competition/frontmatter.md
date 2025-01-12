@@ -16,6 +16,10 @@ Sec.
 
 45a. Labels on products.
 
+45b. Consumer review protection.
+
+45c. Unfair and deceptive acts and practices relating to circumvention of ticket access control measures.
+
 46. Additional powers of Commission.
 
 46a. Concurrent resolution essential to authorize investigations

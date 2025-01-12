@@ -12,6 +12,8 @@ Sec.
 
 551c. Planning for fire protection.
 
+551c–1. Limitations on prescribed burns.
+
 551d. Wildland firefighter safety.
 
 552. Consent to agreement by States for conservation of forests and water supply.
