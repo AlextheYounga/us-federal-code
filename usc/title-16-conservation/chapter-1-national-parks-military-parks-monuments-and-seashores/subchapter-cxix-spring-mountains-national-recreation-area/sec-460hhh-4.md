@@ -26,7 +26,7 @@ The management plan described in paragraph (1) shall be developed with full publ
 
 #### (3) Consultation ####
 
-The plans for the management of natural and cultural resources described in paragraph (2)(C) shall be prepared in consultation with the Advisory Council on Historic Preservation established by title II of the National Historic Preservation Act <sup><a href="#460hhh-4_2_target" name="460hhh-4_2">2</a></sup> and the Nevada State Department of Conservation and Natural Resources, Division of Historic Preservation and Archaeology.
+The plans for the management of natural and cultural resources described in paragraph (2)(C) shall be prepared in consultation with the Advisory Council on Historic Preservation established by chapter 3041 of title 54 and the Nevada State Department of Conservation and Natural Resources, Division of Historic Preservation and Archaeology.
 
 #### (b) Wilderness study areas ####
 
@@ -44,7 +44,11 @@ Pending submission of a recommendation and until otherwise directed by Act of Co
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2)(C), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, as amended, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.
 
-The National Historic Preservation Act, referred to in subsec. (a)(2)(C) and (3), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of this title prior to the enactment of Title 54, National Park Service and Related Programs. See 54 U.S.C. 300101 et seq. Title II of the Act was classified generally to part B (§470i et seq.) of subchapter II of chapter 1A of this chapter. See 54 U.S.C. 304101 et seq.
+The National Historic Preservation Act, referred to in subsec. (a)(2)(C), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. The Act, except for section 1, was repealed and restated in division A (§300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
+
+#### Codification ####
+
+In subsec. (a)(3), "chapter 3041 of title 54" substituted for "title II of the National Historic Preservation Act (16 U.S.C. 470i et seq.)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 [<sup>1</sup> So in original. Probably should be capitalized.](#460hhh-4_1)
 

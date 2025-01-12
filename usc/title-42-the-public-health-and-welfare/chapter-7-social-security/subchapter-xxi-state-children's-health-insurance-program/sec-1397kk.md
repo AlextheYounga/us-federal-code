@@ -72,7 +72,7 @@ Any State that provides child health assistance or health benefits coverage unde
 
 #### (i) Block grant set aside from State allotment ####
 
-If the State makes an election under subparagraph (A), the Secretary shall set aside for the State for each such fiscal year an amount equal to the Federal share of 110 percent of the State's projected expenditures under the applicable existing waiver for providing child health assistance or health benefits coverage to all parents of targeted low-income children enrolled under such waiver for the fiscal year (as certified by the State and submitted to the Secretary by not later than August 31 of the preceding fiscal year). In the case of fiscal year 2013, the set aside for any State shall be computed separately for each period described in subparagraphs (A) and (B) of section 1397dd(a)(16) of this title and any reduction in the allotment for either such period under section 1397dd(m)(4) of this title shall be allocated on a pro rata basis to such set aside.
+If the State makes an election under subparagraph (A), the Secretary shall set aside for the State for each such fiscal year an amount equal to the Federal share of 110 percent of the State's projected expenditures under the applicable existing waiver for providing child health assistance or health benefits coverage to all parents of targeted low-income children enrolled under such waiver for the fiscal year (as certified by the State and submitted to the Secretary by not later than August 31 of the preceding fiscal year). In the case of fiscal year 2013, the set aside for any State shall be computed separately for each period described in subparagraphs (A) and (B) of section 1397dd(a)(16) of this title and any reduction in the allotment for either such period under section 1397dd(m)(5) of this title shall be allocated on a pro rata basis to such set aside.
 
 #### (ii) Payments from block grant ####
 
@@ -162,11 +162,15 @@ The term "parent" includes a caretaker relative (as such term is used in carryin
 
 The term "nonpregnant childless adult" has the meaning given such term by section 1397gg(f) of this title.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2111, as added Pub. L. 111–3, title I, §112(a)(1), Feb. 4, 2009, 123 Stat. 29.)
+(Aug. 14, 1935, ch. 531, title XXI, §2111, as added Pub. L. 111–3, title I, §112(a)(1), Feb. 4, 2009, 123 Stat. 29; amended Pub. L. 114–10, title III, §301(b)(2)(D), Apr. 16, 2015, 129 Stat. 157.)
 
 #### References in Text ####
 
 Section 6102(c)(3) of the Deficit Reduction Act of 2005, referred to in subsec. (c)(1), is section 6102(c)(3) of Pub. L. 109–171, which is set out as a note under section 1397gg of this title.
+
+#### Amendments ####
+
+**2015**—Subsec. (b)(2)(B)(i). Pub. L. 114–10 substituted "section 1397dd(m)(5)" for "section 1397dd(m)(4)".
 
 #### Effective Date ####
 

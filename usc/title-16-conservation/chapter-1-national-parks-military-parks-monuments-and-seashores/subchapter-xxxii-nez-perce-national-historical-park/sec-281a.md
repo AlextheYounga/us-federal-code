@@ -8,7 +8,7 @@ To implement this purpose the Secretary of the Interior may designate as the Nez
 
 (3) Buffalo Eddy, Washington and Idaho;
 
-(4) Traditional Crossing Near Doug Bar, Oregon and Idaho;
+(4) Traditional Crossing Near Doug <sup><a href="#281a_1_target" name="281a_1">1</a></sup> Bar, Oregon and Idaho;
 
 (5) Camas Meadows Battle Sites, Idaho;
 
@@ -35,3 +35,5 @@ each as described in the National Park Service document entitled "Nez Perce Nati
 #### Amendments ####
 
 **1992**—Pub. L. 102–576 inserted provision listing 13 sites to be designated as Nez Perce National Historical Park, as described in documents dated 1990 and 1991, and provision relating to lands added to Big Hole National Battlefield, Montana.
+
+[<sup>1</sup> So in original. Probably should be "Dug".](#281a_1)

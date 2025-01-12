@@ -28,7 +28,7 @@ The Centers for Medicare & Medicaid Services shall take all necessary steps to p
 
 The Financial Management Service and the Internal Revenue Service shall provide assistance to the Centers for Medicare & Medicaid Services to ensure that all payments described in paragraph (1) are included in the Federal Payment Levy Program by the deadlines specified in that subsection.
 
-#### (e) Availability of Medicare data ####
+#### (e) Availability of data ####
 
 #### (1) In general ####
 
@@ -44,13 +44,13 @@ For purposes of this subsection, the term "qualified entity" means a public or p
 
 #### (3) Data described ####
 
-The data described in this paragraph are standardized extracts (as determined by the Secretary) of claims data under parts A, B, and D for items and services furnished under such parts for one or more specified geographic areas and time periods requested by a qualified entity. The Secretary shall take such actions as the Secretary deems necessary to protect the identity of individuals entitled to or enrolled for benefits under such parts.
+The data described in this paragraph are standardized extracts (as determined by the Secretary) of claims data under parts A, B, and D for items and services furnished under such parts for one or more specified geographic areas and time periods requested by a qualified entity. Beginning July 1, 2016, if the Secretary determines appropriate, the data described in this paragraph may also include standardized extracts (as determined by the Secretary) of claims data under subchapters XIX and XXI for assistance provided under such subchapters for one or more specified geographic areas and time periods requested by a qualified entity. The Secretary shall take such actions as the Secretary deems necessary to protect the identity of individuals entitled to or enrolled for benefits under such parts or under subchapters <sup><a href="#1395kk_2_target" name="1395kk_2">2</a></sup> XIX or XXI.
 
 #### (4) Requirements ####
 
 #### (A) Fee ####
 
-Data described in paragraph (3) shall be made available to a qualified entity under this subsection at a fee equal to the cost of making such data available. Any fee collected pursuant to the preceding sentence shall be deposited into the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title.
+Data described in paragraph (3) shall be made available to a qualified entity under this subsection at a fee equal to the cost of making such data available. Any fee collected pursuant to the preceding sentence shall be deposited, for periods prior to July 1, 2016, into the Federal Supplementary Medical Insurance Trust Fund under section 1395t of this title, and, beginning July 1, 2016, into the Centers for Medicare & Medicaid Services Program Management Account.
 
 #### (B) Specification of uses and methodologies ####
 
@@ -86,7 +86,17 @@ Any report by a qualified entity evaluating the performance of providers of serv
 
 The Secretary shall not make data described in paragraph (3) available to a qualified entity unless the qualified entity agrees to release the information on the evaluation of performance of providers of services and suppliers. Such entity shall only use such data, and information derived from such evaluation, for the reports under subparagraph (C). Data released to a qualified entity under this subsection shall not be subject to discovery or admission as evidence in judicial or administrative proceedings without consent of the applicable provider of services or supplier.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1874, as added and amended Pub. L. 89–97, title I, §§102(a), 111(a), July 30, 1965, 79 Stat. 332, 340; Pub. L. 92–603, title II, §289, Oct. 30, 1972, 86 Stat. 1457; Pub. L. 93–445, title III, §310, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 110–275, title I, §189(a), July 15, 2008, 122 Stat. 2590; Pub. L. 111–148, title X, §10332(a), Mar. 23, 2010, 124 Stat. 968.)
+#### (f) Requirement for the Secretary to establish policies and claims edits relating to incarcerated individuals, individuals not lawfully present, and deceased individuals ####
+
+The Secretary shall establish and maintain procedures, including procedures for using claims processing edits, updating eligibility information to improve provider accessibility, and conducting recoupment activities such as through recovery audit contractors, in order to ensure that payment is not made under this subchapter for items and services furnished to an individual who is one of the following:
+
+(1) An individual who is incarcerated.
+
+(2) An individual who is not lawfully present in the United States and who is not eligible for coverage under this subchapter.
+
+(3) A deceased individual.
+
+(Aug. 14, 1935, ch. 531, title XVIII, §1874, as added and amended Pub. L. 89–97, title I, §§102(a), 111(a), July 30, 1965, 79 Stat. 332, 340; Pub. L. 92–603, title II, §289, Oct. 30, 1972, 86 Stat. 1457; Pub. L. 93–445, title III, §310, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 110–275, title I, §189(a), July 15, 2008, 122 Stat. 2590; Pub. L. 111–148, title X, §10332(a), Mar. 23, 2010, 124 Stat. 968; Pub. L. 114–10, title I, §105(c), (d), title V, §502(a), Apr. 16, 2015, 129 Stat. 137, 165.)
 
 #### References in Text ####
 
@@ -97,6 +107,14 @@ The Internal Revenue Code of 1986, referred to in subsec. (d)(1), is classified 
 July 15, 2008, referred to in subsec. (d)(1)(A) and (B), was in the original "the date of the enactment of this section" and "such date", which were translated as meaning the date of enactment of Pub. L. 110–275, which enacted subsec. (d), to reflect the probable intent of Congress.
 
 #### Amendments ####
+
+**2015**—Subsec. (e). Pub. L. 114–10, §105(c)(1), struck out "Medicare" before "data" in heading.
+
+Subsec. (e)(3). Pub. L. 114–10, §105(c)(2), inserted "Beginning July 1, 2016, if the Secretary determines appropriate, the data described in this paragraph may also include standardized extracts (as determined by the Secretary) of claims data under subchapters XIX and XXI for assistance provided under such subchapters for one or more specified geographic areas and time periods requested by a qualified entity." before "The Secretary" and "or under subchapters XIX or XXI" before period at end.
+
+Subsec. (e)(4)(A). Pub. L. 114–10, §105(d), inserted ", for periods prior to July 1, 2016," after "deposited" and ", and, beginning July 1, 2016, into the Centers for Medicare & Medicaid Services Program Management Account" before period at end.
+
+Subsec. (f). Pub. L. 114–10, §502(a), added subsec. (f).
 
 **2010**—Subsec. (e). Pub. L. 111–148 added subsec. (e).
 
@@ -124,4 +142,10 @@ Amendment by Pub. L. 93–445 effective Jan. 1, 1975, see section 603 of Pub. L.
 
 Amendment by Pub. L. 89–97 applicable to calendar year 1966 or to any subsequent calendar year but only if by October 1 immediately preceding such calendar year the Railroad Retirement Tax Act provides for a maximum amount of monthly compensation taxable under such Act during all months of such calendar year equal to one-twelfth of maximum wages which Federal Insurance Contributions Act provides may be counted for such calendar year, see Pub. L. 89–97, title I, §111(e), July 30, 1965, 79 Stat. 343.
 
+#### Report ####
+
+Pub. L. 114–10, title V, §502(b), Apr. 16, 2015, 129 Stat. 165, provided that: "Not later than 18 months after the date of the enactment of this section [Apr. 16, 2015], and periodically thereafter as determined necessary by the Office of Inspector General of the Department of Health and Human Services, such Office shall submit to Congress a report on the activities described in subsection (f) of section 1874 of the Social Security Act (42 U.S.C. 1395kk), as added by subsection (a), that have been conducted since such date of enactment."
+
 [<sup>1</sup> See References in Text note below.](#1395kk_1)
+
+[<sup>2</sup> So in original. Probably should be "subchapter".](#1395kk_2)

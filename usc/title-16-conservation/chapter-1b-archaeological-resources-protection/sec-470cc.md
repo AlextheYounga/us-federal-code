@@ -42,7 +42,7 @@ Any permit issued under this section may be suspended by the Federal land manage
 
 (1) No permit or other permission shall be required under chapter 3203 of title 54,<sup><a href="#470cc_3_target" name="470cc_3">3</a></sup> for any activity for which a permit is issued under this section.
 
-(2) Any permit issued under chapter 3203 of title 54,<sup><a href="#470cc_2_target" name="470cc_2">2</a></sup> shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under chapter 3203 of title 54,<sup><a href="#470cc_2_target" name="470cc_2">2</a></sup> before October 31, 1979, which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
+(2) Any permit issued under chapter 3203 of title 54,<sup><a href="#470cc_3_target" name="470cc_3">3</a></sup> shall remain in effect according to its terms and conditions following the enactment of this chapter. No permit under this chapter shall be required to carry out any activity under a permit issued under chapter 3203 of title 54,<sup><a href="#470cc_3_target" name="470cc_3">3</a></sup> before October 31, 1979, which remains in effect as provided in this paragraph, and nothing in this chapter shall modify or affect any such permit.
 
 #### (i) Compliance with provisions relating to undertakings on property listed in the National Register not required ####
 
@@ -56,7 +56,7 @@ Upon the written request of the Governor of any State, the Federal land manager 
 
 #### References in Text ####
 
-The Act of June 8, 1906, referred to in subsec. (g)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906 and as the National Monument Act, which was classified generally to sections 431, 432, and 433 of Title 16, Conservation, prior to the enactment of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, Dec. 19, 2014, 128 Stat. 3094. See chapter 3203 of Title 54.
+The Act of June 8, 1906, referred to in subsec. (g)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which was classified generally to sections 431, 432, and 433 of this title. The Act was repealed and restated as section 1866(b) of Title 18, Crimes and Criminal Procedure, and sections 320301(a) to (c), 320302, and 320303 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 Following the enactment of this chapter, referred to in subsec. (h)(2), means following the enactment of Pub. L. 96–95, approved Oct. 31, 1979.
 

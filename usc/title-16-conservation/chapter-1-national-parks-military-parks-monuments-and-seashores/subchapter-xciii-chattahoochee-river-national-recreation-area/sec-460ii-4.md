@@ -76,7 +76,7 @@ Actions which are part of a project recommended in the study entitled "Metropoli
 
 #### References in Text ####
 
-The Land and Water Conservation Fund Act (78 Stat. 897), referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which was classified generally to part B (§460l–4 et seq.) of subchapter LXIX of this chapter prior to the enactment of Title 54, National Park Service and Related Programs. See chapter 2003 of Title 54.
+The Land and Water Conservation Fund Act (78 Stat. 897), referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which was classified principally to former part B (§460l–4 et seq.) of subchapter LXIX of this chapter. Sections 2, 3, 4(i)(1)(C), (j) to (n), 5 to 13, and 201 of the Act were repealed and restated as sections 100506(c) and 100904 and chapter 2003 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 The convening of the Ninety-sixth Congress, referred to in subsec. (a)(1), took place on Jan. 15, 1979.
 

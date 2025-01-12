@@ -1,10 +1,12 @@
 ### §221b. Various laws made applicable to added lands ###
 
-The provisions of sections 221, 222, 224, 225, 227, 228, and 687 of this title, the Act of August 25, 1916, entitled "An Act to establish a national park service, and for other purposes," <sup><a href="#221b_1_target" name="221b_1">1</a></sup> and all acts supplementary to and amendatory of said sections are made applicable to and extended over the lands hereby added to the park: *Provided*, That the provisions of the Federal Power Act [16 U.S.C. 791a et seq.] shall not apply to or extend over such lands.
+The provisions of the Act of February 26, 1919, entitled "An Act to establish the Grand Canyon National Park in the State of Arizona," the Act of August 25, 1916, entitled "An Act to establish a national park service, and for other purposes," <sup><a href="#221b_1_target" name="221b_1">1</a></sup> and all acts supplementary to and amendatory of said Acts are made applicable to and extended over the lands hereby added to the park: *Provided*, That the provisions of the Federal Power Act [16 U.S.C. 791a et seq.] shall not apply to or extend over such lands.
 
 (Feb. 25, 1927, ch. 197, §2, 44 Stat. 1240.)
 
 #### References in Text ####
+
+The Act of February 26, 1919, entitled "An Act to establish the Grand Canyon National Park in the State of Arizona,", referred to in text, is act Feb. 26, 1919, ch. 44, 40 Stat. 1175, which is classified to sections 221, 222 to 228, and 687 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Act of August 25, 1916, entitled "An Act to establish a national park service, and for other purposes", referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 

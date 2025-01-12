@@ -56,9 +56,9 @@ Subsec. (d). Pub. L. 111–383, §901(b)(3)(A), (D), substituted "Principal Depu
 
 #### Effective Date of 2014 Amendment ####
 
-Pub. L. 113–291, div. A, title IX, §901(i)(1), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment by section 901(i)(1) is effective Jan. 1, 2015.
+Pub. L. 113–291, div. A, title IX, §901(i)(1), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment made by section 901(i)(1) is effective Jan. 1, 2015.
 
-Pub. L. 113–291, div. A, title IX, §901(j)(2), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment by section 901(j)(2)(C) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which is Feb. 1, 2017.
+Pub. L. 113–291, div. A, title IX, §901(j)(2), Dec. 19, 2014, 128 Stat. 3467, provided that the amendment made by section 901(j)(2)(C) is effective on the effective date specified in section 901(a)(1) of Pub. L. 113–291, which is Feb. 1, 2017.
 
 #### Effective Date of 2011 Amendment ####
 

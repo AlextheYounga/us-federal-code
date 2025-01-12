@@ -14,7 +14,7 @@ Within 6 months after October 27, 1986, the Secretary of the Interior (hereinaft
 
 #### (d) Incorporation of Lehman Caves National Monument within park ####
 
-(1) The Lehman Caves National Monument, designated on January 24, 1922, by Presidential proclamation under the authority contained in the Act of June 8, 1906 (34 Stat. 225) is hereby abolished and the lands incorporated within the Great Basin National Park. Any reference in any law, map, regulation, document, record, or other paper of the United States to such national monument shall be deemed to be a reference to Great Basin National Park.
+(1) The Lehman Caves National Monument, designated on January 24, 1922, by Presidential proclamation under the authority contained in the Act of June 8, 1906 (34 Stat. 225) <sup><a href="#410mm_1_target" name="410mm_1">1</a></sup> is hereby abolished and the lands incorporated within the Great Basin National Park. Any reference in any law, map, regulation, document, record, or other paper of the United States to such national monument shall be deemed to be a reference to Great Basin National Park.
 
 (2) Any funds available for purposes of the national monument shall be available for purposes of the park.
 
@@ -22,7 +22,7 @@ Within 6 months after October 27, 1986, the Secretary of the Interior (hereinaft
 
 #### References in Text ####
 
-Act of June 8, 1906, referred to in subsec. (d)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906. For complete classification of this Act to the Code, see Tables.
+Act of June 8, 1906 (34 Stat. 225), referred to in subsec. (d)(1), is act June 8, 1906, ch. 3060, 34 Stat. 225, known as the Antiquities Act of 1906, which was classified generally to sections 431, 432, and 433 of this title. The Act was repealed and restated as section 1866(b) of Title 18, Crimes and Criminal Procedure, and sections 320301(a) to (c), 320302, and 320303 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 #### Change of Name ####
 
@@ -31,3 +31,5 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 #### Short Title ####
 
 Pub. L. 99–565, §1, Oct. 27, 1986, 100 Stat. 3181, provided that: "This Act [enacting this subchapter] may be known as the 'Great Basin National Park Act of 1986'."
+
+[<sup>1</sup> See References in Text note below.](#410mm_1)

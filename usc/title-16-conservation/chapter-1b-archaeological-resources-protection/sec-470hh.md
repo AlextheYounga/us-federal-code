@@ -24,4 +24,4 @@ the Federal land manager concerned shall provide to the Governor information con
 
 #### Amendments ####
 
-**2014**—Subsec. (a)(1). Pub. L. 113–287 Sec. 5(d)(8), which directed substitution of "chapter 3125 of title 54" for "the Act of June 27, 1960 (16 U.S.C. 469–469c)" in subsec. (a)(2), was executed by making the substitution in subsec. (a)(1), to reflect the probable intent of Congress.
+**2014**—Subsec. (a)(1). Pub. L. 113–287, which directed substitution of "chapter 3125 of title 54" for "the Act of June 27, 1960 (16 U.S.C. 469–469c)" in subsec. (a)(2), was executed by making the substitution in subsec. (a)(1), to reflect the probable intent of Congress.

@@ -1,6 +1,6 @@
 ### §355a. Laws applicable to added lands ###
 
-The provisions of the Act of August 25, 1916, entitled "An Act to establish a national park service, and for other purposes," <sup><a href="#355a_1_target" name="355a_1">1</a></sup> and this subchapter, together with all Acts supplementary to and amendatory of said sections and subchapter are made applicable to and extended over the lands added to the park by section 355 of this title.
+The provisions of the Act of August 25, 1916, entitled "An Act to establish a national park service, and for other purposes," <sup><a href="#355a_1_target" name="355a_1">1</a></sup> and this subchapter, together with all Acts supplementary to and amendatory of said Act and subchapter are made applicable to and extended over the lands added to the park by section 355 of this title.
 
 (Mar. 19, 1932, ch. 88, §2, 47 Stat. 69.)
 

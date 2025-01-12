@@ -36,7 +36,7 @@ Pub. L. 113–291, div. A, title X, §1072(b)(1), (c), Dec. 19, 2014, 128 Stat. 
 
 #### Effective Date of Repeal ####
 
-Repeal of section effective Oct. 1, 2015, see section 1072(c) of Pub. L. 113–291, set out as an Effective Date of 2014 Amendment note under section 118 of this title.
+Repeal effective Oct. 1, 2015, see section 1072(c) of Pub. L. 113–291, set out as an Effective Date of 2014 Amendment note under section 118 of this title.
 
 #### Inclusion of Assessment of Joint Military Training and Force Allocations in Quadrennial Defense Review and National Military Strategy ####
 

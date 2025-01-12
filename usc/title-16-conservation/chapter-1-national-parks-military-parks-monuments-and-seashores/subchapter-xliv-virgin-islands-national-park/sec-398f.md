@@ -8,9 +8,9 @@ Effective October 1, 1978, there are authorized to be appropriated such sums as 
 
 Paragraph (2) of the Act of June 10, 1977 (Public Law 95–42; 91 Stat. 210), referred to in text, amended former section 460l–7 of this title.
 
-The Land and Water Conservation Fund Act, referred to in text, probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which was classified principally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title prior to the enactment of Title 54, National Park Service and Related Programs. See chapter 2003 of Title 54.
+The Land and Water Conservation Fund Act, referred to in text, probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which was classified principally to former part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. Sections 2, 3, 4(i)(1)(C), (j) to (n), 5 to 13, and 201 of the Act were repealed and restated as sections 100506(c) and 100904 and chapter 2003 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
-The Historic Preservation Act, referred to in text, probably means Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, known as the National Historic Preservation Act, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of this title prior to the enactment of Title 54. See 54 U.S.C. 300101 et seq.
+The Historic Preservation Act, referred to in text, probably means Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, known as the National Historic Preservation Act, which was classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. The Act, except for section 1, was repealed and restated in division A (§300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 
 #### Amendments ####
 

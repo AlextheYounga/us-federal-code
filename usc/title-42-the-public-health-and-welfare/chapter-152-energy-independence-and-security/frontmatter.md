@@ -48,6 +48,10 @@ Sec.
 
 17061. Definitions.
 
+17062. Energy efficiency in Federal and other buildings.
+
+17063. Energy information for commercial buildings.
+
 #### Part A—Residential Building Efficiency ####
 
 17071. Energy Code improvements applicable to manufactured housing.
@@ -59,6 +63,10 @@ Sec.
 17082. Zero Net Energy Commercial Buildings Initiative.
 
 17083. Public outreach.
+
+17084. Separate spaces with high-performance energy efficiency measures.
+
+17085. Tenant Star program.
 
 #### Part C—High-Performance Federal Buildings ####
 

@@ -1,10 +1,12 @@
 ### §201b. Sections applicable to lands within revised boundaries ###
 
-The provisions of sections 201, 202, and 203 of this title, the Act of August 25, 1916, entitled "An Act to establish a National Park Service, and for other purposes," <sup><a href="#201b_1_target" name="201b_1">1</a></sup> and all Acts supplementary to and amendatory of said sections are made applicable to and extended over the lands added to the park by section 201a of this title: *Provided*, That the provisions of the Federal Power Act [16 U.S.C. 791a et seq.] shall not apply to or extend over such lands.
+The provisions of the Act of August 9, 1916, entitled "An Act to establish the Lassen Volcanic National Park in the Sierra Nevada Mountains in the State of California, and for other purposes," the Act of August 25, 1916, entitled "An Act to establish a National Park Service, and for other purposes," <sup><a href="#201b_1_target" name="201b_1">1</a></sup> and all Acts supplementary to and amendatory of said Acts are made applicable to and extended over the lands added to the park by section 201a of this title: *Provided*, That the provisions of the Federal Power Act [16 U.S.C. 791a et seq.] shall not apply to or extend over such lands.
 
 (Jan. 19, 1929, ch. 75, §2, 45 Stat. 1082.)
 
 #### References in Text ####
+
+The Act of August 9, 1916, entitled "An Act to establish the Lassen Volcanic National Park in the Sierra Nevada Mountains in the State of California, and for other purposes,", referred to in text, is act Aug. 9, 1916, ch. 302, 39 Stat. 442, which enacted sections 201, 202, and 203 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Act of August 25, 1916, entitled "An Act to establish a National Park Service, and for other purposes", referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title, amended sections 22 and 43 of this title and section 1457 of Title 43, Public Lands, and enacted provisions set out as a note under section 1 of this title. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
 

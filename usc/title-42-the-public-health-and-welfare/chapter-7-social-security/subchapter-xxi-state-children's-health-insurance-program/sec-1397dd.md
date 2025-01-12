@@ -36,13 +36,21 @@ For the purpose of providing allotments to States under this section, subject to
 
 (16) for fiscal year 2013, $17,406,000,000;
 
-(17) for fiscal year 2014, $19,147,000,000; and
+(17) for fiscal year 2014, $19,147,000,000;
 
 (18) for fiscal year 2015, for purposes of making 2 semi-annual allotments—
 
 (A) $2,850,000,000 for the period beginning on October 1, 2014, and ending on March 31, 2015, and
 
-(B) $2,850,000,000 for the period beginning on April 1, 2015, and ending on September 30, 2015.
+(B) $2,850,000,000 for the period beginning on April 1, 2015, and ending on September 30, 2015;
+
+(19) for fiscal year 2016, $19,300,000,000; and
+
+(20) for fiscal year 2017, for purposes of making 2 semi-annual allotments—
+
+(A) $2,850,000,000 for the period beginning on October 1, 2016, and ending on March 31, 2017; and
+
+(B) $2,850,000,000 for the period beginning on April 1, 2017, and ending on September 30, 2017.
 
 #### (b) Allotments to 50 States and District of Columbia ####
 
@@ -148,7 +156,7 @@ The term "subsection (b) State" means one of the 50 States or the District of Co
 
 #### (1) In general ####
 
-Of the amount available for allotment under subsection (a) of this section for a fiscal year, subject to subsections (d) and (m)(4), the Secretary shall allot 0.25 percent among each of the commonwealths and territories described in paragraph (3) in the same proportion as the percentage specified in paragraph (2) for such commonwealth or territory bears to the sum of such percentages for all such commonwealths or territories so described.
+Of the amount available for allotment under subsection (a) of this section for a fiscal year, subject to subsections (d) and (m)(5), the Secretary shall allot 0.25 percent among each of the commonwealths and territories described in paragraph (3) in the same proportion as the percentage specified in paragraph (2) for such commonwealth or territory bears to the sum of such percentages for all such commonwealths or territories so described.
 
 #### (2) Percentage ####
 
@@ -608,29 +616,29 @@ The Secretary may adjust the estimates and determinations made to carry out this
 
 Notwithstanding subsections (e) and (f), amounts allotted to a State pursuant to this subsection for fiscal year 2009, subject to paragraph (5), shall only remain available for expenditure by the State through March 31, 2009. Any amounts of such allotments that remain unexpended as of such date shall not be subject to redistribution under subsection (f).
 
-#### (m) Allotments for fiscal years 2009 through 2015 ####
+#### (m) Allotments for fiscal years 2009 and thereafter ####
 
 #### (1) For fiscal year 2009 ####
 
 #### (A) For the 50 States and the District of Columbia ####
 
-Subject to the succeeding provisions of this paragraph and paragraph (4), the Secretary shall allot for fiscal year 2009 from the amount made available under subsection (a)(12), to each of the 50 States and the District of Columbia 110 percent of the highest of the following amounts for such State or District:
+Subject to the succeeding provisions of this paragraph and paragraph (5), the Secretary shall allot for fiscal year 2009 from the amount made available under subsection (a)(12), to each of the 50 States and the District of Columbia 110 percent of the highest of the following amounts for such State or District:
 
-(i) The total Federal payments to the State under this subchapter for fiscal year 2008, multiplied by the allotment increase factor determined under paragraph (5) for fiscal year 2009.
+(i) The total Federal payments to the State under this subchapter for fiscal year 2008, multiplied by the allotment increase factor determined under paragraph (6) for fiscal year 2009.
 
-(ii) The amount allotted to the State for fiscal year 2008 under subsection (b), multiplied by the allotment increase factor determined under paragraph (5) for fiscal year 2009.
+(ii) The amount allotted to the State for fiscal year 2008 under subsection (b), multiplied by the allotment increase factor determined under paragraph (6) for fiscal year 2009.
 
 (iii) The projected total Federal payments to the State under this subchapter for fiscal year 2009, as determined on the basis of the February 2009 projections certified by the State to the Secretary by not later than March 31, 2009.
 
 #### (B) For the commonwealths and territories ####
 
-Subject to the succeeding provisions of this paragraph and paragraph (4), the Secretary shall allot for fiscal year 2009 from the amount made available under subsection (a)(12) to each of the commonwealths and territories described in subsection (c)(3) an amount equal to the highest amount of Federal payments to the commonwealth or territory under this subchapter for any fiscal year occurring during the period of fiscal years 1999 through 2008, multiplied by the allotment increase factor determined under paragraph (5) for fiscal year 2009, except that subparagraph (B) thereof shall be applied by substituting "the United States" for "the State".
+Subject to the succeeding provisions of this paragraph and paragraph (5), the Secretary shall allot for fiscal year 2009 from the amount made available under subsection (a)(12) to each of the commonwealths and territories described in subsection (c)(3) an amount equal to the highest amount of Federal payments to the commonwealth or territory under this subchapter for any fiscal year occurring during the period of fiscal years 1999 through 2008, multiplied by the allotment increase factor determined under paragraph (6) for fiscal year 2009, except that subparagraph (B) thereof shall be applied by substituting "the United States" for "the State".
 
 #### (C) Adjustment for qualifying States ####
 
 In the case of a qualifying State described in paragraph (2) of section 1397ee(g) of this title, the Secretary shall permit the State to submit a revised projection described in subparagraph (A)(iii) in order to take into account changes in such projections attributable to the application of paragraph (4) of such section.
 
-#### (2) For fiscal years 2010 through 2014 ####
+#### (2) For fiscal years 2010 through 2016 ####
 
 #### (A) In general ####
 
@@ -644,11 +652,11 @@ For fiscal year 2010, the allotment of the State is equal to the sum of—
 
 (II) the amount of any payments made to the State under subsection (k), (l), or (n) for fiscal year 2009,
 
- multiplied by the allotment increase factor under paragraph (5) for fiscal year 2010.
+ multiplied by the allotment increase factor under paragraph (6) for fiscal year 2010.
 
 #### (ii) Rebasing in fiscal year 2011 ####
 
-For fiscal year 2011, the allotment of the State is equal to the Federal payments to the State that are attributable to (and countable towards) the total amount of allotments available under this section to the State in fiscal year 2010 (including payments made to the State under subsection (n) for fiscal year 2010 as well as amounts redistributed to the State in fiscal year 2010), multiplied by the allotment increase factor under paragraph (5) for fiscal year 2011.
+For fiscal year 2011, the allotment of the State is equal to the Federal payments to the State that are attributable to (and countable towards) the total amount of allotments available under this section to the State in fiscal year 2010 (including payments made to the State under subsection (n) for fiscal year 2010 as well as amounts redistributed to the State in fiscal year 2010), multiplied by the allotment increase factor under paragraph (6) for fiscal year 2011.
 
 #### (iii) Growth factor update for fiscal year 2012 ####
 
@@ -658,35 +666,43 @@ For fiscal year 2012, the allotment of the State is equal to the sum of—
 
 (II) the amount of any payments made to the State under subsection (n) for fiscal year 2011,
 
- multiplied by the allotment increase factor under paragraph (5) for fiscal year 2012.
+ multiplied by the allotment increase factor under paragraph (6) for fiscal year 2012.
 
-#### (B) Fiscal years 2013 and 2014 ####
+#### (B) Fiscal year 2013 and each succeeding fiscal year ####
 
-Subject to paragraphs (4) and (6), from the amount made available under paragraphs (16) and (17) of subsection (a) for fiscal years 2013 and 2014, respectively, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for each such fiscal year as follows:
+Subject to paragraphs (5) and (7), from the amount made available under paragraphs (16) through (19) of subsection (a) for fiscal year 2013 and each succeeding fiscal year, respectively, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for each such fiscal year as follows:
 
-#### (i) Rebasing in fiscal year 2013 ####
+#### (i) Rebasing in fiscal year 2013 and each succeeding odd-numbered fiscal year ####
 
-For fiscal year 2013, the allotment of the State is equal to the Federal payments to the State that are attributable to (and countable towards) the total amount of allotments available under this section to the State in fiscal year 2012 (including payments made to the State under subsection (n) for fiscal year 2012 as well as amounts redistributed to the State in fiscal year 2012), multiplied by the allotment increase factor under paragraph (5) for fiscal year 2013.
+For fiscal year 2013 and each succeeding odd-numbered fiscal year (other than fiscal years 2015 and 2017), the allotment of the State is equal to the Federal payments to the State that are attributable to (and countable toward) the total amount of allotments available under this section to the State in the preceding fiscal year (including payments made to the State under subsection (n) for such preceding fiscal year as well as amounts redistributed to the State in such preceding fiscal year), multiplied by the allotment increase factor under paragraph (6) for such odd-numbered fiscal year.
 
-#### (ii) Growth factor update for fiscal year 2014 ####
+#### (ii) Growth factor update for fiscal year 2014 and each succeeding even-numbered fiscal year ####
 
-For fiscal year 2014, the allotment of the State is equal to the sum of—
+Except as provided in clauses (iii) and (iv), for fiscal year 2014 and each succeeding even-numbered fiscal year, the allotment of the State is equal to the sum of—
 
-(I) the amount of the State allotment under clause (i) for fiscal year 2013; and
+(I) the amount of the State allotment under clause (i) for the preceding fiscal year; and
 
-(II) the amount of any payments made to the State under subsection (n) for fiscal year 2013,
+(II) the amount of any payments made to the State under subsection (n) for such preceding fiscal year,
 
- multiplied by the allotment increase factor under paragraph (5) for fiscal year 2014.
+multiplied by the allotment increase factor under paragraph (6) for such even-numbered fiscal year.
+
+#### (iii) Special rule for 2016 ####
+
+For fiscal year 2016, the allotment of the State is equal to the Federal payments to the State that are attributable to (and countable toward) the total amount of allotments available under this section to the State in the preceding fiscal year (including payments made to the State under subsection (n) for such preceding fiscal year as well as amounts redistributed to the State in such preceding fiscal year), but determined as if the last two sentences of section 1397ee(b) of this title were in effect in such preceding fiscal year and then multiplying the result by the allotment increase factor under paragraph (6) for fiscal year 2016.
+
+#### (iv) Reduction in 2018 ####
+
+For fiscal year 2018, with respect to the allotment of the State for fiscal year 2017, any amounts of such allotment that remain available for expenditure by the State in fiscal year 2018 shall be reduced by one-third.
 
 #### (3) For fiscal year 2015 ####
 
 #### (A) First half ####
 
-Subject to paragraphs (4) and (6), from the amount made available under subparagraph (A) of paragraph (18) of subsection (a) for the semi-annual period described in such paragraph, increased by the amount of the appropriation for such period under section 108 of the Children's Health Insurance Program Reauthorization Act of 2009, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for such semi-annual period in an amount equal to the first half ratio (described in subparagraph (D)) of the amount described in subparagraph (C).
+Subject to paragraphs (5) and (7), from the amount made available under subparagraph (A) of paragraph (18) of subsection (a) for the semi-annual period described in such paragraph, increased by the amount of the appropriation for such period under section 108 of the Children's Health Insurance Program Reauthorization Act of 2009, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for such semi-annual period in an amount equal to the first half ratio (described in subparagraph (D)) of the amount described in subparagraph (C).
 
 #### (B) Second half ####
 
-Subject to paragraphs (4) and (6), from the amount made available under subparagraph (B) of paragraph (18) of subsection (a) for the semi-annual period described in such paragraph, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for such semi-annual period in an amount equal to the amount made available under such subparagraph, multiplied by the ratio of—
+Subject to paragraphs (5) and (7), from the amount made available under subparagraph (B) of paragraph (18) of subsection (a) for the semi-annual period described in such paragraph, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for such semi-annual period in an amount equal to the amount made available under such subparagraph, multiplied by the ratio of—
 
 (i) the amount of the allotment to such State under subparagraph (A); to
 
@@ -694,7 +710,7 @@ Subject to paragraphs (4) and (6), from the amount made available under subparag
 
 #### (C) Full year amount based on rebased amount ####
 
-The amount described in this subparagraph for a State is equal to the Federal payments to the State that are attributable to (and countable towards) the total amount of allotments available under this section to the State in fiscal year 2014 (including payments made to the State under subsection (n) for fiscal year 2014 as well as amounts redistributed to the State in fiscal year 2014), multiplied by the allotment increase factor under paragraph (5) for fiscal year 2015.
+The amount described in this subparagraph for a State is equal to the Federal payments to the State that are attributable to (and countable towards) the total amount of allotments available under this section to the State in fiscal year 2014 (including payments made to the State under subsection (n) for fiscal year 2014 as well as amounts redistributed to the State in fiscal year 2014), multiplied by the allotment increase factor under paragraph (6) for fiscal year 2015.
 
 #### (D) First half ratio ####
 
@@ -712,11 +728,45 @@ The first half ratio described in this subparagraph is the ratio of—
 
 (II) the amount made available under subsection (a)(18)(B).
 
-#### (4) Proration rule ####
+#### (4) For fiscal year 2017 ####
 
-If, after the application of this subsection without regard to this paragraph, the sum of the allotments determined under paragraph (1), (2), or (3) for a fiscal year (or, in the case of fiscal year 2015, for a semi-annual period in such fiscal year) exceeds the amount available under subsection (a) for such fiscal year or period, the Secretary shall reduce each allotment for any State under such paragraph for such fiscal year or period on a proportional basis.
+#### (A) First half ####
 
-#### (5) Allotment increase factor ####
+Subject to paragraphs (5) and (7), from the amount made available under subparagraph (A) of paragraph (20) of subsection (a) for the semi-annual period described in such paragraph, increased by the amount of the appropriation for such period under section 301(b)(3) of the Medicare Access and CHIP Reauthorization Act of 2015, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for such semi-annual period in an amount equal to the first half ratio (described in subparagraph (D)) of the amount described in subparagraph (C).
+
+#### (B) Second half ####
+
+Subject to paragraphs (5) and (7), from the amount made available under subparagraph (B) of paragraph (20) of subsection (a) for the semi-annual period described in such paragraph, the Secretary shall compute a State allotment for each State (including the District of Columbia and each commonwealth and territory) for such semi-annual period in an amount equal to the amount made available under such subparagraph, multiplied by the ratio of—
+
+(i) the amount of the allotment to such State under subparagraph (A); to
+
+(ii) the total of the amount of all of the allotments made available under such subparagraph.
+
+#### (C) Full year amount based on rebased amount ####
+
+The amount described in this subparagraph for a State is equal to the Federal payments to the State that are attributable to (and countable towards) the total amount of allotments available under this section to the State in fiscal year 2016 (including payments made to the State under subsection (n) for fiscal year 2016 as well as amounts redistributed to the State in fiscal year 2016), multiplied by the allotment increase factor under paragraph (6) for fiscal year 2017.
+
+#### (D) First half ratio ####
+
+The first half ratio described in this subparagraph is the ratio of—
+
+(i) the sum of—
+
+(I) the amount made available under subsection (a)(20)(A); and
+
+(II) the amount of the appropriation for such period under section 301(b)(3) of the Medicare Access and CHIP Reauthorization Act of 2015; to
+
+(ii) the sum of the <sup><a href="#1397dd_3_target" name="1397dd_3">3</a></sup> —
+
+(I) amount described in clause (i); and
+
+(II) the <sup><a href="#1397dd_3_target" name="1397dd_3">3</a></sup> amount made available under subsection (a)(20)(B).
+
+#### (5) Proration rule ####
+
+If, after the application of this subsection without regard to this paragraph, the sum of the allotments determined under paragraph (1), (2), (3), or (4) for a fiscal year (or, in the case of fiscal year 2015 or 2017, for a semi-annual period in such fiscal year) exceeds the amount available under subsection (a) for such fiscal year or period, the Secretary shall reduce each allotment for any State under such paragraph for such fiscal year or period on a proportional basis.
+
+#### (6) Allotment increase factor ####
 
 The allotment increase factor under this paragraph for a fiscal year is equal to the product of the following:
 
@@ -728,11 +778,11 @@ The allotment increase factor under this paragraph for a fiscal year is equal to
 
 1 plus the percentage increase (if any) in the population of children in the State from July 1 in the previous fiscal year to July 1 in the fiscal year involved, as determined by the Secretary based on the most recent published estimates of the Bureau of the Census before the beginning of the fiscal year involved, plus 1 percentage point.
 
-#### (6) Increase in allotment to account for approved program expansions ####
+#### (7) Increase in allotment to account for approved program expansions ####
 
 In the case of one of the 50 States or the District of Columbia that—
 
-(A) has submitted to the Secretary, and has approved by the Secretary, a State plan amendment or waiver request relating to an expansion of eligibility for children or benefits under this subchapter that becomes effective for a fiscal year (beginning with fiscal year 2010 and ending with fiscal year 2015); and
+(A) has submitted to the Secretary, and has approved by the Secretary, a State plan amendment or waiver request relating to an expansion of eligibility for children or benefits under this subchapter that becomes effective for a fiscal year (beginning with fiscal year 2010 and ending with fiscal year 2017); and
 
 (B) has submitted to the Secretary, before the August 31 preceding the beginning of the fiscal year, a request for an expansion allotment adjustment under this paragraph for such fiscal year that specifies—
 
@@ -740,15 +790,15 @@ In the case of one of the 50 States or the District of Columbia that—
 
 (ii) the extent to which such additional expenditures are projected to exceed the allotment of the State or District for the year,
 
-subject to paragraph (4), the amount of the allotment of the State or District under this subsection for such fiscal year shall be increased by the excess amount described in subparagraph (B)(i). A State or District may only obtain an increase under this paragraph for an allotment for fiscal year 2010, fiscal year 2012, or fiscal year 2014.
+subject to paragraph (5), the amount of the allotment of the State or District under this subsection for such fiscal year shall be increased by the excess amount described in subparagraph (B)(i). A State or District may only obtain an increase under this paragraph for an allotment for fiscal year 2010, fiscal year 2012, fiscal year 2014, or fiscal year 2016.
 
-#### (7) Adjustment of fiscal year 2010 allotments to account for changes in projected spending for certain previously approved expansion programs ####
+#### (8) Adjustment of fiscal year 2010 allotments to account for changes in projected spending for certain previously approved expansion programs ####
 
 For purposes of recalculating the fiscal year 2010 allotment, in the case of one of the 50 States or the District of Columbia that has an approved State plan amendment effective January 1, 2006, to provide child health assistance through the provision of benefits under the State plan under subchapter XIX for children from birth through age 5 whose family income does not exceed 200 percent of the poverty line, the Secretary shall increase the allotment by an amount that would be equal to the Federal share of expenditures that would have been claimed at the enhanced FMAP rate rather than the Federal medical assistance percentage matching rate for such population.
 
-#### (8) Availability of amounts for semi-annual periods in fiscal year 2015 ####
+#### (9) Availability of amounts for semi-annual periods in fiscal years 2015 and 2017 ####
 
-Each semi-annual allotment made under paragraph (3) for a period in fiscal year 2015 shall remain available for expenditure under this subchapter for periods after the end of such fiscal year in the same manner as if the allotment had been made available for the entire fiscal year.
+Each semi-annual allotment made under paragraph (3) or (4) for a period in fiscal year 2015 or fiscal year 2017 shall remain available for expenditure under this subchapter for periods after the end of such fiscal year in the same manner as if the allotment had been made available for the entire fiscal year.
 
 #### (n) Child Enrollment Contingency Fund ####
 
@@ -764,11 +814,11 @@ Subject to subparagraphs (B) and (D), out of any money in the Treasury of the Un
 
 (i) for fiscal year 2009, an amount equal to 20 percent of the amount made available under paragraph (12) of subsection (a) for the fiscal year; and
 
-(ii) for each of fiscal years 2010 through 2014 (and for each of the semi-annual allotment periods for fiscal year 2015), such sums as are necessary for making payments to eligible States for such fiscal year or period, but not in excess of the aggregate cap described in subparagraph (B).
+(ii) for each of fiscal years 2010, 2011, 2012, 2013, 2014, and 2016 (and for each of the semi-annual allotment periods for fiscal year 2015 and fiscal year 2017), such sums as are necessary for making payments to eligible States for such fiscal year or period, but not in excess of the aggregate cap described in subparagraph (B).
 
 #### (B) Aggregate cap ####
 
-The total amount available for payment from the Fund for each of fiscal years 2010 through 2014 (and for each of the semi-annual allotment periods for fiscal year 2015), taking into account deposits made under subparagraph (C), shall not exceed 20 percent of the amount made available under subsection (a) for the fiscal year or period.
+The total amount available for payment from the Fund for each of fiscal years 2010, 2011, 2012, 2013, 2014, and 2016 (and for each of the semi-annual allotment periods for fiscal year 2015 and fiscal year 2017), taking into account deposits made under subparagraph (C), shall not exceed 20 percent of the amount made available under subsection (a) for the fiscal year or period.
 
 #### (C) Investment of Fund ####
 
@@ -782,7 +832,7 @@ Any amounts in excess of the aggregate cap described in subparagraph (B) for a f
 
 #### (A) In general ####
 
-If a State's expenditures under this subchapter in fiscal year 2009, fiscal year 2010, fiscal year 2011, fiscal year 2012, fiscal year 2013, fiscal year 2014, or a semi-annual allotment period for fiscal year 2015, exceed the total amount of allotments available under this section to the State in the fiscal year or period (determined without regard to any redistribution it receives under subsection (f) that is available for expenditure during such fiscal year or period, but including any carryover from a previous fiscal year) and if the average monthly unduplicated number of children enrolled under the State plan under this subchapter (including children receiving health care coverage through funds under this subchapter pursuant to a waiver under section 1315 of this title) during such fiscal year or period exceeds its target average number of such enrollees (as determined under subparagraph (B)) for that fiscal year or period, subject to subparagraph (D), the Secretary shall pay to the State from the Fund an amount equal to the product of—
+If a State's expenditures under this subchapter in any of fiscal years 2009 through 2014, fiscal year 2016, or a semi-annual allotment period for fiscal year 2015 or 2017, exceed the total amount of allotments available under this section to the State in the fiscal year or period (determined without regard to any redistribution it receives under subsection (f) that is available for expenditure during such fiscal year or period, but including any carryover from a previous fiscal year) and if the average monthly unduplicated number of children enrolled under the State plan under this subchapter (including children receiving health care coverage through funds under this subchapter pursuant to a waiver under section 1315 of this title) during such fiscal year or period exceeds its target average number of such enrollees (as determined under subparagraph (B)) for that fiscal year or period, subject to subparagraph (D), the Secretary shall pay to the State from the Fund an amount equal to the product of—
 
 (i) the amount by which such average monthly caseload exceeds such target number of enrollees; and
 
@@ -794,7 +844,7 @@ In this paragraph, the target average number of child enrollees for a State—
 
 (i) for fiscal year 2009 is equal to the monthly average unduplicated number of children enrolled in the State child health plan under this subchapter (including such children receiving health care coverage through funds under this subchapter pursuant to a waiver under section 1315 of this title) during fiscal year 2008 increased by the population growth for children in that State for the year ending on June 30, 2007 (as estimated by the Bureau of the Census) plus 1 percentage point; or
 
-(ii) for a subsequent fiscal year (or semi-annual period occurring in a fiscal year) is equal to the target average number of child enrollees for the State for the previous fiscal year increased by the child population growth factor described in subsection (m)(5)(B) for the State for the prior fiscal year.
+(ii) for a subsequent fiscal year (or semi-annual period occurring in a fiscal year) is equal to the target average number of child enrollees for the State for the previous fiscal year increased by the child population growth factor described in subsection (m)(6)(B) for the State for the prior fiscal year.
 
 #### (C) Projected per capita expenditures ####
 
@@ -820,13 +870,67 @@ For purposes of this paragraph and subsection (f), the State shall submit to the
 
 No payment shall be made under this paragraph to a commonwealth or territory described in subsection (c)(3) until such time as the Secretary determines that there are in effect methods, satisfactory to the Secretary, for the collection and reporting of reliable data regarding the enrollment of children described in subparagraphs (A) and (B) in order to accurately determine the commonwealth's or territory's eligibility for, and amount of payment, under this paragraph.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) [title VII, §706], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) [title VII, §§701(a), 702, 705(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) [title VIII, §§801(a), 802(b), (d)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930.)
+(Aug. 14, 1935, ch. 531, title XXI, §2104, as added Pub. L. 105–33, title IV, §4901(a), Aug. 5, 1997, 111 Stat. 558; amended Pub. L. 105–100, title I, §162(6), (8), Nov. 19, 1997, 111 Stat. 2189, 2190; Pub. L. 105–277, div. A, §101(f) [title VII, §706], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(6) [title VII, §§701(a), 702, 705(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A–399, 1501A–400, 1501A–402; Pub. L. 106–554, §1(a)(6) [title VIII, §§801(a), 802(b), (d)(3)], Dec. 21, 2000, 114 Stat. 2763, 2763A–578, 2763A–581; Pub. L. 108–74, §1(a)(1)–(3), Aug. 15, 2003, 117 Stat. 892, 893; Pub. L. 108–173, title IX, §900(e)(1)(M), Dec. 8, 2003, 117 Stat. 2372; Pub. L. 109–171, title VI, §6101(a), (b), Feb. 8, 2006, 120 Stat. 130, 131; Pub. L. 109–482, title II, §201(a), Jan. 15, 2007, 120 Stat. 3698; Pub. L. 110–28, title VII, §7001, May 25, 2007, 121 Stat. 186; Pub. L. 110–92, §136(c), Sept. 29, 2007, 121 Stat. 994; Pub. L. 110–173, title II, §201(a)(1), (c)(1), Dec. 29, 2007, 121 Stat. 2509, 2510; Pub. L. 111–3, title I, §§101–103, 105, 106(a)(1), (b), Feb. 4, 2009, 123 Stat. 11, 15, 23, 24; Pub. L. 111–148, title II, §2102(a)(1), title X, §10203(d)(1)–(2)(B), Mar. 23, 2010, 124 Stat. 288, 928–930; Pub. L. 114–10, title III, §301(a)–(b)(2)(C), (d)(1), Apr. 16, 2015, 129 Stat. 154–158.)
 
 #### References in Text ####
 
 Section 108 of the Children's Health Insurance Program Reauthorization Act of 2009, referred to in subsec. (m)(3)(A), (D)(i)(II), is section 108 of title I of Pub. L. 111–3, Feb. 4, 2009, 123 Stat. 25, which is not classified to the Code.
 
+Section 301(b)(3) of the Medicare Access and CHIP Reauthorization Act of 2015, referred to in subsec. (m)(4)(A), (D)(i)(II), is section 301(b)(3) of Pub. L. 114–10, title III, Apr. 16, 2015, 129 Stat. 157, which relates to a one-time appropriation for fiscal year 2017 and is not classified to the Code.
+
 #### Amendments ####
+
+**2015**—Subsec. (a)(19), (20). Pub. L. 114–10, §301(a), added pars. (19) and (20).
+
+Subsec. (c)(1). Pub. L. 114–10, §301(b)(2)(A), substituted "(m)(5)" for "(m)(4)".
+
+Subsec. (m). Pub. L. 114–10, §301(b)(1)(A), substituted "and thereafter" for "through 2015" in heading.
+
+Subsec. (m)(1). Pub. L. 114–10, §301(b)(2)(B)(i)(II), substituted "the allotment increase factor determined under paragraph (6)" for "the allotment increase factor determined under paragraph (5)" wherever appearing.
+
+Subsec. (m)(1)(A), (B). Pub. L. 114–10, §301(b)(2)(B)(i)(I), substituted "and paragraph (5)" for "and paragraph (4)".
+
+Subsec. (m)(2). Pub. L. 114–10, §301(b)(1)(B)(i), substituted "2016" for "2014" in heading.
+
+Subsec. (m)(2)(A). Pub. L. 114–10, §301(b)(2)(B)(ii), which directed substitution in subpar. (A) of "the allotment increase factor under paragraph (6)" for "the allotment increase factor under paragraph (5)", was executed by making the substitution wherever appearing in subpar. (A), to reflect the probable intent of Congress.
+
+Subsec. (m)(2)(B). Pub. L. 114–10, §301(b)(1)(B)(ii), added subpar. (B) and struck out former subpar. (B) which related to State allotments for fiscal years 2013 and 2014.
+
+Subsec. (m)(3). Pub. L. 114–10, §301(b)(2)(B)(iii), substituted "paragraphs (5) and (7)" for "paragraphs (4) and (6)" in subpars. (A) and (B) and "the allotment increase factor under paragraph (6)" for "the allotment increase factor under paragraph (5)" in subpar. (C).
+
+Subsec. (m)(4). Pub. L. 114–10, §301(b)(1)(G), added par. (4). Former par. (4) redesignated (5).
+
+Pub. L. 114–10, §301(b)(1)(C), inserted "or 2017" after "2015".
+
+Subsec. (m)(5). Pub. L. 114–10, §301(b)(2)(B)(iv), substituted "paragraph (1), (2), (3), or (4)" for "paragraph (1), (2), or (3)".
+
+Pub. L. 114–10, §301(b)(1)(F), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Subsec. (m)(6). Pub. L. 114–10, §301(b)(1)(F), redesignated par. (5) as (6). Former par. (6) redesignated (7).
+
+Pub. L. 114–10, §301(b)(1)(D)(ii), substituted "fiscal year 2014, or fiscal year 2016" for "or fiscal year 2014" in concluding provisions.
+
+Subsec. (m)(6)(A). Pub. L. 114–10, §301(b)(1)(D)(i), substituted "2017" for "2015".
+
+Subsec. (m)(7). Pub. L. 114–10, §301(b)(2)(B)(v), substituted "subject to paragraph (5)" for "subject to paragraph (4)" in concluding provisions.
+
+Pub. L. 114–10, §301(b)(1)(F), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+
+Subsec. (m)(8). Pub. L. 114–10, §301(b)(1)(F), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+
+Pub. L. 114–10, §301(b)(1)(E), substituted "fiscal years 2015 and 2017" for "fiscal year 2015" in heading and inserted "or fiscal year 2017" after "2015" in text.
+
+Subsec. (m)(9). Pub. L. 114–10, §301(b)(2)(B)(vi), substituted "paragraph (3) or (4)" for "paragraph (3)".
+
+Pub. L. 114–10, §301(b)(1)(F), redesignated par. (8) as (9).
+
+Subsec. (n)(2)(A)(ii). Pub. L. 114–10, §301(d)(1)(A)(i), substituted "2010, 2011, 2012, 2013, 2014, and 2016" for "2010 through 2014" and inserted "and fiscal year 2017" after "2015".
+
+Subsec. (n)(2)(B). Pub. L. 114–10, §301(d)(1)(A)(ii), substituted "2010, 2011, 2012, 2013, 2014, and 2016" for "2010 through 2014" and inserted "and fiscal year 2017" after "2015".
+
+Subsec. (n)(3)(A). Pub. L. 114–10, §301(d)(1)(B), substituted "any of fiscal years 2009 through 2014, fiscal year 2016, or a semi-annual allotment period for fiscal year 2015 or 2017" for "fiscal year 2009, fiscal year 2010, fiscal year 2011, fiscal year 2012, fiscal year 2013, fiscal year 2014, or a semi-annual allotment period for fiscal year 2015" in introductory provisions.
+
+Subsec. (n)(3)(B)(ii). Pub. L. 114–10, §301(b)(2)(C), substituted "subsection (m)(6)(B)" for "subsection (m)(5)(B)".
 
 **2010**—Subsec. (a)(16) to (18). Pub. L. 111–148, §10203(d)(1), added pars. (16) to (18) and struck out former par. (16) which read as follows: "for fiscal year 2013, for purposes of making 2 semi-annual allotments—
 

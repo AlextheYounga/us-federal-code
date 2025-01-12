@@ -4,7 +4,7 @@
 
 #### (1) In general ####
 
-From the amounts appropriated under subsection (g), subject to paragraph (2), the Secretary shall award grants to eligible entities during the period of fiscal years 2009 through 2015 to conduct outreach and enrollment efforts that are designed to increase the enrollment and participation of eligible children under this subchapter and subchapter XIX.
+From the amounts appropriated under subsection (g), subject to paragraph (2), the Secretary shall award grants to eligible entities during the period of fiscal years 2009 through 2017 to conduct outreach and enrollment efforts that are designed to increase the enrollment and participation of eligible children under this subchapter and subchapter XIX.
 
 #### (2) Ten percent set aside for national enrollment campaign ####
 
@@ -120,7 +120,7 @@ The term "community health worker" means an individual who promotes health or nu
 
 #### (g) Appropriation ####
 
-There is appropriated, out of any money in the Treasury not otherwise appropriated, $140,000,000 for the period of fiscal years 2009 through 2015, for the purpose of awarding grants under this section. Amounts appropriated and paid under the authority of this section shall be in addition to amounts appropriated under section 1397dd of this title and paid to States in accordance with section 1397ee of this title, including with respect to expenditures for outreach activities in accordance with subsections (a)(1)(D)(iii) and (c)(2)(C) of that section.
+There is appropriated, out of any money in the Treasury not otherwise appropriated, $140,000,000 for the period of fiscal years 2009 through 2015 and $40,000,000 for the period of fiscal years 2016 and 2017, for the purpose of awarding grants under this section. Amounts appropriated and paid under the authority of this section shall be in addition to amounts appropriated under section 1397dd of this title and paid to States in accordance with section 1397ee of this title, including with respect to expenditures for outreach activities in accordance with subsections (a)(1)(D)(iii) and (c)(2)(C) of that section.
 
 #### (h) National enrollment campaign ####
 
@@ -138,7 +138,7 @@ From the amounts made available under subsection (a)(2), the Secretary shall dev
 
 (6) such other outreach initiatives as the Secretary determines would increase public awareness of the programs under this subchapter and subchapter XIX.
 
-(Aug. 14, 1935, ch. 531, title XXI, §2113, as added Pub. L. 111–3, title II, §201(a), Feb. 4, 2009, 123 Stat. 35; amended Pub. L. 111–148, title X, §10203(d)(2)(E), Mar. 23, 2010, 124 Stat. 931.)
+(Aug. 14, 1935, ch. 531, title XXI, §2113, as added Pub. L. 111–3, title II, §201(a), Feb. 4, 2009, 123 Stat. 35; amended Pub. L. 111–148, title X, §10203(d)(2)(E), Mar. 23, 2010, 124 Stat. 931; Pub. L. 114–10, title III, §303, Apr. 16, 2015, 129 Stat. 158.)
 
 #### References in Text ####
 
@@ -149,6 +149,10 @@ The Head Start Act, referred to in subsec. (f)(2)(D), is subchapter B (§635 et 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (f)(2)(D), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§1751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of this title and Tables.
 
 #### Amendments ####
+
+**2015**—Subsec. (a)(1). Pub. L. 114–10, §303(1), substituted "2017" for "2015".
+
+Subsec. (g). Pub. L. 114–10, §303(2), inserted "and $40,000,000 for the period of fiscal years 2016 and 2017" after "2015".
 
 **2010**—Subsec. (a)(1). Pub. L. 111–148, §10203(d)(2)(E)(i), substituted "2015" for "2013".
 

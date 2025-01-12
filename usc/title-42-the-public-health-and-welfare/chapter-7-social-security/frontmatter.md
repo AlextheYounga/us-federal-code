@@ -888,6 +888,8 @@ Sec.
 
 1395w–5. Public reporting of performance information.
 
+1395w–6. Empowering beneficiary choices through continued access to information on physicians' services.
+
 #### Part C—Medicare+Choice Program ####
 
 1395w–21. Eligibility, election, and enrollment.
@@ -1003,6 +1005,8 @@ Sec.
 1395kk. Administration of insurance programs.
 
 1395kk–1. Contracts with medicare administrative contractors.
+
+1395kk–2. Expanding availability of Medicare data.
 
 1395 ll. Studies and recommendations.
 
