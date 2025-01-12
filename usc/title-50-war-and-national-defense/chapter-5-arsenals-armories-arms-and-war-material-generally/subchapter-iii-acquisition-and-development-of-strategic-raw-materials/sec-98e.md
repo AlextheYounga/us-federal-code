@@ -14,13 +14,13 @@ The President shall—
 
 (5) provide for the appropriate recovery of any strategic and critical materials under section 98b(a) of this title that may be available from excess materials made available for recovery purposes by other Federal agencies;
 
-(6) subject to the notification required by subsection (d)(2) of this section, provide for the timely disposal of materials in the stockpile that (A) are excess to stockpile requirements, and (B) may cause a loss to the Government if allowed to deteriorate; and
+(6) subject to the notification required by subsection (d)(2), provide for the timely disposal of materials in the stockpile that (A) are excess to stockpile requirements, and (B) may cause a loss to the Government if allowed to deteriorate; and
 
 (7) subject to the provisions of section 98d(b) of this title, dispose of materials in the stockpile the disposal of which is specifically authorized by law.
 
 #### (b) Federal procurement practices ####
 
-Except as provided in subsections (c) and (d) of this section, acquisition of strategic and critical materials under this subchapter shall be made in accordance with established Federal procurement practices, and, except as provided in subsections (c) and (d) of this section and in section 98f(a) of this title, disposal of strategic and critical materials from the stockpile shall be made in accordance with the next sentence. To the maximum extent feasible—
+Except as provided in subsections (c) and (d), acquisition of strategic and critical materials under this subchapter shall be made in accordance with established Federal procurement practices, and, except as provided in subsections (c) and (d) and in section 98f(a) of this title, disposal of strategic and critical materials from the stockpile shall be made in accordance with the next sentence. To the maximum extent feasible—
 
 (1) competitive procedures shall be used in the acquisition and disposal of such materials; and
 
@@ -28,19 +28,19 @@ Except as provided in subsections (c) and (d) of this section, acquisition of st
 
 #### (c) Barter; use of stockpile materials as payment for expenses of acquiring, refining, processing, or rotating materials ####
 
-(1) The President shall encourage the use of barter in the acquisition under subsection (a)(1) of this section of strategic and critical materials for, and the disposal under subsection (a)(5) or (a)(6) of this section of materials from, the stockpile when acquisition or disposal by barter is authorized by law and is practical and in the best interest of the United States.
+(1) The President shall encourage the use of barter in the acquisition under subsection (a)(1) of strategic and critical materials for, and the disposal under subsection (a)(5) or (a)(6) of materials from, the stockpile when acquisition or disposal by barter is authorized by law and is practical and in the best interest of the United States.
 
 (2) Materials in the stockpile (the disposition of which is authorized by paragraph (3) to finance the upgrading, refining, or processing of a material in the stockpile, or is otherwise authorized by law) shall be available for transfer at fair market value as payment for expenses (including transportation and other incidental expenses) of acquisition of materials, or of upgrading, refining, processing, or rotating materials, under this subchapter.
 
-(3) Notwithstanding section 98b(c) of this title or any other provision of law, whenever the President provides under subsection (a)(3) of this section for the upgrading, refining, or processing of a material in the stockpile to convert that material into a form more suitable for storage, subsequent disposition, and immediate use in a national emergency, the President may barter a portion of the same material (or any other material in the stockpile that is authorized for disposal) to finance that upgrading, refining, or processing.
+(3) Notwithstanding section 98b(c) of this title or any other provision of law, whenever the President provides under subsection (a)(3) for the upgrading, refining, or processing of a material in the stockpile to convert that material into a form more suitable for storage, subsequent disposition, and immediate use in a national emergency, the President may barter a portion of the same material (or any other material in the stockpile that is authorized for disposal) to finance that upgrading, refining, or processing.
 
 (4) To the extent otherwise authorized by law, property owned by the United States may be bartered for materials needed for the stockpile.
 
 #### (d) Waiver; notification of proposed disposal of materials ####
 
-(1) The President may waive the applicability of any provision of the first sentence of subsection (b) of this section to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in writing of the proposed acquisition or disposal at least 45 days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons for not complying with any provision of such subsection.
+(1) The President may waive the applicability of any provision of the first sentence of subsection (b) to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in writing of the proposed acquisition or disposal at least 45 days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons for not complying with any provision of such subsection.
 
-(2) Materials in the stockpile may be disposed of under subsection (a)(5) of this section only if such congressional committees are notified in writing of the proposed disposal at least 45 days before any obligation of the United States is incurred in connection with such disposal.
+(2) Materials in the stockpile may be disposed of under subsection (a)(5) only if such congressional committees are notified in writing of the proposed disposal at least 45 days before any obligation of the United States is incurred in connection with such disposal.
 
 #### (e) Leasehold interests in property ####
 
@@ -76,7 +76,7 @@ Pub. L. 104–106, §1502(e)(1)(B), substituted "such congressional committees" 
 
 **1990**—Subsec. (a)(3). Pub. L. 101–510, §3301(b)(1), substituted "upgrading, refining," for "refining", inserted "(notwithstanding any intermediate stockpile quantity established for such material)" after "stockpile", and substituted "storage, subsequent disposition, and immediate use in a national emergency" for "storage and subsequent disposition".
 
-Subsec. (c)(1). Pub. L. 101–510, §3301(b)(2), inserted "under subsection (a)(1) of this section" after "the acquisition" and "under subsection (a)(5) or (a)(6) of this section" after "the disposal".
+Subsec. (c)(1). Pub. L. 101–510, §3301(b)(2), inserted "under subsection (a)(1)" after "the acquisition" and "under subsection (a)(5) or (a)(6)" after "the disposal".
 
 Subsec. (c)(2). Pub. L. 101–510, §3301(b)(3), substituted "(the disposition of which is authorized by paragraph (3) to finance the upgrading, refining, or processing of a material in the stockpile, or is otherwise authorized by law)" for ", the disposition of which is authorized by law," and "of upgrading, refining" for "of refining".
 

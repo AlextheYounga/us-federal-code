@@ -6,11 +6,11 @@ Not later than January 15 of every other year, the Secretary of Defense shall su
 
 (1) the Secretary's recommendations with respect to stockpile requirements; and
 
-(2) the matters required under subsection (b) of this section.
+(2) the matters required under subsection (b).
 
 #### (b) National emergency planning assumptions ####
 
-Each report under this section shall set forth the national emergency planning assumptions used by the Secretary in making the Secretary's recommendations under subsection (a)(1) of this section with respect to stockpile requirements. The Secretary shall base the national emergency planning assumptions on a military conflict scenario consistent with the scenario used by the Secretary in budgeting and defense planning purposes. The assumptions to be set forth include assumptions relating to each of the following:
+Each report under this section shall set forth the national emergency planning assumptions used by the Secretary in making the Secretary's recommendations under subsection (a)(1) with respect to stockpile requirements. The Secretary shall base the national emergency planning assumptions on a military conflict scenario consistent with the scenario used by the Secretary in budgeting and defense planning purposes. The assumptions to be set forth include assumptions relating to each of the following:
 
 (1) The length and intensity of the assumed military conflict.
 
@@ -28,11 +28,11 @@ Each report under this section shall set forth the national emergency planning a
 
 #### (c) Period within which to replace or replenish materials ####
 
-The stockpile requirements shall be based on those strategic and critical materials necessary for the United States to replenish or replace, within three years of the end of the military conflict scenario required under subsection (b) of this section, all munitions, combat support items, and weapons systems that would be required after such a military conflict.
+The stockpile requirements shall be based on those strategic and critical materials necessary for the United States to replenish or replace, within three years of the end of the military conflict scenario required under subsection (b), all munitions, combat support items, and weapons systems that would be required after such a military conflict.
 
 #### (d) Effect of alternative mobilization periods ####
 
-The Secretary shall also include in each report under this section an examination of the effect that alternative mobilization periods under the military conflict scenario required under subsection (b) of this section, as well as a range of other military conflict scenarios addressing potentially more serious threats to national security, would have on the Secretary's recommendations under subsection (a)(1) of this section with respect to stockpile requirements.
+The Secretary shall also include in each report under this section an examination of the effect that alternative mobilization periods under the military conflict scenario required under subsection (b), as well as a range of other military conflict scenarios addressing potentially more serious threats to national security, would have on the Secretary's recommendations under subsection (a)(1) with respect to stockpile requirements.
 
 #### (e) Plans of President ####
 

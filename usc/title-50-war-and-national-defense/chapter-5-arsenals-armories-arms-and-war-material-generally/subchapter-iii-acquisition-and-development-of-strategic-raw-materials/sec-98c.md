@@ -20,9 +20,9 @@ The stockpile consists of the following materials:
 
 (8) Materials transferred to the stockpile by the President under paragraph (4) of section 1743(a) of title 7.
 
-(9) Materials transferred to the stockpile under subsection (b) of this section.
+(9) Materials transferred to the stockpile under subsection (b).
 
-(10) Materials transferred to the stockpile under subsection (c) of this section.
+(10) Materials transferred to the stockpile under subsection (c).
 
 #### (b) Transfer and reimbursement ####
 

@@ -8,11 +8,11 @@ The Secretary shall carry out a program assisting in the maintenance of funds at
 
 #### (1) In general ####
 
-#### (A) Loans for new undergraduate Federal perkins loan borrowers ####
+#### (A) Loans for new undergraduate Federal Perkins Loan borrowers ####
 
 Through September 30, 2017, an institution of higher education may make a loan under this part to an eligible undergraduate student who, on the date of disbursement of a loan made under this part, has no outstanding balance of principal or interest on a loan made under this part from the student loan fund established under this part by the institution, but only if the institution has awarded all Federal Direct Loans, as referenced under subparagraphs (A) and (D) of section 1087e(a)(2) of this title, for which such undergraduate student is eligible.
 
-#### (B) Loans for current undergraduate Federal perkins loan borrowers ####
+#### (B) Loans for current undergraduate Federal Perkins Loan borrowers ####
 
 Through September 30, 2017, an institution of higher education may make a loan under this part to an eligible undergraduate student who, on the date of disbursement of a loan made under this part, has an outstanding balance of principal or interest on a loan made under this part from the student loan fund established under this part by the institution, but only if the institution has awarded all Federal Direct Stafford Loans as referenced under section 1087e(a)(2)(A) of this title for which such undergraduate student is eligible.
 

@@ -2,7 +2,7 @@
 
 #### Codification ####
 
-Pub. L. 114–95, title IV, §4001(b)(2)(A)–(D)(ii), Dec. 10, 2015, 129 Stat. 1967, redesignated part B (§7221 et seq.) of subchapter V of this chapter as part C of this subchapter, substituted "EXPANDING OPPORTUNITY THROUGH QUALITY CHARTER SCHOOLS" for "PUBLIC CHARTER SCHOOLS" in part heading, and struck out subpart 1 heading.
+Pub. L. 114–95, title IV, §4001(b)(2)(A)–(D)(ii), Dec. 10, 2015, 129 Stat. 1967, redesignated part B (§7221 et seq.) of subchapter V of this chapter as part C of this subchapter, substituted "Expanding Opportunity Through Quality Charter Schools" for "Public Charter Schools" in part heading, and struck out subpart 1 heading.
 
 #### Prior Provisions ####
 

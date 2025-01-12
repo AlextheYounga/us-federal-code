@@ -6,7 +6,7 @@ The President shall designate a single Federal office to have responsibility for
 
 #### (b) Title of designated officer ####
 
-The individual holding the office designated by the President under subsection (a) of this section shall be known for purposes of functions under this subchapter as the "National Defense Stockpile Manager".
+The individual holding the office designated by the President under subsection (a) shall be known for purposes of functions under this subchapter as the "National Defense Stockpile Manager".
 
 #### (c) Delegation of functions ####
 
@@ -22,7 +22,7 @@ Section was classified to section 98e–1 of this title prior to its renumbering
 
 **2013**—Pub. L. 112–239 substituted "sections 98f(a)(1) and 98h–4" for "sections 98f and 98h–4" wherever appearing.
 
-**1991**—Subsec. (d). Pub. L. 102–190 struck out subsec. (d) which read as follows: "During any period during which there is no officer appointed by the President, by and with the advice and consent of the Senate, serving in the position designated by the President under subsection (a) of this section or during which the authority of the President under this subchapter (other than under sections 98f and 98h–4 of this title) has not been delegated to that position, no action may be taken under section 98e(a)(6) of this title."
+**1991**—Subsec. (d). Pub. L. 102–190 struck out subsec. (d) which read as follows: "During any period during which there is no officer appointed by the President, by and with the advice and consent of the Senate, serving in the position designated by the President under subsection (a) or during which the authority of the President under this subchapter (other than under sections 98f and 98h–4 of this title) has not been delegated to that position, no action may be taken under section 98e(a)(6) of this title."
 
 **1989**—Subsec. (a). Pub. L. 101–189, §3313(b)(1), substituted "sections 98f and 98h–4" for "sections 98f, 98g, and 98h–4".
 

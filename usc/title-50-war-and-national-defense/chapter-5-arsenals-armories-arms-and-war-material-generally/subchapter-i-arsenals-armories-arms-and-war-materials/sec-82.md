@@ -2,7 +2,7 @@
 
 #### (a) Definitions ####
 
-The word "person" as used in subsections (b) and (c) of this section shall include any individual, trustee, firm, association, company, or corporation. The word "ship" shall include any boat, vessel, submarine, or any form of aircraft, and the parts thereof. The words "war material" shall include arms, armament, ammunition, stores, supplies, and equipment for ships and airplanes, and everything required for or in connection with the production thereof. The word "factory" shall include any factory, workshop, engine works, building used for manufacture, assembling, construction, or any process, and any shipyard or dockyard. The words "United States" shall include the Canal Zone and all territory and waters, continental and insular, subject to the jurisdiction of the United States.
+The word "person" as used in subsections (b) and (c) shall include any individual, trustee, firm, association, company, or corporation. The word "ship" shall include any boat, vessel, submarine, or any form of aircraft, and the parts thereof. The words "war material" shall include arms, armament, ammunition, stores, supplies, and equipment for ships and airplanes, and everything required for or in connection with the production thereof. The word "factory" shall include any factory, workshop, engine works, building used for manufacture, assembling, construction, or any process, and any shipyard or dockyard. The words "United States" shall include the Canal Zone and all territory and waters, continental and insular, subject to the jurisdiction of the United States.
 
 #### (b) Presidential powers ####
 
@@ -18,7 +18,7 @@ Fourth. To requisition and take over for use or operation by the Government any 
 
 #### (d) <sup><a href="#82_1_target" name="82_1">1</a></sup> Compensation for commandeered material ####
 
-Whenever the United States shall cancel or modify any contract, make use of, assume, occupy, requisition, or take over any factory or part thereof, or any ships or war material, in accordance with the provisions of subsection (b) of this section, it shall make just compensation therefor, to be determined by the President, and if the amount thereof so determined by the President is unsatisfactory to the person entitled to receive the same, such person shall be paid fifty per centum of the amount so determined by the President and shall be entitled to sue the United States to recover such further sum as added to said fifty per centum shall make up such amount as will be just compensation therefor, in the manner provided for by section 1346 or section 1491 of title 28.
+Whenever the United States shall cancel or modify any contract, make use of, assume, occupy, requisition, or take over any factory or part thereof, or any ships or war material, in accordance with the provisions of subsection (b), it shall make just compensation therefor, to be determined by the President, and if the amount thereof so determined by the President is unsatisfactory to the person entitled to receive the same, such person shall be paid fifty per centum of the amount so determined by the President and shall be entitled to sue the United States to recover such further sum as added to said fifty per centum shall make up such amount as will be just compensation therefor, in the manner provided for by section 1346 or section 1491 of title 28.
 
 (Mar. 4, 1917, ch. 180, 39 Stat. 1192.)
 

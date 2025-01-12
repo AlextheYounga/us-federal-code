@@ -2,11 +2,11 @@
 
 #### (a) Determination of materials; quantities ####
 
-Subject to subsection (c) of this section, the President shall determine from time to time (1) which materials are strategic and critical materials for the purposes of this subchapter, and (2) the quality and quantity of each such material to be acquired for the purposes of this subchapter and the form in which each such material shall be acquired and stored. Such materials when acquired, together with the other materials described in section 98c of this title, shall constitute and be collectively known as the National Defense Stockpile (hereinafter in this subchapter referred to as the "stockpile").
+Subject to subsection (c), the President shall determine from time to time (1) which materials are strategic and critical materials for the purposes of this subchapter, and (2) the quality and quantity of each such material to be acquired for the purposes of this subchapter and the form in which each such material shall be acquired and stored. Such materials when acquired, together with the other materials described in section 98c of this title, shall constitute and be collectively known as the National Defense Stockpile (hereinafter in this subchapter referred to as the "stockpile").
 
 #### (b) Guidelines for exercise of Presidential authority ####
 
-The President shall make the determinations required to be made under subsection (a) of this section on the basis of the principles stated in section 98a(c) of this title.
+The President shall make the determinations required to be made under subsection (a) on the basis of the principles stated in section 98a(c) of this title.
 
 #### (c) Quantity change; notification to Congress ####
 
@@ -38,11 +38,11 @@ Provisions similar to those in this section were contained in former section 98a
 
 **1988**—Subsec. (c)(1). Pub. L. 100–456 substituted "December 4, 1987" for "the date of the enactment of the National Defense Stockpile Amendments of 1987", which for purposes of codification had been translated as "December 4, 1987", thus requiring no change in text.
 
-**1987**—Subsec. (a). Pub. L. 100–180, §3202(a)(1), substituted "Subject to subsection (c) of this section, the" for "The".
+**1987**—Subsec. (a). Pub. L. 100–180, §3202(a)(1), substituted "Subject to subsection (c), the" for "The".
 
 Subsec. (b). Pub. L. 100–180, §3202(a)(2), substituted "the principles stated in section 98a(c) of this title." for "the following principles:" and struck out cls. (1) and (2) which related to purpose of National Defense Stockpile and quantities of materials stockpiled.
 
-Subsec. (c). Pub. L. 100–180, §3202(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: "The quantity of any material to be stockpiled under this subchapter, as determined under subsection (a) of this section, may not be revised unless the Committees on Armed Services of the Senate and House of Representatives are notified in writing of the proposed revision and the reasons for such revision at least thirty days before the effective date of such revision."
+Subsec. (c). Pub. L. 100–180, §3202(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: "The quantity of any material to be stockpiled under this subchapter, as determined under subsection (a), may not be revised unless the Committees on Armed Services of the Senate and House of Representatives are notified in writing of the proposed revision and the reasons for such revision at least thirty days before the effective date of such revision."
 
 #### Delegation of Functions ####
 

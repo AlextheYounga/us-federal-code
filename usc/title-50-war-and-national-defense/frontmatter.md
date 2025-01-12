@@ -123,6 +123,8 @@ Chap. Sec.
 
 56. Export Administration 4601
 
+57. Claims Under the Clarification Act 4701
+
 |                                        *Title 50<br/><br/>Former Classification*                                        |*Title 50<br/><br/>New Classification*|
 |-------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
 |                                                           401                                                           |                 3002                 |
@@ -843,6 +845,11 @@ Chap. Sec.
 |                                                           597                                                            |                             50 U.S.C. 4041                              |
 |                                                           597a                                                           |                             50 U.S.C. 4042                              |
 |                                                           597b                                                           |                             50 U.S.C. 4043                              |
+|                                                           1291                                                           |                             50 U.S.C. 4701                              |
+|                                                           1292                                                           |                             50 U.S.C. 4702                              |
+|                                                           1293                                                           |                             50 U.S.C. 4703                              |
+|                                                           1294                                                           |                             50 U.S.C. 4704                              |
+|                                                           1295                                                           |                             50 U.S.C. 4705                              |
 |                                                           1622                                                           |                           40 U.S.C. 545 note                            |
 |                                                           1735                                                           |                             50 U.S.C. 4401                              |
 |                                    1735 note (Mar. 8, 1946, ch. 82, §1, 60 Stat. 41)                                     |                           50 U.S.C. 4401 note                           |
@@ -1214,6 +1221,8 @@ Military Selective Service Act (50 U.S.C. App. 451 et seq.), act June 24, 1948, 
 
 Servicemembers Civil Relief Act (50 U.S.C. App. 501 et seq.), act Oct. 17, 1940, ch. 888, 54 Stat. 1178—see 50 U.S.C. 3901 et seq.
 
+Clarification Act (50 U.S.C. App. 1291 et seq.), act Mar. 24, 1943, ch. 26, 57 Stat. 45—see 50 U.S.C. 4701 et seq.
+
 Sale of Surplus War-Built Vessels (50 U.S.C. App. 1735 et seq.), act Mar. 8, 1946, ch. 82, 60 Stat. 41—see 50 U.S.C. 4401 et seq.
 
 Restitution for World War II Internment of Japanese-Americans and Aleuts (50 U.S.C. App. 1989 et seq.), Pub. L. 100–383, Aug. 10, 1988, 102 Stat. 903—see 50 U.S.C. 4201 et seq.
@@ -1284,7 +1293,7 @@ Small Business Mobilization Act (50 U.S.C. App. 1101 et seq.), act June 11, 1942
 
 War and Defense Contract Acts (50 U.S.C. App. 1151 et seq.), acts June 28, 1940, ch. 440, 54 Stat. 676; July 2, 1940, ch. 508, 54 Stat. 712; July 11, 1941, ch. 290, §3, 55 Stat. 585; Apr. 28, 1942, ch. 247, title IV, §403, 56 Stat. 245; Dec. 17, 1942, ch. 739, 56 Stat. 1053; Feb. 25, 1944, ch. 63, title VIII, §801, 58 Stat. 92; May 21, 1948, ch. 333, §3, 62 Stat. 259; Mar. 23, 1951, ch. 15, 65 Stat. 7; July 17, 1953, ch. 221, 67 Stat. 177.
 
-National Emergency and War Shipping Acts (50 U.S.C. App. 1251 et seq.), acts June 11, 1940, ch. 327, 54 Stat. 306; May 2, 1941, ch. 84, 55 Stat. 148; June 6, 1941, ch. 174, 55 Stat. 242; July 14, 1941, ch. 297, 55 Stat. 591; Mar. 24, 1943, ch. 26, 57 Stat. 45; Apr. 29, 1943, ch. 81, 57 Stat. 69; July 9, 1943, ch. 212, 57 Stat. 391; Aug. 10, 1946, ch. 949, 60 Stat. 977.
+National Emergency and War Shipping Acts (50 U.S.C. App. 1251 et seq.), acts June 11, 1940, ch. 327, 54 Stat. 306; May 2, 1941, ch. 84, 55 Stat. 148; June 6, 1941, ch. 174, 55 Stat. 242; July 14, 1941, ch. 297, 55 Stat. 591; Apr. 29, 1943, ch. 81, 57 Stat. 69; July 9, 1943, ch. 212, 57 Stat. 391; Aug. 10, 1946, ch. 949, 60 Stat. 977.
 
 Farm Labor Supply Appropriation Act, 1944 (50 U.S.C. App. 1351 et seq.), act Feb. 14, 1944, ch. 16, 58 Stat. 11.
 

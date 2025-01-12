@@ -6,7 +6,7 @@ The President may appoint advisory committees composed of individuals with exper
 
 #### (b) Expenses ####
 
-Each member of an advisory committee established under subsection (a) of this section while serving on the business of the advisory committee away from such member's home or regular place of business shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons intermittently employed in the Government service.
+Each member of an advisory committee established under subsection (a) while serving on the business of the advisory committee away from such member's home or regular place of business shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons intermittently employed in the Government service.
 
 #### (c) Market Impact Committee ####
 

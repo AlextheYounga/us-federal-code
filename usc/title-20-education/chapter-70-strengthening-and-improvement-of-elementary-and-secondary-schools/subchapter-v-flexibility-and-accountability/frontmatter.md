@@ -8,7 +8,7 @@ Title V of the Elementary and Secondary Education Act of 1965, comprising this s
 
 #### Prior Provisions ####
 
-A prior title V of the Elementary and Secondary Education Act of 1965, comprising former subchapter V (§7201 et seq.) of this chapter, which related to promoting informed parental choice and innovative programs, was repealed by Pub. L. 114–95, title IV, §4001(b)(1)(A)–(C), (4), Dec. 10, 2015, 129 Stat. 1967, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+A prior title V of the Elementary and Secondary Education Act of 1965, comprising former subchapter V (§7201 et seq.) of this chapter, was originally enacted as part of Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, and subsequently revised, restated, and amended by other public laws. Title V as extensively revised by Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1776, related to promoting informed parental choice and innovative programs, and was set out in former subchapter V of this chapter as having been added by Pub. L. 107–110. Except as provided below, title V of the Act was repealed by Pub. L. 114–95, title IV, §4001(b)(1)(A)–(C), (4), Dec. 10, 2015, 129 Stat. 1967.
 
 A prior part B of title V of the Elementary and Secondary Education Act of 1965, comprising part B (§7221 et seq.) of former subchapter V of this chapter, was redesignated part C of title IV of the Act and transferred to part C (§7221 et seq.) of subchapter IV of this chapter by Pub. L. 114–95, title IV, §4001(b)(2)(A)–(C), Dec. 10, 2015, 129 Stat. 1967.
 

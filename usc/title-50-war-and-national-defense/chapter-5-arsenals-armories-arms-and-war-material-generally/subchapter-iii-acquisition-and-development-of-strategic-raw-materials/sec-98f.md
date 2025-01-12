@@ -8,7 +8,7 @@
 
 (3) on the order of the Under Secretary of Defense for Acquisition, Technology, and Logistics, if the President has designated the Under Secretary to have authority to issue release orders under this subsection and, in the case of any such order, if the Under Secretary determines that the release of such materials is required for use, manufacture, or production for purposes of national defense.
 
-(b) Any order issued under subsection (a) of this section shall be promptly reported by the President, or by the officer or employee issuing such order, in writing, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
+(b) Any order issued under subsection (a) shall be promptly reported by the President, or by the officer or employee issuing such order, in writing, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.
 
 (June 7, 1939, ch. 190, §7, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 322; amended Pub. L. 104–106, div. A, title XV, §1502(e)(2), Feb. 10, 1996, 110 Stat. 509; Pub. L. 106–65, div. A, title X, §1067(13), Oct. 5, 1999, 113 Stat. 775; Pub. L. 112–239, div. A, title XIV, §1413(a), Jan. 2, 2013, 126 Stat. 2048.)
 

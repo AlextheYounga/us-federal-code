@@ -2,7 +2,7 @@
 
 #### (a) Allocation based on previous allocation ####
 
-(1) From the amount appropriated pursuant to section 1087aa(b) of this title for each fiscal year, the Secretary shall first allocate to each eligible institution an amount equal to—
+(1) From the amount appropriated pursuant to section 1087aa(b) <sup><a href="#1087bb_1_target" name="1087bb_1">1</a></sup> of this title for each fiscal year, the Secretary shall first allocate to each eligible institution an amount equal to—
 
 (A) 100 percent of the amount received under subsections (a) and (b) of this section for fiscal year 1999 (as such subsections were in effect with respect to allocations for such fiscal year), multiplied by
 
@@ -52,11 +52,11 @@ except that if the institution has a cohort default rate in excess of the applic
 
 #### (b) Allocation of excess based on share of excess eligible amounts ####
 
-(1) From the remainder of the amount appropriated pursuant to section 1087aa(b) of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
+(1) From the remainder of the amount appropriated pursuant to section 1087aa(b) <sup><a href="#1087bb_1_target" name="1087bb_1">1</a></sup> of this title after making the allocations required by subsection (a) of this section, the Secretary shall allocate to each eligible institution which has an excess eligible amount an amount which bears the same ratio to such remainder as such excess eligible amount bears to the sum of the excess eligible amounts of all such eligible institutions (having such excess eligible amounts).
 
 (2) For any eligible institution, the excess eligible amount is the amount, if any, by which—
 
-(A)(i) that institution's eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1087aa(b) of this title for the fiscal year; exceeds
+(A)(i) that institution's eligible amount (as determined under paragraph (3)), divided by (ii) the sum of the eligible amounts of all institutions (as so determined), multiplied by (iii) the amount appropriated pursuant to section 1087aa(b) <sup><a href="#1087bb_1_target" name="1087bb_1">1</a></sup> of this title for the fiscal year; exceeds
 
 (B) the amount required to be allocated to that institution under subsection (a) of this section,
 
@@ -258,6 +258,10 @@ If under paragraph (1) of this subsection an institution returns more than 10 pe
 
 (Pub. L. 89–329, title IV, §462, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1440; amended Pub. L. 100–50, §13(a)–(d), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §462, July 23, 1992, 106 Stat. 576; Pub. L. 103–208, §2(f)(1)–(4), Dec. 20, 1993, 107 Stat. 2470, 2471; Pub. L. 105–244, title IV, §462(a)(1), (2), (b)–(e), Oct. 7, 1998, 112 Stat. 1720–1723; Pub. L. 110–315, title IV, §462, Aug. 14, 2008, 122 Stat. 3266; Pub. L. 111–39, title IV, §405(1), July 1, 2009, 123 Stat. 1947.)
 
+#### References in Text ####
+
+Section 1087aa of this title, referred to in subsecs. (a)(1) and (b)(1), (2)(A)(i), was amended by Pub. L. 114–105, §2(a)(1)(B), Dec. 18, 2015, 129 Stat. 2219, which struck out subsec. (b) authorizing appropriations and added a new subsec. (b) authorizing institutions of higher education to make loans.
+
 #### Prior Provisions ####
 
 A prior section 1087bb, Pub. L. 89–329, title IV, §462, as added Pub. L. 92–318, title I, §137(b), June 23, 1972, 86 Stat. 273; amended Pub. L. 96–374, title IV, §448(a), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1443, 1503, provided for apportionment of appropriations among States, prior to the general revision of this part by Pub. L. 99–498.
@@ -443,3 +447,5 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 #### Effective Date ####
 
 Section applicable with respect to academic year 1988-1989 and succeeding academic years, see section 405(b) of Pub. L. 99–498, as amended, set out as a note under section 1087dd of this title.
+
+[<sup>1</sup> See References in Text note below.](#1087bb_1)

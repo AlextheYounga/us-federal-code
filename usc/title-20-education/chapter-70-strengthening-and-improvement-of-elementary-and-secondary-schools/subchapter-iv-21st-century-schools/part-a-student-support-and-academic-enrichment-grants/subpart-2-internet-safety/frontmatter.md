@@ -6,4 +6,4 @@ Pub. L. 114–95, title II, §2001(a)(4)(A)–(C), title IV, §4001(a)(5)(C), De
 
 #### Prior Provisions ####
 
-A prior subpart 2, consisting of sections 7131 to 7140 of this title, was repealed by Pub. L. 114–95, title IV, §4001(a)(5)(B), Dec. 10, 2015, 129 Stat. 1966, effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs.
+A prior subpart 2, consisting of sections 7131 to 7140 of this title, related to national programs, prior to repeal by Pub. L. 114–95, title IV, §4001(a)(5)(B), Dec. 10, 2015, 129 Stat. 1966.

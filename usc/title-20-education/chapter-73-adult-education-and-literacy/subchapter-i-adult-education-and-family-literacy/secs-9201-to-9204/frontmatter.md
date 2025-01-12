@@ -21,7 +21,3 @@ Pub. L. 105–220, title V, §507, Aug. 7, 1998, 112 Stat. 1247, which provided 
 Pub. L. 105–220, §1(a), Aug. 7, 1998, 112 Stat. 936, which provided that Pub. L. 105–220 could be cited as the "Workforce Investment Act of 1998", was repealed by Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705.
 
 Pub. L. 105–220, title II, §201, Aug. 7, 1998, 112 Stat. 1059, which provided that title II of Pub. L. 105–220 could be cited as the "Adult Education and Family Literacy Act", was repealed by Pub. L. 113–128, title V, §511(a), July 22, 2014, 128 Stat. 1705.
-
-#### Ex. Ord. No. 13445. Strengthening Adult Education ####
-
-Ex. Ord. No. 13445, Sept. 27, 2007, 72 F.R. 56165, was transferred to a note set out under section 3271 of Title 29, Labor.
