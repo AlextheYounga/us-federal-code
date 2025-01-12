@@ -68,6 +68,6 @@ Sec.
 
 4147. Administrative expenses.
 
-#### Elimination of Title 50, Appendix ####
+#### Codification ####
 
-Act July 3, 1948, ch. 826, comprising this chapter, was formerly set out in the Appendix to this title, prior to the elimination of the Appendix to this title and the editorial reclassification of the Act as this chapter, see provisions set out as a note preceding section 1 of this title. For disposition of sections of the former Appendix to this title, see Table II, set out preceding section 1 of this title.
+Act July 3, 1948, ch. 826, comprising this chapter, was formerly set out in the Appendix to this title, prior to the elimination of the Appendix to this title and the editorial reclassification of the Act as this chapter. For disposition of sections of the former Appendix to this title, see Table II, set out preceding section 1 of this title.

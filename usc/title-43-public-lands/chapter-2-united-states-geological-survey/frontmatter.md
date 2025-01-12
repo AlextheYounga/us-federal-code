@@ -24,6 +24,8 @@ Sec.
 
 31j. Biological research activity of Survey; review and report by National Academy of Sciences.
 
+31k. National Volcano Early Warning and Monitoring System.
+
 32. Acting Director.
 
 33. Repealed.

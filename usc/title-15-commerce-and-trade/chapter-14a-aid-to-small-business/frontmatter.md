@@ -54,7 +54,7 @@ Sec.
 
 636i. Small business bonding threshold.
 
-636j. Expedited disaster assistance loan program.
+636j. Repealed.
 
 636k. Reports on disaster assistance.
 

@@ -632,6 +632,12 @@ Sec.
 
 505. Drainage facilities and minor construction in irrigation works; contracts with repayment organizations; limitation on costs; submission of contract to Congress.
 
+505a. Definitions.
+
+505a–1. Asset Management Report enhancements for reserved works.
+
+505a–2. Asset Management Report enhancements for transferred works.
+
 #### SUBCHAPTER XI–A—RECLAMATION SAFETY OF DAMS ####
 
 506. Authority of Secretary to make modifications.

@@ -66,6 +66,6 @@ The term "rural area" has the meaning given the term in section 950bb(b)(3) of t
 
 Section was enacted as part of the Agriculture Improvement Act of 2018, and not as part of the Rural Electrification Act of 1936 which comprises this chapter.
 
-#### Definitions ####
+#### Definition of "Secretary" ####
 
 "Secretary" means the Secretary of Agriculture, see section 2 of Pub. L. 115–334, set out as a note under section 9001 of this title.

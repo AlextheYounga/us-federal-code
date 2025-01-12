@@ -272,7 +272,7 @@ Sec.
 
 1363a. Undercover investigation authority.
 
-1363b. Repealed
+1363b. Repealed.
 
 1364. Triennial comprehensive report on immigration.
 
@@ -313,6 +313,8 @@ Sec.
 1377. Collection of data on detained asylum seekers.
 
 1378. Collection of data on other detained aliens.
+
+1378a. Report on aliens detained.
 
 1379. Technology standard to confirm identity.
 

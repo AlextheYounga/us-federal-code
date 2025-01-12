@@ -1,10 +1,12 @@
 ### §433g. Fort Frederica National Monument; establishment ###
 
-When title to the site of Fort Frederica, on Saint Simon Island, Georgia, and such other related sites located thereon, as may be designated by the Secretary of the Interior, in the exercise of his discretion, as necessary or desirable for national-monument purposes, shall have been vested in the United States, said area not to exceed two hundred and fifty acres shall be, and is, set apart as a national monument for the benefit and inspiration of the people, and shall be called the "Fort Frederica National Monument."
+When title to the site of Fort Frederica, on Saint Simon Island, Georgia, and such other related sites located thereon, as may be designated by the Secretary of the Interior, in the exercise of his discretion, as necessary or desirable for national-monument purposes, shall have been vested in the United States, said area not to exceed 305 acres shall be, and is, set apart as a national monument for the benefit and inspiration of the people, and shall be called the "Fort Frederica National Monument."
 
-(May 26, 1936, ch. 451, §1, 49 Stat. 1373; Sept. 20, 1950, ch. 957, §1, 64 Stat. 869; Pub. L. 85–401, §1, May 16, 1958, 72 Stat. 110.)
+(May 26, 1936, ch. 451, §1, 49 Stat. 1373; Sept. 20, 1950, ch. 957, §1, 64 Stat. 869; Pub. L. 85–401, §1, May 16, 1958, 72 Stat. 110; Pub. L. 116–9, title II, §2104(a), Mar. 12, 2019, 133 Stat. 726.)
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–9 substituted "305 acres" for "two hundred and fifty acres".
 
 **1958**—Pub. L. 85–401 increased maximum acreage from one hundred acres to two hundred and fifty acres.
 
@@ -14,7 +16,19 @@ When title to the site of Fort Frederica, on Saint Simon Island, Georgia, and su
 
 Act Sept. 20, 1950, ch. 957, §2, 64 Stat. 869, provided that: "There is hereby authorized to be appropriated not to exceed $5,000 for the acquisition of land and interests in land for the said national monument. The Secretary of the Interior is authorized to use any funds so appropriated, together with any donated funds made available pursuant to the aforesaid Act of May 26, 1936 [sections 433g, 433h, 433i, and 433j of this title], for this procurement of land and interests in land for the national monument."
 
-#### Land Exchange and Boundary Adjustment ####
+#### Boundary Expansion, 2019 ####
+
+Pub. L. 116–9, title II, §2104(b), Mar. 12, 2019, 133 Stat. 726, provided that:
+
+"(1) In general.—The boundary of the Fort Frederica National Monument in the State of Georgia is modified to include the land generally depicted as 'Proposed Acquisition Areas' on the map entitled 'Fort Frederica National Monument Proposed Boundary Expansion', numbered 369/132,469, and dated April 2016.
+
+"(2) Availability of map.—The map described in paragraph (1) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+"(3) Acquisition of land.—The Secretary [of the Interior] may acquire the land and interests in land described in paragraph (1) by donation or purchase with donated or appropriated funds from willing sellers only.
+
+"(4) No use of condemnation or eminent domain.—The Secretary may not acquire by condemnation or eminent domain any land or interests in land under this section or for the purposes of this section."
+
+#### Land Exchange and Boundary Adjustment, 2004 ####
 
 Pub. L. 108–417, Nov. 30, 2004, 118 Stat. 2339, provided that:
 

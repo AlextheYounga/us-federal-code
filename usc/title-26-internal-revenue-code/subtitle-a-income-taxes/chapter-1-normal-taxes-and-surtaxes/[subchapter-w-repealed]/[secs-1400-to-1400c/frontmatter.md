@@ -10,7 +10,7 @@ Section 1400C, added Pub. L. 105–34, title VII, §701(a), Aug. 5, 1997, 111 St
 
 #### Savings Provision ####
 
-Pub. L. 115–141, div. U, title IV, §401(d)(4)(C), Mar. 23, 2018, 132 Stat. 1209, provided that: "The amendments made by this paragraph [amending sections 23, 25, 45D, 1016, 1202, 1223, and 1379B of this title and repealing sections 1400 to 1400C of this title] shall not apply to—
+Pub. L. 115–141, div. U, title IV, §401(d)(4)(C), Mar. 23, 2018, 132 Stat. 1209, provided that: "The amendments made by this paragraph [amending sections 23, 25, 45D, 1016, 1202, 1223, and 1397B of this title and repealing sections 1400 to 1400C of this title] shall not apply to—
 
 "(i) in the case of the repeal of section 1400A of the Internal Revenue Code of 1986, obligations described in section 1394 of such Code (as in effect before its repeal) which were issued before January 1, 2012,
 

@@ -320,7 +320,7 @@ Pub. L. 104–188, title I, §1807(e), Aug. 20, 1996, 110 Stat. 1903, provided t
 
 #### Savings Provision ####
 
-Amendment by Pub. L. 115–141 not applicable to certain obligations issued, DC Zone assets acquired, or principal residences acquired before Jan. 1, 2012, see section 401(d)(4)(C) of Pub. L. 115–141, set out as a note under former section 1400A of this title.
+Amendment by Pub. L. 115–141 not applicable to certain obligations issued, DC Zone assets acquired, or principal residences acquired before Jan. 1, 2012, see section 401(d)(4)(C) of Pub. L. 115–141, set out as a note under former section 1400 of this title.
 
 Pub. L. 115–141, div. U, title IV, §401(e), Mar. 23, 2018, 132 Stat. 1212, provided that: "If—
 

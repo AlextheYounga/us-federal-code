@@ -6,7 +6,7 @@ Sec.
 
 6602. Definitions.
 
-6603. Marine turtle conservation assistance.
+6603. Conservation assistance.
 
 6604. Marine Turtle Conservation Fund.
 

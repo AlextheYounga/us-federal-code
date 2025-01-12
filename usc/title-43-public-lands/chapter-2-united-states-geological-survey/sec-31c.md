@@ -22,9 +22,9 @@ The cooperative geologic mapping program shall be—
 
 The Survey shall be the lead Federal agency responsible for planning, developing national priorities and standards for, coordinating, and managing the geologic mapping program. In carrying out this paragraph, the Secretary, acting through the Director, shall—
 
-(A) develop a 5-year strategic plan for the geologic mapping program in accordance with section 31e of this title, which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after March 30, 2009;
+(A) develop a 5-year strategic plan for the geologic mapping program in accordance with section 31e of this title, which plan shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 1 year after March 12, 2019;
 
-(B) appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after March 30, 2009, in accordance with section 31d of this title; and
+(B) appoint, with the advice and consultation of the Association, the advisory committee not later than 1 year after March 12, 2019, in accordance with section 31d of this title; and
 
 (C) submit biennially a report to the Committee on Energy and Natural Resources of the United States Senate and to the Committee on Resources of the House of Representatives identifying—
 
@@ -156,9 +156,11 @@ The Survey and recipients of grants under the education component shall not use 
 
 The Federal share of the cost of activities under the education component for any fiscal year shall not exceed 50 percent.
 
-(Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108; Pub. L. 106–148, §4, Dec. 9, 1999, 113 Stat. 1720; Pub. L. 111–11, title XI, §11001(c)–(e), Mar. 30, 2009, 123 Stat. 1414, 1415.)
+(Pub. L. 102–285, §4, May 18, 1992, 106 Stat. 167; Pub. L. 103–437, §16(a)(1), Nov. 2, 1994, 108 Stat. 4594; Pub. L. 105–36, §3(b), Aug. 5, 1997, 111 Stat. 1108; Pub. L. 106–148, §4, Dec. 9, 1999, 113 Stat. 1720; Pub. L. 111–11, title XI, §11001(c)–(e), Mar. 30, 2009, 123 Stat. 1414, 1415; Pub. L. 116–9, title V, §5002(a)(2), Mar. 12, 2019, 133 Stat. 768.)
 
 #### Amendments ####
+
+**2019**—Subsec. (b)(1)(A), (B). Pub. L. 116–9 substituted "March 12, 2019" for "March 30, 2009".
 
 **2009**—Subsec. (b)(1)(A). Pub. L. 111–11, §11001(c)(1), substituted "not later than 1 year after March 30, 2009;" for "not later than 1 year after December 9, 1999;".
 

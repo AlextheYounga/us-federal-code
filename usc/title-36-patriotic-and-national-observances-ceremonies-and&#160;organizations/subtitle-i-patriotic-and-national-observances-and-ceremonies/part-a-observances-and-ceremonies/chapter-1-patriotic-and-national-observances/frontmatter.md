@@ -100,6 +100,54 @@ Sec.
 
 **2001**—Pub. L. 107–89, §2, Dec. 18, 2001, 115 Stat. 877, added item 144.
 
+#### American World War II Heritage Cities ####
+
+Pub. L. 116–9, title IX, §9007, Mar. 12, 2019, 133 Stat. 837, provided that:
+
+"(a) Designation.—In order to recognize and ensure the continued preservation and importance of the history of the United States involvement in World War II, each calendar year the Secretary [of the Interior] may designate 1 or more cities located in 1 of the several States or a territory of the United States as an 'American World War II Heritage City'. Not more than 1 city in each State or territory may be designated under this section.
+
+"(b) Application for Designation.—The Secretary may—
+
+"(1) establish and publicize the process by which a city may apply for designation as an American World War II Heritage City based on the criteria in subsection (c); and
+
+"(2) encourage cities to apply for designation as an American World War II Heritage City.
+
+"(c) Criteria for Designation.—The Secretary, in consultation with the Secretary of the Smithsonian Institution or the President of the National Trust for Historic Preservation, shall make each designation under subsection (a) based on the following criteria:
+
+"(1) Contributions by a city and its environs to the World War II home-front war effort, including contributions related to—
+
+"(A) defense manufacturing, such as ships, aircraft, uniforms, and equipment;
+
+"(B) production of foodstuffs and consumer items for Armed Forces and home consumption;
+
+"(C) war bond drives;
+
+"(D) adaptations to wartime survival;
+
+"(E) volunteer participation;
+
+"(F) civil defense preparedness;
+
+"(G) personnel serving in the Armed Forces, their achievements, and facilities for their rest and recreation; or
+
+"(H) the presence of Armed Forces camps, bases, airfields, harbors, repair facilities, and other installations within or in its environs.
+
+"(2) Achievements by a city and its environs to preserve the heritage and legacy of the city's contributions to the war effort and to preserve World War II history, including—
+
+"(A) the identification, preservation, restoration, and interpretation of World War II-related structures, facilities and sites;
+
+"(B) establishment of museums, parks, and markers;
+
+"(C) establishment of memorials to area men who lost their lives in service;
+
+"(D) organizing groups of veterans and home-front workers and their recognition;
+
+"(E) presentation of cultural events such as dances, plays, and lectures;
+
+"(F) public relations outreach through the print and electronic media, and books; and
+
+"(G) recognition and ceremonies remembering wartime event anniversaries."
+
 #### 75th Anniversary of World War II Commemoration ####
 
 Pub. L. 115–433, Jan. 10, 2019, 132 Stat. 5523, provided that:

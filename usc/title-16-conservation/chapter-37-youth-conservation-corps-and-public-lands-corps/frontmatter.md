@@ -32,9 +32,13 @@ Sec.
 
 1725b. Forest Service hire authority.
 
-1726. Living allowances and terms of service.
+1726. Compensation and terms of service.
 
 1727. National service educational awards.
+
+1727a. Reporting and data collection.
+
+1727b. Indian Youth Service Corps.
 
 1728. Nondisplacement.
 

@@ -8,9 +8,7 @@ Sec.
 
 213. Medical, dental, etc., expenses.
 
-[214. Repealed.]
-
-215. Alimony, etc., payments.
+[214, 215. Repealed.]
 
 216. Deduction of taxes, interest, and business depreciation by cooperative housing corporation tenant-stockholder.
 
@@ -29,10 +27,6 @@ Sec.
 223. Health savings accounts.
 
 224. Cross reference.
-
-#### Amendment of Analysis ####
-
-Pub. L. 115–97, title I, §11051(a), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, provided that, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, this analysis is amended as probable intent by striking item 215. See 2017 Amendment note below.
 
 #### Amendments ####
 

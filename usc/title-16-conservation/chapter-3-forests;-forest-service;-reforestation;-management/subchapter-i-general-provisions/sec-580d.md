@@ -184,7 +184,7 @@ Pub. L. 115–334, title VIII, §8623, Dec. 20, 2018, 132 Stat. 4853, provided t
 
 #### Forest Service Facility Realignment and Enhancement ####
 
-Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 111–8, div. E, title IV, §422, Mar. 11, 2009, 123 Stat. 748; Pub. L. 112–74, div. E, title IV, §421, Dec. 23, 2011, 125 Stat. 1045; Pub. L. 115–141, div. G, title IV, §423, Mar. 23, 2018, 132 Stat. 692; Pub. L. 115–334, title VIII, §8504, Dec. 20, 2018, 132 Stat. 4847, provided that:
+Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 111–8, div. E, title IV, §422, Mar. 11, 2009, 123 Stat. 748; Pub. L. 112–74, div. E, title IV, §421, Dec. 23, 2011, 125 Stat. 1045; Pub. L. 115–141, div. G, title IV, §423, Mar. 23, 2018, 132 Stat. 692; Pub. L. 115–334, title VIII, §8504, Dec. 20, 2018, 132 Stat. 4847; Pub. L. 116–6, div. E, title IV, §422, Feb. 15, 2019, 133 Stat. 263, provided that:
 
 #### "SEC. 501. SHORT TITLE. ####
 
@@ -278,7 +278,7 @@ Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 11
 
 "(3) Notice of use of authority.—At least once a year, the Secretary shall submit to the Committee on Agriculture, the Committee on Appropriations, and the Committee on Resources [now Committee on Natural Resources] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate a report containing a description of all conveyances of National Forest System land made by the Secretary under this title or other conveyance authorities during the period covered by the report.
 
-"(f) Duration of Authority.—The authority of the Secretary to initiate the conveyance of an administrative site under this title expires on September 30, 2023.
+"(f) Duration of Authority.—The authority of the Secretary to initiate the conveyance of an administrative site under this title expires on September 30, 2019.
 
 "(g) Repeal of Pilot Conveyance Authority.—Effective September 30, 2006, section 329 of the Department of the Interior and Related Agencies Appropriations Act, 2002 (16 U.S.C. 580d note; Public Law 107–63), is repealed. Notwithstanding the repeal of such section, the Secretary may complete the conveyance under such section of any administrative site whose conveyance was initiated under such section before that date.
 
@@ -360,7 +360,7 @@ Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 11
 
 "(c) Brokerage Services.—The Secretary may use the proceeds from the conveyance of an administrative site under this title to pay reasonable commissions or fees for brokerage services obtained in connection with the conveyance if the Secretary determines that the services are in the public interest. The Secretary shall provide public notice of any brokerage services contract entered into in connection with a conveyance under this title."
 
-[Pub. L. 115–334, title VIII, §8504, Dec. 20, 2018, 132 Stat. 4847, which directed amendment of section 503(f) of Pub. L. 109–54, set out above, by substituting "2023" for "2016", was executed by making the substitution for "2018" to reflect the probable intent of Congress and the intervening amendment by Pub. L. 115–141.]
+[Pub. L. 115–334, title VIII, §8504, Dec. 20, 2018, 132 Stat. 4847, which directed amendment of section 503(f) of Pub. L. 109–54, set out above, by substituting "2023" for "2016", could not be executed because of the intervening amendment by Pub. L. 115–141.]
 
 #### Conveyance of Excess Forest Service Structures ####
 

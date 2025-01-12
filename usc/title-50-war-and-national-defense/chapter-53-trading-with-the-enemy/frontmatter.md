@@ -84,9 +84,9 @@ Sec.
 
 4341. Motion picture prints, transfer of title.
 
-#### Elimination of Title 50, Appendix ####
+#### Codification ####
 
-Act Oct. 6, 1917, ch. 106, 40 Stat. 411, comprising this chapter, was formerly set out in the Appendix to this title, prior to the elimination of the Appendix to this title and the editorial reclassification of the Act as this chapter, see provisions set out as a note preceding section 1 of this title. For disposition of sections of the former Appendix to this title, see the Elimination of Title 50, Appendix note and Table II, set out preceding section 1 of this title.
+Act Oct. 6, 1917, ch. 106, 40 Stat. 411, comprising this chapter, was formerly set out in the Appendix to this title, prior to the elimination of the Appendix to this title and the editorial reclassification of the Act as this chapter. For disposition of sections of the former Appendix to this title, see Table II, set out preceding section 1 of this title.
 
 #### Termination of World War and Emergency ####
 

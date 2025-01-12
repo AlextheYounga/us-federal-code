@@ -2,7 +2,7 @@
 
 Sec.
 
-71. Alimony and separate maintenance payments.
+[71. Repealed.]
 
 72. Annuities; certain proceeds of endowment and life insurance contracts.
 
@@ -43,10 +43,6 @@ Sec.
 90. Illegal Federal irrigation subsidies.
 
 91. Certain foreign branch losses transferred to specified 10-percent owned foreign corporations.
-
-#### Amendment of Analysis ####
-
-Pub. L. 115–97, title I, §11051(b)(1)(B), (c), Dec. 22, 2017, 131 Stat. 2089, 2090, provided that, applicable to any divorce or separation instrument (as defined in former section 71(b)(2) of this title as in effect before Dec. 22, 2017) executed after Dec. 31, 2018, and to such instruments executed on or before Dec. 31, 2018, and modified after Dec. 31, 2018, if the modification expressly provides that the amendment made by section 11051 of Pub. L. 115–97 applies to such modification, this analysis is amended by striking item 71. See 2017 Amendment note below.
 
 #### Amendments ####
 

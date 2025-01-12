@@ -512,7 +512,7 @@ Sec.
 
 160a–1. Boundaries.
 
-160b. Acquisition of lands; lands outside of boundaries; transfer of Federal property within boundaries to administrative jurisdiction of Secretary; consideration by Secretary of offers to sell property within park area.
+160b. Land acquisitions.
 
 160c. Acquisition of improved property.
 
@@ -1018,11 +1018,11 @@ Sec.
 
 342. Administration, protection, and promotion.
 
-342a. Extension of boundary limits.
+342a. Repealed.
 
 342b. Lafayette National Park name changed to Acadia National Park; land unaffected by Federal Power Act.
 
-343. Acceptance of property on Mount Desert Island.
+343. Repealed.
 
 343a. Naval radio station, Seawall, Maine, as addition to park.
 
@@ -1976,7 +1976,7 @@ Sec.
 
 410zz–3. Authorization of appropriations.
 
-#### SUBCHAPTER LIX–Y—CALIFORNIA DESERT LANDS PARKS AND PRESERVE ####
+#### SUBCHAPTER LIX–Y—CALIFORNIA DESERT LANDS PARKS, PRESERVE, AND OFF-HIGHWAY VEHICLE RECREATION AREAS ####
 
 #### Part A—Death Valley National Park ####
 
@@ -2011,6 +2011,8 @@ Sec.
 410aaa–26. Utility rights-of-way.
 
 410aaa–27. Joshua Tree National Park Advisory Commission.
+
+410aaa–28. Visitor center.
 
 #### Part C—Mojave National Preserve ####
 
@@ -2074,11 +2076,21 @@ Sec.
 
 410aaa–80. Land appraisal.
 
-410aaa–81. Definition.
+410aaa–81. Juniper Flats.
+
+410aaa–81a. Transfer of land to Anza-Borrego Desert State Park.
+
+410aaa–81b. Wildlife corridors.
+
+410aaa–81c. Prohibited uses of acquired, donated, and conservation land.
 
 410aaa–82. Military overflights.
 
 410aaa–83. Authorization of appropriations.
+
+#### Part E—Off-Highway Vehicle Recreation Areas ####
+
+410aaa–91. Designation of Off-Highway Vehicle Recreation Areas.
 
 #### SUBCHAPTER LIX–Z—NEW ORLEANS JAZZ NATIONAL HISTORICAL PARK ####
 
@@ -2307,6 +2319,70 @@ Sec.
 #### SUBCHAPTER LIX–TT—OREGON CAVES NATIONAL MONUMENT AND PRESERVE ####
 
 410vvv. Oregon Caves National Monument and Preserve.
+
+#### SUBCHAPTER LIX–UU—MARTIN LUTHER KING, JR. NATIONAL HISTORICAL PARK ####
+
+410www. Establishment of Martin Luther King, Jr. National Historical Park.
+
+410www–1. Administration.
+
+410www–2. Authority of Secretary regarding property and concessions.
+
+410www–3. Establishment of Advisory Commission.
+
+410www–4. Entrance or admission fees prohibited.
+
+410www–5. Authorization of appropriations; limitation on authority.
+
+410www–6. Minimizing adverse impacts on preservation district.
+
+410www–7. Submission of comprehensive general management plan.
+
+#### SUBCHAPTER LIX–VV—STE. GENEVIEVE NATIONAL HISTORICAL PARK ####
+
+410xxx. Ste. Genevieve National Historical Park.
+
+#### SUBCHAPTER LIX–WW—OCMULGEE MOUNDS NATIONAL HISTORICAL PARK ####
+
+410yyy. Establishment; acquisition of property.
+
+410yyy–1. Donation of property; condemnation proceedings.
+
+410yyy–2. Administration, protection, and development.
+
+410yyy–3. Ocmulgee Mounds National Historical Park boundary.
+
+#### SUBCHAPTER LIX–XX—SAINT-GAUDENS NATIONAL HISTORICAL PARK ####
+
+410zzz. Acquisition of lands.
+
+410zzz–1. Acceptance of funds.
+
+410zzz–2. Establishment.
+
+410zzz–3. Administration.
+
+410zzz–4. Saint-Gaudens Memorial.
+
+410zzz–5. Authorization of appropriations.
+
+#### SUBCHAPTER LIX–YY—FORT SUMTER AND FORT MOULTRIE NATIONAL HISTORICAL PARK ####
+
+410aaaa. . Fort Sumter and Fort Moultrie National Historical Park.
+
+#### SUBCHAPTER LIX–ZZ—RECONSTRUCTION ERA NATIONAL HISTORICAL PARK ####
+
+410bbbb. Reconstruction Era National Historical Park and Reconstruction Era National Historic Network.
+
+#### SUBCHAPTER LIX–AAA—GOLDEN SPIKE NATIONAL HISTORICAL PARK ####
+
+410cccc. Acquisition of lands.
+
+410cccc–1. Golden Spike National Historic Site.
+
+410cccc–2. Authorization of appropriations.
+
+410cccc–3. Golden Spike National Historical Park.
 
 #### SUBCHAPTER LX—NATIONAL MILITARY PARKS ####
 
@@ -2574,6 +2650,8 @@ Sec.
 
 430f–12. Authorization of appropriations.
 
+430f–13. Shiloh National Military Park boundary adjustment.
+
 430g. Gettysburg National Military Park.
 
 430g–1. Exchange of lands.
@@ -2649,6 +2727,8 @@ Sec.
 430s. Authorization of appropriations.
 
 430t. Kennesaw Mountain National Battlefield Park; establishment.
+
+430t–1. Kennesaw Mountain National Battlefield Park boundary.
 
 430u. Donations of land; purchase and condemnation.
 
@@ -2828,11 +2908,7 @@ Sec.
 
 447. Repealed.
 
-447a. Ocmulgee National Monument; establishment; acquisition of property.
-
-447b. Donation of property; condemnation proceedings.
-
-447c. Administration, protection, and development.
+447a to 447c. Transferred.
 
 448. Pioneer National Monument; establishment.
 
@@ -2922,7 +2998,7 @@ Sec.
 
 450ee. Fort Sumter National Monument; establishment.
 
-450ee–1. Administration.
+450ee–1. Repealed.
 
 450ff. Fort Vancouver National Historic Site; establishment.
 
@@ -3606,7 +3682,7 @@ Sec.
 
 460t–4. Authorization of appropriations.
 
-#### SUBCHAPTER LXXIX—INDIANA DUNES NATIONAL LAKESHORE ####
+#### SUBCHAPTER LXXIX—INDIANA DUNES NATIONAL PARK ####
 
 460u. Establishment; description of area.
 
@@ -3622,7 +3698,7 @@ Sec.
 
 460u–6. Administration.
 
-460u–7. Indiana Dunes National Lakeshore Advisory Commission.
+460u–7. Indiana Dunes National Park Advisory Commission.
 
 460u–8. State jurisdiction.
 
@@ -4656,24 +4732,36 @@ Sec.
 
 460aaaa. Nellis Dunes Off-Highway Vehicle Recreation Area.
 
-#### SUBCHAPTER CXXXIX—MARTIN LUTHER KING, JR. NATIONAL HISTORICAL PARK ####
+#### SUBCHAPTER CXXXIX—ASHLEY KARST NATIONAL RECREATION AND GEOLOGIC AREA ####
 
-460bbbb. Establishment of Martin Luther King, Jr. National Historical Park.
+460bbbb. Ashley Karst National Recreation and Geologic Area.
 
-460bbbb–1. Administration.
+#### SUBCHAPTER CXL—JOHN WESLEY POWELL NATIONAL CONSERVATION AREA ####
 
-460bbbb–2. Authority of Secretary regarding property and concessions.
+460cccc. John Wesley Powell National Conservation Area.
 
-460bbbb–3. Establishment of Advisory Commission.
+#### SUBCHAPTER CXLI—SAN RAFAEL SWELL RECREATION AREA ####
 
-460bbbb–4. Entrance or admission fees prohibited.
+460dddd. Establishment of Recreation Area.
 
-460bbbb–5. Authorization of appropriations; limitation on authority.
+460dddd–1. Management of Recreation Area.
 
-460bbbb–6. Minimizing adverse impacts on preservation district.
+460dddd–2. San Rafael Swell Recreation Area Advisory Council.
 
-460bbbb–7. Submission of comprehensive general management plan.
+#### SUBCHAPTER CXLII—VINAGRE WASH SPECIAL MANAGEMENT AREA ####
 
-#### SUBCHAPTER CXL—STE. GENEVIEVE NATIONAL HISTORICAL PARK ####
+460eeee. Vinagre Wash Special Management Area.
 
-460cccc. Ste. Genevieve National Historical Park.
+#### SUBCHAPTER CXLIII—ALABAMA HILLS NATIONAL SCENIC AREA ####
+
+460ffff. Definitions.
+
+460ffff–1. Alabama Hills National Scenic Area, California.
+
+460ffff–2. Management plan.
+
+460ffff–3. Land taken into trust for Lone Pine Paiute-Shoshone Reservation.
+
+460ffff–4. Transfer of administrative jurisdiction.
+
+460ffff–5. Protection of services and recreational opportunities.

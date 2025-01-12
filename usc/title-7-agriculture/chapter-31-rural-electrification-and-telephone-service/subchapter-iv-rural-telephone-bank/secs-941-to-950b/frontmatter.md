@@ -16,15 +16,15 @@ Section 946, act May 20, 1936, ch. 432, title IV, §406, as added Pub. L. 92–1
 
 Section 947, act May 20, 1936, ch. 432, title IV, §407, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 34; amended Pub. L. 92–324, §2, June 30, 1972, 86 Stat. 390; Pub. L. 93–32, §§6, 7, May 11, 1973, 87 Stat. 70, authorized the telephone bank to obtain funds through the public or private sale of its bonds, debentures, notes, and other evidences of indebtedness.
 
-Section 948, act May 20, 1936, ch. 432, title IV, §408, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 35; amended Pub. L. 93–32, §§8, 9, May 11, 1973, 87 Stat. 70, 71; Pub. L. 100–203, title I, §§1411(b)(1), (c), 1412, Dec. 22, 1987, 101 Stat. 1330–22, 1330–23, 1330–26; Pub. L. 101–624, title XXIII, §§2365, 2366, 2367(b), Nov. 28, 1990, 104 Stat. 4044; Pub. L. 103–129, §2(a)(2), Nov. 1, 1993, 107 Stat. 1361; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–66, title I, §1011(y), Dec. 21, 1995, 109 Stat. 711, granted the telephone bank lending power subject to certain terma and conditions.
+Section 948, act May 20, 1936, ch. 432, title IV, §408, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 35; amended Pub. L. 93–32, §§8, 9, May 11, 1973, 87 Stat. 70, 71; Pub. L. 100–203, title I, §§1411(b)(1), (c), 1412, Dec. 22, 1987, 101 Stat. 1330–22, 1330–23, 1330–26; Pub. L. 101–624, title XXIII, §§2365, 2366, 2367(b), Nov. 28, 1990, 104 Stat. 4044; Pub. L. 103–129, §2(a)(2), Nov. 1, 1993, 107 Stat. 1361; Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 104–66, title I, §1011(y), Dec. 21, 1995, 109 Stat. 711, granted the telephone bank lending power subject to certain terms and conditions.
 
-Section 949, act May 20, 1936, ch. 432, title IV, §409, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 36, provided that receipts from bank acitivities would be available for all obligations and expenditures of the telephone bank.
+Section 949, act May 20, 1936, ch. 432, title IV, §409, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 36, provided that receipts from telephone bank activities would be available for all obligations and expenditures of the telephone bank.
 
-Section 950, act May 20, 1936, ch. 432, title IV, §410, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 36; amended Pub. L. 94–273, §2(2), Apr. 21, 1976, 90 Stat. 375; Pub. L. 101–624, title XXIII, §2363(b)(2), Nov. 28, 1990, 104 Stat. 4043; Pub. L. 103–354, title II, §235(a)(11), Oct. 13, 1994, 108 Stat. 3221, related to the transfer of ownership, control and power from from the Secretary of Agriculture to the Telephone Bank Board.
+Section 950, act May 20, 1936, ch. 432, title IV, §410, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 36; amended Pub. L. 94–273, §2(2), Apr. 21, 1976, 90 Stat. 375; Pub. L. 101–624, title XXIII, §2363(b)(2), Nov. 28, 1990, 104 Stat. 4043; Pub. L. 103–354, title II, §235(a)(11), Oct. 13, 1994, 108 Stat. 3221, related to the transfer of ownership, control and power from the Secretary of Agriculture to the Telephone Bank Board.
 
-Section 950b, act May 20, 1936, ch. 432, title IV, §411, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 37, related to the liquidation or dissolution of telephone bank,
+Section 950a, act May 20, 1936, ch. 432, title IV, §411, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 37, related to the liquidation or dissolution of the telephone bank.
 
-Section 950b, act May 20, 1936, ch. 432, title IV, §412, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 37; amended Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221, limited loans under section 922 of this title for any borrower with a net worth in excess of 20 per centum of its assets.
+Section 950b, act May 20, 1936, ch. 432, title IV, §412, as added Pub. L. 92–12, §2, May 7, 1971, 85 Stat. 37; amended Pub. L. 103–354, title II, §235(a)(13), Oct. 13, 1994, 108 Stat. 3221, limited loans under section 922 of this title for any borrower with a net worth in excess of 20 percent of its assets.
 
 #### Congressional Findings Covering Interest Rates and Loan Prepayments ####
 

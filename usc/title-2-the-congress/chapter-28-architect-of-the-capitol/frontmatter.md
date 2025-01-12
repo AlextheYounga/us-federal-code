@@ -114,6 +114,8 @@ Sec.
 
 1862a. Use of construction project funds to reimburse Capitol Police for related overtime costs.
 
+1862b. Transfer of amounts appropriated for Architect of the Capitol under House Office Buildings.
+
 1863. Funds out of Contingent Expenses, Architect of the Capitol Appropriation.
 
 1864. Funds out of Capitol Buildings, Architect of the Capitol Appropriation.

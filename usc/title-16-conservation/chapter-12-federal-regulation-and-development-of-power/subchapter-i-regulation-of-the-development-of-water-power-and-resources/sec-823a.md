@@ -60,7 +60,7 @@ The Commission, in addition to the requirements of section 803(e) of this title,
 
 #### References in Text ####
 
-The Fish and Wildlife Coordination Act, referred to in subsec. (c), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of this title. For complete classification of this Act to the Code, see Short Title note set out under section 661 of this title and Tables.
+The Fish and Wildlife Coordination Act, referred to in subsec. (c), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of this title. For complete classification of this Act to the Code, see section 661(a) of this title, Short Title note set out under section 661 of this title, and Tables.
 
 #### Prior Provisions ####
 

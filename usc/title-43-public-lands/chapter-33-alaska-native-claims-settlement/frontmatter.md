@@ -76,4 +76,6 @@ Sec.
 
 1629g. Open season for certain Alaska Native veterans for allotments.
 
+1629g–1. Alaska Native Vietnam era veterans land allotment.
+
 1629h. Kake Tribal Corporation land transfer.

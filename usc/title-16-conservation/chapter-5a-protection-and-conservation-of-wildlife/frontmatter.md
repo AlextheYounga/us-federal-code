@@ -4,7 +4,7 @@
 
 Sec.
 
-661. Declaration of purpose; cooperation of agencies; surveys and investigations; donations.
+661. Short title; authorization.
 
 662. Impounding, diverting, or controlling of waters.
 
@@ -23,6 +23,8 @@ Sec.
 666b. Definitions.
 
 666c. Applicability to Tennessee Valley Authority.
+
+666c–1. Protection of water, oceans, coasts, and wildlife from invasive species.
 
 666d. Skagit National Wildlife Refuge; exchange of lands.
 

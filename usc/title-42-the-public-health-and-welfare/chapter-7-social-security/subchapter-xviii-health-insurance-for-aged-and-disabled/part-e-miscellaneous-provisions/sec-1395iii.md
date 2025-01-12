@@ -24,10 +24,6 @@ In the case that expenditures from the Fund are applied to, or otherwise affect,
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1898, as added Pub. L. 110–252, title VII, §7002(a), June 30, 2008, 122 Stat. 2394; amended Pub. L. 110–275, title I, §188(a)(2)(B), July 15, 2008, 122 Stat. 2589; Pub. L. 110–379, §6, Oct. 8, 2008, 122 Stat. 4079; Pub. L. 111–5, div. B, title IV, §4103(b), Feb. 17, 2009, 123 Stat. 487; Pub. L. 111–118, div. B, §1011(b), Dec. 19, 2009, 123 Stat. 3474; Pub. L. 111–148, title III, §3112, Mar. 23, 2010, 124 Stat. 421; Pub. L. 111–309, title II, §207, Dec. 15, 2010, 124 Stat. 3291; Pub. L. 112–240, title VI, §640, Jan. 2, 2013, 126 Stat. 2357; Pub. L. 113–82, §3, Feb. 15, 2014, 128 Stat. 1009; Pub. L. 113–93, title II, §219, Apr. 1, 2014, 128 Stat. 1070; Pub. L. 113–185, §3(e), Oct. 6, 2014, 128 Stat. 1969; Pub. L. 114–10, title V, §518, Apr. 16, 2015, 129 Stat. 175; Pub. L. 114–60, §2(c), Oct. 7, 2015, 129 Stat. 544; Pub. L. 114–113, div. O, title V, §501, Dec. 18, 2015, 129 Stat. 3018; Pub. L. 114–115, §5, Dec. 28, 2015, 129 Stat. 3133; Pub. L. 114–198, title VII, §704(h), July 22, 2016, 130 Stat. 752; Pub. L. 114–255, div. A, title V, §5001, Dec. 13, 2016, 130 Stat. 1188; Pub. L. 115–63, title III, §303, Sept. 29, 2017, 131 Stat. 1172; Pub. L. 115–123, div. E, title XII, §53115, Feb. 9, 2018, 132 Stat. 306.)
 
-#### Applicability of Amendment ####
-
-Amendment of subsec. (b)(1) of this section by section 704(h) of Pub. L. 114–198 applicable to prescription drug plans (and MA–PD plans) for plan years beginning on or after Jan. 1, 2019. Subsequent amendments were executed to subsec. (b)(1) as amended by Pub. L. 114–198. See 2016 and 2017 Amendment notes below.
-
 #### Amendments ####
 
 **2018**—Subsec. (b)(1). Pub. L. 115–123 substituted "$0" for "$220,000,000".

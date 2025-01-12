@@ -120,7 +120,7 @@ Subtitle III—National Preservation Programs
 
 3083. National Underground Railroad Network to Freedom 308301
 
-3084 2 U.S. Civil Rights Network 308401
+3084 2 African American Civil Rights Network 308401
 
 3085. National Women's Rights History Project 308501
 
@@ -149,6 +149,8 @@ Subtitle III—National Preservation Programs
 3203. Monuments, Ruins, Sites, and Objects of Antiquity 320301
 
 #### Amendments ####
+
+**2019**—Pub. L. 116–9, title II, §2407(b), Mar. 12, 2019, 133 Stat. 750, substituted "African American Civil Rights Network" for "U.S. Civil Rights Network" in item for chapter 3084.
 
 **2018**—Pub. L. 115–104, §3(b), Jan. 8, 2018, 131 Stat. 2261, added item for chapter 3084.
 

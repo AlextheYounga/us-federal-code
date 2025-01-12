@@ -20,6 +20,30 @@ The Secretary of the Interior shall implement the conservation and rehabilitatio
 
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
 
+#### Desert Tortoise Conservation Center ####
+
+Pub. L. 116–9, title I, §1461, Mar. 12, 2019, 133 Stat. 719, provided that:
+
+"(a) In General.—The Secretary shall establish, operate, and maintain a trans-State desert tortoise conservation center (referred to in this section as the 'Center') on public land along the California-Nevada border—
+
+"(1) to support desert tortoise research, disease monitoring, handling training, rehabilitation, and reintroduction;
+
+"(2) to provide temporary quarters for animals collected from authorized salvage from renewable energy sites; and
+
+"(3) to ensure the full recovery and ongoing survival of the species.
+
+"(b) Center.—In carrying out this section, the Secretary shall—
+
+"(1) seek the participation of or contract with qualified organizations with expertise in desert tortoise disease research and experience with desert tortoise translocation techniques, and scientific training of professional biologists for handling tortoises, to staff and manage the Center;
+
+"(2) ensure that the Center engages in public outreach and education on tortoise handling; and
+
+"(3) consult with the State and the State of Nevada to ensure that the Center is operated consistent with State law.
+
+"(c) Non-Federal Contributions.—The Secretary may accept and expend contributions of non-Federal funds to establish, operate, and maintain the Center."
+
+[For definitions of "Secretary" and "State" as used in section 1461 of Pub. L. 116–9, set out above, see section 1401 of Pub. L. 116–9, set out as a Definitions note under section 410aaa–7 of this title.]
+
 #### Desert Tortoise Plan ####
 
 Pub. L. 100–275, §12, Mar. 31, 1988, 102 Stat. 60, directed Secretary of the Interior to review status of populations of desert tortoises on lands in Nevada and other States managed by Secretary, other than lands conveyed or leased pursuant to Pub. L. 100–275, assess nature and extent of threats to continued health or stability of such populations on such lands, and prepare a comprehensive plan to address such threats, with Secretary to consult with State officials, other Federal agencies responsible for management of lands where desert tortoise populations are located, the Desert Tortoise Council, and other persons or groups identified by Secretary as having expertise relevant to requirements of this section; such review and assessment to be completed and results to be made available to the public and transmitted to certain committees of Congress no later than two years after Mar. 31, 1988, and such plan to be developed and transmitted to such committees no later than three years after Mar. 31, 1988; with a failure by Secretary to transmit such report within such three-year period not to relieve the Secretary from requirement to prepare such plan.

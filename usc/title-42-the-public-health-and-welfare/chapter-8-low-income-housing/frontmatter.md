@@ -48,7 +48,7 @@ Sec.
 
 1437f. Low-income housing assistance.
 
-1437f–1. Report on section 8 project-based housing.
+1437f–1. Repealed.
 
 1437g. Public housing Capital and Operating Funds.
 

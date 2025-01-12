@@ -156,7 +156,7 @@ Sec.
 
 1300. Indian lands.
 
-1301. Environmental practices.
+1301. Experimental practices.
 
 1302. Authorization of appropriations.
 
