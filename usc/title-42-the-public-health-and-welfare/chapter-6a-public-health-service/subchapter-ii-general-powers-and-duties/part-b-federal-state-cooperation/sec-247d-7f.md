@@ -140,7 +140,7 @@ The term "covered activities" shall not include, with respect to a meeting or co
 
 (vii) Entering into any agreement or engaging in any other conduct restricting or setting the price at which a countermeasure or product is offered for sale, whether by bid or otherwise.
 
-(July 1, 1944, ch. 373, title III, §319L–1, as added Pub. L. 116–22, title VII, §701(e)(1)(C), (D), June 24, 2019, 133 Stat. 961; amended Pub. L. 118–22, div. B, title II, §203(c), Nov. 17, 2023, 137 Stat. 120; Pub. L. 118–35, div. B, title I, §103(c), Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, §103(c), Mar. 9, 2024, 138 Stat. 398.)
+(July 1, 1944, ch. 373, title III, §319L–1, formerly Pub. L. 109–417, title IV, §405, Dec. 19, 2006, 120 Stat. 2875, as amended Pub. L. 113–5, §402(e)(1), Mar. 13, 2013, 127 Stat. 195; renumbered §319L–1 of act July 1, 1944, and amended Pub. L. 116–22, title VII, §701(e)(1), June 24, 2019, 133 Stat. 961; Pub. L. 118–22, div. B, title II, §203(c), Nov. 17, 2023, 137 Stat. 120; Pub. L. 118–35, div. B, title I, §103(c), Jan. 19, 2024, 138 Stat. 5; Pub. L. 118–42, div. G, title I, §103(c), Mar. 9, 2024, 138 Stat. 398.)
 
 #### **Editorial Notes** ####
 
@@ -148,11 +148,11 @@ The term "covered activities" shall not include, with respect to a meeting or co
 
 The Antitrust Civil Process Act, referred to in subsec. (a)(6), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
 
-The date of enactment of this Act, referred to in subsec. (a)(8), probably means the date of enactment of Pub. L. 109–417, which was approved Dec. 19, 2006. This section was originally enacted as section 405 of Pub. L. 109–417, prior to redesignation as section 319L–1 of act July 1, 1944, ch. 373. See Codification note below.
+The date of enactment of this Act, referred to in subsec. (a)(8), probably means the date of enactment of Pub. L. 109–417, which was approved Dec. 19, 2006. This section was originally enacted as section 405 of Pub. L. 109–417, prior to renumbering as section 319L–1 of act July 1, 1944, ch. 373.
 
 #### Codification ####
 
-Section 405 of Pub. L. 109–417, formerly set out as a note under section 247d–6a of this title, which was redesignated as section 319L–1 of act July 1, 1944, ch. 373 and editorially reclassified as this section, was based on Pub. L. 109–417, title IV, §405, Dec. 19, 2006, 120 Stat. 2875, as amended by Pub. L. 113–5, §402(e)(1), Mar. 13, 2013, 127 Stat. 195; Pub. L. 116–22, title VII, §701(e)(1)(A), (B), June 24, 2019, 133 Stat. 961.
+Section was formerly set out as a note under section 247d–6a of this title prior to renumbering by Pub. L. 116–22.
 
 #### Prior Provisions ####
 
@@ -166,7 +166,11 @@ Pub. L. 118–35 substituted "March 8, 2024" for "January 19, 2024".
 
 **2023**—Subsec. (b). Pub. L. 118–22 substituted "after January 19, 2024" for "at the end of the 17-year period that begins on the date of enactment of this Act".
 
-**2019**—Pub. L. 116–22 redesignated section 405 of Pub. L. 109–417 as this section. See Codification note above.
+**2019**—Subsec. (a)(1)(A). Pub. L. 116–22, §701(e)(1)(A), substituted "The Secretary, in coordination" for "The Secretary of Health and Human Services (referred to in this subsection as the 'Secretary'), in coordination" and made technical amendments to references in original act which appear in text as references to sections 247d–6b, 247d–6a, and 247d–6d of this title.
+
+Subsec. (b). Pub. L. 116–22, §701(e)(1)(B), substituted "17-year" for "12-year".
+
+**2013**—Subsec. (b). Pub. L. 113–5 substituted "12-year" for "6-year".
 
 #### **Statutory Notes and Related Subsidiaries** ####
 

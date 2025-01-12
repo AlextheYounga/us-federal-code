@@ -458,7 +458,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
-**2023**—Revenue Procedure 2023—14.
+**2023**—Revenue Procedure 2023–14.
 
 **2022**—Revenue Procedure 2022–17.
 

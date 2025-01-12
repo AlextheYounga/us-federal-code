@@ -170,7 +170,7 @@ For purposes of this subtitle, the basis of any property for which a credit is a
 
 The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle (determined without regard to subsection (c)).
 
-#### (3) Repealed. Pub. L. 117–169, title I, §13401(g)(2)(B)(i), Aug. 16, 2022, 136 Stat. 1960 ####
+#### [(3) Repealed. Pub. L. 117–169, title I, §13401(g)(2)(B)(i), Aug. 16, 2022, 136 Stat. 1960] ####
 
 #### (4) Property used outside United States not qualified ####
 

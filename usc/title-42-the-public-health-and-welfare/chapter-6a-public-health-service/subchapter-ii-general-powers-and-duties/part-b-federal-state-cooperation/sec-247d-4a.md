@@ -14,7 +14,7 @@ The PHS Act, referred to in text, means the Public Health Service Act, act July 
 
 #### Codification ####
 
-Section was enacted as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2019, and also as part of the Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019 and Continuing Appropriations Act, 2019, and not as part of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Department of Health and Human Services Appropriations Act, 2019, and also as part of the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2019, and the Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019 and Continuing Appropriations Act, 2019, and not as part of the Public Health Service Act which comprises this chapter.
 
 #### Amendments ####
 

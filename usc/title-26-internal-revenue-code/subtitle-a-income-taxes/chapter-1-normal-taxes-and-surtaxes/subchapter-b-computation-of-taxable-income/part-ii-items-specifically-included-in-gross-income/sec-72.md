@@ -1048,7 +1048,7 @@ Rules similar to the rules of subparagraph (H)(v) shall apply with respect to an
 
 #### (vii) Limitation on subsequent distributions ####
 
-*"If a distribution is treated as an emergency personal expense distribution in any calendar year with respect to a plan of the employee, no amount may be treated as such a distribution during the immediately following 3 calendar years with respect to such plan unless—*
+If a distribution is treated as an emergency personal expense distribution in any calendar year with respect to a plan of the employee, no amount may be treated as such a distribution during the immediately following 3 calendar years with respect to such plan unless—
 
 (I) such previous distribution is fully repaid to such plan pursuant to clause (vi), or
 
@@ -1118,7 +1118,7 @@ In the case of a taxable year beginning in a calendar year after 2024, the $10,0
 
 (I) such dollar amount, multiplied by
 
-(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting 'calendar year 2023' for 'calendar year 2016' in subparagraph (A)(ii) thereof.
+(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting "calendar year 2023" for "calendar year 2016" in subparagraph (A)(ii) thereof.
 
 If any amount after adjustment under the preceding sentence is not a multiple of $100, such amount shall be rounded to the nearest multiple of $100.
 

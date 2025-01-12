@@ -68,7 +68,7 @@ Section was formerly classified to section 4571 of this title prior to renumberi
 
 **1984**—Pub. L. 98–509 amended directory language of Pub. L. 98–24, §2(b)(13). See 1983 Amendment note below.
 
-**1983**—Pub. L. 98–24, §2(b)(13), as amended by Pub. L. 98–509 renumbered section 4571 of this title as this section.
+**1983**—Pub. L. 98–24, §2(b)(13), as amended by Pub. L. 98–509, renumbered section 4571 of this title as this section.
 
 Subsec. (a). Pub. L. 98–24, §2(b)(13)(A)(i), substituted "the National Institute on Alcohol Abuse and Alcoholism" for "the Institute".
 
