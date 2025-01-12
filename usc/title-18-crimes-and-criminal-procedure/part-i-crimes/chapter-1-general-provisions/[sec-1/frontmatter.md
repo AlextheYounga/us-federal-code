@@ -6,6 +6,12 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2015 Amendment ####
+
+Pub. L. 114–22, §1(a), May 29, 2015, 129 Stat. 227, provided that: "This Act [see Tables for classification] may be cited as the 'Justice for Victims of Trafficking Act of 2015'."
+
+Pub. L. 114–22, title I, §118(a), May 29, 2015, 129 Stat. 247, provided that: "This section [amending section 1591 of this title] may be cited as the 'Stop Advertising Victims of Exploitation Act of 2015' or the 'SAVE Act of 2015'."
+
 #### Short Title of 2014 Amendment ####
 
 Pub. L. 113–104, §1, May 20, 2014, 128 Stat. 1156, provided that: "This Act [amending section 117 of this title] may be cited as the 'Kilah Davenport Child Protection Act of 2013'."

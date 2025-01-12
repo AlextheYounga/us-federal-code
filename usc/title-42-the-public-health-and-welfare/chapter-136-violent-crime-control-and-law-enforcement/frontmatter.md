@@ -354,13 +354,33 @@ Sec.
 
 14043g. Sexual assault services program.
 
+#### Part N–2—Rape Survivor Child Custody ####
+
+14043h. Definitions.
+
+14043h–1. Findings.
+
+14043h–2. Increased funding for formula grants authorized.
+
+14043h–3. Application.
+
+14043h–4. Grant increase.
+
+14043h–5. Period of increase.
+
+14043h–6. Allocation of increased formula grant funds.
+
+14043h–7. Authorization of appropriations.
+
 #### Part O—Combatting Domestic Trafficking in Persons ####
 
 14044. Prevention of domestic trafficking in persons.
 
 14044a. Establishment of a grant program to develop, expand, and strengthen assistance programs for certain persons subject to trafficking.
 
-14044b. Protection of juvenile victims of trafficking in persons.
+14044b. Victim-centered child human trafficking deterrence block grant program.
+
+14044b–1. Grant accountability.
 
 14044c. Enhancing State and local efforts to combat trafficking in persons.
 
@@ -369,6 +389,10 @@ Sec.
 14044e. Definitions
 
 14044f. Grants for law enforcement training programs.
+
+14044g. Combat Human Trafficking Act.
+
+14044h. Establishing a National Strategy to Combat Human Trafficking.
 
 #### Part P—Miscellaneous Authorities ####
 

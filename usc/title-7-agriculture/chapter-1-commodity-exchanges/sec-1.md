@@ -16,10 +16,6 @@ This chapter superseded act Aug. 24, 1921, ch. 86, 42 Stat. 187, known as "The F
 
 Act June 15, 1936, ch. 545, §13, 49 Stat. 1501, provided that: "All provisions of this Act [see Tables for classification] authorizing the registration of futures commission merchants and floor brokers, the fixing of fees and charges therefor, the promulgation of rules, regulations and orders, and the holding of hearings precedent to the promulgation of rules, regulations, and orders shall be effective immediately. All other provisions of this Act shall take effect ninety days after the enactment of this Act [June 15, 1936]."
 
-#### Short Title of 2015 Amendment ####
-
-Pub. L. 114–1, title III, §301, Jan. 12, 2015, 129 Stat. 28, provided that: "This title [amending section 6s of this title and section 78o–10 of Title 15, Commerce and Trade, and enacting provisions set out as a note under section 6s of this title] may be cited as the 'Business Risk Mitigation and Price Stabilization Act of 2015'."
-
 #### Short Title of 2008 Amendment ####
 
 Pub. L. 110–234, title XIII, §13001, May 22, 2008, 122 Stat. 1427, and Pub. L. 110–246, §4(a), title XIII, §13001, June 18, 2008, 122 Stat. 1664, 2189, provided that: "This title [amending sections 1a, 2, 6a, 6b, 6f, 6g, 6i, 6k, 6o–1, 6q, 7a, 7a–2, 7b, 8, 9, 12, 13, 13a, 13a–1, 16, 18, 21, and 25 of this title and enacting provisions set out as notes under section 2 of this title] may be cited as the 'CFTC Reauthorization Act of 2008'."

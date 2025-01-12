@@ -44,7 +44,35 @@ The purposes for which grants made under subsection (a) of this section may be m
 
 #### (c) Preferential consideration of applications for certain grants ####
 
-In awarding grants under this subchapter, the Attorney General may give preferential consideration, where feasible, to applications for hiring and rehiring additional career law enforcement officers that involve a non-Federal contribution exceeding the 25 percent minimum under subsection (g) of this section.
+In awarding grants under this subchapter, the Attorney General may give preferential consideration, where feasible, to an application—
+
+(1) for hiring and rehiring additional career law enforcement officers that involves a non-Federal contribution exceeding the 25 percent minimum under subsection (g);
+
+(2) from an applicant in a State that has in effect a law that—
+
+(A) treats a minor who has engaged in, or has attempted to engage in, a commercial sex act as a victim of a severe form of trafficking in persons;
+
+(B) discourages or prohibits the charging or prosecution of an individual described in subparagraph (A) for a prostitution or sex trafficking offense, based on the conduct described in subparagraph (A); and
+
+(C) encourages the diversion of an individual described in subparagraph (A) to appropriate service providers, including child welfare services, victim treatment programs, child advocacy centers, rape crisis centers, or other social services; or
+
+(3) from an applicant in a State that has in effect a law—
+
+(A) that—
+
+(i) provides a process by which an individual who is a human trafficking survivor can move to vacate any arrest or conviction records for a non-violent offense committed as a direct result of human trafficking, including prostitution or lewdness;
+
+(ii) establishes a rebuttable presumption that any arrest or conviction of an individual for an offense associated with human trafficking is a result of being trafficked, if the individual—
+
+(I) is a person granted nonimmigrant status pursuant to section 1101(a)(15)(T)(i) of title 8;
+
+(II) is the subject of a certification by the Secretary of Health and Human Services under section 7105(b)(1)(E) of title 22; or
+
+(III) has other similar documentation of trafficking, which has been issued by a Federal, State, or local agency; and
+
+(iii) protects the identity of individuals who are human trafficking survivors in public and court records; and
+
+(B) that does not require an individual who is a human trafficking survivor to provide official documentation as described in subclause (I), (II), or (III) of subparagraph (A)(ii) in order to receive protection under the law.
 
 #### (d) Technical assistance ####
 
@@ -112,7 +140,7 @@ Not later than 180 days after July 29, 2010, the Attorney General shall submit t
 
 #### (3) an explanation of how the practice of community policing and the broken windows theory can most effectively be applied in remote tribal locations. ####
 
-(Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, §1(1), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 108–21, title III, §341, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–162, title XI, §1163(a), Jan. 5, 2006, 119 Stat. 3119; Pub. L. 111–211, title II, §243, July 29, 2010, 124 Stat. 2292.)
+(Pub. L. 90–351, title I, §1701, as added Pub. L. 103–322, title I, §10003(a)(3), Sept. 13, 1994, 108 Stat. 1808; amended Pub. L. 105–119, title I, §119, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 105–302, §1(1), Oct. 27, 1998, 112 Stat. 2841; Pub. L. 108–21, title III, §341, Apr. 30, 2003, 117 Stat. 665; Pub. L. 109–162, title XI, §1163(a), Jan. 5, 2006, 119 Stat. 3119; Pub. L. 111–211, title II, §243, July 29, 2010, 124 Stat. 2292; Pub. L. 114–22, title VI, §601(1), title X, §1002, May 29, 2015, 129 Stat. 258, 266.)
 
 #### References in Text ####
 
@@ -123,6 +151,10 @@ The Public Safety Partnership and Community Policing Act of 1994, referred to in
 A prior section 1701 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
 #### Amendments ####
+
+**2015**—Subsec. (c). Pub. L. 114–22, §601(1), substituted "where feasible, to an application—" for "where feasible, to applications for hiring and rehiring additional career law enforcement officers that involve a non-Federal contribution exceeding the 25 percent minimum under subsection (g) of this section." and added pars. (1) and (2).
+
+Subsec. (c)(3). Pub. L. 114–22, §1002, added par. (3).
 
 **2010**—Subsec. (b). Pub. L. 111–211, §243(1)(A), inserted "to" after each par. designation.
 

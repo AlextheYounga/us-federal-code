@@ -466,6 +466,8 @@ Sec.
 
 472. Annual weaponry report.
 
+473. Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit.
+
 #### Part I—Information Sharing ####
 
 481. Short title; findings; and sense of Congress.
@@ -675,3 +677,13 @@ Sec.
 628. Small covered chemical facilities.
 
 629. Outreach to chemical facilities of interest.
+
+#### SUBCHAPTER XVII—ANTI-TRAFFICKING TRAINING FOR DEPARTMENT OF HOMELAND SECURITY PERSONNEL ####
+
+641. Definitions.
+
+642. Training for Department personnel to identify human trafficking.
+
+643. Certification and report to Congress.
+
+644. Assistance to non-Federal entities.

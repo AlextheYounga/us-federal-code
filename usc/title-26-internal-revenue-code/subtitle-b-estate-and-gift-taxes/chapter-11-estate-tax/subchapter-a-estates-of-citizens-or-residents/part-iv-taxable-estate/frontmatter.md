@@ -16,7 +16,7 @@ Sec.
 
 2056A. Qualified domestic trust.
 
-[2057. Repealed].
+[2057. Repealed.]
 
 2058. State death taxes.
 

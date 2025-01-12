@@ -30,7 +30,11 @@ Sec.
 
 3013. Special assessment on convicted persons.
 
+3014. Additional special assessment.
+
 #### Amendments ####
+
+**2015**—Pub. L. 114–22, title I, §101(b), May 29, 2015, 129 Stat. 230, added item 3014.
 
 **1984**—Pub. L. 98–473, title II, §§218(c), 1405(b), Oct. 12, 1984, 98 Stat. 2027, 2175, added item 3013 and substituted "Repealed" for "Orders respecting persons in custody" in item 3012.
 

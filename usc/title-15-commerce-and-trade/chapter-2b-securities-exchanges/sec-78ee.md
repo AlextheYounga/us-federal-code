@@ -110,7 +110,7 @@ The Commission shall include in each budget submitted under paragraph (1)—
 
 #### Adjustment of Fee Amount ####
 
-For adjustment of certain fee amounts specified in this section, that is not reflected in text, see Adjustment of Transaction Fee Rate notes below.
+For adjustment of certain fee amounts specified in this section, that is not reflected in text, see Annual Adjustment of Transaction Fee Rate note below.
 
 #### Amendments ####
 
@@ -246,14 +246,6 @@ Pub. L. 107–123, §9, Jan. 16, 2002, 115 Stat. 2400, provided that:
 
 Pub. L. 104–208, div. A, title I, §101(a) [title V], Sept. 30, 1996, 110 Stat. 3009, 3009–61, provided in part: "That effective January 1, 1997, every national securities association shall pay to the Commission a fee at a rate of one-three-hundredth of one percentum of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange (other than bonds, debentures, and other evidences of indebtedness) subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association, excluding any sales for which a fee is paid under section 31 of the Securities Exchange Act of 1934 (15 U.S.C. 78ee), and such increase shall be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals: *Provided further*, That the fee due from every national securities association shall be paid on or before September 30, 1997, with respect to transactions and sales occurring during the period beginning on January 1, 1997, and ending at the close of August 31, 1997".
 
-#### Adjustment of Transaction Fee Rate ####
+#### Annual Adjustment of Transaction Fee Rate ####
 
-By order dated Jan. 15, 2015, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $18.40 per $1,000,000, effective Feb. 14, 2015, see 80 F.R. 2978.
-
-By order dated Feb. 12, 2015, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.10 per $1,000,000, effective Mar. 18, 2014, see 79 F.R. 9504.
-
-By order dated Apr. 25, 2013, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $17.40 per $1,000,000, effective May 25, 2013, see 78 F.R. 25515.
-
-By order dated Mar. 1, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.40 per $1,000,000, effective Apr. 1, 2012, see 77 F.R. 13663.
-
-By order dated Jan. 20, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $18.00 per $1,000,000, effective Feb. 21, 2012, see 77 F.R. 3818.
+By order dated Jan. 20, 2012, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $18 per million dollars, effective Feb. 21, 2012, see 77 F.R. 3818.
