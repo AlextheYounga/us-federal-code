@@ -62,7 +62,7 @@
 
 (f) Coordination.—The Secretary shall ensure access to and use of appropriate Department sports, recreation, and fitness facilities by disabled veterans and disabled members of the Armed Forces participating in adapted sports opportunities funded under this section to the maximum extent possible. The Secretary shall ensure that such access does not adversely affect any other assistance provided to veterans.
 
-(g) Authorization of Appropriations.—(1) There is authorized to be appropriated $8,000,000 for each of fiscal years 2010 through 2019.
+(g) Authorization of Appropriations.—(1) There is authorized to be appropriated $8,000,000 for each of fiscal years 2010 through 2020.
 
 (2) Amounts appropriated pursuant to this subsection shall remain available without fiscal year limitation.
 
@@ -78,11 +78,13 @@
 
 (k) Annual Report to Congress.—For any fiscal year during which the Secretary provides assistance under this section, the Secretary shall submit to Congress a report on the use of funds provided under this section.
 
-(l) Termination.—The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2019.
+(l) Termination.—The Secretary may only provide assistance under this section for adaptive sports opportunities occurring during fiscal years 2010 through 2020.
 
-(Added Pub. L. 110–389, title VII, §702(a), Oct. 10, 2008, 122 Stat. 4181; amended Pub. L. 113–37, §2(b)(1), (2), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §5(a)–(e), (g), (h)(1), Dec. 20, 2013, 127 Stat. 659–662; Pub. L. 114–58, title IV, §405, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §405, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §405, Sept. 29, 2017, 131 Stat. 1164.)
+(Added Pub. L. 110–389, title VII, §702(a), Oct. 10, 2008, 122 Stat. 4181; amended Pub. L. 113–37, §2(b)(1), (2), Sept. 30, 2013, 127 Stat. 523; Pub. L. 113–59, §5(a)–(e), (g), (h)(1), Dec. 20, 2013, 127 Stat. 659–662; Pub. L. 114–58, title IV, §405, Sept. 30, 2015, 129 Stat. 535; Pub. L. 114–228, title IV, §405, Sept. 29, 2016, 130 Stat. 940; Pub. L. 115–62, title IV, §405, Sept. 29, 2017, 131 Stat. 1164; Pub. L. 115–251, title I, §165, Sept. 29, 2018, 132 Stat. 3171.)
 
 #### Amendments ####
+
+**2018**—Subsecs. (g)(1), (l). Pub. L. 115–251 substituted "2020" for "2019".
 
 **2017**—Subsecs. (g)(1), (l). Pub. L. 115–62 substituted "2019" for "2017".
 

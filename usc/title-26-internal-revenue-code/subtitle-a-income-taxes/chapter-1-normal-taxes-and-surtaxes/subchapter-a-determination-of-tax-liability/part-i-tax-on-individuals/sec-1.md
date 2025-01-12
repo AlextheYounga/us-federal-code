@@ -1413,6 +1413,8 @@ Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub.
 
 #### Short Title of 2018 Amendment ####
 
+Pub. L. 115–250, §1, Sept. 29, 2018, 132 Stat. 3164, provided that: "This Act [amending section 9502 of this title] may be cited as the 'Airport and Airway Extension Act of 2018, Part II'."
+
 Pub. L. 115–141, div. M, title I, §1, Mar. 23, 2018, 132 Stat. 1046, provided that: "This title [amending sections 4081, 4083, 4261, 4271, and 9502 of this title and sections 106, 41742, 41743, 44506, 47104, 47107, 47115, 47124, 47141, and 48101 to 48103 of Title 49, Transportation, and amending provisions set out as a note preceding section 42301 of Title 49 and provisions set out as notes under sections 41731 and 47141 of Title 49] may be cited as the 'Airport and Airway Extension Act of 2018'."
 
 Pub. L. 115–141, div. U, §1(a), Mar. 23, 2018, 132 Stat. 1159, provided that: "This division [see Tables for classification] may be cited as the 'Tax Technical Corrections Act of 2018'."

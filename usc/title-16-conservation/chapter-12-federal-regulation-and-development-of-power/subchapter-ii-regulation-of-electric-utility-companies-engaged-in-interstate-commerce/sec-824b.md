@@ -26,11 +26,27 @@
 
 (6) For purposes of this subsection, the terms "associate company", "holding company", and "holding company system" have the meaning given those terms in the Public Utility Holding Company Act of 2005 [42 U.S.C. 16451 et seq.].
 
+(7)(A) Not later than 180 days after September 28, 2018, the Commission shall promulgate a rule requiring any public utility that is seeking to merge or consolidate, directly or indirectly, its facilities subject to the jurisdiction of the Commission, or any part thereof, with those of any other person, to notify the Commission of such transaction not later than 30 days after the date on which the transaction is consummated if—
+
+(i) the facilities, or any part thereof, to be acquired are of a value in excess of $1,000,000; and
+
+(ii) such public utility is not required to secure an order of the Commission under paragraph (1)(B).
+
+(B) In establishing any notification requirement under subparagraph (A), the Commission shall, to the maximum extent practicable, minimize the paperwork burden resulting from the collection of information.
+
 #### (b) Orders of Commission ####
 
 The Commission may grant any application for an order under this section in whole or in part and upon such terms and conditions as it finds necessary or appropriate to secure the maintenance of adequate service and the coordination in the public interest of facilities subject to the jurisdiction of the Commission. The Commission may from time to time for good cause shown make such orders supplemental to any order made under this section as it may find necessary or appropriate.
 
-(June 10, 1920, ch. 285, pt. II, §203, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 849; amended Pub. L. 109–58, title XII, §1289(a), Aug. 8, 2005, 119 Stat. 982.)
+(June 10, 1920, ch. 285, pt. II, §203, as added Aug. 26, 1935, ch. 687, title II, §213, 49 Stat. 849; amended Pub. L. 109–58, title XII, §1289(a), Aug. 8, 2005, 119 Stat. 982; Pub. L. 115–247, §§1, 2, Sept. 28, 2018, 132 Stat. 3152.)
+
+#### Amendment of Subsection (a)(1)(B) ####
+
+Pub. L. 115–247, §§1, 3, Sept. 28, 2018, 132 Stat. 3152, provided that, effective 180 days after Sept. 28, 2018, subsection (a)(1) of this section is amended by striking subparagraph (B) and inserting the following:
+
+*"(B) merge or consolidate, directly or indirectly, its facilities subject to the jurisdiction of the Commission, or any part thereof, with the facilities of any other person, or any part thereof, that are subject to the jurisdiction of the Commission and have a value in excess of $10,000,000, by any means whatsoever;".*
+
+See 2018 Amendment note below.
 
 #### References in Text ####
 
@@ -38,7 +54,15 @@ The Public Utility Holding Company Act of 2005, referred to in subsec. (a)(6), i
 
 #### Amendments ####
 
+**2018**—Subsec. (a)(1)(B). Pub. L. 115–247, §1, added subpar. (B) and struck out former subpar. (B) which read as follows: "merge or consolidate, directly or indirectly, such facilities or any part thereof with those of any other person, by any means whatsoever;".
+
+Subsec. (a)(7). Pub. L. 115–247, §2, added par. (7).
+
 **2005**—Subsec. (a). Pub. L. 109–58 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "No public utility shall sell, lease, or otherwise dispose of the whole of its facilities subject to the jurisdiction of the Commission, or any part thereof of a value in excess of $50,000, or by any means whatsoever, directly or indirectly, merge or consolidate such facilities or any part thereof with those of any other person, or purchase, acquire, or take any security of any other public utility, without first having secured an order of the Commission authorizing it to do so. Upon application for such approval the Commission shall give reasonable notice in writing to the Governor and State commission of each of the States in which the physical property affected, or any part thereof, is situated, and to such other persons as it may deem advisable. After notice and opportunity for hearing, if the Commission finds that the proposed disposition, consolidation, acquisition, or control will be consistent with the public interest, it shall approve the same."
+
+#### Effective Date of 2018 Amendment ####
+
+Pub. L. 115–247, §3, Sept. 28, 2018, 132 Stat. 3152, provided that: "The amendment made by section 1 [amending this section] shall take effect 180 days after the date of enactment of this Act [Sept. 28, 2018]."
 
 #### Effective Date of 2005 Amendment ####
 

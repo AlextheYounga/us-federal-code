@@ -32,9 +32,7 @@ Sec.
 
 563. Working capital fund; establishment; availability; capitalization; reimbursement.
 
-563a. Working capital fund; comprehensive program of centralized services.
-
-564. Working capital fund; availability for personnel functions in regional administrative offices.
+563a, 564. Repealed.
 
 565. Repealed.
 

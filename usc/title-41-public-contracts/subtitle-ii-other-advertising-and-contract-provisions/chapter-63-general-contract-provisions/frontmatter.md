@@ -22,7 +22,7 @@ Sec.
 
 #### Ex. Ord. No. 13658. Establishing a Minimum Wage for Contractors ####
 
-Ex. Ord. No. 13658, Feb. 12, 2014, 79 F.R. 9851, provided:
+Ex. Ord. No. 13658, Feb. 12, 2014, 79 F.R. 9851, as amended by Ex. Ord. 13838, §2, May 25, 2018, 83 F.R. 25341, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act [of 1949], 40 U.S.C. 101 *et seq*., and in order to promote economy and efficiency in procurement by contracting with sources who adequately compensate their workers, it is hereby ordered as follows:
 
@@ -94,7 +94,7 @@ Sec. 7. *General Provisions*. (a) Nothing in this order shall be construed to im
 
 (e) For contracts or contract-like instruments covered by the Service Contract Act or the Davis-Bacon Act, this order shall apply only to contracts or contract-like instruments at the thresholds specified in those statutes. For procurement contracts where workers' wages are governed by the Fair Labor Standards Act, this order shall apply only to contracts or contract-like instruments that exceed the micro-purchase threshold, as defined in 41 U.S.C. 1902(a), unless expressly made subject to this order pursuant to regulations or actions taken under section 4 of this order.
 
-(f) This order shall not apply to grants; contracts and agreements with and grants to Indian Tribes under the Indian Self-Determination and Education Assistance Act (Public Law 93–638), as amended; or any contracts or contract-like instruments expressly excluded by the regulations issued pursuant to section 4(a) of this order.
+(f) This order shall not apply to grants; contracts and agreements with and grants to Indian Tribes under the Indian Self-Determination and Education Assistance Act (Public Law 93–638), as amended; or any contracts or contract-like instruments expressly excluded by the regulations issued pursuant to section 4(a) of this order. This order shall not apply to contracts or contract-like instruments entered into with the Federal Government in connection with seasonal recreational services or seasonal recreational equipment rental for the general public on Federal lands, but this exemption shall not apply to lodging and food services associated with seasonal recreational services. Seasonal recreational services include river running, hunting, fishing, horseback riding, camping, mountaineering activities, recreational ski services, and youth camps.
 
 (g) Independent agencies are strongly encouraged to comply with the requirements of this order.
 
@@ -107,8 +107,6 @@ Sec. 8. *Effective Date*. (a) This order is effective immediately and shall appl
 (b) This order shall not apply to contracts or contract-like instruments entered into pursuant to solicitations issued on or before the effective date for the relevant action taken pursuant to section 4 of this order.
 
 (c) For all new contracts and contract-like instruments negotiated between the date of this order and the effective dates set forth in this section, agencies are strongly encouraged to take all steps that are reasonable and legally permissible to ensure that individuals working pursuant to those contracts and contract-like instruments are paid an hourly wage of at least $10.10 (as set forth under sections 2 and 3 of this order) as of the effective dates set forth in this section.
-
-Barack Obama.
 
 #### Ex. Ord. No. 13706. Establishing Paid Sick Leave for Federal Contractors ####
 
@@ -203,3 +201,27 @@ Sec. 7. *Effective Date*. (a) This order is effective immediately and shall appl
 (b) This order shall not apply to contracts or contract-like instruments that are awarded, or entered into pursuant to solicitations issued, on or before the effective date for the relevant action taken pursuant to section 3 of this order.
 
 Barack Obama.
+
+#### Ex. Ord. No. 13838. Exemption From Executive Order 13658 for Recreational Services on Federal Lands ####
+
+Ex. Ord. No. 13838, May 25, 2018, 83 F.R. 25341, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act [of 1949], 40 U.S.C. 101 *et seq*., and in order to ensure that the Federal Government can economically and efficiently provide the services that allow visitors of all means to enjoy the natural beauty of Federal parks and other Federal lands, it is hereby ordered as follows:
+
+Section 1. *Policy*. Executive Order 13658 of February 12, 2014 (Establishing a Minimum Wage for Contractors) [set out above], established a minimum wage to be paid by parties who contract with the Federal Government and applies to outfitters and guides operating on Federal lands. These individuals often conduct multiday recreational tours through Federal lands, and may be required to work substantial overtime hours. The implementation of Executive Order 13658 threatens to raise significantly the cost of guided hikes and tours on Federal lands, preventing many visitors from enjoying the great beauty of America's outdoors. Seasonal recreational workers have irregular work schedules, a high incidence of overtime pay, and an unusually high turnover rate, among other distinguishing characteristics. As a consequence, a minimum wage increase would generally entail large negative effects on hours worked by recreational service workers. Thus, applying Executive Order 13658 to these service contracts does not promote economy and efficiency in making these services available to those who seek to enjoy our Federal lands. That rationale, however, does not apply with the same force to lodging and food services associated with seasonal recreational services, which generally involve more regular work schedules and normal amounts of overtime work. Executive Order 13658 therefore should continue to apply to lodging and food services associated with seasonal recreational services.
+
+Sec. 2. *Exemption from Executive Order 13658*. [Amended Ex. Ord. No. 13658, set out above.]
+
+Sec. 3. *Agency Implementation*. Executive departments and agencies (agencies) shall promptly take appropriate action to implement this exemption and to ensure that all applicable regulations and agency guidance are consistent with this order. Agencies shall modify existing authorizations and solicitations for contracts or contract-like instruments affected by section 2 of this order by removing clauses requiring compliance with Executive Order 13658 (including the contract clause set forth at title 29, part 10, appendix A, Code of Federal Regulations) as soon as practicable and consistent with applicable law. Agencies shall remove such clauses without impairing the recreational activities or uses authorized by those permits and contracts.
+
+Sec. 4. *General Provisions*. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Donald J. Trump.

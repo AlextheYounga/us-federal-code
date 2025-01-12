@@ -8,6 +8,10 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2018 Amendment ####
 
+Pub. L. 115–253, §1, Oct. 3, 2018, 132 Stat. 3183, provided that: "This Act [amending sections 2331, 2333 and 2334 of this title and enacting provisions set out as notes under sections 2331, 2332 and 2334 of this title] may be cited as the 'Anti-Terrorism Clarification Act of 2018'."
+
+Pub. L. 115–249, §1, Sept. 28, 2018, 132 Stat. 3162, provided that: "This Act [amending section 247 of this title] may be cited as the 'Protecting Religiously Affiliated Institutions Act of 2018'."
+
 Pub. L. 115–164, §1, Apr. 11, 2018, 132 Stat. 1253, provided that: "This Act [enacting section 2421A of this title, amending sections 1591 and 1595 of this title and section 230 of Title 47, Telecommunications, and enacting provisions set out as notes under section 230 of Title 47] may be cited as the 'Allow States and Victims to Fight Online Sex Trafficking Act of 2017'."
 
 Pub. L. 115–141, div. V, §101, Mar. 23, 2018, 132 Stat. 1213, provided that: "This division [enacting sections 2523 and 2713 of this title, amending sections 2511, 2520, 2702, 2703, 2707, 3121, and 3124 of this title, and enacting provisions set out as notes under sections 2520, 2523, and 2703 of this title] may be cited as the 'Clarifying Lawful Overseas Use of Data Act' or the 'CLOUD Act'."
