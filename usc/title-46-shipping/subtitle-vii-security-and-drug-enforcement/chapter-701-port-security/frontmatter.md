@@ -66,7 +66,7 @@ Sec.
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–282, title IV, §§402(b)(3), 408(c), Dec. 4, 2018, 132 Stat. 4264, 4268, added items for 70102a and 70116.
+**2018**—Pub. L. 115–282, title IV, §§402(b)(3), 408(c), Dec. 4, 2018, 132 Stat. 4264, 4268, added items 70102a and 70116.
 
 Pub. L. 115–254, div. J, §1809(c)(1), Oct. 5, 2018, 132 Stat. 3538, struck out items 70107A "Interagency operational centers for port security" and 70116 "Secure systems of transportation".
 

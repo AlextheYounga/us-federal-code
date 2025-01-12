@@ -36,4 +36,4 @@ Section was enacted as part of the Repack Airwaves Yielding Better Access for Us
 
 #### Definitions ####
 
-For definition of "Commission" as used in this section, see section 2 of div. P of of Pub. L. 115–141, set out as a note under section 155a of this title.
+For definition of "Commission" as used in this section, see section 2 of div. P of Pub. L. 115–141, set out as a note under section 155a of this title.

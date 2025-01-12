@@ -6,13 +6,13 @@ TITLE 11—APPENDIX
 FEDERAL RULES OF BANKRUPTCY PROCEDURE
 ==========
 
-(Effective August 1, 1983, as amended to January 14, 2019)
+(Effective August 1, 1983, as amended to December 1, 2019)
 
 #### Historical Note ####
 
 The Federal Rules of Bankruptcy Procedure were adopted by order of the Supreme Court on Apr. 25, 1983, transmitted to Congress by the Chief Justice on the same day, and became effective Aug. 1, 1983.
 
-The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018.
+The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 29, 2015, eff. Dec. 1, 2015; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019.
 
 Rule
 
@@ -482,7 +482,7 @@ Rule
 
 9035. Applicability of Rules in Judicial Districts in Alabama and North Carolina.
 
-9036. Notice by Electronic Transmission.
+9036. Notice and Service Generally.
 
 9037. Privacy Protection For Filings Made with the Court.
 
@@ -4404,6 +4404,8 @@ The court should not keep the case open only because of the possibility that the
 
 (3) *Notice*. Notice of hearing pursuant to this subdivision shall be given to the parties on whom service of the motion is required by paragraph (1) of this subdivision and to such other entities as the court may direct.
 
+(4) *Inapplicability in a Chapter 13 Case*. This subdivision (c) does not apply in a chapter 13 case.
+
 (d) Agreement Relating to Relief From the Automatic Stay, Prohibiting or Conditioning the Use, Sale, or Lease of Property, Providing Adequate Protection, Use of Cash Collateral, and Obtaining Credit.
 
 (1) *Motion; Service*.
@@ -4430,7 +4432,7 @@ The court should not keep the case open only because of the possibility that the
 
 (4) *Agreement in Settlement of Motion*. The court may direct that the procedures prescribed in paragraphs (1), (2), and (3) of this subdivision shall not apply and the agreement may be approved without further notice if the court determines that a motion made pursuant to subdivisions (a), (b), or (c) of this rule was sufficient to afford reasonable notice of the material provisions of the agreement and opportunity for a hearing.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -4537,6 +4539,10 @@ The rule is amended to implement changes in connection with the amendment to Rul
 • 25 day periods become 28 day periods
 
 Final approval of the amendments to this rule is sought without publication.
+
+#### Committee Notes on Rules—2019 Amendment ####
+
+Subdivision (c) of the rule is amended to exclude chapter 13 cases from that subdivision. This amendment does not speak to the underlying substantive issue of whether the Bankruptcy Code requires or permits a chapter 13 debtor not engaged in business to request approval of postpetition credit.
 
 [<sup>1</sup> So in original. Probably should be only one section symbol.](#Rule_4001_1)
 
@@ -5644,11 +5650,11 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 (a) Notice of Proposed Abandonment or Disposition; Objections; Hearing. Unless otherwise directed by the court, the trustee or debtor in possession shall give notice of a proposed abandonment or disposition of property to the United States trustee, all creditors, indenture trustees, and committees elected pursuant to §705 or appointed pursuant to §1102 of the Code. A party in interest may file and serve an objection within 14 days of the mailing of the notice, or within the time fixed by the court. If a timely objection is made, the court shall set a hearing on notice to the United States trustee and to other entities as the court may direct.
 
-(b) Motion by Party in Interest. A party in interest may file and serve a motion requiring the trustee or debtor in possession to abandon property of the estate.
+(b) Motion by Party in Interest. A party in interest may file and serve a motion requiring the trustee or debtor in possession to abandon property of the estate. Unless otherwise directed by the court, the party filing the motion shall serve the motion and any notice of the motion on the trustee or debtor in possession, the United States trustee, all creditors, indenture trustees, and committees elected pursuant to §705 or appointed pursuant to §1102 of the Code. A party in interest may file and serve an objection within 14 days of service, or within the time fixed by the court. If a timely objection is made, the court shall set a hearing on notice to the United States trustee and to other entities as the court may direct. If the court grants the motion, the order effects the trustee's or debtor in possession's abandonment without further notice, unless otherwise directed by the court.
 
 [(c) Hearing] (Abrogated Apr. 22, 1993, eff. Aug. 1, 1993)
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5681,6 +5687,10 @@ The rule is amended to implement changes in connection with the amendment to Rul
 • 20-day periods become 21-day periods
 
 • 25-day periods become 28-day periods
+
+#### Committee Notes on Rules—2019 Amendment ####
+
+Subdivision (b) of the rule is amended to specify the parties to be served with the motion and any notice of the motion. The rule also establishes an objection deadline. Both of these changes align subdivision (b) more closely with the procedures set forth in subdivision (a). In addition, the rule clarifies that no further action is necessary to notice or effect the abandonment of property ordered by the court in connection with a motion filed under subdivision (b), unless the court directs otherwise.
 
 ### Rule 6008. Redemption of Property from Lien or Sale ###
 
@@ -9634,11 +9644,11 @@ Certain statutes that are not codified in title 11 or title 28 of the United Sta
 
 *GAP Report on Rule 9035*. No changes to the published draft.
 
-### Rule 9036. Notice by Electronic Transmission ###
+### Rule 9036. Notice and Service Generally ###
 
-Whenever the clerk or some other person as directed by the court is required to send notice by mail and the entity entitled to receive the notice requests in writing that, instead of notice by mail, all or part of the information required to be contained in the notice be sent by a specified type of electronic transmission, the court may direct the clerk or other person to send the information by such electronic transmission. Notice by electronic means is complete on transmission.
+Whenever these rules require or permit sending a notice or serving a paper by mail, the clerk, or some other person as the court or these rules may direct, may send the notice to—or serve the paper on—a registered user by filing it with the court's electronic-filing system. Or it may be sent to any person by other electronic means that the person consented to in writing. In either of these events, service or notice is complete upon filing or sending but is not effective if the filer or sender receives notice that it did not reach the person to be served. This rule does not apply to any pleading or other paper required to be served in accordance with Rule 7004.
 
-(Added Apr. 22, 1993, eff. Aug. 1, 1993; amended Apr. 25, 2005, eff. Dec. 1, 2005.)
+(Added Apr. 22, 1993, eff. Aug. 1, 1993; amended Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Notes of Advisory Committee on Rules—1993 ####
 
@@ -9657,6 +9667,14 @@ The rule is amended to delete the requirement that the sender of an electronic n
 Confidence in the delivery of email text messages now rivals or exceeds confidence in the delivery of printed materials. Therefore, there is no need for confirmation of receipt of electronic messages just as there is no such requirement for paper notices.
 
 *Changes Made After Publication and Comment*. No changes since publication.
+
+#### Committee Notes on Rules—2019 Amendment ####
+
+The rule is amended to permit both notice and service by electronic means. The use and reliability of electronic delivery have increased since the rule was first adopted. The amendments recognize the increased utility of electronic delivery, with appropriate safeguards for parties not filing an appearance in the case through the court's electronic-filing system.
+
+The amended rule permits electronic notice or service on a registered user who has appeared in the case by filing with the court's electronic-filing system. A court may choose to allow registration only with the court's permission. But a party who registers will be subject to service by filing with the court's system unless the court provides otherwise. The rule does not make the court responsible for notifying a person who filed a paper with the court's electronic-filing system that an attempted transmission by the court's system failed. But a filer who receives notice that the transmission failed is responsible for making effective service.
+
+With the consent of the person served, electronic service also may be made by means that do not use the court's system. Consent can be limited to service at a prescribed address or in a specified form, and it may be limited by other conditions.
 
 ### Rule 9037. Privacy Protection For Filings Made with the Court ###
 
@@ -9698,7 +9716,21 @@ Confidence in the delivery of email text messages now rivals or exceeds confiden
 
 (g) Waiver of Protection of Identifiers. An entity waives the protection of subdivision (a) as to the entity's own information by filing it without redaction and not under seal.
 
-(Added Apr. 30, 2007, eff. Dec. 1, 2007.)
+(h)Motion to Redact a Previously Filed Document.
+
+(1) *Content of the Motion; Service*. Unless the court orders otherwise, if an entity seeks to redact from a previously filed document information that is protected under subdivision (a), the entity must:	
+
+(A) file a motion to redact identifying the proposed redactions;
+
+(B) attach to the motion the proposed redacted document;
+
+(C) include in the motion the docket or proof-of-claim number of the previously filed document; and
+
+(D) serve the motion and attachment on the debtor, debtor's attorney, trustee (if any), United States trustee, filer of the unredacted document, and any individual whose personal identifying information is to be redacted.
+
+(2) *Restricting Public Access to the Unredacted Document; Docketing the Redacted Document*. The court must promptly restrict public access to the motion and the unredacted document pending its ruling on the motion. If the court grants it, the court must docket the redacted document. The restrictions on public access to the motion and unredacted document remain in effect until a further court order. If the court denies it, the restrictions must be lifted, unless the court orders otherwise.
+
+(Added Apr. 30, 2007, eff. Dec. 1, 2007; amended Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Committee Notes on Rules—2007 ####
 
@@ -9725,6 +9757,22 @@ Subdivision (g) allows an entity to waive the protections of the rule as to that
 Trial exhibits are subject to the redaction requirements of Rule 9037 to the extent they are filed with the court. Trial exhibits that are not initially filed with the court must be redacted in accordance with this rule if and when they are filed as part of an appeal or for other reasons.
 
 *Changes After Publication*. Rule 9037 is intended to parallel as closely as possible Civil Rule 5.2 and Criminal Rule 49.1. The Advisory Committees have worked together to maintain as much consistency as possible in the three versions of the rule. The rule has been revised to implement the several style revisions suggested by the Style Subcommittee of the Standing Committee. Subdivision (b) was reorganized and renumbered. Subdivisions (b)(1) and (b)(3) were added in response to suggestions by the Department of Justice. Subdivision (b)(4), formerly subdivision (b)(2), was amended in response to the suggestion of the Committee on Court Administration and Case Management so that the subdivision now refers to court records that become a part of the record in the pending matter. The term "entity" has been substituted for "person" in subdivision (c) and for "party" in subdivisions (e) and (f) to conform the rule to the definitions provided in the Bankruptcy Code.
+
+#### Committee Notes on Rules—2019 Amendment ####
+
+Subdivision (h) is new. It prescribes a procedure for the belated redaction of documents that were filed without complying with subdivision (a).
+
+Generally, whenever someone discovers that information entitled to privacy protection under subdivision (a) appears in a document on file with the court—regardless of whether the case in question remains open or has been closed—that entity may file a motion to redact the document. A single motion may relate to more than one unredacted document. The moving party may be, but is not limited to, the original filer of the document. The motion must identify by location on the case docket or claims register each document to be redacted. It should not, however, include the unredacted information itself.
+
+Subsection (h)(1) authorizes the court to alter the prescribed procedure. This might be appropriate, for example, when the movant seeks to redact a large number of documents. In that situation the court by order or local rule might require the movant to file an omnibus motion, initiate a miscellaneous proceeding, or proceed in another manner directed by the court.
+
+Unless the court orders otherwise, the motion must identify the proposed redactions, and the moving party must attach to the motion the proposed redacted document. The attached document must otherwise be identical to the one previously filed. The court, however, may relieve the movant of this requirement in appropriate circumstances, for example when the movant was not the filer of the unredacted document and does not have access to it. Service of the motion and the attachment must be made on all of the following individuals who are not the moving party: debtor, debtor's attorney, trustee, United States trustee, the filer of the unredacted document, and any individual whose personal identifying information is to be redacted.
+
+Because the filing of the motion to redact may call attention to the existence of the unredacted document as maintained in the court's files or downloaded by third parties, courts should take immediate steps to protect the motion and the document from public access. This restriction may be accomplished electronically, simultaneous with the electronic filing of the motion to redact. For motions filed on paper, restriction should occur at the same time that the motion is docketed so that no one receiving electronic notice of the filing of the motion will be able to access the unredacted document in the court's files.
+
+If the court grants the motion to redact, the court must docket the redacted document, and public access to the motion and the unredacted document should remain restricted. If the court denies the motion, generally the restriction on public access to the motion and the document should be lifted.	This procedure does not affect the availability of any remedies that an individual whose personal identifiers are exposed may have against the entity that filed the unredacted document.
+
+This procedure does not affect the availability of any remedies that an individual whose personal identifiers are exposed may have against the entity that filed the unredacted document.
 
 ### [PART X—UNITED STATES TRUSTEES] (Abrogated Apr. 30, 1991, eff. Aug. 1, 1991) ###
 

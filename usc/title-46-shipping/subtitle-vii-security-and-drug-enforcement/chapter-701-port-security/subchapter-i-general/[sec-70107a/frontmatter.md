@@ -8,8 +8,8 @@ Pub. L. 115–254, div. J, §1809(a)(2), Oct. 5, 2018, 132 Stat. 3537, provided 
 
 #### Notice to Congress ####
 
-Pub. L. 115–254, div. J, §1809(a)(3), Oct. 5, 2018, 132 Stat. 3537, provided that: "The Secretary of Homeland Security shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives at least 1 year before ceasing operations of any interagency operational center established before the date of enactment of the Security and Accountability for Every Port Act of 2006 (Public Law 109–347; 120 Stat. 1884)[Oct. 13, 2006]."
+Pub. L. 115–254, div. J, §1809(a)(3), Oct. 5, 2018, 132 Stat. 3537, provided that: "The Secretary of Homeland Security shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives at least 1 year before ceasing operations of any interagency operational center established before the date of enactment of the Security and Accountability for Every Port Act of 2006 (Public Law 109–347; 120 Stat. 1884) [Oct. 13, 2006]."
 
 #### Report Requirement ####
 
-Pub. L. 109–347, title I, §108(b), Oct. 13, 2006, 120 Stat. 1893, as amended by Pub. L. 115–254, div. J, §1809(c)(2), Oct. 5, 2018, 132 Stat. 3538, struck out subsec. (b), which related to report required by section 807 of Pub. L. 108–293 [118 Stat. 1082], and reserved subsec. (b) designation.
+Pub. L. 109–347, title I, §108(b), Oct. 13, 2006, 120 Stat. 1893, as amended by Pub. L. 115–254, div. J, §1809(c)(2), Oct. 5, 2018, 132 Stat. 3538, related to continued compliance with requirements of section 807 of Pub. L. 108–293 (118 Stat. 1082). Amendment by Pub. L. 115–254 substituted "[Reserved]." for text of subsec. (b).

@@ -58,6 +58,6 @@
 
 [<sup>1</sup> So in original. Does not conform to subchapter designation.](#CHAPTER700_1)
 
-[<sup>2</sup> So in original. Probably should be preceded by "Sec.".](#CHAPTER700_2)
+[<sup>2</sup> So in original. Probably should be preceded by "Sec."](#CHAPTER700_2)
 
 [<sup>3</sup> So in original. Does not conform to section catchline.](#CHAPTER700_3)

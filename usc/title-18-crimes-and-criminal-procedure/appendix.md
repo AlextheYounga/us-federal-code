@@ -495,13 +495,13 @@ That this Act may be cited as the "Classified Information Procedures Act".
 FEDERAL RULES OF CRIMINAL PROCEDURE
 ==========
 
-(As amended to December 1, 2018)
+(As amended to December 1, 2019)
 
 #### Historical Note ####
 
 The original Federal Rules of Criminal Procedure were adopted by order of the Supreme Court on Dec. 26, 1944, transmitted to Congress by the Attorney General on Jan. 3, 1945, and became effective on Mar. 21, 1946.
 
-The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014; eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Pub. L. 114–324, §12(c), Dec. 16, 2016, 130 Stat. 1948; Apr. 26, 2018, eff. Dec. 1, 2018.
+The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014; eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Pub. L. 114–324, §12(c), Dec. 16, 2016, 130 Stat. 1948; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019.
 
 #### TITLE I. APPLICABILITY ####
 
@@ -556,6 +556,8 @@ Rule
 15. Depositions.
 
 16. Discovery and Inspection.
+
+16.1. Pretrial Discovery Conference; Request for Court Action
 
 17. Subpoena.
 
@@ -4210,6 +4212,30 @@ Pub. L. 107–273, div. C, title I, §11019(c), Nov. 2, 2002, 116 Stat. 1826, pr
 #### Effective Date of Amendments Proposed April 22, 1974; Effective Date of 1975 Amendments ####
 
 Amendments of this rule embraced in the order of the United States Supreme Court on Apr. 22, 1974, and the amendments of this rule made by section 3 of Pub. L. 94–64, effective Dec. 1, 1975, see section 2 of Pub. L. 94–64, set out as a note under rule 4 of these rules.
+
+### Rule 16.1. Pretrial Discovery Conference; Request for Court Action ###
+
+(a) Discovery Conference. No later than 14 days after the arraignment, the attorney for the government and the defendant's attorney must confer and try to agree on a timetable and procedures for pretrial disclosure under Rule 16.
+
+(b) Request for Court Action. After the discovery conference, one or both parties may ask the court to determine or modify the time, place, manner, or other aspects of disclosure to facilitate preparation for trial.
+
+(Added Apr. 25, 2019, eff. Dec. 1, 2019.)
+
+#### Committee Notes on Rules—2019 ####
+
+This new rule requires the attorney for the government and counsel for the defendant to confer early in the process, no later than 14 days after arraignment, about the timetable and procedures for pretrial disclosure. The new requirement is particularly important in cases involving electronically stored information (ESI) or other voluminous or complex discovery.
+
+For practical reasons, the rule does not require attorneys for the government to confer with defendants who are not represented by counsel. However, neither does the rule limit existing judicial discretion to manage discovery in cases involving pro se defendants, and courts must ensure such defendants have full access to discovery.
+
+The rule states a general procedure that the parties can adapt to the circumstances. Simple cases may require only a brief informal conversation to settle the timing and procedures for discovery. Agreement may take more effort as case complexity and technological challenges increase.
+
+Moreover, the rule does not (1) modify statutory safeguards provided in security and privacy laws such as the Jencks Act or the Classified Information Procedures Act, (2) displace local rules or standing orders that supplement and are consistent with its requirements, or (3) limit the authority of the district court to determine the timetable and procedures for disclosure.
+
+Because technology changes rapidly, the rule does not attempt to state specific requirements for the manner or timing of disclosure in cases involving ESI. However, counsel should be familiar with best practices. For example, the Department of Justice, the Administrative Office of the U.S. Courts, and the Joint Working Group on Electronic Technology in the Criminal Justice System (JETWG) have published "Recommendations for Electronically Stored Information (ESI) Discovery Production in Federal Criminal Cases" (2012).
+
+Subsection (b) allows one or more parties to request that the court determine or modify the timing, manner, or other aspects of the disclosure to facilitate trial preparation.
+
+This rule focuses exclusively on the process, manner and timing of pretrial disclosures, and does not address modification of the trial date. The Speedy Trial Act, 18 U.S.C. §§3161–3174, governs whether extended time for discovery may be excluded from the time within which trial must commence.
 
 ### Rule 17. Subpoena ###
 

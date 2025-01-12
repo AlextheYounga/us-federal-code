@@ -36,13 +36,13 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 FEDERAL RULES OF APPELLATE PROCEDURE
 ==========
 
-(As amended to December 1, 2018)
+(As amended to December 1, 2019)
 
 #### Historical Note ####
 
 The Federal Rules of Appellate Procedure were adopted by order of the Supreme Court on Dec. 4, 1967, transmitted to Congress by the Chief Justice on Jan. 15, 1968, and became effective on July 1, 1968.
 
-The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018.
+The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019.
 
 #### TITLE I. APPLICABILITY OF RULES ####
 
@@ -120,7 +120,7 @@ Rule
 
 26. Computing and Extending Time.
 
-26.1. Corporate Disclosure Statement.
+26.1. Disclosure Statement.
 
 27. Motions.
 
@@ -300,15 +300,15 @@ The language of the rule is amended to make the rule more easily understood. In 
 
 (d) Serving the Notice of Appeal.
 
-(1) The district clerk must serve notice of the filing of a notice of appeal by mailing a copy to each party's counsel of record—excluding the appellant's—or, if a party is proceeding pro se, to the party's last known address. When a defendant in a criminal case appeals, the clerk must also serve a copy of the notice of appeal on the defendant, either by personal service or by mail addressed to the defendant. The clerk must promptly send a copy of the notice of appeal and of the docket entries—and any later docket entries—to the clerk of the court of appeals named in the notice. The district clerk must note, on each copy, the date when the notice of appeal was filed.
+(1) The district clerk must serve notice of the filing of a notice of appeal by sending a copy to each party's counsel of record—excluding the appellant's—or, if a party is proceeding pro se, to the party's last known address. When a defendant in a criminal case appeals, the clerk must also serve a copy of the notice of appeal on the defendant. The clerk must promptly send a copy of the notice of appeal and of the docket entries—and any later docket entries—to the clerk of the court of appeals named in the notice. The district clerk must note, on each copy, the date when the notice of appeal was filed.
 
 (2) If an inmate confined in an institution files a notice of appeal in the manner provided by Rule 4(c), the district clerk must also note the date when the clerk docketed the notice.
 
-(3) The district clerk's failure to serve notice does not affect the validity of the appeal. The clerk must note on the docket the names of the parties to whom the clerk mails copies, with the date of mailing. Service is sufficient despite the death of a party or the party's counsel.
+(3) The district clerk's failure to serve notice does not affect the validity of the appeal. The clerk must note on the docket the names of the parties to whom the clerk sends copies, with the date of sending. Service is sufficient despite the death of a party or the party's counsel.
 
 (e) Payment of Fees. Upon filing a notice of appeal, the appellant must pay the district clerk all required fees. The district clerk receives the appellate docket fee on behalf of the court of appeals.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -375,6 +375,10 @@ In consolidated appeals the separate appeals do not merge into one. The parties 
 The language also requires court action to join appeals after separate notices of appeal have been filed.
 
 *Subdivision (d).* Paragraph (d)(2) has been amended to require that when an inmate files a notice of appeal by depositing the notice in the institution's internal mail system, the clerk must note the docketing date—rather than the receipt date—on the notice of appeal before serving copies of it. This change conforms to a change in Rule 4(c). Rule 4(c) is amended to provide that when an inmate files the first notice of appeal in a civil case by depositing the notice in an institution's internal mail system, the time for filing a cross-appeal runs from the date the district court dockets the inmate's notice of appeal. Existing Rule 4(c) says that in such a case the time for filing a cross-appeal runs from the date the district court receives the inmate's notice of appeal. A court may "receive" a paper when its mail is delivered to it even if the mail is not processed for a day or two, making the date of receipt uncertain. "Docketing" is an easily identified event. The change is made to eliminate the uncertainty.
+
+#### Committee Notes on Rules—2019 Amendment ####
+
+Amendments to Subdivision (d) change the words "mailing" and "mails" to "sending" and "sends," and delete language requiring certain forms of service, to allow for electronic service. Other rules determine when a party or the clerk may or must send a notice electronically or non-electronically.
 
 ### [Rule 3.1. Appeal from a Judgment of a Magistrate Judge in a Civil Case] (Abrogated Apr. 24, 1998, eff. Dec. 1, 1998) ###
 
@@ -800,7 +804,7 @@ The Federal Rules of Criminal Procedure, referred to in subd. (b)(3), (5), are s
 
 (a) Petition for Permission to Appeal.
 
-(1) To request permission to appeal when an appeal is within the court of appeals' discretion, a party must file a petition for permission to appeal. The petition must be filed with the circuit clerk with proof of service on all other parties to the district-court action.
+(1) To request permission to appeal when an appeal is within the court of appeals' discretion, a party must file a petition with the circuit clerk and serve it on all other parties to the district-court action.
 
 (2) The petition must be filed within the time specified by the statute or rule authorizing the appeal or, if no such time is specified, within the time provided by Rule 4(a) for filing a notice of appeal.
 
@@ -846,7 +850,7 @@ The Federal Rules of Criminal Procedure, referred to in subd. (b)(3), (5), are s
 
 (3) The district clerk must notify the circuit clerk once the petitioner has paid the fees. Upon receiving this notice, the circuit clerk must enter the appeal on the docket. The record must be forwarded and filed in accordance with Rules 11 and 12(c).
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -899,6 +903,10 @@ Rule 5(c) has been further amended to limit the length of papers filed under Rul
 #### Committee Notes on Rules—2016 Amendment ####
 
 The page limits previously employed in Rules 5, 21, 27, 35, and 40 have been largely overtaken by changes in technology. For papers produced using a computer, those page limits are now replaced by word limits. The word limits were derived from the current page limits using the assumption that one page is equivalent to 260 words. Papers produced using a computer must include the certificate of compliance required by Rule 32(g); Form 6 in the Appendix of Forms suffices to meet that requirement. Page limits are retained for papers prepared without the aid of a computer (i.e., handwritten or typewritten papers). For both the word limit and the page limit, the calculation excludes the accompanying documents required by Rule 5(b)(1)(E) and any items listed in Rule 32(f).
+
+#### Committee Notes on Rules—2019 Amendment ####
+
+Subdivision (a)(1) is amended to delete the reference to "proof of service" to reflect amendments to Rule 25(d) that eliminate the requirement of a proof of service when service is completed using a court's electronic filing system.
 
 ### [Rule 5.1. Appeal by Leave under 28 U.S.C. §636(c)(5)] (Abrogated Apr. 24, 1998, eff. Dec. 1, 1998) ###
 
@@ -1124,7 +1132,7 @@ The language and organization of the rule are amended to make the rule more easi
 
 #### Committee Notes on Rules—2018 Amendment ####
 
-The amendments to subdivisions (a) and (b) conform this rule with the amendment of Federal Rule of Civil Procedure 62. Rule 62 formerly required a party to provide a "supersedeas bond" to obtain a stay of the judgment and proceedings to enforce the judgment. As amended, Rule 62(b) allows a party to obtain a stay by providing a "bond or other security" The word "mail" is changed to "send" to avoid restricting the method of serving security providers. Other rules specify the permissible manners of service.
+The amendments to subdivisions (a) and (b) conform this rule with the amendment of Federal Rule of Civil Procedure 62. Rule 62 formerly required a party to provide a "supersedeas bond" to obtain a stay of the judgment and proceedings to enforce the judgment. As amended, Rule 62(b) allows a party to obtain a stay by providing a "bond or other security." The word "mail" is changed to "send" to avoid restricting the method of serving security providers. Other rules specify the permissible manners of service.
 
 #### References in Text ####
 
@@ -1446,7 +1454,7 @@ The Appellate Rules Committee also made stylistic changes to the Note's first an
 
 (B) If, under Tax Court rules, a party makes a timely motion to vacate or revise the Tax Court's decision, the time to file a notice of appeal runs from the entry of the order disposing of the motion or from the entry of a new decision, whichever is later.
 
-(2) *Notice of Appeal; How Filed.* The notice of appeal may be filed either at the Tax Court clerk's office in the District of Columbia or by mail addressed to the clerk. If sent by mail the notice is considered filed on the postmark date, subject to §7502 of the Internal Revenue Code, as amended, and the applicable regulations.
+(2) *Notice of Appeal; How Filed.* The notice of appeal may be filed either at the Tax Court clerk's office in the District of Columbia or by sending it to the clerk. If sent by mail the notice is considered filed on the postmark date, subject to §7502 of the Internal Revenue Code, as amended, and the applicable regulations.
 
 (3) *Contents of the Notice of Appeal; Service; Effect of Filing and Service.* Rule 3 prescribes the contents of a notice of appeal, the manner of service, and the effect of its filing and service. Form 2 in the Appendix of Forms is a suggested form of a notice of appeal.
 
@@ -1458,7 +1466,7 @@ The Appellate Rules Committee also made stylistic changes to the Note's first an
 
 (b) *Appeal by Permission.* An appeal by permission is governed by Rule 5.
 
-(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 16, 2013, eff. Dec. 1, 2013.)
+(As amended Apr. 1, 1979, eff. Aug. 1, 1979; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -1485,6 +1493,10 @@ The language and organization of the rule are amended to make the rule more easi
 Rules 13 and 14 are amended to address the treatment of permissive interlocutory appeals from the Tax Court under 26 U.S.C. §7482(a)(2). Rules 13 and 14 do not currently address such appeals; instead, those Rules address only appeals as of right from the Tax Court. The existing Rule 13—governing appeals as of right—is revised and becomes Rule 13(a). New subdivision (b) provides that Rule 5 governs appeals by permission. The definition of district court and district clerk in current subdivision (d)(1) is deleted; definitions are now addressed in Rule 14. The caption of Title III is amended to reflect the broadened application of this Title.
 
 *Changes Made After Publication and Comment.* No changes were made after publication and comment.
+
+#### Committee Notes on Rules—2019 Amendment ####
+
+The amendment to subdivision (a)(2) will allow an appellant to send a notice of appeal to the Tax Court clerk by means other than mail. Other rules determine when a party must send a notice electronically or non-electronically.
 
 #### References in Text ####
 
@@ -1724,7 +1736,7 @@ The language of the rule is amended to make the rule more easily understood. In 
 
 (a) Mandamus or Prohibition to a Court: Petition, Filing, Service, and Docketing.
 
-(1) A party petitioning for a writ of mandamus or prohibition directed to a court must file a petition with the circuit clerk with proof of service on all parties to the proceeding in the trial court. The party must also provide a copy to the trial-court judge. All parties to the proceeding in the trial court other than the petitioner are respondents for all purposes.
+(1) A party petitioning for a writ of mandamus or prohibition directed to a court must file the petition with the circuit clerk and serve it on all parties to the proceeding in the trial court. The party must also provide a copy to the trial-court judge. All parties to the proceeding in the trial court other than the petitioner are respondents for all purposes.
 
 (2)(A) The petition must be titled "In re [name of petitioner]."
 
@@ -1758,7 +1770,7 @@ The language of the rule is amended to make the rule more easily understood. In 
 
 (7) The circuit clerk must send a copy of the final disposition to the trial-court judge.
 
-(c) Other Extraordinary Writs. An application for an extraordinary writ other than one provided for in Rule 21(a) must be made by filing a petition with the circuit clerk with proof of service on the respondents. Proceedings on the application must conform, so far as is practicable, to the procedures prescribed in Rule 21(a) and (b).
+(c) Other Extraordinary Writs. An application for an extraordinary writ other than one provided for in Rule 21(a) must be made by filing a petition with the circuit clerk and serving it on the respondents. Proceedings on the application must conform, so far as is practicable, to the procedures prescribed in Rule 21(a) and (b).
 
 (d) Form of Papers; Number of Copies; Length Limits. All papers must conform to Rule 32(c)(2). An original and 3 copies must be filed unless the court requires the filing of a different number by local rule or by order in a particular case. Except by the court's permission, and excluding the accompanying documents required by Rule 21(a)(2)(C):
 
@@ -1766,7 +1778,7 @@ The language of the rule is amended to make the rule more easily understood. In 
 
 (2) a handwritten or typewritten paper must not exceed 30 pages.
 
-(As amended Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -1807,6 +1819,10 @@ Rule 21(d) has been further amended to limit the length of papers filed under Ru
 #### Committee Notes on Rules—2016 Amendment ####
 
 The page limits previously employed in Rules 5, 21, 27, 35, and 40 have been largely overtaken by changes in technology. For papers produced using a computer, those page limits are now replaced by word limits. The word limits were derived from the current page limits using the assumption that one page is equivalent to 260 words. Papers produced using a computer must include the certificate of compliance required by Rule 32(g); Form 6 in the Appendix of Forms suffices to meet that requirement. Page limits are retained for papers prepared without the aid of a computer (i.e., handwritten or typewritten papers). For both the word limit and the page limit, the calculation excludes the accompanying documents required by Rule 21(a)(2)(C) and any items listed in Rule 32(f).
+
+#### Committee Notes on Rules—2019 Amendment ####
+
+The term "proof of service" in subdivisions (a)(1) and (c) is deleted to reflect amendments to Rule 25(d) that eliminate the requirement of a proof of service when service is completed using a court's electronic filing system.
 
 ### TITLE VI. HABEAS CORPUS; PROCEEDINGS IN FORMA PAUPERIS ###
 
@@ -2040,7 +2056,7 @@ Rule 24(b) currently refers to review of proceedings "before an administrative a
 
 (d) Proof of Service.
 
-(1) A paper presented for filing must contain either of the following:
+(1) A paper presented for filing must contain either of the following if it was served other than through the court's electronic-filing system:
 
 (A) an acknowledgment of service by the person served; or
 
@@ -2054,11 +2070,11 @@ Rule 24(b) currently refers to review of proceedings "before an administrative a
 
 (2) When a brief or appendix is filed by mailing or dispatch in accordance with Rule 25(a)(2)(A)(ii), the proof of service must also state the date and manner by which the document was mailed or dispatched to the clerk.
 
-(3) Proof of service may appear on or be affixed to the papers filed.
+(3)	Proof of service may appear on or be affixed to the papers filed.
 
 (e) Number of Copies. When these rules require the filing or furnishing of a number of copies, a court may require a different number by local rule or by order in a particular case.
 
-(As amended Mar. 10, 1986, eff. July 1, 1986; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018.)
+(As amended Mar. 10, 1986, eff. July 1, 1986; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -2164,6 +2180,10 @@ The amended rule also provides that a paper is timely without a declaration or n
 
 The amendments conform Rule 25 to the amendments to Federal Rule of Civil Procedure 5 on electronic filing, signature, and service. They establish, in Rule 25(a)(2)(B), a new national rule that generally makes electronic filing mandatory. The rule recognizes exceptions for persons proceeding without an attorney, exceptions for good cause, and variations established by local rule. The amendments establish national rules regarding the methods of signing and serving electronic documents in Rule 25(a)(2)(B)(iii) and (c)(2).
 
+#### Committee Notes on Rules—2019 Amendment ####
+
+The amendment conforms Rule 25 to other federal rules regarding proof of service. As amended, subdivision (d) eliminates the requirement of proof of service or acknowledgment of service when service is made through a court's electronic-filing system. The notice of electronic filing generated by the court's system serves that purpose.
+
 #### References in Text ####
 
 The Federal Rules of Bankruptcy Procedure, referred to in subd. (a)(5), are set out in the Appendix to Title 11, Bankruptcy.
@@ -2226,9 +2246,9 @@ The Federal Rules of Criminal Procedure, referred to in subd. (a)(5), are set ou
 
 (2) a notice of appeal from or a petition to enjoin, set aside, suspend, modify, enforce, or otherwise review an order of an administrative agency, board, commission, or officer of the United States, unless specifically authorized by law.
 
-(c) Additional Time after Certain Kinds of Service. When a party may or must act within a specified time after being served, 3 days are added after the period would otherwise expire under Rule 26(a), unless the paper is delivered on the date of service stated in the proof of service. For purposes of this Rule 26(c), a paper that is served electronically is treated as delivered on the date of service stated in the proof of service.
+(c) Additional Time After Certain Kinds of Service. When a party may or must act within a specified time after being served, and the paper is not served electronically on the party or delivered to the party on the date stated in the proof of service, 3 days are added after the period would otherwise expire under Rule 26(a).
 
-(As amended Mar. 1, 1971, eff. July 1, 1971; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018.)
+(As amended Mar. 1, 1971, eff. July 1, 1971; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -2356,15 +2376,33 @@ Rule 26(c) has also been amended to refer to instances when a party "may or must
 
 The amendments adjust references to subdivisions of Rule 25 that have been renumbered.
 
-### Rule 26.1. Corporate Disclosure Statement ###
+#### Committee Notes on Rules—2019 Amendment ####
 
-(a) Who Must File. Any nongovernmental corporate party to a proceeding in a court of appeals must file a statement that identifies any parent corporation and any publicly held corporation that owns 10% or more of its stock or states that there is no such corporation.
+The amendment in subdivision (c) simplifies the expression of the current rules for when three days are added. In addition, the amendment revises the subdivision to conform to the amendments to Rule 25(d).
 
-(b) Time for Filing; Supplemental Filing. A party must file the Rule 26.1(a) statement with the principal brief or upon filing a motion, response, petition, or answer in the court of appeals, whichever occurs first, unless a local rule requires earlier filing. Even if the statement has already been filed, the party's principal brief must include the statement before the table of contents. A party must supplement its statement whenever the information that must be disclosed under Rule 26.1(a) changes.
+### Rule 26.1. Disclosure Statement ###
 
-(c) Number of Copies. If the Rule 26.1(a) statement is filed before the principal brief, or if a supplemental statement is filed, the party must file an original and 3 copies unless the court requires a different number by local rule or by order in a particular case.
+(a) Nongovernmental Corporations. Any nongovernmental corporation that is a party to a proceeding in a court of appeals must file a statement that identifies any parent corporation and any publicly held corporation that owns 10% or more of its stock or states that there is no such corporation. The same requirement applies to a nongovernmental corporation that seeks to intervene.
 
-(As added Apr. 25, 1989, eff. Dec. 1, 1989; amended Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002.)
+(b) Organizational Victims in Criminal Cases. In a criminal case, unless the government shows good cause, it must file a statement that identifies any organizational victim of the alleged criminal activity. If the organizational victim is a corporation, the statement must also disclose the information required by Rule 26.1(a) to the extent it can be obtained through due diligence.
+
+(c) Bankruptcy Cases. In a bankruptcy case, the debtor, the trustee, or, if neither is a party, the appellant must file a statement that:
+
+(1) identifies each debtor not named in the caption; and
+
+(2) for each debtor that is a corporation, discloses the information required by Rule 26.1(a).
+
+(d) Time for Filing; Supplemental Filing. The Rule 26.1 statement must:
+
+(1) be filed with the principal brief or upon filing a motion, response, petition, or answer in the court of appeals, whichever occurs first, unless a local rule requires earlier filing;
+
+(2) be included before the table of contents in the principal brief; and
+
+(3) be supplemented whenever the information required under Rule 26.1 changes.
+
+(e) Number of Copies. If the Rule 26.1 statement is filed before the principal brief, or if a supplemental statement is filed, an original and 3 copies must be filed unless the court requires a different number by local rule or by order in a particular case.
+
+(As added Apr. 25, 1989, eff. Dec. 1, 1989; amended Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Notes of Advisory Committee on Rules—1989 ####
 
@@ -2421,6 +2459,18 @@ The first version—"Alternative One"—is the same as the version that was publ
 The second version—"Alternative Two"—is the same as the version that was published, except that the Judicial Conference provisions have been eliminated. The Civil Rules Committee met several days after the Appellate Rules Committee and joined the Bankruptcy Rules Committee in disapproving the Judicial Conference provisions. Given the decreasing likelihood that the Judicial Conference provisions will be approved by the Standing Committee, I asked Prof. Schiltz to draft, and the Appellate Rules Committee to approve, a version of Rule 26.1 that omitted those provisions. "Alternative Two" was circulated to and approved by the Committee in late April.
 
 I should note that, at its April meeting, the Appellate Rules Committee discussed the financial disclosure provision that was approved by the Bankruptcy Rules Committee. That provision defines the scope of the financial disclosure obligation much differently than the provisions approved by the Appellate, Civil, and Criminal Rules Committees, which are based on existing Rule 26.1. For example, the bankruptcy provision requires disclosure when a party "directly or indirectly" owns 10 percent or more of "any class" of a publicly *or* privately held corporation's "equity interests." Members of the Appellate Rules Committee expressed several concerns about the provision approved by the Bankruptcy Rules Committee, objecting both to its substance and to its ambiguity.
+
+#### Committee Notes on Rules—2019 Amendment ####
+
+These amendments are designed to help judges determine whether they must recuse themselves because of an "interest that could be affected substantially by the outcome of the proceeding." Code of Judicial Conduct, Canon 3(C)(1)(c) (2009).
+
+Subdivision (a) is amended to encompass nongovernmental corporations that seek to intervene on appeal.
+
+New subdivision (b) corresponds to the disclosure requirement in Criminal Rule 12.4(a)(2). Like Criminal Rule 12.4(a)(2), subdivision (b) requires the government to identify organizational victims to help judges comply with their obligations under the Code of Judicial Conduct. In some cases, there are many organizational victims, but the effect of the crime on each one is relatively small. In such cases, the amendment allows the government to show good cause to be relieved of making the disclosure statements because the organizations' interests could not be "affected substantially by the outcome of the proceedings."
+
+New subdivision (c) requires disclosure of the names of all the debtors in bankruptcy cases, because the names of the debtors are not always included in the caption in appeals. Subdivision (c) also imposes disclosure requirements concerning the ownership of corporate debtors.
+
+Subdivisions (d) and (e) (formerly subdivisions (b) and (c)) apply to all the disclosure requirements in Rule 26.1.
 
 ### Rule 27. Motions ###
 
@@ -2596,7 +2646,7 @@ The page limits previously employed in Rules 5, 21, 27, 35, and 40 have been lar
 
 (a) Appellant's Brief. The appellant's brief must contain, under appropriate headings and in the order indicated:
 
-(1) a corporate disclosure statement if required by Rule 26.1;
+(1) a disclosure statement if required by Rule 26.1;
 
 (2) a table of contents, with page references;
 
@@ -2662,7 +2712,7 @@ Only clear abbreviations may be used. A party referring to evidence whose admiss
 
 (j) Citation of Supplemental Authorities. If pertinent and significant authorities come to a party's attention after the party's brief has been filed—or after oral argument but before decision—a party may promptly advise the circuit clerk by letter, with a copy to all other parties, setting forth the citations. The letter must state the reasons for the supplemental citations, referring either to the page of the brief or to a point argued orally. The body of the letter must not exceed 350 words. Any response must be made promptly and must be similarly limited.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -2751,6 +2801,10 @@ The Committee augmented the Note to Rule 28(a) in two respects. It added a refer
 #### Committee Notes on Rules—2016 Amendment ####
 
 Rule 28(a)(10) is revised to refer to Rule 32(g)(1) instead of Rule 32(a)(7), to reflect the relocation of the certificate-of-compliance requirement.
+
+#### Committee Notes on Rules—2019 Amendment ####
+
+The phrase "corporate disclosure statement" is changed to "disclosure statement" to reflect the revision of Rule 26.1.
 
 ### Rule 28.1. Cross-Appeals ###
 
@@ -3230,23 +3284,23 @@ Subdivision (a)(1) is revised to extend the period for filing a reply brief from
 
 (f) Items Excluded from Length. In computing any length limit, headings, footnotes, and quotations count toward the limit but the following items do not:
 
-• the cover page;
+• cover page;
 
-• a corporate disclosure statement;
+• disclosure statement;
 
-• a table of contents;
+• table of contents;
 
-• a table of citations;
+• table of citations;
 
-• a statement regarding oral argument;
+• statement regarding oral argument;
 
-• an addendum containing statutes, rules, or regulations;
+• addendum containing statutes, rules, or regulations;
 
-• certificates of counsel;
+• certificate of counsel;
 
-• the signature block;
+• signature block;
 
-• the proof of service; and
+• proof of service; and
 
 • any item specifically excluded by these rules or by local rule.
 
@@ -3256,7 +3310,7 @@ Subdivision (a)(1) is revised to extend the period for filing a reply brief from
 
 (2) *Acceptable Form.* Form 6 in the Appendix of Forms meets the requirements for a certificate of compliance.
 
-(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 28, 2016, eff. Dec. 1, 2016.)
+(As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 28, 2016, eff. Dec. 1, 2016; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -3382,6 +3436,10 @@ In a complex case, a party may need to file a brief that exceeds the type-volume
 Subdivision (e) is amended to make clear a court's ability (by local rule or order in a case) to increase the length limits for briefs and other documents. Subdivision (e) already established this authority as to the length limits in Rule 32(a)(7); the amendment makes clear that this authority extends to all length limits in the Appellate Rules.
 
 A new subdivision (f) is added to set out a global list of items excluded from length computations, and the list of exclusions in former subdivision (a)(7)(B)(iii) is deleted. The certificate-of-compliance provision formerly in Rule 32(a)(7)(C) is relocated to a new Rule 32(g) and now applies to filings under all type-volume limits (other than Rule 28(j)'s word limit)—including the new word limits in Rules 5, 21, 27, 29, 35, and 40. Conforming amendments are made to Form 6.
+
+#### Committee Notes on Rules—2019 Amendment ####
+
+The phrase "corporate disclosure statement" is changed to "disclosure statement" to reflect the revision of Rule 26.1. The other amendment to subdivision (f) does not change the substance of the current rule, but removes the articles before each item because a document will not always include these items.
 
 ### Rule 32.1. Citing Judicial Dispositions ###
 
@@ -3709,7 +3767,7 @@ Only the caption of this rule has been amended. The changes are intended to be s
 
 (d) Bill of Costs: Objections; Insertion in Mandate.
 
-(1) A party who wants costs taxed must—within 14 days after entry of judgment—file with the circuit clerk, with proof of service, an itemized and verified bill of costs.
+(1) A party who wants costs taxed must—within 14 days after entry of judgment—file with the circuit clerk and serve an itemized and verified bill of costs.
 
 (2) Objections must be filed within 14 days after service of the bill of costs, unless the court extends the time.
 
@@ -3725,7 +3783,7 @@ Only the caption of this rule has been amended. The changes are intended to be s
 
 (4) the fee for filing the notice of appeal.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2018, eff. Dec. 1, 2018.)
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 10, 1986, eff. July 1, 1986; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Notes on Advisory Committee on Rules—1967 ####
 
@@ -3762,6 +3820,10 @@ The language and organization of the rule are amended to make the rule more easi
 #### Committee Notes on Rules—2018 Amendment ####
 
 The amendment of subdivision (e)(3) conforms this rule with the amendment of Federal Rule of Civil Procedure 62. Rule 62 formerly required a party to provide a "supersedeas bond" to obtain a stay of the judgment and proceedings to enforce the judgment. As amended, Rule 62(b) allows a party to obtain a stay by providing a "bond or other security."
+
+#### Committee Notes on Rules—2019 Amendment ####
+
+In subdivision (d)(1) the words "with proof of service" are deleted and replaced with "and serve" to conform with amendments to Rule 25(d) regarding when proof of service or acknowledgement of service is required for filed papers.
 
 ### Rule 40. Petition for Panel Rehearing ###
 
@@ -3921,11 +3983,11 @@ Before 1998, the rule referred to a court's ability to shorten or enlarge the ti
 
 *Subdivision (d).* Three changes are made in subdivision (d).
 
-Subdivision (d)(1)—which formerly addressed stays of the mandate upon the timely filing of a motion to stay the mandate or a petition for panel or en banc rehearing— has been deleted and the rest of subdivision (d) has been renumbered and renamed accordingly. In instances where such a petition or motion is timely filed, subdivision (b) sets the presumptive date for issuance of the mandate at 7 days after entry of an order denying the petition or motion. Thus, it seems redundant to state (as subdivision (d)(1) did) that timely filing of such a petition or motion stays the mandate until disposition of the petition or motion. The deletion of subdivision (d)(1) is intended to streamline the rule; no substantive change is intended.
+Subdivision (d)(1)—which formerly addressed stays of the mandate upon the timely filing of a motion to stay the mandate or a petition for panel or en banc rehearing—has been deleted and the rest of subdivision (d) has been renumbered and renamed accordingly. In instances where such a petition or motion is timely filed, subdivision (b) sets the presumptive date for issuance of the mandate at 7 days after entry of an order denying the petition or motion. Thus, it seems redundant to state (as subdivision (d)(1) did) that timely filing of such a petition or motion stays the mandate until disposition of the petition or motion. The deletion of subdivision (d)(1) is intended to streamline the rule; no substantive change is intended.
 
 Under the new subdivision (d)(2)(B), if the court of appeals issues a stay of the mandate for a party to file a petition for certiorari, and a Justice of the Supreme Court subsequently extends the time for filing the petition, the stay automatically continues for the extended period.
 
-Subdivision (d)(4)—i.e., former subdivision (d)(2)(D) —is amended to specify that a mandate stayed pending a petition for certiorari must issue immediately once the court of appeals receives a copy of the Supreme Court's order denying certiorari, unless the court of appeals finds that extraordinary circumstances justify a further stay. Without deciding whether the prior version of Rule 41 provided authority for a further stay of the mandate after denial of certiorari, the Supreme Court ruled that any such authority could be exercised only in "extraordinary circumstances." *Ryan v. Schad*, 570 U.S. 521, 525 (2013) (per curiam). The amendment to subdivision (d)(4) makes explicit that the court may stay the mandate after the denial of certiorari, and also makes explicit that such a stay is permissible only in extraordinary circumstances. Such a stay cannot occur through mere inaction but rather requires an order.	
+Subdivision (d)(4)—i.e., former subdivision (d)(2)(D)—is amended to specify that a mandate stayed pending a petition for certiorari must issue immediately once the court of appeals receives a copy of the Supreme Court's order denying certiorari, unless the court of appeals finds that extraordinary circumstances justify a further stay. Without deciding whether the prior version of Rule 41 provided authority for a further stay of the mandate after denial of certiorari, the Supreme Court ruled that any such authority could be exercised only in "extraordinary circumstances." *Ryan v. Schad*, 570 U.S. 521, 525 (2013) (per curiam). The amendment to subdivision (d)(4) makes explicit that the court may stay the mandate after the denial of certiorari, and also makes explicit that such a stay is permissible only in extraordinary circumstances. Such a stay cannot occur through mere inaction but rather requires an order.	
 
 The reference in prior subdivision (d)(2)(D) to the *filing* of a copy of the Supreme Court's order is replaced by a reference to the court of appeals' *receipt* of a copy of the Supreme Court's order. The filing of the copy and its receipt by the court of appeals amount to the same thing (*cf*. Rule 25(a)(2)(A)(i), setting a general rule that "filing is not timely unless the clerk receives the papers within the time fixed for filing"), but "on receiving a copy" is more specific and, hence, clearer.
 
@@ -4259,7 +4321,7 @@ Respondent
 
 ### Form 4. Affidavit Accompanying Motion for Permission to Appeal In Forma Pauperis ###
 
-[PRINT PUBLICATION IMAGES]
+<img src="http://uscode.house.gov/images/uscprelim/Apf4p1.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/Apf4p2.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/Apf4p3.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/Apf4p4.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/Apf4p5.gif" width="700" /><img src="http://uscode.house.gov/images/uscprelim/Apf4p6.gif" width="700" />
 
 (As amended Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 26, 2018, eff. Dec. 1, 2018.)
 
@@ -4352,7 +4414,7 @@ Appendix: Length Limits Stated in the Federal Rules of Appellate Procedure is se
 FEDERAL RULES OF CIVIL PROCEDURE
 ==========
 
-(As amended to December 1, 2018)
+(As amended to December 1, 2019)
 
 #### Historical Note ####
 
@@ -8526,7 +8588,7 @@ The rule is also amended to clarify that objections must provide sufficient spec
 
 But some objectors may be seeking only personal gain, and using objections to obtain benefits for themselves rather than assisting in the settlement-review process. At least in some instances, it seems that objectors—or their counsel—have sought to obtain consideration for withdrawing their objections or dismissing appeals from judgments approving class settlements. And class counsel sometimes may feel that avoiding the delay produced by an appeal justifies providing payment or other consideration to these objectors. Although the payment may advance class interests in a particular case, allowing payment perpetuates a system that can encourage objections advanced for improper purposes.
 
-The court-approval requirement currently in Rule 23(e)(5) partly addresses this concern. Because the concern only applies when consideration is given in connection with withdrawal of an objection, however, the amendment requires approval under Rule 23(e)(5)(B)(i) only when consideration is involved. Although such payment is usually made to objectors or their counsel, the rule also requires court approval if a payment in connection with forgoing or withdrawing an objection or appeal is instead to another recipient. The term consideration should be broadly interpreted, particularly when the withdrawal includes some arrangements beneficial to objector counsel. If the consideration involves a payment to counsel for an objector, the proper procedure is by motion under Rule 23(h) for an award of fees.
+The court-approval requirement currently in Rule 23(e)(5) partly addresses this concern. Because the concern only applies when consideration is given in connection with withdrawal of an objection, however, the amendment requires approval under Rule 23(e)(5)(B)(i) only when consideration is involved. Although such payment is usually made to objectors or their counsel, the rule also requires court approval if a payment in connection with forgoing or withdrawing an objection or appeal is instead to another recipient. The term "consideration" should be broadly interpreted, particularly when the withdrawal includes some arrangements beneficial to objector counsel. If the consideration involves a payment to counsel for an objector, the proper procedure is by motion under Rule 23(h) for an award of fees.
 
 Rule 23(e)(5)(B)(ii) applies to consideration in connection with forgoing, dismissing, or abandoning an appeal from a judgment approving the proposal. Because an appeal by a class-action objector may produce much longer delay than an objection before the district court, it is important to extend the court-approval requirement to apply in the appellate context. The district court is best positioned to determine whether to approve such arrangements; hence, the rule requires that the motion seeking approval be made to the district court.
 
@@ -16532,7 +16594,7 @@ The times set in the former rule at 20 days have been revised to 21 days. See th
 FEDERAL RULES OF EVIDENCE
 ==========
 
-(As amended to December 1, 2018)
+(As amended to December 1, 2019)
 
 #### Effective Date and Application of Rules ####
 
@@ -16542,7 +16604,7 @@ Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1926, provided: "That the followin
 
 The Federal Rules of Evidence were adopted by order of the Supreme Court on Nov. 20, 1972, transmitted to Congress by the Chief Justice on Feb. 5, 1973, and to have become effective on July 1, 1973. Pub. L. 93–12, Mar. 30, 1973, 87 Stat. 9, provided that the proposed rules "shall have no force or effect except to the extent, and with such amendments, as they may be expressly approved by Act of Congress". Pub. L. 93–595, Jan. 2, 1975, 88 Stat. 1926, enacted the Federal Rules of Evidence proposed by the Supreme Court, with amendments made by Congress, to take effect on July 1, 1975.
 
-The Rules have been amended Oct. 16, 1975, Pub. L. 94–113, §1, 89 Stat. 576, eff. Oct. 31, 1975; Dec. 12, 1975, Pub. L. 94–149, §1, 89 Stat. 805; Oct. 28, 1978, Pub. L. 95–540, §2, 92 Stat. 2046; Nov. 6, 1978, Pub. L. 95–598, title II, §251, 92 Stat. 2673, eff. Oct. 1, 1979; Apr. 30, 1979, eff. Dec. 1, 1980; Apr. 2, 1982, Pub. L. 97–164, title I, §142, title IV, §402, 96 Stat. 45, 57, eff. Oct. 1, 1982; Oct. 12, 1984, Pub. L. 98–473, title IV, §406, 98 Stat. 2067; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7046, 7075, 102 Stat. 4400, 4405; Jan. 26, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title IV, §40141, title XXXII, §320935, 108 Stat. 1918, 2135; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 17, 2000, eff. Dec. 1, 2000; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 12, 2006, eff. Dec. 1, 2006; Sept. 19, 2008, Pub. L. 110–322, §1(a), 122 Stat. 3537; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 27, 2017, eff. Dec. 1, 2017.
+The Rules have been amended Oct. 16, 1975, Pub. L. 94–113, §1, 89 Stat. 576, eff. Oct. 31, 1975; Dec. 12, 1975, Pub. L. 94–149, §1, 89 Stat. 805; Oct. 28, 1978, Pub. L. 95–540, §2, 92 Stat. 2046; Nov. 6, 1978, Pub. L. 95–598, title II, §251, 92 Stat. 2673, eff. Oct. 1, 1979; Apr. 30, 1979, eff. Dec. 1, 1980; Apr. 2, 1982, Pub. L. 97–164, title I, §142, title IV, §402, 96 Stat. 45, 57, eff. Oct. 1, 1982; Oct. 12, 1984, Pub. L. 98–473, title IV, §406, 98 Stat. 2067; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7046, 7075, 102 Stat. 4400, 4405; Jan. 26, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title IV, §40141, title XXXII, §320935, 108 Stat. 1918, 2135; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 17, 2000, eff. Dec. 1, 2000; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 12, 2006, eff. Dec. 1, 2006; Sept. 19, 2008, Pub. L. 110–322, §1(a), 122 Stat. 3537; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 27, 2017, eff. Dec. 1, 2017; Apr. 25, 2019, eff. Dec. 1, 2019.
 
 #### ARTICLE I. GENERAL PROVISIONS ####
 
@@ -20070,19 +20132,15 @@ The language of Rule 806 has been amended as part of the restyling of the Eviden
 
 ### Rule 807. Residual Exception ###
 
-(a) In General. Under the following circumstances, a hearsay statement is not excluded by the rule against hearsay even if the statement is not specifically covered by a hearsay exception in Rule 803 or 804:
+(a) In General. Under the following conditions, a hearsay statement is not excluded by the rule against hearsay even if the statement is not admissible under a hearsay exception in Rule 803 or 804:
 
-(1) the statement has equivalent circumstantial guarantees of trustworthiness;
+(1) the statement is supported by sufficient guarantees of trustworthiness—after considering the totality of circumstances under which it was made and evidence, if any, corroborating the statement; and
 
-(2) it is offered as evidence of a material fact;
+(2) it is more probative on the point for which it is offered than any other evidence that the proponent can obtain through reasonable efforts.
 
-(3) it is more probative on the point for which it is offered than any other evidence that the proponent can obtain through reasonable efforts; and
+(b) Notice. The statement is admissible only if the proponent gives an adverse party reasonable notice of the intent to offer the statement—including its substance and the declarant's name—so that the party has a fair opportunity to meet it. The notice must be provided in writing before the trial or hearing—or in any form during the trial or hearing if the court, for good cause, excuses a lack of earlier notice.
 
-(4) admitting it will best serve the purposes of these rules and the interests of justice.
-
-(b) Notice. The statement is admissible only if, before the trial or hearing, the proponent gives an adverse party reasonable notice of the intent to offer the statement and its particulars, including the declarant's name and address, so that the party has a fair opportunity to meet it.
-
-(Added Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(Added Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 25, 2019, eff. Dec. 1, 2019.)
 
 #### Notes of Advisory Committee on Rules ####
 
@@ -20093,6 +20151,40 @@ The contents of Rule 803(24) and Rule 804(b)(5) have been combined and transferr
 #### Committee Notes on Rules—2011 Amendment ####
 
 The language of Rule 807 has been amended as part of the restyling of the Evidence Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only. There is no intent to change any result in any ruling on evidence admissibility.
+
+#### Committee Notes on Rules—2019 Amendment ####
+
+Rule 807 has been amended to fix a number of problems that the courts have encountered in applying it.
+
+Courts have had difficulty with the requirement that the proffered hearsay carry "equivalent" circumstantial guarantees of trustworthiness. The "equivalence" standard is difficult to apply, given the different types of guarantees of reliability, of varying strength, found among the categorical exceptions (as well as the fact that some hearsay exceptions, e.g., Rule 804(b)(6), are not based on reliability at all). The "equivalence" standard has not served to guide a court's discretion to admit hearsay, because the court is free to choose among a spectrum of exceptions for comparison. Moreover, experience has shown that some statements offered as residual hearsay cannot be compared usefully to any of the categorical exceptions and yet might well be trustworthy. Thus the requirement of an equivalence analysis has been eliminated. Under the amendment, the court should proceed directly to a determination of whether the hearsay is supported by guarantees of trustworthiness. *See* Rule 104(a). As with any hearsay statement offered under an exception, the court's threshold finding that admissibility requirements are met merely means that the jury may consider the statement and not that it must assume the statement to be true.
+
+The amendment specifically requires the court to consider corroborating evidence in the trustworthiness enquiry. Most courts have required the consideration of corroborating evidence, though some courts have disagreed. The rule now provides for a uniform approach, and recognizes that the existence or absence of corroboration is relevant to, but not dispositive of, whether a statement should be admissible under this exception. Of course, the court must consider not only the existence of corroborating evidence but also the strength and quality of that evidence.
+
+The amendment does not alter the case law prohibiting parties from proceeding directly to the residual exception, without considering the admissibility of the hearsay under Rules 803 and 804. A court is not required to make a finding that no other hearsay exception is applicable. But the opponent <sup><a href="#Rule_807_1_target" name="Rule_807_1">1</a></sup> cannot seek admission under Rule 807 if it is apparent that the hearsay could be admitted under another exception.
+
+<sup><a href="#Rule_807_1_target" name="Rule_807_1">1</a></sup> So in House Document 116–67. The Secretary of the Committee on Rules of Practice and Procedure states that "opponent" should be "proponent".
+
+The rule in its current form applies to hearsay "not specifically covered" by a Rule 803 or 804 exception. The amendment makes the rule applicable to hearsay "not admissible under" those exceptions. This clarifies that a court assessing guarantees of trustworthiness may consider whether the statement is a "near-miss" of one of the Rule 803 or 804 exceptions. If the court employs a "near-miss" analysis it should—in addition to evaluating all relevant guarantees of trustworthiness—take into account the reasons that the hearsay misses the admissibility requirements of the standard exception.
+
+In deciding whether the statement is supported by sufficient guarantees of trustworthiness, the court should not consider the credibility of any witness who relates the declarant's hearsay statement in court. The credibility of an in-court witness does not present a hearsay question. To base admission or exclusion of a hearsay statement on the witness's credibility would usurp the jury's role of determining the credibility of testifying witnesses. The rule provides that the focus for trustworthiness is on circumstantial guarantees surrounding the making of the statement itself, as well as any independent evidence corroborating the statement. The credibility of the witness relating the statement is not a part of either enquiry.	
+
+Of course, even if the court finds sufficient guarantees of trustworthiness, the independent requirements of the Confrontation Clause must be satisfied if the hearsay statement is offered against a defendant in a criminal case.
+
+The Committee decided to retain the requirement that the proponent must show that the hearsay statement is more probative than any other evidence that the proponent can reasonably obtain. This necessity requirement will continue to serve to prevent the residual exception from being used as a device to erode the categorical exceptions.
+
+The requirements that residual hearsay must be evidence of a material fact and that its admission will best serve the purposes of these rules and the interests of justice have been deleted. These requirements have proved to be superfluous in that they are already found in other rules. *See* Rules 102, 401.
+
+The notice provision has been amended to make four changes in the operation of the rule:
+
+• First, the amendment requires the proponent to disclose the "substance" of the statement. This term is intended to require a description that is sufficiently specific under the circumstances to allow the opponent a fair opportunity to meet the evidence. *See* Rule 103(a)(2) (requiring the party making an offer of proof to inform the court of the "substance" of the evidence).
+
+•	Second, the prior requirement that the declarant's address must be disclosed has been deleted. That requirement was nonsensical when the declarant was unavailable, and unnecessary in the many cases in which the declarant's address was known or easily obtainable. If prior disclosure of the declarant's address is critical and cannot be obtained by the opponent through other means, then the opponent can seek relief from the court.
+
+•	Third, the amendment requires that the pretrial notice be in writing—which is satisfied by notice in electronic form. *See* Rule 101(b)(6). Requiring the notice to be in writing provides certainty and reduces arguments about whether notice was actually provided.
+
+•	Finally, the pretrial notice provision has been amended to provide for a good cause exception. Most courts have applied a good cause exception under Rule 807 even though the rule in its current form does not provide for it, while some courts have read the rule as it was written. Experience under the residual exception has shown that a good cause exception is necessary in certain limited situations. For example, the proponent may not become aware of the existence of the hearsay statement until after the trial begins, or the proponent may plan to call a witness who without warning becomes unavailable during trial, and the proponent might then need to resort to residual hearsay.
+
+The rule retains the requirement that the opponent receive notice in a way that provides a fair opportunity to meet the evidence. When notice is provided during trial after a finding of good cause, the court may need to consider protective measures, such as a continuance, to assure that the opponent is not prejudiced.
 
 ### ARTICLE IX. AUTHENTICATION AND IDENTIFICATION ###
 
