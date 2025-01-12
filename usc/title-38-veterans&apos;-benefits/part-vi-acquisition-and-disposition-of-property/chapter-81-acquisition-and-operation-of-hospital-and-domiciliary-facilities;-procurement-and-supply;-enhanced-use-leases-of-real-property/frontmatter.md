@@ -132,7 +132,7 @@ Pub. L. 108–422, title IV, §411(c)(2), (f), Nov. 30, 2004, 118 Stat. 2389, 23
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–315, title VII, §7003(b), Jan. 5, 2021, 134 Stat, 5059, added item 8129.
+**2021**—Pub. L. 116–315, title VII, §7003(b), Jan. 5, 2021, 134 Stat. 5058, added item 8129.
 
 **2018**—Pub. L. 115–182, title I, §112(b), June 6, 2018, 132 Stat. 1421, added item 8159.
 
