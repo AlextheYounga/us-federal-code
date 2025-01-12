@@ -79,3 +79,31 @@ Pub. L. 117–81, div. A, title VIII, §855, Dec. 27, 2021, 135 Stat. 1850, prov
 "(2) Covered entity.—The term 'covered entity' means any corporation, company, limited liability company, limited partnership, business trust, business association, or other similar entity, including any subsidiary thereof, performing work on a covered contract in the People's Republic of China, including by leasing or owning real property used in the performance of the covered contract in the People's Republic of China.
 
 "(e) Effective Date.—This section shall take effect on July 1, 2022."
+
+#### Prohibition on Procurements From Communist Chinese Military Companies ####
+
+Pub. L. 109–163, div. A, title XII, §1211, Jan. 6, 2006, 119 Stat. 3461, as amended by Pub. L. 112–81, div. A, title XII, §1243(a), (b), Dec. 31, 2011, 125 Stat. 1645; Pub. L. 114–328, div. A, title XII, §1296, Dec. 23, 2016, 130 Stat. 2562, provided that:
+
+"(a) Prohibition.—The Secretary of Defense may not procure goods or services described in subsection (b), through a contract or any subcontract (at any tier) under a contract, from any Communist Chinese military company.
+
+"(b) Goods and Services Covered.—For purposes of subsection (a), the goods and services described in this subsection are goods and services on the munitions list of the International Traffic in Arms Regulations or in the 600 series of the control list of the Export Administration Regulations, other than goods or services procured—
+
+"(1) in connection with a visit by a vessel or an aircraft of the United States Armed Forces to the People's Republic of China;
+
+"(2) for testing purposes; or
+
+"(3) for purposes of gathering intelligence.
+
+"(c) Waiver Authorized.—The Secretary of Defense may waive the prohibition in subsection (a) if the Secretary determines that such a waiver is necessary for national security purposes and the Secretary submits to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report described in subsection (d) not less than 15 days before issuing the waiver under this subsection.
+
+"(d) Report.—The report referred to in subsection (c) is a report that identifies the specific reasons for the waiver issued under subsection (c) and includes recommendations as to what actions may be taken to develop alternative sourcing capabilities in the future.
+
+"(e) Definitions.—In this section:
+
+"(1) The term 'Communist Chinese military company' has the meaning provided that term by section 1237(b)(4) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 [Pub. L. 105–261] (50 U.S.C. 1701 note).
+
+"(2) The term 'munitions list of the International Traffic in Arms Regulations' means the United States Munitions List contained in part 121 of subchapter M of title 22 of the Code of Federal Regulations.
+
+"(3) The term '600 series of the control list of the Export Administration Regulations' means the 600 series of the Commerce Control List contained in Supplement No. 1 to part 774 of subtitle B of title 15 of the Code of Federal Regulations."
+
+[Pub. L. 112–81, div. A, title XII, §1243(c), Dec. 31, 2011, 125 Stat. 1646, provided that: "The amendments made by this section [amending section 1211 of Pub. L. 109–163, set out above] take effect on the date of the enactment of this Act [Dec. 31, 2011] and apply with respect to contracts and subcontracts of the Department of Defense entered into on or after the date of the enactment of this Act."]

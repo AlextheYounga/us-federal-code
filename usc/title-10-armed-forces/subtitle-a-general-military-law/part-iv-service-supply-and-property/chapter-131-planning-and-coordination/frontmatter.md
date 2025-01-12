@@ -142,6 +142,10 @@ Pub. L. 97–214, §10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Mission Integration Management ####
+
+Pub. L. 114–328, div. A, title VIII, §855, Dec. 23, 2016, 130 Stat. 2297, directed the Secretary of Defense to establish mission integration management activities for certain mission areas that involve multiple Armed Forces and multiple programs and to submit to the congressional defense committees, at the same time the fiscal year 2018 budget is submitted to Congress, a strategy for mission integration management.
+
 #### Strategic Management Plan ####
 
 Pub. L. 110–181, div. A, title IX, §904(d), (e), Jan. 28, 2008, 122 Stat. 275, as amended by Pub. L. 114–92, div. A, title X, §1079(e), Nov. 25, 2015, 129 Stat. 999, provided that:

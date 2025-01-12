@@ -9,7 +9,3 @@ A prior section 2506 was renumbered section 4861 of this title.
 #### Effective Date of Repeal ####
 
 Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
-
-#### Implementing Regulations Concerning National Technology and Industrial Base Periodic Plan ####
-
-Pub. L. 102–484, div. D, title XLII, §4220, Oct. 23, 1992, 106 Stat. 2675, set forth requirements for the initial regulations prescribed to implement this section, prior to repeal by Pub. L. 104–201, div. A, title VIII, §829(h), Sept. 23, 1996, 110 Stat. 2614.
