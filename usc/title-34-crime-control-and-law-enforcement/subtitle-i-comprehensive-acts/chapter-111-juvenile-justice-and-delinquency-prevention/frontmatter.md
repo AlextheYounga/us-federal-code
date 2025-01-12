@@ -28,7 +28,7 @@ Sec.
 
 11117. Annual report.
 
-#### Part B—Federal Assistance for State and Local Programs ####
+#### Part B—Charles Grassley Juvenile Justice and Delinquency Prevention Program ####
 
 11131. Authority to make grants and contracts.
 
@@ -173,6 +173,8 @@ Sec.
 11312. Duties and functions of the Administrator.
 
 11313. Grants for local delinquency prevention programs.
+
+11314. Grants for tribal delinquency prevention and response programs.
 
 #### SUBCHAPTER VI—AUTHORIZATION OF APPROPRIATIONS; ACCOUNTABILITY AND OVERSIGHT ####
 

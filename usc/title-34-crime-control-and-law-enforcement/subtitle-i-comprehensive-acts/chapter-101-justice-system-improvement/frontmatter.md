@@ -390,6 +390,8 @@ Sec.
 
 #### SUBCHAPTER XXIV—MATCHING GRANT PROGRAM FOR LAW ENFORCEMENT ARMOR VESTS ####
 
+10530. Patrick Leahy Bulletproof Vest Partnership Grant Program.
+
 10531. Program authorized.
 
 10532. Applications.
