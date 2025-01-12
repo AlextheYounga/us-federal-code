@@ -278,7 +278,7 @@ Sec.
 
 2277. Strategy to advance prosperity, combat corruption, strengthen democratic governance, and improve civilian security in El Salvador, Guatemala, and Honduras.
 
-2277a. Targeted sanctions to fight corruption in El Salvador, Guatemala, and Honduras.
+2277a. Targeted sanctions to fight corruption in El Salvador, Guatemala, Honduras, and Nicaragua.
 
 #### Part VII—Debt-for-Nature Exchanges ####
 
