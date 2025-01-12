@@ -148,7 +148,7 @@ The Commission shall adopt rules requiring that a contemporaneous written record
 
 #### References in Text ####
 
-Section 2 of the STOCK Act, referred to in subsec. (a)(3), is section 2 of Pub. L. 112–105, which is set out as a note under section 101 of the Ethics in Government Act of 1978, Pub. L. 95–521, in the Appendix to Title 5, Government Organization and Employees.
+Section 2 of the STOCK Act, referred to in subsec. (a)(3), is section 2 of Pub. L. 112–105, which is set out as a note under section 13101 of Title 5, Government Organization and Employees.
 
 #### Amendments ####
 

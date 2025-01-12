@@ -50,4 +50,4 @@ The Agricultural Marketing Act of 1946, referred to in subsec. (b)(2), is title 
 
 #### Termination Date ####
 
-Section to terminate Sept. 30, 2022, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title. Section 942 of Pub. L. 106–78 to be applied by substituting "September 30, 2021" for "September 30, 2020", see section 401 of Pub. L. 116–260, set out as a Mandatory Livestock Reporting Extension note under section 1636i of this title.
+Section to terminate Sept. 30, 2023, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under section 1635 of this title.

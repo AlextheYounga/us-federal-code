@@ -1544,7 +1544,7 @@ Pub. L. 89–554, §8(b), Sept. 6, 1966, 80 Stat. 632, provided that: "The right
 
 Pub. L. 89–554, §8(c), Sept. 6, 1966, 80 Stat. 632, provided that: "The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal."
 
-#### Purposes; Restatement Does Not Change Meaning or Effect of Existing Law ####
+#### Purposes; Restatement Does Not Change Meaning or Effect of Existing Law: Pub. L. 117–286 ####
 
 Pub. L. 117–286, §2, Dec. 27, 2022, 136 Stat. 4196, provided that:
 
@@ -1564,7 +1564,7 @@ Pub. L. 117–286, §2, Dec. 27, 2022, 136 Stat. 4196, provided that:
 
 "(B) Revision notes.—Subparagraph (A) applies whether or not a change in wording is explained by a revision note appearing in a congressional report accompanying this Act. If such a revision note does appear, a court shall consider the revision note in interpreting the change."
 
-#### Transitional and Savings Provisions ####
+#### Transitional and Savings Provisions: Pub. L. 117–286 ####
 
 Pub. L. 117–286, §5, Dec. 27, 2022, 136 Stat. 4360, provided that:
 
@@ -1588,7 +1588,7 @@ Pub. L. 117–286, §5, Dec. 27, 2022, 136 Stat. 4360, provided that:
 
 "(h) Legislative Construction.—An inference of legislative construction is not to be drawn by reason of a restated provision's location in the United States Code or by reason of the heading used for the restated provision."
 
-#### Repeals ####
+#### Repeals: Pub. L. 117–286 ####
 
 Pub. L. 117–286, §7, Dec. 27, 2022, 136 Stat. 4361 repealed specified laws relating to Federal advisory committees, Inspectors General, and ethics requirements, except with respect to rights and duties that matured, penalties that were incurred, or proceedings that were begun before Dec. 27, 2022.
 

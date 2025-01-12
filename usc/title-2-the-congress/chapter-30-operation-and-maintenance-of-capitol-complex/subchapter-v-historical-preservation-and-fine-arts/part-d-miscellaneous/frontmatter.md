@@ -1,6 +1,8 @@
 ### Part D—Miscellaneous ###
 
-#### Plaque to Honor Members of Law Enforcement Who Responded on January 6, 2021 ####
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Plaque To Honor Members of Law Enforcement Who Responded on January 6, 2021 ####
 
 Pub. L. 117–103, div. I, title II, §214, Mar. 15, 2022, 136 Stat. 527, provided that:
 

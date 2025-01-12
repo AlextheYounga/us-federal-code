@@ -154,7 +154,7 @@ Sec. 5. *Administration*. (a) Each executive department and agency shall, to the
 
 (f) The seal prescribed by Executive Order 10830 of July 24, 1959, as amended, shall be modified to reflect the name of the Council as established by this order.
 
-Sec. 6. *General Provisions*. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines and procedures issued by the Administrator of General Services.
+Sec. 6. *General Provisions*. (a) Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see 5 U.S.C. 1001 et seq.] (Act), may apply to the administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines and procedures issued by the Administrator of General Services.
 
 (b) The Council shall terminate 2 years from the date of this order, unless extended by the President.
 

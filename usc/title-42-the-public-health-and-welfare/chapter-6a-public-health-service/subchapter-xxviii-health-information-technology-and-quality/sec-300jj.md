@@ -168,7 +168,7 @@ Pub. L. 111–5, div. A, title XIII, §13103, as added by Pub. L. 114–255, div
 
 "(D) other areas, as the Secretary determines appropriate, to reduce the reporting burden required of health care providers.
 
-"(4) FACA.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the development of the goal, strategies, or recommendations described in this section.
+"(4) FACA.—The Federal Advisory Committee Act ([former] 5 U.S.C. App.) [see 5 U.S.C. 1001 et seq.] shall not apply to the development of the goal, strategies, or recommendations described in this section.
 
 "(c) Application of Certain Regulatory Requirements.—A physician (as defined in section 1861(r)(1) of the Social Security Act [42 U.S.C. 1395x(r)(1)]), to the extent consistent with applicable State law, may delegate electronic medical record documentation requirements specified in regulations promulgated by the Centers for Medicare & Medicaid Services to a person performing a scribe function who is not such physician if such physician has signed and verified the documentation."
 

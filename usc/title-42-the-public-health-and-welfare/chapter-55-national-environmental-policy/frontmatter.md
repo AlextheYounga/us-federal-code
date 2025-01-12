@@ -18,6 +18,18 @@ Sec.
 
 4335. Efforts supplemental to existing authorizations.
 
+4336. Procedure for determination of level of review.
+
+4336a. Timely and unified Federal reviews.
+
+4336b. Programmatic environmental document.
+
+4336c. Adoption of categorical exclusions.
+
+4336d. E-NEPA.
+
+4336e. Definitions.
+
 #### SUBCHAPTER II—COUNCIL ON ENVIRONMENTAL QUALITY ####
 
 4341. Omitted.

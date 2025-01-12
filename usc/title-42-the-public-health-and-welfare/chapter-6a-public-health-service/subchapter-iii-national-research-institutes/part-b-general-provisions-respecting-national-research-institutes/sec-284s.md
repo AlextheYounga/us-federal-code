@@ -86,7 +86,7 @@ Not later than 2 years after December 13, 2016, and every 2 years thereafter unt
 
 #### (6) Applicability of FACA ####
 
-The Working Group shall be treated as an advisory committee subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+The Working Group shall be treated as an advisory committee subject to the Federal Advisory Committee Act (5 U.S.C. App.).<sup><a href="#284s_1_target" name="284s_1">1</a></sup>
 
 #### (7) Sunset ####
 
@@ -100,8 +100,10 @@ The Working Group under this section shall terminate 6 years after December 13, 
 
 Section 2032, referred to in subsec. (b), means section 2032 of Pub. L. 114–255.
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
 
 #### Codification ####
 
 Section was enacted as part of the 21st Century Cures Act, and not as part of the Public Health Service Act which comprises this chapter.
+
+[<sup>1</sup> See References in Text note below.](#284s_1)

@@ -8,7 +8,7 @@ The Secretary, or the designee of the Secretary, shall establish a committee to 
 
 #### (2) Federal Advisory Committee Act ####
 
-Except as provided in this section, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee.
+Except as provided in this section, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) <sup><a href="#290aa-0b_1_target" name="290aa-0b_1">1</a></sup> shall apply to the Committee.
 
 #### (b) Meetings ####
 
@@ -113,3 +113,5 @@ The Committee shall terminate on September 30, 2027.
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (a)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§1001 et seq.) of Title 5 by Pub. L. 117–286, §§3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding section 101 of Title 5.
+
+[<sup>1</sup> See References in Text note below.](#290aa-0b_1)

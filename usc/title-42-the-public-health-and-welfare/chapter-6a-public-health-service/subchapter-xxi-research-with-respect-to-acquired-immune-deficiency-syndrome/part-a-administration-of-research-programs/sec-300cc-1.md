@@ -108,7 +108,7 @@ Ex. Ord. No. 12963, June 14, 1995, 60 F.R. 31905, as amended by Ex. Ord. No. 130
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the Secretary of Health and Human Services to exercise her discretion as follows:
 
-Section 1. *Establishment*. (a) The Secretary of Health and Human Services (the "Secretary") shall establish an HIV/AIDS Advisory Council (the "Advisory Council" or the "Council"), to be known as the Presidential Advisory Council on HIV/AIDS. The Advisory Council shall be composed of not more than 35 members to be appointed or designated by the Secretary. The Advisory Council shall comply with the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
+Section 1. *Establishment*. (a) The Secretary of Health and Human Services (the "Secretary") shall establish an HIV/AIDS Advisory Council (the "Advisory Council" or the "Council"), to be known as the Presidential Advisory Council on HIV/AIDS. The Advisory Council shall be composed of not more than 35 members to be appointed or designated by the Secretary. The Advisory Council shall comply with the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see 5 U.S.C. 1001 et seq.].
 
 (b) The Secretary shall designate a Chairperson from among the members of the Advisory Council.
 

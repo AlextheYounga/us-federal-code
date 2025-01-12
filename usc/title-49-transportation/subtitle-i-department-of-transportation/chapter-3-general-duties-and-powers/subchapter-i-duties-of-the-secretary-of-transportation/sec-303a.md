@@ -110,7 +110,7 @@ Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], §8426, Jan. 1, 2021, 134 Sta
 
 "(i) Limitations.—Each member of the Advisory Committee described in clauses (vii) through (xv) of subparagraph (B) shall serve for a 2-year term and shall not be eligible for more than 2 consecutive term reappointments.
 
-"(ii) Vacancies.—Any vacancy in the membership of the Advisory Committee shall not affect its responsibilities, but shall be filled in the same manner as the original appointment and in accordance with the Federal Advisory Committee Act (5 U.S.C. App.).
+"(ii) Vacancies.—Any vacancy in the membership of the Advisory Committee shall not affect its responsibilities, but shall be filled in the same manner as the original appointment and in accordance with the Federal Advisory Committee Act ([former] 5 U.S.C. App.) [see 5 U.S.C. 1001 et seq.].
 
 "(3) Functions.—The Advisory Committee shall carry out all of the following functions:
 

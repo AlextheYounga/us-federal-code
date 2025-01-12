@@ -22,4 +22,4 @@ Act Aug. 2, 1954, ch. 649, title III, §312, 68 Stat. 629, as amended by Pub. L.
 
 #### Executive Order No. 12075 ####
 
-Ex. Ord. No. 12075, Aug. 16, 1978, 43 F.R. 36877, as amended by Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which established the Interagency Coordinating Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §14, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12075, Aug. 16, 1978, 43 F.R. 36877, as amended by Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which established the Interagency Coordinating Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §14, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under section 1013 of Title 5, Government Organization and Employees.
