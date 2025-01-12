@@ -10,7 +10,11 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2022 Amendment ####
 
-Pub. L. 117–229, div. B, title I, §103(a), Dec. 16, 2022, 136 Stat. 2309, provided that: "This section [enacting provisions set out as a note under section 3551 of this title] may be cited as the 'United States Parole Commission Further Extension Act of 2022'."
+Pub. L. 117–272, §1, Dec. 27, 2022, 136 Stat. 4181, provided that: "This Act [amending section 879 of this title] may be cited as the '21st Century President Act'."
+
+Pub. L. 117–264, div. B, title I, §103(a), Dec. 23, 2022, 136 Stat. 4168, provided that: This section [enacting provisions set out as notes under section 3551 of this title] may be cited as the 'United States Parole Commission Further Additional Extension Act of 2022'."
+
+Pub. L. 117–229, div. B, title I, §103(a), Dec. 16, 2022, 136 Stat. 2309, which provided that section 103 of Pub. L. 117–229 could be cited as the "United States Parole Commission Further Extension Act of 2022", was rendered ineffective by Pub. L. 117–264, div. B, title I, §103(d), Dec. 23, 2022, 136 Stat. 4168, set out as a note under section 3551 of this title.
 
 Pub. L. 117–180, div. C, title I, §103(a), Sept. 30, 2022, 136 Stat. 2133, provided that: "This section [enacting provisions set out as a note under section 3551 of this title] may be cited as the 'United States Parole Commission Extension Act of 2022'."
 

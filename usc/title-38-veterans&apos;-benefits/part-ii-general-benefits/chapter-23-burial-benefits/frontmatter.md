@@ -4,9 +4,9 @@ Sec.
 
 2301. Flags.
 
-2302. Funeral expenses.
+[2302. Repealed.]
 
-2303. Death in Department facility; plot allowance.
+2303. Death from non-service-connected disability; plot allowance.
 
 2304. Claims for reimbursement.
 
@@ -16,13 +16,7 @@ Sec.
 
 2307. Death from service-connected disability.
 
-2308. Transportation of deceased veteran to a national cemetery.
-
-#### Amendment of Analysis ####
-
-Pub. L. 116–315, title II, §2202(c), (d), Jan. 5, 2021, 134 Stat. 4985, provided that, applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, this analysis is amended by striking items 2302 and 2303 and inserting new item 2303 "Death from non-service-connected disability; plot allowance". See 2021 Amendment note below.
-
-Pub. L. 116–315, title II, §2201(d), (e), Jan. 5, 2021, 134 Stat. 4983, provided that, effective on the date that is two years after Jan. 5, 2021, this analysis is amended by striking item 2308 and inserting new item 2308 "Transportation of deceased veteran to a national cemetery or a covered veterans' cemetery". See 2021 Amendment note below.
+2308. Transportation of deceased veteran to a national cemetery or a covered veterans' cemetery.
 
 #### **Editorial Notes** ####
 
