@@ -16,7 +16,11 @@ Sec.
 
 1307. Exceptions relating to certain advertisements and other information and to State-conducted lotteries.
 
+1308. Limitation of applicability.
+
 #### Amendments ####
+
+**2014**—Pub. L. 113–251, §4(b), Dec. 18, 2014, 128 Stat. 2890, added item 1308.
 
 **1988**—Pub. L. 100–625, §3(a)(2), Nov. 7, 1988, 102 Stat. 3206, substituted "Exceptions relating to certain advertisements and other information and to State-conducted lotteries" for "State-conducted lotteries" in item 1307.
 

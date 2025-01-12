@@ -82,6 +82,8 @@ Sec.
 
 145. Cyber Security Enhancement Act of 2002.
 
+146. Cybersecurity workforce assessment and strategy.
+
 #### Part D—Office of Science and Technology ####
 
 161. Establishment of Office; Director.
@@ -554,6 +556,26 @@ Sec.
 
 557. Reference.
 
+#### SUBCHAPTER XII–A—TRANSPORTATION SECURITY ####
+
+#### Part A—General Provisions ####
+
+561. Definitions.
+
+#### Part B—Transportation Security Administration Acquisition Improvements ####
+
+563. 5-year technology investment plan.
+
+563a. Acquisition justification and reports.
+
+563b. Acquisition baseline establishment and reports.
+
+563c. Inventory utilization.
+
+563d. Small business contracting goals.
+
+563e. Consistency with the Federal Acquisition Regulation and departmental policies and directives.
+
 #### SUBCHAPTER XIII—EMERGENCY COMMUNICATIONS ####
 
 571. Office of Emergency Communications.
@@ -621,3 +643,23 @@ Sec.
 612. Accountability.
 
 613. Identification of reporting redundancies and development of performance metrics.
+
+#### SUBCHAPTER XVI—CHEMICAL FACILITY ANTI-TERRORISM STANDARDS ####
+
+621. Definitions.
+
+622. Chemical Facility Anti-Terrorism Standards Program.
+
+623. Protection and sharing of information.
+
+624. Civil enforcement.
+
+625. Whistleblower protections.
+
+626. Relationship to other laws.
+
+627. CFATS regulations.
+
+628. Small covered chemical facilities.
+
+629. Outreach to chemical facilities of interest.

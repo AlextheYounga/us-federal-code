@@ -90,9 +90,13 @@ Sec.
 
 44945. Disposition of unclaimed money and clothing.
 
+44946. Aviation Security Advisory Committee.
+
 #### Amendments ####
 
-**2014**—Pub. L. 113–221, §2(b), Dec. 16, 2014, 128 Stat. 2094, which directed amendment of analysis for title 49 by adding item 44928 after item 44927, was executed by adding item 44928 to analysis for this chapter, to reflect the probable intent of Congress.
+**2014**—Pub. L. 113–238, §2(b), Dec. 18, 2014, 128 Stat. 2846, which directed amendment of analysis for subchapter II of chapter 449 of title 49 by adding item 44946 at the end, was executed by adding item 44946 to analysis for this chapter to reflect the probable intent of Congress.
+
+Pub. L. 113–221, §2(b), Dec. 16, 2014, 128 Stat. 2094, which directed amendment of analysis for title 49 by adding item 44928 after item 44927, was executed by adding item 44928 to analysis for this chapter, to reflect the probable intent of Congress.
 
 **2013**—Pub. L. 113–27, §2(b), Aug. 9, 2013, 127 Stat. 504, which directed amendment of analysis for subchapter I of chapter 449 by adding item 44927 after item 44926, was executed by adding item 44927 to analysis for this chapter to reflect the probable intent of Congress.
 

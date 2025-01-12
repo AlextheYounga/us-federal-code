@@ -6,13 +6,13 @@ TITLE 11—APPENDIX
 FEDERAL RULES OF BANKRUPTCY PROCEDURE
 ==========
 
-(Effective August 1, 1983, as amended to January 2, 2014)
+(Effective August 1, 1983, as amended to January 5, 2015)
 
 #### Historical Note ####
 
 The Federal Rules of Bankruptcy Procedure were adopted by order of the Supreme Court on Apr. 25, 1983, transmitted to Congress by the Chief Justice on the same day, and became effective Aug. 1, 1983.
 
-The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013.
+The Rules have been amended Aug. 30, 1983, Pub. L. 98–91, §2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98–353, title III, §321, 98 Stat. 357; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L. 103–394, title I, §114, 108 Stat. 4118; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014.
 
 Rule
 
@@ -348,45 +348,61 @@ Rule
 
 #### PART VIII. APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL ####
 
-8001. Manner of Taking Appeal; Voluntary Dismissal; Certification to Court of Appeals.
+8001. Scope of Part VIII Rules; Definition of "BAP"; Method of Transmission.
 
 8002. Time for Filing Notice of Appeal.
 
-8003. Leave to Appeal.
+8003. Appeal as of Right—How Taken; Docketing the Appeal.
 
-8004. Service of the Notice of Appeal.
+8004. Appeal by Leave—How Taken; Docketing the Appeal.
 
-8005. Stay Pending Appeal.
+8005. Election to Have an Appeal Heard by the District Court Instead of the BAP.
 
-8006. Record and Issues on Appeal.
+8006. Certifying a Direct Appeal to the Court of Appeals.
 
-8007. Completion and Transmission of the Record; Docketing of the Appeal.
+8007. Stay Pending Appeal; Bonds; Suspension of Proceedings.
 
-8008. Filing and Service.
+8008. Indicative Rulings.
 
-8009. Briefs and Appendix; Filing and Service.
+8009. Record on Appeal; Sealed Documents.
 
-8010. Form of Briefs; Length.
+8010. Completing and Transmitting the Record.
 
-8011. Motions.
+8011. Filing and Service; Signature.
 
-8012. Oral Argument.
+8012. Corporate Disclosure Statement.
 
-8013. Disposition of Appeal; Weight Accorded Bankruptcy Judge's Findings of Fact.
+8013. Motions; Intervention.
 
-8014. Costs.
+8014. Briefs.
 
-8015. Motion for Rehearing.
+8015. Form and Length of Briefs; Form of Appendices and Other Papers.
 
-8016. Duties of Clerk of District Court and Bankruptcy Appellate Panel.
+8016. Cross-Appeals.
 
-8017. Stay of Judgment of District Court or Bankruptcy Appellate Panel.
+8017. Brief of an Amicus Curiae.
 
-8018. Rules by Circuit Councils and District Courts; Procedure When There is No Controlling Law.
+8018. Serving and Filing Briefs; Appendices.
 
-8019. Suspension of Rules in Part VIII.
+8019. Oral Argument.
 
-8020. Damages and Costs for Frivolous Appeal.
+8020. Frivolous Appeal and Other Misconduct.
+
+8021. Costs.
+
+8022. Motion for Rehearing.
+
+8023. Voluntary Dismissal.
+
+8024. Clerk's Duties on Disposition of the Appeal.
+
+8025. Stay of a District Court or BAP Judgment.
+
+8026. Rules by Circuit Councils and District Courts; Procedure When There is No Controlling Law.
+
+8027. Notice of a Mediation Procedure.
+
+8028. Suspension of Rules in Part VIII.
 
 #### PART IX. GENERAL PROVISIONS ####
 
@@ -1174,9 +1190,9 @@ Reference to the Official Form number is deleted in anticipation of future revis
 
 (2) *Cases Filed in Improper District*. If a petition is filed in an improper district, the court, on the timely motion of a party in interest or on its own motion, and after hearing on notice to the petitioners, the United States trustee, and other entities as directed by the court, may dismiss the case or transfer it to any other district if the court determines that transfer is in the interest of justice or for the convenience of the parties.
 
-(b) Procedure When Petitions Involving the Same Debtor or Related Debtors Are Filed in Different Courts. If petitions commencing cases under the Code or seeking recognition under chapter 15 are filed in different districts by, regarding, or against (1) the same debtor, (2) a partnership and one or more of its general partners, (3) two or more general partners, or (4) a debtor and an affiliate, on motion filed in the district in which the petition filed first is pending and after hearing on notice to the petitioners, the United States trustee, and other entities as directed by the court, the court may determine, in the interest of justice or for the convenience of the parties, the district or districts in which the case or cases should proceed. Except as otherwise ordered by the court in the district in which the petition filed first is pending, the proceedings on the other petitions shall be stayed by the courts in which they have been filed until the determination is made.
+(b) Procedure When Petitions Involving the Same Debtor or Related Debtors are Filed in Different Courts. If petitions commencing cases under the Code or seeking recognition under chapter 15 are filed in different districts by, regarding, or against (1) the same debtor, (2) a partnership and one or more of its general partners, (3) two or more general partners, or (4) a debtor and an affiliate, the court in the district in which the first-filed petition is pending may determine, in the interest of justice or for the convenience of the parties, the district or districts in which any of the cases should proceed. The court may so determine on motion and after a hearing, with notice to the following entities in the affected cases: the United States trustee, entities entitled to notice under Rule 2002(a), and other entities as the court directs. The court may order the parties to the later-filed cases not to proceed further until it makes the determination.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 28, 2010, eff. Dec. 1, 2010.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -1217,6 +1233,16 @@ Other amendments are stylistic.
 Other changes are stylistic.
 
 *Changes Made After Publication*. No changes since publication.
+
+#### Committee Notes on Rules—2014 Amendment ####
+
+Subdivision (b) provides a practical solution for resolving venue issues when related cases are filed in different districts. It designates the court in which the first-filed petition is pending as the decision maker if a party seeks a determination of where the related cases should proceed. Subdivision (b) is amended to clarify when proceedings in the subsequently filed cases are stayed. It requires an order of the court in which the first-filed petition is pending to stay proceedings in the related cases. Requiring a court order to trigger the stay will prevent the disruption of other cases unless there is a judicial determination that this subdivision of the rule applies and that a stay of related cases is needed while the court makes its venue determination.
+
+Notice of the hearing must be given to all debtors, trustees, creditors, indenture trustees, and United States trustees in the affected cases, as well as any other entity that the court directs. Because the clerk of the court that makes the determination often may lack access to the names and addresses of entities in other cases, a court may order the moving party to provide notice.
+
+The other changes to subdivision (b) are stylistic.
+
+*Changes Made After Publication and Comment*. The only change made after publication and comment was stylistic.
 
 ### Rule 1015. Consolidation or Joint Administration of Cases Pending in Same Court ###
 
@@ -5644,7 +5670,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (d) Nationwide Service of Process. The summons and complaint and all other process except a subpoena may be served anywhere in the United States.
 
-(e) Summons: Time Limit for Service Within the United States. Service made under Rule 4(e), (g), (h)(1), (i), or (j)(2) F.R.Civ.P. shall be by delivery of the summons and complaint within 14 days after the summons is issued. If service is by any authorized form of mail, the summons and complaint shall be deposited in the mail within 14 days after the summons is issued. If a summons is not timely delivered or mailed, another summons shall be issued and served. This subdivision does not apply to service in a foreign country.
+(e) Summons: Time Limit for Service Within the United States. Service made under Rule 4(e), (g), (h)(1), (i), or (j)(2) F.R.Civ.P. shall be by delivery of the summons and complaint within 7 days after the summons is issued. If service is by any authorized form of mail, the summons and complaint shall be deposited in the mail within 7 days after the summons is issued. If a summons is not timely delivered or mailed, another summons will be issued for service. This subdivision does not apply to service in a foreign country.
 
 (f) Personal Jurisdiction. If the exercise of jurisdiction is consistent with the Constitution and laws of the United States, serving a summons or filing a waiver of service in accordance with this rule or the subdivisions of Rule 4 F.R.Civ.P. made applicable by these rules is effective to establish personal jurisdiction over the person of any defendant with respect to a case under the Code or a civil proceeding arising under the Code, or arising in or related to a case under the Code.
 
@@ -5658,7 +5684,7 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (3) the institution has waived in writing its entitlement to service by certified mail by designating an officer to receive service.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Pub. L. 103–394, title I, §114, Oct. 22, 1994, 108 Stat. 4118; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Pub. L. 103–394, title I, §114, Oct. 22, 1994, 108 Stat. 4118; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -5802,6 +5828,12 @@ The rule is amended to implement changes in connection with the amendment to Rul
 
 • 25-day periods become 28-day periods
 
+#### Committee Notes on Rules—2014 Amendment ####
+
+Subdivision (e) is amended to alter the period of time during which service of the summons and complaint must be made. The amendment reduces that period from fourteen days to seven days after issuance of the summons. Because Rule 7012 provides that the defendant's time to answer the complaint is calculated from the date the summons is issued, a lengthy delay between issuance and service of the summons may unduly shorten the defendant's time to respond. The amendment is therefore intended to encourage prompt service after issuance of a summons. If service of the summons within any seven-day period is impracticable, a court retains the discretion to enlarge that period of time under Rule 9006(b).
+
+*Changes Made After Publication and Comment*. A new sentence referring to the availability of an enlargement of time under Rule 9006(b) was added to the Committee Note. The only other change made after publication and comment was stylistic.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
@@ -5866,15 +5898,21 @@ The rule is amended to clarify that a party must file a corporate ownership stat
 
 ### Rule 7008. General Rules of Pleading ###
 
-(a) Applicability of Rule 8 F.R.Civ.P. Rule 8 F.R.Civ.P. applies in adversary proceedings. The allegation of jurisdiction required by Rule 8(a) shall also contain a reference to the name, number, and chapter of the case under the Code to which the adversary proceeding relates and to the district and division where the case under the Code is pending. In an adversary proceeding before a bankruptcy judge, the complaint, counterclaim, cross-claim, or third-party complaint shall contain a statement that the proceeding is core or non-core and, if non-core, that the pleader does or does not consent to entry of final orders or judgment by the bankruptcy judge.
+Rule 8 F.R.Civ.P. applies in adversary proceedings. The allegation of jurisdiction required by Rule 8(a) shall also contain a reference to the name, number, and chapter of the case under the Code to which the adversary proceeding relates and to the district and division where the case under the Code is pending. In an adversary proceeding before a bankruptcy judge, the complaint, counterclaim, cross-claim, or third-party complaint shall contain a statement that the proceeding is core or non-core and, if non-core, that the pleader does or does not consent to entry of final orders or judgment by the bankruptcy judge.
 
-(b) Attorney's Fees. A request for an award of attorney's fees shall be pleaded as a claim in a complaint, cross-claim, third-party complaint, answer, or reply as may be appropriate.
-
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
 #### Notes of Advisory Committee on Rules—1987 Amendment ####
 
 Proceedings before a bankruptcy judge are either core or non-core. 28 U.S.C. §157. A bankruptcy judge may enter a final order or judgment in a core proceeding. In a non-core proceeding, absent consent of the parties, the bankruptcy judge may not enter a final order or judgment but may only submit proposed findings of fact and conclusions of law to the district judge who will enter the final order or judgment. 28 U.S.C. §157(c)(1). The amendment to subdivision (a) of this rule requires an allegation as to whether a proceeding is core or non-core. A party who alleges that the proceeding is non-core shall state whether the party does or does not consent to the entry of a final order or judgment by the bankruptcy judge. Failure to include the statement of consent does not constitute consent. Only express consent in the pleadings or otherwise is effective to authorize entry of a final order or judgment by the bankruptcy judge in a non-core proceeding. Amendments to Rule 7012 require that the defendant admit or deny the allegation as to whether the proceeding is core or non-core.
+
+#### Committee Notes on Rules—2014 Amendment ####
+
+The rule is amended to delete subdivision (b), which required a request for attorney's fees always to be pleaded as a claim in an allowed pleading. That requirement, which differed from the practice under the Federal Rules of Civil Procedure, had the potential to serve as a trap for the unwary.
+
+The procedures for seeking an award of attorney's fees are now set out in Rule 7054(b)(2), which makes applicable most of the provisions of Rule 54(d)(2) F.R.Civ.P. As specified by Rule 54(d)(2)(A) and (B) F.R.Civ.P., a claim for attorney's fees must be made by a motion filed no later than 14 days after entry of the judgment unless the governing substantive law requires those fees to be proved at trial as an element of damages. When fees are an element of damages, such as when the terms of a contract provide for the recovery of fees incurred prior to the instant adversary proceeding, the general pleading requirements of this rule still apply.
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
 #### References in Text ####
 
@@ -6282,9 +6320,17 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 
 (a) Judgments. Rule 54(a)–(c) F.R.Civ.P. applies in adversary proceedings.
 
-(b) Costs. The court may allow costs to the prevailing party except when a statute of the United States or these rules otherwise provides. Costs against the United States, its officers and agencies shall be imposed only to the extent permitted by law. Costs may be taxed by the clerk on 14 days' notice; on motion served within seven days thereafter, the action of the clerk may be reviewed by the court.
+(b) Costs; Attorney's Fees.
 
-(As amended Apr. 23, 2012, eff. Dec. 1, 2012.)
+(1) *Costs Other Than Attorney's Fees*. The court may allow costs to the prevailing party except when a statute of the United States or these rules otherwise provides. Costs against the United States, its officers and agencies shall be imposed only to the extent permitted by law. Costs may be taxed by the clerk on 14 days' notice; on motion served within seven days thereafter, the action of the clerk may be reviewed by the court.
+
+(2) *Attorney's Fees.*
+
+(A) Rule 54(d)(2)(A)–(C) and (E) F.R.Civ.P. applies in adversary proceedings except for the reference in Rule 54(d)(2)(C) to Rule 78.
+
+(B) By local rule, the court may establish special procedures to resolve fee-related issues without extensive evidentiary hearings.
+
+(As amended Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
 #### Committee Notes on Rules—2012 Amendment ####
 
@@ -6301,6 +6347,18 @@ The Federal Rules of Civil Procedure, referred to in text, are set out in the Ap
 • 25-day periods became 28-day periods.
 
 *Changes Made After Publication*. No changes were made after publication.
+
+#### Committee Notes on Rules—2014 Amendment ####
+
+Subdivision (b) is amended to prescribe the procedure for seeking an award of attorney's fees and related nontaxable expenses in adversary proceedings. It does so by adding new paragraph (2) that incorporates most of the provisions of Rule 54(d)(2) F.R.Civ.P. The title of subdivision (b) is amended to reflect the new content, and the previously existing provision governing costs is renumbered as paragraph (1) and re-titled.
+
+As provided in Rule 54(d)(2)(A), new subsection (b)(2) does not apply to fees recoverable as an element of damages, as when sought under the terms of a contract providing for the recovery of fees incurred prior to the instant adversary proceeding. Such fees typically are required to be claimed in a pleading.
+
+Rule 54(d)(2)(D) F.R.Civ.P. does not apply in adversary proceedings insofar as it authorizes the referral of fee matters to a master or a magistrate judge. The use of masters is not authorized in bankruptcy cases, see Rule 9031, and 28 U.S.C. §636 does not authorize a magistrate judge to exercise jurisdiction upon referral by a bankruptcy judge. The remaining provision of Rule 54(d)(2)(D) is expressed in subdivision (b)(2)(B) of this rule.
+
+Rule 54(d)(2)(C) refers to Rule 78 F.R.Civ.P., which is not applicable in adversary proceedings. Accordingly, that reference is not incorporated by this rule.
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
 #### References in Text ####
 
@@ -6442,633 +6500,1475 @@ On motion and after a hearing, the court may transfer an adversary proceeding or
 
 The reference to the venue section of title 28 is amended to conform to the 1984 amendments to title 28.
 
-### PART VIII—APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL ###
+### PART VIII—APPEALS TO DISTRICT COURT OR BANKRUPTCY APPELLATE PANEL <sup><a href="#I_1_target" name="I_1">1</a></sup> ###
 
-### Rule 8001. Manner of Taking Appeal; Voluntary Dismissal; Certification to Court of Appeals ###
+[<sup>1</sup> The 2014 amendments to Part VIII of the Bankruptcy Rules are comprehensive. Proposed amendment of the heading, "Part VIII. Bankruptcy Appeals", was not transmitted for Congressional review.](#I_1)
 
-(a) Appeal as of Right; How Taken. An appeal from a judgment, order, or decree of a bankruptcy judge to a district court or bankruptcy appellate panel as permitted by 28 U.S.C. §158(a)(1) or (a)(2) shall be taken by filing a notice of appeal with the clerk within the time allowed by Rule 8002. An appellant's failure to take any step other than timely filing a notice of appeal does not affect the validity of the appeal, but is ground only for such action as the district court or bankruptcy appellate panel deems appropriate, which may include dismissal of the appeal. The notice of appeal shall (1) conform substantially to the appropriate Official Form, (2) contain the names of all parties to the judgment, order, or decree appealed from and the names, addresses, and telephone numbers of their respective attorneys, and (3) be accompanied by the prescribed fee. Each appellant shall file a sufficient number of copies of the notice of appeal to enable the clerk to comply promptly with Rule 8004.
+### Rule 8001. Scope of Part VIII Rules; Definition of "BAP"; Method of Transmission ###
 
-(b) Appeal by Leave; How Taken. An appeal from an interlocutory judgment, order, or decree of a bankruptcy judge as permitted by 28 U.S.C. §158(a)(3) shall be taken by filing a notice of appeal, as prescribed in subdivision (a) of this rule, accompanied by a motion for leave to appeal prepared in accordance with Rule 8003 and with proof of service in accordance with Rule 8008.
+(a) General Scope. These Part VIII rules govern the procedure in a United States district court and a bankruptcy appellate panel on appeal from a judgment, order, or decree of a bankruptcy court. They also govern certain procedures on appeal to a United States court of appeals under 28 U.S.C. §158(d).
 
-(c) Voluntary Dismissal.
+(b) Definition of "BAP." "BAP" means a bankruptcy appellate panel established by a circuit's judicial council and authorized to hear appeals from a bankruptcy court under 28 U.S.C. §158.
 
-(1) *Before Docketing*. If an appeal has not been docketed, the appeal may be dismissed by the bankruptcy judge on the filing of a stipulation for dismissal signed by all the parties, or on motion and notice by the appellant.
+(c) Method of Transmitting Documents. A document must be sent electronically under these Part VIII rules, unless it is being sent by or to an individual who is not represented by counsel or the court's governing rules permit or require mailing or other means of delivery.
 
-(2) *After Docketing*. If an appeal has been docketed and the parties to the appeal sign and file with the clerk of the district court or the clerk of the bankruptcy appellate panel an agreement that the appeal be dismissed and pay any court costs or fees that may be due, the clerk of the district court or the clerk of the bankruptcy appellate panel shall enter an order dismissing the appeal. An appeal may also be dismissed on motion of the appellant on terms and conditions fixed by the district court or bankruptcy appellate panel.
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
-[(d) Effect of Taking a Direct Appeal to the Court of Appeals] (Abrogated Mar. 30, 1987, eff. Aug. 1, 1987)
+#### Prior Rule ####
 
-(e) Election To Have Appeal Heard by District Court Instead of Bankruptcy Appellate Panel; Withdrawal of Election.
+A prior Rule 8001, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009, related to manner of taking appeal, voluntary dismissal, and certification to court of appeals, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
 
-(1) *Separate Writing for Election*. An election to have an appeal heard by the district court under 28 U.S.C. §158(c)(1) may be made only by a statement of election contained in a separate writing filed within the time prescribed by 28 U.S.C. §158(c)(1).
+#### Committee Notes on Rules—2014 ####
 
-(2) *Withdrawal of Election*. A request to withdraw the election may be filed only by written stipulation of all the parties to the appeal or their attorneys of record. Upon such a stipulation, the district court may either transfer the appeal to the bankruptcy appellate panel or retain the appeal in the district court.
+These Part VIII rules apply to appeals under 28 U.S.C. §158(a) from bankruptcy courts to district courts and BAPs. The Federal Rules of Appellate Procedure generally govern bankruptcy appeals to courts of appeals.
 
-(f) Certification for Direct Appeal to Court of Appeals.
+Eight of the Part VIII rules do, however, relate to appeals to courts of appeals. Rule 8004(e) provides that the authorization by a court of appeals of a direct appeal of a bankruptcy court's interlocutory order or decree constitutes a grant of leave to appeal. Rule 8006 governs the procedure for certification under 28 U.S.C. §158(d)(2) of a direct appeal from a judgment, order, or decree of a bankruptcy court to a court of appeals. Rule 8007 addresses stays pending a direct appeal to a court of appeals. Rule 8008 authorizes a bankruptcy court to issue an indicative ruling while an appeal is pending in a court of appeals. Rules 8009 and 8010 govern the record on appeal in a direct appeal to a court of appeals. Rule 8025 governs the granting of a stay of a district court or BAP judgment pending an appeal to the court of appeals. And Rule 8028 authorizes the court of appeals to suspend applicable Part VIII rules in a particular case, subject to certain enumerated exceptions.
 
-(1) *Timely Appeal Required*. A certification of a judgment, order, or decree of a bankruptcy court to a court of appeals under 28 U.S.C. §158(d)(2) shall not be effective until a timely appeal has been taken in the manner required by subdivisions (a) or (b) of this rule and the notice of appeal has become effective under Rule 8002.
+These rules take account of the evolving technology in the federal courts for the electronic filing, storage, and transmission of documents. Except as applied to pro se parties, the Part VIII rules require documents to be sent electronically, unless applicable court rules or orders expressly require or permit another means of sending a particular document.
 
-(2) *Court Where Certification Made and Filed*. A certification that a circumstance specified in 28 U.S.C. §158(d)(2)(A)(i)–(iii) exists shall be filed in the court in which a matter is pending for purposes of 28 U.S.C. §158(d)(2) and this rule. A matter is pending in a bankruptcy court until the docketing, in accordance with Rule 8007(b), of an appeal taken under 28 U.S.C. §158(a)(1) or (2), or the grant of leave to appeal under 28 U.S.C. §158(a)(3). A matter is pending in a district court or bankruptcy appellate panel after the docketing, in accordance with Rule 8007(b), of an appeal taken under 28 U.S.C. §158(a)(1) or (2), or the grant of leave to appeal under 28 U.S.C. §158(a)(3).
-
-(A) *Certification by Court on Request or Court's Own Initiative.*
-
-(i) Before Docketing or Grant of Leave to Appeal. Only a bankruptcy court may make a certification on request or on its own initiative while the matter is pending in the bankruptcy court.
-
-(ii) After Docketing or Grant of Leave to Appeal. Only the district court or bankruptcy appellate panel involved may make a certification on request of the parties or on its own initiative while the matter is pending in the district court or bankruptcy appellate panel.
-
-(B) *Certification by All Appellants and Appellees Acting Jointly*. A certification by all the appellants and appellees, if any, acting jointly may be made by filing the appropriate Official Form with the clerk of the court in which the matter is pending. The certification may be accompanied by a short statement of the basis for the certification, which may include the information listed in subdivision (f)(3)(C) of this rule.
-
-(3) *Request for Certification; Filing; Service; Contents.*
-
-(A) A request for certification shall be filed, within the time specified by 28 U.S.C. §158(d)(2), with the clerk of the court in which the matter is pending.
-
-(B) Notice of the filing of a request for certification shall be served in the manner required for service of a notice of appeal under Rule 8004.
-
-(C) A request for certification shall include the following:
-
-(i) the facts necessary to understand the question presented;
-
-(ii) the question itself;
-
-(iii) the relief sought;
-
-(iv) the reasons why the appeal should be allowed and is authorized by statute or rule, including why a circumstance specified in 28 U.S.C. §158(d)(2)(A)(i)–(iii) exists; and
-
-(v) an attached copy of the judgment, order, or decree complained of and any related opinion or memorandum.
-
-(D) A party may file a response to a request for certification or a cross request within 14 days after the notice of the request is served, or another time fixed by the court.
-
-(E) Rule 9014 does not govern a request, cross request, or any response. The matter shall be submitted without oral argument unless the court otherwise directs.
-
-(F) A certification of an appeal under 28 U.S.C. §158(d)(2) shall be made in a separate document served on the parties.
-
-(4) *Certification on Court's Own Initiative.*
-
-(A) A certification of an appeal on the court's own initiative under 28 U.S.C. §158(d)(2) shall be made in a separate document served on the parties in the manner required for service of a notice of appeal under Rule 8004. The certification shall be accompanied by an opinion or memorandum that contains the information required by subdivision (f)(3)(C)(i)–(iv) of this rule.
-
-(B) A party may file a supplementary short statement of the basis for certification within 14 days after the certification.
-
-(5) *Duties of Parties After Certification*. A petition for permission to appeal in accordance with F.R.App.P. 5 shall be filed no later than 30 days after a certification has become effective as provided in subdivision (f)(1).
-
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
-
-#### Notes of Advisory Committee on Rules—1983 ####
-
-These rules in Part VIII apply only to appeals to the district courts or bankruptcy appellate panels. Subsequent appeals to the courts of appeals, or direct appeals by agreement of the parties under 28 U.S.C. §1293(b), are governed by the Federal Rules of Appellate Procedure.
-
-*Subdivisions (a) and (b)* require that a notice of appeal be filed whenever a litigant seeks to secure appellate review by the district court or bankruptcy appellate panel. An appeal from an interlocutory order which will be heard only if leave is granted under 28 U.S.C. §§1334(b) or 1482(b) is taken by filing a notice of appeal accompanied by a motion for leave to appeal which complies with the requirements set forth in Rule 8003. Rule 8003 also governs other aspects of interlocutory appeals.
-
-*Subdivision (c)* is an adaptation of Rule 42 F.R.App.P.
-
-*Subdivision (d)* deals with the situation in which an appellant perfects an appeal to the district court or a bankruptcy appellate panel and also a direct appeal pursuant to 28 U.S.C. §1293(b) to the court of appeals. This subdivision provides that once the appeal to the court of appeals is taken, a notice of appeal to the district court or bankruptcy appellate panel shall be dismissed and, if the first appeal is to the district court or bankruptcy appellate panel, the first appeal shall be dismissed. Paragraph (3) gives an appellant or cross appellant an opportunity to file an appeal to the district court or bankruptcy appellate panel if the court of appeals dismisses the direct appeal because the judgment, order, or decree appealed from is not final. Since the court of appeals has determined the judgment, order, or decree is not final, the new appeal is an appeal for which leave is necessary.
-
-#### Notes of Advisory Committee on Rules—1987 Amendment ####
-
-*Subdivisions (a) and (b)* are amended to conform to the 1984 amendments.
-
-*Subdivision (d)* is abrogated because there is no direct appeal to the court of appeals under 28 U.S.C. §158, as enacted by the 1984 amendments.
-
-*Subdivision (e)* is new. Section 158(b)(1) of title 28 authorizes the circuit councils to establish bankruptcy appellate panels. Appeals may not be heard by these panels unless the district court authorizes the referral and all parties to the appeal consent. This rule requires that the parties consent to such an appeal; however, the method of consenting to an appeal may be the subject of a rule promulgated by a circuit council under Rule 8018.
-
-#### Notes of Advisory Committee on Rules—1991 Amendment ####
-
-Reference to the Official Form number is deleted in anticipation of future revision and renumbering of the Official Forms.
-
-#### Notes of Advisory Committee on Rules—1997 Amendment ####
-
-This rule is amended to conform to the Bankruptcy Reform Act of 1994 which amended 28 U.S.C. §158. As amended, a party may—without obtaining leave of the court—appeal from an interlocutory order or decree of the bankruptcy court issued under §1121(d) of the Code increasing or reducing the time periods referred to in §1121.
-
-*Subdivision (e)* is amended to provide the procedure for electing under 28 U.S.C. §158(c)(1) to have an appeal heard by the district court instead of the bankruptcy appellate panel service. This subdivision is applicable only if a bankruptcy appellate panel service is authorized under 28 U.S.C. §158(b) to hear the appeal.
-
-*GAP Report on Rule 8001*. The heading of subdivision (e) is amended to clarify that it applies to the election to have an appeal heard by the district court instead of the BAP. The final paragraph of the Committee Note is revised to clarify that subdivision (e) is applicable only if a BAP is authorized to hear the appeal.
-
-#### Committee Notes on Rules—2008 Amendment ####
-
-Subdivision (e) is amended by redesignating the subdivision as (e)(1) and adding new subdivision (e)(2). Subdivision (e)(2) explicitly recognizes the district court's authority to transfer an appeal to the bankruptcy appellate panel on two conditions: first, all of the parties to the appeal must have agreed to request the withdrawal of the election to have the district court hear the appeal; and, second, the district court must decide whether to grant the request for withdrawal. The district court has discretion either to keep the case or transfer it to the bankruptcy appellate panel, which will prevent strategic behavior by parties and avoid the wasting of judicial resources.
-
-Subdivision (f) is added to the rule to implement the 2005 amendments to 28 U.S.C. §158(d). That section authorizes appeals directly to the court of appeals, with that court's consent, upon certification that a ground for the appeal exists under §158(d)(2)(A)(i)–(iii). Certification can be made by the court on its own initiative under subdivision (f)(4), or in response to a request of a party or a majority of the appellants and appellees (if any) under subdivision (f)(3). Certification also can be made by all of the appellants and appellees under subdivision (f)(2)(B). Under subdivision (f)(1), certification is effective only when a timely appeal is commenced under subdivision (a) or (b), and a notice of appeal has been timely filed under Rule 8002. These actions will provide sufficient notice of the appeal to the circuit clerk, so the rule dispenses with the uncodified temporary procedural requirements set out in §1233(b)(4) of the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005, Pub. L. No. 109–8.
-
-The rule adopts a bright-line test for identifying the court in which a matter is pending. Under subdivision (f)(2), the bright-line chosen is the "docketing" under Rule 8007(b) of an appeal of an interlocutory order or decree under 28 U.S.C. §158(a)(2) or a final judgment, order or decree under 28 U.S.C. §158(a)(1), or the granting of leave to appeal any other interlocutory judgment, order or decree under 28 U.S.C. §158(a)(3), whichever is earlier.
-
-To ensure that parties are aware of a certification, the rule requires either that it be made on the Official Form (if being made by all of the parties to the appeal) or on a separate document (whether the certification is made on the court's own initiative or in response to a request by a party). This is particularly important because the rule adopts the bankruptcy practice established by Rule 8001(a) and (b) of requiring a notice of appeal in every instance, including interlocutory orders, of appeals from bankruptcy court orders, judgments, and decrees. Because this requirement is satisfied by filing the notice of appeal that takes the appeal to the district court or bankruptcy appellate panel in the first instance, the rule does not require a separate notice of appeal if a certification occurs after a district court or bankruptcy appellate panel decision.
-
-A certification under subdivision (f)(1) does not place the appeal in the circuit court. Rather, the court of appeals must first authorize the direct appeal. Subdivision (f)(5) therefore provides that any party intending to pursue the appeal in the court of appeals must seek that permission under Rule 5 of the Federal Rules of Appellate Procedure. Subdivision (f)(5) requires that the petition for permission to appeal be filed within 30 days after an effective certification.
-
-*Changes Made After Publication*. The second paragraph of the Committee Note was amended to identify more specifically the different ways in which the certification of a direct appeal to the court of appeals.
-
-#### Committee Notes on Rules—2009 Amendment ####
-
-The rule is amended to implement changes in connection with the amendment to Rule 9006(a) and the manner by which time is computed under the rules. The deadlines in the rule are amended to substitute a deadline that is a multiple of seven days. Throughout the rules, deadlines are amended in the following manner:
-
-• 5-day periods become 7-day periods
-
-• 10-day periods become 14-day periods
-
-• 15-day periods become 14-day periods
-
-• 20-day periods become 21-day periods
-
-• 25-day periods become 28-day periods
-
-#### References in Text ####
-
-The Federal Rules of Appellate Procedure, referred to in subd. (f)(5), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
 ### Rule 8002. Time for Filing Notice of Appeal ###
 
-(a) Fourteen-Day Period. The notice of appeal shall be filed with the clerk within 14 days of the date of the entry of the judgment, order, or decree appealed from. If a timely notice of appeal is filed by a party, any other party may file a notice of appeal within 14 days of the date on which the first notice of appeal was filed, or within the time otherwise prescribed by this rule, whichever period last expires. A notice of appeal filed after the announcement of a decision or order but before entry of the judgment, order, or decree shall be treated as filed after such entry and on the day thereof. If a notice of appeal is mistakenly filed with the district court or the bankruptcy appellate panel, the clerk of the district court or the clerk of the bankruptcy appellate panel shall note thereon the date on which it was received and transmit it to the clerk and it shall be deemed filed with the clerk on the date so noted.
+(a) In General.
 
-(b) Effect of Motion on Time for Appeal. If any party makes a timely motion of a type specified immediately below, the time for appeal for all parties runs from the entry of the order disposing of the last such motion outstanding. This provision applies to a timely motion:
+(1) *Fourteen-Day Period*. Except as provided in subdivisions (b) and (c), a notice of appeal must be filed with the bankruptcy clerk within 14 days after entry of the judgment, order, or decree being appealed.
 
-(1) to amend or make additional findings of fact under Rule 7052, whether or not granting the motion would alter the judgment;
+(2) *Filing Before the Entry of Judgment*. A notice of appeal filed after the bankruptcy court announces a decision or order—but before entry of the judgment, order, or decree—is treated as filed on the date of and after the entry.
 
-(2) to alter or amend the judgment under Rule 9023;
+(3) *Multiple Appeals*. If one party files a timely notice of appeal, any other party may file a notice of appeal within 14 days after the date when the first notice was filed, or within the time otherwise allowed by this rule, whichever period ends later.
 
-(3) for a new trial under Rule 9023; or
+(4) *Mistaken Filing in Another Court*. If a notice of appeal is mistakenly filed in a district court, BAP, or court of appeals, the clerk of that court must state on the notice the date on which it was received and transmit it to the bankruptcy clerk. The notice of appeal is then considered filed in the bankruptcy court on the date so stated.
 
-(4) for relief under Rule 9024 if the motion is filed no later than 14 days after the entry of judgment. A notice of appeal filed after announcement or entry of the judgment, order, or decree but before disposition of any of the above motions is ineffective to appeal from the judgment, order, or decree, or part thereof, specified in the notice of appeal, until the entry of the order disposing of the last such motion outstanding. Appellate review of an order disposing of any of the above motions requires the party, in compliance with Rule 8001, to amend a previously filed notice of appeal. A party intending to challenge an alteration or amendment of the judgment, order, or decree shall file a notice, or an amended notice, of appeal within the time prescribed by this Rule 8002 measured from the entry of the order disposing of the last such motion outstanding. No additional fees will be required for filing an amended notice.
+(b) Effect of a Motion on the Time to Appeal.
 
-(c) Extension of Time for Appeal.
+(1) *In General*. If a party timely files in the bankruptcy court any of the following motions, the time to file an appeal runs for all parties from the entry of the order disposing of the last such remaining motion:
 
-(1) The bankruptcy judge may extend the time for filing the notice of appeal by any party, unless the judgment, order, or decree appealed from:
+(A) to amend or make additional findings under Rule 7052, whether or not granting the motion would alter the judgment;
 
-(A) grants relief from an automatic stay under §362, §922, §1201, or §1301;
+(B) to alter or amend the judgment under Rule 9023;
 
-(B) authorizes the sale or lease of property or the use of cash collateral under §363;
+(C) for a new trial under Rule 9023; or
 
-(C) authorizes the obtaining of credit under §364;
+(D) for relief under Rule 9024 if the motion is filed within 14 days after the judgment is entered.
 
-(D) authorizes the assumption or assignment of an executory contract or unexpired lease under §365;
+(2) *Filing an Appeal Before the Motion is Decided*. If a party files a notice of appeal after the court announces or enters a judgment, order, or decree—but before it disposes of any motion listed in subdivision (b)(1)—the notice becomes effective when the order disposing of the last such remaining motion is entered.
 
-(E) approves a disclosure statement under §1125; or
+(3) *Appealing the Ruling on the Motion*. If a party intends to challenge an order disposing of any motion listed in subdivision (b)(1)—or the alteration or amendment of a judgment, order, or decree upon the motion—the party must file a notice of appeal or an amended notice of appeal. The notice or amended notice must comply with Rule 8003 or 8004 and be filed within the time prescribed by this rule, measured from the entry of the order disposing of the last such remaining motion.
 
-(F) confirms a plan under §943, §1129, §1225, or §1325 of the Code.
+(4) *No Additional Fee*. No additional fee is required to file an amended notice of appeal.
 
-(2) A request to extend the time for filing a notice of appeal must be made by written motion filed before the time for filing a notice of appeal has expired, except that such a motion filed not later than 21 days after the expiration of the time for filing a notice of appeal may be granted upon a showing of excusable neglect. An extension of time for filing a notice of appeal may not exceed 21 days from the expiration of the time for filing a notice of appeal otherwise prescribed by this rule or 14 days from the date of entry of the order granting the motion, whichever is later.
+(c) Appeal by an Inmate Confined in an Institution.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 29, 1994, eff. Aug. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(1) *In General*. If an inmate confined in an institution files a notice of appeal from a judgment, order, or decree of a bankruptcy court, the notice is timely if it is deposited in the institution's internal mail system on or before the last day for filing. If the institution has a system designed for legal mail, the inmate must use that system to receive the benefit of this rule. Timely filing may be shown by a declaration in compliance with 28 U.S.C. §1746 or by a notarized statement, either of which must set forth the date of deposit and state that first-class postage has been prepaid.
 
-#### Notes of Advisory Committee on Rules—1983 ####
+(2) *Multiple Appeals*. If an inmate files under this subdivision the first notice of appeal, the 14-day period provided in subdivision (a)(3) for another party to file a notice of appeal runs from the date when the bankruptcy clerk dockets the first notice.
 
-This rule is an adaptation of Rule 4(a) F.R.App.P. The time to appeal from a judgment, order, or decree of a bankruptcy judge is 10 days, rather than the 30 days provided for in the civil practice. The shortened time is specified in order to obtain prompt appellate review, often important to the administration of a case under the Code. If a timely notice of appeal is filed, other parties have an additional 10 days within which to file a notice of appeal. A notice of appeal filed within the additional 10 day period by an appellee is a cross appeal, but there is a separate appeal if a non-appellee files a notice of appeal within that 10 day period. The district courts and bankruptcy appellate panels have inherent authority to consolidate appeals.
+(d) Extending the Time to Appeal.
 
-*Subdivision (b)* is essentially the same as Rule 4(a)(4) of the F.R.App.P.
+(1) *When the Time May be Extended*. Except as provided in subdivision (d)(2), the bankruptcy court may extend the time to file a notice of appeal upon a party's motion that is filed:
 
-*Subdivision (c)* is similar to former Bankruptcy Rule 802(c). To expedite the disposition of appeals the maximum extension of time is 20 days instead of the 30 days provided by Rule 4(a)(5) of the F.R.App.P. Subject to the exceptions set forth in subdivision (c), the court may extend the time for taking an appeal when a motion for extension is filed after the expiration of the original 10 day period but no later than 20 days after the expiration of the original 10 day period. Orders of the bankruptcy court relating to the sale of property, extension of credit, confirmation of a plan, dismissal or conversion of the case, and approval of the disclosure statement are of such significance to the administration of the case, the parties in interest, and third parties that this subdivision requires that either an appeal or a motion for extension be filed within the original 10 day period.
+(A) within the time prescribed by this rule; or
 
-If a timely notice of appeal is not filed, no appeal may be taken later. Former Bankruptcy Rule 803, which provided that a referee's judgment became final when the appeal period expired, has been omitted as unnecessary.
+(B) within 21 days after that time, if the party shows excusable neglect.
 
-#### Notes of Advisory Committee on Rules—1991 Amendment ####
+(2) *When the Time May Not be Extended*. The bankruptcy court may not extend the time to file a notice of appeal if the judgment, order, or decree appealed from:
 
-*Subdivision (a)* is amended to conform to F.R.App.P. 4(a)(2) which is designed to avoid the loss of the right to appeal when a notice of appeal is filed prematurely.
+(A) grants relief from an automatic stay under §362, 922, 1201, or 1301 of the Code;
 
-*Subdivision (b)(1)* is deleted because Rule 9015 was abrogated in 1987.
+(B) the sale or lease of property or the use of cash collateral under §363 of the Code;
 
-#### Notes of Advisory Committee on Rules—1994 Amendment ####
+(C) authorizes the obtaining of credit under §364 of the Code;
 
-These amendments are intended to conform to the 1993 amendments to F.R.App.P. 4(a)(4) and 6(b)(2)(i).
+(D) authorizes the assumption or assignment of an executory contract or unexpired lease under §365 of the Code;
 
-This rule as amended provides that a notice of appeal filed before the disposition of a specified postjudgment motion will become effective upon disposition of the motion. A notice filed before the filing of one of the specified motions or after the filing of a motion but before disposition of the motion is, in effect, suspended until the motion is disposed of, whereupon, the previously filed notice effectively places jurisdiction in the district court or bankruptcy appellate panel.
+(E) approves a disclosure statement under §1125 of the Code; or
 
-Because a notice of appeal will ripen into an effective appeal upon disposition of a postjudgment motion, in some instances there will be an appeal from a judgment that has been altered substantially because the motion was granted in whole or in part. The appeal may be dismissed for want of prosecution when the appellant fails to meet the briefing schedule. But, the appellee may also move to strike the appeal. When responding to such a motion, the appellant would have an opportunity to state that, even though some relief sought in a postjudgment motion was granted, the appellant still plans to pursue the appeal. Because the appellant's response would provide the appellee with sufficient notice of the appellant's intentions, the rule does not require an additional notice of appeal in that situation.
+(F) confirms a plan under §943, 1129, 1225, or 1325 of the Code.
 
-The amendment provides that a notice of appeal filed before the disposition of a postjudgment tolling motion is sufficient to bring the judgment, order, or decree specified in the original notice of appeal to the district court or bankruptcy appellate panel. If the judgment is altered upon disposition of a postjudgment motion, however, and if a party who has previously filed a notice of appeal wishes to appeal from the disposition of the motion, the party must amend the notice to so indicate. When a party files an amended notice, no additional fees are required because the notice is an amendment of the original and not a new notice of appeal.
+(3) Time Limits on an Extension. No extension of time may exceed 21 days after the time prescribed by this rule, or 14 days after the order granting the motion to extend time is entered, whichever is later.
 
-*Subdivision (b)* is also amended to include, among motions that extend the time for filing a notice of appeal, a motion under Rule 9024 that is filed within 10 days after entry of judgment. The addition of this motion conforms to a similar amendment to F.R.App.P. 4(a)(4) made in 1993, except that a Rule 9024 motion does not toll the time to appeal unless it is filed within the 10-day period. The reason for providing that the motion extends the time to appeal only if it is *filed* within the 10-day period is to enable the court and the parties in interest to determine solely from the court records whether the time to appeal has been extended by a motion for relief under Rule 9024.
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
-#### Notes of Advisory Committee on Rules—1997 Amendment ####
+#### Prior Rule ####
 
-*Subdivision (c)* is amended to provide that a request for an extension of time to file a notice of appeal must be *filed* within the applicable time period. This amendment will avoid uncertainty as to whether the mailing of a motion or an oral request in court is sufficient to request an extension of time, and will enable the court and the parties in interest to determine solely from the court records whether a timely request for an extension has been made.
+A prior Rule 8002, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 29, 1994, eff. Aug. 1, 1994; Apr. 11, 1997, eff. Dec. 1, 1997; Mar. 26, 2009, eff. Dec. 1, 2009, related to time for filing notice of appeal, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
 
-The amendments also give the court discretion to permit a party to file a notice of appeal more than 20 days after expiration of the time to appeal otherwise prescribed, but only if the motion was timely filed and the notice of appeal is filed within a period not exceeding 10 days after entry of the order extending the time. This amendment is designed to protect parties that file timely motions to extend the time to appeal from the harshness of the present rule as demonstrated in *In re Mouradick*, 13 F.3d 326 (9th Cir. 1994), where the court held that a notice of appeal filed within the 3-day period expressly prescribed by an order granting a timely motion for an extension of time did not confer jurisdiction on the appellate court because the notice of appeal was not filed within the 20-day period specified in subdivision (c).
+#### Committee Notes on Rules—2014 ####
 
-The subdivision is amended further to prohibit any extension of time to file a notice of appeal—even if the motion for an extension is filed before the expiration of the original time to appeal—if the order appealed from grants relief from the automatic stay, authorizes the sale or lease of property, use of cash collateral, obtaining of credit, or assumption or assignment of an executory contract or unexpired lease under §365, or approves a disclosure statement or confirms a plan. These types of orders are often relied upon immediately after they are entered and should not be reviewable on appeal after the expiration of the original appeal period under Rule 8002(a) and (b).
+This rule is derived from former Rule 8002 and F.R.App.P. 4(a) and (c). With the exception of subdivision (c), the changes to the former rule are stylistic. The rule retains the former rule's 14-day time period for filing a notice of appeal, as opposed to the longer periods permitted for appeals in civil cases under F.R.App.P. 4(a).	
 
-*GAP Report on Rule 8002*. No changes to the published draft.
+Subdivision (a) continues to allow any other party to file a notice of appeal within 14 days after the first notice of appeal is filed, or thereafter to the extent otherwise authorized by this rule. Subdivision (a) also retains provisions of the former rule that prescribe the date the notice of appeal is deemed filed if the appellant files it prematurely or in the wrong court.
 
-#### Committee Notes on Rules—2009 Amendment ####
+Subdivision (b), like former Rule 8002(b) and F.R.App.P. 4(a), tolls the time for filing a notice of appeal when certain postjudgment motions are filed, and it prescribes the effective date of a notice of appeal that is filed before the court disposes of all of the specified motions. As under the former rule, a party that wants to appeal the court's disposition of the motion or the alteration or amendment of a judgment, order, or decree in response to such a motion must file a notice of appeal or, if it has already filed one, an amended notice of appeal.
 
-The rule is amended to implement changes in connection with the amendment to Rule 9006(a) and the manner by which time is computed under the rules. The deadlines in the rule are amended to substitute a deadline that is a multiple of seven days. Throughout the rules, deadlines are amended in the following manner:
+Although Rule 8003(a)(3)(C) requires a notice of appeal to be accompanied by the required fee, no additional fee is required for the filing of an amended notice of appeal.
 
-• 5-day periods become 7-day periods
+Subdivision (c) mirrors the provisions of F.R.App.P. 4(c)(1) and (2), which specify timing rules for a notice of appeal filed by an inmate confined in an institution.
 
-• 10-day periods become 14-day periods
+Subdivision (d) continues to allow the court to grant an extension of time to file a notice of appeal, except with respect to certain specified judgments, orders, and decrees.
 
-• 15-day periods become 14-day periods
+*Changes Made After Publication and Comment*. Stylistic changes were made to the title of subdivision (b)(3) and to subdivision (c)(1).
 
-• 20-day periods become 21-day periods
+### Rule 8003. Appeal as of Right—How Taken; Docketing the Appeal ###
 
-• 25-day periods become 28-day periods
+(a) Filing the Notice of Appeal.
 
-### Rule 8003. Leave to Appeal ###
+(1) *In General*. An appeal from a judgment, order, or decree of a bankruptcy court to a district court or BAP under 28 U.S.C. §158(a)(1) or (a)(2) may be taken only by filing a notice of appeal with the bankruptcy clerk within the time allowed by Rule 8002.
 
-(a) Content of Motion; Answer. A motion for leave to appeal under 28 U.S.C. §158(a) shall contain: (1) a statement of the facts necessary to an understanding of the questions to be presented by the appeal; (2) a statement of those questions and of the relief sought; (3) a statement of the reasons why an appeal should be granted; and (4) a copy of the judgment, order, or decree complained of and of any opinion or memorandum relating thereto. Within 14 days after service of the motion, an adverse party may file with the clerk an answer in opposition.
+(2) *Effect of Not Taking Other Steps*. An appellant's failure to take any step other than the timely filing of a notice of appeal does not affect the validity of the appeal, but is ground only for the district court or BAP to act as it considers appropriate, including dismissing the appeal.
 
-(b) Transmittal; Determination of Motion. The clerk shall transmit the notice of appeal, the motion for leave to appeal and any answer thereto to the clerk of the district court or the clerk of the bankruptcy appellate panel as soon as all parties have filed answers or the time for filing an answer has expired. The motion and answer shall be submitted without oral argument unless otherwise ordered.
+(3) *Contents*. The notice of appeal must:
 
-(c) Appeal Improperly Taken Regarded as a Motion for Leave to Appeal. If a required motion for leave to appeal is not filed, but a notice of appeal is timely filed, the district court or bankruptcy appellate panel may grant leave to appeal or direct that a motion for leave to appeal be filed. The district court or the bankruptcy appellate panel may also deny leave to appeal but in so doing shall consider the notice of appeal as a motion for leave to appeal. Unless an order directing that a motion for leave to appeal be filed provides otherwise, the motion shall be filed within 14 days of entry of the order.
+(A) conform substantially to the appropriate Official Form;
 
-(d) Requirement of Leave to Appeal. If leave to appeal is required by 28 U.S.C. §158(a) and has not earlier been granted, the authorization of a direct appeal by a court of appeals under 28 U.S.C. §158(d)(2) shall be deemed to satisfy the requirement for leave to appeal.
+(B) be accompanied by the judgment, order, or decree, or the part of it, being appealed; and
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(C) be accompanied by the prescribed fee.
 
-#### Notes of Advisory Committee on Rules—1983 ####
+(4) *Additional Copies*. If requested to do so, the appellant must furnish the bankruptcy clerk with enough copies of the notice to enable the clerk to comply with subdivision (c).
 
-*Subdivisions (a) and (b)* of this rule are derived from Rules 5 and 6 F.R.App.P. The motion for leave to appeal is addressed to the district court or the bankruptcy appellate panel, although filed with the clerk of the bankruptcy court.
+(b) Joint or Consolidated Appeals.
 
-*Subdivision (c)* provides that if a party mistakenly believes the order appealed from is final and files only a notice of appeal, the appeal is not automatically dismissed. The district court or bankruptcy appellate panel has the options to direct that a motion be filed, to decide exclusively on the papers already filed to grant leave to appeal, or to deny leave to appeal. Cf. 28 U.S.C. §2103.
+(1) *Joint Notice of Appeal*. When two or more parties are entitled to appeal from a judgment, order, or decree of a bankruptcy court and their interests make joinder practicable, they may file a joint notice of appeal. They may then proceed on appeal as a single appellant.
 
-#### Committee Notes on Rules—2008 Amendment ####
+(2) *Consolidating Appeals*. When parties have separately filed timely notices of appeal, the district court or BAP may join or consolidate the appeals.
 
-The rule is amended to add subdivision (d) to solve the jurisdictional problem that could otherwise ensue when a district court or bankruptcy appellate panel has not granted leave to appeal under 28 U.S.C. §158(a)(3). If the court of appeals accepts the appeal, the requirement of leave to appeal is deemed satisfied. However, if the court of appeals does not authorize a direct appeal, the question of whether to grant leave to appeal remains a matter to be resolved by the district court or the bankruptcy appellate panel.
+(c) Serving the Notice of Appeal.
 
-*Changes Made After Publication*. No changes were made after publication.
+(1) *Serving Parties and Transmitting to the United States Trustee.* The bankruptcy clerk must serve the notice of appeal on counsel of record for each party to the appeal, excluding the appellant, and transmit it to the United States trustee. If a party is proceeding pro se, the clerk must send the notice of appeal to the party's last known address. The clerk must note, on each copy, the date when the notice of appeal was filed.
 
-#### Committee Notes on Rules—2009 Amendment ####
+(2) *Effect of Failing to Serve or Transmit Notice*. The bankruptcy clerk's failure to serve notice on a party or transmit notice to the United States trustee does not affect the validity of the appeal.
 
-The rule is amended to implement changes in connection with the amendment to Rule 9006(a) and the manner by which time is computed under the rules. The deadlines in the rule are amended to substitute a deadline that is a multiple of seven days. Throughout the rules, deadlines are amended in the following manner:
+(3) *Noting Service on the Docket*. The clerk must note on the docket the names of the parties served and the date and method of the service.
 
-• 5-day periods become 7-day periods
+(d) Transmitting the Notice of Appeal to the District Court or BAP; Docketing the Appeal.
 
-• 10-day periods become 14-day periods
+(1) *Transmitting the Notice*. The bankruptcy clerk must promptly transmit the notice of appeal to the BAP clerk if a BAP has been established for appeals from that district and the appellant has not elected to have the district court hear the appeal. Otherwise, the bankruptcy clerk must promptly transmit the notice to the district clerk.
 
-• 15-day periods become 14-day periods
+(2)*Docketing in the District Court or BAP*. Upon receiving the notice of appeal, the district or BAP clerk must docket the appeal under the title of the bankruptcy case and the title of any adversary proceeding, and must identify the appellant, adding the appellant's name if necessary.
 
-• 20-day periods become 21-day periods
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
-• 25-day periods become 28-day periods
+#### Prior Rule ####
 
-### Rule 8004. Service of the Notice of Appeal ###
+A prior Rule 8003, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009, related to leave to appeal, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
 
-The clerk shall serve notice of the filing of a notice of appeal by mailing a copy thereof to counsel of record of each party other than the appellant or, if a party is not represented by counsel, to the party's last known address. Failure to serve notice shall not affect the validity of the appeal. The clerk shall note on each copy served the date of the filing of the notice of appeal and shall note in the docket the names of the parties to whom copies are mailed and the date of the mailing. The clerk shall forthwith transmit to the United States trustee a copy of the notice of appeal, but failure to transmit such notice shall not affect the validity of the appeal.
+#### Committee Notes on Rules—2014 ####
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+This rule is derived from several former Bankruptcy Rule and Appellate Rule provisions. It addresses appeals as of right, joint and consolidated appeals, service of the notice of appeal, and the timing of the docketing of an appeal in the district court or BAP.
 
-#### Notes of Advisory Committee on Rules—1983 ####
+Subdivision (a) incorporates, with stylistic changes, much of the content of former Rule 8001(a) regarding the taking of an appeal as of right under 28 U.S.C. §158(a)(1) or (2). The rule now requires that the judgment, order, or decree being appealed be attached to the notice of appeal.
 
-This rule is an adaptation of Rule 3(d) F.R.App.P.
+Subdivision (b), which is an adaptation of F.R.App.P. 3(b), permits the filing of a joint notice of appeal by multiple appellants that have sufficiently similar interests that their joinder is practicable. It also allows the district court or BAP to consolidate appeals taken separately by two or more parties.
 
-#### Notes of Advisory Committee on Rules—1991 Amendment ####
+Subdivision (c) is derived from former Rule 8004 and F.R.App.P. 3(d). Under Rule 8001(c), the former rule's requirement that service of the notice of appeal be accomplished by mailing is generally modified to require that the bankruptcy clerk serve counsel by electronic means. Service on pro se parties must be made by sending the notice to the address most recently provided to the court.
 
-This rule is amended to keep the United States trustee informed of the progress of the case.
+Subdivision (d) modifies the provision of former Rule 8007(b), which delayed the docketing of an appeal by the district court or BAP until the record was complete and the bankruptcy clerk transmitted it. The new provision, adapted from F.R.App.P. 3(d) and 12(a), requires the bankruptcy clerk to promptly transmit the notice of appeal to the clerk of the district court or BAP. Upon receipt of the notice of appeal, the district or BAP clerk must docket the appeal. Under this procedure, motions filed in the district court or BAP prior to completion and transmission of the record can generally be placed on the docket of an already pending appeal.
 
-### Rule 8005. Stay Pending Appeal ###
+*Changes Made After Publication and Comment*. In subdivision (d)(2), the direction for docketing a bankruptcy appeal was changed to reflect the fact that many bankruptcy appeals have dual titles—the bankruptcy case itself and the adversary proceeding that is the subject of the appeal. Stylistic changes were made to subdivision (c)(1). Conforming changes were made to the Committee Note.
 
-A motion for a stay of the judgment, order, or decree of a bankruptcy judge, for approval of a supersedeas bond, or for other relief pending appeal must ordinarily be presented to the bankruptcy judge in the first instance. Notwithstanding Rule 7062 but subject to the power of the district court and the bankruptcy appellate panel reserved hereinafter, the bankruptcy judge may suspend or order the continuation of other proceedings in the case under the Code or make any other appropriate order during the pendency of an appeal on such terms as will protect the rights of all parties in interest. A motion for such relief, or for modification or termination of relief granted by a bankruptcy judge, may be made to the district court or the bankruptcy appellate panel, but the motion shall show why the relief, modification, or termination was not obtained from the bankruptcy judge. The district court or the bankruptcy appellate panel may condition the relief it grants under this rule on the filing of a bond or other appropriate security with the bankruptcy court. When an appeal is taken by a trustee, a bond or other appropriate security may be required, but when an appeal is taken by the United States or an officer or agency thereof or by direction of any department of the Government of the United States a bond or other security shall not be required.
+### Rule 8004. Appeal by Leave—How Taken; Docketing the Appeal ###
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+(a) Notice of Appeal and Motion for Leave to Appeal. To appeal from an interlocutory order or decree of a bankruptcy court under 28 U.S.C. §158(a)(3), a party must file with the bankruptcy clerk a notice of appeal as prescribed by Rule 8003(a). The notice must:
 
-#### Notes of Advisory Committee on Rules—1983 ####
+(1) be filed within the time allowed by Rule 8002;
 
-The first, third, and fourth sentences of this rule are adaptations of Rule 8(a) and (b) F.R.App.P. The second sentence of the rule is derived from §39(c) of the Bankruptcy Act and confers on the bankruptcy judge discretion respecting the stay or continuation of other proceedings in the case while an appeal is pending.
+(2) be accompanied by a motion for leave to appeal prepared in accordance with subdivision (b); and
 
-The last sentence of the rule, which specifically subjects a trustee to the same kind of security requirements as other litigants, is derived from former Bankruptcy Rule 805. The exemption of the United States from the bond or security requirements is the same as the exemption contained in Rule 62(e) F.R.Civ.P.
+(3) unless served electronically using the court's transmission equipment, include proof of service in accordance with Rule 8011(d).	
 
-Sections 363(m) and 364(e) of the Code provide that unless an order approving a sale of property, or authorizing the obtaining of credit or the incurring of debt is stayed pending appeal, the sale of property to a good faith purchaser or a good faith extension of credit, with or without any priority or lien, shall not be affected by the reversal or modification of such order on appeal, whether or not the purchaser or creditor knows of the pendency of the appeal.
+(b) Contents of the Motion; Response.
 
-### Rule 8006. Record and Issues on Appeal ###
+(1) *Contents*. A motion for leave to appeal under 28 U.S.C. §158(a)(3) must include the following:
 
-Within 14 days after filing the notice of appeal as provided by Rule 8001(a), entry of an order granting leave to appeal, or entry of an order disposing of the last timely motion outstanding of a type specified in Rule 8002(b), whichever is later, the appellant shall file with the clerk and serve on the appellee a designation of the items to be included in the record on appeal and a statement of the issues to be presented. Within 14 days after the service of the appellant's statement the appellee may file and serve on the appellant a designation of additional items to be included in the record on appeal and, if the appellee has filed a cross appeal, the appellee as cross appellant shall file and serve a statement of the issues to be presented on the cross appeal and a designation of additional items to be included in the record. A cross appellee may, within 14 days of service of the cross appellant's statement, file and serve on the cross appellant a designation of additional items to be included in the record. The record on appeal shall include the items so designated by the parties, the notice of appeal, the judgment, order, or decree appealed from, and any opinion, findings of fact, and conclusions of law of the court. Any party filing a designation of the items to be included in the record shall provide to the clerk a copy of the items designated or, if the party fails to provide the copy, the clerk shall prepare the copy at the party's expense. If the record designated by any party includes a transcript of any proceeding or a part thereof, the party shall, immediately after filing the designation, deliver to the reporter and file with the clerk a written request for the transcript and make satisfactory arrangements for payment of its cost. All parties shall take any other action necessary to enable the clerk to assemble and transmit the record.
+(A) the facts necessary to understand the question presented;
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 29, 1994, eff. Aug. 1, 1994; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(B) the question itself;
 
-#### Notes of Advisory Committee on Rules—1983 ####
+(C) the relief sought;
 
-This rule is an adaptation of Rule 10(b) F.R.App.P. The last sentence of the rule is derived from Rule 11(a) F.R.App.P.
+(D) the reasons why leave to appeal should be granted; and
 
-#### Notes of Advisory Committee on Rules—1991 Amendment ####
+(E) a copy of the interlocutory order or decree and any related opinion or memorandum.
 
-The seven-day time periods are changed to 10 days to conform to Rule 75(b)(2) F.R.Civ.P. and Rule 10(b)(3) F.R.App.P. The amendment requiring a party to provide a copy of the items designated for the record is to facilitate the amendments to Rule 8007 providing for retention by the bankruptcy clerk of the original record.
+(2) *Response*. A party may file with the district or BAP clerk a response in opposition or a cross-motion within 14 days after the motion is served.
 
-#### Notes of Advisory Committee on Rules—1994 Amendment ####
+(c) Transmitting the Notice of Appeal and the Motion; Docketing the Appeal; Determining the Motion.
 
-The amendment to the first sentence of this rule is made together with the amendment to Rule 8002(b), which provides, in essence, that certain specified postjudgment motions suspend a filed notice of appeal until the disposition of the last of such motions. The purpose of this amendment is to suspend the 10-day period for filing and serving a designation of the record and statement of the issues if a timely postjudgment motion is made and a notice of appeal is suspended under Rule 8002(b). The 10-day period set forth in the first sentence of this rule begins to run when the order disposing of the last of such postjudgment motions outstanding is entered. The other amendments to this rule are stylistic.
+(1) *Transmitting to the District Court or BAP*. The bankruptcy clerk must promptly transmit the notice of appeal and the motion for leave to the BAP clerk if a BAP has been established for appeals from that district and the appellant has not elected to have the district court hear the appeal. Otherwise, the bankruptcy clerk must promptly transmit the notice and motion to the district clerk.
 
-#### Committee Notes on Rules—2009 Amendment ####
+(2) *Docketing in the District Court or BAP*. Upon receiving the notice and motion, the district or BAP clerk must docket the appeal under the title of the bankruptcy case and the title of any adversary proceeding, and must identify the appellant, adding the appellant's name if necessary.
 
-The rule is amended to implement changes in connection with the amendment to Rule 9006(a) and the manner by which time is computed under the rules. The deadlines in the rule are amended to substitute a deadline that is a multiple of seven days. Throughout the rules, deadlines are amended in the following manner:
+(3) *Oral Argument Not Required*. The motion and any response or cross-motion are submitted without oral argument unless the district court or BAP orders otherwise.
 
-• 5-day periods become 7-day periods
+(d) Failure to File a Motion With a Notice of Appeal. If an appellant timely files a notice of appeal under this rule but does not include a motion for leave, the district court or BAP may order the appellant to file a motion for leave, or treat the notice of appeal as a motion for leave and either grant or deny it. If the court orders that a motion for leave be filed, the appellant must do so within 14 days after the order is entered, unless the order provides otherwise.
 
-• 10-day periods become 14-day periods
+(e) Direct Appeal to a Court of Appeals. If leave to appeal an interlocutory order or decree is required under 28 U.S.C. §158(a)(3), an authorization of a direct appeal by the court of appeals under 28 U.S.C. §158(d)(2) satisfies the requirement.
 
-• 15-day periods become 14-day periods
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
-• 20-day periods become 21-day periods
+#### Prior Rule ####
 
-• 25-day periods become 28-day periods
+A prior Rule 8004, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991, related to service of the notice of appeal, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
 
-### Rule 8007. Completion and Transmission of the Record; Docketing of the Appeal ###
+#### Committee Notes on Rules—2014 ####
 
-(a) Duty of Reporter To Prepare and File Transcript. On receipt of a request for a transcript, the reporter shall acknowledge on the request the date it was received and the date on which the reporter expects to have the transcript completed and shall transmit the request, so endorsed, to the clerk or the clerk of the bankruptcy appellate panel. On completion of the transcript the reporter shall file it with the clerk and, if appropriate, notify the clerk of the bankruptcy appellate panel. If the transcript cannot be completed within 30 days of receipt of the request the reporter shall seek an extension of time from the clerk or the clerk of the bankruptcy appellate panel and the action of the clerk shall be entered in the docket and the parties notified. If the reporter does not file the transcript within the time allowed, the clerk or the clerk of the bankruptcy appellate panel shall notify the bankruptcy judge.
+This rule is derived from former Rules 8001(b) and 8003 and F.R.App.P. 5. It retains the practice for interlocutory bankruptcy appeals of requiring a notice of appeal to be filed along with a motion for leave to appeal. Like current Rule 8003, it alters the timing of the docketing of the appeal in the district court or BAP.
 
-(b) Duty of Clerk To Transmit Copy of Record; Docketing of Appeal. When the record is complete for purposes of appeal, the clerk shall transmit a copy thereof forthwith to the clerk of the district court or the clerk of the bankruptcy appellate panel. On receipt of the transmission the clerk of the district court or the clerk of the bankruptcy appellate panel shall enter the appeal in the docket and give notice promptly to all parties to the judgment, order, or decree appealed from of the date on which the appeal was docketed. If the bankruptcy appellate panel directs that additional copies of the record be furnished, the clerk of the bankruptcy appellate panel shall notify the appellant and, if the appellant fails to provide the copies, the clerk shall prepare the copies at the expense of the appellant.
+Subdivision (a) requires a party seeking leave to appeal under 28 U.S.C. §158(a)(3) to file with the bankruptcy clerk both a notice of appeal and a motion for leave to appeal.
 
-(c) Record for Preliminary Hearing. If prior to the time the record is transmitted a party moves in the district court or before the bankruptcy appellate panel for dismissal, for a stay pending appeal, for additional security on the bond on appeal or on a supersedeas bond, or for any intermediate order, the clerk at the request of any party to the appeal shall transmit to the clerk of the district court or the clerk of the bankruptcy appellate panel a copy of the parts of the record as any party to the appeal shall designate.
+Subdivision (b) prescribes the contents of the motion, retaining the requirements of former Rule 8003(a). It also continues to allow another party to file a cross-motion or response to the appellant's motion. Because of the prompt docketing of the appeal under the current rule, the cross-motion or response must be filed in the district court or BAP, rather than in the bankruptcy court as the former rule required.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+Subdivision (c) requires the bankruptcy clerk to transmit promptly to the district court or BAP the notice of appeal and the motion for leave to appeal. Upon receipt of the notice and the motion, the district or BAP clerk must docket the appeal. Unless the district court or BAP orders otherwise, no oral argument will be held on the motion.
 
-#### Notes of Advisory Committee on Rules—1983 ####
+Subdivision (d) retains the provisions of former Rule 8003(c). It provides that if the appellant timely files a notice of appeal, but fails to file a motion for leave to appeal, the court can either direct that a motion be filed or treat the notice of appeal as the motion and either grant or deny leave.
 
-*Subdivision (a)* is an adaptation of Rule 11(b) F.R.App.P.
+Subdivision (e), like former Rule 8003(d), treats the authorization of a direct appeal by the court of appeals as a grant of leave to appeal under 28 U.S.C. §158(a)(3) if the district court or BAP has not already granted leave. Thus, a separate order granting leave to appeal is not required. If the court of appeals grants permission to appeal, the record must be assembled and transmitted in accordance with Rules 8009 and 8010.
 
-*Subdivision (b)* is similar to former Bankruptcy Rule 807. The duty of the clerk of the bankruptcy court to transmit the record as soon as the record is complete is derived from the second paragraph of Rule 11(b) F.R.App.P. The last sentence of the subdivision applies to appeals to bankruptcy appellate panels. Additional copies of the record may be needed when the appendix to the brief required under Rule 8009(b) is not adequate in the judgment of the bankruptcy appellate panel for disposition of the appeal. If additional copies are required, the appellant will arrange for the production of the copies; if the appellant fails to do so, the clerk of the bankruptcy appellate panel shall prepare the copies at the expense of the appellant.
+*Changes Made After Publication and Comment*. In subdivision (c)(2), the direction for docketing a bankruptcy appeal was changed to reflect the fact that many bankruptcy appeals have dual titles—the bankruptcy case itself and the adversary proceeding that is the subject of the appeal. As published, subdivision (c)(3) stated that the court must dismiss the appeal if the motion for leave to appeal is denied. That sentence was deleted.
 
-*Subdivision (c)* is derived from subdivisions (c), (e) and (f) of Rule 11 F.R.App.P. and subdivision (d) is essentially the same as Rule 11(b) F.R.App.P.
+### Rule 8005. Election to Have an Appeal Heard by the District Court Instead of the BAP ###
 
-#### Notes of Advisory Committee on Rules—1991 Amendment ####
+(a) Filing of a Statement of Election. To elect to have an appeal heard by the district court, a party must:
 
-This rule is amended to require that the bankruptcy clerk retain the original record and transmit a copy of the record to the clerk of the district court or bankruptcy appellate panel. Transmission of the original documents may cause disruption in the continuing administration of the case in the bankruptcy court.
+(1) file a statement of election that conforms substantially to the appropriate Official Form; and
 
-### Rule 8008. Filing and Service ###
+(2) do so within the time prescribed by 28 U.S.C. §158(c)(1).
 
-(a) Filing. Papers required or permitted to be filed with the clerk of the district court or the clerk of the bankruptcy appellate panel may be filed by mail addressed to the clerk, but filing is not timely unless the papers are received by the clerk within the time fixed for filing, except that briefs are deemed filed on the day of mailing. An original and one copy of all papers shall be filed when an appeal is to the district court; an original and three copies shall be filed when an appeal is to a bankruptcy appellate panel. The district court or bankruptcy appellate panel may require that additional copies be furnished. Rule 5005(a)(2) applies to papers filed with the clerk of the district court or the clerk of the bankruptcy appellate panel if filing by electronic means is authorized by local rule promulgated pursuant to Rule 8018.
+(b) Transmitting the Documents Related to the Appeal. Upon receiving an appellant's timely statement of election, the bankruptcy clerk must transmit to the district clerk all documents related to the appeal. Upon receiving a timely statement of election by a party other than the appellant, the BAP clerk must transmit to the district clerk all documents related to the appeal and notify the bankruptcy clerk of the transmission.
 
-(b) Service of All Papers Required. Copies of all papers filed by any party and not required by these rules to be served by the clerk of the district court or the clerk of the bankruptcy appellate panel shall, at or before the time of filing, be served by the party or a person acting for the party on all other parties to the appeal. Service on a party represented by counsel shall be made on counsel.
+(c) Determining the Validity of an Election. A party seeking a determination of the validity of an election must file a motion in the court where the appeal is then pending. The motion must be filed within 14 days after the statement of election is filed.
 
-(c) Manner of Service. Service may be personal or by mail. Personal service includes delivery of the copy to a clerk or other responsible person at the office of counsel. Service by mail is complete on mailing.
+(d) Motion for Leave Without a Notice of Appeal—Effect on the Timing of an Election. If an appellant moves for leave to appeal under Rule 8004 but fails to file a separate notice of appeal with the motion, the motion must be treated as a notice of appeal for purposes of determining the timeliness of a statement of election.
 
-(d) Proof of Service. Papers presented for filing shall contain an acknowledgment of service by the person served or proof of service in the form of a statement of the date and manner of service and of the names of the persons served, certified by the person who made service. The clerk of the district court or the clerk of the bankruptcy appellate panel may permit papers to be filed without acknowledgment or proof of service but shall require the acknowledgment or proof of service to be filed promptly thereafter.
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 1996, eff. Dec. 1, 1996.)
+#### Prior Rule ####
 
-#### Notes of Advisory Committee on Rules—1983 ####
+A prior Rule 8005, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987, related to stay pending appeal, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
 
-This rule is an adaptation of Rule 25 F.R.App.P. Motions, briefs, appendices when required, statements, and any other filed paper must be accompanied by the specified number of copies. Rules 8001 and 8004 govern the number of copies of the notice of appeal which must be filed.
+#### Committee Notes on Rules—2014 ####
 
-#### Notes of Advisory Committee on Rules—1996 Amendment ####
+This rule, which implements 28 U.S.C. §158(c)(1), is derived from former Rule 8001(e). It applies only in districts in which an appeal to a BAP is authorized.
 
-This rule is amended to permit, but not require, district courts and, where bankruptcy appellate panels have been authorized, circuit councils to adopt local rules that allow filing of documents by electronic means, subject to the limitations contained in Rule 5005(a)(2). See the committee note to the amendments to Rule 5005. Other amendments to this rule are stylistic.
+As the former rule required, subdivision (a) provides that an appellant that elects to have a district court, rather than a BAP, hear its appeal must file with the bankruptcy clerk a statement of election when it files its notice of appeal. The statement must conform substantially to the appropriate Official Form. For appellants, that statement is included in the Notice of Appeal Official Form. If a BAP has been established for appeals from the bankruptcy court and the appellant does not file a timely statement of election, any other party that elects to have the district court hear the appeal must file a statement of election with the BAP clerk no later than 30 days after service of the notice of appeal.
 
-*GAP Report on Rule 8008*. No changes since publication, except for stylistic changes.
+Subdivision (b) requires the bankruptcy clerk to transmit all appeal documents to the district clerk if the appellant files a timely statement of election. If the appellant does not make that election, the bankruptcy clerk must transmit those documents to the BAP clerk. Upon a timely election by any other party, the BAP clerk must promptly transmit the appeal documents to the district clerk and notify the bankruptcy clerk that the appeal has been transferred.
 
-### Rule 8009. Briefs and Appendix; Filing and Service ###
+Subdivision (c) provides a new procedure for the resolution of disputes regarding the validity of an election. A motion seeking the determination of the validity of an election must be filed no later than 14 days after the statement of election is filed. Nothing in this rule prevents a court from determining the validity of an election on its own motion.
 
-(a) Briefs. Unless the district court or the bankruptcy appellate panel by local rule or by order excuses the filing of briefs or specifies different time limits:
+Subdivision (d) provides that, in the case of an appeal by leave, if the appellant files a motion for leave to appeal but fails to file a notice of appeal, the filing and service of the motion will be treated for timing purposes under this rule as the filing and service of the notice of appeal.
 
-(1) The appellant shall serve and file a brief within 14 days after entry of the appeal on the docket pursuant to Rule 8007.
+*Changes Made After Publication and Comment*. In subdivision (b), a requirement was added that the BAP clerk notify the bankruptcy clerk if an appeal is transferred from the BAP to the district court upon the election of an appellee. Conforming and clarifying changes were made to the Committee Note.
 
-(2) The appellee shall serve and file a brief within 14 days after service of the brief of appellant. If the appellee has filed a cross appeal, the brief of the appellee shall contain the issues and argument pertinent to the cross appeal, denominated as such, and the response to the brief of the appellant.
+### Rule 8006. Certifying a Direct Appeal to the Court of Appeals ###
 
-(3) The appellant may serve and file a reply brief within 14 days after service of the brief of the appellee, and if the appellee has cross-appealed, the appellee may file and serve a reply brief to the response of the appellant to the issues presented in the cross appeal within 14 days after service of the reply brief of the appellant. No further briefs may be filed except with leave of the district court or the bankruptcy appellate panel.
+(a) Effective Date of a Certification. A certification of a judgment, order, or decree of a bankruptcy court for direct review in a court of appeals under 28 U.S.C. §158(d)(2) is effective when:
 
-(b) Appendix to Brief. If the appeal is to a bankruptcy appellate panel, the appellant shall serve and file with the appellant's brief excerpts of the record as an appendix, which shall include the following:
+(1) the certification has been filed;
 
-(1) The complaint and answer or other equivalent pleadings;
+(2) a timely appeal has been taken under Rule 8003 or 8004; and
 
-(2) Any pretrial order;
+(3) the notice of appeal has become effective under Rule 8002.
 
-(3) The judgment, order, or decree from which the appeal is taken;
+(b) Filing the Certification. The certification must be filed with the clerk of the court where the matter is pending. For purposes of this rule, a matter remains pending in the bankruptcy court for 30 days after the effective date under Rule 8002 of the first notice of appeal from the judgment, order, or decree for which direct review is sought. A matter is pending in the district court or BAP thereafter.
 
-(4) Any other orders relevant to the appeal;
+(c) Joint Certification by all Appellants and Appellees. A joint certification by all the appellants and appellees under 28 U.S.C. §158(d)(2)(A) must be made by using the appropriate Official Form. The parties may supplement the certification with a short statement of the basis for the certification, which may include the information listed in subdivision (f)(2).
 
-(5) The opinion, findings of fact, or conclusions of law filed or delivered orally by the court and citations of the opinion if published;
+(d) The Court That May Make the Certification. Only the court where the matter is pending, as provided in subdivision (b), may certify a direct review on request of parties or on its own motion.	
 
-(6) Any motion and response on which the court rendered decision;
+(e) Certification on the Court's own Motion.
 
-(7) The notice of appeal;
+(1) *How Accomplished*. A certification on the court's own motion must be set forth in a separate document. The clerk of the certifying court must serve it on the parties to the appeal in the manner required for service of a notice of appeal under Rule 8003(c)(1). The certification must be accompanied by an opinion or memorandum that contains the information required by subdivision (f)(2)(A)–(D).
 
-(8) The relevant entries in the bankruptcy docket; and
+(2) *Supplemental Statement by a Party*. Within 14 days after the court's certification, a party may file with the clerk of the certifying court a short supplemental statement regarding the merits of certification.
 
-(9) The transcript or portion thereof, if so required by a rule of the bankruptcy appellate panel.
+(f) Certification by the Court on Request.
 
-An appellee may also serve and file an appendix which contains material required to be included by the appellant but omitted by appellant.
+(1) *How Requested*. A request by a party for certification that a circumstance specified in 28 U.S.C. §158(d)(2)(A)(i)–(iii) applies—or a request by a majority of the appellants and a majority of the appellees—must be filed with the clerk of the court where the matter is pending within 60 days after the entry of the judgment, order, or decree.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(2) *Service and Contents*. The request must be served on all parties to the appeal in the manner required for service of a notice of appeal under Rule 8003(c)(1), and it must include the following:
 
-#### Notes of Advisory Committee on Rules—1983 ####
+(A) the facts necessary to understand the question presented;
 
-*Subdivision (a)* of this rule is adapted from Rules 28(a) and 31(a) F.R.App.P. The introductory clause of the rule recognizes the desirability of allowing local and individual variation in the filing of briefs. The numbered paragraphs prescribe shorter periods than the corresponding periods allowed by Rule 31(a) F.R.App.P.
+(B) the question itself;
 
-*Subdivision (b)*, which is similar to an interim rule for bankruptcy appellate panels promulgated by the Ninth Circuit, applies only when an appeal is to an appellate panel. The appellant must prepare an appendix to the brief which contains the documents relevant to the appeal. With the appendix available to each member of the appellate panel, it is unlikely that multiple copies of the record will be necessary. The last sentence of the subdivision enables the appellee to correct an omission of the appellant.
+(C) the relief sought;
 
-Rule 30 F.R.App.P., which governs the preparation of the appendix in appeals taken to the courts of appeals, specifies fewer documents which must be included in the appendix but permits the parties to include any other material.
+(D) the reasons why the direct appeal should be allowed, including which circumstance specified in 28 U.S.C. §158(d)(2)(A)(i)–(iii) applies; and
 
-#### Notes of Advisory Committee on Rules—1987 Amendment ####
+(E)	a copy of the judgment, order, or decree and any related opinion or memorandum.
 
-The amendment to Rule 8007(c) permits a rule of the bankruptcy appellate panel to provide that the record is to be retained rather than transmitted. The new paragraph (9) of subdivision (b) of this rule complements Rule 8007(c) by authorizing a rule of the panel to require inclusion of the transcript or a portion thereof in the appendix.
+(3) *Time to File a Response or a Cross-Request*. A party may file a response to the request within 14 days after the request is served, or such other time as the court where the matter is pending allows. A party may file a cross-request for certification within 14 days after the request is served, or within 60 days after the entry of the judgment, order, or decree, whichever occurs first.
 
-#### Committee Notes on Rules—2009 Amendment ####
+(4) *Oral Argument Not Required*. The request, cross-request, and any response are submitted without oral argument unless the court where the matter is pending orders otherwise.
 
-The rule is amended to implement changes in connection with the amendment to Rule 9006(a) and the manner by which time is computed under the rules. The deadlines in the rule are amended to substitute a deadline that is a multiple of seven days. Throughout the rules, deadlines are amended in the following manner:
+(5) *Form and Service of the Certification*. If the court certifies a direct appeal in response to the request, it must do so in a separate document. The certification must be served on the parties to the appeal in the manner required for service of a notice of appeal under Rule 8003(c)(1).
 
-• 5-day periods become 7-day periods
+(g) Proceeding in the Court of Appeals Following a Certification. Within 30 days after the date the certification becomes effective under subdivision (a), a request for permission to take a direct appeal to the court of appeals must be filed with the circuit clerk in accordance with F.R.App.P. 6(c).
 
-• 10-day periods become 14-day periods
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
-• 15-day periods become 14-day periods
+#### Prior Rule ####
 
-• 20-day periods become 21-day periods
+A prior Rule 8006, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 29, 1994, eff. Aug. 1, 1994; Mar. 26, 2009, eff. Dec. 1, 2009, related to record and issues on appeal, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
 
-• 25-day periods become 28-day periods
+#### Committee Notes on Rules—2014 ####
 
-### Rule 8010. Form of Briefs; Length ###
+This rule is derived from former Rule 8001(f), and it provides the procedures for the certification of a direct appeal of a judgment, order, or decree of a bankruptcy court to the court of appeals under 28 U.S.C. §158(d)(2). Once a case has been certified in the bankruptcy court, the district court, or the BAP for direct appeal and a request for permission to appeal has been timely filed with the circuit clerk, the Federal Rules of Appellate Procedure govern further proceedings in the court of appeals.
 
-(a) Form of Briefs. Unless the district court or the bankruptcy appellate panel by local rule otherwise provides, the form of brief shall be as follows:
+Subdivision (a), like the former rule, requires that an appeal be properly taken—now under Rule 8003 or 8004—before a certification for direct review in the court of appeals takes effect. This rule requires the timely filing of a notice of appeal under Rule 8002 and accounts for the delayed effectiveness of a notice of appeal under the circumstances specified in that rule. Ordinarily, a notice of appeal is effective when it is filed in the bankruptcy court. Rule 8002, however, delays the effectiveness of a notice of appeal when (1) it is filed after the announcement of a decision or order but prior to the entry of the judgment, order, or decree; or (2) it is filed after the announcement or entry of a judgment, order, or decree but before the bankruptcy court disposes of certain postjudgment motions.
 
-(1) *Brief of the Appellant*. The brief of the appellant shall contain under appropriate headings and in the order here indicated:
+When the bankruptcy court enters an interlocutory order or decree that is appealable under 28 U.S.C. §158(a)(3), certification for direct review in the court of appeals may take effect before the district court or BAP grants leave to appeal. The certification is effective when the actions specified in subdivision (a) have occurred. Rule 8004(e) provides that if the court of appeals grants permission to take a direct appeal before leave to appeal an interlocutory ruling has been granted, the authorization by the court of appeals is treated as the granting of leave to appeal.
 
-(A) A table of contents, with page references, and a table of cases alphabetically arranged, statutes and other authorities cited, with references to the pages of the brief where they are cited.
+Subdivision (b) provides that a certification must be filed in the court where the matter is pending, as determined by this subdivision. This provision modifies the former rule. Because of the prompt docketing of appeals in the district court or BAP under Rules 8003 and 8004, a matter is deemed—for purposes of this rule only—to remain pending in the bankruptcy court for 30 days after the effective date of the notice of appeal. This provision will in appropriate cases give the bankruptcy judge, who will be familiar with the matter being appealed, an opportunity to decide whether certification for direct review is appropriate. Similarly, subdivision (d) provides that only the court where the matter is then pending according to subdivision (b) may make a certification on its own motion or on the request of one or more parties.
 
-(B) A statement of the basis of appellate jurisdiction.
+Section 158(d)(2) provides three different ways in which an appeal may be certified for direct review. Implementing these options, the rule provides in subdivision (c) for the joint certification by all appellants and appellees; in subdivision (e) for the bankruptcy court's, district court's, or BAP's certification on its own motion; and in subdivision (f) for the bankruptcy court's, district court's, or BAP's certification on request of a party or a majority of appellants and a majority of appellees.	
 
-(C) A statement of the issues presented and the applicable standard of appellate review.
+Subdivision (g) requires that, once a certification for direct review is made, a request to the court of appeals for permission to take a direct appeal to that court must be filed with the clerk of the court of appeals no later than 30 days after the effective date of the certification. Federal Rule of Appellate Procedure 6(c), which incorporates all of F.R.App.P. 5 except subdivision (a)(3), prescribes the procedure for requesting the permission of the court of appeals and governs proceedings that take place thereafter in that court.
 
-(D) A statement of the case. The statement shall first indicate briefly the nature of the case, the course of the proceedings, and the disposition in the court below. There shall follow a statement of the facts relevant to the issues presented for review, with appropriate references to the record.
+*Changes Made After Publication and Comment*. In subdivisions (b) and (g), cross-references were added. In subdivision (f)(4), the statement regarding the inapplicability of Rule 9014 was deleted as unnecessary. A clarifying change was made to the first paragraph of the Committee Note.
 
-(E) An argument. The argument may be preceded by a summary. The argument shall contain the contentions of the appellant with respect to the issues presented, and the reasons therefor, with citations to the authorities, statutes and parts of the record relied on.
+#### References in Text ####
 
-(F) A short conclusion stating the precise relief sought.
+The Federal Rules of Appellate Procedure, referred to in subd. (g), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-(2) *Brief of the Appellee*. The brief of the appellee shall conform to the requirements of paragraph (1)(A)–(E) of this subdivision, except that a statement of the basis of appellate jurisdiction, of the issues, or of the case need not be made unless the appellee is dissatisfied with the statement of the appellant.
+### Rule 8007. Stay Pending Appeal; Bonds; Suspension of Proceedings ###
 
-(b) Reproduction of Statutes, Rules, Regulations, or Similar Material. If determination of the issues presented requires reference to the Code or other statutes, rules, regulations, or similar material, relevant parts thereof shall be reproduced in the brief or in an addendum or they may be supplied to the court in pamphlet form.
+(a) Initial Motion in the Bankruptcy Court.
 
-(c) Length of Briefs. Unless the district court or the bankruptcy appellate panel by local rule or order otherwise provides, principal briefs shall not exceed 50 pages, and reply briefs shall not exceed 25 pages, exclusive of pages containing the table of contents, tables of citations and any addendum containing statutes, rules, regulations, or similar material.
+(1) *In General*. Ordinarily, a party must move first in the bankruptcy court for the following relief:
 
-#### Notes of Advisory Committee on Rules—1983 ####
+(A) a stay of a judgment, order, or decree of the bankruptcy court pending appeal;
 
-This rule is derived from subdivisions (a), (b), (c), and (f) of Rule 28 F.R.App.P.
+(B) the approval of a supersedeas bond;
 
-When an appeal is to a bankruptcy appellate panel and an appendix is filed pursuant to Rule 8009(b) and reference is made in a brief to parts of the record included in the appendix, the reference should be to the appropriate pages of the appendix at which those parts appear.
+(C) an order suspending, modifying, restoring, or granting an injunction while an appeal is pending; or
 
-### Rule 8011. Motions ###
+(D) the suspension or continuation of proceedings in a case or other relief permitted by subdivision (e).
 
-(a) Content of Motions; Response; Reply. A request for an order or other relief shall be made by filing with the clerk of the district court or the clerk of the bankruptcy appellate panel a motion for such order or relief with proof of service on all other parties to the appeal. The motion shall contain or be accompanied by any matter required by a specific provision of these rules governing such a motion, shall state with particularity the grounds on which it is based, and shall set forth the order or relief sought. If a motion is supported by briefs, affidavits or other papers, they shall be served and filed with the motion. Any party may file a response in opposition to a motion other than one for a procedural order within seven days after service of the motion, but the district court or the bankruptcy appellate panel may shorten or extend the time for responding to any motion.
+(2) *Time to File*. The motion may be made either before or after the notice of appeal is filed.
 
-(b) Determination of Motions for Procedural Orders. Notwithstanding subdivision (a) of this rule, motions for procedural orders, including any motion under Rule 9006, may be acted on at any time, without awaiting a response thereto and without hearing. Any party adversely affected by such action may move for reconsideration, vacation, or modification of the action.
+(b) Motion in the District Court, the BAP, or the Court of Appeals on Direct Appeal.
 
-(c) Determination of all Motions. All motions will be decided without oral argument unless the court orders otherwise. A motion for a stay, or for other emergency relief may be denied if not presented promptly.
+(1) *Request for Relief*. A motion for the relief specified in subdivision (a)(1)—or to vacate or modify a bankruptcy court's order granting such relief—may be made in the court where the appeal is pending.
 
-(d) Emergency Motions. Whenever a movant requests expedited action on a motion on the ground that, to avoid irreparable harm, relief is needed in less time than would normally be required for the district court or bankruptcy appellate panel to receive and consider a response, the word "Emergency" shall precede the title of the motion. The motion shall be accompanied by an affidavit setting forth the nature of the emergency. The motion shall state whether all grounds advanced in support thereof were submitted to the bankruptcy judge and, if any grounds relied on were not submitted, why the motion should not be remanded to the bankruptcy judge for reconsideration. The motion shall include the office addresses and telephone numbers of moving and opposing counsel and shall be served pursuant to Rule 8008. Prior to filing the motion, the movant shall make every practicable effort to notify opposing counsel in time for counsel to respond to the motion. The affidavit accompanying the motion shall also state when and how opposing counsel was notified or if opposing counsel was not notified why it was not practicable to do so.
+(2) *Showing or Statement Required*. The motion must:
 
-(e) Power of a Single Judge To Entertain Motions. A single judge of a bankruptcy appellate panel may grant or deny any request for relief which under these rules may properly be sought by motion, except that a single judge may not dismiss or otherwise decide an appeal or a motion for leave to appeal. The action of a single judge may be reviewed by the panel.
+(A) show that moving first in the bankruptcy court would be impracticable; or
 
-#### Notes of Advisory Committee on Rules—1983 ####
+(B) if a motion was made in the bankruptcy court, either state that the court has not yet ruled on the motion, or state that the court has ruled and set out any reasons given for the ruling.
 
-Subdivisions (a), (b) and (e) of this rule conform substantially to subdivisions (a), (b) and (c) of Rule 27 F.R.App.P. Subdivisions (c) and (d) are taken from Rule 13(c) and (d) of the Rules of the First Circuit governing appeals to bankruptcy appellate panels.
+(3) *Additional Content*. The motion must also include:
 
-### Rule 8012. Oral Argument ###
+(A) the reasons for granting the relief requested and the facts relied upon;
 
-Oral argument shall be allowed in all cases unless the district judge or the judges of the bankruptcy appellate panel unanimously determine after examination of the briefs and record, or appendix to the brief, that oral argument is not needed. Any party shall have an opportunity to file a statement setting forth the reason why oral argument should be allowed.
+(B) affidavits or other sworn statements supporting facts subject to dispute; and
 
-Oral argument will not be allowed if (1) the appeal is frivolous; (2) the dispositive issue or set of issues has been recently authoritatively decided; or (3) the facts and legal arguments are adequately presented in the briefs and record and the decisional process would not be significantly aided by oral argument.
+(C) relevant parts of the record.
 
-#### Notes of Advisory Committee on Rules—1983 ####
+(4) *Serving Notice*. The movant must give reasonable notice of the motion to all parties.
 
-This rule is derived from Rule 34(a) F.R.App.P. The other details of oral argument which are covered by the remaining subdivisions of Rule 34 F.R.App.P are not in these rules and are left to local rule or order of the court.
+(c) Filing a Bond or Other Security. The district court, BAP, or court of appeals may condition relief on filing a bond or other appropriate security with the bankruptcy court.
 
-### Rule 8013. Disposition of Appeal; Weight Accorded Bankruptcy Judge's Findings of Fact ###
+(d) Bond for a Trustee or the United States. The court may require a trustee to file a bond or other appropriate security when the trustee appeals. A bond or other security is not required when an appeal is taken by the United States, its officer, or its agency or by direction of any department of the federal government.
 
-On an appeal the district court or bankruptcy appellate panel may affirm, modify, or reverse a bankruptcy judge's judgment, order, or decree or remand with instructions for further proceedings. Findings of fact, whether based on oral or documentary evidence, shall not be set aside unless clearly erroneous, and due regard shall be given to the opportunity of the bankruptcy court to judge the credibility of the witnesses.
+(e) Continuation of Proceedings in the Bankruptcy Court. Despite Rule 7062 and subject to the authority of the district court, BAP, or court of appeals, the bankruptcy court may:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+(1) suspend or order the continuation of other proceedings in the case; or
 
-#### Notes of Advisory Committee on Rules—1983 ####
+(2) issue any other appropriate orders during the pendency of an appeal to protect the rights of all parties in interest.
 
-This rule accords to the findings of a bankruptcy judge the same weight given the findings of a district judge under Rule 52 F.R.Civ.P. See also Rules 7052(a) and 9014.
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
-#### Notes of Advisory Committee on Rules—1987 Amendment ####
+#### Prior Rule ####
 
-The amendment to this rule conforms the appellate review standard to Rule 52 F.R.Civ.P., as amended in August 1985.
+A prior Rule 8007, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991, related to completion and transmission of the record and docketing of the appeal, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
 
-### Rule 8014. Costs ###
+#### Committee Notes on Rules—2014 ####
 
-Except as otherwise provided by law, agreed to by the parties, or ordered by the district court or the bankruptcy appellate panel, costs shall be taxed against the losing party on an appeal. If a judgment is affirmed or reversed in part, or is vacated, costs shall be allowed only as ordered by the court. Costs incurred in the production of copies of briefs, the appendices, and the record and in the preparation and transmission of the record, the cost of the reporter's transcript, if necessary for the determination of the appeal, the premiums paid for cost of supersedeas bonds or other bonds to preserve rights pending appeal and the fee for filing the notice of appeal shall be taxed by the clerk as costs of the appeal in favor of the party entitled to costs under this rule.
+This rule is derived from former Rule 8005 and F.R.App.P. 8. It now applies to direct appeals in courts of appeals.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+Subdivision (a), like the former rule, requires a party ordinarily to seek relief pending an appeal in the bankruptcy court. Subdivision (a)(1) expands the list of relief enumerated in F.R.App.P. 8(a)(1) to reflect bankruptcy practice. It includes the suspension or continuation of other proceedings in the bankruptcy case, as authorized by subdivision (e). Subdivision (a)(2) clarifies that a motion for a stay pending appeal, approval of a supersedeas bond, or any other relief specified in paragraph (1) may be made in the bankruptcy court before or after the filing of a notice of appeal.
 
-#### Notes of Advisory Committee on Rules—1983 ####
+Subdivision (b) authorizes a party to seek the relief specified in (a)(1), or the vacation or modification of the granting of such relief, by means of a motion filed in the court where the appeal is pending—district court, BAP, or the court of appeals on direct appeal. Accordingly, a notice of appeal need not be filed with respect to a bankruptcy court's order granting or denying such a motion. The motion for relief in the district court, BAP, or court of appeals must state why it was impracticable to seek relief initially in the bankruptcy court, if a motion was not filed there, or why the bankruptcy court denied the relief sought.
 
-This rule is an adaptation of Rule 39(a), (c) and (e) of the F.R.App.P. Under this rule all costs are taxed by the clerk of the bankruptcy court.
+Subdivisions (c) and (d) retain the provisions of the former rule that permit the district court or BAP—and now the court of appeals—to condition the granting of relief on the posting of a bond by the appellant, except when that party is a federal government entity. Rule 9025 governs proceedings against sureties.
 
-### Rule 8015. Motion for Rehearing ###
+Subdivision (e) retains the provision of the former rule that authorizes the bankruptcy court to decide whether to suspend or allow the continuation of other proceedings in the bankruptcy case while the matter for which a stay has been sought is pending on appeal.
 
-Unless the district court or the bankruptcy appellate panel by local rule or by court order otherwise provides, a motion for rehearing may be filed within 14 days after entry of the judgment of the district court or the bankruptcy appellate panel. If a timely motion for rehearing is filed, the time for appeal to the court of appeals for all parties shall run from the entry of the order denying rehearing or the entry of subsequent judgment.
+*Changes Made After Publication and Comment*. The clause "or where it will be taken" was deleted in subdivision (b)(1). Stylistic changes were made to the titles of subdivisions (b) and (e) and in subdivision (e)(1). A discussion of subdivision (e) was added to the Committee Note.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Mar. 26, 2009, eff. Dec. 1, 2009.)
+### Rule 8008. Indicative Rulings ###
 
-#### Notes of Advisory Committee on Rules—1983 ####
+(a) Relief Pending Appeal. If a party files a timely motion in the bankruptcy court for relief that the court lacks authority to grant because of an appeal that has been docketed and is pending, the bankruptcy court may:
 
-This is an adaptation of the first sentence of Rule 40(a) F.R.App.P. The filing of a motion for rehearing does not toll the time for taking an appeal to the court of appeals from the district court or the bankruptcy appellate panel. Appeals from a district court or a bankruptcy appellate panel are to the appropriate court of appeals. Under Rule 4(a)(4) F.R.App.P. the filing of post-trial motions in the district court has the effect of vitiating any prior notice of appeal and, on the district court's disposition of those post-trial motions, a new appeal period starts. Rule 4 F.R.App.P. does not, however, contain any provision which stays or otherwise alters the time for taking an appeal to the court of appeals when a motion for rehearing is filed under Rule 8015 with the district court or bankruptcy appellate panel.
+(1) defer considering the motion;	
 
-#### Notes of Advisory Committee on Rules—1987 Amendment ####
+(2) deny the motion; or
 
-The amendment, which is derived from Rule 8002(b), Rule 4(a)(4) F.R.App.P., and Rule 11.1 Sup.Ct.R., clarifies the effect of the filing of a timely motion for rehearing. If a timely motion is filed, the appeal period to the court of appeals begins to run on the entry of an order denying the motion or the entry of a subsequent judgment.
+(3) state that the court would grant the motion if the court where the appeal is pending remands for that purpose, or state that the motion raises a substantial issue.
 
-#### Committee Notes on Rules—2009 Amendment ####
+(b) Notice to the Court Where the Appeal Is Pending. The movant must promptly notify the clerk of the court where the appeal is pending if the bankruptcy court states that it would grant the motion or that the motion raises a substantial issue.
 
-The rule is amended to implement changes in connection with the amendment to Rule 9006(a) and the manner by which time is computed under the rules. The deadline in the rule is amended to substitute a deadline that is a multiple of seven days. Throughout the rules, deadlines are amended in the following manner:
+(c) Remand After an Indicative Ruling. If the bankruptcy court states that it would grant the motion or that the motion raises a substantial issue, the district court or BAP may remand for further proceedings, but it retains jurisdiction unless it expressly dismisses the appeal. If the district court or BAP remands but retains jurisdiction, the parties must promptly notify the clerk of that court when the bankruptcy court has decided the motion on remand.
 
-• 5-day periods become 7-day periods
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
-• 10-day periods become 14-day periods
+#### Prior Rule ####
 
-• 15-day periods become 14-day periods
+A prior Rule 8008, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 1996, eff. Dec. 1, 1996, related to filing and service, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
 
-• 20-day periods become 21-day periods
+#### Committee Notes on Rules—2014 ####
 
-• 25-day periods become 28-day periods
+This rule is an adaptation of F.R.Civ.P. 62.1 and F.R.App.P. 12.1. It provides a procedure for the issuance of an indicative ruling when a bankruptcy court determines that, because of a pending appeal, the court lacks jurisdiction to grant a request for relief that the court concludes is meritorious or raises a substantial issue. The rule does not attempt to define the circumstances in which an appeal limits or defeats the bankruptcy court's authority to act in the face of a pending appeal. In contrast, Rule 8002(b) identifies motions that, if filed within the relevant time limit, suspend the effect of a notice of appeal filed before the last such motion is resolved. In those circumstances, the bankruptcy court has authority to resolve the motion without resorting to the indicative ruling procedure.
 
-### Rule 8016. Duties of Clerk of District Court and Bankruptcy Appellate Panel ###
+Subdivision (b) requires the movant to notify the court where an appeal is pending if the bankruptcy court states that it would grant the motion or that it raises a substantial issue. This provision applies to appeals pending in the district court, the BAP, or the court of appeals.
 
-(a) Entry of Judgment. The clerk of the district court or the clerk of the bankruptcy appellate panel shall prepare, sign and enter the judgment following receipt of the opinion of the court or the appellate panel or, if there is no opinion, following the instruction of the court or the appellate panel. The notation of a judgment in the docket constitutes entry of judgment.
+Federal Rules of Appellate Procedure 6 and 12.1 govern the procedure in the court of appeals following notification of the bankruptcy court's indicative ruling.
 
-(b) Notice of Orders or Judgments; Return of Record. Immediately on the entry of a judgment or order the clerk of the district court or the clerk of the bankruptcy appellate panel shall transmit a notice of the entry to each party to the appeal, to the United States trustee, and to the clerk, together with a copy of any opinion respecting the judgment or order, and shall make a note of the transmission in the docket. Original papers transmitted as the record on appeal shall be returned to the clerk on disposition of the appeal.
+Subdivision (c) of this rule governs the procedure in the district court or BAP upon notification that the bankruptcy court has issued an indicative ruling. The district court or BAP may remand to the bankruptcy court for a ruling on the motion for relief. The district court or BAP may also remand all proceedings, thereby terminating the initial appeal, if it expressly states that it is dismissing the appeal. It should do so, however, only when the appellant has stated clearly its intention to abandon the appeal. Otherwise, the district court or BAP may remand for the purpose of ruling on the motion, while retaining jurisdiction to proceed with the appeal after the bankruptcy court rules, provided that the appeal is not then moot and a party wishes to proceed.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.	
 
-#### Notes of Advisory Committee on Rules—1983 ####
+### Rule 8009. Record on Appeal; Sealed Documents ###
 
-Subdivision (a) of this rule is adapted from Rule 36 F.R.App.P. Subdivision (b) is similar to subdivisions (c) and (d) of Rule 45 F.R.App.P.
+(a) Designating the Record on Appeal; Statement of the Issues.
 
-#### Notes of Advisory Committee on Rules—1991 Amendment ####
+(1) *Appellant.*
 
-*Subdivision (b)* is amended to enable the United States trustee to monitor the progress of the case. The requirements of this subdivision apply to an order of the district court or bankruptcy appellate panel staying its judgment pending appeal to the court of appeals pursuant to Rule 8017(b).
+(A) The appellant must file with the bankruptcy clerk and serve on the appellee a designation of the items to be included in the record on appeal and a statement of the issues to be presented.
 
-### Rule 8017. Stay of Judgment of District Court or Bankruptcy Appellate Panel ###
+(B) The appellant must file and serve the designation and statement within 14 days after:
 
-(a) Automatic Stay of Judgment on Appeal. Judgments of the district court or the bankruptcy appellate panel are stayed until the expiration of 14 days after entry, unless otherwise ordered by the district court or the bankruptcy appellate panel.
+(i) the appellant's notice of appeal as of right becomes effective under Rule 8002; or
 
-(b) Stay Pending Appeal to the Court of Appeals. On motion and notice to the parties to the appeal, the district court or the bankruptcy appellate panel may stay its judgment pending an appeal to the court of appeals. The stay shall not extend beyond 30 days after the entry of the judgment of the district court or the bankruptcy appellate panel unless the period is extended for cause shown. If before the expiration of a stay entered pursuant to this subdivision there is an appeal to the court of appeals by the party who obtained the stay, the stay shall continue until final disposition by the court of appeals. A bond or other security may be required as a condition to the grant or continuation of a stay of the judgment. A bond or other security may be required if a trustee obtains a stay but a bond or security shall not be required if a stay is obtained by the United States or an officer or agency thereof or at the direction of any department of the Government of the United States.
+(ii) an order granting leave to appeal is entered.
 
-(c) Power of Court of Appeals Not Limited. This rule does not limit the power of a court of appeals or any judge thereof to stay proceedings during the pendency of an appeal or to suspend, modify, restore, or grant an injunction during the pendency of an appeal or to make any order appropriate to preserve the status quo or the effectiveness of the judgment subsequently to be entered.
+A designation and statement served prematurely must be treated as served on the first day on which filing is timely.
 
-(As amended Mar. 26, 2009, eff. Dec. 1, 2009.)
+(2) *Appellee and Cross-Appellant*. Within 14 days after being served, the appellee may file with the bankruptcy clerk and serve on the appellant a designation of additional items to be included in the record. An appellee who files a cross-appeal must file and serve a designation of additional items to be included in the record and a statement of the issues to be presented on the cross-appeal.
 
-#### Notes of Advisory Committee on Rules—1983 ####
+(3) *Cross-Appellee*. Within 14 days after service of the cross-appellant's designation and statement, a cross-appellee may file with the bankruptcy clerk and serve on the cross-appellant a designation of additional items to be included in the record.
 
-This rule is derived from Rule 62 F.R.Civ.P. and Rule 41 F.R.App.P.
+(4) *Record on Appeal*. The record on appeal must include the following:
 
-*Subdivision (a)* accords to the parties to an appeal 10 days within which to decide whether to pursue an appeal to the court of appeals. In ordinary civil litigation there is a similar opportunity. Rule 62(a) F.R.Civ.P. automatically stays enforcement of a district court's judgment in a civil action and Rule 41(a) F.R.App.P. provides that the mandate of the court of appeals shall not issue for 21 days, unless the court otherwise directs. The district court or bankruptcy appellate panel may reduce the 10 day period of this subdivision.
+• docket entries kept by the bankruptcy clerk;
 
-*Subdivision (b)* vests in the district courts and the bankruptcy appellate panels the same authority the courts of appeals have under Rule 41(b) F.R.App.P. to stay their judgments pending appeal. Perfection of an appeal to the court of appeals while a stay entered by the district court or bankruptcy appellate panel is in effect results in the automatic continuation of that stay during the course of the appeal in the court of appeals.
+• items designated by the parties;
 
-*Subdivision (c)* is the same as Rule 62(g) F.R.Civ.P.
+• the notice of appeal;
 
-#### Committee Notes on Rules—2009 Amendment ####
+• the judgment, order, or decree being appealed;
 
-The rule is amended to implement changes in connection with the amendment to Rule 9006(a) and the manner by which time is computed under the rules. The deadline in the rule is amended to substitute a deadline that is a multiple of seven days. Throughout the rules, deadlines are amended in the following manner:
+• any order granting leave to appeal;
 
-• 5-day periods become 7-day periods
+• any certification required for a direct appeal to the court of appeals;
 
-• 10-day periods become 14-day periods
+• any opinion, findings of fact, and conclusions of law relating to the issues on appeal, including transcripts of all oral rulings;
 
-• 15-day periods become 14-day periods
+• any transcript ordered under subdivision (b);
 
-• 20-day periods become 21-day periods
+• any statement required by subdivision (c); and
 
-• 25-day periods become 28-day periods
+• any additional items from the record that the court where the appeal is pending orders.
 
-### Rule 8018. Rules by Circuit Councils and District Courts; Procedure When There is No Controlling Law ###
+(5) *Copies for the Bankruptcy Clerk*. If paper copies are needed, a party filing a designation of items must provide a copy of any of those items that the bankruptcy clerk requests. If the party fails to do so, the bankruptcy clerk must prepare the copy at the party's expense.
+
+(b) Transcript of Proceedings.
+
+(1) *Appellant's Duty to Order*. Within the time period prescribed by subdivision (a)(1), the appellant must:
+
+(A) order in writing from the reporter, as defined in Rule 8010(a)(1), a transcript of such parts of the proceedings not already on file as the appellant considers necessary for the appeal, and file a copy of the order with the bankruptcy clerk; or
+
+(B) file with the bankruptcy clerk a certificate stating that the appellant is not ordering a transcript.
+
+(2) *Cross-Appellant's Duty to Order*. Within 14 days after the appellant files a copy of the transcript order or a certificate of not ordering a transcript, the appellee as cross-appellant must:
+
+(A) order in writing from the reporter, as defined in Rule 8010(a)(1), a transcript of such additional parts of the proceedings as the cross-appellant considers necessary for the appeal, and file a copy of the order with the bankruptcy clerk; or
+
+(B) file with the bankruptcy clerk a certificate stating that the cross-appellant is not ordering a transcript.
+
+(3) *Appellee's or Cross-Appellee's Right to Order*. Within 14 days after the appellant or cross-appellant files a copy of a transcript order or certificate of not ordering a transcript, the appellee or cross-appellee may order in writing from the reporter a transcript of such additional parts of the proceedings as the appellee or cross-appellee considers necessary for the appeal. A copy of the order must be filed with the bankruptcy clerk.
+
+(4) *Payment*. At the time of ordering, a party must make satisfactory arrangements with the reporter for paying the cost of the transcript.
+
+(5) *Unsupported Finding or Conclusion*. If the appellant intends to argue on appeal that a finding or conclusion is unsupported by the evidence or is contrary to the evidence, the appellant must include in the record a transcript of all relevant testimony and copies of all relevant exhibits.
+
+(c) Statement of the Evidence When a Transcript is Unavailable. If a transcript of a hearing or trial is unavailable, the appellant may prepare a statement of the evidence or proceedings from the best available means, including the appellant's recollection. The statement must be filed within the time prescribed by subdivision (a)(1) and served on the appellee, who may serve objections or proposed amendments within 14 days after being served. The statement and any objections or proposed amendments must then be submitted to the bankruptcy court for settlement and approval. As settled and approved, the statement must be included by the bankruptcy clerk in the record on appeal.
+
+(d) Agreed Statement as the Record on Appeal. Instead of the record on appeal as defined in subdivision (a), the parties may prepare, sign, and submit to the bankruptcy court a statement of the case showing how the issues presented by the appeal arose and were decided in the bankruptcy court. The statement must set forth only those facts alleged and proved or sought to be proved that are essential to the court's resolution of the issues. If the statement is accurate, it—together with any additions that the bankruptcy court may consider necessary to a full presentation of the issues on appeal—must be approved by the bankruptcy court and must then be certified to the court where the appeal is pending as the record on appeal. The bankruptcy clerk must then transmit it to the clerk of that court within the time provided by Rule 8010. A copy of the agreed statement may be filed in place of the appendix required by Rule 8018(b) or, in the case of a direct appeal to the court of appeals, by F.R.App.P. 30.
+
+(e) Correcting or Modifying the Record.
+
+(1) *Submitting to the Bankruptcy Court*. If any difference arises about whether the record accurately discloses what occurred in the bankruptcy court, the difference must be submitted to and settled by the bankruptcy court and the record conformed accordingly. If an item has been improperly designated as part of the record on appeal, a party may move to strike that item.
+
+(2) *Correcting in Other Ways*. If anything material to either party is omitted from or misstated in the record by error or accident, the omission or misstatement may be corrected, and a supplemental record may be certified and transmitted:
+
+(A) on stipulation of the parties;
+
+(B) by the bankruptcy court before or after the record has been forwarded; or
+
+(C) by the court where the appeal is pending.
+
+(3) *Remaining Questions*. All other questions as to the form and content of the record must be presented to the court where the appeal is pending.
+
+(f) Sealed Documents. A document placed under seal by the bankruptcy court may be designated as part of the record on appeal. In doing so, a party must identify it without revealing confidential or secret information, but the bankruptcy clerk must not transmit it to the clerk of the court where the appeal is pending as part of the record. Instead, a party must file a motion with the court where the appeal is pending to accept the document under seal. If the motion is granted, the movant must notify the bankruptcy court of the ruling, and the bankruptcy clerk must promptly transmit the sealed document to the clerk of the court where the appeal is pending.
+
+(g) Other Necessary Actions. All parties to an appeal must take any other action necessary to enable the bankruptcy clerk to assemble and transmit the record.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Prior Rule ####
+
+A prior Rule 8009, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987; Mar. 26, 2009, eff. Dec. 1, 2009, related to briefs and appendix and filing and service, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived from former Rule 8006 and F.R.App.P. 10 and 11(a). The provisions of this rule and Rule 8010 are applicable to appeals taken directly to a court of appeals under 28 U.S.C. §158(d)(2), as well as to appeals to a district court or BAP. *See* F.R.App.P. 6(c)(2)(A) and (B).	
+
+The rule retains the practice of former Rule 8006 of requiring the parties to designate items to be included in the record on appeal. In this respect, the bankruptcy rule differs from the appellate rule. Among other things, F.R.App.P. 10(a) provides that the record on appeal consists of all the documents and exhibits filed in the case. This requirement would often be unworkable in a bankruptcy context because thousands of items might have been filed in the overall bankruptcy case.	
+
+Subdivision (a) provides the time period for an appellant to file a designation of items to be included in the record on appeal and a statement of the issues to be presented. It then provides for the designation of additional items by the appellee, cross-appellant, and cross-appellee, as well as for the cross-appellant's statement of the issues to be presented in its appeal. Subdivision (a)(4) prescribes the content of the record on appeal. Ordinarily, the bankruptcy clerk will not need to have paper copies of the designated items because the clerk will either transmit them to the appellate court electronically or otherwise make them available electronically. If the bankruptcy clerk requires a paper copy of some or all of the items designated as part of the record, the clerk may request the party that designated the item to provide the necessary copies, and the party must comply with the request or bear the cost of the clerk's copying.	
+
+Subdivision (b) governs the process for ordering a complete or partial transcript of the bankruptcy court proceedings. In situations in which a transcript is unavailable, subdivision (c) allows for the parties' preparation of a statement of the evidence or proceedings, which must be approved by the bankruptcy court.	
+
+Subdivision (d) adopts the practice of F.R.App.P. 10(d) of permitting the parties to agree on a statement of the case in place of the record on appeal. The statement must show how the issues on appeal arose and were decided in the bankruptcy court. It must be approved by the bankruptcy court in order to be certified as the record on appeal.	
+
+Subdivision (e), modeled on F.R.App.P. 10(e), provides a procedure for correcting the record on appeal if an item is improperly designated, omitted, or misstated.	
+
+Subdivision (f) is a new provision that governs the handling of any document that remains sealed by the bankruptcy court and that a party wants to include in the record on appeal. The party must request the court where the appeal is pending to accept the document under seal, and that motion must be granted before the bankruptcy clerk may transmit the sealed document to the district, BAP, or circuit clerk.	
+
+Subdivision (g) requires the parties' cooperation with the bankruptcy clerk in assembling and transmitting the record. It retains the requirement of former Rule 8006, which was adapted from F.R.App.P. 11(a).
+
+*Changes Made After Publication and Comment*. In subdivision (a)(2) and (3), the place of filing was clarified. "Docket entries kept by the bankruptcy clerk" was added to the list in subdivision (a)(4).
+
+#### References in Text ####
+
+The Federal Rules of Appellate Procedure, referred to in subd. (d), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+### Rule 8010. Completing and Transmitting the Record ###
+
+(a) Reporter's Duties.
+
+(1) *Proceedings Recorded Without a Reporter Present*. If proceedings were recorded without a reporter being present, the person or service selected under bankruptcy court procedures to transcribe the recording is the reporter for purposes of this rule.
+
+(2) *Preparing and Filing the Transcript*. The reporter must prepare and file a transcript as follows:
+
+(A) Upon receiving an order for a transcript in accordance with Rule 8009(b), the reporter must file in the bankruptcy court an acknowledgment of the request that shows when it was received, and when the reporter expects to have the transcript completed.
+
+(B) After completing the transcript, the reporter must file it with the bankruptcy clerk, who will notify the district, BAP, or circuit clerk of its filing.
+
+(C) If the transcript cannot be completed within 30 days after receiving the order, the reporter must request an extension of time from the bankruptcy clerk. The clerk must enter on the docket and notify the parties whether the extension is granted.
+
+(D) If the reporter does not file the transcript on time, the bankruptcy clerk must notify the bankruptcy judge.
+
+(b) Clerk's Duties.
+
+(1) *Transmitting the Record—In General*. Subject to Rule 8009(f) and subdivision (b)(5) of this rule, when the record is complete, the bankruptcy clerk must transmit to the clerk of the court where the appeal is pending either the record or a notice that the record is available electronically.
+
+(2) *Multiple Appeals*. If there are multiple appeals from a judgment, order, or decree, the bankruptcy clerk must transmit a single record.
+
+(3) *Receiving the Record*. Upon receiving the record or notice that it is available electronically, the district, BAP, or circuit clerk must enter that information on the docket and promptly notify all parties to the appeal.
+
+(4) *If Paper Copies Are Ordered*. If the court where the appeal is pending directs that paper copies of the record be provided, the clerk of that court must so notify the appellant. If the appellant fails to provide them, the bankruptcy clerk must prepare them at the appellant's expense.
+
+(5) *When Leave to Appeal is Requested*. Subject to subdivision (c), if a motion for leave to appeal has been filed under Rule 8004, the bankruptcy clerk must prepare and transmit the record only after the district court, BAP, or court of appeals grants leave.
+
+(c) Record for a Preliminary Motion in the District Court, Bap, or Court of Appeals. This subdivision (c) applies if, before the record is transmitted, a party moves in the district court, BAP, or court of appeals for any of the following relief:
+
+• leave to appeal;
+
+• dismissal;
+
+• a stay pending appeal;
+
+• approval of a supersedeas bond, or additional security on a bond or undertaking on appeal; or
+
+• any other intermediate order.
+
+The bankruptcy clerk must then transmit to the clerk of the court where the relief is sought any parts of the record designated by a party to the appeal or a notice that those parts are available electronically.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Prior Rule ####
+
+A prior Rule 8010, Apr. 25, 1983, eff. Aug. 1, 1983, related to form and length of briefs, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived from former Rule 8007 and F.R.App.P. 11. It applies to an appeal taken directly to a court of appeals under 28 U.S.C. §158(d)(2), as well as to an appeal to a district court or BAP.	
+
+Subdivision (a) generally retains the procedure of former Rule 8007(a) regarding the reporter s duty to prepare and file a transcript if a party requests one. It clarifies that the person or service that transcribes the recording of a proceeding is considered the reporter under this rule if the proceeding is recorded without a reporter being present in the courtroom. It also makes clear that the reporter must file with the bankruptcy court the acknowledgment of the request for a transcript and statement of the expected completion date, the completed transcript, and any request for an extension of time beyond 30 days for completion of the transcript.	
+
+Subdivision (b) requires the bankruptcy clerk to transmit the record to the district, BAP or circuit clerk when the record is complete and, in the case of appeals under 28 U.S.C. §158(a)(3), leave to appeal has been granted. This transmission will be made electronically, either by sending the record itself or sending notice that the record can be accessed electronically. The court where the appeal is pending may, however, require that a paper copy of some or all of the record be furnished, in which case the clerk of that court will direct the appellant to provide the copies. If the appellant does not do so, the bankruptcy clerk must prepare the copies at the appellant s expense.	
+
+In a change from former Rule 8007(b), subdivision (b) of this rule no longer directs the clerk of the appellate court to docket the appeal upon receipt of the record from the bankruptcy clerk. Instead, under Rules 8003(d) and 8004(c) and F.R.App.P. 12(a), the district, BAP, or circuit clerk dockets the appeal upon receipt of the notice of appeal or, in the case of appeals under 28 U.S.C. §158(a)(3), the notice of appeal and the motion for leave to appeal. Accordingly, by the time the district, BAP, or circuit clerk receives the record, the appeal will already be docketed in that court. The clerk of the appellate court must indicate on the docket and give notice to the parties to the appeal when the transmission of the record is received. Under Rule 8018(a) and F.R.App.P. 31, the briefing schedule is generally based on that date.	
+
+Subdivision (c) is derived from former Rule 8007(c) and F.R.App.P. 11(g) . It provides for the transmission of parts of the record that the parties designate for consideration by the district court, BAP, or court of appeals in ruling on specified preliminary motions filed prior to the preparation and transmission of the record on appeal.
+
+*Changes Made After Publication and Comment*. Subdivision (a)(1) was revised to more accurately reflect the way in which transcription services are selected. A cross-reference to Rule 8009(b) was added to subdivision (a)(2)(A).
+
+### Rule 8011. Filing and Service; Signature ###
+
+(a) Filing.	
+
+(1) *With the Clerk*. A document required or permitted to be filed in a district court or BAP must be filed with the clerk of that court.
+
+(2) *Method and Timeliness.*
+
+(A) *In General*. Filing may be accomplished by transmission to the clerk of the district court or BAP. Except as provided in subdivision (a)(2)(B) and (C), filing is timely only if the clerk receives the document within the time fixed for filing.
+
+(B) *Brief or Appendix*. A brief or appendix is also timely filed if, on or before the last day for filing, it is:
+
+(i) mailed to the clerk by first-class mail—or other class of mail that is at least as expeditious—postage prepaid, if the district court's or BAP's procedures permit or require a brief or appendix to be filed by mailing; or
+
+(ii) dispatched to a third-party commercial carrier for delivery within 3 days to the clerk, if the court's procedures so permit or require.
+
+(C) *Inmate Filing*. A document filed by an inmate confined in an institution is timely if deposited in the institution's internal mailing system on or before the last day for filing. If the institution has a system designed for legal mail, the inmate must use that system to receive the benefit of this rule. Timely filing may be shown by a declaration in compliance with 28 U.S.C. §1746 or by a notarized statement, either of which must set forth the date of deposit and state that first-class postage has been prepaid.
+
+(D) *Copies*. If a document is filed electronically, no paper copy is required. If a document is filed by mail or delivery to the district court or BAP, no additional copies are required. But the district court or BAP may require by local rule or by order in a particular case the filing or furnishing of a specified number of paper copies.
+
+(3) *Clerk's Refusal of Documents*. The court's clerk must not refuse to accept for filing any document transmitted for that purpose solely because it is not presented in proper form as required by these rules or by any local rule or practice.
+
+(b) Service of all Documents Required. Unless a rule requires service by the clerk, a party must, at or before the time of the filing of a document, serve it on the other parties to the appeal. Service on a party represented by counsel must be made on the party's counsel.
+
+(c) Manner of Service.
+
+(1) *Methods*. Service must be made electronically, unless it is being made by or on an individual who is not represented by counsel or the court's governing rules permit or require service by mail or other means of delivery. Service may be made by or on an unrepresented party by any of the following methods:
+
+(A) personal delivery;
+
+(B) mail; or
+
+(C) third-party commercial carrier for delivery within 3 days.
+
+(2) *When Service is Complete*. Service by electronic means is complete on transmission, unless the party making service receives notice that the document was not transmitted successfully. Service by mail or by commercial carrier is complete on mailing or delivery to the carrier.
+
+(d) Proof of Service.
+
+(1) *What is Required*. A document presented for filing must contain either:
+
+(A) an acknowledgment of service by the person served; or
+
+(B) proof of service consisting of a statement by the person who made service certifying:
+
+(i) the date and manner of service;
+
+(ii) the names of the persons served; and
+
+(iii) the mail or electronic address, the fax number, or the address of the place of delivery, as appropriate for the manner of service, for each person served.
+
+(2) *Delayed Proof*. The district or BAP clerk may permit documents to be filed without acknowledgment or proof of service, but must require the acknowledgment or proof to be filed promptly thereafter.
+
+(3) *Brief or Appendix*. When a brief or appendix is filed, the proof of service must also state the date and manner by which it was filed.
+
+(e) Signature. Every document filed electronically must include the electronic signature of the person filing it or, if the person is represented, the electronic signature of counsel. The electronic signature must be provided by electronic means that are consistent with any technical standards that the Judicial Conference of the United States establishes. Every document filed in paper form must be signed by the person filing the document or, if the person is represented, by counsel.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Prior Rule ####
+
+A prior Rule 8011, Apr. 25, 1983, eff. Aug. 1, 1983, related to motions, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived from former Rule 8008 and F.R.App.P. 25. It adopts some of the additional details of the appellate rule, and it provides greater recognition of the possibility of electronic filing and service.	
+
+Subdivision (a) governs the filing of documents in the district court or BAP. Consistent with other provisions of these Part VIII rules, subdivision (a)(2) requires electronic filing of documents, including briefs and appendices, unless the district court's or BAP's procedures permit or require other methods of delivery to the court. An electronic filing is timely if it is received by the district or BAP clerk within the time fixed for filing. No additional copies need to be submitted when documents are filed electronically, by mail, or by delivery unless the district court or BAP requires them.	
+
+Subdivision (a)(3) provides that the district or BAP clerk may not refuse to accept a document for filing solely because its form does not comply with these rules or any local rule or practice. The district court or BAP may, however, direct the correction of any deficiency in any document that does not conform to the requirements of these rules or applicable local rules, and may prescribe such other relief as the court deems appropriate.	
+
+Subdivisions (b) and (c) address the service of documents in the district court or BAP. Except for documents that the district or BAP clerk must serve, a party that makes a filing must serve copies of the document on the other parties to the appeal. Service on represented parties must be made on counsel. Subdivision (c) expresses the general requirement under these Part VIII rules that documents be sent electronically. *See* Rule 8001(c). Local court rules, however, may provide for other means of service, and subdivision (c) specifies non-electronic methods of service by or on an unrepresented party. Electronic service is complete upon transmission, unless the party making service receives notice that the transmission did not reach the person intended to be served in a readable form.	
+
+Subdivision (d) retains the former rule's provisions regarding proof of service of a document filed in the district court or BAP. In addition, it provides that a certificate of service must state the mail or electronic address or fax number to which service was made.	
+
+Subdivision (e) is a new provision that requires an electronic signature of counsel or an unrepresented filer for documents that are filed electronically in the district court or BAP. A local rule may specify a method of providing an electronic signature that is consistent with any standards established by the Judicial Conference of the United States. Paper copies of documents filed in the district court or BAP must bear an actual signature of counsel or the filer. By requiring a signature, subdivision (e) ensures that a readily identifiable attorney or party takes responsibility for every document that is filed.
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+### Rule 8012. Corporate Disclosure Statement ###
+
+(a) Who Must File. Any nongovernmental corporate party appearing in the district court or BAP must file a statement that identifies any parent corporation and any publicly held corporation that owns 10% or more of its stock or states that there is no such corporation.
+
+(b) Time to File; Supplemental Filing. A party must file the statement with its principal brief or upon filing a motion, response, petition, or answer in the district court or BAP, whichever occurs first, unless a local rule requires earlier filing. Even if the statement has already been filed, the party's principal brief must include a statement before the table of contents. A party must supplement its statement whenever the required information changes.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Prior Rule ####
+
+A prior Rule 8012, Apr. 25, 1983, eff. Aug. 1, 1983, related to oral argument, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived from F.R.App.P. 26.1. It requires the filing of corporate disclosure statements and supplemental statements in order to assist district court and BAP judges in determining whether they should recuse themselves. Rule 9001 makes the definitions in §101 of the Code applicable to these rules. Under §101(9) the word "corporation" includes a limited liability company, limited liability partnership, business trust, and certain other entities that are not designated under applicable law as corporations.	
+
+If filed separately from a brief, motion, response, petition, or answer, the statement must be filed and served in accordance with Rule 8011. Under Rule 8015(a)(7)(B)(iii), the corporate disclosure statement is not included in calculating applicable word-count limitations.	
+
+*Changes Made After Publication and Comment*. A sentence was added to the Committee Note to draw attention to the broad definition of "corporation" under §101(9) of the Bankruptcy Code.
+
+### Rule 8013. Motions; Intervention ###
+
+(a) Contents of a Motion; Response; Reply.
+
+(1) *Request for Relief*. A request for an order or other relief is made by filing a motion with the district or BAP clerk, with proof of service on the other parties to the appeal.
+
+(2) *Contents of a Motion.*
+
+(A) *Grounds and the Relief Sought*. A motion must state with particularity the grounds for the motion, the relief sought, and the legal argument necessary to support it.
+
+(B) *Motion to Expedite an Appeal*. A motion to expedite an appeal must explain what justifies considering the appeal ahead of other matters. If the district court or BAP grants the motion, it may accelerate the time to transmit the record, the deadline for filing briefs and other documents, oral argument, and the resolution of the appeal. A motion to expedite an appeal may be filed as an emergency motion under subdivision (d).
+
+(C) *Accompanying Documents.*
+
+(i) Any affidavit or other document necessary to support a motion must be served and filed with the motion.
+
+(ii) An affidavit must contain only factual information, not legal argument.
+
+(iii) A motion seeking substantive relief must include a copy of the bankruptcy court's judgment, order, or decree, and any accompanying opinion as a separate exhibit.
+
+(D) *Documents Barred or Not Required.*
+
+(i) A separate brief supporting or responding to a motion must not be filed.
+
+(ii) Unless the court orders otherwise, a notice of motion or a proposed order is not required.
+
+(3) *Response and Reply; Time to File*. Unless the district court or BAP orders otherwise,
+
+(A) any party to the appeal may file a response to the motion within 7 days after service of the motion; and
+
+(B) the movant may file a reply to a response within 7 days after service of the response, but may only address matters raised in the response.
+
+(b) Disposition of a Motion for a Procedural Order. The district court or BAP may rule on a motion for a procedural order—including a motion under Rule 9006(b) or (c)—at any time without awaiting a response. A party adversely affected by the ruling may move to reconsider, vacate, or modify it within 7 days after the procedural order is served.
+
+(c) Oral Argument. A motion will be decided without oral argument unless the district court or BAP orders otherwise.
+
+(d) Emergency Motion.
+
+(1) Noting the Emergency. When a movant requests expedited action on a motion because irreparable harm would occur during the time needed to consider a response, the movant must insert the word "Emergency" before the title of the motion.
+
+(2) *Contents of the Motion*. The emergency motion must
+
+(A) be accompanied by an affidavit setting out the nature of the emergency;
+
+(B) state whether all grounds for it were submitted to the bankruptcy court and, if not, why the motion should not be remanded for the bankruptcy court to consider;
+
+(C) include the e-mail addresses, office addresses, and telephone numbers of moving counsel and, when known, of opposing counsel and any unrepresented parties to the appeal; and
+
+(D) be served as prescribed by Rule 8011.
+
+(3) *Notifying Opposing Parties*. Before filing an emergency motion, the movant must make every practicable effort to notify opposing counsel and any unrepresented parties in time for them to respond. The affidavit accompanying the emergency motion must state when and how notice was given or state why giving it was impracticable.
+
+(e) Power of a Single BAP Judge to Entertain a Motion.
+
+(1) *Single Judge's Authority*. A BAP judge may act alone on any motion, but may not dismiss or otherwise determine an appeal, deny a motion for leave to appeal, or deny a motion for a stay pending appeal if denial would make the appeal moot.
+
+(2) *Reviewing a Single Judge's Action*. The BAP may review a single judge's action, either on its own motion or on a party's motion.
+
+(f) Form of Documents; Page Limits; Number of Copies.
+
+(1) *Format of a Paper Document*. Rule 27(d)(1) F.R.App.P. applies in the district court or BAP to a paper version of a motion, response, or reply.
+
+(2) *Format of an Electronically Filed Document*. A motion, response, or reply filed electronically must comply with the requirements for a paper version regarding covers, line spacing, margins, typeface, and type style. It must also comply with the page limits under paragraph (3).
+
+(3) *Page Limits*. Unless the district court or BAP orders otherwise:
+
+(A) a motion or a response to a motion must not exceed 20 pages, exclusive of the corporate disclosure statement and accompanying documents authorized by subdivision (a)(2)(C); and
+
+(B) a reply to a response must not exceed 10 pages.
+
+(4) *Paper Copies*. Paper copies must be provided only if required by local rule or by an order in a particular case.
+
+(g) Intervening in an Appeal. Unless a statute provides otherwise, an entity that seeks to intervene in an appeal pending in the district court or BAP must move for leave to intervene and serve a copy of the motion on the parties to the appeal. The motion or other notice of intervention authorized by statute must be filed within 30 days after the appeal is docketed. It must concisely state the movant's interest, the grounds for intervention, whether intervention was sought in the bankruptcy court, why intervention is being sought at this stage of the proceeding, and why participating as an amicus curiae would not be adequate.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Prior Rule ####
+
+A prior Rule 8013, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987, related to disposition of appeal and weight accorded bankruptcy judge's findings of fact, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived from former Rule 8011 and F.R.App.P. 15(d) and 27. It adopts many of the provisions of the appellate rules that specify the form and page limits of motions and accompanying documents, while also adjusting those requirements for electronic filing. In addition, it prescribes the procedure for seeking to intervene in the district court or BAP.	
+
+Subdivision (a) retains much of the content of former Rule 8011(a) regarding the contents of a motion, response, and reply. It also specifies the documents that may accompany a motion. Unlike the former rule, which allowed the filing of separate briefs supporting a motion, subdivision (a) now adopts the practice of F.R.App.P. 27(a) of prohibiting the filing of briefs supporting or responding to a motion. The motion or response itself must include the party's legal arguments.	
+
+Subdivision (a)(2)(B) clarifies the procedure for seeking to expedite an appeal. A motion under this provision seeks to expedite the time for the disposition of the appeal as a whole, whereas an emergency motion—which is addressed by subdivision (d)—typically involves an urgent request for relief short of disposing of the entire appeal (for example, an emergency request for a stay pending appeal to prevent imminent mootness). In appropriate cases—such as when there is an urgent need to resolve the appeal quickly to prevent harm—a party may file a motion to expedite the appeal as an emergency motion.	
+
+Subdivision (b) retains the substance of former Rule 8011(b). It authorizes the district court or BAP to act on a motion for a procedural order without awaiting a response to the motion. It specifies that a party seeking reconsideration, vacation, or modification of the order must file a motion within 7 days after service of the order.	
+
+Subdivision (c) continues the practice of former Rule 8011(c) and F.R.App.P. 27(e) of dispensing with oral argument of motions in the district court or BAP unless the court orders otherwise.	
+
+Subdivision (d), which carries forward the content of former Rule 8011(d), governs emergency motions that the district court or BAP may rule on without awaiting a response when necessary to prevent irreparable harm. A party seeking expedited action on a motion in the district court or BAP must explain the nature of the emergency, whether all grounds in support of the motion were first presented to the bankruptcy court, and, if not, why the district court or BAP should not remand for reconsideration. The moving party must also explain the steps taken to notify opposing counsel and any unrepresented parties in advance of filing the emergency motion and, if they were not notified, why it was impracticable to do so.	
+
+Subdivision (e), like former Rule 8011(e) and similar to F.R.App.P. 27(c), authorizes a single BAP judge to rule on certain motions. This authority, however, does not extend to issuing rulings that would dispose of the appeal. For that reason, the rule now prohibits a single BAP judge from denying a motion for a stay pending appeal when the effect of that ruling would be to require dismissal of the appeal as moot. A ruling by a single judge is subject to review by the BAP.	
+
+Subdivision (f) incorporates by reference the formatting and appearance requirements of F.R.App.P. 27(d)(1). When paper versions of the listed documents are filed, they must comply with the requirements of the specified rules regarding reproduction, covers, binding, appearance, and format. When these documents are filed electronically, they must comply with the relevant requirements of the specified rules regarding covers and format. Subdivision (f) also specifies page limits for motions, responses, and replies, which is a matter that former Rule 8011 did not address.	
+
+Subdivision (g) clarifies the procedure for seeking to intervene in a proceeding that has been appealed. It is based on F.R.App.P. 15(d), but it also requires the moving party to explain why intervention is being sought at the appellate stage. The former Part VIII rules did not address intervention.
+
+*Changes Made After Publication and Comment*. Subdivision (a)(2)(D) was changed to allow the court to require a notice of motion or proposed order. A stylistic change was made to subdivision (d)(2)(B).
+
+#### References in Text ####
+
+The Federal Rules of Appellate Procedure, referred to in subd. (f)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
+### Rule 8014. Briefs	 ###
+
+(a) Appellant's Brief. The appellant's brief must contain the following under appropriate headings and in the order indicated:
+
+(1) a corporate disclosure statement, if required by Rule 8012;
+
+(2) a table of contents, with page references;
+
+(3) a table of authorities—cases (alphabetically arranged), statutes, and other authorities—with references to the pages of the brief where they are cited;
+
+(4) a jurisdictional statement, including:
+
+(A) the basis for the bankruptcy court's subject-matter jurisdiction, with citations to applicable statutory provisions and stating relevant facts establishing jurisdiction;
+
+(B) the basis for the district court's or BAP's jurisdiction, with citations to applicable statutory provisions and stating relevant facts establishing jurisdiction;
+
+(C) the filing dates establishing the timeliness of the appeal; and
+
+(D) an assertion that the appeal is from a final judgment, order, or decree, or information establishing the district court's or BAP's jurisdiction on another basis;
+
+(5) a statement of the issues presented and, for each one, a concise statement of the applicable standard of appellate review;
+
+(6) a concise statement of the case setting out the facts relevant to the issues submitted for review, describing the relevant procedural history, and identifying the rulings presented for review, with appropriate references to the record;
+
+(7) a summary of the argument, which must contain a succinct, clear, and accurate statement of the arguments made in the body of the brief, and which must not merely repeat the argument headings;
+
+(8) the argument, which must contain the appellant's contentions and the reasons for them, with citations to the authorities and parts of the record on which the appellant relies;
+
+(9) a short conclusion stating the precise relief sought; and
+
+(10) the certificate of compliance, if required by Rule 8015(a)(7) or (b).
+
+(b) Appellee's Brief. The appellee's brief must conform to the requirements of subdivision (a)(1)–(8) and (10), except that none of the following need appear unless the appellee is dissatisfied with the appellant's statement:
+
+(1) the jurisdictional statement;
+
+(2) the statement of the issues and the applicable standard of appellate review; and
+
+(3) the statement of the case.
+
+(c) Reply Brief. The appellant may file a brief in reply to the appellee's brief. A reply brief must comply with the requirements of subdivision (a)(2)–(3).
+
+(d) Statutes, Rules, Regulations, or Similar Authority. If the court's determination of the issues presented requires the study of the Code or other statutes, rules, regulations, or similar authority, the relevant parts must be set out in the brief or in an addendum.
+
+(e) Briefs in a Case Involving Multiple Appellants or Appellees. In a case involving more than one appellant or appellee, including consolidated cases, any number of appellants or appellees may join in a brief, and any party may adopt by reference a part of another's brief. Parties may also join in reply briefs.
+
+(f) Citation of Supplemental Authorities. If pertinent and significant authorities come to a party's attention after the party's brief has been filed—or after oral argument but before a decision—a party may promptly advise the district or BAP clerk by a signed submission setting forth the citations. The submission, which must be served on the other parties to the appeal, must state the reasons for the supplemental citations, referring either to the pertinent page of a brief or to a point argued orally. The body of the submission must not exceed 350 words. Any response must be made within 7 days after the party is served, unless the court orders otherwise, and must be similarly limited.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Prior Rule ####
+
+A prior Rule 8014, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987, related to costs, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived from former Rule 8010(a) and (b) and F.R.App.P. 28. Adopting much of the content of Rule 28, it provides greater detail than former Rule 8010 contained regarding appellate briefs.	
+
+Subdivision (a) prescribes the content and structure of the appellant's brief. It largely follows former Rule 8010(a)(1), but, to ensure national uniformity, it eliminates the provision authorizing a district court or BAP to alter these requirements. Subdivision (a)(1) provides that when Rule 8012 requires an appellant to file a corporate disclosure statement, it must be placed at the beginning of the appellant's brief. Subdivision (a)(10) is new. It implements the requirement under Rule 8015(a)(7)(C) and (b) for the filing of a certificate of compliance with the limit on the number of words or lines allowed to be in a brief.
+
+Subdivision (b) carries forward the provisions of former Rule 8010(a)(2).	
+
+Subdivision (c) is derived from F.R.App.P. 28(c). It authorizes an appellant to file a reply brief, which will generally complete the briefing process.	
+
+Subdivision (d) is similar to former Rule 8010(b), but it is reworded to reflect the likelihood that briefs will generally be filed electronically rather than in paper form.	
+
+Subdivision (e) mirrors F.R.App.P. 28(i). It authorizes multiple appellants or appellees to join in a single brief. It also allows a party to incorporate by reference portions of another party's brief.	
+
+Subdivision (f) adopts the procedures of F.R.App.P. 28(j) with respect to the filing of supplemental authorities with the district court or BAP after a brief has been filed or after oral argument. Unlike the appellate rule, it specifies a period of 7 days for filing a response to a submission of supplemental authorities. The supplemental submission and response must comply with the signature requirements of Rule 8011(e).	
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+### Rule 8015. Form and Length of Briefs; Form of Appendices and Other Papers	 ###
+
+(a) Paper Copies of a Brief. If a paper copy of a brief may or must be filed, the following provisions apply:
+
+(1) *Reproduction.*
+
+(A) A brief may be reproduced by any process that yields a clear black image on light paper. The paper must be opaque and unglazed. Only one side of the paper may be used.
+
+(B) Text must be reproduced with a clarity that equals or exceeds the output of a laser printer.
+
+(C) Photographs, illustrations, and tables may be reproduced by any method that results in a good copy of the original. A glossy finish is acceptable if the original is glossy.
+
+(2) *Cover*. The front cover of a brief must contain:
+
+(A) the number of the case centered at the top;
+
+(B) the name of the court;
+
+(C) the title of the case as prescribed by Rule 8003(d)(2) or 8004(c)(2);
+
+(D) the nature of the proceeding and the name of the court below;
+
+(E) the title of the brief, identifying the party or parties for whom the brief is filed; and
+
+(F) the name, office address, telephone number, and e-mail address of counsel representing the party for whom the brief is filed.
+
+(3) *Binding*. The brief must be bound in any manner that is secure, does not obscure the text, and permits the brief to lie reasonably flat when open.
+
+(4) *Paper Size, Line Spacing, and Margins*. The brief must be on 8½-by-11 inch paper. The text must be double-spaced, but quotations more than two lines long may be indented and single-spaced. Headings and footnotes may be single-spaced. Margins must be at least one inch on all four sides. Page numbers may be placed in the margins, but no text may appear there.
+
+(5) *Typeface*. Either a proportionally spaced or monospaced face may be used.
+
+(A) A proportionally spaced face must include serifs, but sans-serif type may be used in headings and captions. A proportionally spaced face must be 14-point or larger.
+
+(B) A monospaced face may not contain more than 10½ characters per inch.
+
+(6) *Type Styles*. A brief must be set in plain, roman style, although italics or boldface may be used for emphasis. Case names must be italicized or underlined.
+
+(7) *Length.*
+
+(A) *Page limitation*. A principal brief must not exceed 30 pages, or a reply brief 15 pages, unless it complies with (B) and (C).
+
+(B) *Type-volume limitation.*
+
+(i) A principal brief is acceptable if:
+
+• it contains no more than 14,000 words; or
+
+• it uses a monospaced face and contains no more than 1,300 lines of text.
+
+(ii) A reply brief is acceptable if it contains no more than half of the type volume specified in item (i).
+
+(iii) Headings, footnotes, and quotations count toward the word and line limitations. The corporate disclosure statement, table of contents, table of citations, statement with respect to oral argument, any addendum containing statutes, rules, or regulations, and any certificates of counsel do not count toward the limitation.
+
+(C) *Certificate of Compliance.*
+
+(i) A brief submitted under subdivision (a)(7)(B) must include a certificate signed by the attorney, or an unrepresented party, that the brief complies with the type-volume limitation. The person preparing the certificate may rely on the word or line count of the word-processing system used to prepare the brief. The certificate must state either:
+
+• the number of words in the brief; or
+
+• the number of lines of monospaced type in the brief.
+
+(ii) The certification requirement is satisfied by a certificate of compliance that conforms substantially to the appropriate Official Form.
+
+(b) Electronically Filed Briefs. A brief filed electronically must comply with subdivision (a), except for (a)(1), (a)(3), and the paper requirement of (a)(4).
+
+(c) Paper Copies of Appendices. A paper copy of an appendix must comply with subdivision (a)(1), (2), (3), and (4), with the following exceptions:
+
+(1) An appendix may include a legible photocopy of any document found in the record or of a printed decision.
+
+(2) When necessary to facilitate inclusion of odd-sized documents such as technical drawings, an appendix may be a size other than 8½-by-11 inches, and need not lie reasonably flat when opened.
+
+(d) Electronically Filed Appendices. An appendix filed electronically must comply with subdivision (a)(2) and (4), except for the paper requirement of (a)(4).
+
+(e) Other Documents.
+
+(1) *Motion*. Rule 8013(f) governs the form of a motion, response, or reply.
+
+(2) *Paper Copies of Other Documents*. A paper copy of any other document, other than a submission under Rule 8014(f), must comply with subdivision (a), with the following exceptions:
+
+(A) A cover is not necessary if the caption and signature page together contain the information required by subdivision (a)(2).
+
+(B) Subdivision (a)(7) does not apply.
+
+(3) *Other Documents Filed Electronically*. Any other document filed electronically, other than a submission under Rule 8014(f), must comply with the appearance requirements of paragraph (2).
+
+(f) Local Variation. A district court or BAP must accept documents that comply with the applicable requirements of this rule. By local rule, a district court or BAP may accept documents that do not meet all of the requirements of this rule.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Prior Rule ####
+
+A prior Rule 8015, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987; Mar. 26, 2009, eff. Dec. 1, 2009, related to motion for rehearing, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived primarily from F.R.App.P. 32. Former Rule 8010(c) prescribed page limits for principal briefs and reply briefs. Those limits are now addressed by subdivision (a)(7) of this rule. In addition, the rule incorporates most of the detail of F.R.App.P. 32 regarding the appearance and format of briefs, appendices, and other documents, along with new provisions that apply when those documents are filed electronically.	
+
+Subdivision (a) prescribes the form requirements for briefs that are filed in paper form. It incorporates F.R.App.P. 32(a), except it does not include color requirements for brief covers, it requires the cover of a brief to include counsel's e-mail address, and cross-references to the appropriate bankruptcy rules are substituted for references to the Federal Rules of Appellate Procedure.	
+
+Subdivision (a)(7) decreases the length of briefs, as measured by the number of pages, that was permitted by former Rule 8010(c). Page limits are reduced from 50 to 30 pages for a principal brief and from 25 to 15 for a reply brief in order to achieve consistency with F.R.App.P. 32(a)(7). But as permitted by the appellate rule, subdivision (a)(7) also permits the limits on the length of a brief to be measured by a word or line count, as an alternative to a page limit. Basing the calculation of brief length on either of the type-volume methods specified in subdivision (a)(7)(B) will result in briefs that may exceed the designated page limits in (a)(7)(A) and that may be approximately as long as allowed by the prior page limits.	
+
+Subdivision (b) adapts for briefs that are electronically filed subdivision (a)'s form requirements. With the use of electronic filing, the method of reproduction, method of binding, and use of paper become irrelevant. But information required on the cover, formatting requirements, and limits on brief length remain the same.	
+
+Subdivisions (c) and (d) prescribe the form requirements for appendices. Subdivision (c), applicable to paper appendices, is derived from F.R.App.P. 32(b), and subdivision (d) adapts those requirements for electronically filed appendices.	
+
+Subdivision (e), which is based on F.R.App.P. 32(c), addresses the form required for documents—in paper form or electronically filed—that these rules do not otherwise cover.
+
+Subdivision (f), like F.R.App.P. 32(e), provides assurance to lawyers and parties that compliance with this rule's form requirements will allow a brief or other document to be accepted by any district court or BAP. A court may, however, by local rule or, under Rule 8028 by order in a particular case, choose to accept briefs and documents that do not comply with all of this rule's requirements. The decision whether to accept a brief that appears not to be in compliance with the rules must be made by the court. Under Rule 8011(a)(3), the clerk may not refuse to accept a document for filing solely because it is not presented in proper form as required by these rules or any local rule or practice.	
+
+Under Rule 8011(e), the party filing the document or, if represented, its counsel must sign all briefs and other submissions. If the document is filed electronically, an electronic signature must be provided in accordance with Rule 8011(e).	
+
+*Changes Made After Publication and Comment*. In subdivision (f), "or order in a particular case" was deleted as unnecessary. The discussion in the Committee Note about brief lengths was revised, and the discussion of subdivision (f) was expanded.
+
+### Rule 8016. Cross-Appeals ###
+
+(a) Applicability. This rule applies to a case in which a cross-appeal is filed. Rules 8014(a)–(c), 8015(a)(7)(A)–(B), and 8018(a)(1)–(3) do not apply to such a case, except as otherwise provided in this rule.
+
+(b) Designation of Appellant. The party who files a notice of appeal first is the appellant for purposes of this rule and Rule 8018(a)(4) and (b) and Rule 8019. If notices are filed on the same day, the plaintiff, petitioner, applicant, or movant in the proceeding below is the appellant. These designations may be modified by the parties' agreement or by court order.
+
+(c) Briefs. In a case involving a cross-appeal:
+
+(1) *Appellant's Principal Brief*. The appellant must file a principal brief in the appeal. That brief must comply with Rule 8014(a).
+
+(2) *Appellee's Principal and Response Brief*. The appellee must file a principal brief in the cross-appeal and must, in the same brief, respond to the principal brief in the appeal. That brief must comply with Rule 8014(a), except that the brief need not include a statement of the case unless the appellee is dissatisfied with the appellant's statement.
+
+(3) *Appellant's Response and Reply Brief*. The appellant must file a brief that responds to the principal brief in the cross-appeal and may, in the same brief, reply to the response in the appeal. That brief must comply with Rule 8014(a)(2)–(8) and (10), except that none of the following need appear unless the appellant is dissatisfied with the appellee's statement in the cross-appeal:
+
+(A) the jurisdictional statement;
+
+(B) the statement of the issues and the applicable standard of appellate review; and
+
+(C) the statement of the case.
+
+(4) *Appellee's Reply Brief*. The appellee may file a brief in reply to the response in the cross-appeal. That brief must comply with Rule 8014(a)(2)–(3) and (10) and must be limited to the issues presented by the cross-appeal.
+
+(d) Length.
+
+(1) *Page Limitation*. Unless it complies with paragraphs (2) and (3), the appellant's principal brief must not exceed 30 pages; the appellee's principal and response brief, 35 pages; the appellant's response and reply brief, 30 pages; and the appellee's reply brief, 15 pages.
+
+(2) *Type-Volume Limitation.*
+
+(A) The appellant's principal brief or the appellant's response and reply brief is acceptable if:
+
+(i) it contains no more than 14,000 words; or
+
+(ii) it uses a monospaced face and contains no more than 1,300 lines of text.
+
+(B) The appellee's principal and response brief is acceptable if:
+
+(i) it contains no more than 16,500 words; or
+
+(ii) it uses a monospaced face and contains no more than 1,500 lines of text.
+
+(C) The appellee's reply brief is acceptable if it contains no more than half of the type volume specified in subparagraph (A).
+
+(D) Headings, footnotes, and quotations count toward the word and line limitations. The corporate disclosure statement, table of contents, table of citations, statement with respect to oral argument, any addendum containing statutes, rules, or regulations, and any certificates of counsel do not count toward the limitation.
+
+(3) *Certificate of Compliance*. A brief submitted either electronically or in paper form under paragraph (2) must comply with Rule 8015(a)(7)(C).
+
+(e) Time to Serve and File a Brief. Briefs must be served and filed as follows, unless the district court or BAP by order in a particular case excuses the filing of briefs or specifies different time limits:
+
+(1) the appellant's principal brief, within 30 days after the docketing of notice that the record has been transmitted or is available electronically;
+
+(2) the appellee's principal and response brief, within 30 days after the appellant's principal brief is served;
+
+(3) the appellant's response and reply brief, within 30 days after the appellee's principal and response brief is served; and
+
+(4)	the appellee's reply brief, within 14 days after the appellant's response and reply brief is served, but at least 7 days before scheduled argument unless the district court or BAP, for good cause, allows a later filing.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Prior Rule ####
+
+A prior Rule 8016, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991, related to duties of clerk of district court and bankruptcy appellate panel, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived from F.R.App.P. 28.1. It governs the timing, content, length, filing, and service of briefs in bankruptcy appeals in which there is a cross-appeal. The former Part VIII rules did not separately address the topic of cross-appeals.	
+
+Subdivision (b) prescribes which party is designated the appellant when there is a cross-appeal. Generally, the first to file a notice of appeal will be the appellant.	
+
+Subdivision (c) specifies the briefs that the appellant and the appellee may file. Because of the dual role of the parties to the appeal and cross-appeal, each party is permitted to file a principal brief and a response to the opposing party's brief, as well as a reply brief. For the appellee, the principal brief in the cross-appeal and the response in the appeal are combined into a single brief. The appellant, on the other hand, initially files a principal brief in the appeal and later files a response to the appellee's principal brief in the cross-appeal, along with a reply brief in the appeal. The final brief that may be filed is the appellee's reply brief in the cross-appeal.	
+
+Subdivision (d), which prescribes page limits for briefs, is adopted from F.R.App.P. 28.1(e). It applies to briefs that are filed electronically, as well as to those filed in paper form. Like Rule 8015(a)(7), it imposes limits measured by either the number of pages or the number of words or lines of text.	
+
+Subdivision (e) governs the time for filing briefs in cases in which there is a cross-appeal. It adapts the provisions of F.R.App.P. 28.1(f).
+
+*Changes Made After Publication and Comment*. Subdivision (d)(2)(D) was added, and subdivision (f) was deleted. In subdivision (a), the statement that Rule 8018(a) does not apply was changed to refer to Rule 8018(a)(1)–(3). In subdivision (b), Rule 8018(a)(4) was added to the list of rules. Conforming changes were made to the Committee Note.
+
+### Rule 8017. Brief of an Amicus Curiae	 ###
+
+(a) When Permitted. The United States or its officer or agency or a state may file an amicus-curiae brief without the consent of the parties or leave of court. Any other amicus curiae may file a brief only by leave of court or if the brief states that all parties have consented to its filing. On its own motion, and with notice to all parties to an appeal, the district court or BAP may request a brief by an amicus curiae.
+
+(b) Motion for Leave to File. The motion must be accompanied by the proposed brief and state:
+
+(1) the movant's interest; and
+
+(2) the reason why an amicus brief is desirable and why the matters asserted are relevant to the disposition of the appeal.
+
+(c) Contents and Form. An amicus brief must comply with Rule 8015. In addition to the requirements of Rule 8015, the cover must identify the party or parties supported and indicate whether the brief supports affirmance or reversal. If an amicus curiae is a corporation, the brief must include a disclosure statement like that required of parties by Rule 8012. An amicus brief need not comply with Rule 8014, but must include the following:
+
+(1) a table of contents, with page references;
+
+(2) a table of authorities—cases (alphabetically arranged), statutes, and other authorities—with references to the pages of the brief where they are cited;
+
+(3) a concise statement of the identity of the amicus curiae, its interest in the case, and the source of its authority to file;
+
+(4) unless the amicus curiae is one listed in the first sentence of subdivision (a), a statement that indicates whether:
+
+(A) a party's counsel authored the brief in whole or in part;
+
+(B) a party or a party's counsel contributed money that was intended to fund preparing or submitting the brief; and
+
+(C) a person—other than the amicus curiae, its members, or its counsel—contributed money that was intended to fund preparing or submitting the brief and, if so, identifies each such person;
+
+(5) an argument, which may be preceded by a summary and need not include a statement of the applicable standard of review; and
+
+(6)	a certificate of compliance, if required by Rule 8015(a)(7)(C) or 8015(b).
+
+(d) Length. Except by the district court's or BAP's permission, an amicus brief must be no more than one-half the maximum length authorized by these rules for a party's principal brief. If the court grants a party permission to file a longer brief, that extension does not affect the length of an amicus brief.
+
+(e) Time for Filing. An amicus curiae must file its brief, accompanied by a motion for filing when necessary, no later than 7 days after the principal brief of the party being supported is filed. An amicus curiae that does not support either party must file its brief no later than 7 days after the appellant's principal brief is filed. The district court or BAP may grant leave for later filing, specifying the time within which an opposing party may answer.
+
+(f) Reply Brief. Except by the district court's or BAP's permission, an amicus curiae may not file a reply brief.
+
+(g) Oral Argument. An amicus curiae may participate in oral argument only with the district court's or BAP's permission.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Prior Rule ####
+
+A prior Rule 8017, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 26, 2009, eff. Dec. 1, 2009, related to stay of judgment of district court or bankruptcy appellate panel, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived from F.R.App.P. 29. The former Part VIII rules did not address the participation by an amicus curiae in a bankruptcy appeal.	
+
+Subdivision (a) adopts the provisions of F.R.App.P. 29(a). In addition, it authorizes the district court or BAP on its own motion—with notice to the parties—to request the filing of a brief by an amicus curiae.	
+
+Subdivisions (b)–(g) adopt F.R.App.P. 29(b)–(g).
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+### Rule 8018. Serving and Filing Briefs; Appendices ###
+
+(a) Time to Serve and File a Brief. The following rules apply unless the district court or BAP by order in a particular case excuses the filing of briefs or specifies different time limits:
+
+(1) The appellant must serve and file a brief within 30 days after the docketing of notice that the record has been transmitted or is available electronically.
+
+(2) The appellee must serve and file a brief within 30 days after service of the appellant's brief.
+
+(3) The appellant may serve and file a reply brief within 14 days after service of the appellee's brief, but a reply brief must be filed at least 7 days before scheduled argument unless the district court or BAP, for good cause, allows a later filing.
+
+(4) If an appellant fails to file a brief on time or within an extended time authorized by the district court or BAP, an appellee may move to dismiss the appeal—or the district court or BAP, after notice, may dismiss the appeal on its own motion. An appellee who fails to file a brief will not be heard at oral argument unless the district court or BAP grants permission.
+
+(b) Duty to Serve and File an Appendix to the Brief.
+
+(1) *Appellant*. Subject to subdivision (e) and Rule 8009(d), the appellant must serve and file with its principal brief excerpts of the record as an appendix. It must contain the following:
+
+(A) the relevant entries in the bankruptcy docket;
+
+(B) the complaint and answer, or other equivalent filings;
+
+(C) the judgment, order, or decree from which the appeal is taken;
+
+(D) any other orders, pleadings, jury instructions, findings, conclusions, or opinions relevant to the appeal;
+
+(E) the notice of appeal; and
+
+(F) any relevant transcript or portion of it.
+
+(2) *Appellee*. The appellee may also serve and file with its brief an appendix that contains material required to be included by the appellant or relevant to the appeal or cross-appeal, but omitted by the appellant.
+
+(3) *Cross-Appellee*. The appellant as cross-appellee may also serve and file with its response an appendix that contains material relevant to matters raised initially by the principal brief in the cross-appeal, but omitted by the cross-appellant.
+
+(c) Format of the Appendix. The appendix must begin with a table of contents identifying the page at which each part begins. The relevant docket entries must follow the table of contents. Other parts of the record must follow chronologically. When pages from the transcript of proceedings are placed in the appendix, the transcript page numbers must be shown in brackets immediately before the included pages. Omissions in the text of documents or of the transcript must be indicated by asterisks. Immaterial formal matters (captions, subscriptions, acknowledgments, and the like) should be omitted.
+
+(d) Exhibits. Exhibits designated for inclusion in the appendix may be reproduced in a separate volume or volumes, suitably indexed.
+
+(e) Appeal on the Original Record Without an Appendix. The district court or BAP may, either by rule for all cases or classes of cases or by order in a particular case, dispense with the appendix and permit an appeal to proceed on the original record, with the submission of any relevant parts of the record that the district court or BAP orders the parties to file.
+
+(Added Apr. 25, 2014, eff. Dec. 1,2014.)
+
+#### Prior Rule ####
+
+A prior Rule 8018, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 27, 1995, eff. Dec. 1, 1995, related to rules by circuit councils and district courts and procedure when there is no controlling law, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived from former Rule 8009 and F.R.App.P. 30 and 31. Like former Rule 8009, it addresses the timing of serving and filing briefs and appendices, as well as the content and format of appendices. Rule 8011 governs the methods of filing and serving briefs and appendices.	
+
+The rule retains the bankruptcy practice of permitting the appellee to file its own appendix, rather than requiring the appellant to include in its appendix matters designated by the appellee. Rule 8016 governs the timing of serving and filing briefs when a cross-appeal is taken. This rule's provisions about appendices apply to all appeals, including cross-appeals.	
+
+Subdivision (a) retains former Rule 8009's provision that allows the district court or BAP to dispense with briefing or to provide different time periods than this rule specifies. It increases some of the time periods for filing briefs from the periods prescribed by the former rule, while still retaining shorter time periods than some provided by F.R.App.P. 31(a). The time for filing the appellant's brief is increased from 14 to 30 days after the docketing of the notice of the transmission of the record or notice of the availability of the record. That triggering event is equivalent to docketing the appeal under former Rule 8007. Appellate Rule 31(a)(1), by contrast, provides the appellant 40 days after the record is filed to file its brief. The shorter time period for bankruptcy appeals reflects the frequent need for greater expedition in the resolution of bankruptcy appeals, while still providing the appellant more time to prepare its brief than the former rule provided.	
+
+Subdivision (a)(2) similarly expands the time period for filing the appellee's brief from 14 to 30 days after the service of the appellant's brief. This period is the same as F.R.App.P. 31(a)(1) provides.	
+
+Subdivision (a)(3) retains the 14-day time period for filing a reply brief that the former rule prescribed, but it qualifies that period to ensure that the final brief is filed at least 7 days before oral argument.	
+
+If a district court or BAP has a mediation procedure for bankruptcy appeals, that procedure could affect when briefs must be filed. *See* Rule 8027.	
+
+Subdivision (a)(4) is new. Based on F.R.App.P. 31(c), it provides for actions that may be taken—dismissal of the appeal or denial of participation in oral argument—if the appellant or appellee fails to file its brief.	
+
+Subdivisions (b) and (c) govern the content and format of the appendix to a brief. Subdivision (b) is similar to former Rule 8009(b), and subdivision (c) is derived from F.R.App.P. 30(d).	
+
+Subdivision (d), which addresses the inclusion of exhibits in the appendix, is derived from F.R.App.P. 30(e).	
+
+*Changes Made After Publication and Comment*. Subdivision (a)(4) was revised to provide more detail about the procedure for dismissing an appeal due to appellant's failure to timely file a brief.
+
+### Rule 8019. Oral Argument ###
+
+(a) Party's Statement. Any party may file, or a district court or BAP may require, a statement explaining why oral argument should, or need not, be permitted.
+
+(b) Resumption of Oral Argument and Exceptions. Oral argument must be allowed in every case unless the district judge—or all the BAP judges assigned to hear the appeal—examine the briefs and record and determine that oral argument is unnecessary because
+
+(1) the appeal is frivolous;
+
+(2) the dispositive issue or issues have been authoritatively decided; or
+
+(3) the facts and legal arguments are adequately presented in the briefs and record, and the decisional process would not be significantly aided by oral argument.
+
+(c) Notice of Argument; Postponement. The district court or BAP must advise all parties of the date, time, and place for oral argument, and the time allowed for each side. A motion to postpone the argument or to allow longer argument must be filed reasonably in advance of the hearing date.
+
+(d) Order and Contents of Argument. The appellant opens and concludes the argument. Counsel must not read at length from briefs, the record, or authorities.
+
+(e) Cross-appeals and Separate Appeals. If there is a cross-appeal, Rule 8016(b) determines which party is the appellant and which is the appellee for the purposes of oral argument. Unless the district court or BAP directs otherwise, a cross-appeal or separate appeal must be argued when the initial appeal is argued. Separate parties should avoid duplicative argument.
+
+(f) Nonappearance of a Party. If the appellee fails to appear for argument, the district court or BAP may hear the appellant's argument. If the appellant fails to appear for argument, the district court or BAP may hear the appellee's argument. If neither party appears, the case will be decided on the briefs unless the district court or BAP orders otherwise.
+
+(g) Submission on Briefs. The parties may agree to submit a case for decision on the briefs, but the district court or BAP may direct that the case be argued.
+
+(h) Use of Physical Exhibits at Argument; Removal. Counsel intending to use physical exhibits other than documents at the argument must arrange to place them in the courtroom on the day of the argument before the court convenes. After the argument, counsel must remove the exhibits from the courtroom unless the district court or BAP directs otherwise. The clerk may destroy or dispose of the exhibits if counsel does not reclaim them within a reasonable time after the clerk gives notice to remove them.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Prior Rule ####
+
+A prior Rule 8019, Apr. 25, 1983, eff. Aug. 1, 1983, as amended Mar. 30, 1987, eff. Aug. 1, 1987, related to suspension of rules in Part VIII, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+#### Committee Notes on Rules—2014 ####
+
+This rule generally retains the provisions of former Rule 8012 and adds much of the additional detail of F.R.App.P. 34. By incorporating the more detailed provisions of the appellate rule, Rule 8019 promotes national uniformity regarding oral argument in bankruptcy appeals.	
+
+Subdivision (a), like F.R.App.P. 34(a)(1), now allows a party to submit a statement explaining why oral argument is or is not needed. It also authorizes a court to require this statement. Former Rule 8012 only authorized statements explaining why oral argument should be allowed.	
+
+Subdivision (b) retains the reasons set forth in former Rule 8012 for the district court or BAP to conclude that oral argument is not needed.	
+
+The remainder of this rule adopts the provisions of F.R.App.P. 34(b)–(g), with one exception. Rather than requiring the district court or BAP to hear appellant's argument if the appellee does not appear, subdivision (f) authorizes the district court or BAP to go forward with the argument in the appellee's absence. Should the court decide, however, to postpone the oral argument in that situation, it would be authorized to do so.
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+### Rule 8020. Frivolous Appeal and Other Misconduct ###
+
+(a) Frivolous Appeal—damages and Costs. If the district court or BAP determines that an appeal is frivolous, it may, after a separately filed motion or notice from the court and reasonable opportunity to respond, award just damages and single or double costs to the appellee.
+
+(b) Other Misconduct. The district court or BAP may discipline or sanction an attorney or party appearing before it for other misconduct, including failure to comply with any court order. First, however, the court must afford the attorney or party reasonable notice, an opportunity to show cause to the contrary, and, if requested, a hearing.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Prior Rule ####
+
+A prior Rule 8020, Apr. 11, 1997, eff. Dec. 1, 1997, related to damages and costs for frivolous appeal, prior to revision of Part VIII, Apr. 25, 2014, eff. Dec. 1, 2014.
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived from former Rule 8020 and F.R.App.P. 38 and 46(c). Subdivision (a) permits an award of damages and costs to an appellee for a frivolous appeal. Subdivision (b) permits the district court or BAP to impose on parties as well as their counsel sanctions for misconduct other than taking a frivolous appeal. Failure to comply with a court order, for which sanctions may be imposed, may include a failure to comply with a local court rule.
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+### Rule 8021. Costs ###
+
+(a) Against Whom Assessed. The following rules apply unless the law provides or the district court or BAP orders otherwise:
+
+(1) if an appeal is dismissed, costs are taxed against the appellant, unless the parties agree otherwise;
+
+(2) if a judgment, order, or decree is affirmed, costs are taxed against the appellant;
+
+(3) if a judgment, order, or decree is reversed, costs are taxed against the appellee;
+
+(4) if a judgment, order, or decree is affirmed or reversed in part, modified, or vacated, costs are taxed only as the district court or BAP orders.
+
+(b) Costs For and Against the United States. Costs for or against the United States, its agency, or its officer may be assessed under subdivision (a) only if authorized by law.
+
+(c) Costs on Appeal Taxable in the Bankruptcy Court. The following costs on appeal are taxable in the bankruptcy court for the benefit of the party entitled to costs under this rule:
+
+(1) the production of any required copies of a brief, appendix, exhibit, or the record;
+
+(2) the preparation and transmission of the record;
+
+(3) the reporter's transcript, if needed to determine the appeal;
+
+(4) premiums paid for a supersedeas bond or other bonds to preserve rights pending appeal; and
+
+(5) the fee for filing the notice of appeal.
+
+(d) Bill of Costs; Objections. A party who wants costs taxed must, within 14 days after entry of judgment on appeal, file with the bankruptcy clerk, with proof of service, an itemized and verified bill of costs. Objections must be filed within 14 days after service of the bill of costs, unless the bankruptcy court extends the time.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived from former Rule 8014 and F.R.App.P. 39. It retains the former rule's authorization for taxing appellate costs against the losing party and its specification of the costs that may be taxed. The rule also incorporates some of the additional details regarding the taxing of costs contained in F.R.App.P. 39. Consistent with former Rule 8014, the bankruptcy clerk has the responsibility for taxing all costs. Subdivision (b), derived from F.R.App.P. 39(b), clarifies that additional authority is required for the taxation of costs by or against federal governmental parties.	
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+### Rule 8022. Motion for Rehearing ###
+
+(a) Time to File; Contents; Response; Action by the District Court or BAP if Granted.
+
+(1) *Time*. Unless the time is shortened or extended by order or local rule, any motion for rehearing by the district court or BAP must be filed within 14 days after entry of judgment on appeal.
+
+(2) *Contents*. The motion must state with particularity each point of law or fact that the movant believes the district court or BAP has overlooked or misapprehended and must argue in support of the motion. Oral argument is not permitted.
+
+(3) *Response*. Unless the district court or BAP requests, no response to a motion for rehearing is permitted. But ordinarily, rehearing will not be granted in the absence of such a request.
+
+(4) *Action by the District Court or BAP*. If a motion for rehearing is granted, the district court or BAP may do any of the following:
+
+(A) make a final disposition of the appeal without reargument;
+
+(B) restore the case to the calendar for reargument or resubmission; or
+
+(C) issue any other appropriate order.
+
+(b) Form of the Motion; Length. The motion must comply in form with Rule 8013(f)(1) and (2). Copies must be served and filed as provided by Rule 8011. Unless the district court or BAP orders otherwise, a motion for rehearing must not exceed 15 pages.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived from former Rule 8015 and F.R.App.P. 40. It deletes the provision of former Rule 8015 regarding the time for appeal to the court of appeals because the matter is addressed by F.R.App.P. 6(b)(2)(A).
+
+*Changes Made After Publication and Comment*. In subdivision (b), the reference to local rule was deleted as unnecessary.
+
+### Rule 8023. Voluntary Dismissal ###
+
+The clerk of the district court or BAP must dismiss an appeal if the parties file a signed dismissal agreement specifying how costs are to be paid and pay any fees that are due. An appeal may be dismissed on the appellant's motion on terms agreed to by the parties or fixed by the district court or BAP.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived from former Rule 8001(c) and F.R.App.P. 42. The provision of the former rule regarding dismissal of appeals in the bankruptcy court prior to docketing of the appeal has been deleted. Now that docketing occurs promptly after a notice of appeal is filed, see Rules 8003(d) and 8004(c), an appeal likely will not be voluntarily dismissed before docketing.
+
+The rule retains the provision of the former rule that the district or BAP clerk must dismiss an appeal upon the parties' agreement. District courts and BAPs continue to have discretion to dismiss an appeal on an appellant's motion. Nothing in the rule prohibits a district court or BAP from dismissing an appeal for other reasons authorized by law, such as the failure to prosecute an appeal.	
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+### Rule 8024. Clerk's Duties on Disposition of the Appeal ###
+
+(a) Judgment on Appeal. The district or BAP clerk must prepare, sign, and enter the judgment after receiving the court's opinion or, if there is no opinion, as the court instructs. Noting the judgment on the docket constitutes entry of judgment.
+
+(b) Notice of a Judgment. Immediately upon the entry of a judgment, the district or BAP clerk must:
+
+(1) transmit a notice of the entry to each party to the appeal, to the United States trustee, and to the bankruptcy clerk, together with a copy of any opinion; and
+
+(2) note the date of the transmission on the docket.
+
+(c) Returning Physical Items. If any physical items were transmitted as the record on appeal, they must be returned to the bankruptcy clerk on disposition of the appeal.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived from former Rule 8016, which was adapted from F.R.App.P. 36 and 45(c) and (d). The rule is reworded to reflect that only items in the record that are physically, as opposed to electronically, transmitted to the district court or BAP need to be returned to the bankruptcy clerk. Other changes to the former rule are stylistic.	
+
+*Changes Made After Publication and Comment*. Stylistic changes were made to subdivision (c) and the Committee Note.
+
+### Rule 8025. Stay of a District Court or BAP Judgment ###
+
+(a) Automatic Stay of Judgment on Appeal. Unless the district court or BAP orders otherwise, its judgment is stayed for 14 days after entry.
+
+(b) Stay Pending Appeal to the Court of Appeals.
+
+(1) *In General*. On a party's motion and notice to all other parties to the appeal, the district court or BAP may stay its judgment pending an appeal to the court of appeals.
+
+(2) *Time Limit*. The stay must not exceed 30 days after the judgment is entered, except for cause shown.
+
+(3) *Stay Continued*. If, before a stay expires, the party who obtained the stay appeals to the court of appeals, the stay continues until final disposition by the court of appeals.
+
+(4) *Bond or Other Security*. A bond or other security may be required as a condition for granting or continuing a stay of the judgment. A bond or other security may be required if a trustee obtains a stay, but not if a stay is obtained by the United States or its officer or agency or at the direction of any department of the United States government.
+
+(c) Automatic Stay of an Order, Judgment, or Decree of a Bankruptcy Court. If the district court or BAP enters a judgment affirming an order, judgment, or decree of the bankruptcy court, a stay of the district court's or BAP's judgment automatically stays the bankruptcy court's order, judgment, or decree for the duration of the appellate stay.
+
+(d) Power of a Court of Appeals Not Limited. This rule does not limit the power of a court of appeals or any of its judges to do the following:
+
+(1) stay a judgment pending appeal;
+
+(2) stay proceedings while an appeal is pending;
+
+(3) suspend, modify, restore, vacate, or grant a stay or an injunction while an appeal is pending; or
+
+(4) issue any order appropriate to preserve the status quo or the effectiveness of any judgment to be entered.
+
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived from former Rule 8017. Most of the changes to the former rule are stylistic. Subdivision (c) is new. It provides that if a district court or BAP affirms the bankruptcy court ruling and the appellate judgment is stayed, the bankruptcy court's order, judgment, or decree that is affirmed on appeal is automatically stayed to the same extent as the stay of the appellate judgment.
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+### Rule 8026. Rules by Circuit Councils and District Courts; Procedure When There is No Controlling Law ###
 
 (a) Local Rules by Circuit Councils and District Courts.
 
-(1) Circuit councils which have authorized bankruptcy appellate panels pursuant to 28 U.S.C. §158(b) and the district courts may, acting by a majority of the judges of the council or district court, make and amend rules governing practice and procedure for appeals from orders or judgments of bankruptcy judges to the respective bankruptcy appellate panel or district court consistent with—but not duplicative of—Acts of Congress and the rules of this Part VIII. Local rules shall conform to any uniform numbering system prescribed by the Judicial Conference of the United States. Rule 83 F.R.Civ.P. governs the procedure for making and amending rules to govern appeals.
+(1) *Adopting Local Rules*. A circuit council that has authorized a BAP under 28 U.S.C. §158(b) may make and amend rules governing the practice and procedure on appeal from a judgment, order, or decree of a bankruptcy court to the BAP. A district court may make and amend rules governing the practice and procedure on appeal from a judgment, order, or decree of a bankruptcy court to the district court. Local rules must be consistent with, but not duplicative of, Acts of Congress and these Part VIII rules. Rule 83 F.R.Civ.P. governs the procedure for making and amending rules to govern appeals.
 
-(2) A local rule imposing a requirement of form shall not be enforced in a manner that causes a party to lose rights because of a nonwillful failure to comply with the requirement.
+(2) *Numbering*. Local rules must conform to any uniform numbering system prescribed by the Judicial Conference of the United States.
 
-(b) Procedure When There is No Controlling Law. A bankruptcy appellate panel or district judge may regulate practice in any manner consistent with federal law, these rules, Official Forms, and local rules of the circuit council or district court. No sanction or other disadvantage may be imposed for noncompliance with any requirement not in federal law, federal rules, Official Forms, or the local rules of the circuit council or district court unless the alleged violator has been furnished in the particular case with actual notice of the requirement.
+(3) *Limitation on Imposing Requirements of Form*. A local rule imposing a requirement of form must not be enforced in a way that causes a party to lose any right because of a nonwillful failure to comply.
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 27, 1995, eff. Dec. 1, 1995.)
+(b) Procedure When There Is No Controlling law.
 
-#### Notes of Advisory Committee on Rules—1983 ####
+(1) *In General*. A district court or BAP may regulate practice in any manner consistent with federal law, applicable federal rules, the Official Forms, and local rules.
 
-This rule is similar to Rule 47 F.R.App.P. and Rule 83 F.R.Civ.P. Local rules governing procedure before the bankruptcy courts may be promulgated under Rule 9028.
+(2) *Limitation on Sanctions*. No sanction or other disadvantage may be imposed for noncompliance with any requirement not in federal law, applicable federal rules, the Official Forms, or local rules unless the alleged violator has been furnished in the particular case with actual notice of the requirement.
 
-#### Notes of Advisory Committee on Rules—1987 Amendment ####
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
-Rule 83 F.R.Civ.P. was amended in August 1985 to require greater participation by the public in the rule making process. The amendment to Rule 8018 incorporates Rule 83 F.R.Civ.P. Under 28 U.S.C. §158(b)(2), appeals may be taken to a bankruptcy appellate panel only if the district court so authorizes. If a district court does not authorize appeals to the bankruptcy appellate panel, appeals will be to the district court. This rule is amended to authorize district courts to promulgate rules for appeals.
+#### Committee Notes on Rules—2014 ####
 
-#### Notes of Advisory Committee on Rules—1995 Amendment ####
+This rule is derived from former Rule 8018. The changes to the former rule are stylistic.
 
-The amendments to this rule conform to the amendments to Rule 9029. See Committee Note to the amendments to Rule 9029.
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in subd. (a)(1), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-### Rule 8019. Suspension of Rules in Part VIII ###
+### Rule 8027. Notice of a Mediation Procedure ###
 
-In the interest of expediting decision or for other cause, the district court or the bankruptcy appellate panel may suspend the requirements or provisions of the rules in Part VIII, except Rules 8001, 8002 and 8013, and may order proceedings in accordance with the direction.
+If the district court or BAP has a mediation procedure applicable to bankruptcy appeals, the clerk must notify the parties promptly after docketing the appeal of:
 
-(As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+(a) the requirements of the mediation procedure; and
 
-#### Notes of Advisory Committee on Rules—1983 ####
+(b) any effect the mediation procedure has on the time to file briefs.
 
-This rule is derived from Rule 2 F.R.App.P.
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
 
-### Rule 8020. Damages and Costs for Frivolous Appeal ###
+#### Committee Notes on Rules—2014 ####
 
-If a district court or bankruptcy appellate panel determines that an appeal from an order, judgment, or decree of a bankruptcy judge is frivolous, it may, after a separately filed motion or notice from the district court or bankruptcy appellate panel and reasonable opportunity to respond, award just damages and single or double costs to the appellee.
+This rule is new. It requires the district or BAP clerk to advise the parties promptly after an appeal is docketed of any court mediation procedure that is applicable to bankruptcy appeals. The notice must state what the mediation requirements are and how the procedure affects the time for filing briefs.
 
-(Added Apr. 11, 1997, eff. Dec. 1, 1997.)
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
-#### Notes of Advisory Committee on Rules—1997 ####
+### Rule 8028. Suspension of Rules in Part VIII ###
 
-This rule is added to clarify that a district court hearing an appeal, or a bankruptcy appellate panel, has the authority to award damages and costs to an appellee if it finds that the appeal is frivolous. By conforming to the language of Rule 38 F.R.App.P., this rule recognizes that the authority to award damages and costs in connection with frivolous appeals is the same for district courts sitting as appellate courts, bankruptcy appellate panels, and courts of appeals.
+In the interest of expediting decision or for other cause in a particular case, the district court or BAP, or where appropriate the court of appeals, may suspend the requirements or provisions of the rules in Part VIII, except Rules 8001, 8002, 8003, 8004, 8005, 8006, 8007, 8012, 8020, 8024, 8025, 8026, and 8028.
 
-*GAP Report on Rule 8020*. No changes to the published draft.
+(Added Apr. 25, 2014, eff. Dec. 1, 2014.)
+
+#### Committee Notes on Rules—2014 ####
+
+This rule is derived from former Rule 8019 and F.R.App.P. 2. To promote uniformity of practice and compliance with statutory authority, the rule includes a more extensive list of requirements that may not be suspended than either the former rule or the Federal Rules of Appellate Procedure provide. Rules governing the following matters may not be suspended:	
+
+• scope of the rules; definition of "BAP"; method of transmission;
+
+• time for filing a notice of appeal;
+
+• taking an appeal as of right;
+
+• taking an appeal by leave;
+
+• election to have an appeal heard by a district court instead of a BAP;
+
+• certification of direct appeal to a court of appeals;
+
+• stay pending appeal;
+
+• corporate disclosure statement;
+
+• sanctions for frivolous appeals and other misconduct;
+
+• clerk's duties on disposition of an appeal;
+
+• stay of a district court's or BAP's judgment;
+
+• local rules; and
+
+• suspension of the Part VIII rules.
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
 ### PART IX—GENERAL PROVISIONS ###
 
@@ -7850,9 +8750,9 @@ The Federal Rules of Civil Procedure, referred to in subd. (b), are set out in t
 
 ### Rule 9023. New Trials; Amendment of Judgments ###
 
-Except as provided in this rule and Rule 3008, Rule 59 F.R.Civ.P. applies in cases under the Code. A motion for a new trial or to alter or amend a judgment shall be filed, and a court may on its own order a new trial, no later than 14 days after entry of judgment.
+Except as provided in this rule and Rule 3008, Rule 59 F.R.Civ.P. applies in cases under the Code. A motion for a new trial or to alter or amend a judgment shall be filed, and a court may on its own order a new trial, no later than 14 days after entry of judgment. In some circumstances, Rule 8008 governs post-judgment motion practice after an appeal has been docketed and is pending.
 
-(As amended Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -7862,15 +8762,21 @@ Rule 59 F.R.Civ.P. regulates motions for a new trial and amendment of judgment. 
 
 The rule is amended to limit to 14 days the time for a party to file a post judgment motion for a new trial and for the court to order sua sponte a new trial. In 2009, Rule 59 F. R. Civ. P. was amended to extend the deadline for these actions to 28 days after the entry of judgment. That deadline corresponds to the 30-day deadline for filing a notice of appeal in a civil case under Rule 4(a)(1)(A) F.R.App.P. In a bankruptcy case, however, the deadline for filing a notice of appeal is 14 days. Therefore, the 28-day deadline for filing a motion for a new trial or a motion to alter or amend a judgment would effectively override the notice of appeal deadline under Rule 8002(a) but for this amendment.
 
+#### Committee Notes on Rules—2014 Amendment ####
+
+This rule is amended to include a cross-reference to Rule 8008. That rule governs the issuance of an indicative ruling when relief is sought that the court lacks authority to grant because of an appeal that has been docketed and is pending.
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
 #### References in Text ####
 
 The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 9024. Relief from Judgment or Order ###
 
-Rule 60 F.R.Civ.P. applies in cases under the Code except that (1) a motion to reopen a case under the Code or for the reconsideration of an order allowing or disallowing a claim against the estate entered without a contest is not subject to the one year limitation prescribed in Rule 60(c), (2) a complaint to revoke a discharge in a chapter 7 liquidation case may be filed only within the time allowed by §727(e) of the Code, and (3) a complaint to revoke an order confirming a plan may be filed only within the time allowed by §1144, §1230, or §1330.
+Rule 60 F.R.Civ.P. applies in cases under the Code except that (1) a motion to reopen a case under the Code or for the reconsideration of an order allowing or disallowing a claim against the estate entered without a contest is not subject to the one year limitation prescribed in Rule 60(c), (2) a complaint to revoke a discharge in a chapter 7 liquidation case may be filed only within the time allowed by §727(e) of the Code, and (3) a complaint to revoke an order confirming a plan may be filed only within the time allowed by §1144, §1230, or §1330. In some circumstances, Rule 8008 governs post-judgment motion practice after an appeal has been docketed and is pending.
 
-(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008.)
+(As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
 #### Notes of Advisory Committee on Rules—1983 ####
 
@@ -7885,6 +8791,12 @@ Clause (3) is amended to include a reference to §1230 of the Code which contain
 #### Committee Notes on Rules—2008 Amendment ####
 
 The rule is amended to conform to the changes made to the Federal Rules of Civil Procedure through the restyling of those rules effective on December 1, 2007.
+
+#### Committee Notes on Rules—2014 Amendment ####
+
+This rule is amended to include a cross-reference to Rule 8008. That rule governs the issuance of an indicative ruling when relief is sought that the court lacks authority to grant because of an appeal that has been docketed and is pending.
+
+*Changes Made After Publication and Comment*. No changes were made after publication and comment.
 
 #### References in Text ####
 

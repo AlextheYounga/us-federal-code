@@ -28,6 +28,8 @@ Sec.
 
 153513. Distribution of assets on dissolution or final liquidation.
 
-153514. Authorization of appropriations. 1
+153514. Authorization of appropriations.
 
-[<sup>1</sup> Editorially supplied. Section added by Pub. L. 111–11 without corresponding amendment of chapter analysis.](#CHAPTER1535_1)
+#### Amendments ####
+
+**2014**—Pub. L. 113–237, §3(c)(7), Dec. 18, 2014, 128 Stat. 2840, added item 153514.

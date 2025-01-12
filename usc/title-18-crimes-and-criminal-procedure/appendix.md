@@ -495,13 +495,13 @@ That this Act may be cited as the "Classified Information Procedures Act".
 FEDERAL RULES OF CRIMINAL PROCEDURE
 ==========
 
-(As amended to January 2, 2014)
+(As amended to January 5, 2015)
 
 #### Historical Note ####
 
 The original Federal Rules of Criminal Procedure were adopted by order of the Supreme Court on Dec. 26, 1944, transmitted to Congress by the Attorney General on Jan. 3, 1945, and became effective on Mar. 21, 1946.
 
-The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013.
+The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014; eff. Dec. 1, 2014.
 
 #### TITLE I. APPLICABILITY ####
 
@@ -1173,9 +1173,11 @@ In subdivision (b)(6)(B), the superfluous and anachronistic reference to the "fa
 
 (C) the circumstances, if any, under which the defendant may secure pretrial release;
 
-(D) any right to a preliminary hearing; and
+(D) any right to a preliminary hearing;
 
-(E) the defendant's right not to make a statement, and that any statement made may be used against the defendant.
+(E) the defendant's right not to make a statement, and that any statement made may be used against the defendant; and
+
+(F) that a defendant who is not a United States citizen may request that an attorney for the government or a federal law enforcement official notify a consular officer from the defendant's country of nationality that the defendant has been arrested—but that even without the defendant's request, a treaty or other international agreement may require consular notification.
 
 (2) *Consulting with Counsel.* The judge must allow the defendant reasonable opportunity to consult with counsel.
 
@@ -1187,7 +1189,7 @@ In subdivision (b)(6)(B), the superfluous and anachronistic reference to the "fa
 
 (f) Video Teleconferencing. Video teleconferencing may be used to conduct an appearance under this rule if the defendant consents.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 28, 1982, eff. Aug. 1, 1982; Pub. L. 98–473, title II, §209(a), Oct. 12, 1984, 98 Stat. 1986; Mar. 9, 1987, eff. Aug. 1, 1987; May 1, 1990, eff. Dec. 1, 1990; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2012, eff. Dec. 1, 2012.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 28, 1982, eff. Aug. 1, 1982; Pub. L. 98–473, title II, §209(a), Oct. 12, 1984, 98 Stat. 1986; Mar. 9, 1987, eff. Aug. 1, 1987; May 1, 1990, eff. Dec. 1, 1990; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
 #### Notes of Advisory Committee on Rules—1944 ####
 
@@ -1322,6 +1324,16 @@ The rule requires that if electronic means are to be used to transmit a warrant 
 This rule is applicable even if the defendant arrives first in another district. The earlier stages of the extradition process have already fulfilled some of the functions of the initial appearance. During foreign extradition proceedings, the extradited person, assisted by counsel, is afforded an opportunity to review the charging document, U.S. arrest warrant, and supporting evidence. Rule 5(a)(1)(B) requires the person be taken before a magistrate judge without unnecessary delay. Consistent with this obligation, it is preferable not to delay an extradited person's transportation to hold an initial appearance in the district of arrival, even if the person will be present in that district for some time as a result of connecting flights or logistical difficulties. Interrupting an extradited defendant's transportation at this point can impair his or her ability to obtain and consult with trial counsel and to prepare his or her defense in the district where the charges are pending.
 
 *Changes Made to Proposed Amendment Released for Public Comment.* No changes were made in the amendment as published.
+
+#### Committee Notes on Rules—2014 Amendment ####
+
+*Rule 5(d)(1)(F).* Article 36 of the Vienna Convention on Consular Relations provides that detained foreign nationals shall be advised that they may have the consulate of their home country notified of their arrest and detention, and bilateral agreements with numerous countries require consular notification whether or not the detained foreign national requests it. Article 36 requires consular notification advice to be given "without delay," and arresting officers are primarily responsible for providing this advice.
+
+Providing this advice at the initial appearance is designed, not to relieve law enforcement officers of that responsibility, but to provide additional assurance that U.S. treaty obligations are fulfilled, and to create a judicial record of that action. The Committee concluded that the most effective and efficient method of conveying this information is to provide it to every defendant, without attempting to determine the defendant's citizenship.
+
+At the time of this amendment, many questions remain unresolved by the courts concerning Article 36, including whether it creates individual rights that may be invoked in a judicial proceeding and what, if any, remedy may exist for a violation of Article 36. *Sanchez-Llamas v. Oregon*, 548 U.S. 331 (2006). This amendment does not address those questions. More particularly, it does not create any such rights or remedies.
+
+*Changes Made After Publication and Comment.* In response to public comments the amendment was rephrased to state that the information regarding consular notification should be provided to all defendants who are arraigned. Although it is anticipated that ordinarily only defendants who are held in custody will ask the government to notify a consular official of their arrest, it is appropriate to provide this information to all defendants at their initial appearance. The new phrasing also makes it clear that the advice should be provided to every defendant, without any attempt to determine the defendant's citizenship. A conforming change was made to the Committee Note.
 
 #### Amendment by Public Law ####
 
@@ -1497,7 +1509,7 @@ The times set in the former rule at 10 or 20 days have been revised to 14 or 21 
 
 (C) An attorney for the government may disclose any grand-jury matter to another federal grand jury.
 
-(D) An attorney for the government may disclose any grand-jury matter involving foreign intelligence, counterintelligence (as defined in 50 U.S.C. §401a <sup><a href="#Rule_6_1_target" name="Rule_6_1">1</a></sup> ), or foreign intelligence information (as defined in Rule 6(e)(3)(D)(iii)) to any federal law enforcement, intelligence, protective, immigration, national defense, or national security official to assist the official receiving the information in the performance of that official's duties. An attorney for the government may also disclose any grand-jury matter involving, within the United States or elsewhere, a threat of attack or other grave hostile acts of a foreign power or its agent, a threat of domestic or international sabotage or terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by its agent, to any appropriate federal, state, state subdivision, Indian tribal, or foreign government official, for the purpose of preventing or responding to such threat or activities.
+(D) An attorney for the government may disclose any grand-jury matter involving foreign intelligence, counterintelligence (as defined in 50 U.S.C. §3003), or foreign intelligence information (as defined in Rule 6(e)(3)(D)(iii)) to any federal law enforcement, intelligence, protective, immigration, national defense, or national security official to assist the official receiving the information in the performance of that official's duties. An attorney for the government may also disclose any grand-jury matter involving, within the United States or elsewhere, a threat of attack or other grave hostile acts of a foreign power or its agent, a threat of domestic or international sabotage or terrorism, or clandestine intelligence gathering activities by an intelligence service or network of a foreign power or by its agent, to any appropriate federal, state, state subdivision, Indian tribal, or foreign government official, for the purpose of preventing or responding to such threat or activities.
 
 (i) Any official who receives information under Rule 6(e)(3)(D) may use the information only as necessary in the conduct of that person's official duties subject to any limitations on the unauthorized disclosure of such information. Any state, state subdivision, Indian tribal, or foreign government official who receives information under Rule 6(e)(3)(D) may use the information only in a manner consistent with any guidelines issued by the Attorney General and the Director of National Intelligence.
 
@@ -1557,7 +1569,7 @@ The times set in the former rule at 10 or 20 days have been revised to 14 or 21 
 
 (i) "Indian Tribe" Defined. "Indian tribe" means an Indian tribe recognized by the Secretary of the Interior on a list published in the Federal Register under 25 U.S.C. §479a–1.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 26 and July 8, 1976, eff. Aug. 1, 1976; Pub. L. 95–78, §2(a), July 30, 1977, 91 Stat. 319; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1983, eff. Aug. 1, 1983; Pub. L. 98–473, title II, §215(f), Oct. 12, 1984, 98 Stat. 2016; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Pub. L. 107–56, title II, §203(a), Oct. 26, 2001, 115 Stat. 278; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 107–296, title VIII, §895, Nov. 25, 2002, 116 Stat. 2256; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 26 and July 8, 1976, eff. Aug. 1, 1976; Pub. L. 95–78, §2(a), July 30, 1977, 91 Stat. 319; Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 28, 1983, eff. Aug. 1, 1983; Pub. L. 98–473, title II, §215(f), Oct. 12, 1984, 98 Stat. 2016; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Pub. L. 107–56, title II, §203(a), Oct. 26, 2001, 115 Stat. 278; Apr. 29, 2002, eff. Dec. 1, 2002; Pub. L. 107–296, title VIII, §895, Nov. 25, 2002, 116 Stat. 2256; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
 #### Notes of Advisory Committee on Rules—1944 ####
 
@@ -1855,9 +1867,11 @@ Under the amendment, the grand jury (or the foreperson) would appear in a courtr
 
 *Changes Made to Proposed Amendment Released for Public Comment*. No changes were made in the amendment as published.
 
-#### References in Text ####
+#### Committee Notes on Rules—2014 Amendment ####
 
-50 U.S.C. §401a, referred to in subd. (e)(3)(D), was editorially reclassified as 50 U.S.C. 3003.
+*Rule 6(e)(3)(D).* This technical and conforming amendment updates a citation affected by the editorial reclassification of chapter 15 of title 50, United States Code. The amendment replaces the citation to 50 U.S.C. §401a with a citation to 50 U.S.C. §3003. No substantive change is intended.
+
+#### References in Text ####
 
 The Uniform Code of Military Justice, referred to in subd. (e)(3)(E)(v), is classified to chapter 47 (§801 et seq.) of Title 10, Armed Forces.
 
@@ -1942,8 +1956,6 @@ Amendment of this rule by order of the United States Supreme Court on Apr. 26, 1
 #### Effective Date of 1976 Amendment ####
 
 Amendment of subd. (f) by the order of the United States Supreme Court of Apr. 26, 1976, effective Aug. 1, 1976, see section 1 of Pub. L. 94–349, July 8, 1976, 90 Stat. 822, set out as a note under section 2074 of Title 28, Judiciary and Judicial Procedure.
-
-[<sup>1</sup> See References in Text note below.](#Rule_6_1)
 
 ### Rule 7. The Indictment and the Information ###
 
@@ -2787,33 +2799,59 @@ Amendments of this rule embraced in the order of the United States Supreme Court
 
 (b) Pretrial Motions.
 
-(1) *In General.* Rule 47 applies to a pretrial motion.
+(1) *In General.* A party may raise by pretrial motion any defense, objection, or request that the court can determine without a trial on the merits. Rule 47 applies to a pretrial motion.
 
-(2) *Motions That May Be Made Before Trial.* A party may raise by pretrial motion any defense, objection, or request that the court can determine without a trial of the general issue.
+(2) *Motions That May Be Made at Any Time.* A motion that the court lacks jurisdiction may be made at any time while the case is pending.
 
-(3) *Motions That Must Be Made Before Trial.* The following must be raised before trial:
+(3) *Motions That Must Be Made Before Trial.* The following defenses, objections, and requests must be raised by pretrial motion if the basis for the motion is then reasonably available and the motion can be determined without a trial on the merits:
 
-(A) a motion alleging a defect in instituting the prosecution;
+(A) a defect in instituting the prosecution, including:
 
-(B) a motion alleging a defect in the indictment or information—but at any time while the case is pending, the court may hear a claim that the indictment or information fails to invoke the court's jurisdiction or to state an offense;
+(i) improper venue;
 
-(C) a motion to suppress evidence;
+(ii) preindictment delay;
 
-(D) a Rule 14 motion to sever charges or defendants; and
+(iii) a violation of the constitutional right to a speedy trial;
 
-(E) a Rule 16 motion for discovery.
+(iv) selective or vindictive prosecution;
+
+(v) an error in the grand-jury proceeding or preliminary hearing;
+
+(B) a defect in the indictment or information, including:
+
+(i) joining two or more offenses in the same count (duplicity);
+
+(ii) charging the same offense in more than one count (multiplicity);
+
+(iii) lack of specificity;
+
+(iv) improper joinder; and
+
+(v) failure to state an offense;
+
+(C) suppression of evidence;
+
+(D) severance of charges or defendants under Rule 14; and
+
+(E)	discovery under Rule 16.
 
 (4) *Notice of the Government's Intent to Use Evidence.*
 
-(A) *At the Government's Discretion*. At the arraignment or as soon afterward as practicable, the government may notify the defendant of its intent to use specified evidence at trial in order to afford the defendant an opportunity to object before trial under Rule 12(b)(3)(C).
+(A) *At the Government's Discretion.* At the arraignment or as soon afterward as practicable, the government may notify the defendant of its intent to use specified evidence at trial in order to afford the defendant an opportunity to object before trial under Rule 12(b)(3)(C).
 
-(B) *At the Defendant's Request*. At the arraignment or as soon afterward as practicable, the defendant may, in order to have an opportunity to move to suppress evidence under Rule 12(b)(3)(C), request notice of the government's intent to use (in its evidence-in-chief at trial) any evidence that the defendant may be entitled to discover under Rule 16.
+(B) *At the Defendant's Request.* At the arraignment or as soon afterward as practicable, the defendant may, in order to have an opportunity to move to suppress evidence under Rule 12(b)(3)(C), request notice of the government's intent to use (in its evidence-in-chief at trial) any evidence that the defendant may be entitled to discover under Rule 16.
 
-(c) Motion Deadline. The court may, at the arraignment or as soon afterward as practicable, set a deadline for the parties to make pretrial motions and may also schedule a motion hearing.
+(c) Deadline for a Pretrial Motion; Consequences of Not Making a Timely Motion.
+
+(1) *Setting the Deadline.* The court may, at the arraignment or as soon afterward as practicable, set a deadline for the parties to make pretrial motions and may also schedule a motion hearing. If the court does not set one, the deadline is the start of trial.
+
+(2) *Extending or Resetting the Deadline.* At any time before trial, the court may extend or reset the deadline for pretrial motions.
+
+(3) *Consequences of Not Making a Timely Motion Under Rule 12(b)(3).* If a party does not meet the deadline for making a Rule 12(b)(3) motion, the motion is untimely. But a court may consider the defense, objection, or request if the party shows good cause.
 
 (d) Ruling on a Motion. The court must decide every pretrial motion before trial unless it finds good cause to defer a ruling. The court must not defer ruling on a pretrial motion if the deferral will adversely affect a party's right to appeal. When factual issues are involved in deciding a motion, the court must state its essential findings on the record.
 
-(e) Waiver of a Defense, Objection, or Request. A party waives any Rule 12(b)(3) defense, objection, or request not raised by the deadline the court sets under Rule 12(c) or by any extension the court provides. For good cause, the court may grant relief from the waiver.
+(e) [Reserved]
 
 (f) Recording the Proceedings. All proceedings at a motion hearing, including any findings of fact and conclusions of law made orally by the court, must be recorded by a court reporter or a suitable recording device.
 
@@ -2821,7 +2859,7 @@ Amendments of this rule embraced in the order of the United States Supreme Court
 
 (h) Producing Statements at a Suppression Hearing. Rule 26.2 applies at a suppression hearing under Rule 12(b)(3)(C). At a suppression hearing, a law enforcement officer is considered a government witness.
 
-(As amended Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, §3(11), (12), July 31, 1975, 89 Stat. 372; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002.)
+(As amended Apr. 22, 1974, eff. Dec. 1, 1975; Pub. L. 94–64, §3(11), (12), July 31, 1975, 89 Stat. 372; Apr. 28, 1983, eff. Aug. 1, 1983; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
 #### Notes of Advisory Committee on Rules—1944 ####
 
@@ -2952,6 +2990,32 @@ Rule 12(c) includes a non-stylistic change. The reference to the "local rule" ex
 Moving the language in current Rule 12(d) caused the relettering of the subdivisions following Rule 12(c).
 
 Although amended Rule 12(e) is a revised version of current Rule 12(f), the Committee intends to make no change in the current law regarding waivers of motions or defenses.
+
+#### Committee Notes on Rules—2014 Amendment ####
+
+*Rule 12(b)(1).* The language formerly in (b)(2), which provided that "any defense, objection, or request that the court can determine without trial of the general issue" may be raised by motion before trial, has been relocated here. The more modern phrase "trial on the merits" is substituted for the more archaic phrase "trial of the general issue." No change in meaning is intended.
+
+*Rule 12(b)(2).* As revised, subdivision (b)(2) states that lack of jurisdiction may be raised at any time the case is pending. This provision was relocated from its previous placement at the end of subsection (b)(3)(B) and restyled. No change in meaning is intended.
+
+*Rule 12(b)(3).* The amendment clarifies which motions must be raised before trial.
+
+The introductory language includes two important limitations. The basis for the motion must be one that is "then reasonably available" and the motion must be one that the court can determine "without trial on the merits." The types of claims subject to Rule 12(b)(3) generally will be available before trial and they can—and should—be resolved then. The Committee recognized, however, that in some cases, a party may not have access to the information needed to raise particular claims that fall within the general categories subject to Rule 12(b)(3) prior to trial. The "then reasonably available" language is intended to ensure that a claim a party could not have raised on time is not subject to the limitation on review imposed by Rule 12(c)(3). Additionally, only those issues that can be determined "without a trial on the merits" need be raised by motion before trial. Just as in (b)(1), the more modern phrase "trial on the merits" is substituted for the more archaic phrase "trial of the general issue." No change in meaning is intended.
+
+The rule's command that motions alleging "a defect in instituting the prosecution" and "errors in the indictment or information" must be made before trial is unchanged. The amendment adds a nonexclusive list of commonly raised claims under each category to help ensure that such claims are not overlooked. The Rule is not intended to and does not affect or supersede statutory provisions that establish the time to make specific motions, such as motions under the Jury Selection and Service Act, 18 U.S.C. §1867(a) [28 U.S.C. §1867(a)].
+
+Rule 12(b)(3)(B) has also been amended to remove language that allowed the court at any time while the case is pending to hear a claim that the "indictment or information fails . . . to state an offense." This specific charging error was previously considered fatal whenever raised and was excluded from the general requirement that charging deficiencies be raised prior to trial. The Supreme Court abandoned any jurisdictional justification for the exception in *United States v. Cotton*, 535 U.S. 625, 629-31 (2002) (overruling *Ex parte Bain*, 121 U.S. 1 (1887), "[i]nsofar as it held that a defective indictment deprives a court of jurisdiction").
+
+*Rule 12(c).* As revised, subdivision (c) governs both the deadline for making pretrial motions and the consequences of failing to meet the deadline for motions that must be made before trial under Rule 12(b)(3).
+
+As amended, subdivision (c) contains three paragraphs. Paragraph (c)(1) retains the existing provisions for establishing the time when pretrial motions must be made, and adds a sentence stating that unless the court sets a deadline, the deadline for pretrial motions is the start of trial, so that motions may be ruled upon before jeopardy attaches. Subdivision (e) of the present rule contains the language "or by any extension the court provides," which anticipates that a district court has broad discretion to extend, reset, or decline to extend or reset, the deadline for pretrial motions. New paragraph (c)(2) recognizes this discretion explicitly and relocates the Rule's mention of it to a more logical place—after the provision concerning setting the deadline and before the provision concerning the consequences of not meeting the deadline. No change in meaning is intended.
+
+New paragraph (c)(3) governs the review of untimely claims, previously addressed in Rule 12(e). Rule 12(e) provided that a party "waives" a defense not raised within the time set under Rule 12(c). Although the term waiver in the context of a criminal case ordinarily refers to the intentional relinquishment of a known right, Rule 12(e) has never required any determination that a party who failed to make a timely motion intended to relinquish a defense, objection, or request that was not raised in a timely fashion. Accordingly, to avoid possible confusion the Committee decided not to employ the term "waiver" in new paragraph (c)(3).
+
+New paragraph 12(c)(3) retains the existing standard for untimely claims. The party seeking relief must show "good cause" for failure to raise a claim by the deadline, a flexible standard that requires consideration of all interests in the particular case.
+
+*Rule 12(e).* The effect of failure to raise issues by a pretrial motion has been relocated from (e) to (c)(3).
+
+*Changes Made After Publication and Comment.* Language that had been deleted from Rule 12(b)(2) as unnecessary was restored and relocated in (b)(1). The change begins the Rule's treatment of pretrial motions with an appropriate general statement and responds to concerns that the deletion might have been perceived as unintentionally restricting the district courts' authority to rule on pretrial motions. The references to "double jeopardy" and "statute of limitations" were dropped from the nonexclusive list in (b)(3)(A) to permit further debate over the treatment of such claims. New paragraph (c)(2) was added to state explicitly the district court's authority to extend or reset the deadline for pretrial motions; this authority had been recognized implicitly in language being deleted from Rule 12(e). In subdivision (c), the cross reference to Rule 52 was omitted as unnecessarily controversial. In subparagraph (c)(3), the current language "good cause" was retained for all claims and subparagraph (c)(3)(B) was omitted. Finally, the Committee Note was amended to reflect these post-publication changes and to state explicitly that the rule is not intended to change or supersede statutory deadlines under provisions such as the Jury Selection and Service Act.
 
 #### Amendment by Public Law ####
 
@@ -6417,15 +6481,11 @@ Former Rules 29, 33, and 34 adopted 7-day periods for their respective motions. 
 
 ### Rule 34. Arresting Judgment ###
 
-(a) In General. Upon the defendant's motion or on its own, the court must arrest judgment if:
-
-(1) the indictment or information does not charge an offense; or
-
-(2) the court does not have jurisdiction of the charged offense.
+(a) In General. Upon the defendant's motion or on its own, the court must arrest judgment if the court does not have jurisdiction of the charged offense.
 
 (b) Time to File. The defendant must move to arrest judgment within 14 days after the court accepts a verdict or finding of guilty, or after a plea of guilty or nolo contendere.
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
 #### Notes of Advisory Committee on Rules—1944 ####
 
@@ -6456,6 +6516,12 @@ Accordingly, the amendment deletes the language regarding the court's acting wit
 #### Committee Notes on Rules—2009 Amendment ####
 
 Former Rules 29, 33, and 34 adopted 7-day periods for their respective motions. This period has been expanded to 14 days. Experience has proved that in many cases it is not possible to prepare a satisfactory motion in 7 days, even under the former rule that excluded intermediate Saturdays, Sundays, and legal holidays. This led to frequent requests for continuances, and the filing of bare bones motions that required later supplementation. The 14-day period—including intermediate Saturdays, Sundays, and legal holidays as provided by Rule 45(a)—sets a more realistic time for the filing of these motions.
+
+#### Committee Notes on Rules—2014 Amendment ####
+
+*Rule 34(a).* This amendment conforms Rule 34 to Rule 12(b) which has been amended to remove language that the court at any time while the case is pending may hear a claim that the "indictment or information fails . . . to state an offense." The amended Rule 12 instead requires that such a defect be raised before trial.	
+
+*Changes Made After Publication and Comment.* No changes were made after publication and comment.
 
 ### Rule 35. Correcting or Reducing a Sentence ###
 
@@ -8697,9 +8763,11 @@ The language of Rule 57 has been amended as part of the general restyling of the
 
 (ii) the defendant consents to trial, judgment, and sentencing before a magistrate judge;
 
-(F) the right to a jury trial before either a magistrate judge or a district judge—unless the charge is a petty offense; and
+(F) the right to a jury trial before either a magistrate judge or a district judge—unless the charge is a petty offense;
 
-(G) any right to a preliminary hearing under Rule 5.1, and the general circumstances, if any, under which the defendant may secure pretrial release.
+(G) any right to a preliminary hearing under Rule 5.1, and the general circumstances, if any, under which the defendant may secure pretrial release; and
+
+(H) that a defendant who is not a United States citizen may request that an attorney for the government or a federal law enforcement official notify a consular officer from the defendant's country of nationality that the defendant has been arrested—but that even without the defendant's request, a treaty or other international agreement may require consular notification.
 
 (3) *Arraignment.*
 
@@ -8749,7 +8817,7 @@ The language of Rule 57 has been amended as part of the general restyling of the
 
 (3) *Stay of Execution and Release Pending Appeal.* Rule 38 applies to a stay of a judgment of conviction or sentence. The court may release the defendant pending appeal under the law relating to release pending appeal from a district court to a court of appeals.
 
-(Added May 1, 1990, eff. Dec. 1, 1990; amended Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(Added May 1, 1990, eff. Dec. 1, 1990; amended Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
 #### Notes of Advisory Committee on Rules—1990 ####
 
@@ -8806,6 +8874,16 @@ In Rule 58(g)(1) and (g)(2)(A), the Committee deleted as unnecessary the word "d
 #### Committee Notes on Rules—2009 Amendment ####
 
 The times set in the former rule at 10 days have been revised to 14 days. See the Committee Note to Rule 45(a).
+
+#### Committee Notes on Rules—2014 Amendment ####
+
+*Rule 58(b)(2)(H).* Article 36 of the Vienna Convention on Consular Relations provides that detained foreign nationals shall be advised that they may have the consulate of their home country notified of their arrest and detention, and bilateral agreements with numerous countries require consular notification whether or not the detained foreign national requests it. Article 36 requires consular notification advice to be given "without delay," and arresting officers are primarily responsible for providing this advice.
+
+Providing this advice at the initial appearance is designed, not to relieve law enforcement officers of that responsibility, but to provide additional assurance that U.S. treaty obligations are fulfilled, and to create a judicial record of that action. The Committee concluded that the most effective and efficient method of conveying this information is to provide it to every defendant, without attempting to determine the defendant's citizenship.
+
+At the time of this amendment, many questions remain unresolved by the courts concerning Article 36, including whether it creates individual rights that may be invoked in a judicial proceeding and what, if any, remedy may exist for a violation of Article 36. *Sanchez-Llamas v. Oregon*, 548 U.S. 331 (2006). This amendment does not address those questions. More particularly, it does not create any such rights or remedies.	
+
+*Changes Made After Publication and Comment.* In response to public comments the amendment was rephrased to state that the information regarding consular notification should be provided to all defendants who are arraigned. Although it is anticipated that ordinarily only defendants who are held in custody will ask the government to notify a consular official of their arrest, it is appropriate to provide this information to all defendants at the initial appearance. The new phrasing also makes it clear that the advice should be provided to every defendant, without any attempt to determine the defendant's citizenship. A conforming change was made to the Committee Note.
 
 #### References in Text ####
 

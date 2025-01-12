@@ -114,6 +114,20 @@ Sec.
 
 718k. Use of fees collected for Federal migratory bird permits.
 
+#### SUBCHAPTERIV–A—PERMANENT ELECTRONIC DUCK STAMP ####
+
+718 o. Definitions.
+
+718p. Authority to issue electronic duck stamps.
+
+718q. State application.
+
+718r. State obligations and authorities.
+
+718s. Electronic stamp requirements; recognition of electronic stamp.
+
+718t. Termination of State participation.
+
 #### SUBCHAPTER V—JUNIOR DUCK STAMP CONSERVATION AND DESIGN PROGRAM ####
 
 719. Establishment of Program.

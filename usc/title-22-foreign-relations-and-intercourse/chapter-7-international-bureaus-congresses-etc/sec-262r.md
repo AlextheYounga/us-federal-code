@@ -28,7 +28,7 @@ Each annual report required by subsection (a) of this section shall contain—
 
 (8) a description of the status of procedures in the multilateral development banks specifically designed to increase the productive role of the poor in the economies of the nations which are borrowers from such banks;
 
-(9) in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than section 262e of this title), including the information required to be reported pursuant to section 262d(c) of this title, and, for the fiscal year 1990, the report described in section 262p–4h of this title;
+(9) in consultation with the Secretary of State, a report on the progress toward achieving the goals of title VII (other than section 262e of this title), including the information required to be reported pursuant to section 262d(c) <sup><a href="#262r_1_target" name="262r_1">1</a></sup> of this title, and, for the fiscal year 1990, the report described in section 262p–4h of this title;
 
 (10) in consultation with the Secretary of State and the Administrator of the Agency for International Development, an assessment of the progress being made to implement the objectives of title XIII; and
 
@@ -81,6 +81,8 @@ The Advisory Committee should consist of members appointed by the Secretary of t
 Section 2018(c) of the International Narcotics Act of 1986, referred to in subsec. (b)(6), means section 2018(c) of Pub. L. 99–570, known as the International Narcotics Control Act of 1986, which is set out as a note under section 2291 of this title.
 
 This title and titles VII, XIII, XVIII, and XIX, referred to in subsecs. (b)(9), (10) and (c), are titles XVII, VII, XIII, XVIII, and XIX, respectively, of Pub. L. 95–118. Title VII enacted sections 262d and 262e of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as a note under section 262c of this title. Title XIII is classified to sections 262m to 262m–7 of this title. Title XVII is classified to sections 262r to 262r–5 of this title. Title XVIII is classified to sections 262s to 262s–2 of this title. Title XIX is classified to section 262t of this title. For complete classification of these titles to the Code, see Tables.
+
+Section 262d(c) of this title, referred to in subsec. (b)(9), was repealed by Pub. L. 113–188, title XVI, §1601(b), Nov. 26, 2014, 128 Stat. 2025.
 
 Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -207,6 +209,8 @@ in order to help minimize the adjustment costs that the resolution of financial 
 #### Definitions ####
 
 Pub. L. 105–277, div. A, §101(d) [title VI, §607], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224, as amended by Pub. L. 106–200, title IV, §404(a), May 18, 2000, 114 Stat. 291, provided that: "For purposes of sections 601 through 606 of this title [see Tables for classification], the term 'appropriate committees' means the Committees on Appropriations, Foreign Relations, Finance, and Banking, Housing, and Urban Affairs of the Senate and the Committees on Appropriations, Ways and Means, and Banking and Financial Services [now Committee on Financial Services] of the House of Representatives."
+
+[<sup>1</sup> See References in Text note below.](#262r_1)
 
 [<sup>1</sup> So in original. Probably should be followed by a comma.](#262r_1)
 

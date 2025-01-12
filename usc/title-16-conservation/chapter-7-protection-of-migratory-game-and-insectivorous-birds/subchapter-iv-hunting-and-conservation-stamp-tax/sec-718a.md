@@ -12,9 +12,11 @@ No stamp described in paragraph (1) shall be required for the taking of migrator
 
 (A) by Federal or State agencies;
 
-(B) for propagation; or
+(B) for propagation;
 
-(C) by the resident owner, tenant, or sharecropper of the property, or officially designated agencies of the Department of the Interior, for the killing, under such restrictions as the Secretary may by regulation prescribe, of such waterfowl when found damaging crops or other property.
+(C) by the resident owner, tenant, or sharecropper of the property, or officially designated agencies of the Department of the Interior, for the killing, under such restrictions as the Secretary may by regulation prescribe, of such waterfowl when found damaging crops or other property; or
+
+(D) by a rural Alaska resident for subsistence uses (as that term is defined in section 3113 of this title).
 
 #### (b) Display of stamp ####
 
@@ -28,9 +30,11 @@ Any individual to whom a stamp has been sold under this subchapter shall, upon r
 
 Nothing in this section requires any individual to affix the Migratory Bird Hunting and Conservation Stamp to any other license prior to taking 1 or more migratory waterfowl.
 
-(Mar. 16, 1934, ch. 71, §1, 48 Stat. 451; June 15, 1935, ch. 261, title I, §1, 49 Stat. 378; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 30, 1956, ch. 782, §1, 70 Stat. 722; Pub. L. 94–215, §3(a), Feb. 17, 1976, 90 Stat. 189; Pub. L. 109–266, §10(a), Aug. 3, 2006, 120 Stat. 674.)
+(Mar. 16, 1934, ch. 71, §1, 48 Stat. 451; June 15, 1935, ch. 261, title I, §1, 49 Stat. 378; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; July 30, 1956, ch. 782, §1, 70 Stat. 722; Pub. L. 94–215, §3(a), Feb. 17, 1976, 90 Stat. 189; Pub. L. 109–266, §10(a), Aug. 3, 2006, 120 Stat. 674; Pub. L. 113–264, §4, Dec. 18, 2014, 128 Stat. 2940.)
 
 #### Amendments ####
+
+**2014**—Subsec. (a)(2)(D). Pub. L. 113–264 added subpar. (D).
 
 **2006**—Pub. L. 109–266 amended section generally. Prior to amendment, section related to hunting and conservation stamp for taking migratory waterfowl.
 

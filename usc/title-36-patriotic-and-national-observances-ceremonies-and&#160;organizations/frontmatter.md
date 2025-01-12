@@ -3,13 +3,288 @@ TITLE 36—PATRIOTIC AND NATIONAL OBSERVANCES, CEREMONIES, AND ORGANIZATIONS
 
 This title was enacted by Pub. L. 105–225, §1, Aug. 12, 1998, 112 Stat. 1253
 
-Subtitle Sec.
+Subtitle I—Patriotic and National Observances and Ceremonies
+----------
 
-I. PATRIOTIC AND NATIONAL OBSERVANCES AND CEREMONIES 101
+#### Part A—Observances and Ceremonies ####
 
-II. PATRIOTIC AND NATIONAL ORGANIZATIONS 10101
+Chap. Sec.
 
-III. TREATY OBLIGATION ORGANIZATIONS 300101
+1. Patriotic and National Observances 101
+
+3. National Anthem, Motto, Floral Emblem, March, and Tree 301
+
+5. Presidential Inaugural Ceremonies 501
+
+7. Federal Participation in Carl Garner Federal Lands Cleanup Day 701
+
+9. Miscellaneous 901
+
+#### Part B—United States Government Organizations Involved With Observances and Ceremonies ####
+
+21. American Battle Monuments Commission 2101
+
+23. United States Holocaust Memorial Council 2301
+
+25. President's Committee on Employment of People With Disabilities 2501
+
+Subtitle II—Patriotic and National Organizations
+----------
+
+#### Part A—General ####
+
+101. General 10101
+
+#### Part B—Organizations ####
+
+201. Agricultural Hall of Fame 20101
+
+202. Air Force Sergeants Association 20201
+
+203. American Academy of Arts and Letters 20301
+
+205. American Chemical Society 20501
+
+207. American Council of Learned Societies 20701
+
+209. American Ex-Prisoners of War 20901
+
+210. American GI Forum of the United States 21001
+
+211. American Gold Star Mothers, Incorporated 21101
+
+213. American Historical Association 21301
+
+215. American Hospital of Paris 21501
+
+217. The American Legion 21701
+
+219. The American National Theater and Academy 21901
+
+221. The American Society of International Law 22101
+
+223. American Symphony Orchestra League 22301
+
+225. American War Mothers 22501
+
+227. AMVETS (American Veterans) 22701
+
+229. Army and Navy Union of the United States of America 22901
+
+231. Aviation Hall of Fame 23101
+
+233 through 299. reserved
+
+301. Big Brothers—Big Sisters of America 30101
+
+303. Blinded Veterans Association 30301
+
+305. Blue Star Mothers of America, Inc. 30501
+
+307. Board For Fundamental Education 30701
+
+309. Boy Scouts of America 30901
+
+311. Boys & Girls Clubs of America 31101
+
+313 through 399. reserved
+
+401. Catholic War Veterans of the United States of America, Incorporated 40101
+
+403. Civil Air Patrol 40301
+
+405. Congressional Medal of Honor Society of the United States of America 40501
+
+407. Corporation for the Promotion of Rifle Practice and Firearms Safety 40701
+
+409 through 499. reserved
+
+501. Daughters of Union Veterans of the Civil War 1861–1865 50101
+
+503. Disabled American Veterans 50301
+
+505 through 599. reserved
+
+601. 82nd Airborne Division Association, Incorporated 60101
+
+603 through 699. reserved
+
+701. Fleet Reserve Association 70101
+
+703. Former Members of Congress 70301
+
+705. The Foundation of the Federal Bar Association 70501
+
+707. Frederick Douglass Memorial and Historical Association 70701
+
+709. Future Farmers of America 70901
+
+711 through 799. reserved
+
+801. General Federation of Women's Clubs 80101
+
+803. Girl Scouts of the United States of America 80301
+
+805. Gold Star Wives of America 80501
+
+807 through 899. reserved
+
+901. Help America Vote Foundation 90101
+
+903 through 999. reserved
+
+1001. Italian American War Veterans of the United States 100101
+
+1003 through 1099. reserved
+
+1101. Jewish War Veterans of the United States of America, Incorporated 110101
+
+1103. Jewish War Veterans, U.S.A., National Memorial, Incorporated 110301
+
+1105 through 1199. reserved
+
+1201. Korean War Veterans Association, Incorporated 120101
+
+1203 through 1299. reserved
+
+1301. Ladies of the Grand Army of the Republic 130101
+
+1303. Legion of Valor of the United States of America, Incorporated 130301
+
+1305. Little League Baseball, Incorporated 130501
+
+1307 through 1399. reserved
+
+1401. Marine Corps League 140101
+
+1403. The Military Chaplains Association of the United States of America 140301
+
+1404. Military Officers Association of America 140401
+
+1405. Military Order of the Purple Heart of the United States of America, Incorporated 140501
+
+1407. Military Order of the World Wars 140701
+
+1409 through 1499. reserved
+
+1501. National Academy of Public Administration 150101
+
+1503. National Academy of Sciences 150301
+
+1505. National Conference of State Societies, Washington, District of Columbia 150501
+
+1507. National Conference on Citizenship 150701
+
+1509. National Council on Radiation Protection and Measurements 150901
+
+1511. National Education Association of the United States 151101
+
+1513. National Fallen Firefighters Foundation 151301
+
+1515. National Federation of Music Clubs 151501
+
+1517. National Film Preservation Foundation 151701
+
+1519. National Fund for Medical Education 151901
+
+1521. National Mining Hall of Fame and Museum 152101
+
+1523. National Music Council 152301
+
+1524. National Recording Preservation Foundation 152401
+
+1525. National Safety Council 152501
+
+1527. National Ski Patrol System, Incorporated 152701
+
+1529. National Society, Daughters of the American Colonists 152901
+
+1531. The National Society of the Daughters of the American Revolution 153101
+
+1533. National Society of the Sons of the American Revolution153301
+
+1535. National Tropical Botanical Garden 153501
+
+1537. National Woman's Relief Corps, Auxiliary to the Grand Army of the Republic 153701
+
+1539. The National Yeomen (F) 153901
+
+1541. Naval Sea Cadet Corps 154101
+
+1543. Navy Club of the United States of America 154301
+
+1545. Navy Wives Clubs of America 154501
+
+1547. Non Commissioned Officers Association of the United States of America, Incorporated 154701
+
+1549 through 1599. reserved
+
+1601 through 1699. reserved
+
+1701. Paralyzed Veterans of America 170101
+
+1703. Pearl Harbor Survivors Association 170301
+
+1705. Polish Legion of American Veterans, U.S.A. 170501
+
+1707 through 1799. reserved
+
+1801 through 1899. reserved
+
+1901. Reserve Officers Association of the United States 190101
+
+1903. Retired Enlisted Association, Incorporated 190301
+
+1905 through 1999. reserved
+
+2001. Society of American Florists and Ornamental Horticulturists 200101
+
+2003. Sons of Union Veterans of the Civil War 200301
+
+2005 through 2099. reserved
+
+2101. Theodore Roosevelt Association 210101
+
+2103. 369th Veterans' Association 210301
+
+2105 through 2199. reserved
+
+2201. United Service Organizations, Incorporated 220101
+
+2203. United States Capitol Historical Society 220301
+
+2205. United States Olympic Committee 220501
+
+2207. United States Submarine Veterans of World War II 220701
+
+2209 through 2299. reserved
+
+2301. Veterans of Foreign Wars of the United States 230101
+
+2303. Veterans of World War I of the United States of America, Incorporated 230301
+
+2305. Vietnam Veterans of America, Inc. 230501
+
+2307 through 2399. reserved
+
+2401. Women's Army Corps Veterans' Association 240101
+
+2403 through 2499. reserved
+
+2501 through 2599. reserved
+
+2601 through 2699. reserved
+
+2701 through 2799. reserved
+
+Subtitle III—Treaty Obligation Organizations
+----------
+
+3001. The American National Red Cross 300101
+
+#### Amendments ####
+
+**2014**—Pub. L. 113–237, §3(a)(1), Dec. 18, 2014, 128 Stat. 2833, added complete analysis and struck out former analysis which consisted only of items for subtitles I to III.
 
 |                            *Title 36<br/><br/>Former Sections*                             |               *Title 36<br/><br/>New Sections*                |
 |--------------------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -1525,6 +1800,8 @@ III. TREATY OBLIGATION ORGANIZATIONS 300101
 Pub. L. 105–225, §1, Aug. 12, 1998, 112 Stat. 1253, provided in part that: "Certain general and permanent laws of the United States, related to patriotic and national observances, ceremonies, and organizations, are revised, codified, and enacted as title 36, United States Code, 'Patriotic and National Observances, Ceremonies, and Organizations' ".
 
 #### Legislative Purpose and Construction ####
+
+Pub. L. 113–237, §2, Dec. 18, 2014, 128 Stat. 2833, provided that: "The purpose of this Act [see Tables for classification] is to make revisions in title 36, United States Code, as necessary to keep the title current and make technical corrections and improvements."
 
 Pub. L. 105–354, §4, Nov. 3, 1998, 112 Stat. 3245, provided that:
 

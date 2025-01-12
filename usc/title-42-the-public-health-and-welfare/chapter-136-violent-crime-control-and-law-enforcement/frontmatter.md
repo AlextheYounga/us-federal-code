@@ -52,6 +52,10 @@ Sec.
 
 13726c. Enforcement.
 
+13727. State information regarding individuals who die in the custody of law enforcement.
+
+13727a. Federal law enforcement death in custody reporting requirement.
+
 #### SUBCHAPTER II—CRIME PREVENTION ####
 
 #### Part A—Ounce of Prevention Council ####

@@ -36,13 +36,13 @@ Pub. L. 96–190, Feb. 12, 1980, 94 Stat. 17, known as the Dispute Resolution Ac
 FEDERAL RULES OF APPELLATE PROCEDURE
 ==========
 
-(As amended to January 2, 2014)
+(As amended to January 5, 2015)
 
 #### Historical Note ####
 
 The Federal Rules of Appellate Procedure were adopted by order of the Supreme Court on Dec. 4, 1967, transmitted to Congress by the Chief Justice on Jan. 15, 1968, and became effective on July 1, 1968.
 
-The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013.
+The Rules have been amended Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Oct. 12, 1984, Pub. L. 98–473, title II, §210, 98 Stat 1987; Mar. 10, 1986, eff. July 1, 1986; Nov. 18, 1988, Pub. L. 100–690, title VII, §7111, 102 Stat. 4419; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title I, §103, 110 Stat. 1218; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014.
 
 #### TITLE I. APPLICABILITY OF RULES ####
 
@@ -64,7 +64,7 @@ Rule
 
 [5.1. Abrogated.]
 
-6. Appeal in a Bankruptcy Case from a Final Judgment, Order, or Decree of a District Court or Bankruptcy Appellate Panel.
+6. Appeal in a Bankruptcy Case
 
 7. Bond for Costs on Appeal in a Civil Case.
 
@@ -878,33 +878,35 @@ Rule 5(c) has been further amended to limit the length of papers filed under Rul
 
 The Federal Courts Improvement Act of 1996, Pub. L. No. 104–317, abolished appeals by permission under 28 U.S.C. §636(c)(5), making Rule 5.1 obsolete. Rule 5.1 is, therefore, abrogated.
 
-### Rule 6. Appeal in a Bankruptcy Case from a Final Judgment, Order, or Decree of a District Court or Bankruptcy Appellate Panel ###
+### Rule 6. Appeal in a Bankruptcy Case ###
 
 (a) Appeal From a Judgment, Order, or Decree of a District Court Exercising Original Jurisdiction in a Bankruptcy Case. An appeal to a court of appeals from a final judgment, order, or decree of a district court exercising jurisdiction under 28 U.S.C. §1334 is taken as any other civil appeal under these rules.
 
 (b) Appeal From a Judgment, Order, or Decree of a District Court or Bankruptcy Appellate Panel Exercising Appellate Jurisdiction in a Bankruptcy Case.
 
-(1) *Applicability of Other Rules.* These rules apply to an appeal to a court of appeals under 28 U.S.C. §158(d) from a final judgment, order, or decree of a district court or bankruptcy appellate panel exercising appellate jurisdiction under 28 U.S.C. §158(a) or (b). But there are 3 exceptions:
+(1) *Applicability of Other Rules.* These rules apply to an appeal to a court of appeals under 28 U.S.C. §158(d)(1) from a final judgment, order, or decree of a district court or bankruptcy appellate panel exercising appellate jurisdiction under 28 U.S.C. §158(a) or (b), but with these qualifications:
 
-(A) Rules 4(a)(4), 4(b), 9, 10, 11, 12(b), 13–20, 22–23, and 24(b) do not apply;
+(A) Rules 4(a)(4), 4(b), 9, 10, 11, 12(c), 13–20, 22–23, and 24(b) do not apply;
 
-(B) the reference in Rule 3(c) to "Form 1 in the Appendix of Forms" must be read as a reference to Form 5; and
+(B) the reference in Rule 3(c) to "Form 1 in the Appendix of Forms" must be read as a reference to Form 5;
 
-(C) when the appeal is from a bankruptcy appellate panel, the term "district court," as used in any applicable rule, means "appellate panel."
+(C) when the appeal is from a bankruptcy appellate panel, "district court," as used in any applicable rule, means "appellate panel"; and
+
+(D) in Rule 12.1, "district court" includes a bankruptcy court or bankruptcy appellate panel.
 
 (2) *Additional Rules.* In addition to the rules made applicable by Rule 6(b)(1), the following rules apply:
 
 (A) *Motion for Rehearing.*
 
-(i) If a timely motion for rehearing under Bankruptcy Rule 8015 is filed, the time to appeal for all parties runs from the entry of the order disposing of the motion. A notice of appeal filed after the district court or bankruptcy appellate panel announces or enters a judgment, order, or decree—but before disposition of the motion for rehearing—becomes effective when the order disposing of the motion for rehearing is entered.
+(i) If a timely motion for rehearing under Bankruptcy Rule 8022 is filed, the time to appeal for all parties runs from the entry of the order disposing of the motion. A notice of appeal filed after the district court or bankruptcy appellate panel announces or enters a judgment, order, or decree—but before disposition of the motion for rehearing—becomes effective when the order disposing of the motion for rehearing is entered.
 
-(ii) Appellate review of the order disposing of the motion requires the party, in compliance with Rules 3(c) and 6(b)(1)(B), to amend a previously filed notice of appeal. A party intending to challenge an altered or amended judgment, order, or decree must file a notice of appeal or amended notice of appeal within the time prescribed by Rule 4—excluding Rules 4(a)(4) and 4(b)—measured from the entry of the order disposing of the motion.
+(ii) If a party intends to challenge the order disposing of the motion—or the alteration or amendment of a judgment, order, or decree upon the motion—then the party, in compliance with Rules 3(c) and 6(b)(1)(B), must file a notice of appeal or amended notice of appeal. The notice or amended notice must be filed within the time prescribed by Rule 4—excluding Rules 4(a)(4) and 4(b)—measured from the entry of the order disposing of the motion.
 
 (iii) No additional fee is required to file an amended notice.
 
-(B) *The record on appeal.*
+(B) *The Record on Appeal.*
 
-(i) Within 14 days after filing the notice of appeal, the appellant must file with the clerk possessing the record assembled in accordance with Bankruptcy Rule 8006—and serve on the appellee—a statement of the issues to be presented on appeal and a designation of the record to be certified and sent to the circuit clerk.
+(i) Within 14 days after filing the notice of appeal, the appellant must file with the clerk possessing the record assembled in accordance with Bankruptcy Rule 8009—and serve on the appellee—a statement of the issues to be presented on appeal and a designation of the record to be certified and made available to the circuit clerk.
 
 (ii) An appellee who believes that other parts of the record are necessary must, within 14 days after being served with the appellant's designation, file with the clerk and serve on the appellant a designation of additional parts to be included.
 
@@ -916,15 +918,37 @@ The Federal Courts Improvement Act of 1996, Pub. L. No. 104–317, abolished app
 
 • a certified copy of the docket entries prepared by the clerk under Rule 3(d).
 
-(C) *Forwarding the Record.*
+(C) *Making the Record Available.*
 
-(i) When the record is complete, the district clerk or bankruptcy appellate panel clerk must number the documents constituting the record and send them promptly to the circuit clerk together with a list of the documents correspondingly numbered and reasonably identified. Unless directed to do so by a party or the circuit clerk, the clerk will not send to the court of appeals documents of unusual bulk or weight, physical exhibits other than documents, or other parts of the record designated for omission by local rule of the court of appeals. If the exhibits are unusually bulky or heavy, a party must arrange with the clerks in advance for their transportation and receipt.
+(i) When the record is complete, the district clerk or bankruptcy-appellate-panel clerk must number the documents constituting the record and promptly make it available to the circuit clerk. If the clerk makes the record available in paper form, the clerk will not send documents of unusual bulk or weight, physical exhibits other than documents, or other parts of the record designated for omission by local rule of the court of appeals, unless directed to do so by a party or the circuit clerk. If unusually bulky or heavy exhibits are to be made available in paper form, a party must arrange with the clerks in advance for their transportation and receipt.
 
-(ii) All parties must do whatever else is necessary to enable the clerk to assemble and forward the record. The court of appeals may provide by rule or order that a certified copy of the docket entries be sent in place of the redesignated record, but any party may request at any time during the pendency of the appeal that the redesignated record be sent.
+(ii) All parties must do whatever else is necessary to enable the clerk to assemble the record and make it available. When the record is made available in paper form, the court of appeals may provide by rule or order that a certified copy of the docket entries be made available in place of the redesignated record. But any party may request at any time during the pendency of the appeal that the redesignated record be made available.
 
-(D) *Filing the Record.* Upon receiving the record—or a certified copy of the docket entries sent in place of the redesignated record—the circuit clerk must file it and immediately notify all parties of the filing date.
+(D) *Filing the Record.* When the district clerk or bankruptcy-appellate-panel clerk has made the record available, the circuit clerk must note that fact on the docket. The date noted on the docket serves as the filing date of the record. The circuit clerk must immediately notify all parties of the filing date.
 
-(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 26, 2009, eff. Dec. 1, 2009.)
+(c) Direct Review by Permission Under 28 U.S.C. §158(d)(2).
+
+(1) *Applicability of Other Rules.* These rules apply to a direct appeal by permission under 28 U.S.C. §158(d)(2), but with these qualifications:
+
+(A) Rules 3–4, 5(a)(3), 6(a), 6(b), 8(a), 8(c), 9–12, 13–20, 22–23, and 24(b) do not apply;
+
+(B) as used in any applicable rule, "district court" or "district clerk" includes—to the extent appropriate—a bankruptcy court or bankruptcy appellate panel or its clerk; and
+
+(C) the reference to "Rules 11 and 12(c)" in Rule 5(d)(3) must be read as a reference to Rules 6(c)(2)(B) and (C).
+
+(2) *Additional Rules.* In addition, the following rules apply:
+
+(A) *The Record on Appeal.* Bankruptcy Rule 8009 governs the record on appeal.
+
+(B) *Making the Record Available.* Bankruptcy Rule 8010 governs completing the record and making it available.
+
+(C) *Stays Pending Appeal.* Bankruptcy Rule 8007 applies to stays pending appeal.
+
+(D) *Duties of the Circuit Clerk.* When the bankruptcy clerk has made the record available, the circuit clerk must note that fact on the docket. The date noted on the docket serves as the filing date of the record. The circuit clerk must immediately notify all parties of the filing date.
+
+(E) *Filing a Representation Statement.* Unless the court of appeals designates another time, within 14 days after entry of the order granting permission to appeal, the attorney who sought permission must file a statement with the circuit clerk naming the parties that the attorney represents on appeal.
+
+(As amended Apr. 30, 1979, eff. Aug. 1, 1979; Apr. 25, 1989, eff. Dec. 1, 1989; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 24, 1998, eff. Dec. 1, 1998; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
 #### Notes of Advisory Committee on Rules—1967 ####
 
@@ -962,9 +986,35 @@ The language and organization of the rule are amended to make the rule more easi
 
 *Subdivision (b)(2)(B).* The times set in the former rule at 10 days have been revised to 14 days. See the Note to Rule 26.
 
+#### Committee Notes on Rules—2014 Amendment ####
+
+*Subdivision (b)(1).* Subdivision (b)(1) is updated to reflect the renumbering of 28 U.S.C. §158(d) as 28 U.S.C. §158(d)(1). Subdivision (b)(1)(A) is updated to reflect the renumbering of Rule 12(b) as Rule 12(c). New subdivision (b)(1)(D) provides that references in Rule 12.1 to the "district court" include—as appropriate—a bankruptcy court or bankruptcy appellate panel.
+
+*Subdivision (b)(2).* Subdivision (b)(2)(A)(i) is amended to refer to Bankruptcy Rule 8022 (in accordance with the renumbering of Part VIII of the Bankruptcy Rules).
+
+Subdivision (b)(2)(A)(ii) is amended to address problems that stemmed from the adoption—during the 1998 restyling project—of language referring to challenges to "an altered or amended judgment, order, or decree." Current Rule 6(b)(2)(A)(ii) states that "[a] party intending to challenge an altered or amended judgment, order, or decree must file a notice of appeal or amended notice of appeal . . . ." Before the 1998 restyling, the comparable subdivision of Rule 6 instead read "[a] party intending to challenge an alteration or amendment of the judgment, order, or decree shall file an amended notice of appeal . . . ." The 1998 restyling made a similar change in Rule 4(a)(4). One court has explained that the 1998 amendment introduced ambiguity into that Rule: "The new formulation could be read to expand the obligation to file an amended notice to circumstances where the ruling on the post-trial motion alters the prior judgment in an insignificant manner or in a manner favorable to the appellant, even though the appeal is not directed against the alteration of the judgment." *Sorensen v. City of New York*, 413 F.3d 292, 296 n.2 (2d Cir. 2005). Though the *Sorensen* court was writing of Rule 4(a)(4), a similar concern arises with respect to Rule 6(b)(2)(A)(ii). Rule 4(a)(4) was amended in 2009 to remove the ambiguity identified by the *Sorensen* court. The current amendment follows suit by removing Rule 6(b)(2)(A)(ii)'s reference to challenging "an altered or amended judgment, order, or decree, and referring instead to challenging "the alteration or amendment of a judgment, order, or decree."
+
+Subdivision (b)(2)(B)(i) is amended to refer to Rule 8009 (in accordance with the renumbering of Part VIII of the Bankruptcy Rules).
+
+Due to the shift to electronic filing, in some appeals the record will no longer be transmitted in paper form. Subdivisions (b)(2)(B)(i), (b)(2)(C), and (b)(2)(D) are amended to reflect the fact that the record sometimes will be made available electronically.
+
+Subdivision (b)(2)(D) sets the duties of the circuit clerk when the record has been made available. Because the record may be made available in electronic form, subdivision (b)(2)(D) does not direct the clerk to "file" the record. Rather, it directs the clerk to note on the docket the date when the record was made available and to notify the parties of that date, which shall serve as the date of filing the record for purposes of provisions in these Rules that calculate time from that filing date.
+
+*Subdivision (c).* New subdivision (c) is added to govern permissive direct appeals from the bankruptcy court to the court of appeals under 28 U.S.C. §158(d)(2). For further provisions governing such direct appeals, see Bankruptcy Rule 8006.
+
+*Subdivision (c)(1).* Subdivision (c)(1) provides for the general applicability of the Federal Rules of Appellate Procedure, with specified exceptions, to appeals covered by subdivision (c) and makes necessary word adjustments.
+
+*Subdivision (c)(2).* Subdivision (c)(2)(A) provides that the record on appeal is governed by Bankruptcy Rule 8009. Subdivision (c)(2)(B) provides that the record shall be made available as stated in Bankruptcy Rule 8010. Subdivision (c)(2)(C) provides that Bankruptcy Rule 8007 applies to stays pending appeal; in addition, Appellate Rule 8(b) applies to sureties on bonds provided in connection with stays pending appeal.
+
+Subdivision (c)(2)(D), like subdivision (b)(2)(D), directs the clerk to note on the docket the date when the record was made available and to notify the parties of that date, which shall serve as the date of filing the record for purposes of provisions in these Rules that calculate time from that filing date.
+
+Subdivision (c)(2)(E) is modeled on Rule 12(b), with appropriate adjustments.
+
+*Changes Made After Publication and Comment.* No changes were made after publication and comment.
+
 #### References in Text ####
 
-The Bankruptcy Rules, referred to in subd. (b)(2)(A)(i), (B)(i), are set out in the Appendix to Title 11, Bankruptcy.
+The Bankruptcy Rules, referred to in subd. (b)(2)(A)(i), (B)(i), (c)(2)(A)–(C), are set out in the Appendix to Title 11, Bankruptcy.
 
 ### Rule 7. Bond for Costs on Appeal in a Civil Case ###
 
@@ -4034,13 +4084,13 @@ Address: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 FEDERAL RULES OF CIVIL PROCEDURE
 ==========
 
-(As amended to January 2, 2014)
+(As amended to January 5, 2015)
 
 #### Historical Note ####
 
 The original Rules of Civil Procedure for the District Courts were adopted by order of the Supreme Court on Dec. 20, 1937, transmitted to Congress by the Attorney General on Jan. 3, 1938, and became effective on Sept. 16, 1938.
 
-The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013.
+The Rules have been amended Dec. 28, 1939, eff. Apr. 3, 1941; Dec. 27, 1946, eff. Mar. 19, 1948; Dec. 29, 1948, eff. Oct. 20, 1949; Apr. 30, 1951, eff. Aug. 1, 1951; Apr. 17, 1961, eff. July 19, 1961; Jan. 21, 1963, eff. July 1, 1963; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 30, 1970, eff. July 1, 1970; Mar. 1, 1971, eff. July 1, 1971; Nov. 20, 1972, and Dec. 18, 1972, eff. July 1, 1975; Apr. 29, 1980, eff. Aug. 1, 1980; Oct. 21, 1980, Pub. L. 96–481, title II, §205(a), (b), 94 Stat. 2330; Jan. 12, 1983, Pub. L. 97–462, §§2–4, 96 Stat. 2527–2530, eff. Feb. 26, 1983; Apr. 28, 1983, eff. Aug. 1, 1983; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7047(b), 7049, 7050, 102 Stat. 4401; Apr. 30, 1991, eff. Dec. 1, 1991; Dec. 9, 1991, Pub. L. 102–198, §11, 105 Stat. 1626; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 16, 2013, eff. Dec. 1, 2013; Apr.25, 2014, eff. Dec. 1, 2014.
 
 #### TITLE I. SCOPE OF RULES; FORM OF ACTION ####
 
@@ -14207,7 +14257,7 @@ Rule 76 was abrogated in 1997 to reflect repeal of the statute providing for app
 
 (c) Clerk's Office Hours; Clerk's Orders.
 
-(1) *Hours.* The clerk's office—with a clerk or deputy on duty—must be open during business hours every day except Saturdays, Sundays, and legal holidays. But a court may, by local rule or order, require that the office be open for specified hours on Saturday or a particular legal holiday other than one listed in Rule 6(a)(4)(A).
+(1) *Hours.* The clerk's office—with a clerk or deputy on duty—must be open during business hours every day except Saturdays, Sundays, and legal holidays. But a court may, by local rule or order, require that the office be open for specified hours on Saturday or a particular legal holiday other than one listed in Rule 6(a)(6)(A).
 
 (2) *Orders.* Subject to the court's power to suspend, alter, or rescind the clerk's action for good cause, the clerk may:
 
@@ -14225,7 +14275,7 @@ Rule 76 was abrogated in 1997 to reflect repeal of the statute providing for app
 
 (2) *Time to Appeal Not Affected by Lack of Notice.* Lack of notice of the entry does not affect the time for appeal or relieve—or authorize the court to relieve—a party for failing to appeal within the time allowed, except as allowed by Federal Rule of Appellate Procedure (4)(a).
 
-(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 30, 2007, eff. Dec. 1, 2007.)
+(As amended Dec. 27, 1946, eff. Mar. 19, 1948; Jan. 21, 1963, eff. July 1, 1963; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Mar. 2, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
 #### Notes of Advisory Committee on Rules—1937 ####
 
@@ -14276,6 +14326,10 @@ Rule 77(d) is amended to reflect changes in Rule 5(b). A few courts have experim
 #### Committee Notes on Rules—2007 Amendment ####
 
 The language of Rule 77 has been amended as part of the general restyling of the Civil Rules to make them more easily understood and to make style and terminology consistent throughout the rules. These changes are intended to be stylistic only.
+
+#### Committee Notes on Rules—2014 Amendment ####
+
+The amendment corrects an inadvertent failure to revise the cross-reference to Rule 6(a) when what was Rule 6(a)(4)(A) became Rule 6(a)(6)(A).
 
 #### References in Text ####
 
@@ -15986,7 +16040,7 @@ The times set in the former rule at 20 days have been revised to 21 days. See th
 FEDERAL RULES OF EVIDENCE
 ==========
 
-(As amended to January 2, 2014)
+(As amended to January 5, 2015)
 
 #### Effective Date and Application of Rules ####
 
@@ -15996,7 +16050,7 @@ Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1926, provided: "That the followin
 
 The Federal Rules of Evidence were adopted by order of the Supreme Court on Nov. 20, 1972, transmitted to Congress by the Chief Justice on Feb. 5, 1973, and to have become effective on July 1, 1973. Pub. L. 93–12, Mar. 30, 1973, 87 Stat. 9, provided that the proposed rules "shall have no force or effect except to the extent, and with such amendments, as they may be expressly approved by Act of Congress". Pub. L. 93–595, Jan. 2, 1975, 88 Stat. 1926, enacted the Federal Rules of Evidence proposed by the Supreme Court, with amendments made by Congress, to take effect on July 1, 1975.
 
-The Rules have been amended Oct. 16, 1975, Pub. L. 94–113, §1, 89 Stat. 576, eff. Oct. 31, 1975; Dec. 12, 1975, Pub. L. 94–149, §1, 89 Stat. 805; Oct. 28, 1978, Pub. L. 95–540, §2, 92 Stat. 2046; Nov. 6, 1978, Pub. L. 95–598, title II, §251, 92 Stat. 2673, eff. Oct. 1, 1979; Apr. 30, 1979, eff. Dec. 1, 1980; Apr. 2, 1982, Pub. L. 97–164, title I, §142, title IV, §402, 96 Stat. 45, 57, eff. Oct. 1, 1982; Oct. 12, 1984, Pub. L. 98–473, title IV, §406, 98 Stat. 2067; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7046, 7075, 102 Stat. 4400, 4405; Jan. 26, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title IV, §40141, title XXXII, §320935, 108 Stat. 1918, 2135; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 17, 2000, eff. Dec. 1, 2000; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 12, 2006, eff. Dec. 1, 2006; Sept. 19, 2008, Pub. L. 110–322, §1(a), 122 Stat. 3537; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013.
+The Rules have been amended Oct. 16, 1975, Pub. L. 94–113, §1, 89 Stat. 576, eff. Oct. 31, 1975; Dec. 12, 1975, Pub. L. 94–149, §1, 89 Stat. 805; Oct. 28, 1978, Pub. L. 95–540, §2, 92 Stat. 2046; Nov. 6, 1978, Pub. L. 95–598, title II, §251, 92 Stat. 2673, eff. Oct. 1, 1979; Apr. 30, 1979, eff. Dec. 1, 1980; Apr. 2, 1982, Pub. L. 97–164, title I, §142, title IV, §402, 96 Stat. 45, 57, eff. Oct. 1, 1982; Oct. 12, 1984, Pub. L. 98–473, title IV, §406, 98 Stat. 2067; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 25, 1988, eff. Nov. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VII, §§7046, 7075, 102 Stat. 4400, 4405; Jan. 26, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title IV, §40141, title XXXII, §320935, 108 Stat. 1918, 2135; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 17, 2000, eff. Dec. 1, 2000; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 12, 2006, eff. Dec. 1, 2006; Sept. 19, 2008, Pub. L. 110–322, §1(a), 122 Stat. 3537; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013; Apr. 25, 2014,eff. Dec. 1, 2014.
 
 #### ARTICLE I. GENERAL PROVISIONS ####
 
@@ -18614,7 +18668,11 @@ Under the earlier cases, the confrontation clause may have been little more than
 
 (A) is inconsistent with the declarant's testimony and was given under penalty of perjury at a trial, hearing, or other proceeding or in a deposition;
 
-(B) is consistent with the declarant's testimony and is offered to rebut an express or implied charge that the declarant recently fabricated it or acted from a recent improper influence or motive in so testifying; or
+(B) is consistent with the declarant's testimony and is offered:
+
+(i) to rebut an express or implied charge that the declarant recently fabricated it or acted from a recent improper influence or motive in so testifying; or
+
+(ii) to rehabilitate the declarant's credibility as a witness when attacked on another ground; or
 
 (C) identifies a person as someone the declarant perceived earlier.
 
@@ -18632,7 +18690,7 @@ Under the earlier cases, the confrontation clause may have been little more than
 
 The statement must be considered but does not by itself establish the declarant's authority under (C); the existence or scope of the relationship under (D); or the existence of the conspiracy or participation in it under (E).
 
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1938; Pub. L. 94–113, §1, Oct. 16, 1975, 89 Stat. 576; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 2011, eff. Dec. 1, 2011.)
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1938; Pub. L. 94–113, §1, Oct. 16, 1975, 89 Stat. 576; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
 #### Notes of Advisory Committee on Proposed Rules ####
 
@@ -18736,6 +18794,18 @@ The language of Rule 801 has been amended as part of the general restyling of th
 
 Statements falling under the hearsay exclusion provided by Rule 801(d)(2) are no longer referred to as "admissions" in the title to the subdivision. The term "admissions" is confusing because not all statements covered by the exclusion are admissions in the colloquial sense—a statement can be within the exclusion even if it "admitted" nothing and was not against the party's interest when made. The term "admissions" also raises confusion in comparison with the Rule 804(b)(3) exception for declarations against interest. No change in application of the exclusion is intended.
 
+#### Committee Notes on Rules—2014 Amendment ####
+
+Rule 801(d)(1)(B), as originally adopted, provided for substantive use of certain prior consistent statements of a witness subject to cross-examination. As the Advisory Committee noted, "[t]he prior statement is consistent with the testimony given on the stand, and, if the opposite party wishes to open the door for its admission in evidence, no sound reason is apparent why it should not be received generally."
+
+Though the original Rule 801(d)(1)(B) provided for substantive use of certain prior consistent statements, the scope of that Rule was limited. The Rule covered only those consistent statements that were offered to rebut charges of recent fabrication or improper motive or influence. The Rule did not, for example, provide for substantive admissibility of consistent statements that are probative to explain what otherwise appears to be an inconsistency in the witness's testimony. Nor did it cover consistent statements that would be probative to rebut a charge of faulty memory. Thus, the Rule left many prior consistent statements potentially admissible only for the limited purpose of rehabilitating a witness's credibility. The original Rule also led to some conflict in the cases; some courts distinguished between substantive and rehabilitative use for prior consistent statements, while others appeared to hold that prior consistent statements must be admissible under Rule 801(d)(1)(B) or not at all.
+
+The amendment retains the requirement set forth in *Tome v. United States*, 513 U.S. 150 (1995): that under Rule 801(d)(1)(B), a consistent statement offered to rebut a charge of recent fabrication or improper influence or motive must have been made before the alleged fabrication or improper influence or motive arose. The intent of the amendment is to extend substantive effect to consistent statements that rebut other attacks on a witness—such as the charges of inconsistency or faulty memory.
+
+The amendment does not change the traditional and well-accepted limits on bringing prior consistent statements before the factfinder for credibility purposes. It does not allow impermissible bolstering of a witness. As before, prior consistent statements under the amendment may be brought before the factfinder only if they properly rehabilitate a witness whose credibility has been attacked. As before, to be admissible for rehabilitation, a prior consistent statement must satisfy the strictures of Rule 403. As before, the trial court has ample discretion to exclude prior consistent statements that are cumulative accounts of an event. The amendment does not make any consistent statement admissible that was not admissible previously—the only difference is that prior consistent statements otherwise admissible for rehabilitation are now admissible substantively as well.
+
+*Changes Made After Publication and Comment*. The text of the proposed amendment was changed to clarify that the traditional limits on using prior consistent statements to rebut a charge of recent fabrication or improper influence or motive are retained. The Committee Note was modified to accord with the change in text.
+
 #### Amendment by Public Law ####
 
 **1975**—Subd. (d)(1). Pub. L. 94–113 added cl. (C).
@@ -18826,7 +18896,7 @@ If admitted, the record may be read into evidence but may be received as an exhi
 
 (D) all these conditions are shown by the testimony of the custodian or another qualified witness, or by a certification that complies with Rule 902(11) or (12) or with a statute permitting certification; and
 
-(E) neither the source of information nor the method or circumstances of preparation indicate a lack of trustworthiness.
+(E) the opponent does not show that the source of information or the method or circumstances of preparation indicate a lack of trustworthiness.
 
 (7) *Absence of a Record of a Regularly Conducted Activity.* Evidence that a matter is not included in a record described in paragraph (6) if:
 
@@ -18834,7 +18904,7 @@ If admitted, the record may be read into evidence but may be received as an exhi
 
 (B) a record was regularly kept for a matter of that kind; and
 
-(C) neither the possible source of the information nor other circumstances indicate a lack of trustworthiness.
+(C) the opponent does not show that the possible source of the information or other circumstances indicate a lack of trustworthiness.
 
 (8) *Public Records.* A record or statement of a public office if:
 
@@ -18846,7 +18916,7 @@ If admitted, the record may be read into evidence but may be received as an exhi
 
 (iii) in a civil case or against the government in a criminal case, factual findings from a legally authorized investigation; and
 
-(B) neither the source of information nor other circumstances indicate a lack of trustworthiness.
+(B) the opponent does not show that the source of information or other circumstances indicate a lack of trustworthiness.
 
 (9) *Public Records of Vital Statistics.* A record of a birth, death, or marriage, if reported to a public office in accordance with a legal duty.
 
@@ -18920,7 +18990,7 @@ The pendency of an appeal may be shown but does not affect admissibility.
 
 (24) [*Other Exceptions.*] [Transferred to Rule 807.]
 
-(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1939; Pub. L. 94–149, §1(11), Dec. 12, 1975, 89 Stat. 805; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013.)
+(Pub. L. 93–595, §1, Jan. 2, 1975, 88 Stat. 1939; Pub. L. 94–149, §1(11), Dec. 12, 1975, 89 Stat. 805; Mar. 2, 1987, eff. Oct. 1, 1987; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 13, 2013, eff. Dec. 1, 2013; Apr. 25, 2014, eff. Dec. 1, 2014.)
 
 #### Notes of Advisory Committee on Proposed Rules ####
 
@@ -19187,6 +19257,22 @@ The language of Rule 803 has been amended as part of the restyling of the Eviden
 Rule 803(10) has been amended in response to *Melendez-Diaz v. Massachusetts,* 557 U.S. 305 (2009). The *Melendez-Diaz* Court declared that a testimonial certificate could be admitted if the accused is given advance notice and does not timely demand the presence of the official who prepared the certificate. The amendment incorporates, with minor variations, a "notice-and-demand" procedure that was approved by the *Melendez-Diaz* Court. *See* Tex. Code Crim. P. Ann., art. 38.41.
 
 *Changes Made After Publication and Comment*. No changes were made after publication and comment.
+
+#### Committee Notes on Rules—2014 Amendment ####
+
+*Subdivision (6)(E).* The Rule has been amended to clarify that if the proponent has established the stated requirements of the exception—regular business with regularly kept record, source with personal knowledge, record made timely, and foundation testimony or certification—then the burden is on the opponent to show that the source of information or the method or circumstances of preparation indicate a lack of trustworthiness. While most courts have imposed that burden on the opponent, some have not. It is appropriate to impose this burden on the opponent, as the basic admissibility requirements are sufficient to establish a presumption that the record is reliable.
+
+The opponent, in meeting its burden, is not necessarily required to introduce affirmative evidence of untrustworthiness. For example, the opponent might argue that a record was prepared in anticipation of litigation and is favorable to the preparing party without needing to introduce evidence on the point. A determination of untrustworthiness necessarily depends on the circumstances.
+
+*Changes Made After Publication and Comment*. In accordance with a public comment, a slight change was made to the Committee Note to better track the language of the rule.
+
+*Subdivision (7)(C).* The Rule has been amended to clarify that if the proponent has established the stated requirements of the exception—set forth in Rule 803(6)—then the burden is on the opponent to show that the possible source of the information or other circumstances indicate a lack of trustworthiness. The amendment maintains consistency with the proposed amendment to the trustworthiness clause of Rule 803(6).
+
+*Changes Made After Publication and Comment*. In accordance with a public comment, a slight change was made to the Committee Note to better track the language of the rule.
+
+*Subdivision (8)(B).* The Rule has been amended to clarify that if the proponent has established that the record meets the stated requirements of the exception—prepared by a public office and setting out information as specified in the Rule—then the burden is on the opponent to show that the source of information or other circumstances indicate a lack of trustworthiness. While most courts have imposed that burden on the opponent, some have not. Public records have justifiably carried a presumption of reliability, and it should be up to the opponent to "demonstrate why a time-tested and carefully considered presumption is not appropriate." *Ellis v. International Playtex, Inc.*, 745 F.2d 292, 301 (4th Cir. 1984). The amendment maintains consistency with the proposed amendment to the trustworthiness clause of Rule 803(6).*The opponent, in meeting its burden, is not necessarily required to introduce affirmative evidence of untrustworthiness. For example, the opponent might argue that a record was prepared in anticipation of litigation and is favorable to the preparing party without needing to introduce evidence on the point. A determination of untrustworthiness necessarily depends on the circumstances.*
+
+*Changes Made After Publication and Comment*. In accordance with a public comment, a slight change was made to the Committee Note to better track the language of the rule.
 
 #### Amendment by Public Law ####
 
