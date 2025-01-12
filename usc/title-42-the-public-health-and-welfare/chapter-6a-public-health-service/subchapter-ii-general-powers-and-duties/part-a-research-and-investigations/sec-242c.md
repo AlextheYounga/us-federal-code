@@ -18,7 +18,7 @@ The Secretary, acting through the Director, shall—
 
 (5) oversee the development, implementation, and updating of the strategic plan established pursuant to subsection (c);
 
-(6) ensure that appropriate strategic planning, including the use of performance metrics, is conducted by such centers, institutes, and offices to facilitate and improve CDC programs and activities;
+(6) ensure that appropriate strategic planning, including the use of performance metrics, is conducted by such centers, institutes, and offices to facilitate and improve CDC programs and activities; <sup><a href="#242c_1_target" name="242c_1">1</a></sup>
 
 (7) communicate, including through convening annual meetings, with public and private entities regarding relevant public health programs and activities, and, as applicable, the strategic plan established pursuant to subsection (c).
 
@@ -125,3 +125,5 @@ A prior section 242c, act July 1, 1944, ch. 373, title III, §305, as added July
 #### Effective Date ####
 
 Pub. L. 117–328, div. FF, title II, §2101(b), Dec. 29, 2022, 136 Stat. 5709, provided that: "The first sentence of section 305(a) of the Public Health Service Act [42 U.S.C. 242c(a)], as added by subsection (a), shall take effect on January 20, 2025."
+
+[<sup>1</sup> So in original. Probably should be followed by "and".](#242c_1)

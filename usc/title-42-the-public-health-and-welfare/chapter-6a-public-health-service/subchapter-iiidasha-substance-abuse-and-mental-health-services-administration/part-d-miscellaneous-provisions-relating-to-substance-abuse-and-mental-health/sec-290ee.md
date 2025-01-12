@@ -94,6 +94,8 @@ Subsec. (a). Pub. L. 117–328, §1220(a)(2), (3), substituted "Grants" for "Gra
 
 Subsec. (a)(1). Pub. L. 117–328, §1220(a)(4), substituted "implement strategies that increase access to drugs or devices" for "implement strategies for pharmacists to dispense a drug or device".
 
+Subsec. (a)(3) to (5). Pub. L. 117–328, §1220(a)(5), (6), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
 Subsec. (d)(2). Pub. L. 117–328, §1220(b), substituted "5 years" for "3 years".
 
 Subsec. (d)(3). Pub. L. 117–328, §1220(c), amended par. (3) generally. Prior to amendment, text read as follows: "A State may use not more than 20 percent of a grant under this section for educating the public pursuant to subsection (a)(4)."

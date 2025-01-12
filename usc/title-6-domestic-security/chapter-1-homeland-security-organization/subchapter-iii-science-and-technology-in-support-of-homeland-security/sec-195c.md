@@ -122,7 +122,7 @@ Nothing in this section shall be construed to alter or affect the following prov
 
 (1) Title V of the Foreign Relations Authorization Act, Fiscal Year 1979 (22 U.S.C. 2656a et seq.).
 
-(2) Section 112b(c) of title 1.
+(2) Section 112b(g) of title 1.
 
 (3) Section 2651a(e)(2) of title 22.
 
@@ -135,10 +135,6 @@ Nothing in this section shall be construed to alter or affect the following prov
 There are authorized to be appropriated to carry out this section such sums as are necessary.
 
 (Pub. L. 107–296, title III, §317, as added Pub. L. 110–53, title XIX, §1901(b)(1), Aug. 3, 2007, 121 Stat. 505; amended Pub. L. 114–304, §2(a), Dec. 16, 2016, 130 Stat. 1519; Pub. L. 115–387, §2(f)(3), Dec. 21, 2018, 132 Stat. 5168; Pub. L. 117–263, div. E, title LIX, §5947(a)(3), Dec. 23, 2022, 136 Stat. 3481.)
-
-#### Amendment of Subsection (h)(2) ####
-
-Pub. L. 117–263, div. E, title LIX, §5947(a)(3), (c), Dec. 23, 2022, 136 Stat. 3481, 3482, provided that, effective 270 days after Dec. 23, 2022, subsection (h)(2) of this section is amended by striking "Section 112b(c)" and inserting "Section 112b(g)". See 2022 Amendment note below.
 
 #### **Editorial Notes** ####
 

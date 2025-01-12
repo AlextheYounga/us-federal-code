@@ -90,9 +90,9 @@ The Secretary shall coordinate duties and activities authorized under this secti
 
 #### (g) Sunset ####
 
-The Advisory Committee shall terminate on November 17, 2023.
+The Advisory Committee shall terminate on January 19, 2024.
 
-(July 1, 1944, ch. 373, title XXVIII, §2811A, as added Pub. L. 113–5, title I, §103, Mar. 13, 2013, 127 Stat. 168; amended Pub. L. 116–22, title III, §305(a), June 24, 2019, 133 Stat. 936; Pub. L. 117–328, div. FF, title II, §2236, Dec. 29, 2022, 136 Stat. 5756; Pub. L. 118–15, div. B, title III, §2333(a), Sept. 30, 2023, 137 Stat. 96.)
+(July 1, 1944, ch. 373, title XXVIII, §2811A, as added Pub. L. 113–5, title I, §103, Mar. 13, 2013, 127 Stat. 168; amended Pub. L. 116–22, title III, §305(a), June 24, 2019, 133 Stat. 936; Pub. L. 117–328, div. FF, title II, §2236, Dec. 29, 2022, 136 Stat. 5756; Pub. L. 118–15, div. B, title III, §2333(a), Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, §203(d)(1), Nov. 17, 2023, 137 Stat. 121.)
 
 #### **Editorial Notes** ####
 
@@ -102,7 +102,9 @@ Section was formerly classified to section 300hh–10a of this title.
 
 #### Amendments ####
 
-**2023**—Subsec. (g). Pub. L. 118–15 substituted "November 17, 2023" for "September 30, 2023".
+**2023**—Subsec. (g). Pub. L. 118–22 substituted "January 19, 2024" for "November 17, 2023".
+
+Pub. L. 118–15 substituted "November 17, 2023" for "September 30, 2023".
 
 **2022**—Subsec. (b)(2). Pub. L. 117–328, §2236(1)(A)(i), substituted ", behavioral, developmental" for "and behavioral".
 

@@ -2,9 +2,39 @@
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
-#### Effective Date of Repeal; Chapter To Remain in Effect for Twenty-Six Years After Nov. 1, 1987 ####
+#### Effective Date of Repeal; Chapter To Remain in Effect After November 1, 1987 ####
 
-Pub. L. 98–473, title II, §235(a)(1), Oct. 12, 1984, 98 Stat. 2031, set out as an Effective Date note under section 3551 of this title, provided that the repeal of this chapter is effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal. Pub. L. 98–473, title II, §235(b)(1)(A), Oct. 12, 1984, 98 Stat. 2032, provided that the provisions of this chapter in effect before Nov. 1, 1987, shall remain in effect for five years after Nov. 1, 1987, as to an individual who committed an offense or an act of juvenile delinquency before Nov. 1, 1987, and as to a term of imprisonment during the period described in section 235(a)(1)(B) of Pub. L. 98–473. Pub. L. 101–650, title III, §316, Dec. 1, 1990, 104 Stat. 5115, extended the period that this chapter remains in effect after Nov. 1, 1987, from five years to ten years. Pub. L. 104–232, §2(a), Oct. 2, 1996, 110 Stat. 3055, extended the period that this chapter remains in effect after Nov. 1, 1987, from ten years to fifteen years. Pub. L. 107–273, div. C, title I, §11017(a), Nov. 2, 2002, 116 Stat. 1824, extended the period that this chapter remains in effect after Nov. 1, 1987, from fifteen years to eighteen years. Pub. L. 109–76, §2, Sept. 29, 2005, 119 Stat. 2035, extended the period that this chapter remains in effect after Nov. 1, 1987, from eighteen years to twenty-one years. Pub. L. 110–312, §2, Aug. 12, 2008, 122 Stat. 3013, extended the period that this chapter remains in effect after Nov. 1, 1987, from twenty-one years to twenty-four years. Pub. L. 112–44, §2, Oct. 21, 2011, 125 Stat. 532, extended the period that this chapter remains in effect after Nov. 1, 1987, from twenty-four years to twenty-six years. The provisions of this chapter as in effect prior to repeal, and as amended subsequent to repeal, read as follows:
+Pub. L. 98–473, title II, §235(a)(1), Oct. 12, 1984, 98 Stat. 2031, set out in an Effective Date; Savings Provision note under section 3551 of this title, provided that the repeal of this chapter is effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal. Pub. L. 98–473, title II, §235(b)(1)(A), Oct. 12, 1984, 98 Stat. 2032, provided that the provisions of this chapter in effect before Nov. 1, 1987, would remain in effect for 5 years after Nov. 1, 1987, as to an individual who committed an offense or an act of juvenile delinquency before Nov. 1, 1987, and as to a term of imprisonment during the period described in section 235(a)(1)(B) of Pub. L. 98–473.
+
+Provisions further extending the period that this chapter would remain in effect after Nov. 1, 1987, were contained in the following:
+
+Pub. L. 118–15, div. A, §123, Sept. 30, 2023, 137 Stat. 78, as amended by Pub. L. 118–22, div. A, §5, Nov. 17, 2023, 137 Stat. 113, extended the period from 36 years to 36 years and 94 days.
+
+Pub. L. 117–328, div. O, title VIII, §801(b), Dec. 29, 2022, 136 Stat. 5232, extended the period from 35 years and 46 days to 36 years.
+
+Pub. L. 117–180, div. C, title I, §103(b), Sept. 30, 2022, 136 Stat. 2133, extended the period from 35 years to 35 years and 46 days.
+
+Pub. L. 116–159, div. D, title II, §4202, Oct. 1, 2020, 134 Stat. 741, extended the period from 33 years to 35 years.
+
+Pub. L. 115–274, §2, Oct. 31, 2018, 132 Stat. 4160, extended the period from 31 years to 33 years.
+
+Pub. L. 113–47, §2, Oct. 31, 2013, 127 Stat. 572, extended the period from 26 years to 31 years.
+
+Pub. L. 112–44, §2, Oct. 21, 2011, 125 Stat. 532, extended the period from 24 years to 26 years.
+
+Pub. L. 110–312, §2, Aug. 12, 2008, 122 Stat. 3013, extended the period from 21 years to 24 years.
+
+Pub. L. 109–76, §2, Sept. 29, 2005, 119 Stat. 2035, extended the period from 18 years to 21 years.
+
+Pub. L. 107–273, div. C, title I, §11017(a), Nov. 2, 2002, 116 Stat. 1824, extended the period from 15 years to 18 years.
+
+Pub. L. 104–232, §2(a), Oct. 2, 1996, 110 Stat. 3055, extended the period from 10 years to 15 years.
+
+Pub. L. 101–650, title III, §316, Dec. 1, 1990, 104 Stat. 5115, extended the period from 5 years to 10 years.
+
+#### Text of Chapter in Effect Prior to Repeal ####
+
+The provisions of this chapter as in effect prior to repeal, and as amended subsequent to repeal, read as follows:
 
 #### §4201. Definitions ####
 

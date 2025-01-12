@@ -90,7 +90,7 @@ Not later than one year after the date of enactment of this Act <sup><a href="#
 
 #### (b) Sunset ####
 
-The applicability of this section shall expire at the end of the 17-year period that begins on the date of enactment of this Act.<sup><a href="#247d-7f_1_target" name="247d-7f_1">1</a></sup>
+The applicability of this section shall expire after January 19, 2024.
 
 #### (c) Definitions ####
 
@@ -140,7 +140,7 @@ The term "covered activities" shall not include, with respect to a meeting or co
 
 (vii) Entering into any agreement or engaging in any other conduct restricting or setting the price at which a countermeasure or product is offered for sale, whether by bid or otherwise.
 
-(July 1, 1944, ch. 373, title III, §319L–1, as added Pub. L. 116–22, title VII, §701(e)(1)(C), (D), June 24, 2019, 133 Stat. 961.)
+(July 1, 1944, ch. 373, title III, §319L–1, as added Pub. L. 116–22, title VII, §701(e)(1)(C), (D), June 24, 2019, 133 Stat. 961; amended Pub. L. 118–22, div. B, title II, §203(c), Nov. 17, 2023, 137 Stat. 120.)
 
 #### **Editorial Notes** ####
 
@@ -148,7 +148,7 @@ The term "covered activities" shall not include, with respect to a meeting or co
 
 The Antitrust Civil Process Act, referred to in subsec. (a)(6), is Pub. L. 87–664, Sept. 19, 1962, 76 Stat. 548, which is classified principally to chapter 34 (§1311 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of Title 15 and Tables.
 
-The date of enactment of this Act, referred to in subsecs. (a)(8) and (b), probably means the date of enactment of Pub. L. 109–417, which was approved Dec. 19, 2006. This section was originally enacted as section 405 of Pub. L. 109–417, prior to redesignation as section 319L–1 of act July 1, 1944, ch. 373. See Codification note below.
+The date of enactment of this Act, referred to in subsec. (a)(8), probably means the date of enactment of Pub. L. 109–417, which was approved Dec. 19, 2006. This section was originally enacted as section 405 of Pub. L. 109–417, prior to redesignation as section 319L–1 of act July 1, 1944, ch. 373. See Codification note below.
 
 #### Codification ####
 
@@ -159,6 +159,8 @@ Section 405 of Pub. L. 109–417, formerly set out as a note under section 247d�
 A prior section 247d–7f, act July 1, 1944, ch. 373, title III, §319M, as added Pub. L. 109–417, title IV, §402, Dec. 19, 2006, 120 Stat. 2872; amended Pub. L. 113–5, title IV, §404, Mar. 13, 2013, 127 Stat. 197, which related to National Biodefense Science Board and working groups, was transferred to section 247d–7g of this title.
 
 #### Amendments ####
+
+**2023**—Subsec. (b). Pub. L. 118–22 substituted "after January 19, 2024" for "at the end of the 17-year period that begins on the date of enactment of this Act".
 
 **2019**—Pub. L. 116–22 redesignated section 405 of Pub. L. 109–417 as this section. See Codification note above.
 

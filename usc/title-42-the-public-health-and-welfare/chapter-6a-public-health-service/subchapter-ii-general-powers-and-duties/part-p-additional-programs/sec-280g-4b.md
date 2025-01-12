@@ -104,7 +104,7 @@ Pub. L. 117–103, div. W, title V, §505, Mar. 15, 2022, 136 Stat. 876, provide
 
 "(h) Authorization.—There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2023 through 2025."
 
-[For definition of terms used in section 505 of div. W of Pub. L. 117–103, set out above, see section 12291 Title 34, Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of Title 34].
+[For definition of terms used in section 505 of div. W of Pub. L. 117–103, set out above, see section 12291 of Title 34, Crime Control and Law Enforcement, as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under section 12291 of Title 34].
 
 #### Definitions ####
 

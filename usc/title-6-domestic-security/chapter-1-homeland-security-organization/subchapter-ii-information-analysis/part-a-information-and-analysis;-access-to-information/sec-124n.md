@@ -132,7 +132,7 @@ Nothing in this section may be construed to—
 
 #### (i) Termination ####
 
-The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on November 18, 2023.
+The authority to carry out this section with respect to a covered facility or asset specified in subsection (k)(3) shall terminate on February 3, 2024.
 
 #### (j) Scope of authority ####
 
@@ -232,7 +232,7 @@ Not later than 1 year after October 5, 2018, the Secretary shall conduct, in coo
 
 The report required under paragraph (1) shall be submitted in unclassified form, but may contain a classified annex.
 
-(Pub. L. 107–296, title II, §210G, as added Pub. L. 115–254, div. H, §1602(a), Oct. 5, 2018, 132 Stat. 3522; Pub. L. 118–15, div. B, title II, §2221, Sept. 30, 2023, 137 Stat. 86.)
+(Pub. L. 107–296, title II, §210G, as added Pub. L. 115–254, div. H, §1602(a), Oct. 5, 2018, 132 Stat. 3522; amended Pub. L. 118–15, div. B, title II, §2221, Sept. 30, 2023, 137 Stat. 86; Pub. L. 118–22, div. B, title III, §601, Nov. 17, 2023, 137 Stat. 123.)
 
 #### **Editorial Notes** ####
 
@@ -246,13 +246,15 @@ This chapter, referred to in subsec. (l)(1)(A), was in the original "this Act", 
 
 #### Amendments ####
 
-**2023**—Subsec. (i). Pub. L. 118–15 substituted "on November 18, 2023" for "on the date that is 4 years after October 5, 2018".
+**2023**—Subsec. (i). Pub. L. 118–22 substituted "February 3, 2024" for "November 18, 2023".
+
+Pub. L. 118–15 substituted "on November 18, 2023" for "on the date that is 4 years after October 5, 2018".
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination Date ####
 
-Pub. L. 117–328, div. F, title V, §547, Dec. 29, 2022, 136 Stat. 4758, provided that: "Section 210G(i) of the Homeland Security Act of 2002 (6 U.S.C. 124n(i)) shall be applied by substituting 'September 30, 2023' for 'the date that is 4 years after October 5, 2018'."
+Pub. L. 117–328, div. F, title V, §547, Dec. 29, 2022, 136 Stat. 4758, provided that: "Section 210G(i) of the Homeland Security Act of 2002 (6 U.S.C. 124n(i)) shall be applied by substituting 'September 30, 2023' for 'the date that is 4 years after the date of enactment of this section [Oct. 5, 2018]'."
 
 [<sup>1</sup> So in original. Probably should be "determines".](#124n_1)
 

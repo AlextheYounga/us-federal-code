@@ -354,7 +354,7 @@ Pub. L. 100–237, §§1–4, 7, 13–19, Jan. 8, 1988, 101 Stat. 1733, 1739, 17
 
 "(a) Assessment.—The Comptroller General of the United States shall monitor and assess the implementation by the Secretary of the provisions of this Act [see section 1 set out above].
 
-"(b) Report.—Before the expiration of the 18-month period beginning on the date of the enactment of this Act [Jan. 8, 1988], the Comptroller General shall submit to the Committee on Education and Labor [now Education and the Workforce] and the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report of the findings of the assessment conducted as required by subsection (a).
+"(b) Report.—Before the expiration of the 18-month period beginning on the date of the enactment of this Act [Jan. 8, 1988], the Comptroller General shall submit to the Committee on Education and Labor [now Committee on Education and the Workforce] and the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report of the findings of the assessment conducted as required by subsection (a).
 
 #### "SEC. 13. AUTHORITY TO TRANSFER COMMODITIES BETWEEN PROGRAMS. ####
 

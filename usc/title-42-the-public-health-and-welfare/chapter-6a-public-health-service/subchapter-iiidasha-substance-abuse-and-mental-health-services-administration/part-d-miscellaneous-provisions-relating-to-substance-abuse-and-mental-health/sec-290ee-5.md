@@ -158,7 +158,7 @@ The Secretary shall award grants to States (and political subdivisions thereof),
 
 #### (2) State promotion plans ####
 
-Not later than 90 days after receipt of a grant under paragraph (1), and every 2 years thereafter, each State (or political subdivisions thereof,) Indian Tribe, or territory receiving a grant under paragraph (1) shall submit to the Secretary, and publish on a publicly accessible internet website of the State (or political subdivisions thereof), Indian Tribe, or territory—
+Not later than 90 days after receipt of a grant under paragraph (1), and every 2 years thereafter, each State (or political subdivisions thereof,) <sup><a href="#290ee-5_1_target" name="290ee-5_1">1</a></sup> Indian Tribe, or territory receiving a grant under paragraph (1) shall submit to the Secretary, and publish on a publicly accessible internet website of the State (or political subdivisions thereof), Indian Tribe, or territory—
 
 (A) the plan of the State (or political subdivisions thereof), Indian Tribe, or territory, with respect to the promotion of recovery housing for individuals with a substance use disorder located within the jurisdiction of such State (or political subdivisions thereof), Indian Tribe, or territory; and
 
@@ -225,3 +225,5 @@ Subsec. (h)(2). Pub. L. 117–328, §1233(3), substituted "Indian Tribe" for "In
 Subsec. (i). Pub. L. 117–328, §1236, substituted "$5,000,000 for the period of fiscal years 2023 through 2027" for "$3,000,000 for the period of fiscal years 2019 through 2021".
 
 Pub. L. 117–328, §1233(1), redesignated subsec. (g) as (i).
+
+[<sup>1</sup> So in original. The comma probably should follow the closing parenthesis.](#290ee-5_1)

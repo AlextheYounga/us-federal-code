@@ -16,4 +16,4 @@ Section 4166, act June 25, 1948, ch. 645, 62 Stat. 854, related to restoration o
 
 #### Effective Date of Repeal ####
 
-Repeal effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, with sections to remain in effect for five years as to an individual who committed as offense or an act of juvenile delinquency before Nov. 1, 1987, and as to a term of imprisonment during the period described in section 235(a)(1)(B) of Pub. L. 98–473, see section 235(a)(1), (b)(1)(B) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
+Repeal effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, with sections to remain in effect for five years as to an individual who committed an offense or an act of juvenile delinquency before Nov. 1, 1987, and as to a term of imprisonment during the period described in section 235(a)(1)(B) of Pub. L. 98–473, see section 235(a)(1), (b)(1)(B) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.

@@ -68,7 +68,7 @@ Pub. L. 117–328, div. FF, title II, §2313(b), Dec. 29, 2022, 136 Stat. 5762, 
 
 Pub. L. 117–328, div. FF, title II, §2313(c), Dec. 29, 2022, 136 Stat. 5763, provided that: "The requirements under section 404O of the Public Health Service Act [42 U.S.C. 283r], as added by subsection (a), related to the mission, activities, or functions of the National Science Advisory Board for Biosecurity shall not apply until the completion of any work undertaken by such Board before the date of enactment of this Act [Dec. 29, 2022]."
 
-#### National Science Advisory Board for Biosecurity: Provision of Advice, Guidance, or Recommentations ####
+#### National Science Advisory Board for Biosecurity: Provision of Advice, Guidance, or Recommendations ####
 
 Pub. L. 109–417, title II, §205, Dec. 19, 2006, 120 Stat. 2851, provided that: "The National Science Advisory Board for Biosecurity shall, when requested by the Secretary of Health and Human Services, provide to relevant Federal departments and agencies, advice, guidance, or recommendations concerning—
 

@@ -176,7 +176,7 @@ In this subsection—
 
 #### (8) Sunset ####
 
-This subsection shall terminate on November 17, 2023.
+This subsection shall terminate on January 19, 2024.
 
 #### (f) Determination with respect to Paperwork Reduction Act waiver during a public health emergency ####
 
@@ -282,7 +282,7 @@ The Secretary shall, not later than 30 days after the deployment of contents of 
 
 (3) plans to replenish such products, as appropriate, including related timeframes and any barriers or limitations to replenishment.
 
-(July 1, 1944, ch. 373, title III, §319, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315; amended Pub. L. 107–188, title I, §§141, 144(a), 158, June 12, 2002, 116 Stat. 626, 630, 633; Pub. L. 113–5, title II, §201, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–255, div. A, title III, §3087, Dec. 13, 2016, 130 Stat. 1147; Pub. L. 116–22, title II, §206, title VII, §701(c), June 24, 2019, 133 Stat. 925, 961; Pub. L. 117–328, div. FF, title II, §§2103(a), 2223(a), 2407, Dec. 29, 2022, 136 Stat. 5711, 5747, 5788; Pub. L. 118–15, div. B, title III, §2332, Sept. 30, 2023, 137 Stat. 96.)
+(July 1, 1944, ch. 373, title III, §319, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2315; amended Pub. L. 107–188, title I, §§141, 144(a), 158, June 12, 2002, 116 Stat. 626, 630, 633; Pub. L. 113–5, title II, §201, Mar. 13, 2013, 127 Stat. 170; Pub. L. 114–255, div. A, title III, §3087, Dec. 13, 2016, 130 Stat. 1147; Pub. L. 116–22, title II, §206, title VII, §701(c), June 24, 2019, 133 Stat. 925, 961; Pub. L. 117–328, div. FF, title II, §§2103(a), 2223(a), 2407, Dec. 29, 2022, 136 Stat. 5711, 5747, 5788; Pub. L. 118–15, div. B, title III, §2332, Sept. 30, 2023, 137 Stat. 96; Pub. L. 118–22, div. B, title II, §203(a), Nov. 17, 2023, 137 Stat. 120.)
 
 #### **Editorial Notes** ####
 
@@ -298,7 +298,9 @@ Another prior section 247d, act July 1, 1944, ch. 373, title III, §319, formerl
 
 #### Amendments ####
 
-**2023**—Subsec. (e)(8). Pub. L. 118–15 substituted "November 17, 2023" for "September 30, 2023".
+**2023**—Subsec. (e)(8). Pub. L. 118–22 substituted "January 19, 2024" for "November 17, 2023".
+
+Pub. L. 118–15 substituted "November 17, 2023" for "September 30, 2023".
 
 **2022**—Subsec. (b)(2)(F), (G). Pub. L. 117–328, §2103(a)(1), added subpar. (F) and redesignated former subpar. (F) as (G).
 
