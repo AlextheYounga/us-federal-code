@@ -38,10 +38,6 @@
 
 (Added Pub. L. 114–328, div. E, title LIX, §5323, Dec. 23, 2016, 130 Stat. 2926.)
 
-#### Delayed Effective Date ####
-
-For delayed effective date of section, see Effective Date note below.
-
 #### Effective Date ####
 
-Section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as an Effective Date of 2016 Amendment note under section 801 of this title.
+Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. 13825, set out as notes under section 801 of this title.

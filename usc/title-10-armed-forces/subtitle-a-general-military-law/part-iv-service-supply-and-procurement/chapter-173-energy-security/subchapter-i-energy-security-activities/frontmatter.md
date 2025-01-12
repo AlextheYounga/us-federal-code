@@ -22,9 +22,9 @@ Sec.
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–232, div. A, title X, §1081(c), Aug. 13, 2018, 132 Stat. 1985, made technical amendment to directory language of Pub. L. 115–91, §2831(b), effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted. See 2017 Amendment note below.
+**2018**—Pub. L. 115–232, div. A, title X, §1081(c)(6), Aug. 13, 2018, 132 Stat. 1985, made technical amendment to directory language of Pub. L. 115–91, §2831(b), effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted. See 2017 Amendment note below.
 
-**2017**—Pub. L. 115–91, div. B, title XXVIII, §2831(b), Dec. 12, 2017, 131 Stat. 1857, as amended by Pub. L. 115–232, div. A, title X, §1081(c)(6), Aug. 13, 2018, 132 Stat. 1985, which directed amendment of the analysis at the beginning of this chapter by adding item 2911 and striking out former item 2911 "Energy performance goals and master plan for the Department of Defense", was executed in the analysis for this subchapter to reflect the probable intent of Congress. See 2018 Amendment note above.
+**2017**—Pub. L. 115–91, div. B, title XXVIII, §2831(b), Dec. 12, 2017, 131 Stat. 1857, as amended by Pub. L. 115–232, div. A, title X, §1081(c)(6), Aug. 13, 2018, 132 Stat. 1985, which directed amendment of the analysis at the beginning of this chapter by adding item 2911 and striking out former item 2911 "Energy performance goals and master plan for the Department of Defense", was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 
 **2016**—Pub. L. 114–328, div. B, title XXVIII, §2805(a)(2), Dec. 23, 2016, 130 Stat. 2714, which directed amendment of the analysis at the beginning of this chapter by adding item 2914 and striking out former item 2914 "Energy conservation construction projects", was executed in the analysis for this subchapter to reflect the probable intent of Congress.
 
@@ -32,4 +32,4 @@ Sec.
 
 **2009**—Pub. L. 111–84, div. B, title XXVIII, §2843(b), Oct. 28, 2009, 123 Stat. 2682, added item 2919.
 
-[<sup>1</sup> So in original. Does not conform to section catchline.](#I_1)
+[<sup>1</sup> Section catchline amended by Pub. L. 115–232 without corresponding amendment of subchapter analysis.](#I_1)

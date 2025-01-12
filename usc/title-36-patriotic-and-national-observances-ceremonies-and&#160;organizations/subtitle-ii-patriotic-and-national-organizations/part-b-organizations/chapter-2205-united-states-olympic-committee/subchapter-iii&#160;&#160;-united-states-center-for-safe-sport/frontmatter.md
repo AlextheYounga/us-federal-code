@@ -1,4 +1,4 @@
-### SUBCHAPTER III <sup><a href="#I_1_target" name="I_1">1</a></sup>—UNITED STATES CENTER FOR SAFE SPORT ###
+### SUBCHAPTER III <sup><a href="#I_1_target" name="I_1">1</a></sup> —UNITED STATES CENTER FOR SAFE SPORT ###
 
 #### Amendments ####
 

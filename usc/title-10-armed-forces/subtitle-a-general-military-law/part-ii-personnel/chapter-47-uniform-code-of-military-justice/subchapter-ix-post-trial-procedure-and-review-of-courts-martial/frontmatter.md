@@ -18,7 +18,7 @@
 |868. |68. |                                           Branch offices.                                            |
 |869. |69. |                                  Review by Judge Advocate General.                                   |
 |870. |70. |                                          Appellate counsel.                                          |
-|871. |71. |                            Execution of sentence; suspension of sentence.                            |
+|[871.|71. |                                              Repealed.]                                              |
 |872. |72. |                                       Vacation of suspension.                                        |
 |873. |73. |                                      Petition for a new trial.                                       |
 |874. |74. |                                      Remission and suspension.                                       |

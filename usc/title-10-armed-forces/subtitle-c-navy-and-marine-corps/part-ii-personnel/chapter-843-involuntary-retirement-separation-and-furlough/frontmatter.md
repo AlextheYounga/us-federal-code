@@ -14,7 +14,7 @@ Sec.
 
 #### Prior Provisions ####
 
-A prior chapter 843, consisting of sections 8531 to 8549, related to special appointments, assignments, details, and duties, prior to renumbering as chapter 923 of this title.
+A prior chapter 843, consisting of sections 8531 to 8549, related to Air Force special appointments, assignments, details, and duties, prior to renumbering as chapter 923 of this title.
 
 #### Amendments ####
 

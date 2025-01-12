@@ -1,4 +1,4 @@
-### SUBCHAPTER III <sup><a href="#I_1_target" name="I_1">1</a></sup>—GRANT TO KEEP YOUNG ATHLETES SAFE ###
+### SUBCHAPTER III <sup><a href="#I_1_target" name="I_1">1</a></sup> —GRANT TO KEEP YOUNG ATHLETES SAFE ###
 
 #### Codification ####
 

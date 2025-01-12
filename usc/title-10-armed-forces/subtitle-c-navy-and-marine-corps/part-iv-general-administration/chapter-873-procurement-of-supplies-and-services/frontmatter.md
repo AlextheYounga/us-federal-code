@@ -10,7 +10,7 @@ Sec.
 
 #### Prior Provisions ####
 
-A prior chapter 873, consisting of sections 9021 to 9027, related to civilian employees, prior to renumbering as chapter 947 of this title.
+A prior chapter 873, consisting of sections 9021 to 9027, related to civilian employees in the Air Force, prior to renumbering as chapter 947 of this title.
 
 #### Amendments ####
 

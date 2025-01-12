@@ -14,7 +14,7 @@ Sec.
 
 9406. Service schools: leaves of absence for instructors.
 
-9314. Degree granting authority for United States Air Force Institute of Technology.
+9414. Degree granting authority for United States Air Force Institute of Technology.
 
 9414a. United States Air Force Institute of Technology: admission of certain private sector civilians.
 

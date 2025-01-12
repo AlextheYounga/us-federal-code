@@ -40,7 +40,7 @@ Sec.
 
 #### Prior Provisions ####
 
-A prior chapter 837, consisting of sections 8351 to 8396, related to appointments as reserved officers, prior to repeal by Pub. L. 103–337, div. A, title XVI, §1629(c)(1), Oct. 5, 1994, 108 Stat. 2963.
+A prior chapter 837, consisting of sections 8351 to 8396, related to appointments as reserved officers in the Air Force, prior to repeal, except for sections 8351 and 8352 (now sections 12212 and 12214 of this title), by Pub. L. 103–337, div. A, title XVI, §1629(c)(1), Oct. 5, 1994, 108 Stat. 2963.
 
 #### Amendments ####
 

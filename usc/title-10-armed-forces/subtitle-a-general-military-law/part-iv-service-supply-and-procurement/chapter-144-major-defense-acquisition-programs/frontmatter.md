@@ -40,11 +40,11 @@ Sec.
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–232, div. A, title X, §1081(c), Aug. 13, 2018, 132 Stat. 1985, made technical amendment to directory language of Pub. L. 115–91, §834(a)(2), effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted. See 2017 Amendment note below.
+**2018**—Pub. L. 115–232, div. A, title X, §1081(c)(1), Aug. 13, 2018, 132 Stat. 1985, made technical amendment to directory language of Pub. L. 115–91, §834(a)(2), effective as of Dec. 12, 2017, and as if included in Pub. L. 115–91 as enacted. See 2017 Amendment note below.
 
 **2017**—Pub. L. 115–91, div. A, title VIII, §§832(a)(2), 835(a)(2), title X, §1081(a)(37), Dec. 12, 2017, 131 Stat. 1468, 1471, 1596, added items 2439 and 2442 and substituted "Risk management and mitigation in major defense acquisition programs and major systems" for "Risk reduction in major defense acquisition programs and major systems" in item 2431b.
 
-Pub. L. 115–91, div. A, title VIII, §834(a)(2), Dec. 12, 2017, 131 Stat. 1470, as amended by Pub. L. 115–232, div. A, title X, §1081(c)(1), Aug. 13, 2018, 132 Stat. 1985, added item 2443. See 2018 Amendment note above.
+Pub. L. 115–91, div. A, title VIII, §834(a)(2), Dec. 12, 2017, 131 Stat. 1470, as amended by Pub. L. 115–232, div. A, title X, §1081(c)(1), Aug. 13, 2018, 132 Stat. 1985, added item 2443.
 
 **2016**—Pub. L. 114–328, div. A, title VIII, §§842(c)(2), 849(c)(2), Dec. 23, 2016, 130 Stat. 2290, 2294, struck out item 2434 "Independent cost estimates" and added item 2441.
 

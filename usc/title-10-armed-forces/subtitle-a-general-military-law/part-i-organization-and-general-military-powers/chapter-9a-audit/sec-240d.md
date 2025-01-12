@@ -58,6 +58,10 @@ Subsec. (e)(3). Pub. L. 115–91, §1002(e)(3)(B)(ii), redesignated par. (3) as 
 
 Pub. L. 115–91, §1002(e)(2)(A), struck out ", United States Code" after "title 31".
 
-#### Transparency of Accounting Firms Used to Support Department of Defense Audit ####
+#### Change of Name ####
+
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+
+#### Transparency of Accounting Firms Used To Support Department of Defense Audit ####
 
 Pub. L. 115–232, div. A, title X, §1006, Aug. 13, 2018, 132 Stat. 1947, provided that: "For all contract actions (including awards, renewals, and amendments) occurring more than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall require any accounting firm providing financial statement auditing or audit remediation services to the Department of Defense in support of the audit required under section 3521 of title 31, United States Code, to provide the Department with a statement setting forth the details of any disciplinary proceedings with respect to the accounting firm or its associated persons before any entity with the authority to enforce compliance with rules or laws applying to audit services offered by accounting firms."

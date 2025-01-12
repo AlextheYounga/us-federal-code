@@ -26,7 +26,7 @@ A prior chapter 831, consisting of sections 8201 to 8230, related to the force s
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 561 of this title as this chapter and items 6141, 6151 to 6156, 6160, and 6161 as 8261 to 8167, 8270, and 8271, respectively.
+**2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 561 of this title as this chapter and items 6141, 6151 to 6156, 6160, and 6161 as 8261 to 8267, 8270, and 8271, respectively.
 
 **2006**—Pub. L. 109–364, div. A, title X, §1071(a)(32), Oct. 17, 2006, 120 Stat. 2400, substituted colon for semicolon in item 6154 and "Settlement of accounts: remission or cancellation of indebtedness of members" for "Remission of indebtedness of enlisted members discharge" in item 6161.
 

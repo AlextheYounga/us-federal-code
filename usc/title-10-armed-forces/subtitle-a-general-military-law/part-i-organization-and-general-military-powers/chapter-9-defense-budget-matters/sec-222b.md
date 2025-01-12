@@ -36,7 +36,7 @@ Section, as added and amended by Pub. L. 115–232, is based on Pub. L. 114–32
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–232, §1677(b)(1), in section catchline, substituted "§" for "SEC." and "Unfunded priorities of the Missile Defense Agency: annual report" for"REPORTS ON UNFUNDED PRIORITIES OF THE MISSILE DEFENSE AGENCY."
+**2018**—Pub. L. 115–232, §1677(b)(1), in section catchline, substituted "§" for "SEC." and "Unfunded priorities of the Missile Defense Agency: annual report" for "REPORTS ON UNFUNDED PRIORITIES OF THE MISSILE DEFENSE AGENCY."
 
 Pub. L. 115–232, §1677(a)(1), transferred section 1696 of Pub. L. 114–328 to this chapter and renumbered it as this section. See Codification note above.
 

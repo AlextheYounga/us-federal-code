@@ -40,7 +40,7 @@ Sec.
 
 2568. Retention of combat uniforms by members deployed in support of contingency operations.
 
-2568a. Damaged personal protective equipment: award to members separating from the armed forces and veterans 1 .
+2568a. Damaged personal protective equipment: award to members separating from the armed forces and veterans. 1
 
 #### Prior Provisions ####
 

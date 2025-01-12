@@ -112,4 +112,4 @@ Section 950w, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2630,
 
 Par. (16). Pub. L. 115–232, §1081(a)(12)(B), substituted "shall be punished" for "shall punished".
 
-Par. (22). Pub. L. 115–232, §1081(a)(12)(C), added period at end.
+Par. (22). Pub. L. 115–232, §1081(a)(12)(C), inserted period at end.

@@ -30,7 +30,7 @@ Sec. 1
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–232, div. A, title XII, §§1204(c)(1)(C), 1207(b), 1208(a)(2), 1209(b)(2), Aug. 13, 2018, 132 Stat. 2017, 2020, 2021, 2023, substituted "Centers for Security Studies" for "centers for security studies" in item 342, inserted "and Irregular Warfare" after "Terrorism" in item 345, inserted "Sec." after item 350, and added items 351 and 352.
+**2018**—Pub. L. 115–232, div. A, title XII, §§1204(c)(1)(C), 1207(b), 1208(a)(2), 1209(b)(2), Aug. 13, 2018, 132 Stat. 2017, 2020, 2021, 2023, substituted "Centers for Security Studies" for "centers for security studies" in item 342, inserted "and Irregular Warfare" after "Terrorism" in item 345, and added items 351 and 352.
 
 #### Defense Institute of International Legal Studies ####
 

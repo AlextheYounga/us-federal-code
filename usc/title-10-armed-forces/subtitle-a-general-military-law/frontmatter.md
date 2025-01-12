@@ -355,7 +355,7 @@ Pub. L. 115–232, div. A, title VIII, §836(e)(12), (h), Aug. 13, 2018, 132 Sta
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–232, div. A, title VIII, §§801(b), 836(e)(12), Aug. 13, 2018, 132 Stat. 1831, 1870, substituted "Procurement of Commercial Products and Commercial Services" for "Procurement of Commercial Items" and "2377" for "2375" in item for chapter 140 and added item for part V.
+**2018**—Pub. L. 115–232, div. A, title VIII, §§801(b), 836(e)(12), Aug. 13, 2018, 132 Stat. 1831, 1870, substituted "Procurement of Commercial Products and Commercial Services" for "Procurement of Commercial Items" and "2377" for "2375" in item for chapter 140 and added item for part V containing items for subparts A to I and chapters 201 to 385.
 
 **2017**—Pub. L. 115–91, div. A, title X, §1081(d)(4), Dec. 12, 2017, 131 Stat. 1600, amended directory language of Pub. L. 114–328, §805(a)(2). See 2016 Amendment note below.
 

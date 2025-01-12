@@ -28,7 +28,7 @@ A prior chapter 941, consisting of sections 9651 to 9656, related to issue of se
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(3)(B)(ii), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 867 of this title as this chapter and items 8911 to 8929 as 9311 to 9329.
+**2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(3)(B)(ii), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 867 of this title as this chapter and items 8911, 8914, 8917, 8918, 8920, 8921, 8924 to 8926, and 8929 as 9311, 9314, 9317, 9318, 9320, 9321, 9324 to 9326, and 9329, respectively.
 
 **2004**—Pub. L. 108–375, div. A, title V, §541(c)(3)(B), Oct. 28, 2004, 118 Stat. 1904, inserted "; waiver authority" after "Academy" in item 8921.
 

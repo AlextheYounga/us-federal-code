@@ -12,7 +12,7 @@ Sec.
 
 [714. Repealed.]
 
-715. Attending Physician to the Congress: grade
+715. Attending Physician to the Congress: grade 1
 
 716. Commissioned officers: transfers among the armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service.
 
@@ -24,7 +24,7 @@ Sec.
 
 [720 to 722. Repealed.]
 
-714. Senior leaders of the Department of Defense and other specified persons: authority to provide protection within the United States. 1
+714. 2 Senior leaders of the Department of Defense and other specified persons: authority to provide protection within the United States.
 
 #### Amendments ####
 
@@ -154,4 +154,6 @@ Pub. L. 109–364, div. A, title XI, §1104, Oct. 17, 2006, 120 Stat. 2409, as a
 
 "(2) A legislative fellowship (including a legislative fellowship under the provisions of Department of Defense Directive 1322.6)."
 
-[<sup>1</sup> See 2016 Amendment note below.](#CHAPTER41_1)
+[<sup>1</sup> So in original. Probably should be followed by a period.](#CHAPTER41_1)
+
+[<sup>2</sup> See 2016 Amendment note below.](#CHAPTER41_2)

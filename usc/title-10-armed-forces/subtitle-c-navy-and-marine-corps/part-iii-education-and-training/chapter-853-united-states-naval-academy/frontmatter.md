@@ -68,7 +68,7 @@ Sec.
 
 #### Prior Provisions ####
 
-A prior chapter 853, consisting of sections 8681 to 8693, related to miscellaneous rights and benefits, prior to renumbering as chapter 933 of this title.
+A prior chapter 853, consisting of sections 8681 to 8693, related to miscellaneous rights and benefits in the Air Force, prior to renumbering as chapter 933 of this title.
 
 #### Amendments ####
 

@@ -1,4 +1,4 @@
-### §856a. Repealed. Pub. L. 114–328, div. E, title LVIII, §5301(b), Dec. 23, 2016, 130 Stat. 2920 ###
+### [§856a. Repealed. Pub. L. 114–328, div. E, title LVIII, §5301(b), Dec. 23, 2016, 130 Stat. 2920] ###
 
 Section, added Pub. L. 105–85, div. A, title V, §581(a)(1), Nov. 18, 1997, 111 Stat. 1759, related to sentence of confinement for life without eligibility for parole.
 

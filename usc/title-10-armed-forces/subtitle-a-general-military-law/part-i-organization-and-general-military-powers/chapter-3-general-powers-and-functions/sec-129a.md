@@ -44,7 +44,7 @@
 
 (g) Performance of Civilian Functions by Military Personnel.—(1) Functions performed by civilian personnel should not be performed by military personnel except—
 
-(A) if the Secretary of the military department concerned determines in writing based on mission requirements that the performance of such functions by military personnelis cost-effective, taking into account the fully-burdened costs of the civilian, military, and contractor workforces, including the impact of the performance of such functions on military career progression or when required by military necessity; or
+(A) if the Secretary of the military department concerned determines in writing based on mission requirements that the performance of such functions by military personnel is cost-effective, taking into account the fully-burdened costs of the civilian, military, and contractor workforces, including the impact of the performance of such functions on military career progression or when required by military necessity; or
 
 (B) if the performance of such functions by military personnel is required to address critical staffing needs resulting from a reduction in personnel or budgetary resources by reason of an Act of Congress, in which case such functions may not be performed by military personnel for a period in excess of one year.
 

@@ -28,7 +28,7 @@
 
 (B) Elements.—Each report under subparagraph (A) shall include the following:
 
-(i) An analysis of the consolidated corrective action plan management summary prepared pursuant to section 253a <sup><a href="#240b_2_target" name="240b_2">2</a></sup> of this title.
+(i) An analysis of the consolidated corrective action plan management summary prepared pursuant to section 253a <sup><a href="#240b_1_target" name="240b_1">1</a></sup> of this title.
 
 (ii) Current Department of Defense-wide information on the status of corrective actions plans related to critical capabilities and material weaknesses, including the standard data elements recommended in the implementation guide for Office of Management and Budget Circular A–123, for the armed forces, military departments, and Defense Agencies.
 
@@ -68,7 +68,9 @@ Subsec. (a) of this section, as added by Pub. L. 115–91, is based on text of s
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–232, §1002(a)(1)(A), renumbered section 252 of this title as this section.Subsec. (a)(2)(A)(iii) to (v). Pub. L. 115–232, §1002(a)(2), which directed amendment of subsec. (a)(2) by redesignating cl. (iii), relating to unqualified audit opinion, as (iv) and cl. (iv) as (v), was executed by making the amendment in subpar. (A) of subsec. (a)(2), to reflect the probable intent of Congress.
+**2018**—Pub. L. 115–232, §1002(a)(1)(A), renumbered section 252 of this title as this section.
+
+Subsec. (a)(2)(A)(iii) to (v). Pub. L. 115–232, §1002(a)(2), which directed amendment of subsec. (a)(2) by redesignating cl. (iii), relating to unqualified audit opinion, as (iv) and cl. (iv) as (v), was executed by making the amendment in subpar. (A) of subsec. (a)(2), to reflect the probable intent of Congress.
 
 Subsec. (b)(1)(B)(vii), (viii). Pub. L. 115–232, §1002(c)(1), added cls. (vii) and (viii).
 
@@ -108,4 +110,4 @@ Subsec. (a)(2)(C), (D). Pub. L. 115–91, §1002(c)(3)(B)(ii)(III), struck out s
 
 Subsec. (b). Pub. L. 115–91, §1002(c)(3)(C), added subsec. (b).
 
-[<sup>2</sup> So in original. Probably should be "section 253".](#240b_2)
+[<sup>1</sup> So in original. Probably should be "section 240c".](#240b_1)

@@ -1664,19 +1664,19 @@ Pub. L. 106–550, Dec. 19, 2000, 114 Stat. 2745, known as the James Madison Com
 
 Pub. L. 106–173, Feb. 25, 2000, 114 Stat. 14, as amended by Pub. L. 107–20, title II, §2804, July 24, 2001, 115 Stat. 185; Pub. L. 107–68, title II, §209, Nov. 12, 2001, 115 Stat. 588; Pub. L. 107–117, div. B, §917(a), Jan. 10, 2002, 115 Stat. 2324; Pub. L. 108–7, div. H, title I, §1304, Feb. 20, 2003, 117 Stat. 379; Pub. L. 108–59, §1, July 14, 2003, 117 Stat. 860; Pub. L. 111–8, div. G, title I, §1204, Mar. 11, 2009, 123 Stat. 826, known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln's birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
-#### Proc. No. 9753. Armed Forces Day ####
+#### Proc. No. 9892. Armed Forces Day ####
 
-Proc. No. 9753, May 18, 2018, 83 F.R. 24215, provided:
+Proc. No. 9892, May 17, 2019, 84 F.R. 23701, provided:
 
-On Armed Forces Day, we pay tribute to the extraordinary men and women who serve our Nation with valor and distinction in all branches of the military. This annual observance honors their steadfast service in preserving our Nation's peace, preserving our freedom, and defending our founding principles.
+From Normandy and Iwo Jima through Operations Desert Storm and Inherent Resolve, our Nation's Armed Forces have consistently made us proud by defeating our enemies and defending the freedoms we cherish. Their bravery, love of country, and devotion to duty are unmatched, and we are eternally grateful for the sacrifices they make for all American citizens. On Armed Forces Day, we honor all of the Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen who make up the finest military in the world.
 
-Throughout our history, in times of war and peace, our service members have served with bravery, skill, and unwavering devotion to duty. There is no fighting force that rivals that of the United States military. The precious liberties all Americans enjoy are possible because, every day and without exception, our Armed Forces relentlessly and tirelessly carry out the critical mission of protecting our country, our freedoms, and our way of life.
+Every day, tens of thousands of American troops risk their lives and sacrifice time with their families and friends to protect our national security and keep us safe. Through their strength and dedication to our country, they protect our freedoms, interests, and way of life at duty stations all around the world. We thank them for their incredible service, and we recognize that our Nation has a sacred obligation to ensure that our Armed Forces remain ready and fully equipped to face any threat.
 
-Taking care of our Armed Forces is one of the highest priorities of my Administration. Our military has made tremendous gains against ISIS and al-Qa'ida in Syria and Iraq, with ISIS having lost nearly 100 percent of the territory it formerly occupied. These successes underscore the importance of continuing to support, grow, and modernize our military forces—we must ensure that our Armed Forces remain second to none. Earlier this year, I signed into law legislation that does just that, providing nearly $700 billion in funding for national defense. These funds will increase our military's capacity—investing billions in new equipment, maintenance, and troop readiness.
+As President, I am committed to empowering America's warriors with every advantage they need to fulfill their missions. During the last 2 years, our Armed Forces have had one victory after another against ISIS, culminating in March with the liberation of 100 percent of the territory once held by ISIS in Syria and Iraq. We are encouraged by this tremendous success, and it is important that our military remains the strongest in the world. This is one of my Administration's highest priorities, and I have called on the Congress to increase funding for our national defense by $34 billion over last year's level. These additional resources are vital to enhancing our capabilities at sea, on the ground, in the air, and in space and guaranteeing that America's military never falls behind.
 
-We will never be able to repay fully our heroes for their selfless service. We must, therefore, guarantee that we support them and their families here at home so that they can effectively execute their missions abroad. I was very pleased to sign into law legislation that gave our troops a 2.4 percent pay raise—their largest pay raise in 8 years. I was also proud to sign an Executive Order this month to enhance employment opportunities for the spouses of our service members. My Administration will not stop in our efforts to encourage all sectors of our country—private and public—to find ways to support our troops and their loved ones.
+I also continue to advocate for our service members to receive increased support, which they deserve for bearing the burden of defending our freedoms. Last year, I signed into law the largest pay raise for our troops in 9 years, and, for 2020, I have called on the Congress to provide a 3.1 percent pay raise. This 3.1 percent raise would be the largest pay raise for our troops in 10 years and would further demonstrate our Nation's gratitude to the more than 2.1 million active duty and reserve military men and women.
 
-On this day, and every day, we owe a debt of gratitude to our service members stationed at home and those deployed around the world. All across America, we enjoy the blessings of liberty because our Nation's finest men and women willingly accept the call to service. We proudly salute our Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen, and recognize the families who serve alongside them for their courage and commitment.
+Our courageous and vigilant Armed Forces safeguard the blessings of liberty for us and for future generations by selflessly answering the call of duty. Today, and every day, we acknowledge and celebrate all who proudly wear our Nation's uniforms and the family members who face unique challenges as they tirelessly support them.
 
 NOW, THEREFORE, I, DONALD J. TRUMP, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the tradition of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
 
@@ -1684,13 +1684,15 @@ I invite the Governors of the States and Territories and other areas subject to 
 
 Finally, I call upon all Americans to display the flag of the United States at their homes and businesses on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day.
 
-Proclamation 9615 of May 19, 2017, is hereby superseded.
+Proclamation 9753 of May 18, 2018, is hereby superseded.
 
-IN WITNESS WHEREOF, I have hereunto set my hand this eighteenth day of May, in the year of our Lord two thousand eighteen, and of the Independence of the United States of America the two hundred and forty-second.
+IN WITNESS WHEREOF, I have hereunto set my hand this seventeenth day of May, in the year of our Lord two thousand nineteen, and of the Independence of the United States of America the two hundred and forty-third.
 
 Donald J. Trump.
 
 Prior similar proclamations were contained in the following:
+
+Proc. No. 9753, May 18, 2018, 83 F.R. 24215, superseded by Proc. No. 9892, May 17, 2019, 84 F.R. 23702.
 
 Proc. No. 9615, May 19, 2017, 82 F.R. 23995, superseded by Proc. No. 9753, May 18, 2018, 83 F.R. 24215.
 

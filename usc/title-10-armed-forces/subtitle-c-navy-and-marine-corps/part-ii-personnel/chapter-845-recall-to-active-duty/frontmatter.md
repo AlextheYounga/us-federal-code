@@ -12,7 +12,7 @@ Sec.
 
 #### Prior Provisions ####
 
-A prior chapter 845, consisting of sections 8571 to 8583, related to rank and command, prior to renumbering as chapter 925 of this title.
+A prior chapter 845, consisting of sections 8571 to 8583, related to rank and command within the Air Force, prior to renumbering as chapter 925 of this title.
 
 #### Amendments ####
 

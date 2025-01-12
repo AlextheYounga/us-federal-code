@@ -20,7 +20,7 @@ Sec.
 
 #### Prior Provisions ####
 
-A prior chapter 857, consisting of sections 8741 to 8756, related to decorations and awards, prior to renumbering as chapter 937 of this title.
+A prior chapter 857, consisting of sections 8741 to 8756, related to decorations and awards in the Air Force, prior to renumbering as chapter 937 of this title.
 
 #### Amendments ####
 

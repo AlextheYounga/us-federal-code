@@ -64,7 +64,7 @@ A prior chapter 953, consisting of sections 9831 to 9842, related to accountabil
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(2), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 903 of this title as this chapter and items 9331 to 9362 as 9431 to 9462.
+**2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(2), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 903 of this title as this chapter and items 9331 to 9336, 9338 to 9343, and 9346 to 9362 as 9431 to 9436, 9438 to 9443, and 9446 to 9462, respectively.
 
 **2016**—Pub. L. 114–328, div. A, title V, §591(b), title XII, §1248(b)(2)(C), Dec. 23, 2016, 130 Stat. 2152, 2525, struck out items 9337 "Chaplain", 9344 "Selection of persons from foreign countries", 9345 "Exchange program with foreign military academies", and 9345a "Foreign and cultural exchange activities".
 

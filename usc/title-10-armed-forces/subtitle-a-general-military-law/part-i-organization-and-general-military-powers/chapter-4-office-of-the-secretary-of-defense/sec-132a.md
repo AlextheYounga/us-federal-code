@@ -108,7 +108,7 @@ Pub. L. 115–232, div. A, title IX, §916, Aug. 13, 2018, 132 Stat. 1924, provi
 
 #### Execution of Authority in Subsection (c) ####
 
-Pub. L. 115–232, div. A, title IX, §921(a)(2)(B), Aug. 13, 2018, 132 Stat. 1927, provided that: "In order to execute the authority in subsection (c) of section 132a of title 10, United States Code (as amended by subparagraph (A) [amending this section]), the Chief Management Officer of the Department of Defense shall do the following:
+Pub. L. 115–232, div. A, title IX, §921(a)(2)(B), Aug. 13, 2018, 132 Stat. 1927, provided that: "In order to execute the authority in subsection (c) of section 132a of title 10, United States Code (as amended by subparagraph (A)), the Chief Management Officer of the Department of Defense shall do the following:
 
 "(i) By April 1, 2019, develop an assessment of cost and expertise requirements to execute such authority.
 

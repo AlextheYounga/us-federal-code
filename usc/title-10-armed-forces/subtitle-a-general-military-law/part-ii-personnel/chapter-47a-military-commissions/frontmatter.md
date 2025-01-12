@@ -14,7 +14,7 @@ V. Classified Information Procedures 949p–1.
 
 VI. Sentences 949s.
 
-VII. Post-Trial Procedure and Review of Military Commissions
+VII. Post-Trial Procedure and Review of Military Commissions 950a. 1
 
 VIII. Punitive Matters 950p.
 
@@ -24,4 +24,6 @@ This chapter was originally added by Pub. L. 109–366, §3(a)(1), Oct. 17, 2006
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–232, div. A, title X, §1081(a)(10), Aug. 13, 2018, 132 Stat. 1983, substituted "Post-Trial Procedure and Review of Military Commissions" for "Post-Trial Procedures and Review of Military Commissions" in item relating to subchapter VII.
+**2018**—Pub. L. 115–232, div. A, title X, §1081(a)(10), Aug. 13, 2018, 132 Stat. 1983, substituted "VII. Post-Trial Procedure and Review of Military Commissions" for "VII. Post-Trial Procedures and Review of Military Commissions ... 950a." in item relating to subchapter VII.
+
+[<sup>1</sup> Starting section number editorially supplied.](#CHAPTER47A_1)

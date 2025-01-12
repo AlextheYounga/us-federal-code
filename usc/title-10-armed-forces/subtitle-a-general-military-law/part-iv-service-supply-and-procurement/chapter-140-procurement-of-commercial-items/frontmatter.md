@@ -16,11 +16,11 @@ Sec.
 
 2380a. 1 Treatment of certain items as commercial items.
 
-2380B. Treatment of items purchased prior to release of prime contract requests for proposals as commercial items. 2
+2380B. 1 Treatment of items purchased prior to release of prime contract requests for proposals as commercial items. 2
 
 #### Amendment of Analysis ####
 
-Pub. L. 115–232, div. A, title VIII, §836(d)(8)(A), (H), (h), Aug. 13, 2018, 132 Stat. 1868, 1869, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, the chapter heading is amended to read "PROCUREMENT OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES", and the items in the analysis are amended to read as follows: 2375 "Relationship of other provisions of law to procurement of commercial products and commercial services", 2376 "Definitions", 2377 "Preference for commercial products and commercial services", 2379 "Procurement of a major weapon system as a commercial product: requirement for prior determination by Secretary of Defense and notification to Congress", 2380 "Commercial product and commercial service determinations by Department of Defense", 2380a "Treatment of certain products and services as commercial products and commercial services" and 2380b "Treatment of commingled items purchased by contractors as commercial products". See 2018 Amendment note below.
+Pub. L. 115–232, div. A, title VIII, §836(d)(8)(A), (H), (h), Aug. 13, 2018, 132 Stat. 1868, 1869, 1874, provided that, effective Jan. 1, 2020, subject to a savings provision, the chapter heading is amended to read "PROCUREMENT OF COMMERCIAL PRODUCTS AND COMMERCIAL SERVICES", and the items in the analysis are amended to read as follows: 2375 "Relationship of other provisions of law to procurement of commercial products and commercial services", 2376 "Definitions", 2377 "Preference for commercial products and commercial services", 2379 "Procurement of a major weapon system as a commercial product: requirement for prior determination by Secretary of Defense and notification to Congress", 2380 "Commercial product and commercial service determinations by Department of Defense", 2380a "Treatment of certain products and services as commercial products and commercial services", and 2380b "Treatment of commingled items purchased by contractors as commercial products". See 2018 Amendment note below.
 
 #### Amendments ####
 
@@ -34,6 +34,6 @@ Pub. L. 115–232, div. A, title VIII, §836(d)(8)(A), (H), (h), Aug. 13, 2018, 
 
 **1997**—Pub. L. 105–85, div. A, title III, §350(b), Nov. 18, 1997, 111 Stat. 1692, added item 2378.
 
-[<sup>1</sup> So in original. Probably should be "2380A".](#CHAPTER140_1)
+[<sup>1</sup> So in original.](#CHAPTER140_1)
 
 [<sup>2</sup> So in original. Does not conform to section catchline.](#CHAPTER140_2)

@@ -1,13 +1,15 @@
 ### SUBCHAPTER VIII—SENTENCES ###
 
-|Sec. |Art.|                                                               |
-|-----|----|---------------------------------------------------------------|
-|855. |55. |           Cruel and unusual punishments prohibited.           |
-|856. |56. |                          Sentencing.                          |
-|857. |57. |                 Effective date of sentences.                  |
-|858. |58. |                   Execution of confinement.                   |
-|858a.|58a.|            Sentences: reduction in enlisted grade.            |
-|858b.|58b.|Sentences: forfeiture of pay and allowances during confinement.|
+| Sec. |Art.|                                                               |
+|------|----|---------------------------------------------------------------|
+| 855. |55. |           Cruel and unusual punishments prohibited.           |
+| 856. |56. |                          Sentencing.                          |
+|[856a.|56a.|                          Repealed.]                           |
+| 857. |57. |                 Effective date of sentences.                  |
+|[857a.|57a.|                          Repealed.]                           |
+| 858. |58. |                   Execution of confinement.                   |
+|858a. |58a.|            Sentences: reduction in enlisted grade.            |
+|858b. |58b.|Sentences: forfeiture of pay and allowances during confinement.|
 
 #### Amendments ####
 

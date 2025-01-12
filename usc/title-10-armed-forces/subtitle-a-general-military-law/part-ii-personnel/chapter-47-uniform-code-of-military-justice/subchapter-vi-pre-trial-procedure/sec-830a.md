@@ -24,10 +24,6 @@
 
 (Added Pub. L. 114–328, div. E, title LVI, §5202, Dec. 23, 2016, 130 Stat. 2904; amended Pub. L. 115–91, div. A, title V, §531(b), Dec. 12, 2017, 131 Stat. 1384.)
 
-#### Delayed Effective Date ####
-
-For delayed effective date of section, see Effective Date note below.
-
 #### Amendments ####
 
 **2017**—Subsec. (a)(1). Pub. L. 115–91, §531(b)(1), inserted ", or otherwise act on," after "to review" in introductory provisions.
@@ -40,4 +36,4 @@ Amendment by Pub. L. 115–91 effective immediately after this section takes eff
 
 #### Effective Date ####
 
-Section effective on the date designated by the President, not later than the first day of the first calendar month beginning two years after Dec. 23, 2016, with implementing regulations prescribed by the President not later than one year after Dec. 23, 2016, and with provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328, set out as an Effective Date of 2016 Amendment note under section 801 of this title.
+Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. 13825, set out as notes under section 801 of this title.

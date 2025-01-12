@@ -40,7 +40,7 @@ Sec.
 
 #### Prior Provisions ####
 
-A prior chapter 869, consisting of sections 8961 to 8966, related to retired grade, prior to renumbering as chapter 943 of this title.
+A prior chapter 869, consisting of sections 8961 to 8966, related to retired grade for members of the Air Force, prior to renumbering as chapter 943 of this title.
 
 #### Amendments ####
 

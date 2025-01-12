@@ -50,11 +50,11 @@ Sec.
 
 220530. Other amateur sports organizations.
 
-#### SUBCHAPTER III <sup><a href="#CHAPTER2205_1_target" name="CHAPTER2205_1">1</a></sup>—GRANT TO KEEP YOUNG ATHLETES SAFE ####
+#### SUBCHAPTER III <sup><a href="#CHAPTER2205_1_target" name="CHAPTER2205_1">1</a></sup> —GRANT TO KEEP YOUNG ATHLETES SAFE ####
 
 220531. Grant to protect young athletes from abuse.
 
-#### SUBCHAPTER III <sup><a href="#CHAPTER2205_1_target" name="CHAPTER2205_1">1</a></sup>—UNITED STATES CENTER FOR SAFE SPORT ####
+#### SUBCHAPTER III <sup><a href="#CHAPTER2205_1_target" name="CHAPTER2205_1">1</a></sup> —UNITED STATES CENTER FOR SAFE SPORT ####
 
 220541. Designation of United States Center for Safe Sport.
 

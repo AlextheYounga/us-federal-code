@@ -1,6 +1,6 @@
 ### §222c. Armed forces: Out-Year Unconstrained Total Munitions Requirements; Out-Year inventory numbers ###
 
-(a) Annual reports.—At the same time each year that the budget for the fiscal year beginning in such year is submitted to Congress pursuant to section 1105(a) of title 31, the chief of staff of each armed force (other than the Coast Guard) shall submit to the congressional defense committees a report setting forth for such armed force each of the following for such fiscal year, broken out as specified in subsection (b):
+(a) Annual Reports.—At the same time each year that the budget for the fiscal year beginning in such year is submitted to Congress pursuant to section 1105(a) of title 31, the chief of staff of each armed force (other than the Coast Guard) shall submit to the congressional defense committees a report setting forth for such armed force each of the following for such fiscal year, broken out as specified in subsection (b):
 
 (1) The Out-Year Unconstrained Total Munitions Requirement.
 
@@ -22,7 +22,7 @@
 
 (7) Out-year worldwide inventory.
 
-(c) Implementation guidance used.—In submitting information pursuant to subsection (a) for a fiscal year, the chief of staff of each armed force shall describe and explain the munitions requirements process implementation guidance developed by the Under Secretary of Defense for Acquisition and Sustainment and used by such armed force for the munitions requirements process for such armed force for that fiscal year.
+(c) Implementation Guidance Used.—In submitting information pursuant to subsection (a) for a fiscal year, the chief of staff of each armed force shall describe and explain the munitions requirements process implementation guidance developed by the Under Secretary of Defense for Acquisition and Sustainment and used by such armed force for the munitions requirements process for such armed force for that fiscal year.
 
 (d) Definitions.—In this section:
 

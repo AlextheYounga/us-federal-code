@@ -36,7 +36,7 @@ Sec.
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–232, div. A, title V, §§522(b), 553(a)(2) Aug. 13, 2018, 132 Stat. 1756, 1772, added item 1155 and struck out item 1143a "Employment assistance".
+**2018**—Pub. L. 115–232, div. A, title V, §§522(b), 553(a)(2), Aug. 13, 2018, 132 Stat. 1756, 1772, added item 1155 and struck out item 1143a "Employment assistance".
 
 **2013**—Pub. L. 112–239, div. A, title V, §541(b)(2), Jan. 2, 2013, 126 Stat. 1735, added item 1154.
 

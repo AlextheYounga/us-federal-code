@@ -48,7 +48,7 @@ Sec.
 
 #### Prior Provisions ####
 
-A prior chapter 861, consisting of sections 8811 to 8820, related to separation from service for various reasons, prior to renumbering as chapter 939 of this title.
+A prior chapter 861, consisting of sections 8811 to 8820, related to separation from service within the Air Force for various reasons, prior to renumbering as chapter 939 of this title.
 
 #### Amendments ####
 
