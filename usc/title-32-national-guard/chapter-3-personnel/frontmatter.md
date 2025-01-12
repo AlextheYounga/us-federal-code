@@ -50,6 +50,8 @@ Sec.
 
 [329 to 335. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–364, div. A, title V, §526(b), Oct. 17, 2006, 120 Stat. 2196, added item 328.
@@ -73,6 +75,8 @@ Sec.
 **1961**—Pub. L. 87–378, §5(2), Oct. 4, 1961, 75 Stat. 808, inserted ", reenlistments, and extensions" in item 302.
 
 **1958**—Pub. L. 85–861, §2(8), Sept. 2, 1958, 72 Stat. 1544, added items 309 and 310.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Removal of Restrictions on the Transfer of Officers Between the Active and Inactive National Guard ####
 

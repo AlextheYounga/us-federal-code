@@ -90,6 +90,8 @@ Sec.
 
 562. Timing of damage measure in connection with swap agreements, securities contracts, forward contracts, commodity contracts, repurchase agreements, and master netting agreements.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2010**—Pub. L. 111–327, §2(a)(50), Dec. 22, 2010, 124 Stat. 3562, substituted "and master netting agreements" for "or master netting agreements" in item 562.

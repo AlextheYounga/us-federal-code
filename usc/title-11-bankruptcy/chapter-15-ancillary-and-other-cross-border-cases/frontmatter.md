@@ -76,6 +76,8 @@ Sec.
 
 1532. Rule of payment in concurrent proceedings.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 15, consisting of sections 1501 to 151326, related to a pilot program for a United States trustee system, prior to repeal by Pub. L. 99–554, title II, §231, Oct. 27, 1986, 100 Stat. 3103.

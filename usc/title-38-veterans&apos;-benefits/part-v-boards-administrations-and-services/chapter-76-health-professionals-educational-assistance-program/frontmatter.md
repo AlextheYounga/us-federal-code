@@ -110,7 +110,21 @@ Sec.
 
 7697. Relationship to Educational Assistance Program.
 
+#### SUBCHAPTER IX—READJUSTMENT COUNSELING SERVICE SCHOLARSHIP PROGRAM ####
+
+Sec. 1
+
+7698. Requirement for program.
+
+7699. Eligibility; agreement.
+
+7699A. Obligated service.
+
+7699B. Breach of agreement: liability.
+
 #### Amendments ####
+
+**2020**—Pub. L. 116–171, title V, §502(b)(2), Oct. 17, 2020, 134 Stat. 818, added heading for subchapter IX and items 7698 to 7699B.
 
 **2018**—Pub. L. 115–182, title III, §303(b)(2), June 6, 2018, 132 Stat. 1467, added heading for subchapter VIII and items 7691 to 7697.
 
@@ -123,3 +137,5 @@ Sec.
 **1991**—Pub. L. 102–40, title IV, §402(c)(1), May 7, 1991, 105 Stat. 239, renumbered items 4301 to 4355 as 7601 to 7655, respectively.
 
 **1990**—Pub. L. 101–366, title II, §205(a)(2), Aug. 15, 1990, 104 Stat. 440, added heading for subchapter V and items 4351 to 4355.
+
+[<sup>1</sup> So in original.](#CHAPTER76_1)

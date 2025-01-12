@@ -24,4 +24,4 @@ For repeal of section by section 13 of Pub. L. 109–455, see Effective Date of 
 
 #### Effective Date of Repeal ####
 
-Section repealed effective Sept. 30, 2020, see section 13 of Pub. L. 109–455, as amended by section 1 of Pub. L. 112–203, set out as a Termination Date of 2006 Amendment note under section 44 of this title.
+Section repealed effective Sept. 30, 2027, see section 13 of Pub. L. 109–455, as amended, set out as a Termination Date of 2006 Amendment note under section 44 of this title.

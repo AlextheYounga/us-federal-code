@@ -90,6 +90,8 @@ Sec.
 
 784. Right to be heard.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Pub. L. 109–8, title I, §102(k), title VII, §719(b)(2), title IX, §907(p)(2), Apr. 20, 2005, 119 Stat. 35, 133, 182, added items 753 and 767, substituted "Dismissal of a case or conversion to a case under chapter 11 or 13" for "Dismissal" in item 707, and struck out item 728 "Special tax provisions".

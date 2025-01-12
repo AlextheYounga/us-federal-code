@@ -40,7 +40,11 @@ Sec.
 
 118. Submission of reports to Congress in electronic form.
 
+119. Contracting for statistical analyses and data evaluation.
+
 #### Amendments ####
+
+**2020**—Pub. L. 116–171, title III, §306(b), Oct. 17, 2020, 134 Stat. 805, added item 119.
 
 **2014**—Pub. L. 113–235, div. I, title II, §244(c), Dec. 16, 2014, 128 Stat. 2569, added item 117 and struck out former item 117 "Advance appropriations for certain medical care accounts".
 

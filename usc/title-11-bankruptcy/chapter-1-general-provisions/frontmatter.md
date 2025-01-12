@@ -26,6 +26,8 @@ Sec.
 
 112. Prohibition on disclosure of name of minor children.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Pub. L. 109–8, title I, §106(e)(2), title II, §233(b), Apr. 20, 2005, 119 Stat. 41, 74, added items 111 and 112.

@@ -172,7 +172,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Termination Date of 2006 Amendment ####
 
-Amendment by section 4(a), (b), (d) of Pub. L. 109–455 repealed effective Sept. 30, 2020, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
+Amendment by section 4(a), (b), (d) of Pub. L. 109–455 repealed effective Sept. 30, 2027, and provisions amended by Pub. L. 109–455 to be amended to read as if Pub. L. 109–455 had not been enacted, see section 13 of Pub. L. 109–455, set out as a note under section 44 of this title.
 
 #### Effective Date of 1980 Amendment ####
 

@@ -15,6 +15,8 @@ Chap. Sec.
 
 9. Homeland Defense Activities 901
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–375, div. A, title V, §512(a)(2), Oct. 28, 2004, 118 Stat. 1880, added item for chapter 9.
@@ -150,6 +152,8 @@ Chap. Sec.
 |          194 (less (b))           |                        109                         |
 |                195                |                        Rep.                        |
 |                196                |                        713                         |
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Positive Law; Citation ####
 

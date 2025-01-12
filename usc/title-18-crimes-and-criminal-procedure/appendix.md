@@ -495,13 +495,13 @@ That this Act may be cited as the "Classified Information Procedures Act".
 FEDERAL RULES OF CRIMINAL PROCEDURE
 ==========
 
-(As amended to January 24, 2020)
+(As amended to October 21, 2020)
 
 #### Historical Note ####
 
 The original Federal Rules of Criminal Procedure were adopted by order of the Supreme Court on Dec. 26, 1944, transmitted to Congress by the Attorney General on Jan. 3, 1945, and became effective on Mar. 21, 1946.
 
-The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014; eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Pub. L. 114–324, §12(c), Dec. 16, 2016, 130 Stat. 1948; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019.
+The Rules have been amended Dec. 27, 1948, eff. Jan. 1, 1949; Dec. 27, 1948, eff. Oct. 20, 1949; Apr. 12, 1954, eff. July 1, 1954; Apr. 9, 1956, eff. July 8, 1956; Feb. 28, 1966, eff. July 1, 1966; Dec. 4, 1967, eff. July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 24, 1972, eff. Oct. 1, 1972; Nov. 20, 1972, eff. July 1, 1975, pursuant to Pub. L. 93–595; Mar. 18, 1974, eff. July 1, 1974; Apr. 22, 1974, eff. in part Aug. 1, 1975, and Dec. 1, 1975, pursuant to Pub. L. 93–361 and Pub. L. 94–64; Dec. 12, 1975, Pub. L. 94–149, §5, 89 Stat. 806; Apr. 26, 1976, eff. in part Aug. 1, 1976, and Oct. 1, 1977, pursuant to Pub. L. 94–349 and Pub. L. 95–78; Apr. 30, 1979, eff. in part Aug. 1, 1979, and Dec. 1, 1980, pursuant to Pub. L. 96–42; Apr. 28, 1982, eff. Aug. 1, 1982; Oct. 12, 1982, Pub. L. 97–291, §3, 96 Stat. 1249; Apr. 28, 1983, eff. Aug. 1, 1983; Oct. 12, 1984, Pub. L. 98–473, title II, §§209, 215, 404, 98 Stat. 1986, 2014, 2067; Oct. 30, 1984, Pub. L. 98–596, §11(a), (b), 98 Stat. 3138; Apr. 29, 1985, eff. Aug. 1, 1985; Oct. 27, 1986, Pub. L. 99–570, title I, §1009(a), 100 Stat. 3207–8; Nov. 10, 1986, Pub. L. 99–646, §§12(b), 24, 25(a), 54(a), 100 Stat. 3594, 3597, 3607; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 25, 1988, eff. Aug. 1, 1988; Nov. 18, 1988, Pub. L. 100–690, title VI, §6483, title VII, §§7076, 7089(c), 102 Stat. 4382, 4406, 4409; Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 1994, eff. Dec. 1, 1994; Sept. 13, 1994, Pub. L. 103–322, title XXIII, §230101(b), title XXXIII, §330003(h), 108 Stat. 2078, 2141; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 24, 1996, Pub. L. 104–132, title II, §207(a), 110 Stat. 1236; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Oct. 26, 2001, Pub. L. 107–56, title II, §§203(a), 219, 115 Stat. 278, 291; Apr. 29, 2002, eff. Dec. 1, 2002; Nov. 2, 2002, Pub. L. 107–273, div. C, title I, §11019(b), 116 Stat. 1825; Nov. 25, 2002, Pub. L. 107–296, title VIII, §895, 116 Stat. 2256; Apr. 30, 2003, Pub. L. 108–21, title VI, §610(b), 117 Stat. 692; Apr. 26, 2004, eff. Dec. 1, 2004; Pub. L. 108–458, title VI, §6501(a), Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 16, 2013, eff. Dec. 1, 2013; Apr. 25, 2014; eff. Dec. 1, 2014; Apr. 28, 2016, eff. Dec. 1, 2016; Pub. L. 114–324, §12(c), Dec. 16, 2016, 130 Stat. 1948; Apr. 26, 2018, eff. Dec. 1, 2018; Apr. 25, 2019, eff. Dec. 1, 2019; Pub. L. 116–182, §2, Oct. 21, 2020, 134 Stat. 894.
 
 #### TITLE I. APPLICABILITY ####
 
@@ -1235,9 +1235,15 @@ In subdivision (b)(6)(B), the superfluous and anachronistic reference to the "fa
 
 (e) Procedure in a Misdemeanor Case. If the defendant is charged with a misdemeanor only, the judge must inform the defendant in accordance with Rule 58(b)(2).
 
-(f) Video Teleconferencing. Video teleconferencing may be used to conduct an appearance under this rule if the defendant consents.
+(f) Reminder of Prosecutorial Obligation.—
 
-(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 28, 1982, eff. Aug. 1, 1982; Pub. L. 98–473, title II, §209(a), Oct. 12, 1984, 98 Stat. 1986; Mar. 9, 1987, eff. Aug. 1, 1987; May 1, 1990, eff. Dec. 1, 1990; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 25, 2014, eff. Dec. 1, 2014.)
+(1) In general.—In all criminal proceedings, on the first scheduled court date when both prosecutor and defense counsel are present, the judge shall issue an oral and written order to prosecution and defense counsel that confirms the disclosure obligation of the prosecutor under Brady v. Maryland, 373 U.S. 83 (1963) and its progeny, and the possible consequences of violating such order under applicable law.
+
+(2) Formation of order.—Each judicial council in which a district court is located shall promulgate a model order for the purpose of paragraph (1) that the court may use as it determines is appropriate.
+
+(g) Video Teleconferencing. Video teleconferencing may be used to conduct an appearance under this rule if the defendant consents.
+
+(As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 28, 1982, eff. Aug. 1, 1982; Pub. L. 98–473, title II, §209(a), Oct. 12, 1984, 98 Stat. 1986; Mar. 9, 1987, eff. Aug. 1, 1987; May 1, 1990, eff. Dec. 1, 1990; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 27, 1995, eff. Dec. 1, 1995; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2012, eff. Dec. 1, 2012; Apr. 25, 2014, eff. Dec. 1, 2014; Pub. L. 116–182, §2, Oct. 21, 2020, 134 Stat. 894.)
 
 #### Notes of Advisory Committee on Rules—1944 ####
 
@@ -1384,6 +1390,8 @@ At the time of this amendment, many questions remain unresolved by the courts co
 *Changes Made After Publication and Comment.* In response to public comments the amendment was rephrased to state that the information regarding consular notification should be provided to all defendants who are arraigned. Although it is anticipated that ordinarily only defendants who are held in custody will ask the government to notify a consular official of their arrest, it is appropriate to provide this information to all defendants at their initial appearance. The new phrasing also makes it clear that the advice should be provided to every defendant, without any attempt to determine the defendant's citizenship. A conforming change was made to the Committee Note.
 
 #### Amendment by Public Law ####
+
+**2020**—Subds. (f), (g). Pub. L. 116–182 added subd. (f) and redesignated former subd. (f) as (g).
 
 **1984**—Subd. (c). Pub. L. 98–473 substituted "shall detain or conditionally release the defendant" for "shall admit the defendant to bail".
 
@@ -9216,6 +9224,10 @@ Other minor changes were made at the suggestion of the Style Consultant to impro
 These rules may be known and cited as the Federal Rules of Criminal Procedure.
 
 (As amended Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008.)
+
+#### Short Title of 2020 Amendment ####
+
+Pub. L. 116–182, §1, Oct. 21, 2020, 134 Stat. 894, provided that: "This Act [amending rule 5 of these rules] may be cited as the 'Due Process Protections Act'."
 
 #### Short Title of 1975 Amendment ####
 

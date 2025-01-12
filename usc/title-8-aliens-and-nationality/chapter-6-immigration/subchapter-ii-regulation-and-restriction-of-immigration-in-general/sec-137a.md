@@ -18,6 +18,8 @@ Section, act Sept. 22, 1922, ch. 411, §8, as added July 3, 1930, ch. 826, 46 St
 
 "After admission to the United States she shall be subject to all other provisions of [former] sections 9 and 10 and 367–370 of this title."
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Savings Clause ####
 
 Act May 24, 1934, ch. 344, §5, 48 Stat. 798, provided that the repeal of this section should not affect any right or privilege or terminate any citizenship acquired under the section before such repeal.

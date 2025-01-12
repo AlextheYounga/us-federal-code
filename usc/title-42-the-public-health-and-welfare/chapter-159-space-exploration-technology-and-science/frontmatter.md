@@ -80,7 +80,7 @@ Sec.
 
 18387. Near-Earth object survey and policy with respect to threats posed.
 
-18388. Space weather.
+18388. Repealed.
 
 #### SUBCHAPTER VIII—AERONAUTICS AND SPACE TECHNOLOGY ####
 

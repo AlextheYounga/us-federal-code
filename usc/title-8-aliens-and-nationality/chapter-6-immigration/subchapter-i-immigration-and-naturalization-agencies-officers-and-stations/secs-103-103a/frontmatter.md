@@ -1,5 +1,7 @@
 ### §§103, 103a. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 103, acts Mar. 2, 1895, ch. 177, §1, 28 Stat. 780; Mar. 4, 1913, ch. 141, §3, 37 Stat. 737; Ex. Ord. No. 6166, §14, June 10, 1933; 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2423, 54 Stat. 1238, which related to administration of alien contract laws, was transferred to section 342h of former Title 5, Executive Departments and Government Officers and Employees, and subsequently eliminated from the Code on enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378. See section 1103 of this title.

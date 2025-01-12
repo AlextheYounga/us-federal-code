@@ -192,6 +192,8 @@ In summary, it has been the experience of the great majority of those who have t
 
 Having discussed the general reasons why chapter 11 of the House amendment is sorely needed, a brief discussion of the differences between the House bill, Senate amendment, and the House amendment, is in order. Since chapter 11 of the House amendment rejects the concept of separate treatment for a public company, sections 1101(3), 1104(a), 1125(f), 1128, and 1130(a)(7) of the Senate amendment have been deleted.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–54, §2(b), Aug. 23, 2019, 133 Stat. 1084, added subchapter V heading and items 1181 to 1195.

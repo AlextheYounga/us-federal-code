@@ -82,21 +82,39 @@ Sec.
 
 #### SUBCHAPTER IV—TRIBAL SELF-GOVERNANCE—DEPARTMENT OF THE INTERIOR ####
 
-5361. Establishment.
+5361. Definitions.
 
-5362. Selection of participating Indian tribes.
+5362. Tribal Self-Governance Program.
 
 5363. Funding agreements.
 
-5364. Budget request.
+5364. Compacts.
 
-5365. Reports.
+5365. General provisions.
 
-5366. Disclaimers.
+5366. Provisions relating to the Secretary.
 
-5367. Regulations.
+5367. Construction programs and projects.
 
-5368. Authorization of appropriations.
+5368. Payment.
+
+5369. Facilitation.
+
+5370. Discretionary application of other sections.
+
+5371. Annual budget list.
+
+5372. Reports.
+
+5373. Regulations.
+
+5374. Effect of circulars, policies, manuals, guidance, and rules.
+
+5375. Appeals.
+
+5376. Application of other provisions.
+
+5377. Authorization of appropriations.
 
 #### SUBCHAPTER V—TRIBAL SELF-GOVERNANCE—INDIAN HEALTH SERVICE ####
 

@@ -56,7 +56,7 @@ The Act entitled "An Act to supplement existing laws against unlawful restraints
 
 #### Termination Date of 2006 Amendment ####
 
-Pub. L. 109–455, §13, Dec. 22, 2006, 120 Stat. 3382, as amended by Pub. L. 112–203, §1, Dec. 4, 2012, 126 Stat. 1484, provided that: "Effective September 30, 2020, this Act [enacting sections 57b–2a, 57b–2b, 57c–1, and 57c–2 of this title, amending this section, sections 45, 46, 56, 57b–2, and 58 of this title, and section 3412 of Title 12, Banks and Banking, and enacting provisions set out as notes under this section and section 58 of this title], and the amendments made by this Act, are repealed, and any provision of law amended by this Act shall be amended to read as if this Act had not been enacted into law."
+Pub. L. 109–455, §13, Dec. 22, 2006, 120 Stat. 3382, as amended by Pub. L. 112–203, §1, Dec. 4, 2012, 126 Stat. 1484; Pub. L. 116–173, §1, Oct. 20, 2020, 134 Stat. 837, provided that: "Effective September 30, 2027, this Act [enacting sections 57b–2a, 57b–2b, 57c–1, and 57c–2 of this title, amending this section, sections 45, 46, 56, 57b–2, and 58 of this title, and section 3412 of Title 12, Banks and Banking, and enacting provisions set out as notes under this section and section 58 of this title], and the amendments made by this Act, are repealed, and any provision of law amended by this Act shall be amended to read as if this Act had not been enacted into law."
 
 #### Effective Date of 2002 Amendment ####
 
@@ -66,4 +66,4 @@ Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with 
 
 Pub. L. 109–455, §12, Dec. 22, 2006, 120 Stat. 3382, provided that: "The authority provided by this Act [see Termination Date of 2006 Amendment note above], and by the Federal Trade Commission Act (15 U.S.C. 41 et seq.) and the Right to Financial Privacy Act [of 1978] (12 U.S.C. 3401 et seq.), as such Acts are amended by this Act, is in addition to, and not in lieu of, any other authority vested in the Federal Trade Commission or any other officer of the United States."
 
-[Section 12 of Pub. L. 109–455, set out above, repealed effective Sept. 30, 2020, see section 13 of Pub. L. 109–455, as amended by section 1 of Pub. L. 112–203, set out as a Termination Date of 2006 Amendment note above.]
+[Section 12 of Pub. L. 109–455, set out above, repealed effective Sept. 30, 2027, see section 13 of Pub. L. 109–455, as amended, set out as a Termination Date of 2006 Amendment note above.]

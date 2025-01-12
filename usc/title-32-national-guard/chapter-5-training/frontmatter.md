@@ -20,6 +20,8 @@ Sec.
 
 509. National Guard Youth Challenge Program of opportunities for civilian youth.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–375, div. A, title V, §594(b)(2), Oct. 28, 2004, 118 Stat. 1936, substituted "National Guard Youth Challenge" for "National Guard Challenge" in item 509.

@@ -32,6 +32,8 @@ Sec.
 
 115. Funeral honors duty performed as a Federal function.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1999**—Pub. L. 106–65, div. A, title V, §578(k)(3)(B), Oct. 5, 1999, 113 Stat. 631, added items 114 and 115 and struck out former item 114 "Honor guard functions at funerals for veterans".

@@ -1,5 +1,7 @@
 ### §§117, 118. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 117, acts July 12, 1943, ch. 221, title II, 57 Stat. 507; June 28, 1944, ch. 302, title II, 58 Stat. 558, related to use of the hospital at Ellis Island Immigration Station for the care of Public Health Service patients. See section 1356(a) of this title and section 220 of Title 42, The Public Health and Welfare. Similar provisions were contained in the following prior appropriation acts, which were repealed by section 1313, formerly section 611, of act July 1, 1944, ch. 373, 58 Stat. 714, 718.

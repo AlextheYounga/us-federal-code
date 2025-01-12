@@ -8,6 +8,8 @@ Section 320, act Aug. 10, 1956, ch. 1041, 70A Stat. 606, related to hospitalizat
 
 Section 321, acts Aug. 10, 1956, ch. 1041, 70A Stat. 606; Sept. 2, 1958, Pub. L. 85–861, §2(10), 72 Stat. 1544; Sept. 7, 1962, Pub. L. 87–649, §8(b), 76 Stat. 495, related to death gratuities for members of National Guard.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal applicable with respect to persons who, after Nov. 14, 1986, incur or aggravate an injury, illness, or disease or die, see section 604(g) of Pub. L. 99–661, set out as an Effective Date of 1986 Amendment note under section 1074a of Title 10, Armed Forces.
