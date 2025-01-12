@@ -26,7 +26,7 @@ Notwithstanding any other law, it shall be unlawful for a government officer or 
 
 #### (c) Objections to court ordered subpoenas; affidavits ####
 
-In the event a search warrant is sought pursuant to paragraph (4)(B) of subsection (b) of this section, the person possessing the materials shall be afforded adequate opportunity to submit an affidavit setting forth the basis for any contention that the materials sought are not subject to seizure.
+In the event a search warrant is sought pursuant to paragraph (4)(B) of subsection (b), the person possessing the materials shall be afforded adequate opportunity to submit an affidavit setting forth the basis for any contention that the materials sought are not subject to seizure.
 
 (Pub. L. 96–440, title I, §101, Oct. 13, 1980, 94 Stat. 1879; Pub. L. 104–208, div. A, title I, §101(a) [title I, §121[6]], Sept. 30, 1996, 110 Stat. 3009, 3009–26, 3009–30.)
 

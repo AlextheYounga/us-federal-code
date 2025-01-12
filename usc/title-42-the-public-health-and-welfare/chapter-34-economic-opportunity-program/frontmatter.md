@@ -22,23 +22,7 @@ Sec.
 
 #### Part C—Federal Work-Study Programs ####
 
-2751. Purpose; appropriations authorized.
-
-2752. Allocation of funds.
-
-2753. Grants for Federal work-study programs.
-
-2754. Sources of matching funds.
-
-2755. Flexible use of funds.
-
-2756. Job location and development programs.
-
-2756a. Additional funds to conduct community service work-study programs.
-
-2756b. Work colleges.
-
-2757. Repealed.
+2751 to 2757. Transferred or Repealed.
 
 #### Part D—Special Impact Programs ####
 

@@ -44,6 +44,6 @@ Pub. L. 100–448 substituted "Federal laws on, under, and over" for "Federal la
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### Annual Report on Coast Guard Capabilities and Readiness to Fulfill National Defense Responsibilities ####
+#### Annual Report on Coast Guard Capabilities and Readiness To Fulfill National Defense Responsibilities ####
 
 Pub. L. 107–295, title IV, §426, Nov. 25, 2002, 116 Stat. 2126, which required report to congressional committees setting forth capabilities and readiness of the Coast Guard to fulfill its national defense responsibilities not later than February 15 each year, was repealed by Pub. L. 113–281, title II, §221(a)(4), Dec. 18, 2014, 128 Stat. 3037.

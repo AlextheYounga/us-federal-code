@@ -126,9 +126,9 @@ The topics described in this paragraph include—
 
 (B) health care workforce education and training capacity, including the number of students who have completed education and training, including registered apprenticeships; the number of qualified faculty; the education and training infrastructure; and the education and training demands, with projected demands during the subsequent 10 and 25 year periods;
 
-(C) the education loan and grant programs in titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), with recommendations on whether such programs should become part of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq[., 42 U.S.C. 2751 et seq.]);
+(C) the education loan and grant programs in titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), with recommendations on whether such programs should become part of the Higher Education Act of 1965 (20 U.S.C. 1001 et seq <sup><a href="#294q_2_target" name="294q_2">2</a></sup> );
 
-(D) the implications of new and existing Federal policies which affect the health care workforce, including Medicare and Medicaid graduate medical education policies, titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), the National Health Service Corps (with recommendations for aligning such programs with national health workforce priorities and goals), and other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act, the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.[, 42 U.S.C. 2751 et seq.]), and any other Federal health care workforce programs;
+(D) the implications of new and existing Federal policies which affect the health care workforce, including Medicare and Medicaid graduate medical education policies, titles VII and VIII of the Public Health Service Act (42 U.S.C. 292 et seq. and 296 et seq.), the National Health Service Corps (with recommendations for aligning such programs with national health workforce priorities and goals), and other health care workforce programs, including those supported through the Workforce Innovation and Opportunity Act, the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.), the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), and any other Federal health care workforce programs;
 
 (E) the health care workforce needs of special populations, such as minorities, rural populations, medically underserved populations, gender specific needs, individuals with disabilities, and geriatric and pediatric populations with recommendations for new and existing Federal policies to meet the needs of these special populations; and
 
@@ -286,7 +286,7 @@ The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(D), is Pub. 
 
 The Public Health Service Act, referred to in subsec. (d)(3)(C), (D), is act July 1, 1944, ch. 373, 58 Stat. 682. Titles VII and VIII of the Act are classified generally to this subchapter and subchapter VI (§296 et seq.) of this chapter, respectively. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
-The Higher Education Act of 1965, referred to in subsec. (d)(3)(C), (D), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified principally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (d)(3)(C), (D), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (d)(3)(D), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§3101 et seq.) of Title 29, Labor, repealed chapter 30 (§2801 et seq.) of Title 29 and chapter 73 (§9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 29 and Tables.
 
@@ -385,6 +385,8 @@ Pub. L. 111–148, title V, §5002(a), Mar. 23, 2010, 124 Stat. 588, provided th
 "(6) Registered apprenticeship program.—The term 'registered apprenticeship program' means an industry skills training program at the postsecondary level that combines technical and theoretical training through structure on the job learning with related instruction (in a classroom or through distance learning) while an individual is employed, working under the direction of qualified personnel or a mentor, and earning incremental wage increases aligned to enhance job proficiency, resulting in the acquisition of a nationally recognized and portable certificate, under a plan approved by the Office of Apprenticeship or a State agency recognized by the Department of Labor."
 
 [<sup>1</sup> So in original. Probably should be "title".](#294q_1)
+
+[<sup>2</sup> So in original. Probably should be followed by a period.](#294q_2)
 
 [<sup>2</sup> So in original.](#294q_2)
 

@@ -20,13 +20,13 @@ For the purchase of horse-drawn and motor-propelled passenger-carrying vehicles 
 
 And for general and incidental expenses in connection with the administration of Indian affairs.
 
-Notwithstanding any other provision of this section or any other law, postsecondary schools administered by the Secretary of the Interior for Indians, and which meet the definition of an "institution of higher education" under section 101 of the Higher Education Act of 1965 [20 U.S.C. 1001], shall be eligible to participate in and receive appropriated funds under any program authorized by the Higher Education Act of 1965 [20 U.S.C. 1001 et seq., 42 U.S.C. 2751 et seq.] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
+Notwithstanding any other provision of this section or any other law, postsecondary schools administered by the Secretary of the Interior for Indians, and which meet the definition of an "institution of higher education" under section 101 of the Higher Education Act of 1965 [20 U.S.C. 1001], shall be eligible to participate in and receive appropriated funds under any program authorized by the Higher Education Act of 1965 [20 U.S.C. 1001 et seq.] or any other applicable program for the benefit of institutions of higher education, community colleges, or postsecondary educational institutions.
 
 (Nov. 2, 1921, ch. 115, 42 Stat. 208; Pub. L. 94–482, title IV, §410, Oct. 12, 1976, 90 Stat. 2233; Pub. L. 105–244, title I, §102(a)(8)(A), Oct. 7, 1998, 112 Stat. 1619.)
 
 #### References in Text ####
 
-The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in text, is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, which is classified generally to chapter 28 (§1001 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 #### Amendments ####
 

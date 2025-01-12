@@ -366,7 +366,7 @@ Pub. L. 103–382, title V, §568(a)–(d), Oct. 20, 1994, 108 Stat. 4060, 4061,
 
 "(b) Limitations.—Subsection (a) shall not apply with respect to—
 
-"(1) any financial aid or assistance authorized by the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) [and 42 U.S.C. 2751 et seq.]; or
+"(1) any financial aid or assistance authorized by the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.); or
 
 "(2) any contract, combination, or conspiracy with respect to the amount or terms of any prospective financial aid award to a specific individual.
 

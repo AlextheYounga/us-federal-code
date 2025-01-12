@@ -454,7 +454,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (j)(2)(E), (6)(B)(i), 
 
 #### Amendments ####
 
-Subsec. (a)(1)(W), (X). Pub. L. 114–42, §2(1)–(3)(A), redesignated subpar. (W), relating to maintaining and providing access to documentation, as (X).
+**2015**—Subsec. (a)(1)(W), (X). Pub. L. 114–42, §2(1)–(3)(A), redesignated subpar. (W), relating to maintaining and providing access to documentation, as (X).
 
 Subsec. (a)(1)(Y). Pub. L. 114–42, §2(3)(B), (4), added subpar. (Y).
 

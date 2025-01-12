@@ -115,7 +115,7 @@ Chap. Sec.
 
 52. Restitution for World War II Internment of Japanese-Americans and Aleuts 4201
 
-53. Trading with the Enemy 4301
+53. Trading With the Enemy 4301
 
 54. Merchant Ship Sales 4401
 
@@ -945,9 +945,9 @@ Chap. Sec.
 |                                                           2002                                                           |                             50 U.S.C. 4102                              |
 |                                                           2003                                                           |                             50 U.S.C. 4103                              |
 |                                                           2004                                                           |                             50 U.S.C. 4104                              |
-|                           2004 note (Aug. 31, 1954, ch. 1162, title I, §101(e), 68 Stat. 1033                            |                                 Omitted                                 |
-|                           2004 note (Aug. 31, 1954, ch. 1162, title I, §102(b), 68 Stat. 1034                            |                                 Omitted                                 |
-|                           2004 note (Aug. 31, 1954, ch. 1162, title I, §102(c), 68 Stat. 1034                            |                                 Omitted                                 |
+|                           2004 note (Aug. 31, 1954, ch. 1162, title I, §101(e), 68 Stat. 1033)                           |                                 Omitted                                 |
+|                           2004 note (Aug. 31, 1954, ch. 1162, title I, §102(b), 68 Stat. 1034)                           |                                 Omitted                                 |
+|                           2004 note (Aug. 31, 1954, ch. 1162, title I, §102(c), 68 Stat. 1034)                           |                                 Omitted                                 |
 |                                                           2005                                                           |                             50 U.S.C. 4105                              |
 |                                    2005 note (Apr. 9, 1952, ch. 167, §3, 66 Stat. 49)                                    |                                 Omitted                                 |
 |                                  2005 note (May 13, 1954, ch. 202, §§2, 3, 68 Stat. 98)                                  |                                 Omitted                                 |
@@ -1215,7 +1215,7 @@ Title 50, Appendix, War and National Defense, has been eliminated. The following
 
 Trading with the Enemy Act of 1917 (50 U.S.C. App. 1 et seq.), act Oct. 6, 1917, ch. 106, 40 Stat. 411—see 50 U.S.C. 4301 et seq.
 
-Office of Selective Service Records (50 U.S.C. App. 321 et seq.), act Mar. 31, 1947, ch. 26, 61 Stat. 31; Pub. L. 85–844, title I, Aug. 28, 1958, 72 Stat. 1073—see 50 U.S.C. 3815 note.
+Office of Selective Service Records (50 U.S.C. App. 321 et seq.), act Mar. 31, 1947, ch. 26, 61 Stat. 31; Pub. L. 85–844, title I, Aug. 28, 1958, 72 Stat. 1073—see 50 U.S.C. 3809 note.
 
 Military Selective Service Act (50 U.S.C. App. 451 et seq.), act June 24, 1948, ch. 625, 62 Stat. 604—see 50 U.S.C. 3801 et seq.
 
@@ -1261,7 +1261,7 @@ Territorial Use of Army and Extension of Service Period (50 U.S.C. App. 731 et s
 
 Civilian Protection From War Hazards (50 U.S.C. App. 741 et seq.), act Jan. 27, 1942, ch. 20, 56 Stat. 19.
 
-Decorations, etc., for Merchant Marine (50 U.S.C. App. 751 et seq.), Joint Res. Apr. 11, 1942, ch. 241, 56 Stat. 217; Acts May 10, 1943, ch. 96, 57 Stat. 81; Aug. 8, 1946, ch. 918, 60 Stat. 960.
+Decorations, etc., for Merchant Marine (50 U.S.C. App. 751 et seq.), Joint Res. Apr. 11, 1942, ch. 241, 56 Stat. 217; acts May 10, 1943, ch. 96, 57 Stat. 81; Aug. 8, 1946, ch. 918, 60 Stat. 960.
 
 Use of Public Lands for War Purposes (50 U.S.C. App. 756 et seq.), act June 5, 1942, ch. 346, 56 Stat. 323.
 
@@ -1463,7 +1463,7 @@ WHEREAS world conquest by communist imperialism is the goal of the forces of agg
 
 WHEREAS, if the goal of communist imperialism were to be achieved, the people of this country would no longer enjoy the full and rich life they have with God's help built for themselves and their children; they would no longer enjoy the blessings of the freedom of worshipping as they severally choose, the freedom of reading and listening to what they choose, the right of free speech including the right to criticize their Government, the right to choose those who conduct their Government, the right to engage freely in collective bargaining, the right to engage freely in their own business enterprises, and the many other freedoms and rights which are a part of our way of life; and
 
-Whereas the increasing menace of the forces of communist aggression requires that the national defense of the United States be strengthened as speedily as possible:
+WHEREAS the increasing menace of the forces of communist aggression requires that the national defense of the United States be strengthened as speedily as possible:
 
 NOW, THEREFORE, I, HARRY S. TRUMAN, President of the United States of America, do proclaim the existence of a national emergency, which requires that the military, naval, air, and civilian defenses of this country be strengthened as speedily as possible to the end that we may be able to repel any and all threats against our national security and to fulfill our responsibilities in the efforts being made through the United Nations and otherwise to bring about lasting peace.
 
