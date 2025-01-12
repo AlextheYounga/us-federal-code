@@ -66,7 +66,7 @@ Sec.
 
 8772. Dairy forward pricing program.
 
-8773. Milk income loss contract program.
+8773. Repealed.
 
 #### SUBCHAPTER V—ADMINISTRATION ####
 

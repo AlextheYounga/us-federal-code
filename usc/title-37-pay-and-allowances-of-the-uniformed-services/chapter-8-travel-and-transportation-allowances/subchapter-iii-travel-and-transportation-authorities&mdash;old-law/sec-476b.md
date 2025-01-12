@@ -4,13 +4,17 @@
 
 (b) Transportation in kind, reimbursement for personally procured transportation, or a monetary allowance in place of the cost of transportation as provided in section 474(d)(1) of this title may be provided, in lieu of the member's entitlement to transportation, for the member's dependents from the location that was the home port of the ship before commencement of overhaul or inactivation to the port of overhaul or inactivation. The total reimbursement for transportation for the member's dependents may not exceed the cost of Government-procured commercial round-trip travel.
 
-(c) In any case in which a member of the uniformed services is assigned to permanent duty aboard a ship that undergoes a change of home port to the overhaul or inactivation port, the dependents of the member may be provided transportation allowances prescribed in subsections (a) and (b) in lieu of the transportation authorized by section 476 of this title and section 2634 of title 10.
+(c) In any case in which a member of the uniformed services is assigned to permanent duty aboard a ship that undergoes a change of home port to the overhaul or inactivation port, the dependents of the member may be provided transportation allowances prescribed in subsections (a) and (b) in lieu of the transportation authorized by section 476 of this title and section 2634 <sup><a href="#476b_1_target" name="476b_1">1</a></sup> of title 10.
 
 (d) Section 421 of this title does not apply with respect to transportation or allowances provided under this section.
 
 (e) No transportation or allowance may be provided under this section for travel that begins after the travel authorities transition expiration date.
 
 (Added Pub. L. 91–210, §1(1), Mar. 13, 1970, 84 Stat. 53, §406b; amended Pub. L. 93–170, Nov. 29, 1973, 87 Stat. 689; Pub. L. 96–513, title V, §516(11), Dec. 12, 1980, 94 Stat. 2938; Pub. L. 97–22, §11(b)(3)(A), July 10, 1981, 95 Stat. 138; Pub. L. 99–145, title VI, §616(a), (c)(1), Nov. 8, 1985, 99 Stat. 641; Pub. L. 100–26, §8(d)(7), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title XII, §1233(a)(3), Dec. 4, 1987, 101 Stat. 1161; Pub. L. 101–189, div. A, title VI, §624(b), Nov. 29, 1989, 103 Stat. 1448; Pub. L. 102–484, div. A, title X, §1054(a)(5), Oct. 23, 1992, 106 Stat. 2502; renumbered §476b and amended Pub. L. 112–81, div. A, title VI, §631(d)(2), (e)(8), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+
+#### References in Text ####
+
+Section 2634 of title 10, referred to in subsec. (c), was repealed by Pub. L. 113–66, div. A, title VI, §621(g)(1), Dec. 26, 2013, 127 Stat. 784.
 
 #### Amendments ####
 
@@ -53,3 +57,5 @@ Pub. L. 99–145, title VI, §616(b), Nov. 8, 1985, 99 Stat. 641, provided that:
 #### Effective Date of 1980 Amendment ####
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
+
+[<sup>1</sup> See References in Text note below.](#476b_1)
