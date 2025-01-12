@@ -24,11 +24,26 @@ Sec.
 
 6231. Definitions and special rules.
 
-[6232. Repealed.]
+[6232. Repealed.] 1
 
 6233. Extension to entities filing partnership returns, etc.
 
 6234. Declaratory judgment relating to treatment of items other than partnership items with respect to an oversheltered return.
+
+#### Repeal and Reenactment of Analysis ####
+
+Pub. L. 114–74, title XI, §1101(a), (c)(1), (g), Nov. 2, 2015, 129 Stat. 625, 638, provided that, applicable to returns filed for partnership taxable years beginning after Dec. 31, 2017, with certain exceptions, this analysis is repealed and a new analysis for subchapter C is enacted to read as follows:
+
+|*Part*|                                |
+|------|--------------------------------|
+| *I.* |         *In General.*          |
+|*II.* |   *Partnership Adjustments.*   |
+|*III.*|          *Procedure.*          |
+|*IV.* |*Definitions and Special Rules.*|
+
+#### Codification ####
+
+New sections 6232 and 6235 were enacted on Nov. 2, 2015, by Pub. L. 114–74 applicable, with certain exceptions, to returns filed for partnership taxable years beginning after Dec. 31, 2017. However, because section 6232 had previously been repealed and section 6235 did not exist, the text of those sections as enacted by Pub. L. 114–74 is currently being set out within this subchapter. As a result, the current analysis for subchapter C set out above does not conform with respect to those sections.
 
 #### Amendments ####
 
@@ -39,3 +54,5 @@ Sec.
 **1984**—Pub. L. 98–369, div. A, title VII, §714(p)(2)(E), July 18, 1984, 98 Stat. 965, added item 6233.
 
 **1982**—Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 648, added subchapter C heading and items 6221 to 6232.
+
+[<sup>1</sup> See Codification note below.](#SubchapterC_1)

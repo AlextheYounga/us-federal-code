@@ -6,9 +6,9 @@ All personnel actions affecting employees or applicants for employment who are a
 
 #### (b) Enforcement by Equal Employment Opportunity Commission and by Librarian of Congress in the Library of Congress; remedies; rules, regulations, orders, and instructions of Commission: compliance by Federal agencies; powers and duties of Commission; notification of final action on complaint of discrimination; exemptions: bona fide occupational qualification ####
 
-Except as otherwise provided in this subsection, the Equal Employment Opportunity Commission is authorized to enforce the provisions of subsection (a) of this section through appropriate remedies, including reinstatement or hiring of employees with or without backpay, as will effectuate the policies of this section. The Equal Employment Opportunity Commission shall issue such rules, regulations, orders, and instructions as it deems necessary and appropriate to carry out its responsibilities under this section. The Equal Employment Opportunity Commission shall—
+Except as otherwise provided in this subsection, the Equal Employment Opportunity Commission is authorized to enforce the provisions of subsection (a) through appropriate remedies, including reinstatement or hiring of employees with or without backpay, as will effectuate the policies of this section. The Equal Employment Opportunity Commission shall issue such rules, regulations, orders, and instructions as it deems necessary and appropriate to carry out its responsibilities under this section. The Equal Employment Opportunity Commission shall—
 
-(1) be responsible for the review and evaluation of the operation of all agency programs designed to carry out the policy of this section, periodically obtaining and publishing (on at least a semiannual basis) progress reports from each department, agency, or unit referred to in subsection (a) of this section;
+(1) be responsible for the review and evaluation of the operation of all agency programs designed to carry out the policy of this section, periodically obtaining and publishing (on at least a semiannual basis) progress reports from each department, agency, or unit referred to in subsection (a);
 
 (2) consult with and solicit the recommendations of interested individuals, groups, and organizations relating to nondiscrimination in employment on account of age; and
 

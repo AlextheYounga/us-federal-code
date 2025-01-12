@@ -10,6 +10,10 @@ Based on title 28, U.S.C., 1940 ed., §321 (Mar. 3, 1911, ch. 231, §215, 36 Sta
 
 Appointment of "judges of the Supreme Court" by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, §2, cl. 2.
 
+#### Short Title of 2015 Amendment ####
+
+Pub. L. 114–74, title VII, §701(a), Nov. 2, 2015, 129 Stat. 599, provided that: "This section [amending and repealing provisions set out as notes under section 2461 of this title] may be cited as the 'Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015'."
+
 #### Short Title of 2012 Amendment ####
 
 Pub. L. 112–188, §1, Oct. 5, 2012, 126 Stat. 1433, provided that: "This Act [amending sections 104 and 105 of this title and enacting provisions set out as a note under section 104 of this title] may be cited as the 'Divisional Realignment Act of 2012'."

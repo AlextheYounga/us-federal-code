@@ -20,7 +20,7 @@ Sec.
 
 5009. Unlawful activities.
 
-5010. Penalties.
+5010. Additional prohibitions and enforcement.
 
 5011. Funding requirements.
 

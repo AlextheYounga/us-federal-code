@@ -28,7 +28,9 @@ Sec.
 
 135b. Local and regional centers; preference to blind and other physically handicapped veterans; rules and regulations; authorization of appropriations.
 
-136. Librarian of Congress; appointment; rules and regulations.
+136. Librarian of Congress; rules and regulations.
+
+136–1. Appointment and term of service of Librarian of Congress.
 
 136a, 136a–1. Omitted.
 

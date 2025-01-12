@@ -12,7 +12,7 @@ Sec.
 
 5605. Rulemaking.
 
-5606. Prohibited acts and penalties.
+5606. Prohibited acts and enforcement.
 
 5607. Consultative committee.
 

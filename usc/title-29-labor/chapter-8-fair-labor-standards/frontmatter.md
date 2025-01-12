@@ -42,7 +42,7 @@ Sec.
 
 218. Relation to other laws.
 
-218a. Automatic enrollment for employees of large employers.
+218a. Repealed.
 
 218b. Notice to employees.
 

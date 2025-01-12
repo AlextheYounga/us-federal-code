@@ -112,7 +112,7 @@ Upon completion of the investigative strategy under subparagraph (B)(iii), each 
 
 #### (1) In general ####
 
-Not later than 4 years after October 26, 1992, and periodically thereafter, the Secretary of Labor, based on the information developed under subsection (c) of this section and on other information available to the Secretary, shall—
+Not later than 4 years after October 26, 1992, and periodically thereafter, the Secretary of Labor, based on the information developed under subsection (c) and on other information available to the Secretary, shall—
 
 (A) determine if additional education about, emphasis on, or enforcement of existing regulations or standards is needed and will be sufficient, or if additional regulations or standards are needed with regard to employee transported releases of hazardous materials; and
 

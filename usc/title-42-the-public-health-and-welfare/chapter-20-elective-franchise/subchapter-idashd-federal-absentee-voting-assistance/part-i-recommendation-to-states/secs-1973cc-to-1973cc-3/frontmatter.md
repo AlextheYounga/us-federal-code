@@ -1,6 +1,6 @@
 ### §§1973cc to 1973cc–3. Repealed. Pub. L. 99–410, title II, §203, Aug. 28, 1986, 100 Stat. 930 ###
 
-Section 1973cc, acts Aug. 9, 1955, ch. 656, title I, §101, 69 Stat. 584; June 18, 1968, Pub. L. 90–343, §1, 82 Stat. 180; Nov. 4, 1978, Pub. L. 95–593, §7, 92 Stat. 2537, related to State enactment of absentee voting legislation and to covered persons. See section 1973ff–1 of this title.
+Section 1973cc, acts Aug. 9, 1955, ch. 656, title I, §101, 69 Stat. 584; June 18, 1968, Pub. L. 90–343, §1, 82 Stat. 180; Nov. 4, 1978, Pub. L. 95–593, §7, 92 Stat. 2537, related to State enactment of absentee voting legislation and to covered persons. See section 20302 of Title 52, Voting and Elections.
 
 Section 1973cc–1, acts Aug. 9, 1955, ch. 656, title I, §102, 69 Stat. 584; June 18, 1968, Pub. L. 90–344, §1(1), 82 Stat. 181; Aug. 6, 1981, Pub. L. 97–31, §12(19), 95 Stat. 154, related to balloting procedures.
 
@@ -10,4 +10,4 @@ Section 1973cc–3, act Aug. 9, 1955, ch. 656, title I, §104, as added June 18,
 
 #### Effective Date of Repeal ####
 
-Repeal applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under section 1973ff of this title.
+Repeal applicable with respect to elections taking place after Dec. 31, 1987, see section 204 of Pub. L. 99–410, set out as an Effective Date note under section 20301 of Title 52, Voting and Elections.

@@ -4,13 +4,13 @@ Sec.
 
 951. Definitions.
 
-952. Commissioners; number, appointment, and qualification.
+952. Commissioners.
 
 953. General Advisory Committee and Scientific Advisory Subcommittee.
 
 954. Repealed.
 
-955. Secretary of State to act for United States.
+955. Rulemaking.
 
 956. Inspection of returns, records, or other reports.
 
@@ -18,7 +18,7 @@ Sec.
 
 958. Cooperation with other agencies.
 
-959. Enforcement of chapter.
+959. Enforcement.
 
 960. Commissions' functions not restrained by this chapter or State laws.
 

@@ -14,4 +14,4 @@ Section 11466, Pub. L. 100–77, title VII, §756, as added Pub. L. 101–645, t
 
 #### Effective Date of Repeal ####
 
-Repeal effective July 1, 1999, see section 199(c)(2)(A) of Pub. L. 105–220, set out as a note under section 11421 of this title.
+Repeal effective July 1, 1999, see section 199(c)(2)(A) of Pub. L. 105–220, as amended, set out as a note under section 11421 of this title.

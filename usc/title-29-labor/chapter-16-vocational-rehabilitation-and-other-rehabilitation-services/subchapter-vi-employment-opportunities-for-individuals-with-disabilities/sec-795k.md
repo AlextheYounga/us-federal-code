@@ -28,9 +28,9 @@ Each such plan supplement shall—
 
 (A) funds made available under this subchapter will only be used to provide supported employment services authorized under this chapter to individuals who are eligible under this subchapter to receive the services;
 
-(B) the comprehensive assessments of individuals with significant disabilities, including youth with the most significant disabilities, conducted under section 722(b)(1) of this title and funded under subchapter I of this chapter will include consideration of supported employment as an appropriate employment outcome;
+(B) the comprehensive assessments of individuals with significant disabilities, including youth with the most significant disabilities, conducted under section 722(b)(1) of this title and funded under subchapter I will include consideration of supported employment as an appropriate employment outcome;
 
-(C) an individualized plan for employment, as required by section 722 of this title, will be developed and updated using funds under subchapter I of this chapter in order to—
+(C) an individualized plan for employment, as required by section 722 of this title, will be developed and updated using funds under subchapter I in order to—
 
 (i) specify the supported employment services to be provided, including, as appropriate, for youth with the most significant disabilities, transition services and pre-employment transition services;
 
@@ -38,7 +38,7 @@ Each such plan supplement shall—
 
 (iii) identify, as appropriate, the source of extended services, which may include natural supports, or indicate that it is not possible to identify the source of extended services at the time the individualized plan for employment is developed;
 
-(D) the State will use funds provided under this subchapter only to supplement, and not supplant, the funds provided under subchapter I of this chapter, in providing supported employment services specified in the individualized plan for employment;
+(D) the State will use funds provided under this subchapter only to supplement, and not supplant, the funds provided under subchapter I, in providing supported employment services specified in the individualized plan for employment;
 
 (E) services provided under an individualized plan for employment will be coordinated with services provided under other individualized plans established under other Federal or State programs;
 

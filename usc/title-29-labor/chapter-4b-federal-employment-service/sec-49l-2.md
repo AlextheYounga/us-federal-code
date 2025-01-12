@@ -20,7 +20,7 @@ The Secretary, in accordance with the provisions of this section, shall oversee 
 
 (i) shall be current and comprehensive;
 
-(ii) shall meet the needs identified through the consultations described in subparagraphs (A) and (B) of subsection (e)(2) of this section; and
+(ii) shall meet the needs identified through the consultations described in subparagraphs (A) and (B) of subsection (e)(2); and
 
 (iii) shall meet the needs for the information identified in section 134(d); <sup><a href="#49l-2_1_target" name="49l-2_1">1</a></sup>
 
@@ -184,7 +184,7 @@ Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply
 
 In order to receive Federal financial assistance under this section, the Governor of a State shall—
 
-(A) designate a single State agency to be responsible for the management of the portions of the workforce and labor market information system described in subsection (a) of this section that comprise a statewide workforce and labor market information system and for the State's participation in the development of the plan described in subsection (c); and
+(A) designate a single State agency to be responsible for the management of the portions of the workforce and labor market information system described in subsection (a) that comprise a statewide workforce and labor market information system and for the State's participation in the development of the plan described in subsection (c); and
 
 (B) establish a process for the oversight of such system.
 
@@ -196,7 +196,7 @@ In order to receive Federal financial assistance under this section, the State a
 
 (B) consult with State educational agencies and local educational agencies concerning the provision of workforce and labor market information in order to meet the needs of secondary school and postsecondary school students who seek such information;
 
-(C) collect and disseminate for the system, on behalf of the State and localities in the State, the information and data described in subparagraphs (A) and (B) of subsection (a)(1) of this section;
+(C) collect and disseminate for the system, on behalf of the State and localities in the State, the information and data described in subparagraphs (A) and (B) of subsection (a)(1);
 
 (D) maintain and continuously improve the statewide workforce and labor market information system in accordance with this section;
 
@@ -244,7 +244,7 @@ A prior section 15 of act of June 6, 1933, was renumbered section 16, and is set
 
 Subsec. (a)(1). Pub. L. 113–128, §308(b), substituted "workforce and labor market information system" for "employment statistics system of employment statistics" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 113–128, §308(c)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The employment statistics system described in subsection (a) of this section shall be planned, administered, overseen, and evaluated through a cooperative governance structure involving the Federal Government and States."
+Subsec. (b)(1). Pub. L. 113–128, §308(c)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The employment statistics system described in subsection (a) shall be planned, administered, overseen, and evaluated through a cooperative governance structure involving the Federal Government and States."
 
 Subsec. (b)(2). Pub. L. 113–128, §308(c)(2), added par. (2) and struck out former par. (2) which described duties to be carried out for the employment statistics system.
 
@@ -256,7 +256,7 @@ Subsec. (e). Pub. L. 113–128, §308(f)(1), substituted "workforce and labor ma
 
 Subsec. (e)(1)(A). Pub. L. 113–128, §308(f)(2), substituted "plan described in subsection (c)" for "annual plan".
 
-Subsec. (e)(2)(G), (H). Pub. L. 113–128, §308(f)(3)(A), (B), (D), inserted "and" at end of subpar. (G), redesignated subpar. (I) as (H), and struck out former subpar. (H) which read as follows: "participate in the development of the annual plan described in subsection (c) of this section; and".
+Subsec. (e)(2)(G), (H). Pub. L. 113–128, §308(f)(3)(A), (B), (D), inserted "and" at end of subpar. (G), redesignated subpar. (I) as (H), and struck out former subpar. (H) which read as follows: "participate in the development of the annual plan described in subsection (c); and".
 
 Subsec. (e)(2)(I). Pub. L. 113–128, §308(f)(3)(D), redesignated subpar. (I) as (H).
 

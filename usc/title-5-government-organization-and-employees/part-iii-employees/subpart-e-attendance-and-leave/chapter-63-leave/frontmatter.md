@@ -46,6 +46,8 @@ Sec.
 
 6328. Absence in connection with funerals of fellow Federal law enforcement officers.
 
+6329. Disabled veteran leave.
+
 #### SUBCHAPTER III—VOLUNTARY TRANSFERS OF LEAVE ####
 
 6331. Definitions.
@@ -117,6 +119,8 @@ Sec.
 6391. Authority for leave transfer program in disasters and emergencies.
 
 #### Amendments ####
+
+**2015**—Pub. L. 114–75, §2(b), Nov. 5, 2015, 129 Stat. 641, added item 6329.
 
 **1999**—Pub. L. 106–56, §1(c)(2), Sept. 24, 1999, 113 Stat. 407, added item 6328.
 

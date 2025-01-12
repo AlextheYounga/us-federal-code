@@ -20,25 +20,19 @@ It shall be unlawful for the master or any person in charge of any fishing vesse
 
 It shall be unlawful for any person to import, in violation of any regulation adopted pursuant to section 971d(c) or (d) <sup><a href="#971e_1_target" name="971e_1">1</a></sup> of this title, from any country, any fish in any form of those species subject to regulation pursuant to a recommendation of the Commission, or any fish in any form not under regulation but under investigation by the Commission, during the period such fish have been denied entry in accordance with the provisions of section 971d(c) or (d) <sup><a href="#971e_1_target" name="971e_1">1</a></sup> of this title. In the case of any fish as described in this subsection offered for entry in the United States, the Secretary shall require proof satisfactory to him that such fish is not ineligible for such entry under the terms of section 971d(c) or (d) <sup><a href="#971e_1_target" name="971e_1">1</a></sup> of this title.
 
-#### (e) Sanctions ####
-
-The civil penalty and permit sanctions of section 1858 of this title are hereby made applicable to violations of this section as if they were violations of section 1857 of this title.
-
-#### (f) Forfeiture ####
-
-All fish taken or retained in violation of subsection (a) of this section, or the monetary value thereof, may be forfeited.
-
-#### (g) Applicability of other laws ####
+#### (e) Applicability of other laws ####
 
 All provisions of law relating to the seizure, judicial forfeiture, and condemnation of a cargo for violation of the customs laws, the disposition of such cargo or the proceeds from the sale thereof, and the remission or mitigation of such forfeitures shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this chapter, insofar as such provisions of law are applicable and not inconsistent with the provisions of this chapter.
 
-(Pub. L. 94–70, §7, Aug. 5, 1975, 89 Stat. 390; Pub. L. 104–43, title III, §306, Nov. 3, 1995, 109 Stat. 385; Pub. L. 105–384, title II, §202(b)(1)(F), Nov. 13, 1998, 112 Stat. 3453.)
+(Pub. L. 94–70, §7, Aug. 5, 1975, 89 Stat. 390; Pub. L. 104–43, title III, §306, Nov. 3, 1995, 109 Stat. 385; Pub. L. 105–384, title II, §202(b)(1)(F), Nov. 13, 1998, 112 Stat. 3453; Pub. L. 114–81, title I, §107(2), Nov. 5, 2015, 129 Stat. 658.)
 
 #### References in Text ####
 
 Section 971d(d) of this title, referred to in subsec. (d), was amended generally by Pub. L. 101–627, title II, §207, Nov. 28, 1990, 104 Stat. 4461. Prior to amendment, subsec. (d) related to Commission recommendations concerning bluefin tuna and issuance of regulations in that regard.
 
 #### Amendments ####
+
+**2015**—Subsecs. (e) to (g). Pub. L. 114–81 redesignated subsec. (g) as (e) and struck out former subsecs. (e) and (f), which related to sanctions and forfeiture, respectively.
 
 **1998**—Subsec. (e). Pub. L. 105–384 made technical amendment to reference in original act which appears in text as reference to section 1858 of this title.
 
