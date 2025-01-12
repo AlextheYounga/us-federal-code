@@ -10,7 +10,7 @@ Sec.
 
 #### SUBCHAPTER II—PREVENTION OF UNINTENTIONAL INTRODUCTIONS OF NONINDIGENOUS AQUATIC SPECIES ####
 
-4711. Aquatic nuisance species in waters of United States.
+4711. Repealed.
 
 4712. National ballast water management information.
 

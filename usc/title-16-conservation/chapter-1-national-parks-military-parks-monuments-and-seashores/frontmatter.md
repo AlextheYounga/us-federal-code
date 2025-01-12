@@ -2328,7 +2328,7 @@ Sec.
 
 410www–2. Authority of Secretary regarding property and concessions.
 
-410www–3. Establishment of Advisory Commission.
+410www–3. Omitted.
 
 410www–4. Entrance or admission fees prohibited.
 
@@ -2336,7 +2336,7 @@ Sec.
 
 410www–6. Minimizing adverse impacts on preservation district.
 
-410www–7. Submission of comprehensive general management plan.
+410www–7. Omitted.
 
 #### SUBCHAPTER LIX–VV—STE. GENEVIEVE NATIONAL HISTORICAL PARK ####
 

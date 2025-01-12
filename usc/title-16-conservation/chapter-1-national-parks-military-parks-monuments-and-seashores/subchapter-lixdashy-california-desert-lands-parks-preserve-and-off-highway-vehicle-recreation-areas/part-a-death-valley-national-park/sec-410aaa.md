@@ -234,7 +234,7 @@ Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1384, provided in part: "Tha
 
 #### Definitions ####
 
-Pub. L. 103–433, §3, as added Pub. L. 116–9, title I, §1458(b), Mar. 12, 2019, 133 Stat. 718, provided that:
+Pub. L. 103–433, §3, as added by Pub. L. 116–9, title I, §1458(b), Mar. 12, 2019, 133 Stat. 718, provided that:
 
 "(a) Titles I Through IX.—In titles I through IX [enacting this subchapter, subchapter CXLII, provisions listed in a table of Wilderness Areas set out under section 1132 of this title, provisions set out as notes under this section, section 410aaa–82 of this title, and section 1781 of Title 43, Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title and a table of Wilderness Areas set out under section 1132 of this title], the term 'this Act' means only—
 
@@ -253,5 +253,7 @@ Pub. L. 103–433, §3, as added Pub. L. 116–9, title I, §1458(b), Mar. 12, 2
 "(B) with respect to land under the jurisdiction of the Secretary of Agriculture, the Secretary of Agriculture.
 
 "(3) State.—The term 'State' means the State of California."
+
+Pub. L. 103–433, title I, §103(a), Oct. 31, 1994, 108 Stat. 4481, provided in part that in this subchapter "Secretary" means the Secretary of the Interior.
 
 [<sup>1</sup> So in original. Probably should be "and".](#410aaa_1)
