@@ -152,6 +152,8 @@ Sec.
 
 21083. Computerized statewide voter registration list requirements and requirements for voters who register by mail.
 
+21083a. Access for congressional election observers.
+
 21084. Minimum requirements.
 
 21085. Methods of implementation left to discretion of State.
