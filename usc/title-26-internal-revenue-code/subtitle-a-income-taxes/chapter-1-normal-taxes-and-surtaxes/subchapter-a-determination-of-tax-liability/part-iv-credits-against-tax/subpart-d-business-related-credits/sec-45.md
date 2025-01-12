@@ -892,7 +892,7 @@ Subsec. (d)(4). Pub. L. 117–169, §13101(c), substituted "and the construction
 
 "(A) in the case of a facility using solar energy, is placed in service before January 1, 2006, or
 
-"(B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2022"
+"(B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2022".
 
 Concluding provisions following former subpar. (B) were joined with the preceding paragraph to reflect the probable intent of Congress.
 

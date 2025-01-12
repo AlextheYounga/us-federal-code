@@ -350,6 +350,6 @@ The Housing Act of 1949, referred to in subsec. (h)(2)(B)(i), is act July 15, 19
 
 #### Effective Date ####
 
-Pub. L. 117–169, title I, §13702(c), Aug. 16, 2022, 136 Stat. 1997, provided that: "The amendments made by this section [enacting this section and amending sections 46, 49 and 50 of this title] shall apply to property placed in service after December 31, 2024."
+Pub. L. 117–169, title I, §13702(c), Aug. 16, 2022, 136 Stat. 1997, provided that: "The amendments made by this section [enacting this section and amending sections 46, 49, and 50 of this title] shall apply to property placed in service after December 31, 2024."
 
 [<sup>1</sup> So in original. Another closing parenthesis probably should precede the comma.](#48E_1)

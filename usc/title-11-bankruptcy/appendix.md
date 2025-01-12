@@ -6,7 +6,7 @@ TITLE 11—APPENDIX
 FEDERAL RULES OF BANKRUPTCY PROCEDURE
 ==========
 
-(Effective August 1, 1983, as amended to December 26, 2023)
+(Effective August 1, 1983, as amended to January 2, 2024)
 
 #### Historical Note ####
 
@@ -5362,7 +5362,7 @@ Subdivision (b)(1) is amended to authorize the clerk or parties to transmit pape
 
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in subd. (a)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subd. (a)(2)(D), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 5006. Certification of Copies of Papers ###
 
@@ -6328,7 +6328,7 @@ The rule is amended to remove the requirement that the pleader state whether the
 
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in subd. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 7009. Pleading Special Matters ###
 
@@ -6452,7 +6452,7 @@ This rule is amended to create a new subdivision (b) that provides for the bankr
 
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subd. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 7017. Parties Plaintiff and Defendant; Capacity ###
 
@@ -6792,7 +6792,7 @@ Rule 54(d)(2)(C) refers to Rule 78 F.R.Civ.P., which is not applicable in advers
 
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in subd. (a), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in subds. (a) and (b)(2)(A), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 7055. Default ###
 
@@ -7086,6 +7086,10 @@ Subdivision (c)(1) is revised to conform to F.R.App.P. 4(c)(1), which was recent
 
 The amended rule also provides that a notice is timely without a declaration or notarized statement if other evidence accompanying the notice shows that the notice was deposited on or before the due date and that postage was prepaid. If the notice is not accompanied by evidence that establishes timely deposit and prepayment of postage, then the appellate court—district court, BAP, or court of appeals in the case of a direct appeal—has discretion to accept a declaration or notarized statement at a later date. The rule uses the phrase "exercises its discretion to permit"—rather than simply "permits"—to help ensure that pro se inmates are aware that a court will not necessarily forgive a failure to provide the declaration initially.
 
+#### References in Text ####
+
+The Federal Rules of Civil Procedure, referred to in subd. (a)(5)(A)(ii), (B), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
 ### Rule 8003. Appeal as of Right—How Taken; Docketing the Appeal ###
 
 (a) Filing the Notice of Appeal.
@@ -7136,7 +7140,7 @@ The amended rule also provides that a notice is timely without a declaration or 
 
 (2) *Docketing in the District Court or BAP*. Upon receiving the notice of appeal, the district or BAP clerk must docket the appeal under the title of the bankruptcy case and the title of any adversary proceeding, and must identify the appellant, adding the appellant's name if necessary.
 
-(Added Apr. 25, 2014, eff. Dec. 1, 2014; Apr. 24, 2023, eff. Dec. 1, 2023.)
+(Added Apr. 25, 2014, eff. Dec. 1, 2014; amended Apr. 24, 2023, eff. Dec. 1, 2023.)
 
 #### Prior Rule ####
 
@@ -8710,10 +8714,6 @@ The rule is amended to add §1502 of the Code to the list of definitional provis
 
 *Changes Made After Publication*. No changes since publication.
 
-#### References in Text ####
-
-The Bankruptcy Act of 1898 as amended, referred to in pars. (1) and (2), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11, Bankruptcy. Sections 1(10) and 2a of this Act were classified to sections 1(10) and 11(a), respectively, of former Title 11. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
-
 ### Rule 9002. Meanings of Words in the Federal Rules of Civil Procedure When Applicable to Cases Under the Code ###
 
 The following words and phrases used in the Federal Rules of Civil Procedure made applicable to cases under the Code by these rules have the meanings indicated unless they are inconsistent with the context:
@@ -9440,10 +9440,6 @@ The rule is amended in connection with the amendment that adds Rule 7058. The en
 
 *Changes Made After Publication*. No changes since publication.
 
-#### References in Text ####
-
-The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-
 ### Rule 9022. Notice of Judgment or Order ###
 
 (a) Judgment or Order of Bankruptcy Judge. Immediately on the entry of a judgment or order the clerk shall serve a notice of entry in the manner provided in Rule 5(b) F.R.Civ.P. on the contesting parties and on other entities as the court directs. Unless the case is a chapter 9 municipality case, the clerk shall forthwith transmit to the United States trustee a copy of the judgment or order. Service of the notice shall be noted in the docket. Lack of notice of the entry does not affect the time to appeal or relieve or authorize the court to relieve a party for failure to appeal within the time allowed, except as permitted in Rule 8002.
@@ -9470,7 +9466,7 @@ Rule 5(b) F.R.Civ.P., which is made applicable in adversary proceedings by Rule 
 
 #### References in Text ####
 
-The Federal Rules of Civil Procedure, referred to in subd. (b), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Federal Rules of Civil Procedure, referred to in text, are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 ### Rule 9023. New Trials; Amendment of Judgments ###
 

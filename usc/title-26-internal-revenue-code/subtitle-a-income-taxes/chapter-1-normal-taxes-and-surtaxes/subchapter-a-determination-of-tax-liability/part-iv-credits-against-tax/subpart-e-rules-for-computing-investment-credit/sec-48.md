@@ -634,7 +634,7 @@ The term "qualified solar and wind facility" means any facility—
 
 A facility shall be treated as part of a qualified low-income residential building project if—
 
-(i) such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 (34 U.S.C. 12491(a)(3)), a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(22))) or such other affordable housing programs as the Secretary may provide, and
+(i) such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 (34 U.S.C. 12491(a)(3)),<sup><a href="#48_2_target" name="48_2">2</a></sup> a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 (25 U.S.C. 4103(22))) or such other affordable housing programs as the Secretary may provide, and
 
 (ii) the financial benefits of the electricity produced by such facility are allocated equitably among the occupants of the dwelling units of such building.
 
@@ -1831,3 +1831,5 @@ Pub. L. 88–272, title II, §203(a)(2), Feb. 26, 1964, 78 Stat. 33, as amended 
 "(C) The adjustments under this paragraph shall be made as of the first day of the taxpayer's first taxable year which begins after December 31, 1963."
 
 [<sup>1</sup> See References in Text note below.](#48_1)
+
+[<sup>2</sup> So in original. Another closing parenthesis probably should precede the comma.](#48_2)

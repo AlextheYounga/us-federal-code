@@ -98,7 +98,7 @@ The Secretary shall issue such regulations or other guidance as the Secretary de
 
 This section shall not apply to taxable years beginning after December 31, 2032.
 
-(Added and amended Pub. L. 117–169, title I, §§13105, 13204(b)(2), Aug. 16, 2022, 136 Stat. 1929, 1940.)
+(Added and amended Pub. L. 117–169, title I, §§13105(a), 13204(b)(2), Aug. 16, 2022, 136 Stat. 1929, 1940.)
 
 #### **Editorial Notes** ####
 

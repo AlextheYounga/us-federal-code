@@ -66,7 +66,7 @@ Sec.
 
 44732. Prohibition on personal use of electronic devices on flight deck.
 
-44733. Inspection of repair stations located outside the United States.
+44733. Oversight of repair stations located outside the United States.
 
 44734. Training of flight attendants.
 
@@ -90,9 +90,19 @@ Sec.
 
 44744. Flight Crew Alerting. 1
 
+44745. Don Young Alaska Aviation Safety Initiative.
+
+44746. Flight data recovery from overwater operations.
+
+44747. Aviation safety oversight measures carried out by foreign countries.
+
+44748. Aircraft dispatching.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–63, title III, §§302(a)(3), 342(f), 352(b), 369(c), title IV, §420(b)(2), May 16, 2024, 138 Stat. 1069, 1101, 1112, 1139, 1165, added items 44733 and 44745 to 44748 and struck out former item 44733 "Inspection of repair stations located outside the United States".
 
 **2022**—Pub. L. 117–328, div. O, title V, §501(e), Dec. 29, 2022, 136 Stat. 5231, added item 44744.
 

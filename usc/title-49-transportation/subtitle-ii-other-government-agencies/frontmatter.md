@@ -5,6 +5,10 @@ Chapter Sec.
 
 11. National Transportation Safety Board 1101
 
-13. Surface Transportation Board 1 1301
+13. Surface Transportation Board 1301
 
-[<sup>1</sup> Editorially supplied. Chapter 7 renumbered chapter 13 and transferred to this subtitle by Pub. L. 114–110 without corresponding amendment of subtitle analysis.](#SUBTITLEII_1)
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2024**—Pub. L. 118–63, title XII, §1221(c), May 16, 2024, 138 Stat. 1432, added item for chapter 13 which had been editorially supplied.

@@ -12,4 +12,10 @@ Sec.
 
 47305. Administrative.
 
-47306. Criminal penalty.
+[47306. Repealed.]
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2024**—Pub. L. 118–63, title VII, §727, May 16, 2024, 138 Stat. 1271, struck out item 47306 "Criminal penalty".

@@ -10,13 +10,59 @@ Sec.
 
 42304. Widespread disruptions.
 
+42305. Refunds for cancelled or significantly delayed or changed flights.
+
+42306. Know Your Rights posters.
+
+42307. Requirement to maintain a live customer chat or monitored text messaging number.
+
+42308. DOT airline customer service dashboards.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
 
+**2024**—Pub. L. 118–63, title V, §§503(b), 504(c), 505(b)(2), 506(b), May 16, 2024, 138 Stat. 1190–1193, added items 42305 to 42308.
+
 **2018**—Pub. L. 115–254, div. B, title IV, §428(b), Oct. 5, 2018, 132 Stat. 3341, added item 42304.
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Reimbursement for Incurred Costs ####
+
+Pub. L. 118–63, title V, §512, May 16, 2024, 138 Stat. 1195, provided that:
+
+"(a) In General.—Not later than 1 year after the date of enactment of this Act [May 16, 2024], the Secretary [of Transportation] shall direct all air carriers providing scheduled passenger interstate or intrastate air transportation to establish policies regarding reimbursement for lodging, transportation between such lodging and the airport, and meal costs incurred due to a flight cancellation or significant delay directly attributable to the air carrier.
+
+"(b) Definition of Significantly Delayed.—In this section, the term 'significantly delayed' means, with respect to air transportation, the departure or arrival at the originally ticketed destination associated with such transportation has changed—
+
+"(1) in the case of a domestic flight, 3 or more hours after the original scheduled arrival time; and
+
+"(2) in the case of an international flight, 6 or more hours after the original scheduled arrival time.
+
+"(c) Rule of Construction.—Nothing in this section shall be construed as providing the Secretary with any additional authorities beyond the authority to require air carriers [to] establish the policies referred to in subsection (a)."
+
+#### Streamlining of Offline Ticket Disclosures ####
+
+Pub. L. 118–63, title V, §513, May 16, 2024, 138 Stat. 1196, provided that:
+
+"(a) In General.—Not later than 18 months after the date of enactment of this Act [May 16, 2024], the Secretary [of Transportation] shall take such action as may be necessary to update the process by which an air carrier or ticket agent is required to fulfill disclosure obligations in ticketing transactions for air transportation not completed through a website.
+
+"(b) Requirements.—The process updated under subsection (a) shall—
+
+"(1) include means of referral to the applicable air carrier website with respect to disclosures related to air carrier optional fees and policies;
+
+"(2) include a means of referral to the website of the Department of Transportation with respect to any other required disclosures to air transportation passengers;
+
+"(3) make no changes to air carrier or ticket agent obligations with respect to—
+
+"(A) section 41712(c) of title 49, United States Code; or
+
+"(B) subsections (a) and (b) of section 399.84 of title 14, Code of Federal Regulations (or any successor regulations); and
+
+"(4) require disclosures referred to in paragraphs (1) and (2) to be made in the manner existing prior to the date of enactment of this Act upon passenger request.
+
+"(c) Air Carrier Defined.—In this section, the term 'air carrier' has the meaning given such term in section 40102(a) of title 49, United States Code."
 
 #### Advisory Committee on Air Ambulance and Patient Billing ####
 
@@ -190,27 +236,15 @@ Pub. L. 115–254, div. B, title IV, §427, Oct. 5, 2018, 132 Stat. 3340, provid
 
 #### Passenger Rights ####
 
-Pub. L. 115–254, div. B, title IV, §429, Oct. 5, 2018, 132 Stat. 3341, provided that:
-
-"(a) Guidelines.—Not later than 90 days after the date of enactment of this Act [Oct. 5, 2018], the Secretary of Transportation shall require each covered air carrier to submit a summarized 1-page document that describes the rights of passengers in air transportation, including guidelines for the following:
-
-"(1) Compensation (regarding rebooking options, refunds, meals, and lodging) for flight delays of various lengths.
-
-"(2) Compensation (regarding rebooking options, refunds, meals, and lodging) for flight diversions.
-
-"(3) Compensation (regarding rebooking options, refunds, meals, and lodging) for flight cancellations.
-
-"(4) Compensation for mishandled baggage, including delayed, damaged, pilfered, or lost baggage.
-
-"(5) Voluntary relinquishment of a ticketed seat due to overbooking or priority of other passengers.
-
-"(6) Involuntary denial of boarding and forced removal for whatever reason, including for safety and security reasons.
-
-"(b) Filing of Summarized Guidelines.—Not later than 90 days after each air carrier submits its guidelines to the Secretary under subsection (a), the air carrier shall make available such 1-page document in a prominent location on its website."
-
-[For definition of "covered air carrier" as used in section 429 of Pub. L. 115–254, set out above, see section 401 of Pub. L. 115–254, set out as a Definitions of Terms in Pub. L. 115–254 note under section 40101 of this title.]
+Pub. L. 115–254, div. B, title IV, §429, Oct. 5, 2018, 132 Stat. 3341, which provided that the Secretary of Transportation would require each covered air carrier to submit a summarized 1-page document that describes the rights of passengers, was transferred to chapter 417 of this title and redesignated as section 41727 by Pub. L. 118–63, title V, §510(a)(1), May 16, 2024, 138 Stat. 1193.
 
 #### Minimum Dimensions for Passenger Seats ####
+
+Pub. L. 118–63, title V, §519, May 16, 2024, 138 Stat. 1200, provided that: "Not later than 60 days after the date of enactment of this Act [May 16, 2024], the Administrator [of the Federal Aviation Administration] shall—
+
+"(1) initiate a rulemaking activity based on the regulation described in section 577 of the FAA Reauthorization Act of 2018 [Pub. L. 115–254] (49 U.S.C. 42301 [prec.] note); or
+
+"(2) if the Administrator decides not to pursue the rulemaking described in paragraph (1), the Administrator shall brief appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives] on the justification of such decision."
 
 Pub. L. 115–254, div. B, title V, §577, Oct. 5, 2018, 132 Stat. 3394, provided that:
 
@@ -219,6 +253,16 @@ Pub. L. 115–254, div. B, title V, §577, Oct. 5, 2018, 132 Stat. 3394, provide
 "(b) Definitions.—The definitions contained in section 40102(a) of title 49, United States Code, apply to this section."
 
 #### Family Seating ####
+
+Pub. L. 118–63, title V, §516, May 16, 2024, 138 Stat. 1197, provided that:
+
+"(a) In General.—Not later than 180 days after the date of enactment of this Act [May 16, 2024], the Secretary [of Transportation] shall issue a notice of proposed rulemaking to establish a policy directing air carriers that assign seats, or allow individuals to select seats in advance of the date of departure of a flight, to sit each young child adjacent to an accompanying adult, to the greatest extent practicable, if adjacent seat assignments are available at any time after the ticket is issued for each young child and before the first passenger boards the flight.
+
+"(b) Prohibition on Fees.—The notice of proposed rulemaking described in subsection (a) shall include a provision that prohibits an air carrier from charging a fee, or imposing an additional cost beyond the ticket price of the additional seat, to seat each young child adjacent to an accompanying adult within the same class of service.
+
+"(c) Rule of Construction.—Notwithstanding the requirement in subsection (a), nothing in this section may be construed to allow the Secretary to impose a change in the overall seating or boarding policy of an air carrier that has an open or flexible seating policy in place that generally allows adjacent family seating as described under this section.
+
+"(d) Young Child.—In this section, the term 'young child' means an individual who has not attained 14 years of age."
 
 Pub. L. 114–190, title II, §2309, July 15, 2016, 130 Stat. 648, provided that:
 
@@ -230,7 +274,7 @@ Pub. L. 114–190, title II, §2309, July 15, 2016, 130 Stat. 648, provided that
 
 #### Establishment of Advisory Committee for Aviation Consumer Protection ####
 
-Pub. L. 112–95, title IV, §411, Feb. 14, 2012, 126 Stat. 88, as amended by Pub. L. 114–55, title I, §102(i), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(g), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(j), July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §102(i), Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §102(g), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title IV, §415, Oct. 5, 2018, 132 Stat. 3333; Pub. L. 118–15, div. B, title II, §2202(r), Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, §102(r), Dec. 26, 2023, 137 Stat. 1114; Pub. L. 118–41, title I, §102(r), Mar. 8, 2024, 138 Stat. 22, provided that:
+Pub. L. 112–95, title IV, §411, Feb. 14, 2012, 126 Stat. 88, as amended by Pub. L. 114–55, title I, §102(i), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, §102(g), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, §1102(j), July 15, 2016, 130 Stat. 618; Pub. L. 115–63, title I, §102(i), Sept. 29, 2017, 131 Stat. 1170; Pub. L. 115–141, div. M, title I, §102(g), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title IV, §415, Oct. 5, 2018, 132 Stat. 3333; Pub. L. 118–15, div. B, title II, §2202(r), Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, §102(r), Dec. 26, 2023, 137 Stat. 1114; Pub. L. 118–41, title I, §102(r), Mar. 8, 2024, 138 Stat. 22; Pub. L. 118–63, title V, §508, May 16, 2024, 138 Stat. 1193, provided that:
 
 "(a) In General.—The Secretary of Transportation shall establish an advisory committee for aviation consumer protection to advise the Secretary in carrying out activities relating to airline customer service improvements.
 
@@ -262,7 +306,9 @@ Pub. L. 112–95, title IV, §411, Feb. 14, 2012, 126 Stat. 88, as amended by Pu
 
 "(2) an explanation of how the Secretary has implemented each recommendation and, for each recommendation not implemented, the Secretary's reason for not implementing the recommendation.
 
-"(h) Termination.—The advisory committee established under this section shall terminate on May 10, 2024."
+"(h) Termination.—The advisory committee established under this section shall terminate on September 30, 2028.
+
+"(i) Consultation.—The Advisory Committee shall consult, as appropriate, with foreign air carriers, air carriers with an ultra-low-cost business model, nonprofit public interest groups with expertise in disability and accessibility matters, ticket agents, travel management companies, and any other groups as determined by the Secretary."
 
 #### Disclosure of Seat Dimensions To Facilitate the Use of Child Safety Seats on Aircraft ####
 

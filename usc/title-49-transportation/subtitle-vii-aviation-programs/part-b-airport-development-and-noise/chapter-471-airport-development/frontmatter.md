@@ -66,9 +66,7 @@ Sec.
 
 47130. Airport safety data collection.
 
-47131. Annual report.
-
-[47132. Repealed.]
+[47131, 47132. Repealed.]
 
 47133. Restriction on use of revenues.
 
@@ -84,15 +82,19 @@ Sec.
 
 47139. Emission credits for air quality projects.
 
-47140. Increasing the energy efficiency of airport power sources.
+47140. Meeting current and future energy power demand.
 
 47141. Compatible land use planning and projects by State and local governments.
 
-47142. Design-build contracting.
+47142. Alternative project delivery.
 
 47143. Non-movement area surveillance surface display systems pilot program.
 
 47144. Use of funds for repairs for runway safety repairs.
+
+47145. Pilot program for airport accessibility.
+
+47146. General aviation airport runway extension pilot program. 1
 
 #### SUBCHAPTER II—SURPLUS PROPERTY FOR PUBLIC AIRPORTS ####
 
@@ -118,6 +120,10 @@ Sec.
 
 #### Amendments ####
 
+**2024**—Pub. L. 118–63, title VII, §§725(b), 726(b), May 16, 2024, 138 Stat. 1269, 1271, which directed amendment of the analysis for subchapter I of this chapter by adding items 47145 and 47146, was executed by making the amendment to the analysis for this chapter, to reflect the probable intent of Congress.
+
+Pub. L. 118–63, title II, §218(d), title VII, §§723(c), 742(b), May 16, 2024, 138 Stat. 1055, 1267, 1279, struck out item 47131 "Annual report", added items 47140 and 47142, and struck out former items 47140 "Increasing the energy efficiency of airport power sources" and 47142 "Design-build contracting".
+
 **2018**—Pub. L. 115–254, div. B, title I, §§140(b), 160(b), 166(c), title III, §395(b), Oct. 5, 2018, 132 Stat. 3211, 3221, 3226, 3327, added items 47124a, 47136, 47140, and 47143, substituted "Airport investment partnership program" for "Pilot program on private ownership of airports" in item 47134, and struck out former item 47136 "Inherently low-emission airport vehicle pilot program", item 47136a "Zero-emission airport vehicles and infrastructure", former item 47140 "Airport ground support equipment emissions retrofit pilot program", and item 47140a "Increasing the energy efficiency of airport power sources".
 
 **2017**—Pub. L. 115–31, div. K, title I, §119F(b), May 5, 2017, 131 Stat. 735, which directed amendment of the analysis for this chapter by adding item 47144 after item 47143, was executed by adding item 47144 after item 47142 to reflect the probable intent of Congress, because no item for section 47143 has been enacted.
@@ -131,3 +137,5 @@ Sec.
 **1996**—Pub. L. 104–264, title I, §§142(c), 147(c)(2), 149(a)(2), title VIII, §804(c), Oct. 9, 1996, 110 Stat. 3221, 3223, 3226, 3271, substituted "grant program" for "grant pilot program" in item 47128 and added items 47132, 47133, and 47134.
 
 **1994**—Pub. L. 103–305, title I, §§113(b), 118(b), Aug. 23, 1994, 108 Stat. 1579, 1580, added items 47129 and 47130 and redesignated former item 47129 as 47131.
+
+[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER471_1)

@@ -35,7 +35,7 @@ Chapter Sec.
 
 447. Safety Regulation 44701
 
-448. Unmanned aircraft systems 1 44801
+448. Unmanned Aircraft Systems 44801
 
 449. Security 44901
 
@@ -79,6 +79,8 @@ Chapter Sec.
 
 #### Amendments ####
 
+**2024**—Pub. L. 118–63, title XI, §1101(c), May 16, 2024, 138 Stat. 1413, substituted "Unmanned Aircraft Systems" for "Unmanned aircraft systems" in item for chapter 448.
+
 **2018**—Pub. L. 115–254, div. K, title I, §1991(i)(2), Oct. 5, 2018, 132 Stat. 3645, which directed amendment of this analysis by striking item for chapter 483 "Aviation security funding", was executed by striking item for chapter 483 "Aviation Security Funding" to reflect the probable intent of Congress.
 
 Pub. L. 115–254, div. B, title III, §341(b)(1), Oct. 5, 2018, 132 Stat. 3287, added item for chapter 448.
@@ -92,5 +94,3 @@ Pub. L. 115–254, div. B, title III, §341(b)(1), Oct. 5, 2018, 132 Stat. 3287,
 **1996**—Pub. L. 104–287, §5(64), Oct. 11, 1996, 110 Stat. 3395, substituted "RESERVED" for "MISCELLANEOUS" in item for part D, struck out item for chapter 491 "Buy-American Preferences", and added items for part E and chapter 501.
 
 Pub. L. 104–264, title II, §277(b), Oct. 9, 1996, 110 Stat. 3248, added item for chapter 482.
-
-[<sup>1</sup> So in original. Probably should be "Unmanned Aircraft Systems".](#SUBTITLEVII_1)

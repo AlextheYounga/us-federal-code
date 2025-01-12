@@ -20,9 +20,7 @@ Sec.
 
 1116. Reports, studies, and retrospective reviews.
 
-117. 1 Methodology.
-
-1117. 2 Annual report.
+1117. Methodology.
 
 1118. Authorization of appropriations.
 
@@ -40,15 +38,15 @@ Sec.
 
 1135. Secretary of Transportation's responses to safety recommendations.
 
-1136. Assistance to families of passengers involved in aircraft accidents.
+1136. Assistance to passengers involved in aircraft accidents and families of such passengers.
 
 1137. Authority of the Inspector General.
 
 1138. Evaluation and audit of National Transportation Safety Board.
 
-1139. Assistance to families of passengers involved in rail passenger accidents.
+1139. Assistance to passengers involved in rail passenger accidents and families of such passengers.
 
-1140. Information for families of individuals involved in accidents.
+1140. Information for families of individuals involved in accidents. 1
 
 #### SUBCHAPTER IV—ENFORCEMENT AND PENALTIES ####
 
@@ -60,11 +58,13 @@ Sec.
 
 1154. Discovery and use of cockpit and surface vehicle recordings and transcripts.
 
-1155. Aviation penalties.
+1155. Penalties.
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–63, title XII, §§1215(b), (f), 1216(b), 1221(b), May 16, 2024, 138 Stat. 1428, 1431, 1432, added item 1117, substituted "Assistance to passengers involved in aircraft accidents and families of such passengers" for "Assistance to families of passengers involved in aircraft accidents" in item 1136, "Assistance to passengers involved in rail passenger accidents and families of such passengers" for "Assistance to families of passengers involved in rail passenger accidents" in item 1139, and "Penalties" for "Aviation penalties" in item 1155, and struck out item 117 "Methodology" and former item 1117 "Annual report".
 
 **2018**—Pub. L. 115–254, div. C, §§1107(b)(2), 1109(e)(2), 1111(b), 1113(a), Oct. 5, 2018, 132 Stat. 3433, 3435, 3436, 3438, added items 117 and 1140 and substituted "Reports, studies, and retrospective reviews" for "Reports and studies" in item 1116 and "Board." for "Board" in item 1138.
 
@@ -78,6 +78,4 @@ Sec.
 
 **1994**—Pub. L. 103–272, §1(c), (d), July 5, 1994, 108 Stat. 745, added subtitle II (comprised of chapter 11, §§1101–1155) and struck out former subtitle II, except that chapter 31 (comprised of §§3101–3104) of subtitle II was redesignated and restated as chapter 315 (comprised of §§31501–31504) of subtitle VI, as enacted by Pub. L. 103–272, §1(e).
 
-[<sup>1</sup> So in original. Probably should be "1117."](#CHAPTER11_1)
-
-[<sup>2</sup> So in original. New item 1117 added without striking out existing item 1117.](#CHAPTER11_2)
+[<sup>1</sup> Section catchline amended by Pub. L. 118–63 without corresponding amendment of chapter analysis.](#CHAPTER11_1)

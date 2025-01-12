@@ -10,7 +10,7 @@ Sec.
 
 44504. Improved aircraft, aircraft engines, propellers, and appliances.
 
-44505. Systems, procedures, facilities, and devices.
+44505. Systems, procedures, facilities, services, and devices.
 
 44506. Air traffic controllers.
 
@@ -20,7 +20,7 @@ Sec.
 
 44509. Demonstration projects.
 
-44510. Airway science curriculum grants.
+44510. Repealed.
 
 44511. Aviation research grants.
 
@@ -28,9 +28,7 @@ Sec.
 
 44513. Regional centers of air transportation excellence.
 
-44514. Flight service stations.
-
-44515. Advanced training facilities for maintenance technicians for air carrier aircraft.
+44514, 44515. Repealed.
 
 44516. Human factors program.
 
@@ -40,9 +38,13 @@ Sec.
 
 44519. Certification personnel continuing education and training.
 
+44520. Center of Excellence for Alternative Jet Fuels and Environment.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–63, title III, §337, title IV, §401(b), title VI, §618(b)(2), title X, §1017(b), May 16, 2024, 138 Stat. 1093, 1148, 1231, 1397, added items 44505 and 44520 and struck out former item 44505 "Systems, procedures, facilities, and devices" and items 44510 "Airway science curriculum grants", 44514 "Flight service stations", and 44515 "Advanced training facilities for maintenance technicians for air carrier aircraft".
 
 **2020**—Pub. L. 116–260, div. V, title I, §112(b), Dec. 27, 2020, 134 Stat. 2332, added item 44519.
 

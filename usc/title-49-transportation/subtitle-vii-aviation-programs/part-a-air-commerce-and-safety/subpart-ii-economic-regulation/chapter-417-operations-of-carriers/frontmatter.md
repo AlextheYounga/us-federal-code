@@ -12,7 +12,7 @@ Sec.
 
 41704. Transporting property not to be transported in aircraft cabins.
 
-41705. Discrimination against handicapped individuals.
+41705. Discrimination against individuals with disabilities.
 
 41706. Prohibitions against smoking on passenger flights.
 
@@ -56,6 +56,12 @@ Sec.
 
 41726. Strollers.
 
+41727. Passenger rights. 1
+
+41728. Airline passengers with disabilities bill of rights.
+
+41729. COVID–19 vaccination status.
+
 #### SUBCHAPTER II—SMALL COMMUNITY AIR SERVICE ####
 
 41731. Definitions.
@@ -66,7 +72,7 @@ Sec.
 
 41734. Ending, suspending, and reducing basic essential air service.
 
-41735. Enhanced essential air service.
+[41735. Repealed.]
 
 41736. Air transportation to noneligible places.
 
@@ -76,7 +82,7 @@ Sec.
 
 41739. Air carrier obligations.
 
-41740. Joint proposals.
+[41740. Repealed.]
 
 41741. Insurance.
 
@@ -84,7 +90,7 @@ Sec.
 
 41743. Airports not receiving sufficient service.
 
-41744. Preservation of basic essential air service at single carrier dominated hub airports.
+[41744. Repealed.]
 
 41745. Community and regional choice programs.
 
@@ -92,7 +98,7 @@ Sec.
 
 [41747. Repealed.]
 
-41748. Marketing program.
+[41748. Repealed.]
 
 #### SUBCHAPTER III—REGIONAL AIR SERVICE INCENTIVE PROGRAM ####
 
@@ -114,6 +120,10 @@ Sec.
 
 #### Amendments ####
 
+**2024**—Pub. L. 118–63, title V, §561(g), (i), (j), (l), May 16, 2024, 138 Stat. 1216, 1217, which directed amendment of the analysis for subchapter II of this chapter by striking out items 41735 "Enhanced essential air service", 41740 "Joint proposals", 41744 "Preservation of basic essential air service at single carrier dominated hub airports", and 41748 "Marketing program", was executed to the analysis for this chapter to reflect the probable intent of Congress.
+
+Pub. L. 118–63, title V, §§510(c), 550(d), title XI, §1107(b), May 16, 2024, 138 Stat. 1194, 1212, 1417, substituted "Discrimination against individuals with disabilities" for "Discrimination against handicapped individuals" in item 41705 and added items 41727 to 41729.
+
 **2018**—Pub. L. 115–254, div. B, title IV, §§403(b), 412(b), title V, §539(e), Oct. 5, 2018, 132 Stat. 3329, 3332, 3370, added items 41725 and 41726 and substituted "rules" for "Rules" in item 41718.
 
 **2012**—Pub. L. 112–95, title IV, §403(b), Feb. 14, 2012, 126 Stat. 85, which directed amendment of analysis for "such subchapter", meaning subchapter I of chapter 417, by adding item 41724 at the end, was executed by adding item 41724 to analysis for this chapter to reflect the probable intent of Congress.
@@ -131,3 +141,5 @@ Pub. L. 112–95, title IV, §§401(b), 430, Feb. 14, 2012, 126 Stat. 83, 100, s
 **1994**—Pub. L. 103–429, §6(52), Oct. 31, 1994, 108 Stat. 4385, made technical correction to chapter heading.
 
 Pub. L. 103–305, title II, §§206(b), 207(b), Aug. 23, 1994, 108 Stat. 1587, 1588, added items 41714 and 41715.
+
+[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER417_1)

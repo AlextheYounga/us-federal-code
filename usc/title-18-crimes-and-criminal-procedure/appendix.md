@@ -495,7 +495,7 @@ That this Act may be cited as the "Classified Information Procedures Act".
 FEDERAL RULES OF CRIMINAL PROCEDURE
 ==========
 
-(As amended to December 26, 2023)
+(As amended to January 2, 2024)
 
 #### Historical Note ####
 
@@ -1959,7 +1959,7 @@ Subd. (e)(3)(E)(v). Pub. L. 108–458, §6501(a)(1)(C)(i), redesignated cl. (iv)
 
 Subd. (e)(7). Pub. L. 108–458, §6501(a)(2), inserted ", or of guidelines jointly issued by the Attorney General and the Director of National Intelligence pursuant to Rule 6," after "violation of Rule 6".
 
-**2002**—Subd. (e). Pub. L. 107–296, §895, which directed certain amendments to subdiv. (e) and could not be executed because of the amendment by the Court by order dated Apr. 29, 2002, eff. Dec. 1, 2002, was repealed by Pub. L. 117–347, §323(a)(1)(A). Repeal to have no effect on amendment by Pub. L. 107–296, see Construction of 2023 Amendment note set out under section 2517 of this title. Section 895 of Pub. L. 107–296 provided:
+**2002**—Subd. (e). Pub. L. 107–296, §895, which directed certain amendments to subd. (e) and could not be executed because of the amendment by the Court by order dated Apr. 29, 2002, eff. Dec. 1, 2002, was repealed by Pub. L. 117–347, §323(a)(1)(A). Repeal to have no effect on amendment by Pub. L. 107–296, see Construction of 2023 Amendment note set out under section 2517 of this title. Section 895 of Pub. L. 107–296 provided:
 
 "Rule 6(e) of the Federal Rules of Criminal Procedure is amended—
 
@@ -6155,7 +6155,7 @@ Subd. (c)(3)(F). Pub. L. 98–473, §215(a)(8), substituted "pursuant to 18 U.S.
 
 Subd. (d). Pub. L. 98–473, §215(a)(9), struck out "imposition of sentence is suspended, or disposition is had under 18 U.S.C. §4205(c)," after "is imposed,".
 
-**1982**—Subdiv. (c)(2). Pub. L. 97–291 substituted provision directing that the presentence report contain any prior criminal record of the defendant, a statement of the circumstances of the commission of the offense and circumstances affecting the defendant's behavior, information concerning any harm, including financial, social, psychological, and physical harm, done to or loss suffered by any victim of the offense, and any other information that may aid the court in sentencing, including the restitution need of any victim of the offense, for provision requiring that the report of the presentence investigation shall contain any prior criminal record of the defendant and such information about his characteristics, his financial condition and the circumstances affecting his behavior as might be helpful in imposing sentence or in granting probation or in the correctional treatment of the defendant, and such other information as might be required by the court.
+**1982**—Subd. (c)(2). Pub. L. 97–291 substituted provision directing that the presentence report contain any prior criminal record of the defendant, a statement of the circumstances of the commission of the offense and circumstances affecting the defendant's behavior, information concerning any harm, including financial, social, psychological, and physical harm, done to or loss suffered by any victim of the offense, and any other information that may aid the court in sentencing, including the restitution need of any victim of the offense, for provision requiring that the report of the presentence investigation shall contain any prior criminal record of the defendant and such information about his characteristics, his financial condition and the circumstances affecting his behavior as might be helpful in imposing sentence or in granting probation or in the correctional treatment of the defendant, and such other information as might be required by the court.
 
 **1975**—Pub. L. 94–64 amended subds. (a)(1) and (c)(1), (3)(A), (D) generally.
 
@@ -6603,7 +6603,7 @@ Additionally, two other changes were made to the Committee Note: a reference to 
 
 #### References in Text ####
 
-The Supplemental Rules of the Federal Rules of Civil Procedure, referred to in subd. (b)(6)(C), (D), (7), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
+The Supplemental Rules of the Federal Rules of Civil Procedure, referred to in subd. (b)(6)(C), (D), (7), probably means the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions of the Federal Rules of Civil Procedure, which are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 The Federal Rules of Civil Procedure, referred to in subd. (c)(1)(B), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

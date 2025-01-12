@@ -20,7 +20,7 @@ For purposes of section 38, the amount of the investment credit determined under
 
 Pub. L. 117–169, title I, §13702(b)(1), (c), Aug. 16, 2022, 136 Stat. 1996, 1997, provided that, applicable to property placed in service after Dec. 31, 2024, this section is amended by adding at the end the following:
 
-*"(7) the clean electricity investment credit."*
+*(7) the clean electricity investment credit.*
 
 See 2022 Amendment note below.
 
@@ -30,7 +30,7 @@ See 2022 Amendment note below.
 
 **2022**—Par. (6). Pub. L. 117–167 amended par. (6) generally. Prior to amendment, text read as follows: "the qualifying therapeutic discovery project credit."
 
-Par. (7). Pub. L. 117–169, §13702(b)(1), added par. (7).
+Par. (7). Pub. L. 117–169 added par. (7).
 
 **2014**—Par. (4). Pub. L. 113–295 inserted a comma at end.
 

@@ -1,0 +1,3 @@
+### [§47131. Repealed. Pub. L. 118–63, title II, §218(d), May 16, 2024, 138 Stat. 1055] ###
+
+Section, Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1278, §47129; renumbered §47131, Pub. L. 103–305, title I, §113(a)(1), Aug. 23, 1994, 108 Stat. 1577; amended Pub. L. 106–181, title VII, §722, Apr. 5, 2000, 114 Stat. 165; Pub. L. 112–95, title I, §152(c), Feb. 14, 2012, 126 Stat. 34, related to annual report submitted to Congress on activities carried out under this subchapter during the prior fiscal year.

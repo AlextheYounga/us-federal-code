@@ -38,7 +38,7 @@ Sec.
 
 40118. Government-financed air transportation.
 
-40119. [Reserved].
+40119. Sensitive security information.
 
 40120. Relationship to other laws.
 
@@ -62,9 +62,15 @@ Sec.
 
 40130. FAA authority to conduct criminal history record checks.
 
+40131. National airspace system cyber threat management process.
+
+40132. National strategic plan for aviation workforce development.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2024**—Pub. L. 118–63, title II, §223(c), title III, §393(b), title IV, §441(b), May 16, 2024, 138 Stat. 1061, 1145, 1186, added items 40119, 40131, and 40132.
 
 **2018**—Pub. L. 115–254, div. K, title I, §1991(c)(4), Oct. 5, 2018, 132 Stat. 3627, substituted "[Reserved]" for "Security and research and development activities" in item 40119.
 
