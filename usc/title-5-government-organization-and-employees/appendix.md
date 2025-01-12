@@ -428,11 +428,11 @@ William J. Clinton.
 
 #### Continuance of Certain Federal Advisory Committees ####
 
-Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, provided:
+Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, provided:
 
 By the authority vested in me as President, by the Constitution and the laws of the United States of America, and consistent with the provisions of the Federal Advisory Committee Act, as amended (5 U.S.C. App.), it is hereby ordered as follows:
 
-Section 1. Each advisory committee listed below is continued or, to the extent necessary, reestablished until September 30, 2017.
+Section 1. Each advisory committee listed below is continued until September 30, 2019.
 
 (a) Committee for the Preservation of the White House; Executive Order 11145, as amended (Department of the Interior).
 
@@ -440,91 +440,75 @@ Section 1. Each advisory committee listed below is continued or, to the extent n
 
 (c) President's Committee on the National Medal of Science; Executive Order 11287, as amended (National Science Foundation).
 
-(d) Federal Advisory Council on Occupational Safety and Health; Executive Order 11612, as amended (Department of Labor).
+(d) President's Export Council; Executive Order 12131, as amended (Department of Commerce).
 
-(e) President's Export Council; Executive Order 12131, as amended (Department of Commerce).
+(e) President's Committee on the International Labor Organization; Executive Order 12216, as amended (Department of Labor).
 
-(f) President's Committee on the International Labor Organization; Executive Order 12216, as amended (Department of Labor).
+(f) President's National Security Telecommunications Advisory Committee; Executive Order 12382, as amended (Department of Homeland Security).
 
-(g) President's Committee on the Arts and the Humanities; Executive Order 12367, as amended (National Endowment for the Arts).
+(g) National Industrial Security Program Policy Advisory Committee; Executive Order 12829, as amended (National Archives and Records Administration).
 
-(h) President's National Security Telecommunications Advisory Committee; Executive Order 12382, as amended (Department of Homeland Security).
+(h) Trade and Environment Policy Advisory Committee; Executive Order 12905 (Office of the United States Trade Representative).
 
-(i) National Industrial Security Program Policy Advisory Committee; Executive Order 12829, as amended (National Archives and Records Administration).
+(i) Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation; Executive Order 12915 (Environmental Protection Agency).
 
-(j) Trade and Environment Policy Advisory Committee; Executive Order 12905 (Office of the United States Trade Representative).
+(j) National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation; Executive Order 12915 (Environmental Protection Agency).
 
-(k) Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation; Executive Order 12915 (Environmental Protection Agency).
+(k) Good Neighbor Environmental Board; Executive Order 12916, as amended (Environmental Protection Agency).
 
-(l) National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation; Executive Order 12915 (Environmental Protection Agency).
+(l) Presidential Advisory Council on HIV/AIDS; Executive Order 12963, as amended (Department of Health and Human Services).
 
-(m) Good Neighbor Environmental Board; Executive Order 12916 (Environmental Protection Agency).
+(m) President's Committee for People with Intellectual Disabilities; Executive Order 12994, as amended (Department of Health and Human Services).
 
-(n) Presidential Advisory Council on HIV/AIDS; Executive Order 12963, as amended (Department of Health and Human Services).
+(n) Invasive Species Advisory Committee; Executive Order 13112, as amended (Department of the Interior).
 
-(o) President's Committee for People with Intellectual Disabilities; Executive Order 12994, as amended (Department of Health and Human Services).
+(o) Marine Protected Areas Federal Advisory Committee; Executive Order 13158 (Department of Commerce).
 
-(p) Invasive Species Advisory Committee; Executive Order 13112, as amended (Department of the Interior).
+(p) Advisory Board on Radiation and Worker Health; Executive Order 13179 (Department of Health and Human Services).
 
-(q) Marine Protected Areas Federal Advisory Committee; Executive Order 13158 (Department of Commerce).
+(q) National Infrastructure Advisory Council; Executive Order 13231, as amended (Department of Homeland Security).
 
-(r) Advisory Board on Radiation and Worker Health; Executive Order 13179 (Department of Health and Human Services).
+(r) President's Council on Fitness, Sports, and Nutrition; Executive Order 13265, as amended (Department of Health and Human Services).
 
-(s) National Infrastructure Advisory Council; Executive Order 13231, as amended (Department of Homeland Security).
+(s) President's Advisory Commission on Asian Americans and Pacific Islanders; Executive Order 13515, as amended (Department of Education).
 
-(t) President's Council on Fitness, Sports, and Nutrition; Executive Order 13265, as amended (Department of Health and Human Services).
+(t) President's Council of Advisors on Science and Technology; Executive Order 13539, as amended (Department of Energy).
 
-(u) President's Advisory Council on Faith-Based and Neighborhood Partnerships; Executive Order 13498 (Department of Health and Human Services).
+(u) Interagency Task Force on Veterans Small Business Development; Executive Order 13540 (Small Business Administration).
 
-(v) President's Advisory Commission on Asian Americans and Pacific Islanders; Executive Order 13515, as amended (Department of Education).
+(v) State, Local, Tribal, and Private Sector (SLTPS) Policy Advisory Committee; Executive Order 13549 (National Archives and Records Administration).
 
-(w) Presidential Commission for the Study of Bioethical Issues; Executive Order 13521 (Department of Health and Human Services).
+(w) President's Advisory Commission on Educational Excellence for Hispanics; Executive Order 13555 (Department of Education).
 
-(x) National Council on Federal Labor-Management Relations; Executive Order 13522 (Office of Personnel Management).
+(x) President's Advisory Commission on Educational Excellence for African Americans; Executive Order 13621 (Department of Education).
 
-(y) U.S. General Services Administration Labor-Management Relations Council; Executive Order 13522 (General Services Administration).
+(y) President's Advisory Council on Doing Business in Africa; Executive Order 13675, as amended (Department of Commerce).
 
-(z) President's Board of Advisors on Historically Black Colleges and Universities; Executive Order 13532, as amended (Department of Education).
+(z) Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria; Executive Order 13676 (Department of Health and Human Services).
 
-(aa) President's Management Advisory Board; Executive Order 13538, as amended (General Services Administration).
+(aa) Commerce Spectrum Management Advisory Committee; initially established pursuant to Presidential Memorandum on Improving Spectrum Management for the 21st Century (November 30, 2004) (Department of Commerce).
 
-(bb) President's Council of Advisors on Science and Technology; Executive Order 13539, as amended (Department of Energy).
+(bb) National Space-Based Positioning, Navigation, and Timing Advisory Board; National Security Presidential Directive–39, "U.S. National Space-Based Position, Navigation, and Timing Policy" (December 8, 2004) (National Aeronautics and Space Administration).
 
-(cc) Interagency Task Force on Veterans Small Business Development; Executive Order 13540 (Small Business Administration).
+(cc) San Juan Islands National Monument Advisory Committee; Proclamation 8947 of March 25, 2013 (Department of the Interior).
 
-(dd) Advisory Group on Prevention, Health Promotion, and Integrative and Public Health; Executive Order 13544 (Department of Health and Human Services).
+(dd) Bears Ears National Monument Advisory Committee; Proclamation 9558 of December 28, 2016 (Department of the Interior).
 
-(ee) State, Local, Tribal, and Private Sector (SLTPS) Policy Advisory Committee; Executive Order 13549 (National Archives and Records Administration).
+(ee) Gold Butte National Monument Advisory Committee; Proclamation 9559 of December 28, 2016 (Department of the Interior).
 
-(ff) President's Advisory Commission on Educational Excellence for Hispanics; Executive Order 13555, re-established by Executive Order 13634 (Department of Education).
-
-(gg) President's Global Development Council; Executive Order 13600, as amended (United States Agency for International Development).
-
-(hh) President's Advisory Commission on Educational Excellence for African Americans; Executive Order 13621 (Department of Education).
-
-(ii) President's Advisory Council on Doing Business in Africa; Executive Order 13675 (Department of Commerce).
-
-(jj) Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria; Executive Order 13676 (Department of Health and Human Services).
-
-(kk) Advisory Council on Wildlife Trafficking; Executive Order 13648 (Department of the Interior).
-
-(ll) Commerce Spectrum Management Advisory Committee; initially established pursuant to Presidential Memorandum on Improving Spectrum Management for the 21st Century (November 30, 2004) (Department of Commerce).
-
-(mm) National Space-Based Positioning, Navigation, and Timing Advisory Board; National Security Policy Directive–39, "U.S. National Space-Based Position, Navigation, and Timing Policy" (December 8, 2004) (National Aeronautics and Space Administration).
-
-(nn) San Juan Islands National Monument Advisory Committee; Proclamation 8947 of March 25, 2013 (Department of the Interior).
+(ff) President's Board of Advisors on Historically Black Colleges and Universities; Executive Order 13779 (Department of Education).
 
 Sec. 2. Notwithstanding the provisions of any other Executive Order, the functions of the President under the Federal Advisory Committee Act that are applicable to the committees listed in section 1 of this order shall be performed by the head of the department or agency designated after each committee, in accordance with the regulations, guidelines, and procedures established by the Administrator of General Services.
 
-Sec. 3. Sections 1 and 2 of Executive Order 13652 of September 30, 2013, are superseded by sections 1 and 2 of this order.
+Sec. 3. Sections 1 and 2 of Executive Order 13708 of September 30, 2015, are hereby superseded by sections 1 and 2 of this order. Executive Order 13805 of July 19, 2017 (Establishing a Presidential Advisory Council on Infrastructure) is hereby revoked.
 
-Sec. 4. [Amended Ex. Ord. No. 12829, set out as a note under section 3161 of Title 50, War and National Defense]
+Sec. 4. This order shall be effective September 30, 2017.
 
-Sec. 5. This order shall be effective September 30, 2015.
-
-Barack Obama.
+Donald J. Trump.
 
 Provisions providing for the continuance of certain Federal advisory committees were contained in the following:
+
+Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, partially superseded by Ex. Ord. No. 13811, §3, Sept. 29, 2017, 82 F.R. 46365.
 
 Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, partially superseded by Ex. Ord. No. 13708, §3, Sept. 30, 2015, 80 F.R. 60273.
 
@@ -9593,7 +9577,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 5. Performance of Functions ####
 
-[Repealed. Pub. L. 87–651, title III, §307C, Sept. 7, 1962, 76 Stat. 526. Section authorized the Secretary of Defense from time to time to make such provisions as he deemed appropriate authorizing the performance by any other officer, or by any agency or employee, of the Department of any function of the Secretary..]
+[Repealed. Pub. L. 87–651, title III, §307C, Sept. 7, 1962, 76 Stat. 526. Section authorized the Secretary of Defense from time to time to make such provisions as he deemed appropriate authorizing the performance by any other officer, or by any agency or employee, of the Department of any function of the Secretary.]
 
 #### Sec. 6. Miscellaneous Provisions ####
 

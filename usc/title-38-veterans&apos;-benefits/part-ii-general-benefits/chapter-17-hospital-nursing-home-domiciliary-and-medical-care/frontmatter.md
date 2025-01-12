@@ -138,7 +138,7 @@ Sec.
 
 1744. Hiring and retention of nurses: payments to assist States.
 
-1745. Nursing home care and medications for veterans with service-connected disabilities.
+1745. Nursing home care, adult day health care, and medications for veterans with service-connected disabilities.
 
 #### SUBCHAPTER VI—SICKLE CELL ANEMIA ####
 
@@ -175,6 +175,8 @@ Sec.
 1787. Health care of family members of veterans stationed at Camp Lejeune, North Carolina.
 
 #### Amendments ####
+
+**2018**—Pub. L. 115–159, §2(c), Mar. 27, 2018, 132 Stat. 1245, substituted "Nursing home care, adult day health care, and medications for veterans with service-connected disabilities" for "Nursing home care and medications for veterans with service-connected disabilities" in item 1745.
 
 **2016**—Pub. L. 114–315, title VI, §§604(b), 605(c), 606(b), title VIII, §802(2), Dec. 16, 2016, 130 Stat. 1571, 1572, 1575, 1591, added items 1705A, 1720H, and 1784A and substituted "Traumatic brain injury: comprehensive program for long-term rehabilitation" for "Traumatic brain injury: comprehensive plan for long-term rehabilitation" in item 1710D and "Traumatic brain injury: use of non-Department facilities for rehabilitation" for "Traumatic brain injury: use of non-Departmental facilities for rehabilitation" in item 1710E.
 

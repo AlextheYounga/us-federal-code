@@ -6,6 +6,10 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2018 Amendment ####
+
+Pub. L. 115–164, §1, Apr. 11, 2018, 132 Stat. 1253, provided that: "This Act [enacting section 2421A of this title, amending sections 1591 and 1595 of this title and section 230 of Title 47, Telecommunications, and enacting provisions set out as notes under section 230 of Title 47] may be cited as the 'Allow States and Victims to Fight Online Sex Trafficking Act of 2017'."
+
 #### Short Title of 2016 Amendment ####
 
 Pub. L. 114–316, §1, Dec. 16, 2016, 130 Stat. 1593, provided that: "This Act [enacting section 3273 of this title and provisions set out as a note under section 3273 of this title] may be cited as the 'Promoting Travel, Commerce, and National Security Act of 2016'."
@@ -72,7 +76,7 @@ Pub. L. 111–174, §1, May 27, 2010, 124 Stat. 1216, provided that: "This Act [
 
 #### Short Title of 2009 Amendment ####
 
-Pub. L. 111–84, div. E, §4701, Oct. 28, 2009, 123 Stat. 2835, which set out short title of division E of Pub. L. 111–84, was transferred to a note under section 10101 of Title 34, Crime Control and Law Enforcement.
+Pub. L. 111–84, div. E, §4701, Oct. 28, 2009, 123 Stat. 2835, which set out short title of division E of Pub. L. 111–84, was editorially reclassified and is set out as a note under section 10101 of Title 34, Crime Control and Law Enforcement.
 
 Pub. L. 111–79, §1, Oct. 19, 2009, 123 Stat. 2086, provided that: "This Act [enacting section 3512 of this title and amending sections 2703, 2711, and 3127 of this title] may be cited as the 'Foreign Evidence Request Efficiency Act of 2009'."
 

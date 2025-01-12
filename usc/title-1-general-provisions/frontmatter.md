@@ -17,11 +17,11 @@ This title has been made positive law by section 1 of act July 30, 1947, ch. 388
 
 #### Repeals ####
 
-Section 2 of act July 30, 1947, provided that the sections or parts thereof of the Statutes at Large or the Revised Statutes covering provisions codified in this Act are repealed insofar as the provisions appeared in former Title 1, and provided that any rights or liabilities now existing under the repealed sections or parts thereof shall not be affected by the repeal.
+Act July 30, 1947, ch. 388, §2, 61 Stat. 640, provided that the sections or parts thereof of the Statutes at Large or the Revised Statutes covering provisions codified in this Act are repealed insofar as the provisions appeared in former Title 1, and provided that any rights or liabilities now existing under the repealed sections or parts thereof shall not be affected by the repeal.
 
 #### Writs of Error ####
 
-Section 23 of act June 25, 1948, ch. 646, 62 Stat. 990, provided that: "All Acts of Congress referring to writs of error shall be construed as amended to the extent necessary to substitute appeal for writ of error."
+Act June 25, 1948, ch. 646, §23, 62 Stat. 990, provided that: "All Acts of Congress referring to writs of error shall be construed as amended to the extent necessary to substitute appeal for writ of error."
 
 |*Title 1 Former Sections*|*Revised Statutes<br/><br/>Statutes at Large*|*Title 1 New Sections*|
 |-------------------------|---------------------------------------------|----------------------|

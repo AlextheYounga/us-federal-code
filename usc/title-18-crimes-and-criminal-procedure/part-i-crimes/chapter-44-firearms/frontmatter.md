@@ -58,4 +58,4 @@ Memorandum of President of the United States, Jan. 16, 2013, 78 F.R. 4301, which
 
 #### Promoting Smart Gun Technology ####
 
-Memorandum of President of the United States, Jan. 4, 2016, 81 F.R. 719, which require the Department of Defense, the Department of Justice, and the Department of Homeland Security to conduct or sponsor research into gun safety technology, review such research, and explore potential ways to further its use and development to more broadly improve gun safety, was editorially reclassified and is set out as a note under section 40901 of Title 34, Crime Control and Law Enforcement.
+Memorandum of President of the United States, Jan. 4, 2016, 81 F.R. 719, which requires the Department of Defense, the Department of Justice, and the Department of Homeland Security to conduct or sponsor research into gun safety technology, review such research, and explore potential ways to further its use and development to more broadly improve gun safety, was editorially reclassified and is set out as a note under section 40901 of Title 34, Crime Control and Law Enforcement.

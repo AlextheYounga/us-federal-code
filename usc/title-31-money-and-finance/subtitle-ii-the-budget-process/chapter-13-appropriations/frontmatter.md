@@ -64,7 +64,11 @@ Sec.
 
 1354. Limitation on use of appropriated funds for contracts with entities not meeting veterans' employment reporting requirements.
 
+1355. Prohibition on use of funds for portraits.
+
 #### Amendments ####
+
+**2018**—Pub. L. 115–158, §2(b), Mar. 27, 2018, 132 Stat. 1242, added item 1355. Item was added to the analysis for this chapter to reflect the probable intent of Congress, notwithstanding directory language amending the analysis for subchapter III of this chapter.
 
 **1998**—Pub. L. 105–339, §7(b)(2), Oct. 31, 1998, 112 Stat. 3189, added item 1354.
 
