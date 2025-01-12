@@ -16,15 +16,21 @@ Sec.
 
 485. Monthly counterterrorism operations briefings.
 
-[486, 487. Repealed.]
+486. Annual reports on racial and ethnic demographics in the military justice system.
+
+[487. Repealed.]
 
 488. Management and review of electromagnetic spectrum.
 
 [489 to 491. Repealed or Renumbered.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. B, title XXVIII, §2871(c), Jan. 1, 2021, 134 Stat. 4366, added item 483.
+**2021**—Pub. L. 117–81, div. A, title V, §549G(a)(2), Dec. 27, 2021, 135 Stat. 1728, added item 486.
+
+Pub. L. 116–283, div. B, title XXVIII, §2871(c), Jan. 1, 2021, 134 Stat. 4366, added item 483.
 
 **2019**—Pub. L. 116–92, div. A, title III, §361(c), Dec. 20, 2019, 133 Stat. 1327, added item 482 and struck out former item 482 "Quarterly reports: personnel and unit readiness".
 
@@ -61,6 +67,8 @@ Pub. L. 105–261, div. A, title III, §373(d)(2), Oct. 17, 1998, 112 Stat. 1992
 **1996**—Pub. L. 104–201, div. A, title V, §571(c)(2), title XI, §§1112(a)(1), 1123(a)(4), Sept. 23, 1996, 110 Stat. 2532, 2677, 2688, substituted "Race relations, gender discrimination, and hate group activity: annual survey and report" for "Racial and ethnic issues; biennial survey; biennial report" in item 451, renumbered chapter 22 of this title as this chapter, and redesignated items 451 and 452 as 481 and 482, respectively.
 
 Pub. L. 104–106, div. A, title III, §361(a)(2), Feb. 10, 1996, 110 Stat. 273, added item 452.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Questions in Surveys Regarding Extremist Activity in the Workplace ####
 

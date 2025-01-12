@@ -38,6 +38,8 @@ Sec.
 
 1446. Restriction on participation.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1999**—Pub. L. 106–65, div. A, title VI, §655(b), Oct. 5, 1999, 113 Stat. 667, added item 1436a.

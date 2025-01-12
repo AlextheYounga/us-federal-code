@@ -12,6 +12,8 @@ Sec.
 
 7233. Requirement of exemplary conduct.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 345 of this title as this chapter and items 3572, 3575, 3579, 3581, and 3583 as 7222, 7225, 7229, 7231, and 7233, respectively.

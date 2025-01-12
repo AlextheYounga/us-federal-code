@@ -26,6 +26,8 @@ This section shall take effect upon promulgation of Forest Service regulations f
 
 (Pub. L. 106–113, div. B, §1000(a)(3) [title III, §331], Nov. 29, 1999, 113 Stat. 1535, 1501A–196; Pub. L. 108–447, div. E, title III, §345, Dec. 8, 2004, 118 Stat. 3105; Pub. L. 109–54, title IV, §425, Aug. 2, 2005, 119 Stat. 555; Pub. L. 110–161, div. F, title IV, §416, Dec. 26, 2007, 121 Stat. 2148; Pub. L. 113–76, div. G, title IV, §425, Jan. 17, 2014, 128 Stat. 344.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly set out as a note under section 497 of this title.

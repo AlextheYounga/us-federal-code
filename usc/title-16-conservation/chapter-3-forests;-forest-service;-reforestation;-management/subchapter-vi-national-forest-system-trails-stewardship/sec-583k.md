@@ -14,6 +14,8 @@ Congress finds as follows:
 
 (Pub. L. 114–245, §2, Nov. 28, 2016, 130 Stat. 990.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 114–245, §1(a), Nov. 28, 2016, 130 Stat. 990, provided that: "This Act [enacting this subchapter and amending section 558c of this title] may be cited as the 'National Forest System Trails Stewardship Act'."

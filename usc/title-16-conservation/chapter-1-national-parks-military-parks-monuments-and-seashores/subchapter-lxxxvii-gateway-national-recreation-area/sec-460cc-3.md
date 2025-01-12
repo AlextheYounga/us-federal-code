@@ -36,6 +36,8 @@ The Secretary or his designee shall, from time to time, consult with the members
 
 (Pub. L. 92–592, §4, Oct. 27, 1972, 86 Stat. 1310; Pub. L. 96–344, §11(2), Sept. 8, 1980, 94 Stat. 1136; Pub. L. 97–232, §2, Aug. 9, 1982, 96 Stat. 259.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1982**—Subsec. (a). Pub. L. 97–232 substituted "twenty" for "ten".

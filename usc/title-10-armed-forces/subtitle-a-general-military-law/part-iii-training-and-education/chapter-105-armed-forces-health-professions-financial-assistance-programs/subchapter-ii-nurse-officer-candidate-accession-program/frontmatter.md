@@ -4,6 +4,8 @@ Sec.
 
 2130a. Financial assistance: nurse officer candidates.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior subchapter II heading and analysis consisting of items 2128 to 2130 was repealed and sections 2128 to 2130 of this title were renumbered sections 16201 to 16203 of this title, respectively, by Pub. L. 103–337, div. A, title XVI, §1663(c)(2)–(4)(A), (7)(B), Oct. 5, 1994, 108 Stat. 3007, 3008.

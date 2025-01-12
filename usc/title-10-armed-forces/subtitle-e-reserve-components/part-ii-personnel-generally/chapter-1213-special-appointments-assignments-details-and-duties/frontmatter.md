@@ -10,6 +10,8 @@ Sec.
 
 [12505. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Pub. L. 106–398, §1 [[div. A], title V, §507(f)(2)], Oct. 30, 2000, 114 Stat. 1654, 1654A–105, struck out item 12505 "Selection of officers for certain senior reserve component positions".

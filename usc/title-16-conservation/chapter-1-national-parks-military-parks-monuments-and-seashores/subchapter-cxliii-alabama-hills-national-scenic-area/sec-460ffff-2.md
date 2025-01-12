@@ -30,6 +30,8 @@ Pending completion of the management plan, the Secretary shall manage the Scenic
 
 (Pub. L. 103–433, title XIV, §1403, as added Pub. L. 116–9, title I, §1441, Mar. 12, 2019, 133 Stat. 709.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Definitions ####
 
 For definition of "Secretary" as used in this section, see section 3 of Pub. L. 103–433, set out as a note under section 410aaa of this title.

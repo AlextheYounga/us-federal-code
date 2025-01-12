@@ -4,6 +4,8 @@ Upon a determination by the Secretary of the Interior that sufficient land and i
 
 (June 8, 1949, ch. 180, §2, 63 Stat. 158; Pub. L. 98–422, Sept. 25, 1984, 98 Stat. 1615.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Pub. L. 98–422 provided:

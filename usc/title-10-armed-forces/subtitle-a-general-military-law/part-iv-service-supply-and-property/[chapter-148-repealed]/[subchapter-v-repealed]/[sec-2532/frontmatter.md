@@ -1,0 +1,45 @@
+### [§2532. Renumbered §4852] ###
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Review of Offset Arrangements by Secretary of Defense ####
+
+Pub. L. 108–87, title VIII, §8138, Sept. 30, 2003, 117 Stat. 1106, directed the Secretary of Defense to review contractual offset arrangements to which the policy established under this section applied, memoranda of understanding and related agreements to which the limitation in section 2531(c) of this title [now 10 U.S.C. 4851(c)] applied that had been entered into with a country with respect to which such contractual offset arrangements had been entered into, and waivers granted with respect to a foreign country under section 2534(d)(3) of this title [now 10 U.S.C. 4864(d)(3)]; determine the effects of the use of such arrangements, memoranda of understanding, agreements, and waivers on the national technology and industrial base; and submit a report on the results of the review to Congress not later than Mar. 1, 2005.
+
+#### Contractual Offset Arrangements; Congressional Statement of Findings ####
+
+Pub. L. 100–456, div. A, title VIII, §825(a), Sept. 29, 1988, 102 Stat. 2019, provided that: "Congress makes the following findings:
+
+"(1) Many contracts entered into by United States firms for the supply of weapon systems or defense-related items to foreign countries and foreign firms are subject to contractual arrangements under which United States firms must agree—
+
+"(A) to have a specified percentage of work under, or monetary amount of, the contract performed by one or more foreign firms;
+
+"(B) to purchase a specified amount or quantity of unrelated goods or services from domestic sources of such foreign countries; or
+
+"(C) to invest a specified amount in domestic businesses of such foreign countries.
+
+Such contractual arrangements, known as 'offsets', are a component of international trade and could have an impact on United States defense industry opportunities in domestic and foreign markets.
+
+"(2) Some United States contractors and subcontractors may be adversely affected by such contractual arrangements.
+
+"(3) Many contracts which provide for or are subject to offset arrangements require, in connection with such arrangements, the transfer of United States technology to foreign firms.
+
+"(4) The use of such transferred technology by foreign firms in conjunction with foreign trade practices permitted under the trade policies of the countries of such firms can give foreign firms a competitive advantage against United States firms in world markets for products using such technology.
+
+"(5) A purchase of defense equipment pursuant to an offset arrangement may increase the cost of the defense equipment to the purchasing country and may reduce the amount of defense equipment that a country may purchase.
+
+"(6) The exporting of defense equipment produced in the United States is important to maintain the defense industrial base of the United States, lower the unit cost of such equipment to the Department of Defense, and encourage the standardized utilization of United States equipment by the allies of the United States."
+
+#### Negotiations With Countries Requiring Offset Arrangements ####
+
+Pub. L. 100–456, div. A, title VIII, §825(c), Sept. 29, 1988, 102 Stat. 2021, as amended by Pub. L. 101–189, div. A, title VIII, §816, Nov. 29, 1989, 103 Stat. 1501, provided that:
+
+"(1) The President shall enter into negotiations with foreign countries that have a policy of requiring an offset arrangement in connection with the purchase of defense equipment or supplies from the United States. The negotiations should be conducted with a view to achieving an agreement with the countries concerned that would limit the adverse effects that such arrangements have on the defense industrial base of each such country. Every effort shall be made to achieve such agreements within two years after September 29, 1988.
+
+"(2) In the negotiation or renegotiation of any memorandum of understanding between the United States and one or more foreign countries relating to the reciprocal procurement of defense equipment and supplies or research and development, the President shall make every effort to achieve an agreement with the country or countries concerned that would limit the adverse effects that offset arrangements have on the defense industrial base of the United States."
+
+[For delegation of functions of President under section 825(c) of Pub. L. 100–456 to Secretary of Defense and United States Trade Representative, see section 5–201 of Ex. Ord. No. 12661, 54 F.R. 779, set out as a note under section 2901 of Title 19, Customs Duties.]
+
+#### Report to Congress on Offset Arrangements Required by Foreign Countries and Firms; Discussion of Policy Options ####
+
+Pub. L. 100–456, div. A, title VIII, §825(d), Sept. 29, 1988, 102 Stat. 2021, provided that, not later than Nov. 15, 1988, the President was to submit to Congress a comprehensive report on contractual offset arrangements required of United States firms for the supply of weapon systems or defense-related items to foreign countries or foreign firms, and, not later than Mar. 15, 1990, the President was to transmit to Congress a report containing a discussion of appropriate actions to be taken by the United States with respect to purchases from United States firms by a foreign country (or a firm of that country) when that country or firm required an offset arrangement in connection with the purchase of defense equipment or supplies in favor of such country.

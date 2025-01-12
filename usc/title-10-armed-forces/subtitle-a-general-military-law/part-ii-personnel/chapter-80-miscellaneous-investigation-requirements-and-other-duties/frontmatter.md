@@ -10,6 +10,8 @@ Sec.
 
 1562. Database on domestic violence incidents.
 
+1562a. Complaints of retaliation by victims of sexual assault or sexual harassment and related persons: tracking by Department of Defense.
+
 1563. Consideration of proposals from Members of Congress for honorary promotions: procedures for review and promotion.
 
 1563a. Honorary promotions on the initiative of the Department of Defense.
@@ -34,13 +36,27 @@ Sec.
 
 1567a. Mandatory notification of issuance of military protective order to civilian law enforcement.
 
+#### Amendment of Analysis ####
+
+Pub. L. 117–81, div. A, title V, §543(b), (c), Dec. 27, 2021, 135 Stat. 1710, provided that, effective on the date that is two years after Dec. 27, 2021, this analysis is amended by striking the item relating to section 1561 and inserting the following new item:
+
+"1561. Complaints of sexual harassment: independent investigation."
+
+See 2021 Amendment note below.
+
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 80, comprised of sections 1571 to 1577, relating to Exemplary Rehabilitation Certificates, was repealed by Pub. L. 90–83, §3(2), Sept. 11, 1967, 81 Stat. 220.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title V, §§523(c), 532(a)(2), Jan. 1, 2021, 134 Stat. 3599, 3602, added items 1561b, 1563, and 1563a and struck out former item 1563 "Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review". Item 1561b was added after item 1561a to reflect the probable intent of Congress, notwithstanding directory language adding it after item 1561b.
+**2021**—Pub. L. 117–81, div. A, title V, §544(b), Dec. 27, 2021, 135 Stat. 1711, added item 1562a.
+
+Pub. L. 117–81, div. A, title V, §543(b), (c), Dec. 27, 2021, 135 Stat. 1710, added item 1561 and struck out former item 1561 "Complaints of sexual harassment: investigation by commanding officers", effective two years after Dec. 27, 2021.
+
+Pub. L. 116–283, div. A, title V, §§523(c), 532(a)(2), Jan. 1, 2021, 134 Stat. 3599, 3602, added items 1561b, 1563, and 1563a and struck out former item 1563 "Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review". Item 1561b was added after item 1561a to reflect the probable intent of Congress, notwithstanding directory language adding it after item 1561b.
 
 **2018**—Pub. L. 115–232, div. A, title XVI, §1622(b), Aug. 13, 2018, 132 Stat. 2118, added item 1564b.
 
@@ -63,6 +79,42 @@ Pub. L. 107–311, §2(b), Dec. 2, 2002, 116 Stat. 2455, added item 1561a.
 Pub. L. 106–398, §1 [[div. A], title V, §542(b), title X, §1072(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–115, 1654A–277, added items 1563 and 1564.
 
 **1999**—Pub. L. 106–65, div. A, title V, §594(b), Oct. 5, 1999, 113 Stat. 644, added item 1562.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Annual Primary Prevention Research Agenda ####
+
+Pub. L. 117–81, div. A, title V, §549A, Dec. 27, 2021, 135 Stat. 1721, provided that:
+
+"(a) In General.—Beginning on October 1, 2022, and annually on the first day of each fiscal year thereafter, the Secretary of Defense shall publish a Department of Defense research agenda for that fiscal year, focused on the primary prevention of interpersonal and self-directed violence, including sexual assault, sexual harassment, domestic violence, child abuse and maltreatment, problematic juvenile sexual behavior, suicide, workplace violence, and substance misuse.
+
+"(b) Elements.—Each annual primary prevention research agenda published under subsection (a) shall—
+
+"(1) identify research priorities for that fiscal year;
+
+"(2) assign research projects and tasks to the military departments and other components of the Department of Defense, as the Secretary of Defense determines appropriate;
+
+"(3) allocate or direct the allocation of appropriate resourcing for each such project and task; and
+
+"(4) be directive in nature and enforceable across all components of the Department of Defense, including with regard to—
+
+"(A) providing for timely access to records, data and information maintained by any component of the Department of Defense that may be required in furtherance of an assigned research project or task;
+
+"(B) ensuring the sharing across all components of the Department of Defense of the findings and the outcomes of any research project or task; and
+
+"(C) any other matter determined by the Secretary of Defense.
+
+"(c) Guiding Principles.—The primary prevention research agenda should, as determined by the Secretary of Defense—
+
+"(1) reflect a preference for research projects and tasks with the potential to yield or contribute to the development and implementation of actionable primary prevention strategies in the Department of Defense;
+
+"(2) be integrated, so as to discover or test cross-cutting interventions across the spectrum of interpersonal and self-directed violence;
+
+"(3) incorporate collaboration with other Federal departments and agencies, State governments, academia, industry, federally funded research and development centers, non-profit organizations, and other organizations outside of the Department of Defense; and
+
+"(4) minimize unnecessary duplication of effort.
+
+"(d) Budgeting.—The Secretary of Defense shall create a unique Program Element for and shall prioritize recurring funding to ensure the continuity of research pursuant to the annual primary prevention research agenda."
 
 #### Multidisciplinary Board To Evaluate Suicide Events ####
 

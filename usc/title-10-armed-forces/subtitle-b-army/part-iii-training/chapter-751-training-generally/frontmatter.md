@@ -28,6 +28,8 @@ Sec.
 
 7422. Degree granting authority for United States Army Armament Graduate School.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–92, div. A, title V, §553(a)(2), Dec. 20, 2019, 133 Stat. 1387, added item 7422.

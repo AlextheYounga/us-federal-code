@@ -28,6 +28,8 @@ Sec.
 
 7442. Cadets: appointment; numbers, territorial distribution.
 
+7442a. Cadets: nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate.
+
 7443. Cadets: appointment; to bring Corps to full strength.
 
 7446. Cadets: requirements for admission.
@@ -64,7 +66,11 @@ Sec.
 
 7462. Support of athletic programs.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title V, §553(a)(2), Dec. 27, 2021, 135 Stat. 1736, added item 7442a.
 
 2018–Pub. L. 115–232, div. A, title VIII, §808(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 403 of this title as this chapter and items 4331 to 4362 as 7431 to 7462, respectively.
 

@@ -194,6 +194,8 @@ Sec.
 
 3372. Monitoring mineral investments under Belt and Road Initiative of People's Republic of China.
 
+3373. Establishment of office, organizational structure, and authorities to address unidentified aerial phenomena.
+
 #### SUBCHAPTER V—MANAGEMENT OF COUNTERINTELLIGENCE ACTIVITIES ####
 
 3381. Coordination of counterintelligence activities.

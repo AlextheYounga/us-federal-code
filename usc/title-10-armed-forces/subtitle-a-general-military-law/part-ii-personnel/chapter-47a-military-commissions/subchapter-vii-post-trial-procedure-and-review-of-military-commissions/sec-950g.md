@@ -16,6 +16,8 @@
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2603; amended Pub. L. 112–81, div. A, title X, §1034(d), Dec. 31, 2011, 125 Stat. 1573.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 950g, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2622, related to review by the United States Court of Appeals for the District of Columbia Circuit and the Supreme Court, prior to the general amendment of this chapter by Pub. L. 111–84.

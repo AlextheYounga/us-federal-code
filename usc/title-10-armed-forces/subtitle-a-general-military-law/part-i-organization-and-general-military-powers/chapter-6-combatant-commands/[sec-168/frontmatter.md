@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 103–337, div. A, title XIII, §1316(a)(1), Oct. 5, 1994, 108 Stat. 2898; amended Pub. L. 104–106, div. A, title IV, §416, Feb. 10, 1996, 110 Stat. 289; Pub. L. 108–375, div. A, title IV, §416(e), Oct. 28, 2004, 118 Stat. 1868; Pub. L. 110–181, div. A, title XII, §1201, Jan. 28, 2008, 122 Stat. 363; Pub. L. 110–417, [div. A], title XII, §1202(a), Oct. 14, 2008, 122 Stat. 4622, related to military-to-military contacts and comparable activities.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Update of Policy Guidance on Authority for Assignment of Civilian Employees of the Department of Defense as Advisors to Foreign Ministries of Defense and Regional Organizations ####
 
 Pub. L. 113–291, div. A, title X, §1047(b), Dec. 19, 2014, 128 Stat. 3495, required the Under Secretary of Defense for Policy to issue an update of the policy of the Department of Defense for assignment of civilian employees of the Department as advisors to foreign ministries of defense and regional organizations under the authority in section 1081 of Pub. L. 112–81, formerly set out as a note under this section.

@@ -22,6 +22,8 @@
 
 (Added Pub. L. 112–81, div. A, title X, §1091(a), Dec. 31, 2011, 125 Stat. 1604; amended Pub. L. 114–92, div. A, title X, §1081(a)(2), Nov. 25, 2015, 129 Stat. 1000; Pub. L. 114–328, div. A, title XVI, §1662(b), Dec. 23, 2016, 130 Stat. 2614.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsecs. (b), (c), (f). Pub. L. 114–328 added subsecs. (b) and (c), redesignated former subsec. (c) as (f), and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "Department of Defense critical infrastructure security information covered by a written determination under subsection (a) that is provided to a State or local government shall remain under the control of the Department of Defense."

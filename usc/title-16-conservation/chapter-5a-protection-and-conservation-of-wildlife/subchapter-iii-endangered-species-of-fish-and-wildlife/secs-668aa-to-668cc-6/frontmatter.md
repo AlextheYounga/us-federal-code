@@ -20,6 +20,8 @@ Section 668cc–5, Pub. L. 91–135, §5, Dec. 5, 1969, 83 Stat. 278, covered in
 
 Section 668cc–6, Pub. L. 91–135, §6, Dec. 5, 1969, 83 Stat. 278, called for coordination of administration of provisions relating to endangered species of fish and wildlife with animal quarantine and tariff laws, and provided for non-impairment of functions of Secretaries of Agriculture and Treasury under agriculture and tariff laws, including imports.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Dec. 28, 1973, see section 16 of Pub. L. 93–205, set out as an Effective Date note under section 1531 of this title.

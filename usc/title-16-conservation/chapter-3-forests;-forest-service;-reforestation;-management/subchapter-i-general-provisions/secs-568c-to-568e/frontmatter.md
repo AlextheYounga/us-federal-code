@@ -6,6 +6,8 @@ Section 568d, acts Aug. 25, 1950, ch. 781, §2, 64 Stat. 473; Sept. 25, 1962, Pu
 
 Section 568e, act May 28, 1956, ch. 327, title IV, §401, 70 Stat. 207, set forth provisions relating to assistance to States for tree planting and reforestation through the Secretary of Agriculture.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1978, see section 17 of Pub. L. 95–313, set out as an Effective Date note under section 2101 of this title.

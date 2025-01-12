@@ -8,6 +8,8 @@ Sec.
 
 8103. Suspension: preceding sections.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(2)(B), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 533 of this title as this chapter and items 5441, 5450, and 5451 as 8101 to 8103, respectively.

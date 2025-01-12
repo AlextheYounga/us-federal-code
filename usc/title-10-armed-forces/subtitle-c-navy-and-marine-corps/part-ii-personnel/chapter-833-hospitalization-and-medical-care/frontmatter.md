@@ -8,6 +8,8 @@ Sec.
 
 8283. Emergency medical treatment: reimbursement for expense.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 833, consisting of sections 8251 to 8263, related to enlistments, prior to renumbering as chapter 913 of this title.

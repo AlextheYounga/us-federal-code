@@ -4,6 +4,8 @@ For the purpose of carrying out the provisions of this joint resolution on natio
 
 (Oct. 11, 1949, ch. 674, §2, 63 Stat. 763.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This joint resolution, referred to in text, means Joint Res. 53, Oct. 11, 1949, ch. 674, 63 Stat. 762, which is classified to this section and section 581j of this title.

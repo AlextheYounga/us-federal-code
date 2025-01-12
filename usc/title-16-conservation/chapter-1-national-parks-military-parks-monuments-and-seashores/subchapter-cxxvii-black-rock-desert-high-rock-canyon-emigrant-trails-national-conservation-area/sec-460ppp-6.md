@@ -60,6 +60,8 @@ Congress—
 
 (Pub. L. 106–554, §1(a)(4) [div. B, title I, §125 [§8]], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–356; Pub. L. 107–63, title I, §135(a), (c)–(e), Nov. 5, 2001, 115 Stat. 443.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Wilderness Act, referred to in subsecs. (a), (b), (d), (e)(2), and (f), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.

@@ -22,6 +22,8 @@ Sec.
 
 8900. Evidence admissible when witness is not available.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 657 of this title as this chapter and items 7721 to 7730 as 8891 to 8900, respectively.

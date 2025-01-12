@@ -4,9 +4,13 @@ If any person shall willfully destroy, mutilate, deface, injure, or remove any m
 
 (Mar. 3, 1927, ch. 374, §10, 44 Stat. 1401; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933; Pub. L. 86–443, §2, Apr. 22, 1960, 74 Stat. 82.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Battlefield" substituted in text for "park" in view of redesignation of Stones River National Military Park as Stones River National Battlefield by Pub. L. 86–443. See section 426l of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

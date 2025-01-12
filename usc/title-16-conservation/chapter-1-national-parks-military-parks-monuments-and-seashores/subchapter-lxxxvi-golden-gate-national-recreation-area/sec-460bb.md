@@ -4,6 +4,8 @@ In order to preserve for public use and enjoyment certain areas of Marin and San
 
 (Pub. L. 92–589, §1, Oct. 27, 1972, 86 Stat. 1299.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title of 2005 Amendment ####
 
 Pub. L. 109–131, title II, §201, Dec. 20, 2005, 119 Stat. 2568, provided that: "This title [amending section 460bb–1 of this title] may be cited as the 'Rancho Corral de Tierra Golden Gate National Recreation Area Boundary Adjustment Act'."

@@ -39,6 +39,8 @@ Chap. Sec.
 
 847. Death Benefits; Care of the Dead 8392
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 533 to 577 as 811 to 847 and redesignated section numbers 5441 to 6521 as 8101 to 8392. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.
@@ -48,6 +50,8 @@ Chap. Sec.
 **1980**—Pub. L. 96–513, title V, §503(16), Dec. 12, 1980, 94 Stat. 2912, inserted "of Naval Reserve and Marine Corps Reserve" after "Strength" in item for chapter 531, inserted "for Reserve Officers" after "Running Mates" in item for chapter 541, struck out item for chapter 543 "Selection Boards", added item for chapter 544, and struck out items for chapter 545 "Promotions" and for chapter 547 "Examinations for Promotion".
 
 **1958**—Pub. L. 85–861, §1(134), Sept. 2, 1958, 72 Stat. 1507, added item for chapter 549.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Suspension of Certain Sections of Title 10 and Amendments to Officer Personnel Act of 1947 ####
 

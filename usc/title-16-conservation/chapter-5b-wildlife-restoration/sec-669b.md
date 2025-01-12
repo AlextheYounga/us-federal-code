@@ -36,6 +36,8 @@ Notwithstanding subsections (a) and (b) of this section, with respect to amounts
 
 (Sept. 2, 1937, ch. 899, §3, 50 Stat. 917; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, §101, Oct. 23, 1970, 84 Stat. 1097; Pub. L. 92–558, title I, §101(a), Oct. 25, 1972, 86 Stat. 1172; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–233, §7(a)(1), Dec. 13, 1989, 103 Stat. 1974; Pub. L. 106–553, §1(a)(2) [title IX, §902(d)], Dec. 21, 2000, 114 Stat. 2762, 2762A–120; Pub. L. 109–75, §1, Sept. 29, 2005, 119 Stat. 2034; Pub. L. 114–113, div. G, title I, §120, Dec. 18, 2015, 129 Stat. 2552.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Migratory Bird Conservation Act, referred to in subsec. (a), is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
@@ -58,6 +60,8 @@ Subsecs. (c), (d). Pub. L. 106–553, §1(a)(2) [title IX, §902(d)(2)], added s
 
 **1970**—Pub. L. 91–503 inserted provisions for the deposit of the 10 per cent tax on pistols and revolvers under section 4181 of title 26 into the Federal aid to wildlife restoration fund beginning in fiscal year 1971.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1989 Amendment ####
 
 Pub. L. 101–233, §7(a)(3), Dec. 13, 1989, 103 Stat. 1975, provided that: "The amendments made by this subsection of this Act [amending this section and section 669c of this title] take effect October 1, 1989."
@@ -65,6 +69,8 @@ Pub. L. 101–233, §7(a)(3), Dec. 13, 1989, 103 Stat. 1975, provided that: "The
 #### Effective Date of 1972 Amendment ####
 
 Pub. L. 92–558, title I, §101(c), Oct. 25, 1972, 86 Stat. 1172, as amended by Pub. L. 93–313, June 8, 1974, 88 Stat. 238, provided that: "The amendments made by subsections (a) and (b) [amending this section and section 669c of this title] of this section shall take effect January 1, 1975."
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

@@ -10,6 +10,8 @@ The wilderness designated by this subchapter shall be administered by the Secret
 
 (Pub. L. 94–199, §2, Dec. 31, 1975, 89 Stat. 1117.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsec. (b), was in the original "this Act", which is Pub. L. 94–199, Dec. 31, 1975, 89 Stat. 1117, which enacted sections 460gg to 460gg–13 of this title, amended sections 1274 and 1276 of this title, and enacted provisions set out as notes under sections 460gg and 1274 of this title.

@@ -16,6 +16,8 @@
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2606.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of this subchapter, as amended by the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (d), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.

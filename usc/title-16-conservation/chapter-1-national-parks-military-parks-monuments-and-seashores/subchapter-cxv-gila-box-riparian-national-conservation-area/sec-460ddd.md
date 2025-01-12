@@ -74,6 +74,8 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 (Pub. L. 101–628, title II, §201, Nov. 28, 1990, 104 Stat. 4475; Pub. L. 103–437, §6(d)(24), Nov. 2, 1994, 108 Stat. 4584.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
@@ -83,6 +85,8 @@ The Sentencing Reform Act of 1984, referred to in subsec. (l), is chapter II (§
 #### Amendments ####
 
 **1994**—Subsecs. (c), (k). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

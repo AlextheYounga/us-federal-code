@@ -8,6 +8,8 @@ Sec.
 
 7142. Army: percentage of high-school graduates.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 333 of this title as this chapter and items 3251, 3258, and 3262 as 7131, 7138, and 7142, respectively.

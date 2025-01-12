@@ -150,6 +150,10 @@ Sec.
 
 262p–13. Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism.
 
+262p–14. Support to enhance the capacity of fund members to evaluate the legal and financial terms of sovereign debt contracts.
+
+262p–15. United States policy on Burma at the International Monetary Fund, the World Bank Group, and the Asian Development Bank.
+
 262q. Transferred.
 
 262r. Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies.
@@ -177,6 +181,10 @@ Sec.
 263. International Prison Commission.
 
 263a. International Criminal Police Organization.
+
+263b. Transnational repression accountability and prevention.
+
+263c. Anti-piracy information sharing.
 
 264, 265. Omitted.
 
@@ -251,6 +259,8 @@ Sec.
 276c–3. Repealed.
 
 276c–4. Employment of United States citizens by certain international organizations.
+
+276c–5. Authorization for United States participation in the Coalition for Epidemic Preparedness Innovations.
 
 #### SUBCHAPTER I—CANADA-UNITED STATES INTERPARLIAMENTARY GROUP ####
 
@@ -1263,6 +1273,50 @@ Sec.
 290q. Organization of American States revitalization and reform strategy.
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Cyprus, Greece, Israel, and the United States 3+1 Interparliamentary Group ####
+
+Pub. L. 117–81, div. A, title XIII, §1316, Dec. 27, 2021, 135 Stat. 2001, provided that:
+
+"(a) Establishment.—There is established a group, to be known as the 'Cyprus, Greece, Israel, and the United States 3+1 Interparliamentary Group', to serve as a legislative component to the 3+1 process launched in Jerusalem in March 2019.
+
+"(b) Membership.—The Cyprus, Greece, Israel, and the United States 3+1 Interparliamentary Group shall include a group of not more than 6 United States Senators, to be known as the 'United States group', who shall be appointed in equal numbers by the majority leader and the minority leader of the Senate. The majority leader and the minority leader of the Senate shall also serve as ex officio members of the United States group.
+
+"(c) Meetings.—Not less frequently than once each year, the United States group shall meet with members of the 3+1 group to discuss issues on the agenda of the 3+1 deliberations of the Governments of Greece, Israel, Cyprus, and the United States to include maritime security, defense cooperation, energy initiatives, and countering malign influence efforts by the People's Republic of China and the Russian Federation.
+
+"(d) Authorization of Appropriations.—
+
+"(1) In general.—There is authorized to be appropriated $100,000 for each fiscal year to assist in meeting the expenses of the United States group.
+
+"(2) Availability of funds.—Amounts appropriated pursuant to the authorization under this subsection are authorized to remain available until expended.
+
+"(e) Termination.—The Cyprus, Greece, Israel, and the United States 3+1 Interparliamentary Group shall terminate 4 years after the date of the enactment of this Act [Dec. 27, 2021]."
+
+#### United States Policy Regarding International Financial Institution Assistance With Respect to Advanced Wireless Technologies ####
+
+Pub. L. 117–81, div. F, title LXI, §6105, Dec. 27, 2021, 135 Stat. 2386, provided that:
+
+"(a) In General.—The Secretary of the Treasury (in this section referred to as the 'Secretary') shall instruct the United States Executive Director at each international financial institution (as defined in section 1701(c)(2) of the International Financial Institutions Act (22 U.S.C. 262r(c)(2))) that it is the policy of the United States to—
+
+"(1) support assistance by the institution with respect to advanced wireless technologies (such as 5th generation wireless technology for digital cellular networks and related technologies) only if the technologies provide appropriate security for users;
+
+"(2) proactively encourage assistance with respect to infrastructure or policy reforms that facilitate the use of secure advanced wireless technologies; and
+
+"(3) cooperate, to the maximum extent practicable, with member states of the institution, particularly with United States allies and partners, in order to strengthen international support for such technologies.
+
+"(b) Waiver Authority.—The Secretary may waive subsection (a) on a case-by-case basis, on reporting to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate that the waiver—
+
+"(1) will allow the United States to effectively promote the objectives of the policy described in subsection (a); or
+
+"(2) is in the national interest of the United States, with an explanation of the reasons therefor.
+
+"(c) Progress Report.—The Chairman of the National Advisory Council on International Monetary and Financial Policies shall include in the annual report required by section 1701 of the International Financial Institutions Act (22 U.S.C. 262r) a description of progress made toward advancing the policy described in subsection (a) of this section.
+
+"(d) Sunset.—The preceding provisions of this section shall have no force or effect after the earlier of—
+
+"(1) the date that is 7 years after the date of the enactment of this Act [Dec. 27, 2021]; or
+
+"(2) the date that the Secretary reports to the committees specified in subsection (b) that terminating the effectiveness of the provisions is important to the national interest of the United States, with a detailed explanation of the reasons therefor."
 
 #### Ensuring Chinese Debt Transparency ####
 

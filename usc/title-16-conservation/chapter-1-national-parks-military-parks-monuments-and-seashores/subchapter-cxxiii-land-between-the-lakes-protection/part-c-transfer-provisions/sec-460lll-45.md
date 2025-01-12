@@ -44,6 +44,8 @@ All net proceeds from the disposal of any property shall be deposited into the F
 
 (Pub. L. 105–277, div. A, §101(e) [title V, §545], Oct. 21, 1998, 112 Stat. 2681–231, 2681–319.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (d)(1)(B), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.

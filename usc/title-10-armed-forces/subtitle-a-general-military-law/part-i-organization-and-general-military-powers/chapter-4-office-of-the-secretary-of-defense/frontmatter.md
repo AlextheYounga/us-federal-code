@@ -54,13 +54,17 @@ Sec.
 
 145. Principal Advisor on Countering Weapons of Mass Destruction.
 
-146. Office of Local Defense Community Cooperation.
+[146. Renumbered.]
 
 147. Chief Diversity Officer.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title IX, §§901(a)(3), 902(b)(2), 905(a)(2), 913(a)(2), Jan. 1, 2021, 134 Stat. 3794, 3797, 3799, 3803, added items 146 and 147, substituted "Secretariat for Special Operations; Special Operations Policy and Oversight Council" for "Special Operations Policy and Oversight Council" in item 139b, and struck out item 132a "Chief Management Officer".
+**2021**—Pub. L. 117–81, div. A, title IX, §902(a)(4)(A), Dec. 27, 2021, 135 Stat. 1869, struck out item 146 "Office of Local Defense Community Cooperation".
+
+Pub. L. 116–283, div. A, title IX, §§901(a)(3), 902(b)(2), 905(a)(2), 913(a)(2), Jan. 1, 2021, 134 Stat. 3794, 3797, 3799, 3803, added items 146 and 147, substituted "Secretariat for Special Operations; Special Operations Policy and Oversight Council" for "Special Operations Policy and Oversight Council" in item 139b, and struck out item 132a "Chief Management Officer".
 
 **2019**—Pub. L. 116–92, div. A, title XVI, §1621(e)(1)(D), Dec. 20, 2019, 133 Stat. 1733, substituted "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence" in item 137.
 
@@ -141,6 +145,8 @@ Pub. L. 96–342, title X, §1001(d)(2), Sept. 8, 1980, 94 Stat. 1119, substitut
 **1973**—Pub. L. 93–155, title VIII, §803(a), Nov. 16, 1973, 87 Stat. 612, added items 138 and 139.
 
 **1972**—Pub. L. 92–596, §4(3), Oct. 27, 1972, 86 Stat. 1318, substituted "Deputy Secretaries" for "Deputy Secretary" in item 134.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

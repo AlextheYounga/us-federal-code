@@ -4,9 +4,13 @@ If any person shall, except by permission of the Secretary of the Interior, dest
 
 (June 21, 1934, ch. 694, §8, 48 Stat. 1200; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 94–578, title III, §319(8), Oct. 21, 1976, 90 Stat. 2739; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–578 struck out provisions which limited fines to not less than $5 nor more than $500.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

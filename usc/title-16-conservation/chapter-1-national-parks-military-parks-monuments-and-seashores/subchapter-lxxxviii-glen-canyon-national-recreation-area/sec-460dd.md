@@ -6,9 +6,13 @@
 
 (Pub. L. 92–593, §1, Oct. 27, 1972, 86 Stat. 1311; Pub. L. 108–43, §2, July 1, 2003, 117 Stat. 841.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2003**—Pub. L. 108–43 designated existing provisions as subsec. (a), substituted "1,256,000 acres" for "one million two hundred and thirty-six thousand eight hundred and eighty acres", and added subsec. (b).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 2003 Amendment ####
 

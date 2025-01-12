@@ -2,6 +2,8 @@
 
 Section, act Apr. 26, 1940, ch. 159, 54 Stat. 168, set forth provisions relating to white-pine blister rust control by the Secretary of Agriculture, and local authorities.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1978, see section 17 of Pub. L. 95–313, set out as an Effective Date note under section 2101 of this title.

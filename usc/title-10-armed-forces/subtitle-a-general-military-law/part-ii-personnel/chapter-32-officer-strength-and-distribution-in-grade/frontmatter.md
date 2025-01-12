@@ -20,6 +20,8 @@ Sec.
 
 528. Officers serving in certain intelligence positions: military status; application of distribution and strength limitations; pay and allowances.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–328, div. A, title V, §501(h)(3), Dec. 23, 2016, 130 Stat. 2102, added item 526a.

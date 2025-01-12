@@ -52,6 +52,8 @@ Management direction for the recreation area shall be developed in either the fo
 
 (Pub. L. 98–328, §4, June 26, 1984, 98 Stat. 275.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsec. (a), was in the original "the Act", meaning Pub. L. 98–328, June 26, 1984, 98 Stat. 272, known as the Oregon Wilderness Act of 1984, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
@@ -59,6 +61,8 @@ This subchapter, referred to in subsec. (a), was in the original "the Act", mean
 The Wilderness Act and Public Law 88–577, referred to in subsec. (f), are Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
 
 The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (g), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Map of Recreation Area ####
 

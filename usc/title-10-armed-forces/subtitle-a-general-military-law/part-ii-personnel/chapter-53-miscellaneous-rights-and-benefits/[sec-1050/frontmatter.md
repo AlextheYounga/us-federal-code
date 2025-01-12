@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 98–525, title XIV, §1401(d)(1), Oct. 19, 1984, 98 Stat. 2616; amended Pub. L. 105–261, div. A, title IX, §905(b), Oct. 17, 1998, 112 Stat. 2093, related to the payment of personnel expenses for Latin American cooperation.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Provisions similar to those in this section were contained in the following appropriation acts:
@@ -91,6 +93,8 @@ June 28, 1944, ch. 303, §1, 58 Stat. 591.
 July 1, 1943, ch. 185, §1, 57 Stat. 365.
 
 July 2, 1942, ch. 477, §1, 56 Stat. 628.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Savings Provision for Fiscal Years 2017, 2018, and 2019 ####
 

@@ -30,6 +30,8 @@ In exercising his authority to acquire property under this subchapter, the Secre
 
 (Pub. L. 93–555, §2, Dec. 27, 1974, 88 Stat. 1784; Pub. L. 94–578, title III, §323(a), Oct. 21, 1976, 90 Stat. 2742; Pub. L. 95–625, title III, §315(a), (d), (f), Nov. 10, 1978, 92 Stat. 3483; Pub. L. 96–87, title IV, §401(g), Oct. 12, 1979, 93 Stat. 666; Pub. L. 99–606, §16, Nov. 6, 1986, 100 Stat. 3468; Pub. L. 102–431, §1, Oct. 23, 1992, 106 Stat. 2211; Pub. L. 103–437, §6(a)(5), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 106–291, title I, §149(b), (c)(2), Oct. 11, 2000, 114 Stat. 956.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 460ff–4 of this title, referred to in subsec. (b), was in the original "section 5 of this Act" meaning section 5 of Pub. L. 93–555 which was repealed and section 6 was redesignated section 5 by Pub. L. 106–291, title I, §149(d), Oct. 11, 2000, 114 Stat. 956.

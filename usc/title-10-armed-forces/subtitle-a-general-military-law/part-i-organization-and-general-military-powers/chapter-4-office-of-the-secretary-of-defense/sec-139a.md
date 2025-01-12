@@ -4,7 +4,7 @@
 
 (b) Independent Advice to Secretary of Defense.—(1) The Director of Cost Assessment and Program Evaluation is the principal advisor to the Secretary of Defense and other senior officials of the Department of Defense, and shall provide independent analysis and advice to such officials, on the following matters:
 
-(A) Matters assigned to the Director pursuant to this section and section 2334 of this title.
+(A) Matters assigned to the Director pursuant to this section and section 2334 <sup><a href="#139a_1_target" name="139a_1">1</a></sup> of this title.
 
 (B) Matters assigned to the Director by the Secretary pursuant to section 113 of this title.
 
@@ -18,7 +18,7 @@
 
 (d) Responsibilities.—The Director of Cost Assessment and Program Evaluation shall serve as the principal official within the senior management of the Department of Defense for the following:
 
-(1) Cost estimation and cost analysis for acquisition programs of the Department of Defense, and carrying out the duties assigned pursuant to section 2334 of this title.
+(1) Cost estimation and cost analysis for acquisition programs of the Department of Defense, and carrying out the duties assigned pursuant to section 2334 <sup><a href="#139a_1_target" name="139a_1">1</a></sup> of this title.
 
 (2) Analysis and advice on matters relating to the planning and programming phases of the Planning, Programming, Budgeting and Execution system, and the preparation of materials and guidance for such system, as directed by the Secretary of Defense, working in coordination with the Under Secretary of Defense (Comptroller).
 
@@ -38,19 +38,21 @@
 
 (Added Pub. L. 111–23, title I, §101(a)(1), May 22, 2009, 123 Stat. 1705, §139c; renumbered §139a and amended Pub. L. 111–383, div. A, title IX, §901(f), title X, §1075(b)(5), Jan. 7, 2011, 124 Stat. 4322, 4369; Pub. L. 112–239, div. A, title X, §1076(f)(4), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title IX, §912(c), Dec. 12, 2017, 131 Stat. 1521; Pub. L. 116–92, div. A, title IX, §902(5), title XVI, §1621(e)(1)(A)(iii), Dec. 20, 2019, 133 Stat. 1543, 1733; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
 
-#### Amendment of Section ####
+#### **Editorial Notes** ####
 
-Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
+#### References in Text ####
+
+Section 2334 of this title, referred to in subsecs. (b)(1)(A) and (d)(1), was repealed by Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (h) of section 2334 were transferred to various provisions in chapter 222 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, §1812(b)(1), (3), (c)(1), (d), (e)(1), (f)(1), (g)(1), (h)(1), Jan. 1, 2021, 134 Stat. 4174–4177.
 
 #### Prior Provisions ####
 
 A prior section 139a was renumbered section 138b of this title.
 
-Another prior section 139a was renumbered section 2432 of this title.
+Another prior section 139a was renumbered section 4351 of this title.
 
 #### Amendments ####
 
-**2021**—Subsec. (b)(1)(A). Pub. L. 116–283, which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to "section 2334", which was redesignated as multiple sections.
+**2021**—Subsecs. (b)(1)(A), (d)(1). Pub. L. 116–283, which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to "section 2334", which was redesignated as multiple sections.
 
 **2019**—Subsec. (d)(6). Pub. L. 116–92, §1621(e)(1)(A)(iii), substituted "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence".
 
@@ -63,6 +65,8 @@ Pub. L. 116–92, §902(5), substituted "Under Secretary of Defense for Acquisit
 **2011**—Pub. L. 111–383, §901(f), renumbered section 139c of this title as this section.
 
 Subsec. (d)(4). Pub. L. 111–383, §1075(b)(5), which directed amendment of section 139c of this title by inserting a period at the end of subsec. (d)(4), was executed to this section, to reflect the probable intent of Congress and the renumbering of section 139c of this title as this section by Pub. L. 111–383, §901(f). See above.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2021 Amendment ####
 
@@ -81,3 +85,5 @@ Pub. L. 111–23, title I, §101(c), May 22, 2009, 123 Stat. 1709, provided that
 "(2) Transfer of personnel to deputy director for independent cost assessment.—The personnel of the Cost Analysis Improvement Group are hereby transferred to the Deputy Director for Cost Assessment in the Office of the Director of Cost Assessment and Program Evaluation.
 
 "(3) Transfer of personnel to deputy director for program analysis and evaluation.—The personnel (other than the personnel transferred under paragraph (2)) of the Office of Program Analysis and Evaluation are hereby transferred to the Deputy Director for Program Evaluation in the Office of the Director of Cost Assessment and Program Evaluation."
+
+[<sup>1</sup> See References in Text note below.](#139a_1)

@@ -26,7 +26,13 @@ Sec.
 
 499a. Collection, storage, and sharing of data relating to nuclear security enterprise and nuclear forces.
 
+499b. Participation in United States Strategic Command strategic deterrence exercises.
+
+#### **Editorial Notes** ####
+
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title XVI, §1631, Dec. 27, 2021, 135 Stat. 2089, added item 499b.
 
 **2019**—Pub. L. 116–92, div. A, title XVI, §1665(c)(2), Dec. 20, 2019, 133 Stat. 1774, added item 492a.
 

@@ -30,6 +30,8 @@ Sec.
 
 1614. Definitions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–201, div. A, title XVI, §1632(a)(3), Sept. 23, 1996, 110 Stat. 2745, added table of sections for subchapter and struck out former table of sections consisting of items 1601 "Defense Intelligence Senior Executive Service", 1602 "Defense Intelligence Agency merit pay system", 1603 "Limit on pay", 1604 "Civilian personnel management", 1605 "Benefits for certain employees of the Defense Intelligence Agency", 1606 "Uniform allowance: civilian employees", and 1608 "Financial assistance to certain employees in acquisition of critical skills".

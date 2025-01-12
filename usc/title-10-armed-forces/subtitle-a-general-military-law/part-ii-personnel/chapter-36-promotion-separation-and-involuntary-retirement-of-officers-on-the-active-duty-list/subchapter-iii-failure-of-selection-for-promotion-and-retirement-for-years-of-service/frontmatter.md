@@ -24,6 +24,8 @@ Sec.
 
 636. Retirement for years of service: regular officers in grades above brigadier general and rear admiral (lower half).
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 116–283, div. A, title V, §505(a)(2), Jan. 1, 2021, 134 Stat. 3568, added item 628a.

@@ -16,6 +16,8 @@ Sec.
 
 1187. Officers eligible to serve on boards.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Pub. L. 105–261, div. A, title V, §503(c)(2), Oct. 17, 1998, 112 Stat. 2004, struck out item 1183 "Boards of review" and substituted "inquiry" for "review" in item 1184.

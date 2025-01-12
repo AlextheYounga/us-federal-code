@@ -10,13 +10,13 @@
 
 (2) The Secretaries of the military departments and the heads of the Defense Agencies shall have overall responsibility for the requirements determination, planning, programming, and budgeting for such policies and procedures.
 
-(3) The Under Secretary of Defense for Acquisition and Sustainment shall be responsible for ensuring that the defense acquisition system, as defined in section 2545 of this title, is consistent with such policies and procedures and with implementation pursuant to paragraph (1).
+(3) The Under Secretary of Defense for Acquisition and Sustainment shall be responsible for ensuring that the defense acquisition system, as defined in section 3001 of this title, is consistent with such policies and procedures and with implementation pursuant to paragraph (1).
 
 (4) The Under Secretary of Defense (Comptroller) shall be responsible for ensuring that the budget for the Department of Defense is consistent with such policies and procedures. The Under Secretary shall notify the congressional defense committees of any deviations from such policies and procedures that are recommended in the budget.
 
 (d) Use of Plan, Inventory, and List.—The policies and procedures established by the Secretary under subsection (a) shall specifically require the Department of Defense to use the following when making determinations regarding the appropriate workforce mix necessary to perform its mission:
 
-(1) The inventory of contracts for services required by section 2330a(c) of this title.
+(1) The inventory of contracts for services required by section 4505(c) of this title.
 
 (2) The list of activities required by the Federal Activities Inventory Reform Act of 1998 (Public Law 105–270; 31 U.S.C. 501 note).
 
@@ -56,11 +56,7 @@
 
 (Added Pub. L. 101–510, div. A, title XIV, §1483(b)(2), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 112–81, div. A, title IX, §931(a), Dec. 31, 2011, 125 Stat. 1541; Pub. L. 114–328, div. A, title IX, §914, Dec. 23, 2016, 130 Stat. 2350; Pub. L. 115–91, div. A, title X, §§1051(a)(6)(B), 1081(a)(5), Dec. 12, 2017, 131 Stat. 1560, 1594; Pub. L. 115–232, div. A, title IX, §933, Aug. 13, 2018, 132 Stat. 1938; Pub. L. 116–92, div. A, title IX, §902(1), title XI, §1106, Dec. 20, 2019, 133 Stat. 1542, 1597; Pub. L. 116–283, div. A, title IX, §912, title XVIII, §§1808(d)(1), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3802, 4160, 4294.)
 
-#### Amendment of Section ####
-
-Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
-
-Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1808(d)(1), Jan. 1, 2021, 134 Stat. 4151, 4160, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (c)(3) of this section is amended by striking "section 2545" and inserting "section 3001". See 2021 Amendment note below.
+#### **Editorial Notes** ####
 
 #### Prior Provisions ####
 
@@ -96,9 +92,49 @@ Subsec. (d). Pub. L. 115–91, §1051(a)(6)(B), redesignated pars. (3) and (4) a
 
 "(2) include in each manpower requirements report submitted under section 115a of this title a complete justification for converting from one form of personnel to another."
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2021 Amendment ####
 
 Amendment by sections 1808(d)(1) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Management Innovation Activities ####
+
+Pub. L. 117–81, div. A, title IX, §908, Dec. 27, 2021, 135 Stat. 1875, provided that:
+
+"(a) In General.—The Secretary of Defense shall carry out a set of activities to improve the effectiveness of management activities within the Department of Defense, with the goals of incorporating appropriate private sector management practices and technologies and enhancing the capabilities of the defense management workforce.
+
+"(b) Management Activities.—Subject to the total force management requirements under section 129a of title 10, United States Code, the activities carried out under subsection (a) may include the following:
+
+"(1) Public-private partnerships with appropriate private sector and government organizations.
+
+"(2) Personnel exchange programs with appropriate industry, academic, and government organizations to enhance the capabilities of the defense management workforce.
+
+"(3) Research, development, and technology and business process prototyping activities to create new technological capabilities to support management missions, or development and testing of new management concepts and business transformation activities.
+
+"(4) The designation of appropriate organizations to lead management innovation activities.
+
+"(5) A process by which defense business process owners and other personnel of the Department of Defense can identify management and business process challenges and opportunities that could be addressed by activities carried out under this section.
+
+"(6) Processes to develop, prototype, test, and field new business processes and practices to improve defense management capabilities.
+
+"(7) Academic research and educational activities related to defense management missions to promote—
+
+"(A) development of innovative management concepts;
+
+"(B) analyses and addressing of appropriate management challenges; and
+
+"(C) development of programs and activities to develop the defense management workforce.
+
+"(8) Academic research and independent studies from federally funded research and development centers assessing lessons learned from previous Departmental management reform initiatives and whether legacy organizations exist and should be consolidated.
+
+"(c) Plan Required.—Not later than February 1, 2023, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan for carrying out the activities under this section.
+
+"(d) Briefings.—
+
+"(1) Initial briefing.—Not later than July 1, 2022, the Secretary of Defense shall provide to the congressional defense committees an initial briefing on the activities carried out and plans developed under this section.
+
+"(2) Subsequent briefing.—On a date occurring after the briefing under paragraph (1), but not later than July 1, 2023, the Secretary of Defense shall provide to the congressional defense committees a briefing on the activities carried out and plans developed under this section."
 
 #### Strategic Policy for the Retrograde, Reconstitution, and Replacement of Operating Forces Used To Support Overseas Contingency Operations ####
 

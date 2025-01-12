@@ -4,6 +4,8 @@ There is established a working capital fund which shall be available without fis
 
 (Aug. 3, 1956, ch. 950, §13, 70 Stat. 1034; Pub. L. 87–869, §10, Oct. 23, 1962, 76 Stat. 1157.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1962**—Pub. L. 87–869 struck out the $25,000,000 limitation on amount of capitalization in Forest Service working capital fund.

@@ -14,6 +14,8 @@ Solely for purposes of payments to local governments pursuant to section 6902 of
 
 (Pub. L. 106–431, §3, Nov. 6, 2000, 114 Stat. 1905; Pub. L. 113–287, §5(d)(18), Dec. 19, 2014, 128 Stat. 3266.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Subsec. (b). Pub. L. 113–287 substituted "section 100506 of title 54" for "section 460l–9 of this title".

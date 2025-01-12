@@ -24,13 +24,13 @@ Sec.
 
 117. Readiness reporting system.
 
-118. Materiel readiness metrics and objectives for major defense acquisition programs. 1
+118. Materiel readiness metrics and objectives for major weapon systems.
 
-118a. 2 National Defense Sustainment and Logistics Review.
+118a. Quadrennial quality of life review.
 
-118a. 2 Quadrennial quality of life review.
+118b. National Defense Sustainment and Logistics Review.
 
-[118b. Repealed.]
+118c. National Defense Science and Technology Strategy.
 
 119. Special access programs: congressional oversight.
 
@@ -38,9 +38,17 @@ Sec.
 
 120. Department of Defense executive aircraft controlled by Secretaries of military departments.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title III, §§341(b), 347(b), Jan. 1, 2021, 134 Stat. 3537, 3541, substituted "Materiel readiness metrics and objectives for major defense acquisition programs" for "Annual report on major weapons systems sustainment" in item 118 and added item 118a "National Defense Sustainment and Logistics Review".
+**2021**—Pub. L. 117–81, div. A, title X, §1081(a)(3), Dec. 27, 2021, 135 Stat. 1919, which directed amendment of this analysis to conform to the renumbering of section 118a as 118b, could not be executed due to the prior renumbering of section 118a as 118b, and the corresponding amendment of this analysis, by Pub. L. 117–81, §311(b)(2)(A). See note below and 2021 Amendment note under section 118b of this title.
+
+Pub. L. 117–81, div. A, title X, §1061(a)(2), Dec. 27, 2021, 135 Stat. 1909, which directed renumbering of item 118a "Quadrennial quality of life review" as 118b was not be executed because of the intervening renumbering of item 118a "National Defense Sustainment and Logistics Review" as 118b by Pub. L. 117–81, §311(b)(2)(A). See below.
+
+Pub. L. 117–81, div. A, title II, §211(b), title III, §311(b)(2)(A), title X, §1081(a)(2), Dec. 27, 2021, 135 Stat. 1587, 1625, 1919, substituted "Materiel readiness metrics and objectives for major weapon systems" for "Materiel readiness metrics and objectives for major defense acquisition programs" in item 118, renumbered item 118a "National Defense Sustainment and Logistics Review" as 118b, and added item 118c.
+
+Pub. L. 116–283, div. A, title III, §§341(b), 347(b), Jan. 1, 2021, 134 Stat. 3537, 3541, substituted "Materiel readiness metrics and objectives for major defense acquisition programs" for "Annual report on major weapons systems sustainment" in item 118 and added item 118a "National Defense Sustainment and Logistics Review".
 
 **2019**—Pub. L. 116–92, div. A, title XVII, §1731(b), Dec. 20, 2019, 133 Stat. 1816, amended directory language of Pub. L. 115–232, §331(g)(2), and provided that the amendment is effective Aug. 13, 2018, and as if included in Pub. L. 115–232 as enacted. See 2018 Amendment note below.
 
@@ -83,7 +91,3 @@ Pub. L. 101–510, div. A, title XIII, §1331(1), title XIV, §1483(c)(1), Nov. 
 **1987**—Pub. L. 100–180, div. A, title XI, §1132(a)(2), Dec. 4, 1987, 101 Stat. 1152, added item 119.
 
 **1986**—Pub. L. 99–433, title I, §101(a)(1), Oct. 1, 1986, 100 Stat. 994, added chapter heading and analysis of sections for chapter 2, consisting of items 111 to 118.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER2_1)
-
-[<sup>2</sup> So in original. Two items 118a have been enacted.](#CHAPTER2_2)

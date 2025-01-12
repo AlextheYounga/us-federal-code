@@ -4,6 +4,8 @@ The provisions of section 6101 of title 41 shall not apply to purchases by the F
 
 (Apr. 24, 1950, ch. 97, §3, 64 Stat. 83.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In text, "section 6101 of title 41" substituted for "section 3709, Revised Statutes (41 U.S.C. 5)," on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.

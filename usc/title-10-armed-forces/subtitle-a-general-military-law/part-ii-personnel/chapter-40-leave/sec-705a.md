@@ -22,6 +22,8 @@
 
 (Added Pub. L. 111–383, div. A, title V, §532(a), Jan. 7, 2011, 124 Stat. 4216; amended Pub. L. 115–91, div. A, title VI, §618(e), Dec. 12, 2017, 131 Stat. 1426.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (b)(1)(B). Pub. L. 115–91 inserted "or 352(a)" after "section 305".

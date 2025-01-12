@@ -14,6 +14,8 @@
 
 (Pub. L. 96–95, §2, Oct. 31, 1979, 93 Stat. 721.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 96–95, §1, Oct. 31, 1979, 93 Stat. 721, provided that: "This Act [enacting this chapter] may be cited as the 'Archaeological Resources Protection Act of 1979'."

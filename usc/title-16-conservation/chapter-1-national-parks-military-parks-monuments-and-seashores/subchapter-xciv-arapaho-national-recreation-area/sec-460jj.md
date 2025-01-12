@@ -22,9 +22,13 @@ The Secretary shall develop an overall management plan for the Arapaho National 
 
 (Pub. L. 95–450, §4, Oct. 11, 1978, 92 Stat. 1095; Pub. L. 111–11, title I, §1955(b), Mar. 30, 2009, 123 Stat. 1075.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Subsec. (a). Pub. L. 111–11 substituted "35,235 acres" for "thirty-six thousand two hundred thirty-five acres" and "and dated May 2007" for ", dated July 1978".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

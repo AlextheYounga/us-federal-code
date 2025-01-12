@@ -4,6 +4,8 @@ The Act of June 29, 1906 (34 Stat. 837), which directed that certain lands now i
 
 (Pub. L. 94–235, §5, Mar. 17, 1976, 90 Stat. 236.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 29, 1906, referred to in text, is act June 29, 1906, No. 42, 34 Stat. 837, which was classified to sections 151, 152, and 153 of this title, and was repealed by Pub. L. 94–235, §5, Mar. 17, 1976, 90 Stat. 236.

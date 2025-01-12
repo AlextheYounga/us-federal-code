@@ -26,6 +26,8 @@ Such activities as are compatible with the provisions of this subchapter, but no
 
 (Pub. L. 94–199, §8, Dec. 31, 1975, 89 Stat. 1119.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Committee on Interior and Insular Affairs of the Senate abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.

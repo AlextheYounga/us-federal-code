@@ -4,6 +4,8 @@ For the purpose of stabilizing water supply and thereby rehabilitating farmers o
 
 (Aug. 11, 1939, ch. 717, §1, 53 Stat. 1418; Oct. 14, 1940, ch. 861, 54 Stat. 1119; Mar. 7, 1942, ch. 164, 56 Stat. 142; July 16, 1943, ch. 242, §1, 57 Stat. 566; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1943**—Act July 16, 1943, raised amount of expenditures for dams and reservoirs on any one project from $1,000,000 to $2,000,000.
@@ -11,6 +13,8 @@ For the purpose of stabilizing water supply and thereby rehabilitating farmers o
 **1942**—Act Mar. 7, 1942, amended last proviso.
 
 **1940**—Act Oct. 14, 1940, reenacted section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

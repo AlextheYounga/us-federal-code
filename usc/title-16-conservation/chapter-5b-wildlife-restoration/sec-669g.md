@@ -14,6 +14,8 @@
 
 (Sept. 2, 1937, ch. 899, §8, 50 Stat. 919; July 24, 1946, ch. 605, §2, 60 Stat. 656; Aug. 12, 1955, ch. 861, §2, 69 Stat. 698; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1100; Pub. L. 92–558, title I, §102(a), Oct. 25, 1972, 86 Stat. 1173; Pub. L. 106–408, title I, §111(c), Nov. 1, 2000, 114 Stat. 1766; Pub. L. 106–553, §1(a)(2) [title IX, §902(g)], Dec. 21, 2000, 114 Stat. 2762, 2762A–124; Pub. L. 116–17, §4(b), May 10, 2019, 133 Stat. 867; Pub. L. 116–94, div. P, title V, §501(e), Dec. 20, 2019, 133 Stat. 3193.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The effective date of this subsection, referred to in subsec. (b)(4), probably means Oct. 23, 1970, the date of approval of Pub. L. 91–503, which added subsec. (b).
@@ -37,6 +39,8 @@ Subsec. (b). Pub. L. 106–408 substituted "section 669c(c) of this title" for "
 **1955**—Act Aug. 12, 1955, permitted expenditure of funds for management of wildlife areas and resource.
 
 **1946**—Act July 24, 1946, inserted proviso defining "wildlife-restoration project".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1972 Amendment ####
 

@@ -188,6 +188,8 @@ The Secretary may enter into such contracts and agreements with the State of New
 
 (Pub. L. 95–625, title V, §502, Nov. 10, 1978, 92 Stat. 3492; Pub. L. 100–486, Oct. 13, 1988, 102 Stat. 2429; Pub. L. 113–287, §5(d)(10), Dec. 19, 2014, 128 Stat. 3265.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Clean Water Act, referred to in subsec. (f)(9), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.

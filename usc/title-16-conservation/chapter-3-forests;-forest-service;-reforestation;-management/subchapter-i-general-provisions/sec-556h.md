@@ -4,6 +4,8 @@ Notwithstanding any other provision of law, on and after October 21, 1998, any a
 
 (Pub. L. 105–277, div. A, §101(e) [title II], Oct. 21, 1998, 112 Stat. 2681–231, 2681–272.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Similar Provisions ####
 
 Provisions similar to this section were contained in the following prior appropriation acts:

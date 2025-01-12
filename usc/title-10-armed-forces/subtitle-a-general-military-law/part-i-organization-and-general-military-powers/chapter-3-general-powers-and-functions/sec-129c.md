@@ -24,6 +24,8 @@
 
 (Added Pub. L. 104–106, div. A, title V, §564(a)(1), Feb. 10, 1996, 110 Stat. 325; amended Pub. L. 105–85, div. A, title X, §1073(a)(4), Nov. 18, 1997, 111 Stat. 1900.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Provisions similar to those in this section were contained in Pub. L. 101–510, div. A, title VII, §711, Nov. 5, 1990, 104 Stat. 1582, as amended, which was set out as a note under section 115 of this title, prior to repeal by Pub. L. 104–106, §564(d)(1).
@@ -31,6 +33,8 @@ Provisions similar to those in this section were contained in Pub. L. 101–510,
 #### Amendments ####
 
 **1997**—Subsec. (e)(1). Pub. L. 105–85 substituted "section 115a(e)(2)" for "section 115a(g)(2)".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Prohibition on Conversion of Military Medical and Dental Positions to Civilian Medical and Dental Positions ####
 

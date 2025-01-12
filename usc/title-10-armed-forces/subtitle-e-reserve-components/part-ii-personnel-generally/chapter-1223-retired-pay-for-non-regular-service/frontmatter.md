@@ -28,6 +28,8 @@ Sec.
 
 12741. Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Pub. L. 111–84, div. A, title VI, §643(e)(2), Oct. 28, 2009, 123 Stat. 2367, substituted "Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement" for "Retirement from active reserve service performed after regular retirement" in item 12741.

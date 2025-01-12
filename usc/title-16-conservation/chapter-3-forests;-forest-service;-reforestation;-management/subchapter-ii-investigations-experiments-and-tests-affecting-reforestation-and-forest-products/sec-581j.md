@@ -4,13 +4,13 @@ It is the declared policy of the Congress to accelerate and provide a continuing
 
 (Oct. 11, 1949, ch. 674, §1, 63 Stat. 763.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The benefits hereinbefore enumerated, referred to in text, means the benefits enumerated in the preamble to Joint Res. 53, Oct. 11, 1949, ch. 674, 63 Stat. 762. The preamble is set out as a note below.
 
-#### Transfer of Functions ####
-
-Functions of all officers, agencies, and employees of Department of Agriculture transferred with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note in Appendix to Title 5, Government Organization and Employees.
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Preamble ####
 
@@ -33,3 +33,9 @@ The preamble to act Oct. 11, 1949, provided that:
 "Whereas it is practical to reforest these denuded and unsatisfactorily stocked timber lands and revegetate these seriously depleted range lands in a period of fifteen years; and
 
 "Whereas it is necessary to provide reasonable continuity of reforestation and revegetation programs in order to insure effective, efficient, and economical operations: Therefore be it".
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Functions of all officers, agencies, and employees of Department of Agriculture transferred with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note in Appendix to Title 5, Government Organization and Employees.

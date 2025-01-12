@@ -4,6 +4,8 @@ The President, upon recommendation of the Secretaries of the Interior and Agricu
 
 (May 28, 1940, ch. 220, §1, 54 Stat. 224; Pub. L. 94–579, title VII, §704(a), Oct. 21, 1976, 90 Stat. 2792.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 The words "restore any of the lands so withdrawn" have been changed to "restore any reserved national-forest lands covered by a cooperative agreement with the Secretary of Agriculture for the protection of a watershed within a national forest from which water is secured" to reflect the change made by Pub. L. 94–579. See 1976 Amendment note below.
@@ -11,6 +13,8 @@ The words "restore any of the lands so withdrawn" have been changed to "restore 
 #### Amendments ####
 
 **1976**—Pub. L. 94–579 struck out everything preceding second proviso which read: "Whenever a municipality obtains its water supply from a national forest and has entered into a cooperative agreement with the Secretary of Agriculture for the protection of the watershed within the national forest from which the water is secured, the President of the United States may, and he is, authorized, upon application by said municipality, and endorsed by the governing board of the county or counties in which the lands concerned are located and approved by the Secretaries of Agriculture and the Interior, to reserve and set aside from all forms of location, entry, or appropriation any national-forest lands, which are covered by such cooperative agreement, subject, however, to valid, existing rights and claims, and such reservation shall remain in force until revoked by the President or by an Act of Congress: *Provided*, That nothing herein shall affect the power of the Secretary of the Interior to withdraw and utilize withdrawn lands under the Federal reclamation laws".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1976 Amendment ####
 

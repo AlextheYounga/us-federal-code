@@ -8,7 +8,7 @@ Sec.
 
 3063. Covered agencies.
 
-3064. Applicability chapter 137 legacy provisions. 1
+3064. Applicability of chapter 137 legacy provisions.
 
 3065. Assignment and delegation of procurement functions and responsibilities: delegation within agency.
 
@@ -26,8 +26,12 @@ Sec.
 
 3072. Comptroller General assessment of acquisition programs and initiatives.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 203 "GENERAL MATTERS", as added by Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1826, and consisting of reserved section 3021, was repealed by Pub. L. 116–283, div. A, title XVIII, §1807(a), Jan. 1, 2021, 134 Stat. 4156.
 
-[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER203_1)
+#### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title XVII, §1701(f)(3), Dec. 27, 2021, 135 Stat. 2139, inserted "of" after "Applicability" in item 3064.

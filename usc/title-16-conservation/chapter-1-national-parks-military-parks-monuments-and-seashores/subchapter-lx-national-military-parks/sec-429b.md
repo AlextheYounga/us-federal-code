@@ -22,6 +22,8 @@ The Secretary shall not allow any unauthorized use of the Addition after Novembe
 
 (Apr. 17, 1954, ch. 153, §1, 68 Stat. 56, as renumbered and amended Pub. L. 96–442, §2, Oct. 13, 1980, 94 Stat. 1885; Pub. L. 100–647, title X, §10002, Nov. 10, 1988, 102 Stat. 3810.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of this Act and effective date of this Act, referred to in subsec. (a), probably means the date of the enactment of the Manassas National Battlefield Park Amendments of 1980, Pub. L. 96–442, which was approved Oct. 13, 1980.
@@ -35,6 +37,8 @@ In subsec. (a), "section 100506(c) of title 54" substituted for "section 7(c) of
 **1988**—Pub. L. 100–647 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
 **1980**—Pub. L. 96–442 substituted a referenced map for specific boundaries, limited the expanded battlefield park to 4,525 acres, included the park in the National Park System, required the Secretary to publish more detailed map, prohibited the Secretary from making boundary adjustments and required him to administer the Park in accordance with the laws and regulations applicable to the National Park System.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 1988 Amendment ####
 

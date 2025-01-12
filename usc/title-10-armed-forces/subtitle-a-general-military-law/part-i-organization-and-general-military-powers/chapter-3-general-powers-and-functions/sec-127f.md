@@ -20,4 +20,12 @@
 
 (4) any other matters the Secretary considers appropriate.
 
-(Added Pub. L. 116–283, div. A, title X, §1052(a), Jan. 1, 2021, 134 Stat. 3849.)
+(f) Non-Conventional Assisted Recovery Capabilities.—Funding used to establish, develop, and maintain non-conventional assisted recovery capabilities under this section may only be obligated and expended with the concurrence of the relevant Chief of Mission or Chiefs of Mission.
+
+(Added Pub. L. 116–283, div. A, title X, §1052(a), Jan. 1, 2021, 134 Stat. 3849; amended Pub. L. 117–81, div. A, title X, §1093(b), Dec. 27, 2021, 135 Stat. 1935.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2021**—Subsec. (f). Pub. L. 117–81 added subsec. (f).

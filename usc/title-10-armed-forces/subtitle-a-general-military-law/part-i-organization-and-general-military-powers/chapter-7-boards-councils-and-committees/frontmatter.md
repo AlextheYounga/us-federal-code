@@ -32,7 +32,9 @@ Sec.
 
 183a. Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions.
 
-[184 to 186. Renumbered or Repealed.]
+184. Joint Safety Council.
+
+[185, 186. Renumbered or Repealed.]
 
 187. Strategic Materials Protection Board.
 
@@ -42,7 +44,11 @@ Sec.
 
 [190. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title III, §372(b), Dec. 27, 2021, 135 Stat. 1666, added item 184.
 
 **2019**—Pub. L. 116–92, div. A, title VIII, §810(b), title XVII, §1731(a)(10), Dec. 20, 2019, 133 Stat. 1487, 1813, substituted "Military Aviation and Installation Assurance Clearinghouse for review of mission obstructions" for "Military Aviation and Installation Assurance Siting Clearinghouse for review of mission obstructions" in item 183a and struck out item 190 "Defense Cost Accounting Standards Board".
 

@@ -118,6 +118,8 @@ Subsections (c) and (d) do not apply to violations of section 620i of this title
 
 (Pub. L. 101–382, title IV, §492, Aug. 20, 1990, 104 Stat. 722; Pub. L. 103–45, §3, July 1, 1993, 107 Stat. 226; Pub. L. 105–83, title VI, §603, Nov. 14, 1997, 111 Stat. 1620.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1997**—Subsec. (c)(2)(C). Pub. L. 105–83, §603(1), added subpar. (C).

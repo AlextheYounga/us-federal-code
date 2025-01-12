@@ -10,7 +10,7 @@ Sec.
 
 1384. Prostitution near military and naval establishments.
 
-1385. Use of Army and Air Force as posse comitatus.
+1385. Use of Army, Navy, Marine Corps, Air Force, and Space Force as posse comitatus
 
 1386. Keys and keyways used in security applications by the Department of Defense.
 
@@ -24,6 +24,8 @@ Sec.
 
 #### Amendments ####
 
+**2021**—Pub. L. 117–81, div. A, title X, §1045(b), Dec. 27, 2021, 135 Stat. 1905, substituted "Use of Army, Navy, Marine Corps, Air Force, and Space Force as posse comitatus" for "Use of Army and Air Force as posse comitatus" in item 1385.
+
 **2009**—Pub. L. 111–84, div. E, §4712(b), Oct. 28, 2009, 123 Stat. 2843, added item 1389.
 
 **2006**—Pub. L. 109–464, §1(b), Dec. 22, 2006, 120 Stat. 3481, added item 1388.
@@ -34,4 +36,4 @@ Pub. L. 109–228, §3(b), May 29, 2006, 120 Stat. 389, added item 1387.
 
 **1990**—Pub. L. 101–647, title XXXV, §3547, Nov. 29, 1990, 104 Stat. 4926, struck out item 1383 "Restrictions in military areas and zones".
 
-**1956**—Act Aug. 10, 1956, ch. 1041, §18(b), 70A Stat. 626, inserted item 1385.
+**1956**—Act Aug. 10, 1956, ch. 1041, §18(b), 70A Stat. 626, added item 1385.

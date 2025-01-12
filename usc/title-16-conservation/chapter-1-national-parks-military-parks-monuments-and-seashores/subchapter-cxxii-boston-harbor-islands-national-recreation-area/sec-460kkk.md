@@ -270,6 +270,8 @@ Amounts appropriated in any fiscal year to carry out this section may only be ex
 
 (Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30; Pub. L. 108–352, §12, Oct. 21, 2004, 118 Stat. 1397; Pub. L. 109–241, title IX, §902(h)(1), July 11, 2006, 120 Stat. 567; Pub. L. 111–11, title VII, §7109, Mar. 30, 2009, 123 Stat. 1197; Pub. L. 111–281, title IX, §903(a)(8), Oct. 15, 2010, 124 Stat. 3010.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act entitled "An Act to establish a National Park Service, and for other purposes", approved August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2, 3, and 4), referred to in subsec. (d)(1), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
@@ -307,6 +309,8 @@ Subsec. (g)(1). Pub. L. 106–176, §126(5), substituted "and revenue-raising ac
 Subsec. (h)(2). Pub. L. 106–176, §126(6), substituted "ratio" for "ration".
 
 **1998**—Subsec. (c)(3). Pub. L. 105–355 added par. (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

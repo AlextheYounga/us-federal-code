@@ -66,6 +66,8 @@ Subject to valid existing rights, all lands located within the boundaries of ski
 
 (Pub. L. 104–333, div. I, title VII, §701, Nov. 12, 1996, 110 Stat. 4182; Pub. L. 106–176, title I, §117, Mar. 10, 2000, 114 Stat. 27.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of March 4, 1915, referred to in subsecs. (a) and (j), is act Mar. 4, 1915, ch. 144, 38 Stat. 1086. For complete classification of this Act to the Code, see Tables.
@@ -85,6 +87,8 @@ Subsec. (d). Pub. L. 106–176, §117(2), in introductory provisions, substitute
 Subsec. (f). Pub. L. 106–176, §117(3), inserted "offered for commercial or other promotional purposes" after "complimentary lift tickets".
 
 Subsec. (i). Pub. L. 106–176, §117(4), substituted "this section" for "this Act".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

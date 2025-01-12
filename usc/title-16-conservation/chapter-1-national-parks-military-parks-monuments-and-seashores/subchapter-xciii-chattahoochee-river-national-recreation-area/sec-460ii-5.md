@@ -46,6 +46,8 @@ The Advisory Commission shall terminate on the date ten years after October 30, 
 
 (Pub. L. 95–344, title I, §106, as added Pub. L. 98–568, §1(f), Oct. 30, 1984, 98 Stat. 2931; amended Pub. L. 106–154, §2(e)(5), (6), Dec. 9, 1999, 113 Stat. 1739.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1999**—Subsec. (a). Pub. L. 106–154, §2(e)(5), substituted "this subchapter" for "this subchapter and chapter 43 of this title" in introductory provisions.

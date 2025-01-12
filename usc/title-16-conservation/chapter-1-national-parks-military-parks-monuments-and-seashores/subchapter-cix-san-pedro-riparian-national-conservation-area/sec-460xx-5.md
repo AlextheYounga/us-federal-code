@@ -4,6 +4,8 @@ No later than five years after November 18, 1988, and every ten years thereafter
 
 (Pub. L. 100–696, title I, §106, Nov. 18, 1988, 102 Stat. 4573; Pub. L. 103–437, §6(d)(22), Nov. 2, 1994, 108 Stat. 4584.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".

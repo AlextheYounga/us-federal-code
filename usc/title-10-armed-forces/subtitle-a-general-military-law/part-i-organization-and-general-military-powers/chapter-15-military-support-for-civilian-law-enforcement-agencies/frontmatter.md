@@ -30,6 +30,8 @@ Sec.
 
 284. Support for counterdrug activities and activities to counter transnational organized crime.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 15, consisting of sections 331 to 335, was renumbered chapter 13, and sections 331 to 335 were renumbered sections 251 to 255, respectively.
@@ -55,6 +57,8 @@ A prior chapter 15, consisting of sections 331 to 335, was renumbered chapter 13
 **1987**—Pub. L. 100–180, div. A, title XII, §1243(b), Dec. 4, 1987, 101 Stat. 1164, added item 380.
 
 **1986**—Pub. L. 99–570, title III, §3053(b)(2), Oct. 27, 1986, 100 Stat. 3207–76, added item 379.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Department of Defense Authority To Provide Assistance To Secure the Southern Land Border of the United States ####
 

@@ -12,6 +12,8 @@ Sec.
 
 8375. Navy and Marine Corps; warrant officers, W–1: limitation on dismissal.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 843, consisting of sections 8531 to 8549, related to Air Force special appointments, assignments, details, and duties, prior to renumbering as chapter 923 of this title.

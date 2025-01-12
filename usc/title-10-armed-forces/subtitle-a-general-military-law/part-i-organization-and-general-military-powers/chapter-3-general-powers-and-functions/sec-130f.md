@@ -10,19 +10,21 @@
 
 (c) Briefing Requirement.—The Secretary of Defense shall periodically brief the congressional defense committees on Department of Defense personnel and equipment assigned to sensitive military operations, including Department of Defense support to such operations conducted under the National Security Act of 1947 (50 U.S.C. 3001 et seq.).
 
-(d) Sensitive Military Operation Defined.—(1) Except as provided in paragraph (2), in this section, the term "sensitive military operation" means—
+(d) Sensitive Military Operation Defined.—In this section, the term "sensitive military operation" means—
 
-(A) a lethal operation or capture operation conducted by the armed forces or conducted by a foreign partner in coordination with the armed forces that targets a specific individual or individuals; or
+(1) a lethal operation or capture operation conducted by the armed forces or conducted by a foreign partner in coordination with the armed forces that targets a specific individual or individuals;
 
-(B) an operation conducted by the armed forces in self-defense or in defense of foreign partners, including during a cooperative operation.
+(2) an operation conducted by the armed forces in self-defense or in defense of foreign partners, including during a cooperative operation; or
 
-(2) For purposes of this section, the term "sensitive military operation" does not include any operation conducted within Afghanistan, Syria, or Iraq.
+(3) an operation conducted by the armed forces to free an individual from the control of hostile foreign forces.
 
 (e) Rule of Construction.—Nothing in this section shall be construed to provide any new authority or to alter or otherwise affect the War Powers Resolution (50 U.S.C. 1541 et seq.), the Authorization for Use of Military Force (Public Law 107–40; 50 U.S.C. 1541 note), or any requirement under the National Security Act of 1947 (50 U.S.C. 3001 et seq.).
 
 (f) Collective Self-defense Notification Requirement.—Not later than 48 hours after the date on which a foreign partner force has been designated as eligible for the provision of collective self-defense by the armed forces for the purposes of subsection (d)(1)(B), the Secretary of Defense shall provide to the congressional defense committees notice in writing of such designation.
 
-(Added Pub. L. 113–66, div. A, title X, §1041(a)(1), Dec. 26, 2013, 127 Stat. 856; amended Pub. L. 114–92, div. A, title X, §1043, Nov. 25, 2015, 129 Stat. 977; Pub. L. 114–328, div. A, title X, §1036(a)–(f)(1), Dec. 23, 2016, 130 Stat. 2391, 2392; Pub. L. 115–91, div. A, title X, §1081(a)(6), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 115–232, div. A, title X, §1031(a), (b), Aug. 13, 2018, 132 Stat. 1953.)
+(Added Pub. L. 113–66, div. A, title X, §1041(a)(1), Dec. 26, 2013, 127 Stat. 856; amended Pub. L. 114–92, div. A, title X, §1043, Nov. 25, 2015, 129 Stat. 977; Pub. L. 114–328, div. A, title X, §1036(a)–(f)(1), Dec. 23, 2016, 130 Stat. 2391, 2392; Pub. L. 115–91, div. A, title X, §1081(a)(6), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 115–232, div. A, title X, §1031(a), (b), Aug. 13, 2018, 132 Stat. 1953; Pub. L. 117–81, div. A, title X, §1042, Dec. 27, 2021, 135 Stat. 1903.)
+
+#### **Editorial Notes** ####
 
 #### References in Text ####
 
@@ -31,6 +33,10 @@ The National Security Act of 1947, referred to in subsecs. (c) and (e), is act J
 The War Powers Resolution, referred to in subsec. (e), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
 
 #### Amendments ####
+
+**2021**—Subsec. (d). Pub. L. 117–81, §1042(1)–(3), struck out par. (1) designation before "Except", substituted "In" for "Except as provided in paragraph (2), in", redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2), which read as follows: " For purposes of this section, the term 'sensitive military operation' does not include any operation conducted within Afghanistan, Syria, or Iraq."
+
+Subsec. (d)(3). Pub. L. 117–81, §1042(4)–(6), added par. (3).
 
 **2018**—Subsec. (d). Pub. L. 115–232, §1031(a), amended subsec. (d) generally. Prior to amendment, text read as follows: "The term 'sensitive military operation' means the following:
 
@@ -69,6 +75,8 @@ Subsec. (d). Pub. L. 114–328, §1036(d), substituted "means the following:" an
 Subsecs. (e), (f). Pub. L. 114–328, §1036(e), redesignated subsec. (f) as (e) and struck out former subsec. (e) which provided exception to notification requirement.
 
 **2015**—Subsec. (e). Pub. L. 114–92 designated existing provisions as par. (1) and added par. (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

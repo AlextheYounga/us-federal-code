@@ -82,6 +82,8 @@ Subject to valid existing rights, all public lands within the scenic area admini
 
 (Pub. L. 99–663, §14, Nov. 17, 1986, 100 Stat. 4294; Pub. L. 106–291, title III, §346(e), Oct. 11, 2000, 114 Stat. 1000; Pub. L. 113–287, §5(d)(16), Dec. 19, 2014, 128 Stat. 3265.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Mineral Lands Leasing Act of 1920, referred to in subsec. (e)(2)(A)(ii), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.

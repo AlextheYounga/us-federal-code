@@ -94,9 +94,13 @@ This subsection shall not apply to any land offered to the Secretary for acquisi
 
 (Pub. L. 99–663, §8, Nov. 17, 1986, 100 Stat. 4283; Pub. L. 106–291, title III, §346(b), Oct. 11, 2000, 114 Stat. 999.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2000**—Subsec. (o). Pub. L. 106–291 designated existing provisions as par. (1), inserted par. heading, substituted "section 544g(e) of this title." for "the Uniform Appraisal Standards for Federal Land Acquisitions (Interagency Land Acquisition Conference, 1973)." in first sentence, and added par. (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Administration, Operation, and Maintenance of Pierce National Wildlife Refuge and Little White Salmon National Fish Hatchery ####
 

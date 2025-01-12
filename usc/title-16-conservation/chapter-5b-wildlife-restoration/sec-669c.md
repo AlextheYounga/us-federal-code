@@ -184,12 +184,14 @@ Amendment by Pub. L. 101–233 effective Oct. 1, 1989, see section 7(a)(3) of Pu
 
 Amendment by Pub. L. 92–558 effective Jan. 1, 1975, see section 101(c) of Pub. L. 92–558, set out as a note under section 669b of this title.
 
-#### Transfer of Functions ####
-
-Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
-
 #### Suspension of Expense Limitation ####
 
 The Interior Department Appropriation Act, 1945, act June 28, 1944, ch. 298, §1, 58 Stat. 504, provided that the limitations in this chapter were waived to the extent necessary to provide overtime under the provisions of the War Overtime Pay Act, 1943, former sections 1401 to 1415 of the former Appendix to Title 50, War and National Defense, which act expired June 30, 1945.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, Government Organization and Employees, transferred functions of Secretary of Agriculture relating to conservation of wildlife, game, and migratory birds to Secretary of the Interior.
 
 [<sup>1</sup> See References in Text note below.](#669c_1)

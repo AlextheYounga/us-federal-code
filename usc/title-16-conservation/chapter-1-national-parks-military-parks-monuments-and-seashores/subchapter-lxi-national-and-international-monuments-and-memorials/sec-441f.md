@@ -4,9 +4,13 @@ In order to establish a more appropriate boundary for the Badlands National Park
 
 (May 7, 1952, ch. 244, §1, 66 Stat. 65; Pub. L. 95–625, title VI, §611, Nov. 10, 1978, 92 Stat. 3521.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Reference to the monument's approximately 154,119 acre area as of "May 7, 1952" was substituted for a reference in the original to the monument's "present" area.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

@@ -36,9 +36,13 @@
 
 (Added Pub. L. 106–65, div. A, title X, §1044(a), Oct. 5, 1999, 113 Stat. 761; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Subsecs. (a), (c)(4)(C). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2002 Amendment ####
 

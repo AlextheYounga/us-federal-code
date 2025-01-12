@@ -28,6 +28,8 @@ Section 643a, act Aug. 24, 1912, ch. 373, §13, 37 Stat. 502, related to continu
 
 Section 644, R.S. §1956; acts Apr. 21, 1910, ch. 183, §4, 36 Stat. 327; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; Jan. 13, 1925, ch. 75, §§2, 14, 43 Stat. 739, 747; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, forbade killing of certain fur-bearing animals in Alaska, punishment and forfeiture, power of Secretary of the Interior to authorize killing, and duty to execute law.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Termination of Sections ####
 
 Sections 632 to 643a were terminated on the authority of former section 643a of this title when Japan abrogated the treaty on Oct. 23, 1940, eff. Oct. 23, 1941. Sections 632 to 644 were later specifically repealed by act Feb. 26, 1944, ch. 65, §18, 58 Stat. 104.

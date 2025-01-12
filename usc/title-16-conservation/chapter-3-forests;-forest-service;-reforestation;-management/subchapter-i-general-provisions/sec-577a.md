@@ -4,6 +4,8 @@ The principle of conserving the natural beauty of shore lines for recreational u
 
 (July 10, 1930, ch. 881, §2, 46 Stat. 1021.)
 
+#### **Executive Documents** ####
+
 #### Transfer of Functions ####
 
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by Reorg. Plan No. 2 of 1953, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out in the Appendix to Title 5, Government Organization and Employees.

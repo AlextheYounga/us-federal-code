@@ -48,6 +48,8 @@
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2583; amended Pub. L. 112–81, div. A, title X, §1034(b), Dec. 31, 2011, 125 Stat. 1573.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 949b, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2609, related to unlawfully influencing action of military commission, prior to the general amendment of this chapter by Pub. L. 111–84.

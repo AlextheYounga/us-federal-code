@@ -24,6 +24,8 @@
 
 (Added Pub. L. 111–84, div. A, title IX, §906(a)(1), Oct. 28, 2009, 123 Stat. 2425; amended Pub. L. 111–383, div. A, title IX, §901(b)(3), (k)(1)(A), Jan. 7, 2011, 124 Stat. 4318, 4325; Pub. L. 113–291, div. A, title IX, §901(i)(1), (j)(2)(C), (k)(3), Dec. 19, 2014, 128 Stat. 3467, 3468; Pub. L. 115–91, div. A, title IX, §906(a)–(c), (f)(1), title X, §1081(b)(1)(A), Dec. 12, 2017, 131 Stat. 1513, 1514, 1597; Pub. L. 115–232, div. A, title X, §1081(f)(1)(C), Aug. 13, 2018, 132 Stat. 1986; Pub. L. 116–92, div. A, title XVI, §1621(e)(1)(B), Dec. 20, 2019, 133 Stat. 1733.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Subsec. (c)(6). Pub. L. 116–92 substituted "Deputy Under Secretary of Defense for Intelligence and Security" for "Deputy Under Secretary of Defense for Intelligence".
@@ -73,6 +75,8 @@ Subsec. (c)(4). Pub. L. 111–383, §901(b)(3)(C)(i), (iii), substituted "One of
 Subsec. (c)(5). Pub. L. 111–383, §901(b)(3)(C)(i), (iii), (iv), substituted "One of the Principal Deputy Under Secretaries is" for "One of the Deputy Under Secretaries shall be" and inserted before period at end ", who shall be appointed from among persons who have extensive expertise in intelligence matters".
 
 Subsec. (d). Pub. L. 111–383, §901(b)(3)(A), (D), substituted "Principal Deputy Under" for "Deputy Under" and inserted at end "The Principal Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

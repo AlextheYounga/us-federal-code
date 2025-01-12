@@ -28,9 +28,13 @@
 
 (Added Pub. L. 99–661, div. A, title VIII, §802(a)(1), Nov. 14, 1986, 100 Stat. 3905; Pub. L. 114–328, div. E, title LVII, §5233, Dec. 23, 2016, 130 Stat. 2915.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsec. (c). Pub. L. 114–328, in introductory provisions, struck out ", or the president of a court-martial without a military judge," after "the military judge".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2016 Amendment ####
 

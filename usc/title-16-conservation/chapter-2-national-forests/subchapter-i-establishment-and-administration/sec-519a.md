@@ -4,6 +4,8 @@ If any of the lands purchased or to be purchased by the United States under the 
 
 (Mar. 2, 1935, ch. 21, 49 Stat. 37; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act approved March 1, 1911, as amended, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.
@@ -11,6 +13,8 @@ Act approved March 1, 1911, as amended, referred to in text, is act Mar. 1, 1911
 #### Codification ####
 
 The words "with the consent and approval of the National Forest Reservation Commission established by section 4 of said Act of March 1, 1911 [16 U.S.C. 513]", which appeared immediately following the first reference to the Secretary of Agriculture, have been omitted as obsolete. Section 4 of the 1911 Act was repealed, and all functions of the National Forest Reservation Commission were transferred to the Secretary of Agriculture, by section 17(a)(1) of Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2961.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

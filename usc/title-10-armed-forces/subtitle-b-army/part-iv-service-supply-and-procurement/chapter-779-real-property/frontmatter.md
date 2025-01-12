@@ -18,6 +18,8 @@ Sec.
 
 7781. Cyber Center for Education and Innovation-Home of the National Cryptologic Museum.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 449 of this title as this chapter and items 4771 to 4781 as 7771 to 7781, respectively.
@@ -70,7 +72,7 @@ Pub. L. 116–283, div. B, title XXVIII, §2866, Jan. 1, 2021, 134 Stat. 4361, p
 
 "(c) Considerations.—To establish the pilot program, the Secretary of the Army shall—
 
-"(1) consider innovative approaches, including the use of other transaction authorities consistent with section 2371 of title 10, United States Code, and the use of commercial off-the-shelf technologies;
+"(1) consider innovative approaches, including the use of other transaction authorities consistent with section 2371 of title 10, United States Code [now 10 U.S.C. 4021], and the use of commercial off-the-shelf technologies;
 
 "(2) develop appropriate protections of sensitive or classified information from being included with the online inventory tool; and
 

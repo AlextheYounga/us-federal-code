@@ -4,6 +4,8 @@ Section, added Pub. L. 99–348, title V, §501(a), July 1, 1986, 100 Stat. 707,
 
 A prior section 133 was renumbered section 113 of this title.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that the position of Under Secretary of Defense for Acquisition and Technology in the Department of Defense was redesignated as the Under Secretary of Defense for Acquisition, Technology, and Logistics, and any reference in any law, regulation, document, or other record of the United States to the Under Secretary of Defense for Acquisition and Technology was to be treated as referring to the Under Secretary of Defense for Acquisition, Technology, and Logistics.

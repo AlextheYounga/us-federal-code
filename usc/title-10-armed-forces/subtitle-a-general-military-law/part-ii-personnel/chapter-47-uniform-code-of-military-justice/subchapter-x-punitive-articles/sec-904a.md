@@ -16,9 +16,13 @@ shall be punished as a court-martial may direct.
 
 In clauses (1) and (2), the words "means of" are omitted as surplusage.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–328 renumbered section 883 of this title as this section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2016 Amendment ####
 

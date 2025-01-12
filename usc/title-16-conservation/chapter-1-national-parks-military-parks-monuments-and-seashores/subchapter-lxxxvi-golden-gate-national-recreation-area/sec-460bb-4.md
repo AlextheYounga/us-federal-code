@@ -30,6 +30,8 @@ The Commission shall cease to exist thirty years after October 27, 1972.
 
 (Pub. L. 92–589, §5, Oct. 27, 1972, 86 Stat. 1302; Pub. L. 95–625, title III, §317(g), Nov. 10, 1978, 92 Stat. 3486; Pub. L. 96–344, §4(2), (3), Sept. 8, 1980, 94 Stat. 1134; Pub. L. 96–607, title X, §1001(6), (7), Dec. 28, 1980, 94 Stat. 3545; Pub. L. 102–525, title III, §303, Oct. 26, 1992, 106 Stat. 3441.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1992**—Subsec. (g). Pub. L. 102–525 substituted "thirty" for "twenty".

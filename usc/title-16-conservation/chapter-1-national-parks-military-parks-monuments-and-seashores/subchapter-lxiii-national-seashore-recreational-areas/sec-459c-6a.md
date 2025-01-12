@@ -4,6 +4,8 @@ The Secretary shall designate the principal environmental education center withi
 
 (Pub. L. 87–657, §7, as added Pub. L. 94–544, §4(b), Oct. 18, 1976, 90 Stat. 2515, and Pub. L. 94–567, §7(b), Oct. 20, 1976, 90 Stat. 2695.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 4(b) of Pub. L. 94–544 and section 7(b) of Pub. L. 94–567 enacted identical sections.

@@ -30,6 +30,8 @@
 
 (Added and amended Pub. L. 115–232, div. A, title XVI, §1677(a), (b)(1), Aug. 13, 2018, 132 Stat. 2160, 2161; Pub. L. 116–92, div. A, title XVII, §1731(a)(13), Dec. 20, 2019, 133 Stat. 1813.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, as added and amended by Pub. L. 115–232, is based on Pub. L. 114–328, div. A, title XVI, §1696, Dec. 23, 2016, 130 Stat. 2638, which was transferred to this chapter and renumbered as this section.

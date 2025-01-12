@@ -16,6 +16,8 @@ Section 581h, acts May 22, 1928, ch. 678, §9, 45 Stat. 702; May 31, 1944, ch. 2
 
 Section 581i, act May 22, 1928, ch. 678, §10, 45 Stat. 702, authorized appropriations for economic investigations of forest lands and forest products.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1978, see section 9 of Pub. L. 95–307, set out as an Effective Date note under section 1641 of this title.

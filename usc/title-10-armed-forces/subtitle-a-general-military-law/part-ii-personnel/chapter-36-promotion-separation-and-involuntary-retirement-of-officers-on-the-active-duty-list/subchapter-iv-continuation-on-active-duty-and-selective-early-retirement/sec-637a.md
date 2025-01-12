@@ -10,6 +10,8 @@
 
 (Added Pub. L. 114–328, div. A, title V, §505(a)(1), Dec. 23, 2016, 130 Stat. 2107; amended Pub. L. 115–232, div. A, title V, §506, title X, §1081(a)(8), Aug. 13, 2018, 132 Stat. 1743, 1983; Pub. L. 116–92, div. A, title V, §504, Dec. 20, 2019, 133 Stat. 1345.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Subsec. (a). Pub. L. 116–92 inserted "separation or" after "provided for the".

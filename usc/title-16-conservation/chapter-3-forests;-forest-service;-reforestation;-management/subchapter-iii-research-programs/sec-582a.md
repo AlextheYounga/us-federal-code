@@ -4,6 +4,8 @@ It is recognized that research in forestry is the driving force behind progress 
 
 (Pub. L. 87–788, §1, Oct. 10, 1962, 76 Stat. 806; Pub. L. 97–98, title XIV, §1441(a), Dec. 22, 1981, 95 Stat. 1320.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in text, is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
@@ -15,6 +17,8 @@ The Soil and Water Resources Conservation Act of 1977, referred to in text, is P
 #### Amendments ####
 
 **1981**—Pub. L. 97–98 inserted provision relating to recognition that provisions of this subchapter are essential to assist in providing the research background that undergirds the Forest and Rangeland Renewable Resources Planning Act of 1974, the Renewable Resources Extension Act of 1978, and the Soil and Water Resources Conservation Act of 1977.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1981 Amendment ####
 

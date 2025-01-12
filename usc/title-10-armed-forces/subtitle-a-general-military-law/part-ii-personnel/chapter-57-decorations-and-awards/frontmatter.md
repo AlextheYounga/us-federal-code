@@ -38,6 +38,8 @@ Sec.
 
 1136. Honorable service requirement for award of military decorations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–92, div. A, title V, §582(a)(2), Dec. 20, 2019, 133 Stat. 1412, added item 1136.
@@ -75,6 +77,30 @@ Pub. L. 89–534, §1(2), Aug. 11, 1966, 80 Stat. 345, added item 1124, relating
 Pub. L. 89–529, §1(2), Aug. 11, 1966, 80 Stat. 339, added item 1125.
 
 **1965**—Pub. L. 89–198, §1(2), Sept. 22, 1965, 79 Stat. 831, added item 1124, relating to payment of cash awards for members of armed forces for suggestions, inventions, or scientific achievements.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Establishment of the Atomic Veterans Commemorative Service Medal ####
+
+Pub. L. 117–81, div. A, title V, §583, Dec. 27, 2021, 135 Stat. 1757, provided that:
+
+"(a) Service Medal Required.—The Secretary of Defense shall design and produce a commemorative military service medal, to be known as the 'Atomic Veterans Commemorative Service Medal', to commemorate the service and sacrifice of veterans who were instrumental in the development of our nations [sic] atomic and nuclear weapons programs.
+
+"(b) Eligibility Requirements.—(1) The Secretary of Defense shall, within 180 days after the date of enactment of this Act [Dec. 27, 2021], determine eligibility requirements for this medal.
+
+"(2) Sixty days prior to publishing the eligibility requirements for this medal, the Secretary of Defense shall submit proposed eligibility criteria under paragraph (1) to the Committees on Armed Services of the Senate and House of Representatives for comment.
+
+"(3) The Secretary of Defense may require persons to submit supporting documentation for the medal authorized in subsection (a) to determine eligibility under paragraph (1).
+
+"(c) Distribution of Medal.—
+
+"(1) Issuance to retired and former members.—At the request of an eligible veteran, the Secretary of Defense shall issue the Atomic Veterans Commemorative Service Medal to the eligible veteran.
+
+"(2) Issuance to next-of-kin.—In the case of a veteran who is deceased, the Secretary may provide for issuance of the Atomic Veterans Commemorative Service Medal to the next-of-kin of the persons. If applications for a medal are filed by more than one next of kin of a person eligible to receive a medal under this section, the Secretary of Defense shall determine which next-of-kin will receive the medal.
+
+"(3) Application.—The Secretary shall prepare and disseminate as appropriate an application by which veterans and their next-of-kin may apply to receive the Atomic Veterans Service Medal.
+
+"(d) Authorization of Appropriations.—There is authorized to be appropriated such sum as may be necessary to carry out this section."
 
 #### Development of Guidelines for Use of Unofficial Sources of Information To Determine Eligibility of Members and Former Members of the Armed Forces for Decorations When the Service Records Are Incomplete Because of Damage to the Official Record ####
 
@@ -157,6 +183,8 @@ Pub. L. 105–85, div. A, title X, §1084, Nov. 18, 1997, 111 Stat. 1919, provid
 "(b) Congressional Commendation.—The Congress hereby commends the members of the Armed Forces and civilian personnel of the Government who contributed to the historic victory in the Cold War and expresses its gratitude and appreciation for their service and sacrifices.
 
 "(c) Certificates of Recognition.—The Secretary of Defense shall prepare a certificate recognizing the Cold War service of qualifying members of the Armed Forces and civilian personnel of the Department of Defense and other Government agencies contributing to national security, as determined by the Secretary, and shall provide the certificate to such members and civilian personnel upon request."
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 11448. Meritorious Service Medal ####
 

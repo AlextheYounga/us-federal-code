@@ -10,6 +10,8 @@ Subject to valid existing rights, the Rattlesnake Wilderness as designated by th
 
 (Pub. L. 96–476, §2, Oct. 19, 1980, 94 Stat. 2271.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.

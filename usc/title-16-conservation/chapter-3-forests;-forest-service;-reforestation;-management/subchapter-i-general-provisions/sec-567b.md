@@ -26,6 +26,8 @@ No cooperative agreement shall be entered into or continued in force under the a
 
 (Aug. 29, 1935, ch. 808, §2, 49 Stat. 963.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Forest Reservation Commission, referred to in subsecs. (d), (e), and (i), was created by section 4 of act Mar. 1, 1911 (16 U.S.C. 513). Section 4 of the 1911 Act was repealed, and all functions of the National Forest Reservation Commission were transferred to the Secretary of Agriculture, by section 17(a)(1) of Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2961.

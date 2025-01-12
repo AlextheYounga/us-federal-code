@@ -20,6 +20,8 @@ Sec.
 
 7690. Recyclable munitions materials: sale; use of proceeds.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 443 of this title as this chapter and items 4682 to 4690 as 7682 to 7690, respectively.
@@ -37,6 +39,8 @@ Sec.
 **1999**—Pub. L. 106–65, div. A, title III, §381(d)(2), Oct. 5, 1999, 113 Stat. 583, substituted "Excess M–1 rifles: loan or donation for funeral and other ceremonial purposes" for "Obsolete or condemned rifles: loan to local units of recognized veterans' organizations" in item 4683.
 
 **1997**—Pub. L. 105–85, div. A, title X, §1065(a)(2), Nov. 18, 1997, 111 Stat. 1895, added item 4687.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Repurposing and Reuse of Surplus Army Firearms ####
 

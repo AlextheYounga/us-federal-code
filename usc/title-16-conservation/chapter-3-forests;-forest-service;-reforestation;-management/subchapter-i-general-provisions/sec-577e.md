@@ -4,6 +4,8 @@ Lands shall be acquired by purchase or condemnation under the supplemental autho
 
 (June 22, 1948, ch. 593, §3, 62 Stat. 570.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Forest Reservation Commission, referred to in text, was created by section 4 of act Mar. 1, 1911 (16 U.S.C. 513). Section 4 of the 1911 Act was repealed, and all functions of the National Forest Reservation Commission were transferred to the Secretary of Agriculture, by section 17(a)(1) of Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2961.

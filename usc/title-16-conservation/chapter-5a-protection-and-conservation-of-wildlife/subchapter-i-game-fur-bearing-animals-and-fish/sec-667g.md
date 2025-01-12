@@ -4,6 +4,8 @@ For the purpose of meeting emergency situations caused by adverse weather condit
 
 (Pub. L. 87–152, §1, Aug. 17, 1961, 75 Stat. 389.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was formerly classified to section 447 of Title 7, Agriculture, prior to editorial reclassification and renumbering as this section.

@@ -18,11 +18,15 @@
 
 (Added Pub. L. 114–328, div. E, title LXI, §5504(a), Dec. 23, 2016, 130 Stat. 2961; amended Pub. L. 116–92, div. A, title V, §534(a), Dec. 20, 2019, 133 Stat. 1361; Pub. L. 116–283, div. A, title V, §543, Jan. 1, 2021, 134 Stat. 3613.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Subsec. (d). Pub. L. 116–283 added subsec. (d).
 
 **2019**—Pub. L. 116–92 designated existing provisions as subsec. (a), inserted heading, in introductory provisions substituted "The Secretary of Defense, in consultation with the Secretary of Homeland Security," for "The Secretary of Defense" and inserted "(including with respect to the Coast Guard)" after "military justice system", in par. (4) inserted "public" before "access to docket information", and added subsecs. (b) and (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

@@ -4,9 +4,13 @@ The Secretary shall revise the document entitled "Smith River National Recreatio
 
 (Pub. L. 101–612, §9, Nov. 16, 1990, 104 Stat. 3214.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in text, was in the original "this Act", meaning Pub. L. 101–612, Nov. 16, 1990, 104 Stat. 3209, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460bbb of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Management ####
 

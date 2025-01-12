@@ -30,6 +30,8 @@ Sec.
 
 7024. Director of Small Business Programs.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 303 of this title as this chapter and items 3011 to 3024 as 7011 to 7024, respectively.

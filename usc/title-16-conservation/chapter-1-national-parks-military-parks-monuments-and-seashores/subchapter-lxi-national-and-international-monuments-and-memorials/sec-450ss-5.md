@@ -12,6 +12,8 @@ Amounts appropriated in any fiscal year to carry out the provisions of sections 
 
 (Pub. L. 105–58, §7, Oct. 9, 1997, 111 Stat. 1266; Pub. L. 108–199, div. F, title V, §544(f), Jan. 23, 2004, 118 Stat. 348; Pub. L. 116–283, div. H, title XCV, §9501, Jan. 1, 2021, 134 Stat. 4822.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Par. (1). Pub. L. 116–283 substituted "the Secretary may provide, from the National Park Service's National Recreation and Preservation account, the remainder of" for "there is hereby authorized".

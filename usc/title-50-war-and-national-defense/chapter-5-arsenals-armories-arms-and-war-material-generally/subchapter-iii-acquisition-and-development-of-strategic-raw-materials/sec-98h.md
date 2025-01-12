@@ -116,6 +116,6 @@ Pub. L. 99–500, §101(m) [title V, §520], Oct. 18, 1986, 100 Stat. 1783–308
 
 #### Deposit of Funds Accruing From Naval Petroleum Reserves ####
 
-Pub. L. 98–525, title IX, §905, Oct. 19, 1984, 98 Stat. 2574, as amended by Pub. L. 99–145, title XVI, §1611(a), Nov. 8, 1985, 99 Stat. 776, provided that: "There shall be deposited into the National Defense Stockpile Transaction Fund established under section 9 of the Act (50 U.S.C. 98h) 30 percent of all money accruing to the United States during fiscal years 1985 and 1986 from lands in the naval petroleum and oil shale reserves (less amounts spent for exploration, development and operation of those reserves and related expenses during that period). Moneys deposited into the Fund under this subsection shall be deemed to have been covered into the Fund under section 9(b) of the Act."
+Pub. L. 98–525, title IX, §905, Oct. 19, 1984, 98 Stat. 2574, as amended by Pub. L. 99–145, title XVI, §1611(a), Nov. 8, 1985, 99 Stat. 776, authorized the deposit into the National Defense Stockpile Transaction Fund, established under this section, of 30 percent of all money accruing to the United States during fiscal years 1985 and 1986 from lands in the naval petroleum and oil shale reserves.
 
 [<sup>1</sup> See References in Text note below.](#98h_1)

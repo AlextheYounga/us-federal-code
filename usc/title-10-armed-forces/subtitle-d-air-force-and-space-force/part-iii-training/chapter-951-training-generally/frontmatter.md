@@ -2,9 +2,9 @@
 
 Sec.
 
-9401. Members of Air Force and Space Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals. 1
+9401. Members of Air Force and Space Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals.
 
-9402. Enlisted members of Air Force or Space Force: schools. 1
+9402. Enlisted members of Air Force or Space Force: schools.
 
 9403. Aviation cadets and aviation students: schools.
 
@@ -13,6 +13,8 @@ Sec.
 9405. Civilian flying school instructors: instruction at Air Force training commands.
 
 9406. Service schools: leaves of absence for instructors.
+
+9413. United States Air Force Institute of Technology: establishment.
 
 9414. Degree granting authority for United States Air Force Institute of Technology.
 
@@ -28,13 +30,17 @@ Sec.
 
 9420. Recruit basic training: privacy.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 951, consisting of sections 9801 to 9806, related to military claims, prior to renumbering as chapter 981 of this title.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title IX, §923(d)(1)(D), (2)(C), Jan. 1, 2021, 134 Stat. 3813, 3814, added items 9401 and 9402 and struck out former items 9401 "Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals" and 9402 "Enlisted members of Air Force: schools".
+**2021**—Pub. L. 117–81, div. A, title V, §558(b), title X, §1081(a)(35), (36), Dec. 27, 2021, 135 Stat. 1741, 1921, added item 9413 and reenacted items 9401 and 9402.
+
+Pub. L. 116–283, div. A, title IX, §923(d)(1)(D), (2)(C), Jan. 1, 2021, 134 Stat. 3813, 3814, added items 9401 and 9402 and struck out former items 9401 "Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals" and 9402 "Enlisted members of Air Force: schools".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(2), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 901 of this title as this chapter and items 9301 to 9306, 9314, 9314a, 9314b, 9315, 9317, 9319, and 9320 as 9401 to 9406, 9414, 9414a, 9414b, 9415, 9417, 9419, and 9420, respectively.
 
@@ -61,5 +67,3 @@ Pub. L. 111–383, div. A, title V, §593(b), Jan. 7, 2011, 124 Stat. 4234, adde
 **1985**—Pub. L. 99–145, title V, §504(a)(2)(B), Nov. 8, 1985, 99 Stat. 622, struck out ": degrees" after "Technology" in item 9314.
 
 **1976**—Pub. L. 94–361, title VI, §602, July 14, 1976, 90 Stat. 928, added item 9315.
-
-[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER951_1)

@@ -562,7 +562,7 @@ The Secretary, acting through the Director, shall make each report submitted und
 
 #### (B) Redactions ####
 
-In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under section 552 of title 5, United States Code (commonly referred to as the 'Freedom of Information Act').
+In making each report publicly available under subparagraph (A), the Director may make redactions that the Director, in consultation with each eligible entity, determines necessary to protect classified or other information exempt from disclosure under section 552 of title 5 (commonly referred to as the 'Freedom of Information Act').
 
 #### (4) Study of risk-based formulas ####
 
@@ -634,4 +634,10 @@ Subject to paragraph (2), the requirements of this section shall terminate on Se
 
 The reporting requirements under subsection (q) shall terminate on the date that is 1 year after the date on which the final funds from a grant under this section are expended or returned.
 
-(Pub. L. 107–296, title XXII, §2218, as added Pub. L. 117–58, div. G, title VI, §70612(a), Nov. 15, 2021, 135 Stat. 1272.)
+(Pub. L. 107–296, title XXII, §2220A, formerly §2218, as added Pub. L. 117–58, div. G, title VI, §70612(a), Nov. 15, 2021, 135 Stat. 1272; renumbered §2220A and amended, Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(viii), Dec. 27, 2021, 135 Stat. 2061.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2021**—Pub. L. 117–81 re-enact4ed section catchline.

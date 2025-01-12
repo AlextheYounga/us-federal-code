@@ -6,6 +6,8 @@ Sections 450f–1 and 450f–2, act Jan. 29, 1940, ch. 16, 54 Stat. 18, related 
 
 Sections 450g to 450k, act Aug. 15, 1935, ch. 547, §§2–6, 49 Stat. 652, 653, related to administration, etc., of Monument.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Unexpended Funds ####
 
 Section 2 of act Dec. 21, 1944, ch. 634, 58 Stat. 853, provided that all unexpended balances of amounts appropriated were to be covered into the surplus fund of the Treasury.

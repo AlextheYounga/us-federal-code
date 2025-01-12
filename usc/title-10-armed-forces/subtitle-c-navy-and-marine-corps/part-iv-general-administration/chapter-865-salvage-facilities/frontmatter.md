@@ -10,6 +10,8 @@ Sec.
 
 8704. Disposition of receipts.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 865, formerly consisting of sections 8881 to 8889, related to retirement from the Air Force for age, prior to repeal by Pub. L. 85–155, title IV, §401(1), Aug. 21, 1957, 71 Stat. 390, and Pub. L. 96–513, title II, §216, Dec. 12, 1980, 94 Stat. 2886.

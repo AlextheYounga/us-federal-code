@@ -6,9 +6,13 @@
 
 (Added Pub. L. 115–91, div. A, title X, §1002(b)(1), Dec. 12, 2017, 131 Stat. 1538, §251; renumbered §240a, Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), Aug. 13, 2018, 132 Stat. 1945.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232 renumbered section 251 of this title as this section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Review and Recommendations on Efforts To Obtain Audit Opinion on Full Financial Statements ####
 

@@ -52,6 +52,8 @@ As used in this chapter—
 
 (Sept. 2, 1937, ch. 899, §2, 50 Stat. 917; July 2, 1956, ch. 489, §1, 70 Stat. 473; Pub. L. 86–624, §10, July 12, 1960, 74 Stat. 412; Pub. L. 106–553, §1(a)(2) [title IX, §902(c)], Dec. 21, 2000, 114 Stat. 2762, 2762A–119; Pub. L. 116–17, §4(a), May 10, 2019, 133 Stat. 867; Pub. L. 116–94, div. P, title V, §501(c), Dec. 20, 2019, 133 Stat. 3191.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 669c(d) of this title, referred to in par. (9), was in the original "section 304(d)", and was translated as reading "section 4(d)", meaning section 4(d) of Act Sept. 2, 1937, ch. 899, to reflect the probable intent of Congress, because Act Sept. 2, 1937, ch. 899, does not contain a section 304(d), and section 4(d) relates to wildlife conservation and restoration programs. Section 669c(d) of this title was redesignated section 669c(e) of this title by Pub. L. 116–94, div. P, title V, §501(d)(2)(A), Dec. 20, 2019, 133 Stat. 3192.
@@ -69,6 +71,8 @@ Pub. L. 116–17 added par. (2) and redesignated former pars. (2) to (8) as (3) 
 **1960**—Pub. L. 86–624 struck out provisions which defined "State" as including the several States and the Territory of Hawaii.
 
 **1956**—Act July 2, 1956, included definition of "State".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1956 Amendment ####
 

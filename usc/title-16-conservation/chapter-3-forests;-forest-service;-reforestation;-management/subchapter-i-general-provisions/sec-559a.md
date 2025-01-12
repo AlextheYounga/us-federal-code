@@ -4,6 +4,8 @@ The Secretary of Agriculture may pay rewards from appropriations available for t
 
 (Sept. 21, 1944, ch. 412, title II, §201, 58 Stat. 736.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as a part of the Department of Agriculture Organic Act of 1944.

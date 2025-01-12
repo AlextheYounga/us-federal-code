@@ -16,6 +16,8 @@ Sec.
 
 7544. Army industrial facilities: cooperative activities with non-Army entities.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 433 of this title as this chapter and items 4532 to 4544 as 7532 to 7544, respectively.
@@ -33,3 +35,37 @@ Sec.
 **1982**—Pub. L. 97–258, §2(b)(9)(A), Sept. 13, 1982, 96 Stat. 1056, added item 4541.
 
 **1970**—Pub. L. 91–482, §2A, Oct. 21, 1970, 84 Stat. 1082, struck out item 4539 "Horses and mules".
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Continuation of Soldier Enhancement Program ####
+
+Pub. L. 117–81, div. A, title I, §114, Dec. 27, 2021, 135 Stat. 1567, provided that:
+
+"(a) Requirement to Continue Program.—The Secretary of the Army, acting through the Assistant Secretary of the Army for Acquisition, Logistics, and Technology in accordance with subsection (b), shall continue to carry out the Soldier Enhancement Program established pursuant to section 203 of the National Defense Authorization Act for Fiscal Years 1990 and 1991 (Public Law 101–189; 103 Sat. 1394 [probably should be "103 Stat. 1394"]).
+
+"(b) Responsible Official.—The Secretary of the Army shall designate the Assistant Secretary of the Army for Acquisition, Logistics, and Technology as the official in the Department of the Army with principal responsibility for the management of the Soldier Enhancement Program under subsection (a).
+
+"(c) Duties.—The duties of the Soldier Enhancement Program shall include the identification, research, development, test, and evaluation of commercially available off-the-shelf items (as defined in section 104 of title 41, United States Code) and software applications to accelerate the efforts of the Army to integrate, modernize, and enhance weapons and equipment for use by Army soldiers, including—
+
+"(1) lighter, more lethal weapons; and
+
+"(2) support equipment, including lighter, more comfortable load-bearing equipment, field gear, combat clothing, survivability items, communications equipment, navigational aids, night vision devices, tactical power, sensors, and lasers."
+
+#### Military Standards for Armor Materials in Vehicle Specifications ####
+
+Pub. L. 117–81, div. A, title VIII, §878, Dec. 27, 2021, 135 Stat. 1867, provided that:
+
+"(a) In General.—Not later than June 30, 2022, the Secretary of the Army shall establish technical specification standards for all metal and non-metal armor for incorporation into specifications for current and future armored vehicles developed or procured by the Department of the Army.
+
+"(b) Report Required.—
+
+"(1) In general.—On the date on which the standards described in subsection (a) are established under such subsection, the Secretary of the Army shall submit to the congressional defense committees [Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives] a report describing—
+
+"(A) the establishment of such standards; and
+
+"(B) the strategy for incorporating such standards as requirements for armored vehicles developed and procured by the Department of the Army.
+
+"(2) Form.—The report required by paragraph (1) shall be in an unclassified form, but may include a classified annex.
+
+"(c) Armored Vehicle Defined.—For purposes of this section, the term 'armored vehicle' means a tracked or wheeled tactical vehicle incorporating armor in its manufacture."

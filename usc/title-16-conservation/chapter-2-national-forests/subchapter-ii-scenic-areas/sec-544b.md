@@ -58,6 +58,8 @@ The Secretary, in consultation with the Commission, may make minor revisions in 
 
 (Pub. L. 99–663, §4, Nov. 17, 1986, 100 Stat. 4276; Pub. L. 103–437, §6(d)(34), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 105–277, div. A, §101(e) [title III, §354(a)], Oct. 21, 1998, 112 Stat. 2681–231, 2681–303; Pub. L. 106–31, title V, §5004(3), May 21, 1999, 113 Stat. 110; Pub. L. 106–291, title III, §346(d), Oct. 11, 2000, 114 Stat. 1000.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Second Supplemental Appropriations Act, 1984, referred to in subsec. (a)(2)(B)(i), is Pub. L. 98–396, Aug. 22, 1984, 98 Stat. 1369. For complete classification of this Act to the Code, see Tables.
@@ -73,6 +75,8 @@ Subsec. (b)(3). Pub. L. 106–291, §346(d)(2), which directed amendment of subs
 **1998**—Subsec. (a)(2). Pub. L. 105–277, as amended by Pub. L. 106–31, inserted par. (2) heading, designated existing provisions as subpar. (A), inserted heading, and substituted "Except as provided in subparagraph (B), the boundaries" for "The boundaries", and added subpar. (B).
 
 **1994**—Subsec. (c). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committees on Agriculture and".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1999 Amendment ####
 

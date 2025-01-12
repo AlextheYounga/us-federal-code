@@ -4,9 +4,13 @@ The President of the United States is authorized to establish by proclamation th
 
 (June 2, 1936, ch. 477, §1, 49 Stat. 1393; Pub. L. 92–568, §1, Oct. 26, 1972, 86 Stat. 1181.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Perry's Victory and International Peace Memorial" substituted in text for "Perry's Victory and International Peace Memorial National Monument" to conform to the redesignation provided in section 1 of Pub. L. 92–568, classified to section 433f–1 of this title.
+
+#### **Executive Documents** ####
 
 #### Establishment of Memorial; Boundaries ####
 

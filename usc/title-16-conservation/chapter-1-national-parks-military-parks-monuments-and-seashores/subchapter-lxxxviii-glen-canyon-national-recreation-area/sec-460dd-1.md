@@ -10,6 +10,8 @@ Nothing in this subchapter shall be construed to affect the mineral rights reser
 
 (Pub. L. 92–593, §2, Oct. 27, 1972, 86 Stat. 1311.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of September 2, 1958 (72 Stat. 1686), referred to in subsec. (b), provided for exchange of lands between United States and Navajo Tribe and for other purposes, and was not classified to the Code.

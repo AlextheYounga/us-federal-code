@@ -4,6 +4,8 @@ The Secretary may renew a special recreational use permit applicable to lands in
 
 (Pub. L. 106–399, title I, §115, Oct. 30, 2000, 114 Stat. 1663.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.

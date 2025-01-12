@@ -4,9 +4,13 @@ The Secretary of Agriculture (hereinafter referred to as the "Secretary") is aut
 
 (Pub. L. 92–300, §1, May 18, 1972, 86 Stat. 147; Pub. L. 103–82, title IV, §405(d), Sept. 21, 1993, 107 Stat. 921.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1993**—Pub. L. 103–82 substituted "the Corporation for National and Community Service" for "ACTION".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1993 Amendment ####
 

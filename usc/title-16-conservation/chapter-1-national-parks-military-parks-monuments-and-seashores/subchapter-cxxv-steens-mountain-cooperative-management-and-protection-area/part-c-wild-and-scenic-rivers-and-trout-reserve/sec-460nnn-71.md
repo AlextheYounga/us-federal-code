@@ -8,6 +8,8 @@ Where management requirements for a stream segment described in the amendments m
 
 (Pub. L. 106–399, title III, §301, Oct. 30, 2000, 114 Stat. 1667.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 For the amendments made by this section, referred to in subsec. (c), see Codification note below.

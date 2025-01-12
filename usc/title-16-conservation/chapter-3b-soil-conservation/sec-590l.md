@@ -10,11 +10,15 @@ The Secretary is authorized to make advances to producers for the purpose of ass
 
 (Apr. 27, 1935, ch. 85, §12, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1151; amended Mar. 25, 1939, ch. 15, 53 Stat. 550; July 2, 1940, ch. 521, §1, 54 Stat. 727.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1940**—Subsec. (b). Act July 2, 1940, inserted last sentence.
 
 **1939**—Act Mar. 25, 1939, designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

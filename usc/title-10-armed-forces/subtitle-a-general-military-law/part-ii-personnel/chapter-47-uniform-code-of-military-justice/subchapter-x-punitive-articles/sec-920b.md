@@ -62,11 +62,15 @@ In the case of a parent-child or similar relationship, the use or abuse of paren
 
 (Added Pub. L. 112–81, div. A, title V, §541(b), Dec. 31, 2011, 125 Stat. 1407; amended Pub. L. 112–239, div. A, title X, §1076(a)(3), Jan. 2, 2013, 126 Stat. 1948; Pub. L. 114–328, div. E, title LX, §5430(c), Dec. 23, 2016, 130 Stat. 2950.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsec. (h)(1). Pub. L. 114–328 inserted before period at end ", except that the term 'sexual act' also includes the intentional touching, not through the clothing, of the genitalia of another person who has not attained the age of 16 years with an intent to abuse, humiliate, harass, degrade, or arouse or gratify the sexual desire of any person".
 
 **2013**—Pub. L. 112–239 made technical amendment to directory language of Pub. L. 112–81, which enacted this section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2016 Amendment ####
 

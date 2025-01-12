@@ -16,9 +16,13 @@ is guilty of maiming and shall be punished as a court-martial may direct.
 |-----------------|--------------------|--------------------------------------------------|
 |       924       |      50:718.       |May 5, 1950, ch. 169, §1 (Art. 124), 64 Stat. 141.|
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–328 renumbered section 924 of this title as this section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2016 Amendment ####
 

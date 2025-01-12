@@ -16,6 +16,8 @@ Nothing in this subchapter—
 
 (Pub. L. 109–337, §8, Oct. 12, 2006, 120 Stat. 1781.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of May 31, 1939, referred to in par. (1), is act May 31, 1939, ch. 155, 53 Stat. 785, which is not classified to the Code.

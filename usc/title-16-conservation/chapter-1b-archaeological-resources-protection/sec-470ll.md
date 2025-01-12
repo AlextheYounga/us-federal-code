@@ -4,6 +4,8 @@ As part of the annual report required to be submitted to the specified committee
 
 (Pub. L. 96–95, §13, Oct. 31, 1979, 93 Stat. 728.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 469a–3 of this title, referred to in text, was repealed and restated as section 312504 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. Prior to repeal of section 469a–3, language in subsec. (c) of that section that required submission of an annual report was struck out by Pub. L. 104–333.

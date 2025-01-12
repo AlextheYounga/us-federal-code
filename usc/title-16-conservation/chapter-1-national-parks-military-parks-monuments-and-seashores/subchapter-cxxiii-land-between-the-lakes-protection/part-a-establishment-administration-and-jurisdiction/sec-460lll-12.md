@@ -14,6 +14,8 @@ In order to provide for a cost-effective transfer of the law enforcement respons
 
 (Pub. L. 105–277, div. A, §101(e) [title V, §512], Oct. 21, 1998, 112 Stat. 2681–231, 2681–313.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of March 1, 1911, referred to in subsec. (b), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.

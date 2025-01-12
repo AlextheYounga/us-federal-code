@@ -1,5 +1,7 @@
 ### §§584 to 584q. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 584, acts June 28, 1937, ch. 383, §1, 50 Stat. 319; Aug. 7, 1939, ch. 553, §1, 53 Stat. 1253, related to establishment of Corps.
@@ -46,6 +48,8 @@ Section 584p, act June 28, 1937, ch. 383, §17, 50 Stat. 322, related to appropr
 
 Section 584q, act June 28, 1937, ch. 383, §18, 50 Stat. 322, related to effective date.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Repeals ####
 
 Sections 1, 2, 5, 8 to 10 of act June 28, 1937, ch. 383, 50 Stat. 319–321, formerly classified to sections 584, 584a, 584d, 584g, 584h, and 584i of this title, were repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 649.
@@ -63,8 +67,6 @@ Act Oct. 21, 1940, ch. 906, 54 Stat. 1206, formerly classified to section 584g o
 #### Transfer of Functions ####
 
 Civilian Conservation Corps camps transferred to Administrator of Food Production and Distribution by former section 1355(e) of the former Appendix to Title 50, War and National Defense.
-
-Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of said Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. I of 1939, §§201 and 207, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1425, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Sections Continued for Purposes of Liquidation ####
 
@@ -86,13 +88,19 @@ Acts July 2, 1942, ch. 475, title II, 56 Stat. 569, and July 12, 1943, ch. 221, 
 
 Act July 1, 1937, ch. 425, §1, 50 Stat. 470, provided for continuance of employment without reappointment of certain employees of Emergency Conservation Work and of cooperating Federal agencies.
 
-#### Cooperation of Department Heads Authorized ####
-
-Ex. Ord. No. 7677–A, §3, July 1, 1937, 2 F.R. 1581 DI, 1346 BV, as amended by Ex. Ord. No. 7717, Sept. 29, 1937, 2 F.R. 2435 DI, 2087 BV; Ex. Ord. No. 8133, May 15, 1939, 4 F.R. 2043; Ex. Ord. No. 8221, July 1, 1939, 4 F.R. 3715, provided for cooperation of Secretary of War, Secretary of the Interior, Secretary of Agriculture and Administrator of Veterans' Affairs with Director of C.C.C.
-
 #### Medical and Burial Expenses ####
 
 Acts July 12, 1943, ch. 221, title III, 57 Stat. 514; June 28, 1944, ch. 302, title III, 58 Stat. 567; July 3, 1945, ch. 263, title III, 59 Stat. 377; July 26, 1946, ch. 672, title III, §301, 60 Stat. 697, provided for medical and burial expenses of certain enrollees of the Civilian Conservation Corps.
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Civilian Conservation Corps and its functions consolidated with other agencies under Federal Security Agency, to be administered by Director of said Corps under direction and supervision of Federal Security Administration by Reorg. Plan No. I of 1939, §§201 and 207, eff. July 1, 1939, 4 F.R. 2728, 2729, 53 Stat. 1425, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Cooperation of Department Heads Authorized ####
+
+Ex. Ord. No. 7677–A, §3, July 1, 1937, 2 F.R. 1581 DI, 1346 BV, as amended by Ex. Ord. No. 7717, Sept. 29, 1937, 2 F.R. 2435 DI, 2087 BV; Ex. Ord. No. 8133, May 15, 1939, 4 F.R. 2043; Ex. Ord. No. 8221, July 1, 1939, 4 F.R. 3715, provided for cooperation of Secretary of War, Secretary of the Interior, Secretary of Agriculture and Administrator of Veterans' Affairs with Director of C.C.C.
 
 #### Projects on Private Lands ####
 

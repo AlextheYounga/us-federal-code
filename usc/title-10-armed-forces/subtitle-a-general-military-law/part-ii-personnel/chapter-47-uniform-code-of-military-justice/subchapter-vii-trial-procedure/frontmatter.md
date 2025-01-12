@@ -24,6 +24,8 @@
 |853a.|53a.|                                Plea agreements.                                 |
 |854. |54. |                                Record of trial.                                 |
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 116–283, div. A, title X, §1081(a)(20), Jan. 1, 2021, 134 Stat. 3871, added item 837 and struck out former item 837 "837. Art. 37. Command influence".

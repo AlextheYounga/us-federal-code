@@ -10,6 +10,8 @@ Sec.
 
 994. Military working dogs: veterinary care for retired military working dogs.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Pub. L. 114–92, div. A, title VI, §661(e)(2), Nov. 25, 2015, 129 Stat. 858, substituted "Financial literacy training: financial services" for "Consumer education: financial services" in item 992.

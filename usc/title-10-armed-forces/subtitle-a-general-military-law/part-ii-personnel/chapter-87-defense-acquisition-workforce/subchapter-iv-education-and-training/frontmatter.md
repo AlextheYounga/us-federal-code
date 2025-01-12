@@ -12,11 +12,17 @@ Sec.
 
 1746. Defense Acquisition University.
 
+1746a. Acquisition workforce educational partnerships.
+
 1747. Acquisition fellowship program.
 
 1748. Fulfillment standards for acquisition workforce training.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title VIII, §801(b), Dec. 27, 2021, 135 Stat. 1812, added item 1746a.
 
 **2011**—Pub. L. 111–383, div. A, title VIII, §§874(b)(2), 877(c)(2)(B), Jan. 7, 2011, 124 Stat. 4305, 4306, substituted "Defense Acquisition University" for "Defense acquisition university structure" in item 1746 and added item 1748.
 

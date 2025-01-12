@@ -4,6 +4,8 @@ The Secretary of the Interior is authorized to lease to the immediately precedin
 
 (June 21, 1934, ch. 694, §3, 48 Stat. 1199; Pub. L. 94–578, title III, §319(3), Oct. 21, 1976, 90 Stat. 2738.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–578 substituted "lease to the immediately preceding owner or owners any lands acquired pursuant to an agreement that such lessee or lessees will occupy such lands in a manner consistent with the purposes of sections 430j to 430m and 430o to 430s of this title and" for "enter into leases with the owners of such of the lands, works, defenses, and buildings thereon within the Monocacy National Military Park, as in his discretion it is unnecessary to forthwith acquire title to, and such leases shall be on such terms and conditions as the Secretary of the Interior may prescribe, and may contain options to purchase, subject to later acceptance, if, in the judgment of the Secretary of the Interior, it is as economical to purchase as condemn title to the property: *Provided*, That the Secretary of the Interior may enter into agreements upon such nominal terms as he may prescribe, permitting the present owners or their tenants to occupy or cultivate their present holdings, upon condition".

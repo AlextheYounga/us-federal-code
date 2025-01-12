@@ -74,11 +74,11 @@ A prior section 466, act Aug. 4, 1949, ch. 393, 63 Stat. 531, provided for settl
 
 A prior section 471a, added act Aug. 10, 1956, ch. 1041, §11(a), 70A Stat. 624, authorized transportation of motor vehicles on permanent change of station, prior to repeal by Pub. L. 87–651, title III, §307B, Sept. 7, 1962, 76 Stat. 526.
 
-A prior section 472, act Aug. 4, 1949, ch. 393, 63 Stat. 532, related to travel allowance to enlisted men on discharge, prior to repeal by act Aug. 3, 1950, ch. 536, §36, 64 Stat. 408. See section 474 of Title 37, Pay and Allowances of the Uniformed Services.
+A prior section 472, act Aug. 4, 1949, ch. 393, 63 Stat. 532, related to travel allowance to enlisted men on discharge, prior to repeal by act Aug. 3, 1950, ch. 536, §36, 64 Stat. 408.
 
 A prior section 473, act Aug. 4, 1949, ch. 393, 63 Stat. 532, authorized Secretary to discharge underage Coast Guard enlisted personnel with appropriate pay and allowances, such persons to be given subsistence and transportation in kind to their homes, prior to repeal by Pub. L. 97–295, §2(15)(A), Oct. 12, 1982, 96 Stat. 1302.
 
-A prior section 474, act Aug. 4, 1949, ch. 393, 63 Stat. 532, related to compensation for travel tolls and fares, prior to repeal by act Sept. 1, 1954, ch. 1211, §5, 68 Stat. 1130. See section 478 of Title 37, Pay and Allowances of the Uniformed Services.
+A prior section 474, act Aug. 4, 1949, ch. 393, 63 Stat. 532, related to compensation for travel tolls and fares, prior to repeal by act Sept. 1, 1954, ch. 1211, §5, 68 Stat. 1130.
 
 A prior section 489, act Aug. 4, 1949, ch. 393, 63 Stat. 534, provided for payment of a death gratuity to survivors of officers and enlisted men of Regular Coast Guard, prior to repeal by act Aug. 1, 1956, ch. 837, title V, §502(8)(A), 70 Stat. 886. See sections 1475 to 1480 of Title 10, Armed Forces.
 

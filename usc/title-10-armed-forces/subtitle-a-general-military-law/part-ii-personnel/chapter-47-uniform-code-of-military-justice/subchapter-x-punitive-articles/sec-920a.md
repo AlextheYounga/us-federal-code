@@ -4,9 +4,13 @@ Any person subject to this chapter who, wrongfully and knowingly, deposits obsce
 
 (Added Pub. L. 114–328, div. E, title LX, §5431, Dec. 23, 2016, 130 Stat. 2951.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 920a was renumbered section 930 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

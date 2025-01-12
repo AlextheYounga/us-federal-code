@@ -38,9 +38,13 @@
 
 (Added Pub. L. 114–328, div. E, title LXII, §5522, Dec. 23, 2016, 130 Stat. 2964; amended Pub. L. 116–283, div. A, title V, §542(d), Jan. 1, 2021, 134 Stat. 3612.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Subsec. (b)(2)(D). Pub. L. 116–283 added subpar. (D).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

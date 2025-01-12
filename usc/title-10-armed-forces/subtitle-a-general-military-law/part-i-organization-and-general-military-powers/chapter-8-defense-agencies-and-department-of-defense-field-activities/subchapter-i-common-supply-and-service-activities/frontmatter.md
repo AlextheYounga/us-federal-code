@@ -12,11 +12,17 @@ Sec.
 
 195. Defense Automated Printing Service: applicability of Federal printing requirements.
 
-196. Department of Defense Test Resource Management Center.
+196. Department of Defense Test Resource Management Center. 1
 
 197. Defense Logistics Agency: fees charged for logistics information.
 
+198. Office of Local Defense Community Cooperation.
+
+#### **Editorial Notes** ####
+
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title IX, §902(a)(4)(B), Dec. 27, 2021, 135 Stat. 1869, which directed amendment of table of sections at the beginning of subtitle I of this chapter by adding item 198 after item 197, was executed by adding item 198 after item 197 in the table of sections at the beginning of this subchapter, to reflect the probable intent of Congress.
 
 **2004**—Pub. L. 108–375, div. A, title X, §1010(b), Oct. 28, 2004, 118 Stat. 2038, added item 197.
 
@@ -31,3 +37,5 @@ Sec.
 **1983**—Pub. L. 98–215, title V, §501(b), Dec. 9, 1983, 97 Stat. 1479, added item 192.
 
 **1982**—Pub. L. 97–269, title V, §501(a), Sept. 27, 1982, 96 Stat. 1144, added chapter 8 heading and analysis of sections for chapter 8, consisting of a single item 191.
+
+[<sup>1</sup> Section 196 was renumbered section 4173 of this title by Pub. L. 116–283 without corresponding amendment of subchapter analysis.](#I_1)

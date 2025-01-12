@@ -4,6 +4,8 @@ The Secretary of Agriculture is authorized to cooperate with Territories and oth
 
 (Apr. 13, 1926, ch. 134, 44 Stat. 250.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 566 and 567 of this title, referred to in text, were repealed by Pub. L. 95–313, §13(a)(1), July 1, 1978, 92 Stat. 374.

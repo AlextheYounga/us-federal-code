@@ -8,6 +8,8 @@
 
 (Pub. L. 105–58, §4, Oct. 9, 1997, 111 Stat. 1262; Pub. L. 108–199, div. F, title V, §544(c), Jan. 23, 2004, 118 Stat. 347.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Subsec. (a). Pub. L. 108–199, §544(c)(1), substituted "an affiliate" for "a unit" in first sentence and struck out second sentence, which read as follows: "The Memorial shall be administered by the Trust in cooperation with the Secretary and in accordance with the provisions of sections 450ss to 450ss–7 of this title, sections 1, 2, 3, and 4 of this title, and sections 461 to 467 of this title."

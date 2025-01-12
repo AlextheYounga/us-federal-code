@@ -82,6 +82,8 @@ The designation of the Bridgeport Winter Recreation Area by this section is not 
 
 (Pub. L. 111–11, title I, §1806, Mar. 30, 2009, 123 Stat. 1059; Pub. L. 111–84, div. B, title XXVIII, §2874, Oct. 28, 2009, 123 Stat. 2697.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subtitle, referred to in subsec. (b)(2), is subtitle K (§§1801–1808) of title I of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1052, which enacted this subchapter and section 539o of this title, amended section 1274 of this title, enacted provisions set out as a note under section 1274 of this title, and enacted and amended provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of subtitle K to the Code, see Tables.
@@ -89,6 +91,8 @@ This subtitle, referred to in subsec. (b)(2), is subtitle K (§§1801–1808) of
 #### Amendments ####
 
 **2009**—Subsec. (g). Pub. L. 111–84 added subsec. (g).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

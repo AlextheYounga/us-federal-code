@@ -82,6 +82,8 @@ The Commission may, for the purposes of carrying out the Commission's duties und
 
 (May 17, 1954, ch. 204, §7, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1469.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Jefferson National Expansion Memorial redesignated Gateway Arch National Park by Pub. L. 115–128, §2, Feb. 22, 2018, 132 Stat. 328, which is classified to section 450jj–10 of this title.

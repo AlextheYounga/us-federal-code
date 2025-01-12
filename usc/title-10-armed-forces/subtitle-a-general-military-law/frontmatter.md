@@ -175,7 +175,7 @@ Chap. Sec.
 
 112. Cyber Scholarship Program 2200
 
-### **PART IV—SERVICE, SUPPLY, AND PROCUREMENT** ###
+### **PART IV—SERVICE, SUPPLY, AND PROPERTY** ###
 
 113. Defense Civilian Training Corps 2200g. 4
 
@@ -189,25 +189,21 @@ Chap. Sec.
 
 136. Provisions Relating to Specific Programs 2281
 
-137. Procurement Generally 2301
+[137. Repealed.] 2301
 
 138. Cooperative Agreements with NATO Allies and Other Countries 2341
 
-139. Research and Development 2351
+[139. Repealed.]
 
-140. Procurement of Commercial Products and Commercial Services 2375. 4
+[140. Transferred.]
 
 141. Miscellaneous Procurement Provisions 2381
 
-142. Procurement Technical Assistance Cooperative Agreement Program 2411
+[142. Repealed.]
 
 143. Production by Military Agencies 2421
 
-144. Major Defense Acquisition Programs 2430
-
-[144A. Repealed.]
-
-144B. Weapon Systems Development and Related Matters 2446a
+[144 to 144B. Repealed.]
 
 145. Cataloging and Standardization 2451
 
@@ -215,11 +211,7 @@ Chap. Sec.
 
 147. Commissaries and Exchanges and Other Morale, Welfare, and Recreation Activities 2481
 
-148. National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion 2500
-
-149. Defense Acquisition System 2545
-
-[150. Repealed.]
+[148 to 150. Repealed.]
 
 152. Issue of Supplies, Services, and Facilities 2551
 
@@ -255,11 +247,11 @@ Chap. Sec.
 
 201. Definitions 3001
 
-203. General Matters 3021
+203. General Matters 3061
 
-205. Defense Acquisition System 3051
+205. Defense Acquisition System 3101
 
-207. Budgeting and Appropriations Matters 3101
+207. Budgeting and Appropriations Matters 3 3131
 
 209. Operational Contract Support 3151
 
@@ -285,19 +277,23 @@ Chap. Sec.
 
 245. Task and Delivery Order Contracts (Multiple Award Contracts) 3401
 
-247. Acquisition of Commercial Items 3451
+247. Procurement of Commercial Products and Commercial Services 3451
 
 249. Multiyear Contracts 3501
 
-251. Simplified Acquisition Procedures 3551
+251. Simplified Acquisition Procedures 3571
 
-253. Rapid Acquisition Procedures 3601
+253. [Reserved]
 
 255. Contracting With or Through Other Agencies 3651
 
-257. Contracts for Long-Term Lease or Charter of Vessels, Aircraft, and Combat 3671 5
+257. Contracts for Long-Term Lease or Charter of Vessels, Aircraft, and Combat Vehicles 3671
 
-#### subpart d—general contracting requirements ####
+258. Other Types of Contracts Used for Procurements for Particular Purposes 3681
+
+258. Other Types of Contracts Used for Procurements for Particular Purposes 5 3681
+
+#### subpart d—general contracting provisions ####
 
 271. Truthful Cost or Pricing Data (Truth in Negotiations) 3701
 
@@ -313,41 +309,39 @@ Chap. Sec.
 
 281. Claims and Disputes 3861
 
-283. Foreign Acquisitions 3881
+283. [Reserved]
 
-287. Socioeconomic Programs 3961
+287. Other Contracting Programs 3961 6
 
 #### subpart e—research and engineering ####
 
-301. Research and Engineering Generally 4001 5
+301. Research and Engineering Generally 4001
 
-303. Innovation 4061 5
+303. Research and Engineering Activities 4061
 
-305. Department of Defense Laboratories 4101 5
+305. Universities 4131 7
 
-307. Research and Development Centers and Facilities 4141 5
-
-309. Test and Evaluation 4171 5
+307. Test and Evaluation 4171
 
 #### subpart f—major systems, major defense acquisition programs, and weapon systems development ####
 
-321. General Matters 4201 5
+321. General Matters 4201 8
 
-322. Major Systems and Major Defense Acquisition Programs Generally 4211 5
+322. Major Systems and Major Defense Acquisition Programs Generally 4211 8
 
-323. Life-Cycle And Sustainment 4321 5
+323. Life-Cycle And Sustainment 4321 8
 
-324. Program Status—Selected Acquisition Reports 4350 5
+324. Program Status—Selected Acquisition Reports 4350 8
 
-325. Cost Growth—Unit Cost Reports (Nunn-McCurdy) 4371 5
+325. Cost Growth—Unit Cost Reports (Nunn-McCurdy) 4371 7
 
-327. Weapon Systems Development and Related Matters 4401 5
+327. Weapon Systems Development and Related Matters 4401 7
 
 #### subpart g—other special categories of contracting ####
 
 341. Acquisition of Services Generally 4501
 
-343. Acquisition of Services of Contractors Performing Private Security Functions 4541
+343. [Reserved]
 
 345. Acquisition of Information Technology 4571
 
@@ -379,21 +373,19 @@ Chap. Sec.
 
 389. Loan Guarantee Programs 4971
 
-#### Amendment of Analysis ####
-
-Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1811(a), 1816(a), 1824(b), 1825(l), 1831(l), 1833(a)(2), 1841(a)(2), 1846(a), 1856(a), 1866(a), 1873(f), Jan. 1, 2021, 134 Stat. 4151, 4164, 4181, 4205, 4208, 4217, 4226, 4243, 4247, 4273, 4279, 4290, made amendments to this analysis, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. These amendments have been executed to this analysis to reflect the text of Part V of subtitle A (§3001 et seq.), effective Jan. 1, 2022, currently set out in the Code as a preview. See 2021 Amendment note below. For additional amendments by Pub. L. 116–283 effective Jan. 1, 2022, that have not yet been executed, see note below.
-
-Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1808(a)(4), 1821(a)(4), 1851(d)(2), 1872(b)(2), 1880(b), 1881(b), 1882(a)(2), Jan. 1, 2021, 134 Stat. 4151, 4159, 4195, 4273, 4289, 4293, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended as follows:
-
-(1) by amending part IV heading to read as follows: "SERVICE, SUPPLY, AND PROPERTY";
-
-(2) by striking the items for chapters 137, 139, 140, 142, 144, 144B, 148, and 149; and
-
-(3) by amending the item for chapter 141 to read "Miscellaneous Provisions Relating to Property", starting with section 2381.
+#### **Editorial Notes** ####
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title XVIII, §§1808(a)(4), 1811(a), 1816(a), 1821(a)(4), 1824(b), 1825(l), 1831(l), 1833(a)(2), 1841(a)(2), 1846(a), 1851(d)(2), 1856(a), 1866(a), 1872(b)(2), 1873(f), 1880(b), 1881(b), 1882(a)(2), Jan. 1, 2021, 134 Stat. 4159, 4164, 4181, 4195, 4205, 4208, 4217, 4226, 4243, 4247, 4273, 4279, 4289, 4290, 4293, substituted "SERVICE, SUPPLY, AND PROPERTY" for "SERVICE, SUPPLY, AND PROCUREMENT" in heading of part IV and "Miscellaneous Provisions Relating to Property" for "Miscellaneous Procurement Provisions" in item for chapter 141, struck out items for chapters 137 "Procurement Generally", 139 "Research and Development", 140 "Procurement of Commercial Products and Commercial Services", 142 "Procurement Technical Assistance Cooperative Agreement Program", 144 "Major Defense Acquisition Programs", 144B "Weapon Systems Development and Related Matters", 148 "National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion", and 149 "Defense Acquisition System", added items for chapters 221 to 225, 241 to 244, 253, 257, 271, 272, and 275, items for subpart E and chapters 301 to 309 and for subpart F and chapters 321 to 327, and items for chapters 341, 343, 381 to 385, and 387 to 389 and struck out former items for chapters 221 "Planning and Solicitation Generally", 223 "Planning and Solicitation Relating to Particular Items or Services", 241 "Awarding of Contracts", 243 "Specific Types of Contracts", 253 "Emergency and Rapid Acquisitions", 271 "Truthful Cost or Pricing Data", 275 "Proprietary Contractor Data and Technical Data", and 285 "Small Business Programs", former items for subpart E "special categories of contracting: major defense acquisition programs and major systems" including chapters 301 "Major Defense Acquisition Programs", 303 "Weapon Systems Development and Related Matters", and 305 "Other Matters Relating to Major Systems" and for subpart F "special categories of contracting: research, development, test, and evaluation" including chapters 321 "Research and Development Generally", 323 "Innovation", 325 "Department of Defense Laboratories", 327 "Research and Development Centers and Facilities", and 329 "Operational Test and Evaluation; Developmental Test and Evaluation", and former items for chapters 341 "Contracting for Performance of Civilian Commercial or Industrial Type Functions", 343 "Acquisition of Services", 381 "Defense Industrial Base Generally", 383 "Loan Guarantee Programs", and 385 "Procurement Technical Assistance Cooperative Agreement Program".
+Pub. L. 117–81, div. A, title XVII, §1701(i)(8)(A), (l)(2), Dec. 27, 2021, 135 Stat. 2142, 2144, which directed amendment of this analysis by substituting "[Reserved]" for "Foreign Acquisitions" and starting section number 3881 in item for chapter 283 and by adding item for chapter 287 and striking out former item for chapter 287 "Socioeconomic Programs", was executed by amending this analysis as directed, notwithstanding that other amendments by section 1701(i) and (l) of Pub. L. 117–81 were directed to Pub. L. 116–283, and not to the Code directly, and that such amendments are effective as if included in title XVIII of Pub. L. 116–283.
+
+Pub. L. 117–81, div. A, title XVII, §1701(i)(5)(A), (B)(ii), Dec. 27, 2021, 135 Stat. 2141, made similar amendments, resulting in the substitution of "[Reserved]" for "Rapid Acquisition Procedures" and starting section number 3601 in item for chapter 253. Section 1701(i)(5)(B)(ii) amended Pub. L. 116–283, div. A, title XVIII, §1824(b), Jan. 1, 2021, 134 Stat. 4205, which had added the item for chapter 253, while section 1701(i)(5)(A) amended this analysis directly.
+
+Pub. L. 117–81, div. A, title XVII, §1701(g), Dec. 27, 2021, 135 Stat. 2140, substituted "3061", "3101", and "3131", for "3021", "3051", and "3101", respectively, in items for chapters 203, 205, and 207, added item for chapter 247 and struck out former item for chapter 247 "Acquisition of Commercial Items", substituted "3571" for "3551" in item for chapter 251, added items for chapters 257 and 258 and struck out former item for chapter 257 "Contracts for Long-Term Lease or Charter of Vessels, Aircraft, and Combat", and substituted "Provisions" for "Requirements" in item for subpart D of part V.
+
+Pub. L. 116–283, div. A, title XVIII, §§1841(a)(2), 1856(a), Jan. 1, 2021, 134 Stat. 4243, 4273, as amended by Pub. L. 117–81, div. A, title XVII, §1701(i)(9)(A), (u)(1), Dec. 27, 2021, 135 Stat. 2142, 2150, added items for subpart E and chapters 301 to 307 and item for Reserved chapter 343 and struck out former items for subpart E "special categories of contracting: major defense acquisition programs and major systems" including chapters 301 "Major Defense Acquisition Programs", 303 "Weapon Systems Development and Related Matters", and 305 "Other Matters Relating to Major Systems" and item for chapter 343 "Acquisition of Services".
+
+Pub. L. 116–283, div. A, title XVIII, §§1808(a)(4), 1811(a), 1816(a), 1821(a)(4), 1824(b), 1825(l), 1831(l), 1833(a)(2), 1846(a), 1851(d)(2), 1866(a), 1872(b)(2), 1873(f), 1880(b), 1881(b), 1882(a)(2), Jan. 1, 2021, 134 Stat. 4159, 4164, 4181, 4195, 4205, 4208, 4217, 4226, 4247, 4279, 4289, 4290, 4293, substituted "SERVICE, SUPPLY, AND PROPERTY" for "SERVICE, SUPPLY, AND PROCUREMENT" in heading of part IV and "Miscellaneous Provisions Relating to Property" for "Miscellaneous Procurement Provisions" in item for chapter 141, struck out items for chapters 137 "Procurement Generally", 139 "Research and Development", 140 "Procurement of Commercial Products and Commercial Services", 142 "Procurement Technical Assistance Cooperative Agreement Program", 144 "Major Defense Acquisition Programs", 144B "Weapon Systems Development and Related Matters", 148 "National Defense Technology and Industrial Base, Defense Reinvestment, and Defense Conversion", and 149 "Defense Acquisition System", added items for chapters 221 to 225, 241 to 244, 253, 257, 271, 272, and 275, item for subpart F and chapters 321 to 327, and items for chapters 341, 381 to 385, and 387 to 389 and struck out former items for chapters 221 "Planning and Solicitation Generally", 223 "Planning and Solicitation Relating to Particular Items or Services", 241 "Awarding of Contracts", 243 "Specific Types of Contracts", 253 "Emergency and Rapid Acquisitions", 271 "Truthful Cost or Pricing Data", 275 "Proprietary Contractor Data and Technical Data", and 285 "Small Business Programs", former item for subpart F "special categories of contracting: research, development, test, and evaluation" including chapters 321 "Research and Development Generally", 323 "Innovation", 325 "Department of Defense Laboratories", 327 "Research and Development Centers and Facilities", and 329 "Operational Test and Evaluation; Developmental Test and Evaluation", and former items for chapters 341 "Contracting for Performance of Civilian Commercial or Industrial Type Functions", 381 "Defense Industrial Base Generally", 383 "Loan Guarantee Programs", and 385 "Procurement Technical Assistance Cooperative Agreement Program".
 
 Pub. L. 116–283, title X, §1081(a)(1)–(3), Jan. 1, 2021, 134 Stat. 3870, added second item for chapter 19 and item for chapter 113 and substituted "2375" for "2377" in item for chapter 140.
 
@@ -533,4 +525,10 @@ Pub. L. 87–649, §3(2), Sept. 7, 1962, 76 Stat. 493, added item for chapter 40
 
 [<sup>4</sup> So in original. The period probably should not appear.](#PARTIanalysis_4)
 
-[<sup>5</sup> Editorially supplied.](#PARTVanalysis_5)
+[<sup>5</sup> Editorially supplied. Chapter 258 added by Pub. L. 116–283 without corresponding amendment of subtitle analysis.](#PARTVanalysis_5)
+
+[<sup>6</sup>So in original. Probably should be "3901".](#PARTVanalysis_6)
+
+[<sup>7</sup>So in original. Probably should be "4141".](#PARTVanalysis_7)
+
+[<sup>8</sup> Editorially supplied.](#PARTVanalysis_8)

@@ -94,6 +94,8 @@ The following offenses shall be triable by military commission under this chapte
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2607; amended Pub. L. 115–232, div. A, title X, §1081(a)(12), Aug. 13, 2018, 132 Stat. 1983.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Prior sections 950t to 950w were omitted in the general amendment of this chapter by Pub. L. 111–84.

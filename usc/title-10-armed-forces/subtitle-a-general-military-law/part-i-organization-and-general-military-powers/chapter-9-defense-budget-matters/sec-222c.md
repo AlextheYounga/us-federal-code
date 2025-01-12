@@ -34,6 +34,8 @@
 
 (Added Pub. L. 115–232, div. A, title X, §1061(a), Aug. 13, 2018, 132 Stat. 1969; amended Pub. L. 116–92, div. A, title X, §1006, Dec. 20, 2019, 133 Stat. 1574.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Subsec. (a). Pub. L. 116–92, §1006(1), substituted "subsection (c)" for "subsection (b)" in introductory provisions.

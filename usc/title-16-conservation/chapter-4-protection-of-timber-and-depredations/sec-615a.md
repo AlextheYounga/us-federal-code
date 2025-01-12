@@ -4,15 +4,21 @@ The Secretary of the Interior, under such rules and regulations as he may prescr
 
 (May 14, 1898, ch. 299, §11, 30 Stat. 414; Oct. 28, 1921, ch. 114, §1, 42 Stat. 208; Mar. 3, 1925, ch. 462, 43 Stat. 1144; 1946 Reorg. Plan. No. 3, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of the first two sentences of section 11 of act May 14, 1898, the remainder of section 11 of act May 14, 1898, is classified to section 607a of this title.
 
 Section was formerly classified to section 421 of Title 48, Territories and Insular Possessions.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Acts Oct. 28, 1921, and Mar. 3, 1925, consolidated offices of register and receiver and provided for a single officer to be known as register.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

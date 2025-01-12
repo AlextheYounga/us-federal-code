@@ -4,6 +4,8 @@ The sum of $100,000 is authorized to be appropriated out of any sums in the Trea
 
 (June 26, 1935, ch. 315, §5, 49 Stat. 424; Aug. 9, 1939, ch. 614, §1, 53 Stat. 1274.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Herein, referred to in text, means act June 26, 1935, ch. 315, 49 Stat. 423, which is classified to sections 430t to 430x of this title. For complete classification of this Act to the Code, see Tables.
@@ -11,6 +13,8 @@ Herein, referred to in text, means act June 26, 1935, ch. 315, 49 Stat. 423, whi
 #### Amendments ####
 
 **1939**—Act Aug. 9, 1939, inserted proviso.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Appropriation ####
 

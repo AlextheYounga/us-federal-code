@@ -12,7 +12,7 @@ Sec.
 
 4705. Stipends.
 
-4706. Scholarship conditions.
+4706. Scholarship and research internship conditions.
 
 4707. Barry Goldwater Scholarship and Excellence in Education Fund.
 

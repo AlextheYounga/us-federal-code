@@ -10,7 +10,13 @@ Sec.
 
 8594. Marine Corps University: acceptance of grants for faculty research for scientific, literary, and educational purposes.
 
+8595. United States Naval Community College: establishment and degree granting authority.
+
+#### **Editorial Notes** ####
+
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title V, §557(b), Dec. 27, 2021, 135 Stat. 1741, added item 8595.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 609 of this title as this chapter and items 7101 to 7104 as 8591 to 8594, respectively.
 

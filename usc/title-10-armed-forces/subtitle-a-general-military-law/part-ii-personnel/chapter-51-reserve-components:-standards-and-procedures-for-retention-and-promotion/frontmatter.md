@@ -4,6 +4,8 @@ Sec.
 
 1001. Reference to chapter 1219.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–337, div. A, title XVI, §1662(h)(5), Oct. 5, 1994, 108 Stat. 2997, added item 1001 and struck out former items 1001 to 1007.

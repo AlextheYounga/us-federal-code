@@ -32,6 +32,8 @@
 
 (Added and amended Pub. L. 115–91, div. A, title X, §1002(e)(1)–(3), Dec. 12, 2017, 131 Stat. 1541, §254; renumbered §240d, Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), Aug. 13, 2018, 132 Stat. 1945.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Text of section, as added by Pub. L. 115–91, is based on text of section 1005 of Pub. L. 114–92, div. A, title X, Nov. 25, 2015, 129 Stat. 961, which was formerly set out as a note under section 2222 of this title, prior to repeal by Pub. L. 115–91, div. A, title X, §1002(e)(4), Dec. 12, 2017, 131 Stat. 1541.
@@ -57,6 +59,8 @@ Pub. L. 115–91, §1002(e)(2)(B), struck out ", United States Code," after "ti
 Subsec. (e)(3). Pub. L. 115–91, §1002(e)(3)(B)(ii), redesignated par. (3) as (2).
 
 Pub. L. 115–91, §1002(e)(2)(A), struck out ", United States Code" after "title 31".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

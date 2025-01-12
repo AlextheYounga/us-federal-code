@@ -88,6 +88,8 @@ The term "State" means the State of Kentucky and the State of Tennessee.
 
 (Pub. L. 105–277, div. A, §101(e) [title V, §502], Oct. 21, 1998, 112 Stat. 2681–231, 2681–310.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in par. (5)(B)(i), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.
@@ -109,6 +111,8 @@ The National Environmental Policy Act of 1969, referred to in par. (5)(B)(viii),
 The Endangered Species Act of 1973, referred to in par. (5)(B)(ix), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 
 Section 101(a) of title 23, referred to in par. (6), was subsequently amended, and section 101(a) no longer defines "forest highway".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

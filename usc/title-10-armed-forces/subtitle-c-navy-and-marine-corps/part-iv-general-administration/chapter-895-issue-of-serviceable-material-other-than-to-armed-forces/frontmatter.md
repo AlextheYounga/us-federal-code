@@ -6,6 +6,8 @@ Sec.
 
 8943. Supplies: military instruction camps.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 667 of this title as this chapter and items 7912 and 7913 as 8942 and 8943, respectively.

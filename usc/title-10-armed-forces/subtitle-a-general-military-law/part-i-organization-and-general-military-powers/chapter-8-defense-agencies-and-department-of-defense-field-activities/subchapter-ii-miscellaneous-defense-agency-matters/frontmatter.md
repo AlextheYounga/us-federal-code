@@ -6,9 +6,11 @@ Sec.
 
 [202, 203. Repealed.]
 
-204. Small Business Ombudsman for defense audit agencies.
+204. Small Business Ombudsman for defense audit agencies. 1
 
 205. Missile Defense Agency.
+
+#### **Editorial Notes** ####
 
 #### Amendments ####
 
@@ -29,3 +31,5 @@ Pub. L. 105–85, div. A, title II, §235(b), Nov. 18, 1997, 111 Stat. 1665, add
 **1991**—Pub. L. 102–190, div. A, title IX, §922(b), Dec. 5, 1991, 105 Stat. 1453, added item 201 and redesignated former item 201 as 202.
 
 **1986**—Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1022, added subchapter heading and analysis of sections for subchapter II.
+
+[<sup>1</sup> Section 204 was renumbered section 3848 of this title by Pub. L. 116–283 without corresponding amendment of subchapter analysis.](#I_1)

@@ -4,9 +4,13 @@ In order to commemorate the campaign, siege, and defense of Vicksburg, and to pr
 
 (Feb. 21, 1899, ch. 176, 30 Stat. 841; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933; Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 638; Pub. L. 90–578, title IV, §402(b)(2), Oct. 17, 1968, 82 Stat. 1118; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1966**—Pub. L. 89–554 struck out provisions relating to appointment and pay of three commissioners to supervise Vicksburg National Military Park, and of a secretary.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 
@@ -15,6 +19,8 @@ In order to commemorate the campaign, siege, and defense of Vicksburg, and to pr
 #### Short Title of 2002 Amendment ####
 
 Pub. L. 107–238, §1, Oct. 11, 2002, 116 Stat. 1486, provided that: "This Act [enacting sections 430h–10 to 430h–13 of this title] may be cited as the 'Vicksburg National Military Park Boundary Modification Act of 2002'."
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

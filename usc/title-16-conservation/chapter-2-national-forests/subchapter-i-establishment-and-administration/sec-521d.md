@@ -36,6 +36,8 @@ Amounts deposited under paragraph (1) shall be available to the Secretary until 
 
 (Pub. L. 97–465, §2, Jan. 12, 1983, 96 Stat. 2535; Pub. L. 115–334, title VIII, §8621(c), Dec. 20, 2018, 132 Stat. 4852.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–334, §8621(c)(1)–(3), designated first sentence as subsec. (a) and inserted subsec. heading, designated second sentence as par. (1) of subsec. (b), inserted subsec. and par. headings, and substituted "covenants" for "convenants", and designated third sentence as par. (2) of subsec. (b), inserted par. heading, and substituted "Paragraph (1) shall not" for "The preceding sentence shall not".

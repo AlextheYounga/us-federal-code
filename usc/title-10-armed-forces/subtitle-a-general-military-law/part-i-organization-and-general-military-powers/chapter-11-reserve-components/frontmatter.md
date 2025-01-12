@@ -4,6 +4,8 @@ Sec.
 
 241. Reference to chapters 1003, 1005, and 1007.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title X, §1081(a)(4), Aug. 13, 2018, 132 Stat. 1983, which directed amendment of the analysis of chapter 4 of this title by renumbering item 261 as 241, was executed by making the amendment in this analysis to reflect the probable intent of Congress.

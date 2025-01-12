@@ -4,9 +4,13 @@ To protect and administer more effectively the publicly owned lands within certa
 
 (June 22, 1948, ch. 593, §1, 62 Stat. 568; Pub. L. 87–351, Oct. 4, 1961, 75 Stat. 772.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1961**—Pub. L. 87–351 removed the restriction on condemnation of contiguous tracts of land in one ownership, not exceeding five hundred acres in the aggregate, if the lands were encumbered with structures of a permanent type suitable for human occupancy and if the owners thereof filed written objections before expiration of the time for answering the petition in the proceedings.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

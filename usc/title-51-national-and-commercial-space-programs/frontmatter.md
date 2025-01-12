@@ -100,13 +100,15 @@ Subtitle VII—Access to Space
 
 #### Amendments ####
 
-**2018**—Pub. L. 115–254, div. B, title V, §580(b)(2), Oct. 5, 2018, 132 Stat. 3396, added item 515.
+**2020**—Pub. L. 116–181, §2(c)(1), Oct. 21, 2020, 134 Stat. 892, added item for chapter 606.
+
+**2018**—Pub. L. 115–254, div. B, title V, §580(b)(2), Oct. 5, 2018, 132 Stat. 3396, added item for chapter 515.
 
 **2017**—Pub. L. 115–10, title IV, §416(b), Mar. 21, 2017, 131 Stat. 35, struck out item for chapter 703 "Shuttle Pricing Policy for Commercial and Foreign Users".
 
-**2015**—Pub. L. 114–90, title I, §117(b)(1), title III, §301(a)(2), title IV, §402(b), Nov. 25, 2015, 129 Stat. 718, 720, 722, added item 513 and substituted "Commerce" for "Commercialization" in item 507 and "Use of space launch system or alternatives" for "Use of Space Shuttle or Alternatives" in item 701.
+**2015**—Pub. L. 114–90, title I, §117(b)(1), title III, §301(a)(2), title IV, §402(b), Nov. 25, 2015, 129 Stat. 718, 720, 722, added item for chapter 513 and substituted "Commerce" for "Commercialization" in item for chapter 507 and "Use of space launch system or alternatives" for "Use of Space Shuttle or Alternatives" in item for chapter 701.
 
-**2010**—Pub. L. 111–314, §4(d)(7), Dec. 18, 2010, 124 Stat. 3443, added items 509 and 511.
+**2010**—Pub. L. 111–314, §4(d)(7), Dec. 18, 2010, 124 Stat. 3443, added items for chapters 509 and 511.
 
 |*Title 15<br/><br/>Former Sections*|*Title 51<br/><br/>New Sections*|
 |-----------------------------------|--------------------------------|

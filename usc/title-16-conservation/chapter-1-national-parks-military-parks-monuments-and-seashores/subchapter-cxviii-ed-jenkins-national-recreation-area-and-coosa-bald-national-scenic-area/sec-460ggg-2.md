@@ -22,6 +22,8 @@ For the purposes of ensuring the protection of certain natural, scenic, fish and
 
 (Pub. L. 102–217, §4, Dec. 11, 1991, 105 Stat. 1668; Pub. L. 102–456, §2, Oct. 23, 1992, 106 Stat. 2264.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The laws pertaining to mineral leasing, referred to in subsec. (b)(4), are classified generally to Title 30, Mineral Lands and Mining.

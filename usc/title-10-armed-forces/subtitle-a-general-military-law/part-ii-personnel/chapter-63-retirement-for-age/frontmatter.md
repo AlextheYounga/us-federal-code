@@ -14,6 +14,8 @@ Sec.
 
 1275. Computation of retired pay: law applicable.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Pub. L. 114–92, div. A, title V, §504(b)(2), Nov. 25, 2015, 129 Stat. 807, substituted "Age 64: regular commissioned officers in general and flag officer grades; exceptions" for "Age 64: regular commissioned officers in general and flag officer grades; exception" in item 1253.

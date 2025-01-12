@@ -6,6 +6,8 @@ Sec.
 
 8287. United States Marine Band; United States Marine Drum and Bugle Corps: composition; appointment and promotion of members.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 835, consisting of sections 8281 to 8314, related to appointments in the regular Air Force, prior to renumbering as chapter 915 of this title.

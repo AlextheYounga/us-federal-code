@@ -56,6 +56,8 @@ Sec.
 
 124h. Department of Homeland Security State, Local, and Regional Fusion Center Initiative.
 
+124h–1. Threat information sharing.
+
 124i. Homeland Security Information Sharing Fellows Program.
 
 124j. Rural Policing Institute.
@@ -145,6 +147,8 @@ Sec.
 195f. EMP and GMD mitigation research and development and threat assessment, response, and recovery.
 
 195g. Countering Unmanned Aircraft Systems Coordinator.
+
+195h. National Urban Security Technology Laboratory.
 
 #### SUBCHAPTER IV—BORDER, MARITIME, AND TRANSPORTATION SECURITY ####
 
@@ -374,6 +378,12 @@ Sec.
 
 350. Workforce health and medical support.
 
+351. Employee engagement.
+
+352. Annual employee award program.
+
+353. Acquisition professional career program.
+
 #### SUBCHAPTER VIII—COORDINATION WITH NON-FEDERAL ENTITIES; INSPECTOR GENERAL; UNITED STATES SECRET SERVICE; COAST GUARD; GENERAL PROVISIONS ####
 
 #### Part A—Coordination with Non-Federal Entities ####
@@ -515,6 +525,8 @@ Sec.
 472. Annual weaponry report.
 
 473. Cyber Crimes Center, Child Exploitation Investigations Unit, Computer Forensics Unit, and Cyber Crimes Unit.
+
+474. Homeland security critical domain research and development.
 
 #### Part I—Information Sharing ####
 
@@ -700,6 +712,8 @@ Sec.
 
 597. Chief Medical Officer.
 
+597a. Medical countermeasures.
+
 #### SUBCHAPTER XV—HOMELAND SECURITY GRANTS ####
 
 601. Definitions.
@@ -812,7 +826,11 @@ Sec.
 
 665f. Cybersecurity education and training programs.
 
-665g. State and local cybersecurity grant program.
+665g. State and Local Cybersecurity Grant Program.
+
+665h. National Cyber Exercise Program.
+
+665i. CyberSentry program.
 
 #### Part B—Critical Infrastructure Information ####
 

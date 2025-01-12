@@ -24,6 +24,8 @@
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2579; amended Pub. L. 113–66, div. A, title X, §1031(a), Dec. 26, 2013, 127 Stat. 849.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 948m, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2606, related to number of members, excuse of members, and absent and additional members of a military commission, prior to the general amendment of this chapter by Pub. L. 111–84.

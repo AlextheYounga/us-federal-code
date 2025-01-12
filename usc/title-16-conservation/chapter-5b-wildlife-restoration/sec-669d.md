@@ -4,6 +4,8 @@ For each fiscal year, the Secretary of the Interior shall certify, at the time a
 
 (Sept. 2, 1937, ch. 899, §5, 50 Stat. 918; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1098; Pub. L. 106–408, title I, §114, Nov. 1, 2000, 114 Stat. 1769.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, as amended, which is classified generally to subchapter III (§715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 715 of this title and Tables.
@@ -13,6 +15,8 @@ The Migratory Bird Conservation Act, referred to in text, is act Feb. 18, 1929, 
 **2000**—Pub. L. 106–408 in first sentence inserted ", at the time at which a deduction or apportionment is made," after "certify" and struck out "and executing" after "for administering".
 
 **1970**—Pub. L. 91–503 struck out requirement that apportionments be made by February 20 of each year preceding commencement of fiscal year in which funds would be used.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

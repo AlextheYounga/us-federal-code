@@ -14,6 +14,8 @@
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2600.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 950c, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2620, related to appellate referral and waiver or withdrawal of appeal, prior to the general amendment of this chapter by Pub. L. 111–84.

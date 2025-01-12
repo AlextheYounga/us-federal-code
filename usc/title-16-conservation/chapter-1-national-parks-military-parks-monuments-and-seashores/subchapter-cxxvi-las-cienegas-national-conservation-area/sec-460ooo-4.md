@@ -46,6 +46,8 @@ Subject to valid existing rights all Federal lands within the Conservation Area 
 
 (Pub. L. 106–538, §5, Dec. 6, 2000, 114 Stat. 2565.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.

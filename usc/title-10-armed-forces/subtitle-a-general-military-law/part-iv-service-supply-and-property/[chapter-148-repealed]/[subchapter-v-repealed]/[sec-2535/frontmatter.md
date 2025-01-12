@@ -1,0 +1,7 @@
+### [§2535. Renumbered §4881] ###
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Treatment of Property Loaned Before December 31, 1993 to Educational Institutions or Training Schools ####
+
+Pub. L. 103–337, div. A, title III, §379(b), Oct. 5, 1994, 108 Stat. 2737, provided that: "Except for property determined by the Secretary of Defense to be needed by the Department of Defense, property loaned before December 31, 1993, to an educational institution or training school under section 2535(b) of title 10, United States Code [now 10 U.S.C. 4881(b)], or section 4(a)(7) of the Defense Industrial Reserve Act (as in effect before October 23, 1992 [former section 453(a)(7) of Title 50, War and National Defense, see Codification and 1992 Amendment notes set out under section 4881 of this title]) shall be regarded as surplus property. Upon certification by the Secretary to the Administrator of General Services that the property is being used by the borrowing educational institution or training school for a purpose consistent with that for which the property was loaned, the Administrator may authorize the conveyance of all right, title, and interest of the United States in such property to the borrower if the borrower agrees to accept the property. The Administrator may require any additional terms and conditions in connection with a conveyance so authorized that the Administrator considers appropriate to protect the interests of the United States."

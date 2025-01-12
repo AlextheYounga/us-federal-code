@@ -24,6 +24,8 @@ The provisions of subsection (a) shall not apply to those portions of tributary 
 
 (Pub. L. 99–663, §13(a), (b), Nov. 17, 1986, 100 Stat. 4293, 4294; Pub. L. 111–11, title I, §1203(b), Mar. 30, 2009, 123 Stat. 1012.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Subsection (c) or (d) of this section, referred to in subsec. (a)(1), is subsec. (c) or (d) of section 13 of Pub. L. 99–663, Nov. 17, 1986, 100 Stat. 4294, which amended sections 1274(a) and 1276(a), respectively, of this title.

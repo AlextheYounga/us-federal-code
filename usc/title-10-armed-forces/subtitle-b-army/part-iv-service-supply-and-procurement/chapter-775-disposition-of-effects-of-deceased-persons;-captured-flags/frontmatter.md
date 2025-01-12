@@ -6,6 +6,8 @@ Sec.
 
 7714. Collection of captured flags, standards, and colors.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 445 of this title as this chapter and items 4712 and 4714 as 7712 and 7714, respectively.

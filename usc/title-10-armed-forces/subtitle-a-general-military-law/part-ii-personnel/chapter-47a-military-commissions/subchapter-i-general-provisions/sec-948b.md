@@ -20,6 +20,8 @@
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2575; amended Pub. L. 113–66, div. A, title XVII, §1702(c)(3)(E), Dec. 26, 2013, 127 Stat. 958.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 948b, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2602, related to military commissions generally, prior to the general amendment of this chapter by Pub. L. 111–84.
@@ -28,9 +30,13 @@ A prior section 948b, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Sta
 
 **2013**—Subsec. (d)(1)(C). Pub. L. 113–66 substituted "preliminary hearing" for "pretrial investigation".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2013 Amendment ####
 
 Amendment by Pub. L. 113–66 effective on the later of Dec. 26, 2014, or the date of the enactment of the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015 (Dec. 19, 2014) and applicable with respect to preliminary hearings conducted on or after that effective date, see section 1702(d)(1) of Pub. L. 113–66, set out as a note under section 802 of this title.
+
+#### **Executive Documents** ####
 
 #### Ex. Ord. No. 13425. Trial of Alien Unlawful Enemy Combatants by Military Commission ####
 

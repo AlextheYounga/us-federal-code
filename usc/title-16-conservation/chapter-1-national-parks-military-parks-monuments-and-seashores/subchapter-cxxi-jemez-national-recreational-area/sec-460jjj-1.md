@@ -76,6 +76,8 @@ The Secretary may designate zones where, and establish periods when, any activit
 
 (Pub. L. 103–104, §2, Oct. 12, 1993, 107 Stat. 1025.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (c), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.

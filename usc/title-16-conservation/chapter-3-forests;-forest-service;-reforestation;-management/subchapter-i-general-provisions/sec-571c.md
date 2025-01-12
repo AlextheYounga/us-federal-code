@@ -4,6 +4,8 @@ Notwithstanding the provisions of existing law and without regard to sections 31
 
 (Apr. 24, 1950, ch. 97, §1, 64 Stat. 82.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "Sections 3111 and 3112 of title 40" substituted in text for "section 355, Revised Statutes, as amended (40 U.S.C. 255)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.

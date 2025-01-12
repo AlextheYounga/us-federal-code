@@ -1,5 +1,7 @@
 ### §§486a to 486w. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Exchanges of lands in or adjacent to national forests were authorized by Congress in the following instances:

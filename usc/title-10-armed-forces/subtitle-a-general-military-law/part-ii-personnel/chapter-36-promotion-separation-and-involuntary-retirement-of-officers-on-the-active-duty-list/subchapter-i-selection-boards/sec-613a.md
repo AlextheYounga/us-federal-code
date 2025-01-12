@@ -14,6 +14,8 @@
 
 (Added Pub. L. 109–364, div. A, title V, §547(a)(1), Oct. 17, 2006, 120 Stat. 2215; amended Pub. L. 111–383, div. A, title V, §503(a), Jan. 7, 2011, 124 Stat. 4207.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Subsec. (a). Pub. L. 111–383, §503(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The proceedings of a selection board convened under section 611 this title may not be disclosed to any person not a member of the board."
@@ -21,6 +23,8 @@
 Subsec. (b). Pub. L. 111–383, §503(a)(2), substituted "Notes, and Records" for "and Records" in heading.
 
 Subsec. (c). Pub. L. 111–383, §503(a)(3), added subsec. (c).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

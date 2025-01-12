@@ -2,7 +2,7 @@
 
 #### (a) In general ####
 
-Construction services and materials for Federal facilities shall be procured in accordance with the policies and procedures set forth in chapter 137 of title 10, section 2377 of title 10, division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, and section 205b(2) of this title. Determination of a design method shall be based upon preliminary market research as required under section 2377(c) of title 10 and section 3307(d) of title 41. If the requirements of this subchapter conflict with the provisions of section 2377 of title 10 or section 3307(b) to (d) of title 41, then the provisions of <sup><a href="#205l_1_target" name="205l_1">1</a></sup> 2377 or 3307(b) to (d) shall take precedence.
+Construction services and materials for Federal facilities shall be procured in accordance with the policies and procedures set forth in the provisions of title 10, referred to in section 3016 of such title as "chapter 137 legacy provisions", section 3453 of such title, division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, and section 205b(2) of this title. Determination of a design method shall be based upon preliminary market research as required under section 3453(c) of title 10 and section 3307(d) of title 41. If the requirements of this subchapter conflict with the provisions of section 3453 of title 10 or section 3307(b) to (d) of title 41, then the provisions of such sections 3453 or 3307(b) to (d) shall take precedence.
 
 #### (b) Concrete masonry units ####
 
@@ -60,7 +60,7 @@ The construction metrication ombudsman shall be independent of the contracting o
 
 (5) Nothing in this section shall be construed to supersede the bid protest process established under subchapter V of chapter 35 of title 31.
 
-(Pub. L. 94–168, §14, as added and amended Pub. L. 104–289, §§4(a), 5, Oct. 11, 1996, 110 Stat. 3412, 3414; Pub. L. 108–423, §6, Nov. 30, 2004, 118 Stat. 2402.)
+(Pub. L. 94–168, §14, as added and amended Pub. L. 104–289, §§4(a), 5, Oct. 11, 1996, 110 Stat. 3412, 3414; Pub. L. 108–423, §6, Nov. 30, 2004, 118 Stat. 2402; Pub. L. 117–81, div. A, title XVII, §1702(e)(1), Dec. 27, 2021, 135 Stat. 2156.)
 
 #### **Editorial Notes** ####
 
@@ -74,6 +74,8 @@ In subsec. (a), "division C (except sections 3302, 3307(e), 3501(b), 3509, 3906,
 
 #### Amendments ####
 
+**2021**—Subsec. (a). Pub. L. 117–81 substituted "set forth in the provisions of title 10, referred to in section 3016 of such title as 'chapter 137 legacy provisions', section 3453 of such title, division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41," for "set forth in chapter 137 of title 10, section 2377 of title 10, division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41,"; "under section 3453(c) of title 10 and section 3307(d) of title 41." for "under section 2377(c) of title 10 and section 3307(d) of title 41."; and "section 3453 of title 10 or section 3307(b) to (d) of title 41, then the provisions of such sections 3453 or 3307(b) to (d) shall take" for "section 2377 of title 10 or section 3307(b) to (d) of title 41, then the provisions of 2377 or 3307(b) to (d) shall take".
+
 **2004**—Subsec. (e). Pub. L. 108–423 struck out heading and text of subsec. (e). Text read as follows: "The provisions contained in subsections (b) and (c) of this section shall expire 10 years from the effective date of the Savings in Construction Act of 1996."
 
 **1996**—Pub. L. 104–289, §5, added subsec. (f).
@@ -83,5 +85,3 @@ In subsec. (a), "division C (except sections 3302, 3307(e), 3501(b), 3509, 3906,
 #### Effective Date; Savings Provision ####
 
 Section effective 90 days after Oct. 11, 1996, and inapplicable to contracts awarded and solicitations issued on or before that date, unless head of Federal agency makes written determination that it would be in public interest to apply one or more provisions of Pub. L. 104–289 to these existing contracts or solicitations, see section 6(b) of Pub. L. 104–289, set out as an Effective Date of 1996 Amendment; Savings Provision note under section 205c of this title.
-
-[<sup>1</sup> So in original. Probably should be followed by "section".](#205l_1)

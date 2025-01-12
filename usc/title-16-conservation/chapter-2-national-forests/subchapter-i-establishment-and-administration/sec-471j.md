@@ -112,6 +112,8 @@ The National Environmental Policy Act [42 U.S.C. 4321 et seq.] shall apply to th
 
 (Pub. L. 105–83, title V, §501, Nov. 14, 1997, 111 Stat. 1610.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsec. (a), is Pub. L. 105–83, Nov. 14, 1997, 111 Stat. 1543, known as the Department of the Interior and Related Agencies Appropriations Act, 1998. For complete classification of this Act to the Code, see Tables.
@@ -119,6 +121,8 @@ This Act, referred to in subsec. (a), is Pub. L. 105–83, Nov. 14, 1997, 111 St
 The National Environmental Policy Act of 1969, referred to in subsecs. (b)(7) and (i)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Endangered Species Act, referred to in subsec. (d)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

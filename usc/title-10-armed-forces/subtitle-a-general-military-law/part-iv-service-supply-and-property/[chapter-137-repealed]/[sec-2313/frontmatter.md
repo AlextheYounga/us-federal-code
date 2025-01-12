@@ -1,0 +1,119 @@
+### [§2313. Repealed. Pub. L. 116–283, div. A, title XVIII, §1881(a), Jan. 1, 2021, 134 Stat. 4293] ###
+
+Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 132; Pub. L. 89–607, §1(2), Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §2727(c), July 18, 1984, 98 Stat. 1195; Pub. L. 99–145, title IX, §935, Nov. 8, 1985, 99 Stat. 700; Pub. L. 100–26, §7(g)(1), Apr. 21, 1987, 101 Stat. 282; Pub. L. 101–510, div. A, title XIII, §1301(9), Nov. 5, 1990, 104 Stat. 1668; Pub. L. 103–355, title II, §2201(a)(1), title IV, §4102(c), Oct. 13, 1994, 108 Stat. 3316, 3340; Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 104–201, div. A, title VIII, §808(a), Sept. 23, 1996, 110 Stat. 2607; Pub. L. 106–65, div. A, title X, §1032(a)(2), Oct. 5, 1999, 113 Stat. 751; Pub. L. 110–417, [div. A], title VIII, §871(b), Oct. 14, 2008, 122 Stat. 4555; Pub. L. 116–283, div. A, title XVIII, §1835(b)(1), (2), Jan. 1, 2021, 134 Stat. 4239, related to examination of records of contractor.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of Repeal ####
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+
+#### Exception From Records Examination Requirement ####
+
+Requirements under subsec. (b) of this section not applicable to certain contracts valued at less than $7,500,000 awarded to small business or nontraditional defense contractors, with certain exceptions, see section 873(b) of Pub. L. 114–92, set out as a Pilot Program for Streamlining Awards for Innovative Technology Projects note under section 2306a of this title.
+
+#### Improved Auditing of Contracts ####
+
+Pub. L. 114–92, div. A, title VIII, §893, Nov. 25, 2015, 129 Stat. 952, as amended by Pub. L. 114–328, div. A, title VIII, §891, Dec. 23, 2016, 130 Stat. 2323, provided that:
+
+"(a) Prohibition on Performance of Non-defense Audits by DCAA.—
+
+"(1) In general.—Effective on the date of the enactment of this Act [Nov. 25, 2015], except as provided in paragraph (2), the Defense Contract Audit Agency may not provide audit support for non-Defense Agencies unless the Secretary of Defense certifies that the backlog for incurred cost audits is less than 18 months of incurred cost inventory.
+
+"(2) Exception for national nuclear security administration.—Notwithstanding paragraph (1), the Defense Contract Audit Agency may provide audit support on a reimbursable basis for the National Nuclear Security Administration.
+
+"(b) Amendments to Defense Contract Audit Agency Annual Report.—[Amended section 2313a of this title (now 10 U.S.C. 3847).]
+
+"(c) Review of Acquisition Oversight and Audits.—
+
+"(1) Review required.—The Secretary of Defense shall review the oversight and audit structure of the Department of Defense with the goals of—
+
+"(A) enhancing the productivity of oversight and program and contract auditing to avoid duplicative audits; and
+
+"(B) streamlining of oversight reviews.
+
+"(2) Recommendations.—The Secretary shall ensure streamlined oversight reviews and avoidance of duplicative audits and make recommendations in the report required under paragraph (3) for any necessary changes in law.
+
+"(3) Report.—
+
+"(A) Not later than one year after the date of the enactment of this Act [Nov. 25, 2015], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on actions taken to avoid duplicative audits and streamline oversight reviews.
+
+"(B) The report required under this paragraph shall include the following elements:
+
+"(i) A description of actions taken to avoid duplicative audits and streamline oversight reviews based on the review conducted under paragraph (1).
+
+"(ii) A comparison of commercial industry accounting practices, including requirements under the Sarbanes-Oxley Act of 2002 (Public Law 107–204; 15 U.S.C. 7201 et seq.), with the cost accounting standards prescribed under chapter 15 of title 41, United States Code, to determine if some portions of cost accounting standards compliance can be met through such practices or requirements.
+
+"(iii) A description of standards of materiality used by the Defense Contract Audit Agency and the Inspector General of the Department of Defense for defense contract audits.
+
+"(iv) An estimate of average delay and range of delays in contract awards due to the time necessary for the Defense Contract Audit Agency to complete pre-award audits.
+
+"(v) The total costs of sustained or recovered costs both as a total number and as a percentage of questioned costs.
+
+"(d) Incurred Cost Inventory Defined.—In this section, the term 'incurred cost inventory' means the level of contractor incurred cost proposals in inventory from prior fiscal years that are currently being audited by the Defense Contract Audit Agency."
+
+#### Department of Defense Access to, Use of, and Safeguards and Protections for Contractor Internal Audit Reports ####
+
+Pub. L. 112–239, div. A, title VIII, §832, Jan. 2, 2013, 126 Stat. 1844, provided that:
+
+"(a) Revised Guidance Required.—Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Director of the Defense Contract Audit Agency shall revise guidance on access to defense contractor internal audit reports (including the Contract Audit Manual) to incorporate the requirements of this section.
+
+"(b) Documentation Requirements.—The revised guidance shall ensure that requests for access to defense contractor internal audit reports are appropriately documented. The required documentation shall include, at a minimum, the following:
+
+"(1) Written determination that access to such reports is necessary to complete required evaluations of contractor business systems.
+
+"(2) A copy of any request from the Defense Contract Audit Agency to a contractor for access to such reports.
+
+"(3) A record of response received from the contractor, including the contractor's rationale or justification if access to requested reports was not granted.
+
+"(b) [sic] Safeguards and Protections.—The revised guidance shall include appropriate safeguards and protections to ensure that contractor internal audit reports cannot be used by the Defense Contract Audit Agency for any purpose other than evaluating and testing the efficacy of contractor internal controls and the reliability of associated contractor business systems.
+
+"(c) Risk-based Auditing.—A determination by the Defense Contract Audit Agency that a contractor has a sound system of internal controls shall provide the basis for increased reliance on contractor business systems or a reduced level of testing with regard to specific audits, as appropriate. Internal audit reports provided by a contractor pursuant to this section may be considered in determining whether or not a contractor has a sound system of internal controls, but shall not be the sole basis for such a determination.
+
+"(d) Comptroller General Review.—Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall initiate a review of the documentation required by subsection (a). Not later than 90 days after completion of the review, the Comptroller General shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the results of the review, with findings and recommendations for improving the audit processes of the Defense Contract Audit Agency."
+
+#### Additional Access to Contractor and Subcontractor Records in the United States Central Command Theater of Operations ####
+
+Pub. L. 112–81, div. A, title VIII, §842, Dec. 31, 2011, 125 Stat. 1513, as amended by Pub. L. 113–291, div. A, title VIII, §842(c)(2), Dec. 19, 2014, 128 Stat. 3456, provided that:
+
+"(a) Department of Defense Contracts, Grants, and Cooperative Agreements.—
+
+"(1) In general.—Not later than 30 days after the date of the enactment of this Act [Dec. 31, 2011], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to require that—
+
+"(A) the clause described in paragraph (2) shall be included in each covered contract, grant, and cooperative agreement of the Department of Defense that is awarded on or after the date of the enactment of this Act; and
+
+"(B) to the maximum extent practicable, each covered contract, grant, and cooperative agreement of the Department that is awarded before the date of the enactment of this Act shall be modified to include the clause described in paragraph (2).
+
+"(2) Clause.—The clause described in this paragraph is a clause authorizing the Secretary, upon a written determination pursuant to paragraph (3), to examine any records of the contractor, the recipient of a grant or cooperative agreement, or any subcontractor or subgrantee under such contract, grant, or cooperative agreement to the extent necessary to ensure that funds available under the contract, grant, or cooperative agreement—
+
+"(A) are not subject to extortion or corruption; and
+
+"(B) are not provided directly or indirectly to persons or entities that are actively supporting an insurgency or otherwise actively opposing United States or coalition forces in a contingency operation.
+
+"(3) Written determination.—The authority to examine records pursuant to the contract clause described in paragraph (2) may be exercised only upon a written determination by the contracting officer or comparable official responsible for a grant or cooperative agreement, upon a finding by the Commander of the United States Central Command, that there is reason to believe that funds available under the contract, grant, or cooperative agreement concerned may have been subject to extortion or corruption or may have been provided directly or indirectly to persons or entities that are actively supporting an insurgency or otherwise actively opposing United States or coalition forces in a contingency operation.
+
+"(4) Flowdown.—A clause described in paragraph (2) shall also be required in any subcontract or subgrant under a covered contract, grant, or cooperative agreement if the subcontract or subgrant has an estimated value in excess of $100,000.
+
+"(b) Reports.—Not later than March 1 of each of 2013, 2014, and 2015, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the use of the authority provided by this section in the preceding calendar year. Each report shall identify, for the calendar year covered by such report, each instance in which the Department of Defense exercised the authority provided under this section to examine records, explain the basis for the action taken, and summarize the results of any examination of records so undertaken,[.] Any report under this subsection may be submitted in classified form.
+
+"(c) Definitions.—In this section:
+
+"(1) The term 'contingency operation' has the meaning given that term in section 101(a)(13) of title 10, United States Code.
+
+"(2) The term 'covered contract, grant, or cooperative agreement' means a contract, grant, or cooperative agreement with an estimated value in excess of $100,000 that will be performed in the United States Central Command theater of operations in support of a contingency operation.
+
+"(d) Sunset.—
+
+"(1) In general.—The clause described by subsection (a)(2) shall not be required in any contract, grant, or cooperative agreement that is awarded after the date that is three years after the date of the enactment of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 [Dec. 19, 2014].
+
+"(2) Continuing effect of clauses included before sunset.—Any clause described by subsection (a)(2) that is included in a contract, grant, or cooperative agreement pursuant to this section before the date specified in paragraph (1) shall remain in effect in accordance with its terms."
+
+#### **Executive Documents** ####
+
+#### Exemption of Functions ####
+
+Functions with respect to purchases authorized to be made outside limits of United States or District of Columbia under Foreign Assistance Act of 1961, as amended, as exempt, see Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of Title 22, Foreign Relations and Intercourse.
+
+#### Foreign Contractors ####
+
+Secretaries of Defense, Army, Navy, or Air Force, or their designees, to determine, prior to exercising authority provided in amendment of this section by Pub. L. 89–607 to exempt certain contracts with foreign contractors from requirement of an examination-of-records clause, that all reasonable efforts have been made to include such examination-of-records clause, as required by par. (11) of Part I of Ex. Ord. No. 10789, and that alternate sources of supply are not reasonably available, see par. (11) of Part I of Ex. Ord. No. 10789, Nov. 14, 1958, 23 F.R. 8897, as amended, set out as a note under section 1431 of Title 50, War and National Defense.

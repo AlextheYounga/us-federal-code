@@ -60,6 +60,8 @@ Subject to valid existing rights, all federally owned lands in the scenic area a
 
 (Pub. L. 103–314, §3, Aug. 26, 1994, 108 Stat. 1703; Pub. L. 104–127, title IX, §915, Apr. 4, 1996, 110 Stat. 1187.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The geothermal leasing laws of the United States, referred to in subsec. (i), are classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining.

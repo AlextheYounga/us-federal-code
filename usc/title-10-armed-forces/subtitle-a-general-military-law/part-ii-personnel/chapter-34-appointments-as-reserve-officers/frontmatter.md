@@ -4,6 +4,8 @@ Sec.
 
 591. Reference to chapters 1205 and 1207.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–337, div. A, title XVI, §1662(d)(3), Oct. 5, 1994, 108 Stat. 2991, amended analysis generally, substituting item 591 for former items 591 to 600a.

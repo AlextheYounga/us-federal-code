@@ -8,6 +8,8 @@ Sec.
 
 7253. Flying officer rating: qualifications.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 353 of this title as this chapter and items 3681, 3684, and 3691 as 7251, 7252, and 7253, respectively.
@@ -27,6 +29,8 @@ Sec.
 **1968**—Pub. L. 90–235, §§6(a)(3), 7(a)(4), (b)(3), Jan. 2, 1968, 81 Stat. 762, 763, struck out item 3682 "Service credit: officers; service as cadet not counted", item 3685 "Regular Army; Army Reserve: female members; definition of 'dependents' ", item 3690 "Exemption from arrest for debt: enlisted members", and item 3693 "Replacement of certificate of discharge".
 
 **1958**—Pub. L. 85–861, §1(91), Sept. 2, 1958, 72 Stat. 1482, struck out items 3681 "Army Register: regular officers; service to be listed" and 3688 "Death Gratuity".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Establishment of Breastfeeding Policy for the Department of the Army ####
 

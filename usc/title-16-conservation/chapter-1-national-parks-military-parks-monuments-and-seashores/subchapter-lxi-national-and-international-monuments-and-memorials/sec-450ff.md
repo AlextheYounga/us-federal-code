@@ -4,6 +4,8 @@ For the purpose of establishing a Federal area of national historical importance
 
 (June 19, 1948, ch. 546, §1, 62 Stat. 532; June 30, 1949, ch. 288, title I, §105, 63 Stat. 381; Pub. L. 87–78, §4, June 30, 1961, 75 Stat. 197.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Words "national historic site" substituted in text for "national monument" in view of redesignation of Fort Vancouver National Monument as Fort Vancouver National Historic Site by Pub. L. 87–78, classified to section 450ff–6 of this title.

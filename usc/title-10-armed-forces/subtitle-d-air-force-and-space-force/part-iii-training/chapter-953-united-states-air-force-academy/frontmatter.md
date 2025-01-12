@@ -24,6 +24,8 @@ Sec.
 
 9442. Cadets: appointment; numbers, territorial distribution.
 
+9442a. Cadets: nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate.
+
 9443. Cadets: appointment; to bring to full strength.
 
 9446. Cadets: requirements for admission.
@@ -58,11 +60,15 @@ Sec.
 
 9462. Support of athletic programs.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 953, consisting of sections 9831 to 9842, related to accountability and responsibility, prior to renumbering as chapter 983 of this title.
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title V, §553(c)(2), Dec. 27, 2021, 135 Stat. 1738, added item 9442a.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(2), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 903 of this title as this chapter and items 9331 to 9336, 9338 to 9343, and 9346 to 9362 as 9431 to 9436, 9438 to 9443, and 9446 to 9462, respectively.
 

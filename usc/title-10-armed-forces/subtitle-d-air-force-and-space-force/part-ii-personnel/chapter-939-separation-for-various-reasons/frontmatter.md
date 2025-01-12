@@ -4,6 +4,8 @@ Sec.
 
 9307. Aviation cadets: discharge.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 939, consisting of sections 9621 to 9629, related to sale of serviceable material, prior to renumbering as chapter 969 of this title.

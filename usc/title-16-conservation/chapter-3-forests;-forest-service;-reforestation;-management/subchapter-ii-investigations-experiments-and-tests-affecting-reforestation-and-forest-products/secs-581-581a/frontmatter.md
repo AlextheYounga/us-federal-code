@@ -4,6 +4,8 @@ Section 581, acts May 22, 1928, ch. 678, §1, 45 Stat. 699; Apr. 24, 1950, ch. 9
 
 Section 581a, acts May 22, 1928, ch. 678, §2, 45 Stat. 700; June 15, 1936, ch. 553, 49 Stat. 1515, set forth provisions establishing and authorizing appropriations for specific forest experiment stations.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1978, see section 9 of Pub. L. 95–307, set out as an Effective Date note under section 1641 of this title.

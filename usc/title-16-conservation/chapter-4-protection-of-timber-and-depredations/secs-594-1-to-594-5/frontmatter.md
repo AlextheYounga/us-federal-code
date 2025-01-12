@@ -10,6 +10,8 @@ Section 594–4, act June 25, 1947, ch. 141, §4, 61 Stat. 177, related to contr
 
 Section 594–5, acts June 25, 1947, ch. 141, §5, 61 Stat. 177; June 20, 1975, Pub. L. 94–40, 89 Stat. 224, set forth funding requirements for Federal program.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Oct. 1, 1978, see section 17 of Pub. L. 95–313, set out as an Effective Date note under section 2101 of this title.

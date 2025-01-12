@@ -32,6 +32,8 @@
 
 (Added Pub. L. 103–160, div. A, title V, §504(a), Nov. 30, 1993, 107 Stat. 1644; amended Pub. L. 103–337, div. A, title V, §541(g), title X, §1070(a)(3), Oct. 5, 1994, 108 Stat. 2767, 2855; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 114–92, div. A, title V, §501, Nov. 25, 2015, 129 Stat. 806.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Subsec. (a). Pub. L. 114–92, §501(1), substituted "October 1, 2015, and ending on October 1, 2019" for "November 30, 1993, and ending on October 1, 1999".
@@ -43,6 +45,8 @@ Subsec. (c)(3) to (5). Pub. L. 114–92, §501(2), redesignated pars. (4) and (5
 **1994**—Subsec. (a). Pub. L. 103–337, §1070(a)(3), substituted "November 30, 1993," for "the date of the enactment of this section".
 
 Subsec. (e). Pub. L. 103–337, §541(g), added subsec. (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2002 Amendment ####
 

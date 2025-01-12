@@ -22,6 +22,8 @@ Sec.
 
 8172. Marine Corps organizations on vessels: authority of officers.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 551 of this title as this chapter and items 5942 to 5949, 5951, and 5952 as 8162 to 8169, 8171, and 8172, respectively.

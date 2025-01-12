@@ -1,0 +1,11 @@
+### [§§2411, 2412. Repealed. Pub. L. 116–283, div. A, title XVIII, §1872(b)(1), Jan. 1, 2021, 134 Stat. 4289] ###
+
+Section 2411, added Pub. L. 98–525, title XII, §1241(a)(1), Oct. 19, 1984, 98 Stat. 2605; amended Pub. L. 99–145, title IX, §919(a), Nov. 8, 1985, 99 Stat. 691; Pub. L. 99–500, §101(c) [title X, §956(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, §101(c) [title X, §956(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174; Pub. L. 99–661, div. A, title IX, formerly title IV, §956(a), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, §807(b), Dec. 4, 1987, 101 Stat. 1128; Pub. L. 100–456, div. A, title VIII, §841(b)(2), Sept. 29, 1988, 102 Stat. 2025; Pub. L. 101–189, div. A, title VIII, §853(e), Nov. 29, 1989, 103 Stat. 1519; Pub. L. 102–25, title VII, §701(j)(5), Apr. 6, 1991, 105 Stat. 116; Pub. L. 102–484, div. A, title X, §1052(31), Oct. 23, 1992, 106 Stat. 2501; Pub. L. 115–91, div. A, title X, §1081(a)(36), Dec. 12, 2017, 131 Stat. 1596; Pub. L. 116–92, div. A, title VIII, §852(a), Dec. 20, 2019, 133 Stat. 1511; Pub. L. 116–283, div. A, title XVIII, §1872(a)(2), Jan. 1, 2021, 134 Stat. 4288; Pub. L. 117–81, div. A, title XVII, §1701(m)(1)(A), (B), Dec. 27, 2021, 135 Stat. 2144, provided definitions for this chapter. See section 4951 of this title.
+
+Section 2412, added Pub. L. 98–525, title XII, §1241(a)(1), Oct. 19, 1984, 98 Stat. 2605; amended Pub. L. 99–145, title IX, §919(a), Nov. 8, 1985, 99 Stat. 692; Pub. L. 116–283, div. A, title XVIII, §1872(a)(3), Jan. 1, 2021, 134 Stat. 4287; Pub. L. 117–81, div. A, title XVII, §1701(m)(1)(A), (B), Dec. 27, 2021, 135 Stat. 2144, defined the purposes of the program authorized by this chapter. See section 4952 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of Repeal ####
+
+Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.

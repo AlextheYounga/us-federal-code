@@ -12,6 +12,8 @@ Sec.
 
 7806. Settlement or compromise: final and conclusive.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 451 of this title as this chapter and items 4801 to 4806 as 7801 to 7806, respectively.

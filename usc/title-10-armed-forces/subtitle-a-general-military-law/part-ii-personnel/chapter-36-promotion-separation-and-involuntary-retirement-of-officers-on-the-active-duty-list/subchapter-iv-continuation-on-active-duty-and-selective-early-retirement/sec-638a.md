@@ -72,6 +72,8 @@
 
 (Added Pub. L. 101–510, div. A, title V, §521(a)(1), Nov. 5, 1990, 104 Stat. 1559; amended Pub. L. 102–190, div. A, title V, §503(b), Dec. 5, 1991, 105 Stat. 1355; Pub. L. 102–484, div. A, title V, §503, title LXIV, §4403(g)(2), Oct. 23, 1992, 106 Stat. 2402, 2703; Pub. L. 103–160, div. A, title V, §561(b), Nov. 30, 1993, 107 Stat. 1667; Pub. L. 105–261, div. A, title V, §561(c), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, §1 [[div. A], title V, §571(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 109–364, div. A, title VI, §623(b), Oct. 17, 2006, 120 Stat. 2256; Pub. L. 112–239, div. A, title V, §502, Jan. 2, 2013, 126 Stat. 1714; Pub. L. 113–66, div. A, title V, §503(a), Dec. 26, 2013, 127 Stat. 750; Pub. L. 113–291, div. A, title V, §503, Dec. 19, 2014, 128 Stat. 3355; Pub. L. 114–92, div. A, title V, §503, Nov. 25, 2015, 129 Stat. 807; Pub. L. 114–328, div. A, title V, §§506, 508(b), Dec. 23, 2016, 130 Stat. 2108, 2109; Pub. L. 115–91, div. A, title V, §503, Dec. 12, 2017, 131 Stat. 1373; Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 4403 of the National Defense Authorization Act for Fiscal Year 1993, referred to in subsecs. (b)(3)(C) and (e)(1), is section 4403 of Pub. L. 102–484, which is set out as a note under section 1293 of this title.
@@ -129,6 +131,8 @@ Subsec. (c)(3). Pub. L. 102–484, §503, added par. (3).
 **1991**—Subsec. (b)(2)(C). Pub. L. 102–190, §503(b)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "Officers holding a regular grade below the grade of colonel or, in the case of the Navy, captain who are not eligible for retirement under section 3911, 6323, or 8911 of this title but who after two additional years of active service as a commissioned officer would be eligible for retirement under one of those sections and whose names are not on a list of officers recommended for promotion."
 
 Subsec. (c). Pub. L. 102–190, §503(b)(2), designated existing provisions as par. (1) and added par. (2).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2018 Amendment ####
 

@@ -9,6 +9,8 @@ Chapter Sec.
 
 503. Administrative 50301
 
+504. Committees 50401
+
 505. Other General Provisions 50501
 
 #### Part B—Merchant Marine Service ####
@@ -43,13 +45,15 @@ Chapter Sec.
 
 541. Miscellaneous 54101
 
+543. Port Infrastructure Development Program 54301
+
 #### Part D—Promotional Programs ####
 
 551. Coastwise Trade 55101
 
 553. Passenger and Cargo Preferences 55301
 
-555. Miscellaneous 55501
+[555. TRANSFERRED]
 
 556. Short Sea Transportation 1 55601
 
@@ -77,7 +81,9 @@ Chapter Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. C, title XXXV, §3511(b), Jan. 1, 2021, 134 Stat. 4419, which directed amendment of this analysis by adding item for chapter 534 "at the end", was executed by adding the item for chapter 534 after the item for chapter 533 to reflect the probable intent of Congress.
+**2021**—Pub. L. 117–81, div. C, title XXXV, §§3512(c)(2), 3513(d), Dec. 27, 2021, 135 Stat. 2239, 2242, added items for chapters 504 and 543 and struck out item for chapter 555 "Miscellaneous".
+
+Pub. L. 116–283, div. C, title XXXV, §3511(b), Jan. 1, 2021, 134 Stat. 4419, which directed amendment of this analysis by adding item for chapter 534 "at the end", was executed by adding the item for chapter 534 after the item for chapter 533 to reflect the probable intent of Congress.
 
 **2019**—Pub. L. 116–92, div. C, title XXXV, §3521(b), Dec. 20, 2019, 133 Stat. 1997, added item for chapter 532.
 

@@ -66,6 +66,8 @@
 
 (Added Pub. L. 106–398, §1 [[div. A], title X, §1073(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–277; amended Pub. L. 107–107, div. A, title X, §1048(a)(3), (c)(1), Dec. 28, 2001, 115 Stat. 1222, 1226; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The International Organizations Immunities Act, referred to in subsec. (h)(3)(A), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 288 of Title 22 and Tables.
@@ -77,6 +79,8 @@ The International Organizations Immunities Act, referred to in subsec. (h)(3)(A)
 **2001**—Subsec. (b)(3)(C). Pub. L. 107–107, §1048(a)(3), substituted "subsection (g)" for "subsection (f)".
 
 Subsec. (d)(1). Pub. L. 107–107, §1048(c)(1), substituted "October 30, 2000," for "the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2002 Amendment ####
 

@@ -18,6 +18,8 @@ No lands or interests therein outside of the boundaries of the recreation area m
 
 (Pub. L. 103–104, §1, Oct. 12, 1993, 107 Stat. 1025; Pub. L. 103–437, §6(q), Nov. 2, 1994, 108 Stat. 4587.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Subsec. (c). Pub. L. 103–437 in first sentence struck out "Select" before "Committee on Indian Affairs".

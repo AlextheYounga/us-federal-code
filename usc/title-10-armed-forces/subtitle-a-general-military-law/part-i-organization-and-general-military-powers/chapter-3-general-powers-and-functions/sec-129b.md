@@ -32,6 +32,8 @@
 
 (Added Pub. L. 101–510, div. A, title XIV, §1481(b)(1), Nov. 5, 1990, 104 Stat. 1704; amended Pub. L. 102–190, div. A, title X, §1061(a)(2), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 108–136, div. A, title VIII, §841(a), (b)(1), Nov. 24, 2003, 117 Stat. 1552.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Provisions similar to those in this section were contained in Pub. L. 101–165, title IX, §9002, Nov. 21, 1989, 103 Stat. 1129, which was set out as a note under section 2241 of this title, prior to repeal by Pub. L. 101–510, §1481(b)(3).

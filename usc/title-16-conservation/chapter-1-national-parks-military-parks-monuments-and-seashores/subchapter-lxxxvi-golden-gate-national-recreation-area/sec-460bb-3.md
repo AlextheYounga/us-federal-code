@@ -26,6 +26,8 @@ Notwithstanding any other provisions of law, in the administration of those parc
 
 (Pub. L. 92–589, §4, Oct. 27, 1972, 86 Stat. 1302; Pub. L. 95–625, title III, §317(f), Nov. 10, 1978, 92 Stat. 3486; Pub. L. 99–395, §§1, 2(a), Aug. 27, 1986, 100 Stat. 836; Pub. L. 100–348, §6, June 27, 1988, 102 Stat. 657.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under section 100101 of Title 54, National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as section 1865(a) of Title 18, Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
@@ -39,6 +41,8 @@ The Act of August 25, 1916 (39 Stat. 535; 16 U.S.C. 1, 2–4), referred to in su
 Subsec. (f). Pub. L. 99–395, §1, struck out provision which had included a coordinated public and private access system to and within the recreation area and other units of the national park system in Marin and San Francisco Counties among the allowable uses to which rental proceeds from Haslett Warehouse, Cliff House Properties and Louis' Restaurant were to be put, inserted in second proviso a reference to the administration of the AFDL–38 Drydock and other vessels or heavy marine equipment, and inserted parenthetical in second proviso to include rental or lease of properties under management contracts into which the Secretary may enter.
 
 **1978**—Subsecs. (e), (f). Pub. L. 95–625 added subsecs. (e) and (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Fort Baker Agreements and Leases ####
 

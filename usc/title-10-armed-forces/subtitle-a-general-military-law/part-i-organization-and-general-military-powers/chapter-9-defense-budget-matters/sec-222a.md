@@ -78,6 +78,8 @@
 
 (Added Pub. L. 114–328, div. A, title X, §1064(a)(1), Dec. 23, 2016, 130 Stat. 2408; amended Pub. L. 116–92, div. A, title X, §1005, title XVII, §1731(a)(12), Dec. 20, 2019, 133 Stat. 1573, 1813; Pub. L. 116–283, div. A, title IX, §924(b)(10), title X, §§1006, 1081(a)(12), Jan. 1, 2021, 134 Stat. 3823, 3838, 3871.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Subsec. (b)(5), (6). Pub. L. 116–283, §924(b)(10), added par. (5) and redesignated former par. (5) as (6).
@@ -93,6 +95,8 @@ Subsec. (d)(1)(C)(i). Pub. L. 116–283, §1081(a)(12), inserted "had" before "b
 Subsec. (d). Pub. L. 116–92, §1005(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) defined the term "unfunded priority".
 
 Subsec. (d)(3)(A). Pub. L. 116–92, §1731(a)(12), inserted "had" before "been" prior to the general amendment of subsec. (d). See Amendment note above and Coordination of Amendments by Pub. L. 116–92 note below.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Coordination of Amendments by Pub. L. 116–92 ####
 

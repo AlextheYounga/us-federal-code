@@ -18,6 +18,8 @@ Sec.
 
 9498. Regulations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(2), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 909 of this title as this chapter and items 9441 to 9448 as 9491 to 9498, respectively.

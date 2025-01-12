@@ -48,6 +48,8 @@ Sec.
 
 1137. Public transportation security training program.
 
+1137a. Local law enforcement security training.
+
 1138. Public transportation research and development.
 
 1139. Information sharing.

@@ -16,6 +16,8 @@ Subject to valid existing rights, each wilderness area designated by this subcha
 
 (Pub. L. 102–217, §2, Dec. 11, 1991, 105 Stat. 1667.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.
@@ -23,6 +25,8 @@ The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 
 Section 2(2) of the Georgia Wilderness Act of 1986, referred to in subsec. (a)(3), is section 2(2) of Pub. L. 99–555, Oct. 27, 1986, 100 Stat. 3129, which enacted provisions listed in a table of Wilderness Areas set out under section 1132 of this title.
 
 The effective date of the Wilderness Act, referred to in subsec. (b), means Sept. 3, 1964, the date of enactment of Pub. L. 88–577, which enacted chapter 23 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

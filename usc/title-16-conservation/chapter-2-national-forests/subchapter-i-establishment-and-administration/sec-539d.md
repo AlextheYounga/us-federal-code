@@ -28,6 +28,8 @@ Subject to appropriations, the provisions of this Act and other applicable law (
 
 (Pub. L. 96–487, title VII, §705, Dec. 2, 1980, 94 Stat. 2420; Pub. L. 101–626, title I, §§101–103(a), 105(b), Nov. 28, 1990, 104 Stat. 4426, 4427.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Forest Management Act of 1976, referred to in subsecs. (a) and (f), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. Section 6(k) of the Act (16 U.S.C. 1604(k)), probably means section 6(k) of the Forest and Rangeland Renewable Resources Planning Act of 1974, which is classified to section 1604(k) of this title, and which was added by section 6 of the Act. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
@@ -45,6 +47,8 @@ Subsec. (d). Pub. L. 101–626, §102, added subsec. (d) and struck out former s
 Subsec. (e). Pub. L. 101–626, §103(a), added subsec. (e).
 
 Subsec. (f). Pub. L. 101–626, §105(b), added subsec. (f).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 1990 Amendment ####
 

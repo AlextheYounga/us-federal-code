@@ -4,6 +4,8 @@ Sec.
 
 7176. Retention on active duty.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 339 of this title as this chapter and item 3446 as 7176.

@@ -4,6 +4,8 @@ Notwithstanding any other provision of law, the Secretary of Agriculture shall e
 
 (Pub. L. 92–421, §1, Sept. 18, 1972, 86 Stat. 678; Pub. L. 94–273, §2(9), Apr. 21, 1976, 90 Stat. 375.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1976**—Pub. L. 94–273 substituted "September" for "June".

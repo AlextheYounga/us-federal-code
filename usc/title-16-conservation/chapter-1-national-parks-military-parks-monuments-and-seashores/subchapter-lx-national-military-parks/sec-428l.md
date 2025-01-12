@@ -4,6 +4,8 @@ Within the area designated for addition to such battlefield under section 428k o
 
 (Pub. L. 86–738, §§2, 4, Sept. 8, 1960, 74 Stat. 876.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Battlefield" substituted in text for "park" in view of redesignation of Fort Donelson National Military Park as Fort Donelson National Battlefield by Pub. L. 86–738, §4, set out as section 428n of this title.

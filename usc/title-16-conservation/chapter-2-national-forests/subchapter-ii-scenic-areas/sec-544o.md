@@ -48,6 +48,8 @@ In the event that the States of Washington and Oregon fail to comply with the pr
 
 (Pub. L. 99–663, §17, Nov. 17, 1986, 100 Stat. 4300.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 13(c), referred to in subsec. (a)(2) to (4), is section 13(c) of Pub. L. 99–663, Nov. 17, 1986, 100 Stat. 4294, which amended section 1274(a) of this title.

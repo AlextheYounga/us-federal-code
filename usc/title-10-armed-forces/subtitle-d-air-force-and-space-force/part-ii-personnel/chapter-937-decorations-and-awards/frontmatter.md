@@ -32,6 +32,8 @@ Sec.
 
 9286. Korea Defense Service Medal.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 937, consisting of sections 9591 to 9594, related to utilities and services, prior to renumbering as chapter 967 of this title.
@@ -50,11 +52,15 @@ Pub. L. 107–248, title VIII, §8143(c)(3)(B), Oct. 23, 2002, 116 Stat. 1571, a
 
 **1960**—Pub. L. 86–593, §1(7), July 6, 1960, 74 Stat. 332, substituted "Air Force cross" for "distinguished-service cross" in items 8742, 8744, and 8745, inserted "Air Force cross;" in items 8747 and 8748, and substituted "Airman's Medal" for "Soldier's Medal" in item 8750.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Extension of Time for Award of Decoration ####
 
 For extension of time for award of decorations, or devices in lieu of decorations, for acts or services performed in direct support of military operations in Southeast Asia between July 1, 1958, and Mar. 28, 1973, see Pub. L. 93–469, Oct. 24, 1974, 88 Stat. 1422, set out as a note preceding section 7271 of this title.
 
 For extension of time for award of decoration, or device in lieu of decoration, for an act or service performed while on active duty in military or naval forces, or while serving with such forces, between June 27, 1950, and July 27, 1953, see act Aug. 2, 1956, ch. 877, 70 Stat. 933, set out as a note preceding section 7271 of this title.
+
+#### **Executive Documents** ####
 
 #### Meritorious Service Medal ####
 

@@ -6,7 +6,7 @@
 
 (2) current cost-to-complete estimates for each affected defense business system;
 
-(3) dependencies both between the various defense business systems and between the introduction, replacement, update, modification, and retirement of such systems; and <sup><a href="#240g_1_target" name="240g_1">1</a></sup>
+(3) dependencies both between the various defense business systems and between the introduction, replacement, update, modification, and retirement of such systems;
 
 (4) the amount spent by the Department on operating and maintaining financial management systems during the preceding five fiscal years; and
 
@@ -20,10 +20,12 @@
 
 (c) Defense Business System.—In this section, the term "defense business system" has the meaning given such term in section 2222(i)(1)(A) of this title.
 
-(Added Pub. L. 116–92, div. A, title X, §1002(a), Dec. 20, 2019, 133 Stat. 1570; amended Pub. L. 116–283, div. A, title X, §1005(a), Jan. 1, 2021, 134 Stat. 3837.)
+(Added Pub. L. 116–92, div. A, title X, §1002(a), Dec. 20, 2019, 133 Stat. 1570; amended Pub. L. 116–283, div. A, title X, §1005(a), Jan. 1, 2021, 134 Stat. 3837; Pub. L. 117–81, div. A, title X, §1081(a)(8), Dec. 27, 2021, 135 Stat. 1920.)
+
+#### **Editorial Notes** ####
 
 #### Amendments ####
 
-**2021**—Subsec. (a)(4), (5). Pub. L. 116–283 added pars. (4) and (5).
+**2021**—Subsec. (a)(3). Pub. L. 117–81, substituted a semicolon for "; and" at end.
 
-[<sup>1</sup> So in original. The word "and" probably should not appear.](#240g_1)
+Subsec. (a)(4), (5). Pub. L. 116–283 added pars. (4) and (5).

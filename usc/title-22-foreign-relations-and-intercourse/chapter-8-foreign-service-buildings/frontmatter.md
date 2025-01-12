@@ -36,4 +36,8 @@ Sec.
 
 303. Repealed.
 
-304. Annual report on embassy construction costs.
+304. Biannual report on overseas capital construction projects.
+
+305. Growth projections for new embassies and consulates.
+
+306. Contracting methods in capital construction.

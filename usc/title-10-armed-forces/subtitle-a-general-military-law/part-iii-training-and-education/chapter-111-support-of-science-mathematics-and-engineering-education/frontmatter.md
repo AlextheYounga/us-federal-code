@@ -6,7 +6,7 @@ Sec.
 
 2192. Improvement of education in technical fields: general authority regarding education in science, mathematics, and engineering.
 
-2192a. Science, Mathematics, and Research for Transformation (SMART) Defense Education Program.
+[2192a. Renumbered.]
 
 2192b. Program on enhancement of preparation of dependents of members of armed forces for careers in science, technology, engineering, and mathematics.
 
@@ -20,17 +20,19 @@ Sec.
 
 2195. Department of Defense cooperative education programs.
 
-2196. Manufacturing engineering education: grant program. 1
-
-2197. Manufacturing experts in the classroom.
+[2196, 2197. Renumbered.]
 
 2198. Management training program in Japanese language and culture.
 
 2199. Definitions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title V, §591(b), Jan. 1, 2021, 134 Stat. 3665, added item 2193b and struck out former item 2193b "Improvement of education in technical fields: program for support of elementary and secondary education in science, mathematics, and technology".
+**2021**—Pub. L. 117–81, div. A, title XVII, §1701(p)(2)(B), (w)(2), Dec. 27, 2021, 135 Stat. 2148, 2154, struck out items 2192a "Science, Mathematics, and Research for Transformation (SMART) Defense Education Program", 2196 "Manufacturing engineering education: grant program", and 2197 "Manufacturing experts in the classroom".
+
+Pub. L. 116–283, div. A, title V, §591(b), Jan. 1, 2021, 134 Stat. 3665, added item 2193b and struck out former item 2193b "Improvement of education in technical fields: program for support of elementary and secondary education in science, mathematics, and technology".
 
 **2019**—Pub. L. 116–92, div. A, title II, §211(b), Dec. 20, 2019, 133 Stat. 1255, added item 2192b.
 
@@ -43,6 +45,8 @@ Sec.
 **1991**—Pub. L. 102–190, div. A, title VIII, §§825(a)(2), 828(b), Dec. 5, 1991, 105 Stat. 1442, 1444, struck out item 2196 "Definition" and added items 2196 to 2199.
 
 **1990**—Pub. L. 101–510, div. A, title II, §247(a)(2)(A), (C), Nov. 5, 1990, 104 Stat. 1523, substituted "SUPPORT OF SCIENCE, MATHEMATICS, AND ENGINEERING EDUCATION" for "NATIONAL DEFENSE SCIENCE AND ENGINEERING GRADUATE FELLOWSHIPS" in chapter heading and added items 2192 to 2196.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Encouragement of Contractor Science, Technology, Engineering, and Mathematics (STEM) Programs ####
 
@@ -77,5 +81,3 @@ Pub. L. 116–283, div. A, title II, §245(a)–(d), Jan. 1, 2021, 134 Stat. 348
 "(2) The term 'institution of higher education' has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)."
 
 Pub. L. 112–81, div. A, title VIII, §862, Dec. 31, 2011, 125 Stat. 1521, which related to the encouragement of contractor science, technology, engineering, and math (STEM) programs, was repealed by Pub. L. 116–283, div. A, title II, §245(e), Jan. 1, 2021, 134 Stat. 3490.
-
-[<sup>1</sup> Section catchline amended by Pub. L. 114–328 without corresponding amendment of chapter analysis.](#CHAPTER111_1)

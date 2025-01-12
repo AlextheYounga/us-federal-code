@@ -12,6 +12,8 @@ Sec.
 
 8454. Midshipmen: number.
 
+8454a. Midshipmen: nomination in event of death, resignation, or expulsion from office of Member of Congress otherwise authorized to nominate.
+
 8455. Midshipmen: allotment upon redistricting of Congressional Districts.
 
 8456. Midshipmen: nomination and selection to fill vacancies.
@@ -66,11 +68,15 @@ Sec.
 
 8481. Support of athletic and physical fitness programs.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 853, consisting of sections 8681 to 8693, related to miscellaneous rights and benefits in the Air Force, prior to renumbering as chapter 933 of this title.
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title V, §553(b)(2), Dec. 27, 2021, 135 Stat. 1737, added item 8454a.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 603 of this title as this chapter and items 6951 to 6956 and 6958 to 6981 as 8451 to 8456 and 8458 to 8481, respectively.
 

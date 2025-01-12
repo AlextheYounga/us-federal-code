@@ -4,6 +4,8 @@ As used in this subchapter "whoever" includes also associations, partnerships, a
 
 (June 8, 1940, ch. 278, §4, 54 Stat. 251; Pub. L. 92–535, §4, Oct. 23, 1972, 86 Stat. 1065.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1972**—Pub. L. 92–535 substituted "poison, wound, kill, capture, trap, collect, molest" for "wound, kill, capture, trap, collect, or otherwise willfully molest".

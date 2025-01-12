@@ -8,13 +8,13 @@ The Commissioner of U.S. Customs and Border Protection, in consultation with the
 
 (A) A new or existing sea or air port of entry.
 
-(B) An existing Federal Government-owned land port of entry.
+(B) An existing Federal Government-owned or -leased land port of entry.
 
-(C) A new Federal Government-owned land port of entry if—
+(C) A new Federal Government-owned or -leased land port of entry if—
 
-(i) the fair market value of the donation is $50,000,000 or less; and
+(i) the fair market value of the donation is $75,000,000 or less; and
 
-(ii) the fair market value, including any personal and real property donations in total, of such port of entry when completed, is $50,000,000 or less.
+(ii) the fair market value of donations with respect to the land port of entry total $75,000,000 or less over the preceding five years.
 
 #### (2) Limitation on monetary donations ####
 
@@ -22,7 +22,7 @@ Any monetary donation accepted pursuant to this subsection may not be used to pa
 
 #### (3) Uses ####
 
-Donations accepted pursuant to this subsection may be used for activities of the Office of Field Operations set forth in subparagraphs (A) through (F) of section 211(g)(3) of this title, which are related to a new or existing sea or air port of entry or a new or existing Federal Government-owned land port of entry described in paragraph (1), including expenses related to—
+Donations accepted pursuant to this subsection may be used for activities of the Office of Field Operations set forth in subparagraphs (A) through (F) of section 211(g)(3) of this title, which are related to a new or existing sea or air port of entry or a new or existing Federal Government-owned or -leased land port of entry described in paragraph (1), including expenses related to—
 
 (A) furniture, fixtures, equipment, or technology, including the installation or deployment of such items; and
 
@@ -32,7 +32,7 @@ Donations accepted pursuant to this subsection may be used for activities of the
 
 #### (1) In general ####
 
-Subject to paragraph (3), the Commissioner of U.S. Customs and Border Protection, and the Administrator of the General Services Administration, as applicable, may enter into an agreement with any entity to accept a donation of real property or money for uses described in paragraph (2) only with respect to the following locations at which U.S. Customs and Border Protection performs or will be performing inspection services:
+Subject to paragraph (3), the Commissioner of U.S. Customs and Border Protection, and the Administrator of General Services, as applicable, may enter into an agreement with any entity to accept a donation of real property or money for uses described in paragraph (2) only with respect to the following locations at which U.S. Customs and Border Protection performs or will be performing inspection services:
 
 (A) A new or existing sea or air port of entry.
 
@@ -40,9 +40,9 @@ Subject to paragraph (3), the Commissioner of U.S. Customs and Border Protection
 
 (C) A new Federal Government-owned land port of entry if—
 
-(i) the fair market value of the donation is $50,000,000 or less; and
+(i) the fair market value of the donation is $75,000,000 or less; and
 
-(ii) the fair market value, including any personal and real property donations in total, of such port of entry when completed, is $50,000,000 or less.
+(ii) the fair market value of donations with respect to the land port of entry total $75,000,000 or less over the preceding five years.
 
 #### (2) Use ####
 
@@ -60,11 +60,11 @@ A donation of real property under this subsection at an existing land port of en
 
 #### (A) In general ####
 
-The authority to enter into an agreement under this subsection shall terminate on the date that is December 16, 2021.
+The authority to enter into an agreement under this subsection shall terminate on December 31, 2026.
 
 #### (B) Rule of construction ####
 
-The termination date referred to in subparagraph (A) shall not apply to carrying out the terms of an agreement under this subsection if such agreement is entered into before such termination date.
+The termination date referred to in subparagraph (A) shall not apply to a proposal accepted for consideration by U.S. Customs and Border Protection or the General Services Administration pursuant to this section or a prior pilot program prior to such termination date.
 
 #### (c) General provisions ####
 
@@ -162,7 +162,11 @@ Except as provided in subsections (a) and (b) regarding the acceptance of donati
 
 #### (B) Certification requirement ####
 
-Before accepting any donations pursuant to an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection shall certify to the congressional committees set forth in paragraph (7) that the donation will not be used for the construction of a detention facility or a border fence or wall.
+Before accepting any donations pursuant to an agreement under subsection (a) or (b), the Commissioner of U.S. Customs and Border Protection shall certify to the congressional committees set forth in paragraph (7) that <sup><a href="#301a_1_target" name="301a_1">1</a></sup>
+
+(i) the donation will not be used for the construction of a detention facility or a border fence or wall; and
+
+(ii) the donor will be notified in the Donations Acceptance Agreement that the donor shall be financially responsible for all costs and operating expenses related to the operation, maintenance, and repair of the donated real property until such time as U.S. Customs and Border Protection provides the donor written notice otherwise.
 
 #### (7) Annual reports ####
 
@@ -190,7 +194,7 @@ The Commissioner of U.S. Customs and Border Protection, in collaboration with th
 
 #### (d) GAO report ####
 
-The Comptroller General of the United States shall submit an annual report to the congressional committees referred to in subsection (c)(7) that evaluates—
+The Comptroller General of the United States shall submit an biennial report to the congressional committees referred to in subsection (c)(7) that evaluates—
 
 (1) fee agreements entered into pursuant to section 301 of this title;
 
@@ -200,18 +204,44 @@ The Comptroller General of the United States shall submit an annual report to th
 
 #### (e) Judicial review ####
 
-Decisions of the Commissioner of U.S. Customs and Border Protection and the Administrator of the General Services Administration under this section regarding the acceptance of real or personal property are in the discretion of the Commissioner and the Administrator and are not subject to judicial review.
+Decisions of the Commissioner of U.S. Customs and Border Protection and the Administrator of General Services under this section regarding the acceptance of real or personal property are in the discretion of the Commissioner and the Administrator and are not subject to judicial review.
 
 #### (f) Rule of construction ####
 
 Except as otherwise provided in this section, nothing in this section may be construed as affecting in any manner the responsibilities, duties, or authorities of U.S. Customs and Border Protection or the General Services Administration.
 
-(Pub. L. 107–296, title IV, §482, as added Pub. L. 114–279, §2(a), Dec. 16, 2016, 130 Stat. 1417; amended Pub. L. 116–260, div. O, title III, §301, Dec. 27, 2020, 134 Stat. 2149.)
+(Pub. L. 107–296, title IV, §482, as added Pub. L. 114–279, §2(a), Dec. 16, 2016, 130 Stat. 1417; amended Pub. L. 116–260, div. O, title III, §301, Dec. 27, 2020, 134 Stat. 2149; Pub. L. 117–81, div. F, title LXIV, §6410, Dec. 27, 2021, 135 Stat. 2408.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
 
+**2021**—Subsec. (a)(1)(B), (C). Pub. L. 117–81, §6410(1)(A)(i), (ii)(I), inserted "or -leased" before "land".
+
+Subsec. (a)(1)(C)(i). Pub. L. 117–81, §6410(1)(A)(ii)(II), substituted "$75,000,000" for "$50,000,000".
+
+Subsec. (a)(1)(C)(ii). Pub. L. 117–81, §6410(1)(A)(ii)(III), amended cl. (ii) generally. Prior to amendment, text read as follows: "the fair market value, including any personal and real property donations in total, of such port of entry when completed, is $50,000,000 or less.".
+
+Subsec. (a)(3). Pub. L. 117–81, §6410(1)(B), inserted "or -leased" before "land" in introductory provisions.
+
+Subsec. (b). Pub. L. 117–81, §6410(2)(A), which directed substitution of "Administrator of General Services" for "Administrator of the General Services Administration" in the matter preceding par. (1), was executed in par. (1) to reflect the probable intent of Congress.
+
+Subsec. (b)(1)(C)(i). Pub. L. 117–81, §6410(2)(B)(i), substituted "$75,000,000" for "$50,000,000".
+
+Subsec. (b)(1)(C)(ii). Pub. L. 117–81, §6410(2)(b)(ii), amended cl. (ii) genrally. Prior to amendment, text read as follows: "the fair market value, including any personal and real property donations in total, of such port of entry when completed, is $50,000,000 or less.".
+
+Subsec. (b)(4)(A). Pub. L. 117–81, §6410(2)(C)(i), substituted "terminate on December 31, 2026." for "terminate on the date that is December 16, 2021.".
+
+Subsec. (b)(4)(B). Pub. L. 117–81, §6410(2)(C)(ii), substituted "a proposal accepted for consideration by U.S. Customs and Border Protection or the General Services Administration pursuant to this section or a prior pilot program prior to such termination date" for "carrying out the terms of an agreement under this subsection if such agreement is entered into before such termination date".
+
+Subsec. (c)(6)(B). Pub. L. 117–81, §6410(3), substituted cls. (i) and (ii) for "the donation will not be used for the construction of a detention facility or a border fence or wall.".
+
+Subsec. (d). Pub. L. 117–81, §6401(4), substituted "biennial" for "annual" in introductory provisions.
+
+Subsec. (e). Pub. L. 117–81, §6410(d), substituted "Administrator of General Services" for "Administrator of the General Services Administration".
+
 **2020**—Subsec. (b)(4)(A). Pub. L. 116–260, which directed substitution of "December 16, 2021" for "4 years after December 16, 2016", was executed by making the substitution for original text reading "4 years after the date of the enactment of this section", which had been translated as "4 years after December 16, 2016", to reflect the probable intent of Congress.
+
+[<sup>1</sup> So in original.](#301a_1)
 
 [<sup>1</sup> So in original.](#301a_1)

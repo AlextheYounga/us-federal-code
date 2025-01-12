@@ -4,6 +4,8 @@ The Chief of Engineers, under the supervision of the Secretary of the Army, is a
 
 (Dec. 22, 1944, ch. 665, §4, 58 Stat. 889; July 24, 1946, ch. 596, §4, 60 Stat. 642; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; Sept. 3, 1954, ch. 1264, title II, §209, 68 Stat. 1266; Pub. L. 87–874, title II, §207, Oct. 23, 1962, 76 Stat. 1195; Pub. L. 88–578, §2(a), Sept. 3, 1964, 78 Stat. 899; Pub. L. 91–611, title II, §234, Dec. 31, 1970, 84 Stat. 1833; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 110–114, title II, §2026, Nov. 8, 2007, 121 Stat. 1079.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2007**—Pub. L. 110–114 inserted "federally recognized Indian tribes and" before "Federal" and "Indian tribes or" after "considerations, to such" in second proviso and "federally recognized Indian tribe" after "That in any such lease or license to a" in third proviso.
@@ -17,6 +19,8 @@ The Chief of Engineers, under the supervision of the Secretary of the Army, is a
 **1954**—Act Sept. 3, 1954, amended section generally, and, among other changes, inserted "for park or recreational purposes" in first proviso, inserted "or leases where appropriate" in second proviso, and inserted third proviso permitting lessees and licensees to cut timber and harvest crop in certain cases and containing provisions with respect to the collection, utilization, and disposition of the proceeds from the sale of timber and crops.
 
 **1946**—Act July 24, 1946, inserted first proviso dealing with leases to nonprofit organizations.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 
@@ -60,12 +64,14 @@ Pub. L. 97–140, §6, Dec. 29, 1981, 95 Stat. 1718, provided that: "Notwithstan
 
 Similar provisions were contained in Pub. L. 97–128, §8, Dec. 29, 1981, 95 Stat. 1685.
 
-#### Secretary of the Air Force ####
-
-For transfer of certain functions relating to real property under jurisdiction of Air Force, and certain functions relating to construction of buildings and facilities insofar as they may pertain to Department of the Air Force, from Secretary of the Army to Secretary of the Air Force, see Secretary of Defense Transfer Order Nos. 14, eff. July 1, 1948; 18, eff. July 7, 1948; and 40 [App. B(66)], July 22, 1949.
-
 #### Section as Unaffected by Submerged Lands Act ####
 
 Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see section 1303 of Title 43, Public Lands.
+
+#### **Executive Documents** ####
+
+#### Secretary of the Air Force ####
+
+For transfer of certain functions relating to real property under jurisdiction of Air Force, and certain functions relating to construction of buildings and facilities insofar as they may pertain to Department of the Air Force, from Secretary of the Army to Secretary of the Air Force, see Secretary of Defense Transfer Order Nos. 14, eff. July 1, 1948; 18, eff. July 7, 1948; and 40 [App. B(66)], July 22, 1949.
 
 [<sup>1</sup> So in original.](#460d_1)

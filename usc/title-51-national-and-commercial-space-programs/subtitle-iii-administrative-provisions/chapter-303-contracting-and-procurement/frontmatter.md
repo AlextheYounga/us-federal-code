@@ -64,7 +64,7 @@ Pub. L. 116–275, Dec. 31, 2020, 134 Stat. 3358, provided that:
 
 "(11) Article eight of the Outer Space Treaty states, '[a] State Party to the Treaty on whose registry an object launched into outer space is carried shall retain jurisdiction and control over such object, and over any personnel thereof, while in outer space or on a celestial body. Ownership of objects launched into outer space, including objects landed or constructed on a celestial body, and of their component parts, is not affected by their presence in outer space or on a celestial body or by their return to the Earth.'
 
-"(12) Article nine of the Outer Space Treaty states, '[i]n the exploration and use of outer space, including the moon and other celestial bodies, States Parties to the Treaty shall be guided by the principle of co-operation and mutual assistance and shall conduct all their activities in outer space, including the moon and other celestial bodies, with due regard to the corresponding interests of all other States Parties to the Treaty,' and continues, '[i]f a State Party to the Treaty has reason to believe that an activity or experiment planned by it or its nationals in outer space, including the moon and other celestial bodies, would cause potentially harmful interference with activities of other States Parties in the peaceful exploration and use of outer space, including the moon and other celestial bodies, it shall undertake appropriate international consultations before proceeding with any such activity or experiment. A State Party to the Treaty which has reason to believe that an activity or experiment planned by another State Party in outer space, including the moon and other celestial bodies, would cause potentially harmful interference with activities in the peaceful exploration and use of outer space, including the moon and other celestial bodies, may request consultation concerning the activity or experiment.'
+"(12) Article nine of the Outer Space Treaty states, '[i]n the exploration and use of outer space, including the moon and other celestial bodies, States Parties to the Treaty shall be guided by the principle of co-operation and mutual assistance and shall conduct all their activities in outer space, including the moon and other celestial bodies, with due regard to the corresponding interests of all other States Parties to the Treaty,' and continues, '[i]f a State Party to the Treaty has reason to believe that an activity or experiment planned by it or its nationals in outer space, including the moon and other celestial bodies, would cause potentially harmful interference with activities of other States Parties in the peaceful exploration and use of outer space, including the moon and other celestial bodies, it shall undertake appropriate international consultations before proceeding with any such activity or experiment. A State Party to the Treaty which has reason to believe that an activity or experiment planned by another State Party in outer space, including the moon and other celestial bodies, would cause potentially harmful interference with activities in the peaceful exploration and use of outer space, including the moon and other celestial bodies, may request consultation concerning the activity or experiment.
 
 "(b) Sense of Congress.—It is the sense of Congress that—
 
@@ -96,7 +96,7 @@ Pub. L. 116–275, Dec. 31, 2020, 134 Stat. 3358, provided that:
 
 #### Detection and Avoidance of Counterfeit Parts ####
 
-Pub. L. 115–10, title VIII, §823, Mar. 21, 2017, 131 Stat. 62, provided that:
+Pub. L. 115–10, title VIII, §823, Mar. 21, 2017, 131 Stat. 62, as amended by Pub. L. 117–81, div. A, title XVII, §1702(l)(11), Dec. 27, 2021, 135 Stat. 2161, provided that:
 
 "(a) Findings.—Congress makes the following findings:
 
@@ -146,7 +146,7 @@ Pub. L. 115–10, title VIII, §823, Mar. 21, 2017, 131 Stat. 62, provided that:
 
 "(ii) inspection, testing, and authentication of electronic parts that NASA or a covered contractor, including a subcontractor, obtains from any source other than a source described in subparagraph (A);
 
-"(C) establish qualification requirements, consistent with the requirements of section 2319 of title 10, United States Code, pursuant to which NASA may identify suppliers that have appropriate policies and procedures in place to detect and avoid counterfeit electronic parts and suspect counterfeit electronic parts; and
+"(C) establish qualification requirements, consistent with the requirements of section 3243 of title 10, United States Code, pursuant to which NASA may identify suppliers that have appropriate policies and procedures in place to detect and avoid counterfeit electronic parts and suspect counterfeit electronic parts; and
 
 "(D) authorize a covered contractor, including a subcontractor, to identify and use additional suppliers beyond those identified under subparagraph (C) if—
 

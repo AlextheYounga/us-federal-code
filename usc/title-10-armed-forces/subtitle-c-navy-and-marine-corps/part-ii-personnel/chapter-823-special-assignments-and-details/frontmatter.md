@@ -8,6 +8,8 @@ Sec.
 
 8186. Technical institutions: detail of naval officers to promote knowledge of naval engineering and naval architecture.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 553 of this title as this chapter and items 5983, 5985, and 5986 as 8183, 8185, and 8186, respectively.

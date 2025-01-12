@@ -8,6 +8,8 @@ Sec.
 
 4603. Advance notification of contract performance outside the United States.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 361 "CONTRACT ADMINISTRATION", consisting of reserved section 4601, was repealed by Pub. L. 116–283, div. A, title XVIII, §1861(a), Jan. 1, 2021, 134 Stat. 4277.

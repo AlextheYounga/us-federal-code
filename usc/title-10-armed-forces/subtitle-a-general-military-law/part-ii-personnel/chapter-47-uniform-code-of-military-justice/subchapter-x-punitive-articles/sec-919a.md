@@ -26,11 +26,15 @@
 
 (Added Pub. L. 108–212, §3(a), Apr. 1, 2004, 118 Stat. 569; amended Pub. L. 114–328, div. E, title LX, §5401(13)(B), Dec. 23, 2016, 130 Stat. 2939; Pub. L. 115–91, div. A, title X, §1081(c)(1)(N), Dec. 12, 2017, 131 Stat. 1598.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (b). Pub. L. 115–91 substituted "926, 928, and 928a" for "928a, 926, and 928" and "126, 128, and 128a" for "128a 126, and 128".
 
 **2016**—Subsec. (b). Pub. L. 114–328 substituted "928a," for "924," and "128a" for "124,".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

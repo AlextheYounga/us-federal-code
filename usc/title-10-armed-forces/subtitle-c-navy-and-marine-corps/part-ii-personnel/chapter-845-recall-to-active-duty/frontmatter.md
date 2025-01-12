@@ -10,6 +10,8 @@ Sec.
 
 8386. Members of the Fleet Reserve and Fleet Marine Corps Reserve: release from active duty.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 845, consisting of sections 8571 to 8583, related to rank and command within the Air Force, prior to renumbering as chapter 925 of this title.

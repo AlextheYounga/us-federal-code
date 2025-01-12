@@ -20,6 +20,8 @@ Sec.
 
 777a. Wearing of insignia of higher grade before appointment to a grade above major general or rear admiral (frocking): authority; restrictions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 111–383, div. A, title V, §505(a)(2), Jan. 7, 2011, 124 Stat. 4210, added item 777a.
@@ -31,6 +33,8 @@ Sec.
 **1987**—Pub. L. 100–180, div. A, title V, §508(b), Dec. 4, 1987, 101 Stat. 1087, added item 774 and redesignated former item 774 as 775.
 
 **1968**—Pub. L. 90–235, §8(1)(B), Jan. 2, 1968, 81 Stat. 764, added item 771a.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Pilot Program for Temporary Issuance of Maternity-Related Uniform Items ####
 

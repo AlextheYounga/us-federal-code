@@ -132,9 +132,13 @@ Subject to valid existing rights, all Federal land in the scenic areas is withdr
 
 (Pub. L. 111–11, title I, §1104, Mar. 30, 2009, 123 Stat. 1004.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subtitle, referred to in subsec. (c)(1)(A), is subtitle B (§§1101–1107) of title I of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1002, which enacted this section and section 546b–1 of this title, enacted provisions set out as a note below, and enacted and amended provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of subtitle B to the Code, see Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

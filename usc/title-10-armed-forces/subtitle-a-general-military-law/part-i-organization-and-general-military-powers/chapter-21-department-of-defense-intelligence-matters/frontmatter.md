@@ -6,9 +6,135 @@ I. General Matters 421
 
 II. Intelligence Commercial Activities 431
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1991**—Pub. L. 102–88, title V, §504(a)(1), Aug. 14, 1991, 105 Stat. 437, added items for subchapters I and II.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Notification of Certain Threats to United States Armed Forces by Foreign Governments ####
+
+Pub. L. 117–81, div. A, title XVI, §1621, Dec. 27, 2021, 135 Stat. 2084, provided that:
+
+"(a) Determination That Foreign Government Intends to Cause the Death of or Serious Bodily Injury to Members of the Armed Forces.—The Secretary of Defense shall carry out the notification requirement under subsection (b) whenever the Secretary, in consultation with the Director of National Intelligence, determines with high confidence that, on or after the date of the enactment of this Act [Dec. 27, 2021], an official of a foreign government has taken a substantial step that is intended to cause the death of, or serious bodily injury to, any member of the United States Armed Forces, whether through direct means or indirect means, including through a promise or agreement by the foreign government to pay anything of pecuniary value to an individual or organization in exchange for causing such death or serious bodily injury.
+
+"(b) Notice to Congress.—
+
+"(1) Notification.—Except as provided by paragraph (2), not later than 14 days after making a determination under subsection (a), the Secretary shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] of such determination. Such notification shall include, at a minimum, the following:
+
+"(A) A description of the nature and extent of the effort by the foreign government to target members of the United States Armed Forces.
+
+"(B) An assessment of what specific officials, agents, entities, and departments within the foreign government authorized the effort.
+
+"(C) An assessment of the motivations of the foreign government for undertaking such an effort.
+
+"(D) An assessment of whether the effort of the foreign government was a substantial factor in the death or serious bodily injury of any member of the United States Armed Forces.
+
+"(E) Any other information the Secretary determines appropriate.
+
+"(2) Waiver.—On a case-by-case basis, the Secretary may waive the notification requirement under paragraph (1) if the Secretary—
+
+"(A) determines that the waiver is in the national security interests of the United States; and
+
+"(B) submits to the congressional defense committees a written justification of such determination.
+
+"(c) Definitions.—In this section:
+
+"(1) The term 'anything of pecuniary value' has the meaning given that term in section 1958(b)(1) of title 18, United States Code.
+
+"(2) The term 'determines with high confidence'—
+
+"(A) means that the official making the determination—
+
+"(i) has concluded that the judgments in the determination are based on sound analytic argumentation and high-quality, consistent reporting from multiple sources, including through clandestinely obtained documents, clandestine and open source reporting, and in-depth expertise;
+
+"(ii) with respect to such judgments, has concluded that the intelligence community has few intelligence gaps and few assumptions underlying the analytic line and that the intelligence community has concluded that the potential for deception is low; and
+
+"(iii) has examined long-standing analytic judgments and considered alternatives in making the determination; but
+
+"(B) does not mean that the official making the determination has concluded that the judgments in the determination are fact or certainty.
+
+"(3) The term 'direct means' means without the use of intermediaries.
+
+"(4) The term 'foreign government' means the government of a foreign country with which the United States is at peace.
+
+"(5) The term 'indirect means' means through, or with the assistance of, intermediaries."
+
+#### Strategy and Plan to Implement Certain Defense Intelligence Reforms ####
+
+Pub. L. 117–81, div. A, title XVI, §1622, Dec. 27, 2021, 135 Stat. 2086, provided that:
+
+"(a) Strategy and Plan.—The Secretary of Defense, in coordination with the Director of National Intelligence, shall develop and implement a strategy and plan to enable the Defense Intelligence Enterprise to more effectively fulfill the intelligence and information requirements of the commanders of the combatant commands with respect to efforts by the combatant commands to expose and counter foreign malign influence, coercion, and subversion activities undertaken by, or at the direction, on behalf, or with substantial support of the governments of, covered foreign countries.
+
+"(b) Matters Included in Plan.—The plan under subsection (a) shall include the following:
+
+"(1) A plan to improve policies and procedures of the Defense Intelligence Enterprise to assemble and release facts about the foreign malign influence, coercion, and subversion activities of a covered foreign country described in such subsection in a timely way and in forms that allow for greater distribution and release.
+
+"(2) A plan to develop and publish validated priority intelligence requirements of the commanders of the combatant commands.
+
+"(3) A plan to better leverage open-source and commercially available information and independent analyses to support the efforts by the combatant commands described in such subsection.
+
+"(4) A review by each element of the Defense Intelligence Enterprise of the approaches used by that element—
+
+"(A) with respect to intelligence that has not been processed or analyzed, to separate out data from the sources and methods by which the data is obtained (commonly known as 'tearlining'); and
+
+"(B) with respect to finished intelligence products that relate to foreign malign influence, coercion, and subversion activities of a covered foreign country described in such subsection, to downgrade the classification level of the product.
+
+"(6) [sic] An identification of any additional resources or legislative authority necessary to better meet the intelligence and information requirements described in such subsection.
+
+"(7) An assignment of responsibilities and timelines for the implementation of the plans described in paragraphs (1), (2), and (3).
+
+"(8) Any other matters the Secretary determines relevant.
+
+"(c) Submission.—Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense, in coordination with the Director of National Intelligence, shall submit to the appropriate congressional committees and the Comptroller General of the United States the plan developed under subsection (a).
+
+"(d) Comptroller General Review.—
+
+"(1) Requirement.—The Comptroller General shall conduct a review of—
+
+"(A) the plan submitted under subsection (c); and
+
+"(B) the activities and future plans of the Defense Intelligence Enterprise for meeting the intelligence and information requirements described in subsection (a).
+
+"(2) Elements.—The review under paragraph (1) shall include the following:
+
+"(A) The extent to which the plan submitted under subsection (c) includes the elements identified in subsection (b).
+
+"(B) The extent to which the Defense Intelligence Enterprise has clearly assigned roles, responsibilities, and processes for fulfilling the intelligence and information requirements described in subsection (a).
+
+"(C) The extent to which the Defense Intelligence Enterprise is planning to obtain additional capabilities and resources to improve the quality and timeliness of intelligence and information provided to the commanders of the combatant commands to aid in the efforts described in subsection (a).
+
+"(D) The extent to which the Defense Intelligence Enterprise is identifying, obtaining, and using commercial and publicly available information to aid in such efforts.
+
+"(E) Any other related issues that the Comptroller General determines appropriate.
+
+"(3) Briefing and report.—Not later than 120 days after the date on which the Comptroller General receives the plan under subsection (c), the Comptroller General shall provide to the appropriate congressional committees a briefing on any initial findings about the plan. After such briefing, the Comptroller General shall submit to the committees a report on the plan at a date mutually agreed upon by the Comptroller General and the committees.
+
+"(e) Congressional Briefing.—Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2021], and annually thereafter through December 31, 2026, the Secretary, in coordination with the Director of National Intelligence, shall provide to the appropriate congressional committees a briefing on the strategy and plan under subsection (a).
+
+"(f) Definitions.—In this section:
+
+"(1) The term 'appropriate congressional committees' means the following:
+
+"(A) The congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives].
+
+"(B) The Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
+
+"(2) The term 'covered foreign country' means any of the following:
+
+"(A) The People's Republic of China.
+
+"(B) The Russian Federation.
+
+"(C) The Islamic Republic of Iran.
+
+"(D) The Democratic People's Republic of Korea.
+
+"(E) Any other foreign country the Secretary of Defense and the Director of National Intelligence determine appropriate.
+
+"(3) The term 'Defense Intelligence Enterprise' has the meaning given that term in section 426(b)(4) of title 10, United States Code."
 
 #### Limitation on Use of Funds ####
 

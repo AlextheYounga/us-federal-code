@@ -94,18 +94,22 @@
 |931f. |131f.|                             Noncompliance with procedural rules.                             |
 |931g. |131g.|                Wrongful interference with adverse administrative proceeding.                 |
 | 932. |132. |                                         Retaliation.                                         |
-| 933. |133. |                        Conduct unbecoming an officer and a gentleman.                        |
+| 933. |133. |                                Conduct unbecoming an officer.                                |
 | 934. |134. |                                       General article.                                       |
 
-<sup>1</sup> See 2017 Amendment note below.
+<sup>1</sup> Editorially added, see second 2017 Amendment note below.
+
+#### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title V, §542(b), Dec. 27, 2021, 135 Stat. 1709, substituted "Conduct unbecoming an officer" for "Conduct unbecoming an officer and a gentleman" in item 933.
 
 **2018**—Pub. L. 115–232, div. A, title V, §532(a)(2), Aug. 13, 2018, 132 Stat. 1759, added item 928b.
 
 **2017**—Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, amended Pub. L. 114–328, §5452. See 2016 Amendment note below.
 
-Pub. L. 115–91, div. A, title V, §533(b), Dec. 12, 2017, 131 Stat. 1390, added item 917a. As subsequently amended generally by Pub. L. 114–328, effective Jan. 1, 2019 (see 2016 Amendment note below), analysis no longer included item 917a, but item was added back editorially, to reflect the probable intent of Congress.
+Pub. L. 115–91, div. A, title V, §533(b), Dec. 12, 2017, 131 Stat. 1390, added item 917a. As amended generally by section 5452 of Pub. L. 114–328, which was enacted Dec. 23, 2016, but effective Jan. 1, 2019 (see 2016 Amendment note below), analysis no longer included item 917a, but item was added back editorially, to reflect the probable intent of Congress.
 
 **2016**—Pub. L. 114–328, div. E, title LX, §5452, Dec. 23, 2016, 130 Stat. 2958, as amended by Pub. L. 115–91, div. A, title X, §1081(d)(18), Dec. 12, 2017, 131 Stat. 1600, amended analysis generally, substituting items 877 to 934 for former items 877 to 934.
 

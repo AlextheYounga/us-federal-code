@@ -22,6 +22,8 @@ Subject to valid existing rights, the Federal lands within the conservation area
 
 (Pub. L. 103–64, §3, Aug. 4, 1993, 107 Stat. 304; Pub. L. 111–11, title II, §2301(a)(2), (c)(1), Mar. 30, 2009, 123 Stat. 1101.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of March 3, 1877, referred to in subsec. (d), is act Mar. 3, 1877, ch. 107, 19 Stat. 377, as amended, which is classified generally to sections 321 to 323, 325, and 327 to 329 of Title 43. For complete classification of this Act to the Code, see Tables.

@@ -16,6 +16,8 @@ Sec.
 
 8814. National Quantum Initiative Advisory Committee.
 
+8814a. Subcommittee on the Economic and Security Implications of Quantum Information Science.
+
 8815. Sunset.
 
 #### SUBCHAPTER II—NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY QUANTUM ACTIVITIES ####

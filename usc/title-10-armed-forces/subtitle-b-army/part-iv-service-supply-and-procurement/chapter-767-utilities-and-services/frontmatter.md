@@ -14,6 +14,8 @@ Sec.
 
 7596. Provision of goods and services at Kwajalein Atoll.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 116–283, div. A, title XII, §1299A(b), Jan. 1, 2021, 134 Stat. 3998, added item 7596.

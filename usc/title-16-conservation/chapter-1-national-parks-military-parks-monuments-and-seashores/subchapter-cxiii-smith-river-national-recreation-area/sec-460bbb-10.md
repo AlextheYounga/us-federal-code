@@ -24,6 +24,8 @@ Annually for the first two full fiscal years after November 16, 1990, the Secret
 
 (Pub. L. 101–612, §13, Nov. 16, 1990, 104 Stat. 3222.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsecs. (a) to (d), was in the original "this Act", meaning Pub. L. 101–612, Nov. 16, 1990, 104 Stat. 3209, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460bbb of this title and Tables.

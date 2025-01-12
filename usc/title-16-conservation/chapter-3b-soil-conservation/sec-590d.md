@@ -10,6 +10,8 @@ For the purposes of this chapter, the Secretary of Agriculture may—
 
 (Apr. 27, 1935, ch. 85, §4, 49 Stat. 164; Oct. 28, 1949, ch. 782, title XI, §1106(a), 63 Stat. 972; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Industrial Recovery Act, referred to in par. (2), is act June 16, 1933, ch. 90, 48 Stat. 195, which was classified generally to subchapter I (§401 et seq.) of chapter 8 of former Title 40, Public Buildings, Property, and Works, and was terminated June 30, 1943, by act June 27, 1942, ch. 450, §1, 56 Stat. 410. Provisions of the Act that were classified to former Title 40 were repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304. For complete classification of this Act to the Code, see Tables.
@@ -24,9 +26,13 @@ In par. (2), "chapter 51 and subchapter III of chapter 53 of title 5" substitute
 
 **1949**—Par. (2). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Repeals ####
 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, §8, 80 Stat. 632, 655.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

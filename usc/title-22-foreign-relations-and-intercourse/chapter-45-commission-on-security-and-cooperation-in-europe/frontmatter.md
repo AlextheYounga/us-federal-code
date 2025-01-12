@@ -10,7 +10,7 @@ Sec.
 
 3004. Testimony of witnesses, production of evidence; issuance of subpena; administration of oaths.
 
-3005. Report relating to Commission on Security and Cooperation in Europe.
+3005. Repealed.
 
 3006. Commission report to Congress; periodic reports; expenditure of appropriations.
 

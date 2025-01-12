@@ -16,6 +16,8 @@ Sec.
 
 8616. Collection, preservation, and display of captured flags.
 
+8617. National Museum of the United States Navy
+
 8619. Leases of waterfront property from States or municipalities.
 
 8620. Gifts for welfare of enlisted members.
@@ -46,11 +48,15 @@ Sec.
 
 8635. Establishment of the Southern Sea Otter Military Readiness Areas.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 861, consisting of sections 8811 to 8820, related to separation from service within the Air Force for various reasons, prior to renumbering as chapter 939 of this title.
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. B, §2003(b), title XXVIII, §2821, Dec. 27, 2021, 135 Stat. 2162, 2195, added item 8617.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 631 of this title as this chapter and items 7204, 7205, 7207, 7211, 7212, 7214, 7216, 7219 to 7229, 7231, and 7233 to 7235 as 8604, 8605, 8607, 8611, 8612, 8614, 8616, 8619 to 8629, 8631, and 8633 to 8635, respectively.
 

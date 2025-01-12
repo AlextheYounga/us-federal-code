@@ -32,6 +32,8 @@ Sec.
 
 2111b. Senior military colleges: Department of Defense international student program.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2003**—Pub. L. 108–136, div. A, title V, §523(b)(2), Nov. 24, 2003, 117 Stat. 1464, added item 2103a.

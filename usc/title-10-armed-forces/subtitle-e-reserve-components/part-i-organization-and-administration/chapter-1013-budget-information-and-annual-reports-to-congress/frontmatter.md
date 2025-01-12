@@ -8,6 +8,8 @@ Sec.
 
 10543. National Guard and reserve component equipment procurement and military construction funding: inclusion in future-years defense program.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Pub. L. 114–92, div. A, title X, §1073(c)(2), Nov. 25, 2015, 129 Stat. 996, struck out item 10542 "Army National Guard combat readiness: annual report".

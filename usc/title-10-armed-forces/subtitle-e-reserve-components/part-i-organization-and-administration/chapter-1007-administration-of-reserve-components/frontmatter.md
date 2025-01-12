@@ -40,6 +40,8 @@ Sec.
 
 10219. Suicide prevention and resilience program.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Pub. L. 113–291, div. A, title IX, §902(b)(2), Dec. 19, 2014, 128 Stat. 3470, added item 10201 and struck out former item 10201 "Assistant Secretary of Defense for Reserve Affairs".

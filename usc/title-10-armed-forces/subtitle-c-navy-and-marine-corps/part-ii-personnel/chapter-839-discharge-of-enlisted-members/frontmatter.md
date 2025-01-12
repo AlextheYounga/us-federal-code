@@ -4,6 +4,8 @@ Sec.
 
 8317. Minors enlisted upon false statement of age.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 839, consisting of sections 8441 to 8452, related to temporary appointments in the Air Force, prior to renumbering as chapter 919 of this title.

@@ -26,6 +26,8 @@ Sec.
 
 [168, 169. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Prior to enactment of this chapter by Pub. L. 99–433, provisions relating to combat commands were contained in section 124 of this title.

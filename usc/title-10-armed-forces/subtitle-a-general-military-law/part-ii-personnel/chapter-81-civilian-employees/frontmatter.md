@@ -68,13 +68,23 @@ Sec.
 
 1599g. Public-private talent exchange.
 
-1599h. Personnel management authority to attract experts in science and engineering.
+[1599h. Renumbered.]
 
 1599i. Recruitment incentives for placement at remote locations.
 
+#### Amendment of Analysis ####
+
+Pub. L. 117–81, div. A, title XI, §1106(b)(1), Dec. 27, 2021, 135 Stat. 1950, provided that this analysis is amended by striking the item relating to section 1599e "Probationary period for employees". See 2021 Amendment note below.
+
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title II, §241(c)(2), title XI, §1120(d), Jan. 1, 2021, 134 Stat. 3487, 3900, added items 1596c and 1599i.
+**2021**—Pub. L. 117–81, div. A, title XVII, §1701(w)(1), Dec. 27, 2021, 135 Stat. 2154, struck out item 1599h "Personnel management authority to attract experts in science and engineering".
+
+Pub. L. 117–81, div. A, title XI, §1106(b)(1), Dec. 27, 2021, 135 Stat. 1950, which directed amendment of this analysis by striking item 1599e "Probationary period for employees", was executed effective Dec. 31, 2022, concurrent with the repeal of section 1599e by Pub. L. 117–81, div. A, title XI, §1106(a)(1), to reflect the probable intent of Congress.
+
+Pub. L. 116–283, div. A, title II, §241(c)(2), title XI, §1120(d), Jan. 1, 2021, 134 Stat. 3487, 3900, added items 1596c and 1599i.
 
 **2016**—Pub. L. 114–328, div. A, title XI, §§1104(b), 1121(a)(2), Dec. 23, 2016, 130 Stat. 2447, 2452, added items 1599g and 1599h.
 
@@ -142,6 +152,8 @@ Pub. L. 101–189, div. A, title III, §§311(b)(2), 336(a)(2), title VI, §664(
 
 **1958**—Pub. L. 85–577, §1(2), July 31, 1958, 72 Stat. 456, added item 1585.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Pilot Program on the Use of Electronic Portfolios To Evaluate Certain Applicants for Technical Positions ####
 
 Pub. L. 116–283, div. A, title II, §247, Jan. 1, 2021, 134 Stat. 3491, provided that:
@@ -180,7 +192,7 @@ Pub. L. 116–283, div. A, title II, §247, Jan. 1, 2021, 134 Stat. 3491, provid
 
 "(1) requires expertise in artificial intelligence, data science, or software development; and
 
-"(2) is eligible for direct hire authority under section 9905 of title 5, United States Code, or section 2358a of title 10, United States Code.
+"(2) is eligible for direct hire authority under section 9905 of title 5, United States Code, or section 2358a of title 10, United States Code [now 10 U.S.C. 4091].
 
 "(f) Termination.—The authority to carry out the pilot program under subsection (a) shall terminate 5 years after the date of the enactment of this Act."
 
@@ -202,7 +214,7 @@ Pub. L. 116–283, div. A, title II, §251, Jan. 1, 2021, 134 Stat. 3496, provid
 
 #### Temporary Authority To Appoint Retired Members of the Armed Forces to Positions in the Department of Defense ####
 
-Pub. L. 116–283, div. A, title XI, §1108, Jan. 1, 2021, 134 Stat. 3891, provided that:
+Pub. L. 116–283, div. A, title XI, §1108, Jan. 1, 2021, 134 Stat. 3891, as amended by Pub. L. 117–81, div. A, title XI, §1103, Dec. 27, 2021, 135 Stat. 1950, provided that:
 
 "(a) In General.—Notwithstanding the requirements of section 3326 of title 5, United States Code, the Secretary of Defense may appoint retired members of the Armed Forces to positions in the Department of Defense described in subsection (b).
 
@@ -210,7 +222,9 @@ Pub. L. 116–283, div. A, title XI, §1108, Jan. 1, 2021, 134 Stat. 3891, provi
 
 "(1) In general.—The positions in the Department described in this subsection are positions classified at or below GS–13 under the General Schedule under subchapter III of chapter 53 of title 5, United States Code, or an equivalent level under another wage system, in the competitive service—
 
-"(A) at any defense industrial base facility (as that term is defined in section 2208(u)(3) of title 10, United States Code) that is part of the core logistics capabilities (as described in section 2464(a) of such title); and
+"(A)(i) at any defense industrial base facility (as that term is defined in section 2208(u)(3) of title 10, United States Code) that is part of the core logistics capabilities (as described in section 2464(a) of such title); or
+
+"(ii) at any Major Range and Test Facility Base (as that term is defined in section 196(i) of such title); and
 
 "(B) that have been certified by the Secretary of the military department concerned as lacking sufficient numbers of potential applicants.
 
@@ -330,7 +344,7 @@ Pub. L. 116–92, div. A, title II, §235, Dec. 20, 2019, 133 Stat. 1279, as ame
 
 #### John S. McCain Strategic Defense Fellows Program ####
 
-Pub. L. 115–232, div. A, title IX, §932, Aug. 13, 2018, 132 Stat. 1935, as amended by Pub. L. 116–92, div. A, title IX, §906, Dec. 20, 2019, 133 Stat. 1559, provided that:
+Pub. L. 115–232, div. A, title IX, §932, Aug. 13, 2018, 132 Stat. 1935, as amended by Pub. L. 116–92, div. A, title IX, §906, Dec. 20, 2019, 133 Stat. 1559; Pub. L. 117–81, div. A, title IX, §906, Dec. 27, 2021, 135 Stat. 1872, provided that:
 
 "(a) Fellowship Program.—
 
@@ -400,9 +414,9 @@ Pub. L. 115–232, div. A, title IX, §932, Aug. 13, 2018, 132 Stat. 1935, as am
 
 "(B) An office of the Secretary of a military department.
 
-"(2) Position requirements.—Each Secretary of a military department, and each Under Secretary of Defense and Director of a Defense Agency who reports directly to the Secretary of Defense, shall submit to the Secretary of Defense each year the qualifications and skills to be demonstrated by participants in the fellows program to qualify for assignment under this subsection for service in a position of the office of such Secretary, Under Secretary, or Director.
+"(2) Position requirements.—Each Secretary of a military department,, [sic] each Under Secretary of Defense, and other officials, as designated by the Secretary of Defense, within the Office of the Secretary of Defense (as defined in section 131 of title 10, United States Code) who report directly to the Secretary of Defense shall submit to the Secretary of Defense each year the qualifications and skills to be demonstrated by participants in the fellows program to qualify for assignment under this subsection for service in a position of the office of such Secretary, Under Secretary, or official within the Office of the Secretary of Defense.
 
-"(3) Assignment to positions.—The Secretary of Defense shall each year assign participants in the fellows program to positions in the offices of the Secretaries of the military departments, and the offices of the Under Secretaries and Directors described in paragraph (2). In making such assignments, the Secretary of Defense shall seek to best match the qualifications and skills of participants in the fellows program with the requirements of positions available for assignment. Each participant so assigned shall serve as a special assistant to the Secretary, Under Secretary, or Director to whom assigned.
+"(3) Assignment to positions.—The Secretary of Defense shall each year assign participants in the fellows program to positions in the offices of the Secretaries of the military departments, and the offices of the Under Secretaries of Defense and other officials within the Office of the Secretary of Defense described in paragraph (2). In making such assignments, the Secretary of Defense shall seek to best match the qualifications and skills of participants in the fellows program with the requirements of positions available for assignment. Each participant so assigned shall serve as a special assistant to the Secretary, Under Secretary of Defense, or other official within the Office of the Secretary of Defense to whom assigned.
 
 "(4) Limitation on number assignable to secretaries of military departments.—The number of participants in the fellows program who are assigned to the office of a Secretary of a military department in any year may not exceed five participants.
 
@@ -410,7 +424,7 @@ Pub. L. 115–232, div. A, title IX, §932, Aug. 13, 2018, 132 Stat. 1935, as am
 
 "(6) Pay and benefits.—An individual assigned to a position under the fellows program shall be compensated at the rate of compensation for employees at level GS–10 of the General Schedule, and shall be treated as an employee of the United States during the term of assignment, including for purposes of eligibility for health care benefits and retirement benefits available to employees of the United States.
 
-"(7) Education loan repayment.—To the extent that funds are provided in advance in appropriations Acts, the Secretary of Defense may repay any loan of a participant in the fellows program if the loan is described by subparagraph (A), (B), or (C) of section 16301(a)(1) of title 10, United States Code. Any repayment of loans under this paragraph shall be on a first-come, first-served basis.
+"(7) Education loan repayment.—To the extent that funds are provided in advance in appropriations Acts, the Secretary of Defense may repay any loan of a participant in the fellows program if the loan is described by subparagraph (A), (B), or (C) of section 16301(a)(1) of title 10, United States Code. Any repayment of loans under this paragraph may require a minimum service agreement, as determined by the Secretary.
 
 "(f) Career Development.—
 
@@ -770,9 +784,9 @@ Pub. L. 114–328, div. A, title XI, §1125, Dec. 23, 2016, 130 Stat. 2457, as a
 
 #### Temporary Personnel Flexibilities for Domestic Defense Industrial Base Facilities and Major Range and Test Facilities Base Civilian Personnel ####
 
-Pub. L. 114–328, div. A, title XI, §1132, Dec. 23, 2016, 130 Stat. 2457, as amended by Pub. L. 115–91, div. A, title XI, §1107(a), Dec. 12, 2017, 131 Stat. 1630, provided that:
+Pub. L. 114–328, div. A, title XI, §1132, Dec. 23, 2016, 130 Stat. 2457, as amended by Pub. L. 115–91, div. A, title XI, §1107(a), Dec. 12, 2017, 131 Stat. 1630; Pub. L. 117–81, div. A, title XI, §1113, Dec. 27, 2021, 135 Stat. 1953, provided that:
 
-"(a) In General.—Notwithstanding chapter 33 of title 5, United States Code, or any other provision of law relating to the examination, certification, and appointment of individuals in the competitive service, during fiscal years 2017 through 2021, an employee of a defense industrial base facility or the Major Range and Test Facilities Base serving under a time-limited appointment in the competitive service is eligible to compete for a permanent appointment in the competitive service at (A) any such facility, Base, or any other component of the Department of Defense when such facility, Base, or component (as the case may be) is accepting applications from individuals within the facility, Base, or component's workforce under merit promotion procedures, or (B) any agency when the agency is accepting applications from individuals outside its own workforce under merit promotion procedures of the applicable agency, if—
+"(a) In General.—Notwithstanding chapter 33 of title 5, United States Code, or any other provision of law relating to the examination, certification, and appointment of individuals in the competitive service, during fiscal years 2017 through 2026, an employee of a defense industrial base facility or the Major Range and Test Facilities Base serving under a time-limited appointment in the competitive service is eligible to compete for a permanent appointment in the competitive service at (A) any such facility, Base, or any other component of the Department of Defense when such facility, Base, or component (as the case may be) is accepting applications from individuals within the facility, Base, or component's workforce under merit promotion procedures, or (B) any agency when the agency is accepting applications from individuals outside its own workforce under merit promotion procedures of the applicable agency, if—
 
 "(1) the employee was appointed initially under open, competitive examination under subchapter I of chapter 33 of such title to the time-limited appointment;
 
@@ -796,7 +810,23 @@ Pub. L. 114–328, div. A, title XI, §1132, Dec. 23, 2016, 130 Stat. 2457, as a
 
 "(e) Benefits.—Any employee of a defense industrial base facility or the Major Range and Test Facilities Base serving under a time-limited appointment in the competitive service shall be provided with benefits that are comparable to the benefits provided to similar employees not serving under time-limited appointments at the defense industrial base facility or the Major Range and Test Facilities Base concerned, including professional development opportunities, eligibility for awards programs, and designation as status applicants for purposes of eligibility for positions in the civil service.
 
-"(f) Definition of Defense Industrial Base Facility.—In this section, the term 'defense industrial base facility' means any Department of Defense depot, arsenal, or shipyard located within the United States."
+"(f) Data Collection Requirement.—The Secretary of Defense shall develop and implement a plan to collect and analyze data on the pilot program for the purposes of—
+
+"(1) developing and sharing best practices; and
+
+"(2) providing information to the leadership of the Department and Congress on the implementation of the pilot program and related policy issues.
+
+"(g) Briefing.—Not later than 90 days after the end of each of fiscal years 2022 through 2026, the Secretary of Defense shall provide a briefing to the Committee on Armed Services of the House of Representatives, the Committee on Armed Services of the Senate, the Committee on Oversight and Government Reform of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate including—
+
+"(1) a description of the effect of this section on the management of civilian personnel at domestic defense industrial base facilities and Major Range and Test Facilities Base during the most recently ended fiscal year; and
+
+"(2) the number of employees—
+
+"(A) hired under such section during such fiscal year; and
+
+"(B) expected to be hired under such section during the fiscal year in which the briefing is provided.
+
+"(h) Definition of Defense Industrial Base Facility.—In this section, the term 'defense industrial base facility' means any Department of Defense depot, arsenal, or shipyard located within the United States."
 
 #### Compliance With Law Regarding Availability of Funding for Civilian Personnel ####
 
@@ -898,19 +928,7 @@ Pub. L. 111–84, div. A, title XI, §1112, Oct. 28, 2009, 123 Stat. 2496, provi
 
 #### Direct Hire Authority at Personnel Demonstration Laboratories for Certain Candidates ####
 
-Pub. L. 110–417, [div. A], title XI, §1108, Oct. 14, 2008, 122 Stat. 4618, as amended by Pub. L. 111–383, div. A, title XI, §1101(a), Jan. 7, 2011, 124 Stat. 4381; Pub. L. 112–81, div. A, title XI, §1103, Dec. 31, 2011, 125 Stat. 1612, provided that:
-
-"(a) Authority.—The Secretary of Defense may appoint qualified candidates possessing an advanced degree to positions described in subsection (b) without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title.
-
-"(b) Applicability.—This section applies with respect to candidates for scientific and engineering positions within any laboratory designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2486; 10 U.S.C. 2358 note) as a Department of Defense science and technology reinvention laboratory.
-
-"(c) Limitation.—(1) Authority under this section may not, in any calendar year and with respect to any laboratory, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineering positions within such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
-
-"(2) For purposes of this subsection, positions and candidates shall be counted on a full-time equivalent basis.
-
-"(d) Employee Defined.—As used in this section, the term 'employee' has the meaning given such term by section 2105 of title 5, United States Code.
-
-[Amendment by section 1101(a)(1) of Pub. L. 111–383 to section 1108(b) of Pub. L. 110–417, set out above, effective Oct. 28, 2009, and amendment by section 1101(a)(2) of Pub. L. 111–383 to section 1108(c) of Pub. L. 110–417, set out above, effective Jan. 7, 2011, see section 1101(d) of Pub. L. 111–383, set out as an Effective Date of 2011 Amendment note under section 9902 of Title 5, Government Organization and Employees.]
+Pub. L. 110–417, [div. A], title XI, §1108, Oct. 14, 2008, 122 Stat. 4618, as amended by Pub. L. 111–383, div. A, title XI, §1101(a), Jan. 7, 2011, 124 Stat. 4381; Pub. L. 112–81, div. A, title XI, §1103, Dec. 31, 2011, 125 Stat. 1612; Pub. L. 117–81, div. A, title II, §215(d)(5), Dec. 27, 2021, 135 Stat. 1594, which authorized the Secretary of Defense to appoint qualified candidates to certain scientific and engineering positions within a Department of Defense science and technology reinvention laboratory, was repealed by Pub. L. 117–81, div. A, title II, §212(b), Dec. 27, 2021, 135 Stat. 1588. See section 4091(f) of this title.
 
 #### Employment for Resettled Iraqis ####
 

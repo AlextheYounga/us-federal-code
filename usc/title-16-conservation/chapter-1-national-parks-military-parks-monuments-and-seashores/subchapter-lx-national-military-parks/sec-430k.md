@@ -4,6 +4,8 @@ The Secretary of the Interior is authorized to cause condemnation proceedings to
 
 (June 21, 1934, ch. 694, §2, 48 Stat. 1199; Pub. L. 94–578, title III, §319(2), Oct. 21, 1976, 90 Stat. 2738.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "Section 3113 of title 40" substituted in text for "the Act of August 1, 1888, entitled 'An Act to authorize condemnation of lands for sites for public buildings and for other purposes' (25 Stat.L. 357)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
@@ -11,6 +13,8 @@ The Secretary of the Interior is authorized to cause condemnation proceedings to
 #### Amendments ####
 
 **1976**—Pub. L. 94–578 substituted "battlefield" for "Monocacy National Military Park" wherever appearing.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

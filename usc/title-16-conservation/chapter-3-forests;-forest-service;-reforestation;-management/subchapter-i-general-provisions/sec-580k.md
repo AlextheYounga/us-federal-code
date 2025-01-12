@@ -22,9 +22,13 @@ Upon the request of any party affected thereby, the Secretary of Agriculture, or
 
 (Apr. 24, 1950, ch. 97, §18, 64 Stat. 87.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 581 of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 95–307, §8(a), June 30, 1978, 92 Stat. 356.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Advisory Boards ####
 

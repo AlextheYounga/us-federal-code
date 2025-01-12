@@ -24,7 +24,7 @@ Except as provided in subsections (c) and (d), acquisition of strategic and crit
 
 (1) competitive procedures shall be used in the acquisition and disposal of such materials; and
 
-(2) efforts shall be made in the acquisition and disposal of such materials to avoid undue disruption of the usual markets of producers, processors, and consumers of such materials and to protect the United States against avoidable loss.
+(2) efforts shall be made in the acquisition and disposal of such materials to consult with producers and processors of such materials to avoid undue disruption of the usual markets of producers, processors, and consumers of such materials and to protect the United States against avoidable loss.
 
 #### (c) Barter; use of stockpile materials as payment for expenses of acquiring, refining, processing, or rotating materials ####
 
@@ -46,7 +46,17 @@ Except as provided in subsections (c) and (d), acquisition of strategic and crit
 
 The President may acquire leasehold interests in property, for periods not in excess of twenty years, for storage, security, and maintenance of materials in the stockpile.
 
-(June 7, 1939, ch. 190, §6, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(c), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3207(b), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 101–189, div. C, title XXXIII, §3314, Nov. 29, 1989, 103 Stat. 1688; Pub. L. 101–510, div. C, title XXXIII, §3301(a), (b), Nov. 5, 1990, 104 Stat. 1844; Pub. L. 102–190, div. C, title XXXIII, §3312, Dec. 5, 1991, 105 Stat. 1584; Pub. L. 103–337, div. C, title XXXIII, §3302, Oct. 5, 1994, 108 Stat. 3098; Pub. L. 104–106, div. A, title XV, §1502(e)(1), Feb. 10, 1996, 110 Stat. 509; Pub. L. 104–201, div. C, title XXXIII, §3312(b), (c), Sept. 23, 1996, 110 Stat. 2857; Pub. L. 105–85, div. C, title XXXIII, §3306, Nov. 18, 1997, 111 Stat. 2058; Pub. L. 106–65, div. A, title X, §1067(13), Oct. 5, 1999, 113 Stat. 775; Pub. L. 113–66, div. A, title XIV, §1411(a), Dec. 26, 2013, 127 Stat. 934.)
+#### (f) Loan of stockpile materials ####
+
+The President may loan stockpile materials to the Department of Energy or the military departments if the President—
+
+(1) has a reasonable assurance that stockpile materials of a similar or superior quantity and quality to the materials loaned will be returned to the stockpile or paid for;
+
+(2) notifies the congressional defense committees (as defined in section 101(a) of title 10), in writing, not less than 30 days before making any such loan; and
+
+(3) includes in the written notification under paragraph (2) sufficient support for the assurance described in paragraph (1).
+
+(June 7, 1939, ch. 190, §6, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(c), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3207(b), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 101–189, div. C, title XXXIII, §3314, Nov. 29, 1989, 103 Stat. 1688; Pub. L. 101–510, div. C, title XXXIII, §3301(a), (b), Nov. 5, 1990, 104 Stat. 1844; Pub. L. 102–190, div. C, title XXXIII, §3312, Dec. 5, 1991, 105 Stat. 1584; Pub. L. 103–337, div. C, title XXXIII, §3302, Oct. 5, 1994, 108 Stat. 3098; Pub. L. 104–106, div. A, title XV, §1502(e)(1), Feb. 10, 1996, 110 Stat. 509; Pub. L. 104–201, div. C, title XXXIII, §3312(b), (c), Sept. 23, 1996, 110 Stat. 2857; Pub. L. 105–85, div. C, title XXXIII, §3306, Nov. 18, 1997, 111 Stat. 2058; Pub. L. 106–65, div. A, title X, §1067(13), Oct. 5, 1999, 113 Stat. 775; Pub. L. 113–66, div. A, title XIV, §1411(a), Dec. 26, 2013, 127 Stat. 934; Pub. L. 117–81, div. A, title XIV, §§1411(1), 1412, Dec. 27, 2021, 135 Stat. 2018.)
 
 #### **Editorial Notes** ####
 
@@ -57,6 +67,10 @@ A prior section 98e, acts June 7, 1939, ch. 190, §6, 53 Stat. 812; May 28, 1941
 Provisions similar to those in this section were contained in former section 98b of this title prior to repeal by Pub. L. 96–41.
 
 #### Amendments ####
+
+**2021**—Subsec. (b)(2). Pub. L. 117–81, §1411(1), inserted "to consult with producers and processors of such materials" before "to avoid".
+
+Subsec. (f). Pub. L. 117–81, §1412, added subsec. (f).
 
 **2013**—Subsec. (a)(5) to (7). Pub. L. 113–66 added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 

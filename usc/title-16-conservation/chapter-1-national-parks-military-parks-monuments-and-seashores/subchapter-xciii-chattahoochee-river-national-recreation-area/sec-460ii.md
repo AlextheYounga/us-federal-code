@@ -4,6 +4,8 @@ The Congress finds the natural, scenic, recreation, historic, and other values o
 
 (Pub. L. 95–344, title I, §101, Aug. 15, 1978, 92 Stat. 474; Pub. L. 98–568, §1(a), (b), Oct. 30, 1984, 98 Stat. 2928; Pub. L. 103–437, §6(d)(18), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 106–154, §2(a), Dec. 9, 1999, 113 Stat. 1737.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1999**—Pub. L. 106–154, §2(a)(3), substituted "may not exceed 10,000 acres" for "may not exceed approximately 6,800 acres" in penultimate sentence.
@@ -15,6 +17,8 @@ Pub. L. 106–154, §2(a)(1), in third sentence, inserted "and on the maps entit
 **1994**—Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 
 **1984**—Pub. L. 98–568 substituted "CHAT–20,003, and dated September 1984" for "CHAT–20,000, and dated July 1976" and "approximately 6,800 acres" for "six thousand three hundred acres" and inserted provision declaring the corridor area to be an area of national concern.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

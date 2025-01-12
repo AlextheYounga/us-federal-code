@@ -28,6 +28,8 @@ Sec.
 
 8111A. Furnishing of health-care services to members of the Armed Forces during a war or national emergency.
 
+8111B. Shared medical facilities with Department of Defense.
+
 8112. Partial relinquishment of legislative jurisdiction.
 
 8113. Property formerly owned by National Home for Disabled Volunteer Soldiers.
@@ -132,7 +134,9 @@ Pub. L. 108–422, title IV, §411(c)(2), (f), Nov. 30, 2004, 118 Stat. 2389, 23
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–315, title VII, §7003(b), Jan. 5, 2021, 134 Stat. 5058, added item 8129.
+**2021**—Pub. L. 117–81, div. A, title VII, §714(b)(2), Dec. 27, 2021, 135 Stat. 1787, which directed amendment of the table of sections at the beginning of subchapter I of chapter 81 by adding item 8111B, was executed to the table of sections at the beginning of this chapter to reflect the probable intent of Congress.
+
+Pub. L. 116–315, title VII, §7003(b), Jan. 5, 2021, 134 Stat. 5058, added item 8129.
 
 **2018**—Pub. L. 115–182, title I, §112(b), June 6, 2018, 132 Stat. 1421, added item 8159.
 

@@ -40,6 +40,8 @@ Sec.
 
 1415. Lump sum payment of certain retired pay.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Pub. L. 114–92, div. A, title VI, §633(a)(2), Nov. 25, 2015, 129 Stat. 850, added item 1415.

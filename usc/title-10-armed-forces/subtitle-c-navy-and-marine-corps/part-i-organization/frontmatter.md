@@ -15,6 +15,8 @@ Chap. Sec.
 
 809. Bureaus; Office of the Judge Advocate General 8071
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 501 to 513 as 801 to 809 and redesignated section numbers 5001 to 5131 as 8001 to 8071.

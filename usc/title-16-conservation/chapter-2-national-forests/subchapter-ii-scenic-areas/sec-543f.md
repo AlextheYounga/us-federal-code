@@ -4,6 +4,8 @@ In recognition of the past use of the Scenic Area by Indian people for tradition
 
 (Pub. L. 98–425, title III, §307, Sept. 28, 1984, 98 Stat. 1638.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The American Indian Religious Freedom Act, referred to in text, is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.

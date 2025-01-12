@@ -16,11 +16,17 @@ Sec.
 
 8038. Director for Expeditionary Warfare.
 
+8039. Deputy Commander of the Naval Sea Systems Command for the Supervision of Shipbuilding, Conversion, and Repair.
+
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 805, consisting of sections 8031 to 8040, related to Air Staff of the Department of the Air Force, prior to renumbering as chapter 905 of this title.
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title X, §1012(b), Dec. 27, 2021, 135 Stat. 1892, added item 8039.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 505 of this title as this chapter and items 5031 to 5038 as 8031 to 8038, respectively.
 

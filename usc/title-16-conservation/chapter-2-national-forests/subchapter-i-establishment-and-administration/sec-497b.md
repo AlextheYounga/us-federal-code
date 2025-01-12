@@ -98,6 +98,8 @@ Nothing in this section shall be deemed to amend, modify or otherwise affect the
 
 (Pub. L. 99–522, §3, Oct. 22, 1986, 100 Stat. 3000; Pub. L. 112–46, §3, Nov. 7, 2011, 125 Stat. 538.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of March 4, 1915 (16 U.S.C. 497), referred to in subsec. (a), is act Mar. 4, 1915, ch. 144, 38 Stat. 1086. For complete classification of this Act to the Code, see Tables.
@@ -123,6 +125,8 @@ Pub. L. 112–46, §3(3), redesignated subsec. (c) as (d). Former subsec. (d) re
 Subsec. (e). Pub. L. 112–46, §3(6), substituted "the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.)" for "the National Environmental Policy Act, or the Forest and Rangelands Renewable Resources Planning Act as amended by the National Forest Management Act".
 
 Pub. L. 112–46, §3(3), redesignated subsec. (d) as (e).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 2011 Amendment ####
 

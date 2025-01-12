@@ -16,9 +16,13 @@ The Secretary shall, within 4 years after August 4, 1993, study, identify, and i
 
 (Pub. L. 103–64, §5, Aug. 4, 1993, 107 Stat. 308; Pub. L. 113–287, §5(d)(4), Dec. 19, 2014, 128 Stat. 3264.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Subsec. (b). Pub. L. 113–287 substituted "section 200306(a) of title 54" for "section 460l–9(a) of this title". Amendment was executed to reflect the probable intent of Congress, notwithstanding error in directory language which misquoted language to be substituted for in original.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Boundary Modification ####
 

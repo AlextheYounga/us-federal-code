@@ -54,6 +54,8 @@ Sec.
 
 6329c. Weather and safety leave.
 
+6329d. Parental bereavement leave.
+
 #### SUBCHAPTER III—VOLUNTARY TRANSFERS OF LEAVE ####
 
 6331. Definitions.
@@ -127,6 +129,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title XI, §1111(b), Dec. 27, 2021, 135 Stat. 1953, which directed amendment of the table of sections for subchapter II of chapter 63 by adding item 6329d, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 
 **2016**—Pub. L. 114–328, div. A, title XI, §1138(c)(2), (d)(4), (e)(2), Dec. 23, 2016, 130 Stat. 2462, 2469, 2470, which directed amendment of the table of sections for subchapter II of chapter 63 by adding items 6329a to 6329c, was executed to the table of sections for this chapter, to reflect the probable intent of Congress.
 

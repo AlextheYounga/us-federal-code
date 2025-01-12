@@ -4,9 +4,13 @@ For the purpose of establishing an appropriate memorial to Hernando De Soto, the
 
 (Mar. 11, 1948, ch. 109, §1, 62 Stat. 78; Pub. L. 86–728, §1A, Sept. 8, 1960, 74 Stat. 856.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1960**—Pub. L. 86–728 increased limitation on acquisition of land from twenty-five to thirty acres.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Authorization of Appropriations ####
 

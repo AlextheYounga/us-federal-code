@@ -8,6 +8,8 @@ It is hereby declared to be the policy of this chapter also to secure, and the p
 
 (Apr. 27, 1935, ch. 85, §7, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1148; amended June 28, 1937, ch. 395, §1, 50 Stat. 329; Pub. L. 87–703, title I, §101(1), Sept. 27, 1962, 76 Stat. 605; Pub. L. 92–419, title VI, §606(1), Aug. 30, 1972, 86 Stat. 676; Pub. L. 99–198, title XII, §1253, Dec. 23, 1985, 99 Stat. 1517; Pub. L. 110–234, title II, §2802(a)(2), May 22, 2008, 122 Stat. 1085; Pub. L. 110–246, §4(a), title II, §2802(a)(2), June 18, 2008, 122 Stat. 1664, 1813.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -24,9 +26,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 **1937**—Subsec. (g). Act June 28, 1937, substituted "any such apportionment of funds available for carrying out State plans during any year prior to 1942 may be made at any time prior to or during the year to which such plans relate" for "apportionments of funds available for carrying out the purposes specified in this section for the year 1936 may be made at any time during 1936, and apportionments for 1937 may be made at any time during 1937".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2008 Amendment ####
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

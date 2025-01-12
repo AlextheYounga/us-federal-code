@@ -16,6 +16,8 @@ Section 652, acts Apr. 21, 1910, ch. 183, §3, 36 Stat. 327; Mar. 4, 1913, ch. 1
 
 Section 653, acts Apr. 21, 1910, ch. 183, §9, 36 Stat. 328; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; 1939 Reorg. Plan No. II, §4(e), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433, related to depots for and transportation of provisions from mainland to Pribilof Islands, and care of natives.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Termination of Section ####
 
 Termination of section 650, prior to its specific repeal, was done on authority of former section 643a of this title when Japan abrogated the treaty on Oct. 23, 1940, eff. Oct. 23, 1941. For termination of other sections giving effect to said treaty, see note under former sections 632 to 644 of this title.

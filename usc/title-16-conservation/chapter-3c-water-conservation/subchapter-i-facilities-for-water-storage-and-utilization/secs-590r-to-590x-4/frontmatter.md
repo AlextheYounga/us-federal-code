@@ -24,6 +24,8 @@ Section 590x–4, act Aug. 28, 1937, ch. 870, §11, as added Aug. 25, 1958, Pub.
 
 The subject matter of former sections 590r to 590x–4 of this title is covered by section 1921 et seq. of Title 7, Agriculture.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal of sections effective one hundred and twenty days after Aug. 8, 1961, or such earlier date as the provisions of section 1921 et seq. of Title 7, Agriculture, are made effective by regulations of Secretary of Agriculture, see section 341(a) of Pub. L. 87–128, set out as a note under section 1921 of Title 7.

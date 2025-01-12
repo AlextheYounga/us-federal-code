@@ -4,6 +4,8 @@ To enable the Secretary of Agriculture to carry out the purposes of section 590g
 
 (Apr. 27, 1935, ch. 85, §15, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1151; amended Feb. 16, 1938, ch. 30, title I, §104, 52 Stat. 35; Aug. 28, 1954, ch. 1041, title V, §502, 68 Stat. 908; Pub. L. 92–419, title VI, §606(6), Aug. 30, 1972, 86 Stat. 677; Pub. L. 95–113, title XV, §1501(b), Sept. 29, 1977, 91 Stat. 1020; Pub. L. 104–127, title III, §336(a)(1)(D), Apr. 4, 1996, 110 Stat. 1005.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–127 substituted "section 590g" for "sections 590g and 590h", struck out "A specified amount or percentage of the appropriation shall be designated for long-term agreements based on farm and ranch conservation plans approved by local conservation districts, where such districts are organized." before "The Secretary shall distribute", and struck out last par. which read as follows: "Notwithstanding the foregoing provisions of this section and the provisions of section 590g(g) of this title, programs of soil-building practices, soil- and water-conserving practices, and agriculture-related pollution prevention and abatement practices shall be based on a distribution of the funds available for payments and grants among the several States in accordance with their conservation needs, as determinated by the Secretary, except that the proportion allocated to any State shall not be reduced by more than 15 per centum from the distribution of such funds for the next preceding program year. In carrying out such programs, the Secretary shall give particular consideration to conservation problems on farm lands diverted from crops under acreage allotment programs and to the maintenance of a proper balance between soil conserving and soil depleting crops on the farm."
@@ -20,9 +22,13 @@ To enable the Secretary of Agriculture to carry out the purposes of section 590g
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of Title 7, Agriculture.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 1938 Amendment ####
 
 Act Feb. 16, 1938, ch. 30, title I, §105, 52 Stat. 36, as amended by section 1 of act Apr. 7, 1938, provided that the amendment made by that act, amending this section, "shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938."
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

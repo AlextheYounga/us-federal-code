@@ -48,7 +48,7 @@ Sec.
 
 6552. Application of certain laws.
 
-6553. Sunset of United States Advisory Commission on Public Diplomacy.
+6553. Continuation of United States Advisory Commission on Public Diplomacy.
 
 #### SUBCHAPTER IV—UNITED STATES INTERNATIONAL DEVELOPMENT COOPERATION AGENCY ####
 

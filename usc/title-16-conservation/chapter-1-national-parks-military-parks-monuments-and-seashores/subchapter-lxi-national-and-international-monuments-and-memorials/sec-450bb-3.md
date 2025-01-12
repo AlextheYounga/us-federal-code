@@ -4,6 +4,8 @@ To further the commemorative purposes of sections 450bb to 450bb–2 of this tit
 
 (Pub. L. 86–655, §1, July 14, 1960, 74 Stat. 520; Pub. L. 88–33, May 29, 1963, 77 Stat. 52.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Harpers Ferry National Historical Park" substituted in text for "Harpers Ferry National Monument" in view of redesignation of Harpers Ferry National Monument as Harpers Ferry National Historical Park by Pub. L. 88–33, classified to section 450bb–6 of this title.

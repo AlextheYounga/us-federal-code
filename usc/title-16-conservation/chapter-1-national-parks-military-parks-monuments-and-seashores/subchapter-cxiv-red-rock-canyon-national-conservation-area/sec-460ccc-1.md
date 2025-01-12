@@ -20,6 +20,8 @@ In case of any discrepancy between or among the map described in subsection (a),
 
 (Pub. L. 101–621, §3, Nov. 16, 1990, 104 Stat. 3342; Pub. L. 103–450, §1, Nov. 2, 1994, 108 Stat. 4766; Pub. L. 105–263, §8, Oct. 19, 1998, 112 Stat. 2349; Pub. L. 107–282, title I, §105(c), Nov. 6, 2002, 116 Stat. 1998.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Red Rock Canyon National Conservation Area Protection and Enhancement Act of 2002, referred to in subsec. (a)(2), is title I of Pub. L. 107–282, Nov. 6, 2002, 116 Stat. 1995, which amended this section and enacted provisions set out as a note under section 460ccc–4 of this title. For complete classification of this Act to the Code, see Tables.
@@ -31,6 +33,8 @@ The Red Rock Canyon National Conservation Area Protection and Enhancement Act of
 **1998**—Subsec. (a)(2). Pub. L. 105–263 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The conservation area shall consist of approximately 195,610 acres as generally depicted on a map entitled 'Red Rock Canyon National Conservation Area—Proposed Expansion', numbered NV–RRCNCA–002, and dated July 1994."
 
 **1994**—Subsec. (a)(2). Pub. L. 103–450 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The conservation area shall consist of approximately 83,100 acres of generally depicted on a map entitled 'Red Rock Canyon National Conservation Area—Proposed' numbered NV–RRC–NCA–001, and dated June, 1990."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

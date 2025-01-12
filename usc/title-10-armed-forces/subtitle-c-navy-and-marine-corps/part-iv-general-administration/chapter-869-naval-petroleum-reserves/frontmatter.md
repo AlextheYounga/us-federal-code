@@ -38,6 +38,8 @@ Sec.
 
 8739. Certain oil shale reserves: transfer of jurisdiction and petroleum exploration, development, and production.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 869, consisting of sections 8961 to 8966, related to retired grade for members of the Air Force, prior to renumbering as chapter 943 of this title.

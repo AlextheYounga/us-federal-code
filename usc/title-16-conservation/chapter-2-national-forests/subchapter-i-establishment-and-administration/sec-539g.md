@@ -34,6 +34,8 @@ In recognition of the dispute that exists over whether a dam project should be c
 
 (Pub. L. 100–150, §2, Nov. 3, 1987, 101 Stat. 881.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsecs. (a), (c), and (h), is Pub. L. 100–150, Nov. 3, 1987, 101 Stat. 881, which enacted this section and amended section 1274 of this title. For complete classification of this Act to the Code, see Tables.

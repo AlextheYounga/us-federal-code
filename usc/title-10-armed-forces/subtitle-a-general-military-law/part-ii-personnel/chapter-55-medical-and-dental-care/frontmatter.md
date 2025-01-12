@@ -18,6 +18,8 @@ Sec.
 
 1073e. Protection of armed forces from infectious diseases.
 
+1073f. Health care fraud and abuse prevention program.
+
 1074. Medical and dental care for members and certain former members.
 
 1074a. Medical and dental care: members on duty other than active duty for a period of more than 30 days.
@@ -168,6 +170,8 @@ Sec.
 
 1104. Sharing of health-care resources with the Department of Veterans Affairs.
 
+1104a. Shared medical facilities with Department of Veterans Affairs.
+
 1105. Specialized treatment facility program.
 
 1106. Submittal of claims: standard form; time limits.
@@ -180,15 +184,23 @@ Sec.
 
 1109. Organ and tissue donor program.
 
-1110. Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions.
+1110. System for tracking and recording vaccine information; anthrax vaccine immunization program.
 
 1110a. Notification of certain individuals regarding options for enrollment under Medicare part B.
 
 1110b. TRICARE program: extension of dependent coverage.
 
+#### Amendment of Analysis ####
+
+Pub. L. 117–81, div. A, title VII, §701(c)(2), (d), Dec. 27, 2021, 135 Stat. 1779, provided that, effective Oct. 1, 2022, this analysis is amended by striking item 1090a and inserting new items 1090a "Identifying and treating eating disorders" and 1090b "Commanding officer and supervisor referrals of members for mental health evaluations". See 2021 Amendment note below.
+
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title VII, §712(b), Jan. 1, 2021, 134 Stat. 3692, added item 1073e.
+**2021**—Pub. L. 117–81, div. A, title VII, §§701(c)(2), 713(b), 714(a)(2), 716(c), Dec. 27, 2021, 135 Stat. 1779, 1784, 1786, 1789, added items 1073f, 1090a, 1090b, 1104a, and 1110 and struck out former items 1090a "Commanding officer and supervisor referrals of members for mental health evaluations" and 1110 "Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions".
+
+Pub. L. 116–283, div. A, title VII, §712(b), Jan. 1, 2021, 134 Stat. 3692, added item 1073e.
 
 **2019**—Pub. L. 116–92, div. A, title VII, §702(b)(3), Dec. 20, 2019, 133 Stat. 1436, added items 1097a and 1099 and struck out former items 1097a "TRICARE Prime: automatic enrollments; payment options" and 1099 "Health care enrollment system".
 

@@ -11,6 +11,8 @@
 |813.|13. |                               Punishment prohibited before trial.                                |
 |814.|14. |                           Delivery of offenders to civil authorities.                            |
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, §5541(1). See 2016 Amendment note below.

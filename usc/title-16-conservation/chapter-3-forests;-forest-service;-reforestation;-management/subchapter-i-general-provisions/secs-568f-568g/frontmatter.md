@@ -1,5 +1,7 @@
 ### §§568f, 568g. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 568f, act May 28, 1956, ch. 327, title IV, §402, 70 Stat. 208, required the Secretary of Agriculture to make a study of price trends and relationships for basic forest products and submit a report to the Congress within one year from May 28, 1956.

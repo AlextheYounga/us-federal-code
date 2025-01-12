@@ -4,6 +4,8 @@ On and after May 11, 1934, mining locations made under the United States mining 
 
 (May 11, 1934, ch. 280, §1, 48 Stat. 773.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Bull Run Watershed Management Unit ####
 
 Pub. L. 95–200, Nov. 23, 1977, 91 Stat. 1425, as amended by Pub. L. 104–208, div. B, title VI, §§601 to 604, Sept. 30, 1996, 110 Stat. 3009–541; Pub. L. 104–333, div. I, title X, §1026(a), Nov. 12, 1996, 110 Stat. 4228; Pub. L. 107–30, §§1, 2(a), (c), Aug. 20, 2001, 115 Stat. 210, 211, provided that:

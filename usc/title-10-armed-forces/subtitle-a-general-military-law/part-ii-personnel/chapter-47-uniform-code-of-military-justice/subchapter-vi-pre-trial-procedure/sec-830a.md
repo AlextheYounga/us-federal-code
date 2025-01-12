@@ -36,6 +36,8 @@
 
 (Added Pub. L. 114–328, div. E, title LVI, §5202, Dec. 23, 2016, 130 Stat. 2904; amended Pub. L. 115–91, div. A, title V, §531(b), Dec. 12, 2017, 131 Stat. 1384; Pub. L. 116–92, div. A, title V, §531(a), (b)(1), Dec. 20, 2019, 133 Stat. 1359.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–92, §531(b)(1), substituted "Proceedings conducted before referral" for "Certain proceedings conducted before referral" in section catchline.
@@ -61,6 +63,8 @@ Subsec. (a)(1), (2). Pub. L. 116–92, §531(a), added pars. (1) and (2) and str
 **2017**—Subsec. (a)(1). Pub. L. 115–91, §531(b)(1), inserted ", or otherwise act on," after "to review" in introductory provisions.
 
 Subsec. (a)(1)(D). Pub. L. 115–91, §531(b)(2), added subpar. (D).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

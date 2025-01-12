@@ -1,5 +1,7 @@
 ### §§571a, 571b. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 571a, Pub. L. 85–77, title II, July 1, 1957, 71 Stat. 270, which related to maximum allowance on construction costs, was from the Department of the Interior and Related Agencies Appropriations Act, 1958, and was not repeated in subsequent appropriation acts.

@@ -1397,8 +1397,6 @@ World War II License Agreements (50 U.S.C. App. 2371), act Aug. 16, 1950, ch. 71
 
 (Ex. Ord No. 8233, Sept. 5, 1939, 4 F.R. 3822, relating to regulations governing enforcement of neutrality of the United States.)
 
-#### **Executive Documents** ####
-
 ### I. PROCLAMATIONS OF STATE OF WAR ###
 
 Proc. No. 2374, Nov. 4, 1939, 12:04 p.m., 4 F.R. 4493, 54 Stat. 2671, proclaimed a state of war between Germany and France; Poland; and the United Kingdom, India, Australia, Canada, New Zealand and the Union of South Africa.

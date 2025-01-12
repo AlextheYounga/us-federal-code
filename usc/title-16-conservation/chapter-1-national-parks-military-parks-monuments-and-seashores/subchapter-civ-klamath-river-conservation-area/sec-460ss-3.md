@@ -120,6 +120,8 @@ At such time as the program is expanded to include portions of the Klamath River
 
 (Pub. L. 99–552, §4, Oct. 27, 1986, 100 Stat. 3084; Pub. L. 100–580, §12(a), Oct. 31, 1988, 102 Stat. 2935; Pub. L. 100–653, title VI, §§601, 602(b), 603(1), Nov. 14, 1988, 102 Stat. 3829, 3830; Pub. L. 102–570, §2, Oct. 29, 1992, 106 Stat. 4490.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1992**—Subsec. (j). Pub. L. 102–570 added subsec. (j).
@@ -133,6 +135,8 @@ Subsec. (f)(1). Pub. L. 100–653, §602(b), substituted "Procedures" for "Decis
 Subsec. (h). Pub. L. 100–653, §603(1), substituted ", the State of California, or the State of Oregon" for "or the State of California".
 
 Subsec. (i). Pub. L. 100–653, §601, substituted "Expenses" for "Limitation on spending authority" in heading and amended text generally, designating existing provisions as par. (2) and adding par. (1).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Special Rule ####
 

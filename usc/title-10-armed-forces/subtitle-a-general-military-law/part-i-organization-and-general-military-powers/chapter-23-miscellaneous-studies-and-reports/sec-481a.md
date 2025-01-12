@@ -26,11 +26,15 @@
 
 (Added Pub. L. 113–291, div. A, title X, §1073(a)(1), Dec. 19, 2014, 128 Stat. 3517; amended Pub. L. 116–92, div. A, title V, §591(b), Dec. 20, 2019, 133 Stat. 1414; Pub. L. 116–283, div. A, title V, §552(c), Jan. 1, 2021, 134 Stat. 3632.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Subsec. (d). Pub. L. 116–283 added subsec. (d).
 
 **2019**—Subsecs. (a), (b). Pub. L. 116–92 inserted "(including unwanted sexual contact)" after "assault" wherever appearing.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2019 Amendment ####
 

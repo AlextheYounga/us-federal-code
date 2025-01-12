@@ -18,6 +18,8 @@ Except as otherwise provided in section 460gg–1 of this title and section 3 of
 
 (Pub. L. 94–199, §7, Dec. 31, 1975, 89 Stat. 1118.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 3 of this Act, referred to in text, is section 3 of Pub. L. 94–199. Subsec. (a) of section 3 added pars. (11) and (12) of section 1274(a) of this title, relating to components of the national wild and scenic rivers system. Subsec. (b) of section 3, relating to the administration of those segments of the Snake and Rapid Rivers designated as wild or scenic river areas, is set out as a note under section 1274 of this title.

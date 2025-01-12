@@ -120,9 +120,13 @@ If the Secretary acquires additional land that is located in the National Conser
 
 (Pub. L. 111–11, title I, §1975, Mar. 30, 2009, 123 Stat. 1083.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Land Policy and Management Act of 1976, referred to in subsecs. (e)(1)(B)(i) and (f)(2)(A), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

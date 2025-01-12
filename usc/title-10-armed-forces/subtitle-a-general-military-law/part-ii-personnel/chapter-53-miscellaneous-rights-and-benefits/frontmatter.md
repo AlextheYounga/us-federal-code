@@ -42,6 +42,8 @@ Sec.
 
 1044e. Special Victims' Counsel for victims of sex-related offenses.
 
+1044f. Policies with respect to special trial counsel.
+
 1045. Voluntary withholding of State income tax from retired or retainer pay.
 
 1046. Overseas temporary foster care program.
@@ -82,7 +84,11 @@ Sec.
 
 1060c. Provision of veterinary services in emergencies.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title V, §532(b), Dec. 27, 2021, 135 Stat. 1695, added item 1044f.
 
 **2019**—Pub. L. 116–92, div. A, title VII, §735(b), Dec. 20, 2019, 133 Stat. 1463, added item 1060c.
 
@@ -171,6 +177,8 @@ Pub. L. 89–132, §9(b), Aug. 21, 1965, 79 Stat. 548, added item 1040 "Free pos
 Pub. L. 86–142, §1(2), Aug. 7, 1959, 73 Stat. 289, added item 1038.
 
 **1958**—Pub. L. 85–861, §1(24)(B), Sept. 2, 1958, 72 Stat. 1445, added item 1037.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Policy To Improve Responses to Pregnancy and Childbirth by Certain Members of the Armed Forces ####
 

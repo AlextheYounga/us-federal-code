@@ -30,6 +30,8 @@ Sec.
 
 8226. Fatality reviews.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 555 of this title as this chapter and items 6011 to 6014, 6019, 6021, 6022, 6024, 6027, 6029, 6031, 6032, 6035, and 6036 as 8211 to 8222, 8225, and 8226, respectively.

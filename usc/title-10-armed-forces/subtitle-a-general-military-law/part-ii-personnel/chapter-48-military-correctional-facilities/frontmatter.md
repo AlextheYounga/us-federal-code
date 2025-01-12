@@ -14,6 +14,8 @@ Sec.
 
 956. Deserters, prisoners, members absent without leave: expenses and rewards.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1984**—Pub. L. 98–525, title XIV, §1401(b)(2), Oct. 19, 1984, 98 Stat. 2615, added item 956.

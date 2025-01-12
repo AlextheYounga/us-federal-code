@@ -4,6 +4,8 @@ For development of the Wilson's Creek National Battlefield, there are authorized
 
 (Pub. L. 86–434, §3, Apr. 22, 1960, 74 Stat. 76; Pub. L. 91–554, §1(b), Dec. 16, 1970, 84 Stat. 1441; Pub. L. 95–625, title I, §101(29), Nov. 10, 1978, 92 Stat. 3472; Pub. L. 108–394, §2(b), Oct. 30, 2004, 118 Stat. 2248.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–394 inserted last sentence.

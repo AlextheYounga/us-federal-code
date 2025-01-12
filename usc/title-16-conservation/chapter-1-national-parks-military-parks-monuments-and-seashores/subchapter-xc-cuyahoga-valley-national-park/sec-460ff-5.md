@@ -20,6 +20,8 @@ There are hereby authorized to be appropriated not more than $500,000 for fiscal
 
 (Pub. L. 93–555, §5, formerly §6, Dec. 27, 1974, 88 Stat. 1788; Pub. L. 94–578, title III, §323(b), Oct. 21, 1976, 90 Stat. 2742; Pub. L. 95–625, title III, §315(b), (c), Nov. 10, 1978, 92 Stat. 3483; Pub. L. 99–658, title I, §104(j)(2), Nov. 14, 1986, 100 Stat. 3678; renumbered §5 and amended Pub. L. 106–291, title I, §149(c)(2), (d), Oct. 11, 2000, 114 Stat. 956.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 5 of Pub. L. 93–555 was classified to section 460ff–4 of this title, prior to repeal by Pub. L. 106–291.
@@ -35,6 +37,8 @@ A prior section 5 of Pub. L. 93–555 was classified to section 460ff–4 of thi
 Subsec. (b). Pub. L. 95–625, §315(c), substituted "For the development of the recreation area, including improvements of properties acquired for purposes of this subchapter, there is authorized to be appropriated not more than $13,000,000" for "For the development of essential public facilities there are authorized to be appropriated not more than $500,000".
 
 **1976**—Subsec. (a). Pub. L. 94–578 substituted "$41,100,000" for "$34,500,000".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

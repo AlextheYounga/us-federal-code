@@ -44,6 +44,8 @@ The Council shall terminate on the date that is 1 year from the date on which th
 
 (Pub. L. 111–11, title II, §2407, Mar. 30, 2009, 123 Stat. 1107.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.

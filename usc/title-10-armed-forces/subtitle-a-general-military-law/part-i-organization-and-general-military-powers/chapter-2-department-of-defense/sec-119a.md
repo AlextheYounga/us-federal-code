@@ -72,8 +72,24 @@
 
 (2) Exception.—If the Secretary determines that waiting for the regular notification process before initiating a program as described in paragraph (1) would cause exceptionally grave damage to the national security, the Secretary may begin a program to be managed under alternative compensatory control measures in the Department before such waiting period elapses. The Secretary shall notify the congressional defense committees within 10 days of initiating a program under this paragraph, including a justification for the determination of the Secretary that waiting for the regular notification process would cause exceptionally grave damage to the national security.
 
-(Added Pub. L. 114–328, div. A, title X, §1062(a), Dec. 23, 2016, 130 Stat. 2405; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(4), Dec. 20, 2019, 133 Stat. 1812.)
+(g) Congressional Oversight.—(1) Neither the Secretary of Defense nor the Director of National Intelligence may take any action that would have the effect of limiting the access of the congressional defense committees to—
+
+(A) any classified program, or any information about any classified program, to which such committees have access as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022; or
+
+(B) any classified program established, or any information about any classified program that becomes available, after the date of the enactment of such Act that is within the jurisdiction of such committees.
+
+(2) In this subsection, the term "classified program" includes any special access program, alternative compensatory control measure, or any other controlled access program.
+
+(Added Pub. L. 114–328, div. A, title X, §1062(a), Dec. 23, 2016, 130 Stat. 2405; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(4), Dec. 20, 2019, 133 Stat. 1812; Pub. L. 117–81, div. A, title X, §1041(b), Dec. 27, 2021, 135 Stat. 1903.)
+
+#### **Editorial Notes** ####
+
+#### References in Text ####
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2022 and the date of the enactment of such Act, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
 
 #### Amendments ####
+
+**2021**—Subsec. (g). Pub. L. 117–81 added subsec. (g).
 
 **2019**—Subsecs. (a), (b). Pub. L. 116–92 substituted "ACCMS" for "AACMS" in subsec. heading.

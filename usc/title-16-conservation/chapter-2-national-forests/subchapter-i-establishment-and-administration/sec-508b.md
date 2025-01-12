@@ -4,6 +4,8 @@ Where, through withdrawal or reservation or by statutory limitation or otherwise
 
 (June 30, 1950, ch. 430, 64 Stat. 311.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 Functions of Secretary of the Interior under this section, with respect to use and disposal from lands under jurisdiction of Secretary of Agriculture of those mineral materials which Secretary of Agriculture is authorized to dispose of from other lands under his jurisdiction under sections 601 to 604 and 611 to 615 of Title 30, Mineral Lands and Mining, transferred to Secretary of Agriculture, see Pub. L. 86–509, June 11, 1960, 74 Stat. 205, set out as a Transfer of Functions note under section 2201 of Title 7, Agriculture.

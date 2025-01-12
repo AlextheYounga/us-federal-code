@@ -22,6 +22,8 @@ Section 564, acts Aug. 10, 1956, ch. 1041, 70A Stat. 22; Sept. 7, 1962, Pub. L. 
 
 Section 565, act Aug. 10, 1956, ch. 1041, 70A Stat. 24, related to suspension of laws for promotion or mandatory retirement or separation of regular warrant officers during war or emergency.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under section 521 of this title.

@@ -83,6 +83,8 @@ Chap. Sec.
 
 783. Accountability and Responsibility 7831
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(f)(2), Aug. 13, 2018, 132 Stat. 1839, redesignated items for chapters 301 to 453 as 701 to 783 and redesignated section numbers 3001 to 4831 as 7001 to 7831. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.

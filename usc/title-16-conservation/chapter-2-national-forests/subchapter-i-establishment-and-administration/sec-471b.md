@@ -2,6 +2,8 @@
 
 Section, act July 20, 1939, ch. 334, §1, 53 Stat. 1071, authorized addition of lands within State of Montana to existing or inclusion within new national forests.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Section 704(a) of Pub. L. 94–579 provided that this section is repealed effective on and after Oct. 21, 1976.

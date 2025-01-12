@@ -56,7 +56,7 @@ Sec.
 
 220531. Grant to protect young athletes from abuse.
 
-#### SUBCHAPTER III <sup><a href="#CHAPTER2205_1_target" name="CHAPTER2205_1">1</a></sup> —UNITED STATES CENTER FOR SAFE SPORT <sup><a href="#CHAPTER2205_2_target" name="CHAPTER2205_2">2</a></sup> ####
+#### SUBCHAPTER IV—UNITED STATES CENTER FOR SAFESPORT ####
 
 220541. Designation of United States Center for SafeSport.
 
@@ -69,10 +69,6 @@ Sec.
 220551. Definitions.
 
 220552. Dissolution of board of directors of corporation and termination of recognition of national governing bodies.
-
-#### Amendment of Analysis ####
-
-Pub. L. 116–189, §5(b)(1), (c), Oct. 30, 2020, 134 Stat. 947, provided that, effective on the date that is 1 year after Oct. 30, 2020, this analysis is amended by substituting item for subchapter IV "UNITED STATES CENTER FOR SAFESPORT" for item for subchapter III relating to United States Center for Safe Sport. Section 5(b)(2) of Pub. L. 116–189, which added item for subchapter V and items 220551 and 220552, is also effective 1 year after Oct. 30, 2020, but has been executed to this analysis to conform to the concurrent execution of that subchapter in text. See 2020 Amendment note below.
 
 #### **Editorial Notes** ####
 
@@ -91,5 +87,3 @@ Pub. L. 115–126, title II, §§202(c), 204(b), Feb. 14, 2018, 132 Stat. 323, 3
 **1998**—Pub. L. 105–277, div. C. title I, §142(j)(2), (k)(2), Oct. 21, 1998, 112 Stat. 2681–606, 2681–607, substituted "Report" for "Annual report" in item 220511 and added item 220512.
 
 [<sup>1</sup> So in original. Two items for subchapter III have been enacted.](#CHAPTER2205_1)
-
-[<sup>2</sup> Temporarily does not conform to subchapter heading as amended by section 8(a)(2)(A) of Pub. L. 116–189.](#CHAPTER2205_2)

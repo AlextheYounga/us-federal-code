@@ -10,6 +10,8 @@
 
 (June 9, 1930, ch. 416, §3, 46 Stat. 527; Pub. L. 94–588, §18, Oct. 22, 1976, 90 Stat. 2962; Pub. L. 108–447, div. E, title III, §318, Dec. 8, 2004, 118 Stat. 3096; Pub. L. 109–54, title IV, §412, Aug. 2, 2005, 119 Stat. 551.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2005**—Subsec. (a). Pub. L. 109–54 added cl. (5).

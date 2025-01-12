@@ -138,6 +138,8 @@ No money authorized to be appropriated under section 460ss–5 of this title may
 
 (Pub. L. 99–552, §3, Oct. 27, 1986, 100 Stat. 3082; Pub. L. 100–653, title VI, §§602(a), 603(1), (2), Nov. 14, 1988, 102 Stat. 3830.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Subsec. (g)(1). Pub. L. 100–653, §602(a), substituted "Procedures" for "Decisions of Council" as par. heading and amended text generally. Prior to amendment, text read as follows: "All decisions of the Council must be by unanimous vote of all of the members."

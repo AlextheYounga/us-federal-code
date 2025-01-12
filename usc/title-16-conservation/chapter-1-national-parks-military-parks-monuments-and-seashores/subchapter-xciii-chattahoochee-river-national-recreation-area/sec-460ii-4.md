@@ -74,6 +74,8 @@ Actions which are part of a project recommended in the study entitled "Metropoli
 
 (Pub. L. 95–344, title I, §105, Aug. 15, 1978, 92 Stat. 476; Pub. L. 98–568, §1(e), Oct. 30, 1984, 98 Stat. 2929; Pub. L. 106–154, §2(d), (e)(4), Dec. 9, 1999, 113 Stat. 1738, 1739.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Land and Water Conservation Fund Act (78 Stat. 897), referred to in subsec. (a)(1), probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which was classified principally to part B (§460l–4 et seq.) of subchapter LXIX of this chapter. Sections 2, 3, 4(i)(1)(C), (j) to (n), 5 to 10, and 201 of the Act were repealed and restated as sections 100506(c) and 100904 and chapter 2003 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.
@@ -103,6 +105,8 @@ Subsec. (c)(1)(A). Pub. L. 106–154, §2(e)(4), substituted "of this subchapter
 Subsec. (c). Pub. L. 98–568, §1(e)(2), substituted "seven years" for "three years".
 
 Subsec. (d). Pub. L. 98–568, §1(e)(3), added subsec. (d).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

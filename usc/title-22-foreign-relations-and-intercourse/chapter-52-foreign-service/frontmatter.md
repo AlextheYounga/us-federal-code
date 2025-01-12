@@ -44,6 +44,8 @@ Sec.
 
 3929a. Abolishment of Inspector General of Department of State and Foreign Service.
 
+3929b. Cooperation with Office of the Inspector General.
+
 3930. Board of Foreign Service.
 
 3931. Board of Examiners.
@@ -152,7 +154,7 @@ Sec.
 
 4012a. Foreign national employees separation pay.
 
-4013. Foreign Service awards.
+4013. Department awards.
 
 #### SUBCHAPTER VII—CAREER DEVELOPMENT, TRAINING, AND ORIENTATION ####
 
@@ -289,6 +291,8 @@ Sec.
 4085. Entertainment and representation expenses.
 
 4086. Entitlement to vote in a State in a Federal election; preconditions; applicability.
+
+4087. Termination of residential or motor vehicle leases and telephone service contracts.
 
 #### SUBCHAPTER X—LABOR-MANAGEMENT RELATIONS ####
 

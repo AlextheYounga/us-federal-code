@@ -4,6 +4,8 @@ The Secretary of Agriculture is authorized to establish and maintain a forest ex
 
 (July 3, 1926, ch. 767, §§1, 2, 44 Stat. 838.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 A provision authorizing an appropriation of $30,000 for fiscal year ending June 30, 1927, for establishment of the forest experiment station referred to in this section was omitted as executed.

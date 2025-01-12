@@ -32,6 +32,8 @@ Sec.
 
 1790. Military personnel citizenship processing.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 116–283, div. A, title V, §583(b), Jan. 1, 2021, 134 Stat. 3654, which directed amendment of the table of sections at the beginning of chapter 88 by adding item 1788a and striking out former item 1788a "Family support programs: immediate family members of members of special operations forces", was executed to the analysis of this subchapter, to reflect the probable intent of Congress.

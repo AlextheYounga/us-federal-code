@@ -2,7 +2,7 @@
 
 (a) In General.—Except as provided by this section, eligibility for promotion of officers in any competitive category of officers designated for purposes of this subchapter shall be governed by the provisions of section 619 of this title.
 
-(b) Inapplicability of Certain Time-in-grade Requirements.—Paragraphs (2) through (4) of section 619(a) of this title shall not apply to the promotion of officers described in subsection (a).
+(b) Inapplicability of Certain Time-in-grade Requirements.—Paragraphs (2) through (4) <sup><a href="#649c_1_target" name="649c_1">1</a></sup> of section 619(a) of this title shall not apply to the promotion of officers described in subsection (a).
 
 (c) Inapplicability to Officers Above and Below Promotion Zone.—The following provisions of section 619(c) of this title shall not apply to the promotion of officers described in subsection (a):
 
@@ -24,6 +24,14 @@
 
 (Added Pub. L. 115–232, div. A, title V, §507(a)(1), Aug. 13, 2018, 132 Stat. 1745; amended Pub. L. 116–283, div. A, title V, §506, Jan. 1, 2021, 134 Stat. 3573.)
 
+#### **Editorial Notes** ####
+
+#### References in Text ####
+
+Paragraph (4) of section 619(a) of this title, referred to in subsec. (b), was redesignated paragraph (5) of section 619(a) of this title by Pub. L. 117–81, div. A, title V, §502(2), Dec. 27, 2021, 135 Stat. 1680.
+
 #### Amendments ####
 
 **2021**—Subsecs. (d), (e). Pub. L. 116–283 added subsec. (d) and redesignated former subsec. (d) as (e).
+
+[<sup>1</sup> See References in Text note below.](#649c_1)

@@ -182,6 +182,8 @@ Within two years from the date of establishment of the recreation area pursuant 
 
 (Pub. L. 95–625, title V, §507, Nov. 10, 1978, 92 Stat. 3501; Pub. L. 96–87, title IV, §401(j), Oct. 12, 1979, 93 Stat. 666; Pub. L. 96–199, title I, §118, Mar. 5, 1980, 94 Stat. 71; Pub. L. 98–572, Oct. 30, 1984, 98 Stat. 2946; Pub. L. 103–437, §6(d)(5), Nov. 2, 1994, 108 Stat. 4583; Pub. L. 107–236, §§2, 3, Oct. 9, 2002, 116 Stat. 1483.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsecs. (i) and (q)(4), means Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3467, known as the National Parks and Recreation Act of 1978. For complete classification of this Act to the Code, see Tables.
@@ -205,6 +207,8 @@ Subsec. (n)(5). Pub. L. 107–236, §3(3), substituted "laws," for "laws" in sec
 **1980**—Subsec. (q)(2)(E). Pub. L. 96–199 increased from 5 to 9 the number of members appointed by the Secretary of the Interior.
 
 **1979**—Subsec. (f)(1). Pub. L. 96–87 substituted "construction of which was begun before January 1, 1978" for "construction of which was begun before January 1, 1976".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Anthony C. Beilenson Visitor Center ####
 

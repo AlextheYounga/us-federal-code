@@ -8,6 +8,8 @@ The determination made by the Secretary having jurisdiction upon the proposals c
 
 (Mar. 29, 1944, ch. 146, §5, 58 Stat. 133; Pub. L. 86–507, §1(17), June 11, 1960, 74 Stat. 201.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1960**—Pub. L. 86–507 inserted "or by certified mail" after "registered mail".

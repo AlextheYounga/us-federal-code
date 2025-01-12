@@ -22,6 +22,8 @@ Subject to section 460ccc–5 of this title, nothing in this subchapter is inten
 
 (Pub. L. 101–621, §5, Nov. 16, 1990, 104 Stat. 3343; Pub. L. 103–437, §6(d)(23), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 103–450, §2(a), Nov. 2, 1994, 108 Stat. 4766.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (a)(2)(C), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.

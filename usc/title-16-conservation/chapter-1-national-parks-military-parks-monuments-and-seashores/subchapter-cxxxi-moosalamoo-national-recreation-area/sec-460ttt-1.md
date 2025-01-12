@@ -20,6 +20,8 @@ Each map and legal description filed under subsection (a) shall be filed and mad
 
 (Pub. L. 109–382, title II, §222, Dec. 1, 2006, 120 Stat. 2676.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.

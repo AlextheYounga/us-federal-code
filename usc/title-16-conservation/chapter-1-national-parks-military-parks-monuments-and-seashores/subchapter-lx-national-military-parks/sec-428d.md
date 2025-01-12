@@ -4,13 +4,19 @@ Upon receipt of the report of said commission the Secretary of the Interior is a
 
 (Mar. 26, 1928, ch. 248, §5, 45 Stat. 368; Feb. 18, 1930, ch. 49, 46 Stat. 69; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933; Pub. L. 86–738, §§4, 5, Sept. 8, 1960, 74 Stat. 876.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1930**—Act Feb. 18, 1930, inserted "military" between "national" and "park", authorized construction of roads and walks, planting of trees and shrubs, restoration and care of grounds, including portions of Fort Donelson and Confederate water batteries, and inserted "and the establishment of the national military park" in proviso.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "National battlefield" and "battlefield" substituted in text for "national military park" and "park", respectively, in view of redesignation of Fort Donelson National Military Park as Fort Donelson National Battlefield by Pub. L. 86–738. See section 428n of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

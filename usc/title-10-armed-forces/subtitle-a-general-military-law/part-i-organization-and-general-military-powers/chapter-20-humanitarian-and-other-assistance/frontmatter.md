@@ -22,6 +22,8 @@ Sec.
 
 [410. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Chapter was comprised of subchapter I, sections 401 to 404, and subchapter II, section 410, prior to amendment by Pub. L. 104–106, div. A, title V, §571(c), Feb. 10, 1996, 110 Stat. 353, which struck out headings for subchapters I and II.

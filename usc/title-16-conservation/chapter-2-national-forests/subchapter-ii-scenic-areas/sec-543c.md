@@ -94,6 +94,8 @@ Existing community recreational uses, as of September 28, 1984, shall be permitt
 
 (Pub. L. 98–425, title III, §304, Sept. 28, 1984, 98 Stat. 1634.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Geothermal Steam Act of 1970, referred to in subsec. (g)(1), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.

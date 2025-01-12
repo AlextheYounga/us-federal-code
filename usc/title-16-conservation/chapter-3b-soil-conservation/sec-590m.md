@@ -4,6 +4,8 @@ Notwithstanding the foregoing provisions of this chapter, the Secretary is autho
 
 (Apr. 27, 1935, ch. 85, §13, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1151; amended 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100.)
 
+#### **Executive Documents** ####
+
 #### Transfer of Functions ####
 
 Production and Marketing Administration functions transferred to other units of Department of Agriculture under Secretary's memorandum 1320, supp. 4, of Nov. 2, 1953.

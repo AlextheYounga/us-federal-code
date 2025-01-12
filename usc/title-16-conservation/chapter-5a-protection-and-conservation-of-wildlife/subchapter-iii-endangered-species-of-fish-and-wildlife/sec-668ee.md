@@ -38,6 +38,8 @@ For purposes of this Act:
 
 (Pub. L. 89–669, §5, Oct. 15, 1966, 80 Stat. 929; Pub. L. 105–57, §3(a), Oct. 9, 1997, 111 Stat. 1253.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, which enacted sections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715l, 715m of this title. For complete classification of this Act to the Code, see Tables.

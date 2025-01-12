@@ -164,6 +164,8 @@ Sec.
 
 356. Continuation pay: full TSP members with 8 to 12 years of service.
 
+357. Incentive pay authorities for members of the reserve components of the armed forces.
+
 #### SUBCHAPTER III—GENERAL PROVISIONS ####
 
 371. Relationship to other incentives and pays.
@@ -177,6 +179,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title VI, §602(b), Dec. 27, 2021, 135 Stat. 1765, added item 357.
 
 **2017**—Pub. L. 115–91, div. A, title VI, §617(b), Dec. 12, 2017, 131 Stat. 1426, added item 334a.
 

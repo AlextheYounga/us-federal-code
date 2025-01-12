@@ -16,6 +16,8 @@
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2602.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 950e, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2621, related to rehearings, prior to the general amendment of this chapter by Pub. L. 111–84.

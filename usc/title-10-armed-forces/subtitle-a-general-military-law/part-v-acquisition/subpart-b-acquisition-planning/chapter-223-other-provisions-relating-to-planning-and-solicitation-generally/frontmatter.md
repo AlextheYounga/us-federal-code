@@ -16,7 +16,7 @@ Sec.
 
 3247. Contracts: regulations for bids.
 
-3248. Matters relating to reverse auctions. 1
+3248. [Reserved].
 
 3249. Advocates for competition.
 
@@ -26,8 +26,12 @@ Sec.
 
 3252. Requirements for information relating to supply chain risk.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 223 "PLANNING AND SOLICITATION RELATING TO PARTICULAR ITEMS OR SERVICES", as added by Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1827, and consisting of reserved section 3251, was repealed by Pub. L. 116–283, div. A, title XVIII, §1811(b), Jan. 1, 2021, 134 Stat. 4164.
 
-[<sup>1</sup> So in original. There is no section 3248.](#CHAPTER223_1)
+#### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title XVII, §1701(f)(4), Dec. 27, 2021, 135 Stat. 2139, added "[Reserved]" for item 3248 and struck out former item 3248 "Matters relating to reverse auctions".

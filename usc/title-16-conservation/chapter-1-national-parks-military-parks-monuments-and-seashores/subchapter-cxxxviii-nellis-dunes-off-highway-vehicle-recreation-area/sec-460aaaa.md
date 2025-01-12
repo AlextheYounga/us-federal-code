@@ -110,6 +110,8 @@ The Secretary may develop a special management plan for the Nellis Dunes Off-Hig
 
 (Pub. L. 113–291, div. B, title XXX, §3092(j), Dec. 19, 2014, 128 Stat. 3876.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 14, 1926, referred to in par. (2)(C)(i), is act June 14, 1926, ch. 578, 44 Stat. 741, popularly known as the Recreation and Public Purposes Act, which is classified to sections 869 to 869–4 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 869 of Title 43 and Tables.

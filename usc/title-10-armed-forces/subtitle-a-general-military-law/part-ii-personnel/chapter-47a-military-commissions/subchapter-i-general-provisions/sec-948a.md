@@ -32,9 +32,13 @@ In this chapter:
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2574.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 948a, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2601, related to definitions, prior to the general amendment of this chapter by Pub. L. 111–84.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 2009 Amendment ####
 

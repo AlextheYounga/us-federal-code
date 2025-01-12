@@ -34,6 +34,8 @@ is guilty of an offense under this section and shall be punished as a court-mart
 
 (Added Pub. L. 112–81, div. A, title V, §541(c), Dec. 31, 2011, 125 Stat. 1409.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Amendment by Pub. L. 112–81 effective 180 days after Dec. 31, 2011, and applicable with respect to offenses committed on or after such effective date, see section 541(f) of Pub. L. 112–81, set out as an Effective Date of 2011 Amendment note under section 843 of this title.

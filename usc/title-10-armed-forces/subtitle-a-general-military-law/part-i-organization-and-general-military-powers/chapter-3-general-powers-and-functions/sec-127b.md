@@ -68,6 +68,8 @@
 
 (Added Pub. L. 107–314, div. A, title X, §1065(a), Dec. 2, 2002, 116 Stat. 2655; amended Pub. L. 109–163, div. A, title X, §1056(c)(2), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 109–364, div. A, title XIV, §1401, Oct. 17, 2006, 120 Stat. 2433; Pub. L. 110–181, div. A, title X, §1033, Jan. 28, 2008, 122 Stat. 307; Pub. L. 111–84, div. A, title X, §1071, Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1031, Jan. 7, 2011, 124 Stat. 4351; Pub. L. 112–81, div. A, title X, §§1033, 1064(3), Dec. 31, 2011, 125 Stat. 1572, 1587; Pub. L. 112–239, div. A, title X, §1021(a), Jan. 2, 2013, 126 Stat. 1911; Pub. L. 113–291, div. A, title X, §1031, Dec. 19, 2014, 128 Stat. 3491; Pub. L. 114–92, div. A, title X, §1042(a)–(d)(1), Nov. 25, 2015, 129 Stat. 976; Pub. L. 114–328, div. A, title X, §1063, Dec. 23, 2016, 130 Stat. 2408.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsec. (h)(2). Pub. L. 114–328, §1063(1), inserted "and justification" after "reason".
@@ -131,6 +133,8 @@ Subsec. (f)(2)(D). Pub. L. 110–181, §1033(c), added subpar. (D).
 **2006**—Subsec. (c)(2). Pub. L. 109–364 substituted "$10,000" for "$2,500", inserted ", or to the commander of a command directly subordinate to that commander," after "deputy commander", and inserted at end "Such a delegation may be made to the commander of a command directly subordinate to the commander of a combatant command only with the approval of the Secretary of Defense, the Deputy Secretary of Defense, or an Under Secretary of Defense to whom authority has been delegated under subparagraph (1)(A)."
 
 Subsec. (d)(1). Pub. L. 109–163 substituted "Such policies" for "Such polices".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Termination of Reporting Requirements ####
 

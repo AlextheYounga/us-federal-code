@@ -30,6 +30,8 @@ Public Land Orders 5133 dated October 12, 1971, and 5777 dated November 21, 1980
 
 (Pub. L. 103–64, §6, Aug. 4, 1993, 107 Stat. 308.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Endangered Species Act of 1973, referred to in subsec. (a)(1), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.

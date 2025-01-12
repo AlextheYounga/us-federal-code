@@ -40,9 +40,13 @@
 
 (Added Pub. L. 99–145, title V, §534(a), Nov. 8, 1985, 99 Stat. 634, §906a; renumbered §903a, Pub. L. 114–328, div. E, title LX, §5401(7), Dec. 23, 2016, 130 Stat. 2938.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–328 renumbered section 906a of this title as this section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2016 Amendment ####
 

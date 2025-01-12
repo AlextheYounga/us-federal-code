@@ -1,5 +1,7 @@
 ### §667a. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, act June 8, 1940, ch. 295, §§1–4, 54 Stat. 261, authorized compacts or agreements between or among the States bordering on the Atlantic Ocean with respect to fishing in the territorial waters and bays and inlets of the Atlantic Ocean on which such States border.

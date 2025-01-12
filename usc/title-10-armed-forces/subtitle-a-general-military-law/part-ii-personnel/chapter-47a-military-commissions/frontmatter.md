@@ -18,6 +18,8 @@ VII. Post-Trial Procedure and Review of Military Commissions 950a. 1
 
 VIII. Punitive Matters 950p.
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 This chapter was originally added by Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2600, and amended by Pub. L. 110–181, Jan. 28, 2008, 122 Stat. 3. This chapter is shown here, however, as having been added by Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2574, without reference to those intervening amendments because of the general amendment of this chapter by Pub. L. 111–84.

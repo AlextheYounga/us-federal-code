@@ -34,6 +34,8 @@ Sec.
 
 1155. Statement of benefits.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 116–283, div. A, title X, §1081(a)(26), Jan. 1, 2021, 134 Stat. 3872, added item 1142 and struck out former item 1142 "Preseparation counseling; transmittal of medical records to Department of Veterans Affairs".

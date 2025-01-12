@@ -100,6 +100,8 @@ The Secretaries of Agriculture and Interior shall, in consultation, review the d
 
 (Pub. L. 101–382, title IV, §495, Aug. 20, 1990, 104 Stat. 725; Pub. L. 105–83, title VI, §605, Nov. 14, 1997, 111 Stat. 1622.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1997**—Subsec. (a). Pub. L. 105–83 redesignated first two sentences as pars. (1) and (2), respectively, and inserted headings, and substituted pars. (3) to (5) for last sentence which read as follows: "Except as otherwise provided in sections 620 to 620j of this title, regulations and guidelines under this subsection shall be issued not later than 9 months after August 20, 1990."

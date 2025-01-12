@@ -22,6 +22,8 @@ Sec.
 
 950j. Finality of proceedings, findings, and sentences.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title X, §1081(a)(11), Aug. 13, 2018, 132 Stat. 1983, substituted "United States Court of Appeals" for "United States Court of Court of Appeals" in item 950g.

@@ -4,6 +4,8 @@ Funds appropriated to the Department of Defense may be used for the issue of aut
 
 (Added Pub. L. 98–525, title XIV, §1401(a)(1), Oct. 19, 1984, 98 Stat. 2614; amended Pub. L. 99–145, title XIII, §1303(a)(4)(A), Nov. 8, 1985, 99 Stat. 738.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Provisions similar to those in this section were contained in the following appropriation acts:
@@ -131,6 +133,8 @@ Feb. 12, 1925, ch. 225, title I, 43 Stat. 900.
 #### Amendments ####
 
 **1985**—Pub. L. 99–145 substituted "enlistment" for "enlistments".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

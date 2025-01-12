@@ -4,6 +4,8 @@ All funds available for carrying out this chapter shall be available for allotme
 
 (Apr. 27, 1935, ch. 85, §11, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1150; amended June 24, 1936, ch. 767, 49 Stat. 1915; Aug. 3, 1956, ch. 950, §6(c), 70 Stat. 1033; Pub. L. 104–127, title III, §336(a)(1)(B), Apr. 4, 1996, 110 Stat. 1005.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1996**—Pub. L. 104–127, at end of first sentence, substituted "performance" for "performance: *Provided further*, That the transfer of funds for services of technicians in formulating and carrying out agricultural conservation programs, from allotments for agricultural conservation payments within a State, shall be subject to such limitations and conditions as may be provided in appropriation or other law".
@@ -11,6 +13,8 @@ All funds available for carrying out this chapter shall be available for allotme
 **1956**—Act Aug. 3, 1956, authorized transfer of funds to local public agencies and provided that transfer of funds for services of technicians in formulating and carrying out agricultural programs from allotments for agricultural conservation payments within the State shall be subject to such limitations and conditions as may be provided in the appropriation or other law, and that funds so transferred may be placed in a single account for each State.
 
 **1936**—Act June 24, 1936, authorized availability of funds for payments to committees or associations of producers to cover the estimated administrative expenses.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

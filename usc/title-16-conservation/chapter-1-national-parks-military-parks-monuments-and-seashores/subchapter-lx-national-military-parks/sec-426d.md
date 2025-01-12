@@ -4,13 +4,19 @@ Upon receipt of the report of said commission, the Secretary of the Interior is 
 
 (Mar. 3, 1927, ch. 374, §5, 44 Stat. 1400; Apr. 15, 1930, ch. 167, 46 Stat. 167; Ex. Ord. No. 6166, §2, June 10, 1933; Ex. Ord. No. 6228, §1, July 28, 1933; Pub. L. 86–443, §2, Apr. 22, 1960, 74 Stat. 82.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1930**—Act Apr. 15, 1930, inserted "military" between "national" and "park", authorized construction of roads and walks, planting of trees and shrubs, restoration and care of grounds, including the Hazen Monument, and inserted "and the establishment of the national military park" in proviso.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "National battlefield" and "battlefield" substituted in text for "national military park" and "park", respectively, in view of redesignation of Stones River National Military Park as Stones River National Battlefield by Pub. L. 86–443. See section 426l of this title.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

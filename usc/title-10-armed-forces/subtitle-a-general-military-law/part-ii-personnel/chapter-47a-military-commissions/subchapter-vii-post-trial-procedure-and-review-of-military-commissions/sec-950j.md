@@ -4,6 +4,8 @@ The appellate review of records of trial provided by this chapter, and the proce
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2605.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 950j, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2623; amended Pub. L. 110–181, div. A, title X, §1063(a)(7), Jan. 28, 2008, 122 Stat. 322, related to finality of proceedings, findings, and sentences, prior to the general amendment of this chapter by Pub. L. 111–84.

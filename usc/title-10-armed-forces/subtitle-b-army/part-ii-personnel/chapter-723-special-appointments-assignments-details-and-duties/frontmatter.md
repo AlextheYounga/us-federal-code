@@ -12,6 +12,8 @@ Sec.
 
 7218. Duties: warrant officers; limitations.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 343 of this title as this chapter and items 3533, 3534, 3536, 3547, and 3548 as 7213, 7214, 7216, 7217, and 7218, respectively.

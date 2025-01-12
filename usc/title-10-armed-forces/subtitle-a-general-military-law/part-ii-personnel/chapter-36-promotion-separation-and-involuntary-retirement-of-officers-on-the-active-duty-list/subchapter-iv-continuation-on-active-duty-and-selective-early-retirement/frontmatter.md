@@ -16,6 +16,8 @@ Sec.
 
 640. Deferment of retirement or separation for medical reasons.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Pub. L. 114–328, div. A, title V, §505(a)(2), Dec. 23, 2016, 130 Stat. 2108, added item 637a.

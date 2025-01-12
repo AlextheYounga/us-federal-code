@@ -8,6 +8,8 @@ Sec.
 
 9253. Flying officer rating: qualifications.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 933, consisting of sections 9531 to 9541, related to procurement, prior to renumbering as chapter 963 of this title.

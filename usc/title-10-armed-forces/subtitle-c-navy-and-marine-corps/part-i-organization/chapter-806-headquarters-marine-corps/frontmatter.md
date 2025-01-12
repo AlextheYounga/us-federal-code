@@ -16,6 +16,8 @@ Sec.
 
 8047. Legislative Assistant to the Commandant.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 506 of this title as this chapter and items 5041 to 5047 as 8041 to 8047, respectively.

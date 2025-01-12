@@ -38,7 +38,7 @@ Sec.
 
 234. POW/MIA activities: display of budget information.
 
-235. Procurement of contract services: specification of amounts requested in budget.
+[235. Repealed.]
 
 236. Personal protection equipment procurement: display of budget information.
 
@@ -52,13 +52,15 @@ Sec.
 
 239b. Certain intelligence-related programs: budget justification materials.
 
-#### Amendment of Analysis ####
+239c. Certain multiyear contracts for acquisition of property: budget justification materials.
 
-Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1809(h)(2), Jan. 1, 2021, 134 Stat. 4151, 4162, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, this analysis is amended by striking item 235. See 2021 Amendment note below.
+#### **Editorial Notes** ####
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title I, §151(b), title XVIII, §1809(h)(2), Jan. 1, 2021, 134 Stat. 3440, 4162, added item 231a and struck out item 235 "Procurement of contract services: specification of amounts requested in budget".
+**2021**—Pub. L. 117–81, div. A, title VIII, §811(b), Dec. 27, 2021, 135 Stat. 1823, added item 239c.
+
+Pub. L. 116–283, div. A, title I, §151(b), title XVIII, §1809(h)(2), Jan. 1, 2021, 134 Stat. 3440, 4162, added item 231a and struck out item 235 "Procurement of contract services: specification of amounts requested in budget".
 
 **2019**—Pub. L. 116–92, div. A, title X, §1007(b), Dec. 20, 2019, 133 Stat. 1575, added item 226.
 

@@ -32,6 +32,8 @@ As a condition to the extending of any benefits under this chapter to any lands 
 
 (Apr. 27, 1935, ch. 85, §3, 49 Stat. 163; Pub. L. 113–67, div. A, title VII, §705(a), Dec. 26, 2013, 127 Stat. 1192.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2013**—Pub. L. 113–67, §705(a)(1), substituted "require the following:" for "require—" in introductory provisions.
@@ -41,6 +43,8 @@ Par. (1). Pub. L. 113–67, §705(a)(2), substituted period for semicolon at end
 Par. (2). Pub. L. 113–67, §705(a)(3), substituted period at end for "; and".
 
 Par. (4). Pub. L. 113–67, §705(a)(4), added par. (4).
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

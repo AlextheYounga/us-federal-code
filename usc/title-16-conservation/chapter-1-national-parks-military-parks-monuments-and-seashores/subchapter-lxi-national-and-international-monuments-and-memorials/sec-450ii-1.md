@@ -4,6 +4,8 @@ All public-domain lands included before September 25, 1950, within the Joshua Tr
 
 (Sept. 25, 1950, ch. 1030, §2, 64 Stat. 1035.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Abolition of Joshua Tree National Monument ####
 
 Joshua Tree National Monument abolished and incorporated in Joshua Tree National Park, see section 410aaa–22 of this title.

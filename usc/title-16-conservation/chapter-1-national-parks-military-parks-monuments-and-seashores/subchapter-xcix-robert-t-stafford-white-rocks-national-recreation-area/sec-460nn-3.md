@@ -30,6 +30,8 @@ In conducting the reviews and preparing the comprehensive management plan requir
 
 (Pub. L. 98–322, title II, §204, June 19, 1984, 98 Stat. 257; Pub. L. 110–1, §1(b), Jan. 17, 2007, 121 Stat. 3.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Robert T. Stafford White Rocks National Recreation Area" substituted in subsecs. (a) and (b) for "White Rocks National Recreation Area" pursuant to section 1(b) of Pub. L. 110–1, set out as a note under section 460nn–1 of this title.

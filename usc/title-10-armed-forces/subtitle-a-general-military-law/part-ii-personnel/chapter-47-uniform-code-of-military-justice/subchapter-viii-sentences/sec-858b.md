@@ -14,6 +14,8 @@
 
 (Added Pub. L. 104–106, div. A, title XI, §1122(a)(1), Feb. 10, 1996, 110 Stat. 463; amended Pub. L. 104–201, div. A, title X, §1068(a)(1), Sept. 23, 1996, 110 Stat. 2655; Pub. L. 105–85, div. A, title X, §1073(a)(9), Nov. 18, 1997, 111 Stat. 1900; Pub. L. 114–328, div. E, title LVIII, §5302(b)(3), Dec. 23, 2016, 130 Stat. 2923; Pub. L. 115–91, div. A, title V, §531(g), Dec. 12, 2017, 131 Stat. 1385.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Subsec. (b). Pub. L. 115–91 substituted "section 860a or 860b of this title (article 60a or 60b)" for "section 860 of this title (article 60)".
@@ -25,6 +27,8 @@
 **1996**—Subsec. (a)(1). Pub. L. 104–201, §1068(a)(1)(B), substituted "two-thirds of all pay" for "two-thirds of all pay and allowances" in third sentence.
 
 Pub. L. 104–201, §1068(a)(1)(A), which directed amendment of first sentence by inserting "(if adjudged by a general court-martial)" after "all pay and", was executed by making the insertion after "of pay and" in first sentence to reflect the probable intent of Congress.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2017 Amendment ####
 

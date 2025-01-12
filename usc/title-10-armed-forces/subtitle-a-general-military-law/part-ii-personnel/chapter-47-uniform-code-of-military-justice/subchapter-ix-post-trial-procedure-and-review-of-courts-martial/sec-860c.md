@@ -20,6 +20,8 @@
 
 (Added Pub. L. 114–328, div. E, title LIX, §5324, Dec. 23, 2016, 130 Stat. 2927.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. 13825, set out as notes under section 801 of this title.

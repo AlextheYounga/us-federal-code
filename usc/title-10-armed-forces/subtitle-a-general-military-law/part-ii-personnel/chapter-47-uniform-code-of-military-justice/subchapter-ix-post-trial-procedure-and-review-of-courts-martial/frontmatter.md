@@ -27,6 +27,8 @@
 |876a.|76a.|           Leave required to be taken pending review of certain court-martial convictions.            |
 |876b.|76b.|Lack of mental capacity or mental responsibility: commitment of accused for examination and treatment.|
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2017**—Pub. L. 115–91, div. A, title X, §1081(d)(19)(A), Dec. 12, 2017, 131 Stat. 1601, made technical amendment to Pub. L. 114–328, §5541(6)(A) to (C). See 2016 Amendment notes below.

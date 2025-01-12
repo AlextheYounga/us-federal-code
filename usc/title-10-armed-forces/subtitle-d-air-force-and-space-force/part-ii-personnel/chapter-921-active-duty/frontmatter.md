@@ -6,6 +6,8 @@ Sec.
 
 9203. Retired commissioned officers: status.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(3)(A), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 841 of this title as this chapter and items 8491 and 8503 as 9191 and 9203, respectively.

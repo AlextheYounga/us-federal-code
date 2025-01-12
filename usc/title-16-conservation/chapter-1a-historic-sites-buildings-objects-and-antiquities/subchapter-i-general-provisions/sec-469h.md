@@ -18,6 +18,8 @@ Whenever the Secretary determines that appropriate management and protection set
 
 (Pub. L. 88–655, §5, Oct. 13, 1964, 78 Stat. 1088; Pub. L. 91–483, §1(3), Oct. 21, 1970, 84 Stat. 1083; Pub. L. 96–199, title I, §109, Mar. 5, 1980, 94 Stat. 69.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, which was classified principally to part B (§460l–4 et seq.) of subchapter LXIX of chapter 1 of this title. Sections 2, 3, 4(i)(1)(C), (j) to (n), 5 to 10, and 201 of the Act were repealed and restated as sections 100506(c) and 100904 and chapter 2003 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding section 100101 of Title 54.

@@ -8,6 +8,8 @@ Sec.
 
 9377. Civilian special agents of the Office of Special Investigations: authority to execute warrants and make arrests.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 947, consisting of repealed sections 9741 to 9748, related to transportation, prior to renumbering as chapter 977 of this title.

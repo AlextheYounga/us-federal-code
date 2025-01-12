@@ -4,9 +4,13 @@ Appropriations of the Forest Service chargeable with salaries and wages shall be
 
 (Apr. 24, 1950, ch. 97, §16, 64 Stat. 86.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "Subchapter I of chapter 81 of title 5" substituted in text for references to the United States Employees' Compensation Act, on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

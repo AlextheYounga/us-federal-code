@@ -4,6 +4,8 @@ In furtherance of the purposes of sections 426 to 426j of this title, authorizin
 
 (Pub. L. 86–443, §§1, 2, Apr. 22, 1960, 74 Stat. 82.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Stones River National Battlefield" substituted in text for "Stones River National Park" in view of redesignation of Stones River National Military Park as Stones River National Battlefield by Pub. L. 86–443. See section 426l of this title.

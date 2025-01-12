@@ -4,6 +4,8 @@ Sec.
 
 7749. Property: for United States surveys.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 447 of this title as this chapter and item 4749 as 7749.

@@ -438,6 +438,8 @@ As a condition of conveyance of the Federal land, Resolution Copper shall agree 
 
 (Pub. L. 113–291, div. B, title XXX, §3003, Dec. 19, 2014, 128 Stat. 3732.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Enactment of this Act, referred to in subsec. (c)(6)(A), means the enactment of Pub. L. 113–291, which was approved Dec. 19, 2014.

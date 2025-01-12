@@ -14,9 +14,13 @@ All exchanges pursuant to subsection (a) shall be made in a manner consistent wi
 
 (Pub. L. 101–621, §6, Nov. 16, 1990, 104 Stat. 3344; Pub. L. 110–161, div. F, title I, §120, Dec. 26, 2007, 121 Stat. 2121.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2007**—Subsec. (a). Pub. L. 110–161, which directed the amendment of section 460ccc–4(a) of the Red Rock Canyon National Conservation Area Establishment Act authorization by striking out "with donated or appropriated funds" in par. (1), striking out par. (2), and redesignating pars. (3) and (4) as (2) and (3), respectively, was executed by making the amendments to subsec. (a) of this section, which is section 6 of the Red Rock Canyon National Conservation Area Establishment Act of 1990, to reflect the probable intent of Congress. Prior to amendment, "with donated or appropriated funds" appeared after "purchase" and par. (2) read as follows: "Lands or interests therein owned by the State of Nevada or a political subdivision thereof may be acquired by donation or exchange only."
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Addition of Land to Red Rock Canyon National Conservation Area; Military Overflights ####
 

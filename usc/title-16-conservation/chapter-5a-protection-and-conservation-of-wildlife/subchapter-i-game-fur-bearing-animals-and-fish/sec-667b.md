@@ -4,9 +4,13 @@ Upon request, real property which is under the jurisdiction or control of a Fede
 
 (May 19, 1948, ch. 310, §1, 62 Stat. 240; June 30, 1949, ch. 288, title I, §105, 63 Stat. 381; Pub. L. 92–432, Sept. 26, 1972, 86 Stat. 723.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1972**—Cl. (2). Pub. L. 92–432 struck out "chiefly" before "valuable for use".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

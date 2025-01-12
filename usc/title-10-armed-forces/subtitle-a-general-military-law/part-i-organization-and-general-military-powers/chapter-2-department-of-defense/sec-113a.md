@@ -14,6 +14,8 @@
 
 (Added Pub. L. 107–314, div. A, title X, §1061(a), Dec. 2, 2002, 116 Stat. 2649; amended Pub. L. 108–136, div. A, title X, §1044(a), Nov. 24, 2003, 117 Stat. 1612.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2003**—Subsec. (b)(3), (4). Pub. L. 108–136 added par. (3) and redesignated former par. (3) as (4).

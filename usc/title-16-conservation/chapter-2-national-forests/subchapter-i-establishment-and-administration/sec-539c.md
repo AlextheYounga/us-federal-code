@@ -6,6 +6,8 @@
 
 (Pub. L. 96–487, title V, §507, Dec. 2, 1980, 94 Stat. 2412.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (b), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.

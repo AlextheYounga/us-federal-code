@@ -6,6 +6,8 @@ Sec.
 
 9362. Recomputation of retired pay to reflect advancement on retired list.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 945, consisting of sections 9711 to 9713, related to disposition of effects of deceased persons, prior to renumbering as chapter 975 of this title.

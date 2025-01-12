@@ -48,6 +48,8 @@ Any operation the incremental cost of which is expected not to exceed $10,000,00
 
 (Added Pub. L. 103–160, div. A, title XI, §1108(a)(1), Nov. 30, 1993, 107 Stat. 1751; amended Pub. L. 104–106, div. A, title X, §1003(a)(1), Feb. 10, 1996, 110 Stat. 415; Pub. L. 108–136, div. A, title X, §1031(a)(3), Nov. 24, 2003, 117 Stat. 1596; Pub. L. 111–383, div. A, title X, §1075(b)(2), Jan. 7, 2011, 124 Stat. 4369; Pub. L. 112–81, div. A, title X, §1061(1), Dec. 31, 2011, 125 Stat. 1583.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§1541 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1541 of Title 50 and Tables.
@@ -63,6 +65,8 @@ Subsec. (b)(1). Pub. L. 111–383, §1075(b)(2)(B), substituted "armed forces" f
 **2003**—Subsec. (d). Pub. L. 108–136 struck out subsec. (d) which required Secretary of Defense, within 45 days after identifying an operation pursuant to subsec. (a)(2), to submit a report to Congress relating to the funding, objectives, duration, cost, and exit criteria of the operation.
 
 **1996**—Pub. L. 104–106 substituted "Operations for which funds are not provided in advance: funding mechanisms" for "Expenses for contingency operations" as section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (h) relating to funding procedures for operations designated by the Secretary of Defense as National Contingency Operations.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 1996 Amendment ####
 

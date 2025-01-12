@@ -10,6 +10,8 @@ Sec.
 
 2174. Interest payment program: members on active duty.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2002**—Pub. L. 107–314, div. A, title VI, §651(a)(2), Dec. 2, 2002, 116 Stat. 2579, added item 2174.

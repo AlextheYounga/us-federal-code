@@ -4,6 +4,8 @@ When title to the site of Fort Frederica, on Saint Simon Island, Georgia, and su
 
 (May 26, 1936, ch. 451, §1, 49 Stat. 1373; Sept. 20, 1950, ch. 957, §1, 64 Stat. 869; Pub. L. 85–401, §1, May 16, 1958, 72 Stat. 110; Pub. L. 116–9, title II, §2104(a), Mar. 12, 2019, 133 Stat. 726.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–9 substituted "305 acres" for "two hundred and fifty acres".
@@ -11,6 +13,8 @@ When title to the site of Fort Frederica, on Saint Simon Island, Georgia, and su
 **1958**—Pub. L. 85–401 increased maximum acreage from one hundred acres to two hundred and fifty acres.
 
 **1950**—Act Sept. 20, 1950, increased maximum acreage from eighty to one hundred acres.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Appropriations ####
 

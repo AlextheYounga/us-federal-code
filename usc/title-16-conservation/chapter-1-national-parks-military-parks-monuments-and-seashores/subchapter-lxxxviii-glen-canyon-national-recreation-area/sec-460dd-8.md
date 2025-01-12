@@ -4,6 +4,8 @@ Within two years from October 27, 1972, the Secretary shall report to the Presid
 
 (Pub. L. 92–593, §9, Oct. 27, 1972, 86 Stat. 1313.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.

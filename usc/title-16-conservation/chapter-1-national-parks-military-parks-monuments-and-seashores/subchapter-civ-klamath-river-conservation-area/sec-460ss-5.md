@@ -22,6 +22,8 @@ There are authorized to be appropriated to the Department of the Interior during
 
 (Pub. L. 99–552, §6, Oct. 27, 1986, 100 Stat. 3085; Pub. L. 100–653, title VI, §603(3), (4), Nov. 14, 1988, 102 Stat. 3830.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Subsec. (a). Pub. L. 100–653, §603(3), inserted "and for the payment of travel expenses under sections 460ss–2(j) and 460ss–3(i) of this title" before period at end of first sentence.

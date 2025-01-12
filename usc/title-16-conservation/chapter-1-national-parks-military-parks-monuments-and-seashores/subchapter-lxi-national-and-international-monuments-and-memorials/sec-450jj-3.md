@@ -6,6 +6,8 @@
 
 (May 17, 1954, ch. 204, §4, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1467; amended Pub. L. 102–355, §1(1), Aug. 26, 1992, 106 Stat. 947.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 4 of act May 17, 1954, was renumbered section 11 and is set out as a note under section 450jj of this title.
@@ -13,6 +15,8 @@ A prior section 4 of act May 17, 1954, was renumbered section 11 and is set out 
 #### Amendments ####
 
 **1992**—Subsec. (a). Pub. L. 102–355 substituted "There is hereby designated" for "The Secretary of the Interior is further authorized to designate", "approximately" for "not more than", and "366–80013, dated January 1992," for "MWR–366/80,004, and dated February 9, 1984,".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

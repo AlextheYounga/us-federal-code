@@ -4,6 +4,8 @@ The Secretary may evaluate lands adjoining the recreation area for possible incl
 
 (Pub. L. 103–104, §4, Oct. 12, 1993, 107 Stat. 1028.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Public Law 101–556, referred to in text, is not classified to the Code.

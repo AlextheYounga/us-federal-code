@@ -42,9 +42,13 @@ Nothing in sections 450ss to 450ss–7 of this title shall prohibit the use of S
 
 (Pub. L. 105–58, §5, Oct. 9, 1997, 111 Stat. 1262; Pub. L. 108–199, div. F, title V, §544(d), Jan. 23, 2004, 118 Stat. 347.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–199 amended section generally. Prior to amendment, section provided for establishment of the Oklahoma City National Memorial Trust, its Board of Directors, staff, powers, and tax exempt status.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Authorization of Secretary To Reimburse Previous Costs Paid by Foundation or Trust ####
 

@@ -2,6 +2,8 @@
 
 Section, added Pub. L. 103–160, div. A, title V, §571(a)(1), Nov. 30, 1993, 107 Stat. 1670, related to policy concerning homosexuality in the armed forces.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 Repeal effective on the date established by section 2(b) of Pub. L. 111–321, set out below.

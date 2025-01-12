@@ -4,11 +4,11 @@ Sec.
 
 9511. Definitions.
 
-9511a. Civil Reserve Air Fleet contracts: payment rate.
+[9511a. Renumbered.]
 
-9512. Contracts for the inclusion or incorporation of defense features.
+9512. Civil Reserve Air Fleet contracts: payment rate.
 
-[9513. Repealed.]
+9513. Contracts for the inclusion or incorporation of defense features.
 
 9514. Indemnification of Department of Transportation for losses covered by defense-related aviation insurance.
 
@@ -18,13 +18,15 @@ Sec.
 
 9517. Level of readiness of Civil Reserve Air Fleet carriers.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 Chapter was comprised of subchapter I, sections 9501 to 9507, and subchapter II, sections 9511 to 9513, prior to amendment by Pub. L. 103–160, div. A, title VIII, §828(a)(8)(A)(ii), Nov. 30, 1993, 107 Stat. 1714, which struck out headings for subchapters I and II.
 
-Prior section 9501, act Aug. 10, 1956, ch. 1041, 70A Stat. 573, related to mobilization by the President in time of war, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(a)(2), Nov. 30, 1993, 107 Stat. 1705. See section 2538 of this title.
+Prior section 9501, act Aug. 10, 1956, ch. 1041, 70A Stat. 573, related to mobilization by the President in time of war, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(a)(2), Nov. 30, 1993, 107 Stat. 1705. See section 4882 of this title.
 
-Prior section 9502, act Aug. 10, 1956, ch. 1041, 70A Stat. 574, related to maintenance by Secretary of the Air Force of lists of plants equipped to manufacture arms or ammunition and lists of plants convertible into ammunition factories, and provided for a Board on Mobilization of Industries Essential for Military Preparedness, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(a)(2), Nov. 30, 1993, 107 Stat. 1705. See sections 2539 and 2539a of this title.
+Prior section 9502, act Aug. 10, 1956, ch. 1041, 70A Stat. 574, related to maintenance by Secretary of the Air Force of lists of plants equipped to manufacture arms or ammunition and lists of plants convertible into ammunition factories, and provided for a Board on Mobilization of Industries Essential for Military Preparedness, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(a)(2), Nov. 30, 1993, 107 Stat. 1705. See sections 4883 and 4884 of this title.
 
 Prior section 9503, act Aug. 10, 1956, ch. 1041, 70A Stat. 574, related to research and development programs of the Air Force, prior to repeal by Pub. L. 103–160, div. A, title VIII, §827(c), Nov. 30, 1993, 107 Stat. 1713.
 
@@ -37,6 +39,8 @@ Prior section 9506, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale,
 Prior section 9507, act Aug. 10, 1956, ch. 1041, 70A Stat. 575, related to sale of ordnance and ordnance stores to designers, prior to repeal by Pub. L. 103–160, div. A, title VIII, §822(b)(3), Nov. 30, 1993, 107 Stat. 1706.
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title X, §1083(c)(2), Dec. 27, 2021, 135 Stat. 1923, added items 9512 and 9513 and struck out item 9511a "Civil Reserve Air Fleet contracts: payment rate" and former item 9512 "Contracts for the inclusion or incorporation of defense features".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 931 of this title as this chapter.
 

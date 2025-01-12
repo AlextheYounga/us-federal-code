@@ -32,9 +32,13 @@ During the revision of the Land and Resource Management Plan for the Arapaho Nat
 
 (Pub. L. 103–77, §6, Aug. 13, 1993, 107 Stat. 761.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsec. (a), is Pub. L. 103–77, Aug. 13, 1993, 107 Stat. 756, known as the Colorado Wilderness Act of 1993. For complete classification of this Act to the Code, see Short Title note set out under section 539i of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Arapaho National Forest Boundary Adjustment ####
 

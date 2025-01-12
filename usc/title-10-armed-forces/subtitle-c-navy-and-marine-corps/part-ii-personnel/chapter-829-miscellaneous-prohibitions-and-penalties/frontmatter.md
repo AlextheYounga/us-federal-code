@@ -4,6 +4,8 @@ Sec.
 
 8253. Loans: Supply Corps officers.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 559 of this title as this chapter and item 6113 as 8253.

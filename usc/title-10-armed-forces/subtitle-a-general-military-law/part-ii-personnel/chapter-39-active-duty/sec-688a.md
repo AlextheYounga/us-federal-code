@@ -22,6 +22,8 @@
 
 (Added Pub. L. 107–314, div. A, title V, §503(a)(1), Dec. 2, 2002, 116 Stat. 2530; amended Pub. L. 109–364, div. A, title VI, §621(b), (d)(2)(A), Oct. 17, 2006, 120 Stat. 2254, 2255; Pub. L. 111–383, div. A, title V, §531(a), Jan. 7, 2011, 124 Stat. 4215; Pub. L. 115–91, div. A, title V, §527, Dec. 12, 2017, 131 Stat. 1383; Pub. L. 116–283, div. A, title V, §511, Jan. 1, 2021, 134 Stat. 3587.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (f)(2), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
@@ -49,6 +51,8 @@ Subsec. (e). Pub. L. 109–364, §621(b)(5), substituted "Retired members" for "
 Subsec. (f). Pub. L. 109–364, §621(b)(6), substituted "A retired member" for "An officer" and "December 31, 2010" for "September 30, 2008".
 
 Subsec. (g). Pub. L. 109–364, §621(b)(7), added subsec. (g).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transition Provision ####
 

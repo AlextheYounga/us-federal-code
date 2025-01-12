@@ -22,7 +22,7 @@ Sec.
 
 9020. Inspector General.
 
-9021. Space Force Acquisition Council.
+9021. Space Acquisition Council.
 
 9021a. Air Force Reserve Forces Policy Committee.
 
@@ -32,11 +32,15 @@ Sec.
 
 9024. Director of Small Business Programs.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 903, consisting of sections 9331 to 9362, related to the United States Air Force Academy, prior to renumbering as chapter 953 of this title.
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title XVI, §1602(a)(3), Dec. 27, 2021, 135 Stat. 2076, substituted "Space Acquisition Council" for "Space Force Acquisition Council" in item 9021.
 
 **2019**—Pub. L. 116–92, div. A, title IX, §954(b), Dec. 20, 2019, 133 Stat. 1565, added items 9021 and 9021a and struck out former item 9021 "Air Force Reserve Forces Policy Committee".
 

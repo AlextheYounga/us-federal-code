@@ -36,6 +36,8 @@ The Cat Island Map shall be on file and available for public inspection in the a
 
 (Pub. L. 91–660, §1, Jan. 8, 1971, 84 Stat. 1967; Pub. L. 106–554, §1(a)(4) [div. B, title I, §137(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–231.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Sections 459h to 459h–10 of this title, referred to in subsec. (b)(3), was in the original "this title", and was translated as reading "this Act", meaning Pub. L. 91–660, which enacted sections 459h to 459h–10 of this title, to reflect the probable intent of Congress, because Pub. L. 91–660 does not contain titles.

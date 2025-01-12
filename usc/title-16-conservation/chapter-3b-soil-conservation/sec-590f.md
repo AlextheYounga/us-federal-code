@@ -28,6 +28,8 @@ Amounts in the Fund shall—
 
 (Apr. 27, 1935, ch. 85, §6, 49 Stat. 164; Sept. 21, 1944, ch. 412, title III, §302(a), 58 Stat. 738; Pub. L. 113–67, div. A, title VII, §705(b), Dec. 26, 2013, 127 Stat. 1193.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2013**—Pub. L. 113–67 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted "There is authorized" for "There are hereby authorized", and added subsec. (b).

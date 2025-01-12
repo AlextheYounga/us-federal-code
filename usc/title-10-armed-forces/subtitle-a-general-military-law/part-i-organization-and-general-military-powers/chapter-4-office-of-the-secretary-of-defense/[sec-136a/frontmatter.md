@@ -2,9 +2,13 @@
 
 Section, added Pub. L. 107–107, div. A, title IX, §901(a)(1), Dec. 28, 2001, 115 Stat. 1193; amended Pub. L. 111–84, div. A, title IX, §906(c)(1)(C), (2)(C), Oct. 28, 2009, 123 Stat. 2427, established the position of Principal Deputy Under Secretary of Defense for Personnel and Readiness.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 136a was renumbered section 139 of this title.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of Repeal ####
 

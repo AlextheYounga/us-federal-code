@@ -8,7 +8,7 @@ Sec.
 
 4813. National defense program for analysis of the technology and industrial base.
 
-4814. Annual report to Congress. 1
+4814. National technology and industrial base: annual report and quarterly briefings.
 
 4815. Unfunded priorities of the national technology and industrial base: annual report.
 
@@ -20,4 +20,10 @@ Sec.
 
 4819. Modernization of acquisition processes to ensure integrity of industrial base.
 
-[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER382_1)
+4820. National technology and industrial base plans, policy, and guidance.
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title XVII, §1701(f)(10), (s)(2)(B), Dec. 27, 2021, 135 Stat. 2140, 2149, added items 4814 and 4820 and struck out former item 4814 "Annual report to Congress".

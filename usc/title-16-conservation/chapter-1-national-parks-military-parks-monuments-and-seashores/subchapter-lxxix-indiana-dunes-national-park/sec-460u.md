@@ -4,6 +4,8 @@ In order to preserve for the educational, inspirational, and recreational use of
 
 (Pub. L. 89–761, §1, Nov. 5, 1966, 80 Stat. 1309; Pub. L. 94–549, §1(1), Oct. 18, 1976, 90 Stat. 2529; Pub. L. 96–612, §1(2), Dec. 28, 1980, 94 Stat. 3575; Pub. L. 99–583, §1(a), Oct. 29, 1986, 100 Stat. 3318; Pub. L. 102–430, §3(a), Oct. 23, 1992, 106 Stat. 2208; Pub. L. 116–6, div. E, title I, §115(a)(1), (2)(A), Feb. 15, 2019, 133 Stat. 232.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–6 substituted "National Park" for "National Lakeshore" after "the Indiana Dunes" and "Park" for "lakeshore" in two places.
@@ -15,6 +17,8 @@ In order to preserve for the educational, inspirational, and recreational use of
 **1980**—Pub. L. 96–612 substituted "December 1980, and bearing the number 626–91014" for "September 1976 and bearing the number 626–91007."
 
 **1976**—Pub. L. 94–549 substituted " 'Boundary Map, Indiana Dunes National Lakeshore', dated September 1976 and bearing the number '626–91007' " for " 'A Proposed Indiana Dunes National Lakeshore', dated September 1966, and bearing the number 'LNPNE–1008–ID' ".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 1992 Amendment ####
 

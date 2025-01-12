@@ -1,5 +1,7 @@
 ### §§510, 510a. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 510, act Aug. 8, 1916, ch. 295, 39 Stat. 440, which applied the provisions of sections 506 to 508 and 509 of this title to lands within the national forests in Lawrence and Pennington Counties in South Dakota, was omitted because of the repeal of sections 506 to 508 and 509 of this title.

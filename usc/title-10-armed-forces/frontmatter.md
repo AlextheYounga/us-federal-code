@@ -15,6 +15,8 @@ D. Air Force and Space Force 9011
 
 E. Reserve Components 10001
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 116–283, div. A, title IX, §923(a)(2), Jan. 1, 2021, 134 Stat. 3807, substituted "Air Force and Space Force" for "Air Force" in item for subtitle D.
@@ -2154,6 +2156,8 @@ Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840, 
 |                  1166                   |                                                                                                     7652                                                                                                      |
 |                  1167                   |                                                                                                     7678                                                                                                      |
 |               1200, 1201                |                                                                                                     Rep.                                                                                                      |
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Positive Law; Citation ####
 

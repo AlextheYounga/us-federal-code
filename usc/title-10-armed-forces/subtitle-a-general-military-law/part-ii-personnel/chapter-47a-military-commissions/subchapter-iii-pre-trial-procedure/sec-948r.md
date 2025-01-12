@@ -24,6 +24,8 @@
 
 (Added by Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2580.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 948r, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2607; amended Pub. L. 110–181, div. A, title X, §1063(a)(4), Jan. 28, 2008, 122 Stat. 321, related to prohibition of compulsory self-incrimination and treatment of statements obtained by torture and other statements, prior to the general amendment of this chapter by Pub. L. 111–84.

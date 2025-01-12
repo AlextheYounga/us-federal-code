@@ -8,6 +8,8 @@ Sec.
 
 8823. Admiralty claims by the United States.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 653 of this title as this chapter and items 7621 to 7623 as 8821 to 8823, respectively.

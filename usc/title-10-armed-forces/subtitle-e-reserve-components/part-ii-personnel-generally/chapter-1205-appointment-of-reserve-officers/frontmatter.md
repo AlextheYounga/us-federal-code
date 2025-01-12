@@ -32,6 +32,8 @@ Sec.
 
 12215. Commissioned officers: reserve grade of adjutants general and assistant adjutants general.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–364, div. A, title V, §507(a)(2)(C), Oct. 17, 2006, 120 Stat. 2180, struck out "while so serving" after "reserve grade" in item 12210.

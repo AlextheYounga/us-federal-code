@@ -38,6 +38,8 @@ The Congress finds the following:
 
 (Pub. L. 103–64, §1, Aug. 4, 1993, 107 Stat. 302.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Pub. L. 111–11, title II, §2301(b), Mar. 30, 2009, 123 Stat. 1101, provided that: "Any reference in a law, map, regulation, document, paper, or other record of the United States to the Snake River Birds of Prey National Conservation Area shall be deemed to be a reference to the Morley Nelson Snake River Birds of Prey National Conservation Area."

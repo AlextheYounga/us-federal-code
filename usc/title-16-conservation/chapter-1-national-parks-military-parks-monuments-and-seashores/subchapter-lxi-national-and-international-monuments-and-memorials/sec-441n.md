@@ -14,6 +14,8 @@ After the exchange is effected the title of the Oglala Sioux Tribe to the proper
 
 (Pub. L. 90–468, §5, Aug. 8, 1968, 82 Stat. 665; Pub. L. 95–625, title VI, §611, Nov. 10, 1978, 92 Stat. 3521.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Word "park" substituted for "monument" in subsec. (a) pursuant to Pub. L. 95–625, §611, which is classified to section 441e–1 of this title and which redesignated Badlands National Monument as Badlands National Park.

@@ -54,7 +54,7 @@
 
 (F) An assessment by the Secretary of Defense of the extent to which the combined aircraft forces of the Department of the Army, the Department of the Navy, and the Department of the Air Force meet the national security requirements of the United States.
 
-(3) For any cost estimate required by subparagraph (C) or (D) of paragraph (2) for any aircraft program for which the Secretary is required to include in a report under section 2432 of this title, the source of the cost information used to prepare the annual aircraft plan shall be derived from the Selected Acquisition Report data that the Secretary plans to submit to the congressional defense committees in accordance with subsection (f) of that section for the year for which the annual aircraft procurement plan is prepared.
+(3) For any cost estimate required by subparagraph (C) or (D) of paragraph (2) for any aircraft program for which the Secretary is required to include in a report under section 2432 <sup><a href="#231a_1_target" name="231a_1">1</a></sup> of this title, the source of the cost information used to prepare the annual aircraft plan shall be derived from the Selected Acquisition Report data that the Secretary plans to submit to the congressional defense committees in accordance with subsection (f) of that section for the year for which the annual aircraft procurement plan is prepared.
 
 (4) Each annual aircraft procurement plan shall be submitted in unclassified form, and shall contain a classified annex. A summary version of the unclassified report shall be made available to the public.
 
@@ -62,7 +62,7 @@
 
 (e) Annual Report on Aircraft Inventory.—(1) As part of the annual plan and certification required to be submitted under this section, the Secretary shall include a report on the aircraft in the inventory of the Department of Defense.
 
-(2) Each report under paragraph (1) shall include the following, for the year covered by such report, the following: <sup><a href="#231a_1_target" name="231a_1">1</a></sup>
+(2) Each report under paragraph (1) shall include the following, for the year covered by such report, include:
 
 (A) The total number of aircraft in the inventory.
 
@@ -96,11 +96,13 @@
 
 (f) Budget Defined.—In this section, the term "budget" means the budget of the President for a fiscal year as submitted to Congress pursuant to section 1105 of title 31.
 
-(Added and amended Pub. L. 116–283, div. A, title I, §151(a), title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 3437, 4294.)
+(Added and amended Pub. L. 116–283, div. A, title I, §151(a), title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 3437, 4294; Pub. L. 117–81, div. A, title X, §1081(a)(6), Dec. 27, 2021, 135 Stat. 1919.)
 
-#### Amendment of Section ####
+#### **Editorial Notes** ####
 
-Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note below.
+#### References in Text ####
+
+Section 2432 of this title, referred to in subsec. (c)(3), was renumbered as section 4351 of this title by Pub. L. 116–283, div. A, title XVIII, §1849(b), (c), (d)(1), (e)(1), (f)(1), (g), (h)(1), (i), (j), (k)(1), Jan. 1, 2021, 134 Stat. 4259–4263, as amended by Pub. L. 117–81, div. A, title XVII, §1701(o)(1)(B), (3), (4), (5)(A), Dec. 27, 2021, 135 Stat. 2146, 2147.
 
 #### Prior Provisions ####
 
@@ -110,8 +112,12 @@ A prior section 231a, added Pub. L. 110–417, [div. A], title I, §141(a), Oct.
 
 **2021**—Subsec. (c)(3). Pub. L. 116–283, §1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to "section 2432", which was redesignated as multiple sections.
 
+Subsec. (e)(2). Pub. L. 117–81, which directed the substitution of "include" for "include the following,", was executed by substituting "include" for "the following" to reflect the probable intent of Congress.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2021 Amendment ####
 
 Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
-[<sup>1</sup> So in original.](#231a_1)
+[<sup>1</sup> See References in Text note below.](#231a_1)

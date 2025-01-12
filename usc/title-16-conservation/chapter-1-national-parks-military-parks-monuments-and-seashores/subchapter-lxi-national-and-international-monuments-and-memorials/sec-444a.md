@@ -4,6 +4,8 @@ The value of all patented lands within said monument offered for exchange, and t
 
 (May 14, 1930, ch. 271, §2, 46 Stat. 278.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Disestablishment of Petrified Forest National Monument ####
 
 Disestablishment of Petrified Forest National Monument upon establishment of Petrified Forest National Park, see section 119 of this title.

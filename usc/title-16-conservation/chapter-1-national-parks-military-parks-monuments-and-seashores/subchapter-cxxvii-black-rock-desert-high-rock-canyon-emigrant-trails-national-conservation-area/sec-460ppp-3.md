@@ -54,6 +54,8 @@ Within the conservation area the Secretary may permit the use of gravel pits for
 
 (Pub. L. 106–554, §1(a)(4) [div. B, title I, §125 [§5]], Dec. 21, 2000, 114 Stat. 2763, 2763A–229, 2763A–354; Pub. L. 107–63, title I, §135(b), Nov. 5, 2001, 115 Stat. 443.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.

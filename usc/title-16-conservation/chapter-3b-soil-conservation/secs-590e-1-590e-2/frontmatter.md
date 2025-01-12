@@ -1,5 +1,7 @@
 ### §§590e–1, 590e–2. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Sections were omitted in view of the repeal of section 590e of this title which established the Soil Conservation Service.

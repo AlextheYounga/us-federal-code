@@ -138,7 +138,7 @@ Subsec. (b). Pub. L. 96–513, §506(6)(B), (C), struck out reference to section
 
 #### Change of Name ####
 
-Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 402(c)(3) of Title 42, The Public Health and Welfare.
+Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see section 204(c)(3) of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 2008 Amendment ####
 

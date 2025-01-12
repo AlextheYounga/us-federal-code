@@ -20,9 +20,13 @@ shall be punished as a court-martial may direct.
 
 (Added Pub. L. 115–232, div. A, title V, §532(a)(1), Aug. 13, 2018, 132 Stat. 1759; amended Pub. L. 116–92, div. A, title XVII, §1731(a)(20), Dec. 20, 2019, 133 Stat. 1813.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–92 inserted section catchline. Identical section catchline had been editorially supplied.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date ####
 

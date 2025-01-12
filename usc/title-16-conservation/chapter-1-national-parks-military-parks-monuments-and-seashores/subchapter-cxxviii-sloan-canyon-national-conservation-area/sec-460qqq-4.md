@@ -24,6 +24,8 @@ Of the gross proceeds from the conveyance of land under subsection (a)—
 
 (Pub. L. 107–282, title VI, §606, Nov. 6, 2002, 116 Stat. 2012.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Southern Nevada Public Lands Management Act of 1998, referred to in subsec. (b)(2), probably means the Southern Nevada Public Land Management Act of 1998, Pub. L. 105–263, Oct. 19, 1998, 112 Stat. 2343, which amended section 460ccc–1 of this title and section 6901 of Title 31, Money and Finance, and enacted provisions set out as a note under section 6901 of Title 31. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 6901 of Title 31 and Tables.

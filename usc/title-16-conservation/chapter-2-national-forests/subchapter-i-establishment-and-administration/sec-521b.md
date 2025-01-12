@@ -14,6 +14,8 @@ For purposes of providing information that will aid the Congress in its oversigh
 
 (Pub. L. 94–588, §17(b), Oct. 22, 1976, 90 Stat. 2962; Pub. L. 100–409, §6, Aug. 20, 1988, 102 Stat. 1090; Pub. L. 103–437, §6(r), Nov. 2, 1994, 108 Stat. 4587.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The National Forest Reservation Commission, referred to in text, was abolished and the functions thereof were transferred to the Secretary of Agriculture by section 17(a)(1) of Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2961.

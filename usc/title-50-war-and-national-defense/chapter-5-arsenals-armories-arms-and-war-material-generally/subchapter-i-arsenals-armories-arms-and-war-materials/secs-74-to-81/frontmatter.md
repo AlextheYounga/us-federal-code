@@ -1,6 +1,6 @@
 ### §§74 to 81. Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641 ###
 
-Section 74, act Jan. 22, 1923, ch. 28, 42 Stat. 1142, provided that net proceeds of sales of useless ordnance material by Navy Department should be covered into Treasury as "Miscellaneous receipts". See section 7543 of Title 10, Armed Forces.
+Section 74, act Jan. 22, 1923, ch. 28, 42 Stat. 1142, provided that net proceeds of sales of useless ordnance material by Navy Department should be covered into Treasury as "Miscellaneous receipts". See section 8763 of Title 10, Armed Forces.
 
 Section 75, act Aug. 24, 1912, ch. 391, §1, 37 Stat. 589, related to payment for transfers of ordnance or stores to bureaus or departments.
 
@@ -12,7 +12,7 @@ Section 78, act June 3, 1916, ch. 134, §123, 39 Stat. 215, related to gauges, d
 
 Section 79, act June 3, 1916, ch. 134, §124, 39 Stat. 215, related to nitrate plants.
 
-Section 80, act June 3, 1916, ch. 134, §120, 39 Stat. 213, 214, related to procurement of war material and mobilization of industries. See sections 2538 to 2540 of Title 10.
+Section 80, act June 3, 1916, ch. 134, §120, 39 Stat. 213, 214, related to procurement of war material and mobilization of industries. See sections 4882 to 4884, 4892, and 4971 of Title 10.
 
 Section 81, act May 14, 1928, ch. 544, 45 Stat. 509, authorized Secretary of War to secure assistance, whenever practicable, of Geological Survey, Coast and Geodetic Survey, or other mapping agencies of the Government in execution of military surveys and maps. Provisions similar to former section 81 were contained in the following appropriation acts:
 

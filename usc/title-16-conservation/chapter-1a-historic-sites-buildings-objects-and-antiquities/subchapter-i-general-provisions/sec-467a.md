@@ -2,6 +2,8 @@
 
 Section, Pub. L. 92–527, §1, Oct. 21, 1972, 86 Stat. 1049, authorized the Secretary of the Interior to accept, maintain, develop, and administer the Mar-A-Lago National Historic Site described in the order of designation dated Jan. 16, 1969, as part of the national park system and directed the Secretary to enter into agreements and take such action as deemed necessary to provide for administration and use of the Mar-A-Lago National Historic Site as a temporary residence for visiting foreign dignitaries or heads of state or members of the executive branch of the United States Government, with any further use determined by the Secretary after conferring with the Mar-A-Lago National Historic Site Advisory Commission.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of Repeal ####
 
 For effective date of repeal, see Pub. L. 96–586, §4, Dec. 23, 1980, 94 Stat. 3386, set out as a note below.

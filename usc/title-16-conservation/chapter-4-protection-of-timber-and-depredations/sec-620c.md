@@ -130,6 +130,8 @@ Nothing in sections 620 to 620j of this title shall be construed to limit the au
 
 (Pub. L. 101–382, title IV, §491, Aug. 20, 1990, 104 Stat. 719; Pub. L. 103–45, §2, July 1, 1993, 107 Stat. 223; Pub. L. 105–83, title VI, §602(b), Nov. 14, 1997, 111 Stat. 1620; Pub. L. 106–36, title I, §1002(a)(2), June 25, 1999, 113 Stat. 133.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 4606(i) of title 50, referred to in subsec. (f), was repealed by Pub. L. 115–232, div. A, title XVII, §1766(a), Aug. 13, 2018, 132 Stat. 2232.
@@ -155,6 +157,8 @@ Subsec. (b)(2). Pub. L. 103–45, §2(2)(B), added subpar. (A) and struck out fo
 Subsec. (b)(3), (4). Pub. L. 103–45, §2(2)(C), (D), added par. (3), redesignated former par. (3) as (4), and substituted "the Secretary of Commerce pursuant to sections 620 to 620j of this title and the effectiveness of State programs authorized under subsection (d)" for "States pursuant to sections 620 to 620j of this title".
 
 Subsecs. (c) to (l). Pub. L. 103–45, §2(3), (4), added subsecs. (c) to (f), struck out former subsecs. (c) and (d) which related to basis for increase in volume prohibited from export and administrative provisions, respectively, and redesignated former subsecs. (e) to (j) as (g) to (l), respectively.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Severability of Provisions ####
 

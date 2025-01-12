@@ -102,6 +102,8 @@ The Secretary may enter into a cooperative agreement with the State in accordanc
 
 (Pub. L. 116–9, title I, §1222, Mar. 12, 2019, 133 Stat. 668.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(2)(B), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 43 and Tables.

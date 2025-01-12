@@ -238,6 +238,8 @@ Subsec. (h)(1)(A), (B), (E), (3)(A), (B), (E) of this section and amendment by s
 
 Section effective on the date the North American Free Trade Agreement enters into force with respect to the United States (Jan. 1, 1994), see section 335(a) of Pub. L. 103–182, formerly set out in an Effective Date of 1993 Amendment note under section 1052 of Title 15, Commerce and Trade.
 
+#### **Executive Documents** ####
+
 #### Uruguay Round Agreements: Entry Into Force ####
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of Title 19, Customs Duties, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of Title 19.

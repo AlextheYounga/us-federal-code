@@ -58,11 +58,15 @@ The term "Wilderness Area" means the Steens Mountain Wilderness Area designated 
 
 (Pub. L. 106–399, §2, Oct. 30, 2000, 114 Stat. 1656.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in text, was in the original "this Act", meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 Part D, referred to in par. (1), was in the original "title IV", meaning title IV of Pub. L. 106–399, but probably should have been a reference to subtitle D of title I of that Act, which is classified generally to subpart 4 of part A of this subchapter. Part D of this subchapter does not relate to the Steens Mountain Advisory Council.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

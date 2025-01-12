@@ -20,6 +20,8 @@ Sec.
 
 8782. Naval and Marine Corps Historical Centers: fee for providing historical information to the public.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 649 of this title as this chapter and items 7571 to 7573, 7576, 7577, and 7579 to 7582 as 8771 to 8773, 8776, 8777, and 8779 to 8782, respectively.

@@ -2,24 +2,10 @@
 
 Sec.
 
-3501. Multiyear contracts for acquisition of property: authority; definitions.
+3501. Multiyear contracts: acquisition of property.
 
-3502. Multiyear contracts for acquisition of property: regulations.
+#### **Editorial Notes** ####
 
-3503. Multiyear contracts for acquisition of property: contract cancellation or termination.
+#### Amendments ####
 
-3504. Multiyear contracts for acquisition of property: participation by subcontractors, vendors, and suppliers.
-
-3505. Multiyear contracts for acquisition of property: protection of existing authority.
-
-3506. Department of Defense contracts: acquisition of weapon systems.
-
-3507. Department of Defense contracts: defense acquisitions specifically authorized by law.
-
-3508. Department of Defense contracts: notice to congressional committees before taking certain actions.
-
-3509. Department of Defense contracts: multiyear contracts with value in excess of $500,000,000.
-
-3510. Department of Defense contracts: additional matters with respect to multiyear defense contracts.
-
-3511. Increased funding and reprogramming requests.
+**2021**—Pub. L. 117–81, div. A, title XVII, §1701(k)(1)(A), Dec. 27, 2021, 135 Stat. 2143, amended Pub. L. 116–283, div. A, title XVIII, §1822(a), Jan. 1, 2021, 134 Stat. 4196, which added this analysis, by adding item 3501 and striking out what would have been items 3501 to 3511.

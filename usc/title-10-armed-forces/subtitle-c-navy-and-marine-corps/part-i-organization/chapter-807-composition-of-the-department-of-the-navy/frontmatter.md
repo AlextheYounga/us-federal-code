@@ -8,6 +8,8 @@ Sec.
 
 8063. United States Marine Corps: composition; functions.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 807, consisting of sections 8061 to 8084, related to the Air Force, prior to renumbering as chapter 907 of this title.

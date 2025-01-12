@@ -8,9 +8,13 @@ In recognition of mounting public demands for recreational opportunities on area
 
 (Pub. L. 87–714, §1, Sept. 28, 1962, 76 Stat. 653; Pub. L. 89–669, §9, Oct. 15, 1966, 80 Stat. 930.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1966**—Pub. L. 89–669 substituted "areas within the National Wildlife Refuge System" for "national wildlife refuges, game ranges" in introductory text.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title ####
 

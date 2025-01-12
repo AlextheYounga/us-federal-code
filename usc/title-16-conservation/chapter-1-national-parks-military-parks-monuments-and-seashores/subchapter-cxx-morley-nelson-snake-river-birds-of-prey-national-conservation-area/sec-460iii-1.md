@@ -24,6 +24,8 @@ As used in this subchapter:
 
 (Pub. L. 103–64, §2, Aug. 4, 1993, 107 Stat. 304; Pub. L. 111–11, title II, §2301(a)(1), Mar. 30, 2009, 123 Stat. 1101.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2009**—Par. (2). Pub. L. 111–11 inserted "Morley Nelson" before "Snake River Birds of Prey National Conservation Area".

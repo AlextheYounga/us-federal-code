@@ -16,6 +16,8 @@ For the purposes of sections 559b to 559f of this title, if specifically designa
 
 (Pub. L. 99–570, title XV, §15003, Oct. 27, 1986, 100 Stat. 3207–191; Pub. L. 100–690, title VI, §6254(b), Nov. 18, 1988, 102 Stat. 4363.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–690, §6254(b)(1), in introductory provision substituted "1,000 special agents and law enforcement officers" for "500 officers and employees", and struck out "within the boundaries of the National Forest System" after "shall have authority".

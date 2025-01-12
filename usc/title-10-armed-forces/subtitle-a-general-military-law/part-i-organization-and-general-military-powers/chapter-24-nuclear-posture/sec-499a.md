@@ -24,6 +24,8 @@
 
 (Added Pub. L. 115–91, div. A, title XVI, §1652(a), Dec. 12, 2017, 131 Stat. 1757; amended Pub. L. 115–232, div. A, title X, §1081(a)(7), Aug. 13, 2018, 132 Stat. 1983.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (d). Pub. L. 115–232 substituted "after December 11, 2017," for "on or after the date of the enactment of this section" in introductory provisions.

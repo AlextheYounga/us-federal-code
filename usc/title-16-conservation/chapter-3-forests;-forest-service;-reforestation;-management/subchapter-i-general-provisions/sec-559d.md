@@ -14,6 +14,8 @@ For the purposes of sections 559b to 559f of this title, in exercising the autho
 
 (Pub. L. 99–570, title XV, §15004, Oct. 27, 1986, 100 Stat. 3207–191; Pub. L. 100–690, title VI, §6254(c), Nov. 18, 1988, 102 Stat. 4364.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Controlled Substances Act, referred to in pars. (3) and (5), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.

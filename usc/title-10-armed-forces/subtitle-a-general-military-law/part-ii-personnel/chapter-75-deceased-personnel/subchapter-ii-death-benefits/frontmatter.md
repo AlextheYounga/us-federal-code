@@ -40,6 +40,8 @@ Sec.
 
 1492. Authority to provide travel and transportation allowances in connection with transfer ceremonies of certain civilian employees who die overseas.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 116–283, div. A, title XI, §1104(a)(2), Jan. 1, 2021, 134 Stat. 3890, added item 1492.

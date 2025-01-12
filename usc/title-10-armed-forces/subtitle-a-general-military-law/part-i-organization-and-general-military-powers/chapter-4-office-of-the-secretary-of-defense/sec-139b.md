@@ -48,13 +48,15 @@
 
 (Added Pub. L. 114–328, div. A, title IX, §922(b)(1), Dec. 23, 2016, 130 Stat. 2355; amended Pub. L. 115–91, div. A, title X, §1081(a)(7), Dec. 12, 2017, 131 Stat. 1594; Pub. L. 116–92, div. A, title XVI, §1621(e)(1)(A)(iv), Dec. 20, 2019, 133 Stat. 1733; Pub. L. 116–283, div. A, title IX, §902(b)(1), Jan. 1, 2021, 134 Stat. 3795.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 139b, added Pub. L. 111–23, title I, §102(a)(1), May 22, 2009, 123 Stat. 1710, §139d; renumbered §139b and amended Pub. L. 111–383, div. A, title IX, §901(e), (f), (k)(1)(E), title X, §1075(b)(6), Jan. 7, 2011, 124 Stat. 4321, 4322, 4325, 4369; Pub. L. 112–81, div. A, title VIII, §835(b), Dec. 31, 2011, 125 Stat. 1507; Pub. L. 112–239, div. A, title IX, §904(a)–(d), (f), (g), title X, §1076(f)(5), Jan. 2, 2013, 126 Stat. 1866, 1867, 1952; Pub. L. 113–291, div. A, title II, §221(a), Dec. 19, 2014, 128 Stat. 3330; Pub. L. 114–92, div. A, title VIII, §832, title X, §1078(b), Nov. 25, 2015, 129 Stat. 913, 998, related to Deputy Assistant Secretary of Defense for Developmental Test and Evaluation; Deputy Assistant Secretary of Defense for Systems Engineering; support of major defense acquisition programs; annual and biennial report requirements; and joint guidance in certain areas, prior to repeal by Pub. L. 114–328, div. A, title IX, §901(e)(2), Dec. 23, 2016, 130 Stat. 2342.
 
-Another prior section 139b was renumbered section 138c of this title.
+Another prior section 139b was renumbered section 138c of this title and was subsequently repealed.
 
-Another prior section 139b was renumbered section 2433 of this title.
+Another prior section 139b was renumbered sections 4371 to 4375 of this title.
 
 #### Amendments ####
 
@@ -63,3 +65,31 @@ Another prior section 139b was renumbered section 2433 of this title.
 **2019**—Subsec. (c)(2)(E). Pub. L. 116–92 substituted "Under Secretary of Defense for Intelligence and Security" for "Under Secretary of Defense for Intelligence".
 
 **2017**—Subsec. (c)(2)(K). Pub. L. 115–91 inserted period at end.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Optimization of Irregular Warfare Technical Support Directorate ####
+
+Pub. L. 117–81, div. A, title X, §1071, Dec. 27, 2021, 135 Stat. 1913, provided that:
+
+"(a) Plan Required.—Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2021], the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan for improving the support provided by the Irregular Warfare Technical Support Directorate to meet military requirements. Such plan shall include the following:
+
+"(1) Specific actions to—
+
+"(A) ensure adequate focus on rapid fielding of required capabilities;
+
+"(B) improve metrics and methods for tracking projects that have transitioned into programs of record; and
+
+"(C) minimize overlap with other research, development, and acquisition efforts.
+
+"(2) Such other matters as the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict considers relevant.
+
+"(b) Department of Defense Instruction Required.—Not later than 270 days after the date of the enactment of this Act, the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, in coordination with the Under Secretary of Defense for Research and Engineering, the Under Secretary of Defense for Acquisition and Sustainment, and the Secretaries of the military departments, shall publish an updated Department of Defense Instruction in order to—
+
+"(1) define the objectives, organization, mission, customer base, and role of the Irregular Warfare Technical Support Directorate;
+
+"(2) ensure coordination with external program managers assigned to the military departments and the United States Special Operations Command;
+
+"(3) facilitate adequate oversight by the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, the Under Secretary of Defense for Research and Engineering, and the Under Secretary of Defense for Acquisition and Sustainment; and
+
+"(4) address such other matters as the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict considers relevant."

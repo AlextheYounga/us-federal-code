@@ -144,6 +144,8 @@ The Commission shall terminate on the date 10 years after November 18, 1988. Fol
 
 (Pub. L. 100–696, title VII, §703, Nov. 18, 1988, 102 Stat. 4600; Pub. L. 101–40, §4(2), June 20, 1989, 103 Stat. 82; Pub. L. 102–525, title III, §302, Oct. 26, 1992, 106 Stat. 3441.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Clean Water Act, referred to in subsec. (i)(2)(D), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.

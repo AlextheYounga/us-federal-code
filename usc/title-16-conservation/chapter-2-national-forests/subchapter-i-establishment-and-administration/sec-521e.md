@@ -22,6 +22,8 @@ The National Forest System lands which may be sold, exchanged, or interchanged u
 
 (Pub. L. 97–465, §3, Jan. 12, 1983, 96 Stat. 2535; Pub. L. 115–334, title VIII, §8621(a), (b), Dec. 20, 2018, 132 Stat. 4852.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–334, §8621(a), substituted "$500,000" for "$150,000" in introductory provisions.

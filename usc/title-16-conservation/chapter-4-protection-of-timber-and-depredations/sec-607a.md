@@ -4,6 +4,8 @@ The Secretary of the Interior may permit under regulations to be prescribed by h
 
 (May 14, 1898, ch. 299, §11, 30 Stat. 414; June 15, 1938, ch. 437, 52 Stat. 699.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section is comprised of the last sentence of section 11 of act May 14, 1898. The remainder of section 11 of act May 14, 1898, is classified to section 615a of this title.

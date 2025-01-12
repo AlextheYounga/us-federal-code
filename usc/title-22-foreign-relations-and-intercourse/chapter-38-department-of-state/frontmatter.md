@@ -40,9 +40,13 @@ Sec.
 
 2656j. Countering white identity terrorism globally.
 
+2656k. Human rights awareness for American athletic delegations.
+
 2657. Custody of seals and property.
 
 2658. Repealed.
+
+2658a. Foreign Affairs Manual and Foreign Affairs Handbook changes.
 
 2659. State statutes to be procured.
 
@@ -109,6 +113,8 @@ Sec.
 2679c. Prohibition on discriminatory contracts.
 
 2679d. Exemption from certain procurement protest procedures for noncompetitive contracting in emergency circumstances.
+
+2679e. List of certain telecommunications providers.
 
 2680. Appropriations for State Department; information to congressional committees.
 
@@ -244,6 +250,10 @@ Sec.
 
 2732. Public diplomacy responsibilities of the Department of State.
 
+2732a. Avoiding duplication of programs and efforts.
+
+2732b. Improving research and evaluation of public diplomacy.
+
 2733. Reemployment of annuitants under the Civil Service Retirement System and Federal Employees' Retirement System.
 
 2734. Reconstruction and stabilization.
@@ -256,4 +266,20 @@ Sec.
 
 2734d. Recruitment and retention of individuals who have lived, worked, or studied in predominantly Muslim countries or communities.
 
+2734e. Annual Report.
+
+2734f. Strategic staffing plan for the Department of State.
+
 2735. Foreign relations exchange programs.
+
+2736. Exit interviews for workforce.
+
+2736a. Recruitment and retention.
+
+2736b. Leadership engagement and accountability.
+
+2736c. Professional development opportunities and tools.
+
+2736d. Payne fellowship authorization.
+
+2736e. Voluntary participation.

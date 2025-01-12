@@ -32,6 +32,8 @@ For the purposes of subsections (b), (c), and (d), the term "volunteer" includes
 
 (Pub. L. 92–300, §3, May 18, 1972, 86 Stat. 147; Pub. L. 101–286, title II, §204(a), May 9, 1990, 104 Stat. 175; Pub. L. 114–245, §4(d)(1), Nov. 28, 2016, 130 Stat. 992.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsec. (e). Pub. L. 114–245 added subsec. (e).

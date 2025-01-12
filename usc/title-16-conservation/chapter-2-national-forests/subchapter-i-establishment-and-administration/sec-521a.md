@@ -4,6 +4,8 @@ In order to facilitate the administration, management, and consolidation of the 
 
 (Pub. L. 85–862, Sept. 2, 1958, 72 Stat. 1571.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Weeks Act of March 1, 1911, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.

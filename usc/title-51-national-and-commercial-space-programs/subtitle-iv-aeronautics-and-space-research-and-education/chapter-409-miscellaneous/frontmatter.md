@@ -184,7 +184,7 @@ Pub. L. 109–155, title I, §102, Dec. 30, 2005, 119 Stat. 2905, provided that:
 
 #### Review of MUST Program ####
 
-Pub. L. 109–155, title VI, §617, Dec. 30, 2005, 119 Stat. 2934, provided that: "Not later than 60 days after the date of enactment of this Act [Dec. 30, 2005], the Administrator [of the National Aeronautics and Space Administration] shall transmit a report to Congress on the legal status of the Motivating Undergraduates in Science and Technology program. If the report concludes that the program is in compliance with the laws of the United States, NASA [National Aeronautics and Space Administration] shall implement the program, as planned in the July 5, 2005, NASA Research Announcement."
+Pub. L. 109–155, title VI, §617, Dec. 30, 2005, 119 Stat. 2934, directed the Administrator of the National Aeronautics and Space Administration to transmit a report to Congress on the legal status of the Motivating Undergraduates in Science and Technology program not later than 60 days after Dec. 30, 2005, and, if in compliance with law, implement the program as planned in the July 5, 2005, NASA Research Announcement.
 
 #### Denial of Financial Assistance to Campus Disrupters ####
 

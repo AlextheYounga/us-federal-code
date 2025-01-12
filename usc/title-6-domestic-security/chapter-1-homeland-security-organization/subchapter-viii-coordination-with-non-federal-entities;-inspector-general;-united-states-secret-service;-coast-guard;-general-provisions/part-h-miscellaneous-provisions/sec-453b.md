@@ -36,7 +36,7 @@ Subsection (a) does not apply to the following:
 
 #### (f) Exception for small purchases ####
 
-Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 2304(g) of title 10.
+Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in section 3205 of title 10.
 
 #### (g) Applicability to contracts and subcontracts for procurement of commercial products ####
 
@@ -68,7 +68,7 @@ This section shall be applied in a manner consistent with United States obligati
 
 This section applies with respect to contracts entered into by the Department of Homeland Security 180 days after February 17, 2009.
 
-(Pub. L. 111–5, div. A, title VI, §604, Feb. 17, 2009, 123 Stat. 165; Pub. L. 115–232, div. A, title VIII, §836(g)(1), Aug. 13, 2018, 132 Stat. 1872.)
+(Pub. L. 111–5, div. A, title VI, §604, Feb. 17, 2009, 123 Stat. 165; Pub. L. 115–232, div. A, title VIII, §836(g)(1), Aug. 13, 2018, 132 Stat. 1872; Pub. L. 117–81, div. A, title XVII, §1702(c)(5), Dec. 27, 2021, 135 Stat. 2156.)
 
 #### **Editorial Notes** ####
 
@@ -79,6 +79,8 @@ In subsec. (g), "section 1906 of title 41" substituted for "section 34 of the Of
 Section was enacted as part of the American Recovery and Reinvestment Act of 2009, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
 #### Amendments ####
+
+**2021**—Subsec. (f). Pub. L. 117–81 substituted "section 3205" for "section 2304(g)".
 
 **2018**—Subsec. (g). Pub. L. 115–232, substituted "commercial products" for "commercial items" in heading and, in text, substituted "procurement of commercial products notwithstanding section 1906 of title 41, with the exception of commercial products listed" for "procurement of commercial items not withstanding section 1906 of title 41, with the exception of commercial items listed" and " 'commercial product' shall be as defined in section 103 of title 41." for " 'commercial' shall be as defined in the Federal Acquisition Regulation—Part 2."
 

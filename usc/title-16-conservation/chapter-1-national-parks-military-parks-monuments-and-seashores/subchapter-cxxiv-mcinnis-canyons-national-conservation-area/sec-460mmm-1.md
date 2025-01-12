@@ -28,9 +28,13 @@ The term "Wilderness" means the Black Ridge Canyons Wilderness so designated in 
 
 (Pub. L. 106–353, §3, Oct. 24, 2000, 114 Stat. 1374; Pub. L. 108–400, §1(b), Oct. 30, 2004, 118 Stat. 2254.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pars. (1), (2). Pub. L. 108–400 substituted "McInnis" for "Colorado".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2004 Amendment ####
 

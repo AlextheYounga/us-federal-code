@@ -90,6 +90,8 @@
 
 (Added Pub. L. 114–328, div. A, title XII, §1203(a)(1), Dec. 23, 2016, 130 Stat. 2474; amended Pub. L. 115–91, div. A, title X, §1031, Dec. 12, 2017, 131 Stat. 1550; Pub. L. 116–92, div. A, title X, §1041, Dec. 20, 2019, 133 Stat. 1585; Pub. L. 116–283, div. A, title X, §§1051, 1081(a)(7), Jan. 1, 2021, 134 Stat. 3847, 3871.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Subsec. (c). Pub. L. 116–283, §1051(1), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "The authority in this section shall be exercised in accordance with such procedures as the Secretary shall establish for purposes of this section. The Secretary shall notify the congressional defense committees of any material modification of such procedures."
@@ -121,3 +123,13 @@ Subsec. (d)(2)(E), (F). Pub. L. 116–92, §1041(2)(D), added subpars. (E) and (
 Subsec. (h)(1). Pub. L. 115–91, §1031(b)(1), substituted "120 days after the last day of each fiscal year" for "March 1 each year".
 
 Subsec. (h)(2). Pub. L. 115–91, §1031(b)(2), substituted "six months after the date of the submittal of the report most recently submitted under paragraph (1)" for "September 1 each year" and inserted "under this paragraph" after "in which the report".
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Chief of Mission Concurrence ####
+
+Pub. L. 117–81, div. E, title LVII, §5703, Dec. 27, 2021, 135 Stat. 2382, provided that: "In the course of a chief of mission providing concurrence to the exercise of the authority pursuant to section 127e of title 10, United States Code, or section 1202 of the National Defense Authorization Act for Fiscal Year 2018 [Pub. L. 115–91; 131 Stat. 1639]—
+
+"(1) each relevant chief of mission shall inform and consult in a timely manner with relevant individuals at relevant missions or bureaus of the Department of State; and
+
+"(2) the Secretary of State shall take such steps as may be necessary to ensure that such relevant individuals have the security clearances necessary and access to relevant compartmented and special programs to so consult in a timely manner with respect to such concurrence."

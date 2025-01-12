@@ -14,6 +14,8 @@ The Congress finds that—
 
 (Pub. L. 101–612, §2, Nov. 16, 1990, 104 Stat. 3209.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 101–612, §1, Nov. 16, 1990, 104 Stat. 3209, provided that: "Sections 1 through 14 of this Act [enacting this subchapter, amending section 1274 of this title, and enacting provisions set out as a note under section 460bbb–7 of this title] may be cited as the 'Smith River National Recreation Area Act'."

@@ -6,6 +6,8 @@ Sec.
 
 9160. Warrant officers: original appointment; qualifications.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 116–283, div. A, title IX, §923(c)(3)(B), Jan. 1, 2021, 134 Stat. 3810, substituted "APPOINTMENTS IN THE REGULAR AIR FORCE AND THE REGULAR SPACE FORCE" for "APPOINTMENTS IN THE REGULAR AIR FORCE" in chapter heading.

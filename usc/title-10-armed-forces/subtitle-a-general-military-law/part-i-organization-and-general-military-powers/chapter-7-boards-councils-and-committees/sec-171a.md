@@ -80,7 +80,7 @@
 
 (D) The enhanced polar system.
 
-(3) In this subsection, the terms "Milestone A approval" and "Milestone B approval" have the meanings given such terms in sections 2366(e) and 2366a(d) of this title.
+(3) In this subsection, the terms "Milestone A approval" and "Milestone B approval" have the meanings given such terms in sections 4172(e) and 4251(d) of this title.
 
 (j) Notification of Reduction of Certain Warning Time.—(1) None of the funds authorized to be appropriated or otherwise made available to the Department of Defense for any fiscal year may be used to change any command, control, and communications system described in subsection (d)(1) in a manner that reduces the warning time provided to the national leadership of the United States with respect to a warning of a strategic missile attack on the United States unless—
 
@@ -126,21 +126,17 @@
 
 (3) Such other civilian officials of the United States Government as the President shall designate for purposes of this section.
 
-(Added Pub. L. 113–66, div. A, title X, §1052(a)(1), Dec. 26, 2013, 127 Stat. 859; amended Pub. L. 114–92, div. A, title XVI, §1651, Nov. 25, 2015, 129 Stat. 1121; Pub. L. 114–328, div. A, title XVI, §1661, Dec. 23, 2016, 130 Stat. 2613; Pub. L. 115–91, div. A, title X, §1081(a)(13), title XVI, §1654(a)(1), Dec. 12, 2017, 131 Stat. 1595, 1758; Pub. L. 116–92, div. A, title XVI, §1661, Dec. 20, 2019, 133 Stat. 1772; Pub. L. 116–283, div. A, title X, §1081(a)(10), title XVIII, §§1845(c)(2), 1883(b)(2), Jan. 1, 2021, 134 Stat. 3871, 4247, 4294.)
+(Added Pub. L. 113–66, div. A, title X, §1052(a)(1), Dec. 26, 2013, 127 Stat. 859; amended Pub. L. 114–92, div. A, title XVI, §1651, Nov. 25, 2015, 129 Stat. 1121; Pub. L. 114–328, div. A, title XVI, §1661, Dec. 23, 2016, 130 Stat. 2613; Pub. L. 115–91, div. A, title X, §1081(a)(13), title XVI, §1654(a)(1), Dec. 12, 2017, 131 Stat. 1595, 1758; Pub. L. 116–92, div. A, title XVI, §1661, Dec. 20, 2019, 133 Stat. 1772; Pub. L. 116–283, div. A, title X, §1081(a)(10), title XVIII, §1845(c)(2), Jan. 1, 2021, 134 Stat. 3871, 4247; Pub. L. 117–81, div. A, title XVII, §§1701(b)(14), 1702(a)(1), Dec. 27, 2021, 135 Stat. 2134, 2155.)
 
-#### Amendment of Section ####
-
-Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1883(b)(2), Jan. 1, 2021, 134 Stat. 4151, 4294, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, except as otherwise provided in title XVIII of Pub. L. 116–283, in title 10, United States Code, each reference in the text of such title to a source section that is redesignated by title XVIII of Pub. L. 116–283, is amended by striking such reference and inserting a reference to the appropriate section as so redesignated. See 2021 Amendment note(s) below.
-
-Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1845(c)(2), Jan. 1, 2021, 134 Stat. 4151, 4247, provided that, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, subsection (i)(3) of this section is amended by striking "section 2366(e)" and inserting "sections 4172(e)". See 2021 Amendment note below.
+#### **Editorial Notes** ####
 
 #### Amendments ####
 
 **2021**—Subsec. (i)(1). Pub. L. 116–283, §1081(a)(10), substituted "Acquisition" for "Acquisitions".
 
-Subsec. (i)(3). Pub. L. 116–283, §1883(b)(2), substituted "4251(d)" for "2366a(d)".
+Subsec. (i)(3). Pub. L. 117–81, §1702(a)(1), substituted "4251(d)" for "2366a(d)".
 
-Pub. L. 116–283, §1845(c)(2), which directed substitution of "sections 4172(e)" for "section 2366(e)", was executed by making the substitution for "sections 2366(e)", to reflect the probable intent of Congress.
+Pub. L. 116–283, §1845(c)(2), as amended by Pub. L. 117–81, §1701(b)(14), substituted "sections 4172(e)" for "sections 2366(e)".
 
 **2019**—Pub. L. 116–92 substituted "and Sustainment" for ", Technology, and Logistics" wherever appearing.
 
@@ -164,9 +160,13 @@ Subsecs. (i) to (k). Pub. L. 114–328, §1661(b), added subsecs. (i) and (j) an
 
 Subsecs. (f) to (i). Pub. L. 114–92, §1651(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2021 Amendment ####
 
-Amendment by sections 1845(c)(2) and 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
+Amendment by section 1701(b)(14) of Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out as a Technical, Conforming, and Clerical Amendments Related to Title XVIII of the Fiscal Year 2021 NDAA note preceding section 3001 of this title and note below.
+
+Amendment by section 1845(c)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding section 3001 of this title.
 
 #### Department of Defense Instruction ####
 

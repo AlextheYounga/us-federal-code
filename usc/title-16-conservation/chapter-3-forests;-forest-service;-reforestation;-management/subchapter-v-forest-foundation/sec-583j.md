@@ -30,6 +30,8 @@ The purposes of the Foundation are to—
 
 (Pub. L. 101–593, title IV, §402, Nov. 16, 1990, 104 Stat. 2970.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title of 1993 Amendment ####
 
 Pub. L. 103–106, §1, Oct. 12, 1993, 107 Stat. 1031, provided that: "This Act [amending sections 583j–3 and 583j–8 of this title and enacting provisions set out as a note under section 583j–3 of this title] may be cited as the 'National Forest Foundation Act Amendment Act of 1993'."

@@ -4,6 +4,8 @@ The Secretary of the Treasury, upon the certification of the Secretary of Agricu
 
 (June 22, 1948, ch. 593, §5, 62 Stat. 570.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, as amended by act June 22, 1956, ch. 425, §2, 70 Stat. 328, is set out as section 577g–1 of this title.

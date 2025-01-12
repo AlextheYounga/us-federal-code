@@ -34,6 +34,8 @@ The Council shall consist of 10 members to be appointed by the Secretary includi
 
 (Pub. L. 106–353, §8, Oct. 24, 2000, 114 Stat. 1379; Pub. L. 108–400, §1(d), Oct. 30, 2004, 118 Stat. 2254.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
@@ -43,6 +45,8 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(2
 #### Amendments ####
 
 **2004**—Subsec. (a). Pub. L. 108–400 substituted "McInnis Canyons" for "Colorado Canyons".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2004 Amendment ####
 

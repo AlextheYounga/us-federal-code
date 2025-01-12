@@ -44,6 +44,8 @@ In order to assist in the development and implementation of the management plan,
 
 (Pub. L. 106–538, §6, Dec. 6, 2000, 114 Stat. 2566.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Archaeological Resources Protection Act of 1979, referred to in subsec. (b)(4), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, as amended, which is classified generally to chapter 1B (§470aa et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 470aa of this title and Tables.

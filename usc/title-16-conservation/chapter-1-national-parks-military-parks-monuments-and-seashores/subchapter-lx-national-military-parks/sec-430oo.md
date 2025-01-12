@@ -4,11 +4,15 @@ The Secretary of the Interior is authorized to acquire such lands and interests 
 
 (Pub. L. 86–438, Apr. 22, 1960, 74 Stat. 79; Pub. L. 93–608, §1(11), Jan. 2, 1975, 88 Stat. 1969; Pub. L. 100–528, §1(a), Oct. 25, 1988, 102 Stat. 2649.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Pub. L. 100–528 struck out after first sentence "Not more than 600 acres of land, however, shall be acquired in fee by purchase or condemnation, but neither this limitation nor any other provision of law shall preclude such acquisition of the fee title to other lands and its immediate reconveyance to the former owner with such covenants, restrictions, or conditions as will accomplish the purposes of this section: *Provided*, That the cost to the Government of any such transaction shall not exceed the reasonable value of the covenants, restrictions, or conditions thereby imposed on the property."
 
 **1975**—Pub. L. 93–608 struck out requirement that Secretary report to Congress at least once each year on any acquisition made or agreement entered into under provisions of this section.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Scenic Easements; Acquisition ####
 

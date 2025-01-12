@@ -32,6 +32,8 @@
 
 (Added Pub. L. 103–160, div. A, title IX, §931(a), Nov. 30, 1993, 107 Stat. 1732; amended Pub. L. 104–106, div. A, title XV, §1502(a)(1), Feb. 10, 1996, 110 Stat. 502; Pub. L. 106–65, div. A, title V, §508, Oct. 5, 1999, 113 Stat. 591; Pub. L. 107–107, div. A, title V, §525(a), (b), Dec. 28, 2001, 115 Stat. 1099; Pub. L. 108–375, div. A, title V, §533, Oct. 28, 2004, 118 Stat. 1901; Pub. L. 110–417, [div. A], title V, §521(a), (b)(1), Oct. 14, 2008, 122 Stat. 4444; Pub. L. 116–283, div. A, title IX, §924(b)(3)(F), Jan. 1, 2021, 134 Stat. 3821.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Subsec. (a). Pub. L. 116–283 substituted "Marine Corps, or Space Force" for "or Marine Corps".
@@ -67,6 +69,8 @@ Subsec. (b). Pub. L. 107–107, §525(b), in introductory provisions, substitute
 Subsec. (h). Pub. L. 106–65, §508(b), substituted "An officer of the Navy" for "(1) Until January 1, 1997, an officer of the Navy" and "who before January 1, 1997, is" for "may be" and struck out ". An officer so appointed" before "may not be appointed" and par. (2) which read as follows: "Not later than March 1 of each year from 1994 through 1997, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the implementation during the preceding calendar year of the transition plan developed by the Secretary pursuant to section 1305(b) of Public Law 100–180 (10 U.S.C. 619a note) with respect to service by qualified nuclear propulsion officers in joint duty assignments."
 
 **1996**—Subsec. (h)(2). Pub. L. 104–106 substituted "Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives" for "Committees on Armed Services of the Senate and House of Representatives".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Proposed Legislative Changes ####
 

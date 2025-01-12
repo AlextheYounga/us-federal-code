@@ -4,6 +4,8 @@ Subject to valid existing rights, each wilderness area designated by section 460
 
 (Pub. L. 100–499, §5, Oct. 18, 1988, 102 Stat. 2492.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Wilderness Act of 1964, referred to in text, probably means the Wilderness Act, Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.

@@ -192,7 +192,7 @@ Each subcommittee shall meet not less frequently than semiannually, and submit t
 
 The chair of the Advisory Committee shall appoint members to subcommittees and shall ensure that each member appointed to a subcommittee has subject matter expertise relevant to the subject matter of the subcommittee.
 
-(Pub. L. 107–296, title XXII, §2216, as added Pub. L. 116–283, div. A, title XVII, §1718(a), Jan. 1, 2021, 134 Stat. 4102.)
+(Pub. L. 107–296, title XXII, §2219, formerly §2216, as added Pub. L. 116–283, div. A, title XVII, §1718(a), Jan. 1, 2021, 134 Stat. 4102; renumbered §2219 and amended, Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(vi), Dec. 27, 2021, 135 Stat. 2061.)
 
 #### **Editorial Notes** ####
 
@@ -201,5 +201,9 @@ The chair of the Advisory Committee shall appoint members to subcommittees and s
 The date of enactment of the Cybersecurity Advisory Committee Authorization Act of 2020, referred to in subsec. (c)(1)(A), probably means the date of enactment of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021, Pub. L. 116–283, which was approved Jan. 1, 2021. No act named the Cybersecurity Advisory Committee Authorization Act of 2020 has been enacted. However, a bill, S. 4024, entitled "Cybersecurity Advisory Committee Authorization Act of 2020" was introduced to Senate on June 22, 2020.
 
 Executive Order No. 13526, referred to in subsec. (c)(5)(B), is Ex. Ord. No. 13526, Dec. 29, 2009, 75 F.R. 707, set out as a note under section 3161 of Title 50, War and National Defense.
+
+#### Amendments ####
+
+**2021**—Pub. L. 117–81 re-enacted section catchline.
 
 [<sup>1</sup> See References in Text note below.](#665e_1)

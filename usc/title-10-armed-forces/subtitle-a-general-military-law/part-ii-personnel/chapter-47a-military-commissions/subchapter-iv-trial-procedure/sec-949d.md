@@ -32,6 +32,8 @@
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2585.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 949d, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2611, related to sessions of military commissions, prior to the general amendment of this chapter by Pub. L. 111–84.

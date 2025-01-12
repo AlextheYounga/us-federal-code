@@ -18,9 +18,13 @@ The Secretary shall administer the recreation area in accordance with the laws, 
 
 (Pub. L. 98–339, §7, July 3, 1984, 98 Stat. 304.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 98–339, July 3, 1984, 98 Stat. 299, known as the Washington State Wilderness Act of 1984, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

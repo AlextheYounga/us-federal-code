@@ -34,7 +34,9 @@
 
 (7) The right to proceedings free from unreasonable delay.
 
-(8) The right to be treated with fairness and with respect for the dignity and privacy of the victim of an offense under this chapter.
+(8) The right to be informed in a timely manner of any plea agreement, separation-in-lieu-of-trial agreement, or non-prosecution agreement relating to the offense, unless providing such information would jeopardize a law enforcement proceeding or would violate the privacy concerns of an individual other than the accused.
+
+(9) The right to be treated with fairness and with respect for the dignity and privacy of the victim of an offense under this chapter.
 
 (b) Victim of an Offense Under This Chapter Defined.—In this section, the term "victim of an offense under this chapter" means an individual who has suffered direct physical, emotional, or pecuniary harm as a result of the commission of an offense under this chapter.
 
@@ -76,11 +78,15 @@
 
 (2) If requested by an alleged victim who is subject to a request for interview under paragraph (1), any interview of the victim by counsel for the accused shall take place only in the presence of the counsel for the Government, a counsel for the victim, or, if applicable, a victim advocate.
 
-(Added Pub. L. 113–66, div. A, title XVII, §1701(a)(1), Dec. 26, 2013, 127 Stat. 952; amended Pub. L. 113–291, div. A, title V, §§531(f), 535, Dec. 19, 2014, 128 Stat. 3364, 3368; Pub. L. 114–92, div. A, title V, §531, Nov. 25, 2015, 129 Stat. 814; Pub. L. 114–328, div. E, title LI, §5105, title LVI, §5203(e)(1), Dec. 23, 2016, 130 Stat. 2895, 2906; Pub. L. 115–91, div. A, title V, §531(a), title X, §1081(a)(22), (c)(1)(B), Dec. 12, 2017, 131 Stat. 1384, 1595, 1597; Pub. L. 116–283, div. A, title V, §541, Jan. 1, 2021, 134 Stat. 3611.)
+(Added Pub. L. 113–66, div. A, title XVII, §1701(a)(1), Dec. 26, 2013, 127 Stat. 952; amended Pub. L. 113–291, div. A, title V, §§531(f), 535, Dec. 19, 2014, 128 Stat. 3364, 3368; Pub. L. 114–92, div. A, title V, §531, Nov. 25, 2015, 129 Stat. 814; Pub. L. 114–328, div. E, title LI, §5105, title LVI, §5203(e)(1), Dec. 23, 2016, 130 Stat. 2895, 2906; Pub. L. 115–91, div. A, title V, §531(a), title X, §1081(a)(22), (c)(1)(B), Dec. 12, 2017, 131 Stat. 1384, 1595, 1597; Pub. L. 116–283, div. A, title V, §541, Jan. 1, 2021, 134 Stat. 3611; Pub. L. 117–81, div. A, title V, §541, Dec. 27, 2021, 135 Stat. 1708.)
+
+#### **Editorial Notes** ####
 
 #### Amendments ####
 
 **2021**—Subsec. (a)(2)(D) to (F). Pub. L. 116–283 added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
+
+Subsec. (a)(8), (9). Pub. L. 117–81 added par. (8) and redesignated former par. (8) as (9).
 
 **2017**—Subsec. (b). Pub. L. 115–91, §1081(c)(1)(B), which directed striking out "(the Uniform Code of Military Justice)" after "this chapter", was not executed in light of the prior amendment by section 1081(a)(22) of Pub. L. 115–91, to reflect the probable intent of Congress. See Amendment note below and Effective Date of 2017 Amendment note below.
 
@@ -112,6 +118,8 @@ Subsec. (c). Pub. L. 113–291, §531(f)(2), in heading, substituted "Appointmen
 
 Subsec. (e). Pub. L. 113–291, §535, added subsec. (e).
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2017 Amendment ####
 
 Amendment by section 531(a) of Pub. L. 115–91 effective immediately after the amendments made by div. E (§§5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act (10 U.S.C. 801 note), see section 531(p) of Pub. L. 115–91, set out as a note under section 801 of this title.
@@ -122,9 +130,9 @@ Amendment by section 1081(c)(1)(B) of Pub. L. 115–91 effective immediately aft
 
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under section 801 of this title.
 
-#### Notice to Victims of Alleged Sexual Assault of Pendency of Further Administrative Action Following a Determination Not To Refer to Trial by Court-Martial ####
+#### Notice to Victims of Alleged Sex-Related Offense of Pendency of Further Administrative Action Following a Determination Not To Refer to Trial by Court-Martial ####
 
-Pub. L. 116–92, div. A, title V, §549, Dec. 20, 2019, 133 Stat. 1379, provided that: "Under regulations prescribed by the Secretary of Defense, upon a determination not to refer a case of alleged sexual assault for trial by court-martial under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), the commander making such determination shall periodically notify the victim of the status of a final determination on further action on such case, whether non-judicial punishment under section 815 of such title (article 15 of the Uniform Code of Military Justice), other administrative action, or no further action. Such notifications shall continue not less frequently than monthly until such final determination."
+Pub. L. 116–92, div. A, title V, §549, Dec. 20, 2019, 133 Stat. 1379, as amended by Pub. L. 117–81, div. A, title V, §545, Dec. 27, 2021, 135 Stat. 1711, provided that: "Notwithstanding section 552a of title 5, United States Code, and under regulations prescribed by the Secretary of Defense, upon a determination not to refer a case of an alleged sex-related offense (as defined in section 1044e(h) of title 10, United States Code) for trial by court-martial under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), the commander making such determination shall periodically notify the victim of the status of a final determination on further action on such case, whether non-judicial punishment under section 815 of such title (article 15 of the Uniform Code of Military Justice), other administrative action, or no further action. Such notifications shall continue not less frequently than monthly until such final determination. Upon such final determination, the commander shall notify the victim of the type of action taken on such case, the outcome of the action (including any punishments assigned or characterization of service, as applicable), and such other information as the commander determines to be relevant."
 
 #### Implementation ####
 

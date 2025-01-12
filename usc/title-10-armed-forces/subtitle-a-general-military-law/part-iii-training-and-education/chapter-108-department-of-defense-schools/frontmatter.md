@@ -2,7 +2,7 @@
 
 Sec.
 
-2161. Degree granting authority for National Intelligence University.
+[2161. Repealed.]
 
 2162. Preparation of budget requests for operation of professional military education schools.
 
@@ -18,15 +18,15 @@ Sec.
 
 2167a. Defense Cyber Investigations Training Academy: admission of private sector civilians to receive instruction.
 
-2168. Defense Language Institute Foreign Language Center: degree of Associate of Arts in foreign language.
+2168. Defense Language Institute Foreign Language Center: degree of Associate or Bachelor of Arts in foreign language.
 
 2169. School of Nursing: establishment.
 
-#### Amendment of Analysis ####
-
-Pub. L. 116–92, div. E, title LIII, §5324(e), formerly §5324(g), Dec. 20, 2019, 133 Stat. 2137, renumbered §5324(e), Pub. L. 116–260, div. W, title III, §305(c)(3), Dec. 27, 2020, 134 Stat. 2367, provided that, effective on the date on which the Secretary of Defense and the Director of National Intelligence jointly submit the joint certifications required under section 3334a(b)(1) of Title 50, War and National Defense, this analysis is amended by striking out item 2161. See 2019 Amendment note below.
+#### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title V, §556(b), Dec. 27, 2021, 135 Stat. 1739, substituted "Defense Language Institute Foreign Language Center: degree of Associate or Bachelor of Arts in foreign language" for "Defense Language Institute Foreign Language Center: degree of Associate of Arts in foreign language" in item 2168.
 
 **2019**—Pub. L. 116–92, div. E, title LIII, §5324(e)(1), formerly §5324(g)(1), Dec. 20, 2019, 133 Stat. 2137, renumbered §5324(e)(1), Pub. L. 116–260, div. W, title III, §305(c)(3), Dec. 27, 2020, 134 Stat. 2367, struck out item 2161 "Degree granting authority for National Intelligence University".
 
@@ -55,6 +55,8 @@ Pub. L. 105–85, div. A, title IX, §921(a)(2), Nov. 18, 1997, 111 Stat. 1862, 
 **1993**—Pub. L. 103–160, div. A, title IX, §922(b), Nov. 30, 1993, 107 Stat. 1731, added item 2163.
 
 **1990**—Pub. L. 101–510, div. A, title IX, §911(b)(1), (2), Nov. 5, 1990, 104 Stat. 1626, substituted "DEPARTMENT OF DEFENSE SCHOOLS" for "GRANTING OF ADVANCED DEGREES AT DEPARTMENT OF DEFENSE SCHOOLS" as chapter heading and added item 2162.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Daniel K. Inouye Asia-Pacific Center for Security Studies: Reimbursement Waiver for Personnel of Foreign Nations ####
 

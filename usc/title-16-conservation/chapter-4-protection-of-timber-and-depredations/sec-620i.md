@@ -14,6 +14,8 @@ Not later than April 1, 1993, the Secretary of Commerce shall submit to the Comm
 
 (Pub. L. 101–382, title IV, §498, Aug. 20, 1990, 104 Stat. 725; Pub. L. 103–437, §6(d)(35), Nov. 2, 1994, 108 Stat. 4585.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Subsec. (b). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs".

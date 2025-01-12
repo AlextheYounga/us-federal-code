@@ -26,6 +26,8 @@ Funds appropriated under subsections (a)(2) and (b) shall not be made available 
 
 (Pub. L. 99–663, §16, Nov. 17, 1986, 100 Stat. 4300; Pub. L. 113–287, §5(d)(17), Dec. 19, 2014, 128 Stat. 3265.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Subsec. (a)(1). Pub. L. 113–287, which directed amendment of par. (1) by substituting "chapter 2003 of title 54" for "the Land and Water Conservation Fund (16 U.S.C. 460l–4 and following)", was executed by making the substitution for "the Land and Water Conservation Fund (16 U.S.C. 4601–4 and following)", to reflect the probable intent of Congress.

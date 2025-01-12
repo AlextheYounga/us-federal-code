@@ -18,6 +18,8 @@ Sec.
 
 8669b. Senior Technical Authority for each naval vessel class.
 
+8669c. Assessments required prior to start of construction on first ship of a shipbuilding program.
+
 8670. Contracts for nuclear ships: sales of naval shipyard articles and services to private shipyards.
 
 8671. Determination of vessel delivery dates.
@@ -40,6 +42,8 @@ Sec.
 
 8678. Chief of Naval Operations: certification required for disposal of combatant vessels.
 
+8678a. Limitation on decommissioning or inactivating a battle force ship before the end of expected service life.
+
 8679. Construction of vessels in foreign shipyards: prohibition.
 
 8680. Overhaul, repair, etc. of vessels in foreign shipyards: restrictions.
@@ -52,7 +56,7 @@ Sec.
 
 8684. Overhaul of naval vessels: competition between public and private shipyards.
 
-8684a. Repair, maintenance, or overhaul of naval vessels: rate for progress payments.
+[8684a. Omitted].
 
 8685. Preservation of Navy shipbuilding capability.
 
@@ -62,7 +66,7 @@ Sec.
 
 8688. Warranty requirements for shipbuilding contracts.
 
-8688a. Construction and conversion of naval vessels: liens.
+[8688a. Omitted].
 
 8689. Requirements for availability of funds relating to advanced naval nuclear fuel systems based on low-enriched uranium.
 
@@ -70,15 +74,21 @@ Sec.
 
 8691. Nuclear-powered aircraft carriers: dismantlement and disposal.
 
-8692. 1
+8692. Ford-class aircraft carriers: cost limitation baselines.
 
-Ford-class aircraft carriers: cost limitation baselines.
+8693. Biennial report on shipbuilder training and the defense industrial base.
 
-8692. 1 Biennial report on shipbuilder training and the defense industrial base.
+8694. Annual report on ship maintenance.
+
+8695. Navy battle force ship assessment and requirement reporting.
+
+#### **Editorial Notes** ####
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title XVIII, §1876(d), Jan. 1, 2021, 134 Stat. 4291, added items 8684a and 8688a.
+**2021**—Pub. L. 117–81, div. A, title X, §§1013(b), 1014(b), 1015(a), 1016(b), 1017(b), Dec. 27, 2021, 135 Stat. 1893–1897, added items 8669c, 8678a, 8694, and 8695, and redesignated item 8692 "Biennial report on shipbuilder training and the defense industrial base" as 8693.
+
+Pub. L. 116–283, div. A, title XVIII, §1876(d), Jan. 1, 2021, 134 Stat. 4291, which added items 8684a and 8688a to the analysis of this chapter effective Jan. 1, 2022, was repealed by Pub. L. 117–81, div. A, title XVII, §1701(n)(3), Dec. 27, 2021, 135 Stat. 2146.
 
 Pub. L. 116–283, div. A, title X, §1026(b), Jan. 1, 2021, 134 Stat. 3844, added item 8692 "Biennial report on shipbuilder training and the defense industrial base".
 
@@ -139,5 +149,3 @@ Pub. L. 97–295, §1(49)(B), Oct. 12, 1982, 96 Stat. 1299, added item 7310.
 Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7309.
 
 **1981**—Pub. L. 97–86, title IX, §911(b)(2), Dec. 1, 1981, 95 Stat. 1122, struck out item 7300 "Contracts for construction: profit limitation".
-
-[<sup>1</sup> So in original. Two items 8692 have been enacted.](#CHAPTER863_1)

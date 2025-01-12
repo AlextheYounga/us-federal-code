@@ -4,6 +4,8 @@ The heads of executive departments may transfer to the Secretary of the Interior
 
 (Pub. L. 87–78, §3, June 30, 1961, 75 Stat. 197.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "National Historic Site" substituted in text for "National Monument" in view of redesignation of Fort Vancouver National Monument as Fort Vancouver National Historic Site by Pub. L. 87–78, classified to section 450ff–6 of this title.

@@ -4,6 +4,8 @@ There are authorized to be appropriated such sums not exceeding $42,500 as are n
 
 (Pub. L. 88–24, §5, May 17, 1963, 77 Stat. 19; Pub. L. 92–272, title I, §101(2), Apr. 11, 1972, 86 Stat. 120.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1972**—Pub. L. 92–272 substituted "$42,500" for "$20,000".

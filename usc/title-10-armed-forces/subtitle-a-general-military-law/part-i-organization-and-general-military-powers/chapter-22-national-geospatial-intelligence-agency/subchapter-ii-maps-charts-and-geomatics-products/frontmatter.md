@@ -16,6 +16,8 @@ Sec.
 
 457. Operational files previously maintained by or concerning activities of National Photographic Interpretation Center: authority to withhold from public disclosure.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 116–283, div. A, title XVI, §1621(b)(2), (c)(2), (d)(2), (g)(1), Jan. 1, 2021, 134 Stat. 4053, 4054, substituted "GEOMATICS" for "GEODETIC" in subchapter heading, added items 451, 454, and 455, and struck out former items 451 "Maps, charts, and books", 454 "Exchange of mapping, charting, and geodetic data with foreign countries, international organizations, nongovernmental organizations, and academic institutions", and 455 "Maps, charts, and geodetic data: public availability; exceptions".

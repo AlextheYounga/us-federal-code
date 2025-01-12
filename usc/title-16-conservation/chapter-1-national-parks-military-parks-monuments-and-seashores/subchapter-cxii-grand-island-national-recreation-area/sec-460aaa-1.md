@@ -4,6 +4,8 @@ The national recreation area shall comprise all of the Grand Island in Lake Supe
 
 (Pub. L. 101–292, §2, May 17, 1990, 104 Stat. 185.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In text, "sections 100506(c) and 200306 of title 54" substituted for "section 7 of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–9)" on authority of Pub. L. 113–287, §6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.

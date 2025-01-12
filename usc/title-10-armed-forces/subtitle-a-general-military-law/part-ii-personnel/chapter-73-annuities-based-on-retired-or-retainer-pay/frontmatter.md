@@ -8,6 +8,8 @@ II. Survivor Benefit Plan 1447
 
 [III. Repealed]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–375, div. A, title VI, §644(b)(2), Oct. 28, 2004, 118 Stat. 1961, struck out item for subchapter III "Supplemental Survivor Benefit Plan", effective Apr. 1, 2008.

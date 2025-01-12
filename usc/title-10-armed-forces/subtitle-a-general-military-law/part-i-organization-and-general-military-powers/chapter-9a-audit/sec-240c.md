@@ -8,6 +8,8 @@ The Under Secretary of Defense (Comptroller) shall—
 
 (Added Pub. L. 115–91, div. A, title X, §1002(d), Dec. 12, 2017, 131 Stat. 1540, §253; renumbered §240c, Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), Aug. 13, 2018, 132 Stat. 1945.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232 renumbered section 253 of this title as this section.

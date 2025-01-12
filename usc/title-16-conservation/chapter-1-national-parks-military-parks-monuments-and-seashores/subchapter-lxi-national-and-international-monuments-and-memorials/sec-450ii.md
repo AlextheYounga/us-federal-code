@@ -18,9 +18,13 @@ Thence along the arc of a curve to the left having a radius of 167.60 feet a dis
 
 (Sept. 25, 1950, ch. 1030, §1, 64 Stat. 1033; Pub. L. 87–80, June 30, 1961, 75 Stat. 197.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1961**—Pub. L. 87–80 included within the boundaries of Joshua Tree National Monument certain federally owned lands situate in county of San Bernardino, California.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Abolition of Joshua Tree National Monument ####
 

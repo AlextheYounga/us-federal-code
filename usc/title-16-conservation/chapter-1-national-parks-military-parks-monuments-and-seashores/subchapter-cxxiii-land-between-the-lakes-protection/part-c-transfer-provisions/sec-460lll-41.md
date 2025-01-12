@@ -4,6 +4,8 @@ Effective on October 1 of the first fiscal year for which Congress does not appr
 
 (Pub. L. 105–277, div. A, §101(e) [title V, §541], Oct. 21, 1998, 112 Stat. 2681–231, 2681–318.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in text, was in the original "this Act" and was translated as meaning section 101(e) of div. A of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–231, known as the Department of the Interior and Related Agencies Appropriations Act, 1999. For complete classification of this Act to the Code, see Tables.

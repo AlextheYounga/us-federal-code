@@ -4,9 +4,13 @@ The Secretary of Agriculture, under such regulations as he may prescribe and at 
 
 (Apr. 24, 1950, ch. 97, §7, 64 Stat. 84; Pub. L. 105–277, div. A, §101(e) [title III, §346], Oct. 21, 1998, 112 Stat. 2681–231, 2681–298.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1998**—Pub. L. 105–277, which directed the substitution of "renovate, recondition, improve, and maintain" for "recondition and maintain,", was executed by making the substitution for language which did not include a comma after "maintain" to reflect the probable intent of Congress.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Authorization for Lease of Forest Service Sites ####
 

@@ -6,11 +6,15 @@
 
 (Added Pub. L. 101–189, div. A, title XIII, §1301(b), Nov. 29, 1989, 103 Stat. 1569; amended Pub. L. 103–337, div. A, title IX, §924(c)(1), Oct. 5, 1994, 108 Stat. 2831; Pub. L. 114–328, div. E, title LIX, §5332, Dec. 23, 2016, 130 Stat. 2935.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2016**—Subsec. (a). Pub. L. 114–328 inserted "United States" before "Court of Appeals" in second sentence.
 
 **1994**—Subsec. (a). Pub. L. 103–337 substituted "Court of Appeals for the Armed Forces" for "Court of Military Appeals" in two places.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2016 Amendment ####
 

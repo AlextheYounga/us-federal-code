@@ -12,13 +12,17 @@ Sec.
 
 8748. Naval War College and Marine Corps University: civilian faculty members.
 
-8749. Civil service mariners of military sealift command: release of drug and alcohol test results to Coast Guard 1
+8749. Civil service mariners of Military Sealift Command: release of drug and alcohol test results to Coast Guard.
 
-8749a. Civil service mariners of military sealift command: alcohol testing 1
+8749a. Civil service mariners of Military Sealift Command: alcohol testing.
 
 8750. Special agents of the Naval Criminal Investigative Service: authority to execute warrants and make arrests.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title X, §1081(a)(32), Dec. 27, 2021, 135 Stat. 1921, added items 8749 and 8749a and struck out former items 8749 "Civil service mariners of military sealift command: release of drug and alcohol test results to Coast Guard" and 8749a "Civil service mariners of military sealift command: alcohol testing".
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 643 of this title as this chapter and items 7472, 7473, and 7476 to 7480 as 8742, 8743, and 8746 to 8750, respectively.
 
@@ -37,5 +41,3 @@ Pub. L. 115–232, div. A, title XI, §1114(c), Aug. 13, 2018, 132 Stat. 2013, a
 **1959**—Pub. L. 86–148, §1(2), Aug. 7, 1959, 73 Stat. 302, struck out item 7475 "Force at naval activities not to be increased before elections".
 
 **1958**—Pub. L. 85–861, §1(151), Sept. 2, 1958, 72 Stat. 1513, struck out item 7471 "Appointments: professional and scientific services".
-
-[<sup>1</sup> So in original. Does not conform to section catchline and probably should be followed by a period.](#CHAPTER871_1)

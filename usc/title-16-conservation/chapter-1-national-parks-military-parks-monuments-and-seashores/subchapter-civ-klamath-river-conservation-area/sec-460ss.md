@@ -22,6 +22,8 @@ The Congress finds that—
 
 (Pub. L. 99–552, §1, Oct. 27, 1986, 100 Stat. 3080.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Section 8 of Pub. L. 99–552, as added by Pub. L. 100–653, title VI, §604, Nov. 14, 1988, 102 Stat. 3830, provided that: "This Act [enacting this subchapter] may be cited as the 'Klamath River Basin Fishery Resources Restoration Act'."

@@ -40,9 +40,13 @@
 
 (Added Pub. L. 112–81, div. A, title V, §504(a)(1), Dec. 31, 2011, 125 Stat. 1389; amended Pub. L. 115–232, div. A, title VIII, §809(a), Aug. 13, 2018, 132 Stat. 1840.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Subsec. (c)(1)(B). Pub. L. 115–232 substituted "section 7311, 8323, or 9311" for "section 3911, 6323, or 8911".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Effective Date of 2018 Amendment ####
 

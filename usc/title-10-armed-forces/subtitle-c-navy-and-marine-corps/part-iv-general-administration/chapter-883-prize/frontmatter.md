@@ -64,6 +64,8 @@ Sec.
 
 8881. Reciprocal privileges to cobelligerent.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 655 of this title as this chapter and items 7651 to 7681 as 8851 to 8881, respectively.

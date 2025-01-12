@@ -18,7 +18,7 @@ Sec.
 
 #### Cost-Effectiveness Analysis of Equipment Rental ####
 
-Pub. L. 115–254, div. B, title V, §555, Oct. 5, 2018, 132 Stat. 3381, provided that:
+Pub. L. 115–254, div. B, title V, §555, Oct. 5, 2018, 132 Stat. 3381, as amended by Pub. L. 117–81, div. A, title XVII, §1702(i)(1), Dec. 27, 2021, 135 Stat. 2159, provided that:
 
 "(a) Agency Analysis of Equipment Acquisition.—
 
@@ -28,13 +28,13 @@ Pub. L. 115–254, div. B, title V, §555, Oct. 5, 2018, 132 Stat. 3381, provide
 
 "(3) Amendment of federal acquisition regulation.—Not later than 180 days after the date of the enactment of this Act [Oct. 5, 2018], the Federal Acquisition Regulatory Council shall amend the Federal Acquisition Regulation to implement the requirement of this subsection, including a determination of the factors for executive agencies to consider for purposes of performing the analysis under paragraph (1).
 
-"(4) Rule of construction.—Nothing in this subsection shall be construed to affect the requirements of chapter 37 of title 41, United States Code, section 2305 of title 10, United States Code, or section 1535 of title 31, United States Code.
+"(4) Rule of construction.—Nothing in this subsection shall be construed to affect the requirements of chapter 37 of title 41, United States Code, sections 3206 through 3208 and sections 3301 through 3309 of title 10, United States Code, or section 1535 of title 31, United States Code.
 
 "(b) Date of Implementation.—The analysis described in subsection (a) shall be applied to contracts for the acquisition of equipment entered into on or after the date that the Federal Acquisition Regulation is amended pursuant to paragraph (3) of such subsection.
 
 "(c) Acquisition Agreements With States or Local Governments.—
 
-"(1) In general.—Notwithstanding any other provision of law, including chapter 37 of title 41, United States Code, the Small Business Act (15 U.S.C. 631 et seq.), and section 2305 of title 10, United States Code, the head of an executive agency may enter into an acquisition agreement authorized by this section directly with a State or a local government if the agency head determines that the agreement otherwise satisfies the requirements of subsection (a)(1).
+"(1) In general.—Notwithstanding any other provision of law, including chapter 37 of title 41, United States Code, the Small Business Act (15 U.S.C. 631 et seq.), and sections 3206 through 3208 and sections 3301 through 3309 of title 10, United States Code, the head of an executive agency may enter into an acquisition agreement authorized by this section directly with a State or a local government if the agency head determines that the agreement otherwise satisfies the requirements of subsection (a)(1).
 
 "(2) Terms and conditions.—Any agreement under paragraph (1) shall contain such terms and conditions as the head of the agency deems necessary or appropriate to protect the interests of the United States.
 

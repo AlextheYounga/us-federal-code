@@ -26,6 +26,8 @@ Notwithstanding paragraph (1) of subsection (a), the following are not subject t
 
 (Pub. L. 103–63, §8, Aug. 4, 1993, 107 Stat. 300; Pub. L. 113–291, div. B, title XXX, §3092(f), Dec. 19, 2014, 128 Stat. 3872.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Public Law 97–465 (commonly known as the "Small Tracts Act"), referred to in subsec. (b)(2)(A), is Pub. L. 97–465, Jan. 12, 1983, 96 Stat. 2535, which enacted sections 521c to 521i of this title and amended section 484a of this title. For complete classification of this Act to the Code, see Tables.

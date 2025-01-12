@@ -14,6 +14,8 @@ Sec.
 
 3106. Elements of the defense acquisition system: performance goals 1
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 205 "DEFENSE ACQUISITION SYSTEM", as added by Pub. L. 115–232, div. A, title VIII, §801(a), Aug. 13, 2018, 132 Stat. 1826, and consisting of reserved section 3051, was repealed by Pub. L. 116–283, div. A, title XVIII, §1808(a)(1), Jan. 1, 2021, 134 Stat. 4159.

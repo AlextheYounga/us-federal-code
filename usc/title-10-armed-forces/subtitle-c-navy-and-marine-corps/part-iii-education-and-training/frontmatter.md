@@ -15,6 +15,8 @@ Chap. Sec.
 
 859. Professional Military Education Schools 8591
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(f)(2), Aug. 13, 2018, 132 Stat. 1838, redesignated items for chapters 601 to 609 as 851 to 859 and redesignated section numbers 6901 to 7101 as 8411 to 8591. Section numbers were conformed to the first section appearing in each chapter after renumbering by Pub. L. 115–232 to reflect the probable intent of Congress.

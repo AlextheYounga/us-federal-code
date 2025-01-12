@@ -20,6 +20,8 @@ Sec.
 
 618. Action on reports of selection boards.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2006**—Pub. L. 109–364, div. A, title V, §547(d)(1), Oct. 17, 2006, 120 Stat. 2216, added item 613a.

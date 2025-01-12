@@ -114,6 +114,8 @@ thence generally northerly and northwesterly, and westerly along a line a quarte
 
 (Pub. L. 87–126, §1, Aug. 7, 1961, 75 Stat. 284.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Separability ####
 
 Pub. L. 87–126, §10, Aug. 7, 1961, 75 Stat. 293, provided that: "If any provision of this Act [sections 459b to 459b–8 of this title] or the application of such provision to any person or circumstance is held invalid, the remainder of this Act [such sections] or the application of such provision to persons or circumstances other than those to which it is held invalid shall not be affected thereby."

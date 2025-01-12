@@ -4,6 +4,8 @@ For the purpose of establishing a Federal area of national historical importance
 
 (June 8, 1949, ch. 180, §1, 63 Stat. 158.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Authorization of Appropriations ####
 
 Act June 8, 1949, ch. 180, §4, 63 Stat. 158, provided that: "There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act [sections 450hh to 450hh–2 of this title]."

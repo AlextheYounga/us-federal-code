@@ -4,6 +4,8 @@ The Secretary of the Interior is authorized to execute on behalf of the United S
 
 (June 6, 1942, ch. 380, §3, 56 Stat. 327.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 "Section 1303 of title 40" substituted in text for "the Act of August 27, 1935 (49 Stat. 885)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.

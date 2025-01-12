@@ -8,6 +8,8 @@ Sec.
 
 8913. Disposal of public stores by order of commanding officer.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1838, redesignated chapter 661 of this title as this chapter and items 7861 to 7863 as 8911 to 8913, respectively.

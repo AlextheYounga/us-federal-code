@@ -13,6 +13,8 @@ Chap. Sec.
 
 908. The Space Force 9081
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 116–283, div. A, title X, §1081(a)(47), Jan. 1, 2021, 134 Stat. 3873, struck out period at end of item for chapter 908.

@@ -22,6 +22,8 @@ In furtherance of sections 426 to 426j of this title, the boundary of Stones Riv
 
 (Pub. L. 100–205, §1, Dec. 23, 1987, 101 Stat. 1433; Pub. L. 102–225, §1(1), (2), Dec. 11, 1991, 105 Stat. 1682; Pub. L. 103–437, §6(d)(15), Nov. 2, 1994, 108 Stat. 4584.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in subsec. (b)(2)(B), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of Title 42 and Tables.

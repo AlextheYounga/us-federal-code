@@ -66,10 +66,14 @@ Consistent with applicable law, Presidential directives, Federal regulations, an
 
 (C) supporting the Department and other Federal departments or agencies in developing planning documents or conducting exercises or simulations when relevant to the designated sector or subsector or such sector.
 
-(Pub. L. 107–296, title XXII, §2215, as added Pub. L. 116–283, div. H, title XC, §9002(c)(1), Jan. 1, 2021, 134 Stat. 4770.)
+(Pub. L. 107–296, title XXII, §2218, formerly §2215, as added Pub. L. 116–283, div. H, title XC, §9002(c)(1), Jan. 1, 2021, 134 Stat. 4770; renumbered §2218 and amended, Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(v), Dec. 27, 2021, 135 Stat. 2061.)
 
 #### **Editorial Notes** ####
 
-#### Codification ####
+#### Prior Provisions ####
 
-Other sections 2215 of Pub. L. 107–296 are classified to sections 665, 665b, and 665c of this title.
+A prior section 2218 of Pub. L. 107–296, title XXII, as added Pub. L. 117–58, div. G, title VI, §70612(a), Nov. 15, 2021, 135 Stat. 1272, was renumbered section 2220A of Pub. L. 107–296 by Pub. L. 117–81, div. A, title XV, §1547(b)(1)(A)(viii), Dec. 27, 2021, 135 Stat. 2061, and transferred to section 665g of this title.
+
+#### Amendments ####
+
+**2021**—Pub. L. 117–81 re-enacted section catchline.

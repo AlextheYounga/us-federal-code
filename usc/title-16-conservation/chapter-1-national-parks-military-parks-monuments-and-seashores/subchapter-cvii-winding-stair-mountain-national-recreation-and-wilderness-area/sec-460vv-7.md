@@ -18,6 +18,8 @@ The Secretary shall administer the botanical areas in accordance with the laws, 
 
 (Pub. L. 100–499, §9, Oct. 18, 1988, 102 Stat. 2495.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.

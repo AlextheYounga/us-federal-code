@@ -26,6 +26,8 @@ The purposes of this subchapter are to—
 
 (Pub. L. 100–499, §2, Oct. 18, 1988, 102 Stat. 2491.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 100–499, §1, Oct. 18, 1988, 102 Stat. 2491, provided that: "This Act [enacting this subchapter] may be referred to as the 'Winding Stair Mountain National Recreation and Wilderness Area Act'."

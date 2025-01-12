@@ -87,6 +87,8 @@ Chap. Sec.
 
 983. Accountability and Responsibility 9831
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 116–283, div. A, title IX, §923(a)(1), (c)(3)(C), title X, §1081(a)(47), Jan. 1, 2021, 134 Stat. 3807, 3810, 3873, substituted "Air Force and Space Force" for "Air Force" in subtitle heading, struck out period at end of item for chapter 908, and added item for chapter 915 and struck out former item for chapter 915 "Appointments in the Regular Air Force".

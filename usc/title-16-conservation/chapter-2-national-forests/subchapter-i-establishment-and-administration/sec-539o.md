@@ -64,11 +64,15 @@ Subject to valid existing rights, all Federal land within the Forest is withdraw
 
 (Pub. L. 111–11, title I, §1808, Mar. 30, 2009, 123 Stat. 1060.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subtitle, referred to in subsec. (b)(2), is subtitle K (§§1801–1808) of title I of Pub. L. 111–11, Mar. 30, 2009, 123 Stat. 1052, which enacted this section and subchapter CXXXIII of chapter 1 of this title, amended section 1274 of this title, enacted provisions set out as notes under sections 460vvv and 1274 of this title, and enacted and amended provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of subtitle K to the Code, see Tables.
 
 The National Forest Management Act of 1976, referred to in subsec. (c)(1)(B), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Definitions ####
 

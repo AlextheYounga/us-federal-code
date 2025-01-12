@@ -20,6 +20,8 @@ Sec.
 
 [2117. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–92, div. A, title VII, §734(b), Dec. 20, 2019, 133 Stat. 1462, added item 2113b.

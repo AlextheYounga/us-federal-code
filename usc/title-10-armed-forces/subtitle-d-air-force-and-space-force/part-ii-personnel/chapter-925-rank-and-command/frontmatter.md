@@ -12,6 +12,8 @@ Sec.
 
 9233. Requirement of exemplary conduct.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(3)(A), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 845 of this title as this chapter and items 8572, 8575, 8579, 8581, and 8583 as 9222, 9225, 9229, 9231, and 9233, respectively.

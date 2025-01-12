@@ -42,6 +42,8 @@ Nothing in this section shall be construed to apply to or have any effect on any
 
 (Pub. L. 98–585, §6, Oct. 30, 1984, 98 Stat. 3101.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsecs. (a) and (f), was in the original "this Act", meaning Pub. L. 98–585, Oct. 30, 1984, 98 Stat. 3100, known as the Pennsylvania Wilderness Act of 1984, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
@@ -49,6 +51,8 @@ This subchapter, referred to in subsecs. (a) and (f), was in the original "this 
 The National Forest Management Act of 1976, referred to in subsec. (d), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Findings and Purpose; Map and Description ####
 

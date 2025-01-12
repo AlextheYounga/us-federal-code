@@ -26,6 +26,8 @@ Sec.
 
 430b. Executive agent for open-source intelligence tools.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2015**—Pub. L. 114–92, div. A, title X, §§1081(a)(5), 1083(a)(2), title XVI, §1631(b), Nov. 25, 2015, 129 Stat. 1001, 1004, 1111, added items 430 to 430b.

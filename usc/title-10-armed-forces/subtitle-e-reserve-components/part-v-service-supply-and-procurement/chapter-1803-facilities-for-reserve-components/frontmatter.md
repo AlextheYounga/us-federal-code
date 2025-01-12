@@ -26,6 +26,8 @@ Sec.
 
 18240. Acquisition of facilities by exchange.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–375, div. B, title XXVIII, §§2808(c), 2809(a)(2), Oct. 28, 2004, 118 Stat. 2125, 2127, substituted "Notice and wait requirements for certain projects" for "Limitation on certain projects; authority to carry out small projects with operation and maintenance funds" in item 18233a and added items 18233b and 18240.

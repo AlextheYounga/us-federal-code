@@ -26,6 +26,8 @@ Sec.
 
 352. Naval Small Craft Instruction and Technical Training School.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 116–283, div. A, title XII, §1206(b), Jan. 1, 2021, 134 Stat. 3913, added item 344 and struck out former item 344 "Participation in multinational military centers of excellence".
@@ -33,6 +35,8 @@ Sec.
 **2019**—Pub. L. 116–92, div. A, title XVII, §1731(a)(15), Dec. 20, 2019, 133 Stat. 1813, struck out "Sec." after item 350.
 
 **2018**—Pub. L. 115–232, div. A, title XII, §§1204(c)(1)(C), 1207(b), 1208(a)(2), 1209(b)(2), Aug. 13, 2018, 132 Stat. 2017, 2020, 2021, 2023, substituted "Centers for Security Studies" for "centers for security studies" in item 342, inserted "and Irregular Warfare" after "Terrorism" in item 345, and added items 351 and 352.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Defense Institute of International Legal Studies ####
 

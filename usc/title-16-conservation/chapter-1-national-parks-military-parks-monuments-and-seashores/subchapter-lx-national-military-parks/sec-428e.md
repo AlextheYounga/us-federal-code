@@ -4,6 +4,8 @@ Upon the ceding of jurisdiction by the Legislature of the State of Tennessee and
 
 (Mar. 26, 1928, ch. 248, §6, 45 Stat. 368; Pub. L. 86–738, §4, Sept. 8, 1960, 74 Stat. 876.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Fort Donelson National Battlefield" and "battlefield" substituted in text for "Fort Donelson National Military Park" and "park", respectively, in view of redesignation of Fort Donelson National Military Park as Fort Donelson National Battlefield by Pub. L. 86–738. See section 428n of this title.

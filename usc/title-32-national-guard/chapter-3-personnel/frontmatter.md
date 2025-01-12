@@ -48,11 +48,15 @@ Sec.
 
 328. Active Guard and Reserve duty: Governor's authority.
 
-[329 to 335. Repealed.]
+329. Prohibition on private funding for interstate deployment.
+
+[330 to 335. Repealed.]
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title V, §512(b), Dec. 27, 2021, 135 Stat. 1683, added item 329.
 
 **2006**—Pub. L. 109–364, div. A, title V, §526(b), Oct. 17, 2006, 120 Stat. 2196, added item 328.
 

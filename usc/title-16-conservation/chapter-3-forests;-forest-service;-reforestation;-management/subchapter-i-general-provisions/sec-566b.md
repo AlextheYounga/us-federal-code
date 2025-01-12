@@ -4,6 +4,8 @@ Notwithstanding any other provision of law, no funds heretofore or hereafter aut
 
 (Oct. 26, 1949, ch. 735, §4, 63 Stat. 910.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 7, 1924, referred to in text, is act June 7, 1924, ch. 348, 43 Stat. 653, which is classified to sections 471, 499, 505, 515, 564, 565, 566, 567, 568, 569, and 570 of this title. For complete classification of this Act to the Code, see Tables.

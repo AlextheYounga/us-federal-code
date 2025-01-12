@@ -22,6 +22,8 @@ Sec.
 
 9040. Oversight of nuclear deterrence mission.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 905, consisting of sections 9381 to 9383, related to the Aviation Leadership Program, prior to repeal by Pub. L. 114–328, div. A, title XII, §1241(i)(2), Dec. 23, 2016, 130 Stat. 2508.

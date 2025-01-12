@@ -20,11 +20,15 @@ Administrative costs in the form of overhead or indirect costs for services prov
 
 (Sept. 2, 1937, ch. 899, §6, 50 Stat. 918; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; Pub. L. 91–503, title I, §102, Oct. 23, 1970, 84 Stat. 1099.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1970**—Subsec. (a). Pub. L. 91–503 inserted an alternative method of application for funds by the submission of a comprehensive fish and wildlife resource management plan for a period of five years based on projections for fifteen years, to be updated every three years, laid down a maximum limit of federal assistance of 75 percent of the estimated cost of the implementation of the plan, and, in the existing method of application, now contained in par. (2), struck out reference to Secretary of the Treasury and the requirement that the State pay 10 percent of the costs.
 
 Subsecs. (b), (c). Pub. L. 91–503 added subsecs. (b) and (c).
+
+#### **Executive Documents** ####
 
 #### Transfer of Functions ####
 

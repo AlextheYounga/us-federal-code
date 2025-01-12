@@ -26,6 +26,8 @@ The term "Trust" means the Oklahoma City National Memorial Trust.
 
 (Pub. L. 105–58, §3, Oct. 9, 1997, 111 Stat. 1262; Pub. L. 108–199, div. F, title V, §544(b), Jan. 23, 2004, 118 Stat. 347.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–199 added par. (1), redesignated former pars. (1) to (3) as pars. (2) to (4), respectively, and struck out "designated under section 450ss–3(a) of this title" before the period in par. (4).

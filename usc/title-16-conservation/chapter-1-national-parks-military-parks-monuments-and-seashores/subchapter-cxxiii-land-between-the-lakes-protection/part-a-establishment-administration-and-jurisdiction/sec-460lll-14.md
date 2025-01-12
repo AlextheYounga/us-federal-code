@@ -16,6 +16,8 @@ To the maximum extent provided by law, from funds appropriated to the Department
 
 (Pub. L. 105–277, div. A, §101(e) [title V, §514], Oct. 21, 1998, 112 Stat. 2681–231, 2681–313.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 204 of title 23, referred to in subsec. (a), was repealed and a new section 204 enacted by Pub. L. 112–141, div. A, title I, §1119(a), July 6, 2012, 126 Stat. 473, 489.

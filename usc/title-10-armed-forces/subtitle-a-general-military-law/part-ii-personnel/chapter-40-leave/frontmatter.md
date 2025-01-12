@@ -30,6 +30,8 @@ Sec.
 
 710. Career flexibility to enhance retention of members.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title V, §551(b)(1), Aug. 13, 2018, 132 Stat. 1768, added item 710.
@@ -47,6 +49,8 @@ Sec.
 **1981**—Pub. L. 97–81, §2(b)(2), Nov. 20, 1981, 95 Stat. 1087, added items 706 and 707.
 
 **1980**—Pub. L. 96–579, §5(b)(2), Dec. 23, 1980, 94 Stat. 3367, added item 705.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Pilot Programs on Career Flexibility To Enhance Retention of Members of the Armed Forces ####
 

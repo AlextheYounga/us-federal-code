@@ -4,6 +4,8 @@ The Secretary may acquire lands or interests in lands within the boundaries of t
 
 (Pub. L. 100–696, title I, §105, Nov. 18, 1988, 102 Stat. 4573.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Land Exchange and Conservation in Arizona ####
 
 For provisions relating to land exchange and conservation in southeastern Arizona, see section 539p of this title.

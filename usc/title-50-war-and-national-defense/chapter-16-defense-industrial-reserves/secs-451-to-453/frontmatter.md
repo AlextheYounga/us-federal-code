@@ -1,8 +1,10 @@
 ### §§451 to 453. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
-Sections 451, 452, and 453 of this title were transferred to section 2535 of Title 10, Armed Forces, and redesignated as subsecs. (a), (c), and (b), respectively, of section 2535 by Pub. L. 102–484, div. D, title XLII, §4235(a)(2), (3), (b), Oct. 23, 1992, 106 Stat. 2690, 2691.
+Sections 451, 452, and 453 of this title were transferred to section 2535 of Title 10, Armed Forces, and redesignated as subsecs. (a), (c), and (b), respectively, of section 2535 by Pub. L. 102–484, div. D, title XLII, §4235(a)(2), (3), (b), Oct. 23, 1992, 106 Stat. 2690, 2691. Section 2535 of Title 10 was transferred and renumbered as section 4881 of that title by Pub. L. 116–283, div. A, title XVIII, §1870(e)(2)(A), Jan. 1, 2021, 134 Stat. 4286.
 
 Section 451, acts July 2, 1948, ch. 811, §2, 62 Stat. 1225; Nov. 16, 1973, Pub. L. 93–155, title VIII, §809, 87 Stat. 617, related to Congressional declaration of purpose and policy in enacting this chapter.
 

@@ -4,6 +4,8 @@ As soon as practicable after October 20, 1986, the Secretary of Agriculture shal
 
 (Pub. L. 99–504, title II, §202, Oct. 20, 1986, 100 Stat. 1804.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.

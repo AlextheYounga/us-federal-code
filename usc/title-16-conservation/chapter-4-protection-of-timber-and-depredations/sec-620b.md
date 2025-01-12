@@ -168,6 +168,8 @@ Nothing in this section restricts or authorizes any restriction on the domestic 
 
 (Pub. L. 101–382, title IV, §490, Aug. 20, 1990, 104 Stat. 715; Pub. L. 105–83, title VI, §602(a), Nov. 14, 1997, 111 Stat. 1618.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 August 20, 1990, referred to in subsec. (a)(2)(B), was in the original "the effective date of this title", which is the date of enactment of title IV of Pub. L. 101–382, approved Aug. 20, 1990, except as otherwise provided in sections 620 to 620j of this title, see section 494 of Pub. L. 101–382, set out as an Effective Date note under section 620 of this title.

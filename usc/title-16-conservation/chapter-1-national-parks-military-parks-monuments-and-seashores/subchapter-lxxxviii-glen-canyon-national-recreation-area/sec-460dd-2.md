@@ -10,6 +10,8 @@ All receipts derived from permits and leases issued on lands in the recreation a
 
 (Pub. L. 92–593, §3, Oct. 27, 1972, 86 Stat. 1312.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Mineral Leasing Act of February 25, 1920, as amended, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 181 of Title 30 and Tables.

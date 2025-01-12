@@ -6,11 +6,15 @@ Sec.
 
 8432. Recruit basic training: privacy.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(3), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 602 of this title as this chapter and items 6931 and 6932 as 8431 and 8432, respectively.
 
 **1998**—Pub. L. 105–261, div. A, title V, §522(b)(2), Oct. 17, 1998, 112 Stat. 2013, added item 6932.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Prohibition on Gender-Segregated Training at Marine Corps Recruit Depots ####
 

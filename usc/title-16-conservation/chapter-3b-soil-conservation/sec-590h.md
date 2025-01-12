@@ -200,6 +200,8 @@ A payment that may be made to a producer under this section may be assigned only
 
 (Apr. 27, 1935, ch. 85, §8, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1149; amended June 28, 1937, ch. 395, §1, 50 Stat. 329; Feb. 16, 1938, ch. 30, title I, §§101, 102, 103, 52 Stat. 31, 34, 35; Apr. 7, 1938, ch. 107, §§16–18, 52 Stat. 204, 205; Apr. 10, 1939, ch. 48, 53 Stat. 573; May 14, 1940, ch. 200, 54 Stat. 216; July 2, 1940, ch. 521, §2, 54 Stat. 727; June 21, 1941, ch. 217, 55 Stat. 257; Dec. 26, 1941, ch. 626, §1, 55 Stat. 860; Feb. 6, 1942, ch. 44, §4, 56 Stat. 53; Sept. 29, 1942, ch. 568, 56 Stat. 761; Sept. 21, 1944, ch. 412, title III, §301, 58 Stat. 737; July 25, 1946, ch. 642, 60 Stat. 663; July 3, 1948, ch. 827, title I, §4, 62 Stat. 1250; Sept. 23, 1950, ch. 997, 64 Stat. 978; May 26, 1952, ch. 335, 66 Stat. 95; Aug. 28, 1954, ch. 1041, title V, §501, 68 Stat. 907; Aug. 9, 1955, ch. 624, 69 Stat. 545; Apr. 6, 1956, ch. 186, 70 Stat. 105; July 24, 1956, ch. 668, 70 Stat. 597; Pub. L. 85–553, July 25, 1958, 72 Stat. 414; Pub. L. 86–70, §13(a), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §8(a), July 12, 1960, 74 Stat. 412; Pub. L. 87–703, title I, §101(2), (3), Sept. 27, 1962, 76 Stat. 605, 606; Pub. L. 88–534, §1, Aug. 31, 1964, 78 Stat. 743; Pub. L. 89–742, Nov. 2, 1966, 80 Stat. 1167; Pub. L. 92–419, title VI, §§605, 606(2)–(5), Aug. 30, 1972, 86 Stat. 676, 677; Pub. L. 95–113, title XV, §1501(a), Sept. 29, 1977, 91 Stat. 1019; Pub. L. 96–294, title II, §259, June 30, 1980, 94 Stat. 709; Pub. L. 99–198, title XVII, §§1711(a), 1712, Dec. 23, 1985, 99 Stat. 1635, 1636; Pub. L. 99–253, §3, Feb. 28, 1986, 100 Stat. 36; Pub. L. 99–500, §101(a) [title VI, §645], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) [title VI, §645], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §204, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XI, §1146, Nov. 28, 1990, 104 Stat. 3516; Pub. L. 102–237, title II, §202, Dec. 13, 1991, 105 Stat. 1848; Pub. L. 103–354, title II, §227(a), Oct. 13, 1994, 108 Stat. 3216; Pub. L. 104–127, title III, §336(a)(1)(A), Apr. 4, 1996, 110 Stat. 1004; Pub. L. 107–171, title X, §10708(b), May 13, 2002, 116 Stat. 522; Pub. L. 110–234, title I, §1615, May 22, 2008, 122 Stat. 1021; Pub. L. 110–246, §4(a), title I, §1615, June 18, 2008, 122 Stat. 1664, 1749; Pub. L. 115–334, title II, §2301(d)(2)(D), Dec. 20, 2018, 132 Stat. 4554.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Food Security Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§3839aa et seq.) of part IV of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of Title 7, Agriculture, and Tables.
@@ -330,6 +332,8 @@ Subsec. (g). Act Apr. 7, 1938, substituted second and third sentences for senten
 
 **1937**—Subsec. (a). Act June 28, 1937, substituted "January 1, 1942" for "January 1, 1938" wherever appearing, and "December 31, 1941" for "December 31, 1937".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2008 Amendment ####
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
@@ -357,10 +361,6 @@ Amendment by act July 3, 1948, effective July 3, 1948, see section 6 of act July
 #### Effective Date of 1938 Amendment ####
 
 Act Feb. 16, 1938, ch. 30, title I, §105, 52 Stat. 36, as amended by section 1 of act Apr. 7, 1938, provided that the amendments by that act, amending this section, "shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938."
-
-#### Transfer of Functions ####
-
-Functions respecting lands under jurisdiction of Department of the Interior, transfer to Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
 #### Status of Permanent Employees of County Committees ####
 
@@ -413,5 +413,11 @@ Pub. L. 86–568, title I, §115(a), July 1, 1960, 74 Stat. 302, provided that: 
 #### Two County Committees for Certain Counties in Minnesota and Iowa ####
 
 Pub. L. 85–278, Sept. 2, 1957, 71 Stat. 601, provided: "That, notwithstanding the provisions of subsection (b) of section 8 of the Soil Conservation and Domestic Allotment Act [subsec. (b) of this section], two county committees shall be elected annually under such subsection for the counties of Otter Tail, Polk, and Saint Louis, in the State of Minnesota, and for the county of Pottawattamie, in the State of Iowa, and that the actions heretofore or hereafter taken by each of such committees shall be given the same effect in the area served by it as is given to the actions of the county committee in a county served by a single county committee."
+
+#### **Executive Documents** ####
+
+#### Transfer of Functions ####
+
+Functions respecting lands under jurisdiction of Department of the Interior, transfer to Department of the Interior, see Transfer of Functions note set out under section 590a of this title.
 
 [<sup>1</sup> So in original. The period probably should be preceded by an additional closing parenthesis.](#590h_1)

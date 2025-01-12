@@ -4,6 +4,8 @@ In order to provide for public outdoor recreation use and enjoyment of certain s
 
 (Pub. L. 92–536, §1, Oct. 23, 1972, 86 Stat. 1066; Pub. L. 95–625, title III, §323, Nov. 10, 1978, 92 Stat. 3489; Pub. L. 98–170, Nov. 29, 1983, 97 Stat. 1116; Pub. L. 103–437, §6(l), Nov. 2, 1994, 108 Stat. 4586.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–437 substituted "Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives" for "Committees on Interior and Insular Affairs of the United States House of Representatives and United States Senate".
@@ -11,6 +13,8 @@ In order to provide for public outdoor recreation use and enjoyment of certain s
 **1983**—Pub. L. 98–170 substituted "CUIS 40,000E" for "CUIS 40,000D".
 
 **1978**—Pub. L. 95–625 substituted reference to Boundary Map "numbered CUIS 40,000D, and dated January 1978" for "numbered CUIS—40,000B, and dated June 1971".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 2004 Amendment ####
 

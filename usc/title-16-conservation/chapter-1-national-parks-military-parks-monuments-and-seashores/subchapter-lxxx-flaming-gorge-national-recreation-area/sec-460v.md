@@ -4,6 +4,8 @@ In order to provide, in furtherance of the purposes of the Colorado River storag
 
 (Pub. L. 90–540, §1, Oct. 1, 1968, 82 Stat. 904.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Dutch John Federal Property Disposition and Assistance ####
 
 Pub. L. 105–326, Oct. 30, 1998, 112 Stat. 3040, as amended by Pub. L. 106–176, title III, §303, Mar. 10, 2000, 114 Stat. 32, related to disposition of certain Federal properties located in Dutch John, Utah, and to assistance to local government in interim delivery of basic services to Dutch John community.

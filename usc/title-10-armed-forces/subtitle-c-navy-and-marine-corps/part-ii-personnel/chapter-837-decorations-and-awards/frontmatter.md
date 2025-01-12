@@ -38,6 +38,8 @@ Sec.
 
 8308. Korea Defense Service Medal.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 837, consisting of sections 8351 to 8396, related to appointments as reserved officers in the Air Force, prior to repeal, except for sections 8351 and 8352 (now sections 12212 and 12214 of this title), by Pub. L. 103–337, div. A, title XVI, §1629(c)(1), Oct. 5, 1994, 108 Stat. 2963.
@@ -55,6 +57,8 @@ A prior chapter 837, consisting of sections 8351 to 8396, related to appointment
 Pub. L. 107–248, title VIII, §8143(c)(2)(B), Oct. 23, 2002, 116 Stat. 1570, added item 6257 "Medal of honor: presentation of Medal of Honor Flag".
 
 **2001**—Pub. L. 107–107, div. A, title V, §553(b)(1)(B), Dec. 28, 2001, 115 Stat. 1116, added item 6256.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Extension of Time for Award of Decoration ####
 

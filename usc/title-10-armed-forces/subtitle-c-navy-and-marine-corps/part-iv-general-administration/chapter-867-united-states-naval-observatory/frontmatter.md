@@ -6,6 +6,8 @@ Sec.
 
 8716. Naval Observatory: exchange of information with foreign offices.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 867, consisting of sections 8911 to 8929, related to retirement from the Air Force for length of service, prior to renumbering as chapter 941 of this title.

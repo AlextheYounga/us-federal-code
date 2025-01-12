@@ -22,6 +22,8 @@ For the purposes of protecting and enhancing the natural beauty, special ecologi
 
 (Pub. L. 102–217, §3, Dec. 11, 1991, 105 Stat. 1667.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The laws pertaining to mineral leasing, referred to in subsec. (b)(5), are classified generally to Title 30, Mineral Lands and Mining.

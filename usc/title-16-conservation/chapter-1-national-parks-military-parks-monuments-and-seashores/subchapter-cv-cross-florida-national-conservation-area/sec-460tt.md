@@ -60,6 +60,8 @@ The exact acreage and legal description of the real property to be transferred p
 
 (Pub. L. 99–662, title XI, §1114, Nov. 17, 1986, 100 Stat. 4232; Pub. L. 101–640, title IV, §402, Nov. 28, 1990, 104 Stat. 4644; Pub. L. 102–580, title I, §102(e), Oct. 31, 1992, 106 Stat. 4805.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of July 23, 1942, referred to in subsec. (a), is act July 23, 1942, ch. 520, 56 Stat. 703, as amended. See National Defense Pipe Lines note set out preceding section 715 of Title 15, Commerce and Trade.

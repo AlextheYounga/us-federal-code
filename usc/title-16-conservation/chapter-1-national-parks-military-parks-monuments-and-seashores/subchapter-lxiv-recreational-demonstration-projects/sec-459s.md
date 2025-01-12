@@ -4,9 +4,13 @@ After June 6, 1942, the lands acquired for the Acadia, French Creek, Shenandoah,
 
 (June 6, 1942, ch. 380, §2, 56 Stat. 327.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Proviso directing the Secretary of the Interior to file with the National Archives within six months after June 6, 1942, a map of each recreational demonstration project enumerated in the section has been omitted as executed.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

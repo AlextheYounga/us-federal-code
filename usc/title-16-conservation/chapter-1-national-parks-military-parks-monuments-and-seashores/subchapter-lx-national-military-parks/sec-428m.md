@@ -4,6 +4,8 @@ There is authorized to be appropriated the sum of not to exceed $454,000 for the
 
 (Pub. L. 86–738, §3, Sept. 8, 1960, 74 Stat. 876; Pub. L. 92–272, title I, §101(5), Apr. 11, 1972, 86 Stat. 120.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1972**—Pub. L. 92–272 increased authorization of appropriations from a sum not to exceed $226,000 to a sum not to exceed $454,000.

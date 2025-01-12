@@ -22,6 +22,8 @@ As used in this section, the term "improved property" means a detached, year-rou
 
 (Pub. L. 95–344, title I, §102, Aug. 15, 1978, 92 Stat. 474; Pub. L. 98–568, §1(c), Oct. 30, 1984, 98 Stat. 2928; Pub. L. 106–154, §2(b), (e)(1), Dec. 9, 1999, 113 Stat. 1737, 1738.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 In subsec. (b), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.

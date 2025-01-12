@@ -22,6 +22,8 @@ Sec.
 
 7329. Computation of retired pay: law applicable.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(B), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 367 of this title as this chapter and items 3911, 3914, 3917, 3918, 3920, 3921, 3924 to 3926, and 3929 as 7311, 7314, 7317, 7318, 7320, 7321, 7324 to 7326, and 7329, respectively.

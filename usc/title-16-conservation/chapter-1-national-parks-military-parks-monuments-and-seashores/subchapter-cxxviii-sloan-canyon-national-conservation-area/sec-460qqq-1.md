@@ -20,6 +20,8 @@ The term "map" means the map entitled "Southern Nevada Public Land Management Ac
 
 (Pub. L. 107–282, title VI, §603, Nov. 6, 2002, 116 Stat. 2009.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Definitions ####
 
 Pub. L. 107–282, §3, Nov. 6, 2002, 116 Stat. 1995, provided that:

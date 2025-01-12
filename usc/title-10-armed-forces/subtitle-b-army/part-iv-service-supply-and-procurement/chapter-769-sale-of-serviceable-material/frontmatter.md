@@ -18,6 +18,8 @@ Sec.
 
 7629. Proceeds: disposition.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(4), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 439 of this title as this chapter and items 4621 to 4629 as 7621 to 7629, respectively.

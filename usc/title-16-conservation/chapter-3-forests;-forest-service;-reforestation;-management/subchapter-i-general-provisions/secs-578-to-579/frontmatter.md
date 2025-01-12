@@ -1,5 +1,7 @@
 ### §§578 to 579. Omitted ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 578, act June 25, 1940, ch. 421, 54 Stat. 546, which authorized rental of Forest Service equipment to other Federal agencies, was from the Department of Agriculture Appropriation Act, 1941, and was not repeated in subsequent appropriation acts. Similar provisions appeared in the Department of Agriculture Appropriation Act, 1940, approved June 30, 1939, ch. 253, title I, 53 Stat. 955.

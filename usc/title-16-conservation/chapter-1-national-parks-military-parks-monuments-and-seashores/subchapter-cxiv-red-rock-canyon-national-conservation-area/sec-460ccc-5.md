@@ -6,6 +6,8 @@
 
 (Pub. L. 101–621, §7, Nov. 16, 1990, 104 Stat. 3344; Pub. L. 103–450, §2(b), Nov. 2, 1994, 108 Stat. 4766.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–450 designated existing provisions as subsec. (a) and added subsec. (b).

@@ -4,6 +4,8 @@ Appropriations for the Forest Service shall be available for medical supplies an
 
 (Sept. 21, 1944, ch. 412, title II, §202, 58 Stat. 736; Pub. L. 85–464, §4, June 20, 1958, 72 Stat. 217.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as a part of the Department of Agriculture Organic Act of 1944.

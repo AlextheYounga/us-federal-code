@@ -36,9 +36,13 @@ The boundaries of the Wilson's Creek National Battlefield, as revised by subsect
 
 (Pub. L. 86–434, §1, Apr. 22, 1960, 74 Stat. 76; Pub. L. 108–394, §2(a), Oct. 30, 2004, 118 Stat. 2247.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–394 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (g).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 2004 Amendment ####
 

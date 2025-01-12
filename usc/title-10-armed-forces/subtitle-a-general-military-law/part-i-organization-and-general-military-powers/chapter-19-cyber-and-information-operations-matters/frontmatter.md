@@ -16,6 +16,8 @@ Sec.
 
 397. Principal Information Operations Advisor.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–92, div. A, title XVI, §1631(a)(2)(A), Dec. 20, 2019, 133 Stat. 1742, substituted "CYBER AND INFORMATION OPERATIONS MATTERS" for "CYBER MATTERS" in chapter heading and added item 397.

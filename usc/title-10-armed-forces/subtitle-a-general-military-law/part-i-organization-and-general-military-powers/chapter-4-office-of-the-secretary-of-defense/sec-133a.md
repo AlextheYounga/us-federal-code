@@ -18,6 +18,8 @@
 
 (Added Pub. L. 114–328, div. A, title IX, §901(a)(1), Dec. 23, 2016, 130 Stat. 2339; amended Pub. L. 115–91, div. A, title IX, §910(c)(2), Dec. 12, 2017, 131 Stat. 1518; Pub. L. 116–92, div. A, title IX, §902(2), Dec. 20, 2019, 133 Stat. 1542.)
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior section 133a, added Pub. L. 99–500, §101(c) [title X, §902(a)(1)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–131, and Pub. L. 99–591, §101(c) [title X, §902(a)(1)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–131; Pub. L. 99–661, div. A, title IX, formerly title IV, §902(a)(1), Nov. 14, 1986, 100 Stat. 3911, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; amended Pub. L. 103–160, div. A, title IX, §904(c), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–337, div. A, title X, §1070(a)(2), Oct. 5, 1994, 108 Stat. 2855; Pub. L. 104–106, div. A, title IX, §903(c)(1), Feb. 10, 1996, 110 Stat. 401; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 106–65, div. A, title IX, §911(c), Oct. 5, 1999, 113 Stat. 718; Pub. L. 107–107, div. A, title X, §1048(b)(1), Dec. 28, 2001, 115 Stat. 1225; Pub. L. 111–84, div. A, title IX, §906(c)(1)(A), (2)(A), Oct. 28, 2009, 123 Stat. 2427, established the position of Principal Deputy Under Secretary of Defense for Acquisition, Technology, and Logistics, prior to repeal by Pub. L. 111–383, div. A, title IX, §901(b)(1), (p), Jan. 7, 2011, 124 Stat. 4317, 4327, effective Jan. 1, 2011.
@@ -32,6 +34,8 @@ Another prior section 133a was renumbered section 117 of this title.
 
 Subsec. (c)(2). Pub. L. 115–91, §910(c)(2)(B), inserted "the Chief Management Officer," after "the Deputy Secretary,".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date of 2017 Amendment ####
 
 Pub. L. 115–91, div. A, title IX, §910(c), Dec. 12, 2017, 131 Stat. 1518, provided that the amendment made by section 910(c)(2) is effective on Feb. 1, 2018, and immediately after the coming into effect of the amendments made by section 901 of Pub. L. 114–328 (see Tables for classification).
@@ -39,6 +43,20 @@ Pub. L. 115–91, div. A, title IX, §910(c), Dec. 12, 2017, 131 Stat. 1518, pro
 #### Effective Date ####
 
 Pub. L. 114–328, div. A, title IX, §901(a)(1), Dec. 23, 2016, 130 Stat. 2339, provided that this section is effective on Feb. 1, 2018.
+
+#### Semiannual Updates on Meetings Held by the Missile Defense Executive Board ####
+
+Pub. L. 117–81, div. A, title XVI, §1671(a)–(c), Dec. 27, 2021, 135 Stat. 2112, provided that:
+
+"(a) Semiannual Updates.—Not later than March 1 and September 1 of each year, the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment, acting in their capacities as co-chairs of the Missile Defense Executive Board pursuant to section 1681(c) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 2162), shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a semiannual update including, with respect to the six-month period preceding the update—
+
+"(1) the dates on which the Board met; and
+
+"(2) except as provided by subsection (b), a summary of any decisions made by the Board at each meeting of the Board and the rationale for and options that informed such decisions.
+
+"(b) Exception for Certain Budgetary Matters.—The co-chairs shall not be required to include in a semiannual update under subsection (a) the matters described in paragraph (2) of such subsection with respect to decisions of the Board relating to the budget of the President for a fiscal year if the budget for that fiscal year has not been submitted to Congress under section 1105 of title 31, United States Code, as of the date of the semiannual update.
+
+"(c) Form of Update.—The co-chairs may provide a semiannual update under subsection (a) either in the form of a briefing or a written report."
 
 #### Service of Incumbent USD for ATL in Position ####
 

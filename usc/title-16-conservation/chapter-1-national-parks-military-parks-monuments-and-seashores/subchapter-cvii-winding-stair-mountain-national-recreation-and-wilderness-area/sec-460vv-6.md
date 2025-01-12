@@ -22,6 +22,8 @@ Any sales of timber from within the recreation area shall be designed so as to n
 
 (Pub. L. 100–499, §8, Oct. 18, 1988, 102 Stat. 2494.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.

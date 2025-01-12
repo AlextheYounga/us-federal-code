@@ -40,7 +40,7 @@ Sec.
 
 2319. Critical skill training bonus.
 
-#### **Editoral Notes** ####
+#### **Editorial Notes** ####
 
 #### Prior Provisions ####
 

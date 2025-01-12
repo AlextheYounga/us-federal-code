@@ -6,6 +6,8 @@
 
 (Pub. L. 86–655, §2, July 14, 1960, 74 Stat. 520.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 2 of the Act of December 15, 1868, referred to in subsec. (a), means act Dec. 15, 1868, ch. 2, §2, 15 Stat. 266, which was not classified to the Code.

@@ -29,11 +29,15 @@ Chap. Sec.
 
 112. Cyber Scholarship Program 2200
 
-113. Defense Civilian Training Corps 2200g. 1
+113. Defense Civilian Training Corps 2200g
+
+#### **Editorial Notes** ####
 
 #### Amendments ####
 
-**2021**—Pub. L. 116–283, div. A, title X, §1081(c)(8), Jan. 1, 2021, 134 Stat. 3873, amended Pub. L. 116–92, §1731(a)(2). See 2019 Amendment note below.
+**2021**—Pub. L. 117–81, div. A, title X, §1081(a)(25), Dec. 27, 2021, 135 Stat. 1921, struck out period after "2200g" in item for chapter 113.
+
+Pub. L. 116–283, div. A, title X, §1081(c)(8), Jan. 1, 2021, 134 Stat. 3873, amended Pub. L. 116–92, §1731(a)(2). See 2019 Amendment note below.
 
 Pub. L. 116–283, div. A, title X, §1081(a)(2), Jan. 1, 2021, 134 Stat. 3870, which directed the amendment of the table of chapters "at the beginning of part IV" of this subtitle by adding item for chapter 113, was executed in the analysis for this part to reflect the probable intent of Congress.
 
@@ -68,5 +72,3 @@ Pub. L. 96–342, title IX, §901(b), Sept. 8, 1980, 94 Stat. 1114, added item f
 **1972**—Pub. L. 92–426, §2(b), Sept. 21, 1972, 86 Stat. 719, added items for chapters 104 and 105.
 
 **1964**—Pub. L. 88–647, title I, §101(2), title II, §201(2), Oct. 13, 1964, 78 Stat. 1064, 1069, added items for chapters 102 and 103.
-
-[<sup>1</sup> So in original. The period probably should not appear.](#PARTIII_1)

@@ -4,6 +4,8 @@ There are hereby authorized to be appropriated not more than $146,000 for the ac
 
 (Pub. L. 89–293, §4, Oct. 22, 1965, 79 Stat. 1070; Pub. L. 96–607, title I, §101, Dec. 28, 1980, 94 Stat. 3539.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1980**—Pub. L. 96–607 substituted "$146,000 for the acquisition of lands and interests in land and not more than $1,862,000" for "$700,000 for the acquisition of lands and interests in land and".

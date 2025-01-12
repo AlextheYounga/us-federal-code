@@ -36,6 +36,8 @@ The Secretary may permit the owner or owners of any improved residential propert
 
 (Pub. L. 100–696, title VII, §705, Nov. 18, 1988, 102 Stat. 4605; Pub. L. 101–40, §4(1), June 20, 1989, 103 Stat. 82.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1989**—Subsec. (a). Pub. L. 101–40 substituted "Other" for "Our" in third sentence.

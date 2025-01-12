@@ -10,6 +10,8 @@ The lands designated as the Sawtooth Wilderness Area, which supersedes the Sawto
 
 (Pub. L. 92–400, §2, Aug. 22, 1972, 86 Stat. 612.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Wilderness Act, referred to in subsec. (b), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of this title and Tables.

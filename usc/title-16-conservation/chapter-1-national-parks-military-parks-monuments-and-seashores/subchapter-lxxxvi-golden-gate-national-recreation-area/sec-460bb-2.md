@@ -66,6 +66,8 @@ With reference to those lands known as the San Francisco water department proper
 
 (Pub. L. 92–589, §3, Oct. 27, 1972, 86 Stat. 1299; Pub. L. 95–625, title III, §317(b)–(e), Nov. 10, 1978, 92 Stat. 3485; Pub. L. 96–607, title X, §1001(3)–(5), Dec. 28, 1980, 94 Stat. 3544.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Upon enactment, referred to in subsec. (d), probably means the date of enactment of this subchapter by Pub. L. 92–589, which was Oct. 27, 1972.
@@ -93,6 +95,8 @@ Subsec. (j). Pub. L. 95–625, §317(c), substituted provision making the subsec
 Subsec. (k). Pub. L. 95–625, §317(d), defined "improved property" to include residential dwelling, the construction of which was begun, in the case of areas added by action of the Ninety-fifth Congress, October 1, 1978, and included definition of "agricultural property".
 
 Subsecs. (n), (o). Pub. L. 95–625, §317(e), added subsecs. (n) and (o).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

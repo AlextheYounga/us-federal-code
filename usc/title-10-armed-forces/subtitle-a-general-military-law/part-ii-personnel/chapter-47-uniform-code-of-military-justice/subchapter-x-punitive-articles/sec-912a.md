@@ -12,6 +12,8 @@
 
 (Added Pub. L. 98–209, §8(a), Dec. 6, 1983, 97 Stat. 1403.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Effective Date ####
 
 Section effective first day of eighth calendar month beginning after Dec. 6, 1983, but not applicable to any offense committed before that date and not to be construed to invalidate the prosecution of any offense committed before that date, see section 12(a)(1), (5) of Pub. L. 98–209, set out as an Effective Date of 1983 Amendment note under section 801 of this title.

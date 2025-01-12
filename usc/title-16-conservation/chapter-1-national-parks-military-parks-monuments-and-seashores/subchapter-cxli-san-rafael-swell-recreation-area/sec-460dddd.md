@@ -30,6 +30,8 @@ A copy of the map and legal description filed under paragraph (1) shall be on fi
 
 (Pub. L. 116–9, title I, §1221, Mar. 12, 2019, 133 Stat. 668.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Emery County Public Land Management ####
 
 Pub. L. 116–9, title I, §§1211–1214, Mar. 12, 2019, 133 Stat. 667, provided that:

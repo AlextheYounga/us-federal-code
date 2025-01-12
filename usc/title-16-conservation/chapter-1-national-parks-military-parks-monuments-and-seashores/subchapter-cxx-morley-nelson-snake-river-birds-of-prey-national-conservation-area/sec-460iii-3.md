@@ -74,6 +74,8 @@ Notwithstanding any provision of this subchapter, or regulations and management 
 
 (Pub. L. 103–64, §4, Aug. 4, 1993, 107 Stat. 305; Pub. L. 111–11, title II, §2301(c)(2), Mar. 30, 2009, 123 Stat. 1101.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 28, 1934, referred to in subsec. (f), is act June 28, 1934, ch. 865, 48 Stat. 1269, as amended, which is classified principally to subchapter I (§315 et seq.) of chapter 8A of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 315 of Title 43 and Tables.
@@ -85,6 +87,8 @@ The Federal Power Act, referred to in subsec. (i), is act June 10, 1920, ch. 285
 **2009**—Subsec. (a)(2). Pub. L. 111–11, §2301(c)(2)(A), substituted "conservation area is" for "Conservation Area is".
 
 Subsec. (d). Pub. L. 111–11, §2301(c)(2)(B), substituted "visitors center" for "Visitors Center".
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Abolition of House Committee on Merchant Marine and Fisheries ####
 

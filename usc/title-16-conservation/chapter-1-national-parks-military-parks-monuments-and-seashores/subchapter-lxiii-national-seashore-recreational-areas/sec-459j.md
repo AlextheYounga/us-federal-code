@@ -4,6 +4,8 @@ In order to preserve and protect the outstanding natural, scenic, scientific, ec
 
 (Pub. L. 93–626, §1, Jan. 3, 1975, 88 Stat. 2121; Pub. L. 103–437, §6(a)(4), Nov. 2, 1994, 108 Stat. 4583.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Pub. L. 103–437 substituted "Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives" for "Committees on Interior and Insular Affairs of the United States Congress".

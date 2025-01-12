@@ -32,6 +32,8 @@ Motorized travel shall be permitted within the recreation management area only o
 
 (Pub. L. 103–77, §5, Aug. 13, 1993, 107 Stat. 760.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Short Title ####
 
 Pub. L. 103–77, §1(a), Aug. 13, 1993, 107 Stat. 756, provided that: "This Act [enacting this section and section 539j of this title, enacting provisions set out as a note under section 539j of this title, and enacting and amending provisions listed in a table of Wilderness Areas set out under section 1132 of this title] may be cited as the 'Colorado Wilderness Act of 1993'."

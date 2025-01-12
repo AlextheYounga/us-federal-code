@@ -592,63 +592,9 @@ Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, as amended by Ex. Ord. No. 120
 
 Ex. Ord. No. 11827, Jan. 4, 1975, 40 F.R. 1217, as amended by Ex. Ord. No. 11915, May 10, 1976, 41 F.R. 19195, superseded by Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705.
 
-#### Ex. Ord. No. 13875. Evaluating and Improving the Utility of Federal Advisory Committees ####
+#### Executive Order No. 13875 ####
 
-Ex. Ord. No. 13875, June 14, 2019, 84 F.R. 28711, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and consistent with the Federal Advisory Committee Act (FACA), as amended (5 U.S.C. App.), it is hereby ordered as follows:
-
-Section 1. *Review of Current Advisory Committees*. (a) Each executive department and agency (agency) shall evaluate the need for each of its current advisory committees established under section 9(a)(2) of FACA and those advisory committees established under section 9(a)(1) that are authorized by law but not required by statute (eligible committees).
-
-(b) Each agency shall, by September 30, 2019, terminate at least one-third of its current committees established under section 9(a)(2) of FACA, including committees for which the:
-
-(i) stated objectives of the committee have been accomplished;
-
-(ii) subject matter or work of the committee has become obsolete;
-
-(iii) primary functions have been assumed by another entity; or
-
-(iv) agency determines that the cost of operation is excessive in relation to the benefits to the Federal Government.
-
-(c) Each agency may request a waiver of the requirement in subsection (b) of this section from the Director of the Office of Management and Budget (Director). The Director may grant such a waiver if the Director concludes it is necessary for the delivery of essential services, for effective program delivery, or because it is otherwise warranted by the public interest.
-
-(d) Each agency that has fewer than three current eligible committees is exempt from subsection (b) of this section.
-
-(e) Agencies may count eligible committees terminated since January 20, 2017, toward the requirement of subsection (b) of this section.
-
-Sec. 2. *Limitations on New Advisory Committees*. The Government-wide combined total number of eligible committees (excluding committees covered by section 6(d) of this order) shall not exceed 350. If the combined total number of eligible committees exceeds 350, an agency may not establish a new advisory committee under section 9(a)(2) of FACA, unless the agency obtains a waiver pursuant to subsection 4(b) of this order. Such a waiver is in addition to the notice and other requirements of FACA and its implementing regulations.
-
-Sec. 3. *Reporting Requirements*. (a) The head of each agency shall submit to the Director on or before August 1, 2019:
-
-(i) a recommendation for each of the agency's current advisory committees established by the President under section 9(a)(1) of FACA regarding whether the committee should be continued; and
-
-(ii) a detailed plan, for each advisory committee required by statute, for continuing or terminating such committee, including, as appropriate, recommended legislation for submission to the Congress.
-
-(b) The Administrator of General Services (Administrator) shall submit to the Director such justifications and recommendations required by subsection (a) of this section for independent Presidential advisory committees, as defined by 41 CFR 102-3.25.
-
-Sec. 4. *Office of Management and Budget Role*. (a) The Director, in coordination with the Administrator, shall issue instructions regarding the implementation of this order, including how to calculate the number of eligible committees to eliminate in each agency and how to comply with applicable law.
-
-(b) The Director may, with the concurrence of the Administrator, grant an agency a waiver of the requirements of section 2 of this order if the Director concludes that such waiver is necessary for the delivery of essential services, for effective program delivery, or because it is otherwise warranted by the public interest.
-
-(c) By September 1, 2019, the Director shall make appropriate recommendations to the President about terminating committees established by the President under section 9(a)(1) of FACA. The Director shall also include in the President's FY 2021 budget submission to the Congress a detailed plan for terminating such committees required by statute whose continued operations no longer serve the public interest, including with respect to the criteria set forth in subsection 1(b) of this order.
-
-Sec. 5. *Exemption for Merit Review Panels*. (a) The requirements of sections 1, 2, and 3 of this order do not apply to a merit review panel or advisory committee whose primary purpose is to provide scientific expertise to support agencies making decisions related to the safety or efficacy of products to be marketed to American consumers.
-
-(b) A merit review panel, for purposes of this order, is any collegial body whose approval is necessary to fund an extramural research procurement contract, grant, or cooperative agreement (including second level peer review), such as those at the National Institutes of Health.
-
-Sec. 6. *General Provisions*. (a) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
-
-(b) Nothing in this order shall be construed to impair or otherwise affect:
-
-(i) the authority granted by law to an executive department or agency, or the head thereof; or
-
-(ii) the functions of the Director relating to budgetary, administrative, or legislative proposals.
-
-(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
-
-(d) The provisions of this order do not apply to any independent regulatory agency, as that term is defined in section 3502(5) of title 44, United States Code.
-
-Donald J. Trump.
+Ex. Ord. No. 13875, June 14, 2019, 84 F.R. 28711, which required each executive department and agency to terminate at least one-third of its current committees established under section 9(a)(2) of FACA and limited the creation of new advisory committees, was revoked by Ex. Ord. No. 13992, §2, Jan. 20, 2021, 86 F.R. 7049, set out in a note under section 551 of Title 5, Government Organization and Employees.
 
 #### Termination of Certain Federal Advisory Committees ####
 
@@ -3423,7 +3369,7 @@ The lead Inspector General for a contingency operation shall be designated from 
 
 (4) The lead Inspector General for an overseas contingency operation shall discharge the responsibilities for the contingency operation under this subsection in a manner consistent with the authorities and requirements of this Act generally and the authorities and requirements applicable to the Inspectors General specified in subsection (c) under this Act.
 
-(5)(A) A person employed by a lead Inspector General for an overseas contingency operation under this section shall acquire competitive status for appointment to any position in the competitive service for which the employee possesses the required qualifications upon the completion of 2 years of continuous service as an employee under this section.
+(5)(A) A person employed by any of the Inspectors General specified in subsection (c) for oversight of an overseas contingency operation under this section shall acquire competitive status for appointment to any position in the competitive service for which the employee possesses the required qualifications upon the completion of 2 years of continuous service as an employee under this section.
 
 (B) No person who is first employed as described in subparagraph (A) more than 2 years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 may acquire competitive status under subparagraph (A).
 
@@ -3431,7 +3377,7 @@ The lead Inspector General for a contingency operation shall be designated from 
 
 (f) Construction of Authority.—Nothing in this section shall be construed to limit the ability of the Inspectors General specified in subsection (c) to enter into agreements to conduct joint audits, inspections, or investigations in the exercise of their oversight responsibilities in accordance with this Act with respect to overseas contingency operations.
 
-(Pub. L. 95–452, §8L, as added Pub. L. 112–239, div. A, title VIII, §848(2), Jan. 2, 2013, 126 Stat. 1851; amended Pub. L. 116–92, div. A, title XVII, §§1732(b)–1734, Dec. 20, 2019, 133 Stat. 1817, 1818.)
+(Pub. L. 95–452, §8L, as added Pub. L. 112–239, div. A, title VIII, §848(2), Jan. 2, 2013, 126 Stat. 1851; amended Pub. L. 116–92, div. A, title XVII, §§1732(b)–1734, Dec. 20, 2019, 133 Stat. 1817, 1818; Pub. L. 117–81, div. E, title LIII, §5321, Dec. 27, 2021, 135 Stat. 2368.)
 
 #### **Editorial Notes** ####
 
@@ -3446,6 +3392,8 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 A prior section 8L of the Inspector General Act of 1978 was renumbered section 8M by Pub. L. 112–239.
 
 #### Amendments ####
+
+**2021**—Subsec. (d)(5)(A). Pub. L. 117–81 substituted "any of the Inspectors General specified in subsection (c) for oversight of" for "a lead Inspector General for".
 
 **2019**—Subsec. (a). Pub. L. 116–92, §1732(b)(1), substituted "The Chair" for "Upon the commencement or designation of a military operation as an overseas contingency operation that exceeds 60 days, the Chair" and inserted before period at end "upon the earlier of—
 
@@ -4137,7 +4085,7 @@ Section 3033 of title 50, United States Code, referred to in subsec. (c)(1)(H), 
 
 The date of enactment of this subsection, referred to in subsec. (c)(3)(C), is the date of enactment of Pub. L. 110–409, which was approved Oct. 14, 2008.
 
-Section 1229 of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (e)(1)(B), is section 1229 of Pub. L. 110–181, which is set out as a note under section 8G of this Appendix..
+Section 1229 of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (e)(1)(B), is section 1229 of Pub. L. 110–181, which is set out as a note under section 8G of this Appendix.
 
 #### Prior Provisions ####
 
@@ -6775,10 +6723,6 @@ The Director shall, no later than April 30 of each year in which the second sess
 #### References in Text ####
 
 The General Schedule, referred to in subsec. (a), is set out under section 5332 of this title.
-
-#### Constitutionality ####
-
-For information regarding constitutionality of certain provisions of section 501 of Pub. L. 95–521, as added by section 601(a) of Pub. L. 101–194, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Prior Provisions ####
 

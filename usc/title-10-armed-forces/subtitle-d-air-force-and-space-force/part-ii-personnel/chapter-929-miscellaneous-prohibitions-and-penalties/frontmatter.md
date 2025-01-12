@@ -4,6 +4,8 @@ Sec.
 
 9239. Enlisted members: officers not to use as servants.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §806(d)(3)(A), (e)(1), Aug. 13, 2018, 132 Stat. 1833, redesignated chapter 849 of this title as this chapter and item 8639 as 9239.

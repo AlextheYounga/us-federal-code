@@ -4,6 +4,8 @@ Any National Forest System lands which are transferred to a military department 
 
 (July 26, 1956, ch. 736, §2, 70 Stat. 657; Pub. L. 100–409, §7(a), (c), Aug. 20, 1988, 102 Stat. 1091.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of March 1, 1911, referred to in text, is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of this title and amended sections 480 and 500 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 552 of this title and Tables.

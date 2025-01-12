@@ -26,6 +26,8 @@ Sec.
 
 723. Support of Federal authorities in response to civil disturbances: requirement for use of members of the Armed Forces and Federal law enforcement personnel.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2021**—Pub. L. 116–283, div. A, title X, §§1064(b), 1081(a)(19), Jan. 1, 2021, 134 Stat. 3860, 3871, moved item 714 to appear immediately after item 713, inserted period at end of item 715, and added item 723.
@@ -67,6 +69,8 @@ Pub. L. 96–215, §2(b), Mar. 25, 1980, 94 Stat. 123, inserted "and to and from
 **1958**—Pub. L. 85–861, §1(18), Sept. 2, 1958, 72 Stat. 1442, added item 716, relating to participation of members of the armed forces in international sports.
 
 Pub. L. 85–599, §11(1), Aug. 6, 1958, 72 Stat. 521, added item 716, relating to transfers of commissioned officers.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Pilot Program Authority To Enhance Cybersecurity and Resiliency of Critical Infrastructure ####
 

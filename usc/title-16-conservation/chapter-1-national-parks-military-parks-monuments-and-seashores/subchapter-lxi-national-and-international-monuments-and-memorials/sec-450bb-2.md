@@ -10,6 +10,8 @@ The Secretary is authorized to—
 
 (June 30, 1944, ch. 328, §3, 58 Stat. 646; Pub. L. 88–33, May 29, 1963, 77 Stat. 52; Pub. L. 93–466, §1(2), Oct. 24, 1974, 88 Stat. 1420; Pub. L. 108–307, §3, Sept. 24, 2004, 118 Stat. 1134.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of June 7, 1974, referred to in par. (3), is Pub. L. 93–303, June 7, 1974, 88 Stat. 192, which amended former sections 460l–6a, 460l–8, and 460l–10a of this title. For complete classification of this Act to the Code, see Tables.
@@ -19,6 +21,8 @@ Act of June 7, 1974, referred to in par. (3), is Pub. L. 93–303, June 7, 1974,
 **2004**—Pub. L. 108–307 substituted "Secretary" for "Secretary of the Interior" in introductory provisions.
 
 **1974**—Par. (3). Pub. L. 93–466 added par. (3).
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

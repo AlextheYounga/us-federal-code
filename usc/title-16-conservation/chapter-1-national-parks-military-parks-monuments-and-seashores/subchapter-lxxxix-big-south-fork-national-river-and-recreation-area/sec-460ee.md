@@ -76,6 +76,8 @@ There are authorized to be appropriated $156,122,000 to carry out the provisions
 
 (Pub. L. 93–251, title I, §108, Mar. 7, 1974, 88 Stat. 43; Pub. L. 94–587, §184, Oct. 22, 1976, 90 Stat. 2940; Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583; Pub. L. 99–662, title XI, §1110, Nov. 17, 1986, 100 Stat. 4231; Pub. L. 101–561, §1, Nov. 15, 1990, 104 Stat. 2778.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 218 of the Flood Control Act of 1968, referred to in subsec. (a), is section 218 of Pub. L. 90–483, Aug. 13, 1968, 82 Stat. 749, which was not classified to the Code.
@@ -116,11 +118,13 @@ Subsec. (e)(2)(C). Pub. L. 94–587, §184(e), authorized construction of a seco
 
 Subsec. (k). Pub. L. 94–587, §184(f), substituted "$103,522,000" for "$32,850,000".
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Transfer of Functions ####
 
 "Federal Energy Regulatory Commission" substituted for "Federal Power Commission" in subsec. (f) pursuant to Pub. L. 95–91, §402(a)(1)(A), which is classified to section 7172(a)(1)(A) of Title 42, The Public Health and Welfare.
 
-Federal Power Commission terminated and functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under part I of Federal Power Act (16 U.S.C. 792 et seq.) transferred to Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42.
+The Federal Power Commission was terminated, and its functions with regard to licenses and permits for dams, reservoirs, or other works for development and improvement of navigation and for development and utilization of power across, along, from, or in navigable waters under part I of Federal Power Act (16 U.S.C. 792 et seq.) were transferred to the Federal Energy Regulatory Commission by sections 7172(a)(1)(A) and 7293 of Title 42.
 
 [<sup>1</sup> So in original. Probably should be "Rugby".](#460ee_1)
 

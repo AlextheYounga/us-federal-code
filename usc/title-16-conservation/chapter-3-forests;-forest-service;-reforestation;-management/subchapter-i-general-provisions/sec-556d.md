@@ -4,6 +4,8 @@ Advances of money under any appropriation for the Forest Service may be made to 
 
 (May 23, 1908, ch. 192, 35 Stat. 259; June 10, 1921, ch. 18, title III, §304, 42 Stat. 24; Pub. L. 92–310, title II, §231(v), June 6, 1972, 86 Stat. 211; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as a part of the Agricultural Appropriation Act for the fiscal year 1909, act May 23, 1908.
@@ -13,6 +15,8 @@ Section was formerly classified to section 534 of Title 31 prior to the general 
 #### Amendments ####
 
 **1972**—Pub. L. 92–310 struck out provisions which required chiefs of field parties to give bonds.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Transfer of Functions ####
 

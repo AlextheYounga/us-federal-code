@@ -40,6 +40,8 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (June 30, 1944, ch. 328, §1, 58 Stat. 645; Pub. L. 93–466, §1(1), Oct. 24, 1974, 88 Stat. 1420; Pub. L. 96–199, title I, §108(1), Mar. 5, 1980, 94 Stat. 69; Pub. L. 101–109, §1(a), Oct. 6, 1989, 103 Stat. 681; Pub. L. 103–437, §6(h)(2), Nov. 2, 1994, 108 Stat. 4585; Pub. L. 108–307, §2, Sept. 24, 2004, 118 Stat. 1133.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–307 inserted section catchline and amended text generally. Prior to amendment, section authorized the Secretary of the Interior to acquire certain lands for the Harpers Ferry National Historical Park.
@@ -51,6 +53,8 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 **1980**—Pub. L. 96–199 substituted " 'Boundary Map, Harpers Ferry National Historical Park', numbered 385–80,021A and dated April 1979" for " 'Boundary Map, Harpers Ferry National Historical Park', numbered 385–40,000D and dated April 1974" and "two thousand four hundred and seventy-five acres" for "two thousand acres".
 
 **1974**—Pub. L. 93–466 inserted reference to updated map, prohibited the Secretary from exercising any power of condemnation on lands in which a less than fee interest has been previously acquired, authorized the acquisition of land with appropriated funds and by exchange, authorized an increase in total area from 1500 to 2000 acres, and authorized the Secretary to make minor boundary changes by publication of a revised description in the Federal Register, after advising the Committees on Interior and Insular Affairs.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Short Title of 2004 Amendment ####
 

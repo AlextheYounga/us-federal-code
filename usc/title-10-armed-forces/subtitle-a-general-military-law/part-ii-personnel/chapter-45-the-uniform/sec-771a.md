@@ -14,6 +14,8 @@
 
 (Added Pub. L. 90–235, §8(1)(A), Jan. 2, 1968, 81 Stat. 763; amended Pub. L. 100–456, div. A, title XII, §1234(a)(1), Sept. 29, 1988, 102 Stat. 2059.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1988**—Subsec. (c). Pub. L. 100–456 struck out "the Canal Zone," after "Puerto Rico,".

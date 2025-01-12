@@ -4,6 +4,8 @@ Moneys transferred to the National Forest Reforestation Fund under the provision
 
 (Pub. L. 92–421, §2, Sept. 18, 1972, 86 Stat. 678.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 576e of this title, referred to in text, was repealed by Pub. L. 96–470, title I, §102(b), Oct. 19, 1980, 94 Stat. 2237.

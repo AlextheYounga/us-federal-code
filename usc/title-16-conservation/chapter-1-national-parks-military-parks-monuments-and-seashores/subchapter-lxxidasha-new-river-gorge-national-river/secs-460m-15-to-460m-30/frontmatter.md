@@ -1,5 +1,7 @@
 ### §§460m–15 to 460m–30. Transferred ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section 460m–15, Pub. L. 95–625, title XI, §1101, Nov. 10, 1978, 92 Stat. 3544; Pub. L. 100–534, title I, §101, Oct. 26, 1988, 102 Stat. 2700; Pub. L. 104–333, div. I, title IV, §406(a)(1), Nov. 12, 1996, 110 Stat. 4149; Pub. L. 107–356, §2(a), Dec. 17, 2002, 116 Stat. 3013, which established the New River Gorge National River, was transferred to section 410eeee–1 of this title.

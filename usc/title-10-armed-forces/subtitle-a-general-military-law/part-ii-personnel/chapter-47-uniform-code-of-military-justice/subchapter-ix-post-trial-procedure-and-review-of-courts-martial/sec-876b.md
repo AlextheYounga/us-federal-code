@@ -38,6 +38,8 @@
 
 (Added Pub. L. 104–106, div. A, title XI, §1133(a)(1), Feb. 10, 1996, 110 Stat. 464.)
 
+#### **Editorial Notes** ####
+
 #### Effective Date ####
 
 Pub. L. 104–106, div. A, title XI, §1133(c), Feb. 10, 1996, 110 Stat. 466, provided that: "Section 876b of title 10, United States Code (article 76b of the Uniform Code of Military Justice), as added by subsection (a), shall take effect at the end of the six-month period beginning on the date of the enactment of this Act [Feb. 10, 1996] and shall apply with respect to charges referred to courts-martial after the end of that period."

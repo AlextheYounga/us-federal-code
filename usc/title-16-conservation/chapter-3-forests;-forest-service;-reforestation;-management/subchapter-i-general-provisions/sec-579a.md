@@ -4,6 +4,8 @@ The Forest Service by contract or otherwise may provide for procurement and oper
 
 (Sept. 21, 1944, ch. 412, title II, §205, 58 Stat. 736; Apr. 24, 1950, ch. 97, §4, 64 Stat. 83; Pub. L. 91–435, Oct. 6, 1970, 84 Stat. 888.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section was enacted as a part of the Department of Agriculture Organic Act of 1944.

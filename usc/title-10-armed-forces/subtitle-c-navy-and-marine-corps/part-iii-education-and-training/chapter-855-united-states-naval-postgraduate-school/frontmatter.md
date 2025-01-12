@@ -22,6 +22,8 @@ Sec.
 
 8550. Grants for faculty research for scientific, literary, and educational purposes: acceptance, authorized grantees.
 
+#### **Editorial Notes** ####
+
 #### Prior Provisions ####
 
 A prior chapter 855, consisting of sections 8721 to 8723, related to hospitalization while serving in the Air Force, prior to renumbering as chapter 935 of this title.

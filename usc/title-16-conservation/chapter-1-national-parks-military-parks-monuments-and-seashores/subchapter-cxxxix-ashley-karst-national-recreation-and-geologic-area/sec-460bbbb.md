@@ -212,6 +212,8 @@ Outfitting and guide services within the Recreation Area, including commercial o
 
 (Pub. L. 116–9, title I, §1117, Mar. 12, 2019, 133 Stat. 623.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (e)(1)(A), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.

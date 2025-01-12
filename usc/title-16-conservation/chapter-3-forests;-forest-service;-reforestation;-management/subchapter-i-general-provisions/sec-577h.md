@@ -10,6 +10,8 @@ Not later than March 1 of each year 1977 through 1980, the Secretary of Agricult
 
 (June 22, 1948, ch. 593, §6, 62 Stat. 570; June 22, 1956, ch. 425, §3, 70 Stat. 328; Pub. L. 87–351, Oct. 4, 1961, 75 Stat. 772; Pub. L. 94–384, Aug. 13, 1976, 90 Stat. 1123; Pub. L. 113–287, §5(d)(19), Dec. 19, 2014, 128 Stat. 3266.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Subsec. (a). Pub. L. 113–287 substituted "chapter 2003 of title 54" for "the Land and Water Conservation Fund Act (78 Stat. 897), as amended".
@@ -19,6 +21,8 @@ Not later than March 1 of each year 1977 through 1980, the Secretary of Agricult
 **1961**—Pub. L. 87–351 increased appropriation for purchase and condemnation of land from $2,500,000 to $4,500,000.
 
 **1956**—Act June 22, 1956, increased appropriation for purchase and condemnation of land from $500,000 to $2,500,000.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Availability of Appropriations ####
 

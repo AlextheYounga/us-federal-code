@@ -30,6 +30,8 @@ Sec.
 
 8090. Staff Corps of the Navy.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §807(e)(1), (f)(1), Aug. 13, 2018, 132 Stat. 1837, 1838, redesignated chapter 513 of this title as this chapter and items 5131 to 5150 as 8071 to 8090, respectively.

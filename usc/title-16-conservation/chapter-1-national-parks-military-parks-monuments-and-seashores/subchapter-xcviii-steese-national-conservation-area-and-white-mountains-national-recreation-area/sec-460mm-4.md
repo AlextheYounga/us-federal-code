@@ -14,6 +14,8 @@ All receipts derived from permits and leases issued on lands or interest in land
 
 (Pub. L. 96–487, title XIII, §1312, Dec. 2, 1980, 94 Stat. 2483.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in subsec. (a), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.

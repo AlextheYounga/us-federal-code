@@ -4,6 +4,8 @@ None of the funds made available to the Forest Service in this Act or any other 
 
 (Pub. L. 116–260, div. G, title III, Dec. 27, 2020, 134 Stat. 1522.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Similar Provisions ####
 
 Provisions similar to this section were contained in the following prior appropriation acts:

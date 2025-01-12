@@ -4,9 +4,13 @@ The revision of boundaries of the national park, as authorized in section 441f o
 
 (May 7, 1952, ch. 244, §2, 66 Stat. 65; Pub. L. 95–625, title VI, §611, Nov. 10, 1978, 92 Stat. 3521.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Section 441f of this title, referred to in text, was in the original "sections 1 and 5 of this Act". Section 1 of the Act is classified to section 441f of this title. Section 5 is probably a reference to section 5 of the original bill, which would have authorized the inclusion of up to 4,000 acres of the Pine Ridge Indian Reservation within the Badlands National Monument. Such section 5 was stricken from the bill by Senate amendment, and as enacted the Act contained only four sections.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

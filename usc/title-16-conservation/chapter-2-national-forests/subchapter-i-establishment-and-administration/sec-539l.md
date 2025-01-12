@@ -112,9 +112,13 @@ Nothing in this Act (including the provisions related to establishment or manage
 
 (Pub. L. 107–216, §3, Aug. 21, 2002, 116 Stat. 1056.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This Act, referred to in text, is Pub. L. 107–216, Aug. 21, 2002, 116 Stat. 1055, which is classified principally to sections 539l to 539l–5 of this title. For complete classification of this Act to the Code, see Short Title note below and Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

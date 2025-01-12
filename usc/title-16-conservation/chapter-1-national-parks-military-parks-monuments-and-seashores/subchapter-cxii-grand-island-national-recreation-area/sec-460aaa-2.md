@@ -42,6 +42,8 @@ The national recreation area also shall be administered according to the followi
 
 (Pub. L. 101–292, §3, May 17, 1990, 104 Stat. 185.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 Act of March 4, 1915, referred to in subsec. (b)(8), is act Mar. 4, 1915, ch. 144, 38 Stat. 1086, as amended. For complete classification of this Act to the Code, see Tables.

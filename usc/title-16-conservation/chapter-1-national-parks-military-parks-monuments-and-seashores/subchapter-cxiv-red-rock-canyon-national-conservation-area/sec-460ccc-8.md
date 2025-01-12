@@ -22,6 +22,8 @@ The Federal water rights reserved by this subchapter are specific to the conserv
 
 (Pub. L. 101–621, §10, Nov. 16, 1990, 104 Stat. 3345; Pub. L. 103–450, §2(c), Nov. 2, 1994, 108 Stat. 4766.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1994**—Subsec. (b). Pub. L. 103–450 inserted before period at end ", except that as related to rights associated with lands added to the conservation area after November 16, 1990, the priority date shall be the date of enactment of the Act adding such lands to the conservation area".

@@ -50,7 +50,7 @@ Sec.
 
 2593a. Annual report to Congress.
 
-2593b. Public annual report on world military expenditures and arms transfers.
+2593b. Repealed.
 
 2593c, 2593d. Repealed.
 
@@ -67,3 +67,5 @@ Sec.
 2595b–1. Review of certain reprogramming notifications.
 
 2595c. Definitions.
+
+2595d. Annual report on comprehensive nuclear-test-ban treaty sensors.

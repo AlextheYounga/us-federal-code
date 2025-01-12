@@ -22,6 +22,8 @@ Sec.
 
 1800. Definitions.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1999**—Pub. L. 106–65, div. A, title V, §584(a)(2), Oct. 5, 1999, 113 Stat. 636, added items 1798, 1799, and 1800 and struck out former item 1798 "Definitions".

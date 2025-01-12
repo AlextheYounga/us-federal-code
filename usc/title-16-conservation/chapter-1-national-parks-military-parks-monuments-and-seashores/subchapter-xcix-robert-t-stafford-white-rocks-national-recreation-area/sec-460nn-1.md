@@ -4,6 +4,8 @@ In furtherance of the findings and purposes of this subchapter, certain lands in
 
 (Pub. L. 98–322, title II, §202, June 19, 1984, 98 Stat. 257; Pub. L. 110–1, §1(b), Jan. 17, 2007, 121 Stat. 3.)
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
 #### Change of Name ####
 
 "Robert T. Stafford White Rocks National Recreation Area" substituted in text for "White Rocks National Recreation Area" pursuant to section 1(b) of Pub. L. 110–1, set out below.

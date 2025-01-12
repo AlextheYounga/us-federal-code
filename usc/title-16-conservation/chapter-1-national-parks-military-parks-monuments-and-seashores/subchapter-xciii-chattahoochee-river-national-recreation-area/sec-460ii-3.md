@@ -22,6 +22,8 @@ The Secretary is directed to proceed as expeditiously as possible to acquire the
 
 (Pub. L. 95–344, title I, §104, Aug. 15, 1978, 92 Stat. 476; Pub. L. 98–568, §1(d), Oct. 30, 1984, 98 Stat. 2928; Pub. L. 103–437, §6(d)(18), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 106–154, §2(e)(2), (3), Dec. 9, 1999, 113 Stat. 1739.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 The Federal Power Act (16 U.S.C. 791a et seq.), referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.

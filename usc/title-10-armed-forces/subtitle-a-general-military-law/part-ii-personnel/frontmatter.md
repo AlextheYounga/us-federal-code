@@ -97,6 +97,8 @@ Chap. Sec.
 
 [89. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2011**—Pub. L. 111–383, div. A, title X, §1075(b)(1), Jan. 7, 2011, 124 Stat. 4368, substituted "1030" for "1031" in item for chapter 53.
@@ -154,6 +156,208 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 **1961**—Pub. L. 87–381, §1(2), Oct. 4, 1961, 75 Stat. 810, substituted "Retired Servicemen's Family Protection Plan" for "Annuities Based on Retired or Retainer Pay" in item for chapter 73.
 
 **1958**—Pub. L. 85–861, §§1(21), (26), (33), 33(a)(4)(B), Sept. 2, 1958, 72 Stat. 1443, 1450, 1455, 1564, substituted "General Service Requirements" for "Service Requirements for Reserves" in item for chapter 37, "971" for "[No present sections]" in item for chapter 49, "Medical and Dental Care" for "Voting by Members of Armed Forces" in item for chapter 55, and struck out "Care of the Dead" and substituted "1475" for "1481" in item for chapter 75.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Strategy and Annual Report on Critical Language Proficiency of Special Operations Forces ####
+
+Pub. L. 117–81, div. A, title III, §364, Dec. 27, 2021, 135 Stat. 1662, provided that:
+
+"(a) Strategy.—
+
+"(1) Strategy required.—Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], the Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict, in coordination with the Secretaries of the military departments, shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a strategy to improve the language proficiency of the special operations forces of the Armed Forces, including by identifying individuals who have proficiency in a critical language and recruiting and retaining such individuals in the special operations forces.
+
+"(2) Elements.—The strategy under paragraph (1) shall include the following:
+
+"(A) A baseline of foreign language proficiency requirements to be implemented within the special operations forces, disaggregated by Armed Force and by critical language.
+
+"(B) Annual recruitment targets for the number of candidates with demonstrated proficiency in a critical language to be selected for participation in the initial assessment and qualification programs of the special operations forces.
+
+"(C) A description of current and planned efforts of the Secretaries concerned and the Assistant Secretary to meet such annual recruitment targets.
+
+"(D) A description of any training programs used to enhance or maintain foreign language proficiency within the special operations forces, including any nongovernmental programs used.
+
+"(E) An annual plan to enhance and maintain foreign language proficiency within the special operations forces of each Armed Force.
+
+"(F) An annual plan to retain members of the special operation forces of each Armed Force who have proficiency in a foreign language.
+
+"(G) A description of current and projected capabilities and activities that the Assistant Secretary determines are necessary to maintain proficiency in critical languages within the special operations forces.
+
+"(H) A plan to implement a training program for members of the special operations forces who serve in positions that the Assistant Secretary determines require proficiency in a critical language to support the Department of Defense in strategic competition.
+
+"(b) Reports Required.—Not later than December 31, 2022, and annually thereafter until December 31, 2025, the Assistant Secretary of Defense for Special Operations and Low-Intensity Conflict, in coordination with the Secretaries of the military departments, shall submit to the congressional defense committees a report on the strategy required under subsection (a), including progress in achieving the objectives of the strategy with respect to the recruitment, training, and retention of members of the special operations forces who have proficiency in a critical language.
+
+"(c) Definitions.—In this section:
+
+"(1) The term 'critical language' means a language identified by the Director of the National Security Education Program as critical to national security.
+
+"(2) The terms 'military departments' and 'Secretary concerned' have the meanings given such terms in section 101 of title 10, United States Code.
+
+"(3) The term 'proficiency' means proficiency in a language, as assessed by the Defense Language Proficiency Test.
+
+"(4) The term 'special operations forces' means forces described under section 167(j) of title 10, United States Code."
+
+#### Improvements to Military Accessions in Armed Forces Under the Jurisdiction of the Secretaries of the Military Departments ####
+
+Pub. L. 117–81, div. A, title V, §522, Dec. 27, 2021, 135 Stat. 1686, provided that:
+
+"(a) In General.—Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall take the following steps regarding military accessions in each Armed Force under the jurisdiction of the Secretary of a military department:
+
+"(1) Assess the prescribed medical standards for appointment as an officer, or enlistment as a member, in such Armed Force.
+
+"(2) Determine how to update the medical screening processes for appointment or enlistment.
+
+"(3) Determine how to standardize operations across the military entrance processing stations.
+
+"(4) Determine how to improve aptitude testing methods and standardized testing requirements.
+
+"(5) Determine how to improve the waiver process for individuals who do not meet medical standards for accession.
+
+"(6) Determine, by reviewing data from calendar years 2017 through 2021, whether military accessions (including such accessions pursuant to waivers) vary, by geographic region.
+
+"(7) Determine, by reviewing data from calendar years 2017 through 2021, whether access to military health records has suppressed the number of such military accessions, authorized Secretaries of the military departments, by—
+
+"(A) children of members of such Armed Forces;
+
+"(B) retired members of such Armed Forces; or
+
+"(C) recently separated members of such Armed Forces.
+
+"(8) Implement improvements determined under paragraphs (1) through (7).
+
+"(b) Briefing.—Not later than one year after the date of the enactment of this Act, the Secretary shall brief the Committees on Armed Services of the Senate and House of Representatives on the results of carrying out this section and recommendations regarding legislation the Secretary determines necessary to improve such military accessions."
+
+#### Primary Prevention Workforce ####
+
+Pub. L. 117–81, div. A, title V, §549B, Dec. 27, 2021, 135 Stat. 1722, provided that:
+
+"(a) Establishment.—The Secretary of Defense shall establish a Primary Prevention Workforce to provide a comprehensive and integrated program across the Department of Defense enterprise for the primary prevention of interpersonal and self-directed violence, including sexual assault, sexual harassment, domestic violence, child abuse and maltreatment, problematic juvenile sexual behavior, suicide, workplace violence, and substance misuse.
+
+"(b) Primary Prevention Workforce Model.—
+
+"(1) In general.—Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report setting forth a holistic model for a dedicated and capable Primary Prevention Workforce in the Department of Defense.
+
+"(2) Elements.—The model required under paragraph (1) shall include the following elements:
+
+"(A) A description of Primary Prevention Workforce roles, responsibilities, and capabilities, including—
+
+"(i) the conduct of research and analysis;
+
+"(ii) advising all levels of military commanders and leaders;
+
+"(iii) designing and writing strategic and operational primary prevention policies and programs;
+
+"(iv) integrating and analyzing data; and
+
+"(v) implementing, evaluating, and adapting primary prevention programs and activities, to include developing evidence-based training and education programs for Department personnel that is appropriately tailored by rank, occupation, and environment.
+
+"(B) The design and structure of the Primary Prevention Workforce, including—
+
+"(i) consideration of military, civilian, and hybrid manpower options;
+
+"(ii) the comprehensive integration of the workforce from strategic to tactical levels of the Department of Defense and its components; and
+
+"(iii) mechanisms for individuals in workforce roles to report to and align with installation-level and headquarters personnel.
+
+"(C) Strategies, plans, and systematic approaches for recruiting, credentialing, promoting, and sustaining the diversity of work force roles comprising a professional workforce dedicated to primary prevention.
+
+"(D) The creation of a professional, primary prevention credential that standardizes a common base of education and experience across the prevention workforce, coupled with knowledge development and skill building requirements built into the career cycle of prevention practitioners such that competencies and expertise increase over time.
+
+"(E) Any other matter the Secretary of Defense determines necessary and appropriate to presenting an accurate and complete model of the Primary Prevention Workforce.
+
+"(c) Reports.—
+
+"(1) In general.—Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretaries of the military departments and the Chief of the National Guard Bureau each shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report detailing how the military services and the National Guard, as applicable, will adapt and implement the primary prevention workforce model set forth in the report required under subsection (b).
+
+"(2) Elements.—Each report submitted under subsection (a) shall include a description of—
+
+"(A) expected milestones to implement the prevention workforce in the component at issue;
+
+"(B) challenges associated with implementation of the workforce and the strategies for addressing such challenges; and
+
+"(C) additional authorities that may be required to optimize implementation and operation of the workforce.
+
+"(d) Operating Capability Deadline.—The Primary Prevention Workforce authorized under this section shall attain initial operating capability in each military department and military service and in the National Guard by not later than the effective date specified in section 539C [10 U.S.C. 801 note]."
+
+#### Cadre of Software Development and Acquisition Experts ####
+
+Pub. L. 117–81, div. A, title VIII, §836, Dec. 27, 2021, 135 Stat. 1837, provided that:
+
+"(a) In General.—Not later than January 1, 2023, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall establish a cadre of personnel who are experts in software development, acquisition, and sustainment to improve the effectiveness of software development, acquisition, and sustainment programs or activities of the Department of Defense.
+
+"(b) Structure.—The Under Secretary of Defense for Acquisition and Sustainment—
+
+"(1) shall ensure the cadre has the appropriate number of members;
+
+"(2) shall establish an appropriate leadership structure and office within which the cadre shall be managed; and
+
+"(3) shall determine the appropriate officials to whom members of the cadre shall report.
+
+"(c) Assignment.—The Under Secretary of Defense for Acquisition and Sustainment shall establish processes to assign members of the cadre to provide—
+
+"(1) expertise on matters relating to software development, acquisition, and sustainment; and
+
+"(2) support for appropriate programs or activities of the Department of Defense.
+
+"(d) Administration.—
+
+"(1) In general.—The Under Secretary of Defense for Acquisition and Sustainment, in coordination with the President of the Defense Acquisition University and in consultation with academia and industry, shall develop a career path, including development opportunities, exchanges, talent management programs, and training, for the cadre. The Under Secretary may use existing personnel and acquisition authorities to establish the cadre, as appropriate, including—
+
+"(A) section 9903 of title 5, United States Code;
+
+"(B) authorities relating to services contracting;
+
+"(C) the Intergovernmental Personnel Act of 1970 (42 U.S.C. 4701 et seq.); and
+
+"(D) authorities relating to exchange programs with industry.
+
+"(2) Assignments.—Civilian personnel from within the Office of the Secretary of Defense, Joint Staff, military departments, Defense Agencies, and combatant commands may be assigned to serve as members of the cadre.
+
+"(3) Preference.—In establishing the cadre, the Under Secretary shall give preference to civilian employees of the Department of Defense.
+
+"(e) Support of Members of the Armed Forces.—The Under Secretary of Defense for Acquisition and Sustainment shall continue to support efforts of the Secretaries concerned to place members of the Armed Forces in software development, acquisition, and sustainment positions and develop software competence in members of the Armed Forces, including those members with significant technical skill sets and experience but who lack formal education, training, or a technology-focused military occupation specialty.
+
+"(f) Funding.—The Under Secretary of Defense for Acquisition and Sustainment is authorized to use amounts in the Defense Acquisition Workforce Development Account (established under section 1705 of title 10, United States Code) for the purpose of recruitment, training, and retention of members of the cadre, including by using such amounts to pay salaries of newly hired members of the cadre for up to three years.
+
+"(g) Compliance.—In carrying out this section, the Under Secretary of Defense for Acquisition and Sustainment shall ensure compliance with applicable total force management policies, requirements, and restrictions provided in sections 129a, 2329 [now 4506], and 2461 of title 10, United States Code."
+
+#### Digital Talent Recruiting Officer ####
+
+Pub. L. 117–81, div. A, title IX, §909, Dec. 27, 2021, 135 Stat. 1876, provided that:
+
+"(a) Digital Talent Recruiting for the Department of Defense.—
+
+"(1) In general.—Not later than 270 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall designate a chief digital recruiting officer within the office of the Under Secretary of Defense for Personnel and Readiness to carry out the responsibilities set forth in paragraph (2).
+
+"(2) Responsibilities.—The chief digital recruiting officer shall be responsible for—
+
+"(A) identifying Department of Defense needs for, and skills gaps in, specific types of civilian digital talent;
+
+"(B) recruiting individuals with the skills that meet the needs and skills gaps identified under subparagraph (A), in partnership with the military departments and other organizations and elements of the Department;
+
+"(C) ensuring Federal scholarship for service programs are incorporated into civilian recruiting strategies;
+
+"(D) when appropriate and within authority granted under other Federal law, offering recruitment and referral bonuses; and
+
+"(E) partnering with human resource teams in the military departments and other organizations and elements of the Department to help train all Department of Defense human resources staff on the available hiring flexibilities to accelerate the hiring of individuals with the skills that fill the needs and skills gaps identified under subparagraph (A).
+
+"(3) Resources.—The Secretary of Defense shall ensure that the chief digital recruiting officer is provided with personnel and resources sufficient to carry out the duties set forth in paragraph (2).
+
+"(4) Role of chief human capital officer.—
+
+"(A) In general.—The chief digital recruiting officer shall report directly to the Chief Human Capital Officer of the Department of Defense.
+
+"(B) Incorporation.—The Chief Human Capital Officer shall ensure that the chief digital recruiting officer is incorporated into the agency human capital operating plan and recruitment strategy. In carrying out this paragraph, the Chief Human Capital Officer shall ensure that the chief digital recruiting officer's responsibilities are deconflicted with any other recruitment initiatives and programs.
+
+"(b) Digital Talent Defined.—For the purposes of this section, the term 'digital talent' includes positions and capabilities in, or related to, software development, engineering, and product management; data science; artificial intelligence; distributed ledger technologies; autonomy; data management; product and user experience design; and cybersecurity.
+
+"(c) Annual Briefing Requirement.—Not later than one year after the date of the enactment of this Act, and on an annual basis thereafter, the chief digital recruiting officer shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on—
+
+"(1) the efforts of the Department of Defense to recruit digital talent to positions in the Department; and
+
+"(2) a summary of any accomplishments and challenges with respect to such recruiting.
+
+"(d) Sunset.—The requirements under subsection (a) shall expire on September 30, 2025."
 
 #### Measuring and Incentivizing Programming Proficiency ####
 

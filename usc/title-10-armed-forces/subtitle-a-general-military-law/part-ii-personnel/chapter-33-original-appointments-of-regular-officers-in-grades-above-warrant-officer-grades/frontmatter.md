@@ -12,6 +12,8 @@ Sec.
 
 [555 to 565. Repealed.]
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **1991**—Pub. L. 102–190, div. A, title XI, §1112(b)(1), Dec. 5, 1991, 105 Stat. 1501, substituted "ORIGINAL APPOINTMENTS OF REGULAR OFFICERS IN GRADES ABOVE WARRANT OFFICER GRADES" for "APPOINTMENTS IN REGULAR COMPONENTS" as chapter heading, struck out analysis of subchapters listing subchapter I "Original Appointments of Regular Officers in Grades above Warrant Officer Grades" and subchapter II "Appointments of Regular Warrant Officers", and struck out subchapter I heading.

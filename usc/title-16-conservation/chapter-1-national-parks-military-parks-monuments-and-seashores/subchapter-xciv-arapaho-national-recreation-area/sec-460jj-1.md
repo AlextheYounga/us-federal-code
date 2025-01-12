@@ -24,6 +24,8 @@ Notwithstanding any other provision of law, any Federal lands or interests in la
 
 (Pub. L. 95–450, §5, Oct. 11, 1978, 92 Stat. 1096.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsecs. (a) and (e), was in the original "this Act", meaning Pub. L. 95–450, Oct. 11, 1978, 92 Stat. 1095, which enacted this subchapter and enacted provisions set out as notes under sections 460jj and 1132 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460jj of this title and Tables.

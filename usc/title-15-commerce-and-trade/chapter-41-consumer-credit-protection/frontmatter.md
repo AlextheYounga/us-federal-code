@@ -222,6 +222,8 @@ Sec.
 
 1681c–2. Block of information resulting from identity theft.
 
+1681c–3. Adverse information in cases of trafficking.
+
 1681d. Disclosure of investigative consumer reports.
 
 1681e. Compliance procedures.

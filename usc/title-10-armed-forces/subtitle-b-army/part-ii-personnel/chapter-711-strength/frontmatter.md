@@ -4,9 +4,15 @@ Sec.
 
 7101. Officers on active duty: minimum strength based on requirements.
 
+7102. Congressional notification of significant Army force structure changes.
+
 7110. Regular Army: strength in grade; general officers.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. A, title X, §1044(2), Dec. 27, 2021, 135 Stat. 1904, added item 7102.
 
 **2018**—Pub. L. 115–232, div. A, title VIII, §808(e)(2)(A), (f)(1), Aug. 13, 2018, 132 Stat. 1839, redesignated chapter 331 of this title as this chapter and items 3201 and 3210 as 7101 and 7110, respectively.
 

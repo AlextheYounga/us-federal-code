@@ -15,6 +15,8 @@ Chap. Sec.
 
 1611. Other Educational Assistance Programs 16401
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2004**—Pub. L. 108–375, div. A, title V, §527(c), Oct. 28, 2004, 118 Stat. 1894, added item for chapter 1607.

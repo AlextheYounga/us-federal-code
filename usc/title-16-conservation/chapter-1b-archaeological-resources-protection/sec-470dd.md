@@ -10,6 +10,8 @@ Any exchange or ultimate disposition under such regulation of archaeological res
 
 (Pub. L. 96–95, §5, Oct. 31, 1979, 93 Stat. 724; Pub. L. 113–287, §5(d)(7), Dec. 19, 2014, 128 Stat. 3264.)
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2014**—Par. (2). Pub. L. 113–287 substituted "chapter 3125 or chapter 3203 of title 54" for "the Act of June 27, 1960 (16 U.S.C. 469–469c) or the Act of June 8, 1906 (16 U.S.C. 431–433)".

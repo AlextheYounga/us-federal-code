@@ -42,9 +42,13 @@ In conducting the reviews and preparing the comprehensive management plan requir
 
 (Pub. L. 99–504, title II, §203, Oct. 20, 1986, 100 Stat. 1804.)
 
+#### **Editorial Notes** ####
+
 #### References in Text ####
 
 This subchapter, referred to in subsec. (e), was in the original "this Act", meaning Pub. L. 99–504, Oct. 20, 1986, 100 Stat. 1802, known as the Nebraska Wilderness Act of 1985, which enacted this subchapter and provisions listed in a table of Wilderness Areas set out under section 1132 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Change of Name ####
 

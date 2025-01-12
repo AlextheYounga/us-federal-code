@@ -60,6 +60,8 @@
 
 (Added and amended Pub. L. 116–92, div. A, title XVI, §1665(c)(1), Dec. 20, 2019, 133 Stat. 1773; Pub. L. 116–283, div. A, title XVI, §1633, Jan. 1, 2021, 134 Stat. 4059.)
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Section, as added and amended by Pub. L. 116–92, is based on Pub. L. 112–81, div. A, title X, §1043, Dec. 31, 2011, 125 Stat. 1576, as amended by Pub. L. 112–239, div. A, title X, §1041(a), Jan. 2, 2013, 126 Stat. 1931; Pub. L. 113–66, div. A, title X, §1054, Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title XVI, §1643, Dec. 19, 2014, 128 Stat. 3650; Pub. L. 115–91, div. A, title XVI, §1665, Dec. 12, 2017, 131 Stat. 1767; Pub. L. 115–232, div. A, title XVI, §1670, Aug. 13, 2018, 132 Stat. 2157; Pub. L. 116–92, div. A, title XVI, §1665(a), (b), Dec. 20, 2019, 133 Stat. 1773, which was transferred to this chapter and renumbered as this section.

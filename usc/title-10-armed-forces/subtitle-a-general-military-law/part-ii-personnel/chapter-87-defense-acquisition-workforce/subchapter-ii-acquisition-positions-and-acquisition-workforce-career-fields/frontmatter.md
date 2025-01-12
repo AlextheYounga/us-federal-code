@@ -16,6 +16,8 @@ Sec.
 
 1725. Senior Military Acquisition Advisors.
 
+#### **Editorial Notes** ####
+
 #### Amendments ####
 
 **2019**—Pub. L. 116–92, div. A, title VIII, §861(f)(2)(B), (3)(A), Dec. 20, 2019, 133 Stat. 1518, substituted "ACQUISITION POSITIONS AND ACQUISITION WORKFORCE CAREER FIELDS" for "DEFENSE ACQUISITION POSITIONS" in heading for subchapter II and "Designation of acquisition positions and acquisition workforce career fields" for "Designation of acquisition positions" in item 1721.

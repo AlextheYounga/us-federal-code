@@ -46,9 +46,15 @@ Sec.
 
 51322. Protection of cadets from sexual assault onboard vessels.
 
+51323. United States Merchant Marine Academy Advisory Council.
+
+51324. Unfilled vacancies.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2021**—Pub. L. 117–81, div. C, title XXXV, §3501(c)(2), Dec. 27, 2021, 135 Stat. 2238, added items 51323 and 51324.
 
 **2017**—Pub. L. 115–91, div. C. title XXXV, §§3510(b), 3512(b), 3514(d)(2), 3516(b), Dec. 12, 2017, 131 Stat. 1918, 1919, 1923, 1928, added items 51318 and 51320 to 51322 and struck out former item 51318 "Policy on sexual harassment and sexual assault".
 
