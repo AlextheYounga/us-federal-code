@@ -53,6 +53,22 @@ Chap. Sec.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Authorization To Pay a Living Quarters Allowance for Department of the Navy Civilian Employees Assigned to Permanent Duty in Guam for Performing Work, or Supporting Work Being Performed, Aboard or Dockside, of U.S. Naval Vessels ####
+
+Pub. L. 118–31, div. A, title XI, §1102, Dec. 22, 2023, 137 Stat. 426, provided that:
+
+"(a) Allowance.—When Government owned or rented quarters are not otherwise provided without charge to a covered employee, the Secretary of the Navy may grant to a covered employee one or more of the following allowances:
+
+"(1) A living quarters allowance for rent, heat, light, fuel, gas, electricity, and water. The Secretary is authorized to pay such allowance by reimbursement or by advance payments.
+
+"(2) Under unusual circumstances, as determined by the Secretary, payment or reimbursement for extraordinary, necessary, and reasonable expenses, not otherwise compensated for, incurred in initial repairs, alterations, and improvements to the privately leased residence in Guam of a covered employee—
+
+"(A) the expenses are administratively approved in advance; and
+
+"(B) the duration and terms of the lease justify payment of the expenses by the Government.
+
+"(b) Covered Employee Defined.—In this section, the term 'covered employee' means any civilian employee of the Department of the Navy who is assigned to permanent duty in Guam for performing work or supporting work being performed, aboard or dockside, of U.S. naval vessels."
+
 #### Suspension of Certain Sections of Title 10 and Amendments to Officer Personnel Act of 1947 ####
 
 Act Aug. 10, 1956, ch. 1041, §48, 70A Stat. 639, as amended by Pub. L. 109–163, div. A, title V, §515(h), Jan. 6, 2006, 119 Stat. 3237, provided that:

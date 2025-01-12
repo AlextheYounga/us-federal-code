@@ -74,7 +74,7 @@ Sec.
 
 3330c. Preference eligibles; remedy.
 
-3330d. Appointment of military spouses.
+3330d. Appointment of military and Department of Defense civilian spouses.
 
 3330e. Review of official personnel file of former Federal employees before rehiring.
 
@@ -187,6 +187,8 @@ Pub. L. 115–232, div. A, title V, §573(e), Aug. 13, 2018, 132 Stat. 1779, pro
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title XI, §1119(b), Dec. 22, 2023, 137 Stat. 434, which directed the amendment of the table of sections for subchapter I of this chapter by adding item 3330d "Appointment of military and Department of Defense civilian spouses" and striking out former item 3330d "Appointment of military spouses", was executed to the table of sections for this chapter and was treated as temporary, to reflect the probable intent of Congress, notwithstanding termination provision in sections 573(e) of Pub. L. 115–232 and 1119(d) of Pub. L. 118–31, which effectively undid the amendments made to section 3330d of this title but only provided that the amendment made to this analysis would expire. See Termination Date of 2018 Amendment and Termination Date of 2023 Amendment notes set out under section 3330d of this title.
 
 **2022**—Pub. L. 117–263, div. E, title LII, §5221(b), title LIII, §5322(a)(2), Dec. 23, 2022, 136 Stat. 3234, 3259, which directed amendment of the analyses for subchapter I of this chapter by adding item 3330f and for subchapter III of this chapter by adding item 3349e, was executed by adding items 3330f and 3349e to the analysis for this chapter to reflect the probable intent of Congress.
 

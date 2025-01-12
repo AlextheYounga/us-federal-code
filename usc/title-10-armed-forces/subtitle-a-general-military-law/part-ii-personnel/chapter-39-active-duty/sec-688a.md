@@ -1,4 +1,4 @@
-### §688a. Retired members: temporary authority to order to active duty in high-demand, low-density assignments ###
+### §688a. Authority to order to active duty in high-demand, low-density assignments ###
 
 (a) Authority.—The Secretary of a military department may order to active duty a retired member who agrees to serve on active duty in an assignment intended to alleviate a high-demand, low-density military capability or in any other specialty designated by the Secretary as critical to meet wartime or peacetime requirements. Any such order may be made only with the consent of the member ordered to active duty and in accordance with an agreement between the Secretary and the member.
 
@@ -10,25 +10,19 @@
 
 (e) Inapplicability of Certain Provisions.—Retired members ordered to active duty under subsection (a) shall not be counted for purposes of section 688 or 690 of this title.
 
-(f) Expiration of Authority.—A retired member may not be ordered to active duty under this section outside a period as follows:
+(f) Exceptions During Periods of War or National Emergency.—The limitation in subsection (c) shall not apply during a time of war or of national emergency declared by Congress or the President.
 
-(1) The period beginning on December 2, 2002, and ending on December 31, 2011.
+(g) High-Demand, Low-Density Military Capability Defined.—In this section, the term "high-demand, low-density military capability" means a combat, combat support or service support capability, unit, system, or occupational specialty that the Secretary of Defense determines has funding, equipment, or personnel levels that are substantially below the levels required to fully meet or sustain actual or expected operational requirements set by regional commanders.
 
-(2) The period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2018 and ending on December 31, 2022.
-
-(g) Exceptions During Periods of War or National Emergency.—The limitations in subsections (c) and (f) shall not apply during a time of war or of national emergency declared by Congress or the President.
-
-(h) High-Demand, Low-Density Military Capability Defined.—In this section, the term "high-demand, low-density military capability" means a combat, combat support or service support capability, unit, system, or occupational specialty that the Secretary of Defense determines has funding, equipment, or personnel levels that are substantially below the levels required to fully meet or sustain actual or expected operational requirements set by regional commanders.
-
-(Added Pub. L. 107–314, div. A, title V, §503(a)(1), Dec. 2, 2002, 116 Stat. 2530; amended Pub. L. 109–364, div. A, title VI, §621(b), (d)(2)(A), Oct. 17, 2006, 120 Stat. 2254, 2255; Pub. L. 111–383, div. A, title V, §531(a), Jan. 7, 2011, 124 Stat. 4215; Pub. L. 115–91, div. A, title V, §527, Dec. 12, 2017, 131 Stat. 1383; Pub. L. 116–283, div. A, title V, §511, Jan. 1, 2021, 134 Stat. 3587.)
+(Added Pub. L. 107–314, div. A, title V, §503(a)(1), Dec. 2, 2002, 116 Stat. 2530; amended Pub. L. 109–364, div. A, title VI, §621(b), (d)(2)(A), Oct. 17, 2006, 120 Stat. 2254, 2255; Pub. L. 111–383, div. A, title V, §531(a), Jan. 7, 2011, 124 Stat. 4215; Pub. L. 115–91, div. A, title V, §527, Dec. 12, 2017, 131 Stat. 1383; Pub. L. 116–283, div. A, title V, §511, Jan. 1, 2021, 134 Stat. 3587; Pub. L. 118–31, div. A, title V, §521(a), Dec. 22, 2023, 137 Stat. 249.)
 
 #### **Editorial Notes** ####
 
-#### References in Text ####
-
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (f)(2), is the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
-
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, §521(a)(1), substituted "Authority" for "Retired members: temporary authority" in section catchline.
+
+Subsecs. (f) to (h). Pub. L. 118–31, §521(a)(2)–(4), redesignated subsecs. (g) and (h) as (f) and (g), respectively, substituted "limitation in subsection (c)" for "limitations in subsections (c) and (f)" in subsec. (f), and struck out former subsec. (f) which related to expiration of authority under this section.
 
 **2021**—Subsecs. (g), (h). Pub. L. 116–283 added subsec. (g) and redesignated former subsec. (g) as (h).
 

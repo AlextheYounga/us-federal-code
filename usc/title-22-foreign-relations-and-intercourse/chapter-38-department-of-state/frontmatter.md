@@ -136,6 +136,8 @@ Sec.
 
 2684a. Capital Investment Fund.
 
+2684b. Strengthening the Chief Information Officer of the Department of State.
+
 2685. Reimbursement for detailed State Department personnel.
 
 2686. Review of world-wide supply, demand, and price of basic raw and processed materials.
@@ -176,9 +178,13 @@ Sec.
 
 2701. Educational facilities.
 
+2701a. Education allowance for dependents of Department of State employees located in United States territories.
+
 2702. Malpractice protection.
 
 2703. Services and facilities for employees at posts abroad.
+
+2703a. Emergency back-up care.
 
 2704. Subsistence expenses.
 
@@ -278,7 +284,11 @@ Sec.
 
 2734g. Promoting transparency and accountability in the Department of State workforce.
 
+2734h. Increased accountability in assignment restrictions and reviews.
+
 2735. Foreign relations exchange programs.
+
+2735a. Presidential Envoy for the Abraham Accords, Negev Forum, and Related Integration and Normalization Fora and Agreements.
 
 2736. Exit interviews for workforce.
 
@@ -292,4 +302,10 @@ Sec.
 
 2736e. Voluntary participation.
 
+2736f. Efforts to improve retention and prevent retaliation.
+
 2737. Department of State paid Student Internship Program.
+
+2738. Mid-Career Mentoring Program.
+
+2739. Civil service rotational program.

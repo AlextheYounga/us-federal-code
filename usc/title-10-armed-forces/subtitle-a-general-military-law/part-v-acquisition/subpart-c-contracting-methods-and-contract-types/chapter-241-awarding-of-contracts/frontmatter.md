@@ -28,6 +28,28 @@ A prior chapter 241 "AWARDING OF CONTRACTS", as added by Pub. L. 115–232, div.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Pilot Program for Anything-As-A-Service ####
+
+Pub. L. 118–31, div. A, title VIII, §809, Dec. 22, 2023, 137 Stat. 320, provided that:
+
+"(a) In General.—The Secretary of Defense shall establish a pilot program to explore the use of consumption-based solutions to address any defense need, hereafter 'anything-as-a-service', that is feasible to provide users on-demand access, quickly add newly released capabilities, and bill based on actual usage at fixed price units.
+
+"(b) Requirements.—A contract or other agreement for anything-as-a-service entered into under the pilot program shall require the outcomes of the capability to be measurable, including the cost and speed of delivery in comparison to using processes other than anything-as-a-service, at the regular intervals that are customary for the type of solution provided.
+
+"(c) Notice.—With respect to each opportunity to participate in the pilot program established under subsection (a), the Secretary shall make publicly available a notice of such opportunity for not less than 60 days.
+
+"(d) Timing.—The Secretary shall, to the extent practicable, enter into a contract or other agreement under this section not later than 100 days after the date on which the Secretary, under subsection (c), makes publicly available a notice to participate in the pilot program established under this section.
+
+"(e) Exemptions.—A contract or other agreement entered into under this section shall be exempt from the following:
+
+"(1) The requirements of section 3702 of title 10, United States Code.
+
+"(2) With respect to a modification to add new features or capabilities in an amount less than or equal to 25 percent of the total value of such contract or other agreement, the requirements of full and open competition (as defined in [former] section 2302 of title 10, United States Code [see 10 U.S.C. 3011]).
+
+"(f) Briefing.—Not later than June 30, 2024, the Secretary of Defense shall provide a briefing to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] on the implementation of the pilot program.
+
+"(g) Anything-as-a-service Defined.—In this section, the term 'anything-as-a-service' means a model under which a technology-supported capability is provided to the Department of Defense and may utilize any combination of software, hardware or equipment, data, and labor or services that provides a capability that is metered and billed based on actual usage at fixed price units."
+
 #### Development of Procurement Administrative Lead Time ####
 
 Pub. L. 115–91, div. A, title VIII, §886, Dec. 12, 2017, 131 Stat. 1505, provided that:

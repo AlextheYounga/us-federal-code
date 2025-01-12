@@ -28,7 +28,7 @@
 
 (E) promotions; and
 
-(F) reserve and regular officers ordered to active duty.
+(F) reserve and regular officers ordered to active duty or, in the case of the Space Force, officers ordered to active duty other than under section 20105(b) of this title.
 
 (4) The opportunities for promotion of commissioned officers anticipated to be estimated pursuant to section 623(b)(4) of this title for the fiscal year in which such report is submitted for purposes of promotion selection boards convened pursuant to section 611 of this title during such fiscal year.
 
@@ -74,7 +74,7 @@
 
 (3) The number of such members naturalized.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492, 2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title V, §519(b), Jan. 2, 2013, 126 Stat. 1721; Pub. L. 115–91, div. A, title X, §1051(a)(2), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 115–232, div. A, title V, §591, Aug. 13, 2018, 132 Stat. 1788; Pub. L. 116–92, div. A, title XVII, §1701(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1794, 1795; Pub. L. 116–283, div. A, title V, §551(a)(4), Jan. 1, 2021, 134 Stat. 3629; Pub. L. 117–263, div. A, title V, §591, Dec. 23, 2022, 136 Stat. 2611.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(a), Nov. 5, 1990, 104 Stat. 1711; amended Pub. L. 102–190, div. A, title X, §1061(a)(1), Dec. 5, 1991, 105 Stat. 1472; Pub. L. 104–106, div. A, title V, §513(e), title X, §1061(d), Feb. 10, 1996, 110 Stat. 307, 442; Pub. L. 105–85, div. A, title V, §522(i)(2), Nov. 18, 1997, 111 Stat. 1736; Pub. L. 105–261, div. A, title IV, §403, Oct. 17, 1998, 112 Stat. 1996; Pub. L. 111–84, div. A, title XI, §1109(b)(1)–(2)(B)(i), Oct. 28, 2009, 123 Stat. 2492, 2493; Pub. L. 112–81, div. A, title IX, §934, Dec. 31, 2011, 125 Stat. 1544; Pub. L. 112–239, div. A, title V, §519(b), Jan. 2, 2013, 126 Stat. 1721; Pub. L. 115–91, div. A, title X, §1051(a)(2), Dec. 12, 2017, 131 Stat. 1560; Pub. L. 115–232, div. A, title V, §591, Aug. 13, 2018, 132 Stat. 1788; Pub. L. 116–92, div. A, title XVII, §1701(a)–(c)(1), Dec. 20, 2019, 133 Stat. 1794, 1795; Pub. L. 116–283, div. A, title V, §551(a)(4), Jan. 1, 2021, 134 Stat. 3629; Pub. L. 117–263, div. A, title V, §591, Dec. 23, 2022, 136 Stat. 2611; Pub. L. 118–31, div. A, title XVII, §1722(a)(1), Dec. 22, 2023, 137 Stat. 667.)
 
 #### **Editorial Notes** ####
 
@@ -87,6 +87,8 @@ Section 1111(b)(2) of the Duncan Hunter National Defense Authorization Act for F
 Provisions similar to those in this section were contained in section 115(b)(1)(D), (3), (c)(2) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
 #### Amendments ####
+
+**2023**—Subsec. (d)(3)(F). Pub. L. 118–31 inserted before period at end "or, in the case of the Space Force, officers ordered to active duty other than under section 20105(b) of this title".
 
 **2022**—Subsec. (h). Pub. L. 117–263 added subsec. (h).
 

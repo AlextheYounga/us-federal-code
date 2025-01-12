@@ -100,7 +100,7 @@ Pub. L. 114–328, div. A, title VIII, §899A(a)–(e), Dec. 23, 2016, 130 Stat.
 
 #### Prohibition on Contracting With the Enemy ####
 
-Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450, as amended by Pub. L. 115–232, div. A, title VIII, §872, title XII, §1251(b)(2), Aug. 13, 2018, 132 Stat. 1905, 2053; Pub. L. 116–92, div. A, title VIII, §822, Dec. 20, 2019, 133 Stat. 1490, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(3), Jan. 1, 2021, 134 Stat. 3873; Pub. L. 117–263, div. A, title VIII, §820, Dec. 23, 2022, 136 Stat. 2709, provided that:
+Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450, as amended by Pub. L. 115–232, div. A, title VIII, §872, title XII, §1251(b)(2), Aug. 13, 2018, 132 Stat. 1905, 2053; Pub. L. 116–92, div. A, title VIII, §822, Dec. 20, 2019, 133 Stat. 1490, as amended by Pub. L. 116–283, div. A, title X, §1081(c)(3), Jan. 1, 2021, 134 Stat. 3873; Pub. L. 117–263, div. A, title VIII, §820, Dec. 23, 2022, 136 Stat. 2709; Pub. L. 118–31, div. A, title VIII, §823(a)–(c), Dec. 22, 2023, 137 Stat. 327–331, provided that:
 
 #### "SEC. 841. PROHIBITION ON PROVIDING FUNDS TO THE ENEMY. ####
 
@@ -283,6 +283,146 @@ Pub. L. 113–291, div. A, title VIII, subtitle E, Dec. 19, 2014, 128 Stat. 3450
 "(8) Head of contracting activity.—The term 'head of contracting activity' has the meaning described in section 1.601 of the Federal Acquisition Regulation.
 
 "(9) Uniform administrative requirements, cost principles, and audit requirements for federal awards.—The term 'Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards' means the guidance issued by the Office of Management and Budget in part 200 of chapter II of title 2 of the Code of Federal Regulations."
+
+*[Pub. L. 118–31, div. A, title VIII, §823, Dec. 22, 2023, 137 Stat. 327, made numerous amendments to sections 841 to 843 of Pub. L. 113–291, set out above, effective 180 days after Dec. 22, 2023, with additional applicability provisions. After such effective date, sections 841 to 843 will read as follows:*
+
+#### ["SEC. 841. THREAT MITIGATION IN COMMERCIAL SUPPORT TO OPERATIONS. ####
+
+["(a) Program Established.—The Secretary of Defense shall, in conjunction with the Director of National Intelligence and the Secretary of State, establish a program to enable commanders of combatant commands to identify and manage risks resulting from covered persons and entities engaging in covered activities. The Secretary of Defense shall issue guidance establishing such program, including identifying who shall be responsible for carrying out and overseeing the program, procedures for using information available from intelligence, security, and law enforcement sources to identify such risks, and strategies for managing the risks posed by covered persons and entities engaging in covered activities.
+
+["(b) Authority.—
+
+["(1) Identification.—
+
+["(A) In general.—Under the program established under subsection (a), the commander of the combatant command concerned shall evaluate covered persons and entities within the area of responsibility of such command to identify such covered persons and entities that are engaging in covered activities.
+
+["(B) Notification.—Upon identification of a covered person or entity who is engaging in covered activities pursuant to an evaluation under subparagraph (A), the commander of the combatant command concerned, or the designated deputies of such commander, shall submit to the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Intelligence and Security, and the Under Secretary of Defense for Policy a notice of such identification and the rationale for such identification.
+
+["(2) Covered procurement actions.—The head of a contracting activity may take a covered procurement action with respect to a person or entity identified as engaging in a covered activity under the program established under subsection (a) if such head receives a notification from the Under Secretary of Defense for Acquisition and Sustainment stating that, based on a risk assessment conducted by the commander of a combatant command who made such identification—
+
+["(A) such person or entity is a covered person or entity;
+
+["(B) such person or entity is or was engaging in one or more covered activities; and
+
+["(C) less intrusive measures are not reasonably available to manage the risk posed by such person or entity.
+
+["(c) Notification to Covered Person or Entity.—
+
+["(1) Advance notice.—The head of a contracting activity, or other appropriate official, shall notify covered persons and entities of the following:
+
+["(A) The program established under subsection (a).
+
+["(B) The authorities provided by subsection (b).
+
+["(C) The responsibilities of covered persons or entities to exercise due diligence to mitigate their engagement in covered activities.
+
+["(2) Notice of covered procurement actions.—
+
+["(A) In general.—Not later than 30 days prior to taking a covered procurement action, the head of a contracting activity shall notify the covered person or entity of the covered procurement action. The covered person or entity shall be permitted the opportunity to challenge the covered procurement action by requesting an administrative review of the action under the procedures of the Department of Defense not later than 30 days after receipt of notice of the action.
+
+["(B) Limitation on disclosure of information.—The rationale of the commander of a combatant command that identified the covered person or entity receiving a notice under subparagraph (A) as a covered person or entity engaging in a covered activity under subsection (b)(1) shall not be disclosed to such covered person or entity, or their representatives, to the extent that such disclosure would compromise national security or pose an unacceptable threat to personnel of the United States or its partners or allies.
+
+["(C) Protection of classified information.—Classified information relied upon to take a covered procurement action may not be disclosed to a covered person or entity, or to their representatives, unless a protective order issued by a court of competent jurisdiction established under article I or article III of the Constitution of the United States specifically addresses the conditions under which such classified information may be disclosed.
+
+["(d) Covered Procurement Action Reporting.—Not later than 15 days after the head of a contracting activity takes a covered procurement action, such head of a contracting activity shall report such covered procurement action to the Under Secretary of Defense for Acquisition and Sustainment and include such covered procurement action in the Federal Awardee Performance and Integrity Information System or other formal systems of record and, in the case that such cover procurement action is for the exclusion a person or commercial entity from an award, the System for Award Management.
+
+["(e) Annual Review.—The Secretary of Defense, in coordination with the Director of National Intelligence and the Secretary of State, shall, on an annual basis, review the lists of persons and entities previously subject to a covered procurement action under subsection (b)(2) to determine whether or not such persons and entities continue to warrant use of the covered procurement action.
+
+["(f) Waiver.—The Secretary of Defense, in conjunction with the Secretary of State, may grant a waiver for actions taken under subsection (b) if it is in the best interest of national security.
+
+["(g) Delegation of Authority.—The authority provided by subsection (b) to make a determination to use a covered procurement action, in whole or in part, may not be delegated below the level of head of contracting activity, or equivalent official, for purposes of grants or cooperative agreements.
+
+["(h) Updating Regulations.—The Federal Acquisition Regulation and the Defense Federal Acquisition Regulation Supplement shall be revised to implement the provisions of this subtitle.
+
+["(i) Reports.—
+
+["(1) In general.—Not later than March 1 of 2023, and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees (as defined in section 101(a) of title 10, United States Code) a report on the use of the authorities in this section in the preceding calendar year, including the following:
+
+["(A) For each instance in which a head of contracting activity took a covered procurement action, the following:
+
+["(i) The head of contracting activity taking such action.
+
+["(ii) An explanation of the basis for taking the covered procurement action.
+
+["(iii) The value of the contract, grant, or cooperative agreement subject to the covered procurement action.
+
+["(iv) The value of all contracts, grants, or cooperative agreements the Department of Defense has with the person or entity concerned at the time of taking the covered procurement action.
+
+["(B) For each instance in which a head of contracting activity did not take a covered procurement action following an identification from a combatant commander under subsection (b), the following:
+
+["(i) The head of contracting activity concerned.
+
+["(ii) An explanation of the basis for not taking the covered procurement action.
+
+["(C) Specific examples where the authorities under this section can not be used to mitigate national security threats posed by vendors supporting Department operations because of the restriction on using such authorities only with respect to contingency operations.
+
+["(D) A description of the policies ensuring that oversight of the use of the authorities in this section is effectively carried out by a single office in the Office of the Under Secretary of Defense for Acquisition and Sustainment.
+
+["(2) Form.—Any report under this subsection may, at the election of the Secretary of Defense—
+
+["(A) be submitted in unclassified form, but with a classified annex; or
+
+["(B) be submitted in classified form.
+
+["(j) National Security Exception.—Nothing in this section shall apply to the authorized intelligence or law enforcement activities of the United States Government.
+
+["(k) Construction With Other Authorities.—The authorities in this section shall be in addition to, and not to the exclusion of, any other authorities available to executive agencies to implement policies and purposes similar to those set forth in this section.
+
+["(l) Sunset.—The provisions of this section shall cease to be effective on December 31, 2033.
+
+#### ["SEC. 842. ADDITIONAL ACCESS TO RECORDS. ####
+
+["(a) Additional Access to Records.—The Secretary of Defense may examine any records of persons or entities that have existing contracts with, or are active recipients of a grant or cooperative agreement from, the Department of Defense, including any subcontractors or subgrantees, to the extent necessary to support the program established under section 841 of this Act.
+
+["(b) Limitation.—The examination authorized under subsection (a) may only take place after a written determination is made by the contracting officer, based on a finding from the combatant commander, stating that this examination will support the program established under such section 841 and that less intrusive measures are not reasonably available to manage the risk.
+
+#### ["SEC. 843. DEFINITIONS. ####
+
+["In this subtitle:
+
+["(1) Covered activities.—The term 'covered activities' means activities where a covered person or entity is—
+
+["(A) engaging in acts of violence against personnel of the United States or its partners and allies;
+
+["(B) providing financing, logistics, training, or intelligence to a person described in subparagraph (A);
+
+["(C) engaging in foreign intelligence activities against the United States or its partners and allies;
+
+["(D) engaging in transnational organized crime or criminal activities; or
+
+["(E) engaging in other activities that present a direct or indirect risk to United States or partner and allied missions and forces.
+
+["(2) Covered contract, grant, or cooperative agreement defined.—The term 'covered contract, grant, or cooperative agreement' means a contract, grant, or cooperative agreement that is performed outside the United States, including its possessions and territories.
+
+["(3) Covered person or entity.—The term 'covered person or entity' means any person, corporation, company, limited liability company, limited partnership, business trust, business association, or other similar entity outside of the United States or any foreign reporting company in accordance with section 5336(a)(11)(A)(ii) of title 31, United States Code, that is responding to a covered solicitation or performing work on a covered contract, grant, or cooperative agreement.
+
+["(4) Covered combatant command.—The term 'covered combatant command' means the following:
+
+["(A) The United States Africa Command.
+
+["(B) The United States Central Command.
+
+["(C) The United States European Command.
+
+["(D) United States Indo-Pacific Command.
+
+["(E) The United States Southern Command.
+
+["(F) The United States Transportation Command.
+
+["(5) Covered procurement action.—The term 'covered procurement action' means an action taken by a head of contracting activity to—
+
+["(A) exclude a person or commercial entity from an award with or without an existing contract, grant, or cooperative agreement;
+
+["(B) terminate a contract, grant, or cooperative agreement for default; or
+
+["(C) void, in whole or in part, a contract, grant, or cooperative agreement.
+
+["(6) Covered solicitation.—The term 'covered solicitation' means any solicitation by the Department of Defense for work for which the place of performance is outside of the United States.
+
+["(7) Head of contracting activity.—The term 'head of contracting activity' has the meaning described in section 1.601 of the Federal Acquisition Regulation."]
+
+[Pub. L. 118–31, div. A, title VIII, §823(d), Dec. 22, 2023, 137 Stat. 331, provided that: "The amendments made by this section [amending subtitle E of title VIII of div. A of Pub. L. 113–291, set out above] shall take effect 180 days after the date of the enactment of this Act [Dec. 22, 2023], and shall apply to covered solicitations issued and covered contracts, grants, or cooperative agreements (as that term is defined in section 843 of the Carl Levin and Howard P. 'Buck' McKeon National Defense Authorization Act for Fiscal Year 2015 [Pub. L. 113–291], as amended by subsection (c)), awarded on or after such date, and to task and delivery orders that have been issued on or after such date pursuant to covered contracts, grants, or cooperative agreements that are awarded before, on, or after such date."]
 
 [Pub. L. 116–283, div. A, title X, §1081(c)(3), Jan. 1, 2021, 134 Stat. 3873, which directed technical amendment of section 821 of Pub. L. 116–92 by inserting "Carl Levin and Howard P. 'Buck' McKeon" before "National Defense Authorization Act for Fiscal Year 2015", was executed to section 822 of Pub. L. 116–92, which amended the Carl Levin and Howard P. "Buck" McKeon National Defense Authorization Act for Fiscal Year 2015 (Pub. L. 113–291), set out above, to reflect the probable intent of Congress.]
 

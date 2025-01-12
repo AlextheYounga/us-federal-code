@@ -8,6 +8,8 @@ Sec.
 
 1543. Reporting requirement.
 
+1543a. Report on hostilities involving United States Armed Forces.
+
 1544. Congressional action.
 
 1545. Congressional priority procedures for joint resolution or bill.

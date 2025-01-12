@@ -38,6 +38,14 @@ Sec.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Pilot Program To Facilitate Access to Advanced Technology Developed by Small Businesses for Ground Vehicle Systems of the Army ####
+
+Pub. L. 118–31, div. A, title II, §232, Dec. 22, 2023, 137 Stat. 205, provided that:
+
+"(a) Program Required.—Beginning not later than 90 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of the Army shall carry out a pilot program under which the Secretary seeks to facilitate a contract between the Ground Vehicle Systems Center of the Army and a non-profit research institute for the purposes of improving the ability of the Center to access advanced technology developed by a small business concern (as defined under section 3 of the Small Business Act (15 U.S.C. 632)). Any such contract shall be a commercial solutions opening contract entered into pursuant to section 3458 of title 10, United States Code.
+
+"(b) Termination.—The authority to carry out the pilot program under this section shall terminate five years after the date of the enactment of this Act."
+
 #### Continuation of Soldier Enhancement Program ####
 
 Pub. L. 117–81, div. A, title I, §114, Dec. 27, 2021, 135 Stat. 1567, provided that:

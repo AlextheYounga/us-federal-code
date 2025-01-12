@@ -52,19 +52,25 @@ Sec.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
-#### Pilot Program on Establishment of Account for Reimbursement for Use of Testing Facilities at Installations of the Department of the Air Force ####
+#### Pilot Program To Augment Sustainment With Maintenance Cost Reimbursements From Major Range and Test Facility Base Users at Installations of the Department of the Air Force ####
 
-Pub. L. 117–81, div. B, title XXVIII, §2862, Dec. 27, 2021, 135 Stat. 2213, provided that:
+Pub. L. 117–81, div. B, title XXVIII, §2862, Dec. 27, 2021, 135 Stat. 2213, as amended by Pub. L. 118–31, div. B, title XXVIII, §2872, Dec. 22, 2023, 137 Stat. 776, provided that:
 
-"(a) Pilot Program Required.—Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of the Air Force shall establish a pilot program to authorize installations of the Department of the Air Force to establish a reimbursable account for the purpose of being reimbursed for the use of testing facilities on such installation.
+"(a) Pilot Program Required.—Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of the Air Force shall establish a pilot program to authorize installations of the Department of the Air Force to establish a reimbursable account for the purpose of being reimbursed for the use of Major Range and Test Facility Base facilities on such installation.
 
-"(b) Installations Selected.—The Secretary of the Air Force shall select not more than two installations of the Department of the Air Force to participate in the pilot program from among any such installations that are part of the Air Force Flight Test Center construct and are currently funded for Facility, Sustainment, Restoration, and Modernization (FSRM) through the Research, Development, Test, and Evaluation account of the Department of the Air Force.
+"(b) Installations Selected.—The Secretary of the Air Force shall select not more than two installations of the Department of the Air Force to participate in the pilot program from among any such installations that are part of the Air Force Flight Test Center construct, have Major Range and Test Facility Base facilities, and are currently funded for Facility, Sustainment, Restoration, and Modernization (FSRM) through the Research, Development, Test, and Evaluation account of the Department of the Air Force.
 
 "(c) Oversight of Funds.—
 
-"(1) Installation commander.—The commander of an installation selected for the pilot program shall have direct oversight over 50 percent of the funds allocated to the installation for Facility, Sustainment, Restoration, and Modernization.
+"(1) Use of amounts.—The commander of an installation selected to participate in the pilot program may obligate or expend amounts reimbursed under the pilot program for projects at the installation.
 
-"(2) Air force civil engineer center commander.—The Commander of the Air Force Civil Engineer Center shall have direct oversight over the remaining 50 percent of Facility, Sustainment, Restoration, and Modernization funds allocated to an installation selected for the pilot program.
+"(2) Designation of maintenance costs.—
+
+"(A) In general.—The commander of an installation selected to participate in the pilot program may designate the appropriate amount of maintenance cost reimbursements to be charged to users of Major Range and Test Facility Base facilities under the pilot program.
+
+"(B) Use of maintenance cost reimbursements.—Maintenance cost reimbursements under subparagraph (A) for an installation may be used either solely or in combination with funds otherwise made available to satisfy the costs of maintenance projects at the installation.
+
+"(3) Oversight.—The commander of an installation selected to participate in the pilot program shall have direct oversight over amounts reimbursed to the installation under the pilot program for Facility, Sustainment, Restoration, and Modernization.
 
 "(d) Briefing and Report.—
 
@@ -72,4 +78,6 @@ Pub. L. 117–81, div. B, title XXVIII, §2862, Dec. 27, 2021, 135 Stat. 2213, p
 
 "(2) Annual report.—Not later than one year after establishing the pilot program under subsection (a), and annually thereafter through the year following termination of the pilot program, the Secretary of the Air Force shall submit to the congressional defense committees a report on the pilot program.
 
-"(e) Termination.—The pilot program shall terminate on December 1, 2026."
+"(e) Treatment of Reimbursements.—Funds otherwise made available to participants in the pilot program may not be reduced by amounts reimbursed under the pilot program for Facility, Sustainment, Restoration, and Modernization.
+
+"(f) Termination.—The pilot program shall terminate on December 1, 2027."

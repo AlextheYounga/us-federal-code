@@ -26,23 +26,67 @@
 
 (4) Formulation of study guidance for analyses of alternatives for major defense acquisition programs and performance of such analyses, as directed by the Secretary of Defense.
 
-(5) Review, analysis, and evaluation of programs for executing approved strategies and policies, ensuring that information on programs is presented accurately and completely, and assessing the effect of spending by the Department of Defense on the United States economy.
+(5) Review, analysis, and evaluation of programs for executing approved strategies and policies and ensuring that information on programs is presented accurately and completely.
 
 (6) Assessments of special access and compartmented intelligence programs, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, and the Under Secretary of Defense for Intelligence and Security and in accordance with applicable policies.
 
 (7) Assessments of alternative plans, programs, and policies with respect to the acquisition programs of the Department of Defense.
 
-(8) Leading the development of improved analytical skills and competencies within the cost assessment and program evaluation workforce of the Department of Defense and improved tools, data, and methods to promote performance, economy, and efficiency in analyzing national security planning and the allocation of defense resources.
+(8) Leading the development of improved analytical skills and competencies within the cost assessment and program evaluation workforce of the Department of Defense and improved tools, data, and methods to promote performance, economy, and efficiency in analyzing national security planning and the allocation of defense resources, including the standardization of analytical methodologies and the establishment and maintenance of a centralized knowledge repository of physical attributes or other data for modeling and simulation purposes.
 
 (9) Performing the duties assigned to the Director in section 2222 of this title.
 
-(Added Pub. L. 111–23, title I, §101(a)(1), May 22, 2009, 123 Stat. 1705, §139c; renumbered §139a and amended Pub. L. 111–383, div. A, title IX, §901(f), title X, §1075(b)(5), Jan. 7, 2011, 124 Stat. 4322, 4369; Pub. L. 112–239, div. A, title X, §1076(f)(4), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title IX, §912(c), Dec. 12, 2017, 131 Stat. 1521; Pub. L. 116–92, div. A, title IX, §902(5), title XVI, §1621(e)(1)(A)(iii), Dec. 20, 2019, 133 Stat. 1543, 1733; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294.)
+(e) Program Evaluation Competitive Analysis Cell.—
+
+(1) Not later than June 1, 2024, the Secretary of Defense shall establish a team, to be known as the "Program Evaluation Competitive Analysis Cell" (referred to in this subsection as the "Cell"), to critically assess the analytical methodologies, assumptions, and data used in key strategic and operational analyses conducted by the Director of Cost Assessment and Program Evaluation.
+
+(2) The Secretary of Defense shall—
+
+(A) designate an individual to serve as the head of the Cell; and
+
+(B) ensure that the Cell has a sufficient number of personnel to carry out the duties described in this subsection.
+
+(3) The Cell shall be independent of the Director of Cost Assessment and Program Evaluation. The head of the Cell shall report directly to the Secretary of Defense or the Deputy Secretary of Defense.
+
+(4)(A) Not less frequently than once every two years, the Cell shall conduct an alternative operational or strategic analysis of an analytical question identified by the Chairman of the Joint Chiefs of Staff under subparagraph (B). In conducting such alternative analysis, the Cell shall use assumptions different from the assumptions used by the Director of Cost Assessment and Program Evaluation for the original analysis of such question.
+
+(B) For purposes of each alternative analysis required under subparagraph (A), at an appropriate time before the commencement of such analysis—
+
+(i) the Director of the Joint Staff shall submit to the Chairman of the Joint Chiefs of Staff a list of not fewer than three operational or strategic questions previously studied by the Director of Cost Assessment and Program Evaluation that could potentially serve as the basis of for such alternative analysis; and
+
+(ii) from such list, the Chairman shall select one question to serve as the basis for such analysis.
+
+(f) Inclusion of Risk Estimates in Certain Submissions.—In any case in which the Director of Cost Assessment and Program Evaluation submits to the Secretary of Defense an analytical product that recommends not meeting or changing a requirement established by the Joint Requirements Oversight Council, the Director shall include with such submission—
+
+(1) a risk assessment that assesses any risks of the recommended course of action with respect to the execution of operational plans and the long-term ability of the armed forces to meet the needs of combatant commanders (as determined by the Secretary of Defense); and
+
+(2) a risk estimate from the military service in question that assesses the risks described in paragraph (1).
+
+(g) Annual Reports.—
+
+(1) In general.—Not later than February 1, 2024, and annually thereafter, the Director of Cost Assessment and Program Evaluation shall submit to the congressional defense committees a report on any strategic and operational analyses conducted under paragraphs (2), (3), (6), (7), or (8) of subsection (d). Each report shall include—
+
+(A) a review of strategic portfolio reviews completed in the fiscal year preceding submission of the report and a description of such reviews planned for the fiscal year that begins after submission of the report;
+
+(B) a review of analyses of alternatives completed in the fiscal year preceding submission of the report and a description of such analyses planned for the fiscal year that begins after submission of the report; and
+
+(C) a review of defense program projections completed in the fiscal year preceding submission of the report and a description of such projections planned for the fiscal year that begins after submission of the report.
+
+(2) Form.—Each report required by paragraph (1) shall be submitted in classified form, but shall include an unclassified summary.
+
+(3) Briefings.—Not later than 15 days after the submission of each report required by paragraph (1), the Director of Cost Assessment and Program Evaluation shall provide to the congressional defense committees a briefing on the contents of the report.
+
+(h) Quarterly Briefings.—Beginning not later than 30 days after the date of the enactment of this subsection, and on a quarterly basis thereafter, the Director of Cost Assessment and Program Evaluation shall provide to the congressional defense committees a briefing on the activities carried out by Director during the preceding quarter an <sup><a href="#139a_2_target" name="139a_2">2</a></sup> any ongoing activities of the Director as of the date of briefing.
+
+(Added Pub. L. 111–23, title I, §101(a)(1), May 22, 2009, 123 Stat. 1705, §139c; renumbered §139a and amended Pub. L. 111–383, div. A, title IX, §901(f), title X, §1075(b)(5), Jan. 7, 2011, 124 Stat. 4322, 4369; Pub. L. 112–239, div. A, title X, §1076(f)(4), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 115–91, div. A, title IX, §912(c), Dec. 12, 2017, 131 Stat. 1521; Pub. L. 116–92, div. A, title IX, §902(5), title XVI, §1621(e)(1)(A)(iii), Dec. 20, 2019, 133 Stat. 1543, 1733; Pub. L. 116–283, div. A, title XVIII, §1883(b)(2), Jan. 1, 2021, 134 Stat. 4294; Pub. L. 118–31, div. A, title IX, §902(a), Dec. 22, 2023, 137 Stat. 355.)
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
 
 Section 2334 of this title, referred to in subsecs. (b)(1)(A) and (d)(1), was repealed by Pub. L. 116–283, div. A, title XVIII, §§1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (h) of section 2334 were transferred to various provisions in chapter 222 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, §1812(b)(1), (3), (c)(1), (d), (e)(1), (f)(1), (g)(1), (h)(1), Jan. 1, 2021, 134 Stat. 4174–4177.
+
+The date of the enactment of this subsection, referred to in subsec. (h), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
 
 #### Prior Provisions ####
 
@@ -51,6 +95,12 @@ A prior section 139a was renumbered section 138b of this title.
 Another prior section 139a was renumbered section 4351 of this title.
 
 #### Amendments ####
+
+**2023**—Subsec. (d)(5). Pub. L. 118–31, §902(a)(1)(A), substituted "and ensuring" for ", ensuring" and struck out ", and assessing the effect of spending by the Department of Defense on the United States economy" after "accurately and completely".
+
+Subsec. (d)(8). Pub. L. 118–31, §902(a)(1)(B), inserted ", including the standardization of analytical methodologies and the establishment and maintenance of a centralized knowledge repository of physical attributes or other data for modeling and simulation purposes" after "defense resources".
+
+Subsecs. (e) to (h). Pub. L. 118–31, §902(a)(2), added subsecs. (e) to (h).
 
 **2021**—Subsecs. (b)(1)(A), (d)(1). Pub. L. 116–283, which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to "section 2334", which was redesignated as multiple sections.
 
@@ -86,4 +136,72 @@ Pub. L. 111–23, title I, §101(c), May 22, 2009, 123 Stat. 1709, provided that
 
 "(3) Transfer of personnel to deputy director for program analysis and evaluation.—The personnel (other than the personnel transferred under paragraph (2)) of the Office of Program Analysis and Evaluation are hereby transferred to the Deputy Director for Program Evaluation in the Office of the Director of Cost Assessment and Program Evaluation."
 
+#### Pilot Program on Alternative Analysis; Establishment of Analysis Working Group ####
+
+Pub. L. 118–31, div. A, title IX, §902(b)–(d), Dec. 22, 2023, 137 Stat. 357, 358, provided that:
+
+"(b) Pilot Program on Alternative Analysis.—
+
+"(1) In general.—Not later than May 1, 2024, the Director of Cost Assessment and Program Evaluation shall establish a pilot program on alternative analysis (referred to in this subsection as the 'pilot program').
+
+"(2) Structure.—Under the pilot program, the Director shall establish three analytical groups focused on programmatic analysis in the following:
+
+"(A) Year 1 of the future-years defense program under section 221 of title 10, United States Code, beginning with fiscal year 2025.
+
+"(B) Years 2 through 5 of the future-years defense program.
+
+"(C) Years outside the future-years defense program.
+
+"(3) Requirements.—The Director shall ensure that at least one strategic portfolio review or an equivalent analytical effort is conducted each year under the pilot program.
+
+"(4) Termination.—The pilot program shall terminate on September 30, 2028.
+
+"(c) Establishment of Analysis Working Group.—
+
+"(1) In general.—Not later than May 1, 2024, the Secretary of Defense shall establish within the Department of Defense a working group to be known as the 'Analysis Working Group'.
+
+"(2) Personnel.—The Secretary of Defense shall ensure that the Analysis Working Group possesses sufficient full-time equivalent support personnel to carry out the duties of the Group, including expansive coordination activities across the Department of Defense.
+
+"(3) Membership.—
+
+"(A) Regular members.—The Analysis Working Group shall be composed of at least one representative from each of the following components of the Department of Defense:
+
+"(i) The Office of the Director of Cost Assessment and Program Evaluation.
+
+"(ii) The Directorate for Joint Force Development (J7) of the Joint Staff.
+
+"(iii) The Directorate for Force Structure, Resources, and Assessment (J8) of the Joint Staff.
+
+"(iv) The Office of the Secretary of Defense for Policy.
+
+"(v) The Chief Digital and Artificial Intelligence Office.
+
+"(B) Observers.—At least one representative from each of the following commands shall serve as observers of the Analysis Working Group:
+
+"(i) The United States Indo-Pacific Command.
+
+"(ii) The United States European Command.
+
+"(iii) The United States Central Command.
+
+"(4) Duties.—The Analysis Working Group shall—
+
+"(A) establish clear priorities and standards to focus analysts on decision support;
+
+"(B) improve transparency of methodologies, tools, and tradecraft across the analytic community, including testing and validation for new or emerging methodologies, tools, and tradecraft;
+
+"(C) improve quality of and expand access to data, including evaluation of new data sets, or application of existing data sets in new or novel ways;
+
+"(D) evolve the methodologies, tools, and tradecraft methods and tools used in strategic analysis;
+
+"(E) resolve classified access and infrastructure challenges;
+
+"(F) foster a workforce and organizations that are innovative, creative, and provide high-quality strategic decision support; and
+
+"(G) carry out such other activities as the Secretary of Defense determines appropriate.
+
+"(d) Rule of Construction.—Nothing in subsection (b) or (c) shall be construed to interfere with the authority of the Chiefs of Staff of the Armed Forces to establish military requirements, performance requirements, and joint performance requirements, or the authority of the Joint Requirements Oversight Council to validate such requirements under section 181 of title 10, United States Code."
+
 [<sup>1</sup> See References in Text note below.](#139a_1)
+
+[<sup>2</sup> So in original.](#139a_2)

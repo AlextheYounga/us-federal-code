@@ -171,6 +171,10 @@ Subtitle II—Patriotic and National Organizations
 
 1503. National Academy of Sciences 150301
 
+1504. National American Indian Veterans, Incorporated
+
+150401
+
 1505. National Conference of State Societies, Washington, District of Columbia 150501
 
 1507. National Conference on Citizenship 150701
@@ -285,6 +289,8 @@ Subtitle III—Treaty Obligation Organizations
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. E, title LI, §5103(b), Dec. 22, 2023, 137 Stat. 938, which directed amendment of analysis for subtitle II of this title by adding item 1504, was executed by making the addition to this analysis to reflect the probable intent of Congress.
 
 **2020**—Pub. L. 116–189, §4(b), Oct. 30, 2020, 134 Stat. 946, which directed amendment of analysis for part B of subtitle II of this title by substituting "United States Olympic and Paralympic Committee" for "United States Olympic Committee" in item for chapter 2205, was executed by making the substitution in this analysis to reflect the probable intent of Congress.
 

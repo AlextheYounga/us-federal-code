@@ -16,7 +16,11 @@ Sec.
 
 2855. Law applicable to contracts for architectural and engineering services and construction design.
 
-2856. Military unaccompanied housing: local comparability of floor areas.
+2856. Covered military unaccompanied housing: design standards. 1
+
+2856a. Covered military unaccompanied housing: waivers of covered privacy and configuration standards.
+
+2856b. Covered military unaccompanied housing: standards for habitability.
 
 2857. Window fall prevention devices in military family housing units.
 
@@ -49,6 +53,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. B, title XXVIII, §§2831(a)(2), 2832(a), 2833(b), Dec. 22, 2023, 137 Stat. 753–755, substituted "Covered military unaccompanied housing: design standards" for "Military unaccompanied housing: local comparability of floor areas" in item 2856 and added items 2856a and 2856b. Addition of items 2856a and 2856b was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. B, §2003(b), title XXVIII, §2812(a), Dec. 27, 2021, 135 Stat. 2162, 2191, renumbered item 2879 in analysis under subchapter IV of this chapter as 2857 and transferred it to appear after item 2856.
 
@@ -100,6 +106,86 @@ Pub. L. 108–375, div. B, title XXVIII, §2804(a)(2), Oct. 28, 2004, 118 Stat. 
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Establishment of Civilian Employees for Oversight of Covered Military Unaccompanied Housing ####
+
+Pub. L. 118–31, div. B, title XXVIII, §2836, Dec. 22, 2023, 137 Stat. 759, provided that:
+
+"(a) Establishment Civilian Employees.—
+
+"(1) In general.—Not later than 30 days after the date of the enactment of this Act [Dec. 22, 2023] and subject to paragraph (3), the Secretary of Defense shall issue regulations to require each Secretary of a military department to establish a civilian employee at the housing office of each military installation under the respective jurisdiction of each such Secretary to be responsible for oversight of covered military unaccompanied housing at that military installation. Such civilian employee shall be an employee of—
+
+"(A) the Department of Defense; or
+
+"(B) the military department concerned.
+
+"(2) Supervisory chain.—Each civilian employee described in paragraph (1) and member of the Armed Forces described in paragraph (3) shall report to an appropriate supervisory civilian employee at the housing office for the applicable military installation.
+
+"(3) Exception.—The requirement under the regulations issued pursuant to paragraph (1) shall not apply with respect to military installations at which oversight of covered military unaccompanied housing is performed by a member of the Armed Forces with an occupational specialty that defines the primary duty of such member as a barracks manager or an equivalent occupation.
+
+"(b) Limitation on Role by Members of the Armed Forces; Position Designation.—
+
+"(1) Limitation.—The Secretary of Defense and the Secretaries of the military departments concerned may not allow an enlisted member of the Armed Forces or commissioned officer to, as a collateral duty, be designated as a barracks manager or supervisor overseeing, managing, accepting, or compiling maintenance records for any covered military unaccompanied housing at the applicable military installation.
+
+"(2) Designation.—Except as provided in paragraph (3) of subsection (a), the functions of a barracks manager or supervisor described in paragraph (1) shall be completed by a civilian employee described in paragraph (1) of such subsection.
+
+"(c) Definitions.—In this section:
+
+"(1) The term 'covered military unaccompanied housing' has the meaning given such term in section 2856 of title 10, United States Code (as amended by section 2831).
+
+"(2) The term 'military installation' has the meaning given such term in section 2801 of such title."
+
+#### Maintenance Work Order Management Process for Covered Military Unaccompanied Housing ####
+
+Pub. L. 118–31, div. B, title XXVIII, §2837, Dec. 22, 2023, 137 Stat. 759, provided that:
+
+"(a) In General.—Not later than 60 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall issue rules to establish for each military department a process associated with maintenance work order management for covered military unaccompanied housing under the jurisdiction of such military department that is—
+
+"(1) in existence on or before the date of the enactment of this Act; or
+
+"(2) constructed or used on or after such date of enactment.
+
+"(b) Use of Process.—The processes required under subsection (a) shall include clearly defined requirements for effective and timely maintenance work order management, including requirements with respect to—
+
+"(1) quality assurance for maintenance completed;
+
+"(2) communication of maintenance progress and resolution with individuals responsible for the management of the covered military unaccompanied housing and the residents of such housing; and
+
+"(3) standardized performance metrics, such as the timeliness of completion of maintenance work orders.
+
+"(c) Administration.—The Secretary of each military department shall administer the process for maintenance work order management required under subsection (a) for the military department under the jurisdiction of such Secretary and shall issue or update relevant guidance as necessary.
+
+"(d) Covered Military Unaccompanied Housing Defined.—In this section, the term 'covered military unaccompanied housing' has the meaning given in section 2856 of title 10, United States Code (as amended by section 2831)."
+
+#### Uniform Index for Evaluating the Condition of Covered Military Unaccompanied Housing Facilities ####
+
+Pub. L. 118–31, div. B, title XXVIII, §2838, Dec. 22, 2023, 137 Stat. 760, provided that:
+
+"(a) In General.—Not later than 30 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense, acting through the Assistant Secretary of Defense for Energy, Installations, and Environment, shall establish a uniform index for evaluating the condition of covered military unaccompanied housing facilities—
+
+"(1) that exist as of the date of the enactment of this Act; and
+
+"(2) that are constructed or used on or after such date.
+
+"(b) Completion of Index.—Not later than 6 months after the date of the enactment of this Act, each Secretary of a military department shall apply the uniform index established under subsection (a) to evaluate the condition of each military installation under the jurisdiction of each such Secretary.
+
+"(c) Definitions.—In this section:
+
+"(1) The term 'covered military unaccompanied housing' has the meaning given in section 2856 of title 10, United States Code (as amended by section 2831).
+
+"(2) The term 'military department' has the meaning given in section 101 of such title.
+
+"(3) The term 'military installation' has the meaning given in section 2801 of such title."
+
+#### Elimination of Flexibilities for Construction Standards for Covered Military Unaccompanied Housing ####
+
+Pub. L. 118–31, div. B, title XXVIII, §2841, Dec. 22, 2023, 137 Stat. 762, provided that:
+
+"(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense and each Secretary of a military department shall modify all directives, instructions, manuals, regulations, policies, and other guidance and issuances of the Department of Defense or appropriate military department to eliminate the grant of any flexibilities to the standards for construction of new covered military unaccompanied housing.
+
+"(b) Matters Included.—The requirement under subsection (a) shall include modifications that remove the flexibility provided to the military departments with respect to new construction standards for covered military unaccompanied housing, including modification of the Department of Defense Manual 4165.63 titled 'DoD Housing Management' and dated October 28, 2010 (or a successor document).
+
+"(c) Covered Military Unaccompanied Housing Defined.—In this section, the term 'covered military unaccompanied housing' has the meaning given in section 2856 of title 10, United States Code (as amended by section 2831)."
+
 #### Improvement of Security of Lodging and Living Spaces on Military Installations ####
 
 Pub. L. 117–81, div. B, title XXVIII, §2815, Dec. 27, 2021, 135 Stat. 2193, provided that:
@@ -123,3 +209,5 @@ Pub. L. 117–81, div. B, title XXVIII, §2815, Dec. 27, 2021, 135 Stat. 2193, p
 "(A) a cost estimate to make any improvements recommended pursuant to the assessment under subsection (a), disaggregated by military department and installation; and
 
 "(B) an estimated schedule for making such improvements."
+
+[<sup>1</sup> So in original. Does not conform to section catchline.](#I_1)

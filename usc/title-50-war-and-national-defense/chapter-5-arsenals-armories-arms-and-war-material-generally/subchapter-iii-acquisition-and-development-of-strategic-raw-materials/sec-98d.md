@@ -4,7 +4,7 @@
 
 (1) Except for acquisitions made under the authority of paragraph (3) of this section <sup><a href="#98d_1_target" name="98d_1">1</a></sup> or under the authority of paragraph (3) or (4) of section 98e(a) of this title, no funds may be obligated or appropriated for acquisition of any material under this subchapter unless funds for such acquisition have been authorized by law. Funds appropriated for any acquisition of materials under this subchapter (and for transportation and other incidental expenses related to such acquisition) shall remain available until expended, unless otherwise provided in appropriation Acts.
 
-(2) If for any fiscal year the President proposes (or Congress requires) a significant change in any stockpile transactions proposed in the Annual Materials and Operations Plan for such fiscal year after the Board submits the report under section 98h–2(b)(2) of this title containing such plan, or a significant transaction not included in such plan, no amount may be obligated or expended for such transaction during such year until the President has submitted a full statement of the proposed transaction to the appropriate committees of Congress and a period of 45 days has passed from the date of the receipt of such statement by such committees.
+(2) If for any fiscal year the President proposes (or Congress requires) a significant change in any stockpile transactions proposed in the Annual Materials and Operations Plan for such fiscal year after the National Defense Stockpile Manager submits the report under section 98h–2(b)(2) of this title containing such plan, or a significant transaction not included in such plan, no amount may be obligated or expended for such transaction during such year until the President has submitted a full statement of the proposed transaction to the appropriate committees of Congress and a period of 45 days has passed from the date of the receipt of such statement by such committees.
 
 (3) Using funds appropriated for acquisition of materials under this subchapter, the National Defense Stockpile Manager may acquire materials determined to be strategic and critical under section 98b(a) of this title without regard to the requirement of the first sentence of paragraph (1) if the Stockpile Manager determines there is a shortfall of such materials in the stockpile.
 
@@ -16,7 +16,7 @@ Except for disposals made under the authority of paragraph (3), (4), or (5) <su
 
 There is authorized to be appropriated such sums as may be necessary to provide for the transportation, processing, refining, storage, security, maintenance, rotation, and disposal of materials contained in or acquired for the stockpile. Funds appropriated for such purposes shall remain available until expended, unless otherwise provided in appropriations Acts.
 
-(June 7, 1939, ch. 190, §5, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(a), (b), Aug. 13, 1981, 95 Stat. 381, 382; Pub. L. 98–525, title IX, §903, Oct. 19, 1984, 98 Stat. 2573; Pub. L. 99–661, div. C, title II, §3207(a)(2), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 100–180, div. C, title II, §3206(a), Dec. 4, 1987, 101 Stat. 1247; Pub. L. 102–484, div. C, title XXXIII, §3312, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 103–160, div. C, title XXXIII, §3312, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 117–263, div. A, title XIV, §§1411(d)(1)(A), 1412(a), Dec. 23, 2022, 136 Stat. 2871, 2872.)
+(June 7, 1939, ch. 190, §5, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(a), (b), Aug. 13, 1981, 95 Stat. 381, 382; Pub. L. 98–525, title IX, §903, Oct. 19, 1984, 98 Stat. 2573; Pub. L. 99–661, div. C, title II, §3207(a)(2), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 100–180, div. C, title II, §3206(a), Dec. 4, 1987, 101 Stat. 1247; Pub. L. 102–484, div. C, title XXXIII, §3312, Oct. 23, 1992, 106 Stat. 2653; Pub. L. 103–160, div. C, title XXXIII, §3312, Nov. 30, 1993, 107 Stat. 1962; Pub. L. 117–263, div. A, title XIV, §§1411(d)(1)(A), 1412(a), Dec. 23, 2022, 136 Stat. 2871, 2872; Pub. L. 118–31, div. A, title XIV, §1411(e)(2)(A), Dec. 22, 2023, 137 Stat. 527.)
 
 #### **Editorial Notes** ####
 
@@ -31,6 +31,8 @@ A prior section 98d, acts June 7, 1939, ch. 190, §5, 53 Stat. 812; July 23, 194
 Provisions similar to those in this section were contained in former sections 98b and 98g of this title prior to repeal by Pub. L. 96–41.
 
 #### Amendments ####
+
+**2023**—Subsec. (a)(2). Pub. L. 118–31 substituted "the National Defense Stockpile Manager" for "the Board".
 
 **2022**—Subsec. (a)(1). Pub. L. 117–263, §1412(a)(1)(A), inserted "under the authority of paragraph (3) of this section or" after "Except for acquisitions made" and substituted "appropriated for any acquisition of materials under this subchapter" for "appropriated for such acquisition".
 
@@ -121,6 +123,8 @@ Pub. L. 99–145, title XVI, §1612, Nov. 8, 1985, 99 Stat. 776, as amended by P
 #### Materials in the National Defense Stockpile ####
 
 Provisions relating to certain materials in the National Defense Stockpile were contained in the following acts:
+
+Pub. L. 118–31, div. A, title XIV, §1412, Dec. 22, 2023, 137 Stat. 528.
 
 Pub. L. 116–92, div. A, title VIII, §850, Dec. 20, 2019, 133 Stat. 1509.
 

@@ -84,11 +84,11 @@
 
 (A) all household income, derived from any source; minus
 
-(B) in the case of a member whom the Secretary concerned determines resides in an area with a high cost of living, any portion of the basic allowance for housing under section 403 of this title that the Secretary concerned elects to exclude.
+(B) in the case of a member whom the Secretary concerned determines resides in an area with a high cost of living or that otherwise has a demonstrated need, any portion of the basic allowance for housing under section 403 of this title that the Secretary concerned elects to exclude.
 
 (2) Household.—The term "household" means a member of the armed forces and any dependents of the member enrolled in the Defense Enrollment Eligibility Reporting System, regardless of the location of those dependents.
 
-(Added Pub. L. 117–81, div. A, title VI, §601(a), Dec. 27, 2021, 135 Stat. 1761; amended Pub. L. 117–263, div. A, title VI, §611(a), Dec. 23, 2022, 136 Stat. 2622; Pub. L. 117–328, div. O, title II, §201(a), Dec. 29, 2022, 136 Stat. 5226.)
+(Added Pub. L. 117–81, div. A, title VI, §601(a), Dec. 27, 2021, 135 Stat. 1761; amended Pub. L. 117–263, div. A, title VI, §611(a), Dec. 23, 2022, 136 Stat. 2622; Pub. L. 117–328, div. O, title II, §201(a), Dec. 29, 2022, 136 Stat. 5226; Pub. L. 118–31, div. A, title VI, §621(a), Dec. 22, 2023, 137 Stat. 293.)
 
 #### **Editorial Notes** ####
 
@@ -97,6 +97,8 @@
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsecs. (i) and (j)(1), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
 
 #### Amendments ####
+
+**2023**—Subsec. (k)(1)(B). Pub. L. 118–31 inserted "or that otherwise has a demonstrated need" after "high cost of living".
 
 **2022**—Pub. L. 117–328, §201(a)(1), made technical amendment to directory language of Pub. L. 117–263, §611(a). See Amendment notes below.
 
@@ -111,5 +113,7 @@ Subsec. (c)(1)(A). Pub. L. 117–263, §611(a)(2), as amended by Pub. L. 117–3
 Pub. L. 117–328, div. O, title II, §201(b), Dec. 29, 2022, 136 Stat. 5227, provided that: "The amendments made by this section [amending section 611(a) of Pub. L. 117–263, which amended this section] shall take effect as if included in the enactment of such Act [meaning Pub. L. 117–263, approved Dec. 23, 2022]."
 
 #### Implementation ####
+
+Pub. L. 118–31, div. A, title VI, §621(b), Dec. 22, 2023, 137 Stat. 293, provided that: "The Secretary of Defense shall revise the guidance issued with respect to implementation of the basic needs allowance under section 402b of title 37, United States Code, to reflect the amendment made by subsection (a) [amending this section]."
 
 Pub. L. 117–263, div. A, title VI, §611(b), Dec. 23, 2022, 136 Stat. 2622, provided that: "Not later than January 1, 2024, the Secretary concerned (as defined in section 101 of title 37, United States Code) shall modify the calculation of the basic needs allowance under section 402b of title 37, United States Code, to implement the amendments made by subsection (a) [amending this section]."

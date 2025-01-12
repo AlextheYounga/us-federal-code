@@ -70,6 +70,46 @@ Pub. L. 104–106, div. A, title V, §§563(a)(1)(B), 567(a)(2), Feb. 10, 1996, 
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Consideration of Reinstatement of a Member of the Armed Forces Involuntarily Separated on the Basis of Refusal To Receive a Vaccination Against COVID-19 ####
+
+Pub. L. 118–31, div. A, title V, §526, Dec. 22, 2023, 137 Stat. 254, provided that:
+
+"(a) Reinstatement.—
+
+"(1) Request; consideration.—At the request of a covered individual during the two years following the date of the involuntary separation of the covered individual, the Secretary concerned shall consider reinstating such covered individual—
+
+"(A) as a member of the Armed Force concerned; and
+
+"(B) in the grade held by such covered individual immediately before the involuntary separation of the covered individual.
+
+"(2) Treatment of period between separation and reinstatement.—The Secretary concerned shall treat the period of time between the involuntary separation of a covered individual and the reinstatement of such covered individual under paragraph (1) as a period of inactivation from active service under the following provisions of section 710 of title 10, United States Code:
+
+"(A) Subsection (b).
+
+"(B) Subparagraphs (B) through (D) of paragraph (2) of subsection (f) [10 U.S.C. 710(f)(2) does not contain subpars. (C) or (D)].
+
+"(C) Paragraph (4) of subsection (f).
+
+"(D) Subsection (g).
+
+"(b) Covered Individual Defined.—In this section, the term 'covered individual' means an individual—
+
+"(1) involuntarily separated from an Armed Force solely on the basis of the refusal of such individual to receive a vaccination against COVID-19; and
+
+"(2) who, during the period beginning on August 24, 2021, and ending on February 24, 2023, submitted a request for a religious, administrative, or medical exemption from a requirement to receive a vaccination against COVID-19."
+
+#### Certain Members Discharged or Dismissed on the Sole Basis of Failure To Obey a Lawful Order To Receive a Vaccine for COVID-19: Communication Strategy Regarding Reinstatement Process ####
+
+Pub. L. 118–31, div. A, title V, §528, Dec. 22, 2023, 137 Stat. 255, provided that:
+
+"(a) Communication Strategy Required.—Not later than six months after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense, in coordination with the Secretaries of the military departments or, with respect the Coast Guard, the Secretary of the department in which the Secretary is operating when the Coast Guard is not operating as a service in the Navy, shall communicate, to a covered individual, the current, established, process by which a covered individual may be reinstated in the covered Armed Force concerned.
+
+"(b) Definitions.—In this section:
+
+"(1) The term 'covered individual' means an individual discharged or dismissed from a covered Armed Force on the sole basis of failure to obey a lawful order to receive a vaccine for COVID-19.
+
+"(2) The term 'covered Armed Force' means the Army, Navy, Marine Corps, Air Force, Coast Guard, or Space Force."
+
 #### Rescission of COVID–19 Vaccination Mandate ####
 
 Pub. L. 117–263, div. A, title V, §525, Dec. 23, 2022, 136 Stat. 2571, provided that: "Not later than 30 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall rescind the mandate that members of the Armed Forces be vaccinated against COVID–19 pursuant to the memorandum dated August 24, 2021, regarding 'Mandatory Coronavirus Disease 2019 Vaccination of Department of Defense Service Members'."

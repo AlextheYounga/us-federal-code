@@ -159,6 +159,50 @@ Pub. L. 102–25, title VII, §701(e)(1), Apr. 6, 1991, 105 Stat. 114, added ite
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Requirement To Base Military Accessions and Promotions on Merit and Performance ####
+
+Pub. L. 118–31, div. A, title V, §529C, Dec. 22, 2023, 137 Stat. 257, provided that:
+
+"(a) Merit Requirement.—A military accession or a promotion in the Department of Defense shall be based on individual merit and demonstrated performance.
+
+"(b) Regulations.—The Secretary of Defense shall prescribe regulations to carry out this section not later than 90 days after the date of the enactment of this Act [Dec. 22, 2023]."
+
+#### Pilot Program on Cardiac Screenings for Military Accessions ####
+
+Pub. L. 118–31, div. A, title V, §547, Dec. 22, 2023, 137 Stat. 266, provided that:
+
+"(a) Establishment.—Not later than September 30, 2024, the Secretary of Defense shall carry out a pilot program to provide an electrocardiogram to individuals who undergo military accession screenings. Each such electrocardiogram shall be provided—
+
+"(1) on a mandatory basis;
+
+"(2) at no cost to the recipient; and
+
+"(3) in a facility of the Department of Defense or by a member or employee of the military health system.
+
+"(b) Purposes.—In carrying out the pilot program, the Secretary shall—
+
+"(1) determine the costs (including protocols and personnel and equipment for each location where the Secretary carries out the pilot program) and benefits to the Department of providing an electrocardiogram to every individual who undergoes a military accession screening;
+
+"(2) develop and implement appropriate processes to assess the long-term impacts of electrocardiogram results on military service; and
+
+"(3) consult with experts in cardiology to develop appropriate clinical practice guidelines for cardiac screenings, diagnosis, and treatment.
+
+"(c) Briefing.—Not later than 180 days after the date on which the pilot program terminates, the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the pilot program. Such briefing shall include the following:
+
+"(1) The results of all electrocardiograms provided to individuals under the pilot program—
+
+"(A) disaggregated by Armed Force, race, and gender; and
+
+"(B) without any personally identifiable information.
+
+"(2) The rate of significant cardiac issues detected pursuant to electrocardiograms provided under the pilot program, disaggregated by Armed Force, race, and gender.
+
+"(3) The number of individuals, if any, who were disqualified from accession based solely on the result of an electrocardiogram provided under the pilot program.
+
+"(4) The cost of carrying out the pilot program.
+
+"(d) Termination.—The pilot program shall terminate after three years after its implementation."
+
 #### Standardization of Policies Relating to Service in Armed Forces by Individuals Diagnosed With HBV ####
 
 Pub. L. 117–263, div. A, title VII, §739, Dec. 23, 2022, 136 Stat. 2676, provided that:
@@ -213,7 +257,27 @@ Pub. L. 117–81, div. A, title III, §364, Dec. 27, 2021, 135 Stat. 1662, provi
 
 "(4) The term 'special operations forces' means forces described under section 167(j) of title 10, United States Code."
 
-#### Improvements to Military Accessions in Armed Forces Under the Jurisdiction of the Secretaries of the Military Departments ####
+#### Improvements to Military Accessions ####
+
+Pub. L. 118–31, div. A, title V, §545, Dec. 22, 2023, 137 Stat. 265, provided that:
+
+"(a) Improvements.—Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], and once four years thereafter, the Secretary of Defense shall—
+
+"(1) conduct an assessment of the prescribed medical standards and medical screening processes required for the appointment of an individual as an officer, or enlistment of an individual as a member, in each covered Armed Force;
+
+"(2) taking into account the findings of such assessment—
+
+"(A) update such standards and processes, as may be necessary; and
+
+"(B) take such steps as may be necessary to improve the waiver process for individuals who do not meet such prescribed medical standards; and
+
+"(3) submit to the Committees on Armed Services of the House of Representatives and the Senate a report containing, with respect to the most recently conducted assessment under paragraph (1)—
+
+"(A) the findings of that assessment and a description of the actions carried out pursuant to paragraph (2); and
+
+"(B) recommendations by the Secretary for any legislative action the Secretary determines necessary to further improve such standards and processes.
+
+"(b) Covered Armed Force Defined.—In this section, the term 'covered Armed Force' means the Army, Navy, Air Force, Marine Corps, or Space Force."
 
 Pub. L. 117–81, div. A, title V, §522, Dec. 27, 2021, 135 Stat. 1686, provided that:
 

@@ -58,9 +58,15 @@ Sec.
 
 147. Chief Diversity Officer.
 
+148. Joint Energetics Transition Office.
+
+149. Office of Strategic Capital.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title II, §241(a), title IX, §903(a), Dec. 22, 2023, 137 Stat. 205, 358, added items 148 and 149. Additions were made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. A, title IX, §902(a)(4)(A), Dec. 27, 2021, 135 Stat. 1869, struck out item 146 "Office of Local Defense Community Cooperation".
 

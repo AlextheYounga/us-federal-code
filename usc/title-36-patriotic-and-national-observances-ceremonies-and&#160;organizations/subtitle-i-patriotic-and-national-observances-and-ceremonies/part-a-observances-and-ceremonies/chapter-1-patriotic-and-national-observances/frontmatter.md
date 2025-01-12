@@ -92,13 +92,17 @@ Sec.
 
 145. Veterans Day.
 
-146. National Atomic Veterans Day. 1
+146. National Atomic Veterans Day.
 
-146. 1 Choose Respect Day.
+147. Choose Respect Day.
+
+148. U.S. Hostage and Wrongful Detainee Day.
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title XVIII, §1804(a)(1)(B), Dec. 22, 2023, 137 Stat. 686, added items 147 and 148 and struck out item 146 "Choose Respect Day".
 
 **2022**—Pub. L. 117–103, div. W, title XIII, §1310(b)(2), Mar. 15, 2022, 136 Stat. 931, added item 146 relating to Choose Respect Day.
 
@@ -1999,5 +2003,3 @@ Barack Obama.
 #### Executive Order No. 13072 ####
 
 Ex. Ord. No. 13072, Feb. 2, 1998, 63 F.R. 6041, provided for formation of the White House Millennium Council to lead the country in a celebration of the new millennium by initiating and recognizing national and local projects that contributed in educational, creative, and productive ways to America's commemoration of that historic time.
-
-[<sup>1</sup> So in original. Two sections 146 have been enacted.](#CHAPTER1_1)

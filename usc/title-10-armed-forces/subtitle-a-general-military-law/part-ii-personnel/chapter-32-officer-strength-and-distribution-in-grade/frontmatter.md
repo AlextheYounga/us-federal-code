@@ -12,9 +12,9 @@ Sec.
 
 525. Distribution of commissioned officers on active duty in general officer and flag officer grades.
 
-526. Authorized strength: general and flag officers on active duty.
+526. Authorized strength: general officers and flag officers on active duty.
 
-526a. Authorized strength after December 31, 2022: general officers and flag officers on active duty.
+[526a. Renumbered.]
 
 527. Authority to suspend sections 523, 525, and 526.
 
@@ -23,6 +23,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title V, §501(a)(2)–(4), Dec. 22, 2023, 137 Stat. 240, substituted "Authorized strength: general officers and flag officers on active duty" for "Authorized strength: general and flag officers on active duty" in item 526 and struck out former item 526a "Authorized strength after December 31, 2022: general officers and flag officers on active duty." Amendment of item 526 was made pursuant to operation of section 102 of this title.
 
 **2016**—Pub. L. 114–328, div. A, title V, §501(h)(3), Dec. 23, 2016, 130 Stat. 2102, added item 526a.
 

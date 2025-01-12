@@ -14,6 +14,10 @@ Sec.
 
 222d. Annual report on industrial base constraints for munitions.
 
+222e. Programs, projects, and activities that were internally changed in the submission of the President's budget: annual report.
+
+222e. Unfunded priorities of the Under Secretary of Defense for Research and Engineering: annual report.
+
 223. Ballistic missile defense programs: program elements.
 
 223a. Ballistic missile defense programs: procurement.
@@ -30,13 +34,15 @@ Sec.
 
 [230. Repealed.]
 
-231. Budgeting for construction, maintenance, and modernization of naval vessels: annual plan and certification.
+231. Budgeting for construction, maintenance, and modernization of naval vessels: annual plans and certifications.
 
 231a. Budgeting for life-cycle costs of aircraft for the Army, Navy, and Air Force: annual plan and certification.
 
 [232. Repealed.]
 
 233. Operation and maintenance budget presentation.
+
+233a. Annual report on force structure changes exhibit for the defense budget.
 
 234. POW/MIA activities: display of budget information.
 
@@ -58,9 +64,13 @@ Sec.
 
 239d. Budgeting for depot and ammunition production facility maintenance and repair: annual report.
 
+239e. Nuclear command, control, and communications: major force program and budget assessment.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title I, §151, title II, §211, title X, §1002, title XVI, §1631, title XVIII, §1801(a)(3)(A), Dec. 22, 2023, 137 Stat. 179, 182, 378, 591, 683, added item 222e "Programs, projects, and activities that were internally changed in the submission of the President's budget: annual report", 222e "Unfunded priorities of the Under Secretary of Defense for Research and Engineering: annual report", and items 233a and 239e and substituted "plans and certifications" for "plan and certification" in item 231. Additions and amendment were made pursuant to operation of section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. A, title III, §§352(b), 371, title XVII, §1701(d)(2), Dec. 23, 2022, 136 Stat. 2534, 2539, 2966, added items 222d, 231, and 239d and struck out former item 231 "Budgeting for construction of naval vessels: annual plan and certification".
 

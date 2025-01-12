@@ -12,7 +12,7 @@ The President shall—
 
 (4) provide for the rotation of any material in the stockpile when necessary to prevent deterioration or technological obsolescence of such material by replacement of such material with an equivalent quantity of substantially the same material or better material;
 
-(5) provide for the appropriate recovery of any strategic and critical materials under section 98b(a) of this title that may be available from excess materials made available for recovery purposes by other Federal agencies;
+(5) provide for the appropriate recovery of any strategic and critical materials under section 98b(a) of this title that may be available from other Federal agencies, either directly as materials or embedded in excess-to-need, end-of-life items, or waste streams;
 
 (6) subject to the notification required by subsection (d)(2), provide for the timely disposal of materials in the stockpile that (A) are excess to stockpile requirements, and (B) may cause a loss to the Government if allowed to deteriorate; and
 
@@ -28,7 +28,7 @@ Except as provided in subsections (c) and (d), acquisition of strategic and crit
 
 #### (c) Barter; use of stockpile materials as payment for expenses of acquiring, refining, processing, or rotating materials ####
 
-(1) The President shall encourage the use of barter in the acquisition under subsection (a)(1) of strategic and critical materials for, and the disposal under subsection (a)(5) or (a)(6) of materials from, the stockpile when acquisition or disposal by barter is authorized by law and is practical and in the best interest of the United States.
+(1) The President shall encourage the use of barter in the acquisition under subsection (a)(1) of strategic and critical materials for, and the disposal under subsection (a)(6) or (a)(7) of materials from, the stockpile when acquisition or disposal by barter is authorized by law and is practical and in the best interest of the United States.
 
 (2) Materials in the stockpile (the disposition of which is authorized by paragraph (3) to finance the upgrading, refining, or processing of a material in the stockpile, or is otherwise authorized by law) shall be available for transfer at fair market value as payment for expenses (including transportation and other incidental expenses) of acquisition of materials, or of upgrading, refining, processing, or rotating materials, under this subchapter.
 
@@ -40,7 +40,7 @@ Except as provided in subsections (c) and (d), acquisition of strategic and crit
 
 (1) The President may waive the applicability of any provision of the first sentence of subsection (b) to any acquisition of material for, or disposal of material from, the stockpile. Whenever the President waives any such provision with respect to any such acquisition or disposal, or whenever the President determines that the application of paragraph (1) or (2) of such subsection to a particular acquisition or disposal is not feasible, the President shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives in writing of the proposed acquisition or disposal at least 45 days before any obligation of the United States is incurred in connection with such acquisition or disposal and shall include in such notification the reasons for not complying with any provision of such subsection.
 
-(2) Materials in the stockpile may be disposed of under subsection (a)(5) only if such congressional committees are notified in writing of the proposed disposal at least 45 days before any obligation of the United States is incurred in connection with such disposal.
+(2) Materials in the stockpile may be disposed of under subsection (a)(6) only if such congressional committees are notified in writing of the proposed disposal at least 45 days before any obligation of the United States is incurred in connection with such disposal.
 
 #### (e) Leasehold interests in property ####
 
@@ -56,7 +56,41 @@ The President may loan stockpile materials to the Department of Energy or the mi
 
 (3) includes in the written notification under paragraph (2) sufficient support for the assurance described in paragraph (1).
 
-(June 7, 1939, ch. 190, §6, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(c), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3207(b), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 101–189, div. C, title XXXIII, §3314, Nov. 29, 1989, 103 Stat. 1688; Pub. L. 101–510, div. C, title XXXIII, §3301(a), (b), Nov. 5, 1990, 104 Stat. 1844; Pub. L. 102–190, div. C, title XXXIII, §3312, Dec. 5, 1991, 105 Stat. 1584; Pub. L. 103–337, div. C, title XXXIII, §3302, Oct. 5, 1994, 108 Stat. 3098; Pub. L. 104–106, div. A, title XV, §1502(e)(1), Feb. 10, 1996, 110 Stat. 509; Pub. L. 104–201, div. C, title XXXIII, §3312(b), (c), Sept. 23, 1996, 110 Stat. 2857; Pub. L. 105–85, div. C, title XXXIII, §3306, Nov. 18, 1997, 111 Stat. 2058; Pub. L. 106–65, div. A, title X, §1067(13), Oct. 5, 1999, 113 Stat. 775; Pub. L. 113–66, div. A, title XIV, §1411(a), Dec. 26, 2013, 127 Stat. 934; Pub. L. 117–81, div. A, title XIV, §§1411(1), 1412, Dec. 27, 2021, 135 Stat. 2018.)
+#### (g) Pilot program to use commercial best practices in acquiring and disposing of strategic and critical materials ####
+
+(1) The National Defense Stockpile Manager shall establish a pilot program to use, to the maximum extent practicable, commercial best practices in the acquisition and disposal of strategic and critical materials for the stockpile.
+
+(2)(A) The Stockpile Manager shall brief the congressional defense committees (as defined in section 101(a) of title 10)—
+
+(i) as soon as practicable after the establishment of the pilot program under paragraph (1); and
+
+(ii) annually thereafter until the termination of the pilot program under paragraph (3).
+
+(B) The briefing required by subparagraph (A)(i) shall address—
+
+(i) the commercial best practices selected for use under the pilot program;
+
+(ii) how the Stockpile Manager determined which commercial best practices to select; and
+
+(iii) the plan of the Stockpile Manager for using such practices.
+
+(C) Each briefing required by subparagraph (A)(ii) shall provide a summary of—
+
+(i) how the Stockpile Manager has used commercial best practices under the pilot program during the year preceding the briefing;
+
+(ii) how many times the Stockpile Manager has used such practices;
+
+(iii) the outcome of each use of such practices; and
+
+(iv) any savings achieved or lessons learned as a result of the use of such practices.
+
+(3) The pilot program established under paragraph (1) shall terminate effective on the date that is 5 years after December 22, 2023.
+
+#### (h) Ensuring programs achieve positive cash flow ####
+
+Except to the extent necessary for the national defense, the National Defense Stockpile Manager shall ensure that each program for the recovery of strategic and critical materials implemented under subsection (a)(5) operates in a manner designed to achieve positive cash flow.
+
+(June 7, 1939, ch. 190, §6, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 321; amended Pub. L. 97–35, title II, §203(c), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3207(b), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 101–189, div. C, title XXXIII, §3314, Nov. 29, 1989, 103 Stat. 1688; Pub. L. 101–510, div. C, title XXXIII, §3301(a), (b), Nov. 5, 1990, 104 Stat. 1844; Pub. L. 102–190, div. C, title XXXIII, §3312, Dec. 5, 1991, 105 Stat. 1584; Pub. L. 103–337, div. C, title XXXIII, §3302, Oct. 5, 1994, 108 Stat. 3098; Pub. L. 104–106, div. A, title XV, §1502(e)(1), Feb. 10, 1996, 110 Stat. 509; Pub. L. 104–201, div. C, title XXXIII, §3312(b), (c), Sept. 23, 1996, 110 Stat. 2857; Pub. L. 105–85, div. C, title XXXIII, §3306, Nov. 18, 1997, 111 Stat. 2058; Pub. L. 106–65, div. A, title X, §1067(13), Oct. 5, 1999, 113 Stat. 775; Pub. L. 113–66, div. A, title XIV, §1411(a), Dec. 26, 2013, 127 Stat. 934; Pub. L. 117–81, div. A, title XIV, §§1411(1), 1412, Dec. 27, 2021, 135 Stat. 2018; Pub. L. 118–31, div. A, title XIV, §1411(b), Dec. 22, 2023, 137 Stat. 523.)
 
 #### **Editorial Notes** ####
 
@@ -67,6 +101,14 @@ A prior section 98e, acts June 7, 1939, ch. 190, §6, 53 Stat. 812; May 28, 1941
 Provisions similar to those in this section were contained in former section 98b of this title prior to repeal by Pub. L. 96–41.
 
 #### Amendments ####
+
+**2023**—Subsec. (a)(5). Pub. L. 118–31, §1411(b)(1), substituted "from other Federal agencies, either directly as materials or embedded in excess-to-need, end-of-life items, or waste streams;" for "from excess materials made available for recovery purposes by other Federal agencies;".
+
+Subsec. (c)(1). Pub. L. 118–31, §1411(b)(2), substituted "subsection (a)(6) or (a)(7)" for "subsection (a)(5) or (a)(6)".
+
+Subsec. (d)(2). Pub. L. 118–31, §1411(b)(3), substituted "subsection (a)(6)" for "subsection (a)(5)".
+
+Subsecs. (g), (h). Pub. L. 118–31, §1411(b)(4), added subsecs. (g) and (h).
 
 **2021**—Subsec. (b)(2). Pub. L. 117–81, §1411(1), inserted "to consult with producers and processors of such materials" before "to avoid".
 

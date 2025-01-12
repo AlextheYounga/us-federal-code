@@ -24,13 +24,17 @@
 
 (10) Joint warfighting capabilities.
 
+(11) Incremental expenses (as such term is defined in section 301(5) of this title) related to security cooperation programs and activities of the Department of Defense (as such term is defined in section 301(7) of this title).
+
 (c) Priority.—The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the Combatant Commander Initiative Fund, should give priority consideration to—
 
 (1) requests for funds to be used for activities that would enhance the war fighting capability, readiness, and sustainability of the forces assigned to the commander requesting the funds;
 
-(2) the provision of funds to be used for activities with respect to an area or areas not within the area of responsibility of a commander of a combatant command that would reduce the threat to, or otherwise increase, the national security of the United States; and
+(2) the provision of funds to be used for activities with respect to an area or areas not within the area of responsibility of a commander of a combatant command that would reduce the threat to, or otherwise increase, the national security of the United States;
 
-(3) the provision of funds to be used for urgent and unanticipated humanitarian relief and reconstruction assistance, particularly in a foreign country where the armed forces are engaged in a contingency operation.
+(3) the provision of funds to be used for urgent and unanticipated humanitarian relief and reconstruction assistance, particularly in a foreign country where the armed forces are engaged in a contingency operation; and
+
+(4) incremental expenses related to security cooperation programs and activities of the Department of Defense, as authorized by subsection (b)(11), for United States Africa Command and United States Southern Command.
 
 (d) Relationship to Other Funding.—Any amount provided by the Chairman of the Joint Chiefs of Staff during any fiscal year out of the Combatant Commander Initiative Fund for an activity referred to in subsection (b) shall be in addition to amounts otherwise available for that activity for that fiscal year.
 
@@ -46,11 +50,15 @@
 
 (f) Inclusion of NORAD.—For purposes of this section, the Commander, United States Element, North American Aerospace Defense Command shall be considered to be a commander of a combatant command.
 
-(Added Pub. L. 102–190, div. A, title IX, §902(a), Dec. 5, 1991, 105 Stat. 1450; amended Pub. L. 102–396, title IX, §9128, Oct. 6, 1992, 106 Stat. 1935; Pub. L. 102–484, div. A, title IX, §934, Oct. 23, 1992, 106 Stat. 2477; Pub. L. 103–35, title II, §201(a), May 31, 1993, 107 Stat. 97; Pub. L. 105–85, div. A, title IX, §902, Nov. 18, 1997, 111 Stat. 1854; Pub. L. 108–136, div. A, title IX, §902(a)(2), (b), (c), Nov. 24, 2003, 117 Stat. 1558; Pub. L. 109–364, div. A, title IX, §902, Oct. 17, 2006, 120 Stat. 2351; Pub. L. 111–84, div. A, title IX, §904, Oct. 28, 2009, 123 Stat. 2424; Pub. L. 114–328, div. A, title VIII, §833(b)(1)(C), Dec. 23, 2016, 130 Stat. 2284; Pub. L. 117–81, div. A, title X, §1002, Dec. 27, 2021, 135 Stat. 1883.)
+(Added Pub. L. 102–190, div. A, title IX, §902(a), Dec. 5, 1991, 105 Stat. 1450; amended Pub. L. 102–396, title IX, §9128, Oct. 6, 1992, 106 Stat. 1935; Pub. L. 102–484, div. A, title IX, §934, Oct. 23, 1992, 106 Stat. 2477; Pub. L. 103–35, title II, §201(a), May 31, 1993, 107 Stat. 97; Pub. L. 105–85, div. A, title IX, §902, Nov. 18, 1997, 111 Stat. 1854; Pub. L. 108–136, div. A, title IX, §902(a)(2), (b), (c), Nov. 24, 2003, 117 Stat. 1558; Pub. L. 109–364, div. A, title IX, §902, Oct. 17, 2006, 120 Stat. 2351; Pub. L. 111–84, div. A, title IX, §904, Oct. 28, 2009, 123 Stat. 2424; Pub. L. 114–328, div. A, title VIII, §833(b)(1)(C), Dec. 23, 2016, 130 Stat. 2284; Pub. L. 117–81, div. A, title X, §1002, Dec. 27, 2021, 135 Stat. 1883; Pub. L. 118–31, div. A, title XII, §1202(a), Dec. 22, 2023, 137 Stat. 441.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Subsec. (b)(11). Pub. L. 118–31, §1202(a)(1), added par. (11).
+
+Subsec. (c)(4). Pub. L. 118–31, §1202(a)(2), added par. (4).
 
 **2021**—Subsec. (e)(1)(A). Pub. L. 117–81, §1002(1), substituted "$25,000,000" for "$20,000,000" and "$300,000" for "$250,000".
 

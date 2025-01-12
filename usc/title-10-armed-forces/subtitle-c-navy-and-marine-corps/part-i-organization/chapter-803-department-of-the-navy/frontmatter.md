@@ -28,7 +28,7 @@ Sec.
 
 8023. Office of Naval Research: appropriations; time limit.
 
-8024. Naval Research Advisory Committee.
+[8024. Repealed.]
 
 8025. Financial management.
 
@@ -38,6 +38,8 @@ Sec.
 
 8028. Director of Small Business Programs.
 
+8029. Naval Air Warfare Rapid Capabilities Office.
+
 #### **Editorial Notes** ####
 
 #### Prior Provisions ####
@@ -45,6 +47,8 @@ Sec.
 A prior chapter 803, consisting of sections 8011 to 8024, related to Department of the Air Force, prior to renumbering as chapter 903 of this title.
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title II, §215, title IX, §914, Dec. 22, 2023, 137 Stat. 184, 368, added item 8029 and struck out item 8024 "Naval Research Advisory Committee". Amendments were made pursuant to section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. A, title X, §1022(b)(2), Dec. 23, 2022, 136 Stat. 2763, added item 8026 and struck out former item 8026 "Consultation with Commandant of the Marine Corps on major decisions directly concerning Marine Corps aviation".
 

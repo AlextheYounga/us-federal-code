@@ -38,6 +38,90 @@ A prior chapter 223 "PLANNING AND SOLICITATION RELATING TO PARTICULAR ITEMS OR S
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Pilot Program To Analyze and Monitor Certain Supply Chains ####
+
+Pub. L. 118–31, div. A, title VIII, §856, Dec. 22, 2023, 137 Stat. 345, provided that:
+
+"(a) In General.—Not later than 90 days after the date of the enactment of this Act [Dec. 22, 2023], the Under Secretary of Defense for Acquisition and Sustainment shall establish and carry out a pilot program to analyze, map, and monitor supply chains for up to five covered weapons platforms, under which the Under Secretary shall—
+
+"(1) identify impediments to production and opportunities to expand the production of components of such a covered weapons platform;
+
+"(2) identify potential risks to and vulnerabilities of suppliers for such covered weapons platforms and ways to mitigate such risks; and
+
+"(3) identify critical suppliers for such covered weapons platforms.
+
+"(b) Use of Tools.—The Under Secretary may use a combination of commercial tools and tools available to the Department of Defense to carry out the program established under this section, including artificial intelligence and machine learning tools to improve data analysis capabilities for such supply chains.
+
+"(c) Annual Reports.—Not later than one year after the date of the enactment of this Act, and annually thereafter until the date specified in subsection (d), the Under Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report containing—
+
+"(1) a list of the vulnerabilities of the supply chains for each covered weapons platform selected under subsection (a), categorized by severity of threat or risk to deployment of such a platform;
+
+"(2) for each vulnerability, a description of such vulnerability, whether such vulnerability has been resolved, and, if resolved, the time from identification to resolution; and
+
+"(3) an assessment of any efficiencies achieved by addressing impediments to the supply chain.
+
+"(d) Termination.—The authority to carry out the pilot program under this section shall terminate on January 1, 2028.
+
+"(e) Covered Weapons Platform Defined.—In this section, the term 'covered weapons platform' means any weapons platform identified in the reports submitted under section 1251(d)(1) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 [Pub. L. 116–283] (10 U.S.C. 113 note)."
+
+#### Pilot Program Relating to Semiconductor Supply Chain and Cybersecurity Collaboration Center ####
+
+Pub. L. 118–31, div. A, title XV, §1513, Dec. 22, 2023, 137 Stat. 543, provided that:
+
+"(a) Establishment.—Not later than 90 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense, in coordination with the Director of the National Security Agency, shall commence the conduct of a pilot program under which the Cybersecurity Collaboration Center of the National Security Agency may collaborate with, including by entering into contracts or other agreements with, eligible persons under subsection (c), for the purpose of assessing the feasibility and advisability of improving the cybersecurity of the semiconductor supply chain (in this section referred to as the 'pilot program').
+
+"(b) Program Objectives.—Under the pilot program, the Secretary of Defense shall seek to improve the cybersecurity of the supply chain for the design, manufacturing, assembly, packaging, and testing of semiconductors, including through the following:
+
+"(1) Improving the cybersecurity of processes for such design, manufacturing, assembly, packaging, and testing.
+
+"(2) Protecting against cyber-driven intellectual property theft with respect to such design, manufacturing, assembly, packaging, and testing.
+
+"(3) Reducing the risk of disruptions caused by cyberattacks to the supply chain for such design, manufacturing, assembly, packaging, and testing.
+
+"(c) Eligibility.—A person is eligible to participate in the pilot program if such person—
+
+"(1) directly supports the design, manufacturing, assembly, packaging, or testing of semiconductors within the United States; and
+
+"(2) provides semiconductor components for the Department of Defense, any national security system (as such term is defined in section 3552(b) of title 44, United States Code), or the defense industrial base.
+
+"(d) Briefings.—
+
+"(1) Initial briefing.—
+
+"(A) In general.—Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall provide to the appropriate congressional committees an initial briefing on the pilot program.
+
+"(B) Elements.—The briefing under subparagraph (A) shall include the following:
+
+"(i) A description of the status of the implementation of the pilot program.
+
+"(ii) An identification of key priorities for the pilot program.
+
+"(iii) An identification of any challenges to implementing the pilot program or impediments to participation in the pilot program by eligible persons under subsection (c).
+
+"(2) Annual briefings.—
+
+"(A) In general.—Not later than one year after the date of the initial briefing under paragraph (1), and annually thereafter until the date of termination under subsection (f), the Secretary of Defense shall provide to the appropriate congressional committees a briefing on the progress of the pilot program.
+
+"(B) Elements.—Each briefing under subparagraph (A) shall include the following:
+
+"(i) Recommendations for addressing relevant policy, budgetary, security, and legislative gaps to increase the effectiveness of the pilot program, including, with respect to the first briefing under such subparagraph, an assessment of the resources necessary for successful implementation of the pilot program.
+
+"(ii) Recommendations for increasing participation in the pilot program by eligible persons under subsection (c).
+
+"(iii) A description of any challenges encountered in carrying out the pilot program, including any concerns expressed by manufacturers of semiconductors or suppliers of semiconductor components.
+
+"(iv) The findings of the Secretary, in consultation with the Director of the National Security Agency, with respect to the feasibility and advisability of extending or expanding the pilot program.
+
+"(v) Such other matters as the Secretary considers appropriate.
+
+"(e) Termination.—The pilot program shall terminate on the date that is four years after the date of the enactment of this Act [Dec. 22, 2023].
+
+"(f) Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+"(1) the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives; and
+
+"(2) the Committee on Armed Services and the Select Committee on Intelligence of the Senate."
+
 #### Quantifiable Assurance Capability for Security of Microelectronics ####
 
 Pub. L. 117–263, div. A, title II, §219, Dec. 23, 2022, 136 Stat. 2477, provided that:

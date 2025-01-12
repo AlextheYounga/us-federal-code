@@ -162,9 +162,9 @@ Sec.
 
 355. Special pay: retention incentives for members qualified in critical military skills or assigned to high priority units.
 
-356. Continuation pay: full TSP members with 8 to 12 years of service.
+356. Continuation pay: full TSP members with 7 to 12 years of service.
 
-357. Incentive pay authorities for members of the reserve components of the armed forces.
+357. Special and incentive pay authorities for members of the reserve components of the armed forces.
 
 #### SUBCHAPTER III—GENERAL PROVISIONS ####
 
@@ -179,6 +179,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title VI, §§611(b), 612(b)(2), Dec. 22, 2023, 137 Stat. 290, 291, added items 356 and 357 and struck out former items 356 "Continuation pay: full TSP members with 8 to 12 years of service" and 357 "Incentive pay authorities for members of the reserve components of the armed forces".
 
 **2021**—Pub. L. 117–81, div. A, title VI, §602(b), Dec. 27, 2021, 135 Stat. 1765, added item 357.
 

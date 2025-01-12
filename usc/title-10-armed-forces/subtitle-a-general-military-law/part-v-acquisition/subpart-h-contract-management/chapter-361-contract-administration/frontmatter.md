@@ -18,6 +18,28 @@ Another prior chapter 361, consisting of sections 3811 to 3820 relating to separ
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Modification of Contracts and Options To Provide Economic Price Adjustments ####
+
+Pub. L. 118–31, div. A, title VIII, §826, Dec. 22, 2023, 137 Stat. 335, provided that:
+
+"(a) Authority.—Amounts authorized to be appropriated by this Act [see Tables for classification] for the Department of Defense may be used to modify the terms and conditions of a contract or option to provide an economic price adjustment consistent with sections 16.203–1 and 16.203–2 of the Federal Acquisition Regulation during the relevant period of performance for that contract or option and as specified in section 16.203–3 of the Federal Acquisition Regulation, to the extent and in such amounts as specifically provided in advance in appropriations Acts for the purposes of this section.
+
+"(b) Guidance.—Not later than 30 days after the date of the enactment of this Act [Dec. 22, 2023], the Under Secretary of Defense for Acquisition and Sustainment shall issue guidance implementing the authority under this section."
+
+#### Modifications to Earned Value Management System Requirements ####
+
+Pub. L. 118–31, div. A, title VIII, §827, Dec. 22, 2023, 137 Stat. 335, provided that:
+
+"(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Department of Defense Supplement to the Federal Acquisition Regulation shall be revised to—
+
+"(1) exempt all software contracts and subcontracts of the Department of Defense from earned value management system requirements;
+
+"(2) impose earned value management system requirements for cost contracts or incentive contracts with a value greater than or equal to $20,000,000 and less than $50,000,000; and
+
+"(3) require a defense contractor to use an earned value management system for contracts awarded with a value greater than or equal to $50,000,000 and less than $100,000,000.
+
+"(b) Implementation.—If the Department of Defense Supplement to the Federal Acquisition Regulation is not revised as described in subsection (a) before the deadline specified in such subsection, the Under Secretary of Defense for Acquisition and Sustainment shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the timeline for such revisions."
+
 #### Contract Closeout Authority ####
 
 Pub. L. 114–328, div. A, title VIII, §836, Dec. 23, 2016, 130 Stat. 2285, as amended by Pub. L. 115–91, div. A, title VIII, §824, Dec. 12, 2017, 131 Stat. 1465; Pub. L. 116–283, div. A, title VIII, §820, Jan. 1, 2021, 134 Stat. 3752, provided that:

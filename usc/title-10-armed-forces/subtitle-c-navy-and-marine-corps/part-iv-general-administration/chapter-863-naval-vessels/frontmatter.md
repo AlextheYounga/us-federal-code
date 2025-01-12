@@ -82,13 +82,15 @@ Sec.
 
 8695. Navy battle force ship assessment and requirement reporting.
 
-8696. 1 Navy shipbuilding workforce development special incentive.
+8696. Navy shipbuilding workforce development special incentive.
 
-8696. 1 Battle force ship employment, maintenance, and manning baseline plans.
+8697. Battle force ship employment, maintenance, and manning baseline plans.
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title XVIII, §1801(a)(39), Dec. 22, 2023, 137 Stat. 685, renumbered item 8696 "Battle force ship employment, maintenance, and manning baseline plans" as 8697. Amendment was made pursuant to operation of section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. A, title I, §122(b), title X, §1026(b), Dec. 23, 2022, 136 Stat. 2443, 2767, added two items 8696.
 
@@ -155,5 +157,3 @@ Pub. L. 97–295, §1(49)(B), Oct. 12, 1982, 96 Stat. 1299, added item 7310.
 Pub. L. 97–252, title XI, §1127(b), Sept. 8, 1982, 96 Stat. 759, added item 7309.
 
 **1981**—Pub. L. 97–86, title IX, §911(b)(2), Dec. 1, 1981, 95 Stat. 1122, struck out item 7300 "Contracts for construction: profit limitation".
-
-[<sup>1</sup> So in original. Two items 8696 have been enacted.](#CHAPTER863_1)

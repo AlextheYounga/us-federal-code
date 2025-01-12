@@ -4,15 +4,19 @@
 
 Sec.
 
-1801. Appointment.
+1801. Repealed.
+
+1801a. Appointment and term of service of Architect of the Capitol.
 
 1802. Compensation.
 
 1803. Delegation of authority.
 
-1804. Deputy Architect of the Capitol to act in case of absence, disability, or vacancy.
+1804. Repealed.
 
 1805. Deputy Architect of the Capitol.
+
+1805a. Deputy Architect of the Capitol to serve as acting in case of absence, disability, or vacancy.
 
 1806, 1807. Repealed.
 

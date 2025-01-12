@@ -62,6 +62,8 @@ Sec.
 
 1928e. North Atlantic Assembly; appropriations for expenses of annual meeting.
 
+1928f. Limitation on withdrawal from the North Atlantic Treaty Organization.
+
 1929 to 1936. Repealed.
 
 1937. Irish counterpart account; approval of disposition.

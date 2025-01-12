@@ -12,11 +12,11 @@
 
 (c) Precedence in Department of Defense.—
 
-(1) Precedence in matters of responsibility.—With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense.<sup><a href="#133a_1_target" name="133a_1">1</a></sup>
+(1) Precedence in matters of responsibility.—With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretaryand the Deputy Secretary of Defense.
 
-(2) Precedence in other matters.—With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Chief Management Officer,<sup><a href="#133a_1_target" name="133a_1">1</a></sup> and the Secretaries of the military departments.
+(2) Precedence in other matters.—With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, and the Secretaries of the military departments.
 
-(Added Pub. L. 114–328, div. A, title IX, §901(a)(1), Dec. 23, 2016, 130 Stat. 2339; amended Pub. L. 115–91, div. A, title IX, §910(c)(2), Dec. 12, 2017, 131 Stat. 1518; Pub. L. 116–92, div. A, title IX, §902(2), Dec. 20, 2019, 133 Stat. 1542.)
+(Added Pub. L. 114–328, div. A, title IX, §901(a)(1), Dec. 23, 2016, 130 Stat. 2339; amended Pub. L. 115–91, div. A, title IX, §910(c)(2), Dec. 12, 2017, 131 Stat. 1518; Pub. L. 116–92, div. A, title IX, §902(2), Dec. 20, 2019, 133 Stat. 1542; Pub. L. 118–31, div. A, title IX, §901(a)(1), Dec. 22, 2023, 137 Stat. 354.)
 
 #### **Editorial Notes** ####
 
@@ -27,6 +27,10 @@ A prior section 133a, added Pub. L. 99–500, §101(c) [title X, §902(a)(1)], O
 Another prior section 133a was renumbered section 117 of this title.
 
 #### Amendments ####
+
+**2023**—Subsec. (c)(1). Pub. L. 118–31, §901(a)(1)(A), substituted "and the Deputy Secretary of Defense" for ", the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense".
+
+Subsec. (c)(2). Pub. L. 118–31, §901(a)(1)(B), struck out "the Chief Management Officer," after "the Deputy Secretary,".
 
 **2019**—Subsec. (b)(2). Pub. L. 116–92 substituted "appropriate prototyping activities," for "prototyping," and struck out ", including the allocation of resources for defense research and engineering," after "testing activities and programs".
 
@@ -43,10 +47,6 @@ Pub. L. 115–91, div. A, title IX, §910(c), Dec. 12, 2017, 131 Stat. 1518, pro
 #### Effective Date ####
 
 Pub. L. 114–328, div. A, title IX, §901(a)(1), Dec. 23, 2016, 130 Stat. 2339, provided that this section is effective on Feb. 1, 2018.
-
-#### Transfer of Functions ####
-
-Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of section 132a of this title by Pub. L. 116–283, div. A, title IX, §901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former section 132a of this title.
 
 #### Semiannual Updates on Meetings Held by the Missile Defense Executive Board ####
 
@@ -125,5 +125,3 @@ Pub. L. 109–364, div. A, title IX, §905, Oct. 17, 2006, 120 Stat. 2353, as am
 #### Improvement in Defense Research and Procurement Liaison With Israel ####
 
 Pub. L. 100–456, div. A, title X, §1006, Sept. 29, 1988, 102 Stat. 2040, as amended by Pub. L. 103–160, div. A, title IX, §904(f), Nov. 30, 1993, 107 Stat. 1729; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, which provided for the designation of a primary liaison between the procurement and research and development activities of the armed forces of the United States and Israel, was repealed by Pub. L. 115–232, div. A, title VIII, §811(e), Aug. 13, 2018, 132 Stat. 1845.
-
-[<sup>1</sup> See Transfer of Functions note below.](#133a_1)

@@ -26,6 +26,38 @@ A prior chapter 221 "PLANNING AND SOLICITATION GENERALLY", as added by Pub. L. 1
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Prohibition on Solicitation of Proprietary Armor for Certain Tactical Vehicles ####
+
+Pub. L. 118–31, div. A, title I, §153, Dec. 22, 2023, 137 Stat. 180, provided that:
+
+"(a) Prohibition.—The Secretary of Defense may not include in a solicitation for a tactical tracked vehicle or tactical wheeled vehicle a requirement that such vehicle use proprietary armor.
+
+"(b) Applicability.—Subsection (a) shall not apply to a contract for the procurement of a tactical tracked vehicle or tactical wheeled vehicle entered into before the date of the enactment of this Act [Dec. 22, 2023]."
+
+#### Defense Industrial Base Munition Surge Capacity Critical Reserve ####
+
+Pub. L. 118–31, div. A, title II, §245, Dec. 22, 2023, 137 Stat. 210, provided that:
+
+"(a) In General.—The Under Secretary of Defense for Acquisition and Sustainment, in coordination with the service acquisition executive of each military department, may establish a reserve of long-lead items and components to accelerate the delivery of munitions described in section 222c(c) of title 10, United States Code.
+
+"(b) Quantity.—The quantity of long-lead items and components reserved pursuant to subsection (a) should be in amounts commensurate to fulfill the requirements identified as Out-Year Unconstrained Total Munitions Requirement and Out-Year inventory numbers under section 222c(a) of title 10, United States Code.
+
+"(c) Authority for Advance Procurement.—The Under Secretary of Defense for Acquisition and Sustainment may enter into one or more contracts, beginning in fiscal year 2024, for the advance procurement of long-lead items and components, or economic order quantities of such items and components when cost savings are achievable, associated with munitions identified in subsection (a). Advance procurement authority may include the cost of shipping, storage, tracking, maintenance, and obsolescence management of long-lead items and components while held in the reserve described in subsection (a).
+
+"(d) Limitations.—No long-lead item or component may be procured under this section if the anticipated life cycle of such item or component requires disposal due to lack of military utility less than 8 years after such item or component is procured.
+
+"(e) Report.—Not later than February 1, 2025, and annually thereafter until February 1, 2030, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that describes the use of the authority under this section, including—
+
+"(1) the type, number, and value of long-lead items and components procured under each contractual action; and
+
+"(2) information about the location of storage of such items and components.
+
+"(f) Definitions.—In this section:
+
+"(1) The term 'long-lead item or component' means a material, component, or subsystem of a munition that must be procured well in advance of the need for such munition.
+
+"(2) The terms 'service acquisition executive' and 'military department' have the meanings given, respectively, in section 101 of title 10, United States Code."
+
 #### Restriction on Procurement or Purchasing by Department of Defense of Turnout Gear for Firefighters Containing Perfluoroalkyl Substances or Polyfluoroalkyl Substances ####
 
 Pub. L. 117–263, div. A, title III, §345, Dec. 23, 2022, 136 Stat. 2530, provided that:

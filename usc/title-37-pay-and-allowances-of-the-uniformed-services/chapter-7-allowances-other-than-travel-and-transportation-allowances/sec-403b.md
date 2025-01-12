@@ -14,7 +14,7 @@
 
 (B) it would be inequitable for the member's eligibility for the allowance to be determined on the basis of the duty location of the member.
 
-(c) High Cost Area Defined.—An area is a high cost area for a fiscal year for purposes of this section if the uniformed services cost of living for that area for the base period exceeds the average cost of living in the continental United States for such base period by at least the threshold percentage. The Secretary of Defense, in consultation with the other administering Secretaries, shall establish the threshold percentage, except that the threshold percentage may not be less than 8 percent. The administering Secretaries shall prescribe a higher threshold percentage to be applied for a fiscal year when it is necessary to do so in order to ensure that the total amount of the payments of the cost-of-living allowance made to members of the uniformed services under this section for such fiscal year does not exceed the total amount available to all uniformed services for that fiscal year for paying such allowance.
+(c) High Cost Area Defined.—An area is a high cost area for a fiscal year for purposes of this section if the uniformed services cost of living for that area for the base period exceeds the average cost of living in the continental United States for such base period by at least the threshold percentage. The Secretary of Defense, in consultation with the other administering Secretaries, shall establish the threshold percentage, except that the threshold percentage may not be less than 5 percent. The administering Secretaries may prescribe a higher threshold percentage to be applied for a fiscal year when it is necessary to do so in order to ensure that the total amount of the payments of the cost-of-living allowance made to members of the uniformed services under this section for such fiscal year does not exceed the total amount available to all uniformed services for that fiscal year for paying such allowance.
 
 (d) Amount of Allowance.—The cost-of-living allowance that may be paid to a member for a high cost area for a fiscal year shall be the amount that is equal to the product of—
 
@@ -78,11 +78,13 @@
 
 (D) The Secretary of Health and Human Services, with respect to the Public Health Service.
 
-(Added Pub. L. 103–337, div. A, title VI, §602(a)(1), Oct. 5, 1994, 108 Stat. 2779; amended Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §654(b)(2), Dec. 2, 2002, 116 Stat. 2582.)
+(Added Pub. L. 103–337, div. A, title VI, §602(a)(1), Oct. 5, 1994, 108 Stat. 2779; amended Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §654(b)(2), Dec. 2, 2002, 116 Stat. 2582; Pub. L. 118–31, div. A, title VI, §625, Dec. 22, 2023, 137 Stat. 294.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Subsec. (c). Pub. L. 118–31 substituted "5 percent" for "8 percent" in second sentence and "may prescribe" for "shall prescribe" in third sentence.
 
 **2002**—Subsec. (i)(5)(B). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
@@ -100,27 +102,65 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### OCONUS Cost of Living Allowance: Adjustments; Notice to Certain Congressional Committees ####
 
-Pub. L. 117–263, div. A, title VI, §617, Dec. 23, 2022, 136 Stat. 2624, provided that:
+Pub. L. 117–263, div. A, title VI, §617, Dec. 23, 2022, 136 Stat. 2624, as amended by Pub. L. 118–31, div. A, title VI, §627, Dec. 22, 2023, 137 Stat. 294, provided that:
 
-"(a) Adjustments.—
+"(a) Reductions.—The Secretary of Defense may reduce an OCONUS COLA in accordance with this subsection.
 
-"(1) Reductions: limitation.—The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating may reduce the cost-of-living allowance for a member of the Armed Forces assigned to a duty station located outside the United States—
+"(1) Frequency.—The Secretary may not announce a reduction to an OCONUS COLA for a location outside the continental United States more than twice per calendar year.
 
-"(A) not more than once every six months; or
+"(2) Maximum reduction.—A reduction to an OCONUS COLA may not exceed the lesser of—
 
-"(B) in connection with a permanent change of station for such member.
+"(A) 10 OCONUS COLA index points; or
 
-"(2) Increases.—The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating may increase the allowance described in paragraph (1) for a member of the Armed Forces at any time.
+"(B) the number of OCONUS COLA index points by which the cost of living of the permanent duty station of the covered member exceeds the average cost of living index in the continental United States.
 
-"(b) Notice.—The Secretary of Defense shall notify the Committees on Armed Services of the Senate and House of Representatives not less than 180 days before modifying a table used to calculate the living allowance described in subsection (a).
+"(3) Limitations.—Paragraphs (1) and (2) shall not apply to a reduction on the basis of—
 
-"(c) Briefing.—Not later than March 1, 2023, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a briefing containing—
+"(A) a change in the rate of exchange of foreign currencies; or
 
-"(1) the determination of the Secretary regarding the effects of this section on the allowance described in subsection (a);
+"(B) a permanent change of station for a covered member.
 
-"(2) an assessment of the representative market basket of goods and services used to determine such allowance, including the methodology to identify such market basket and the frequency with which such allowance is adjusted; and
+"(4) Implementation.—The Secretary may phase in a reduction under this subsection.
 
-"(3) the methodology and process by which surveys regarding such allowance are updated, including the average response rates and the efforts undertaken to ensure a representative sample of beneficiaries are surveyed."
+"(b) Increases.—The Secretary may increase an OCONUS COLA at any time.
+
+"(c) Reporting.—Not later than February 1 of each year, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report regarding reductions and increases to OCONUS COLAs during the previous calendar year. Such report shall include the following elements:
+
+"(1) The areas outside the continental United States subject to such a reduction or increase.
+
+"(2) The previous and new amounts of an adjusted OCONUS COLA for a member with three dependents, 10 years of service, and in grade—
+
+"(A) E-6; and
+
+"(B) O-4.
+
+"(3) The number of OCONUS COLA index points by which a new OCONUS COLA index differs from such previous index.
+
+"(4) The number of members of the uniformed services affected by each such reduction or increase.
+
+"(5) The assessment of the Secretary of the calculation of an OCONUS COLA. In making such assessment, the Secretary shall consider factors including—
+
+"(A) Costs of local transportation in the area surrounding the duty station of a member.
+
+"(B) Costs of travel from such duty station to the United States.
+
+"(C) Other costs the Secretary determines appropriate.
+
+"(d) Definitions.—In this section:
+
+"(1) The term "continental United States" has the meaning given such term in section 101 of title 37, United States Code.
+
+"(2) The term "covered member" means a member of the uniformed services—
+
+"(A) who is assigned to a permanent duty station located outside the continental United States; or
+
+"(B) whose dependents reside outside the continental United States but not withing the vicinity to permanent duty station of such member.
+
+"(3) The term "OCONUS COLA" means a cost-of-living allowance paid to a member of the uniformed services on the basis that such member is a covered member.
+
+"(4) The term "OCONUS COLA index" means the index computed by the Secretary of the weighted average prices of goods and services (excluding housing costs) in a location outside the continental United States, relative to the weighted average of prices of the same goods and services in the continental United States.
+
+"(5) The term "OCONUS COLA index point" means 1 percent of the OCONUS COLA index for the weighted average prices of goods and services (excluding housing costs) in a location in the continental United States."
 
 #### Conditions on Provision of Allowance ####
 

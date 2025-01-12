@@ -30,9 +30,15 @@ Sec.
 
 710. Career flexibility to enhance retention of members.
 
+711. 1
+
+Parental leave for members of the reserve component of the armed forces.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title VI, §601(a)(2), Dec. 22, 2023, 137 Stat. 288, added item 711.
 
 **2018**—Pub. L. 115–232, div. A, title V, §551(b)(1), Aug. 13, 2018, 132 Stat. 1768, added item 710.
 
@@ -55,3 +61,5 @@ Sec.
 #### Pilot Programs on Career Flexibility To Enhance Retention of Members of the Armed Forces ####
 
 Pub. L. 110–417, [div. A], title V, §533, Oct. 14, 2008, 122 Stat. 4449, as amended by Pub. L. 112–81, div. A, title V, §531, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1403, 1465; Pub. L. 112–239, div. A, title V, §522, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1722, 1948; Pub. L. 113–291, div. A, title V, §522, Dec. 19, 2014, 128 Stat. 3360; Pub. L. 114–92, div. A, title V, §523, Nov. 25, 2015, 129 Stat. 812, which related to pilot programs under which active members of the Armed Forces could be inactivated from active duty in order to meet personal or professional needs and returned to active duty at the end of such period of inactivation, was repealed by Pub. L. 115–232, div. A, title V, §551(b)(2), Aug. 13, 2018, 132 Stat. 1769. See section 710 of this title.
+
+[<sup>1</sup> So in original. Does not conform to section catchline.](#CHAPTER40_1)

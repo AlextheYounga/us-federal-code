@@ -18,7 +18,7 @@ Sec.
 
 688. Retired members: authority to order to active duty; duties.
 
-688a. Retired members: temporary authority to order to active duty in high-demand, low-density assignments.
+688a. Authority to order to active duty in high-demand, low-density assignments.
 
 689. Retired members: grade in which ordered to active duty and upon release from active duty.
 
@@ -29,6 +29,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title V, §521(b), Dec. 22, 2023, 137 Stat. 249, substituted "Authority to order to active duty in high-demand, low-density assignments" for "Retired members: temporary authority to order to active duty in high-demand, low-density assignments" in item 688a.
 
 **2022**—Pub. L. 117–263, div. A, title IV, §402(a)(2), Dec. 23, 2022, 136 Stat. 2551, struck out item 691 "Permanent end strength levels to support the National Defense Strategy".
 

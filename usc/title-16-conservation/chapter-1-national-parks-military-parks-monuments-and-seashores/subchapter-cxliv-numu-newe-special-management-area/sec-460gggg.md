@@ -22,7 +22,7 @@ To protect, conserve, and enhance the unique and nationally important historic, 
 
 #### (c) Area included ####
 
-The Special Management Area shall consist of the approximately 217,845 acres of public land in Churchill and Mineral Counties, Nevada, administered by the Bureau of Land Management, as depicted on the map entitled "Churchill County Proposed Fallon Range Training Complex Modernization and Lands Bill" and dated November 30, 2022.
+The Special Management Area shall consist of the approximately 209,181 acres of public land in Churchill and Mineral Counties, Nevada, administered by the Bureau of Land Management, as depicted on the map entitled "Churchill County Proposed Fallon Range Training Complex Modernization and Lands Bill" and dated November 30, 2022.
 
 #### (d) Management plan ####
 
@@ -70,10 +70,14 @@ Nothing in this section restricts or precludes—
 
 (3) the designation or creation of new units of special use airspace, or the establishment of military flight training routes, over the Special Management Area.
 
-(Pub. L. 117–263, div. B, title XXIX, §2902, Dec. 23, 2022, 136 Stat. 3033.)
+(Pub. L. 117–263, div. B, title XXIX, §2902, Dec. 23, 2022, 136 Stat. 3033; Pub. L. 118–31, div. B, title XXVIII, §2883(a), Dec. 22, 2023, 137 Stat. 782.)
 
 #### **Editorial Notes** ####
 
 #### References in Text ####
 
 Section 2981(c)(2) of the Military Land Withdrawals Act of 2013 (as added by section 2901 of this title), referred to in subsec. (d)(3)(B), is section 2981(c)(2) of title XXIX of div. B of Pub. L. 113–66, as added by Pub. L. 117–263, div. B, title XXIX, §2901, Dec. 23, 2022, 136 Stat. 3016, which is not classified to the Code.
+
+#### Amendments ####
+
+**2023**—Subsec. (c). Pub. L. 118–31 substituted "209,181 acres" for "217,845 acres".

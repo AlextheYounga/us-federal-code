@@ -7,7 +7,7 @@ Chap. Sec.
 
 913. Enlistments 9131
 
-915. Appointments in the Regular Air Force and the Regular Space Force 9151
+915. Appointments in the Regular Air Force and in the Space Force 9151
 
 919. Temporary Appointments 9176
 
@@ -40,6 +40,8 @@ Chap. Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title XVII, §1721(a)(5)(B), Dec. 22, 2023, 137 Stat. 666, added item for chapter 915 and struck out former item for chapter 915 "Appointments in the Regular Air Force and the Regular Space Force".
 
 **2021**—Pub. L. 116–283, div. A, title IX, §923(c)(3)(C), Jan. 1, 2021, 134 Stat. 3810, added item for chapter 915 and struck out former item for chapter 915 "Appointments in the Regular Air Force".
 

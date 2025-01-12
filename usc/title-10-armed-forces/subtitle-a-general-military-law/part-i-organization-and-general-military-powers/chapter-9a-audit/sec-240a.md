@@ -1,18 +1,22 @@
 ### §240a. Audit of Department of Defense financial statements ###
 
-(a) Annual Audit Required.—The Secretary of Defense shall ensure that a full audit is performed on the financial statements of the Department of Defense for each fiscal year as required by section 3521(e) of title 31.
+The Secretary of Defense shall ensure that a full audit is performed on the financial statements of the Department of Defense for each fiscal year as required by section 3521(e) of title 31.
 
-(b) Annual Report on Audit.—The Secretary shall submit to Congress the results of the audit performed in accordance with subsection (a) for a fiscal year by not later than March 31 of the following fiscal year.
-
-(Added Pub. L. 115–91, div. A, title X, §1002(b)(1), Dec. 12, 2017, 131 Stat. 1538, §251; renumbered §240a, Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), Aug. 13, 2018, 132 Stat. 1945.)
+(Added Pub. L. 115–91, div. A, title X, §1002(b)(1), Dec. 12, 2017, 131 Stat. 1538, §251; renumbered §240a, Pub. L. 115–232, div. A, title X, §1002(a)(1)(A), Aug. 13, 2018, 132 Stat. 1945; amended Pub. L. 118–31, div. A, title X, §1061(g), Dec. 22, 2023, 137 Stat. 400.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
 
+**2023**—Pub. L. 118–31 struck out subsec. (a) designation and heading before "The Secretary" and struck out subsec. (b). Text of subsec. (b) read as follows: "The Secretary shall submit to Congress the results of the audit performed in accordance with subsection (a) for a fiscal year by not later than March 31 of the following fiscal year."
+
 **2018**—Pub. L. 115–232 renumbered section 251 of this title as this section.
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Requirement for Unqualified Opinion on Department of Defense Financial Statements ####
+
+Pub. L. 118–31, div. A, title X, §1005, Dec. 22, 2023, 137 Stat. 379, provided that: "The Secretary of Defense shall ensure that the Department of Defense has received an unqualified opinion on the financial statements of the Department by not later than December 31, 2028."
 
 #### Review and Recommendations on Efforts To Obtain Audit Opinion on Full Financial Statements ####
 

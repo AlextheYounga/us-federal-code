@@ -176,9 +176,11 @@ Sec. 6. *General Provisions*. (a) Insofar as the Federal Advisory Committee Act,
 
 #### Extension of Term of President's Council on Fitness, Sports, and Nutrition ####
 
-Term of President's Council on Fitness, Sports, and Nutrition (renamed President's Council on Sports, Fitness, and Nutrition) extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 1013 of Title 5, Government Organization and Employees.
+Term of President's Council on Fitness, Sports, and Nutrition (renamed President's Council on Sports, Fitness, and Nutrition) extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under section 1013 of Title 5, Government Organization and Employees.
 
 Previous extensions of term of President's Council on Fitness, Sports, and Nutrition, formerly President's Council on Physical Fitness and Sports, were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 

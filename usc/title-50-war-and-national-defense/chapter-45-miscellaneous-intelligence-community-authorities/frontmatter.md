@@ -106,6 +106,14 @@ Sec.
 
 3334p. Increased intelligence-related engineering, research, and development capabilities of minority institutions.
 
+3334q. Detail of individuals from intelligence community to Department of Commerce.
+
+3334r. Designation of a Chief Technology Officer within certain elements of the intelligence community.
+
+3334s. Programs for next-generation microelectronics in support of artificial intelligence.
+
+3334t. Program for beyond 5G.
+
 #### SUBCHAPTER III—SECURITY CLEARANCES AND CLASSIFIED INFORMATION ####
 
 3341. Security clearances.
@@ -115,6 +123,8 @@ Sec.
 3343. Security clearances; limitations.
 
 3344. Classification training program.
+
+3344a. Training to promote sensible classification.
 
 3345. Limitation on handling, retention, and storage of certain classified materials by the Department of State.
 
@@ -129,6 +139,8 @@ Sec.
 3349. Notification regarding the authorized public disclosure of national intelligence.
 
 3350. Maximum amount charged for declassification reviews.
+
+3350a. Promoting efficient declassification review.
 
 3351. Improving quality of information in background investigation request packages.
 
@@ -149,6 +161,10 @@ Sec.
 3352e. Periodic report on positions in the intelligence community that can be conducted without access to classified information, networks, or facilities.
 
 3352f. Information-sharing program for positions of trust and security clearances.
+
+3352g. Requirement to authorize additional security clearances for certain contractors.
+
+3352h. Timeliness standard for rendering determinations of trust for personnel vetting.
 
 #### SUBCHAPTER III–A—PUBLIC INTEREST DECLASSIFICATIONS ####
 
@@ -227,3 +243,7 @@ Sec.
 3382. Director of the National Counterintelligence and Security Center.
 
 3383. National Counterintelligence and Security Center.
+
+3384. Intelligence Community Counterintelligence Office at the Department of Agriculture.
+
+3385. Benjamin Tallmadge Institute as primary Central Intelligence Agency entity for education and training in counterintelligence.

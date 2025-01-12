@@ -214,6 +214,10 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 
 Pub. L. 94–435, title II, §202, Sept. 30, 1976, 90 Stat. 1394, provided that: "The amendment made by section 201 of this Act [enacting this section] shall take effect 150 days after the date of enactment of this Act [Sept. 30, 1976], except that subsection (d) of section 7A of the Clayton Act [subsec. (d) of this section] (as added by section 201 of this Act) shall take effect on the date of enactment of this Act."
 
+#### Department of Defense Notification of Certain Transactions ####
+
+Pub. L. 118–31, div. A, title VIII, §857, Dec. 22, 2023, 137 Stat. 346, provided that: "The parties to a proposed merger or acquisition that will require a review by the Department of Defense who are required to file the notification and provide supplementary information to the Department of Justice or the Federal Trade Commission under section 7A of the Clayton Act (15 U.S.C. 18a) shall concurrently provide such information to the Department of Defense during the waiting period under section 7A of the Clayton Act (15 U.S.C. 18a)."
+
 #### Assessment and Collection of Filing Fees ####
 
 Pub. L. 101–162, title VI, §605, Nov. 21, 1989, 103 Stat. 1031, as amended by Pub. L. 101–302, title II, May 25, 1990, 104 Stat. 217; Pub. L. 102–395, title I, Oct. 6, 1992, 106 Stat. 1847; Pub. L. 103–317, title I, Aug. 26, 1994, 108 Stat. 1739; Pub. L. 106–553, §1(a)(2) [title VI, §630(b)], Dec. 21, 2000, 114 Stat. 2762, 2762A–109; Pub. L. 117–328, div. GG, title I, §101, Dec. 29, 2022, 136 Stat. 5967, provided that:

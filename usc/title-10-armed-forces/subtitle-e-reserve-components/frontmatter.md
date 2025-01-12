@@ -65,6 +65,8 @@ Chap. Sec.
 
 1411. Additional Provisions Relating to Involuntary Separation 14901
 
+1413. Alternative Promotion Authority for Officers in Designated Competitive Categories 15101
+
 ### **PART IV—TRAINING FOR RESERVE COMPONENTS AND EDUCATIONAL ASSISTANCE PROGRAMS** ###
 
 1601. Training Generally. [No present sections]
@@ -90,6 +92,8 @@ Chap. Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title V, §514(a), Dec. 22, 2023, 137 Stat. 245, added item for chapter 1413. Addition was made pursuant to operation of section 102 of this title.
 
 **2009**—Pub. L. 111–84, div. A, title X, §1073(a)(33), Oct. 28, 2009, 123 Stat. 2474, substituted "Reserve Active-Status List" for "Reserve-Active Status List" in item for chapter 1409.
 

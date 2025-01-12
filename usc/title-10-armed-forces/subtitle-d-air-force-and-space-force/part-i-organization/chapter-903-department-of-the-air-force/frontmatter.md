@@ -30,6 +30,8 @@ Sec.
 
 9023. Chief of Legislative Liaison.
 
+9023a. Legislative Liaison of the Space Force.
+
 9024. Director of Small Business Programs.
 
 #### **Editorial Notes** ####
@@ -39,6 +41,8 @@ Sec.
 A prior chapter 903, consisting of sections 9331 to 9362, related to the United States Air Force Academy, prior to renumbering as chapter 953 of this title.
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title V, §509B, Dec. 22, 2023, 137 Stat. 243, added item 9023a "Legislative Liaison of the Space Force". Addition was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. A, title XVI, §1602(a)(3), Dec. 27, 2021, 135 Stat. 2076, substituted "Space Acquisition Council" for "Space Force Acquisition Council" in item 9021.
 

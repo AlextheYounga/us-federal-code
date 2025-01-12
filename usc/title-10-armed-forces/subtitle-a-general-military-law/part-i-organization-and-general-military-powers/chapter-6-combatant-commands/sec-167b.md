@@ -78,6 +78,72 @@ Subsec. (f). Pub. L. 115–91, §1635(2), redesignated subsec. (f) as (e).
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Development of Cyber Support Mechanisms for Geographic Combatant Commands ####
+
+Pub. L. 118–31, div. A, title XV, §1506, Dec. 22, 2023, 137 Stat. 540, provided that:
+
+"(a) Development of Mechanisms Required.—Not later than 270 days after the date of the enactment of this Act [Dec. 22, 2023], each commander of a geographic combatant command, in coordination with the Commander of the United States Cyber Command, shall develop a cyber support mechanism to support the operations of that geographic combatant command.
+
+"(b) Elements.—Each cyber support mechanism developed with respect to a geographic combatant command under subsection (a) shall include the following:
+
+"(1) Processes to enhance the cyber capabilities of such combatant command.
+
+"(2) Plans to develop and maintain a sufficient cyber planning capacity in such combatant command.
+
+"(3) Processes to integrate cyber capabilities into operational support for such combatant command.
+
+"(4) A prioritization of cyber risks and vulnerabilities within the geographic area of responsibility of such combatant command.
+
+"(5) Specific plans to assist in the defense of friendly foreign countries."
+
+#### Pilot Program and Other Measures to Enhance Readiness and Effectiveness of Cyber Mission Force ####
+
+Pub. L. 118–31, div. A, title XV, §1535, Dec. 22, 2023, 137 Stat. 566, provided that:
+
+"(a) Personnel Requirements and Training for Critical Work Roles.—Not later than 270 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall—
+
+"(1) direct and oversee the implementation of guidance, to be issued by each Secretary of a military department, that correlates critical work roles to military occupational specialties and periods of obligated service with respect to that military department;
+
+"(2) require that, prior to the attachment or assignment of a member of the Armed Forces to a unit of the United States Cyber Command, the Secretary concerned ensure such member is fully trained and in compliance with the required standards for the work role to be assumed by the member within such unit, including with respect to critical work roles within the Cyber Mission Force;
+
+"(3) ensure that the period of obligated service for members of the Armed Forces is—
+
+"(A) uniform across the military departments with respect to positions of the Cyber Mission Force involving critical work roles;
+
+"(B) commensurate with the financial and time investments made by Secretary concerned for the purpose of furnishing training pursuant to paragraph (2); and
+
+"(C) sufficient to meet the readiness requirements established by the Commander of the United States Cyber Command;
+
+"(4) facilitate consecutive assignments of members of the Armed Forces to the same unit of the United States Cyber Command without inhibiting the advancement or promotion potential of any such member;
+
+"(5) provide to the Secretaries of the military departments direction for the integration of critical work roles into the personnel system of record of the respective military department, to provide for tracking cyber personnel data by work role; and
+
+"(6) establish within at least one military department the curriculum and capacity necessary to train sufficient numbers of members of the Armed Forces from across the military departments in the performance of critical work roles within the Cyber Mission Force to achieve the readiness requirements established by the Commander of United States Cyber Command.
+
+"(b) Pilot Program on Contracting for Services Relevant to Critical Work Roles.—
+
+"(1) Pilot program.—Not later than 180 days after the date of the enactment of this Act, the Commander of the United States Cyber Command shall carry out a pilot program under which the Commander shall seek to enter into one or more contracts under which skilled contractor personnel provide services relevant to critical work roles within the Cyber Mission Force, for the purpose of enhancing the readiness and effectiveness of the Cyber Mission Force.
+
+"(2) Duration.—The Commander shall carry out the pilot program under paragraph (1) during the three-year period beginning on the date of the commencement of the pilot program and following such period, may—
+
+"(A) continue carrying out such pilot program for such duration as the Commander considers appropriate;
+
+"(B) transition such pilot program to a permanent program; or
+
+"(C) terminate such pilot program.
+
+"(c) Plan on Hiring, Training, and Retaining Civilians to Serve in Critical Work Roles.—Not later than 120 days after the date of the enactment of this Act, the Commander of the United States Cyber Command shall—
+
+"(1) develop a plan to hire, train, and retain civilians to serve in critical work roles and other work roles within the Cyber Mission Force, for the purpose of enhancing the readiness and effectiveness of the Cyber Mission Force; and
+
+"(2) provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on such plan.
+
+"(d) Definitions.—In this section:
+
+"(1) The term 'critical work role' means a work role designated as critical by the Commander of the United States Cyber Command for purposes of this section.
+
+"(2) The term 'Secretary concerned' has the meaning given that term in section 101 of title 10, United States Code."
+
 #### Management and Oversight of Joint Cyber Warfighting Architecture ####
 
 Pub. L. 117–263, div. A, title XV, §1509, Dec. 23, 2022, 136 Stat. 2886, provided that:

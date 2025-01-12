@@ -6,6 +6,8 @@ Sec.
 
 391a. Annual reports on support by military departments for United States Cyber Command.
 
+391b. Strategic cybersecurity program.
+
 392. Executive agents for cyber test and training ranges.
 
 392a. Principal Cyber Advisors.
@@ -20,15 +22,17 @@ Sec.
 
 397. Principal Information Operations Advisor.
 
-398. 1 Military information support operations in information environment.
+398. Military information support operations in information environment.
 
-398. 1 Pilot program for sharing cyber capabilities and related information with foreign operational partners.
+398a. Pilot program for sharing cyber capabilities and related information with foreign operational partners.
 
 399. Notifications relating to military operations in the information environment: requirement to notify Chief of Mission.
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title XV, §§1501(1), 1502(a)(1), title XVIII, §1801(a)(6), Dec. 22, 2023, 137 Stat. 533, 683, added item 391b and made identical amendments which redesignated item 398 relating to pilot program for sharing cyber capabilities and related information with foreign operational partners as 398a. Addition and redesignation were made pursuant to operation of section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. A, title X, §1052(b), title XV, §§1501(b)(1), 1502(a), 1521, 1551(b), Dec. 23, 2022, 136 Stat. 2777, 2877, 2879, 2897, 2919, added items 391a, 392a, and 399 and two items 398.
 
@@ -143,5 +147,3 @@ Pub. L. 117–263, div. A, title XV, §1507, Dec. 23, 2022, 136 Stat. 2883, prov
 "(5) Additional resources required to complete such activities.
 
 "(c) Briefing.—Not later than 30 days after the date on which the Under Secretary of Defense for Intelligence and Security and the Under Secretary of Defense for Policy submit the report under subsection (b), the Under Secretaries, in coordination with the Commander of the United States Cyber Command, the Director of the Defense Security Cooperation Agency, and the Director of the Defense Intelligence Agency, shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on the findings from the report on enhancing training and coordination to advance cyberspace security cooperation described in such subsection. Such briefing shall include a discussion on the enhanced training meeting the elements under subsection (a)(3) and a plan for future updates and sustainment of such training."
-
-[<sup>1</sup> So in original. Two sections 398 have been enacted.](#CHAPTER19_1)

@@ -55,7 +55,7 @@ Chapter Sec.
 
 [555. Transferred]
 
-556. Short Sea Transportation 1 55601
+556. Marine Highways 55601
 
 #### Part E—Control of Merchant Marine Capabilities ####
 
@@ -81,6 +81,8 @@ Chapter Sec.
 
 #### Amendments ####
 
+**2023**—Pub. L. 118–31, div. C, title XXXV, §3514(f), Dec. 22, 2023, 137 Stat. 811, substituted "Marine Highways" for "Short Sea Transportation" in item for chapter 556.
+
 **2021**—Pub. L. 117–81, div. C, title XXXV, §§3512(c)(2), 3513(d), Dec. 27, 2021, 135 Stat. 2239, 2242, added items for chapters 504 and 543 and struck out item for chapter 555 "Miscellaneous".
 
 Pub. L. 116–283, div. C, title XXXV, §3511(b), Jan. 1, 2021, 134 Stat. 4419, which directed amendment of this analysis by adding item for chapter 534 "at the end", was executed by adding the item for chapter 534 after the item for chapter 533 to reflect the probable intent of Congress.
@@ -92,5 +94,3 @@ Pub. L. 116–283, div. C, title XXXV, §3511(b), Jan. 1, 2021, 134 Stat. 4419, 
 **2007**—Pub. L. 110–140, title XI, §1121(b), Dec. 19, 2007, 121 Stat. 1762, added item for chapter 556.
 
 **2006**—Pub. L. 109–304, §8(a), Oct. 6, 2006, 120 Stat. 1555, amended subtitle analysis generally. Prior to amendment, analysis consisted of item for chapter 531 "Maritime Security Fleet".
-
-[<sup>1</sup> So in original. Does not conform to chapter heading.](#SubtitleV_1)

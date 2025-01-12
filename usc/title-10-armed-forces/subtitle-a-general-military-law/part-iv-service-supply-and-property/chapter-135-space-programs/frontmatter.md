@@ -16,7 +16,11 @@ Sec.
 
 2275a. Requirements for protection of satellites.
 
+2275b. Requirements for appropriate classification guidance.
+
 2276. Commercial space launch cooperation.
+
+2276a. Special authority for provision of space launch support services to increase space launch capacity.
 
 2277. Disclosure of National Security Space Launch program contract pricing terms.
 
@@ -35,6 +39,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title XVI, §§1602, 1603, Dec. 22, 2023, 137 Stat. 584, added items 2275b and 2276a. Amendments were made pursuant to operation of section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. A, title XVI, §1601, Dec. 23, 2022, 136 Stat. 2929, added item 2275a.
 

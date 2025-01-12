@@ -4,7 +4,7 @@ Sec.
 
 1061. Survivors of certain Reserve and Guard members.
 
-1062. Certain former spouses.
+1062. Certain former spouses and surviving spouses.
 
 1063. Use of commissary stores and MWR retail facilities: members of reserve components and reserve retirees under age 60.
 
@@ -17,6 +17,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title VI, §633(c), Dec. 22, 2023, 137 Stat. 297, inserted "and surviving spouses" after "spouses" in item 1062 pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. A, title X, §1081(a)(16), Dec. 27, 2021, 135 Stat. 1920, added item 1065 and struck out former item 1065 "Use of commissary stores and MWR facilities: certain veterans and caregivers for veterans".
 

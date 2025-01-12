@@ -8,7 +8,7 @@ Sec.
 
 653. Minimum service requirement for certain flight crew positions.
 
-[654. Repealed.]
+654. Minimum service requirement for certain cyberspace occupational specialties.
 
 655. Designation of persons having interest in status of a missing member.
 
@@ -19,6 +19,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title V, §509(b), Dec. 22, 2023, 137 Stat. 243, added item 654. Addition was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 116–283, div. A, title V, §571(a)(3)(B), Jan. 1, 2021, 134 Stat. 3643, added item 656 and struck out former item 656 "Diversity in military leadership: plan".
 

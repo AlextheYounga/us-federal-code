@@ -10,6 +10,8 @@ Repeal of section effective Nov. 1, 1987, and applicable only to offenses commit
 
 #### Short Title of 2023 Amendment ####
 
+Pub. L. 118–31, div. E, title LI, §5102(a), Dec. 22, 2023, 137 Stat. 933, provided that: "This section [amending sections 2423 and 2427 of this title and enacting provisions set out as a note under section 2423 of this title] may be cited as the 'Preventing Child Sex Abuse Act of 2023'."
+
 Pub. L. 117–351, §1, Jan. 5, 2023, 136 Stat. 6265, provided that: "This Act [amending section 2441 of this title] may be cited as the 'Justice for Victims of War Crimes Act'."
 
 #### Short Title of 2022 Amendment ####

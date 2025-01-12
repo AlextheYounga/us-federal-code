@@ -80,6 +80,54 @@ Pub. L. 106–398, §1 [[div. A], title V, §542(b), title X, §1072(b)], Oct. 3
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Establishment of Procedure of the Department of Defense To Determine Certain Complaints or Requests Regarding Public Displays or Public Expressions of Religion on Property of the Department ####
+
+Pub. L. 118–31, div. A, title X, §1049, Dec. 22, 2023, 137 Stat. 393, provided that:
+
+"(a) Establishment.—Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall prescribe regulations that establish the procedure for the timely determination of a covered complaint or request regarding a public display or public expression of religion on property of the Department of Defense. Such regulations shall ensure that—
+
+"(1) the officer or official of the Department who receives such complaint or request forwards the covered complaint or request—
+
+"(A) to the individual authorized to make a determination under subsection (b); and
+
+"(B) not later than 10 days after such receipt; and
+
+"(2) such individual—
+
+"(A) makes such determination not later than 30 days after such individual receives such forwarded covered complaint or request; and
+
+"(B) timely notifies the individual or entity who made such covered complaint or request, and the officer or official of the Department who received such covered complaint or request, of such determination.
+
+"(b) Determinations.—A determination under regulations prescribed under subsection (a) shall be made—
+
+"(1) by—
+
+"(A) the Secretary of the military department concerned; or
+
+"(B) the head of the Defense Agency or Department of Defense Field Activity concerned; and
+
+"(2) after consultation with—
+
+"(A)(i) in the case of a determination made by the Secretary of the military department concerned, the Chief of Chaplains of the military department concerned; or
+
+"(ii) in the case of a determination made by the head of the Defense Agency or Department of Defense Field Activity concerned, the Armed Forces Chaplains Board; and
+
+"(B)(i) a civilian attorney under the jurisdiction the Secretary of the military department concerned or the head of the Defense Agency or Department of Defense Field Activity concerned; or
+
+"(ii) an officer of the Judge Advocate General's Corps.
+
+"(c) Covered Complaint or Request Defined.—In this section, the term 'covered complaint or request' means a complaint or request—
+
+"(1) regarding a public display or public expression of religion on property of the Department of Defense; and
+
+"(2) made by an individual or entity other than—
+
+"(A) a member of the Armed Forces;
+
+"(B) a civilian employee of the Department of Defense; or
+
+"(C) a contractor of the Department of Defense."
+
 #### Annual Primary Prevention Research Agenda ####
 
 Pub. L. 117–81, div. A, title V, §549A, Dec. 27, 2021, 135 Stat. 1721, as amended by Pub. L. 117–263, div. A, title V, §547(a), Dec. 23, 2022, 136 Stat. 2585, provided that:
@@ -166,7 +214,7 @@ Pub. L. 116–92, div. A, title V, §540, Dec. 20, 2019, 133 Stat. 1364, provide
 
 #### Enhancing the Capability of Military Criminal Investigative Organizations To Prevent and Combat Child Sexual Exploitation ####
 
-Pub. L. 116–92, div. A, title V, §550D, Dec. 20, 2019, 133 Stat. 1383, provided that:
+Pub. L. 116–92, div. A, title V, §550D, Dec. 20, 2019, 133 Stat. 1383, as amended by Pub. L. 118–31, div. A, title V, §534, Dec. 22, 2023, 137 Stat. 262, provided that:
 
 "(a) In General.—Beginning not later than 180 days after the date of the enactment of this Act [Dec. 20, 2019], the Secretary of Defense shall establish and carry out an initiative to enhance the capability of military criminal investigative organizations to prevent and combat child sexual exploitation.
 
@@ -188,7 +236,15 @@ Pub. L. 116–92, div. A, title V, §550D, Dec. 20, 2019, 133 Stat. 1383, provid
 
 "(3) as appropriate, assist in educating the military community on the prevention and response to child sexual exploitation; and
 
-"(4) carry out such other activities as the Secretary determines to be relevant."
+"(4) carry out such other activities as the Secretary determines to be relevant.
+
+"(c) Additional Requirements.—As part of the initiative under subsection (a), the Secretary of Defense shall carry out the following activities:
+
+"(1) Annual report.—Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 [Dec. 22, 2023], an on an annual basis thereafter through 2029, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the progress of the initiative, which shall include a description of specific actions that have been taken, or that are planned to be taken, to detect, combat, and stop the use of the Department of Defense information technology network to further online child sexual exploitation.
+
+"(2) Partnerships.—The Secretary shall seek to enter into partnerships and execute collaborative agreements with functional experts, including highly qualified national child protection organizations or law enforcement training centers with demonstrated expertise in the delivery of law enforcement training, to identify, investigate, and prosecute individuals engaged in online child sexual exploitation.
+
+"(3) Mandatory training.—The Secretary shall establish mandatory training for criminal investigative organizations of the Department of Defense and other appropriate personnel at military installations to ensure that the capability and capacity to investigate child sexual exploitation is continuously maintained regardless of staff turnover and relocations."
 
 #### Multidisciplinary Teams for Military Installations on Child Abuse and Other Domestic Violence ####
 

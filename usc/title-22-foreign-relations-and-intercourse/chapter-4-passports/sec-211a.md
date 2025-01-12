@@ -18,9 +18,31 @@ Pub. L. 103–236 substituted "by diplomatic and consular officers of the United
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Short Title of 2023 Amendment ####
+
+Pub. L. 118–31, div. F, title LXI, §6114(a), Dec. 22, 2023, 137 Stat. 968, provided that: "This section [amending section 214 of this title] may be cited as the 'First Responders Passport Act'."
+
 #### Short Title of 2006 Amendment ####
 
 Pub. L. 109–167, §1, Jan. 10, 2006, 119 Stat. 3578, provided that: "This Act [amending section 214 of this title] may be cited as the 'Passport Services Enhancement Act of 2005'."
+
+#### Special Hiring Authority for Passport Services ####
+
+Pub. L. 118–31, div. F, title LXI, §6101, Dec. 22, 2023, 137 Stat. 965, provided that: "During the 3-year period beginning on the date of the enactment of this division [Dec. 22, 2023], the Secretary [of State], without regard to the provisions under sections 3309 through 3318 of title 5, United States Code, may directly appoint up to 80 candidates to positions in the competitive service (as defined in section 2102 of such title) at the Department [of State] in the Passport and Visa Examining Series 0967."
+
+#### Passport Travel Advisories ####
+
+Pub. L. 118–31, div. F, title LXI, §6103, Dec. 22, 2023, 137 Stat. 965, provided that: "Not later than 180 days after the date of the enactment of this division [Dec. 22, 2023], the Department [of State] should make prominent in United States regular passports, on the first three pages of the passport, the following information:
+
+"(1) A prominent, clear advisory for all travelers to check travel.state.gov for updated travel warnings and advisories.
+
+"(2) A prominent, clear notice urging all travelers to register with the Department prior to overseas travel.
+
+"(3) A prominent, clear advisory—
+
+"(A) noting that many countries deny entry to travelers during the last 6 months of their passport validity period; and
+
+"(B) urging all travelers to renew their passport not later than 1 year prior to its expiration."
 
 #### Limitations on Use of Funds for Procurement of Paper for Passports ####
 

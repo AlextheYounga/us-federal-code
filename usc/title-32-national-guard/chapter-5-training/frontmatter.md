@@ -20,9 +20,13 @@ Sec.
 
 509. National Guard Youth Challenge Program of opportunities for civilian youth.
 
+510. Authorization for FireGuard Program.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title V, §515(b), Dec. 22, 2023, 137 Stat. 249, added item 510.
 
 **2004**—Pub. L. 108–375, div. A, title V, §594(b)(2), Oct. 28, 2004, 118 Stat. 1936, substituted "National Guard Youth Challenge" for "National Guard Challenge" in item 509.
 

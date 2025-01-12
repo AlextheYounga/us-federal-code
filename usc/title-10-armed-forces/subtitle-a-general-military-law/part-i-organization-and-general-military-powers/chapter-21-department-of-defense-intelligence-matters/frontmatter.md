@@ -14,6 +14,30 @@ II. Intelligence Commercial Activities 431
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Military Intelligence Collection and Analysis Partnerships ####
+
+Pub. L. 118–31, div. A, title XVI, §1621, Dec. 22, 2023, 137 Stat. 590, provided that:
+
+"(a) Use of Funds Other Than Appropriated Funds.—
+
+"(1) In general.—Subject to paragraph (2), the Director of the Defense Intelligence Agency, in coordination with the Director of National Intelligence, may accept and expend funds from one or more foreign partners for the foreign partner (or partners, as the case may be) to share with the Defense Intelligence Agency the expenses of joint and combined military intelligence collection and analysis activities.
+
+"(2) Limitations.—
+
+"(A) Previously denied funds.—Funds accepted under this section may not be expended, in whole or in part, by or for the benefit of the Defense Intelligence Agency for any purpose for which Congress has previously denied funds.
+
+"(B) Joint benefit.—The authority under paragraph (1) may not be used to acquire items or services for the sole benefit of the United States.
+
+"(b) Annual Report.—Not later than March 1, 2025, and annually thereafter for four years, the Director of the Defense Intelligence Agency shall submit to the appropriate congressional committees a report on any funds accepted or expended under this section during the preceding calendar year, including an identification of the foreign partner or partners involved and a description of the purpose of such funds.
+
+"(c) Termination.—The authority to accept and expend funds from a foreign partner pursuant to this section shall terminate on December 31, 2028.
+
+"(d) Appropriate Congressional Committees Defined.—In this section, the term 'appropriate congressional committees' means—
+
+"(1) the Committee on Armed Services, the Committee on Appropriations, and the Select Committee on Intelligence of the Senate; and
+
+"(2) the Committee on Armed Services, the Committee on Appropriations, and the Permanent Select Committee on Intelligence of the House of Representatives."
+
 #### Incorporation of Controlled Unclassified Information Guidance Into Program Classification Guides and Program Protection Plans ####
 
 Pub. L. 117–263, div. A, title VIII, §884, Dec. 23, 2022, 136 Stat. 2746, provided that:

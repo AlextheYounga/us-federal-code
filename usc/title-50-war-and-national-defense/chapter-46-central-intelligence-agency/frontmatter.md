@@ -73,3 +73,9 @@ Sec.
 3529. Medical advisory board.
 
 3530. Office of wellness and workforce support.
+
+3531. Sexual assault and sexual harassment within the Agency.
+
+3532. Reporting and investigation of allegations of sexual assault and sexual harassment.
+
+3533. Special Victim Investigator.

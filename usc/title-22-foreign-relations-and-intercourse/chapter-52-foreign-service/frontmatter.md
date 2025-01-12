@@ -38,6 +38,8 @@ Sec.
 
 3927a. Review by chief of mission.
 
+3927b. Reporting requirement on chiefs of mission.
+
 3928. Director General of Foreign Service.
 
 3929. Inspector General.
@@ -176,6 +178,8 @@ Sec.
 
 4029. Increased training in multilateral diplomacy.
 
+4030. Suitability reviews for Foreign Service Institute instructors.
+
 #### SUBCHAPTER VIII—FOREIGN SERVICE RETIREMENT AND DISABILITY ####
 
 #### Part I—Foreign Service Retirement and Disability System ####
@@ -282,6 +286,8 @@ Sec.
 
 4081. Travel and related expenses.
 
+4081a. Exception for Government-financed air transportation; reducing hardship for transportation of domestic animals.
+
 4082. Loan of household effects.
 
 4083. Required leave.
@@ -293,6 +299,8 @@ Sec.
 4086. Entitlement to vote in a State in a Federal election; preconditions; applicability.
 
 4087. Termination of residential or motor vehicle leases and telephone service contracts.
+
+4088. Education allowance.
 
 #### SUBCHAPTER X—LABOR-MANAGEMENT RELATIONS ####
 

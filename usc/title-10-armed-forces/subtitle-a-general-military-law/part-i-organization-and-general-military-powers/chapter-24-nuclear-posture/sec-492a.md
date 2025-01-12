@@ -58,7 +58,31 @@
 
 (2) submit to the congressional defense committees a summary of each such review.
 
-(Added and amended Pub. L. 116–92, div. A, title XVI, §1665(c)(1), Dec. 20, 2019, 133 Stat. 1773; Pub. L. 116–283, div. A, title XVI, §1633, Jan. 1, 2021, 134 Stat. 4059; Pub. L. 117–263, div. A, title XVI, §1635, Dec. 23, 2022, 136 Stat. 2939.)
+(d) Independent Assessment by United States Strategic Command.—
+
+(1) In general.—Not later than 150 days after the submission to Congress of the budget of the President under section 1105(a) of title 31, for each fiscal year the Commander of United States Strategic Command shall complete an independent assessment of any operational effects of the sufficiency of the execution, as of the date of the assessment, of the acquisition, construction, and recapitalization programs of the Department of Defense and the National Nuclear Security Administration to modernize the nuclear forces of the United States and meet current and future deterrence requirements.
+
+(2) Contents.—Each assessment required under paragraph (1) shall include an evaluation of the ongoing execution of modernization programs associated with—
+
+(A) the nuclear weapons design, production, and sustainment infrastructure;
+
+(B) the nuclear weapons stockpile;
+
+(C) the delivery systems for nuclear weapons; and
+
+(D) the nuclear command, control, and communications system.
+
+(3) Routing and submission.—
+
+(A) Submission to nuclear weapons council.—Not later than 15 days after completion of an assessment required by paragraph (1), the Commander of United States Strategic Command shall—
+
+(i) submit the assessment to the Chairman of the Nuclear Weapons Council; and
+
+(ii) notify the congressional defense committees that the assessment has been submitted to the Chairman of the Nuclear Weapons Council.
+
+(B) Submission to congress.—Not later than 15 days after the Chairman of the Nuclear Weapons Council receives an assessment required by paragraph (1), the Chairman shall transmit the assessment, without change, to the congressional defense committees.
+
+(Added and amended Pub. L. 116–92, div. A, title XVI, §1665(c)(1), Dec. 20, 2019, 133 Stat. 1773; Pub. L. 116–283, div. A, title XVI, §1633, Jan. 1, 2021, 134 Stat. 4059; Pub. L. 117–263, div. A, title XVI, §1635, Dec. 23, 2022, 136 Stat. 2939; Pub. L. 118–31, div. A, title XVI, §1633, Dec. 22, 2023, 137 Stat. 592.)
 
 #### **Editorial Notes** ####
 
@@ -67,6 +91,8 @@
 Section, as added and amended by Pub. L. 116–92, is based on Pub. L. 112–81, div. A, title X, §1043, Dec. 31, 2011, 125 Stat. 1576, as amended by Pub. L. 112–239, div. A, title X, §1041(a), Jan. 2, 2013, 126 Stat. 1931; Pub. L. 113–66, div. A, title X, §1054, Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title XVI, §1643, Dec. 19, 2014, 128 Stat. 3650; Pub. L. 115–91, div. A, title XVI, §1665, Dec. 12, 2017, 131 Stat. 1767; Pub. L. 115–232, div. A, title XVI, §1670, Aug. 13, 2018, 132 Stat. 2157; Pub. L. 116–92, div. A, title XVI, §1665(a), (b), Dec. 20, 2019, 133 Stat. 1773, which was transferred to this chapter and renumbered as this section.
 
 #### Amendments ####
+
+**2023**—Subsec. (d). Pub. L. 118–31 added subsec. (d).
 
 **2022**—Subsec. (a)(1). Pub. L. 117–263 substituted "2029" for "2024".
 

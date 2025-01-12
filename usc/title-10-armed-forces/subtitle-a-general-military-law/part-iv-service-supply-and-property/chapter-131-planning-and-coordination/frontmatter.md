@@ -40,7 +40,7 @@ Sec.
 
 2218a. National Sea-Based Deterrence Fund.
 
-[2219. Renumbered.]
+2219. Grants for improvement of Navy ship repair or alterations capability.
 
 2220. Performance based management: acquisition programs.
 
@@ -73,6 +73,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title X, §1017, Dec. 22, 2023, 137 Stat. 382, added item 2219. Amendment was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 116–283, div. A, title XVIII, §§1807(b)(2)(B), (g)(2), 1809(f)(2), (g)(2), (i)(2), Jan. 1, 2021, 134 Stat. 4157, 4159, 4161, 4162, substituted "Regulations on production, warehousing, and supply distribution functions" for "Regulations on procurement, production, warehousing, and supply distribution functions" in item 2202 and struck out items 2212 "Obligations for contract services: reporting in budget object classes", 2213 "Limitation on acquisition of excess supplies", 2216 "Defense Modernization Account", 2217 "Comparable budgeting for common procurement weapon systems", and 2229b "Comptroller General assessment of acquisition programs and initiatives".
 

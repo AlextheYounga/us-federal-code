@@ -36,9 +36,13 @@ Sec.
 
 2816. Consideration of energy security and energy resilience in life-cycle cost for military construction.
 
+2817. Authority for certain construction projects in friendly foreign countries.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. B, title XXVIII, §2805, Dec. 22, 2023, 137 Stat. 744, added item 2817. Amendment was made pursuant to operation of section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. B, title XXVIII, §2805(b), Dec. 23, 2022, 136 Stat. 2995, added item 2810.
 

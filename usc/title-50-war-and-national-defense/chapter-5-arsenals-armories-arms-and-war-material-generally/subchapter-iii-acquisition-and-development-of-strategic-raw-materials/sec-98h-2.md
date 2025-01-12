@@ -2,21 +2,13 @@
 
 #### (a) Reports to the Board ####
 
-The National Defense Stockpile Manager shall submit to the Board the following:
-
-(1) Not later than 40 calendar days after the last day of each of the first three fiscal quarters in each fiscal year, unaudited financial statements and a Manager's Discussion and Analysis for the immediately preceding fiscal quarter.
-
-(2) Not later than 60 calendar days after the conclusion of the fourth quarter of each fiscal year—
-
-(A) audited financial statements and a Manager's Discussion and Analysis for the immediately preceding fiscal year; and
-
-(B) an Annual Materials and Operations Plan for the forthcoming year.
+The National Defense Stockpile Manager shall submit to the Board an Annual Materials and Operations Plan for the forthcoming year.
 
 #### (b) Reports to Congress ####
 
-#### (1) Reports by National Defense Stockpile Manage <sup><a href="#98h-2_1_target" name="98h-2_1">1</a></sup> ####
+#### (1) Report by National Defense Stockpile Manager ####
 
-Not later than 90 days after the conclusion of the fourth quarter of each fiscal year, the National Defense Stockpile Manager shall submit to the congressional defense committees (as defined in section 101(a) of title 10) a report that shall include—
+Not later than February 15 of each fiscal year, the National Defense Stockpile Manager shall submit to the congressional defense committees (as defined in section 101(a) of title 10) an Annual Operations and Materials Plan that shall include—
 
 (A) information with respect to foreign and domestic purchases of materials for the stockpile during the preceding fiscal year;
 
@@ -26,23 +18,37 @@ Not later than 90 days after the conclusion of the fourth quarter of each fiscal
 
 (D) information with respect to the research and development activities conducted under section 98g of this title;
 
-(E) audited annual financial statements for the Strategic and Critical Materials Fund;
+(E) a statement and explanation of the financial status of the National Defense Stockpile Transaction Fund and anticipated appropriations to be made to the Fund, and obligations to be made from the fund, during the current fiscal year;
 
 (F) other pertinent information on the administration of this subchapter as will enable the Congress to evaluate the effectiveness of the program;
 
-(G) details of all planned expenditures from the Strategic and Critical Materials Fund over the Future Years' Defense Program and anticipated receipts from proposed disposals of stockpile materials; and
+(G) an annual materials plan for the operation of the stockpile during the next fiscal year and the succeeding four fiscal years and planned expenditures from the National Defense Stockpile Transaction Fund and anticipated receipts from disposal of stockpile materials, which shall include—
 
-(H) the report required by paragraph (2).
+(i) details of all planned expenditures from the National Defense Stockpile Transaction Fund during such period and of anticipated receipts from the proposed disposals of stockpile materials during such period;
+
+(ii) details regarding materials development and research projects to be conducted during the fiscal years covered by the report using moneys in the National Defense Stockpile Transaction Fund pursuant to section 98h(b)(2)(G) of this title; and
+
+(iii) with respect to each development and research project described in clause (ii), the report shall specify the amount planned to be expended from the National Defense Stockpile Transaction Fund, the material intended to be developed, the potential military or defense industrial applications for that material, and the development and research methodologies to be used;
+
+(H) any proposed expenditure or disposal detailed in the annual materials plan for any such fiscal year, and any expenditure or disposal proposed in connection with any transaction submitted for such fiscal year to the appropriate committees of Congress pursuant to section 98d(a)(2) of this title that is not obligated or executed in that fiscal year may not be obligated or executed until such proposed expenditure or disposal is resubmitted in a subsequent annual materials plan or is resubmitted to the appropriate committees of Congress in accordance with section 98d(a)(2) of this title, as appropriate; and
+
+(I) a summary of the implementation and findings of the pilot program established under section 98e(g)(1) of this title, including—
+
+(i) the commercial best practices selected for use under the pilot program;
+
+(ii) how the National Defense Stockpile Manager determined which commercial best practices to select;
+
+(iii) how the National Defense Stockpile Manager has used commercial best practices under the pilot program during the year preceding the briefing;
+
+(iv) the outcome of each use of such practices; and
+
+(v) any savings achieved or lessons learned as a result of the use of such practices.
 
 #### (2) Report by the Board ####
 
-The Board shall prepare a written report to accompany the report required by paragraph (1) which shall include—
+The Board shall prepare a written report to accompany the report required by paragraph (1) which shall include the activities of the Board to carry out the duties listed in section 98h–1(c) of this title <sup><a href="#98h-2_1_target" name="98h-2_1">1</a></sup>
 
-(A) the activities of the Board to carry out the duties listed in section 98h–1(c) of this title; and
-
-(B) the most recent Annual Materials and Operations Plan submitted under subsection (a)(2)(B).
-
-(June 7, 1939, ch. 190, §11, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 324; amended Pub. L. 97–35, title II, §203(e), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3207(a)(3), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 100–180, div. C, title II, §3205, Dec. 4, 1987, 101 Stat. 1247; Pub. L. 100–456, div. A, title XV, §1503, Sept. 29, 1988, 102 Stat. 2086; Pub. L. 101–189, div. C, title XXXIII, §3315, Nov. 29, 1989, 103 Stat. 1688; Pub. L. 102–190, div. C, title XXXIII, §§3311(b), 3313(a), Dec. 5, 1991, 105 Stat. 1584; Pub. L. 103–35, title II, §204(d), May 31, 1993, 107 Stat. 103; Pub. L. 113–291, div. A, title X, §1071(j), Dec. 19, 2014, 128 Stat. 3512; Pub. L. 115–232, div. A, title XIV, §1423, Aug. 13, 2018, 132 Stat. 2093; Pub. L. 117–263, div. A, title XIV, §1411(c), Dec. 23, 2022, 136 Stat. 2870.)
+(June 7, 1939, ch. 190, §11, as added Pub. L. 96–41, §2(a), July 30, 1979, 93 Stat. 324; amended Pub. L. 97–35, title II, §203(e), Aug. 13, 1981, 95 Stat. 382; Pub. L. 99–661, div. C, title II, §3207(a)(3), Nov. 14, 1986, 100 Stat. 4069; Pub. L. 100–180, div. C, title II, §3205, Dec. 4, 1987, 101 Stat. 1247; Pub. L. 100–456, div. A, title XV, §1503, Sept. 29, 1988, 102 Stat. 2086; Pub. L. 101–189, div. C, title XXXIII, §3315, Nov. 29, 1989, 103 Stat. 1688; Pub. L. 102–190, div. C, title XXXIII, §§3311(b), 3313(a), Dec. 5, 1991, 105 Stat. 1584; Pub. L. 103–35, title II, §204(d), May 31, 1993, 107 Stat. 103; Pub. L. 113–291, div. A, title X, §1071(j), Dec. 19, 2014, 128 Stat. 3512; Pub. L. 115–232, div. A, title XIV, §1423, Aug. 13, 2018, 132 Stat. 2093; Pub. L. 117–263, div. A, title XIV, §1411(c), Dec. 23, 2022, 136 Stat. 2870; Pub. L. 118–31, div. A, title XIV, §1411(d), Dec. 22, 2023, 137 Stat. 524.)
 
 #### **Editorial Notes** ####
 
@@ -53,6 +59,32 @@ A prior section 11 of act June 7, 1939, ch. 190, formerly §10, as added July 23
 Provisions similar to those in this section were contained in former section 98c of this title prior to repeal by Pub. L. 96–41.
 
 #### Amendments ####
+
+**2023**—Subsec. (a). Pub. L. 118–31, §1411(d)(1), substituted "an Annual Materials and Operations Plan for the forthcoming year." for "the following:
+
+"(1) Not later than 40 calendar days after the last day of each of the first three fiscal quarters in each fiscal year, unaudited financial statements and a Manager's Discussion and Analysis for the immediately preceding fiscal quarter.
+
+"(2) Not later than 60 calendar days after the conclusion of the fourth quarter of each fiscal year—
+
+"(A) audited financial statements and a Manager's Discussion and Analysis for the immediately preceding fiscal year; and
+
+"(B) an Annual Materials and Operations Plan for the forthcoming year."
+
+Subsec. (b)(1). Pub. L. 118–31, §1411(d)(2)(A)(i), (ii), in heading, substituted "Report by National Defense Stockpile Manager" for "Reports by National Defense Stockpile Manage" and, in introductory provisions, substituted "February 15 of each fiscal year" for "90 days after the conclusion of the fourth quarter of each fiscal year" and "an Annual Operations and Materials Plan" for "a report".
+
+Subsec. (b)(1)(E). Pub. L. 118–31, §1411(d)(2)(A)(iii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "audited annual financial statements for the Strategic and Critical Materials Fund;".
+
+Subsec. (b)(1)(G) to (I). Pub. L. 118–31, §1411(d)(2)(A)(iv), added subpars. (G) to (I) and struck out former subpars. (G) and (H) which read as follows:
+
+"(G) details of all planned expenditures from the Strategic and Critical Materials Fund over the Future Years' Defense Program and anticipated receipts from proposed disposals of stockpile materials; and
+
+"(H) the report required by paragraph (2)."
+
+Subsec. (b)(2). Pub. L. 118–31, §1411(d)(2)(B), substituted "paragraph (1) which shall include the activities of the Board to carry out the duties listed in section 98h–1(c) of this title" for "paragraph (1) which shall include—
+
+"(A) the activities of the Board to carry out the duties listed in section 98h–1(c) of this title; and
+
+"(B) the most recent Annual Materials and Operations Plan submitted under subsection (a)(2)(B)."
 
 **2022**—Pub. L. 117–263 amended section generally. Prior to amendment, section related to annual reports to Congress, including materials plans for the operation of the stockpile.
 
@@ -92,4 +124,4 @@ Subsec. (b). Pub. L. 100–456, §1503(b), substituted "the next fiscal year" fo
 
 **1981**—Pub. L. 97–35 designated existing provisions as subsec. (a) and added subsec. (b).
 
-[<sup>1</sup> So in original. Probably should be "Manager".](#98h-2_1)
+[<sup>1</sup> So in original. Probably should be followed by a period.](#98h-2_1)

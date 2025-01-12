@@ -39,3 +39,5 @@ Sec.
 2463. Allocation of funds transferred to the Bureau of Educational and Cultural Affairs.
 
 2464. Ethical issues in international health research.
+
+2465. John Lewis Civil Rights Fellowship Program.

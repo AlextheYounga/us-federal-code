@@ -74,7 +74,7 @@ Sec.
 
 1058. Responsibilities of military law enforcement officials at scenes of domestic violence.
 
-1059. Dependents of members separated for dependent abuse: transitional compensation; commissary and exchange benefits.
+1059. Dependents of members separated for dependent abuse: transitional compensation; commissary and exchange benefits; lodging expenses.
 
 1060. Military service of retired members with newly democratic nations: consent of Congress.
 
@@ -87,6 +87,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title VI, §632(1), Dec. 22, 2023, 137 Stat. 296, inserted "; lodging expenses" after "benefits" in item 1059 pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. A, title V, §532(b), Dec. 27, 2021, 135 Stat. 1695, added item 1044f.
 

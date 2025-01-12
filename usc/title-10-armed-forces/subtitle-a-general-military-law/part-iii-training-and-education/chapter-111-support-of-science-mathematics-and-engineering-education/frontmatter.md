@@ -10,6 +10,8 @@ Sec.
 
 2192b. Program on enhancement of preparation of dependents of members of armed forces for careers in science, technology, engineering, and mathematics.
 
+2192c. Office for academic engagement relating to cyber activities.
+
 2193. Improvement of education in technical fields: grants for higher education in science and mathematics.
 
 2193a. Improvement of education in technical fields: general authority for support of elementary and secondary education in science and mathematics.
@@ -29,6 +31,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title XV, §1531(a), Dec. 22, 2023, 137 Stat. 560, added item 2192c. Amendment was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. A, title XVII, §1701(p)(2)(B), (w)(2), Dec. 27, 2021, 135 Stat. 2148, 2154, struck out items 2192a "Science, Mathematics, and Research for Transformation (SMART) Defense Education Program", 2196 "Manufacturing engineering education: grant program", and 2197 "Manufacturing experts in the classroom".
 
@@ -50,7 +54,7 @@ Pub. L. 116–283, div. A, title V, §591(b), Jan. 1, 2021, 134 Stat. 3665, adde
 
 #### Study Regarding Establishment Within the Department of Defense of a Designated Central Program Office To Oversee Academic Engagement Programs Relating To Establishing Cyber Talent Across the Department ####
 
-Pub. L. 117–81, div. A, title XV, §1532, Dec. 27, 2021, 135 Stat. 2052, provided that:
+Pub. L. 117–81, div. A, title XV, §1532, Dec. 27, 2021, 135 Stat. 2052, as amended by Pub. L. 118–31, div. A, title XV, §1531(c)(5), Dec. 22, 2023, 137 Stat. 563, provided that:
 
 "(a) In General.—Not later than 270 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a study regarding the need, feasibility, and advisability of establishing within the Department of Defense a designated central program office responsible for overseeing covered academic engagement programs across the Department. Such study shall examine the following:
 
@@ -84,7 +88,9 @@ Pub. L. 117–81, div. A, title XV, §1532, Dec. 27, 2021, 135 Stat. 2052, provi
 
 "(d) Report.—Not later than 270 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report that updates the matters required for inclusion in the reports required pursuant to section 1649 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) [133 Stat. 1758] and section 1726(c) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [134 Stat. 4116].
 
-"(e) Definition.—In this section, the term 'covered academic engagement program' means each of the following:
+"(e) Discharge Through Director.—In carrying out this section, the Secretary of Defense shall act through the Director of the office established under section 2192c of title 10, United States Code.
+
+"(f) Definition.—In this section, the term 'covered academic engagement program' means each of the following:
 
 "(1) Primary, secondary, or post-secondary education programs with a cyber focus.
 

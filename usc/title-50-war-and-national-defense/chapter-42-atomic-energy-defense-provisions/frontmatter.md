@@ -340,6 +340,8 @@ Sec.
 
 2795. University-based research collaboration program.
 
+2796. Limitation on establishing an enduring bioassurance program within the Administration.
+
 #### Part C—Facilities Management ####
 
 2811. Transfers of real property at certain Department of Energy facilities.

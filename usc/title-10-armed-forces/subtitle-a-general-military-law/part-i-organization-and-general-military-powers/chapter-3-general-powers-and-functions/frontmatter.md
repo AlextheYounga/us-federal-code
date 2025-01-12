@@ -30,11 +30,11 @@ Sec.
 
 127c. Purchase of weapons overseas: force protection.
 
-[127d. Renumbered.]
+127d. Support of special operations for irregular warfare.
 
 127e. Support of special operations to combat terrorism.
 
-127f. Expenditure of funds for clandestine activities that support operational preparation of the environment.
+127f. Expenditure of funds for clandestine activities that support operational preparation of the environment and non-conventional assisted recovery capabilities.
 
 128. Control and physical protection of special nuclear material: limitation on dissemination of unclassified information.
 
@@ -73,6 +73,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title XII, §§1201(b), 1221(b), Dec. 22, 2023, 137 Stat. 441, 453, added items 127d and 127f and struck out former item 127f "Expenditure of funds for clandestine activities that support operational preparation of the environment".
 
 **2022**—Pub. L. 117–263, div. A, title X, §1042(b), Dec. 23, 2022, 136 Stat. 2770, added item 130a.
 

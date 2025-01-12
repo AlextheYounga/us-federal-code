@@ -428,6 +428,8 @@ Sec.
 
 16281. Advanced nuclear fuel availability.
 
+16282. U.S. nuclear fuel security initiative.
+
 #### Part F—Fossil Energy ####
 
 16291. Fossil energy.

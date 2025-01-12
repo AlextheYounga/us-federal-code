@@ -36,6 +36,14 @@
 
 (D) A detailed assessment of each specific risk that would be reduced in executing the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title if such priority is funded (whether in whole or in part).
 
+(E) The requirement to be addressed by the unfunded priority.
+
+(F) The reason why funding for the priority was not included in the budget of the President.
+
+(G) A description of any funding provided for the requirement for the current and preceding fiscal year.
+
+(H) An assessment of the effect that providing funding for the priority would have on the future-years defense plan.
+
 (2) Prioritization of priorities.—Each report shall present the unfunded priorities covered by such report as follows:
 
 (A) In overall order of urgency of priority according to the amount of risk reduced.
@@ -80,11 +88,13 @@
 
 (B) is considered by the commander of a combatant command referred to in subsection (b)(5) to be an urgent need, and is executable in the fiscal year.
 
-(Added Pub. L. 114–328, div. A, title X, §1064(a)(1), Dec. 23, 2016, 130 Stat. 2408; amended Pub. L. 116–92, div. A, title X, §1005, title XVII, §1731(a)(12), Dec. 20, 2019, 133 Stat. 1573, 1813; Pub. L. 116–283, div. A, title IX, §924(b)(10), title X, §§1006, 1081(a)(12), Jan. 1, 2021, 134 Stat. 3823, 3838, 3871; Pub. L. 117–263, div. A, title III, §384(b), title X, §1051, Dec. 23, 2022, 136 Stat. 2544, 2775.)
+(Added Pub. L. 114–328, div. A, title X, §1064(a)(1), Dec. 23, 2016, 130 Stat. 2408; amended Pub. L. 116–92, div. A, title X, §1005, title XVII, §1731(a)(12), Dec. 20, 2019, 133 Stat. 1573, 1813; Pub. L. 116–283, div. A, title IX, §924(b)(10), title X, §§1006, 1081(a)(12), Jan. 1, 2021, 134 Stat. 3823, 3838, 3871; Pub. L. 117–263, div. A, title III, §384(b), title X, §1051, Dec. 23, 2022, 136 Stat. 2544, 2775; Pub. L. 118–31, div. A, title X, §1003, Dec. 22, 2023, 137 Stat. 379.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Subsec. (c)(1)(E) to (H). Pub. L. 118–31 added subpars. (E) to (H).
 
 **2022**—Subsec. (c)(1)(A). Pub. L. 117–263, §1051(1)(A)(i), substituted "outlined in the national defense strategy required under section 113(g) of this title and the National Military Strategy required under section 139(b) of this title to be advanced" for "to be achieved".
 

@@ -270,6 +270,8 @@ Sec.
 
 276c–6. Supporting the employment of United States citizens by international organizations.
 
+276c–7. Internships of United States nationals at international organizations.
+
 #### SUBCHAPTER I—CANADA-UNITED STATES INTERPARLIAMENTARY GROUP ####
 
 276d. United States group; appointment; term; meetings.

@@ -10,33 +10,37 @@ In this subchapter:
 
 (4) The term "enrolled WTC responder" means a WTC responder enrolled under section 300mm–21(a)(3) of this title.
 
-(5) The term "initial health evaluation" includes, with respect to an individual, a medical and exposure history, a physical examination, and additional medical testing as needed to evaluate whether the individual has a WTC-related health condition and is eligible for treatment under the WTC Program.
+(5) The term "Federal agency" means an agency, office, or other establishment in the executive, legislative, or judicial branch of the Federal Government.
 
-(6) The term "list of WTC-related health conditions" means—
+(6) The term "initial health evaluation" includes, with respect to an individual, a medical and exposure history, a physical examination, and additional medical testing as needed to evaluate whether the individual has a WTC-related health condition and is eligible for treatment under the WTC Program.
+
+(7) The term "list of WTC-related health conditions" means—
 
 (A) for WTC responders, the health conditions listed in section 300mm–22(a)(3) of this title; and
 
 (B) for screening-eligible and certified-eligible WTC survivors, the health conditions listed in section 300mm–32(b) of this title.
 
-(7) The term "New York City disaster area" means the area within New York City that is—
+(8) The term "New York City disaster area" means the area within New York City that is—
 
 (A) the area of Manhattan that is south of Houston Street; and
 
 (B) any block in Brooklyn that is wholly or partially contained within a 1.5-mile radius of the former World Trade Center site.
 
-(8) The term "New York metropolitan area" means an area, specified by the WTC Program Administrator, within which WTC responders and eligible WTC screening-eligible survivors who reside in such area are reasonably able to access monitoring and treatment benefits and initial health evaluation benefits under this subchapter through a Clinical Center of Excellence described in subparagraphs (A), (B), or (C) of section 300mm–4(b)(1) of this title.
+(9) The term "New York metropolitan area" means an area, specified by the WTC Program Administrator, within which WTC responders and eligible WTC screening-eligible survivors who reside in such area are reasonably able to access monitoring and treatment benefits and initial health evaluation benefits under this subchapter through a Clinical Center of Excellence described in subparagraphs (A), (B), or (C) of section 300mm–4(b)(1) of this title.
 
-(9) The term "screening-eligible WTC survivor" has the meaning given such term in section 300mm–31(a)(1) of this title.
+(10) The term "screening-eligible WTC survivor" has the meaning given such term in section 300mm–31(a)(1) of this title.
 
-(10) Any reference to "September 11, 2001" shall be deemed a reference to the period on such date subsequent to the terrorist attacks at the World Trade Center, Shanksville, Pennsylvania, or the Pentagon, as applicable, on such date.
+(11) Any reference to "September 11, 2001" shall be deemed a reference to the period on such date subsequent to the terrorist attacks at the World Trade Center, Shanksville, Pennsylvania, or the Pentagon, as applicable, on such date.
 
-(11) The term "September 11, 2001, terrorist attacks" means the terrorist attacks that occurred on September 11, 2001, in New York City, in Shanksville, Pennsylvania, and at the Pentagon, and includes the aftermath of such attacks.
+(12) The term "September 11, 2001, terrorist attacks" means the terrorist attacks that occurred on September 11, 2001, in New York City, in Shanksville, Pennsylvania, and at the Pentagon, and includes the aftermath of such attacks.
 
-(12) The term "WTC Health Program Steering Committee" means such a Steering Committee established under section 300mm–1(b) of this title.
+(13) The term "uniformed services" has the meaning given the term in section 101(a) of title 10.
 
-(13) The term "WTC Program" means the Word Trade Center Health Program established under section 300mm(a) of this title.
+(14) The term "WTC Health Program Steering Committee" means such a Steering Committee established under section 300mm–1(b) of this title.
 
-(14)(A) The term "WTC Program Administrator" means—
+(15) The term "WTC Program" means the Word Trade Center Health Program established under section 300mm(a) of this title.
+
+(16)(A) The term "WTC Program Administrator" means—
 
 (i) subject to subparagraph (B), with respect to paragraphs (3) and (4) of section 300mm–21(a) of this title (relating to enrollment of WTC responders), section 300mm–22(c) of this title and the corresponding provisions of section 300mm–32 of this title (relating to payment for initial health evaluation, monitoring, and treatment,<sup><a href="#300mm-5_1_target" name="300mm-5_1">1</a></sup> paragraphs (1)(C), (2)(B), and (3) of section 300mm–31(a) of this title (relating to determination or certification of screening-eligible or certified-eligible WTC responders), and subpart 3 of part B (relating to payor provisions), an official in the Department of Health and Human Services, to be designated by the Secretary; and
 
@@ -44,12 +48,18 @@ In this subchapter:
 
 (B) In no case may the Secretary designate under subparagraph (A)(i) the Director of the National Institute for Occupational Safety and Health or a designee of such Director with respect to section 300mm–32 of this title (relating to payment for initial health evaluation, monitoring, and treatment).
 
-(15) The term "WTC-related health condition" is defined in section 300mm–22(a) of this title.
+(17) The term "WTC-related health condition" is defined in section 300mm–22(a) of this title.
 
-(16) The term "WTC responder" is defined in section 300mm–21(a) of this title.
+(18) The term "WTC responder" is defined in section 300mm–21(a) of this title.
 
-(17) The term "WTC Scientific/Technical Advisory Committee" means such Committee established under section 300mm–1(a) of this title.
+(19) The term "WTC Scientific/Technical Advisory Committee" means such Committee established under section 300mm–1(a) of this title.
 
-(July 1, 1944, ch. 373, title XXXIII, §3306, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3633.)
+(July 1, 1944, ch. 373, title XXXIII, §3306, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3633; amended Pub. L. 118–31, div. A, title XVIII, §1851(a)(1), Dec. 22, 2023, 137 Stat. 706.)
+
+#### **Editorial Notes** ####
+
+#### Amendments ####
+
+**2023**—Pars. (5) to (19). Pub. L. 118–31 added pars. (5) and (13) and redesignated former pars. (5) to (11) and (12) to (17) as (6) to (12) and (14) to (19), respectively.
 
 [<sup>1</sup> So in original. A closing parenthesis probably should precede the comma.](#300mm-5_1)

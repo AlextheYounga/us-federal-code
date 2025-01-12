@@ -16,7 +16,7 @@ Sec.
 
 407. Humanitarian demining assistance and stockpiled conventional munitions assistance: authority; limitations.
 
-408. Equipment and training of foreign personnel to assist in Department of Defense accounting for missing United States Government personnel.
+408. Assistance in support of Department of Defense accounting for missing United States Government personnel.
 
 409. Center for Complex Operations.
 
@@ -29,6 +29,8 @@ Sec.
 Chapter was comprised of subchapter I, sections 401 to 404, and subchapter II, section 410, prior to amendment by Pub. L. 104–106, div. A, title V, §571(c), Feb. 10, 1996, 110 Stat. 353, which struck out headings for subchapters I and II.
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title X, §1042(a)(1), Dec. 22, 2023, 137 Stat. 388, substituted "Assistance in support of" for "Equipment and training of foreign personnel to assist in" in item 408. Amendment was made pursuant to operation of section 102 of this title.
 
 **2011**—Pub. L. 112–81, div. A, title X, §1092(b)(2), Dec. 31, 2011, 125 Stat. 1606, added item 407 and struck out former item 407 "Humanitarian demining assistance: authority; limitations".
 

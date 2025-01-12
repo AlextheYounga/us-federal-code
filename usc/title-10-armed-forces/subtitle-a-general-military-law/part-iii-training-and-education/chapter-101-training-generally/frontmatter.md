@@ -88,6 +88,190 @@ Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, adde
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Protection and Legal Preparedness for Members of the Armed Forces Abroad ####
+
+Pub. L. 118–31, div. A, title XII, §1229, Dec. 22, 2023, 137 Stat. 456, provided that:
+
+"(a) Review and Briefing Required.—
+
+"(1) In general.—Not later than December 31, 2024, the Secretary of State, in coordination with the Secretary of Defense, shall—
+
+"(A) review the legal protections afforded by bilateral agreements between the United States and the countries listed in paragraph (2), and how the rights and privileges afforded under such agreements may differ from United States law; and
+
+"(B) brief the appropriate congressional committees on the findings of the review.
+
+"(2) Countries listed.—The countries listed in this paragraph are the following:
+
+"(A) Australia.
+
+"(B) Bahrain.
+
+"(C) Germany.
+
+"(D) Italy.
+
+"(E) Japan.
+
+"(F) Kuwait.
+
+"(G) Qatar.
+
+"(H) South Korea.
+
+"(I) Spain.
+
+"(J) Turkey.
+
+"(K) The United Kingdom.
+
+"(L) Any other country the Secretary of Defense determines to be appropriate.
+
+"(3) Matters to be included.—The review required by paragraph (1)(A) shall address whether the legal protections afforded by bilateral agreements between the United States and the countries listed in paragraph (2) provide members of the Armed Forces who are stationed in the country, and the spouses and dependents of such members who are covered by the agreements, with the right to legal counsel, access to competent language translation services, a prompt and speedy trial, the right to be confronted with witnesses against the member, spouse, or dependent, and a compulsory process for obtaining witnesses in favor of the member, spouse, or dependent if the witness is located in the jurisdiction of the country.
+
+"(4) Appropriate congressional committees defined.—In this subsection, the term 'appropriate congressional committees' means—
+
+"(A) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives; and
+
+"(B) the Committee on Armed Services and the Committee on Foreign Relations of the Senate.
+
+"(b) Training Required.—The Secretary of Defense shall review and improve as necessary training and educational materials for members of the Armed Forces who are stationed in a country reviewed pursuant to subsection (a)(1)(A), and the spouses and dependents of such members who are covered by the agreements, regarding relevant foreign laws, how such foreign laws may differ from the laws of the United States, and the rights of accused in common scenarios under such foreign laws.
+
+"(c) Translation Standards and Readiness.—The Secretary of Defense shall review foreign language standards for members of the Armed Forces and employees of the Department of Defense who are responsible for providing foreign language translation services in situations involving foreign law enforcement where such a member or employee may be being detained, to ensure such members and employees maintain an appropriate proficiency in the legal terminology and meaning of essential terms in a relevant language."
+
+#### Course of Education and Pilot Program on Authentication of Digital Content Provenance for Certain Department of Defense Media Content ####
+
+Pub. L. 118–31, div. A, title XV, §1524, Dec. 22, 2023, 137 Stat. 554, provided that:
+
+"(a) Course of Education.—
+
+"(1) In general.—Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense, acting through the Director of the Defense Media Activity, shall establish a course of education at the Defense Information School, the purpose of which shall be to provide instruction on the practical concepts and skills needed by public affairs, audiovisual, visual information, and records management specialists to understand the following:
+
+"(A) Digital content provenance for applicable Department media content.
+
+"(B) The challenges posed to missions and operations of the Department by a digital content forgery.
+
+"(C) How industry open technical standards may be used to authenticate the digital content provenance of applicable Department media content.
+
+"(2) Matters.—The course of education under paragraph (1) shall cover the following matters:
+
+"(A) The challenges to missions and operations of the Department posed by a digital content forgery.
+
+"(B) The development of industry open technical standards for authenticating the digital content provenance of applicable Department media content.
+
+"(C) Hands-on training on techniques to record secure and authenticated digital content to document and communicate relevant themes and messages of the Department.
+
+"(D) Training on—
+
+"(i) the use of industry open technical standards for authenticating digital content provenance in the completion of post-production tasks; and
+
+"(ii) the transmission of applicable Department media content in both operational and nonoperational environments.
+
+"(E) Such other matters as the Director of the Defense Media Activity considers appropriate.
+
+"(3) Report.—Not later than one year after the date of the establishment of the course of education under paragraph (1), the Director of the Defense Media Activity shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the following:
+
+"(A) The status of the development of a curriculum for such course of education.
+
+"(B) The implementation plan of the Director for such course of education, including the following:
+
+"(i) The expertise and qualifications of the personnel of the Department responsible for teaching such course of education.
+
+"(ii) The list of sources consulted or otherwise used to develop the curriculum for such course of education.
+
+"(iii) A description of the industry open technical standards referred to in paragraph (1)(C).
+
+"(iv) The status of the implementation of such course of education.
+
+"(C) The resources available to the Director to carry out this subsection and whether the Director requires any additional resources to carry out this subsection.
+
+"(b) Pilot Program on Implementing Digital Content Provenance Standards.—
+
+"(1) Pilot program.—Not later than one year after the date of the enactment of this Act, the Director of the Defense Media Activity shall carry out a pilot program to assess the feasibility and advisability of implementing industry open technical standards for digital content provenance for official photographs and videos of the Department of Defense publicly released by the Defense Visual Information Distribution Service, or any successor operation, and other distribution platforms, systems, and services used by the Department of Defense (in this subsection referred to as the 'pilot program').
+
+"(2) Elements.—In carrying out the pilot program, the Director of the Defense Media Activity shall—
+
+"(A) establish a process for using industry open technical standards to verify the digital content provenance of applicable Department media content;
+
+"(B) apply technology solutions that comport with industry open technical standard for digital content provenance to photographs and videos of the Department publicly released as described in paragraph (1) after the date of the enactment of this Act;
+
+"(C) assess the feasibility and advisability of applying an industry open technical standard for digital content provenance to historical visual information records of the Department stored at the Defense Visual Information Records Center; and
+
+"(D) develop and apply measure of effectiveness for the implementation of the pilot program.
+
+"(3) Consultation.—In carrying out the pilot program, the Director of the Defense Media Activity may consult with federally funded research and development centers, entities within private industry, institutions of higher education, and such other entities as the Director considers appropriate.
+
+"(4) Termination.—The pilot program shall terminate on January 1, 2027.
+
+"(5) Report.—
+
+"(A) In general.—Not later than January 1, 2026, the Director of the Defense Media Activity shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the pilot program.
+
+"(B) Elements.—The report under subparagraph (A) shall include the following:
+
+"(i) The findings of the Director with respect to the pilot program.
+
+"(ii) The name of each entity the Director consulted with pursuant to paragraph (3) in carrying out the pilot program.
+
+"(iii) An assessment by the Director of the effectiveness of the pilot program.
+
+"(iv) A recommendation by the Director as to whether the pilot program should be made permanent.
+
+"(c) Definitions.—In this section:
+
+"(1) The term 'applicable Department media content' means any media holding generated, stored, or controlled by the Defense Media Activity.
+
+"(2) The term 'digital content forgery' means the use of emerging technologies, including artificial intelligence and machine learning techniques, to fabricate or manipulate audio, visual, or text content with the intent to mislead.
+
+"(3) The term 'digital content provenance' means the verifiable chronology of the origin and history of an image, video, audio recording, electronic document, or other form of digital content."
+
+#### Continuing Education Curriculum on Use of Innovative Products for Military Construction Projects ####
+
+Pub. L. 118–31, div. B, title XXVIII, §2886, Dec. 22, 2023, 137 Stat. 783, provided that:
+
+"(a) Curriculum Required.—Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], the Commander of the Naval Facilities Systems Engineering Command and the Deputy Commanding General for Military and International Operations for the Army Corps of Engineers, shall establish a joint continuing education curriculum for the following individuals responsible for managing military construction projects and planning and design projects within the Department of Defense:
+
+"(1) Project managers.
+
+"(2) Program managers.
+
+"(3) Design professionals.
+
+"(4) Contracting officers.
+
+"(5) Representatives of such contracting officers.
+
+"(b) Elements.—The curriculum under subsection (a) shall include training on—
+
+"(1) cost estimating and cost control mechanisms, including analyses of contract types;
+
+"(2) standards relating to antiterrorism force protection, lateral wind, seismic activity, and fire performance;
+
+"(3) life-cycle sustainability and renewability;
+
+"(4) use of innovative building materials (including sustainable materials) and innovative construction methods; and
+
+"(5) designs to improve the resilience of military installations.
+
+"(c) Provision of Training; Curriculum Updates.—The Secretary of Defense shall ensure that—
+
+"(1) not later than 180 days after the date of the completion of the curriculum under subsection (a), such curriculum is made available to the contracting officers and program managers described in such subsection;
+
+"(2) by not later than January 1, 2025—
+
+"(A) not less than 75 percent of the individuals described in paragraphs (1) through (5) of such subsection have completed the continuing education curriculum required under such subsection in effect as of such date; and
+
+"(B) such individuals are provided updated information on innovative construction techniques on a continuous basis; and
+
+"(3) such curriculum is updated each time an innovative product or construction method is included in the Unified Facilities Criteria/DoD Building Code (UFC 1–200–01).
+
+"(d) Report.—Not later than June 1, 2025, the Secretary of Defense shall submit to Committees on Armed Services of the House of Representatives and the Senate a report that includes—
+
+"(1) an update on the status of the curriculum under subsection (a); and
+
+"(2) a plan for administering such curriculum to the individuals described in paragraphs (1) through (5) of such subsection.
+
+"(e) Definitions.—In this section, the terms 'military construction project' and 'military installation' have the meanings given in section 2801 of title 10, United States Code."
+
 #### Pilot Program on Scholarship-For-Service for Civilian Behavioral Health Providers ####
 
 Pub. L. 117–263, div. A, title VII, §737(b), (e), Dec. 23, 2022, 136 Stat. 2671, 2674, provided that:
@@ -454,9 +638,9 @@ Pub. L. 112–81, div. A, title III, §367, Dec. 31, 2011, 125 Stat. 1381, provi
 
 #### Language Training Centers for Members of the Armed Forces and Civilian Employees of the Department of Defense ####
 
-Pub. L. 111–84, div. A, title V, §529, Oct. 28, 2009, 123 Stat. 2290, provided that:
+Pub. L. 111–84, div. A, title V, §529, Oct. 28, 2009, 123 Stat. 2290, as amended by Pub. L. 118–31, div. A, title V, §575, Dec. 22, 2023, 137 Stat. 277, provided that:
 
-"(a) Program Authorized.—The Secretary of Defense may carry out a program to establish language training centers at accredited universities, senior military colleges, or other similar institutions of higher education for purposes of accelerating the development of foundational expertise in critical and strategic languages and regional area studies (as defined by the Secretary of Defense for purposes of this section) for members of the Armed Forces, including members of the reserve components and candidates of the Reserve Officers' Training Corps programs, and civilian employees of the Department of Defense.
+"(a) Program Authorized.—The Secretary of Defense shall carry out a program to establish language training centers at accredited universities, senior military colleges, or other similar institutions of higher education for purposes of accelerating the development of foundational expertise in critical and strategic languages and regional area studies (as defined by the Secretary of Defense for purposes of this section) for members of the Armed Forces, including members of the reserve components and candidates of the Reserve Officers' Training Corps programs, and civilian employees of the Department of Defense.
 
 "(b) Elements.—Each language training center established under the program authorized by subsection (a) shall include the following:
 
@@ -476,7 +660,9 @@ Pub. L. 111–84, div. A, title V, §529, Oct. 28, 2009, 123 Stat. 2290, provide
 
 "(d) Coordination.—The Secretary of Defense shall ensure that the language training centers established under the program authorized by subsection (a) are aligned with those of the National Security Education Program, the Defense Language Institute, and other appropriate Department of Defense programs to facilitate and encourage the recruitment of native and heritage speakers of critical and strategic languages under the program into the Armed Forces and the civilian workforce of the Department of Defense and to support the Civilian Linguist Reserve Corps.
 
-"(e) Report.—Not later than one year after the date of the establishment of the program authorized by subsection (a), the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the program. The report shall include the following:
+"(e) Contract Authority.—The Secretary of Defense may enter into one or more contracts, cooperative agreements, or grants with private national organizations having an expertise in foreign languages, area studies, and other international fields, for the awarding of grants to accredited universities, senior military colleges, or other similar institutions of higher education to establish and maintain language training centers authorized by subsection (a).
+
+"(f) Report.—Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 [Dec. 22, 2023], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the Language Training Center program. The report shall include the following:
 
 "(1) A description of each language training center established under the program.
 
@@ -484,7 +670,9 @@ Pub. L. 111–84, div. A, title V, §529, Oct. 28, 2009, 123 Stat. 2290, provide
 
 "(3) An assessment of the progress made by each language training center in providing capabilities in critical and strategic languages under the program to members of the Armed Forces and Department of Defense employees.
 
-"(4) A recommendation whether the program should be continued and, if so, recommendations as to any modifications of the program that the Secretary considers appropriate."
+"(4) An assessment of the resources required to carry out the Language Training Center program by year through fiscal year 2027.
+
+"(5) Recommendations as to any modifications to the Language Training Center program that the Secretary considers appropriate."
 
 #### Enhancing Education Partnerships To Improve Accessibility and Flexibility for Members of the Armed Forces ####
 

@@ -47,9 +47,15 @@ Chap. Sec.
 
 24. Nuclear Posture 491
 
+25. Electronic Warfare 1
+
+500
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title XVI, §1682(b), Dec. 22, 2023, 137 Stat. 617, added item for chapter 25.
 
 **2022**—Pub. L. 117–263, div. A, title X, §1081(e)(2), Dec. 23, 2022, 136 Stat. 2798, substituted "Definitions, Rules of Construction, Cross References, and Related Matters" for "Definitions" in item for chapter 1. Amendment was made pursuant to operation of section 102 of this title.
 
@@ -102,3 +108,5 @@ Pub. L. 99–433, title VI, §605(a), Oct. 1, 1986, 100 Stat. 1075a, added items
 **1981**—Pub. L. 97–86, title IX, §905(a)(2), Dec. 1, 1981, 95 Stat. 1116, added item for chapter 18.
 
 **1962**—Pub. L. 87–651, title II, §203, Sept. 7, 1962, 76 Stat. 519, added item for chapter 4.
+
+[<sup>1</sup> So in original. Does not conform to chapter heading.](#PARTI_1)

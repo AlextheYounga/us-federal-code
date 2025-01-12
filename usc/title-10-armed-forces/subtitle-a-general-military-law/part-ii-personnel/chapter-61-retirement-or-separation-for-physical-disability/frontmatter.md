@@ -83,3 +83,33 @@ Pub. L. 111–383, div. A, title V, §534(a)(2), Jan. 7, 2011, 124 Stat. 4217, a
 **1958**—Pub. L. 85–861, §1(28)(C), Sept. 2, 1958, 72 Stat. 1451, added item 1221.
 
 **1957**—Pub. L. 85–56, title XXII, §2201(31)(B), June 17, 1957, 71 Stat. 161, eff. Jan. 1, 1958, added items 1218 to 1220.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Continuing Military Service for Certain Members Eligible for Chapter 61 Retirement ####
+
+Pub. L. 118–31, div. A, title V, §529, Dec. 22, 2023, 137 Stat. 256, provided that:
+
+"(a) In General.—Not later than one year after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall prescribe regulations that authorize the Secretary of the military department concerned to authorize a covered member to continue to serve in the Armed Forces—
+
+"(1) in the current military occupational specialty of such covered member, for which the covered member may not be deployable; or
+
+"(2) in a military occupational specialty for which the covered member is deployable.
+
+"(b) Rule of Construction.—A covered member who completes 20 years of service computed under section 1208 of title 10, United States Code shall not be denied any benefit—
+
+"(1) for which the covered member is eligible under laws administered by the Secretary of Defense or the Secretary of Veterans Affairs; and
+
+"(2) solely on the basis that the covered member elected to continue to serve in the Armed Forces instead of taking retirement under chapter 61 of title 10, United States Code.
+
+"(c) Covered Member Defined.—In this section, the term 'covered member' means a member of the Army, Navy, Air Force, Marine Corps, or Space Force—
+
+"(1) whom the Secretary of the military department concerned determines possesses skill or experience vital to the Armed Force concerned;
+
+"(2) who incurs a disability—
+
+"(A) while eligible for special pay under section 310 of title 37, United States Code; and
+
+"(B) that renders the member eligible for retirement under chapter 61 of title 10, United States Code; and
+
+"(3) who seeks to continue to serve in the Armed Forces instead of taking such retirement."

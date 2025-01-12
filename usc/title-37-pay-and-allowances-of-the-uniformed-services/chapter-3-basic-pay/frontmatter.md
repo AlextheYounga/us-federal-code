@@ -14,6 +14,8 @@ Sec.
 
 206. Reserves; members of National Guard: inactive-duty training.
 
+206a. Pay of members of reserve components for inactive-duty training to obtain or maintain an aeronautical rating or designation.
+
 207. Band leaders.
 
 [208. Repealed.]
@@ -29,6 +31,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title VI, §602(b), Dec. 22, 2023, 137 Stat. 289, added item 206a.
 
 **2004**—Pub. L. 108–375, div. A, title VI, §606(b), Oct. 28, 2004, 118 Stat. 1946, added item 212.
 

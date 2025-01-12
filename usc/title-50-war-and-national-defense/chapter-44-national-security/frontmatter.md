@@ -48,6 +48,8 @@ Sec.
 
 3034b. Intelligence Community Chief Data Officer.
 
+3034c. Intelligence Community Innovation Unit.
+
 3035. Central Intelligence Agency.
 
 3036. Director of the Central Intelligence Agency.
@@ -86,7 +88,7 @@ Sec.
 
 3049. Non-reimbursable detail of other personnel.
 
-3049a. Special pay authority for science, technology, engineering, or mathematics positions.
+3049a. Special pay authority for science, technology, engineering, or mathematics positions and positions requiring banking or financial services expertise.
 
 3050. Annual report on hiring and retention of minority employees.
 
@@ -111,6 +113,8 @@ Sec.
 3060. Climate Security Advisory Council.
 
 3061. Counterintelligence and national security protections for intelligence community grant funding.
+
+3062. Office of Engagement.
 
 #### SUBCHAPTER II—MISCELLANEOUS PROVISIONS ####
 
@@ -189,6 +193,8 @@ Sec.
 3113. Unfunded priorities of the intelligence community: annual report.
 
 3114. Submission of covered documents and classified annexes.
+
+3115. Submission of legislative proposals.
 
 #### SUBCHAPTER IV—PROTECTION OF CERTAIN NATIONAL SECURITY INFORMATION ####
 
@@ -300,6 +306,8 @@ Sec.
 
 3235. Semiannual reports on investigations of unauthorized disclosures of classified information.
 
+3235a. Notice and damage assessment with respect to significant unauthorized disclosure or compromise of classified national intelligence.
+
 3236. Inspector General external review panel.
 
 3237. Annual reports on influence operations and campaigns in the United States by the Chinese Communist Party.
@@ -317,6 +325,8 @@ Sec.
 3242. Annual reports on certain cyber vulnerabilities procured by intelligence community and foreign commercial providers of cyber vulnerabilities.
 
 3243. Periodic reports on technology strategy of intelligence community.
+
+3244. Annual report on reporting requirements.
 
 #### **Editorial Notes** ####
 

@@ -72,7 +72,7 @@ Sec.
 
 2692. Storage, treatment, and disposal of nondefense toxic and hazardous materials.
 
-[2693. Repealed.]
+2693. Sentinel Landscapes Partnership.
 
 2694. Conservation and cultural activities.
 
@@ -99,6 +99,8 @@ This section makes necessary clerical amendments to chapter analysis.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title III, §311(a), Dec. 22, 2023, 137 Stat. 213, added item 2693. Amendment was made pursuant to operation of section 102 of this title.
 
 **2022**—Pub. L. 117–263, div. A, title III, §312(b), div. B, title XXVIII, §2831(b), Dec. 23, 2022, 136 Stat. 2502, 3003, added items 2669 and 2694d.
 
@@ -204,6 +206,78 @@ Pub. L. 85–337, §4(2), Feb. 28, 1958, 72 Stat. 29, added item 2671.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Required Infrastructure Plan Prior to Deployment of Certain Non-Tactical Vehicles at Military Installations ####
+
+Pub. L. 118–31, div. A, title III, §319, Dec. 22, 2023, 137 Stat. 219, provided that:
+
+"(a) Requirement.—No Secretary concerned may deploy covered non-tactical vehicles to a military installation until, for each such prospective deployment—
+
+"(1) the Secretary concerned—
+
+"(A) ensures there is completed an infrastructure plan for that military installation relating to the prospective deployment; and
+
+"(B) determines such plan is sufficient to ensure the satisfaction of the conditions described in subsection (b); and
+
+"(2) in the case of the first prospective deployment to that military installation, a period of 180 days has elapsed since such determination; or
+
+"(3) in the case of any subsequent prospective deployment to that military installation, a period of 60 days has elapsed since such determination.
+
+"(b) Conditions Described.—The conditions described in this subsection are, with respect to a prospective deployment of covered non-tactical vehicles to a military installation, the following:
+
+"(1) Military logistics and operational requirements of that military installation would not be substantially affected as a result of a lack of infrastructure to support the kind and quantity of such vehicles proposed to be deployed.
+
+"(2) Adequate support facilities for the kind and quantity of such vehicles proposed to be deployed exist at that military installation.
+
+"(c) Definitions.—In this section:
+
+"(1) The term 'covered non-tactical vehicle' means a non-tactical vehicle that is an electric vehicle, hydrogen-powered vehicle, or advanced biofuel-powered [sic; probably should be "advanced-biofuel-powered"] vehicle, as such terms are defined in section 328 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 136 Stat. 2519) [10 U.S.C. 2922g note].
+
+"(2) The term 'Secretary concerned' has the meaning given that term in section 101 of title 10, United States Code."
+
+#### Guidance Regarding Securing Laboratories of the Armed Forces ####
+
+Pub. L. 118–31, div. A, title XV, §1519, Dec. 22, 2023, 137 Stat. 550, provided that:
+
+"(a) Guidance.—Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense, in coordination with the Chief Information Officer of the Department of Defense, the Chief Digital and Artificial Intelligence Officer of the Department, the Under Secretary of Defense for Research and Engineering, and the Under Secretary of Defense for Intelligence and Security, shall issue Department-wide guidance regarding methods and processes to secure laboratories of the Armed Forces from—
+
+"(1) unauthorized access and intrusion;
+
+"(2) damage to, and destruction, manipulation, or theft of, physical and digital laboratory assets;
+
+"(3) accidental or intentional release or disclosure of sensitive information; and
+
+"(4) cyber sabotage.
+
+"(b) Methods and Processes.—At a minimum, the guidance under subsection (a) shall include, with respect to laboratories of the Armed Forces, methods and processes to—
+
+"(1) secure laboratory operations through zero trust principles;
+
+"(2) control the access of devices to laboratory information networks;
+
+"(3) secure inventory management processes of such laboratories;
+
+"(4) control or limit access to such laboratories to authorized individuals;
+
+"(5) maintain the security and integrity of data libraries, repositories, and other digital assets of such laboratories;
+
+"(6) report and remediate cyber incidents or other unauthorized intrusions affecting such laboratories;
+
+"(7) train and educate personnel of the Department on laboratory security;
+
+"(8) develop an operations security plan to secure laboratory operations that may be used by applicable units of the Armed Forces to implement countermeasures appropriate with respect to the mission, assessed risk, and resources available to the unit (including guidelines for implementation of routine procedures and measures to be employed during daily operations or activities of the unit); and
+
+"(9) develop and train applicable units of the Armed Forces on individualized secure laboratory critical information and indicator lists to aid in protecting critical information regarding any activity, intention, capability, or limitation of the Department over which an adversary seeks to gain a military, political, diplomatic, economic, or technological advantage."
+
+#### Guidance on Department of Defense-Wide Standards for Access to Military Installations ####
+
+Pub. L. 118–31, div. B, title XXVIII, §2851, Dec. 22, 2023, 137 Stat. 762, provided that:
+
+"(a) Interim Guidance.—Not later than 30 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall issue interim guidance to the appropriate official or officials within the Department of Defense for purposes of establishing final standards of the Department of Defense for determining the fitness of individuals for access to military installations, which shall include modifying volume 3 of the Department of Defense Manual 5200.08 titled 'Physical Security Program: Access to DoD Installations' (dated January 2, 2019) or any comparable or successor policy guidance document.
+
+"(b) Final Guidance.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall issue final guidance relating to the standards described in subsection (a).
+
+"(c) Briefing.—Not later than 60 days after issuing the interim guidance required under subsection (a), the Secretary of Defense shall brief the Committees on Armed Services of the Senate and the House of Representatives on such guidance, which shall include a timeline for the issuance of such final guidance."
+
 #### Physical Entrances to Certain Military Installations ####
 
 Pub. L. 117–263, div. B, title XXVIII, §2833, Dec. 23, 2022, 136 Stat. 3003, provided that: "The Secretary of Defense shall ensure that, to the extent practicable that—
@@ -218,13 +292,15 @@ Pub. L. 117–263, div. B, title XXVIII, §2833, Dec. 23, 2022, 136 Stat. 3003, 
 
 #### Prizes for Development of Non-PFAS-Containing Fire-Fighting Agent ####
 
-Pub. L. 116–283, div. A, title III, §330, Jan. 1, 2021, 134 Stat. 3528, as amended by Pub. L. 117–263, div. A, title III, §343, Dec. 23, 2022, 136 Stat. 2530, provided that:
+Pub. L. 116–283, div. A, title III, §330, Jan. 1, 2021, 134 Stat. 3528, as amended by Pub. L. 117–263, div. A, title III, §343, Dec. 23, 2022, 136 Stat. 2530; Pub. L. 118–31, div. A, title III, §334(a), Dec. 22, 2023, 137 Stat. 222, provided that:
 
 "(a) Authority.—The Secretary of Defense, acting through the Assistant Secretary of Defense for Sustainment and the Strategic Environmental Research and Development Program, may carry out a program to award cash prizes and other types of prizes that the Secretary determines are appropriate to recognize outstanding achievements in the development of the following:
 
 "(1) A non-PFAS-containing fire-fighting agent to replace aqueous film-forming foam with the potential for application to the performance of the military missions of the Department of Defense.
 
 "(2) Covered personal protective firefighting equipment that does not contain an intentionally added perfluoroalkyl substance or polyfluoroalkyl substance.
+
+"(3) Technology for the thermal destruction of perfluoroalkyl substances or polyfluoroalkyl substances.
 
 "(b) Competition Requirements.—A program under subsection (a) shall use a competitive process for the selection of recipients of cash prizes. The process shall include the widely-advertised solicitation of submissions of research results, technology developments, and prototypes.
 
@@ -256,7 +332,7 @@ Pub. L. 116–283, div. A, title III, §330, Jan. 1, 2021, 134 Stat. 3528, as am
 
 "(D) Any other personal protective firefighting equipment, as determined by the Secretary of Defense, in consultation with the Administrator of the United States Fire Administration.
 
-"(g) Termination.—The authority to carry out a program under this section shall terminate on October 1, 2024."
+"(g) Termination.—The authority to carry out a program under this section shall terminate on December 31, 2026."
 
 #### Research and Development of Alternative to Aqueous Film-Forming Foam ####
 
@@ -381,3 +457,217 @@ Pub. L. 116–92, div. A, title III, §§322–324, Dec. 20, 2019, 133 Stat. 130
 #### "SEC. 324. PROHIBITION ON USE OF FLUORINATED AQUEOUS FILM FORMING FOAM FOR TRAINING EXERCISES. ####
 
 "The Secretary of Defense shall prohibit the use of fluorinated aqueous film forming foam for training exercises at military installations."
+
+#### Access to Military Installations ####
+
+Pub. L. 116–283, div. A, title X, §1090, Jan. 1, 2021, 134 Stat. 3879, as amended by Pub. L. 118–31, div. A, title X, §1046, Dec. 22, 2023, 137 Stat. 390, provided that:
+
+"(a) Establishment of Vetting Procedures.—
+
+"(1) In general.—Not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall establish procedures to vet covered individuals for eligibility for unescorted physical access to Department of Defense installations and facilities within the United States.
+
+"(2) Criteria for procedures.—The procedures established under paragraph (1) shall include biographic and biometric screening of covered individuals, continuous review of whether covered individuals should continue to be authorized for unescorted physical access, biographic checks of the immediate family members of covered individuals, and any other measures that the Secretary of Defense determines appropriate for vetting.
+
+"(3) Information required.—The Secretary of Defense shall identify the information required to conduct the vetting under this section.
+
+"(4) Collection of information.—The Secretary of Defense shall—
+
+"(A) collect the information required to vet individuals under the procedures established under this subsection;
+
+"(B) as required for the effective implementation of this section, seek to enter into agreements with the relevant departments and agencies of the United States to facilitate the sharing of information in the possession of such departments and agencies concerning covered individuals; and
+
+"(C) ensure that the initial vetting of covered individuals is conducted as early and promptly as practicable, to minimize disruptions to United States programs to train foreign military students.
+
+"(5) Waiver.—
+
+"(A) In general.—The Secretary of Defense, with the concurrence of the Secretary of State, and without delegation, may waive the requirement to vet covered individuals under this section—
+
+"(i) on a person-by-person basis, if the Secretary of Defense determines that the waiver is in the national security interests of the United States; or
+
+"(ii) on a country-by-country basis, with respect to foreign nationals or other appropriate persons who hold a security clearance issued by that country, if the Secretary of Defense determines that the vetting procedures of the country are functionally equivalent to the vetting procedures of the United States for United States military personnel.
+
+"(B) Functional equivalence.—
+
+"(i) Definition.—The Secretary of Defense, acting through the Under Secretary of Defense for Intelligence and Security and in consultation, as appropriate, with the Secretary of State, shall establish and submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a definition of functional equivalence for purposes of making a determination under subparagraph (A)(ii). The Secretary of Defense shall notify the congressional defense committees of any subsequent modification the Secretary makes to the definition.
+
+"(ii) Assessment.—The Secretary of Defense shall conduct an assessment of the vetting procedures of a country prior to making a determination of functional equivalence under subparagraph (A)(ii). Such assessment shall take into consideration any information about such procedures provided to the Secretary of Defense by the Secretary of State.
+
+"(C) Notification requirement.—The Secretary of Defense shall submit a written notification to the congressional defense committees not later than 48 hours after exercising the waiver authority under subparagraph (A), including a justification for the waiver and an assessment of the vetting procedures of a country, if appropriate.
+
+"(b) Determination Authority.—
+
+"(1) Review of vetting results.—The Secretary of Defense shall assign to an organization within the Department with responsibility for security and counterintelligence the responsibility of—
+
+"(A) reviewing the results of the vetting of a covered individual conducted under subsection (a); and
+
+"(B) making a recommendation regarding whether such individual should be given unescorted physical access to a Department of Defense installation or facility.
+
+"(2) Negative recommendation.—If the recommendation with respect to a covered individual under paragraph (1)(B) is that the individual should not be given unescorted physical access to a Department of Defense installation or facility—
+
+"(A) such individual may only be given such access if such access is authorized by the Secretary of Defense or the Deputy Secretary of Defense; and
+
+"(B) the Secretary of Defense shall ensure that the Secretary of State is promptly provided with notification of such recommendation.
+
+"(c) Additional Security Measures.—
+
+"(1) Security measures required.—The Secretary of Defense shall ensure that—
+
+"(A) all Department of Defense common access cards issued to foreign nationals in the United States comply with the credentialing standards issued by the Office of Personnel Management;
+
+"(B) all such common access cards issued to foreign nationals in the United States include a visual indicator as required by the standard developed by the Department of Commerce National Institute of Standards and Technology;
+
+"(C) unescorted physical access by covered individuals is limited, as appropriate, to those Department of Defense installations or facilities within the United States directly associated with the training or education or necessary for such individuals to access authorized benefits;
+
+"(D) a policy is in place covering possession of firearms on Department of Defense property by covered individuals;
+
+"(E) covered individuals who have been granted unescorted physical access to Department of Defense installations and facilities are incorporated into the Insider Threat Program of the Department of Defense; and
+
+"(F) covered individuals are prohibited from transporting, possessing, storing, or using personally owned firearms on Department of Defense installations or property consistent with the Secretary of Defense policy memorandum dated January 16, 2020, or any successor policy guidance that restricts transporting, possessing, storing, or using personally owned firearms on Department of Defense installations or property.
+
+"(2) Effective date.—The security measures required under paragraph (1) shall take effect on the date that is 181 days after the date of the enactment of this Act [Jan. 1, 2021].
+
+"(3) Notification required.—Upon the establishment of the security measures required under paragraph (1), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives notice of the establishment of such security measures.
+
+"(d) Reporting Requirements.—
+
+"(1) Report.—Not later than two years after the date of the enactment of this Act, the Secretary of Defense shall submit to the appropriate congressional committees a report on the implementation and effects of this section. Such report shall include a description of—
+
+"(A) any positive or negative effects on the training of foreign military students as a result of this section;
+
+"(B) the effectiveness of the vetting procedures implemented pursuant to this section in preventing harm to members of the Armed Forces and United States persons;
+
+"(C) any mitigation strategies used to address any negative effects of the implementation of this section; and
+
+"(D) a proposed plan to mitigate any ongoing negative effects to the vetting and training of foreign military students by the Department of Defense.
+
+"(2) Report by comptroller general.—Not later than three years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the appropriate congressional committees an unclassified report (which may contain a classified annex) on the safety and security of United States personnel and international students assigned to United States military bases participating in programs authorized under chapter 5 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2347 et seq.) (relating to international military education and training), particularly with respect to whether—
+
+"(A) relevant United States diplomatic and consular personnel properly vet foreign personnel participating in such programs and entering such bases;
+
+"(B) existing screening protocols with respect to such vetting include counter-terrorism screening and are sufficiently effective at ensuring the safety and security of United States personnel and international students assigned to such bases; and
+
+"(C) whether existing screening protocols with respect to such vetting are in compliance with applicable requirements of section 362 of title 10, United States Code, and sections 502B and 620M of the Foreign Assistance Act of 1961 (22 U.S.C. 2304 and 2378d).
+
+"(e) Definitions.—In this section:
+
+"(1) The term 'appropriate congressional committees' means—
+
+"(A) the Committee on Armed Services and the Committee on Foreign Relations of the Senate; and
+
+"(B) the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives.
+
+"(2) The term 'covered individual'—
+
+"(A) except as provided in subparagraph (B), means a foreign national or other appropriate person who is—
+
+"(i) seeking unescorted physical access to a Department of Defense installation or facility within the United States; and
+
+"(ii)(I) selected, nominated, or accepted for training or education for a period of more than 14 days occurring on a Department of Defense installation or facility within the United States; or
+
+"(II) an immediate family member accompanying a foreign national or other appropriate person who has been so selected, nominated, or accepted for such training or education; and
+
+"(B) does not include a foreign national or other appropriate person of Australia, Canada, New Zealand, or the United Kingdom who holds a security clearance issued by the country of the foreign national and has provided the Department of Defense a certification of such clearance.
+
+"(3) The term 'United States' means the several States, the District of Columbia, the Commonwealth of Puerto Rico, and Guam.
+
+"(4) The term 'immediate family member' with respect to any individual means a person who—
+
+"(A) is the parent, step-parent, spouse, sibling, step-sibling, half-sibling, child, or step-child of the individual; and
+
+"(B) has attained the age of 16 years old at the time that unescorted physical access is to begin.
+
+"(5) The term 'foreign national' means a person who is not a citizen or national of the United States or an alien lawfully admitted for permanent residence in the United States under the Immigration and Nationality Act (8 U.S.C. 1101 et seq.).
+
+"(6) The term 'other appropriate person' means a person who is a citizen of both the United States and another country or who is an alien lawfully admitted for permanent residence in the United States, if such person intends to attend training or education on behalf of a foreign country."
+
+Pub. L. 115–232, div. A, title VI, §626, Aug. 13, 2018, 132 Stat. 1802, provided that:
+
+"(a) Procedures for Access of Surviving Spouses Required.—The Secretary of Defense, acting jointly with the Secretary of Homeland Security, shall establish procedures by which an eligible surviving spouse may obtain unescorted access, as appropriate, to military installations in order to receive benefits to which the eligible surviving spouse may be entitled by law or policy.
+
+"(b) Procedures for Access of Next of Kin Authorized.—
+
+"(1) In general.—The Secretary of Defense, acting jointly with the Secretary of Homeland Security, may establish procedures by which the next of kin of a covered member of the Armed Forces, in addition to an eligible surviving spouse, may obtain access to military installations for such purposes and under such conditions as the Secretaries jointly consider appropriate.
+
+"(2) Next of kin.—If the Secretaries establish procedures pursuant to paragraph (1), the Secretaries shall jointly specify the individuals who shall constitute next of kin for purposes of such procedures.
+
+"(c) Considerations.—Any procedures established under this section shall—
+
+"(1) be applied consistently across the Department of Defense and the Department of Homeland Security, including all components of the Departments;
+
+"(2) minimize any administrative burden on a surviving spouse or dependent child, including through the elimination of any requirement for a surviving spouse to apply as a personal agent for continued access to military installations in accompaniment of a dependent child;
+
+"(3) take into account measures required to ensure the security of military installations, including purpose and eligibility for access and renewal periodicity; and
+
+"(4) take into account such other factors as the Secretary of Defense or the Secretary of Homeland Security considers appropriate.
+
+"(d) Deadline.—The procedures required by subsection (a) shall be established by the date that is not later than one year after the date of the enactment of this Act [Aug. 13, 2018].
+
+"(e) Definitions.—In this section:
+
+"(1) The term 'eligible surviving spouse' means an individual who is a surviving spouse of a covered member of the Armed Forces, without regard to whether the individual remarries after the death of the covered member of the Armed Forces.
+
+"(2) The term 'covered member of the Armed Forces' means a member of the Armed Forces who dies while serving—
+
+"(A) on active duty; or
+
+"(B) on such reserve duty as the Secretary of Defense and the Secretary of Homeland Security may jointly specify for purposes of this section."
+
+Pub. L. 114–328, div. A, title III, §346, Dec. 23, 2016, 130 Stat. 2085, as amended by Pub. L. 115–91, div. B, title XXVIII, §2819, Dec. 12, 2017, 131 Stat. 1853, provided that:
+
+"(a) In General.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of Defense shall establish policies under which covered drivers may be authorized to access military installations.
+
+"(b) Elements.—The policies established under subsection (a)—
+
+"(1) shall include the terms and conditions under which a covered driver may be authorized to access a military installation;
+
+"(2) may require a transportation company or transportation network company and a covered driver to enter into a written agreement with the Department of Defense as a precondition for obtaining authorization to access a military installation;
+
+"(3) shall be consistent across military installations, to the extent practicable;
+
+"(4) shall be designed to promote the expeditious entry of covered drivers onto military installations for purposes of providing commercial transportation services;
+
+"(5) shall place appropriate restrictions on entry into sensitive areas of military installations;
+
+"(6) shall be designed, to the extent practicable, to give covered drivers access to barracks areas, housing areas, temporary lodging facilities, hospitals, and community support facilities;
+
+"(7) shall require transportation companies and transportation network companies—
+
+"(A) to track, in real-time, the location of the entry and exit of covered drivers onto and off of military installations; and
+
+"(B) to provide, on demand, the information described in subparagraph (A) to appropriate personnel and agencies of the Department; and
+
+"(8) shall take into account force protection requirements and ensure the protection and safety of members of the Armed Forces, civilian employees of the Department of Defense, and the families of such members and employees.
+
+"(c) Confidentiality of Information.—The Secretary shall ensure that any information provided to the Department by a transportation company or transportation network company under subsection (b)(7)—
+
+"(1) is treated as confidential and proprietary information of the company that is exempt from public disclosure pursuant to section 552 of title 5, United States Code (commonly known as the 'Freedom of Information Act'); and
+
+"(2) except as provided in subsection (b)(7), is not disclosed to any person or entity without the express written consent of the company unless disclosure of such information is required by a court order.
+
+"(d) Definitions.—In this section:
+
+"(1) Transportation company.—The term 'transportation company' means a corporation, partnership, sole proprietorship, or other entity outside of the Department of Defense that provides a commercial transportation service to a rider.
+
+"(2) Transportation network company.—The term 'transportation network company'—
+
+"(A) means a corporation, partnership, sole proprietorship, or other entity, that uses a digital network to connect riders to covered drivers in order for the driver to transport the rider using a vehicle owned, leased, or otherwise authorized for use by the driver to a point chosen by the rider; and
+
+"(B) does not include a shared-expense carpool or vanpool arrangement that is not intended to generate profit for the driver.
+
+"(3) Covered driver.—The term 'covered driver'—
+
+"(A) means an individual—
+
+"(i) who is an employee of a transportation company or transportation network company or who is affiliated with a transportation company or transportation network company; and
+
+"(ii) who provides a commercial transportation service to a rider; and
+
+"(B) includes a vehicle operated by such individual for the purpose of providing such service."
+
+[Pub. L. 115–91, div. B, title XXVIII, §2819(4)(C), Dec. 12, 2017, 131 Stat. 1853, which directed the insertion of "or transportation network company" after "transportation company" in section 346(d)(3)(A)(i) of Pub. L. 114–328, set out above, was not executed in light of the amendment made by section 2819(2) of Pub. L. 115–91, which directed the same insertion wherever appearing in subsec. (d).]
+
+Pub. L. 114–328, div. A, title X, §1050, Dec. 23, 2016, 130 Stat. 2396, as amended by Pub. L. 116–92, div. B, title XXVIII, §2822, Dec. 20, 2019, 133 Stat. 1889, provided that:
+
+"(a) Access to Installations for Credentialed Transportation Workers.—The Secretary of Defense, to the extent practicable, shall ensure that the Transportation Worker Identification Credential is accepted as a valid credential for unescorted access to Department of Defense installations by transportation workers.
+
+"(b) Credentialed Transportation Workers With Secret Clearance.—TWIC-carrying transportation workers who also have a current Secret Level Clearance issued by the Department of Defense shall be considered exempt from further vetting when seeking unescorted access at Department of Defense facilities. Access security personnel shall verify such person's security clearance in a timely manner and provide them with unescorted access to complete their freight service."

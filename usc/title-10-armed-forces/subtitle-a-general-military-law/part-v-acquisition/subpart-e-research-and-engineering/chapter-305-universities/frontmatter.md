@@ -18,6 +18,84 @@ Pub. L. 116–283, div. A, title XVIII, §1843(a), Jan. 1, 2021, 134 Stat. 4244,
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Support for Protection of Sensitive Research Performed on Behalf of the Department of Defense ####
+
+Pub. L. 118–31, div. A, title II, §221, Dec. 22, 2023, 137 Stat. 188, provided that:
+
+"(a) In General.—The Secretary of Defense, acting through the Under Secretary of Defense for Research and Engineering, may enter into contracts or other agreements with one or more eligible entities to assist institutions of higher education in protecting sensitive research performed on behalf of the Department of Defense.
+
+"(b) Activities.—An eligible entity that enters into a contract or other agreement with the Secretary of Defense under subsection (a) shall carry out activities to assist institutions of higher education in protecting sensitive research performed on behalf of the Department of Defense. Such activities may include—
+
+"(1) conducting effective due diligence in vetting visiting scholars;
+
+"(2) assisting institutions in meeting applicable research security requirements, including through the use of common procedures and practices and shared infrastructure, as appropriate;
+
+"(3) providing training to employees and offices of the institution that have responsibilities relating to research security; and
+
+"(4) providing advice and assistance to institutions in establishing and maintaining research security programs.
+
+"(c) Considerations.—In selecting an entity to receive a contract or other agreement under subsection (a), the Secretary of Defense shall consider the following:
+
+"(1) Geographic diversity and the extent to which the entity is able to maximize coverage of different regions of the United States.
+
+"(2) Any ratings of the entity made by the Defense Counterintelligence and Security Agency as part of the Agency's annual security vulnerability assessment ratings.
+
+"(3) Whether and to what extent the entity uses best practices for research security as outlined by the National Institute of Standards and Technology.
+
+"(4) The entity's demonstrated excellence in security programs, including receipt of awards for excellence in counterintelligence and outstanding achievement in industrial security.
+
+"(d) Performance Metrics.—The Secretary of Defense shall establish metrics to measure the performance of each entity with which the Secretary enters into a contract or other agreement under subsection (a).
+
+"(e) Notification and Report.—For any year in which the Secretary of Defense exercises the authority provided under subsection (a), the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that—
+
+"(1) identifies each eligible entity with which the Secretary entered into a contract or other agreement under such subsection; and
+
+"(2) evaluates the performance of the entity.
+
+"(f) Eligible Entity Defined.—In this section, the term 'eligible entity' means—
+
+"(1) an entity the Secretary of Defense determines to be eligible to participate in the activities authorized under this section; or
+
+"(2) a consortium composed of two or more such entities."
+
+#### Support to Covered Educational Institutions ####
+
+Pub. L. 118–31, div. A, title II, §227(f), (g), Dec. 22, 2023, 137 Stat. 198, provided that:
+
+"(f) Support to Covered Educational Institutions.—
+
+"(1) In general.—The Under Secretary of Defense for Research and Engineering may establish a program to award contracts, grants, or other agreements on a competitive basis to a covered educational institution, and to perform other appropriate activities, for the purposes described in paragraph (2).
+
+"(2) Purposes.—The purposes described in this paragraph are the following:
+
+"(A) Developing the capability, including workforce and research infrastructure capabilities, for covered educational institutions to more effectively compete for Federal engineering, applied research, commercialization, and workforce development funding opportunities.
+
+"(B) Improving the capability of covered educational institutions to—
+
+"(i) recruit and retain research faculty;
+
+"(ii) participate in appropriate personnel exchange programs; and
+
+"(iii) participate in appropriate educational and career development activities.
+
+"(C) Any other purposes the Under Secretary determines appropriate for enhancing the engineering, applied research, commercialization, and development capabilities of covered educational institutions.
+
+"(g) Definitions.—In this section:
+
+"(1) Covered educational institution.—The term 'covered educational institution' means—
+
+"(A) a mining, metallurgical, geological, or mineral engineering program—
+
+"(i) accredited by a non-governmental organization that accredits post-secondary education programs in applied and natural science, engineering technology, and computing; and
+
+"(ii) located at an institution of higher education; or
+
+"(B) any other post-secondary educational institution with a geology or engineering program or department that has experience in mining research or work with the mining industry.
+
+"(2) Critical materials.—The term 'critical materials' means materials designated as strategic and critical under section 3(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98b(a)).
+
+"(3) Institution of higher education.—For purposes of paragraph (1), the term 'institution of higher education' has the meaning given in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)."
+
 #### Infrastructure To Support Research, Development, Test, and Evaluation Missions ####
 
 Pub. L. 116–92, div. A, title II, §252, Dec. 20, 2019, 133 Stat. 1285, as amended by Pub. L. 117–81, div. A, title II, §215(d)(9), Dec. 27, 2021, 135 Stat. 1594, provided that:
@@ -92,7 +170,7 @@ Pub. L. 116–92, div. A, title II, §252, Dec. 20, 2019, 133 Stat. 1285, as ame
 
 "(1) the science and technology reinvention laboratories (as designated under section 4121(b) of title 10, United States Code);
 
-"(2) the Major Range and Test Facility Base (as defined in section 2358a(f)(3) of title 10, United States Code [now 10 U.S.C. 4091(g)(3)]); and
+"(2) the Major Range and Test Facility Base (as defined in section 2358a(f)(3) of title 10, United States Code [now 10 U.S.C. 4091(f)(3)]); and
 
 "(3) other facilities that support the research development, test, and evaluation activities of the Department."
 

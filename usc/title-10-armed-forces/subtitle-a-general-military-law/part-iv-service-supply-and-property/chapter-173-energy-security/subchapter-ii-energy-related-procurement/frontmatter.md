@@ -36,6 +36,26 @@ Sec.
 
 #### **Statutory Notes and Related Subsidiaries** ####
 
+#### Prohibition and Report Requirement Relating to Certain Energy Programs of Department of Defense ####
+
+Pub. L. 118–31, div. A, title III, §320, Dec. 22, 2023, 137 Stat. 220, provided that:
+
+"(a) Prohibition.—None of the funds authorized to be appropriated by this Act [see Tables for classification] or otherwise made available for the Department of Defense for any operational energy program may be provided to any entity owned by, or with known financial or leadership ties to, the Russian Federation or the Chinese Communist Party.
+
+"(b) Report Requirement.—As part of the report submitted under section 2925(a) of title 10, United States Code, for fiscal year 2024, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on operational energy programs that includes—
+
+"(1) a list of each operational energy program; and
+
+"(2) to the extent such information may be determined, a description of—
+
+"(A) how each such program improves military readiness or capabilities;
+
+"(B) how each such program shall be sustained (including in a contested environment); and
+
+"(C) the estimated life-cycle costs of each such program, including the estimated cost avoidance over such life cycle.
+
+"(c) Operational Energy Program Defined.—In this section, the term 'operational energy program' means any program carried out under an operational energy initiative of the Department of Defense specified in section 2925(b)(3) of title 10, United States Code."
+
 #### Pilot Program on Use of Sustainable Aviation Fuel ####
 
 Pub. L. 117–263, div. A, title III, §324, Dec. 23, 2022, 136 Stat. 2516, provided that:

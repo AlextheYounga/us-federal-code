@@ -10,6 +10,8 @@ Sec.
 
 2164. Department of Defense domestic dependent elementary and secondary schools.
 
+§2164a. Rights of parents of children attending schools operated by the Department of Defense Education Activity.
+
 2165. National Defense University: component institutions.
 
 [2166. Renumbered.]
@@ -25,6 +27,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title V, §589(a), Dec. 22, 2023, 137 Stat. 284, added item 2164a. Amendment was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. A, title V, §556(b), Dec. 27, 2021, 135 Stat. 1739, substituted "Defense Language Institute Foreign Language Center: degree of Associate or Bachelor of Arts in foreign language" for "Defense Language Institute Foreign Language Center: degree of Associate of Arts in foreign language" in item 2168.
 

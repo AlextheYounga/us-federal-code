@@ -12,9 +12,9 @@ Sec.
 
 #### Pilot Program for Distribution Support and Services for Weapon Systems Contractors ####
 
-Pub. L. 114–328, div. A, title VIII, §883, Dec. 23, 2016, 130 Stat. 2316, as amended by Pub. L. 117–263, div. A, title VIII, §819, Dec. 23, 2022, 136 Stat. 2709, provided that:
+Pub. L. 114–328, div. A, title VIII, §883, Dec. 23, 2016, 130 Stat. 2316, as amended by Pub. L. 117–263, div. A, title VIII, §819, Dec. 23, 2022, 136 Stat. 2709; Pub. L. 118–31, div. A, title VIII, §855, Dec. 22, 2023, 137 Stat. 345, provided that:
 
-"(a) Authority.—The Secretary of Defense may carry out a seven-year pilot program under which the Secretary may make available storage and distribution services support to a contractor in support of the performance by the contractor of a contract for the production, modification, maintenance, or repair of a weapon system that is entered into by the Department of Defense.
+"(a) Authority.—The Secretary of Defense may carry out a eight-year pilot program under which the Secretary may make available storage and distribution services support to a contractor in support of the performance by the contractor of a contract for the production, modification, maintenance, or repair of a weapon system that is entered into by the Department of Defense.
 
 "(b) Support Contracts.—
 
@@ -54,7 +54,7 @@ Pub. L. 114–328, div. A, title VIII, §883, Dec. 23, 2016, 130 Stat. 2316, as 
 
 "(2) Comptroller general.—Not later than the end of the fifth year of operation of the pilot program, the Comptroller General of the United States shall review the report of the Secretary under paragraph (1) for sufficiency and provide such recommendations in a report to the Committees on Armed Services of the Senate and House of Representatives as the Comptroller General considers appropriate.
 
-"(g) Sunset.—The authority to enter into contracts under the pilot program shall expire seven years after the date of the enactment of this Act. Any contracts entered into before such date shall continue in effect according to their terms."
+"(g) Sunset.—The authority to enter into contracts under the pilot program shall expire eight years after the date of the enactment of this Act. Any contracts entered into before such date shall continue in effect according to their terms."
 
 #### Nontraditional and Small Contractor Innovation Prototyping Program ####
 

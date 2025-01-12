@@ -38,17 +38,45 @@
 
 (5) Deferral to commander or convening authority.—If a special trial counsel exercises authority over an offense and elects not to prefer charges and specifications for such offense or, with respect to charges and specifications for such offense preferred by a person other than a special trial counsel, elects not to refer such charges and specifications, a commander or convening authority may exercise any of the authorities of such commander or convening authority under this chapter with respect to such offense, except that such commander or convening authority may not refer charges and specifications for a covered offense for trial by special or general court-martial.
 
-(Added Pub. L. 117–81, div. A, title V, §531(a), Dec. 27, 2021, 135 Stat. 1692; amended Pub. L. 117–263, div. A, title V, §542(a), Dec. 23, 2022, 136 Stat. 2581.)
+(d) Special Trial Counsel Authority Over Certain Other Offenses.—
+
+(1) Offenses occurring before effective date.—A special trial counsel may, at the sole and exclusive discretion of the special trial counsel, exercise authority over the following offenses:
+
+(A) An offense under section 917a (article 117a), 918 (article 118), section 919 (article 119), section 920 (article 120), section 920b (article 120b), section 920c (article 120c), section 928b (article 128b), or the standalone offense of child pornography punishable under section 934 (article 134) of this title that occurred on or before December 27, 2023.
+
+(B) An offense under section 925 (article 125), section 930 (article 130), or section 932 (article 132) of this title that occurred on or after January 1, 2019, and before December 28, 2023.
+
+(C) An offense under section 920a (article 120a) of this title, an offense under section 925 (article 125) of this title alleging an act of nonconsensual sodomy, or the standalone offense of kidnapping punishable under section 934 (article 134) of this title that occurred before January 1, 2019.
+
+(D) A conspiracy to commit an offense specified in subparagraph (A), (B), or (C) as punishable under section 881 of this title (article 81).
+
+(E) A solicitation to commit an offense specified in subparagraph (A), (B), or (C) as punishable under section 882 of this title (article 82).
+
+(F) An attempt to commit an offense specified in subparagraph (A), (B), (C), (D), or (E) as punishable under section 880 of this title (article 80).
+
+(2) Effect of exercise of authority.—
+
+(A) Treatment as covered offense.—If a special trial counsel exercises authority over an offense pursuant to paragraph (1), the offense over which the special trial counsel exercises authority shall be considered a covered offense for purposes of this chapter.
+
+(B) Known or related offenses.—If a special trial counsel exercises authority over an offense pursuant to paragraph (1), the special trial counsel may exercise the authority of the special trial counsel under subparagraph (B) of subsection (c)(2) with respect to other offenses described in that subparagraph without regard to the date on which the other offenses occur.
+
+(Added Pub. L. 117–81, div. A, title V, §531(a), Dec. 27, 2021, 135 Stat. 1692; amended Pub. L. 117–263, div. A, title V, §542(a), Dec. 23, 2022, 136 Stat. 2581; Pub. L. 118–31, div. A, title V, §531(c)(1), Dec. 22, 2023, 137 Stat. 258.)
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Subsec. (d). Pub. L. 118–31 added subsec. (d).
 
 **2022**—Subsec. (c)(3). Pub. L. 117–263, §542(a)(1), substituted "Subject to paragraph (5)" for "Subject to paragraph (4)" in introductory provisions.
 
 Subsec. (c)(3)(D). Pub. L. 117–263, §542(a)(2), substituted "an authorized rehearing" for "an ordered rehearing".
 
 #### **Statutory Notes and Related Subsidiaries** ####
+
+#### Effective Date of 2023 Amendment ####
+
+Amendment by Pub. L. 118–31 effective immediately after amendment by part 1 of subtitle D of title V of Pub. L. 117–81, see section 531(e) of Pub. L. 118–31, set out as a note under section 816 of this title.
 
 #### Effective Date of 2022 Amendment ####
 

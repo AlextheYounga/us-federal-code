@@ -30,15 +30,19 @@ Sec.
 
 985. Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits.
 
-[986. Repealed.]
+§986. Policy regarding identification of gender or personal pronouns in official correspondence.
 
 987. Terms of consumer credit extended to members and dependents: limitations.
 
 988. Prohibition on ownership or trading of stocks in certain companies by certain officials of the Department of Defense.
 
+989. Prohibition on former members of the armed forces accepting post-service employment with certain foreign governments.
+
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title V, §§522, 523(b), Dec. 22, 2023, 137 Stat. 249, 252, added items 986 and 989. Addition of item 986 was made pursuant to operation of section 102 of this title.
 
 **2019**—Pub. L. 116–92, div. A, title IX, §921(b), Dec. 20, 2019, 133 Stat. 1561, added item 988.
 

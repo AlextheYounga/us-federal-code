@@ -18,6 +18,8 @@ Sec.
 
 8617. National Museum of the United States Navy.
 
+8618. Marine Corps Heritage Center and National Museum of the Marine Corps at Marine Corps Base, Quantico, Virginia.
+
 8619. Leases of waterfront property from States or municipalities.
 
 8620. Gifts for welfare of enlisted members.
@@ -55,6 +57,8 @@ Sec.
 A prior chapter 861, consisting of sections 8811 to 8820, related to separation from service within the Air Force for various reasons, prior to renumbering as chapter 939 of this title.
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. B, title XXVIII, §2882(a), Dec. 22, 2023, 137 Stat. 780, added item 8618. Amendment was made pursuant to operation of section 102 of this title.
 
 **2021**—Pub. L. 117–81, div. B, §2003(b), title XXVIII, §2821, Dec. 27, 2021, 135 Stat. 2162, 2195, added item 8617.
 

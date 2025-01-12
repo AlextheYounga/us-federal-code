@@ -2,7 +2,7 @@
 
 (a) During War or National Emergency.—(1) If at the end of any fiscal year there is in effect a war or national emergency, the President may waive any statutory end strength with respect to that fiscal year. Any such waiver may be issued only for a statutory end strength that is prescribed by law before the waiver is issued.
 
-(2) When a designation of a major disaster or emergency (as those terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)) is in effect, the President may waive any statutory limit that would otherwise apply during the period of the designation on the number of members of a reserve component who are authorized to be on active duty under subparagraph (A) or (B) of section 115(b)(1) of this title, if the President determines the waiver is necessary to provide assistance in responding to the major disaster or emergency.
+(2) When a designation of a major disaster or emergency (as those terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5122)) is in effect, the President may waive any statutory limit that would otherwise apply during the period of the designation on the number of members of a reserve component or the Space Force who are authorized to be on active duty under subparagraph (A) or (B) of section 115(b)(1) of this title, if the President determines the waiver is necessary to provide assistance in responding to the major disaster or emergency.
 
 (b) Termination of Waiver.—(1) Upon the termination of a war or national emergency with respect to which the President has exercised the authority provided by subsection (a)(1), the President may defer the effectiveness of any statutory end strength with respect to the fiscal year during which the termination occurs. Any such deferral may not extend beyond the last day of the sixth month beginning after the date of such termination.
 
@@ -10,7 +10,7 @@
 
 (c) Statutory End Strength.—In this section, the term "statutory end strength" means any end-strength limitation with respect to a fiscal year that is prescribed by law for any military or civilian component of the armed forces or of the Department of Defense.
 
-(Added Pub. L. 101–510, div. A, title XIV, §1483(b)(1), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 107–107, div. A, title IV, §421(b), Dec. 28, 2001, 115 Stat. 1076; Pub. L. 110–417, [div. A], title IV, §416(a)–(c)(1), Oct. 14, 2008, 122 Stat. 4430.)
+(Added Pub. L. 101–510, div. A, title XIV, §1483(b)(1), Nov. 5, 1990, 104 Stat. 1715; amended Pub. L. 107–107, div. A, title IV, §421(b), Dec. 28, 2001, 115 Stat. 1076; Pub. L. 110–417, [div. A], title IV, §416(a)–(c)(1), Oct. 14, 2008, 122 Stat. 4430; Pub. L. 118–31, div. A, title XVII, §1722(a)(2), Dec. 22, 2023, 137 Stat. 667.)
 
 #### **Editorial Notes** ####
 
@@ -19,6 +19,8 @@
 Provisions similar to those in this section were contained in section 115(b)(4) of this title, prior to repeal by Pub. L. 101–510, §1483(a).
 
 #### Amendments ####
+
+**2023**—Subsec. (a)(2). Pub. L. 118–31 inserted "or the Space Force" after "a reserve component".
 
 **2008**—Pub. L. 110–417 in section catchline substituted "Suspension of end-strength and other strength limitations in time of war or national emergency" for "Suspension of end-strength limitations in time of war or national emergency", in subsec. (a) designated existing provisions as par. (1) and added par. (2), and in subsec. (b) substituted "Termination of Waiver" for "Upon Termination of War or National Emergency" in heading, designated existing provisions as par. (1), substituted "subsection (a)(1)" for "subsection (a)", and added par. (2).
 

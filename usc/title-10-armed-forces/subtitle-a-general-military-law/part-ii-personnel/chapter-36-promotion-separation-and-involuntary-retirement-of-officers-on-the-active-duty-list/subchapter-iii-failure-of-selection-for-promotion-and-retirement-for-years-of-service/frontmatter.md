@@ -14,19 +14,23 @@ Sec.
 
 631. Effect of failure of selection for promotion: first lieutenants and lieutenants (junior grade).
 
-632. Effect of failure of selection for promotion: captains and majors of the Army, Air Force, and Marine Corps and lieutenants and lieutenant commanders of the Navy.
+632. Effect of failure of selection for promotion: captains and majors of the Army, Air Force, Marine Corps, and Space Force and lieutenants and lieutenant commanders of the Navy.
 
-633. Retirement for years of service: regular lieutenant colonels and commanders.
+633. Retirement for years of service: regular and Space Force lieutenant colonels; regular Navy commanders.
 
-634. Retirement for years of service: regular colonels and Navy captains.
+634. Retirement for years of service: regular and Space Force colonels; regular Navy captains.
 
-635. Retirement for years of service: regular brigadier generals and rear admirals (lower half).
+635. Retirement for years of service: regular and Space Force brigadier generals; regular Navy rear admirals (lower half).
 
-636. Retirement for years of service: regular officers in grades above brigadier general and rear admiral (lower half).
+636. Retirement for years of service: regular and Space Force officers in grades above brigadier general; regular Navy officers in grades above rear admiral (lower half).
 
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title XVII, §1722(b)(6)(E), Dec. 22, 2023, 137 Stat. 670, substituted "and Space Force lieutenant colonels; regular Navy" for "lieutenant colonels and" in item 633, "and Space Force colonels; regular" for "colonels and" in item 634, "and Space Force brigadier generals; regular Navy" for "brigadier generals and" in item 635, and "and Space Force officers in grades above brigadier general; regular Navy officers in grades above" for "officers in grades above brigadier general and" in item 636. Amendments were made pursuant to operation of section 102 of this title.
+
+Pub. L. 118–31, div. A, title V, §508(a)(2), Dec. 22, 2023, 137 Stat. 242, which directed amendment of chapter 36 analysis by adding item 632 and striking out former item 632 "Effect of failure of selection for promotion: captains and majors of the Army, Air Force, and Marine Corps and lieutenants and lieutenant commanders of the Navy", was executed by making the amendment to this analysis to reflect the probable intent of Congress.
 
 **2021**—Pub. L. 116–283, div. A, title V, §505(a)(2), Jan. 1, 2021, 134 Stat. 3568, added item 628a.
 

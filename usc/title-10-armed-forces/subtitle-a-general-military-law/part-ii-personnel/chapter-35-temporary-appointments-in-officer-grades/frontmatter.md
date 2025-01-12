@@ -4,7 +4,7 @@ Sec.
 
 601. Positions of importance and responsibility: generals and lieutenant generals; admirals and vice admirals.
 
-[602. Repealed.]
+602. Flexibility in determining terms of appointment for certain senior officer positions.
 
 603. Appointments in time of war or national emergency.
 
@@ -15,6 +15,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2023**—Pub. L. 118–31, div. A, title V, §504(b), Dec. 22, 2023, 137 Stat. 241, added item 602.
 
 **2018**—Pub. L. 115–232, div. A, title V, §503(a)(2), Aug. 13, 2018, 132 Stat. 1742, added item 605.
 
