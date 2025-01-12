@@ -8,7 +8,7 @@ Sec.
 
 #### Short Title of Act July 30, 1953, Ch. 282, Title I ####
 
-Act July 30, 1953, ch. 282, title I, §101, 67 Stat. 230, provided that: This title [amending sections 603 and 604 of this title and section 459 of Title 40, Public Buildings, Property, and Works, enacting provisions set out as a note under this section, and amending provisions set out as notes under sections 98, 544, and 4534 of Title 50, War and National Defense, and sections 1929 and 2261 of the former Appendix to Title 50] may be cited as the 'Reconstruction Finance Corporation Liquidation Act'."
+Act July 30, 1953, ch. 282, title I, §101, 67 Stat. 230, provided that: "This title [amending sections 603 and 604 of this title and section 459 of Title 40, Public Buildings, Property, and Works, enacting provisions set out as a note under this section, and amending provisions set out as notes under sections 98, 544, and 4534 of Title 50, War and National Defense, and sections 1929 and 2261 of the former Appendix to Title 50] may be cited as the 'Reconstruction Finance Corporation Liquidation Act'."
 
 #### Continuation of Pending Proceedings ####
 

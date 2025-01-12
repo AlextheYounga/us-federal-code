@@ -724,7 +724,7 @@ Amendment by Pub. L. 99–571 effective 270 days after Oct. 28, 1986, see sectio
 
 #### Effective Date of 1984 Amendment ####
 
-Amendment Pub. L. 98–376 effective Aug. 10, 1984, see section 7 of Pub. L. 98–376, set out as a note under section 78c of this title.
+Amendment by Pub. L. 98–376 effective Aug. 10, 1984, see section 7 of Pub. L. 98–376, set out as a note under section 78c of this title.
 
 #### Effective Date of 1983 Amendment ####
 

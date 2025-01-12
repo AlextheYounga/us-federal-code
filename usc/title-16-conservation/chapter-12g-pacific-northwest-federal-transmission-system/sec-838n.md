@@ -84,7 +84,7 @@ The study conducted under paragraph (1) shall analyze—
 
 In conducting the study under paragraph (1), the Administrator shall coordinate, to the extent practicable, with—
 
-(A) the British Columbia or a crown corporation owned by British Columbia;
+(A) the <sup><a href="#838n_1_target" name="838n_1">1</a></sup> British Columbia or a crown corporation owned by British Columbia;
 
 (B) the Assistant Secretary;
 
@@ -103,3 +103,11 @@ There is authorized to be appropriated $10,000,000, which shall be nonreimbursea
 #### Codification ####
 
 Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Federal Columbia River Transmission System Act which comprises this chapter.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Wage Rate Requirements ####
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
+
+[<sup>1</sup> So in original. The word "the" probably should not appear.](#838n_1)

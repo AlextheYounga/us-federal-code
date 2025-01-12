@@ -250,6 +250,12 @@ Subsec. (i)(2). Pub. L. 117–58, §40105(d)(1), substituted "shall provide" for
 
 Subsec. (i)(4). Pub. L. 117–58, §40105(d)(2), substituted "the Secretary determines that the members of the compact are in disagreement after the later of—" and subpars. (A) and (B) for "the members of the compact are in disagreement and the Secretary makes, after notice and an opportunity for a hearing, the finding described in subsection (b)(1)(C)."
 
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Wage Rate Requirements ####
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
+
 [<sup>1</sup> So in original. Probably should be "(A)".](#824p_1)
 
 [<sup>2</sup> So in original. Probably should be "(B)".](#824p_2)

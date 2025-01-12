@@ -89,3 +89,9 @@ Subsec. (b)(4). Pub. L. 108–447, §114(b), added par. (4).
 Subsec. (c)(2). Pub. L. 108–199, §146(3), as amended by Pub. L. 108–447, §114(1), (2), (4), which directed the amendment of subsec. (a)(2) by inserting ", except that the total amount of principal that may be guaranteed for a qualified liquefied natural gas project may not exceed a principal amount in which the cost of loan guarantees, as defined by section 661a(5) of title 2, exceeds $2,000,000,000" before period at end, was executed by making the amendment to subsec. (c)(2), to reflect the probable intent of Congress.
 
 Subsec. (g)(4). Pub.L. 108–199, §146(4), as amended by Pub. L. 108–447, §114(1), (2), (5), inserted "or system" after "gas transportation project" and "liquification plants and liquefied natural gas tankers for transportation of liquefied natural gas from Southcentral Alaska to the West Coast" after "including gas treatment plants".
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Wage Rate Requirements ####
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.

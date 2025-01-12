@@ -125,3 +125,9 @@ In implementing the Program, the Secretary shall ensure that—
 A decision to fund a project under the Program shall not affect any determination made previously or to be made in the future by the Secretary with regard to road or trail closures.
 
 (Pub. L. 88–657, §8, as added Pub. L. 117–58, div. D, title VIII, §40801(a), Nov. 15, 2021, 135 Stat. 1094.)
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Wage Rate Requirements ####
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.

@@ -116,6 +116,10 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 Section as amended and modified by act Dec. 22, 1944, ch. 665, §1(c), 58 Stat. 665, see section 701–1(c) of Title 33, Navigation and Navigable Waters.
 
+#### Wage Rate Requirements ####
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.
+
 #### Municipal, Domestic, and Industrial Water Supply Contracts; Renewals; Conforming Amendments to Existing Contracts; "Long-Term Contract" Defined ####
 
 Pub. L. 88–44, June 21, 1963, 77 Stat. 68, provided: "That the Secretary of the Interior shall, upon request of the other party to any long-term contract for municipal, domestic, or industrial water supply hereafter entered into under clause (2) in the proviso to the first sentence of section 9, subsection (c), of the Reclamation Project Act of 1939 (53 Stat. 1195, 43 U.S.C. 485h), include provision for renewal thereof subject to renegotiation of (1) the charges set forth in the contract in the light of circumstances prevailing at the time of renewal and (2) any other matters with respect to which the right to renegotiate is reserved in the contract. Any right of renewal shall be exercised within such reasonable time prior to the expiration of the contract as the parties shall have agreed upon and set forth therein.

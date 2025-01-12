@@ -37,3 +37,9 @@ Subsec. (b). Pub. L. 111–11, §11001(i)(2)(A), substituted "2005" for "2000" i
 Subsec. (b)(1). Pub. L. 111–11, §11001(i)(2)(B), substituted "50" for "48".
 
 Subsec. (b)(2). Pub. L. 111–11, §11001(i)(2)(C), which directed amendment of par. (2) "by striking 2 and inserting '4' ", was executed by substituting "4" for "2", to reflect the probable intent of Congress.
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Wage Rate Requirements ####
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.

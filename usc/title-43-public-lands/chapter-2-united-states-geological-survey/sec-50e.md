@@ -39,3 +39,9 @@ The Director shall submit to Congress annual reports on—
 There is authorized to be appropriated to the Secretary of the Interior to carry out this section $167,000,000 for fiscal year 2022, to remain available until expended.
 
 (Pub. L. 117–58, div. D, title II, §40204, Nov. 15, 2021, 135 Stat. 960.)
+
+#### **Statutory Notes and Related Subsidiaries** ####
+
+#### Wage Rate Requirements ####
+
+For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see section 18851 of Title 42, The Public Health and Welfare.

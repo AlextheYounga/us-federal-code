@@ -132,7 +132,7 @@ Subsec. (b)(2)(A). Pub. L. 117–58, §28001(a)(1)(B)(ii)(I), substituted "2022 
 
 Subsec. (b)(2)(B). Pub. L. 117–58, §28001(a)(1)(B)(ii)(II), added subpar. (B) and struck out former subpar. (B) which related to available amounts for fiscal years 2016, 2017, and thereafter.
 
-Subsec. (e)(2). Pub. L. 117–58, §28001(a)(1)(C), substituted '$1,300,000" for "$900,000".
+Subsec. (e)(2). Pub. L. 117–58, §28001(a)(1)(C), substituted "$1,300,000" for "$900,000".
 
 **2015**—Subsec. (a). Pub. L. 114–94, §10001(b)(1)(A), substituted "For each fiscal year through fiscal year 2021, the balance" for "For each fiscal year through 2015 and for the period beginning on October 1, 2015, and ending on October 29, 2015, the balance" and "activities under section 777m(e) of this title" for "multistate conservation grants under section 777m of this title" in introductory provisions.
 

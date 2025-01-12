@@ -1,8 +1,12 @@
 ### Part C—Water Power Research and Development ###
 
+#### **Editorial Notes** ####
+
 #### Codification ####
 
 Subtitle C of title VI of the Energy Independence and Security Act of 2007, known as the Marine and Hydrokinetic Renewable Energy Research and Development Act, comprising this part, was originally enacted by Pub. L. 110–140, title VI, Dec. 19, 2007, 121 Stat. 1686. Such part is shown herein, however, as having been added by Pub. L. 116–260, div. Z, title III, §3001(a), Dec. 27, 2020, 134 Stat. 2479, because of the extensive revision of the part's provisions by Pub. L. 116–260.
+
+#### **Statutory Notes and Related Subsidiaries** ####
 
 #### Application ####
 

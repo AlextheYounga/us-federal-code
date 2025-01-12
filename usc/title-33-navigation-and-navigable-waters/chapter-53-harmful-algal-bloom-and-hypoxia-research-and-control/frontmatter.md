@@ -12,6 +12,8 @@ Sec.
 
 4004. Northern Gulf of Mexico hypoxia.
 
+4004a. South Florida harmful algal blooms and hypoxia.
+
 4005. Great Lakes hypoxia and harmful algal blooms.
 
 4006. Protection of States' rights.
