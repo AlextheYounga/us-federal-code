@@ -42,8 +42,8 @@ Sec.
 
 #### Law Enforcement Assistance Act of 1965 ####
 
-Pub. L. 89–197, §§1–11, Sept. 22, 1965, 79 Stat. 828, as amended by Pub. L. 89–798, Nov. 8, 1966, 80 Stat. 1503, was repealed by Pub. L. 90–351, title I, §405, June 19, 1968, 82 Stat. 204, subject to the provisions of section 3745 of Title 42, The Public Health and Welfare. See section 3701 et seq. (chapter 46) of Title 42. Such Act had provided for grants and contracts for improvement of quality of state and local personnel through professional training; grants and contracts to improve state and local law enforcement techniques; delegation and redelegation of powers; contributions to program by recipients, rules and regulations, necessary stipends, and allowances; studies by Attorney General and technical assistance to states; prohibition against control over local agencies; advisory committees, compensation, and expenses; term of program; appropriations; and reports to President and Congress.
+Note regarding Pub. L. 89–197, §§1–11, Sept. 22, 1965, 79 Stat. 828, which was amended and subsequently repealed, has been editorially reclassified in a note preceding section 10101 of Title 34, Crime Control and Law Enforcement.
 
 #### Coordination of Federal Law Enforcement and Crime Prevention Programs ####
 
-Designation of Attorney General to coordinate Federal law enforcement and crime prevention program, see Ex. Ord. No. 11396, Feb. 7, 1968, 33 F.R. 2689, set out as a note preceding section 1 of this title.
+Designation of Attorney General to coordinate Federal law enforcement and crime prevention programs, see Ex. Ord. No. 11396, Feb. 7, 1968, 33 F.R. 2689, set out as a note preceding section 10101 of Title 34, Crime Control and Law Enforcement.

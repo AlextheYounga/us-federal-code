@@ -4,7 +4,7 @@
 
 Sections 485 to 486, relating to Territory of Alaska, were omitted in view of admission of Alaska into the Union.
 
-Section 485, acts May 28, 1948, ch. 354, §1, 62 Stat. 227; Aug. 23, 1958, Pub. L. 85–726, title XIV, §1402(d)(1), 72 Stat. 807, authorized Administrator of Civil Aeronautics to construct, protect, operate, improve, and maintain within Territory of Alaska a public airport at or near Anchorage and a public airport at or near Fairbanks.
+Section 485, acts May 28, 1948, ch. 354, §1, 62 Stat. 277; Aug. 23, 1958, Pub. L. 85–726, title XIV, §1402(d)(1), 72 Stat. 807, authorized Administrator of Civil Aeronautics to construct, protect, operate, improve, and maintain within Territory of Alaska a public airport at or near Anchorage and a public airport at or near Fairbanks.
 
 Section 485a, act May 28, 1948, ch. 354, §2, 62 Stat. 278, authorized Administrator of Civil Aeronautics to acquire by purchase, lease, condemnation or otherwise such lands and appurtenances necessary for construction, protection, maintenance, improvement, and operation of said airports.
 
@@ -40,6 +40,6 @@ Section 486g, act Aug. 24, 1949, ch. 504, §9, 63 Stat. 629, directed that all m
 
 Section 486h, act Aug. 24, 1949, ch. 504, §10, 63 Stat. 629, authorized Secretary to utilize and act through other Federal agencies.
 
-Section 486i, act Aug. 24, 1949, ch. 504, §11, 63 Stat. 624, provided for appropriations to carry out purposes of sections 486 to 486j.
+Section 486i, act Aug. 24, 1949, ch. 504, §11, 63 Stat. 629, provided for appropriations to carry out purposes of sections 486 to 486j.
 
 Section 486j, acts Aug. 24, 1949, ch. 504, §12, 63 Stat. 629; July 15, 1954, ch. 510, 68 Stat. 483, directed that authority of Secretary under sections 486 to 486j of this title shall terminate on June 30, 1959.

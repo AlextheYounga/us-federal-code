@@ -141,7 +141,7 @@ Chap. Sec.
 
 45. Fair Housing 3601
 
-46. Justice System Improvement 3701
+46. Justice System Improvement [Repealed, Transferred, or Omitted] 3701
 
 47. Juvenile Delinquency Prevention and Control [Omitted or Repealed] 3801
 
@@ -197,7 +197,7 @@ Chap. Sec.
 
 71. Solar Energy 5501
 
-72. Juvenile Justice and Delinquency Prevention 5601
+72. Juvenile Justice and Delinquency Prevention [Repealed or Transferred] 5601
 
 73. Development of Energy Sources 5801
 
@@ -279,9 +279,9 @@ Chap. Sec.
 
 110. Family Violence Prevention and Services 10401
 
-111. Emergency Federal Law Enforcement Assistance 10501
+111. Emergency Federal Law Enforcement Assistance [Repealed or Transferred] 10501
 
-112. Victim Compensation and Assistance 10601
+112. Victim Compensation and Assistance [Repealed or Transferred] 10601
 
 113. State Justice Institute 10701
 
@@ -321,7 +321,7 @@ Chap. Sec.
 
 131. Housing Opportunities for Persons With AIDS 12901
 
-132. Victims of Child Abuse 13001
+132. Victims of Child Abuse [Repealed, Transferred, or Omitted] 13001
 
 133. Pollution Prevention 13101
 
@@ -329,7 +329,7 @@ Chap. Sec.
 
 135. Residency and Service Requirements in Federally Assisted Housing 13601
 
-136. Violent Crime Control and Law Enforcement 13701
+136. Violent Crime Control and Law Enforcement [Repealed, Transferred, or Omitted] 13701
 
 137. Management of Rechargeable Batteries and Batteries Containing Mercury 14301
 
@@ -337,9 +337,9 @@ Chap. Sec.
 
 139. Volunteer Protection 14501
 
-140. Criminal Justice Identification, Information, and Communication 14601
+140. Criminal Justice Identification, Information, and Communication [Transferred] 14601
 
-140A. Jennifer's Law 14661
+140A. Jennifer's Law [Transferred or Omitted] 14661
 
 141. Commercial Space Opportunities and Transportation Services [Repealed or Transferred] 14701
 
@@ -351,11 +351,11 @@ Chap. Sec.
 
 145. Public Safety Officer Medal of Valor and Tributes 15201
 
-145A. Law Enforcement Congressional Badge of Bravery 15231
+145A. Law Enforcement Congressional Badge of Bravery [Transferred] 15231
 
 146. Election Administration Improvement [Transferred] 15301
 
-147. Prison Rape Elimination 15601
+147. Prison Rape Elimination [Transferred] 15601
 
 148. Windstorm Impact Reduction 15701
 
@@ -363,13 +363,13 @@ Chap. Sec.
 
 150. National Aeronautics and Space Programs, 2005 [Repealed, Omitted, or Transferred] 16601
 
-151. Child Protection and Safety 16901
+151. Child Protection and Safety [Transferred] 16901
 
 152. Energy Independence and Security 17001
 
-153. Community Safety Through Recidivism Prevention 17501
+153. Community Safety Through Recidivism Prevention [Transferred or Omitted] 17501
 
-154. Combating Child Exploitation 17601
+154. Combating Child Exploitation [Transferred] 17601
 
 155. Aeronautics and Space Activities [Repealed, Omitted, or Transferred] 17701
 

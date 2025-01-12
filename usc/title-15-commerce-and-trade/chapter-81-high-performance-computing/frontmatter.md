@@ -12,7 +12,7 @@ Sec.
 
 5511. Networking and Information Technology Research and Development Program.
 
-5512. Grand challenges in areas of national importance.
+5512. Grand Challenges in areas of national importance.
 
 5513. Repealed.
 

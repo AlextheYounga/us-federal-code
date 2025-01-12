@@ -4,7 +4,7 @@
 
 Sections 1236b to 1237c were omitted in view of recognition of Philippine independence.
 
-Section 1236b, act Dec. 22, 1941, ch. 617, §1, 55 Stat. 352, related to export tax rate and temporary suspension.
+Section 1236b, act Dec. 22, 1941, ch. 617, §1, 55 Stat. 852, related to export tax rate and temporary suspension.
 
 Section 1236c, act Dec. 22, 1941, ch. 617, §2, 55 Stat. 852, related to reduction of export quotas and temporary suspension.
 

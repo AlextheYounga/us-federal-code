@@ -28,6 +28,6 @@ Sec.
 
 #### Amendments ####
 
-**2016**—Pub. L. 114–261, §1(a)(3)(B), Dec. 14, 2016, 130 Stat. 1362, added item 4712 and struck out former item 4712 "Pilot program for enhancement of contractor protection from reprisal for disclosure of certain information."
+**2016**—Pub. L. 114–261, §1(a)(3)(B), Dec. 14, 2016, 130 Stat. 1362, added item 4712 and struck out former item 4712 "Pilot program for enhancement of contractor protection from reprisal for disclosure of certain information".
 
 **2013**—Pub. L. 112–239, div. A, title VIII, §828(a)(2), Jan. 2, 2013, 126 Stat. 1840, added item 4712.

@@ -138,7 +138,7 @@ Section 102(b) of Public Law 102–395, referred to in subsec. (a)(5), is sectio
 
 Section 815(d) of Public Law 104–132, referred to in subsec. (a)(5), is section 815(d) of Pub. L. 104–132, title VIII, Apr. 24, 1996, 110 Stat. 1315, which is set out as a note under section 533 of this title.
 
-Public Law 106–110, referred to in subsec. (e), is Pub. L. 106–110, Nov. 24, 1999, 113 Stat. 1497, which amended section 3771 of Title 42, The Public Health and Welfare.
+Public Law 106–110, referred to in subsec. (e), is Pub. L. 106–110, Nov. 24, 1999, 113 Stat. 1497, which amended section 10211 of Title 34, Crime Control and Law Enforcement.
 
 #### Amendments ####
 

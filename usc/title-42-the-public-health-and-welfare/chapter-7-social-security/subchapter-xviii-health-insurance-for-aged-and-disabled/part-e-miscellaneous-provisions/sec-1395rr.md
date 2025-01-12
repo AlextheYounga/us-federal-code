@@ -264,7 +264,7 @@ The Secretary shall publish in the Federal Register a description of the geograp
 
 (7) The Secretary shall establish a national end stage renal disease registry the purpose of which shall be to assemble and analyze the data reported by network organizations, transplant centers, and other sources on all end stage renal disease patients in a manner that will permit—
 
-(A) the preparation of the annual report to the Congress required under subsection (g) <sup><a href="#1395rr_1_target" name="1395rr_1">1</a></sup> ;
+(A) the preparation of the annual report to the Congress required under subsection (g); <sup><a href="#1395rr_1_target" name="1395rr_1">1</a></sup>
 
 (B) an identification of the economic impact, cost-effectiveness, and medical efficacy of alternative modalities of treatment;
 

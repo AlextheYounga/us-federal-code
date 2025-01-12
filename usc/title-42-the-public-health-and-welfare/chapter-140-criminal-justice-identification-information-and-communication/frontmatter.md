@@ -4,18 +4,8 @@
 
 Sec.
 
-14601. State grant program for criminal justice identification, information, and communication.
+14601. Transferred.
 
 #### SUBCHAPTER II—EXCHANGE OF CRIMINAL HISTORY RECORDS FOR NONCRIMINAL JUSTICE PURPOSES ####
 
-14611. Findings.
-
-14612. Definitions.
-
-14613. Enactment and consent of the United States.
-
-14614. Effect on other laws.
-
-14615. Enforcement and implementation.
-
-14616. National Crime Prevention and Privacy Compact.
+14611 to 14616. Transferred.

@@ -8,4 +8,4 @@
 
 #### References in Text ####
 
-The Motor Vehicle Theft Prevention Act, referred to in text, is title XXII of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 2074, which enacted this section and section 14171 of Title 42, The Public Health and Welfare, amended section 511 of this title, and enacted provisions set out as a note under section 13701 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 13701 of Title 42 and Tables.
+The Motor Vehicle Theft Prevention Act, referred to in text, is title XXII of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 2074, which enacted this section and section 12611 of Title 34, Crime Control and Law Enforcement, amended section 511 of this title, and enacted provisions set out as a note under section 10101 of Title 34. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under section 10101 of Title 34 and Tables.

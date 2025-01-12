@@ -102,10 +102,4 @@ Sec.
 
 #### SUBCHAPTER VI—CHILD ABUSE CRIME INFORMATION AND BACKGROUND CHECKS ####
 
-5119. Reporting child abuse crime information.
-
-5119a. Background checks.
-
-5119b. Funding for improvement of child abuse crime information.
-
-5119c. Definitions.
+5119 to 5119c. Transferred.

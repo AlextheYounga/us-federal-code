@@ -18,7 +18,7 @@ Section 562c–1, act Apr. 3, 1944, ch. 154, 58 Stat. 186, ratified and confirme
 
 Section 562c–2, act July 30, 1947, ch. 396, 61 Stat. 676, ratified and confirmed legislative action which had extended time within which revenue bonds could be issued without presidential approval and without reference to Hawaiian Organic Act.
 
-Section 562d, act Aug. 31, 1935, ch. 436, §1, 49 Stat. 516, empowered legislature to authorize issuance of revenue bonds by political or municipal corporations or subdivisions of Territory and confirmed and ratified acts of legislature prior to Aug. 3, 1935, which authorized issuance of revenue bonds.
+Section 562d, act Aug. 3, 1935, ch. 436, §1, 49 Stat. 516, empowered legislature to authorize issuance of revenue bonds by political or municipal corporations or subdivisions of Territory and confirmed and ratified acts of legislature prior to Aug. 3, 1935, which authorized issuance of revenue bonds.
 
 Section 562e, acts Aug. 3, 1935, ch. 436, §2, 49 Stat. 517; May 28, 1937, ch. 274, 50 Stat. 211; July 10, 1937, ch. 486, 50 Stat. 509, authorized Territory to issue public improvement bonds.
 
@@ -26,7 +26,7 @@ Section 562e–1, act June 29, 1954, ch. 417, 68 Stat. 322, ratified and confirm
 
 Section 562f, act July 10, 1937, ch. 485, 50 Stat. 508, authorized issuance of public improvement bonds by Territory.
 
-Section 562g, acts July 10, 1937, ch. 484, 50 Stat. 508; July 18, 1950, title II, §202(a), 64 Stat. 345, authorized legislature to establish authorities for slum clearance and housing projects, made provision for issuance of bonds therefor, ratified and confirmed prior legislation on subject, and provided that powers granted should not be in derogation of other powers granted by other laws.
+Section 562g, acts July 10, 1937, ch. 484, 50 Stat. 508; July 18, 1950, ch. 466, title II, §202(a), 64 Stat. 345, authorized legislature to establish authorities for slum clearance and housing projects, made provision for issuance of bonds therefor, ratified and confirmed prior legislation on subject, and provided that powers granted should not be in derogation of other powers granted by other laws.
 
 Section 562h, act July 10, 1937, ch. 483, §1, 50 Stat. 507, empowered legislature to authorize city and county of Honolulu to issue general obligation bonds to permit construction of a sewer system.
 
@@ -84,7 +84,7 @@ Section 573, act Apr. 30, 1900, ch. 339, §37, 31 Stat. 147, directed that vacan
 
 Section 574, acts Apr. 30, 1900, ch. 339, §38, 31 Stat. 147; Aug. 1, 1956, ch. 851, §5, 70 Stat. 906, divided Territory into representative districts.
 
-Section 575, acts Apr. 30, 1900, ch. 339, §30, 31 Stat. 148; Aug. 1, 1956, ch. 851, §6, 70 Stat. 906, apportioned representatives between the representative districts.
+Section 575, acts Apr. 30, 1900, ch. 339, §38, 31 Stat. 147; Aug. 1, 1956, ch. 851, §6, 70 Stat. 906, apportioned representatives between the representative districts.
 
 Section 576, acts Apr. 30, 1900, ch. 339, §§41–43, 31 Stat. 148; Aug. 20, 1958, Pub. L. 85–690, §§1, 2, 72 Stat. 684, set date for regular and budget sessions, commencement, duration, and adjournment, and budget session agenda.
 
@@ -132,4 +132,4 @@ Section 597, act Apr. 30, 1900, ch. 339, §25, 31 Stat. 146, authorized each hou
 
 Section 598, act Apr. 30, 1900, ch. 339, §29, 31 Stat. 146, granted members of legislature a privilege from arrest, except in cases of treason, felony, or breach of peace, during their attendance at sessions in their respective houses.
 
-Section 599, acts Apr. 30, 1910, ch. 339, §26, 31 Stat. 146; May 27, 1910, ch. 258, §2, 36 Stat. 444; July 9, 1921, ch. 42, §301, 42 Stat. 115; June 27, 1930, ch. 647, 46 Stat. 824; Aug. 20, 1958, Pub. L. 85–690, §4, 72 Stat. 684, set out compensation and additional compensation to be paid members of legislature.
+Section 599, acts Apr. 30, 1900, ch. 339, §26, 31 Stat. 146; May 27, 1910, ch. 258, §2, 36 Stat. 444; July 9, 1921, ch. 42, §301, 42 Stat. 115; June 27, 1930, ch. 647, 46 Stat. 824; Aug. 20, 1958, Pub. L. 85–690, §4, 72 Stat. 684, set out compensation and additional compensation to be paid members of legislature.

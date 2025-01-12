@@ -8,7 +8,7 @@ Section 14073, Pub. L. 104–236, §8, Oct. 3, 1996, 110 Stat. 3097, immunized c
 
 #### Effective Date of Repeal ####
 
-Pub. L. 109–248, title I, §129(b), July 27, 2006, 120 Stat. 601, provided that: "Notwithstanding any other provision of this Act [see Tables for classification], this section [repealing sections 14071 to 14073 of this title] shall take effect on the date of the deadline determined in accordance with section 124(a) [42 U.S.C. 16924(a)] [3 years after July 27, 2006]."
+Pub. L. 109–248, title I, §129(b), July 27, 2006, 120 Stat. 601, provided that: "Notwithstanding any other provision of this Act [see Tables for classification], this section [repealing sections 14071 to 14073 of this title] shall take effect on the date of the deadline determined in accordance with section 124(a) [34 U.S.C. 20926(a)] [3 years after July 27, 2006]."
 
 #### Short Title ####
 

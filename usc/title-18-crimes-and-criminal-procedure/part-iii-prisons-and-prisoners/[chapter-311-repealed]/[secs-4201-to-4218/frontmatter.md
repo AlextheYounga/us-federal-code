@@ -296,9 +296,9 @@ A parolee residing in a residential community treatment center pursuant to parag
 
 #### References in Text ####
 
-The Sex Offender Registration and Notification Act, referred to in subsec. (a), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 16901 of Title 42 and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsec. (a), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under section 10101 of Title 34 and Tables.
 
-Sections 3 and 4 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (a), are classified to sections 14135a and 14135b, respectively, of Title 42, The Public Health and Welfare.
+Sections 3 and 4 of the DNA Analysis Backlog Elimination Act of 2000, referred to in subsec. (a), are sections 3 and 4 of Pub. L. 106–546, which are classified to sections 40702 and 40703, respectively, of Title 34, Crime Control and Law Enforcement.
 
 #### Codification ####
 

@@ -18,7 +18,7 @@ In establishing the application period under paragraph (1), the Assistant Secret
 
 The Assistant Secretary may establish minimum requirements for the applications submitted under subsection (b), including applications related to the submission of research and evaluation.
 
-#### (d) Review and Rating ####
+#### (d) Review and rating ####
 
 #### (1) In general ####
 

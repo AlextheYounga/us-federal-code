@@ -14,6 +14,6 @@ Section 305, act Mar. 12, 1914, ch. 37, §1, 38 Stat. 505, which required patent
 
 Section 306, act Mar. 12, 1914, ch. 37, §3, 38 Stat. 307, which provided for disposition of proceeds of lease or sale of public lands, was transferred to section 975e of Title 43.
 
-Section 307, act Mar. 12, 1914, ch. §1, 38 Stat. 305, which authorized and empowered the President to carry out the provisions dealing with the establishment of public utilities, was transferred to section 975f of Title 43.
+Section 307, act Mar. 12, 1914, ch. 37, §1, 38 Stat. 305, which authorized and empowered the President to carry out the provisions dealing with the establishment of public utilities, was transferred to section 975f of Title 43.
 
 Section 308, act Mar. 12, 1914, ch. 37, §4, 38 Stat. 307, which made mandatory certain annual reports to the President by officers, agents, or agencies covering their activities in connection with the construction and development of public utilities, was transferred to section 975g of Title 43.

@@ -70,7 +70,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (a)(1) and (c)
 
 #### Prior Provisions ####
 
-A prior section 290dd–3, act July 1, 1944, ch. 373, title V, §544, formerly Pub. L. 91–616, title III, §333, Dec. 31, 1970, 84 Stat. 1853, as amended Pub. L. 93–282, title I, §122(a), May 14, 1974, 88 Stat. 131; Pub. L. 94–581, title I, §111(c)(4), Oct. 21, 1976, 90 Stat. 2852; renumbered §523 of act July 1, 1944, Apr. 26, 1983, Pub. L. 98–24, §2(b)(13), 97 Stat. 181; Aug. 27, 1986, Pub. L. 99–401, title I, §106(a), 100 Stat. 907; renumbered §544, July 22, 1987, Pub. L. 100–77, title VI, §611(2), 101 Stat. 516; June 13, 1991, Pub. L. 102–54, §13(q)(1)(A)(ii), 105 Stat. 278, relating to confidentiality of patient records for alcohol abuse and alcoholism programs, was omitted in the general revision of this part by Pub. L. 102–321. See section 290dd–2 of this title.
+A prior section 290dd–3, act July 1, 1944, ch. 373, title V, §544, formerly Pub. L. 91–616, title III, §333, Dec. 31, 1970, 84 Stat. 1853, as amended Pub. L. 93–282, title I, §122(a), May 14, 1974, 88 Stat. 131; Pub. L. 94–581, title I, §111(c)(4), Oct. 21, 1976, 90 Stat. 2852; renumbered §523 of act July 1, 1944, Apr. 26, 1983, Pub. L. 98–24, §2(b)(13), 97 Stat. 181; Aug. 27, 1986, Pub. L. 99–401, title I, §106(a), 100 Stat. 907; renumbered §544, July 22, 1987, Pub. L. 100–77, title VI, §611(2), 101 Stat. 516; June 13, 1991, Pub. L. 102–54, §13(q)(1)(A)(ii), 105 Stat. 278, which related to confidentiality of patient records for alcohol abuse and alcoholism programs, was omitted in the general revision of this part by Pub. L. 102–321. See section 290dd–2 of this title.
 
 #### Improving Access to Overdose Treatment ####
 

@@ -2,11 +2,11 @@
 
 #### Prior Provisions ####
 
-A prior subchapter XII–A, consisted of sections 3796h to 3796s, related to grants for law enforcement programs, prior to repeal by Pub. L. 100–690, title VI, §6101(a), Nov. 18, 1988, 102 Stat. 4340. For similar provisions, see subchapter V of this chapter.
+A prior subchapter XII–A, consisted of sections 3796h to 3796s, related to grants for law enforcement programs, prior to repeal by Pub. L. 100–690, title VI, §6101(a), Nov. 18, 1988, 102 Stat. 4340. For similar provisions, see subchapter V (§10151 et seq.) of chapter 101 of Title 34, Crime Control and Law Enforcement.
 
 Section 3796h, Pub. L. 90–351, title I, §1301, as added Pub. L. 99–570, title I, §1552(a)(3), Oct. 27, 1986, 100 Stat. 3207–41, authorized Director to provide grants for drug law enforcement programs to eligible States and units of local government.
 
-A prior section 1301 of Pub. L. 90–351 was renumbered section 2501 and is classified to section 3797 of this title.
+A prior section 1301 of Pub. L. 90–351 was renumbered section 2501 and is classified to section 10541 of Title 34, Crime Control and Law Enforcement.
 
 Section 3796i, Pub. L. 90–351, title I, §1302, as added Pub. L. 99–570, title I, §1552(a)(3), Oct. 27, 1986, 100 Stat. 3207–41, provided for a description of the drug law enforcement grant program.
 

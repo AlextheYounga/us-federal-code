@@ -12,4 +12,4 @@ For prior sections 510 to 512 of Pub. L. 90–351 and prior sections 3760 to 376
 
 #### Effective Date of Repeal ####
 
-Repeal applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note set out under section 3750 of this title.
+Repeal applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note set out under section 10151 of Title 34, Crime Control and Law Enforcement.

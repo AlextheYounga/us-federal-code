@@ -2,4 +2,4 @@
 
 #### Codification ####
 
-This part was, in the original, subtitle N of title IV of Pub. L. 103–322, as added by Pub. L. 109–162, and has been redesignated as part M of this subchapter for purposes of codification.
+This part was, in the original, subtitle N of title IV of Pub. L. 103–322, as added by Pub. L. 109–162, and was redesignated as part M of this subchapter for purposes of codification.

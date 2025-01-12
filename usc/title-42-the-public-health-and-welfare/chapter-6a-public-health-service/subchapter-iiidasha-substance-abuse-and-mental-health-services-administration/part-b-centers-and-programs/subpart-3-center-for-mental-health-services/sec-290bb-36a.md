@@ -198,6 +198,6 @@ Pub. L. 106–386, div. B, title VI, §1602, Oct. 28, 2000, 114 Stat. 1538, prov
 
 "(e) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section such sums as may be necessary."
 
-[For definition of "youth" as used in section 1602 of Pub. L. 106–386, set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 3796gg–2 of this title.]
+[For definition of "youth" as used in section 1602 of Pub. L. 106–386, set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 10447 of Title 34, Crime Control and Law Enforcement.]
 
 [<sup>1</sup> So in original. Probably should be followed by "and".](#290bb-36a_1)

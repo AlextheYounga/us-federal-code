@@ -72,7 +72,7 @@ Pub. L. 111–174, §1, May 27, 2010, 124 Stat. 1216, provided that: "This Act [
 
 #### Short Title of 2009 Amendment ####
 
-Pub. L. 111–84, div. E, §4701, Oct. 28, 2009, 123 Stat. 2835, provided that: "This division [enacting sections 249 and 1389 of this title and sections 3716 and 3716a of Title 42, The Public Health and Welfare, amending section 249 of this title, enacting provisions set out as notes under section 249 of this title and section 3716 of Title 42, and amending provisions set out as a note under section 534 and provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28, Judiciary and Judicial Procedure] may be cited as the 'Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act'."
+Pub. L. 111–84, div. E, §4701, Oct. 28, 2009, 123 Stat. 2835, which set out short title of division E of Pub. L. 111–84, was transferred to a note under section 10101 of Title 34, Crime Control and Law Enforcement.
 
 Pub. L. 111–79, §1, Oct. 19, 2009, 123 Stat. 2086, provided that: "This Act [enacting section 3512 of this title and amending sections 2703, 2711, and 3127 of this title] may be cited as the 'Foreign Evidence Request Efficiency Act of 2009'."
 

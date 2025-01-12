@@ -104,7 +104,7 @@ The term "independent", when used with respect to a student, means any individua
 
 (i) a local educational agency homeless liaison, designated pursuant to section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act [42 U.S.C. 11432(g)(1)(J)(ii)];
 
-(ii) the director of a program funded under the Runaway and Homeless Youth Act [42 U.S.C. 5701 et seq.] or a designee of the director;
+(ii) the director of a program funded under the Runaway and Homeless Youth Act [34 U.S.C. 11201 et seq.] or a designee of the director;
 
 (iii) the director of a program funded under subtitle B of title IV of the McKinney-Vento Homeless Assistance Act [42 U.S.C. 11371 et seq.] (relating to emergency shelter grants) or a designee of the director; or
 
@@ -234,7 +234,7 @@ Section 903 of the Department of Defense Authorization Act, 1981, referred to in
 
 Section 156(b) of the "Joint Resolution making further continuing appropriations and providing for productive employment for the fiscal year 1983, and for other purposes", referred to in subsec. (c)(2)(K), is section 156(b) of Pub. L. 97–377, which is set out as a note under section 402 of Title 42, The Public Health and Welfare.
 
-The Runaway and Homeless Youth Act, referred to in subsec. (d)(1)(H)(ii), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which is classified generally to subchapter III (§5701 et seq.) of chapter 72 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
+The Runaway and Homeless Youth Act, referred to in subsec. (d)(1)(H)(ii), is title III of Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1129, which is classified generally to subchapter III (§11201 et seq.) of chapter 111 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under section 10101 of Title 34 and Tables.
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (d)(1)(H)(iii), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482. Subtitle B of title IV of the Act is classified generally to part B (§11371 et seq.) of subchapter IV of chapter 119 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 

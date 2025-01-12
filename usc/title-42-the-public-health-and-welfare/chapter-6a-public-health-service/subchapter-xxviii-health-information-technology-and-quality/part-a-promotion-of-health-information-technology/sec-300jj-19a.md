@@ -118,7 +118,7 @@ In awarding grants, contracts, and agreements under paragraph (1), the Secretary
 
 #### (A) Assessment and redetermination ####
 
-Not later than 4 years after December 13, 2016 and every 2 years thereafter, the Secretary, in consultation with stakeholders, shall—
+Not later than 4 years after December 13, 2016, and every 2 years thereafter, the Secretary, in consultation with stakeholders, shall—
 
 (i) assess performance of the recipients of the grants, contracts, and agreements under paragraph (1) based on quality and usability of reports described in paragraph (6); and
 

@@ -2,12 +2,8 @@
 
 Sec.
 
-14661. Program authorized.
+14661 to 14663. Transferred.
 
-14662. Eligibility.
+14664. Omitted.
 
-14663. Uses of funds.
-
-14664. Authorization of appropriations.
-
-14665. Grants for the assistance of organizations to find missing adults.
+14665. Transferred.

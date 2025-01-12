@@ -422,7 +422,7 @@ Subsec. (c)(7)(A). Pub. L. 114–255, §3085(3)(A), added subpar. (A) and struck
 
 Subsec. (c)(7)(B), (C). Pub. L. 114–255, §3085(3), redesignated subpar. (C) as (B) and struck out former subpar. (B). Text of former subpar. (B) read as follows: "The Homeland Security Secretary shall enter into an agreement with the Secretary for procurement of a security countermeasure in accordance with the provisions of this paragraph. The special reserve fund as defined in subsection (h) shall be available for payments made by the Secretary to a vendor for such procurement."
 
-Subsec. (g)(4). Pub. L. 114–255, §3081(2), amended par. (4) generally. Prior to amendment, text read as follows: "Not later than 30 days after any date on which the Secretary determines that the amount of funds in the special reserve fund available for procurement is less than $1,500,000,000, the Secretary shall submit to the appropriate committees of Congress a report detailing the amount of such funds available for procurement and the impact such reduction in funding will have—"
+Subsec. (g)(4). Pub. L. 114–255, §3081(2), amended par. (4) generally. Prior to amendment, text read as follows: "Not later than 30 days after any date on which the Secretary determines that the amount of funds in the special reserve fund available for procurement is less than $1,500,000,000, the Secretary shall submit to the appropriate committees of Congress a report detailing the amount of such funds available for procurement and the impact such reduction in funding will have—
 
 "(A) in meeting the security countermeasure needs identified under this section; and
 

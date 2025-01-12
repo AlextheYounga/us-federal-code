@@ -8,7 +8,7 @@ Section 50g, act Aug. 2, 1956, ch. 883, §1, 70 Stat. 939, related to facilities
 
 Section 50h, act Aug. 2, 1956, ch. 883, §2, 70 Stat. 939, required site selected under section 50g of this title to consist of lands owned or controlled by the United States.
 
-Section 50i, act Aug. 2, 1956, ch. 883, §3, 7 Stat. 939, provided for arrangements for use of sites and facilities.
+Section 50i, act Aug. 2, 1956, ch. 883, §3, 70 Stat. 939, provided for arrangements for use of sites and facilities.
 
 Section 50j, act Aug. 2, 1956, ch. 883, §4, 70 Stat. 940, authorized appropriations for purposes of sections 50g to 50j of this title.
 

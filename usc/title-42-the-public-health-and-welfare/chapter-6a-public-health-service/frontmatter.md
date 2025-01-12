@@ -1448,7 +1448,7 @@ Sec.
 
 290bb–43. Adult suicide prevention.
 
-290bb–44. .Assertive community treatment grant program.
+290bb–44. Assertive community treatment grant program.
 
 290cc to 290cc–13. Repealed or Transferred.
 

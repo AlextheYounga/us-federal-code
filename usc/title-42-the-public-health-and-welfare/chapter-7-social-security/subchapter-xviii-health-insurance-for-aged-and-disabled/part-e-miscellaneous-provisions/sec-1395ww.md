@@ -2604,7 +2604,7 @@ Of the discharges in calendar year 2013 from the long-term care hospital for whi
 
 #### (I) In general ####
 
-The long-term care hospital discharged inpatients (including both individuals entitled to, or enrolled for, benefits under this title and individuals not so entitled or enrolled) during fiscal year 2014 who had been admitted from at least 20 of the 50 States, determined by the States of residency of such inpatients and based on such data submitted by the hospital to the Secretary as the Secretary may require.
+The long-term care hospital discharged inpatients (including both individuals entitled to, or enrolled for, benefits under this subchapter and individuals not so entitled or enrolled) during fiscal year 2014 who had been admitted from at least 20 of the 50 States, determined by the States of residency of such inpatients and based on such data submitted by the hospital to the Secretary as the Secretary may require.
 
 #### (II) Implementation ####
 
