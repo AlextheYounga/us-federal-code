@@ -1375,6 +1375,10 @@ Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that
 
 Pub. L. 88–272, title I, §131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title [amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title] shall apply with respect to taxable years beginning after December 31, 1963."
 
+#### Short Title of 2023 Amendment ####
+
+Pub. L. 118–34, §1(a), Dec. 26, 2023, 137 Stat. 1112, provided that: "This Act [amending sections 4043, 4081, 4083, 4261, 4271, and 9502 of this title, sections 106, 41742, 41743, 44310, 44803, 44807, 44810, 47104, 47107, 47114, 47115, 47141, 47143, 48101 to 48103, and 48105 of Title 49, Transportation, and section 50905 of Title 51, National and Commercial Space Programs, and amending provisions set out as a note preceding section 42301 of Title 49 and provisions set out as notes under sections 40103, 41705, 41731, 42302, 44810, 47102, 47104, and 47141 of Title 49] may be cited as the 'Airport and Airway Extension Act of 2023, Part II'."
+
 #### Short Title of 2022 Amendment ####
 
 Pub. L. 117–328, div. T, §1(a), Dec. 29, 2022, 136 Stat. 5275, provided that: "This division [see Tables for classification] may be cited as the 'SECURE 2.0 Act of 2022'."

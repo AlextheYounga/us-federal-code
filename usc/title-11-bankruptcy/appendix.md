@@ -6,7 +6,7 @@ TITLE 11—APPENDIX
 FEDERAL RULES OF BANKRUPTCY PROCEDURE
 ==========
 
-(Effective August 1, 1983, as amended to December 1, 2023)
+(Effective August 1, 1983, as amended to December 26, 2023)
 
 #### Historical Note ####
 
@@ -10112,4 +10112,4 @@ Bankruptcy Rules, referred to in subds. (a) and (c)(1)(A), (B), (3)(B), probably
 
 #### Length Limits Stated in Part VIII of the Federal Rules of Bankruptcy Procedure ####
 
-Appendix: Length Limits Stated in Part VIII of the Federal Rules of Bankruptcy Procedure is set out in the order of the Supreme Court amending the Federal Rules of Bankruptcy Procedure, April 26, 2018, available at the Supreme Court website.
+Appendix: Length Limits Stated in Part VIII of the Federal Rules of Bankruptcy Procedure can also be found in the order of the Supreme Court amending the Federal Rules of Bankruptcy Procedure, April 26, 2018, available at the Supreme Court website.
