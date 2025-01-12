@@ -94,7 +94,7 @@ Pub. L. 102–54, §14(c)(2), June 13, 1991, 105 Stat. 285, substituted "subchap
 
 #### COVID–19 Veteran Rapid Retraining Assistance Program ####
 
-Pub. L. 117–2, title VIII, §8006, Mar. 11, 2021, 135 Stat. 113, as amended by Pub. L. 117–16, §2(a), June 8, 2021, 135 Stat. 280, provided that:
+Pub. L. 117–2, title VIII, §8006, Mar. 11, 2021, 135 Stat. 113, as amended by Pub. L. 117–16, §2(a), June 8, 2021, 135 Stat. 280; Pub. L. 117–138, §2(a), (b), June 7, 2022, 136 Stat. 1256, 1257, provided that:
 
 "(a) In General.—The Secretary of Veterans Affairs shall carry out a program under which the Secretary shall provide up to 12 months of retraining assistance to an eligible veteran for the pursuit of a covered program of education. Such retraining assistance shall be in addition to any other entitlement to educational assistance or benefits for which a veteran is, or has been, eligible.
 
@@ -112,11 +112,11 @@ Pub. L. 117–2, title VIII, §8006, Mar. 11, 2021, 135 Stat. 113, as amended by
 
 "(E) is not in receipt of compensation for a service-connected disability rated totally disabling by reason of unemployability; and
 
-"(F) will not be in receipt of unemployment compensation (as defined in section 85(b) of the Internal Revenue Code of 1986 [26 U.S.C. 85(b)]), including any cash benefit received pursuant to subtitle A of title II of division A of the CARES Act (Public Law 116–136)[15 U.S.C. 9021 et seq., see Short Title note set out under section 9001 of Title 15, Commerce and Trade], as of the first day on which the veteran would receive a housing stipend payment under this section.
+"(F) will not be in receipt of unemployment compensation (as defined in section 85(b) of the Internal Revenue Code of 1986 [26 U.S.C. 85(b)]), including any cash benefit received pursuant to subtitle A of title II of division A of the CARES Act (Public Law 116–136) [15 U.S.C. 9021 et seq., see Short Title note set out under section 9001 of Title 15, Commerce and Trade], as of the first day on which the veteran would receive a housing stipend payment under this section.
 
 "(2) Treatment of veterans who transfer entitlement.—For purposes of paragraph (1)(C), a veteran who has transferred all of the veteran's entitlement to educational assistance under section 3319 of title 38, United States Code, shall be considered to be a veteran who is not eligible to receive educational assistance under chapter 33 of such title.
 
-"(3) Failure to complete.—A veteran who receives retraining assistance under this section to pursue a program of education and who fails to complete the program of education shall not be eligible to receive additional assistance under this section.
+"(3) Failure to complete.—A veteran who receives retraining assistance under this section to pursue a program of education and who fails to complete the program of education shall not be eligible to receive additional assistance under this section, except for an individual described in subsection (n).
 
 "(c) Covered Programs of Education.—
 
@@ -218,7 +218,21 @@ Pub. L. 117–2, title VIII, §8006, Mar. 11, 2021, 135 Stat. 113, as amended by
 
 "(m) Funding.—In addition to amounts otherwise available there is appropriated to the Department of Veterans Affairs for fiscal year 2021, out of any money in the Treasury not otherwise appropriated, $386,000,000, to remain available until expended, to carry out this section, which shall be carried out as if such section were authorized for the payment of readjustment and rehabilitation benefits to or on behalf of veterans under chapters 30, 31, and 41 of title 38, United States Code. Not more than $386,000,000 may be obligated or expended to carry out this section.
 
-"(n) Definitions.—In this section:
+"(n) Effects of Closure of an Educational Institution or Disapproval of a Program of Education.—
+
+"(1) In general.—Any payment of retraining assistance under subsection (d)(1) shall not be charged against any entitlement to retraining assistance described in subsection (a) if the Secretary determines that an individual was unable to complete a course or program of education as a result of—
+
+"(A) the closure of an educational institution; or
+
+"(B) the disapproval of a program of education by the State approving agency or the Secretary when acting in the role of the State approving agency.
+
+"(2) Period not charged.—The period for which, by reason of this subsection, retraining assistance is not charged shall be equal to the full amount of retraining assistance provided for enrollment in the program of education.
+
+"(3) Halt of payments to certain educational institutions.—In the event of a closure or disapproval, as described in paragraph (1), the educational institution shall not receive any further payments under subsection (d).
+
+"(4) Recovery of funds.—In the event of a closure or disapproval, as described in paragraph (1), any payment already made under subsection (d) to the educational institution shall be considered an overpayment and constitute a liability of such institution to the United States.
+
+"(o) Definitions.—In this section:
 
 "(1) The term 'covered public health emergency' means the declaration—
 
@@ -233,5 +247,7 @@ Pub. L. 117–2, title VIII, §8006, Mar. 11, 2021, 135 Stat. 113, as amended by
 "(B) a member of a reserve component of the Armed Forces who performs active service for a period of 30 days or longer by reason of the covered public health emergency.
 
 "(3) The term 'active service' has the meaning given such term in section 101 of title 10, United States Code."
+
+[Pub. L. 117–138, §2(c), June 7, 2022, 136 Stat. 1257, provided that: "The amendments made by this section [amending section 8006 of Pub. L. 117–2, set out above] shall apply as if included in the American Rescue Plan Act of 2021 (Public Law 117–2)."]
 
 [Pub. L. 117–16, §2(b), June 8, 2021, 135 Stat. 282, provided that: "The amendments made by subsection (a) [amending section 8006 of Pub. L. 117–2, set out above] shall apply as if included in the enactment of the American Rescue Plan Act of 2021 (Public Law 117–2)."]

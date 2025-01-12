@@ -50,7 +50,7 @@ Sec.
 
 #### SUBCHAPTER IV—ADDITIONAL PROHIBITIONS; EMERGENCY AUTHORITIES ####
 
-8371, 8372. Repealed
+8371, 8372. Repealed.
 
 8373. Conservation in Federal facilities, contracts, and financial assistance programs.
 

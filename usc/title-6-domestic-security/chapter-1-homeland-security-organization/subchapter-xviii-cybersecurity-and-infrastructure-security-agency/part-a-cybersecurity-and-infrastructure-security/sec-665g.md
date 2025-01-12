@@ -108,7 +108,7 @@ A Cybersecurity Plan of an eligible entity shall—
 
 (i) manage, monitor, and track information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, and the information technology deployed on those information systems, including legacy information systems and information technology that are no longer supported by the manufacturer of the systems or technology;
 
-(ii) monitor, audit, and, track network traffic and activity transiting or traveling to or from information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity;
+(ii) monitor, audit, and,<sup><a href="#665g_1_target" name="665g_1">1</a></sup> track network traffic and activity transiting or traveling to or from information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity;
 
 (iii) enhance the preparation, response, and resiliency of information systems, applications, and user accounts owned or operated by, or on behalf of, the eligible entity or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, against cybersecurity risks and cybersecurity threats;
 
@@ -645,3 +645,5 @@ The Food and Nutrition Act of 2008, referred to in subsec. (m)(2)(C)(ii), is Pub
 #### Amendments ####
 
 **2021**—Pub. L. 117–81 reenacted section catchline.
+
+[<sup>1</sup> So in original. The comma probably should not appear.](#665g_1)

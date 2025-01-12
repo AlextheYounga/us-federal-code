@@ -352,7 +352,7 @@ Sec.
 
 #### subpart 3—national laboratories centers of excellence in science, technology, engineering, and mathematics education ####
 
-7381l. National Laboratories Centers of Excellence in Science, Technology, Engineering, and Mathematics education.
+7381 l. National Laboratories Centers of Excellence in Science, Technology, Engineering, and Mathematics education.
 
 #### subpart 4—summer institutes ####
 

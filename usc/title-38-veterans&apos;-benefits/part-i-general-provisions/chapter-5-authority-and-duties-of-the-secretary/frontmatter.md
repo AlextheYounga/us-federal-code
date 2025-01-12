@@ -44,7 +44,7 @@ Sec.
 
 530. Annual report on program and expenditures for domestic response to weapons of mass destruction.
 
-531. Requirement relating to naming of Department property.
+531. Requirements relating to naming of Department property.
 
 532. Authority to advertise in national media; VetStar Award Program.
 
@@ -69,6 +69,8 @@ Sec.
 #### **Editorial Notes** ####
 
 #### Amendments ####
+
+**2022**—Pub. L. 117–137, §1(b), June 7, 2022, 136 Stat. 1255, added item 531 and struck out former item 531 "Requirement relating to naming of Department property".
 
 **2021**—Pub. L. 116–315, title V, §5303(b), title VII, §7002(a)(2), Jan. 5, 2021, 134 Stat. 5041, 5057, added items 533 and 547.
 
