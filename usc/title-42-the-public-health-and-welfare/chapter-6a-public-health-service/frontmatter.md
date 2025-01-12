@@ -1816,6 +1816,8 @@ Sec.
 
 294r. State health care workforce development grants.
 
+294t. Programs to promote mental health among the health professional workforce.
+
 #### subpart 2—public health workforce ####
 
 295. General provisions.

@@ -8,6 +8,10 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2022 Amendment ####
+
+Pub. L. 117–107, §1, Mar. 29, 2022, 136 Stat. 1125, provided that: "This Act [amending section 249 of this title] may be cited as the 'Emmett Till Antilynching Act'."
+
 #### Short Title of 2021 Amendment ####
 
 Pub. L. 117–59, §1, Nov. 18, 2021, 135 Stat. 1468, provided that: "This Act [amending sections 111, 115, and 1114 of this title and enacting provisions set out as a note under section 1114 of this title] may be cited as the 'Jaime Zapata and Victor Avila Federal Officers and Employees Protection Act'."

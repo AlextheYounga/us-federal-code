@@ -44,7 +44,7 @@ Sec.
 
 **2021**—Pub. L. 117–81, div. A, title X, §1081(a)(3), Dec. 27, 2021, 135 Stat. 1919, which directed amendment of this analysis to conform to the renumbering of section 118a as 118b, could not be executed due to the prior renumbering of section 118a as 118b, and the corresponding amendment of this analysis, by Pub. L. 117–81, §311(b)(2)(A). See note below and 2021 Amendment note under section 118b of this title.
 
-Pub. L. 117–81, div. A, title X, §1061(a)(2), Dec. 27, 2021, 135 Stat. 1909, which directed renumbering of item 118a "Quadrennial quality of life review" as 118b was not be executed because of the intervening renumbering of item 118a "National Defense Sustainment and Logistics Review" as 118b by Pub. L. 117–81, §311(b)(2)(A). See below.
+Pub. L. 117–81, div. A, title X, §1061(a)(2), Dec. 27, 2021, 135 Stat. 1909, which directed renumbering of the "second" item 118a "Quadrennial quality of life review" as 118b, could not be executed because of the intervening renumbering of the first item 118a "National Defense Sustainment and Logistics Review" as 118b by Pub. L. 117–81, §311(b)(2)(A). See note below.
 
 Pub. L. 117–81, div. A, title II, §211(b), title III, §311(b)(2)(A), title X, §1081(a)(2), Dec. 27, 2021, 135 Stat. 1587, 1625, 1919, substituted "Materiel readiness metrics and objectives for major weapon systems" for "Materiel readiness metrics and objectives for major defense acquisition programs" in item 118, renumbered item 118a "National Defense Sustainment and Logistics Review" as 118b, and added item 118c.
 

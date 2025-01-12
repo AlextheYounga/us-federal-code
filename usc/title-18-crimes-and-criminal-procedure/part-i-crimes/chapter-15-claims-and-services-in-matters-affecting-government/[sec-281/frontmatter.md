@@ -10,4 +10,4 @@ A prior section 281, acts June 25, 1948, ch. 645, 62 Stat. 697; May 24, 1949, ch
 
 #### Effective Date of Repeal ####
 
-For effective date and applicability of repeal by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 2302 of Title 10, Armed Forces.
+For effective date and applicability of repeal by Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as an Effective Date of 1996 Amendment note under section 2220 of Title 10, Armed Forces.

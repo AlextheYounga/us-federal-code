@@ -51,7 +51,7 @@ Chap. Sec.
 
 #### Amendments ####
 
-**2021**—Pub. L. 117–81, div. A, title X, §1081(a)(1), Dec. 27, 2021, 135 Stat. 1919, struck out item for chapter 19 "Cyber Matters".
+**2021**—Pub. L. 117–81, div. A, title X, §1081(a)(1), Dec. 27, 2021, 135 Stat. 1919, struck out second item for chapter 19 "Cyber Matters".
 
 Pub. L. 116–283, div. A, title X, §1081(a)(1), Jan. 1, 2021, 134 Stat. 3870, added second item for chapter 19.
 

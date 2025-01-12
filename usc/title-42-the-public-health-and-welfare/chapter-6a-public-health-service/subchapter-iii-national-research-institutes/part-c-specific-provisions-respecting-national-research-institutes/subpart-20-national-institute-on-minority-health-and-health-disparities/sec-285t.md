@@ -94,9 +94,9 @@ The Director of the Institute shall work with the Director of NIH and the direct
 
 The Director of the Institute may carry out a program to facilitate minority health disparities research and other health disparities research by providing for research endowments—
 
-(1) <sup><a href="#285t_1_target" name="285t_1">1</a></sup> at centers of excellence under section 293 of this title; and
+(A) at current or former centers of excellence under section 293 of this title; and
 
-(2) <sup><a href="#285t_2_target" name="285t_2">2</a></sup> at centers of excellence under section 285t–1 of this title.
+(B) at current or former centers of excellence under section 285t–1 of this title.
 
 #### (2) Eligibility ####
 
@@ -130,7 +130,7 @@ With respect to the membership of the advisory council under paragraph (1), a ma
 
 The Director of the Institute, as the primary Federal official with responsibility for coordinating all research and activities conducted or supported by the National Institutes of Health on minority health and health disparities, shall plan, coordinate, review, and evaluate research and other activities conducted or supported by the national research institutes and national centers. The Director of the Institute may foster partnerships between the national research institutes and national centers and may encourage the funding of collaborative research projects to achieve the goals of the National Institutes of Health that are related to minority health and health disparities.
 
-(July 1, 1944, ch. 373, title IV, §464z–3, formerly §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497; amended Pub. L. 109–482, title I, §§103(b)(44), 104(b)(1)(N), Jan. 15, 2007, 120 Stat. 3688, 3693; renumbered §464z–3 and amended Pub. L. 111–148, title X, §10334(c)(1)(D), (2), Mar. 23, 2010, 124 Stat. 973; Pub. L. 112–74, div. F, title II, §221(d)(3), Dec. 23, 2011, 125 Stat. 1090; Pub. L. 114–255, div. A, title II, §2038(f), Dec. 13, 2016, 130 Stat. 1066.)
+(July 1, 1944, ch. 373, title IV, §464z–3, formerly §485E, as added Pub. L. 106–525, title I, §101(a), Nov. 22, 2000, 114 Stat. 2497; amended Pub. L. 109–482, title I, §§103(b)(44), 104(b)(1)(N), Jan. 15, 2007, 120 Stat. 3688, 3693; renumbered §464z–3 and amended Pub. L. 111–148, title X, §10334(c)(1)(D), (2), Mar. 23, 2010, 124 Stat. 973; Pub. L. 112–74, div. F, title II, §221(d)(3), Dec. 23, 2011, 125 Stat. 1090; Pub. L. 114–255, div. A, title II, §2038(f), Dec. 13, 2016, 130 Stat. 1066; Pub. L. 117–104, §2, Mar. 18, 2022, 136 Stat. 1117.)
 
 #### **Editorial Notes** ####
 
@@ -139,6 +139,12 @@ The Director of the Institute, as the primary Federal official with responsibili
 Section was formerly classified to section 287c–31 of this title prior to renumbering by Pub. L. 111–148.
 
 #### Amendments ####
+
+**2022**—Subsec. (h)(1). Pub. L. 117–104 amended par. (1) generally. Prior to amendment, text read as follows: "The Director of the Institute may carry out a program to facilitate minority health disparities research and other health disparities research by providing for research endowments—
+
+"(1) at centers of excellence under section 293 of this title; and
+
+"(2) at centers of excellence under section 285t–1 of this title."
 
 **2016**—Subsec. (h). Pub. L. 114–255, §2038(f)(1), redesignated subsec. (h) relating to interagency coordination as (k).
 
@@ -235,7 +241,3 @@ Pub. L. 106–525, title V, §501, Nov. 22, 2000, 114 Stat. 2510, provided that:
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
-
-[<sup>1</sup> So in original. Probably should be "(A)".](#285t_1)
-
-[<sup>2</sup> So in original. Probably should be "(B)".](#285t_2)
