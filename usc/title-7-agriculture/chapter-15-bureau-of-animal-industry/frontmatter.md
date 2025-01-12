@@ -17,3 +17,7 @@ Sec.
 396. Inspection of livestock, hides, animal products, etc.; place; charges; disposition of funds.
 
 397. Omitted.
+
+398. Purchase and testing of serums or analogous products; dissemination of test results.
+
+399. Domestic raising of fur-bearing animals; classification.

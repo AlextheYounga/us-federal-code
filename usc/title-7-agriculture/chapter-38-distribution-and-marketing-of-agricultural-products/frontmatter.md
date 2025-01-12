@@ -46,6 +46,8 @@ Sec.
 
 1632c. Acer access and development program.
 
+1633. Cooperation with State agencies in administration and enforcement of laws relating to marketing of agricultural products and control or eradication of plant and animal diseases and pests; coordination of administration of Federal and State laws.
+
 #### SUBCHAPTER II—LIVESTOCK MANDATORY REPORTING ####
 
 #### Part A—Purpose; Definitions ####

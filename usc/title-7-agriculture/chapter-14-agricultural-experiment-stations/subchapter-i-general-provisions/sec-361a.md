@@ -12,7 +12,7 @@ The Adams Act of 1906, referred to in text, is act Mar. 16, 1906, ch. 951, 34 St
 
 The Purnell Act of 1925, referred to in text, is act Feb. 24, 1925, ch. 308, 43 Stat. 970, as amended, which was classified to sections 361, 366, 370, 371, 373 to 376, 380, and 382 of this title, and was repealed by act Aug. 11, 1955, ch. 790, §2, 69 Stat. 674. For complete classification of this Act to the Code prior to repeal, see Tables.
 
-The Bankhead-Jones Act, referred to in text, is act June 29, 1935, ch. 338, 49 Stat. 436, also popularly known as the Agricultural Research Act, which was classified principally to sections 329 and 427 to 427j of this title, and was repealed by act Aug. 11, 1966, ch. 790, §2, 69 Stat. 674, except for sections 1, 10, and 22 of the Act, which are classified to sections 427, 427i, and 329, respectively, of this title. For complete classification of this Act to the Code, see Short Title note under section 427 of this title and Tables.
+The Bankhead-Jones Act, referred to in text, is act June 29, 1935, ch. 338, 49 Stat. 436, also popularly known as the Agricultural Research Act. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note under section 3101 of this title and Tables.
 
 Title I, section 9, of that Act, referred to in text, was classified to section 427h of this title prior to repeal.
 

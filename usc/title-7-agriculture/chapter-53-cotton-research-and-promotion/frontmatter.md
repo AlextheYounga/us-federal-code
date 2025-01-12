@@ -39,3 +39,9 @@ Sec.
 2118. Authorization of appropriations.
 
 2119. Repealed.
+
+2120. Cotton; investigation of new uses; cooperation with State and other agencies.
+
+2121. Cotton ginning investigations; publication of results; cooperation with Federal and State departments and agencies.
+
+2122. Authorization of appropriations for cotton ginning studies.

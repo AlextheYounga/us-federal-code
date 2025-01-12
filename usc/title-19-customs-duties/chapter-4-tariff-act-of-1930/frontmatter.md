@@ -294,7 +294,7 @@ Sec.
 
 1516a. Judicial review in countervailing duty and antidumping duty proceedings.
 
-1517. Procedures for investigating claims of evasion of antidumping and countervailing duty orders
+1517. Procedures for investigating claims of evasion of antidumping and countervailing duty orders.
 
 1518, 1519. Repealed.
 

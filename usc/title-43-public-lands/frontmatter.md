@@ -69,7 +69,7 @@ Chap. Sec.
 
 27. Public Lands in Oklahoma 1091
 
-28. Miscellaneous Provisions Relating to Public Lands 1151
+28. Miscellaneous Provisions Relating to Public Lands [Repealed, Transferred, or Omitted] 1151
 
 29. Submerged Lands 1301
 
@@ -104,3 +104,57 @@ Chap. Sec.
 41. Federal Land Transaction Facilitation 2301
 
 42. Rural Water Supply 2401
+
+43. Suspended Entries and Claims; Patents 2501
+
+44. Oregon and California Railroad and Coos Bay Wagon Road Grant Lands 2601
+
+45. State Control of Noxious Plants on Federal Lands 2701
+
+|                   *Former Classification*                    |*New Classification or Disposition*|
+|--------------------------------------------------------------|-----------------------------------|
+|                           43:1161                            |              43:2501              |
+|                           43:1162                            |              43:2502              |
+|                           43:1163                            |              43:2503              |
+|                           43:1164                            |              43:2504              |
+|                           43:1165                            |              43:2505              |
+|                           43:1166                            |              43:2506              |
+|                           43:1167                            |              43:2507              |
+|    43:1167 note (Mar. 9, 1904, ch. 503, §2, 33 Stat. 64)     |           43:2507 note            |
+|                           43:1181                            |              Omitted              |
+|                           43:1181a                           |              43:2601              |
+|43:1181a note (Aug. 28, 1937, ch. 876, title II, 50 Stat. 876)|           43:2601 note            |
+|                           43:1181b                           |              43:2602              |
+|                           43:1181d                           |              43:2603              |
+|                           43:1181e                           |              43:2604              |
+|                           43:1181f                           |              43:2605              |
+|                          43:1181f–1                          |              43:2621              |
+|  43:1181f–1 note (May 24, 1939, ch. 144, §5, 53 Stat. 754)   |           43:2621 note            |
+|                          43:1181f–2                          |              43:2622              |
+|                          43:1181f–3                          |              43:2623              |
+|                          43:1181f–4                          |              43:2624              |
+|                           43:1181g                           |              43:2631              |
+|                           43:1181h                           |              43:2632              |
+|                           43:1181i                           |              43:2633              |
+|                           43:1181j                           |              43:2634              |
+|                           43:1195                            |              25:424               |
+|                           43:1196                            |              25:425               |
+|                           43:1197                            |              25:426               |
+|                           43:1198                            |              Omitted              |
+|                           43:1199                            |              Omitted              |
+|                           43:1200                            |              Omitted              |
+|                           43:1200a                           |              Omitted              |
+|                           43:1200b                           |              Omitted              |
+|                           43:1200c                           |              Omitted              |
+|                           43:1200d                           |              Omitted              |
+|                           43:1200e                           |              Omitted              |
+|                           43:1201                            |             43:1457c              |
+|                           43:1211                            |              43:1476              |
+|                           43:1212                            |             43:1476a              |
+|    43:1212 note (June 3, 1948, ch. 392, §3, 62 Stat. 301)    |           43:1476a note           |
+|                           43:1221                            |              Omitted              |
+|                           43:1222                            |              Omitted              |
+|                           43:1223                            |              Omitted              |
+|                           43:1241                            |              43:2701              |
+|                           43:1242                            |              43:2702              |
+|                           43:1243                            |              43:2703              |

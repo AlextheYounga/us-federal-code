@@ -24,6 +24,8 @@ Sec.
 
 1457b. Use of cooperative agreements.
 
+1457c. Power of Secretary or designated officer.
+
 1458. Secretary to exercise certain powers over Territories.
 
 1459. Expenditures of department.
@@ -109,3 +111,7 @@ Sec.
 1475a. Participation of non-Federal entities in contract negotiations and source selection proceedings.
 
 1475b Volunteer authority.
+
+1476. Elimination of oaths for written statements; discretion of Secretary of the Interior.
+
+1476a. Unsworn written statements subject to penalties of presenting false claims.

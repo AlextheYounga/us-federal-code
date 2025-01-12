@@ -66,19 +66,13 @@ Subsec. (b). Pub. L. 114–255, §10004(2), substituted "subsection (a)(2) (rela
 
 Subsecs. (c) to (f). Pub. L. 114–255, §10004(4), added subsecs. (c) to (f). Former subsecs. (c) to (f) redesignated (g) to (j), respectively.
 
-Subsec. (g). Pub. L. 114–255, §10004(5), substituted "are distributed equitably among the regions of the United States" for "with respect to centers of excellence are distributed equitably among the regions of the country".
-
-Pub. L. 114–255, §10004(3), redesignated subsec. (c) as (g). Former subsec. (g) redesignated (k).
+Subsec. (g). Pub. L. 114–255, §10004(3), (5), redesignated subsec. (c) as (g) and substituted "are distributed equitably among the regions of the United States" for "with respect to centers of excellence are distributed equitably among the regions of the country". Former subsec. (g) redesignated (k).
 
 Subsec. (h). Pub. L. 114–255, §10004(3), redesignated subsec. (d) as (h).
 
-Subsec. (i). Pub. L. 114–255, §10004(6), substituted "recipient shall not be less than 4 years, but shall not exceed 5 years" for "recipient may not exceed 5 years".
+Subsec. (i). Pub. L. 114–255, §10004(3), (6), redesignated subsec. (e) as (i) and substituted "recipient shall not be less than 4 years, but shall not exceed 5 years" for "recipient may not exceed 5 years".
 
-Pub. L. 114–255, §10004(3), redesignated subsec. (e) as (i).
-
-Subsec. (j). Pub. L. 114–255, §10004(7), substituted "$46,887,000 for each of fiscal years 2018 through 2022" for "$50,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2003 through 2006".
-
-Pub. L. 114–255, §10004(3), redesignated subsec. (f) as (j).
+Subsec. (j). Pub. L. 114–255, §10004(3), (7), redesignated subsec. (f) as (j) and substituted "$46,887,000 for each of fiscal years 2018 through 2022" for "$50,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2003 through 2006".
 
 Subsec. (k). Pub. L. 114–255, §10004(3), redesignated subsec. (g) as (k).
 

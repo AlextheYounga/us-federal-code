@@ -254,7 +254,7 @@ If the Secretary (or in his absence the officer acting as Secretary) finds that 
 
 (2) The Secretary may also, after due notice and opportunity for hearing to the applicant, issue an order withdrawing the approval of an application with respect to any new animal drug under this section if the Secretary finds—
 
-(A) that the applicant has failed to establish a system for maintaining required records, or has repeatedly or deliberately failed to maintain such records or to make required reports in accordance with a regulation or order under subsection (1), or the applicant has refused to permit access to, or copying or verification of, such records as required by paragraph (2) of such subsection;
+(A) that the applicant has failed to establish a system for maintaining required records, or has repeatedly or deliberately failed to maintain such records or to make required reports in accordance with a regulation or order under subsection (l), or the applicant has refused to permit access to, or copying or verification of, such records as required by paragraph (2) of such subsection;
 
 (B) that on the basis of new information before him, evaluated together with the evidence before him when the application was approved, the methods used in, or the facilities and controls used for, the manufacture, processing, and packing of such drug are inadequate to assure and preserve its identity, strength, quality, and purity and were not made adequate within a reasonable time after receipt of written notice from the Secretary specifying the matter complained of; or
 

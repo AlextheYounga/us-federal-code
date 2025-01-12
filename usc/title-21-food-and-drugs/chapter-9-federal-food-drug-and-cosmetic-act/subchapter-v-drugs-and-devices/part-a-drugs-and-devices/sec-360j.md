@@ -380,7 +380,7 @@ In a case described in subparagraph (B) in which a physician uses a device witho
 
 #### (o) Regulation of medical and certain decisions support software ####
 
-(1) The term device, <sup><a href="#360j_1_target" name="360j_1">1</a></sup> as defined in section 321(h) of this title, shall not include a software function that is intended—
+(1) The term device,<sup><a href="#360j_1_target" name="360j_1">1</a></sup> as defined in section 321(h) of this title, shall not include a software function that is intended—
 
 (A) for administrative support of a health care facility, including the processing and maintenance of financial records, claims or billing information, appointment schedules, business analytics, information about patient populations, admissions, practice and inventory management, analysis of historical claims data to predict future utilization or cost-effectiveness, determination of health benefit eligibility, population health management, and laboratory workflow;
 

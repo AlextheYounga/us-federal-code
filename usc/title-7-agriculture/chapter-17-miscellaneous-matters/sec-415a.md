@@ -2,7 +2,7 @@
 
 #### Codification ####
 
-Section was from act June 16, 1938, ch. 464, title I, 52 Stat. 739, the Department of Agriculture Appropriation Act, 1939, and related to sale of practical forms of grades of wool and mohair. See section 415e of this title. Similar provisions were contained in the following prior appropriation acts:
+Section, from act June 16, 1938, ch. 464, title I, 52 Stat. 739, known as the Department of Agriculture Appropriation Act, 1939, related to sale of practical forms of grades of wool and mohair. See section 2247a of this title. Similar provisions were contained in the following prior appropriation acts:
 
 June 29, 1937, ch. 404, title I, 50 Stat. 424.
 

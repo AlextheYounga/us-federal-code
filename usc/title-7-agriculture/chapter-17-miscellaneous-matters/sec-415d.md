@@ -1,5 +1,5 @@
-### §415d. Rules and regulations for wool standards; deposit of receipts in the Treasury ###
+### §415d. Omitted ###
 
-The Secretary of Agriculture may make such rules and regulations as he deems advisable for carrying out any of the provisions of sections 415b to 415d of this title. All receipts under sections 415b to 415d of this title shall be deposited in the Treasury to the credit of miscellaneous receipts.
+#### Codification ####
 
-(May 17, 1928, ch. 602, §3, 45 Stat. 594.)
+Section, act May 17, 1928, ch. 602, §3, 45 Stat. 594, related to rules and regulations for and deposit of receipts under former sections 415b to 415d of this title, and was omitted from the Code as obsolete.

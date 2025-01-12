@@ -420,7 +420,7 @@ The Drug-Free Communities Act of 1997, referred to in subsec. (e)(1)(G), is Pub.
 
 #### Amendments ####
 
-**2016**—Subsec. (c)(1)(B). Pub. L. 114–255, §6001(c), substituted "Assistant Secretary for Mental Health and Substance Use" for "Administrator of the Substance Abuse and Mental Health Services Administration".
+**2016**—Subsec. (c)(1)(B). Pub. L. 114–255, §6001(c)(1), substituted "Assistant Secretary for Mental Health and Substance Use" for "Administrator of the Substance Abuse and Mental Health Services Administration".
 
 Subsec. (c)(3). Pub. L. 114–255, §9016(1), substituted "each of the fiscal years 2018 through 2022." for "fiscal year 2007, and $1,000,000 for each of the fiscal years 2008 through 2010."
 

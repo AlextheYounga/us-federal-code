@@ -31,7 +31,7 @@ Chap. Sec.
 
 12. Lease, Sale, or Surrender of Allotted or Unallotted Lands 391
 
-13. Ceded Indian Lands [Transferred] 421
+13. Ceded Indian Lands 421
 
 14. Miscellaneous [Repealed, Omitted, or Transferred] 441
 

@@ -430,7 +430,7 @@ Subsec. (e)(6). Pub. L. 114–255, §3101(a)(2)(D)(i)(III), substituted "agreed 
 
 Subsec. (f)(1). Pub. L. 114–255, §3101(a)(2)(D)(ii), inserted "and any significant amendments to such plans," after "agreed initial pediatric study plans,".
 
-Subsec. (l), (m). Pub. L. 114–255, §3102(3), redesignated subsec. (m) as (l) and struck out former subsec. (l) which related to Institute of Medicine study.
+Subsecs. (l), (m). Pub. L. 114–255, §3102(3), redesignated subsec. (m) as (l) and struck out former subsec. (l) which related to Institute of Medicine study.
 
 **2012**—Subsec. (a)(1). Pub. L. 112–144, §509(b)(1)(A), inserted "for a drug" after "(or supplement to an application)" in introductory provisions.
 

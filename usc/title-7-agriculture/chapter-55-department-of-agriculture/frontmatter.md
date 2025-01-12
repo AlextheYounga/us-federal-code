@@ -10,6 +10,16 @@ Sec.
 
 2204. General duties of Secretary; advisory functions; research and development.
 
+2204–1. Delegation of regulatory functions of Secretary of Agriculture; definitions.
+
+2204–2. Delegation of regulatory functions to designated employees; status of employees; number; revocation of delegation.
+
+2204–3. Authority of designated employees; retroactive revocation of delegation.
+
+2204–4. Delegation of functions under other laws as unaffected.
+
+2204–5. Authorization of appropriations for cooperative research projects.
+
 2204a. Rural development; utilization of non-Federal offices; location of field units; interchange of personnel and facilities.
 
 2204b. Rural development policy.
@@ -41,6 +51,8 @@ Sec.
 2207a. Reports to Congress on obligation and expenditure.
 
 2207b. Program metrics.
+
+2207c. Annual report on work of agricultural experiment stations and of college extension work; publication and distribution.
 
 2208. Expenditure of appropriations; accounting.
 
@@ -81,6 +93,8 @@ Sec.
 2216. Repealed.
 
 2217. Oaths, affirmations, and affidavits taken by officers, agents, or employees of Department; use and effect.
+
+2217a. Power to administer oaths, examine witnesses, or require production of books, etc.
 
 2218. Fee for administering or taking oaths, affirmations, and affidavits.
 
@@ -150,6 +164,8 @@ Sec.
 
 2241a. Exchange or sale authority.
 
+2241b. Purchase of seeds and plants for distribution.
+
 2242. Repealed.
 
 2242a. User fees for reports, publications, and software.
@@ -165,6 +181,8 @@ Sec.
 2246. Loan, rental, or sale of films.
 
 2247. Sale of samples of pure sugars.
+
+2247a. Farm or food products; sale of samples, practical forms, etc.
 
 2248. Statistics relating to turpentine and rosin.
 
@@ -222,6 +240,8 @@ Sec.
 
 2268. Public lands; relinquishment.
 
+2268a. Acquisition of land; options.
+
 2269. Gifts of property; acceptance and administration by Secretary of Agriculture; Federal tax law consideration; separate fund in Treasury; regulations.
 
 2270. Authority of Office of Inspector General.
@@ -275,3 +295,5 @@ Sec.
 2279g. Marketing services; cooperative agreements.
 
 2279h. Cross-servicing activities of National Finance Center.
+
+2279i. Cooperation with State and other agencies; expenditures.

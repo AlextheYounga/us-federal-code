@@ -360,9 +360,9 @@ For the purpose of providing grants, cooperative agreements, and contracts under
 
 #### References in Text ####
 
-Section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016, referred to in subsecs. (d)(25), (l)(2), and (m)(7), is section 6021 of Pub. L. 114–255, div. B, title VI, Dec. 13, 2016, 130 Stat. 1215, which is set out as a note below.
+Section 6021 of the Helping Families in Mental Health Crisis Reform Act of 2016, referred to in subsecs. (d)(25), (l)(2), and (m)(7), is section 6021 of Pub. L. 114–255, which is set out as a note below.
 
-The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
+The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5.
 
 Section 6031 of the Helping Families in Mental Health Crisis Reform Act of 2016, referred to in subsec. (l)(2), is section 6031 of Pub. L. 114–255, div. B, title VI, Dec. 13, 2016, 130 Stat. 1217, which is not classified to the Code.
 
@@ -392,13 +392,9 @@ Subsec. (d)(6). Pub. L. 114–255, §6002(2)(D), substituted "the Centers for Di
 
 Subsec. (d)(7). Pub. L. 114–255, §6002(2)(E), substituted "use disorders, including services that utilize drugs or devices approved or cleared by the Food and Drug Administration for the treatment of substance use disorders" for "abuse utilizing anti-addiction medications, including methadone".
 
-Subsec. (d)(8). Pub. L. 114–255, §6002(2)(F)(ii), substituted "prevention and treatment" for "treatment and prevention".
+Subsec. (d)(8). Pub. L. 114–255, §6002(2)(F), substituted "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy Research" and "prevention and treatment" for "treatment and prevention".
 
-Pub. L. 114–255, §6002(2)(F)(i), which directed the substitution of "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy Research", required no change in text subsequent to Pub. L. 106–129. See 1999 Amendment note below.
-
-Subsec. (d)(9). Pub. L. 114–255, §6002(2)(G)(i), (iii), inserted "and maintenance" after "development" and substituted "prevention, treatment, and recovery support services and are appropriately incorporated into programs carried out by the Administration" for "treatment and prevention services".
-
-Pub. L. 114–255, §6002(2)(G)(ii), which directed the substitution of "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy Research", required no change in text subsequent to Pub. L. 106–129. See 1999 Amendment note below.
+Subsec. (d)(9). Pub. L. 114–255, §6002(2)(G), inserted "and maintenance" after "development" and substituted "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy Research and "prevention, treatment, and recovery support services and are appropriately incorporated into programs carried out by the Administration" for "treatment and prevention services".
 
 Subsec. (d)(10). Pub. L. 114–255, §6002(2)(H), substituted "use disorder" for "abuse".
 
@@ -410,7 +406,7 @@ Subsec. (d)(13)(A) to (D). Pub. L. 114–255, §6002(2)(J)(ii)–(vi), added sub
 
 Subsec. (d)(16). Pub. L. 114–255, §6002(2)(K), substituted "use disorder information, including evidence-based and promising best practices for prevention, treatment, and recovery support services for individuals with mental and substance use disorders," for "abuse and mental health information".
 
-Subsec. (d)(17) to (25). Pub. L. 114–255, §6002(2)(L)–(N), substituted "substance use disorder" for "substance abuse" in par. (17) and added pars. (19) to (25).
+Subsec. (d)(17), (19) to (25). Pub. L. 114–255, §6002(2)(L)–(N), substituted "substance use disorder" for "substance abuse" in par. (17) and added pars. (19) to (25).
 
 Subsec. (e)(1). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary may delegate" for "Administrator may delegate".
 
@@ -424,7 +420,9 @@ Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administ
 
 Subsec. (f)(1). Pub. L. 114–255, §6001(c)(2), substituted "The Assistant Secretary," for "The Administrator," and "the Assistant Secretary" for "the Administrator".
 
-Subsec. (f)(2)(C). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator" in introductory provisions and in cl. (ii).
+Subsec. (f)(2)(C). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator" in introductory provisions.
+
+Subsec. (f)(2)(C)(ii). Pub. L. 114–255, §6001(c)(2), substituted "Assistant Secretary" for "Administrator".
 
 Subsec. (f)(2)(C)(iii). Pub. L. 114–255, §6003(3), substituted "subsection (m)" for "subsection (k)" in introductory provisions.
 
@@ -472,7 +470,7 @@ Subsec. (f)(4), (5). Pub. L. 111–148, §3509(d)(2), (3), added par. (4) and re
 
 Subsecs. (m) to (o). Pub. L. 106–310, §3102, added subsecs. (m) and (n), redesignated former subsec. (m) as (o), and substituted "2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003" for "1993, and such sums as may be necessary for fiscal year 1994" before period at end.
 
-**1999**—Subsec. (d)(8), (9). Pub. L. 106–129, which directed the substitution of "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy and Research", was executed by making the substitution for "Agency for Health Care Policy Research", to reflect the probable intent of Congress.
+**1999**—Subsec. (d)(8), (9). Pub. L. 106–129, which directed the substitution of "Agency for Healthcare Research and Quality" for "Agency for Health Care Policy and Research", was not executed because the term "Agency for Health Care Policy and Research" did not appear in text and because of the amendment by Pub. L. 114–255, §6002(2)(G)(ii), which presumed that the substitution did not take place. See 2016 Amendment note above.
 
 **1996**—Subsec. (g)(2)(A). Pub. L. 104–201 substituted "5724a(a), 5724a(c)" for "5724a(a)(1), 5724a(a)(3)".
 

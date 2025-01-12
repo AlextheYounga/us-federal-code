@@ -631,7 +631,7 @@ Pub. L. 101–624, title I, §104, Nov. 28, 1990, 104 Stat. 3379, required the S
 
 #### Status of Producer Handlers ####
 
-Pub. L. 101–624, title I, §115, Nov. 28, 1990, 104 Stat. 3381, provided that: "The legal status of producer handlers of milk under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, shall be the same after the amendments made by this title [enacting section 1446e of this title and amending this section and sections 450l and 1446a of this title, section 713a–14 of Title 15, Commerce and Trade, and provisions set out as notes under this section and section 1731 of this title] take effect as it was before the effective date of the amendments [see Effective Date of 1990 Amendment note set out under section 1421 of this title]."
+Pub. L. 101–624, title I, §115, Nov. 28, 1990, 104 Stat. 3381, provided that: "The legal status of producer handlers of milk under the Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, shall be the same after the amendments made by this title [enacting section 1446e of this title and amending this section and sections 1446a and 4553 of this title, section 713a–14 of Title 15, Commerce and Trade, and provisions set out as notes under this section and section 1731 of this title] take effect as it was before the effective date of the amendments [see Effective Date of 1990 Amendment note set out under section 1421 of this title]."
 
 #### Multiple Component Pricing Study ####
 
@@ -667,7 +667,7 @@ Pub. L. 95–113, title II, §202, Sept. 29, 1977, 91 Stat. 919, provided that: 
 
 #### Retention of Status of Producer Handlers of Milk at Pre-1973 Amendment Status ####
 
-Pub. L. 91–524, title II, §206, as added by Pub. L. 93–86, §1(6), Aug. 10, 1973, 87 Stat. 224; amended Pub. L. 93–125, §1(a)(iii), Oct. 18, 1973, 87 Stat. 450, provided that: "The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act, as reenacted and amended by the Agricultural Marketing Agreement Act of 1937, as amended, shall be the same subsequent to the adoption of the amendments made by the Agriculture and Consumer Protection Act of 1973 [Pub. L. 93–86, amending this section and sections 450l, 1446, and 1446a of this title] as it was prior thereto."
+Pub. L. 91–524, title II, §206, as added by Pub. L. 93–86, §1(6), Aug. 10, 1973, 87 Stat. 224; amended Pub. L. 93–125, §1(a)(iii), Oct. 18, 1973, 87 Stat. 450, provided that: "The legal status of producer handlers of milk under the provisions of the Agricultural Adjustment Act, as reenacted and amended by the Agricultural Marketing Agreement Act of 1937, as amended, shall be the same subsequent to the adoption of the amendments made by the Agriculture and Consumer Protection Act of 1973 [Pub. L. 93–86, amending this section and sections 1446, 1446a, and 4553 of this title] as it was prior thereto."
 
 #### Retention of Status of Producer Handlers of Milk at Pre-1970 Amendment Status ####
 

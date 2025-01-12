@@ -44,6 +44,20 @@ Sec.
 
 667e. Repealed.
 
+667f. Availability of grain to prevent waterfowl depredations; payment of packaging, transporting, handling, and other charges.
+
+667f–1. Requisition of grain to prevent crop depredation by migratory waterfowl.
+
+667f–2. Reimbursement of packaging and transporting expenses.
+
+667f–3. Authorization of appropriations for mitigating losses caused by waterfowl depredation.
+
+667g. Requisition of surplus grain; prevention of starvation of resident game birds and other resident wildlife; utilization by State agencies; reimbursement for packaging and transporting.
+
+667g–1. Requisition and use of grain for prevention of starvation of migratory birds; reimbursement for packaging and transporting.
+
+667g–2. Authorization of appropriations for reimbursement of Commodity Credit Corporation.
+
 #### SUBCHAPTER II—PROTECTION OF BALD AND GOLDEN EAGLES ####
 
 668. Bald and golden eagles.

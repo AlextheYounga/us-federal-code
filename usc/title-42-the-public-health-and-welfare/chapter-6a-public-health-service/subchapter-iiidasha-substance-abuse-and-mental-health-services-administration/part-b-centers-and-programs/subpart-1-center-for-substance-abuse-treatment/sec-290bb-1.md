@@ -300,15 +300,11 @@ Subsec. (d)(3)(A). Pub. L. 114–198, §501(a)(4)(A), substituted "a maternal su
 
 Subsec. (d)(4). Pub. L. 114–198, §501(a)(4)(B), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Providing supervision of children during periods in which the woman is engaged in therapy or in other necessary health or rehabilitative activities."
 
-Subsec. (d)(9). Pub. L. 114–198, §501(a)(4)(D), substituted "unit" for "units".
-
-Pub. L. 114–198, §501(a)(4)(C), substituted "woman" for "women" in two places.
+Subsec. (d)(9). Pub. L. 114–198, §501(a)(4)(C), (D), substituted "unit" for "units" and "woman" for "women" in two places.
 
 Subsec. (d)(10). Pub. L. 114–198, §501(a)(4)(C), substituted "woman" for "women" in two places.
 
-Subsec. (d)(11)(A). Pub. L. 114–198, §501(a)(4)(E)(i), substituted "any child of such woman" for "their children".
-
-Pub. L. 114–198, §501(a)(4)(C), substituted "the woman" for "the women".
+Subsec. (d)(11)(A). Pub. L. 114–198, §501(a)(4)(C), (E)(i), substituted "the woman" for "the women" and "any child of such woman" for "their children".
 
 Subsec. (d)(11)(D). Pub. L. 114–198, §501(a)(4)(E)(ii)–(iv), added subpar. (D).
 
@@ -338,9 +334,7 @@ Subsec. (r). Pub. L. 114–198, §501(c)(1)(B), added subsec. (r). Former subsec
 
 Pub. L. 114–198, §501(b)(2), substituted "$16,900,000 for each of fiscal years 2017 through 2021" for "such sums as may be necessary to fiscal years 2001 through 2003".
 
-Subsec. (s). Pub. L. 114–198, §501(c)(2), inserted at end "Of the amounts made available for a year pursuant to the previous sentence to carry out this section, not more than 25 percent of such amounts shall be made available for such year to carry out subsection (r), other than paragraph (5) of such subsection. Notwithstanding the preceding sentence, no funds shall be made available to carry out subsection (r) for a fiscal year unless the amount made available to carry out this section for such fiscal year is more than the amount made available to carry out this section for fiscal year 2016."
-
-Pub. L. 114–198, §501(c)(1)(A), redesignated subsec. (r) as (s).
+Subsec. (s). Pub. L. 114–198, §501(c)(1)(A), (2), redesignated subsec. (r) as (s) and inserted at end "Of the amounts made available for a year pursuant to the previous sentence to carry out this section, not more than 25 percent of such amounts shall be made available for such year to carry out subsection (r), other than paragraph (5) of such subsection. Notwithstanding the preceding sentence, no funds shall be made available to carry out subsection (r) for a fiscal year unless the amount made available to carry out this section for such fiscal year is more than the amount made available to carry out this section for fiscal year 2016."
 
 **2000**—Subsec. (r). Pub. L. 106–310 reenacted heading without change and amended text generally, substituting provisions authorizing appropriations for fiscal years 2001 to 2003 for provisions authorizing appropriations for fiscal years 1993 and 1994 and authorizing appropriations from the special forfeiture fund of the Director of the Office of National Drug Control Policy.
 

@@ -20,6 +20,6 @@ Sec.
 
 6909. Exclusive Economic Zone notification.
 
-6909a. .United States conservation, management, and enforcement objectives.
+6909a. United States conservation, management, and enforcement objectives.
 
 6910. Authorization of appropriations.

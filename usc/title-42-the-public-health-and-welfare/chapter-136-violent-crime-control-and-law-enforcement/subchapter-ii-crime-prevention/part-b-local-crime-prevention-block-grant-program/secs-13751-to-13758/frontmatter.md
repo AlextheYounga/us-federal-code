@@ -184,7 +184,7 @@ Pub. L. 106–367, Oct. 27, 2000, 114 Stat. 1412, as amended by Pub. L. 109–24
 
 "(1) Assistant attorney general.—The term 'Assistant Attorney General' means the Assistant Attorney General for the Office of Justice Programs of the Department of Justice.
 
-"(2) Distressed area.—The term 'distressed area' means an urban, suburban, or rural area with a high percentage of high-risk youth, as defined in section 509A of the Public Health Service Act (42 U.S.C. 290aa–8(f)) [now 42 U.S.C. 290bb–23(g)].
+"(2) Distressed area.—The term 'distressed area' means an urban, suburban, or rural area with a high percentage of high-risk youth, as defined in section 509A of the Public Health Service Act (42 U.S.C. 290aa–8(f)) [transferred to 42 U.S.C. 290bb–23(g) and repealed by Pub. L. 114–255, div. B, title IX, §9017, Dec. 13, 2016, 130 Stat. 1248].
 
 "(3) PAL chapter.—The term 'PAL chapter' means a chapter of a Police or Sheriff's Athletic/Activities League.
 

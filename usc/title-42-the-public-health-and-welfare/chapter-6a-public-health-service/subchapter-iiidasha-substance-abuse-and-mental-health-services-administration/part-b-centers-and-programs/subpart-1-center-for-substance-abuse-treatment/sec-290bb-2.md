@@ -62,7 +62,7 @@ A prior section 509 of act July 1, 1944, which was classified to section 290aa�
 
 #### Amendments ####
 
-**2016**—Subsec. (a). Pub. L. 114–255, §7004(1)(A), (C), substituted "use disorder" for "abuse" in introductory provisions and, in concluding provisions, inserted ", contracts," before "or cooperative agreements" and substituted "Indian tribes or tribal organizations (as such terms are defined in section 5304 of title 25), health facilities, or programs operated by or in accordance with a contract or grant with the Indian Health Service, or" for "Indian tribes and tribal organizations,".
+**2016**—Subsec. (a). Pub. L. 114–255, §7004(1)(A), (C), in introductory provisions, substituted "use disorder" for "abuse" and, in concluding provisions, inserted ", contracts," before "or cooperative agreements" and substituted "Indian tribes or tribal organizations (as such terms are defined in section 5304 of title 25), health facilities, or programs operated by or in accordance with a contract or grant with the Indian Health Service, or" for "Indian tribes and tribal organizations,".
 
 Subsec. (a)(3). Pub. L. 114–255, §7004(1)(B), inserted before period at end "that permit States, local governments, communities, and Indian tribes and tribal organizations (as the terms 'Indian tribes' and 'tribal organizations' are defined in section 5304 of title 25) to focus on emerging trends in substance abuse and co-occurrence of substance use disorders with mental illness or other conditions".
 

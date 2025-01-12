@@ -56,7 +56,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Development of Rapid HIV Test ####
 
-Pub. L. 106–345, title V, §502, Oct. 20, 2000, 114 Stat. 1353, provided that:
+Pub. L. 106–345, title V, §502, Oct. 20, 2000, 114 Stat. 1353, as amended by Pub. L. 114–255, div. A, title II, §2042(g), Dec. 13, 2016, 130 Stat. 1073, provided that:
 
 "(a) Expansion, Intensification, and Coordination of Research and Other Activities.—
 

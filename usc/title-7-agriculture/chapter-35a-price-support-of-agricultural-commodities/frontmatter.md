@@ -70,6 +70,10 @@ Sec.
 
 1435. Production of commodities for conversion into alcohol or hydrocarbons for use as motor fuels or other fuels; terms and conditions; determinations; payments, etc., for program.
 
+1436. Reimbursement of appropriations available for classing or grading agriculture commodities without charge.
+
+1436a. Transfer of nonadministrative funds of Commodity Credit Corporation for classing and grading purposes.
+
 #### SUBCHAPTER II—BASIC AGRICULTURAL COMMODITIES ####
 
 1441. Price support levels.

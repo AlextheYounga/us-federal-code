@@ -30,7 +30,7 @@ An entity, in submitting an application under paragraph (1), shall—
 
 An entity shall use a grant received under this section to—
 
-(1) make a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act [21 U.S.C. 301 et seq.] for emergency treatment of known or suspected opioid overdose available to be carried and administered by first responders and members of other key community sectors;
+(1) make a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected opioid overdose available to be carried and administered by first responders and members of other key community sectors;
 
 (2) train and provide resources for first responders and members of other key community sectors on carrying and administering a drug or device approved or cleared under the Federal Food, Drug, and Cosmetic Act for emergency treatment of known or suspected opioid overdose; and
 

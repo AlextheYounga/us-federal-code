@@ -1,21 +1,5 @@
-### §415e. Farm or food products; sale of samples, practical forms, etc. ###
+### §415e. Transferred ###
 
-The Secretary of Agriculture is authorized to sell samples, illustrations, practical forms, or sets of the grades recommended or promulgated by him for farm or food products, under such rules and regulations as he may prescribe, and the receipts therefrom shall be deposited in the Treasury to the credit of miscellaneous receipts.
+#### Codification ####
 
-(Sept. 21, 1944, ch. 412, title IV, §401(a), 58 Stat. 738.)
-
-#### Prior Provisions ####
-
-Provisions similar to those in this section were contained in the following Department of Agriculture appropriation acts:
-
-June 28, 1944, ch. 296, 58 Stat. 454.
-
-July 12, 1943, ch. 215, 57 Stat. 421.
-
-July 22, 1942, ch. 516, 56 Stat. 688.
-
-July 1, 1941, ch. 267, 55 Stat. 431.
-
-June 25, 1940, ch. 421, 54 Stat. 555.
-
-June 30, 1939, ch. 253, title I, 53 Stat. 968.
+Section 415e was editorially reclassified as section 2247a of this title.

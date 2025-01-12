@@ -138,9 +138,7 @@ Subsec. (f)(2). Pub. L. 114–255, §9031(7), substituted "health and substance 
 
 Subsec. (h). Pub. L. 114–255, §9031(9), added subsec. (h). Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 114–255, §9031(10), substituted "$7,000,000 for each of fiscal years 2018 through 2022." for "$5,000,000 for fiscal year 2005, $5,000,000 for fiscal year 2006, and $5,000,000 for fiscal year 2007."
-
-Pub. L. 114–255, §9031(8), redesignated subsec. (h) as (i).
+Subsec. (i). Pub. L. 114–255, §9031(8), (10), redesignated subsec. (h) as (i) and substituted "$7,000,000 for each of fiscal years 2018 through 2022." for "$5,000,000 for fiscal year 2005, $5,000,000 for fiscal year 2006, and $5,000,000 for fiscal year 2007."
 
 #### Interagency Working Group on College Mental Health ####
 

@@ -49,3 +49,11 @@ Sec.
 4537. Termination of order, Institute, and Fund.
 
 4538. Additional authority.
+
+#### SUBCHAPTER III—INDEMNITY PAYMENTS TO DAIRY FARMERS ####
+
+4551. Indemnity payments to dairy farmers and manufacturers of dairy products; milk removed for its residue of chemical or toxic substances; nuclear radiation or fallout contaminants; other legal recourse.
+
+4552. Authorization of appropriations for dairy farmer indemnities.
+
+4553. Expiration of dairy farmer indemnity program.
