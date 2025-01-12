@@ -122,13 +122,13 @@ Sec.
 
 2271. Petitions.
 
-2272. Group eligibility requirements; agricultural workers; oil and natural gas industry.
+2272. Group eligibility requirements.
 
 2273. Determinations by Secretary of Labor.
 
-2274. Study and notifications regarding certain affirmative determinations; industry notification of assistance.
+2274. Study by Secretary of Labor when International Trade Commission begins investigation.
 
-2275. Benefit information for workers.
+2275. Benefit information to workers.
 
 #### subpart b—program benefits ####
 
@@ -136,7 +136,7 @@ Sec.
 
 2291. Qualifying requirements for workers.
 
-2292. Weekly amounts of readjustment allowance.
+2292. Weekly amounts.
 
 2293. Limitations on trade readjustment allowances.
 
@@ -144,9 +144,9 @@ Sec.
 
 #### Division II—Training, Other Employment Services, and Allowances ####
 
-2295. Employment and case management services.
+2295. Employment services.
 
-2295a. Limitations on administrative expenses and employment and case management services.
+2295a. Omitted.
 
 2296. Training.
 
@@ -170,17 +170,17 @@ Sec.
 
 2317. Authorization of appropriations.
 
-2318. Reemployment trade adjustment assistance program.
+2318. Demonstration project for alternative trade adjustment assistance for older workers.
 
 2319. Definitions.
 
 2320. Regulations.
 
-2321. Subpoena power.
+2321. Subpena power.
 
-2322. Office of Trade Adjustment Assistance.
+2322. Repealed.
 
-2323. Collection and publication of data and reports; information to workers.
+2323. Omitted.
 
 #### subpart d—nafta transitional adjustment assistance program ####
 
@@ -194,13 +194,15 @@ Sec.
 
 2343. Technical assistance.
 
-2344. Oversight and administration.
+2344. Financial assistance.
 
-2345. Authorization of appropriations.
+2345. Conditions for financial assistance
 
-2345a. Annual report on trade adjustment assistance for firms.
+2345a. Omitted.
 
-2346, 2347. Repealed.
+2346. Delegation of functions to Small Business Administration; authorization of appropriations.
+
+2347. Administration of financial assistance.
 
 2348. Protective provisions.
 
@@ -208,15 +210,15 @@ Sec.
 
 2350. Civil actions.
 
-2351. "Firm" defined.
+2351. Definitions.
 
 2352. Regulations.
 
 2353. Repealed.
 
-2354. Study by Secretary of Commerce when International Trade Commission begins investigation.
+2354. Study by Secretary of Commerce when International Trade Commission begins investigation; action where there is affirmative finding.
 
-2355. Assistance to industry; authorization of appropriations.
+2355. Assistance to industries.
 
 2356. Repealed.
 
@@ -238,15 +240,13 @@ Sec.
 
 2392. Adjustment Assistance Coordinating Committee.
 
-2393. Trade monitoring and data collection.
+2393. Trade monitoring system.
 
 2394. Firms relocating in foreign countries.
 
 2395. Judicial review.
 
-2396, 2397. Omitted.
-
-2397a. Sense of Congress.
+2396 to 2397a. Omitted.
 
 #### Part 6—Adjustment Assistance for Farmers ####
 
@@ -260,7 +260,7 @@ Sec.
 
 2401d. Benefit information to agricultural commodity producers.
 
-2401e. Qualifying requirements and benefits for agricultural commodity producers.
+2401e. Qualifying requirements for agricultural commodity producers.
 
 2401f. Fraud and recovery of overpayments.
 

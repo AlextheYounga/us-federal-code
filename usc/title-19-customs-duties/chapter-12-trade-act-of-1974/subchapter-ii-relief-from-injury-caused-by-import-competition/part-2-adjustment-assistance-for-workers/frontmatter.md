@@ -164,37 +164,29 @@ Pub. L. 93–618, title II, ch. 5, §285, formerly §284, Jan. 3, 1975, 88 Stat.
 
 "(a) Assistance for Workers.—
 
-"(1) In general.—Except as provided in paragraph (2), trade adjustment assistance, vouchers, allowances, and other payments or benefits may not be provided under chapter 2 [this part] after June 30, 2021.
+"(1) In general.—Except as provided in paragraph (2), trade adjustment assistance, vouchers, allowances, and other payments or benefits may not be provided under chapter 2 [this part] after December 31, 2007.
 
-"(2) Exception.—Notwithstanding paragraph (1), a worker shall continue to receive trade adjustment assistance benefits and other benefits under chapter 2 for any week for which the worker meets the eligibility requirements of that chapter if the worker is—
+"(2) Exception.—Notwithstanding paragraph (1), a worker shall continue to receive trade adjustment assistance benefits and other benefits under chapter 2 for any week for which the worker meets the eligibility requirements of that chapter, if on or before December 31, 2007, the worker is—
 
-"(A) certified as eligible for trade adjustment assistance benefits under chapter 2 of this title [this part] pursuant to a petition filed under section 221 [19 U.S.C. 2271] before June 30, 2021; and
+"(A) certified as eligible for trade adjustment assistance benefits under chapter 2 of this title [this part]; and
 
 "(B) otherwise eligible to receive trade adjustment assistance benefits under chapter 2.
 
 "(b) Other Assistance.—
 
-"(1) Assistance for firms.—
+"(1) Assistance for firms.—Technical assistance may not be provided under chapter 3 [part 3 of this subchapter] after December 31, 2007.
 
-"(A) In general.—Except as provided in subparagraph (B), technical assistance and grants may not be provided under chapter 3 [part 3 of this subchapter] after June 30, 2021.
+"(2) Assistance for farmers.—
 
-"(B) Exception.—Notwithstanding subparagraph (A), any technical assistance or grant approved under chapter 3 pursuant to a petition filed under section 251 [19 U.S.C. 2341] on or before June 30, 2021, may be provided—
+"(A) In general.—Except as provided in subparagraph (B), adjustment assistance, vouchers, allowances, and other payments or benefits may not be provided under chapter 6 [part 6 of this subchapter] after December 31, 2007.
 
-"(i) to the extent funds are available pursuant to such chapter for such purpose; and
+"(B) Exception.—Notwithstanding subparagraph (A), an agricultural commodity producer (as defined in section 291(2) [19 U.S.C. 2401(2)]) shall continue to receive adjustment assistance benefits and other benefits under chapter 6, for any week for which the agricultural commodity producer meets the eligibility requirements of chapter 6, if on or before December 31, 2007, the agricultural commodity producer is—
 
-"(ii) to the extent the recipient of the technical assistance or grant is otherwise eligible to receive such technical assistance or grant, as the case may be.
+"(i) certified as eligible for adjustment assistance benefits under chapter 6; and
 
-"(2) Farmers.—
+"(ii) is [sic] otherwise eligible to receive adjustment assistance benefits under such chapter 6."
 
-"(A) In general.—Except as provided in subparagraph (B), technical assistance and financial assistance may not be provided under chapter 6 [part 6 of this subchapter] after June 30, 2021.
-
-"(B) Exception.—Notwithstanding subparagraph (A), any technical or financial assistance approved under chapter 6 pursuant to a petition filed under section 292 [19 U.S.C. 2401a] on or before June 30, 2021, may be provided—
-
-"(i) to the extent funds are available pursuant to such chapter for such purpose; and
-
-"(ii) to the extent the recipient of the technical or financial assistance is otherwise eligible to receive such technical or financial assistance, as the case may be."
-
-[Pub. L. 114–27, title IV, §406(a), June 29, 2015, 129 Stat. 379, provided that, beginning July 1, 2021, subject to section 406(b), set out as an Effective and Termination Dates of 2015 Revival note above, section 285 of Pub. L. 93–618, set out above, as in effect on Jan. 1, 2014, shall be applied and administered—
+[Pub. L. 114–27, title IV, §406(a)(7), June 29, 2015, 129 Stat. 379, provided that, beginning July 1, 2021, subject to section 406(b), set out in an Effective and Termination Dates of 2015 Revival note above, section 285 of Pub. L. 93–618, set out above, as in effect on Jan. 1, 2014, shall be applied and administered—
 
 [(1) in subsec. (a), by substituting "June 30, 2022" for "December 31, 2007" wherever appearing; and
 
